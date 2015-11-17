@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9826
+artist_familiarity: 0.72914944068
+artist_hotttnesss: 0.522277897419
+artist_id: AR8ZQ9T1187FB56FE5
+artist_latitude: nan
+artist_location: Miami, Florida
+artist_longitude: nan
+artist_mbid: ea38b4ff-86f2-4672-ac62-77a43ebc7a72
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Goldfinger
+artist_playmeid: 2254
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 28efbed170f2d987290fa85bbb048ed6
+bars_confidence: shape = (97,)
+bars_start: shape = (97,)
+beats_confidence: shape = (391,)
+beats_start: shape = (391,)
+danceability: 0.0
+duration: 128.49587
+end_of_fade_in: 0.461
+energy: 0.0
+key: 7
+key_confidence: 0.394
+loudness: -4.625
+mode: 1
+mode_confidence: 0.514
+release: Stomping Ground
+release_7digitalid: 300031
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (471,)
+segments_loudness_max: shape = (471,)
+segments_loudness_max_time: shape = (471,)
+segments_loudness_start: shape = (471,)
+segments_pitches: shape = (471, 12)
+segments_start: shape = (471,)
+segments_timbre: shape = (471, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.604788515719
+song_id: SOHJYGD12A8C13CF7F
+start_of_fade_out: 128.496
+tatums_confidence: shape = (782,)
+tatums_start: shape = (782,)
+tempo: 185.409
+time_signature: 4
+time_signature_confidence: 0.225
+title: I'm Down
+track_7digitalid: 3367554
+track_id: TRAGBHV128F4295074
+year: 0

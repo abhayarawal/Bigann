@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 357133
+artist_familiarity: 0.58948340591
+artist_hotttnesss: 0.376745428989
+artist_id: AR0ZBRM1187FB54F5E
+artist_latitude: nan
+artist_location: Toronto
+artist_longitude: nan
+artist_mbid: 6994a851-dbff-497b-bd95-5902f9d10d2d
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Dala
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: e40c8ae47cba70c08ecf33b6cbfcd540
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (475,)
+beats_start: shape = (475,)
+danceability: 0.0
+duration: 240.27383
+end_of_fade_in: 0.334
+energy: 0.0
+key: 9
+key_confidence: 0.366
+loudness: -7.397
+mode: 1
+mode_confidence: 0.522
+release: Everybody is Someone
+release_7digitalid: 602256
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (682,)
+segments_loudness_max: shape = (682,)
+segments_loudness_max_time: shape = (682,)
+segments_loudness_start: shape = (682,)
+segments_pitches: shape = (682, 12)
+segments_start: shape = (682,)
+segments_timbre: shape = (682, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.610457374975
+song_id: SODBKLI12AB01846B6
+start_of_fade_out: 233.68
+tatums_confidence: shape = (951,)
+tatums_start: shape = (951,)
+tempo: 121.967
+time_signature: 4
+time_signature_confidence: 0.919
+title: Alive
+track_7digitalid: 6686851
+track_id: TRAWIVY12903CF4A87
+year: 2009

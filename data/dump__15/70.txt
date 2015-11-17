@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15260
+artist_familiarity: 0.84560188664
+artist_hotttnesss: 1.00594196595
+artist_id: ARTDQRC1187FB4EFD4
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: d5be5333-4171-427e-8e12-732087c6b78e
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Black Eyed Peas / Les Nubians / Mos Def
+artist_playmeid: 21628
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 49eb2c31c3fa88f0cf7b838a130fbbf6
+bars_confidence: shape = (92,)
+bars_start: shape = (92,)
+beats_confidence: shape = (373,)
+beats_start: shape = (373,)
+danceability: 0.0
+duration: 235.10159
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.748
+loudness: -6.618
+mode: 1
+mode_confidence: 0.617
+release: Bridging The Gap
+release_7digitalid: 13919
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1009,)
+segments_loudness_max: shape = (1009,)
+segments_loudness_max_time: shape = (1009,)
+segments_loudness_start: shape = (1009,)
+segments_pitches: shape = (1009, 12)
+segments_start: shape = (1009,)
+segments_timbre: shape = (1009, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQOXXW12AF729F20B
+start_of_fade_out: 211.574
+tatums_confidence: shape = (746,)
+tatums_start: shape = (746,)
+tempo: 94.993
+time_signature: 4
+time_signature_confidence: 0.684
+title: On My Own
+track_7digitalid: 144530
+track_id: TRAFJIW128E078E1DE
+year: 2000

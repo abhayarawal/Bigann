@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5136
+artist_familiarity: 0.663231984801
+artist_hotttnesss: 0.493711076643
+artist_id: AR26X1C1187B9B0A1B
+artist_latitude: nan
+artist_location: Friars Point, MS
+artist_longitude: nan
+artist_mbid: a3c60d26-90d6-4788-ba9b-a89693fc396d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Conway Twitty
+artist_playmeid: 2998
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 6f1ee21126cee05332a6995c0fb2eb9e
+bars_confidence: shape = (223,)
+bars_start: shape = (223,)
+beats_confidence: shape = (223,)
+beats_start: shape = (223,)
+danceability: 0.0
+duration: 157.12608
+end_of_fade_in: 0.306
+energy: 0.0
+key: 9
+key_confidence: 0.426
+loudness: -14.626
+mode: 1
+mode_confidence: 0.414
+release: The Road That I Walk
+release_7digitalid: 14880
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (519,)
+segments_loudness_max: shape = (519,)
+segments_loudness_max_time: shape = (519,)
+segments_loudness_start: shape = (519,)
+segments_pitches: shape = (519, 12)
+segments_start: shape = (519,)
+segments_timbre: shape = (519, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.229144103717
+song_id: SOBSEPQ12A6701FD9E
+start_of_fade_out: 148.399
+tatums_confidence: shape = (445,)
+tatums_start: shape = (445,)
+tempo: 89.71
+time_signature: 1
+time_signature_confidence: 0.811
+title: Sitting In A Dim Café
+track_7digitalid: 155528
+track_id: TRAOXWF128E0790985
+year: 0

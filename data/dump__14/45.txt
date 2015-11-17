@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 309201
+artist_familiarity: 0.475430773936
+artist_hotttnesss: 0.305579278352
+artist_id: ARABS971187B9A8509
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 550b5eea-4202-4037-9fae-66fc7ae77340
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: France D'Amour
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 74e4fbd02cb41aea6b36c91a6c237438
+bars_confidence: shape = (129,)
+bars_start: shape = (129,)
+beats_confidence: shape = (390,)
+beats_start: shape = (390,)
+danceability: 0.0
+duration: 226.06322
+end_of_fade_in: 3.64
+energy: 0.0
+key: 0
+key_confidence: 0.591
+loudness: -8.26
+mode: 0
+mode_confidence: 0.609
+release: Les autres
+release_7digitalid: 430799
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (611,)
+segments_loudness_max: shape = (611,)
+segments_loudness_max_time: shape = (611,)
+segments_loudness_start: shape = (611,)
+segments_pitches: shape = (611, 12)
+segments_start: shape = (611,)
+segments_timbre: shape = (611, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQTUQJ12A8C144F36
+start_of_fade_out: 221.234
+tatums_confidence: shape = (780,)
+tatums_start: shape = (780,)
+tempo: 103.427
+time_signature: 3
+time_signature_confidence: 1.0
+title: Ma soeur
+track_7digitalid: 4807201
+track_id: TRAEVME128F92DF956
+year: 0

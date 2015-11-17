@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13447
+artist_familiarity: 0.686988954629
+artist_hotttnesss: 0.606630151729
+artist_id: ARX9YIP1187B98A656
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5ecc3f72-20a6-47a0-8dc5-fb0b3dadeea0
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: RUN-DMC
+artist_playmeid: 1373
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 638c9329e5a21d8ed9866555aa290752
+bars_confidence: shape = (91,)
+bars_start: shape = (91,)
+beats_confidence: shape = (369,)
+beats_start: shape = (369,)
+danceability: 0.0
+duration: 216.65914
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.142
+loudness: -12.274
+mode: 0
+mode_confidence: 0.532
+release: Down With The King
+release_7digitalid: 295238
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1044,)
+segments_loudness_max: shape = (1044,)
+segments_loudness_max_time: shape = (1044,)
+segments_loudness_start: shape = (1044,)
+segments_pitches: shape = (1044, 12)
+segments_start: shape = (1044,)
+segments_timbre: shape = (1044, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.471578247701
+song_id: SOUNTXT12A8C138FC2
+start_of_fade_out: 205.74
+tatums_confidence: shape = (737,)
+tatums_start: shape = (737,)
+tempo: 102.176
+time_signature: 4
+time_signature_confidence: 0.783
+title: Can I Get A Witness
+track_7digitalid: 3312807
+track_id: TRAMBLO128F4287D24
+year: 1993

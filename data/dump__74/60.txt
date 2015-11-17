@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 49555
+artist_familiarity: 0.594832623751
+artist_hotttnesss: 0.378649978962
+artist_id: AR9YV621187B99373E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bced6266-4c23-4806-8e3d-165eac0ad494
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Marco Beltrami
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: c4b0b07f5d80f93b208df3aac2fa809c
+bars_confidence: shape = (81,)
+bars_start: shape = (81,)
+beats_confidence: shape = (334,)
+beats_start: shape = (334,)
+danceability: 0.0
+duration: 160.78322
+end_of_fade_in: 2.99
+energy: 0.0
+key: 5
+key_confidence: 0.0
+loudness: -19.306
+mode: 1
+mode_confidence: 0.389
+release: Flight Of The Phoenix
+release_7digitalid: 64169
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (379,)
+segments_loudness_max: shape = (379,)
+segments_loudness_max_time: shape = (379,)
+segments_loudness_start: shape = (379,)
+segments_pitches: shape = (379, 12)
+segments_start: shape = (379,)
+segments_timbre: shape = (379, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORSTYX12A6D4FB4FB
+start_of_fade_out: 153.722
+tatums_confidence: shape = (668,)
+tatums_start: shape = (668,)
+tempo: 120.484
+time_signature: 4
+time_signature_confidence: 0.099
+title: Franks Plea
+track_7digitalid: 665324
+track_id: TRAZMAV128F14AD215
+year: 2004

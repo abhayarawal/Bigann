@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7846
+artist_familiarity: 0.449060608837
+artist_hotttnesss: 0.176766901444
+artist_id: AROPZYT11F4C83EFFA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: J.C. Lodge
+artist_playmeid: 36832
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: f2e74af89e7d011ccb3b2467dea310c6
+bars_confidence: shape = (179,)
+bars_start: shape = (179,)
+beats_confidence: shape = (722,)
+beats_start: shape = (722,)
+danceability: 0.0
+duration: 286.6673
+end_of_fade_in: 0.179
+energy: 0.0
+key: 0
+key_confidence: 0.532
+loudness: -13.06
+mode: 1
+mode_confidence: 0.571
+release: Love For All Seasons
+release_7digitalid: 175378
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1308,)
+segments_loudness_max: shape = (1308,)
+segments_loudness_max_time: shape = (1308,)
+segments_loudness_start: shape = (1308,)
+segments_pitches: shape = (1308, 12)
+segments_start: shape = (1308,)
+segments_timbre: shape = (1308, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFRPPE12A6D4FAB3E
+start_of_fade_out: 283.568
+tatums_confidence: shape = (1444,)
+tatums_start: shape = (1444,)
+tempo: 152.516
+time_signature: 4
+time_signature_confidence: 0.0
+title: Dub It
+track_7digitalid: 1885356
+track_id: TRAJRMO128F421FA6F
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3950
+artist_familiarity: 0.63642364495
+artist_hotttnesss: 0.44793548048
+artist_id: ARD842G1187B997376
+artist_latitude: 43.64856
+artist_location: Toronto, Ontario, Canada
+artist_longitude: -79.38533
+artist_mbid: 6b52e1be-f27a-433c-b51a-3f2d63abc2ba
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Blue Rodeo
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: b2561c848c67cc8446b1433c6939addd
+bars_confidence: shape = (246,)
+bars_start: shape = (246,)
+beats_confidence: shape = (990,)
+beats_start: shape = (990,)
+danceability: 0.0
+duration: 491.12771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 1.0
+loudness: -8.576
+mode: 1
+mode_confidence: 0.829
+release: Outskirts
+release_7digitalid: 135122
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1628,)
+segments_loudness_max: shape = (1628,)
+segments_loudness_max_time: shape = (1628,)
+segments_loudness_start: shape = (1628,)
+segments_pitches: shape = (1628, 12)
+segments_start: shape = (1628,)
+segments_timbre: shape = (1628, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.405115721691
+song_id: SOHUOAP12A8AE488E9
+start_of_fade_out: 486.034
+tatums_confidence: shape = (1981,)
+tatums_start: shape = (1981,)
+tempo: 119.826
+time_signature: 4
+time_signature_confidence: 0.756
+title: Floating
+track_7digitalid: 1399936
+track_id: TRAABLR128F423B7E3
+year: 1987

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16212
+artist_familiarity: 0.547325146972
+artist_hotttnesss: 0.35970936327
+artist_id: ARBJI5N1187FB400D0
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 4d3279bc-b3de-45da-aa2c-2274ef08c6dd
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jay & The Americans
+artist_playmeid: 61956
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 9a7ce601dece78ccd031c34d9fd0b49b
+bars_confidence: shape = (66,)
+bars_start: shape = (66,)
+beats_confidence: shape = (270,)
+beats_start: shape = (270,)
+danceability: 0.0
+duration: 137.19465
+end_of_fade_in: 0.479
+energy: 0.0
+key: 5
+key_confidence: 0.786
+loudness: -11.737
+mode: 1
+mode_confidence: 0.769
+release: Come A Little Bit Closer
+release_7digitalid: 23951
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (360,)
+segments_loudness_max: shape = (360,)
+segments_loudness_max_time: shape = (360,)
+segments_loudness_start: shape = (360,)
+segments_pitches: shape = (360, 12)
+segments_start: shape = (360,)
+segments_timbre: shape = (360, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.62829679606
+song_id: SOGQRTH12A6D4F41A0
+start_of_fade_out: 131.866
+tatums_confidence: shape = (540,)
+tatums_start: shape = (540,)
+tempo: 119.441
+time_signature: 4
+time_signature_confidence: 0.564
+title: Some Enchanted Evening
+track_7digitalid: 250510
+track_id: TRAWOCY128F145B051
+year: 1988

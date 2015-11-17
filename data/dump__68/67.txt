@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5806
+artist_familiarity: 0.587818593339
+artist_hotttnesss: 0.343062991445
+artist_id: ARZ4F9B1187FB3C979
+artist_latitude: 52.88356
+artist_location: UK - England - South West
+artist_longitude: -1.97406
+artist_mbid: 2bf695b4-61b5-4999-b152-681f18e76f30
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Steve Porter
+artist_playmeid: -1
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 711836554f43d1473b0499af79aaf220
+bars_confidence: shape = (291,)
+bars_start: shape = (291,)
+beats_confidence: shape = (1169,)
+beats_start: shape = (1169,)
+danceability: 0.0
+duration: 509.33506
+end_of_fade_in: 0.461
+energy: 0.0
+key: 11
+key_confidence: 0.0
+loudness: -9.369
+mode: 0
+mode_confidence: 0.0
+release: Sensor
+release_7digitalid: 813587
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (2944,)
+segments_loudness_max: shape = (2944,)
+segments_loudness_max_time: shape = (2944,)
+segments_loudness_start: shape = (2944,)
+segments_pitches: shape = (2944, 12)
+segments_start: shape = (2944,)
+segments_timbre: shape = (2944, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOZDRYB12AB0188108
+start_of_fade_out: 497.615
+tatums_confidence: shape = (2337,)
+tatums_start: shape = (2337,)
+tempo: 139.044
+time_signature: 4
+time_signature_confidence: 0.547
+title: Mindless
+track_7digitalid: 8991370
+track_id: TRAXKVO12903CD735A
+year: 2000

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 158332
+artist_familiarity: 0.268210004648
+artist_hotttnesss: 0.262655890714
+artist_id: ARQSZLT124207825BA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Konstantinos Galanos
+artist_playmeid: 196823
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: c1f57468bae58e99dc8655073dded922
+bars_confidence: shape = (111,)
+bars_start: shape = (111,)
+beats_confidence: shape = (450,)
+beats_start: shape = (450,)
+danceability: 0.0
+duration: 219.71546
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.807
+loudness: -4.767
+mode: 0
+mode_confidence: 0.641
+release: Proti Epafi
+release_7digitalid: 209117
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (847,)
+segments_loudness_max: shape = (847,)
+segments_loudness_max_time: shape = (847,)
+segments_loudness_start: shape = (847,)
+segments_pitches: shape = (847, 12)
+segments_start: shape = (847,)
+segments_timbre: shape = (847, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTZWYD12A8C1392B7
+start_of_fade_out: 209.763
+tatums_confidence: shape = (900,)
+tatums_start: shape = (900,)
+tempo: 126.941
+time_signature: 4
+time_signature_confidence: 0.789
+title: De Tha Kano Piso
+track_7digitalid: 2265985
+track_id: TRBIAQT128F426B9E0
+year: 0

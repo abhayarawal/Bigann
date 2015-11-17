@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 201735
+artist_familiarity: 0.566532653818
+artist_hotttnesss: 0.272364626326
+artist_id: ARJXULI11F4C83C865
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bela Fleck And The Flecktones
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 258b5b1ac3157f1ea9328d9e16a043c9
+bars_confidence: shape = (345,)
+bars_start: shape = (345,)
+beats_confidence: shape = (1381,)
+beats_start: shape = (1381,)
+danceability: 0.0
+duration: 368.53506
+end_of_fade_in: 8.922
+energy: 0.0
+key: 5
+key_confidence: 0.542
+loudness: -20.335
+mode: 1
+mode_confidence: 0.471
+release: Bela Fleck and the Flecktones
+release_7digitalid: 615129
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (1576,)
+segments_loudness_max: shape = (1576,)
+segments_loudness_max_time: shape = (1576,)
+segments_loudness_start: shape = (1576,)
+segments_pitches: shape = (1576, 12)
+segments_start: shape = (1576,)
+segments_timbre: shape = (1576, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPQUHV12A8C143FB2
+start_of_fade_out: 344.126
+tatums_confidence: shape = (2763,)
+tatums_start: shape = (2763,)
+tempo: 227.48
+time_signature: 4
+time_signature_confidence: 0.422
+title: Frontiers (LP Version)
+track_7digitalid: 6838442
+track_id: TRAHUYG128F92FE8DB
+year: 0

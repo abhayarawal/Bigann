@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1641
+artist_familiarity: 0.712675251311
+artist_hotttnesss: 0.563362693588
+artist_id: ARHTHC01187B9B6D2A
+artist_latitude: nan
+artist_location: St. Louis, MO
+artist_longitude: nan
+artist_mbid: f197a6e3-dc1a-4332-b9f6-fbf74eece637
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Michael McDonald
+artist_playmeid: 10813
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 3752b6b71b46a523025a9179deb79d6c
+bars_confidence: shape = (133,)
+bars_start: shape = (133,)
+beats_confidence: shape = (535,)
+beats_start: shape = (535,)
+danceability: 0.0
+duration: 255.32036
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.702
+loudness: -22.073
+mode: 1
+mode_confidence: 0.602
+release: If That's What It Takes
+release_7digitalid: 762407
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (708,)
+segments_loudness_max: shape = (708,)
+segments_loudness_max_time: shape = (708,)
+segments_loudness_start: shape = (708,)
+segments_pitches: shape = (708, 12)
+segments_start: shape = (708,)
+segments_timbre: shape = (708, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQCWVH12AB0185DA5
+start_of_fade_out: 229.785
+tatums_confidence: shape = (1070,)
+tatums_start: shape = (1070,)
+tempo: 128.835
+time_signature: 4
+time_signature_confidence: 0.047
+title: Losin' End (LP Version)
+track_7digitalid: 8440208
+track_id: TRAIHZO12903CC4C78
+year: 0

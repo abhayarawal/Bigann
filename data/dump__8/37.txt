@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 27095
+artist_familiarity: 0.45528726198
+artist_hotttnesss: 0.206394504827
+artist_id: ARRLCY71187B9A0FC6
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1d15a111-061d-48a2-bfe7-d352ec11d5f0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jongo Trio
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 461fa1ac3a2a2a8abcc9643fd866effb
+bars_confidence: shape = (492,)
+bars_start: shape = (492,)
+beats_confidence: shape = (492,)
+beats_start: shape = (492,)
+danceability: 0.0
+duration: 163.36934
+end_of_fade_in: 0.328
+energy: 0.0
+key: 11
+key_confidence: 0.452
+loudness: -7.657
+mode: 0
+mode_confidence: 0.465
+release: Jongo Trio
+release_7digitalid: 37893
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (619,)
+segments_loudness_max: shape = (619,)
+segments_loudness_max_time: shape = (619,)
+segments_loudness_start: shape = (619,)
+segments_pitches: shape = (619, 12)
+segments_start: shape = (619,)
+segments_timbre: shape = (619, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEWLTH12A6D4F8E29
+start_of_fade_out: 156.874
+tatums_confidence: shape = (984,)
+tatums_start: shape = (984,)
+tempo: 184.964
+time_signature: 1
+time_signature_confidence: 0.0
+title: Morena Boca De Ouro
+track_7digitalid: 405288
+track_id: TRACTOP128F147AAE1
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 25225
+artist_familiarity: 0.720808697493
+artist_hotttnesss: 0.467133519204
+artist_id: ARED2DG1187FB3CB4D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3829f10b-821e-4c9b-88d8-7bc486637741
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tantric
+artist_playmeid: -1
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 37361b45fd6402ee945713a9b4e514bc
+bars_confidence: shape = (304,)
+bars_start: shape = (304,)
+beats_confidence: shape = (304,)
+beats_start: shape = (304,)
+danceability: 0.0
+duration: 177.24036
+end_of_fade_in: 0.107
+energy: 0.0
+key: 2
+key_confidence: 0.796
+loudness: -1.843
+mode: 1
+mode_confidence: 0.732
+release: Mind Control
+release_7digitalid: 570488
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (763,)
+segments_loudness_max: shape = (763,)
+segments_loudness_max_time: shape = (763,)
+segments_loudness_start: shape = (763,)
+segments_pitches: shape = (763, 12)
+segments_start: shape = (763,)
+segments_timbre: shape = (763, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.447135796286
+song_id: SOLKTEK12AB018BE1A
+start_of_fade_out: 171.404
+tatums_confidence: shape = (912,)
+tatums_start: shape = (912,)
+tempo: 106.698
+time_signature: 1
+time_signature_confidence: 0.792
+title: Walk Away
+track_7digitalid: 6323321
+track_id: TRAATGM12903C9CD7C
+year: 2009

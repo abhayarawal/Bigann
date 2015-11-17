@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13624
+artist_familiarity: 0.911599657381
+artist_hotttnesss: 0.5723739799
+artist_id: ARG9CID1187B9AB010
+artist_latitude: 40.85251
+artist_location: Long Island, New York
+artist_longitude: -73.13585
+artist_mbid: 350bce49-c21b-4137-b50a-0766ded07e4d
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Taking Back Sunday
+artist_playmeid: -1
+artist_terms: shape = (9,)
+artist_terms_freq: shape = (9,)
+artist_terms_weight: shape = (9,)
+audio_md5: 255543af0f252805de10dc6a42f153b8
+bars_confidence: shape = (136,)
+bars_start: shape = (136,)
+beats_confidence: shape = (547,)
+beats_start: shape = (547,)
+danceability: 0.0
+duration: 223.39873
+end_of_fade_in: 0.107
+energy: 0.0
+key: 7
+key_confidence: 0.795
+loudness: -4.495
+mode: 1
+mode_confidence: 0.708
+release: Where You Want To Be
+release_7digitalid: 128111
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (730,)
+segments_loudness_max: shape = (730,)
+segments_loudness_max_time: shape = (730,)
+segments_loudness_start: shape = (730,)
+segments_pitches: shape = (730, 12)
+segments_start: shape = (730,)
+segments_timbre: shape = (730, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.672441214016
+song_id: SOCXWEG12A6D4FBEA3
+start_of_fade_out: 208.086
+tatums_confidence: shape = (1094,)
+tatums_start: shape = (1094,)
+tempo: 147.745
+time_signature: 4
+time_signature_confidence: 1.0
+title: I Am Fred Astaire (Album Version)
+track_7digitalid: 1322623
+track_id: TRBCIDX128F422F215
+year: 2004

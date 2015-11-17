@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 133336
+artist_familiarity: 0.351037324185
+artist_hotttnesss: 0.301672873439
+artist_id: ARW2IMH1187FB4791F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f7f5582f-8c25-405f-b612-2dda2f25b031
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Revolutionary Ensemble
+artist_playmeid: 84224
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 282e90aab8e7b3834a5b4b5032af103e
+bars_confidence: shape = (337,)
+bars_start: shape = (337,)
+beats_confidence: shape = (1562,)
+beats_start: shape = (1562,)
+danceability: 0.0
+duration: 1253.92934
+end_of_fade_in: 0.38
+energy: 0.0
+key: 2
+key_confidence: 0.37
+loudness: -11.973
+mode: 0
+mode_confidence: 0.42
+release: And Now...
+release_7digitalid: 505052
+sections_confidence: shape = (34,)
+sections_start: shape = (34,)
+segments_confidence: shape = (3971,)
+segments_loudness_max: shape = (3971,)
+segments_loudness_max_time: shape = (3971,)
+segments_loudness_start: shape = (3971,)
+segments_pitches: shape = (3971, 12)
+segments_start: shape = (3971,)
+segments_timbre: shape = (3971, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLBAJZ12AB01840B0
+start_of_fade_out: 1244.932
+tatums_confidence: shape = (4686,)
+tatums_start: shape = (4686,)
+tempo: 74.183
+time_signature: 4
+time_signature_confidence: 0.83
+title: 911-544
+track_7digitalid: 5588400
+track_id: TRALKGV128F932CADE
+year: 0

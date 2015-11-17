@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 118975
+artist_familiarity: 0.685221934454
+artist_hotttnesss: 0.426035662099
+artist_id: AR18SS11187FB4852B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0f1de5a3-bdb4-47ee-82d0-59e2ac37d358
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Dope Stars Inc.
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 2daceeb30e8c8ba34cdcc6bee5f4246a
+bars_confidence: shape = (147,)
+bars_start: shape = (147,)
+beats_confidence: shape = (589,)
+beats_start: shape = (589,)
+danceability: 0.0
+duration: 233.22077
+end_of_fade_in: 0.136
+energy: 0.0
+key: 11
+key_confidence: 0.362
+loudness: -4.741
+mode: 0
+mode_confidence: 0.434
+release: Make A Star
+release_7digitalid: 288245
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (851,)
+segments_loudness_max: shape = (851,)
+segments_loudness_max_time: shape = (851,)
+segments_loudness_start: shape = (851,)
+segments_pitches: shape = (851, 12)
+segments_start: shape = (851,)
+segments_timbre: shape = (851, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.533370878316
+song_id: SOXPAGL12A8C13792D
+start_of_fade_out: 212.759
+tatums_confidence: shape = (1177,)
+tatums_start: shape = (1177,)
+tempo: 154.998
+time_signature: 4
+time_signature_confidence: 0.869
+title: Chase The Light
+track_7digitalid: 3234858
+track_id: TRAUYLT128F427538E
+year: 2006

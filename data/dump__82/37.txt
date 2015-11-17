@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 31581
+artist_familiarity: 0.687483205157
+artist_hotttnesss: 0.514206403185
+artist_id: AR3TITY1187B99E790
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c70a1a51-caf3-4667-b956-11e27a00fe37
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Gyptian
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 92eba546f5f8bc96d6f9cdde7bc120fc
+bars_confidence: shape = (131,)
+bars_start: shape = (131,)
+beats_confidence: shape = (527,)
+beats_start: shape = (527,)
+danceability: 0.0
+duration: 219.76771
+end_of_fade_in: 0.537
+energy: 0.0
+key: 2
+key_confidence: 0.82
+loudness: -10.837
+mode: 1
+mode_confidence: 0.597
+release: Strictly One Drop
+release_7digitalid: 540002
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (999,)
+segments_loudness_max: shape = (999,)
+segments_loudness_max_time: shape = (999,)
+segments_loudness_start: shape = (999,)
+segments_pitches: shape = (999, 12)
+segments_start: shape = (999,)
+segments_timbre: shape = (999, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOITJXD12A8C133C31
+start_of_fade_out: 209.548
+tatums_confidence: shape = (1054,)
+tatums_start: shape = (1054,)
+tempo: 147.436
+time_signature: 4
+time_signature_confidence: 0.395
+title: What Are You Fighting For
+track_7digitalid: 5979518
+track_id: TRBCGET128F9315E90
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 590
+artist_familiarity: 0.730669501935
+artist_hotttnesss: 0.623835200923
+artist_id: ARR6LWJ1187FB44C8B
+artist_latitude: nan
+artist_location: Athens, GA
+artist_longitude: nan
+artist_mbid: ea4dfa26-f633-4da6-a52a-f49ea4897b58
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: R.E.M.
+artist_playmeid: 1324
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 54e720df72425e574c241f57d93167e3
+bars_confidence: shape = (107,)
+bars_start: shape = (107,)
+beats_confidence: shape = (432,)
+beats_start: shape = (432,)
+danceability: 0.0
+duration: 246.17751
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.834
+loudness: -7.534
+mode: 1
+mode_confidence: 0.67
+release: Around The Sun
+release_7digitalid: 1138
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (870,)
+segments_loudness_max: shape = (870,)
+segments_loudness_max_time: shape = (870,)
+segments_loudness_start: shape = (870,)
+segments_pitches: shape = (870, 12)
+segments_start: shape = (870,)
+segments_timbre: shape = (870, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.624024049081
+song_id: SOZDJWF12A6D4F9682
+start_of_fade_out: 237.633
+tatums_confidence: shape = (1725,)
+tatums_start: shape = (1725,)
+tempo: 107.55
+time_signature: 4
+time_signature_confidence: 1.0
+title: Final Straw (Album Version)
+track_7digitalid: 424950
+track_id: TRBAUXT128F147DF5A
+year: 2004

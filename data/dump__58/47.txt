@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19361
+artist_familiarity: 0.614431579567
+artist_hotttnesss: 0.383211422216
+artist_id: ARZCHLM1187FB495C3
+artist_latitude: nan
+artist_location: Brooklyn, NY
+artist_longitude: nan
+artist_mbid: 169153fd-ba80-401a-8ccd-2825efaf9155
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ray Barretto
+artist_playmeid: 6839
+artist_terms: shape = (50,)
+artist_terms_freq: shape = (50,)
+artist_terms_weight: shape = (50,)
+audio_md5: 0a8ad5f13578b8081800a27974743c2b
+bars_confidence: shape = (742,)
+bars_start: shape = (742,)
+beats_confidence: shape = (742,)
+beats_start: shape = (742,)
+danceability: 0.0
+duration: 348.76036
+end_of_fade_in: 0.178
+energy: 0.0
+key: 2
+key_confidence: 0.416
+loudness: -9.086
+mode: 0
+mode_confidence: 0.458
+release: Salsa Legende - Best of Ray Barretto_ vol. 2
+release_7digitalid: 264720
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1374,)
+segments_loudness_max: shape = (1374,)
+segments_loudness_max_time: shape = (1374,)
+segments_loudness_start: shape = (1374,)
+segments_pitches: shape = (1374, 12)
+segments_start: shape = (1374,)
+segments_timbre: shape = (1374, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZNQQQ12AF72ABF9F
+start_of_fade_out: 345.356
+tatums_confidence: shape = (1484,)
+tatums_start: shape = (1484,)
+tempo: 129.151
+time_signature: 1
+time_signature_confidence: 0.0
+title: Vine Pa'echar Candela
+track_7digitalid: 2831961
+track_id: TRATYPJ128F42669D5
+year: 0

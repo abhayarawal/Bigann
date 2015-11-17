@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 145049
+artist_familiarity: 0.548189066221
+artist_hotttnesss: 0.382591638096
+artist_id: AR2XBPG1187B98FCBE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3dc88d73-6125-48e6-9a6a-b3024d62ee51
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Planxty
+artist_playmeid: 50159
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: e9ebb4214b7108eb9c33b21ff17ac3ab
+bars_confidence: shape = (39,)
+bars_start: shape = (39,)
+beats_confidence: shape = (161,)
+beats_start: shape = (161,)
+danceability: 0.0
+duration: 139.72853
+end_of_fade_in: 0.16
+energy: 0.0
+key: 7
+key_confidence: 0.179
+loudness: -14.322
+mode: 1
+mode_confidence: 0.553
+release: Planxty
+release_7digitalid: 620988
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (542,)
+segments_loudness_max: shape = (542,)
+segments_loudness_max_time: shape = (542,)
+segments_loudness_start: shape = (542,)
+segments_pitches: shape = (542, 12)
+segments_start: shape = (542,)
+segments_timbre: shape = (542, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.536830580874
+song_id: SOHRUYI12A8C134C4D
+start_of_fade_out: 134.989
+tatums_confidence: shape = (643,)
+tatums_start: shape = (643,)
+tempo: 71.337
+time_signature: 4
+time_signature_confidence: 0.0
+title: Follow Me Up To Carlow
+track_7digitalid: 6897978
+track_id: TRATPZY128F930CFD0
+year: 1973

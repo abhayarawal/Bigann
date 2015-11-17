@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 317889
+artist_familiarity: 0.502744114634
+artist_hotttnesss: 0.355432289108
+artist_id: ARW4P0V1187B9B182E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 60296b6b-4b82-459f-978f-ec1d4aacd7a3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Inhume
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: d1a83a0440531b740048060769d82e4d
+bars_confidence: shape = (263,)
+bars_start: shape = (263,)
+beats_confidence: shape = (263,)
+beats_start: shape = (263,)
+danceability: 0.0
+duration: 126.04036
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.391
+loudness: -5.01
+mode: 1
+mode_confidence: 0.304
+release: In for the kill
+release_7digitalid: 424018
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (241,)
+segments_loudness_max: shape = (241,)
+segments_loudness_max_time: shape = (241,)
+segments_loudness_start: shape = (241,)
+segments_pitches: shape = (241, 12)
+segments_start: shape = (241,)
+segments_timbre: shape = (241, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOACNSF12AB0184B05
+start_of_fade_out: 126.04
+tatums_confidence: shape = (525,)
+tatums_start: shape = (525,)
+tempo: 126.136
+time_signature: 1
+time_signature_confidence: 0.065
+title: Process to decelerate
+track_7digitalid: 4731381
+track_id: TRAXMDO128F9342A54
+year: 2003

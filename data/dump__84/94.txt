@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 50589
+artist_familiarity: 0.419228869287
+artist_hotttnesss: 0.296792153943
+artist_id: ARNI8K81187FB423C7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a61a060a-5418-4d00-8bf6-5c43121df704
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Human Disease
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 611c998b13492dad8ad74614b24ee4ae
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (437,)
+beats_start: shape = (437,)
+danceability: 0.0
+duration: 190.79791
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.908
+loudness: -6.066
+mode: 0
+mode_confidence: 0.728
+release: Our Flesh Deception
+release_7digitalid: 65559
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (570,)
+segments_loudness_max: shape = (570,)
+segments_loudness_max_time: shape = (570,)
+segments_loudness_start: shape = (570,)
+segments_pitches: shape = (570, 12)
+segments_start: shape = (570,)
+segments_timbre: shape = (570, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SONXOVG12A6D4FC104
+start_of_fade_out: 181.0
+tatums_confidence: shape = (873,)
+tatums_start: shape = (873,)
+tempo: 140.052
+time_signature: 4
+time_signature_confidence: 0.725
+title: Gold Flames Of Angels
+track_7digitalid: 683854
+track_id: TRBDETQ128F14B0CDD
+year: 2004

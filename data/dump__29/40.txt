@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 45839
+artist_familiarity: 0.447725075388
+artist_hotttnesss: 0.351170211722
+artist_id: AR0OTEX1187FB3600D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c152ed9f-7a4c-4006-af2d-ed8b7126b0a0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Los Del Rio
+artist_playmeid: 950
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: c29e48f7dbcb4aef261dce91779f64ae
+bars_confidence: shape = (845,)
+bars_start: shape = (845,)
+beats_confidence: shape = (845,)
+beats_start: shape = (845,)
+danceability: 0.0
+duration: 249.49506
+end_of_fade_in: 2.572
+energy: 0.0
+key: 10
+key_confidence: 0.498
+loudness: -12.005
+mode: 0
+mode_confidence: 0.489
+release: Fiesta Macarena
+release_7digitalid: 297314
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1570,)
+segments_loudness_max: shape = (1570,)
+segments_loudness_max_time: shape = (1570,)
+segments_loudness_start: shape = (1570,)
+segments_pitches: shape = (1570, 12)
+segments_start: shape = (1570,)
+segments_timbre: shape = (1570, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTJEIC12A8C139054
+start_of_fade_out: 236.397
+tatums_confidence: shape = (1690,)
+tatums_start: shape = (1690,)
+tempo: 206.02
+time_signature: 1
+time_signature_confidence: 0.0
+title: Macarena
+track_7digitalid: 3333319
+track_id: TRAJXQL128F428CAF0
+year: 1993

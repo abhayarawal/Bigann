@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 391551
+artist_familiarity: 0.386383775024
+artist_hotttnesss: 0.256350362904
+artist_id: AR2PNSZ1187B9AF0A4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8e794a58-b27f-4aac-b306-41304f61db2c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pardesi
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 6456c21b873fe26e82a273b8bbfedc9a
+bars_confidence: shape = (96,)
+bars_start: shape = (96,)
+beats_confidence: shape = (390,)
+beats_start: shape = (390,)
+danceability: 0.0
+duration: 263.52281
+end_of_fade_in: 0.252
+energy: 0.0
+key: 11
+key_confidence: 0.034
+loudness: -12.781
+mode: 0
+mode_confidence: 0.243
+release: Pump Up The Bhangra
+release_7digitalid: 531252
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1203,)
+segments_loudness_max: shape = (1203,)
+segments_loudness_max_time: shape = (1203,)
+segments_loudness_start: shape = (1203,)
+segments_pitches: shape = (1203, 12)
+segments_start: shape = (1203,)
+segments_timbre: shape = (1203, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSFUQC12AB017E17E
+start_of_fade_out: 249.098
+tatums_confidence: shape = (1559,)
+tatums_start: shape = (1559,)
+tempo: 90.811
+time_signature: 4
+time_signature_confidence: 0.779
+title: Akhan Nay Sharab
+track_7digitalid: 5870701
+track_id: TRBIBSN128F92FBA64
+year: 0

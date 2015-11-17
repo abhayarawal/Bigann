@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3180
+artist_familiarity: 0.615106846422
+artist_hotttnesss: 0.345610203555
+artist_id: ARK30AI1187FB3C777
+artist_latitude: 40.71455
+artist_location: NY - Upstate NY
+artist_longitude: -74.00712
+artist_mbid: fdefb292-50fc-4794-b36b-14be4c1d46fe
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dive
+artist_playmeid: 27246
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 0d646d959588ce916123621ee64ea268
+bars_confidence: shape = (93,)
+bars_start: shape = (93,)
+beats_confidence: shape = (379,)
+beats_start: shape = (379,)
+danceability: 0.0
+duration: 227.36934
+end_of_fade_in: 8.702
+energy: 0.0
+key: 0
+key_confidence: 0.013
+loudness: -15.712
+mode: 1
+mode_confidence: 0.304
+release: Stills
+release_7digitalid: 305169
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (640,)
+segments_loudness_max: shape = (640,)
+segments_loudness_max_time: shape = (640,)
+segments_loudness_start: shape = (640,)
+segments_pitches: shape = (640, 12)
+segments_start: shape = (640,)
+segments_timbre: shape = (640, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOKQDCA12A8C13CDEF
+start_of_fade_out: 211.116
+tatums_confidence: shape = (758,)
+tatums_start: shape = (758,)
+tempo: 103.621
+time_signature: 4
+time_signature_confidence: 1.0
+title: Contact
+track_7digitalid: 3430002
+track_id: TRAFNAH128F42A400D
+year: 0

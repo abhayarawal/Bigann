@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 35926
+artist_familiarity: 0.400952448429
+artist_hotttnesss: 0.357817074252
+artist_id: ARI8ECO119B3403C34
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c768e73f-2040-4aab-82e9-45e37d5ce4ef
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ed Byrne
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 9b24fc31bf02761ec62cdb142e82f3ea
+bars_confidence: shape = (93,)
+bars_start: shape = (93,)
+beats_confidence: shape = (433,)
+beats_start: shape = (433,)
+danceability: 0.0
+duration: 330.63138
+end_of_fade_in: 2.949
+energy: 0.0
+key: 7
+key_confidence: 0.354
+loudness: -8.366
+mode: 1
+mode_confidence: 0.434
+release: Ed Byrne - Pedantic and Whimsical
+release_7digitalid: 51357
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1332,)
+segments_loudness_max: shape = (1332,)
+segments_loudness_max_time: shape = (1332,)
+segments_loudness_start: shape = (1332,)
+segments_pitches: shape = (1332, 12)
+segments_start: shape = (1332,)
+segments_timbre: shape = (1332, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONDAME12A6D4F9352
+start_of_fade_out: 325.114
+tatums_confidence: shape = (1297,)
+tatums_start: shape = (1297,)
+tempo: 77.99
+time_signature: 4
+time_signature_confidence: 0.618
+title: Who's Your Daddy?
+track_7digitalid: 537300
+track_id: TRAGSJK128F1491F0A
+year: 0

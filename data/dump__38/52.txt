@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 102462
+artist_familiarity: 0.444921249918
+artist_hotttnesss: 0.318458623333
+artist_id: AR76YOD1187FB46B24
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: d63cbb12-0d16-4fd5-8fbf-a57dc8ddfe83
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Joshua Rifkin
+artist_playmeid: 48798
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 4f6dbc48f19576d9d18722a1c2972f33
+bars_confidence: shape = (161,)
+bars_start: shape = (161,)
+beats_confidence: shape = (161,)
+beats_start: shape = (161,)
+danceability: 0.0
+duration: 111.46404
+end_of_fade_in: 0.206
+energy: 0.0
+key: 2
+key_confidence: 0.451
+loudness: -15.007
+mode: 1
+mode_confidence: 0.613
+release: The Baroque Beatles
+release_7digitalid: 527141
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (363,)
+segments_loudness_max: shape = (363,)
+segments_loudness_max_time: shape = (363,)
+segments_loudness_start: shape = (363,)
+segments_pitches: shape = (363, 12)
+segments_start: shape = (363,)
+segments_timbre: shape = (363, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONBWUH12A8C1421BB
+start_of_fade_out: 106.243
+tatums_confidence: shape = (321,)
+tatums_start: shape = (321,)
+tempo: 90.318
+time_signature: 1
+time_signature_confidence: 0.085
+title: Réjouissance [I'll Cry Instead]
+track_7digitalid: 5820126
+track_id: TRANELB128F92EF58A
+year: 0

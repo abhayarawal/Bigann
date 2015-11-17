@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 356128
+artist_familiarity: 0.34326482811
+artist_hotttnesss: 0.201499577359
+artist_id: ARFEXDH11F4C840CAC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Bureau De Change
+artist_playmeid: -1
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: 129cb544656f0309a46e36cb1e7f4003
+bars_confidence: shape = (84,)
+bars_start: shape = (84,)
+beats_confidence: shape = (343,)
+beats_start: shape = (343,)
+danceability: 0.0
+duration: 220.89098
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.051
+loudness: -8.571
+mode: 1
+mode_confidence: 0.405
+release: Global Village Idiots
+release_7digitalid: 480350
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (712,)
+segments_loudness_max: shape = (712,)
+segments_loudness_max_time: shape = (712,)
+segments_loudness_start: shape = (712,)
+segments_pitches: shape = (712, 12)
+segments_start: shape = (712,)
+segments_timbre: shape = (712, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SODSXCY12AAA8C598D
+start_of_fade_out: 220.891
+tatums_confidence: shape = (687,)
+tatums_start: shape = (687,)
+tempo: 93.909
+time_signature: 4
+time_signature_confidence: 0.743
+title: Seasick
+track_7digitalid: 5331509
+track_id: TRATJTH128F92EF33C
+year: 0

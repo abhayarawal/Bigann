@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 292160
+artist_familiarity: 0.421376060223
+artist_hotttnesss: 0.366527801955
+artist_id: ARRXPRY1187B9A8B34
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a1be513e-35e5-47b0-8b73-7476378384aa
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gran Coquivacoa_ Neguito Borjas
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: be238ea328d2d1ef3a93e68dadf57077
+bars_confidence: shape = (35,)
+bars_start: shape = (35,)
+beats_confidence: shape = (143,)
+beats_start: shape = (143,)
+danceability: 0.0
+duration: 117.34159
+end_of_fade_in: 0.355
+energy: 0.0
+key: 3
+key_confidence: 0.158
+loudness: -8.817
+mode: 1
+mode_confidence: 0.313
+release: Clasicos de oro del Gran Coquivacoa
+release_7digitalid: 710716
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (618,)
+segments_loudness_max: shape = (618,)
+segments_loudness_max_time: shape = (618,)
+segments_loudness_start: shape = (618,)
+segments_pitches: shape = (618, 12)
+segments_start: shape = (618,)
+segments_timbre: shape = (618, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONGPXG12AB0184A31
+start_of_fade_out: 111.624
+tatums_confidence: shape = (861,)
+tatums_start: shape = (861,)
+tempo: 75.738
+time_signature: 4
+time_signature_confidence: 0.0
+title: El tuli-tuli
+track_7digitalid: 7882271
+track_id: TRAVGCJ12903CB3C9C
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10206
+artist_familiarity: 0.772292647418
+artist_hotttnesss: 0.542175165589
+artist_id: ARTYXQC1187B9ACAB2
+artist_latitude: nan
+artist_location: Kingston, Jamaica
+artist_longitude: nan
+artist_mbid: fc63d806-ca89-4ea3-a404-ee6de695743f
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Shaggy
+artist_playmeid: 1421
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 36a4dcb70573934e5d1d848894d25288
+bars_confidence: shape = (91,)
+bars_start: shape = (91,)
+beats_confidence: shape = (368,)
+beats_start: shape = (368,)
+danceability: 0.0
+duration: 223.4771
+end_of_fade_in: 0.069
+energy: 0.0
+key: 9
+key_confidence: 0.45
+loudness: -6.658
+mode: 1
+mode_confidence: 0.392
+release: Intoxication
+release_7digitalid: 171757
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1234,)
+segments_loudness_max: shape = (1234,)
+segments_loudness_max_time: shape = (1234,)
+segments_loudness_start: shape = (1234,)
+segments_pitches: shape = (1234, 12)
+segments_start: shape = (1234,)
+segments_timbre: shape = (1234, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.450762241641
+song_id: SODSHVF12A8AE481D2
+start_of_fade_out: 220.148
+tatums_confidence: shape = (1475,)
+tatums_start: shape = (1475,)
+tempo: 99.994
+time_signature: 4
+time_signature_confidence: 0.836
+title: Criteria
+track_7digitalid: 1829058
+track_id: TRAZXDC128F429874E
+year: 2007

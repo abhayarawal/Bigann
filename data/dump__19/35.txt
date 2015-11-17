@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 88409
+artist_familiarity: 0.601395113088
+artist_hotttnesss: 0.436730221089
+artist_id: AR05NQH1187B98E875
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0efa01aa-2725-48af-a7df-273faa718ed6
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Kassav'
+artist_playmeid: 10761
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: afcdfc68824e7c42999528168d5ce2c4
+bars_confidence: shape = (159,)
+bars_start: shape = (159,)
+beats_confidence: shape = (645,)
+beats_start: shape = (645,)
+danceability: 0.0
+duration: 268.90404
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.338
+loudness: -8.158
+mode: 1
+mode_confidence: 0.369
+release: Se Nou Manm (Live Au Zenith)
+release_7digitalid: 288001
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (1202,)
+segments_loudness_max: shape = (1202,)
+segments_loudness_max_time: shape = (1202,)
+segments_loudness_start: shape = (1202,)
+segments_pitches: shape = (1202, 12)
+segments_start: shape = (1202,)
+segments_timbre: shape = (1202, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOLIWUR12A58A7D769
+start_of_fade_out: 260.963
+tatums_confidence: shape = (1289,)
+tatums_start: shape = (1289,)
+tempo: 147.781
+time_signature: 4
+time_signature_confidence: 0.147
+title: An Mouvman
+track_7digitalid: 3231695
+track_id: TRAGOMV128F4274745
+year: 2009

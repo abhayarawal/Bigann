@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 48295
+artist_familiarity: 0.55757105921
+artist_hotttnesss: 0.306947608643
+artist_id: AR1KMPF1187B99AA98
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cc57dbcb-1263-4039-9045-1ca7dbac4429
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lara
+artist_playmeid: 9598
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: dae0f7674b129c1c91b1131c0ffd2597
+bars_confidence: shape = (85,)
+bars_start: shape = (85,)
+beats_confidence: shape = (343,)
+beats_start: shape = (343,)
+danceability: 0.0
+duration: 190.85016
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.283
+loudness: -11.809
+mode: 1
+mode_confidence: 0.268
+release: Petit Coeur Assassin
+release_7digitalid: 583352
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (656,)
+segments_loudness_max: shape = (656,)
+segments_loudness_max_time: shape = (656,)
+segments_loudness_start: shape = (656,)
+segments_pitches: shape = (656, 12)
+segments_start: shape = (656,)
+segments_timbre: shape = (656, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORTGBA12AB018A917
+start_of_fade_out: 188.25
+tatums_confidence: shape = (685,)
+tatums_start: shape = (685,)
+tempo: 109.318
+time_signature: 4
+time_signature_confidence: 0.456
+title: Café Sarajevo
+track_7digitalid: 6465368
+track_id: TRAUBQD12903CBEE9A
+year: 0

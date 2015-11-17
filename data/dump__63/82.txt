@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6051
+artist_familiarity: 0.915823253033
+artist_hotttnesss: 0.665576619159
+artist_id: ARBEOHF1187B9B044D
+artist_latitude: nan
+artist_location: Bay City, MI
+artist_longitude: nan
+artist_mbid: 79239441-bfd5-4981-a70c-55c3f15c1287
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Madonna
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: e2836d69c91696e7333d84d1c2103ca5
+bars_confidence: shape = (136,)
+bars_start: shape = (136,)
+beats_confidence: shape = (548,)
+beats_start: shape = (548,)
+danceability: 0.0
+duration: 285.09995
+end_of_fade_in: 0.366
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -4.104
+mode: 1
+mode_confidence: 0.0
+release: Celebration
+release_7digitalid: 588986
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1192,)
+segments_loudness_max: shape = (1192,)
+segments_loudness_max_time: shape = (1192,)
+segments_loudness_start: shape = (1192,)
+segments_pitches: shape = (1192, 12)
+segments_start: shape = (1192,)
+segments_timbre: shape = (1192, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.783623854339
+song_id: SOCHBAR12AB0187BA9
+start_of_fade_out: 263.663
+tatums_confidence: shape = (1096,)
+tatums_start: shape = (1096,)
+tempo: 116.512
+time_signature: 4
+time_signature_confidence: 1.0
+title: Into The Groove
+track_7digitalid: 6531946
+track_id: TRAVVZW12903CCEEE7
+year: 1985

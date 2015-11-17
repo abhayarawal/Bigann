@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10249
+artist_familiarity: 0.749317800961
+artist_hotttnesss: 0.481655862412
+artist_id: ARUI8651187B9ACF52
+artist_latitude: nan
+artist_location: Garnant, Wales
+artist_longitude: nan
+artist_mbid: 72c090b6-a68e-4cb9-b330-85278681a714
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: John Cale
+artist_playmeid: 17190
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 53cf179006588035250c088d76c8d02c
+bars_confidence: shape = (1055,)
+bars_start: shape = (1055,)
+beats_confidence: shape = (1055,)
+beats_start: shape = (1055,)
+danceability: 0.0
+duration: 624.66567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.002
+loudness: -12.161
+mode: 1
+mode_confidence: 0.074
+release: Stainless Gamelan: Inside The Dream Syndicate Vol. Iii
+release_7digitalid: 78783
+sections_confidence: shape = (28,)
+sections_start: shape = (28,)
+segments_confidence: shape = (2159,)
+segments_loudness_max: shape = (2159,)
+segments_loudness_max_time: shape = (2159,)
+segments_loudness_start: shape = (2159,)
+segments_pitches: shape = (2159, 12)
+segments_start: shape = (2159,)
+segments_timbre: shape = (2159, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOPHBYD12A6D4F6980
+start_of_fade_out: 616.165
+tatums_confidence: shape = (2111,)
+tatums_start: shape = (2111,)
+tempo: 101.37
+time_signature: 1
+time_signature_confidence: 0.0
+title: Stainless Steel Gamelan
+track_7digitalid: 829256
+track_id: TRBFJBK128EF357C81
+year: 0

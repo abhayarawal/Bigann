@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 154331
+artist_familiarity: 0.401479592832
+artist_hotttnesss: 0.268744755076
+artist_id: ARBKEA91187B98CE1F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 249e776b-d821-46d3-a5a3-5e68ef02da8d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Claw Hammer
+artist_playmeid: 36985
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 0792efe364f82530e57f1dc0d7a1876f
+bars_confidence: shape = (821,)
+bars_start: shape = (821,)
+beats_confidence: shape = (821,)
+beats_start: shape = (821,)
+danceability: 0.0
+duration: 293.8771
+end_of_fade_in: 0.26
+energy: 0.0
+key: 2
+key_confidence: 0.443
+loudness: -8.85
+mode: 1
+mode_confidence: 0.346
+release: Pablum
+release_7digitalid: 205382
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1160,)
+segments_loudness_max: shape = (1160,)
+segments_loudness_max_time: shape = (1160,)
+segments_loudness_start: shape = (1160,)
+segments_pitches: shape = (1160, 12)
+segments_start: shape = (1160,)
+segments_timbre: shape = (1160, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQKYHD12A8C139193
+start_of_fade_out: 293.877
+tatums_confidence: shape = (1641,)
+tatums_start: shape = (1641,)
+tempo: 167.156
+time_signature: 1
+time_signature_confidence: 0.0
+title: Speak Softly
+track_7digitalid: 2225647
+track_id: TRAMYRB128F426234C
+year: 0

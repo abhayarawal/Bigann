@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12235
+artist_familiarity: 0.744734766783
+artist_hotttnesss: 0.565045659221
+artist_id: AR8BUVM1187FB4D94D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e5c7b94f-e264-473c-bb0f-37c85d4d5c70
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Belle and Sebastian
+artist_playmeid: 2026
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 73e7d3117ec58c46dcb2ff4501eec662
+bars_confidence: shape = (434,)
+bars_start: shape = (434,)
+beats_confidence: shape = (434,)
+beats_start: shape = (434,)
+danceability: 0.0
+duration: 250.69669
+end_of_fade_in: 0.136
+energy: 0.0
+key: 1
+key_confidence: 0.336
+loudness: -10.504
+mode: 0
+mode_confidence: 0.472
+release: The BBC Sessions
+release_7digitalid: 569858
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (979,)
+segments_loudness_max: shape = (979,)
+segments_loudness_max_time: shape = (979,)
+segments_loudness_start: shape = (979,)
+segments_pitches: shape = (979, 12)
+segments_start: shape = (979,)
+segments_timbre: shape = (979, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBWVGX12AB017BD87
+start_of_fade_out: 242.231
+tatums_confidence: shape = (1304,)
+tatums_start: shape = (1304,)
+tempo: 104.494
+time_signature: 1
+time_signature_confidence: 0.32
+title: Like Dylan In The Movies
+track_7digitalid: 6317156
+track_id: TRANCFS12903C9B61B
+year: 1996

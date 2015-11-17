@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40742
+artist_familiarity: 0.444205744238
+artist_hotttnesss: 0.330140179991
+artist_id: AR74J3U1187FB5CDDB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ca0e1bd6-541b-4a47-851f-35750b332783
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Liam O'Flynn
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: ca31c28378b22e7d67c9b349651e623d
+bars_confidence: shape = (92,)
+bars_start: shape = (92,)
+beats_confidence: shape = (463,)
+beats_start: shape = (463,)
+danceability: 0.0
+duration: 234.10893
+end_of_fade_in: 0.293
+energy: 0.0
+key: 0
+key_confidence: 0.679
+loudness: -9.148
+mode: 1
+mode_confidence: 0.808
+release: Celtic Twilight 6
+release_7digitalid: 483913
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (407,)
+segments_loudness_max: shape = (407,)
+segments_loudness_max_time: shape = (407,)
+segments_loudness_start: shape = (407,)
+segments_pitches: shape = (407, 12)
+segments_start: shape = (407,)
+segments_timbre: shape = (407, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONRABC12AB0181584
+start_of_fade_out: 225.785
+tatums_confidence: shape = (926,)
+tatums_start: shape = (926,)
+tempo: 122.425
+time_signature: 5
+time_signature_confidence: 0.737
+title: Romeo's Exile
+track_7digitalid: 5369369
+track_id: TRBCHEE128F92F82D0
+year: 1995

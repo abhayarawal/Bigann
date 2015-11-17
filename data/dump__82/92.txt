@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 251767
+artist_familiarity: 0.488169687909
+artist_hotttnesss: 0.378660278264
+artist_id: ARRTJ3W1187B993212
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 27fabbb8-90bc-4e12-bce0-6ac26f397aee
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Power Pill Fist
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 06c0340acdde0b5346b2f2c45af6d656
+bars_confidence: shape = (186,)
+bars_start: shape = (186,)
+beats_confidence: shape = (560,)
+beats_start: shape = (560,)
+danceability: 0.0
+duration: 291.42159
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.624
+loudness: 0.566
+mode: 1
+mode_confidence: 0.402
+release: Kongmanivong
+release_7digitalid: 323603
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (440,)
+segments_loudness_max: shape = (440,)
+segments_loudness_max_time: shape = (440,)
+segments_loudness_start: shape = (440,)
+segments_pitches: shape = (440, 12)
+segments_start: shape = (440,)
+segments_timbre: shape = (440, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.401486711428
+song_id: SOKEKSF12AAF3B3977
+start_of_fade_out: 282.511
+tatums_confidence: shape = (1119,)
+tatums_start: shape = (1119,)
+tempo: 138.387
+time_signature: 3
+time_signature_confidence: 0.951
+title: Chuckanut Drive
+track_7digitalid: 3643842
+track_id: TRBCKPU128F92D9B79
+year: 2008

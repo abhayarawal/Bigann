@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 532781
+artist_familiarity: 0.444836486444
+artist_hotttnesss: 0.318726161586
+artist_id: ARTOCWH11F50C4CE12
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Accursed
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 8b7257081d96ac61df54af8fb8bcf4d8
+bars_confidence: shape = (363,)
+bars_start: shape = (363,)
+beats_confidence: shape = (363,)
+beats_start: shape = (363,)
+danceability: 0.0
+duration: 171.15383
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.204
+loudness: -7.075
+mode: 1
+mode_confidence: 0.311
+release: Seasons Of The Scythe
+release_7digitalid: 715982
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (650,)
+segments_loudness_max: shape = (650,)
+segments_loudness_max_time: shape = (650,)
+segments_loudness_start: shape = (650,)
+segments_pitches: shape = (650, 12)
+segments_start: shape = (650,)
+segments_timbre: shape = (650, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSTBCB12A58A75D60
+start_of_fade_out: 168.6
+tatums_confidence: shape = (726,)
+tatums_start: shape = (726,)
+tempo: 128.928
+time_signature: 1
+time_signature_confidence: 0.0
+title: Slaughter The Gods
+track_7digitalid: 7942500
+track_id: TRAGGEQ12903CC25DB
+year: 0

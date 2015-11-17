@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 36514
+artist_familiarity: 0.6898005928
+artist_hotttnesss: 0.533842727049
+artist_id: ARVBP9K1187FB48254
+artist_latitude: 43.64856
+artist_location: Toronto, Ontario, Canada
+artist_longitude: -79.38533
+artist_mbid: 00b952be-6c97-4880-84f9-06de584b491b
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Cancer Bats
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 7cf42f536911dcd605fa399643d44608
+bars_confidence: shape = (59,)
+bars_start: shape = (59,)
+beats_confidence: shape = (247,)
+beats_start: shape = (247,)
+danceability: 0.0
+duration: 180.71465
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.17
+loudness: -4.834
+mode: 0
+mode_confidence: 0.528
+release: Sabotage
+release_7digitalid: 744214
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (521,)
+segments_loudness_max: shape = (521,)
+segments_loudness_max_time: shape = (521,)
+segments_loudness_start: shape = (521,)
+segments_pitches: shape = (521, 12)
+segments_start: shape = (521,)
+segments_timbre: shape = (521, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.726267401029
+song_id: SOHTWEG12AB018D11C
+start_of_fade_out: 166.342
+tatums_confidence: shape = (987,)
+tatums_start: shape = (987,)
+tempo: 86.01
+time_signature: 4
+time_signature_confidence: 0.824
+title: Sabotage
+track_7digitalid: 8237674
+track_id: TRADAZP12903D0A480
+year: 2010

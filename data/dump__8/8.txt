@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 26362
+artist_familiarity: 0.604479006972
+artist_hotttnesss: 0.390489535122
+artist_id: ARNLW7H1187B99EC9D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9c7fa325-d654-46e7-a122-076aa5dd0a51
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Trick Trick / Eminem
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 46778d40bdffe9385fc3e9d3a1849cae
+bars_confidence: shape = (106,)
+bars_start: shape = (106,)
+beats_confidence: shape = (431,)
+beats_start: shape = (431,)
+danceability: 0.0
+duration: 285.49179
+end_of_fade_in: 0.074
+energy: 0.0
+key: 1
+key_confidence: 0.21
+loudness: -4.853
+mode: 0
+mode_confidence: 0.227
+release: The People Vs.
+release_7digitalid: 312458
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1144,)
+segments_loudness_max: shape = (1144,)
+segments_loudness_max_time: shape = (1144,)
+segments_loudness_start: shape = (1144,)
+segments_pitches: shape = (1144, 12)
+segments_start: shape = (1144,)
+segments_timbre: shape = (1144, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.708607216631
+song_id: SOUHRQN12A58A7C12A
+start_of_fade_out: 274.657
+tatums_confidence: shape = (1724,)
+tatums_start: shape = (1724,)
+tempo: 91.101
+time_signature: 4
+time_signature_confidence: 1.0
+title: Welcome 2 Detroit
+track_7digitalid: 3523198
+track_id: TRACQIR128F42BAA06
+year: 2005

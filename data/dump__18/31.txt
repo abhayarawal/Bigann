@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2163
+artist_familiarity: 0.822908534132
+artist_hotttnesss: 0.572027853681
+artist_id: AR2XI6G1187B9AE7DA
+artist_latitude: nan
+artist_location: Bronx, NY
+artist_longitude: nan
+artist_mbid: a6a4c910-2b22-4a6f-aebe-805b176c47b8
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Fat Joe
+artist_playmeid: 2233
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 77473c6b2bf32b8abc1ee9bc2c23ac37
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (354,)
+beats_start: shape = (354,)
+danceability: 0.0
+duration: 211.59138
+end_of_fade_in: 0.142
+energy: 0.0
+key: 5
+key_confidence: 0.246
+loudness: -7.239
+mode: 1
+mode_confidence: 0.371
+release: All Or Nothing
+release_7digitalid: 12757
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (933,)
+segments_loudness_max: shape = (933,)
+segments_loudness_max_time: shape = (933,)
+segments_loudness_start: shape = (933,)
+segments_pitches: shape = (933, 12)
+segments_start: shape = (933,)
+segments_timbre: shape = (933, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLYAFD12A6702090E
+start_of_fade_out: 190.769
+tatums_confidence: shape = (707,)
+tatums_start: shape = (707,)
+tempo: 100.783
+time_signature: 4
+time_signature_confidence: 1.0
+title: Get It Poppin' [Featuring Nelly]  (Album Version - Exp. Version) [Serban Main 4/20/05]
+track_7digitalid: 131991
+track_id: TRAGFUR128E078B8B3
+year: 2005

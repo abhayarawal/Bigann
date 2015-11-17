@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4695
+artist_familiarity: 0.573612399375
+artist_hotttnesss: 0.37225120793
+artist_id: AR11NP91187B9901B4
+artist_latitude: nan
+artist_location: New York City
+artist_longitude: nan
+artist_mbid: 4ee9f5ed-5f20-41a7-b467-72c79549a67d
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: The Roches
+artist_playmeid: -1
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 99e9be64a350fa48f4106b5478e77bf1
+bars_confidence: shape = (128,)
+bars_start: shape = (128,)
+beats_confidence: shape = (514,)
+beats_start: shape = (514,)
+danceability: 0.0
+duration: 243.51302
+end_of_fade_in: 0.148
+energy: 0.0
+key: 2
+key_confidence: 0.705
+loudness: -19.514
+mode: 1
+mode_confidence: 0.639
+release: The Roches
+release_7digitalid: 760855
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (717,)
+segments_loudness_max: shape = (717,)
+segments_loudness_max_time: shape = (717,)
+segments_loudness_start: shape = (717,)
+segments_pitches: shape = (717, 12)
+segments_start: shape = (717,)
+segments_timbre: shape = (717, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SODYLCG12AB018484B
+start_of_fade_out: 232.908
+tatums_confidence: shape = (1027,)
+tatums_start: shape = (1027,)
+tempo: 131.84
+time_signature: 4
+time_signature_confidence: 0.179
+title: Mr. Sellack (Album Version)
+track_7digitalid: 8423467
+track_id: TRAIIJJ12903CC0B1B
+year: 1979

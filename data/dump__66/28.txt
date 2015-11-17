@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4741
+artist_familiarity: 0.744641245933
+artist_hotttnesss: 0.579988982429
+artist_id: ARNLO5S1187B9B80CC
+artist_latitude: nan
+artist_location: Pasadena, CA
+artist_longitude: nan
+artist_mbid: b665b768-0d83-4363-950c-31ed39317c15
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Van Halen
+artist_playmeid: 54598
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 30b70d377c864061ce32a05955a50d73
+bars_confidence: shape = (168,)
+bars_start: shape = (168,)
+beats_confidence: shape = (676,)
+beats_start: shape = (676,)
+danceability: 0.0
+duration: 321.72363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.801
+loudness: -7.042
+mode: 1
+mode_confidence: 0.804
+release: Van Halen Live: Right Here_ Right Now
+release_7digitalid: 133241
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (825,)
+segments_loudness_max: shape = (825,)
+segments_loudness_max_time: shape = (825,)
+segments_loudness_start: shape = (825,)
+segments_pitches: shape = (825, 12)
+segments_start: shape = (825,)
+segments_timbre: shape = (825, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.635039944356
+song_id: SORKPVE12A81C20227
+start_of_fade_out: 303.084
+tatums_confidence: shape = (1352,)
+tatums_start: shape = (1352,)
+tempo: 130.685
+time_signature: 4
+time_signature_confidence: 0.863
+title: Runaround (Live Version)
+track_7digitalid: 1381494
+track_id: TRAWPKO128F423841E
+year: 0

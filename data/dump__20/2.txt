@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4923
+artist_familiarity: 0.545159295601
+artist_hotttnesss: 0.351555861186
+artist_id: ARC43071187B990240
+artist_latitude: nan
+artist_location: Wisner, LA
+artist_longitude: nan
+artist_mbid: 001a1d90-56dc-4992-bd7d-970ecd7105d0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Wayne Watson
+artist_playmeid: 17334
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 00041a198ef98ba9bcbaaa7427d55b97
+bars_confidence: shape = (114,)
+bars_start: shape = (114,)
+beats_confidence: shape = (462,)
+beats_start: shape = (462,)
+danceability: 0.0
+duration: 228.49261
+end_of_fade_in: 7.036
+energy: 0.0
+key: 1
+key_confidence: 0.351
+loudness: -7.831
+mode: 1
+mode_confidence: 0.735
+release: Living Room
+release_7digitalid: 338819
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (769,)
+segments_loudness_max: shape = (769,)
+segments_loudness_max_time: shape = (769,)
+segments_loudness_start: shape = (769,)
+segments_pitches: shape = (769, 12)
+segments_start: shape = (769,)
+segments_timbre: shape = (769, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOGJUBN12AB017CF98
+start_of_fade_out: 220.665
+tatums_confidence: shape = (924,)
+tatums_start: shape = (924,)
+tempo: 125.908
+time_signature: 4
+time_signature_confidence: 0.469
+title: Somebody Sing
+track_7digitalid: 3789431
+track_id: TRAGUNG128F92F67B3
+year: 0

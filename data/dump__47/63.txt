@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 339164
+artist_familiarity: 0.0346173225992
+artist_hotttnesss: 0.0
+artist_id: ARMOBJT11F50C4A101
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Oliver Lake Quintet
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: c3c28989304bbbd93d71d8015b22de89
+bars_confidence: shape = (225,)
+bars_start: shape = (225,)
+beats_confidence: shape = (904,)
+beats_start: shape = (904,)
+danceability: 0.0
+duration: 419.76118
+end_of_fade_in: 0.241
+energy: 0.0
+key: 6
+key_confidence: 0.695
+loudness: -10.383
+mode: 1
+mode_confidence: 0.589
+release: Talkin' Stick
+release_7digitalid: 457892
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (1316,)
+segments_loudness_max: shape = (1316,)
+segments_loudness_max_time: shape = (1316,)
+segments_loudness_start: shape = (1316,)
+segments_pitches: shape = (1316, 12)
+segments_start: shape = (1316,)
+segments_timbre: shape = (1316, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOGTWZP12AB018545B
+start_of_fade_out: 409.263
+tatums_confidence: shape = (1807,)
+tatums_start: shape = (1807,)
+tempo: 131.611
+time_signature: 4
+time_signature_confidence: 0.488
+title: Only If You Live There
+track_7digitalid: 5096853
+track_id: TRAQFGE128F9322ADA
+year: 0

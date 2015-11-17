@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 122539
+artist_familiarity: 0.577633149704
+artist_hotttnesss: 0.439843854133
+artist_id: ARU3YYC1187FB43FEE
+artist_latitude: -34.60852
+artist_location: Buenos Aires, Argentina
+artist_longitude: -58.37354
+artist_mbid: 1fc56cff-f0a0-4ce2-ab1f-ac49cf3b073f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Luis Alberto Spinetta
+artist_playmeid: -1
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 62d088fa8c19d9d077463420f7c2a26a
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (357,)
+beats_start: shape = (357,)
+danceability: 0.0
+duration: 191.60771
+end_of_fade_in: 0.299
+energy: 0.0
+key: 8
+key_confidence: 0.46
+loudness: -20.009
+mode: 0
+mode_confidence: 0.378
+release: Mondo Di Cromo
+release_7digitalid: 217025
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (653,)
+segments_loudness_max: shape = (653,)
+segments_loudness_max_time: shape = (653,)
+segments_loudness_start: shape = (653,)
+segments_pitches: shape = (653, 12)
+segments_start: shape = (653,)
+segments_timbre: shape = (653, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXYIJD12A8C13DB7C
+start_of_fade_out: 176.663
+tatums_confidence: shape = (714,)
+tatums_start: shape = (714,)
+tempo: 113.096
+time_signature: 4
+time_signature_confidence: 0.462
+title: Lo Siento En Mi Corazón
+track_7digitalid: 2363183
+track_id: TRBHGKH128F427FB11
+year: 1983

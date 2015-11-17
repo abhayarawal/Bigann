@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41438
+artist_familiarity: 0.573527312613
+artist_hotttnesss: 0.3685067534
+artist_id: ARDINVM1187B98A6C1
+artist_latitude: 48.69173
+artist_location: Longjumeau, France
+artist_longitude: 2.29005
+artist_mbid: 6a8dba8c-b52f-405a-8737-eca91d4d82fa
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Marc Lavoine
+artist_playmeid: 28699
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 232bc9800674d9f486c8480a9cf0dd58
+bars_confidence: shape = (113,)
+bars_start: shape = (113,)
+beats_confidence: shape = (454,)
+beats_start: shape = (454,)
+danceability: 0.0
+duration: 224.39138
+end_of_fade_in: 0.386
+energy: 0.0
+key: 3
+key_confidence: 0.086
+loudness: -10.322
+mode: 1
+mode_confidence: 0.341
+release: Best Of 85-95
+release_7digitalid: 299890
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (796,)
+segments_loudness_max: shape = (796,)
+segments_loudness_max_time: shape = (796,)
+segments_loudness_start: shape = (796,)
+segments_pitches: shape = (796, 12)
+segments_start: shape = (796,)
+segments_timbre: shape = (796, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.513517028537
+song_id: SOTCFPV12A8C13CE08
+start_of_fade_out: 210.042
+tatums_confidence: shape = (908,)
+tatums_start: shape = (908,)
+tempo: 122.503
+time_signature: 4
+time_signature_confidence: 1.0
+title: C'est La Vie
+track_7digitalid: 3365146
+track_id: TRAKYON128F429470C
+year: 1989

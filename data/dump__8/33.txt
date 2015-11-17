@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 49992
+artist_familiarity: 0.796337059499
+artist_hotttnesss: 0.582921576451
+artist_id: ARSW5F51187FB4CFC9
+artist_latitude: nan
+artist_location: Seattle, WA
+artist_longitude: nan
+artist_mbid: 4bd95eea-b9f6-4d70-a36c-cfea77431553
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Alice In Chains
+artist_playmeid: 65
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 548db06f2794d94be0bc6f61c82f1713
+bars_confidence: shape = (401,)
+bars_start: shape = (401,)
+beats_confidence: shape = (401,)
+beats_start: shape = (401,)
+danceability: 0.0
+duration: 267.36281
+end_of_fade_in: 0.119
+energy: 0.0
+key: 1
+key_confidence: 0.134
+loudness: -6.478
+mode: 1
+mode_confidence: 0.633
+release: Music Bank
+release_7digitalid: 385038
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (740,)
+segments_loudness_max: shape = (740,)
+segments_loudness_max_time: shape = (740,)
+segments_loudness_start: shape = (740,)
+segments_pitches: shape = (740, 12)
+segments_start: shape = (740,)
+segments_timbre: shape = (740, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.708746211068
+song_id: SOOLVIB12A8C1408E2
+start_of_fade_out: 260.278
+tatums_confidence: shape = (801,)
+tatums_start: shape = (801,)
+tempo: 92.012
+time_signature: 1
+time_signature_confidence: 0.094
+title: Brother
+track_7digitalid: 4274820
+track_id: TRACTIE128F92E473B
+year: 1992

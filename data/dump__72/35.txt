@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19078
+artist_familiarity: 0.46359371862
+artist_hotttnesss: 0.36773193521
+artist_id: AR6KK741187B98C9E9
+artist_latitude: nan
+artist_location: New Orleans, LA
+artist_longitude: nan
+artist_mbid: d3e79557-c278-40b6-89e6-ab8dc830b392
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Roy Brown
+artist_playmeid: 32286
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 501c9f7e7e5b7726ab54f0937b80542a
+bars_confidence: shape = (199,)
+bars_start: shape = (199,)
+beats_confidence: shape = (598,)
+beats_start: shape = (598,)
+danceability: 0.0
+duration: 229.51138
+end_of_fade_in: 0.258
+energy: 0.0
+key: 1
+key_confidence: 0.476
+loudness: -15.93
+mode: 1
+mode_confidence: 0.45
+release: Blues In My Shoes
+release_7digitalid: 778981
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (658,)
+segments_loudness_max: shape = (658,)
+segments_loudness_max_time: shape = (658,)
+segments_loudness_start: shape = (658,)
+segments_pitches: shape = (658, 12)
+segments_start: shape = (658,)
+segments_timbre: shape = (658, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOURQCZ12AC468CA6C
+start_of_fade_out: 219.585
+tatums_confidence: shape = (598,)
+tatums_start: shape = (598,)
+tempo: 159.356
+time_signature: 3
+time_signature_confidence: 1.0
+title: Travelin' Blues
+track_7digitalid: 8620171
+track_id: TRAYTSJ12903CF09F4
+year: 0

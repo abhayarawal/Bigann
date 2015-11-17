@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12221
+artist_familiarity: 0.0235041920565
+artist_hotttnesss: 0.524449470713
+artist_id: ARX2DLI1187FB4DD03
+artist_latitude: nan
+artist_location: Sydney, Australia
+artist_longitude: nan
+artist_mbid: f5b8ea5f-c269-45dd-9936-1fedf3c56851
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: The Presets
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 008734b8644534003c8aa1fcb933d88e
+bars_confidence: shape = (232,)
+bars_start: shape = (232,)
+beats_confidence: shape = (232,)
+beats_start: shape = (232,)
+danceability: 0.0
+duration: 243.9571
+end_of_fade_in: 0.419
+energy: 0.0
+key: 0
+key_confidence: 0.773
+loudness: -6.13
+mode: 1
+mode_confidence: 0.534
+release: Truth & Lies
+release_7digitalid: 69889
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1294,)
+segments_loudness_max: shape = (1294,)
+segments_loudness_max_time: shape = (1294,)
+segments_loudness_start: shape = (1294,)
+segments_pitches: shape = (1294, 12)
+segments_start: shape = (1294,)
+segments_timbre: shape = (1294, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.594854167907
+song_id: SOIQNWY12A67AD87D3
+start_of_fade_out: 230.87
+tatums_confidence: shape = (1858,)
+tatums_start: shape = (1858,)
+tempo: 59.496
+time_signature: 1
+time_signature_confidence: 0.0
+title: Truth And Lies
+track_7digitalid: 731959
+track_id: TRAXYGR128EF3456B5
+year: 2006

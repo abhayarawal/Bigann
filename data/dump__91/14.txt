@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2022
+artist_familiarity: 0.679749123706
+artist_hotttnesss: 0.458595402877
+artist_id: AR1ZYLH1187B98C159
+artist_latitude: nan
+artist_location: East Orange, NJ
+artist_longitude: nan
+artist_mbid: 3bdcd49d-212e-4f4f-877a-eac1e4a2bddc
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Naughty By Nature featuring Phiness
+artist_playmeid: 7556
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: e88948c1fb59dcbeca1098add881901f
+bars_confidence: shape = (143,)
+bars_start: shape = (143,)
+beats_confidence: shape = (433,)
+beats_start: shape = (433,)
+danceability: 0.0
+duration: 241.24036
+end_of_fade_in: 0.177
+energy: 0.0
+key: 1
+key_confidence: 0.042
+loudness: -9.742
+mode: 0
+mode_confidence: 0.314
+release: Nineteen Naughty Nine Nature's Fury
+release_7digitalid: 295644
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1042,)
+segments_loudness_max: shape = (1042,)
+segments_loudness_max_time: shape = (1042,)
+segments_loudness_start: shape = (1042,)
+segments_pitches: shape = (1042, 12)
+segments_start: shape = (1042,)
+segments_timbre: shape = (1042, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.386790177139
+song_id: SOIMLOI12A8C1383C0
+start_of_fade_out: 226.371
+tatums_confidence: shape = (865,)
+tatums_start: shape = (865,)
+tempo: 107.936
+time_signature: 3
+time_signature_confidence: 1.0
+title: Live Then Lay
+track_7digitalid: 3315006
+track_id: TRBFMCF128F42885AC
+year: 0

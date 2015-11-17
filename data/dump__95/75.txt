@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1915
+artist_familiarity: 0.712098902128
+artist_hotttnesss: 0.413393911287
+artist_id: AROTIMO1187FB532BF
+artist_latitude: nan
+artist_location: Compton CA
+artist_longitude: nan
+artist_mbid: 542f4f08-4d8f-48db-a414-d3a33a62929f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ Quik
+artist_playmeid: 7070
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 5e41a212796724d010fb1f901239c17a
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (360,)
+beats_start: shape = (360,)
+danceability: 0.0
+duration: 227.57832
+end_of_fade_in: 0.172
+energy: 0.0
+key: 11
+key_confidence: 0.021
+loudness: -4.753
+mode: 0
+mode_confidence: 0.281
+release: Trauma
+release_7digitalid: 77351
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1006,)
+segments_loudness_max: shape = (1006,)
+segments_loudness_max_time: shape = (1006,)
+segments_loudness_start: shape = (1006,)
+segments_pitches: shape = (1006, 12)
+segments_start: shape = (1006,)
+segments_timbre: shape = (1006, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMIFOI12A6D4F6A76
+start_of_fade_out: 222.708
+tatums_confidence: shape = (720,)
+tatums_start: shape = (720,)
+tempo: 94.393
+time_signature: 4
+time_signature_confidence: 1.0
+title: Ladies And Thugs
+track_7digitalid: 810489
+track_id: TRBGZQQ128EF354F69
+year: 0

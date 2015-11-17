@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15464
+artist_familiarity: 0.334542783657
+artist_hotttnesss: 0.0490343808485
+artist_id: AROIHOI122988FEB8E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mario Rosenstock
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: e3c53d96d2dd3cf420df81157b2abaa6
+bars_confidence: shape = (4,)
+bars_start: shape = (4,)
+beats_confidence: shape = (59,)
+beats_start: shape = (59,)
+danceability: 0.0
+duration: 44.19873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.0
+loudness: -17.472
+mode: 1
+mode_confidence: 0.0
+release: Gift Grub 7
+release_7digitalid: 49859
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (203,)
+segments_loudness_max: shape = (203,)
+segments_loudness_max_time: shape = (203,)
+segments_loudness_start: shape = (203,)
+segments_pitches: shape = (203, 12)
+segments_start: shape = (203,)
+segments_timbre: shape = (203, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOBUAFP12A6D4F9934
+start_of_fade_out: 44.199
+tatums_confidence: shape = (175,)
+tatums_start: shape = (175,)
+tempo: 79.05
+time_signature: 7
+time_signature_confidence: 0.115
+title: Smoke
+track_7digitalid: 525879
+track_id: TRAEXNK128F14901F8
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 244557
+artist_familiarity: 0.514414554202
+artist_hotttnesss: 0.413757657252
+artist_id: AR3KXHI1187FB3A8BF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2989f1b7-b1db-40a4-ab9e-a28a3b6d6c45
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dora The Explorer
+artist_playmeid: 24517
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 07e51c2f4fa0dd5d063bb016119135bf
+bars_confidence: shape = (68,)
+bars_start: shape = (68,)
+beats_confidence: shape = (276,)
+beats_start: shape = (276,)
+danceability: 0.0
+duration: 159.29424
+end_of_fade_in: 0.212
+energy: 0.0
+key: 11
+key_confidence: 0.518
+loudness: -6.014
+mode: 0
+mode_confidence: 0.605
+release: Dora The Explorer Dance Fiesta!
+release_7digitalid: 314962
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (720,)
+segments_loudness_max: shape = (720,)
+segments_loudness_max_time: shape = (720,)
+segments_loudness_start: shape = (720,)
+segments_pitches: shape = (720, 12)
+segments_start: shape = (720,)
+segments_timbre: shape = (720, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.405115721691
+song_id: SONMFZP12A8C14297C
+start_of_fade_out: 154.825
+tatums_confidence: shape = (1104,)
+tatums_start: shape = (1104,)
+tempo: 105.019
+time_signature: 4
+time_signature_confidence: 1.0
+title: Limbo Rock
+track_7digitalid: 3564311
+track_id: TRBCFUS128F92C90DD
+year: 2006

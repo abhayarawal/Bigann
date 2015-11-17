@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 215
+artist_familiarity: 0.775600345827
+artist_hotttnesss: 0.434922645312
+artist_id: AR19QNR1187B9A13C5
+artist_latitude: nan
+artist_location: Philadelphia, PA
+artist_longitude: nan
+artist_mbid: f7ebe5e2-c9fb-4959-a9b3-b09921168d50
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cassidy featuring R. Kelly
+artist_playmeid: 303
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 1fd7f65bcc4ed281447bc03e9f0dcb47
+bars_confidence: shape = (106,)
+bars_start: shape = (106,)
+beats_confidence: shape = (750,)
+beats_start: shape = (750,)
+danceability: 0.0
+duration: 247.24853
+end_of_fade_in: 0.236
+energy: 0.0
+key: 0
+key_confidence: 0.59
+loudness: -9.181
+mode: 1
+mode_confidence: 0.568
+release: Hotel
+release_7digitalid: 303100
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1091,)
+segments_loudness_max: shape = (1091,)
+segments_loudness_max_time: shape = (1091,)
+segments_loudness_start: shape = (1091,)
+segments_pitches: shape = (1091, 12)
+segments_start: shape = (1091,)
+segments_timbre: shape = (1091, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUDRIY12A8C13B59A
+start_of_fade_out: 239.473
+tatums_confidence: shape = (750,)
+tatums_start: shape = (750,)
+tempo: 182.456
+time_signature: 7
+time_signature_confidence: 1.0
+title: Hotel
+track_7digitalid: 3410734
+track_id: TRBHSRB128F429F827
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 178278
+artist_familiarity: 0.486047711424
+artist_hotttnesss: 0.380565167835
+artist_id: ARCYJTW11F4C840F74
+artist_latitude: nan
+artist_location: California
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Orchids
+artist_playmeid: -1
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 6dd6bc38a14c000560448bb3209396fe
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (295,)
+beats_start: shape = (295,)
+danceability: 0.0
+duration: 175.98649
+end_of_fade_in: 0.473
+energy: 0.0
+key: 10
+key_confidence: 0.0
+loudness: -11.91
+mode: 1
+mode_confidence: 0.219
+release: Chicago R&B [Parrot R&B]
+release_7digitalid: 240395
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (471,)
+segments_loudness_max: shape = (471,)
+segments_loudness_max_time: shape = (471,)
+segments_loudness_start: shape = (471,)
+segments_pitches: shape = (471, 12)
+segments_start: shape = (471,)
+segments_timbre: shape = (471, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.263689888363
+song_id: SOAHFGP12A6D4FB62E
+start_of_fade_out: 169.268
+tatums_confidence: shape = (590,)
+tatums_start: shape = (590,)
+tempo: 101.485
+time_signature: 3
+time_signature_confidence: 1.0
+title: You Said You Loved Me
+track_7digitalid: 3024062
+track_id: TRAGDDL128F4248973
+year: 0

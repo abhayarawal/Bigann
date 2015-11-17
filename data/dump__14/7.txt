@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3099
+artist_familiarity: 0.676755655323
+artist_hotttnesss: 0.543706050517
+artist_id: ARVZDOM1187B9B49C9
+artist_latitude: nan
+artist_location: Brooklyn, NY
+artist_longitude: nan
+artist_mbid: 7bb60591-46f3-4147-b692-1814a87e832e
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Barry Manilow
+artist_playmeid: 2158
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 141235ad5c1c99aa7187b62a819026c6
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (385,)
+beats_start: shape = (385,)
+danceability: 0.0
+duration: 235.96363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.207
+loudness: -3.723
+mode: 1
+mode_confidence: 0.406
+release: Here At The Mayflower
+release_7digitalid: 318959
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1085,)
+segments_loudness_max: shape = (1085,)
+segments_loudness_max_time: shape = (1085,)
+segments_loudness_start: shape = (1085,)
+segments_pitches: shape = (1085, 12)
+segments_start: shape = (1085,)
+segments_timbre: shape = (1085, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.301681756732
+song_id: SOIEXWD12A8C14314E
+start_of_fade_out: 228.119
+tatums_confidence: shape = (769,)
+tatums_start: shape = (769,)
+tempo: 98.001
+time_signature: 4
+time_signature_confidence: 1.0
+title: Come Monday
+track_7digitalid: 3598739
+track_id: TRAESQE128F92D0349
+year: 0

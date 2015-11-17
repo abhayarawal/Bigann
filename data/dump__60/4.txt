@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8948
+artist_familiarity: 0.490611414182
+artist_hotttnesss: 0.391574164116
+artist_id: ARG1UAO1187FB55E50
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5f3c4fe0-fc71-4455-99e6-abd0e8c4462e
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Sammi Cheng
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 642e50b47241253672b91ca8bdb78b82
+bars_confidence: shape = (105,)
+bars_start: shape = (105,)
+beats_confidence: shape = (431,)
+beats_start: shape = (431,)
+danceability: 0.0
+duration: 295.57506
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.735
+loudness: -12.611
+mode: 1
+mode_confidence: 0.732
+release: Sammi Vs Sammi 04 Concert CD
+release_7digitalid: 43089
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (904,)
+segments_loudness_max: shape = (904,)
+segments_loudness_max_time: shape = (904,)
+segments_loudness_start: shape = (904,)
+segments_pitches: shape = (904, 12)
+segments_start: shape = (904,)
+segments_timbre: shape = (904, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHRNFL12A6D4F9978
+start_of_fade_out: 274.21
+tatums_confidence: shape = (863,)
+tatums_start: shape = (863,)
+tempo: 87.099
+time_signature: 4
+time_signature_confidence: 0.458
+title: Luo Cuo Che
+track_7digitalid: 459080
+track_id: TRAUMRG128F1483D2F
+year: 0

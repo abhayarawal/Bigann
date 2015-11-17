@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2259
+artist_familiarity: 0.662670206488
+artist_hotttnesss: 0.378969800502
+artist_id: AR0V36F1187FB366B1
+artist_latitude: 53.41961
+artist_location: Ireland
+artist_longitude: -8.24055
+artist_mbid: fce5eb9a-95a7-4a54-b9e4-fe1b036fbe57
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: The Chieftains;Colin James
+artist_playmeid: 11515
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: e86b536748dadcabf230494f84231c34
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (406,)
+beats_start: shape = (406,)
+danceability: 0.0
+duration: 218.33098
+end_of_fade_in: 2.067
+energy: 0.0
+key: 7
+key_confidence: 0.061
+loudness: -12.81
+mode: 1
+mode_confidence: 0.504
+release: Another Country
+release_7digitalid: 293769
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (899,)
+segments_loudness_max: shape = (899,)
+segments_loudness_max_time: shape = (899,)
+segments_loudness_start: shape = (899,)
+segments_pitches: shape = (899, 12)
+segments_start: shape = (899,)
+segments_timbre: shape = (899, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SORSJPQ12A8C13875A
+start_of_fade_out: 210.971
+tatums_confidence: shape = (1218,)
+tatums_start: shape = (1218,)
+tempo: 114.589
+time_signature: 4
+time_signature_confidence: 0.0
+title: Cúnla/The Friar's Breeches
+track_7digitalid: 3301176
+track_id: TRAJZXZ128F4285158
+year: 1992

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3285
+artist_familiarity: 0.576053722689
+artist_hotttnesss: 0.385878057741
+artist_id: ARHOCKY11E2835D7CB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 06a63579-f1fc-4c4d-80fd-729ffafe06f5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Maire Brennan
+artist_playmeid: 40710
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 25c9a6beb3c4fa19167a93548443b3a9
+bars_confidence: shape = (135,)
+bars_start: shape = (135,)
+beats_confidence: shape = (410,)
+beats_start: shape = (410,)
+danceability: 0.0
+duration: 184.34567
+end_of_fade_in: 0.334
+energy: 0.0
+key: 7
+key_confidence: 0.153
+loudness: -9.584
+mode: 1
+mode_confidence: 0.559
+release: Perfect Time
+release_7digitalid: 6953
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (576,)
+segments_loudness_max: shape = (576,)
+segments_loudness_max_time: shape = (576,)
+segments_loudness_start: shape = (576,)
+segments_pitches: shape = (576, 12)
+segments_start: shape = (576,)
+segments_timbre: shape = (576, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.531722098421
+song_id: SOHGHMH12A67020155
+start_of_fade_out: 173.354
+tatums_confidence: shape = (819,)
+tatums_start: shape = (819,)
+tempo: 135.124
+time_signature: 3
+time_signature_confidence: 1.0
+title: The Big Rock (LP Version)
+track_7digitalid: 70545
+track_id: TRAOEQO128E0785439
+year: 0

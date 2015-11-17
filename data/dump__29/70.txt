@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 76721
+artist_familiarity: 0.316715635926
+artist_hotttnesss: 0.24913722954
+artist_id: ARCVMYS12454A51E6E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Sun Harbor's Chorus-Documentary Recordings
+artist_playmeid: 50151
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 3786cc61c87c5f8a5f50934190da599c
+bars_confidence: shape = (51,)
+bars_start: shape = (51,)
+beats_confidence: shape = (51,)
+beats_start: shape = (51,)
+danceability: 0.0
+duration: 58.46159
+end_of_fade_in: 0.392
+energy: 0.0
+key: 0
+key_confidence: 0.336
+loudness: -18.681
+mode: 1
+mode_confidence: 0.483
+release: Patriotic music of America
+release_7digitalid: 95064
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (117,)
+segments_loudness_max: shape = (117,)
+segments_loudness_max_time: shape = (117,)
+segments_loudness_start: shape = (117,)
+segments_pitches: shape = (117, 12)
+segments_start: shape = (117,)
+segments_timbre: shape = (117, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOASRYN12A8C139FA4
+start_of_fade_out: 52.831
+tatums_confidence: shape = (102,)
+tatums_start: shape = (102,)
+tempo: 56.958
+time_signature: 1
+time_signature_confidence: 0.0
+title: Navy hymn
+track_7digitalid: 1043033
+track_id: TRAKAEL128F4280E3A
+year: 0

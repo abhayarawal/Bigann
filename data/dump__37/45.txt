@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 127584
+artist_familiarity: 0.0375617550792
+artist_hotttnesss: 0.0
+artist_id: ARZXTUO12509411DAE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Vaggelis Perpiniadis
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: a2514e9d1ba5cc245523e83a60262606
+bars_confidence: shape = (314,)
+bars_start: shape = (314,)
+beats_confidence: shape = (314,)
+beats_start: shape = (314,)
+danceability: 0.0
+duration: 174.52363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.0
+loudness: -10.42
+mode: 1
+mode_confidence: 0.122
+release: Anthologia - Kostas Virvos
+release_7digitalid: 168061
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (650,)
+segments_loudness_max: shape = (650,)
+segments_loudness_max_time: shape = (650,)
+segments_loudness_start: shape = (650,)
+segments_pitches: shape = (650, 12)
+segments_start: shape = (650,)
+segments_timbre: shape = (650, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIRCZT12A8C13F724
+start_of_fade_out: 172.333
+tatums_confidence: shape = (628,)
+tatums_start: shape = (628,)
+tempo: 108.556
+time_signature: 1
+time_signature_confidence: 0.099
+title: To Diazigio
+track_7digitalid: 1777139
+track_id: TRAMSIE128F42904B2
+year: 0

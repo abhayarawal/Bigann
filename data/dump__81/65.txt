@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11809
+artist_familiarity: 0.831253649964
+artist_hotttnesss: 0.601427203912
+artist_id: ARSPUJF1187B9A14B8
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0039c7ae-e1a7-4a7d-9b49-0cbc716821a6
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Death Cab for Cutie
+artist_playmeid: 2691
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 9c88870dc90c045120eba8e7efa9fae8
+bars_confidence: shape = (66,)
+bars_start: shape = (66,)
+beats_confidence: shape = (201,)
+beats_start: shape = (201,)
+danceability: 0.0
+duration: 119.40526
+end_of_fade_in: 0.183
+energy: 0.0
+key: 7
+key_confidence: 0.632
+loudness: -10.775
+mode: 1
+mode_confidence: 0.71
+release: Narrow Stairs
+release_7digitalid: 234342
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (315,)
+segments_loudness_max: shape = (315,)
+segments_loudness_max_time: shape = (315,)
+segments_loudness_start: shape = (315,)
+segments_pitches: shape = (315, 12)
+segments_start: shape = (315,)
+segments_timbre: shape = (315, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.726863701108
+song_id: SONNYOP12A8AE45715
+start_of_fade_out: 110.196
+tatums_confidence: shape = (201,)
+tatums_start: shape = (201,)
+tempo: 101.306
+time_signature: 3
+time_signature_confidence: 0.69
+title: You Can Do Better Than Me (Album Version)
+track_7digitalid: 2572564
+track_id: TRBBZOG128F422B02B
+year: 2008

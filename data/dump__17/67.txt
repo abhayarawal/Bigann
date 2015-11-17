@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: -1
+artist_familiarity: 0.475457700998
+artist_hotttnesss: 0.309139497485
+artist_id: ARHDHOX122988F500E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Hot Club Of Detroit
+artist_playmeid: -1
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 2dbe6dbb72efea0f357ab486b7083757
+bars_confidence: shape = (138,)
+bars_start: shape = (138,)
+beats_confidence: shape = (559,)
+beats_start: shape = (559,)
+danceability: 0.0
+duration: 309.96853
+end_of_fade_in: 0.169
+energy: 0.0
+key: 4
+key_confidence: 0.629
+loudness: -12.469
+mode: 1
+mode_confidence: 0.365
+release: Smooth Jazz Journey - Third Edition
+release_7digitalid: 705863
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (998,)
+segments_loudness_max: shape = (998,)
+segments_loudness_max_time: shape = (998,)
+segments_loudness_start: shape = (998,)
+segments_pitches: shape = (998, 12)
+segments_start: shape = (998,)
+segments_timbre: shape = (998, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQTSEB12AB01884A0
+start_of_fade_out: 300.513
+tatums_confidence: shape = (1118,)
+tatums_start: shape = (1118,)
+tempo: 110.19
+time_signature: 4
+time_signature_confidence: 1.0
+title: Night Time
+track_7digitalid: 7829228
+track_id: TRAGAHW12903CA6DBE
+year: 0

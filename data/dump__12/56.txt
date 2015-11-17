@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 301063
+artist_familiarity: 0.543393231433
+artist_hotttnesss: 0.338575026457
+artist_id: ARTXS851187FB411C7
+artist_latitude: nan
+artist_location: Essex, England
+artist_longitude: nan
+artist_mbid: 6bb0bcaa-f96f-4c1a-b51d-c766db2af8ae
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Chris Farlowe
+artist_playmeid: 100509
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: ce3f1f9dae231811d58054c480b77bf8
+bars_confidence: shape = (429,)
+bars_start: shape = (429,)
+beats_confidence: shape = (429,)
+beats_start: shape = (429,)
+danceability: 0.0
+duration: 177.57995
+end_of_fade_in: 0.346
+energy: 0.0
+key: 7
+key_confidence: 0.345
+loudness: -11.027
+mode: 0
+mode_confidence: 0.59
+release: Out Of Time
+release_7digitalid: 781922
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (622,)
+segments_loudness_max: shape = (622,)
+segments_loudness_max_time: shape = (622,)
+segments_loudness_start: shape = (622,)
+segments_pitches: shape = (622, 12)
+segments_start: shape = (622,)
+segments_timbre: shape = (622, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGXWRE12AC468BE24
+start_of_fade_out: 175.078
+tatums_confidence: shape = (859,)
+tatums_start: shape = (859,)
+tempo: 146.913
+time_signature: 1
+time_signature_confidence: 0.0
+title: Paint It Black
+track_7digitalid: 8649778
+track_id: TRAEEGO12903CF7D27
+year: 1966

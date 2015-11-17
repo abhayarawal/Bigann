@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13447
+artist_familiarity: 0.686988954629
+artist_hotttnesss: 0.606630151729
+artist_id: ARX9YIP1187B98A656
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5ecc3f72-20a6-47a0-8dc5-fb0b3dadeea0
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: RUN-DMC
+artist_playmeid: 1373
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 1aa712fcb21bf9e633d3b398996e1427
+bars_confidence: shape = (114,)
+bars_start: shape = (114,)
+beats_confidence: shape = (461,)
+beats_start: shape = (461,)
+danceability: 0.0
+duration: 234.65751
+end_of_fade_in: 0.638
+energy: 0.0
+key: 1
+key_confidence: 0.572
+loudness: -12.75
+mode: 1
+mode_confidence: 0.382
+release: Run DMC
+release_7digitalid: 293884
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (877,)
+segments_loudness_max: shape = (877,)
+segments_loudness_max_time: shape = (877,)
+segments_loudness_start: shape = (877,)
+segments_pitches: shape = (877, 12)
+segments_start: shape = (877,)
+segments_timbre: shape = (877, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTVEKK12A8C1392E1
+start_of_fade_out: 217.281
+tatums_confidence: shape = (923,)
+tatums_start: shape = (923,)
+tempo: 119.67
+time_signature: 4
+time_signature_confidence: 0.686
+title: Hard Times
+track_7digitalid: 3300188
+track_id: TRAAVAH128F4284D7C
+year: 1984

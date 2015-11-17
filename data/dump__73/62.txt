@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23773
+artist_familiarity: 0.368134444886
+artist_hotttnesss: 0.313665816994
+artist_id: ARKA2YS1187B9A4060
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9e4bf2a9-1971-42d2-8742-f9edb00501c2
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Michèle Arnaud
+artist_playmeid: -1
+artist_terms: shape = (7,)
+artist_terms_freq: shape = (7,)
+artist_terms_weight: shape = (7,)
+audio_md5: 6daf84b43ff76d0e0dfbfa3063066aac
+bars_confidence: shape = (284,)
+bars_start: shape = (284,)
+beats_confidence: shape = (284,)
+beats_start: shape = (284,)
+danceability: 0.0
+duration: 163.05587
+end_of_fade_in: 0.334
+energy: 0.0
+key: 3
+key_confidence: 0.033
+loudness: -12.859
+mode: 1
+mode_confidence: 0.23
+release: The Greatest Hits from 40's and 50's_ Vol. 34
+release_7digitalid: 803135
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (461,)
+segments_loudness_max: shape = (461,)
+segments_loudness_max_time: shape = (461,)
+segments_loudness_start: shape = (461,)
+segments_pitches: shape = (461, 12)
+segments_start: shape = (461,)
+segments_timbre: shape = (461, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTCXIY12AB0183D7A
+start_of_fade_out: 150.953
+tatums_confidence: shape = (569,)
+tatums_start: shape = (569,)
+tempo: 111.152
+time_signature: 1
+time_signature_confidence: 0.0
+title: La vie d'artiste
+track_7digitalid: 8878149
+track_id: TRAZDHL12903CBBB4B
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 79228
+artist_familiarity: 0.48324306732
+artist_hotttnesss: 0.324430891993
+artist_id: ARH4N0N1187FB3E1F1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9a81b764-c59a-42c6-a273-9015bae6c366
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Malkit Singh
+artist_playmeid: 66601
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 410edf7b83761b630764a2f00b4bb055
+bars_confidence: shape = (210,)
+bars_start: shape = (210,)
+beats_confidence: shape = (633,)
+beats_start: shape = (633,)
+danceability: 0.0
+duration: 354.66404
+end_of_fade_in: 2.072
+energy: 0.0
+key: 2
+key_confidence: 0.721
+loudness: -9.645
+mode: 1
+mode_confidence: 0.505
+release: Hai Shava
+release_7digitalid: 470734
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (1554,)
+segments_loudness_max: shape = (1554,)
+segments_loudness_max_time: shape = (1554,)
+segments_loudness_start: shape = (1554,)
+segments_pitches: shape = (1554, 12)
+segments_start: shape = (1554,)
+segments_timbre: shape = (1554, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODCEXU12AB018B07E
+start_of_fade_out: 348.746
+tatums_confidence: shape = (1899,)
+tatums_start: shape = (1899,)
+tempo: 107.245
+time_signature: 3
+time_signature_confidence: 0.854
+title: Dhol Ton Bina
+track_7digitalid: 5232667
+track_id: TRAWOSK128F9343720
+year: 1993

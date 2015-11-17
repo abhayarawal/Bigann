@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 146907
+artist_familiarity: 0.475745337363
+artist_hotttnesss: 0.271757448429
+artist_id: ARW2I321187B9A9F87
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7025b16f-c58d-4939-9d25-74b871cbc6da
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Xose Manuel Budiño
+artist_playmeid: 213452
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: c3a42b4a8a2ca78e1c4761144a817b85
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (520,)
+beats_start: shape = (520,)
+danceability: 0.0
+duration: 235.54567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.084
+loudness: -3.508
+mode: 0
+mode_confidence: 0.344
+release: Zume De Tierra
+release_7digitalid: 790603
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (845,)
+segments_loudness_max: shape = (845,)
+segments_loudness_max_time: shape = (845,)
+segments_loudness_start: shape = (845,)
+segments_pitches: shape = (845, 12)
+segments_start: shape = (845,)
+segments_timbre: shape = (845, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOTRCK12AC468DCA4
+start_of_fade_out: 224.52
+tatums_confidence: shape = (1561,)
+tatums_start: shape = (1561,)
+tempo: 133.191
+time_signature: 5
+time_signature_confidence: 0.777
+title: Burbullas A Grella
+track_7digitalid: 8745495
+track_id: TRAYGEK12903D0F307
+year: 0

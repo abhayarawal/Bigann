@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40736
+artist_familiarity: 0.354065522317
+artist_hotttnesss: 0.270558018219
+artist_id: ARV3BXR1187B991C82
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 66370eca-c0a9-46e9-a289-8d5755de126b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Oscar Castro-Neves
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 26069705aea63f6a6fd34dd7471384f5
+bars_confidence: shape = (85,)
+bars_start: shape = (85,)
+beats_confidence: shape = (257,)
+beats_start: shape = (257,)
+danceability: 0.0
+duration: 197.38077
+end_of_fade_in: 3.053
+energy: 0.0
+key: 2
+key_confidence: 0.429
+loudness: -18.32
+mode: 1
+mode_confidence: 0.539
+release: Jazz Yule Love II
+release_7digitalid: 228390
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (564,)
+segments_loudness_max: shape = (564,)
+segments_loudness_max_time: shape = (564,)
+segments_loudness_start: shape = (564,)
+segments_pitches: shape = (564, 12)
+segments_start: shape = (564,)
+segments_timbre: shape = (564, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYTZKN12A6D4FB921
+start_of_fade_out: 183.008
+tatums_confidence: shape = (1027,)
+tatums_start: shape = (1027,)
+tempo: 79.992
+time_signature: 3
+time_signature_confidence: 0.343
+title: Air On A Six String
+track_7digitalid: 2497560
+track_id: TRANVHC128F421A90B
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: -1
+artist_familiarity: 0.368404326732
+artist_hotttnesss: 0.261816097451
+artist_id: ARVFGPJ1187B9A2477
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ac2a890e-d620-4dd7-861f-0e89ca0877ac
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Michelle & Vickie
+artist_playmeid: 174236
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: 0b16a95d209fda7a79ceaf22a5f8fc90
+bars_confidence: shape = (69,)
+bars_start: shape = (69,)
+beats_confidence: shape = (351,)
+beats_start: shape = (351,)
+danceability: 0.0
+duration: 190.56281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.226
+loudness: -4.116
+mode: 0
+mode_confidence: 0.519
+release: Aitai
+release_7digitalid: 543041
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (863,)
+segments_loudness_max: shape = (863,)
+segments_loudness_max_time: shape = (863,)
+segments_loudness_start: shape = (863,)
+segments_pitches: shape = (863, 12)
+segments_start: shape = (863,)
+segments_timbre: shape = (863, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFAWJJ12AB0180A39
+start_of_fade_out: 182.967
+tatums_confidence: shape = (1055,)
+tatums_start: shape = (1055,)
+tempo: 113.373
+time_signature: 5
+time_signature_confidence: 0.686
+title: Party For Pink
+track_7digitalid: 6011098
+track_id: TRAGGQQ128F931D8E1
+year: 0

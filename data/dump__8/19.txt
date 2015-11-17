@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16968
+artist_familiarity: 0.32467743102
+artist_hotttnesss: 0.304184256208
+artist_id: ARIJ7MR1187B9B484E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 415cab7b-226a-49c7-9c1c-92e96ab93876
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Peggy Zina
+artist_playmeid: 11018
+artist_terms: shape = (7,)
+artist_terms_freq: shape = (7,)
+artist_terms_weight: shape = (7,)
+audio_md5: ca258aa28a5cdad7fbed33e785ddd506
+bars_confidence: shape = (77,)
+bars_start: shape = (77,)
+beats_confidence: shape = (311,)
+beats_start: shape = (311,)
+danceability: 0.0
+duration: 200.38485
+end_of_fade_in: 0.316
+energy: 0.0
+key: 3
+key_confidence: 0.0
+loudness: -6.654
+mode: 1
+mode_confidence: 0.136
+release: To Pathos Ine Aformi
+release_7digitalid: 440942
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (786,)
+segments_loudness_max: shape = (786,)
+segments_loudness_max_time: shape = (786,)
+segments_loudness_start: shape = (786,)
+segments_pitches: shape = (786, 12)
+segments_start: shape = (786,)
+segments_timbre: shape = (786, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPJBSM12AB0182B14
+start_of_fade_out: 194.026
+tatums_confidence: shape = (1243,)
+tatums_start: shape = (1243,)
+tempo: 96.024
+time_signature: 4
+time_signature_confidence: 0.526
+title: O Hiroteros Ehthros Mou
+track_7digitalid: 4905162
+track_id: TRACROV128F92F6D6F
+year: 2009

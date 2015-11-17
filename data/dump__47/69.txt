@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 146907
+artist_familiarity: 0.475745337363
+artist_hotttnesss: 0.271757448429
+artist_id: ARW2I321187B9A9F87
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7025b16f-c58d-4939-9d25-74b871cbc6da
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Xose Manuel Budiño
+artist_playmeid: 213452
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 4b72e18c99c1acce146fe0883c37329e
+bars_confidence: shape = (177,)
+bars_start: shape = (177,)
+beats_confidence: shape = (713,)
+beats_start: shape = (713,)
+danceability: 0.0
+duration: 365.47873
+end_of_fade_in: 2.862
+energy: 0.0
+key: 0
+key_confidence: 0.75
+loudness: -5.407
+mode: 1
+mode_confidence: 0.689
+release: Zume De Tierra
+release_7digitalid: 790603
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1379,)
+segments_loudness_max: shape = (1379,)
+segments_loudness_max_time: shape = (1379,)
+segments_loudness_start: shape = (1379,)
+segments_pitches: shape = (1379, 12)
+segments_start: shape = (1379,)
+segments_timbre: shape = (1379, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQVHOW12AC46885EE
+start_of_fade_out: 358.388
+tatums_confidence: shape = (1426,)
+tatums_start: shape = (1426,)
+tempo: 119.835
+time_signature: 4
+time_signature_confidence: 1.0
+title: A Galicia Vente Xa
+track_7digitalid: 8745499
+track_id: TRAQFUM12903D0F30B
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 25654
+artist_familiarity: 0.508636229134
+artist_hotttnesss: 0.372119118631
+artist_id: AREUYDJ1187B9BA040
+artist_latitude: nan
+artist_location: Havířov, Česká republika
+artist_longitude: nan
+artist_mbid: ea759c1a-5ee5-4729-9871-7ddd270469d6
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Krystof
+artist_playmeid: 8949
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 31ae8035f495327ceaa924a39a65d071
+bars_confidence: shape = (174,)
+bars_start: shape = (174,)
+beats_confidence: shape = (526,)
+beats_start: shape = (526,)
+danceability: 0.0
+duration: 301.24363
+end_of_fade_in: 2.485
+energy: 0.0
+key: 0
+key_confidence: 0.0
+loudness: -7.016
+mode: 1
+mode_confidence: 0.271
+release: Mikrokosmos
+release_7digitalid: 72104
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (967,)
+segments_loudness_max: shape = (967,)
+segments_loudness_max_time: shape = (967,)
+segments_loudness_start: shape = (967,)
+segments_pitches: shape = (967, 12)
+segments_start: shape = (967,)
+segments_timbre: shape = (967, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.41373983586
+song_id: SOBLFTH12A6BD53D38
+start_of_fade_out: 292.838
+tatums_confidence: shape = (1052,)
+tatums_start: shape = (1052,)
+tempo: 105.157
+time_signature: 3
+time_signature_confidence: 0.904
+title: Star
+track_7digitalid: 757704
+track_id: TRAHOSA128EF34B865
+year: 2004

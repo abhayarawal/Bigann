@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 346728
+artist_familiarity: 0.324422216758
+artist_hotttnesss: 0.169797032606
+artist_id: AR9XPQF1187FB5A693
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2505814d-a241-4735-81e0-2331981eb79a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Mystic Moods Orchestra
+artist_playmeid: -1
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 3fcf69fa2d8fbb89da1a6b4bf85605dd
+bars_confidence: shape = (32,)
+bars_start: shape = (32,)
+beats_confidence: shape = (210,)
+beats_start: shape = (210,)
+danceability: 0.0
+duration: 207.09832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.615
+loudness: -29.342
+mode: 1
+mode_confidence: 0.624
+release: Stormy Weekend
+release_7digitalid: 468736
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (599,)
+segments_loudness_max: shape = (599,)
+segments_loudness_max_time: shape = (599,)
+segments_loudness_start: shape = (599,)
+segments_pitches: shape = (599, 12)
+segments_start: shape = (599,)
+segments_timbre: shape = (599, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTQZTJ12AB0183192
+start_of_fade_out: 203.714
+tatums_confidence: shape = (838,)
+tatums_start: shape = (838,)
+tempo: 60.439
+time_signature: 4
+time_signature_confidence: 0.584
+title: Visions
+track_7digitalid: 5212986
+track_id: TRAVEYE128F933EA89
+year: 0

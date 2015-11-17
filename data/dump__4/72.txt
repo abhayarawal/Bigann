@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8011
+artist_familiarity: 0.705745818021
+artist_hotttnesss: 0.359064295989
+artist_id: AR8LMZM1187B9A8160
+artist_latitude: nan
+artist_location: Houston, TX
+artist_longitude: nan
+artist_mbid: 99d4a7bd-198c-4561-b87b-0cc162a43669
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Brooke Valentine
+artist_playmeid: 5730
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 40555055e0644a6bfdf542cdba418b21
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (484,)
+beats_start: shape = (484,)
+danceability: 0.0
+duration: 261.53751
+end_of_fade_in: 0.253
+energy: 0.0
+key: 1
+key_confidence: 0.826
+loudness: -6.825
+mode: 1
+mode_confidence: 0.53
+release: Chain Letter
+release_7digitalid: 151246
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1132,)
+segments_loudness_max: shape = (1132,)
+segments_loudness_max_time: shape = (1132,)
+segments_loudness_start: shape = (1132,)
+segments_pitches: shape = (1132, 12)
+segments_start: shape = (1132,)
+segments_timbre: shape = (1132, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SORCBRS12A8C138350
+start_of_fade_out: 257.295
+tatums_confidence: shape = (967,)
+tatums_start: shape = (967,)
+tempo: 111.936
+time_signature: 4
+time_signature_confidence: 0.955
+title: Taste Of Dis (Explicit Version)
+track_7digitalid: 1580324
+track_id: TRABNIQ128F4261298
+year: 2005

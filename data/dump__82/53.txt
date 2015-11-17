@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 529956
+artist_familiarity: 0.30239656166
+artist_hotttnesss: 0.267067840715
+artist_id: ARKN6PC1187B98A4D0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1434bb77-b17e-4f0d-baa6-68afedabfad2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The California Cajun Orchestra
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 32c90ff0cccf9d86c4828dd8ef9d2e58
+bars_confidence: shape = (138,)
+bars_start: shape = (138,)
+beats_confidence: shape = (555,)
+beats_start: shape = (555,)
+danceability: 0.0
+duration: 172.48608
+end_of_fade_in: 0.583
+energy: 0.0
+key: 7
+key_confidence: 0.335
+loudness: -12.141
+mode: 1
+mode_confidence: 0.498
+release: Not Lonesome Anymore
+release_7digitalid: 227292
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (940,)
+segments_loudness_max: shape = (940,)
+segments_loudness_max_time: shape = (940,)
+segments_loudness_start: shape = (940,)
+segments_pitches: shape = (940, 12)
+segments_start: shape = (940,)
+segments_timbre: shape = (940, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.367154444561
+song_id: SOPWPTN12A58A7CBAF
+start_of_fade_out: 163.596
+tatums_confidence: shape = (1110,)
+tatums_start: shape = (1110,)
+tempo: 201.578
+time_signature: 4
+time_signature_confidence: 0.0
+title: Lake Charles Two-Step
+track_7digitalid: 2484110
+track_id: TRBCHGD128F421754A
+year: 0

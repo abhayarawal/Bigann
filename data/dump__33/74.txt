@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 36229
+artist_familiarity: 0.0185015424026
+artist_hotttnesss: 0.35297647202
+artist_id: ARW45YR1187FB3DE95
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: da447efe-b2d7-4c62-8743-1d969a108200
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pierre Perret
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: dd0407fd6a182170a90fad9a2425110a
+bars_confidence: shape = (48,)
+bars_start: shape = (48,)
+beats_confidence: shape = (196,)
+beats_start: shape = (196,)
+danceability: 0.0
+duration: 90.46159
+end_of_fade_in: 0.142
+energy: 0.0
+key: 5
+key_confidence: 0.085
+loudness: -11.372
+mode: 1
+mode_confidence: 0.469
+release: Le Monde de Pierrot
+release_7digitalid: 584842
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (343,)
+segments_loudness_max: shape = (343,)
+segments_loudness_max_time: shape = (343,)
+segments_loudness_start: shape = (343,)
+segments_pitches: shape = (343, 12)
+segments_start: shape = (343,)
+segments_timbre: shape = (343, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOGAKLF12A67AD9390
+start_of_fade_out: 85.862
+tatums_confidence: shape = (391,)
+tatums_start: shape = (391,)
+tempo: 135.487
+time_signature: 4
+time_signature_confidence: 0.011
+title: Le poulet
+track_7digitalid: 6484304
+track_id: TRALLOU12903CC36FE
+year: 1994

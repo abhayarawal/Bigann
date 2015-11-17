@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 196405
+artist_familiarity: 0.259374908464
+artist_hotttnesss: 0.0
+artist_id: ARNVYGT1264D12B047
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9167faae-e9dc-4b23-a082-d235e1020533
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Roy Carrier
+artist_playmeid: -1
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: aaef6e4d47f86b6210b5fee009295ad7
+bars_confidence: shape = (94,)
+bars_start: shape = (94,)
+beats_confidence: shape = (377,)
+beats_start: shape = (377,)
+danceability: 0.0
+duration: 220.1073
+end_of_fade_in: 0.222
+energy: 0.0
+key: 9
+key_confidence: 0.513
+loudness: -8.896
+mode: 0
+mode_confidence: 0.455
+release: Zydeco Soul
+release_7digitalid: 257227
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1399,)
+segments_loudness_max: shape = (1399,)
+segments_loudness_max_time: shape = (1399,)
+segments_loudness_start: shape = (1399,)
+segments_pitches: shape = (1399, 12)
+segments_start: shape = (1399,)
+segments_timbre: shape = (1399, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SOJJTCO12A58A7932A
+start_of_fade_out: 212.805
+tatums_confidence: shape = (1510,)
+tatums_start: shape = (1510,)
+tempo: 104.624
+time_signature: 4
+time_signature_confidence: 0.419
+title: My Baby Don't Wear No Shoes
+track_7digitalid: 2715524
+track_id: TRAXQPD128F424BCB9
+year: 0

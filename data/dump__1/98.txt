@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 189677
+artist_familiarity: 0.539181188161
+artist_hotttnesss: 0.276702624729
+artist_id: AR4K59J1187FB3759B
+artist_latitude: 44.11559
+artist_location: Oregon
+artist_longitude: -120.51484
+artist_mbid: 775d0224-57b0-4fae-a6ad-b2e9446b26df
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Soular
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 2d0b718eefdf3ea4039137e6b33078db
+bars_confidence: shape = (115,)
+bars_start: shape = (115,)
+beats_confidence: shape = (581,)
+beats_start: shape = (581,)
+danceability: 0.0
+duration: 244.45342
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.516
+loudness: -6.885
+mode: 1
+mode_confidence: 0.59
+release: Time and Space
+release_7digitalid: 245279
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (714,)
+segments_loudness_max: shape = (714,)
+segments_loudness_max_time: shape = (714,)
+segments_loudness_start: shape = (714,)
+segments_pitches: shape = (714, 12)
+segments_start: shape = (714,)
+segments_timbre: shape = (714, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.235846203279
+song_id: SOWDEPU12A8C137B14
+start_of_fade_out: 227.794
+tatums_confidence: shape = (1742,)
+tatums_start: shape = (1742,)
+tempo: 146.577
+time_signature: 5
+time_signature_confidence: 1.0
+title: Everything Changes
+track_7digitalid: 2742762
+track_id: TRAAPCC128F42519A7
+year: 0

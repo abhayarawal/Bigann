@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 312159
+artist_familiarity: 0.436660213131
+artist_hotttnesss: 0.299120014474
+artist_id: ARSKDV01187B98A619
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e769ea4a-c129-45df-abb1-3ccf4bbcc629
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Confetti's
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 5ec2bda41f60b634ad4bf6dedcacb028
+bars_confidence: shape = (16,)
+bars_start: shape = (16,)
+beats_confidence: shape = (66,)
+beats_start: shape = (66,)
+danceability: 0.0
+duration: 40.17587
+end_of_fade_in: 0.16
+energy: 0.0
+key: 2
+key_confidence: 0.0
+loudness: -8.99
+mode: 1
+mode_confidence: 0.0
+release: Greatest Hits
+release_7digitalid: 663237
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (132,)
+segments_loudness_max: shape = (132,)
+segments_loudness_max_time: shape = (132,)
+segments_loudness_start: shape = (132,)
+segments_pitches: shape = (132, 12)
+segments_start: shape = (132,)
+segments_timbre: shape = (132, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAKAPR12AB01845BE
+start_of_fade_out: 40.176
+tatums_confidence: shape = (132,)
+tatums_start: shape = (132,)
+tempo: 112.549
+time_signature: 4
+time_signature_confidence: 1.0
+title: The Sound of C (Acapella)
+track_7digitalid: 7349466
+track_id: TRAVOXW12903CA910B
+year: 0

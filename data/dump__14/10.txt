@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1482
+artist_familiarity: 0.67979355595
+artist_hotttnesss: 0.489458258471
+artist_id: AR8CT8U1187FB4D803
+artist_latitude: 52.47859
+artist_location: Birmingham, England
+artist_longitude: -1.9086
+artist_mbid: ccce2053-7007-4c36-b1e7-f8fcf5023a12
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Dexys Midnight Runners
+artist_playmeid: 450
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: f8b2f32f720e5a9ec44188f21baec347
+bars_confidence: shape = (610,)
+bars_start: shape = (610,)
+beats_confidence: shape = (610,)
+beats_start: shape = (610,)
+danceability: 0.0
+duration: 434.88608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.437
+loudness: -8.844
+mode: 1
+mode_confidence: 0.663
+release: The Projected Passion Revue
+release_7digitalid: 56996
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1282,)
+segments_loudness_max: shape = (1282,)
+segments_loudness_max_time: shape = (1282,)
+segments_loudness_start: shape = (1282,)
+segments_pitches: shape = (1282, 12)
+segments_start: shape = (1282,)
+segments_timbre: shape = (1282, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQTVUL12A6D4F8F04
+start_of_fade_out: 426.516
+tatums_confidence: shape = (1221,)
+tatums_start: shape = (1221,)
+tempo: 84.437
+time_signature: 1
+time_signature_confidence: 0.0
+title: Until I Believe In My Soul
+track_7digitalid: 592344
+track_id: TRAESWB128F149CB2C
+year: 1982

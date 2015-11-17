@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4549
+artist_familiarity: 0.830252261722
+artist_hotttnesss: 0.507965802159
+artist_id: ARYO9BU1187B9ADA88
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 169c4c28-858e-497b-81a4-8bc15e0026ea
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Porcupine Tree
+artist_playmeid: 9392
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: fa0d63f1d46787470eea22291f299894
+bars_confidence: shape = (556,)
+bars_start: shape = (556,)
+beats_confidence: shape = (2230,)
+beats_start: shape = (2230,)
+danceability: 0.0
+duration: 978.442
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.304
+loudness: -11.524
+mode: 0
+mode_confidence: 0.363
+release: The Sky Moves Sideways (Special Edition)
+release_7digitalid: 210456
+sections_confidence: shape = (33,)
+sections_start: shape = (33,)
+segments_confidence: shape = (3089,)
+segments_loudness_max: shape = (3089,)
+segments_loudness_max_time: shape = (3089,)
+segments_loudness_start: shape = (3089,)
+segments_pitches: shape = (3089, 12)
+segments_start: shape = (3089,)
+segments_timbre: shape = (3089, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.812029297467
+song_id: SOCDRKE12A8C13BF47
+start_of_fade_out: 966.954
+tatums_confidence: shape = (4461,)
+tatums_start: shape = (4461,)
+tempo: 134.075
+time_signature: 4
+time_signature_confidence: 0.04
+title: Moon Loop (Improvisation)
+track_7digitalid: 2287242
+track_id: TRAEADK128F4270AA6
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 32
+artist_familiarity: 0.840963900935
+artist_hotttnesss: 0.587869152218
+artist_id: ARNDL191187FB51583
+artist_latitude: nan
+artist_location: Seattle, USA
+artist_longitude: nan
+artist_mbid: 06fb1c8b-566e-4cb2-985b-b467c90781d4
+artist_mbtags: shape = (14,)
+artist_mbtags_count: shape = (14,)
+artist_name: Jimi Hendrix
+artist_playmeid: 808
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 53e39ed32b644604713efdd9c089f21c
+bars_confidence: shape = (524,)
+bars_start: shape = (524,)
+beats_confidence: shape = (524,)
+beats_start: shape = (524,)
+danceability: 0.0
+duration: 192.23465
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.677
+loudness: -6.216
+mode: 1
+mode_confidence: 0.68
+release: Valleys Of Neptune
+release_7digitalid: 763904
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (705,)
+segments_loudness_max: shape = (705,)
+segments_loudness_max_time: shape = (705,)
+segments_loudness_start: shape = (705,)
+segments_pitches: shape = (705, 12)
+segments_start: shape = (705,)
+segments_timbre: shape = (705, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.839849895585
+song_id: SOJEZUU12AB018B8C5
+start_of_fade_out: 187.826
+tatums_confidence: shape = (1049,)
+tatums_start: shape = (1049,)
+tempo: 167.263
+time_signature: 1
+time_signature_confidence: 0.0
+title: Fire
+track_7digitalid: 8471869
+track_id: TRAEVIK12903CCC7E2
+year: 1969

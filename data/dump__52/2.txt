@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21569
+artist_familiarity: 0.534464352229
+artist_hotttnesss: 0.368689372548
+artist_id: AR243ZT1187B9A98D2
+artist_latitude: 32.29869
+artist_location: Jackson, MS
+artist_longitude: -90.18049
+artist_mbid: ff609eb0-5425-4963-9e55-85d729f4648e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Otis Spann
+artist_playmeid: 27780
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 15d07f784ce2db100f6ebb23b503ab84
+bars_confidence: shape = (33,)
+bars_start: shape = (33,)
+beats_confidence: shape = (190,)
+beats_start: shape = (190,)
+danceability: 0.0
+duration: 180.40118
+end_of_fade_in: 3.622
+energy: 0.0
+key: 0
+key_confidence: 0.715
+loudness: -12.931
+mode: 1
+mode_confidence: 0.736
+release: The Biggest Thing Since Colossus
+release_7digitalid: 289516
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (654,)
+segments_loudness_max: shape = (654,)
+segments_loudness_max_time: shape = (654,)
+segments_loudness_start: shape = (654,)
+segments_pitches: shape = (654, 12)
+segments_start: shape = (654,)
+segments_timbre: shape = (654, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.427446571488
+song_id: SOEKXKK12A8C1367A0
+start_of_fade_out: 170.127
+tatums_confidence: shape = (570,)
+tatums_start: shape = (570,)
+tempo: 63.255
+time_signature: 4
+time_signature_confidence: 0.27
+title: No More Doggin'
+track_7digitalid: 3255487
+track_id: TRARTCZ128F427A176
+year: 1995

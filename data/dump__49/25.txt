@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 669
+artist_familiarity: 0.847451713218
+artist_hotttnesss: 0.779968004597
+artist_id: ARPAAHK1187B9ABB00
+artist_latitude: 49.26044
+artist_location: Hanna, Alberta, Canada
+artist_longitude: -123.11403
+artist_mbid: bc710bcf-8815-42cf-bad2-3f1d12246aeb
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Nickelback featuring Kid Rock
+artist_playmeid: 1168
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 4047a36859a4c9583f0844547d9ee6e2
+bars_confidence: shape = (142,)
+bars_start: shape = (142,)
+beats_confidence: shape = (570,)
+beats_start: shape = (570,)
+danceability: 0.0
+duration: 223.99955
+end_of_fade_in: 0.409
+energy: 0.0
+key: 7
+key_confidence: 0.704
+loudness: -3.709
+mode: 1
+mode_confidence: 0.611
+release: Charlie's Angels: Full Throttle (Music From The Motion Picture)
+release_7digitalid: 290248
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (847,)
+segments_loudness_max: shape = (847,)
+segments_loudness_max_time: shape = (847,)
+segments_loudness_start: shape = (847,)
+segments_pitches: shape = (847, 12)
+segments_start: shape = (847,)
+segments_timbre: shape = (847, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.68364734175
+song_id: SOFOAIA12A8C136186
+start_of_fade_out: 218.511
+tatums_confidence: shape = (1141,)
+tatums_start: shape = (1141,)
+tempo: 156.005
+time_signature: 4
+time_signature_confidence: 0.614
+title: Saturday Night's Alright (For Fighting)
+track_7digitalid: 3263549
+track_id: TRAQTKV128F427BFA5
+year: 2003

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 297174
+artist_familiarity: 0.694983409073
+artist_hotttnesss: 0.429780285791
+artist_id: AR189B91187B9B8D9C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 979d01bc-a4da-4c80-8cc1-be40bd35cd5e
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Cerati-Melero
+artist_playmeid: 14290
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 0fdb809226bc50c5d26f6fb679f31caf
+bars_confidence: shape = (140,)
+bars_start: shape = (140,)
+beats_confidence: shape = (561,)
+beats_start: shape = (561,)
+danceability: 0.0
+duration: 262.37342
+end_of_fade_in: 2.188
+energy: 0.0
+key: 10
+key_confidence: 0.544
+loudness: -11.291
+mode: 1
+mode_confidence: 0.445
+release: Colores Santos
+release_7digitalid: 509572
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1284,)
+segments_loudness_max: shape = (1284,)
+segments_loudness_max_time: shape = (1284,)
+segments_loudness_start: shape = (1284,)
+segments_pitches: shape = (1284, 12)
+segments_start: shape = (1284,)
+segments_timbre: shape = (1284, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.437036204112
+song_id: SOIZTGE12AB018096F
+start_of_fade_out: 262.373
+tatums_confidence: shape = (1121,)
+tatums_start: shape = (1121,)
+tempo: 129.047
+time_signature: 4
+time_signature_confidence: 0.651
+title: Marea De Venus
+track_7digitalid: 5641018
+track_id: TRAENOH128F933978A
+year: 0

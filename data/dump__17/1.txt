@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 32361
+artist_familiarity: 0.499157418441
+artist_hotttnesss: 0.371449824866
+artist_id: AR8WVQY1187FB3FA10
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ee03c284-c6dc-49b5-ba31-e388157f6ed3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: J. Karjalainen & Mustat Lasit
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: fa05f9e9083df5839b421079872ce404
+bars_confidence: shape = (85,)
+bars_start: shape = (85,)
+beats_confidence: shape = (341,)
+beats_start: shape = (341,)
+danceability: 0.0
+duration: 223.11138
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.826
+loudness: -7.242
+mode: 0
+mode_confidence: 0.718
+release: Lumipallo
+release_7digitalid: 131969
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (881,)
+segments_loudness_max: shape = (881,)
+segments_loudness_max_time: shape = (881,)
+segments_loudness_start: shape = (881,)
+segments_pitches: shape = (881, 12)
+segments_start: shape = (881,)
+segments_timbre: shape = (881, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPMEON12A81C1FDB9
+start_of_fade_out: 217.316
+tatums_confidence: shape = (683,)
+tatums_start: shape = (683,)
+tempo: 94.18
+time_signature: 4
+time_signature_confidence: 0.767
+title: Keinu Kanssani (2003 Digital Remaster)
+track_7digitalid: 1368458
+track_id: TRAFUAM128F423640A
+year: 0

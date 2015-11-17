@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 48797
+artist_familiarity: 0.909957522742
+artist_hotttnesss: 0.609262136002
+artist_id: AR9C8IE1187B9ACC99
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: cc0b7089-c08d-4c10-b6b0-873582c17fd6
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: System of a Down
+artist_playmeid: 1547
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 7b6b9aa0a61141631df9a4bdf906c4d8
+bars_confidence: shape = (128,)
+bars_start: shape = (128,)
+beats_confidence: shape = (517,)
+beats_start: shape = (517,)
+danceability: 0.0
+duration: 160.49587
+end_of_fade_in: 0.206
+energy: 0.0
+key: 0
+key_confidence: 0.552
+loudness: -4.173
+mode: 1
+mode_confidence: 0.479
+release: System Of A Down
+release_7digitalid: 284355
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (639,)
+segments_loudness_max: shape = (639,)
+segments_loudness_max_time: shape = (639,)
+segments_loudness_start: shape = (639,)
+segments_pitches: shape = (639, 12)
+segments_start: shape = (639,)
+segments_timbre: shape = (639, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.849873124008
+song_id: SOHQAKK12A8C131323
+start_of_fade_out: 157.901
+tatums_confidence: shape = (1034,)
+tatums_start: shape = (1034,)
+tempo: 196.201
+time_signature: 4
+time_signature_confidence: 0.0
+title: War?
+track_7digitalid: 3190249
+track_id: TRBEOSC128F426AB23
+year: 1996

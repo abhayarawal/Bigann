@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12983
+artist_familiarity: 0.439907658143
+artist_hotttnesss: 0.311559175647
+artist_id: ARQVLQJ1187B98F11F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 36be323a-edfd-49a3-ac25-a02ef6a2c351
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mau Mau
+artist_playmeid: 68721
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: f4e77c8c730438b062715a60dd0ad701
+bars_confidence: shape = (248,)
+bars_start: shape = (248,)
+beats_confidence: shape = (748,)
+beats_start: shape = (748,)
+danceability: 0.0
+duration: 233.40363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.353
+loudness: -7.106
+mode: 1
+mode_confidence: 0.549
+release: Made In Italy
+release_7digitalid: 56247
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1084,)
+segments_loudness_max: shape = (1084,)
+segments_loudness_max_time: shape = (1084,)
+segments_loudness_start: shape = (1084,)
+segments_pitches: shape = (1084, 12)
+segments_start: shape = (1084,)
+segments_timbre: shape = (1084, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOVQPMO12A6D4F8B8E
+start_of_fade_out: 228.844
+tatums_confidence: shape = (1495,)
+tatums_start: shape = (1495,)
+tempo: 195.874
+time_signature: 3
+time_signature_confidence: 0.62
+title: Balon Combo
+track_7digitalid: 584483
+track_id: TRAWBVQ128F149ADFD
+year: 1994

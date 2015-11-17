@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 244020
+artist_familiarity: 0.455679778544
+artist_hotttnesss: 0.343697449963
+artist_id: ARWNRBH1187B9B7E68
+artist_latitude: 48.88437
+artist_location: Neuilly-sur-Seine, France
+artist_longitude: 2.26934
+artist_mbid: 0ac4021c-ccbc-4a86-a565-83364ef51e42
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Philippe Sarde
+artist_playmeid: -1
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: f289a0d6e06db2a139be7f85c64b62fa
+bars_confidence: shape = (71,)
+bars_start: shape = (71,)
+beats_confidence: shape = (221,)
+beats_start: shape = (221,)
+danceability: 0.0
+duration: 158.82404
+end_of_fade_in: 0.661
+energy: 0.0
+key: 2
+key_confidence: 0.492
+loudness: -22.35
+mode: 0
+mode_confidence: 0.42
+release: Le Mystère de la Chambre Jaune (Bande Originale du Film)
+release_7digitalid: 452242
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (371,)
+segments_loudness_max: shape = (371,)
+segments_loudness_max_time: shape = (371,)
+segments_loudness_start: shape = (371,)
+segments_pitches: shape = (371, 12)
+segments_start: shape = (371,)
+segments_timbre: shape = (371, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWFQKL12AB017D754
+start_of_fade_out: 154.54
+tatums_confidence: shape = (442,)
+tatums_start: shape = (442,)
+tempo: 85.691
+time_signature: 3
+time_signature_confidence: 0.748
+title: Le Presbytère n'a rien perdu de son Charme
+track_7digitalid: 5023304
+track_id: TRABGUV128F9310D99
+year: 0

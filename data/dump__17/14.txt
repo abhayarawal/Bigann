@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 44243
+artist_familiarity: 0.489318161699
+artist_hotttnesss: 0.251165925092
+artist_id: ARM86R71187FB4CBB4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c6d2724e-4c37-43e7-bd7b-daa70443844a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Christian Quast
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: b9bb1e72301f080d0d67c5f222d58c58
+bars_confidence: shape = (212,)
+bars_start: shape = (212,)
+beats_confidence: shape = (853,)
+beats_start: shape = (853,)
+danceability: 0.0
+duration: 409.91302
+end_of_fade_in: 0.485
+energy: 0.0
+key: 1
+key_confidence: 0.342
+loudness: -12.066
+mode: 1
+mode_confidence: 0.379
+release: You Are! Remix Box
+release_7digitalid: 208424
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1941,)
+segments_loudness_max: shape = (1941,)
+segments_loudness_max_time: shape = (1941,)
+segments_loudness_start: shape = (1941,)
+segments_pitches: shape = (1941, 12)
+segments_start: shape = (1941,)
+segments_timbre: shape = (1941, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOGTVGQ12A8C13952B
+start_of_fade_out: 402.088
+tatums_confidence: shape = (1706,)
+tatums_start: shape = (1706,)
+tempo: 124.988
+time_signature: 4
+time_signature_confidence: 0.958
+title: You Are!
+track_7digitalid: 2259155
+track_id: TRAFVME128F4269F32
+year: 0

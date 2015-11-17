@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3539
+artist_familiarity: 0.722559297171
+artist_hotttnesss: 0.466509803115
+artist_id: AR6JVK31187FB58FE3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6ee7a715-e0c0-46d0-a215-2e17001699fc
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Eiffel 65
+artist_playmeid: -1
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 25ca962ece2ba26f9de7ba42dd000fb7
+bars_confidence: shape = (211,)
+bars_start: shape = (211,)
+beats_confidence: shape = (848,)
+beats_start: shape = (848,)
+danceability: 0.0
+duration: 390.00771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.001
+loudness: -5.286
+mode: 1
+mode_confidence: 0.083
+release: Blue [da ba dee] [2009 Remixes]
+release_7digitalid: 569882
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1766,)
+segments_loudness_max: shape = (1766,)
+segments_loudness_max_time: shape = (1766,)
+segments_loudness_start: shape = (1766,)
+segments_pitches: shape = (1766, 12)
+segments_start: shape = (1766,)
+segments_timbre: shape = (1766, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODDBHT12AB0186B6E
+start_of_fade_out: 387.024
+tatums_confidence: shape = (1695,)
+tatums_start: shape = (1695,)
+tempo: 130.039
+time_signature: 4
+time_signature_confidence: 0.638
+title: Blue [Da Ba Dee] [Gabry Ponte vs. HiFi Blueprint Remix]
+track_7digitalid: 6314348
+track_id: TRBBIJM12903C9AB35
+year: 0

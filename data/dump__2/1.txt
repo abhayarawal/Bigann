@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1380
+artist_familiarity: 0.761362238446
+artist_hotttnesss: 0.467110648585
+artist_id: AR56P361187B9AC4DB
+artist_latitude: 54.5958
+artist_location: Belfast, Northern Ireland
+artist_longitude: -5.93494
+artist_mbid: a8806b5c-3ee0-4277-94d3-1a5427a7707c
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Gary Moore
+artist_playmeid: 2590
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 60d4cdc9cd05d0082bcf23761c4a5ca6
+bars_confidence: shape = (217,)
+bars_start: shape = (217,)
+beats_confidence: shape = (871,)
+beats_start: shape = (871,)
+danceability: 0.0
+duration: 345.93914
+end_of_fade_in: 0.416
+energy: 0.0
+key: 2
+key_confidence: 0.04
+loudness: -6.951
+mode: 1
+mode_confidence: 0.148
+release: Dark Days In Paradise
+release_7digitalid: 52141
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1345,)
+segments_loudness_max: shape = (1345,)
+segments_loudness_max_time: shape = (1345,)
+segments_loudness_start: shape = (1345,)
+segments_pitches: shape = (1345, 12)
+segments_start: shape = (1345,)
+segments_timbre: shape = (1345, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.447135796286
+song_id: SOJHKYL12A6D4FA0AC
+start_of_fade_out: 339.754
+tatums_confidence: shape = (1743,)
+tatums_start: shape = (1743,)
+tempo: 153.862
+time_signature: 4
+time_signature_confidence: 0.404
+title: What Are We Here For
+track_7digitalid: 543990
+track_id: TRAAPIV128F1493132
+year: 1997

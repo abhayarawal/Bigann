@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 202912
+artist_familiarity: 0.8650215115
+artist_hotttnesss: 0.916053228284
+artist_id: ARJ7KF01187B98D717
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cc197bad-dc9c-440d-a5b5-d52ba2e14234
+artist_mbtags: shape = (12,)
+artist_mbtags_count: shape = (12,)
+artist_name: Coldplay
+artist_playmeid: 353
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: acebdc7697874633a53954a0a32ee5aa
+bars_confidence: shape = (151,)
+bars_start: shape = (151,)
+beats_confidence: shape = (606,)
+beats_start: shape = (606,)
+danceability: 0.0
+duration: 269.34812
+end_of_fade_in: 2.81
+energy: 0.0
+key: 9
+key_confidence: 0.468
+loudness: -6.294
+mode: 1
+mode_confidence: 0.333
+release: Fix You
+release_7digitalid: 17388
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (811,)
+segments_loudness_max: shape = (811,)
+segments_loudness_max_time: shape = (811,)
+segments_loudness_start: shape = (811,)
+segments_pitches: shape = (811, 12)
+segments_start: shape = (811,)
+segments_timbre: shape = (811, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.701266352615
+song_id: SOPMAEU12A67AE0C81
+start_of_fade_out: 259.535
+tatums_confidence: shape = (1211,)
+tatums_start: shape = (1211,)
+tempo: 136.82
+time_signature: 4
+time_signature_confidence: 0.0
+title: The World Turned Upside Down
+track_7digitalid: 187332
+track_id: TRBCJSZ128E07969B5
+year: 2005

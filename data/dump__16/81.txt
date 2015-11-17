@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 241
+artist_familiarity: 0.606611263628
+artist_hotttnesss: 0.441366585343
+artist_id: AR7WGYZ1187FB3CAB0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 47c8a452-4efb-45b4-a0d3-df506dbe42b2
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Wang Chung
+artist_playmeid: -1
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 19c218d0f5121f725eb64d6fce8a3418
+bars_confidence: shape = (199,)
+bars_start: shape = (199,)
+beats_confidence: shape = (800,)
+beats_start: shape = (800,)
+danceability: 0.0
+duration: 234.762
+end_of_fade_in: 0.27
+energy: 0.0
+key: 0
+key_confidence: 0.901
+loudness: -12.455
+mode: 1
+mode_confidence: 0.692
+release: 80s Triple Set
+release_7digitalid: 398
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1036,)
+segments_loudness_max: shape = (1036,)
+segments_loudness_max_time: shape = (1036,)
+segments_loudness_start: shape = (1036,)
+segments_pitches: shape = (1036, 12)
+segments_start: shape = (1036,)
+segments_timbre: shape = (1036, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.785025092046
+song_id: SODNQJO12A6310F970
+start_of_fade_out: 228.49
+tatums_confidence: shape = (1600,)
+tatums_start: shape = (1600,)
+tempo: 205.245
+time_signature: 4
+time_signature_confidence: 0.498
+title: Dance Hall Days
+track_7digitalid: 3728
+track_id: TRAFSAP128E0780ECF
+year: 1983

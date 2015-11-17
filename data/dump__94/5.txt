@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40779
+artist_familiarity: 0.749029874998
+artist_hotttnesss: 0.575501205145
+artist_id: ARZ96PB1187B98F5C9
+artist_latitude: 36.16778
+artist_location: Nashville, TN
+artist_longitude: -86.77836
+artist_mbid: ca1ca0e3-8506-40b4-ac29-dbfb60c5a0bd
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Jars Of Clay
+artist_playmeid: 5728
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 8cea63d4cb133215be41403b63a77985
+bars_confidence: shape = (128,)
+bars_start: shape = (128,)
+beats_confidence: shape = (386,)
+beats_start: shape = (386,)
+danceability: 0.0
+duration: 191.81669
+end_of_fade_in: 0.485
+energy: 0.0
+key: 2
+key_confidence: 0.544
+loudness: -4.888
+mode: 1
+mode_confidence: 0.48
+release: Mini Monsters EP
+release_7digitalid: 574824
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (489,)
+segments_loudness_max: shape = (489,)
+segments_loudness_max_time: shape = (489,)
+segments_loudness_start: shape = (489,)
+segments_pitches: shape = (489, 12)
+segments_start: shape = (489,)
+segments_timbre: shape = (489, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.345802233965
+song_id: SOUNGLM12AB0187A31
+start_of_fade_out: 179.821
+tatums_confidence: shape = (772,)
+tatums_start: shape = (772,)
+tempo: 128.018
+time_signature: 3
+time_signature_confidence: 0.395
+title: Love Me
+track_7digitalid: 6371659
+track_id: TRBGLRQ12903CA86EE
+year: 2006

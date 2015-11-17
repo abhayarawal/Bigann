@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10621
+artist_familiarity: 0.479755040732
+artist_hotttnesss: 0.340544079537
+artist_id: ARNARI81187FB3C9A7
+artist_latitude: nan
+artist_location: Rio de Janeiro, Brazil
+artist_longitude: nan
+artist_mbid: b1091eee-4198-4e66-8b15-05ae12b03353
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Flora Purim
+artist_playmeid: 27564
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: a7814c33bd2d5ab1b13e06d0e61547e3
+bars_confidence: shape = (167,)
+bars_start: shape = (167,)
+beats_confidence: shape = (506,)
+beats_start: shape = (506,)
+danceability: 0.0
+duration: 222.9024
+end_of_fade_in: 0.253
+energy: 0.0
+key: 4
+key_confidence: 0.349
+loudness: -20.831
+mode: 1
+mode_confidence: 0.416
+release: Encounter
+release_7digitalid: 275330
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (402,)
+segments_loudness_max: shape = (402,)
+segments_loudness_max_time: shape = (402,)
+segments_loudness_start: shape = (402,)
+segments_pitches: shape = (402, 12)
+segments_start: shape = (402,)
+segments_timbre: shape = (402, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOPQQMH12A81C2177E
+start_of_fade_out: 208.242
+tatums_confidence: shape = (506,)
+tatums_start: shape = (506,)
+tempo: 136.234
+time_signature: 3
+time_signature_confidence: 0.549
+title: Latinas
+track_7digitalid: 3062046
+track_id: TRANELD128F4250FCF
+year: 1994

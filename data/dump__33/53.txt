@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 598
+artist_familiarity: 0.889613554744
+artist_hotttnesss: 0.593808365175
+artist_id: ARSE5NP1187B9B98AB
+artist_latitude: nan
+artist_location: Chicago, IL
+artist_longitude: nan
+artist_mbid: 0bc858a1-3573-4216-9423-c96dd8c72919
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Twista & The Speedknot Mobstaz
+artist_playmeid: 1634
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 88537f99407b494215b69de0852fc16e
+bars_confidence: shape = (191,)
+bars_start: shape = (191,)
+beats_confidence: shape = (774,)
+beats_start: shape = (774,)
+danceability: 0.0
+duration: 377.86077
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.383
+loudness: -6.893
+mode: 0
+mode_confidence: 0.473
+release: Mobstability
+release_7digitalid: 135307
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1857,)
+segments_loudness_max: shape = (1857,)
+segments_loudness_max_time: shape = (1857,)
+segments_loudness_start: shape = (1857,)
+segments_pitches: shape = (1857, 12)
+segments_start: shape = (1857,)
+segments_timbre: shape = (1857, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.244510701724
+song_id: SOKFBHX12A8AE466DB
+start_of_fade_out: 372.129
+tatums_confidence: shape = (1548,)
+tatums_start: shape = (1548,)
+tempo: 121.957
+time_signature: 4
+time_signature_confidence: 1.0
+title: Warm Embrace (LP Version)
+track_7digitalid: 1401627
+track_id: TRALKBS128F423BB4C
+year: 0

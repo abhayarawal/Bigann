@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15244
+artist_familiarity: 0.62682132694
+artist_hotttnesss: 0.388752603404
+artist_id: ARZ4Y2H1187FB3C36F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 49fc7e46-5441-4b7e-996a-12dddf22a632
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Estopa
+artist_playmeid: 1804
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 7def878511887f89abfe049cb519abe1
+bars_confidence: shape = (112,)
+bars_start: shape = (112,)
+beats_confidence: shape = (452,)
+beats_start: shape = (452,)
+danceability: 0.0
+duration: 195.83955
+end_of_fade_in: 0.165
+energy: 0.0
+key: 11
+key_confidence: 0.742
+loudness: -12.359
+mode: 0
+mode_confidence: 0.732
+release: Estopa
+release_7digitalid: 293908
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (734,)
+segments_loudness_max: shape = (734,)
+segments_loudness_max_time: shape = (734,)
+segments_loudness_start: shape = (734,)
+segments_pitches: shape = (734, 12)
+segments_start: shape = (734,)
+segments_timbre: shape = (734, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.546635488572
+song_id: SOUWQYP12A8C1373F2
+start_of_fade_out: 190.758
+tatums_confidence: shape = (905,)
+tatums_start: shape = (905,)
+tempo: 142.869
+time_signature: 4
+time_signature_confidence: 1.0
+title: Exiliado En El Lavabo
+track_7digitalid: 3302380
+track_id: TRANJWP128F428560C
+year: 1999

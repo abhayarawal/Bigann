@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2161
+artist_familiarity: 0.770040694516
+artist_hotttnesss: 0.543681106661
+artist_id: AR4WHYC1187B9896E7
+artist_latitude: nan
+artist_location: Queens, NY
+artist_longitude: nan
+artist_mbid: 9689aa5a-4471-4fb4-9721-07cecda0fa9f
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: A Tribe Called Quest
+artist_playmeid: 4096
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 33a5fe1cffe9541c5df1fb81d89941bd
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (341,)
+beats_start: shape = (341,)
+danceability: 0.0
+duration: 215.27465
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.0
+loudness: -8.089
+mode: 0
+mode_confidence: 0.0
+release: Beats_ Rhymes & Life
+release_7digitalid: 296638
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (907,)
+segments_loudness_max: shape = (907,)
+segments_loudness_max_time: shape = (907,)
+segments_loudness_start: shape = (907,)
+segments_pitches: shape = (907, 12)
+segments_start: shape = (907,)
+segments_timbre: shape = (907, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.627785379788
+song_id: SOAMYXR12A8C13A8AF
+start_of_fade_out: 209.955
+tatums_confidence: shape = (683,)
+tatums_start: shape = (683,)
+tempo: 95.192
+time_signature: 4
+time_signature_confidence: 1.0
+title: Get A Hold
+track_7digitalid: 3357649
+track_id: TRBDRIT128F42929A1
+year: 1996

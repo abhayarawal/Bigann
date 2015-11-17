@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 416351
+artist_familiarity: 0.434062507478
+artist_hotttnesss: 0.225860544453
+artist_id: ARZVZRN1241B9C4B14
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mister Ries
+artist_playmeid: -1
+artist_terms: shape = (8,)
+artist_terms_freq: shape = (8,)
+artist_terms_weight: shape = (8,)
+audio_md5: 4d496acfd8003089481f3f45184021f0
+bars_confidence: shape = (122,)
+bars_start: shape = (122,)
+beats_confidence: shape = (493,)
+beats_start: shape = (493,)
+danceability: 0.0
+duration: 191.7122
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.403
+loudness: -14.113
+mode: 1
+mode_confidence: 0.438
+release: Rotterdam EP
+release_7digitalid: 598158
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (815,)
+segments_loudness_max: shape = (815,)
+segments_loudness_max_time: shape = (815,)
+segments_loudness_start: shape = (815,)
+segments_pitches: shape = (815, 12)
+segments_start: shape = (815,)
+segments_timbre: shape = (815, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWUARL12AC468AC3C
+start_of_fade_out: 187.896
+tatums_confidence: shape = (985,)
+tatums_start: shape = (985,)
+tempo: 150.009
+time_signature: 4
+time_signature_confidence: 0.0
+title: So It Goes
+track_7digitalid: 6637185
+track_id: TRAZVKD12903CE88C1
+year: 0

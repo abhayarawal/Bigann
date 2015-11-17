@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 214
+artist_familiarity: 0.947327506635
+artist_hotttnesss: 0.607257279581
+artist_id: AR03BDP1187FB5B324
+artist_latitude: 34.05349
+artist_location: Kentwood, LA; Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 45a663b5-b1cb-4a91-bff6-2bef7bbfdd76
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Britney Spears
+artist_playmeid: 267
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: ae4b177d448ad3cb38747487ce53e976
+bars_confidence: shape = (82,)
+bars_start: shape = (82,)
+beats_confidence: shape = (333,)
+beats_start: shape = (333,)
+danceability: 0.0
+duration: 211.01669
+end_of_fade_in: 0.282
+energy: 0.0
+key: 11
+key_confidence: 0.479
+loudness: -5.205
+mode: 1
+mode_confidence: 0.549
+release: The Singles Collection
+release_7digitalid: 634174
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (710,)
+segments_loudness_max: shape = (710,)
+segments_loudness_max_time: shape = (710,)
+segments_loudness_start: shape = (710,)
+segments_pitches: shape = (710, 12)
+segments_start: shape = (710,)
+segments_timbre: shape = (710, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMTXSB12AF72ACC38
+start_of_fade_out: 207.865
+tatums_confidence: shape = (665,)
+tatums_start: shape = (665,)
+tempo: 95.066
+time_signature: 4
+time_signature_confidence: 0.141
+title: Oops!...I Did It Again
+track_7digitalid: 7042062
+track_id: TRBAUVN128F932FEF8
+year: 2000

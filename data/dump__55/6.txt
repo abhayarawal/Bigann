@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18928
+artist_familiarity: 0.658349215353
+artist_hotttnesss: 0.396963183629
+artist_id: ARY2ZUX1187B9A266C
+artist_latitude: 37.77916
+artist_location: San Francisco, CA
+artist_longitude: -122.42005
+artist_mbid: a13e0f83-1c89-4034-88dc-19313b80e586
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Miguel Migs
+artist_playmeid: 52690
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: c62519ad336cd29d7e15b236205c4714
+bars_confidence: shape = (122,)
+bars_start: shape = (122,)
+beats_confidence: shape = (495,)
+beats_start: shape = (495,)
+danceability: 0.0
+duration: 284.60363
+end_of_fade_in: 0.084
+energy: 0.0
+key: 11
+key_confidence: 0.252
+loudness: -6.308
+mode: 0
+mode_confidence: 0.432
+release: Colorful You
+release_7digitalid: 27428
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1045,)
+segments_loudness_max: shape = (1045,)
+segments_loudness_max_time: shape = (1045,)
+segments_loudness_start: shape = (1045,)
+segments_pitches: shape = (1045, 12)
+segments_start: shape = (1045,)
+segments_timbre: shape = (1045, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.565451012174
+song_id: SOCEOAD12A5891FA33
+start_of_fade_out: 270.147
+tatums_confidence: shape = (991,)
+tatums_start: shape = (991,)
+tempo: 104.988
+time_signature: 4
+time_signature_confidence: 0.664
+title: The One
+track_7digitalid: 299435
+track_id: TRASVHD128F1465963
+year: 2002

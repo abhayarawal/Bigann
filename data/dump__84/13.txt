@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2153
+artist_familiarity: 0.624252499331
+artist_hotttnesss: 0.462190104591
+artist_id: ARZVTZN1187FB579D4
+artist_latitude: 32.20049
+artist_location: Galloway, Panola County, TX
+artist_longitude: -94.35887
+artist_mbid: 2c05faf7-5cc8-4476-9daa-d177ad75cd34
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Jim Reeves
+artist_playmeid: 13355
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: e82967d58f19461187e28c9c36bf8fbe
+bars_confidence: shape = (56,)
+bars_start: shape = (56,)
+beats_confidence: shape = (227,)
+beats_start: shape = (227,)
+danceability: 0.0
+duration: 151.58812
+end_of_fade_in: 0.182
+energy: 0.0
+key: 6
+key_confidence: 0.385
+loudness: -14.547
+mode: 0
+mode_confidence: 0.462
+release: The International Jim Reeves/ Good 'N' Country
+release_7digitalid: 297291
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (399,)
+segments_loudness_max: shape = (399,)
+segments_loudness_max_time: shape = (399,)
+segments_loudness_start: shape = (399,)
+segments_pitches: shape = (399, 12)
+segments_start: shape = (399,)
+segments_timbre: shape = (399, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SODISVN12A8C139DBF
+start_of_fade_out: 144.353
+tatums_confidence: shape = (453,)
+tatums_start: shape = (453,)
+tempo: 91.632
+time_signature: 4
+time_signature_confidence: 0.0
+title: True
+track_7digitalid: 3336492
+track_id: TRBCWGM128F428D6FD
+year: 2000

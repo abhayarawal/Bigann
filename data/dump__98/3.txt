@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19334
+artist_familiarity: 0.470212295689
+artist_hotttnesss: 0.320086926752
+artist_id: ARJIE2Y1187B994AB7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8910064e-1810-42dc-90ba-bdab48cd9326
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Line Renaud
+artist_playmeid: 26581
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: e293ce403c334392b01fb6bafca2dec8
+bars_confidence: shape = (77,)
+bars_start: shape = (77,)
+beats_confidence: shape = (235,)
+beats_start: shape = (235,)
+danceability: 0.0
+duration: 140.56444
+end_of_fade_in: 2.229
+energy: 0.0
+key: 4
+key_confidence: 0.232
+loudness: -11.616
+mode: 1
+mode_confidence: 0.0
+release: Copacabana
+release_7digitalid: 291956
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (432,)
+segments_loudness_max: shape = (432,)
+segments_loudness_max_time: shape = (432,)
+segments_loudness_start: shape = (432,)
+segments_pitches: shape = (432, 12)
+segments_start: shape = (432,)
+segments_timbre: shape = (432, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOVBQWR12A8C137843
+start_of_fade_out: 138.432
+tatums_confidence: shape = (469,)
+tatums_start: shape = (469,)
+tempo: 100.869
+time_signature: 3
+time_signature_confidence: 0.926
+title: Il N'Etait Pas Sentimental
+track_7digitalid: 3277919
+track_id: TRBHRXT128F427F7AD
+year: 0

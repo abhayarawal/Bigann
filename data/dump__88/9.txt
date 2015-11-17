@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 472
+artist_familiarity: 0.791761695567
+artist_hotttnesss: 0.474428172899
+artist_id: AROKAO61187FB38105
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3bcff06f-675a-451f-9075-99e8657047e8
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Four Tet
+artist_playmeid: -1
+artist_terms: shape = (78,)
+artist_terms_freq: shape = (78,)
+artist_terms_weight: shape = (78,)
+audio_md5: a5e69fc43abc2c7f75a196f75c6fdccf
+bars_confidence: shape = (202,)
+bars_start: shape = (202,)
+beats_confidence: shape = (813,)
+beats_start: shape = (813,)
+danceability: 0.0
+duration: 393.84771
+end_of_fade_in: 0.247
+energy: 0.0
+key: 10
+key_confidence: 0.062
+loudness: -9.857
+mode: 1
+mode_confidence: 0.278
+release: There Is Love In You
+release_7digitalid: 707597
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1868,)
+segments_loudness_max: shape = (1868,)
+segments_loudness_max_time: shape = (1868,)
+segments_loudness_start: shape = (1868,)
+segments_pitches: shape = (1868, 12)
+segments_start: shape = (1868,)
+segments_timbre: shape = (1868, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.704239414775
+song_id: SOZOEYP12AB0188C9D
+start_of_fade_out: 379.635
+tatums_confidence: shape = (1625,)
+tatums_start: shape = (1625,)
+tempo: 124.043
+time_signature: 4
+time_signature_confidence: 0.657
+title: Plastic People
+track_7digitalid: 7846781
+track_id: TRBEGQC12903CAB228
+year: 2010

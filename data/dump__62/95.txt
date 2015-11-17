@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4546
+artist_familiarity: 0.859873311989
+artist_hotttnesss: 0.533085375157
+artist_id: AR65OLD1187FB5C103
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b3b81e34-2bfa-4d3c-be35-8a528f06fcd0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: P.O.D.
+artist_playmeid: 1280
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 4c07d22a3e625fdce05f9acab09f2148
+bars_confidence: shape = (124,)
+bars_start: shape = (124,)
+beats_confidence: shape = (499,)
+beats_start: shape = (499,)
+danceability: 0.0
+duration: 189.54404
+end_of_fade_in: 0.183
+energy: 0.0
+key: 7
+key_confidence: 0.209
+loudness: -3.753
+mode: 0
+mode_confidence: 0.371
+release: Payable On Death
+release_7digitalid: 5976
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (604,)
+segments_loudness_max: shape = (604,)
+segments_loudness_max_time: shape = (604,)
+segments_loudness_start: shape = (604,)
+segments_pitches: shape = (604, 12)
+segments_start: shape = (604,)
+segments_timbre: shape = (604, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.622596351837
+song_id: SODMJKG12A670202EB
+start_of_fade_out: 176.82
+tatums_confidence: shape = (997,)
+tatums_start: shape = (997,)
+tempo: 162.019
+time_signature: 4
+time_signature_confidence: 0.659
+title: Find My Way (Album Version)
+track_7digitalid: 68326
+track_id: TRAVOVP128E078512B
+year: 0

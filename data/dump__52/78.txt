@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 45249
+artist_familiarity: 0.616564806344
+artist_hotttnesss: 0.41740579752
+artist_id: ARJE0KX1187FB53E82
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f6f76069-e47f-4f19-bee5-b6f1dd3afb2c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Energy
+artist_playmeid: 5257
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: dd7065ca5de976f31d12006a42b35bcb
+bars_confidence: shape = (107,)
+bars_start: shape = (107,)
+beats_confidence: shape = (432,)
+beats_start: shape = (432,)
+danceability: 0.0
+duration: 310.9873
+end_of_fade_in: 0.355
+energy: 0.0
+key: 2
+key_confidence: 0.112
+loudness: -5.941
+mode: 1
+mode_confidence: 0.282
+release: Energy
+release_7digitalid: 59397
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1058,)
+segments_loudness_max: shape = (1058,)
+segments_loudness_max_time: shape = (1058,)
+segments_loudness_start: shape = (1058,)
+segments_pitches: shape = (1058, 12)
+segments_start: shape = (1058,)
+segments_timbre: shape = (1058, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGLXHC12A58A7C184
+start_of_fade_out: 291.73
+tatums_confidence: shape = (1729,)
+tatums_start: shape = (1729,)
+tempo: 87.512
+time_signature: 4
+time_signature_confidence: 0.761
+title: Czwarty
+track_7digitalid: 614585
+track_id: TRARZOS128F14A1E17
+year: 0

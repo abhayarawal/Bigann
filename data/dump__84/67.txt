@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11001
+artist_familiarity: 0.763010513431
+artist_hotttnesss: 0.537675628064
+artist_id: ARBOG0H1187B99F775
+artist_latitude: 47.565
+artist_location: Bremerton, WA
+artist_longitude: -122.62569
+artist_mbid: 3b221a54-54b9-435c-a7f3-5cf8e2ce9fb2
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: MxPx
+artist_playmeid: 1135
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: eb6ae32e93c68e7f2634c3722109d8ac
+bars_confidence: shape = (150,)
+bars_start: shape = (150,)
+beats_confidence: shape = (604,)
+beats_start: shape = (604,)
+danceability: 0.0
+duration: 215.24853
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.854
+loudness: -5.316
+mode: 1
+mode_confidence: 0.496
+release: On The Cover
+release_7digitalid: 22451
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (701,)
+segments_loudness_max: shape = (701,)
+segments_loudness_max_time: shape = (701,)
+segments_loudness_start: shape = (701,)
+segments_pitches: shape = (701, 12)
+segments_start: shape = (701,)
+segments_timbre: shape = (701, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMOWDB12AF72A8AE2
+start_of_fade_out: 205.264
+tatums_confidence: shape = (1208,)
+tatums_start: shape = (1208,)
+tempo: 171.693
+time_signature: 4
+time_signature_confidence: 0.928
+title: Drum Machine Joy
+track_7digitalid: 232150
+track_id: TRBDBJM128F1456D2D
+year: 1995

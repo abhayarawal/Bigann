@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 326381
+artist_familiarity: 0.384772190478
+artist_hotttnesss: 0.0
+artist_id: ARN5BHA1187B99E072
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: eee13110-312e-460d-a996-74ba3a11e64d
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Leonard Kwan
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 95358205285439780590d7e267711476
+bars_confidence: shape = (75,)
+bars_start: shape = (75,)
+beats_confidence: shape = (303,)
+beats_start: shape = (303,)
+danceability: 0.0
+duration: 170.31791
+end_of_fade_in: 0.293
+energy: 0.0
+key: 5
+key_confidence: 0.0
+loudness: -17.805
+mode: 1
+mode_confidence: 0.0
+release: The Legendary Leonard Kwan : The Complete Early Recordings
+release_7digitalid: 437901
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (659,)
+segments_loudness_max: shape = (659,)
+segments_loudness_max_time: shape = (659,)
+segments_loudness_start: shape = (659,)
+segments_pitches: shape = (659, 12)
+segments_start: shape = (659,)
+segments_timbre: shape = (659, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOIMFZR12AB017F041
+start_of_fade_out: 163.318
+tatums_confidence: shape = (606,)
+tatums_start: shape = (606,)
+tempo: 108.912
+time_signature: 4
+time_signature_confidence: 0.765
+title: Hawaiian Chimes
+track_7digitalid: 4880621
+track_id: TRABHFK128F92F1271
+year: 0

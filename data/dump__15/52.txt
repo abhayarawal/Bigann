@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19603
+artist_familiarity: 0.730246318613
+artist_hotttnesss: 0.52048957098
+artist_id: AR2SGQW1187B9B9E7C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fc4568b6-cbe3-4a3d-8409-28510c19e3e2
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: KRS-One
+artist_playmeid: 6964
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 7a2e47773f212fa462001b43a5b036ff
+bars_confidence: shape = (66,)
+bars_start: shape = (66,)
+beats_confidence: shape = (338,)
+beats_start: shape = (338,)
+danceability: 0.0
+duration: 187.24526
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.466
+loudness: -5.73
+mode: 1
+mode_confidence: 0.395
+release: Adventures In Emceein
+release_7digitalid: 398420
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (819,)
+segments_loudness_max: shape = (819,)
+segments_loudness_max_time: shape = (819,)
+segments_loudness_start: shape = (819,)
+segments_pitches: shape = (819, 12)
+segments_start: shape = (819,)
+segments_timbre: shape = (819, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.494489517502
+song_id: SOHCTUT12A6D4FCD56
+start_of_fade_out: 187.245
+tatums_confidence: shape = (1014,)
+tatums_start: shape = (1014,)
+tempo: 109.072
+time_signature: 5
+time_signature_confidence: 1.0
+title: Getaway
+track_7digitalid: 4426880
+track_id: TRAFHJI128F9302CFF
+year: 2008

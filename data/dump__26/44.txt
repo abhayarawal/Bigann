@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 71053
+artist_familiarity: 0.708368203707
+artist_hotttnesss: 0.459809422463
+artist_id: ARORFTD1187B99F7D4
+artist_latitude: nan
+artist_location: 台北, Taiwan
+artist_longitude: nan
+artist_mbid: aeba6cc0-8f63-454e-b15b-92195ad4ee6d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Epitaph
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: f2db2603d8bbe265a7b111c28b33e391
+bars_confidence: shape = (236,)
+bars_start: shape = (236,)
+beats_confidence: shape = (1185,)
+beats_start: shape = (1185,)
+danceability: 0.0
+duration: 494.21016
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.332
+loudness: -11.017
+mode: 1
+mode_confidence: 0.518
+release: Epitaph
+release_7digitalid: 337538
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1918,)
+segments_loudness_max: shape = (1918,)
+segments_loudness_max_time: shape = (1918,)
+segments_loudness_start: shape = (1918,)
+segments_pitches: shape = (1918, 12)
+segments_start: shape = (1918,)
+segments_timbre: shape = (1918, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.386477291255
+song_id: SOJQNWK12AB0183758
+start_of_fade_out: 488.861
+tatums_confidence: shape = (3554,)
+tatums_start: shape = (3554,)
+tempo: 144.84
+time_signature: 5
+time_signature_confidence: 0.971
+title: Hopelessly
+track_7digitalid: 3776735
+track_id: TRAIWBW128F92F3DE0
+year: 0

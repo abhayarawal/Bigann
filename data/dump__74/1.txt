@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 192619
+artist_familiarity: 0.442769650057
+artist_hotttnesss: 0.294986616555
+artist_id: ARI648V1187B9B5379
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4e744ffc-767a-4b18-b485-47d4b123ff4a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Michael Stanley Band
+artist_playmeid: 15835
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 5bd77f1d55c0855336186f807a8bf147
+bars_confidence: shape = (130,)
+bars_start: shape = (130,)
+beats_confidence: shape = (524,)
+beats_start: shape = (524,)
+danceability: 0.0
+duration: 346.56608
+end_of_fade_in: 0.357
+energy: 0.0
+key: 7
+key_confidence: 0.789
+loudness: -11.768
+mode: 1
+mode_confidence: 0.68
+release: MSB
+release_7digitalid: 531118
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1035,)
+segments_loudness_max: shape = (1035,)
+segments_loudness_max_time: shape = (1035,)
+segments_loudness_start: shape = (1035,)
+segments_pitches: shape = (1035, 12)
+segments_start: shape = (1035,)
+segments_timbre: shape = (1035, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOZNLII12AB017EA4B
+start_of_fade_out: 328.94
+tatums_confidence: shape = (1048,)
+tatums_start: shape = (1048,)
+tempo: 92.161
+time_signature: 4
+time_signature_confidence: 0.465
+title: Spanish Nights
+track_7digitalid: 5869094
+track_id: TRAZHKJ128F92FB41D
+year: 1982

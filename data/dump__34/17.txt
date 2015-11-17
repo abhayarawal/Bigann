@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 185559
+artist_familiarity: 0.489816268982
+artist_hotttnesss: 0.328553015018
+artist_id: ARI3BMM1187FB4255E
+artist_latitude: 38.8991
+artist_location: Washington
+artist_longitude: -77.029
+artist_mbid: c5bca5a8-1357-4f4c-8544-b36c814ff6d6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Alice Stuart
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 0c4282d8da5c6f1ce9b6c396cadce375
+bars_confidence: shape = (130,)
+bars_start: shape = (130,)
+beats_confidence: shape = (421,)
+beats_start: shape = (421,)
+danceability: 0.0
+duration: 305.73669
+end_of_fade_in: 0.206
+energy: 0.0
+key: 0
+key_confidence: 1.0
+loudness: -12.28
+mode: 0
+mode_confidence: 0.985
+release: All The Good Times
+release_7digitalid: 239740
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (825,)
+segments_loudness_max: shape = (825,)
+segments_loudness_max_time: shape = (825,)
+segments_loudness_start: shape = (825,)
+segments_pitches: shape = (825, 12)
+segments_start: shape = (825,)
+segments_timbre: shape = (825, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHBSTB12A6D4FAE27
+start_of_fade_out: 295.108
+tatums_confidence: shape = (843,)
+tatums_start: shape = (843,)
+tempo: 83.456
+time_signature: 3
+time_signature_confidence: 0.376
+title: Woman Blue
+track_7digitalid: 3006512
+track_id: TRALPNU128F4244561
+year: 0

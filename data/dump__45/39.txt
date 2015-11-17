@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9917
+artist_familiarity: 0.589694605247
+artist_hotttnesss: 0.383863704328
+artist_id: AR21YNH1187FB49649
+artist_latitude: 51.50632
+artist_location: London
+artist_longitude: -0.12714
+artist_mbid: c0c5e158-d61d-4043-a0eb-dc6cc1e0a539
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Ms. Dynamite
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 7146906621e08cd7fe5df992b6bfa4c5
+bars_confidence: shape = (34,)
+bars_start: shape = (34,)
+beats_confidence: shape = (104,)
+beats_start: shape = (104,)
+danceability: 0.0
+duration: 56.13669
+end_of_fade_in: 0.316
+energy: 0.0
+key: 9
+key_confidence: 0.626
+loudness: -15.339
+mode: 0
+mode_confidence: 0.491
+release: A Little Deeper
+release_7digitalid: 13924
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (219,)
+segments_loudness_max: shape = (219,)
+segments_loudness_max_time: shape = (219,)
+segments_loudness_start: shape = (219,)
+segments_pitches: shape = (219, 12)
+segments_start: shape = (219,)
+segments_timbre: shape = (219, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.606807292841
+song_id: SOYYSKP12A67021A9E
+start_of_fade_out: 51.304
+tatums_confidence: shape = (208,)
+tatums_start: shape = (208,)
+tempo: 112.991
+time_signature: 3
+time_signature_confidence: 0.768
+title: Natural High (Interlude)
+track_7digitalid: 144594
+track_id: TRAPMRB128E078E21E
+year: 2002

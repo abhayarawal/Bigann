@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 144425
+artist_familiarity: 0.432386477298
+artist_hotttnesss: 0.284047409901
+artist_id: AR4ABL21187FB3913A
+artist_latitude: 40.99471
+artist_location: Pennsylvania
+artist_longitude: -77.60454
+artist_mbid: c51fafd3-08cb-4085-ad2c-d1fb53d0d6df
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Richard Burton
+artist_playmeid: 13700
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: c95eea2adece9d1ad05559dd46e0e687
+bars_confidence: shape = (67,)
+bars_start: shape = (67,)
+beats_confidence: shape = (272,)
+beats_start: shape = (272,)
+danceability: 0.0
+duration: 149.28934
+end_of_fade_in: 0.067
+energy: 0.0
+key: 5
+key_confidence: 0.642
+loudness: -15.545
+mode: 1
+mode_confidence: 0.593
+release: Broadway: The Great Original Cast Recordings
+release_7digitalid: 284045
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (489,)
+segments_loudness_max: shape = (489,)
+segments_loudness_max_time: shape = (489,)
+segments_loudness_start: shape = (489,)
+segments_pitches: shape = (489, 12)
+segments_start: shape = (489,)
+segments_timbre: shape = (489, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.42530424172
+song_id: SOKZLSY12A8C1320E1
+start_of_fade_out: 145.67
+tatums_confidence: shape = (545,)
+tatums_start: shape = (545,)
+tempo: 112.144
+time_signature: 4
+time_signature_confidence: 0.418
+title: Camelot
+track_7digitalid: 3186095
+track_id: TRAKSRQ128F4269AE8
+year: 0

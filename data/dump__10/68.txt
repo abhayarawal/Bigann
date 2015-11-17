@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 106145
+artist_familiarity: 0.741195239475
+artist_hotttnesss: 0.39579354591
+artist_id: ARA6BH81187B98F3AF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8a7a4e72-a099-425f-8238-80706fc1c746
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Modeselektor
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: c959b1883d5eba5c6a985f6d59057572
+bars_confidence: shape = (219,)
+bars_start: shape = (219,)
+beats_confidence: shape = (878,)
+beats_start: shape = (878,)
+danceability: 0.0
+duration: 256.31302
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.723
+loudness: -8.788
+mode: 1
+mode_confidence: 0.508
+release: Hello Mom!
+release_7digitalid: 134912
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1347,)
+segments_loudness_max: shape = (1347,)
+segments_loudness_max_time: shape = (1347,)
+segments_loudness_start: shape = (1347,)
+segments_pitches: shape = (1347, 12)
+segments_start: shape = (1347,)
+segments_timbre: shape = (1347, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.768534891103
+song_id: SOIXCFZ12A8AE462F5
+start_of_fade_out: 247.769
+tatums_confidence: shape = (1757,)
+tatums_start: shape = (1757,)
+tempo: 205.972
+time_signature: 4
+time_signature_confidence: 0.785
+title: Tetrispack
+track_7digitalid: 1394582
+track_id: TRADNPB128F423AEE7
+year: 2005

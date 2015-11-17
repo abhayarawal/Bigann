@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 568071
+artist_familiarity: 0.509793846408
+artist_hotttnesss: 0.400237197677
+artist_id: ARTXNYR12802FDE977
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 982b2315-b19b-4a97-a66a-c6b2904bca9f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: ZombieSuckers
+artist_playmeid: 214284
+artist_terms: shape = (7,)
+artist_terms_freq: shape = (7,)
+artist_terms_weight: shape = (7,)
+audio_md5: 1da7f73e6ddb8f0706127e348cfa4b3a
+bars_confidence: shape = (5,)
+bars_start: shape = (5,)
+beats_confidence: shape = (43,)
+beats_start: shape = (43,)
+danceability: 0.0
+duration: 62.95465
+end_of_fade_in: 0.109
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -22.904
+mode: 1
+mode_confidence: 0.0
+release: Tales From The Undead
+release_7digitalid: 759854
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (49,)
+segments_loudness_max: shape = (49,)
+segments_loudness_max_time: shape = (49,)
+segments_loudness_start: shape = (49,)
+segments_pitches: shape = (49, 12)
+segments_start: shape = (49,)
+segments_timbre: shape = (49, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODHOGM12AB018A4FA
+start_of_fade_out: 62.955
+tatums_confidence: shape = (173,)
+tatums_start: shape = (173,)
+tempo: 42.58
+time_signature: 4
+time_signature_confidence: 0.0
+title: The Nightmare Begins
+track_7digitalid: 8412921
+track_id: TRAOYZH12903CBE1FF
+year: 2010

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 359730
+artist_familiarity: 0.442082480243
+artist_hotttnesss: 0.323320731142
+artist_id: ARWOGTM11F4C83E795
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5c20e7d6-8802-4e3d-944d-7a5ed522411c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Small Knives
+artist_playmeid: -1
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: 679f6566ed04320705770e2021522720
+bars_confidence: shape = (140,)
+bars_start: shape = (140,)
+beats_confidence: shape = (564,)
+beats_start: shape = (564,)
+danceability: 0.0
+duration: 208.16934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.628
+loudness: -5.896
+mode: 1
+mode_confidence: 0.687
+release: Rain On Tin
+release_7digitalid: 485912
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (670,)
+segments_loudness_max: shape = (670,)
+segments_loudness_max_time: shape = (670,)
+segments_loudness_start: shape = (670,)
+segments_pitches: shape = (670, 12)
+segments_start: shape = (670,)
+segments_timbre: shape = (670, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPXVOR12AB017E16B
+start_of_fade_out: 196.975
+tatums_confidence: shape = (1127,)
+tatums_start: shape = (1127,)
+tempo: 167.935
+time_signature: 4
+time_signature_confidence: 0.053
+title: The Line
+track_7digitalid: 5391124
+track_id: TRBEGMG128F92FD7C4
+year: 2004

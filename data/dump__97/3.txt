@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21269
+artist_familiarity: 0.80310546991
+artist_hotttnesss: 0.545730700114
+artist_id: ARAKARO1187B9A1EB6
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: ccb8f30e-4d71-40c4-8b1d-846dafe73e2c
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: George Michael
+artist_playmeid: 667
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 9e9b61a21f6d48255d98cbced02e6ec2
+bars_confidence: shape = (223,)
+bars_start: shape = (223,)
+beats_confidence: shape = (1123,)
+beats_start: shape = (1123,)
+danceability: 0.0
+duration: 308.76689
+end_of_fade_in: 6.647
+energy: 0.0
+key: 7
+key_confidence: 0.222
+loudness: -7.255
+mode: 1
+mode_confidence: 0.612
+release: Twenty Five
+release_7digitalid: 278885
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1581,)
+segments_loudness_max: shape = (1581,)
+segments_loudness_max_time: shape = (1581,)
+segments_loudness_start: shape = (1581,)
+segments_pitches: shape = (1581, 12)
+segments_start: shape = (1581,)
+segments_timbre: shape = (1581, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQBMLT12A8AE45F50
+start_of_fade_out: 292.275
+tatums_confidence: shape = (2246,)
+tatums_start: shape = (2246,)
+tempo: 223.617
+time_signature: 5
+time_signature_confidence: 0.219
+title: Shoot The Dog
+track_7digitalid: 3105708
+track_id: TRBHKCL128F425A036
+year: 2004

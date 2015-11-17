@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9718
+artist_familiarity: 0.726298027446
+artist_hotttnesss: 0.555414575816
+artist_id: AR7Y6JX1187FB4D9B3
+artist_latitude: nan
+artist_location: Washington, D.C.
+artist_longitude: nan
+artist_mbid: e919b253-da5b-4aae-a444-6a368376a2d6
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Bad Brains
+artist_playmeid: 6595
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: abceedd168d48ec4d4e3cc2b870994ab
+bars_confidence: shape = (67,)
+bars_start: shape = (67,)
+beats_confidence: shape = (272,)
+beats_start: shape = (272,)
+danceability: 0.0
+duration: 118.04689
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.571
+loudness: -8.435
+mode: 1
+mode_confidence: 0.29
+release: Black Dots
+release_7digitalid: 21616
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (411,)
+segments_loudness_max: shape = (411,)
+segments_loudness_max_time: shape = (411,)
+segments_loudness_start: shape = (411,)
+segments_pitches: shape = (411, 12)
+segments_start: shape = (411,)
+segments_timbre: shape = (411, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.576315292379
+song_id: SOHLSKT12A6D4F71B4
+start_of_fade_out: 108.954
+tatums_confidence: shape = (544,)
+tatums_start: shape = (544,)
+tempo: 135.415
+time_signature: 4
+time_signature_confidence: 0.0
+title: At The Atlantis
+track_7digitalid: 224184
+track_id: TRALKVK128F14554D7
+year: 1996

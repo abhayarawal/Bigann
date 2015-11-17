@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 618
+artist_familiarity: 0.786427083379
+artist_hotttnesss: 0.512226738318
+artist_id: AR035N21187FB3938E
+artist_latitude: 34.23294
+artist_location: Earth
+artist_longitude: -102.4102
+artist_mbid: 88e2147d-0332-46f6-85b2-b5f463ba957b
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: BT
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 4059feae238ef4d17163a7d9f74e1652
+bars_confidence: shape = (20,)
+bars_start: shape = (20,)
+beats_confidence: shape = (82,)
+beats_start: shape = (82,)
+danceability: 0.0
+duration: 44.35546
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -18.147
+mode: 0
+mode_confidence: 0.0
+release: LOOK (Original Motion Picture Soundtrack)
+release_7digitalid: 472444
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (181,)
+segments_loudness_max: shape = (181,)
+segments_loudness_max_time: shape = (181,)
+segments_loudness_start: shape = (181,)
+segments_pitches: shape = (181, 12)
+segments_start: shape = (181,)
+segments_timbre: shape = (181, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SONXLQQ12AB0184B54
+start_of_fade_out: 44.355
+tatums_confidence: shape = (163,)
+tatums_start: shape = (163,)
+tempo: 136.164
+time_signature: 4
+time_signature_confidence: 0.68
+title: Robbers Kill Cop
+track_7digitalid: 5250706
+track_id: TRAAMKL128F9347D8A
+year: 0

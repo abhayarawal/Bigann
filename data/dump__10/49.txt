@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3946
+artist_familiarity: 0.454043995003
+artist_hotttnesss: 0.421415102542
+artist_id: AR9XEVF1187B99D017
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8601834a-baf3-473c-aac7-00e37b06144a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Borialis
+artist_playmeid: 119364
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 1a34e11e15e7dfb6e3ce5628c0005466
+bars_confidence: shape = (183,)
+bars_start: shape = (183,)
+beats_confidence: shape = (734,)
+beats_start: shape = (734,)
+danceability: 0.0
+duration: 294.68689
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.841
+loudness: -5.4
+mode: 1
+mode_confidence: 0.688
+release: What You Thought You Heard
+release_7digitalid: 4967
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (1139,)
+segments_loudness_max: shape = (1139,)
+segments_loudness_max_time: shape = (1139,)
+segments_loudness_start: shape = (1139,)
+segments_pitches: shape = (1139, 12)
+segments_start: shape = (1139,)
+segments_timbre: shape = (1139, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.552807662035
+song_id: SOVUPWB12A6701F623
+start_of_fade_out: 277.734
+tatums_confidence: shape = (1467,)
+tatums_start: shape = (1467,)
+tempo: 151.805
+time_signature: 4
+time_signature_confidence: 0.363
+title: Can't Break This Man
+track_7digitalid: 51420
+track_id: TRADMCH128E0784D99
+year: 0

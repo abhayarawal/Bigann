@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 253546
+artist_familiarity: 0.889749219647
+artist_hotttnesss: 0.872447223164
+artist_id: ARS54I31187FB46721
+artist_latitude: nan
+artist_location: Wyomissing, PA
+artist_longitude: nan
+artist_mbid: 20244d07-534f-4eff-b4d4-930878889970
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Taylor Swift
+artist_playmeid: 5232
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: ba02861f8f56ede4604efa22e3cc0d14
+bars_confidence: shape = (168,)
+bars_start: shape = (168,)
+beats_confidence: shape = (674,)
+beats_start: shape = (674,)
+danceability: 0.0
+duration: 245.78567
+end_of_fade_in: 0.107
+energy: 0.0
+key: 4
+key_confidence: 0.365
+loudness: -4.954
+mode: 0
+mode_confidence: 0.451
+release: Fearless
+release_7digitalid: 382330
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (686,)
+segments_loudness_max: shape = (686,)
+segments_loudness_max_time: shape = (686,)
+segments_loudness_start: shape = (686,)
+segments_pitches: shape = (686, 12)
+segments_start: shape = (686,)
+segments_timbre: shape = (686, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVCFPI12AAF3B2045
+start_of_fade_out: 232.2
+tatums_confidence: shape = (1347,)
+tatums_start: shape = (1347,)
+tempo: 167.97
+time_signature: 4
+time_signature_confidence: 0.623
+title: Should've Said No
+track_7digitalid: 4243073
+track_id: TRALIEV128F92DE23C
+year: 2006

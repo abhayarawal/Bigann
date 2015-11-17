@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22678
+artist_familiarity: 0.472247769437
+artist_hotttnesss: 0.316724550698
+artist_id: ARJ3VRY1187B9A3058
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 426bbccf-c6c7-45f2-bf03-5ce0b1e064b1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Memphis La Blusera
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: c33c4d9a1ef6a9c1834e4d90dafa0849
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (434,)
+beats_start: shape = (434,)
+danceability: 0.0
+duration: 243.46077
+end_of_fade_in: 0.09
+energy: 0.0
+key: 6
+key_confidence: 0.164
+loudness: -6.574
+mode: 1
+mode_confidence: 0.571
+release: Hoy Es Hoy
+release_7digitalid: 780781
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (785,)
+segments_loudness_max: shape = (785,)
+segments_loudness_max_time: shape = (785,)
+segments_loudness_start: shape = (785,)
+segments_pitches: shape = (785, 12)
+segments_start: shape = (785,)
+segments_timbre: shape = (785, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXJPDJ12AC4689AE4
+start_of_fade_out: 240.901
+tatums_confidence: shape = (868,)
+tatums_start: shape = (868,)
+tempo: 108.009
+time_signature: 4
+time_signature_confidence: 0.412
+title: Hoy Es Hoy
+track_7digitalid: 8639249
+track_id: TRAEQWJ12903CF5475
+year: 0

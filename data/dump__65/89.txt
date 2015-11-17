@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41556
+artist_familiarity: 0.67323869066
+artist_hotttnesss: 0.479204557694
+artist_id: AR87K371187FB5AA8E
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: f1548c5b-329e-4036-921c-02213a04b525
+artist_mbtags: shape = (14,)
+artist_mbtags_count: shape = (14,)
+artist_name: Uriah Heep
+artist_playmeid: -1
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 9391b2e328a47bb6dd6a8cd2960cf376
+bars_confidence: shape = (145,)
+bars_start: shape = (145,)
+beats_confidence: shape = (584,)
+beats_start: shape = (584,)
+danceability: 0.0
+duration: 252.9171
+end_of_fade_in: 0.131
+energy: 0.0
+key: 5
+key_confidence: 0.774
+loudness: -16.118
+mode: 1
+mode_confidence: 0.72
+release: Look At Yourself
+release_7digitalid: 796774
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (687,)
+segments_loudness_max: shape = (687,)
+segments_loudness_max_time: shape = (687,)
+segments_loudness_start: shape = (687,)
+segments_pitches: shape = (687, 12)
+segments_start: shape = (687,)
+segments_timbre: shape = (687, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.561469137036
+song_id: SONXFRI12AB018726F
+start_of_fade_out: 240.994
+tatums_confidence: shape = (1168,)
+tatums_start: shape = (1168,)
+tempo: 143.14
+time_signature: 4
+time_signature_confidence: 0.182
+title: What Should Be Done
+track_7digitalid: 8815390
+track_id: TRAWMCL12903CAC63B
+year: 1971

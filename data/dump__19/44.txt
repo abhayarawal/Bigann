@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 48409
+artist_familiarity: 0.665322161906
+artist_hotttnesss: 0.394217198901
+artist_id: ARRJNTE1187FB44E12
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 73d882c7-1146-4012-a61b-a3b2c11fce2f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Casiotone For The Painfully Alone
+artist_playmeid: -1
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: d8847e8182116e59303bf3b894705305
+bars_confidence: shape = (65,)
+bars_start: shape = (65,)
+beats_confidence: shape = (65,)
+beats_start: shape = (65,)
+danceability: 0.0
+duration: 51.01669
+end_of_fade_in: 0.088
+energy: 0.0
+key: 0
+key_confidence: 0.276
+loudness: -20.499
+mode: 1
+mode_confidence: 0.707
+release: The First Two Albums
+release_7digitalid: 234421
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (109,)
+segments_loudness_max: shape = (109,)
+segments_loudness_max_time: shape = (109,)
+segments_loudness_start: shape = (109,)
+segments_pitches: shape = (109, 12)
+segments_start: shape = (109,)
+segments_timbre: shape = (109, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.673959844406
+song_id: SOKUBEF12A6D4FA3B8
+start_of_fade_out: 47.183
+tatums_confidence: shape = (130,)
+tatums_start: shape = (130,)
+tempo: 78.16
+time_signature: 1
+time_signature_confidence: 0.0
+title: Dying Batteries
+track_7digitalid: 2573678
+track_id: TRAGPEA128F422B47E
+year: 2001

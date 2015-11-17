@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 34054
+artist_familiarity: 0.51401283293
+artist_hotttnesss: 0.332837724778
+artist_id: ARD6S3O1187FB3F1F0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e1310352-9e1d-48f9-bf73-41fe6ba12291
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Special Duties
+artist_playmeid: -1
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: ffe1ba8e51dd1d82d80d94b163ebb69a
+bars_confidence: shape = (259,)
+bars_start: shape = (259,)
+beats_confidence: shape = (259,)
+beats_start: shape = (259,)
+danceability: 0.0
+duration: 122.56608
+end_of_fade_in: 0.15
+energy: 0.0
+key: 9
+key_confidence: 0.828
+loudness: -5.901
+mode: 1
+mode_confidence: 0.646
+release: '77 In '97
+release_7digitalid: 802321
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (360,)
+segments_loudness_max: shape = (360,)
+segments_loudness_max_time: shape = (360,)
+segments_loudness_start: shape = (360,)
+segments_pitches: shape = (360, 12)
+segments_start: shape = (360,)
+segments_timbre: shape = (360, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOBACBP12AB0188B9F
+start_of_fade_out: 109.61
+tatums_confidence: shape = (518,)
+tatums_start: shape = (518,)
+tempo: 128.822
+time_signature: 1
+time_signature_confidence: 0.0
+title: Punk Rocker '97
+track_7digitalid: 8872870
+track_id: TRATGUX12903CBA6AC
+year: 0

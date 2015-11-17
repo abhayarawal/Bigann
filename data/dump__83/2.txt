@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18036
+artist_familiarity: 0.529788041081
+artist_hotttnesss: 0.420114180265
+artist_id: ARI0AB01187B9B7D94
+artist_latitude: nan
+artist_location: Reinerton, PA
+artist_longitude: nan
+artist_mbid: 3ffc8b31-cfe8-44c9-aa2e-e82d3355e9b3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Les Brown
+artist_playmeid: 17700
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 09e806d77612e8154034ffd9edbd650d
+bars_confidence: shape = (469,)
+bars_start: shape = (469,)
+beats_confidence: shape = (469,)
+beats_start: shape = (469,)
+danceability: 0.0
+duration: 203.7024
+end_of_fade_in: 0.131
+energy: 0.0
+key: 1
+key_confidence: 0.231
+loudness: -12.903
+mode: 1
+mode_confidence: 0.407
+release: Live 12 May 1957
+release_7digitalid: 435561
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (670,)
+segments_loudness_max: shape = (670,)
+segments_loudness_max_time: shape = (670,)
+segments_loudness_start: shape = (670,)
+segments_pitches: shape = (670, 12)
+segments_start: shape = (670,)
+segments_timbre: shape = (670, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVOHEI12AB017C590
+start_of_fade_out: 190.769
+tatums_confidence: shape = (937,)
+tatums_start: shape = (937,)
+tempo: 140.97
+time_signature: 1
+time_signature_confidence: 0.405
+title: Take The "A" Train
+track_7digitalid: 4852861
+track_id: TRBCLUS128F92EA61B
+year: 0

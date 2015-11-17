@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17428
+artist_familiarity: 0.892688611404
+artist_hotttnesss: 0.830356766357
+artist_id: ARXOTQH1187FB57084
+artist_latitude: nan
+artist_location: Fairfax, California
+artist_longitude: nan
+artist_mbid: e1009244-1bf4-4a4c-889e-0db83b9be08f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Chris Brown
+artist_playmeid: 2729
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: a7128a52ae026a82cc9cf1dc8ea910e5
+bars_confidence: shape = (96,)
+bars_start: shape = (96,)
+beats_confidence: shape = (385,)
+beats_start: shape = (385,)
+danceability: 0.0
+duration: 219.21914
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.33
+loudness: -4.963
+mode: 0
+mode_confidence: 0.452
+release: Graffiti
+release_7digitalid: 640908
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (845,)
+segments_loudness_max: shape = (845,)
+segments_loudness_max_time: shape = (845,)
+segments_loudness_start: shape = (845,)
+segments_pitches: shape = (845, 12)
+segments_start: shape = (845,)
+segments_timbre: shape = (845, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.65261955121
+song_id: SOVXTGT12A58A78B8D
+start_of_fade_out: 216.352
+tatums_confidence: shape = (770,)
+tatums_start: shape = (770,)
+tempo: 105.98
+time_signature: 4
+time_signature_confidence: 0.824
+title: Famous Girl
+track_7digitalid: 7111669
+track_id: TRAWDWZ128F9340E55
+year: 0

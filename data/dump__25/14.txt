@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 229621
+artist_familiarity: 0.351182453883
+artist_hotttnesss: 0.0801669386642
+artist_id: AR051KA1187B98B2FF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9db08847-f7a8-4cd2-a425-3ab4adc5b4d3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Wilks featuring pee wee ellis
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 5ff32fd78563ef413f2b15f7dee16a57
+bars_confidence: shape = (75,)
+bars_start: shape = (75,)
+beats_confidence: shape = (304,)
+beats_start: shape = (304,)
+danceability: 0.0
+duration: 210.80771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.046
+loudness: -11.302
+mode: 1
+mode_confidence: 0.531
+release: Brightess night
+release_7digitalid: 288450
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (762,)
+segments_loudness_max: shape = (762,)
+segments_loudness_max_time: shape = (762,)
+segments_loudness_start: shape = (762,)
+segments_pitches: shape = (762, 12)
+segments_start: shape = (762,)
+segments_timbre: shape = (762, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODANTC12A8C13438C
+start_of_fade_out: 202.937
+tatums_confidence: shape = (607,)
+tatums_start: shape = (607,)
+tempo: 89.026
+time_signature: 4
+time_signature_confidence: 1.0
+title: Boogie
+track_7digitalid: 3237576
+track_id: TRAIKRJ128F4275BED
+year: 0

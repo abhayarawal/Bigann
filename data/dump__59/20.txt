@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1613
+artist_familiarity: 0.832011770647
+artist_hotttnesss: 0.643072292611
+artist_id: ARC8CQZ1187B98DECA
+artist_latitude: nan
+artist_location: Galveston, TX
+artist_longitude: nan
+artist_mbid: ff6e677f-91dd-4986-a174-8db0474b1799
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Jack Johnson and Friends / Matt Costa
+artist_playmeid: 759
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: ac9a38f98c95579b892d88cb70910aa4
+bars_confidence: shape = (84,)
+bars_start: shape = (84,)
+beats_confidence: shape = (339,)
+beats_start: shape = (339,)
+danceability: 0.0
+duration: 136.30649
+end_of_fade_in: 0.328
+energy: 0.0
+key: 3
+key_confidence: 0.072
+loudness: -11.234
+mode: 1
+mode_confidence: 0.526
+release: Talk Of The Town
+release_7digitalid: 295785
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (467,)
+segments_loudness_max: shape = (467,)
+segments_loudness_max_time: shape = (467,)
+segments_loudness_start: shape = (467,)
+segments_pitches: shape = (467, 12)
+segments_start: shape = (467,)
+segments_timbre: shape = (467, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOONWRV12A8C138371
+start_of_fade_out: 136.306
+tatums_confidence: shape = (679,)
+tatums_start: shape = (679,)
+tempo: 150.519
+time_signature: 4
+time_signature_confidence: 0.61
+title: Fall Line
+track_7digitalid: 3314246
+track_id: TRAUFCU128F42882B7
+year: 2003

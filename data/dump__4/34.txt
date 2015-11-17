@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 54554
+artist_familiarity: 0.718381342383
+artist_hotttnesss: 0.455825978803
+artist_id: ARBD4QW1187FB42153
+artist_latitude: 62.19845
+artist_location: Sweden
+artist_longitude: 17.55142
+artist_mbid: b9a20306-a4f5-4d3c-8680-e9cdc7e3af5b
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Scar Symmetry
+artist_playmeid: 56729
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: c1e6ca46b2ba9c6fb1e95c5e66d64c82
+bars_confidence: shape = (167,)
+bars_start: shape = (167,)
+beats_confidence: shape = (672,)
+beats_start: shape = (672,)
+danceability: 0.0
+duration: 271.5424
+end_of_fade_in: 0.119
+energy: 0.0
+key: 6
+key_confidence: 0.051
+loudness: -3.536
+mode: 0
+mode_confidence: 0.612
+release: Nuclear Blast Showdown 2006
+release_7digitalid: 125805
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (820,)
+segments_loudness_max: shape = (820,)
+segments_loudness_max_time: shape = (820,)
+segments_loudness_start: shape = (820,)
+segments_pitches: shape = (820, 12)
+segments_start: shape = (820,)
+segments_timbre: shape = (820, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.716321271239
+song_id: SODUYOC12A67ADC8ED
+start_of_fade_out: 267.633
+tatums_confidence: shape = (1344,)
+tatums_start: shape = (1344,)
+tempo: 150.086
+time_signature: 4
+time_signature_confidence: 0.894
+title: The Illusionist
+track_7digitalid: 1296684
+track_id: TRABKJU128F422A7FE
+year: 2006

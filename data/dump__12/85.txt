@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4730
+artist_familiarity: 0.787877691086
+artist_hotttnesss: 0.543225521045
+artist_id: ARAPH9U1187B9B34F0
+artist_latitude: nan
+artist_location: Marshville, NC
+artist_longitude: nan
+artist_mbid: 09b697e3-a849-4670-ae49-e0b821a6271a
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Randy Travis
+artist_playmeid: 10849
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 3f1c0479ebf0ef9754a6c4c4c1e3edd1
+bars_confidence: shape = (81,)
+bars_start: shape = (81,)
+beats_confidence: shape = (326,)
+beats_start: shape = (326,)
+danceability: 0.0
+duration: 211.40853
+end_of_fade_in: 0.218
+energy: 0.0
+key: 10
+key_confidence: 0.89
+loudness: -14.172
+mode: 0
+mode_confidence: 0.897
+release: Wind In The Wire
+release_7digitalid: 12539
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (557,)
+segments_loudness_max: shape = (557,)
+segments_loudness_max_time: shape = (557,)
+segments_loudness_start: shape = (557,)
+segments_pitches: shape = (557, 12)
+segments_start: shape = (557,)
+segments_timbre: shape = (557, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOZUUEA12A6701D4D2
+start_of_fade_out: 200.046
+tatums_confidence: shape = (651,)
+tatums_start: shape = (651,)
+tempo: 95.655
+time_signature: 4
+time_signature_confidence: 0.557
+title: Wind In The Wire (Album Version)
+track_7digitalid: 129045
+track_id: TRAEGUL128E078B0C1
+year: 1993

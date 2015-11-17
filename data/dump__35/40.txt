@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 191898
+artist_familiarity: 0.503002305754
+artist_hotttnesss: 0.314112326533
+artist_id: ARZIKR01187B98DF08
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ce48dd78-903e-4737-aee7-5e70bba7e15d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Joe Grushecky
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: a3e184dfb401792cf26fcce50c99d8ee
+bars_confidence: shape = (128,)
+bars_start: shape = (128,)
+beats_confidence: shape = (516,)
+beats_start: shape = (516,)
+danceability: 0.0
+duration: 231.57506
+end_of_fade_in: 0.2
+energy: 0.0
+key: 7
+key_confidence: 0.156
+loudness: -8.071
+mode: 1
+mode_confidence: 0.381
+release: A Good Life
+release_7digitalid: 247822
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (707,)
+segments_loudness_max: shape = (707,)
+segments_loudness_max_time: shape = (707,)
+segments_loudness_start: shape = (707,)
+segments_pitches: shape = (707, 12)
+segments_start: shape = (707,)
+segments_timbre: shape = (707, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.319565986883
+song_id: SOOOUTD12A8C135657
+start_of_fade_out: 220.235
+tatums_confidence: shape = (1032,)
+tatums_start: shape = (1032,)
+tempo: 139.066
+time_signature: 4
+time_signature_confidence: 1.0
+title: A Good Life
+track_7digitalid: 2727284
+track_id: TRAMBVP128F424DD31
+year: 0

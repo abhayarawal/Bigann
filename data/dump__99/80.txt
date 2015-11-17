@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 172369
+artist_familiarity: 0.628274448933
+artist_hotttnesss: 0.428834536217
+artist_id: ARNVM131187B990D2B
+artist_latitude: nan
+artist_location: Oakland CA
+artist_longitude: nan
+artist_mbid: 0af8e9c1-b9a4-4fb9-92a2-c4feb3b7c999
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: themselves
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 63e5bee2f4abd27fbbb80e72c1182d59
+bars_confidence: shape = (188,)
+bars_start: shape = (188,)
+beats_confidence: shape = (754,)
+beats_start: shape = (754,)
+danceability: 0.0
+duration: 271.43791
+end_of_fade_in: 0.094
+energy: 0.0
+key: 1
+key_confidence: 0.617
+loudness: -13.017
+mode: 1
+mode_confidence: 0.545
+release: Them
+release_7digitalid: 238242
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1203,)
+segments_loudness_max: shape = (1203,)
+segments_loudness_max_time: shape = (1203,)
+segments_loudness_start: shape = (1203,)
+segments_pitches: shape = (1203, 12)
+segments_start: shape = (1203,)
+segments_timbre: shape = (1203, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.428702262523
+song_id: SOLYUTF12A8C133225
+start_of_fade_out: 267.726
+tatums_confidence: shape = (1509,)
+tatums_start: shape = (1509,)
+tempo: 167.885
+time_signature: 4
+time_signature_confidence: 0.465
+title: Crayon Sharpener
+track_7digitalid: 2612283
+track_id: TRBIHVW128F4233965
+year: 2003

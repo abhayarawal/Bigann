@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30037
+artist_familiarity: 0.827409365182
+artist_hotttnesss: 0.57690228099
+artist_id: AR11YQ81187FB3C654
+artist_latitude: nan
+artist_location: Austin, TX
+artist_longitude: nan
+artist_mbid: 3248ed2d-bada-41b5-a7b6-ac88faa1f1ac
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Dixie Chicks
+artist_playmeid: 465
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 8aa776df0ab7d2d8caf5bd22e9f2c10b
+bars_confidence: shape = (127,)
+bars_start: shape = (127,)
+beats_confidence: shape = (510,)
+beats_start: shape = (510,)
+danceability: 0.0
+duration: 296.30649
+end_of_fade_in: 0.287
+energy: 0.0
+key: 2
+key_confidence: 0.588
+loudness: -6.98
+mode: 1
+mode_confidence: 0.617
+release: Wide Open Spaces
+release_7digitalid: 281472
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1259,)
+segments_loudness_max: shape = (1259,)
+segments_loudness_max_time: shape = (1259,)
+segments_loudness_start: shape = (1259,)
+segments_pitches: shape = (1259, 12)
+segments_start: shape = (1259,)
+segments_timbre: shape = (1259, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.723904334614
+song_id: SOLVZZO12A8C130E19
+start_of_fade_out: 287.631
+tatums_confidence: shape = (1019,)
+tatums_start: shape = (1019,)
+tempo: 103.863
+time_signature: 4
+time_signature_confidence: 0.896
+title: Give It Up Or Let Me Go
+track_7digitalid: 3137680
+track_id: TRAURRP128F4261B94
+year: 1998

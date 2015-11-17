@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 450068
+artist_familiarity: 0.428712691553
+artist_hotttnesss: 0.247346003939
+artist_id: ARFKATV1187FB377F9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c68b6d9e-32a9-441a-b14b-a3470f7a1552
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: King Swamp
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: d5187d29701908465bedf2d104c2bc6d
+bars_confidence: shape = (241,)
+bars_start: shape = (241,)
+beats_confidence: shape = (968,)
+beats_start: shape = (968,)
+danceability: 0.0
+duration: 341.002
+end_of_fade_in: 0.096
+energy: 0.0
+key: 7
+key_confidence: 0.595
+loudness: -14.656
+mode: 1
+mode_confidence: 0.667
+release: King Swamp
+release_7digitalid: 605445
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (1515,)
+segments_loudness_max: shape = (1515,)
+segments_loudness_max_time: shape = (1515,)
+segments_loudness_start: shape = (1515,)
+segments_pitches: shape = (1515, 12)
+segments_start: shape = (1515,)
+segments_timbre: shape = (1515, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOALJEB12AC4688E08
+start_of_fade_out: 328.911
+tatums_confidence: shape = (1936,)
+tatums_start: shape = (1936,)
+tempo: 172.054
+time_signature: 4
+time_signature_confidence: 0.783
+title: Glow
+track_7digitalid: 6726244
+track_id: TRBGSVO12903CFE3AE
+year: 0

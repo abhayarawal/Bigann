@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 88667
+artist_familiarity: 0.621629435825
+artist_hotttnesss: 0.519120079762
+artist_id: ARPVMJZ1187FB48D2D
+artist_latitude: nan
+artist_location: New York, NY [The Bronx]
+artist_longitude: nan
+artist_mbid: f1edfbed-9315-4550-859c-599cc3fdee57
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Willie Colon
+artist_playmeid: 14382
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: a2c8e9e214c82114b84a2af624166f25
+bars_confidence: shape = (523,)
+bars_start: shape = (523,)
+beats_confidence: shape = (523,)
+beats_start: shape = (523,)
+danceability: 0.0
+duration: 250.06975
+end_of_fade_in: 0.121
+energy: 0.0
+key: 0
+key_confidence: 0.58
+loudness: -7.818
+mode: 0
+mode_confidence: 0.467
+release: Salsa Legende - Best of Willie Colon
+release_7digitalid: 265899
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1097,)
+segments_loudness_max: shape = (1097,)
+segments_loudness_max_time: shape = (1097,)
+segments_loudness_start: shape = (1097,)
+segments_pitches: shape = (1097, 12)
+segments_start: shape = (1097,)
+segments_timbre: shape = (1097, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCEDDF12A8C13C33C
+start_of_fade_out: 233.784
+tatums_confidence: shape = (1568,)
+tatums_start: shape = (1568,)
+tempo: 128.444
+time_signature: 1
+time_signature_confidence: 0.0
+title: Guajira Y Ven
+track_7digitalid: 2879367
+track_id: TRBDJWO128F427218D
+year: 2001

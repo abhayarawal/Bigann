@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 304
+artist_familiarity: 0.899934952232
+artist_hotttnesss: 0.683658060202
+artist_id: ARH6W4X1187B99274F
+artist_latitude: nan
+artist_location: Oxford, UK
+artist_longitude: nan
+artist_mbid: a74b1b7f-71a5-4011-9441-d0b5e4122711
+artist_mbtags: shape = (14,)
+artist_mbtags_count: shape = (14,)
+artist_name: Radiohead
+artist_playmeid: 1307
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: b1394c43605d84bbfb988c1694cd8649
+bars_confidence: shape = (214,)
+bars_start: shape = (214,)
+beats_confidence: shape = (647,)
+beats_start: shape = (647,)
+danceability: 0.0
+duration: 267.20608
+end_of_fade_in: 0.357
+energy: 0.0
+key: 0
+key_confidence: 0.847
+loudness: -9.148
+mode: 1
+mode_confidence: 0.609
+release: OK Computer (Collector's Edition)
+release_7digitalid: 405065
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (830,)
+segments_loudness_max: shape = (830,)
+segments_loudness_max_time: shape = (830,)
+segments_loudness_start: shape = (830,)
+segments_pitches: shape = (830, 12)
+segments_start: shape = (830,)
+segments_timbre: shape = (830, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.775023550664
+song_id: SOSYMSX12A6310DFE2
+start_of_fade_out: 256.354
+tatums_confidence: shape = (1294,)
+tatums_start: shape = (1294,)
+tempo: 150.848
+time_signature: 3
+time_signature_confidence: 0.401
+title: Subterranean Homesick Alien
+track_7digitalid: 4501632
+track_id: TRACECN128F9310E97
+year: 1997

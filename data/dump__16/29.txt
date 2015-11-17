@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4839
+artist_familiarity: 0.582804693791
+artist_hotttnesss: 0.44866907394
+artist_id: AR0B1CH1187FB3A824
+artist_latitude: 34.56398
+artist_location: Benton, Arkansas
+artist_longitude: -92.58685
+artist_mbid: 9fb7fe77-4e8b-4cbd-ba8f-84bcd80a24bc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Charlie Rich
+artist_playmeid: 2190
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 369c110a3889a2ce66d56c713f01d729
+bars_confidence: shape = (64,)
+bars_start: shape = (64,)
+beats_confidence: shape = (259,)
+beats_start: shape = (259,)
+danceability: 0.0
+duration: 148.24444
+end_of_fade_in: 0.171
+energy: 0.0
+key: 7
+key_confidence: 0.487
+loudness: -15.354
+mode: 1
+mode_confidence: 0.449
+release: The Complete Hi Recordings of Charlie Rich
+release_7digitalid: 375651
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (440,)
+segments_loudness_max: shape = (440,)
+segments_loudness_max_time: shape = (440,)
+segments_loudness_start: shape = (440,)
+segments_pitches: shape = (440, 12)
+segments_start: shape = (440,)
+segments_timbre: shape = (440, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMKDZN12A8C144D1E
+start_of_fade_out: 137.009
+tatums_confidence: shape = (519,)
+tatums_start: shape = (519,)
+tempo: 108.128
+time_signature: 4
+time_signature_confidence: 0.151
+title: Only Me
+track_7digitalid: 4179444
+track_id: TRAFNMJ128F92D15D8
+year: 0

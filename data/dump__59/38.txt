@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13696
+artist_familiarity: 0.614394091554
+artist_hotttnesss: 0.427903697848
+artist_id: AR6U7461187FB59499
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2eae4a3f-2a38-4b37-bfcf-7482a378f27f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Rachael Starr
+artist_playmeid: 162812
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: d2dd2c8e9bf55cdec998492913bbcf5b
+bars_confidence: shape = (320,)
+bars_start: shape = (320,)
+beats_confidence: shape = (1283,)
+beats_start: shape = (1283,)
+danceability: 0.0
+duration: 608.23465
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.793
+loudness: -10.289
+mode: 0
+mode_confidence: 0.632
+release: Till There Was You
+release_7digitalid: 41517
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (3187,)
+segments_loudness_max: shape = (3187,)
+segments_loudness_max_time: shape = (3187,)
+segments_loudness_start: shape = (3187,)
+segments_pitches: shape = (3187, 12)
+segments_start: shape = (3187,)
+segments_timbre: shape = (3187, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.541381380534
+song_id: SODUSRP12A6D4FA762
+start_of_fade_out: 598.97
+tatums_confidence: shape = (2566,)
+tatums_start: shape = (2566,)
+tempo: 127.996
+time_signature: 4
+time_signature_confidence: 0.0
+title: Till There Was You (John Creamer & Stephane K Remix)
+track_7digitalid: 2885105
+track_id: TRAUGTI128F4273726
+year: 2005

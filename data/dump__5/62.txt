@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 27920
+artist_familiarity: 0.852136186667
+artist_hotttnesss: 0.780334119573
+artist_id: ART5MUE1187B98C961
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: 65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab
+artist_mbtags: shape = (17,)
+artist_mbtags_count: shape = (17,)
+artist_name: Metallica
+artist_playmeid: 1073
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: cdb303450b2d759c8506846ca88edd78
+bars_confidence: shape = (172,)
+bars_start: shape = (172,)
+beats_confidence: shape = (691,)
+beats_start: shape = (691,)
+danceability: 0.0
+duration: 252.3424
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.376
+loudness: -3.028
+mode: 1
+mode_confidence: 0.462
+release: Some Kind Of Monster
+release_7digitalid: 311757
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (818,)
+segments_loudness_max: shape = (818,)
+segments_loudness_max_time: shape = (818,)
+segments_loudness_start: shape = (818,)
+segments_pitches: shape = (818, 12)
+segments_start: shape = (818,)
+segments_timbre: shape = (818, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.801014141471
+song_id: SOGAUIQ12A6D4F8262
+start_of_fade_out: 244.941
+tatums_confidence: shape = (1381,)
+tatums_start: shape = (1381,)
+tempo: 167.486
+time_signature: 4
+time_signature_confidence: 0.901
+title: Hit The Lights
+track_7digitalid: 3520652
+track_id: TRABVIZ128F42BA066
+year: 1982

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7122
+artist_familiarity: 0.626208342564
+artist_hotttnesss: 0.424271114446
+artist_id: ARNG61X1187B98C7DF
+artist_latitude: nan
+artist_location: Talladega, AL
+artist_longitude: nan
+artist_mbid: 2f76bd85-ba19-4d80-9bb7-4555abe463c5
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: 5 Blind Boys Of Alabama
+artist_playmeid: 45679
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 36a90dd1b9c8d0343845fa3d2c7ff612
+bars_confidence: shape = (79,)
+bars_start: shape = (79,)
+beats_confidence: shape = (319,)
+beats_start: shape = (319,)
+danceability: 0.0
+duration: 173.71383
+end_of_fade_in: 0.548
+energy: 0.0
+key: 4
+key_confidence: 0.793
+loudness: -15.682
+mode: 1
+mode_confidence: 0.696
+release: Collector's Edition
+release_7digitalid: 197970
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (599,)
+segments_loudness_max: shape = (599,)
+segments_loudness_max_time: shape = (599,)
+segments_loudness_start: shape = (599,)
+segments_pitches: shape = (599, 12)
+segments_start: shape = (599,)
+segments_timbre: shape = (599, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHOHZQ12A8C134AAB
+start_of_fade_out: 167.166
+tatums_confidence: shape = (637,)
+tatums_start: shape = (637,)
+tempo: 110.879
+time_signature: 4
+time_signature_confidence: 0.491
+title: If You Don't Pray For Me
+track_7digitalid: 2152282
+track_id: TRAXOHK128F42514BE
+year: 1996

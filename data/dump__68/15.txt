@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41877
+artist_familiarity: 0.601069052215
+artist_hotttnesss: 0.359185992752
+artist_id: ARSPQ0H1187B999944
+artist_latitude: 54.97938
+artist_location: Walker-on-Tyne, England
+artist_longitude: -1.54508
+artist_mbid: 70ac2314-d7d8-4435-b56c-9bad9a516642
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Eric Burdon
+artist_playmeid: 54722
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: f10e77ca33899ee9dd6e5d747803d514
+bars_confidence: shape = (115,)
+bars_start: shape = (115,)
+beats_confidence: shape = (465,)
+beats_start: shape = (465,)
+danceability: 0.0
+duration: 288.70485
+end_of_fade_in: 0.195
+energy: 0.0
+key: 9
+key_confidence: 0.398
+loudness: -6.503
+mode: 0
+mode_confidence: 0.395
+release: Soul of a Man
+release_7digitalid: 468717
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (946,)
+segments_loudness_max: shape = (946,)
+segments_loudness_max_time: shape = (946,)
+segments_loudness_start: shape = (946,)
+segments_pitches: shape = (946, 12)
+segments_start: shape = (946,)
+segments_timbre: shape = (946, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.345802233965
+song_id: SOKKLMZ12AB018A141
+start_of_fade_out: 280.137
+tatums_confidence: shape = (931,)
+tatums_start: shape = (931,)
+tempo: 97.233
+time_signature: 4
+time_signature_confidence: 0.0
+title: Feeling Blue
+track_7digitalid: 5212794
+track_id: TRAXGVY128F933E9C9
+year: 2006

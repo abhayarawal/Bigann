@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 179318
+artist_familiarity: 0.366517841221
+artist_hotttnesss: 0.328237664153
+artist_id: ARUIRHK1187FB55534
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Frank Chacksfield
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 8411198fbdcf6420e4924fbf57864c97
+bars_confidence: shape = (162,)
+bars_start: shape = (162,)
+beats_confidence: shape = (162,)
+beats_start: shape = (162,)
+danceability: 0.0
+duration: 140.43383
+end_of_fade_in: 0.624
+energy: 0.0
+key: 5
+key_confidence: 0.924
+loudness: -17.089
+mode: 1
+mode_confidence: 0.765
+release: Hit Parade 1953
+release_7digitalid: 701983
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (380,)
+segments_loudness_max: shape = (380,)
+segments_loudness_max_time: shape = (380,)
+segments_loudness_start: shape = (380,)
+segments_pitches: shape = (380, 12)
+segments_start: shape = (380,)
+segments_timbre: shape = (380, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3759843015
+song_id: SOOOINL12A8C14434E
+start_of_fade_out: 132.911
+tatums_confidence: shape = (323,)
+tatums_start: shape = (323,)
+tempo: 69.782
+time_signature: 1
+time_signature_confidence: 0.0
+title: Terry's Theme from Limelight
+track_7digitalid: 7787389
+track_id: TRASLTD128F92F9E1F
+year: 0

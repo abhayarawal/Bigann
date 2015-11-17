@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 218883
+artist_familiarity: 0.42960301673
+artist_hotttnesss: 0.370441154739
+artist_id: AR4B1LP1187FB55C83
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c77272a6-7db3-49ec-8cbb-5da16b59966c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Juan Diego Flórez / Mariusz Kwiecen / Orquestra de la Comunitat Valenciana / Daniel Oren
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 55753bcb1f68d80b9e91912cde7aa325
+bars_confidence: shape = (112,)
+bars_start: shape = (112,)
+beats_confidence: shape = (505,)
+beats_start: shape = (505,)
+danceability: 0.0
+duration: 497.89342
+end_of_fade_in: 0.075
+energy: 0.0
+key: 1
+key_confidence: 0.703
+loudness: -15.469
+mode: 1
+mode_confidence: 0.652
+release: Bel Canto Spectacular
+release_7digitalid: 265271
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (1576,)
+segments_loudness_max: shape = (1576,)
+segments_loudness_max_time: shape = (1576,)
+segments_loudness_start: shape = (1576,)
+segments_pitches: shape = (1576, 12)
+segments_start: shape = (1576,)
+segments_timbre: shape = (1576, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEYCMO12A8C13CDBB
+start_of_fade_out: 491.52
+tatums_confidence: shape = (1513,)
+tatums_start: shape = (1513,)
+tempo: 60.856
+time_signature: 4
+time_signature_confidence: 0.557
+title: Venti scudi
+track_7digitalid: 2853336
+track_id: TRBCULZ128F426BC12
+year: 0

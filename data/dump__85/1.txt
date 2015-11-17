@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1642
+artist_familiarity: 0.858270677796
+artist_hotttnesss: 0.515325300572
+artist_id: ARMB95F1187B9B5B93
+artist_latitude: 40.8079
+artist_location: Harlem, NY
+artist_longitude: -73.9454
+artist_mbid: ea6b7199-901d-4c0e-8242-6d7bc2bf62b7
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Cam'Ron
+artist_playmeid: 138754
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 21cf605b8f491437f4bbd112d207ae5e
+bars_confidence: shape = (162,)
+bars_start: shape = (162,)
+beats_confidence: shape = (649,)
+beats_start: shape = (649,)
+danceability: 0.0
+duration: 212.79302
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.549
+loudness: -6.798
+mode: 1
+mode_confidence: 0.501
+release: Killa Season
+release_7digitalid: 119748
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (945,)
+segments_loudness_max: shape = (945,)
+segments_loudness_max_time: shape = (945,)
+segments_loudness_start: shape = (945,)
+segments_pitches: shape = (945, 12)
+segments_start: shape = (945,)
+segments_timbre: shape = (945, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYJAEP12A8C141230
+start_of_fade_out: 202.983
+tatums_confidence: shape = (1298,)
+tatums_start: shape = (1298,)
+tempo: 189.294
+time_signature: 4
+time_signature_confidence: 1.0
+title: I.B.S. (Amended Album Version)
+track_7digitalid: 1238387
+track_id: TRBDFMM128F42A63D0
+year: 2006

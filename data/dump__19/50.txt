@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 342118
+artist_familiarity: 0.401020176248
+artist_hotttnesss: 0.297320738187
+artist_id: ARQWJ1D1187B990964
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5dfa9707-bd53-480c-87fe-41adc3f35a25
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Barrio Obrero
+artist_playmeid: -1
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: 77a7dc64d7695d2459180c7f47acf6fd
+bars_confidence: shape = (228,)
+bars_start: shape = (228,)
+beats_confidence: shape = (688,)
+beats_start: shape = (688,)
+danceability: 0.0
+duration: 231.47057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.357
+loudness: -7.797
+mode: 1
+mode_confidence: 0.193
+release: Gaitas Platinum
+release_7digitalid: 462098
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1179,)
+segments_loudness_max: shape = (1179,)
+segments_loudness_max_time: shape = (1179,)
+segments_loudness_start: shape = (1179,)
+segments_pitches: shape = (1179, 12)
+segments_start: shape = (1179,)
+segments_timbre: shape = (1179, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.377075195029
+song_id: SONLOMJ12AB0181700
+start_of_fade_out: 223.898
+tatums_confidence: shape = (1375,)
+tatums_start: shape = (1375,)
+tempo: 182.962
+time_signature: 3
+time_signature_confidence: 0.0
+title: Un Ojo Dimos
+track_7digitalid: 5143760
+track_id: TRAGPOW128F932DC3A
+year: 0

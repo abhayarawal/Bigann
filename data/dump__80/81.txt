@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12255
+artist_familiarity: 0.612858654108
+artist_hotttnesss: 0.360344685914
+artist_id: ARK7ZPW1187B99C170
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 9dee40b2-25ad-404c-9c9a-139feffd4b57
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Maria Callas/Gianni Raimondi/Gabriella Carturan/Plinio Clabassi/Nicola Rossi-Lemeni/Coro del Teatro alla Scala_ Milano/Noberto Mola/Orchestra del Teatro alla Scala_ Milano/Gianandrea Gavazzeni
+artist_playmeid: 10820
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 3d92f2087537cbf8f527316061473ed0
+bars_confidence: shape = (45,)
+bars_start: shape = (45,)
+beats_confidence: shape = (192,)
+beats_start: shape = (192,)
+danceability: 0.0
+duration: 102.68689
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.688
+loudness: -14.447
+mode: 0
+mode_confidence: 0.691
+release: Donizetti: Anna Bolena
+release_7digitalid: 154491
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (315,)
+segments_loudness_max: shape = (315,)
+segments_loudness_max_time: shape = (315,)
+segments_loudness_start: shape = (315,)
+segments_pitches: shape = (315, 12)
+segments_start: shape = (315,)
+segments_timbre: shape = (315, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAMZKG12A8C13797C
+start_of_fade_out: 99.573
+tatums_confidence: shape = (192,)
+tatums_start: shape = (192,)
+tempo: 111.643
+time_signature: 4
+time_signature_confidence: 0.4
+title: Anna Bolena (1997 Digital Remaster): Alcun potria ascoltarti
+track_7digitalid: 1614319
+track_id: TRBBQYU128F4269447
+year: 0

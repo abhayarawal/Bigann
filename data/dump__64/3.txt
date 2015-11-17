@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15061
+artist_familiarity: 0.510660236281
+artist_hotttnesss: 0.333770845165
+artist_id: ARTK5LU1187B9A654C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d83529bf-6d3a-4c85-9c5f-e7c991c19956
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Michael Gettel
+artist_playmeid: 61197
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: aa62c9da1ee2e37a1b0629cc78f6b6b6
+bars_confidence: shape = (306,)
+bars_start: shape = (306,)
+beats_confidence: shape = (1231,)
+beats_start: shape = (1231,)
+danceability: 0.0
+duration: 452.25751
+end_of_fade_in: 16.736
+energy: 0.0
+key: 1
+key_confidence: 0.156
+loudness: -16.685
+mode: 0
+mode_confidence: 0.15
+release: Places In Time
+release_7digitalid: 149770
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1456,)
+segments_loudness_max: shape = (1456,)
+segments_loudness_max_time: shape = (1456,)
+segments_loudness_start: shape = (1456,)
+segments_pitches: shape = (1456, 12)
+segments_start: shape = (1456,)
+segments_timbre: shape = (1456, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.262308997212
+song_id: SOYUIMG12A8C135784
+start_of_fade_out: 430.66
+tatums_confidence: shape = (2462,)
+tatums_start: shape = (2462,)
+tempo: 168.035
+time_signature: 4
+time_signature_confidence: 0.31
+title: River Run
+track_7digitalid: 1558354
+track_id: TRAVXZP128F425C677
+year: 1992

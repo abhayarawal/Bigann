@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 95567
+artist_familiarity: 0.543350012966
+artist_hotttnesss: 0.399265149721
+artist_id: ARXOKNT1187B9AA521
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9ceb4e76-2b49-48a1-96f5-5fca8a0ca6c8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kali
+artist_playmeid: -1
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 9e23b042c78ccebb673c4d6605f919ab
+bars_confidence: shape = (158,)
+bars_start: shape = (158,)
+beats_confidence: shape = (477,)
+beats_start: shape = (477,)
+danceability: 0.0
+duration: 240.45669
+end_of_fade_in: 0.171
+energy: 0.0
+key: 1
+key_confidence: 0.266
+loudness: -6.513
+mode: 1
+mode_confidence: 0.121
+release: Racines Vol 3 - Noël
+release_7digitalid: 404868
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (907,)
+segments_loudness_max: shape = (907,)
+segments_loudness_max_time: shape = (907,)
+segments_loudness_start: shape = (907,)
+segments_pitches: shape = (907, 12)
+segments_start: shape = (907,)
+segments_timbre: shape = (907, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBUBQH12AB017DC39
+start_of_fade_out: 236.437
+tatums_confidence: shape = (1429,)
+tatums_start: shape = (1429,)
+tempo: 120.406
+time_signature: 3
+time_signature_confidence: 0.894
+title: Dans le calme de la nuit
+track_7digitalid: 4499190
+track_id: TRBDWND128F9310537
+year: 0

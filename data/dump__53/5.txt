@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 71053
+artist_familiarity: 0.708368203707
+artist_hotttnesss: 0.459809422463
+artist_id: ARORFTD1187B99F7D4
+artist_latitude: nan
+artist_location: 台北, Taiwan
+artist_longitude: nan
+artist_mbid: aeba6cc0-8f63-454e-b15b-92195ad4ee6d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Epitaph
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: e22dfe7bb68f66861fc18cf47174de5a
+bars_confidence: shape = (284,)
+bars_start: shape = (284,)
+beats_confidence: shape = (1141,)
+beats_start: shape = (1141,)
+danceability: 0.0
+duration: 488.17587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.669
+loudness: -6.183
+mode: 0
+mode_confidence: 0.606
+release: The 21 Century Tour
+release_7digitalid: 90515
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (1620,)
+segments_loudness_max: shape = (1620,)
+segments_loudness_max_time: shape = (1620,)
+segments_loudness_start: shape = (1620,)
+segments_pitches: shape = (1620, 12)
+segments_start: shape = (1620,)
+segments_timbre: shape = (1620, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.266955186276
+song_id: SOXYARV12A8C1368C8
+start_of_fade_out: 485.32
+tatums_confidence: shape = (2283,)
+tatums_start: shape = (2283,)
+tempo: 141.192
+time_signature: 4
+time_signature_confidence: 0.307
+title: Outside The Law
+track_7digitalid: 956749
+track_id: TRASCGS128F426C1AF
+year: 0

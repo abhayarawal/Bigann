@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41644
+artist_familiarity: 0.598985506512
+artist_hotttnesss: 0.404116909606
+artist_id: ARVI9KK1187B9AACB4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0f7f7e94-ce9d-496a-b894-42d642b5229e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jan Wayne
+artist_playmeid: 778
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 8866a7f3d0c7fb9e0b23c00059722624
+bars_confidence: shape = (131,)
+bars_start: shape = (131,)
+beats_confidence: shape = (526,)
+beats_start: shape = (526,)
+danceability: 0.0
+duration: 230.76526
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.669
+loudness: -5.418
+mode: 1
+mode_confidence: 0.526
+release: Gonna Move Ya!
+release_7digitalid: 58420
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (979,)
+segments_loudness_max: shape = (979,)
+segments_loudness_max_time: shape = (979,)
+segments_loudness_start: shape = (979,)
+segments_pitches: shape = (979, 12)
+segments_start: shape = (979,)
+segments_timbre: shape = (979, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOVVINA12A6D4FA730
+start_of_fade_out: 225.181
+tatums_confidence: shape = (1052,)
+tatums_start: shape = (1052,)
+tempo: 140.045
+time_signature: 4
+time_signature_confidence: 0.441
+title: Groovin'
+track_7digitalid: 608043
+track_id: TRAPFAQ128F14A050F
+year: 2003

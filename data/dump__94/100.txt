@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 583681
+artist_familiarity: 0.414385653298
+artist_hotttnesss: 0.276997484962
+artist_id: AR449OQ1187B99B25E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1afe1b40-79cf-4405-bbed-9a11b7dc046a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Harvey Averne
+artist_playmeid: 212577
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 7942fe266e0e674606ef10426b37413c
+bars_confidence: shape = (54,)
+bars_start: shape = (54,)
+beats_confidence: shape = (224,)
+beats_start: shape = (224,)
+danceability: 0.0
+duration: 168.93342
+end_of_fade_in: 0.665
+energy: 0.0
+key: 5
+key_confidence: 0.378
+loudness: -15.321
+mode: 1
+mode_confidence: 0.62
+release: The Harvey Averne Dozen
+release_7digitalid: 782401
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (540,)
+segments_loudness_max: shape = (540,)
+segments_loudness_max_time: shape = (540,)
+segments_loudness_start: shape = (540,)
+segments_pitches: shape = (540, 12)
+segments_start: shape = (540,)
+segments_timbre: shape = (540, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGUAJP12AC468D88E
+start_of_fade_out: 160.705
+tatums_confidence: shape = (449,)
+tatums_start: shape = (449,)
+tempo: 81.311
+time_signature: 4
+time_signature_confidence: 0.902
+title: Accept Me
+track_7digitalid: 8653459
+track_id: TRBGTAB12903CF8B83
+year: 0

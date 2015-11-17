@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 321408
+artist_familiarity: 0.30732266274
+artist_hotttnesss: 0.0
+artist_id: AR44SDE1187FB4DC8A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e8d687c2-02d5-4d6a-beb8-5145bb9beea1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: 23rd Turnoff
+artist_playmeid: -1
+artist_terms: shape = (7,)
+artist_terms_freq: shape = (7,)
+artist_terms_weight: shape = (7,)
+audio_md5: efb0aafdfb413ade95dbf04347d97722
+bars_confidence: shape = (215,)
+bars_start: shape = (215,)
+beats_confidence: shape = (215,)
+beats_start: shape = (215,)
+danceability: 0.0
+duration: 143.80363
+end_of_fade_in: 0.315
+energy: 0.0
+key: 4
+key_confidence: 0.238
+loudness: -11.688
+mode: 1
+mode_confidence: 0.364
+release: The Psychedelic Scene
+release_7digitalid: 431153
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (503,)
+segments_loudness_max: shape = (503,)
+segments_loudness_max_time: shape = (503,)
+segments_loudness_start: shape = (503,)
+segments_pitches: shape = (503, 12)
+segments_start: shape = (503,)
+segments_timbre: shape = (503, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORTLYF12A8C1461FC
+start_of_fade_out: 133.857
+tatums_confidence: shape = (431,)
+tatums_start: shape = (431,)
+tempo: 91.118
+time_signature: 1
+time_signature_confidence: 0.0
+title: Michaelangelo
+track_7digitalid: 4810831
+track_id: TRAYBGC128F92E03EC
+year: 2001

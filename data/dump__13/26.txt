@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 352002
+artist_familiarity: 0.780866545768
+artist_hotttnesss: 0.460456542785
+artist_id: ARML7XL1187FB43F59
+artist_latitude: nan
+artist_location: Newton County
+artist_longitude: nan
+artist_mbid: af758065-58ac-4230-ac97-b7cb3358f9ba
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Boondox
+artist_playmeid: 51747
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 064e131c96294ffceef200f3c7b5a408
+bars_confidence: shape = (214,)
+bars_start: shape = (214,)
+beats_confidence: shape = (860,)
+beats_start: shape = (860,)
+danceability: 0.0
+duration: 260.10077
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.516
+loudness: -5.852
+mode: 0
+mode_confidence: 0.599
+release: South Of Hell
+release_7digitalid: 822062
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1290,)
+segments_loudness_max: shape = (1290,)
+segments_loudness_max_time: shape = (1290,)
+segments_loudness_start: shape = (1290,)
+segments_pitches: shape = (1290, 12)
+segments_start: shape = (1290,)
+segments_timbre: shape = (1290, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.467365631328
+song_id: SODAYSL12AB018FFFA
+start_of_fade_out: 260.101
+tatums_confidence: shape = (1719,)
+tatums_start: shape = (1719,)
+tempo: 200.004
+time_signature: 4
+time_signature_confidence: 0.447
+title: Nothing To Lose
+track_7digitalid: 9075504
+track_id: TRAEMGG12903CEBB52
+year: 2010

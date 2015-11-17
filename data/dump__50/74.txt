@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 66709
+artist_familiarity: 0.663952863242
+artist_hotttnesss: 0.392075780142
+artist_id: ARCMYSA1187FB4A8E8
+artist_latitude: nan
+artist_location: Brooklyn, NY
+artist_longitude: nan
+artist_mbid: 1a576d57-4b7c-4f22-a51e-fe403c0103c4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Masta Ace Incorporated
+artist_playmeid: 9117
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 97ff7b0eddb2228835aa6ad1237366d7
+bars_confidence: shape = (85,)
+bars_start: shape = (85,)
+beats_confidence: shape = (435,)
+beats_start: shape = (435,)
+danceability: 0.0
+duration: 295.1571
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.111
+loudness: -7.687
+mode: 1
+mode_confidence: 0.295
+release: Sittin' On Chrome
+release_7digitalid: 94942
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1236,)
+segments_loudness_max: shape = (1236,)
+segments_loudness_max_time: shape = (1236,)
+segments_loudness_start: shape = (1236,)
+segments_pitches: shape = (1236, 12)
+segments_start: shape = (1236,)
+segments_timbre: shape = (1236, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.567591725042
+song_id: SOKRTAB12A8C1371C9
+start_of_fade_out: 295.157
+tatums_confidence: shape = (871,)
+tatums_start: shape = (871,)
+tempo: 88.12
+time_signature: 5
+time_signature_confidence: 0.722
+title: Ain't No Game
+track_7digitalid: 993315
+track_id: TRARGTV128F4274FB6
+year: 1995

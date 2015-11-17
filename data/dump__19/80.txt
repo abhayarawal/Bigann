@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18208
+artist_familiarity: 0.636582379001
+artist_hotttnesss: 0.421287262511
+artist_id: ARZH3SW1187B98C96E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fc0fa262-6197-4c29-8e22-22f0e369856a
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Onyx
+artist_playmeid: 5098
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 9133fee9d724bf33a017523ecf019071
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (452,)
+beats_start: shape = (452,)
+danceability: 0.0
+duration: 317.46567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.161
+loudness: -12.908
+mode: 1
+mode_confidence: 0.565
+release: The History Of House Parties_ vol. 3
+release_7digitalid: 711892
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1593,)
+segments_loudness_max: shape = (1593,)
+segments_loudness_max_time: shape = (1593,)
+segments_loudness_start: shape = (1593,)
+segments_pitches: shape = (1593, 12)
+segments_start: shape = (1593,)
+segments_timbre: shape = (1593, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSWYWM12AB018A072
+start_of_fade_out: 311.856
+tatums_confidence: shape = (1355,)
+tatums_start: shape = (1355,)
+tempo: 85.541
+time_signature: 5
+time_signature_confidence: 1.0
+title: The Force
+track_7digitalid: 7896550
+track_id: TRAGSNG12903CB73C8
+year: 0

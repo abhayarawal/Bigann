@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 354932
+artist_familiarity: 0.480377596041
+artist_hotttnesss: 0.345446816246
+artist_id: AR1LKDU1187B991E0B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a16dc0eb-a3cf-4814-9b90-f5cc9fd8ad4c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bruce Carroll
+artist_playmeid: 64302
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 094889181c9031a47f07b66f18341417
+bars_confidence: shape = (134,)
+bars_start: shape = (134,)
+beats_confidence: shape = (405,)
+beats_start: shape = (405,)
+danceability: 0.0
+duration: 278.41261
+end_of_fade_in: 10.292
+energy: 0.0
+key: 4
+key_confidence: 0.445
+loudness: -10.882
+mode: 0
+mode_confidence: 0.503
+release: Boomerang
+release_7digitalid: 518347
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1112,)
+segments_loudness_max: shape = (1112,)
+segments_loudness_max_time: shape = (1112,)
+segments_loudness_start: shape = (1112,)
+segments_pitches: shape = (1112, 12)
+segments_start: shape = (1112,)
+segments_timbre: shape = (1112, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOCQEJA12AB0187390
+start_of_fade_out: 267.233
+tatums_confidence: shape = (1620,)
+tatums_start: shape = (1620,)
+tempo: 90.094
+time_signature: 3
+time_signature_confidence: 0.788
+title: The Room
+track_7digitalid: 5738424
+track_id: TRAQJLD128F9350D44
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4201
+artist_familiarity: 0.680332845947
+artist_hotttnesss: 0.397803707252
+artist_id: ARNEJAG1187FB41600
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 73fe8b5f-3baa-41ab-b3e3-1e5f99baf84c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Vitamin C
+artist_playmeid: -1
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 1c844bac5c487f6f7d4477063a8662a6
+bars_confidence: shape = (96,)
+bars_start: shape = (96,)
+beats_confidence: shape = (390,)
+beats_start: shape = (390,)
+danceability: 0.0
+duration: 241.03138
+end_of_fade_in: 0.094
+energy: 0.0
+key: 2
+key_confidence: 0.029
+loudness: -6.297
+mode: 1
+mode_confidence: 0.154
+release: Vitamin C
+release_7digitalid: 266948
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1128,)
+segments_loudness_max: shape = (1128,)
+segments_loudness_max_time: shape = (1128,)
+segments_loudness_start: shape = (1128,)
+segments_pitches: shape = (1128, 12)
+segments_start: shape = (1128,)
+segments_timbre: shape = (1128, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.484562529968
+song_id: SOHAXFE12A8C13F057
+start_of_fade_out: 229.68
+tatums_confidence: shape = (1557,)
+tatums_start: shape = (1557,)
+tempo: 96.989
+time_signature: 4
+time_signature_confidence: 0.553
+title: About Last Night (LP Version)
+track_7digitalid: 2930923
+track_id: TRAFRKR128F427D6E6
+year: 1999

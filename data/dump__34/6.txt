@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21128
+artist_familiarity: 0.801136449608
+artist_hotttnesss: 0.605507135691
+artist_id: AR10USD1187B99F3F1
+artist_latitude: nan
+artist_location: Burlington, Ontario, Canada
+artist_longitude: nan
+artist_mbid: d89de379-665d-425c-b2e9-41b95d1edb36
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Silverstein
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 185cf378f3d4c32ac1d4995322d4a863
+bars_confidence: shape = (138,)
+bars_start: shape = (138,)
+beats_confidence: shape = (560,)
+beats_start: shape = (560,)
+danceability: 0.0
+duration: 256.46975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.775
+loudness: -3.573
+mode: 1
+mode_confidence: 0.498
+release: 18 CANDLES: THE EARLY YEARS
+release_7digitalid: 128135
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (757,)
+segments_loudness_max: shape = (757,)
+segments_loudness_max_time: shape = (757,)
+segments_loudness_start: shape = (757,)
+segments_pitches: shape = (757, 12)
+segments_start: shape = (757,)
+segments_timbre: shape = (757, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.360370582712
+song_id: SOXURBQ12A6D4FBB27
+start_of_fade_out: 251.669
+tatums_confidence: shape = (1681,)
+tatums_start: shape = (1681,)
+tempo: 132.962
+time_signature: 4
+time_signature_confidence: 0.0
+title: BLEEDS NO MORE (Live Version)
+track_7digitalid: 1322899
+track_id: TRALOUF128F422F329
+year: 2006

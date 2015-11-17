@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21831
+artist_familiarity: 0.48200699857
+artist_hotttnesss: 0.415897128457
+artist_id: ARJA5XT1187B9B89AA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 38fe7fb3-2bde-4672-8016-2ba6f7d1808f
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: David Tao
+artist_playmeid: 73275
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 1c3e75251cca9f8e5504a6f659beec10
+bars_confidence: shape = (159,)
+bars_start: shape = (159,)
+beats_confidence: shape = (638,)
+beats_start: shape = (638,)
+danceability: 0.0
+duration: 261.82485
+end_of_fade_in: 0.409
+energy: 0.0
+key: 6
+key_confidence: 0.0
+loudness: -6.806
+mode: 0
+mode_confidence: 0.237
+release: The Great Leap
+release_7digitalid: 192602
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (843,)
+segments_loudness_max: shape = (843,)
+segments_loudness_max_time: shape = (843,)
+segments_loudness_start: shape = (843,)
+segments_pitches: shape = (843, 12)
+segments_start: shape = (843,)
+segments_timbre: shape = (843, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPHQUV12A8C130BF8
+start_of_fade_out: 245.714
+tatums_confidence: shape = (1277,)
+tatums_start: shape = (1277,)
+tempo: 148.02
+time_signature: 4
+time_signature_confidence: 1.0
+title: Love Can
+track_7digitalid: 2094489
+track_id: TRAZSUJ128F4243934
+year: 0

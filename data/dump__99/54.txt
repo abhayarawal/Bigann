@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 438569
+artist_familiarity: 0.414244229172
+artist_hotttnesss: 0.287370034592
+artist_id: AR5ZJLK1187B9B3A8E
+artist_latitude: 35.99527
+artist_location: Durham, NC
+artist_longitude: -78.89601
+artist_mbid: e5fbd7a7-eaaa-49fa-8512-ac2d1b416011
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: John D. Loudermilk
+artist_playmeid: 111807
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 2c3e54175016c462c8b3f1f466de411a
+bars_confidence: shape = (161,)
+bars_start: shape = (161,)
+beats_confidence: shape = (161,)
+beats_start: shape = (161,)
+danceability: 0.0
+duration: 113.81506
+end_of_fade_in: 0.16
+energy: 0.0
+key: 7
+key_confidence: 0.015
+loudness: -10.955
+mode: 1
+mode_confidence: 0.237
+release: John D. Loudermilk
+release_7digitalid: 686742
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (376,)
+segments_loudness_max: shape = (376,)
+segments_loudness_max_time: shape = (376,)
+segments_loudness_start: shape = (376,)
+segments_pitches: shape = (376, 12)
+segments_start: shape = (376,)
+segments_timbre: shape = (376, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHIPSG12AC46890BE
+start_of_fade_out: 109.36
+tatums_confidence: shape = (322,)
+tatums_start: shape = (322,)
+tempo: 87.714
+time_signature: 1
+time_signature_confidence: 0.0
+title: Somebody Sweet
+track_7digitalid: 7621244
+track_id: TRBIFPI12903CEAFB6
+year: 0

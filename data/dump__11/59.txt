@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 133083
+artist_familiarity: 0.338370154526
+artist_hotttnesss: 0.0
+artist_id: ARJSGPI1241B9C8855
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Birmingham Jubilee Singers
+artist_playmeid: 75022
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: 187fa8ef05f356c6e7583901a05a19f6
+bars_confidence: shape = (34,)
+bars_start: shape = (34,)
+beats_confidence: shape = (251,)
+beats_start: shape = (251,)
+danceability: 0.0
+duration: 172.93016
+end_of_fade_in: 0.491
+energy: 0.0
+key: 8
+key_confidence: 0.416
+loudness: -17.242
+mode: 0
+mode_confidence: 0.257
+release: Birmingham Jubilee Singers Vol. 2 (1927-1930)
+release_7digitalid: 174801
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (410,)
+segments_loudness_max: shape = (410,)
+segments_loudness_max_time: shape = (410,)
+segments_loudness_start: shape = (410,)
+segments_pitches: shape = (410, 12)
+segments_start: shape = (410,)
+segments_timbre: shape = (410, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONUXHH12A8C141737
+start_of_fade_out: 166.028
+tatums_confidence: shape = (502,)
+tatums_start: shape = (502,)
+tempo: 88.908
+time_signature: 7
+time_signature_confidence: 0.531
+title: Hope I'll Join That Band
+track_7digitalid: 1875716
+track_id: TRADVDU128F42A047E
+year: 0

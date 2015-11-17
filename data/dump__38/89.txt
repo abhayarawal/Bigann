@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 45572
+artist_familiarity: 0.49988107488
+artist_hotttnesss: 0.417982275009
+artist_id: ARTE3P61187B9A709D
+artist_latitude: 41.26069
+artist_location: Omaha, NE
+artist_longitude: -95.93995
+artist_mbid: 878fb667-b443-4ddf-b7dc-130824b736aa
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Roger Williams
+artist_playmeid: 37311
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 8387301a74e142d283589ab1da265339
+bars_confidence: shape = (51,)
+bars_start: shape = (51,)
+beats_confidence: shape = (226,)
+beats_start: shape = (226,)
+danceability: 0.0
+duration: 161.95873
+end_of_fade_in: 0.247
+energy: 0.0
+key: 10
+key_confidence: 0.347
+loudness: -21.186
+mode: 1
+mode_confidence: 0.491
+release: Till
+release_7digitalid: 575124
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (331,)
+segments_loudness_max: shape = (331,)
+segments_loudness_max_time: shape = (331,)
+segments_loudness_start: shape = (331,)
+segments_pitches: shape = (331, 12)
+segments_start: shape = (331,)
+segments_timbre: shape = (331, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKWEYI12AB018B712
+start_of_fade_out: 153.304
+tatums_confidence: shape = (454,)
+tatums_start: shape = (454,)
+tempo: 86.721
+time_signature: 4
+time_signature_confidence: 0.603
+title: The High and The Mighty
+track_7digitalid: 6375171
+track_id: TRANIAH12903CA9482
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 26628
+artist_familiarity: 0.679654239026
+artist_hotttnesss: 0.380756415573
+artist_id: ARXG6L11187FB5695E
+artist_latitude: 52.47859
+artist_location: Birmingham/ London, UK
+artist_longitude: -1.9086
+artist_mbid: 48f2decd-51aa-42ce-acff-f9171b9de1b4
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Swami
+artist_playmeid: 164183
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: fa3e44387d7d9323a1df58b6fcacc221
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (395,)
+beats_start: shape = (395,)
+danceability: 0.0
+duration: 259.91791
+end_of_fade_in: 0.177
+energy: 0.0
+key: 11
+key_confidence: 0.771
+loudness: -6.066
+mode: 1
+mode_confidence: 0.587
+release: 53431
+release_7digitalid: 627899
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1170,)
+segments_loudness_max: shape = (1170,)
+segments_loudness_max_time: shape = (1170,)
+segments_loudness_start: shape = (1170,)
+segments_pitches: shape = (1170, 12)
+segments_start: shape = (1170,)
+segments_timbre: shape = (1170, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.462387119587
+song_id: SOGTAFY12AB017CF0D
+start_of_fade_out: 256.714
+tatums_confidence: shape = (1184,)
+tatums_start: shape = (1184,)
+tempo: 91.988
+time_signature: 5
+time_signature_confidence: 0.943
+title: Tonight
+track_7digitalid: 6969464
+track_id: TRBHADL128F931E5F1
+year: 2009

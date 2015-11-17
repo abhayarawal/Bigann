@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12477
+artist_familiarity: 0.609807805675
+artist_hotttnesss: 0.406062550303
+artist_id: ARVNK831187FB48831
+artist_latitude: 37.27188
+artist_location: California
+artist_longitude: -119.27023
+artist_mbid: 0b03f91a-2991-4a49-b9b9-93b084872952
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Shakedown
+artist_playmeid: -1
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 7f23332b149301e708b69f1cc8314259
+bars_confidence: shape = (234,)
+bars_start: shape = (234,)
+beats_confidence: shape = (941,)
+beats_start: shape = (941,)
+danceability: 0.0
+duration: 437.9424
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.256
+loudness: -6.042
+mode: 0
+mode_confidence: 0.138
+release: At Night (The Unreleased Mixes)
+release_7digitalid: 779118
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (2564,)
+segments_loudness_max: shape = (2564,)
+segments_loudness_max_time: shape = (2564,)
+segments_loudness_start: shape = (2564,)
+segments_pitches: shape = (2564, 12)
+segments_start: shape = (2564,)
+segments_timbre: shape = (2564, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWPLTX12A5891F918
+start_of_fade_out: 433.656
+tatums_confidence: shape = (1882,)
+tatums_start: shape = (1882,)
+tempo: 123.994
+time_signature: 4
+time_signature_confidence: 0.95
+title: At Night
+track_7digitalid: 8621344
+track_id: TRAFKHA12903CF0E89
+year: 2001

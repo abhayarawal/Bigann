@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 27512
+artist_familiarity: 0.59660238456
+artist_hotttnesss: 0.399186285296
+artist_id: ARB1CNO1187FB4CE93
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 337027f4-4f29-42f4-bc4d-63e7d4e74e1a
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: 45 Grave
+artist_playmeid: 36893
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: e5f319b713340be07b26d9eb2653a6f2
+bars_confidence: shape = (311,)
+bars_start: shape = (311,)
+beats_confidence: shape = (311,)
+beats_start: shape = (311,)
+danceability: 0.0
+duration: 163.26485
+end_of_fade_in: 0.154
+energy: 0.0
+key: 4
+key_confidence: 0.258
+loudness: -12.778
+mode: 1
+mode_confidence: 0.325
+release: A Devil's Possessions - Demos & Live 1980-1983
+release_7digitalid: 272276
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (396,)
+segments_loudness_max: shape = (396,)
+segments_loudness_max_time: shape = (396,)
+segments_loudness_start: shape = (396,)
+segments_pitches: shape = (396, 12)
+segments_start: shape = (396,)
+segments_timbre: shape = (396, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.647368816553
+song_id: SOJMXXW12A6D4F9DB3
+start_of_fade_out: 156.868
+tatums_confidence: shape = (311,)
+tatums_start: shape = (311,)
+tempo: 114.135
+time_signature: 1
+time_signature_confidence: 0.318
+title: Party Time
+track_7digitalid: 3034979
+track_id: TRAJZYI128F424B412
+year: 1989

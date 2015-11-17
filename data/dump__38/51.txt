@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 139885
+artist_familiarity: 0.376419610856
+artist_hotttnesss: 0.208578173781
+artist_id: ARJO8W91187B9AB734
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 217e2df6-61be-4ff5-b62c-4c8642d396c5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mystic Revelation of Rastafari
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 81dc4d25e4ea57996ab2eec453468841
+bars_confidence: shape = (124,)
+bars_start: shape = (124,)
+beats_confidence: shape = (498,)
+beats_start: shape = (498,)
+danceability: 0.0
+duration: 250.90567
+end_of_fade_in: 0.186
+energy: 0.0
+key: 5
+key_confidence: 0.038
+loudness: -18.933
+mode: 0
+mode_confidence: 0.409
+release: Grounation
+release_7digitalid: 811461
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1021,)
+segments_loudness_max: shape = (1021,)
+segments_loudness_max_time: shape = (1021,)
+segments_loudness_start: shape = (1021,)
+segments_pitches: shape = (1021, 12)
+segments_start: shape = (1021,)
+segments_timbre: shape = (1021, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOERSNE12AB018DCF3
+start_of_fade_out: 224.961
+tatums_confidence: shape = (995,)
+tatums_start: shape = (995,)
+tempo: 118.132
+time_signature: 4
+time_signature_confidence: 0.78
+title: Ethiopian Serenade
+track_7digitalid: 8969554
+track_id: TRANEHV12903CD1E33
+year: 0

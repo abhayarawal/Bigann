@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5733
+artist_familiarity: 0.827776802195
+artist_hotttnesss: 0.537799608198
+artist_id: ARI7DOB1187FB37AA4
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: 8c538f11-c141-4588-8ecb-931083524186
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Bloc Party
+artist_playmeid: 1767
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: ff54d2456cbbcce602810054487efa5c
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (352,)
+beats_start: shape = (352,)
+danceability: 0.0
+duration: 166.26893
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.536
+loudness: -6.78
+mode: 0
+mode_confidence: 0.437
+release: Sellout Sessions 03
+release_7digitalid: 624626
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (764,)
+segments_loudness_max: shape = (764,)
+segments_loudness_max_time: shape = (764,)
+segments_loudness_start: shape = (764,)
+segments_pitches: shape = (764, 12)
+segments_start: shape = (764,)
+segments_timbre: shape = (764, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQFITU12AB01832C8
+start_of_fade_out: 166.269
+tatums_confidence: shape = (352,)
+tatums_start: shape = (352,)
+tempo: 127.154
+time_signature: 4
+time_signature_confidence: 0.747
+title: One More Chance
+track_7digitalid: 6936443
+track_id: TRASVKL128F931652A
+year: 2009

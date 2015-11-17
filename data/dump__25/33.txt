@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 278186
+artist_familiarity: 0.503403788974
+artist_hotttnesss: 0.325736258943
+artist_id: ARORDXJ122ECCBB264
+artist_latitude: nan
+artist_location: NY - New York City
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Carlos Jimenez
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 78ea67fed7bf4ee7e634f80bcd269748
+bars_confidence: shape = (172,)
+bars_start: shape = (172,)
+beats_confidence: shape = (693,)
+beats_start: shape = (693,)
+danceability: 0.0
+duration: 324.98893
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.448
+loudness: -8.232
+mode: 1
+mode_confidence: 0.447
+release: Anita Love's
+release_7digitalid: 445750
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (2103,)
+segments_loudness_max: shape = (2103,)
+segments_loudness_max_time: shape = (2103,)
+segments_loudness_start: shape = (2103,)
+segments_pitches: shape = (2103, 12)
+segments_start: shape = (2103,)
+segments_timbre: shape = (2103, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQTUQL12AB01839D7
+start_of_fade_out: 324.989
+tatums_confidence: shape = (1386,)
+tatums_start: shape = (1386,)
+tempo: 127.99
+time_signature: 4
+time_signature_confidence: 0.54
+title: Anita Love's
+track_7digitalid: 4952076
+track_id: TRAIMMK128F9302007
+year: 0

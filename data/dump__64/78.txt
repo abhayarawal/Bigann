@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 280313
+artist_familiarity: 0.365307971063
+artist_hotttnesss: 0.257213089432
+artist_id: ARDOZIV11F4C83DD59
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Maria Forde
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: f3b9444ec30e1cf755cf228a35296e7e
+bars_confidence: shape = (68,)
+bars_start: shape = (68,)
+beats_confidence: shape = (277,)
+beats_start: shape = (277,)
+danceability: 0.0
+duration: 175.5424
+end_of_fade_in: 0.467
+energy: 0.0
+key: 4
+key_confidence: 0.486
+loudness: -10.775
+mode: 1
+mode_confidence: 0.638
+release: Dark Island
+release_7digitalid: 370554
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (554,)
+segments_loudness_max: shape = (554,)
+segments_loudness_max_time: shape = (554,)
+segments_loudness_start: shape = (554,)
+segments_pitches: shape = (554, 12)
+segments_start: shape = (554,)
+segments_timbre: shape = (554, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORXDPO12AB01861CB
+start_of_fade_out: 168.687
+tatums_confidence: shape = (555,)
+tatums_start: shape = (555,)
+tempo: 94.753
+time_signature: 4
+time_signature_confidence: 0.96
+title: To Your Door
+track_7digitalid: 4125574
+track_id: TRAWDZY128F9339D32
+year: 0

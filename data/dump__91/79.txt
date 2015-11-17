@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20912
+artist_familiarity: 0.844039532227
+artist_hotttnesss: 0.524378987515
+artist_id: ARUSOMY1187FB4D3B4
+artist_latitude: nan
+artist_location: Pittsburgh, PA
+artist_longitude: nan
+artist_mbid: b88f21a7-a1b9-48fd-bbc4-ae758026f17f
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Anti-Flag
+artist_playmeid: 8398
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 515b9d1164cd776d4dc3161cb120f367
+bars_confidence: shape = (173,)
+bars_start: shape = (173,)
+beats_confidence: shape = (173,)
+beats_start: shape = (173,)
+danceability: 0.0
+duration: 99.00363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.231
+loudness: -6.459
+mode: 1
+mode_confidence: 0.0
+release: Live at the Fireside Bowl
+release_7digitalid: 175909
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (346,)
+segments_loudness_max: shape = (346,)
+segments_loudness_max_time: shape = (346,)
+segments_loudness_start: shape = (346,)
+segments_pitches: shape = (346, 12)
+segments_start: shape = (346,)
+segments_timbre: shape = (346, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.41967427881
+song_id: SOTRPCV12A6D4FAB31
+start_of_fade_out: 99.004
+tatums_confidence: shape = (347,)
+tatums_start: shape = (347,)
+tempo: 106.065
+time_signature: 1
+time_signature_confidence: 0.0
+title: I Don't Wanna be a War Hero
+track_7digitalid: 1892067
+track_id: TRBFRMV128F42214A6
+year: 2003

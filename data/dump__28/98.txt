@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 465464
+artist_familiarity: 0.431014963409
+artist_hotttnesss: 0.35290225382
+artist_id: AR7358P1187B9B6880
+artist_latitude: 41.50075
+artist_location: Nebraska
+artist_longitude: -99.68095
+artist_mbid: 6d2a9594-ebcf-4e0d-88d4-49809a440652
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lexi
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: f7dc910a335eebd4fc4f7072d614c3df
+bars_confidence: shape = (130,)
+bars_start: shape = (130,)
+beats_confidence: shape = (525,)
+beats_start: shape = (525,)
+danceability: 0.0
+duration: 244.03546
+end_of_fade_in: 0.154
+energy: 0.0
+key: 8
+key_confidence: 0.563
+loudness: -10.258
+mode: 1
+mode_confidence: 0.45
+release: Dial Me
+release_7digitalid: 703020
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1199,)
+segments_loudness_max: shape = (1199,)
+segments_loudness_max_time: shape = (1199,)
+segments_loudness_start: shape = (1199,)
+segments_pitches: shape = (1199, 12)
+segments_start: shape = (1199,)
+segments_timbre: shape = (1199, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORVORU12AB0183685
+start_of_fade_out: 239.456
+tatums_confidence: shape = (1050,)
+tatums_start: shape = (1050,)
+tempo: 130.052
+time_signature: 4
+time_signature_confidence: 1.0
+title: Dial Me
+track_7digitalid: 7798518
+track_id: TRAJSPE12903C9F712
+year: 0

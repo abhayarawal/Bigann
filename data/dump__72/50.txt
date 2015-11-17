@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 265953
+artist_familiarity: 0.379484458462
+artist_hotttnesss: 0.297185686643
+artist_id: ARE8MZ81187B9AB2A3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e98df13f-cc76-406c-ad54-96c6e1bc1f41
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Wendo Kolosoy
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 91537d20a81b2482f805419961c77338
+bars_confidence: shape = (169,)
+bars_start: shape = (169,)
+beats_confidence: shape = (538,)
+beats_start: shape = (538,)
+danceability: 0.0
+duration: 397.76608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.677
+loudness: -6.819
+mode: 1
+mode_confidence: 0.652
+release: The Very Best of Congolese Rumba : The Kinshasa-Abidjan Sessions (le meilleur de la rumba congolais
+release_7digitalid: 567667
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1592,)
+segments_loudness_max: shape = (1592,)
+segments_loudness_max_time: shape = (1592,)
+segments_loudness_start: shape = (1592,)
+segments_pitches: shape = (1592, 12)
+segments_start: shape = (1592,)
+segments_timbre: shape = (1592, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOVFFVM12AB0186705
+start_of_fade_out: 383.971
+tatums_confidence: shape = (1615,)
+tatums_start: shape = (1615,)
+tempo: 81.249
+time_signature: 3
+time_signature_confidence: 1.0
+title: Marie Marie
+track_7digitalid: 6286383
+track_id: TRAYUSC12903C93E24
+year: 1993

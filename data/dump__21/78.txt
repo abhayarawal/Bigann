@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 165270
+artist_familiarity: 0.581793765845
+artist_hotttnesss: 0.401997543364
+artist_id: ARD7TVE1187B99BFB1
+artist_latitude: nan
+artist_location: California - LA
+artist_longitude: nan
+artist_mbid: e77e51a5-4761-45b3-9847-2051f811e366
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Casual
+artist_playmeid: 4479
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 33e12f95a4b5d667a50ffd17542087ac
+bars_confidence: shape = (334,)
+bars_start: shape = (334,)
+beats_confidence: shape = (334,)
+beats_start: shape = (334,)
+danceability: 0.0
+duration: 238.31465
+end_of_fade_in: 2.339
+energy: 0.0
+key: 4
+key_confidence: 0.89
+loudness: -12.054
+mode: 1
+mode_confidence: 0.527
+release: Casual
+release_7digitalid: 399933
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (836,)
+segments_loudness_max: shape = (836,)
+segments_loudness_max_time: shape = (836,)
+segments_loudness_start: shape = (836,)
+segments_pitches: shape = (836, 12)
+segments_start: shape = (836,)
+segments_timbre: shape = (836, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SODKPKO12A58A79DF7
+start_of_fade_out: 215.522
+tatums_confidence: shape = (1002,)
+tatums_start: shape = (1002,)
+tempo: 85.652
+time_signature: 1
+time_signature_confidence: 0.344
+title: I believe
+track_7digitalid: 4438048
+track_id: TRAHKOY128F9304B8F
+year: 0

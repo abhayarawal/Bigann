@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15977
+artist_familiarity: 0.606102514726
+artist_hotttnesss: 0.396018753651
+artist_id: AR3PDNJ1187B9AF3F0
+artist_latitude: nan
+artist_location: California - LA
+artist_longitude: nan
+artist_mbid: 8b9e78e6-a66f-4974-a847-15681ad93287
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Vixen
+artist_playmeid: 56256
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: e527979e74f86ca6589eee1e8403c618
+bars_confidence: shape = (121,)
+bars_start: shape = (121,)
+beats_confidence: shape = (488,)
+beats_start: shape = (488,)
+danceability: 0.0
+duration: 229.642
+end_of_fade_in: 2.891
+energy: 0.0
+key: 0
+key_confidence: 0.725
+loudness: -12.818
+mode: 1
+mode_confidence: 0.635
+release: Vixen
+release_7digitalid: 22583
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (636,)
+segments_loudness_max: shape = (636,)
+segments_loudness_max_time: shape = (636,)
+segments_loudness_start: shape = (636,)
+segments_pitches: shape = (636, 12)
+segments_start: shape = (636,)
+segments_timbre: shape = (636, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.682218135227
+song_id: SOKBKCA12A6D4F7539
+start_of_fade_out: 212.648
+tatums_confidence: shape = (976,)
+tatums_start: shape = (976,)
+tempo: 129.846
+time_signature: 4
+time_signature_confidence: 0.0
+title: One Night Alone
+track_7digitalid: 233700
+track_id: TRBFSNP128F14572B5
+year: 1988

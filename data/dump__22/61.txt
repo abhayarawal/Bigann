@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3950
+artist_familiarity: 0.63642364495
+artist_hotttnesss: 0.44793548048
+artist_id: ARD842G1187B997376
+artist_latitude: 43.64856
+artist_location: Toronto, Ontario, Canada
+artist_longitude: -79.38533
+artist_mbid: 6b52e1be-f27a-433c-b51a-3f2d63abc2ba
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Blue Rodeo
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 7a44a0883bef75a47189800483217e38
+bars_confidence: shape = (121,)
+bars_start: shape = (121,)
+beats_confidence: shape = (487,)
+beats_start: shape = (487,)
+danceability: 0.0
+duration: 251.402
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.655
+loudness: -7.225
+mode: 1
+mode_confidence: 0.807
+release: Small Miracles
+release_7digitalid: 217966
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (807,)
+segments_loudness_max: shape = (807,)
+segments_loudness_max_time: shape = (807,)
+segments_loudness_start: shape = (807,)
+segments_pitches: shape = (807, 12)
+segments_start: shape = (807,)
+segments_timbre: shape = (807, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOVEVEW12A8C13D5A6
+start_of_fade_out: 240.477
+tatums_confidence: shape = (974,)
+tatums_start: shape = (974,)
+tempo: 121.795
+time_signature: 4
+time_signature_confidence: 0.522
+title: Mystic River
+track_7digitalid: 2376785
+track_id: TRAHRRS128F4282F7A
+year: 2007

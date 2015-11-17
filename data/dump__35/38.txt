@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 461297
+artist_familiarity: 0.479848521551
+artist_hotttnesss: 0.361702379422
+artist_id: AR95CRV1187B9AFD6D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c07ef5b7-9264-45d1-84bc-014950398d63
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pedro Luis e a Parede
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: d8b6f401a5c5187629dfecc08e7fa374
+bars_confidence: shape = (223,)
+bars_start: shape = (223,)
+beats_confidence: shape = (223,)
+beats_start: shape = (223,)
+danceability: 0.0
+duration: 151.92771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.821
+loudness: -15.508
+mode: 1
+mode_confidence: 0.738
+release: Astronauta Tupy
+release_7digitalid: 543440
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (404,)
+segments_loudness_max: shape = (404,)
+segments_loudness_max_time: shape = (404,)
+segments_loudness_start: shape = (404,)
+segments_pitches: shape = (404, 12)
+segments_start: shape = (404,)
+segments_timbre: shape = (404, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCHVST12AB017CD1D
+start_of_fade_out: 138.966
+tatums_confidence: shape = (447,)
+tatums_start: shape = (447,)
+tempo: 92.065
+time_signature: 1
+time_signature_confidence: 0.0
+title: In The Rain
+track_7digitalid: 6014589
+track_id: TRAMBRB128F931E683
+year: 1997

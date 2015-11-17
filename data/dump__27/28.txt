@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 409650
+artist_familiarity: 0.767815063865
+artist_hotttnesss: 0.319103221688
+artist_id: ARYLQVR11F50C4EFC2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Saman
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 4d74af3b1c46f48889d3a30f8e0498d7
+bars_confidence: shape = (192,)
+bars_start: shape = (192,)
+beats_confidence: shape = (579,)
+beats_start: shape = (579,)
+danceability: 0.0
+duration: 243.98322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.27
+loudness: -7.807
+mode: 1
+mode_confidence: 0.388
+release: Koocheyeh Khatereh
+release_7digitalid: 554752
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (931,)
+segments_loudness_max: shape = (931,)
+segments_loudness_max_time: shape = (931,)
+segments_loudness_start: shape = (931,)
+segments_pitches: shape = (931, 12)
+segments_start: shape = (931,)
+segments_timbre: shape = (931, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKRRKZ12AB0182EF8
+start_of_fade_out: 241.464
+tatums_confidence: shape = (1159,)
+tatums_start: shape = (1159,)
+tempo: 141.205
+time_signature: 3
+time_signature_confidence: 1.0
+title: Roorasty
+track_7digitalid: 6134128
+track_id: TRAJDCP128F933B55B
+year: 0

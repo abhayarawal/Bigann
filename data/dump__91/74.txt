@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15219
+artist_familiarity: 0.812319577214
+artist_hotttnesss: 0.633409776062
+artist_id: ARH2QI91187FB3788D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 302bd7b9-d012-4360-897a-93b00c855680
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: David Guetta - Joachim Garraud - Chris Willis
+artist_playmeid: 425
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 5d3982c75c38630531f71891df3c311e
+bars_confidence: shape = (601,)
+bars_start: shape = (601,)
+beats_confidence: shape = (601,)
+beats_start: shape = (601,)
+danceability: 0.0
+duration: 432.90077
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.717
+loudness: -9.173
+mode: 0
+mode_confidence: 0.527
+release: Love Is Gone
+release_7digitalid: 292788
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (2305,)
+segments_loudness_max: shape = (2305,)
+segments_loudness_max_time: shape = (2305,)
+segments_loudness_start: shape = (2305,)
+segments_pitches: shape = (2305, 12)
+segments_start: shape = (2305,)
+segments_timbre: shape = (2305, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.618911086325
+song_id: SONXJXB12A8C138151
+start_of_fade_out: 419.503
+tatums_confidence: shape = (1803,)
+tatums_start: shape = (1803,)
+tempo: 85.351
+time_signature: 1
+time_signature_confidence: 1.0
+title: Love Is Gone (Eddie Thoneick's Liberte Mix)
+track_7digitalid: 3283340
+track_id: TRBFQPI128F4280CDA
+year: 0

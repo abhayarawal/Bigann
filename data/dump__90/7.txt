@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: -1
+artist_familiarity: 0.188667694917
+artist_hotttnesss: 0.0
+artist_id: AR6Q6PN1187B9A01E1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bb89afe4-81e8-45af-87bc-032703b7a953
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Party Group
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: b0dfb2cd5992b880c7f61ff5c8fb477f
+bars_confidence: shape = (72,)
+bars_start: shape = (72,)
+beats_confidence: shape = (363,)
+beats_start: shape = (363,)
+danceability: 0.0
+duration: 255.4771
+end_of_fade_in: 0.456
+energy: 0.0
+key: 0
+key_confidence: 0.813
+loudness: -17.608
+mode: 1
+mode_confidence: 0.657
+release: Party Fiesta_ Vol. 6
+release_7digitalid: 92057
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1091,)
+segments_loudness_max: shape = (1091,)
+segments_loudness_max_time: shape = (1091,)
+segments_loudness_start: shape = (1091,)
+segments_pitches: shape = (1091, 12)
+segments_start: shape = (1091,)
+segments_timbre: shape = (1091, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTWPCU12A8C138514
+start_of_fade_out: 250.346
+tatums_confidence: shape = (1088,)
+tatums_start: shape = (1088,)
+tempo: 86.666
+time_signature: 5
+time_signature_confidence: 0.61
+title: Te Quiero Mas
+track_7digitalid: 976223
+track_id: TRBFBMD128F4270DA5
+year: 0

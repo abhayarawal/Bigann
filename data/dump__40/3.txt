@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 31401
+artist_familiarity: 0.495518892622
+artist_hotttnesss: 0.332867170255
+artist_id: ARFLHWV1187FB4E77F
+artist_latitude: nan
+artist_location: Jasper, AL
+artist_longitude: nan
+artist_mbid: ed682cfc-c080-46c6-baf9-2df4935db7ce
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sandy Posey
+artist_playmeid: 13745
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: e84f7a96ad941c4d10d9908d5b7edc5c
+bars_confidence: shape = (97,)
+bars_start: shape = (97,)
+beats_confidence: shape = (393,)
+beats_start: shape = (393,)
+danceability: 0.0
+duration: 165.19791
+end_of_fade_in: 0.183
+energy: 0.0
+key: 0
+key_confidence: 0.641
+loudness: -15.15
+mode: 1
+mode_confidence: 0.578
+release: Born A Woman
+release_7digitalid: 806430
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (525,)
+segments_loudness_max: shape = (525,)
+segments_loudness_max_time: shape = (525,)
+segments_loudness_start: shape = (525,)
+segments_pitches: shape = (525, 12)
+segments_start: shape = (525,)
+segments_timbre: shape = (525, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOKFQSX12AB0188CEE
+start_of_fade_out: 158.72
+tatums_confidence: shape = (787,)
+tatums_start: shape = (787,)
+tempo: 149.252
+time_signature: 4
+time_signature_confidence: 0.0
+title: Touch You
+track_7digitalid: 8915202
+track_id: TRANQRQ12903CC4BBB
+year: 1966

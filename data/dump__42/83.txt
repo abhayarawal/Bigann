@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 39299
+artist_familiarity: 0.450645997115
+artist_hotttnesss: 0.331534751415
+artist_id: ARQ91R31187FB38A88
+artist_latitude: 37.82245
+artist_location: Niagra, KY
+artist_longitude: -85.69091
+artist_mbid: 8488e884-f8b9-4c31-a6ec-a92be00d450f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Grandpa Jones
+artist_playmeid: 23838
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: e1dfdb55e7e8da34a44a2c78a97367a6
+bars_confidence: shape = (72,)
+bars_start: shape = (72,)
+beats_confidence: shape = (290,)
+beats_start: shape = (290,)
+danceability: 0.0
+duration: 139.78077
+end_of_fade_in: 0.415
+energy: 0.0
+key: 4
+key_confidence: 1.0
+loudness: -11.901
+mode: 1
+mode_confidence: 0.764
+release: The Unforgettable Grandpa Jones
+release_7digitalid: 760072
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (375,)
+segments_loudness_max: shape = (375,)
+segments_loudness_max_time: shape = (375,)
+segments_loudness_start: shape = (375,)
+segments_pitches: shape = (375, 12)
+segments_start: shape = (375,)
+segments_timbre: shape = (375, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSBCDM12AB018475B
+start_of_fade_out: 133.689
+tatums_confidence: shape = (580,)
+tatums_start: shape = (580,)
+tempo: 129.391
+time_signature: 4
+time_signature_confidence: 0.0
+title: Don't Look Back
+track_7digitalid: 8416797
+track_id: TRAOOSW12903CBF122
+year: 1995

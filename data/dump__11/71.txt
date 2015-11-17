@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 78535
+artist_familiarity: 0.248503726421
+artist_hotttnesss: 0.0
+artist_id: AR7537T1187B98FF59
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 51c83962-9698-4fe3-a228-bd5e96fbe3fa
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Frankie Randall
+artist_playmeid: 84080
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: a6bad16cb32c2be9a1f5000211f8117d
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (356,)
+beats_start: shape = (356,)
+danceability: 0.0
+duration: 215.77098
+end_of_fade_in: 0.356
+energy: 0.0
+key: 4
+key_confidence: 0.335
+loudness: -18.86
+mode: 0
+mode_confidence: 0.283
+release: Let's Make Christmas Every Day
+release_7digitalid: 98599
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (654,)
+segments_loudness_max: shape = (654,)
+segments_loudness_max_time: shape = (654,)
+segments_loudness_start: shape = (654,)
+segments_pitches: shape = (654, 12)
+segments_start: shape = (654,)
+segments_timbre: shape = (654, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBDXNG12A8C139A47
+start_of_fade_out: 203.343
+tatums_confidence: shape = (712,)
+tatums_start: shape = (712,)
+tempo: 100.0
+time_signature: 4
+time_signature_confidence: 0.554
+title: Winter Wonderland
+track_7digitalid: 1025886
+track_id: TRADWCP128F427CCAB
+year: 0

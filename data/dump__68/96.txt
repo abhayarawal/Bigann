@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40415
+artist_familiarity: 0.601295441612
+artist_hotttnesss: 0.364450594144
+artist_id: ARNMUMC1187B9A7A38
+artist_latitude: 55.8578
+artist_location: Glasgow
+artist_longitude: -4.24251
+artist_mbid: e2f46f7b-05e3-4b88-b2ad-a2da3df9dd77
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Tigerstyle
+artist_playmeid: 51435
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 554ade881b29fccdd97291e32e96f444
+bars_confidence: shape = (70,)
+bars_start: shape = (70,)
+beats_confidence: shape = (355,)
+beats_start: shape = (355,)
+danceability: 0.0
+duration: 164.93669
+end_of_fade_in: 0.206
+energy: 0.0
+key: 7
+key_confidence: 0.466
+loudness: -5.018
+mode: 1
+mode_confidence: 0.516
+release: The Rising
+release_7digitalid: 75103
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (790,)
+segments_loudness_max: shape = (790,)
+segments_loudness_max_time: shape = (790,)
+segments_loudness_start: shape = (790,)
+segments_pitches: shape = (790, 12)
+segments_start: shape = (790,)
+segments_timbre: shape = (790, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHRTOF12A6D4F989E
+start_of_fade_out: 155.841
+tatums_confidence: shape = (710,)
+tatums_start: shape = (710,)
+tempo: 131.999
+time_signature: 5
+time_signature_confidence: 0.313
+title: Bonus Track
+track_7digitalid: 776792
+track_id: TRAXNLL128EF34EF9F
+year: 0

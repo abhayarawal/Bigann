@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 481
+artist_familiarity: 0.640574149168
+artist_hotttnesss: 0.454714841079
+artist_id: ARWD82K1187B98CFF2
+artist_latitude: nan
+artist_location: Richmond VA
+artist_longitude: nan
+artist_mbid: ca48bfb8-37c5-4a04-9837-a07975ee0cd3
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Cracker
+artist_playmeid: 40329
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: d9d9e2a0ade17324ae5edc9f6e093e1f
+bars_confidence: shape = (146,)
+bars_start: shape = (146,)
+beats_confidence: shape = (589,)
+beats_start: shape = (589,)
+danceability: 0.0
+duration: 263.8624
+end_of_fade_in: 0.148
+energy: 0.0
+key: 4
+key_confidence: 0.675
+loudness: -5.498
+mode: 1
+mode_confidence: 0.588
+release: Clueless / Original Motion Picture Soundtrack
+release_7digitalid: 668323
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (814,)
+segments_loudness_max: shape = (814,)
+segments_loudness_max_time: shape = (814,)
+segments_loudness_start: shape = (814,)
+segments_pitches: shape = (814, 12)
+segments_start: shape = (814,)
+segments_timbre: shape = (814, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYHZWP12A58A7C176
+start_of_fade_out: 257.248
+tatums_confidence: shape = (1178,)
+tatums_start: shape = (1178,)
+tempo: 136.459
+time_signature: 4
+time_signature_confidence: 0.068
+title: Shake Some Action
+track_7digitalid: 7408734
+track_id: TRACTWW12903CB7550
+year: 1995

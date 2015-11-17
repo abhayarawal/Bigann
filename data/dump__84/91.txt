@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 126701
+artist_familiarity: 0.41091288073
+artist_hotttnesss: 0.312678559631
+artist_id: ARLCGW21187B9929EE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f8b180f7-eca1-43b8-93c1-c2560edcca21
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Juan Carmona
+artist_playmeid: 127077
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: a157842447aa3792c05dcf901737a278
+bars_confidence: shape = (52,)
+bars_start: shape = (52,)
+beats_confidence: shape = (368,)
+beats_start: shape = (368,)
+danceability: 0.0
+duration: 233.84771
+end_of_fade_in: 0.961
+energy: 0.0
+key: 7
+key_confidence: 0.292
+loudness: -9.07
+mode: 1
+mode_confidence: 0.473
+release: Borboreo
+release_7digitalid: 684333
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (1001,)
+segments_loudness_max: shape = (1001,)
+segments_loudness_max_time: shape = (1001,)
+segments_loudness_start: shape = (1001,)
+segments_pitches: shape = (1001, 12)
+segments_start: shape = (1001,)
+segments_timbre: shape = (1001, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJSYLO12AC3DF9B1B
+start_of_fade_out: 228.072
+tatums_confidence: shape = (1105,)
+tatums_start: shape = (1105,)
+tempo: 91.479
+time_signature: 7
+time_signature_confidence: 0.651
+title: Pa'lla pa'ca
+track_7digitalid: 7594921
+track_id: TRBDEMV12903CE48C6
+year: 0

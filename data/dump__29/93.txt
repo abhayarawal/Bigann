@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 93558
+artist_familiarity: 0.330992397715
+artist_hotttnesss: 0.157267430413
+artist_id: ARQ4OZM1187B991229
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 68ecbc62-19c6-49f7-80ec-d521caced0a1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jean Segurel
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: bdb8e3f5fe561a3f6e026d5bdc23537e
+bars_confidence: shape = (96,)
+bars_start: shape = (96,)
+beats_confidence: shape = (385,)
+beats_start: shape = (385,)
+danceability: 0.0
+duration: 172.12036
+end_of_fade_in: 2.403
+energy: 0.0
+key: 7
+key_confidence: 0.697
+loudness: -11.373
+mode: 1
+mode_confidence: 0.592
+release: Les Fiances D'Auvergne
+release_7digitalid: 291038
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (719,)
+segments_loudness_max: shape = (719,)
+segments_loudness_max_time: shape = (719,)
+segments_loudness_start: shape = (719,)
+segments_pitches: shape = (719, 12)
+segments_start: shape = (719,)
+segments_timbre: shape = (719, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEFQLO12A8C1362CE
+start_of_fade_out: 166.719
+tatums_confidence: shape = (769,)
+tatums_start: shape = (769,)
+tempo: 135.561
+time_signature: 4
+time_signature_confidence: 0.176
+title: Viens Danser Jeannette
+track_7digitalid: 3266418
+track_id: TRAKCGP128F427CAF4
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3950
+artist_familiarity: 0.63642364495
+artist_hotttnesss: 0.44793548048
+artist_id: ARD842G1187B997376
+artist_latitude: 43.64856
+artist_location: Toronto, Ontario, Canada
+artist_longitude: -79.38533
+artist_mbid: 6b52e1be-f27a-433c-b51a-3f2d63abc2ba
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Blue Rodeo
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: bc23a10b2be7c07ae8dc50ec4aa03d99
+bars_confidence: shape = (865,)
+bars_start: shape = (865,)
+beats_confidence: shape = (865,)
+beats_start: shape = (865,)
+danceability: 0.0
+duration: 543.97342
+end_of_fade_in: 0.2
+energy: 0.0
+key: 7
+key_confidence: 0.611
+loudness: -8.249
+mode: 1
+mode_confidence: 0.74
+release: The Things We Left Behind
+release_7digitalid: 786902
+sections_confidence: shape = (21,)
+sections_start: shape = (21,)
+segments_confidence: shape = (1689,)
+segments_loudness_max: shape = (1689,)
+segments_loudness_max_time: shape = (1689,)
+segments_loudness_start: shape = (1689,)
+segments_pitches: shape = (1689, 12)
+segments_start: shape = (1689,)
+segments_timbre: shape = (1689, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLWZMY12AB0182AAD
+start_of_fade_out: 494.034
+tatums_confidence: shape = (1730,)
+tatums_start: shape = (1730,)
+tempo: 99.644
+time_signature: 1
+time_signature_confidence: 0.052
+title: Million Miles
+track_7digitalid: 8708141
+track_id: TRATBRJ12903D06127
+year: 2009

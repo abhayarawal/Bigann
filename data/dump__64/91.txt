@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4159
+artist_familiarity: 0.654860822343
+artist_hotttnesss: 0.451466060363
+artist_id: ARB336A1187B9A4583
+artist_latitude: 42.25147
+artist_location: Lincoln Park, MI
+artist_longitude: -83.18186
+artist_mbid: 08b736bb-1c82-40b4-8b0b-49e2182a067a
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: MC5
+artist_playmeid: 28736
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 306648f01fa61a7f20d37b69aed554c4
+bars_confidence: shape = (244,)
+bars_start: shape = (244,)
+beats_confidence: shape = (739,)
+beats_start: shape = (739,)
+danceability: 0.0
+duration: 351.60771
+end_of_fade_in: 0.334
+energy: 0.0
+key: 8
+key_confidence: 0.416
+loudness: -18.044
+mode: 0
+mode_confidence: 0.572
+release: Purity Accuracy
+release_7digitalid: 612251
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (998,)
+segments_loudness_max: shape = (998,)
+segments_loudness_max_time: shape = (998,)
+segments_loudness_start: shape = (998,)
+segments_pitches: shape = (998, 12)
+segments_start: shape = (998,)
+segments_timbre: shape = (998, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYSLBQ12A8C143F44
+start_of_fade_out: 345.165
+tatums_confidence: shape = (1477,)
+tatums_start: shape = (1477,)
+tempo: 125.848
+time_signature: 3
+time_signature_confidence: 0.87
+title: It's A Man's World (Live_ Saginaw Civic Centre_ 1 January 1970)
+track_7digitalid: 6806589
+track_id: TRAWFAG128F92F6CDE
+year: 0

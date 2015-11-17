@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15806
+artist_familiarity: 0.546361173112
+artist_hotttnesss: 0.402835786586
+artist_id: ARBPRTL11F4C83CB05
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Oak Ridge Boys
+artist_playmeid: 3151
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 11a8ff7b57ec4dc444cdbe64ece2c4b1
+bars_confidence: shape = (210,)
+bars_start: shape = (210,)
+beats_confidence: shape = (210,)
+beats_start: shape = (210,)
+danceability: 0.0
+duration: 125.83138
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.974
+loudness: -12.135
+mode: 1
+mode_confidence: 0.868
+release: Lord Is My Saviour
+release_7digitalid: 341842
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (224,)
+segments_loudness_max: shape = (224,)
+segments_loudness_max_time: shape = (224,)
+segments_loudness_start: shape = (224,)
+segments_pitches: shape = (224, 12)
+segments_start: shape = (224,)
+segments_timbre: shape = (224, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMEKAE12AB0181461
+start_of_fade_out: 119.641
+tatums_confidence: shape = (210,)
+tatums_start: shape = (210,)
+tempo: 105.044
+time_signature: 1
+time_signature_confidence: 0.0
+title: My Saviour Is Lord
+track_7digitalid: 3825207
+track_id: TRAKDKW128F92FDEA3
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16919
+artist_familiarity: 0.681130241848
+artist_hotttnesss: 0.45339908329
+artist_id: AROATPL1187FB48E12
+artist_latitude: 34.16788
+artist_location: Arizona
+artist_longitude: -111.9307
+artist_mbid: f6b037df-35e8-4ef5-b59c-5634de1b44d4
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: UFO
+artist_playmeid: 32564
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 239a144ee6ba827bfe7078934d4e63cf
+bars_confidence: shape = (431,)
+bars_start: shape = (431,)
+beats_confidence: shape = (431,)
+beats_start: shape = (431,)
+danceability: 0.0
+duration: 313.7824
+end_of_fade_in: 0.299
+energy: 0.0
+key: 2
+key_confidence: 0.041
+loudness: -10.534
+mode: 1
+mode_confidence: 0.603
+release: The Essential UFO
+release_7digitalid: 25735
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1159,)
+segments_loudness_max: shape = (1159,)
+segments_loudness_max_time: shape = (1159,)
+segments_loudness_start: shape = (1159,)
+segments_pitches: shape = (1159, 12)
+segments_start: shape = (1159,)
+segments_timbre: shape = (1159, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOHEFF12A6D4F68A6
+start_of_fade_out: 301.79
+tatums_confidence: shape = (1292,)
+tatums_start: shape = (1292,)
+tempo: 86.595
+time_signature: 1
+time_signature_confidence: 0.0
+title: Out In The Street
+track_7digitalid: 275384
+track_id: TRAQUJP128F146082C
+year: 0

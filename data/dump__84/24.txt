@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8580
+artist_familiarity: 0.784820389039
+artist_hotttnesss: 0.572583336395
+artist_id: ARF0W6Z1187B9AC325
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7e26cbe1-b8f5-4215-af82-e43d5f8ff308
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Cradle Of Filth
+artist_playmeid: 5498
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: f4d353501624e0deefcdd053a73de9fe
+bars_confidence: shape = (236,)
+bars_start: shape = (236,)
+beats_confidence: shape = (947,)
+beats_start: shape = (947,)
+danceability: 0.0
+duration: 358.37342
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.245
+loudness: -4.386
+mode: 0
+mode_confidence: 0.123
+release: Godspeed On The Devil's Thunder
+release_7digitalid: 327279
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1299,)
+segments_loudness_max: shape = (1299,)
+segments_loudness_max_time: shape = (1299,)
+segments_loudness_start: shape = (1299,)
+segments_pitches: shape = (1299, 12)
+segments_start: shape = (1299,)
+segments_timbre: shape = (1299, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.609608464566
+song_id: SOWNOIQ12A58A799E1
+start_of_fade_out: 355.254
+tatums_confidence: shape = (1894,)
+tatums_start: shape = (1894,)
+tempo: 160.102
+time_signature: 4
+time_signature_confidence: 0.0
+title: Sweetest Maleficia (Album Version)
+track_7digitalid: 3681635
+track_id: TRBCWYB128F92E246A
+year: 0

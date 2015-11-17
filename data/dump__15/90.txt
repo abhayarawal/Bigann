@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 32952
+artist_familiarity: 0.370667207746
+artist_hotttnesss: 0.297258384063
+artist_id: ARZSTXE1187B99DD77
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a2ad7312-e234-430c-9a0f-317de8ede5b9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Biddu
+artist_playmeid: 85057
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: bbc66237119c2b4c17ea1bde1c367cd2
+bars_confidence: shape = (139,)
+bars_start: shape = (139,)
+beats_confidence: shape = (429,)
+beats_start: shape = (429,)
+danceability: 0.0
+duration: 338.02404
+end_of_fade_in: 0.276
+energy: 0.0
+key: 10
+key_confidence: 0.012
+loudness: -9.992
+mode: 0
+mode_confidence: 0.15
+release: Diamond Sutra
+release_7digitalid: 45071
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1439,)
+segments_loudness_max: shape = (1439,)
+segments_loudness_max_time: shape = (1439,)
+segments_loudness_start: shape = (1439,)
+segments_pitches: shape = (1439, 12)
+segments_start: shape = (1439,)
+segments_timbre: shape = (1439, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONUEAD12A6D4F908B
+start_of_fade_out: 325.242
+tatums_confidence: shape = (1287,)
+tatums_start: shape = (1287,)
+tempo: 77.352
+time_signature: 3
+time_signature_confidence: 1.0
+title: Raag Trance
+track_7digitalid: 480501
+track_id: TRAFKII128F1487F99
+year: 0

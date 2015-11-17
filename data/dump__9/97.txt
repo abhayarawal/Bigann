@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16331
+artist_familiarity: 0.736677413341
+artist_hotttnesss: 0.526182556347
+artist_id: ARNDB1X1187B990AA0
+artist_latitude: 34.05349
+artist_location: Venice, CA
+artist_longitude: -118.24532
+artist_mbid: e9e2a634-984f-4c10-bf7b-7970179e1ef1
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Suicidal Tendencies
+artist_playmeid: 12797
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: a00e04f8cdc119eee566982042b53937
+bars_confidence: shape = (93,)
+bars_start: shape = (93,)
+beats_confidence: shape = (376,)
+beats_start: shape = (376,)
+danceability: 0.0
+duration: 125.90975
+end_of_fade_in: 0.302
+energy: 0.0
+key: 11
+key_confidence: 0.768
+loudness: -9.96
+mode: 0
+mode_confidence: 0.681
+release: Join The Army
+release_7digitalid: 92649
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (391,)
+segments_loudness_max: shape = (391,)
+segments_loudness_max_time: shape = (391,)
+segments_loudness_start: shape = (391,)
+segments_pitches: shape = (391, 12)
+segments_start: shape = (391,)
+segments_timbre: shape = (391, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.578658187757
+song_id: SOIMSRQ12A6D4F648F
+start_of_fade_out: 120.796
+tatums_confidence: shape = (752,)
+tatums_start: shape = (752,)
+tempo: 186.159
+time_signature: 4
+time_signature_confidence: 0.278
+title: Human Guinea Pig
+track_7digitalid: 1108714
+track_id: TRADHLI128F428FEFD
+year: 1987

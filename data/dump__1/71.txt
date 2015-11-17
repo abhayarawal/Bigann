@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 95199
+artist_familiarity: 0.622829996885
+artist_hotttnesss: 0.426944256236
+artist_id: ARA0H5U1187FB47949
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6b5f8f90-ee6f-4dd4-aba5-1dc685f42779
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: 2-4 Grooves feat. Reki D.
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: cf983e0bbe786d22ae4c7fc543b12767
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (414,)
+beats_start: shape = (414,)
+danceability: 0.0
+duration: 203.83302
+end_of_fade_in: 2.067
+energy: 0.0
+key: 4
+key_confidence: 0.648
+loudness: -7.661
+mode: 0
+mode_confidence: 0.629
+release: Relax
+release_7digitalid: 763206
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (882,)
+segments_loudness_max: shape = (882,)
+segments_loudness_max_time: shape = (882,)
+segments_loudness_start: shape = (882,)
+segments_pitches: shape = (882, 12)
+segments_start: shape = (882,)
+segments_timbre: shape = (882, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKPHVH12AB0187460
+start_of_fade_out: 195.117
+tatums_confidence: shape = (827,)
+tatums_start: shape = (827,)
+tempo: 126.941
+time_signature: 4
+time_signature_confidence: 1.0
+title: Relax
+track_7digitalid: 8450582
+track_id: TRAAMKP12903CC74F4
+year: 2009

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 192619
+artist_familiarity: 0.442769650057
+artist_hotttnesss: 0.294986616555
+artist_id: ARI648V1187B9B5379
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4e744ffc-767a-4b18-b485-47d4b123ff4a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Michael Stanley Band
+artist_playmeid: 15835
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 52b3c4df49ff9fd4669c3927085fffb9
+bars_confidence: shape = (126,)
+bars_start: shape = (126,)
+beats_confidence: shape = (380,)
+beats_start: shape = (380,)
+danceability: 0.0
+duration: 164.07465
+end_of_fade_in: 0.386
+energy: 0.0
+key: 0
+key_confidence: 0.133
+loudness: -8.662
+mode: 1
+mode_confidence: 0.254
+release: North Coast
+release_7digitalid: 536763
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (585,)
+segments_loudness_max: shape = (585,)
+segments_loudness_max_time: shape = (585,)
+segments_loudness_start: shape = (585,)
+segments_pitches: shape = (585, 12)
+segments_start: shape = (585,)
+segments_timbre: shape = (585, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.259964404581
+song_id: SOZOBFV12AB0181413
+start_of_fade_out: 153.432
+tatums_confidence: shape = (759,)
+tatums_start: shape = (759,)
+tempo: 142.706
+time_signature: 3
+time_signature_confidence: 0.723
+title: You're My Love
+track_7digitalid: 5937060
+track_id: TRAXKAQ128F930BCD6
+year: 1981

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 72184
+artist_familiarity: 0.577228502778
+artist_hotttnesss: 0.373552391014
+artist_id: ARYFXQ21187FB4DAEF
+artist_latitude: 27.53092
+artist_location: Laredo, TX
+artist_longitude: -99.502
+artist_mbid: 62da2ead-f055-4ad0-b939-3274bb2c54b2
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Poncho Sanchez
+artist_playmeid: -1
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 13785643a28462f1b674e559cc0f3e90
+bars_confidence: shape = (300,)
+bars_start: shape = (300,)
+beats_confidence: shape = (1505,)
+beats_start: shape = (1505,)
+danceability: 0.0
+duration: 427.07546
+end_of_fade_in: 0.136
+energy: 0.0
+key: 1
+key_confidence: 0.2
+loudness: -9.428
+mode: 1
+mode_confidence: 0.328
+release: Latin Spirits
+release_7digitalid: 459869
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (2108,)
+segments_loudness_max: shape = (2108,)
+segments_loudness_max_time: shape = (2108,)
+segments_loudness_start: shape = (2108,)
+segments_pitches: shape = (2108, 12)
+segments_start: shape = (2108,)
+segments_timbre: shape = (2108, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOAFQZW12A58A77CA5
+start_of_fade_out: 415.759
+tatums_confidence: shape = (3009,)
+tatums_start: shape = (3009,)
+tempo: 213.718
+time_signature: 5
+time_signature_confidence: 0.129
+title: Ju Ju
+track_7digitalid: 5119062
+track_id: TRBCEST128F9327FBF
+year: 2001

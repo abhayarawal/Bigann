@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 36252
+artist_familiarity: 0.714201447209
+artist_hotttnesss: 0.496123346043
+artist_id: ARJVTRE1187B9959C0
+artist_latitude: 40.71455
+artist_location: London, England
+artist_longitude: -74.00712
+artist_mbid: 3cc3942d-bbfc-446d-a8f4-f0e1e238ca86
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Foghat
+artist_playmeid: 11821
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 4d07846e16b9c0211936bf8c85f59179
+bars_confidence: shape = (111,)
+bars_start: shape = (111,)
+beats_confidence: shape = (450,)
+beats_start: shape = (450,)
+danceability: 0.0
+duration: 208.66567
+end_of_fade_in: 0.948
+energy: 0.0
+key: 7
+key_confidence: 0.691
+loudness: -7.792
+mode: 0
+mode_confidence: 0.443
+release: Zig Zag Walk
+release_7digitalid: 62348
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (721,)
+segments_loudness_max: shape = (721,)
+segments_loudness_max_time: shape = (721,)
+segments_loudness_start: shape = (721,)
+segments_pitches: shape = (721, 12)
+segments_start: shape = (721,)
+segments_timbre: shape = (721, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOUFIZZ12A6D4FB02B
+start_of_fade_out: 193.451
+tatums_confidence: shape = (900,)
+tatums_start: shape = (900,)
+tempo: 132.159
+time_signature: 4
+time_signature_confidence: 0.054
+title: Zig-Zag Walk
+track_7digitalid: 646370
+track_id: TRBDNZI128F14A9065
+year: 1983

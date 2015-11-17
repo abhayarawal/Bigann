@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 94432
+artist_familiarity: 0.3812326115
+artist_hotttnesss: 0.301570181792
+artist_id: ARHXWB01187B9A205C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 477597d4-c13d-4d8c-854b-e97d73ea87df
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gloria Lasso
+artist_playmeid: 98286
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: ec8025cabca2e6d614f6c7d989d29cd6
+bars_confidence: shape = (23,)
+bars_start: shape = (23,)
+beats_confidence: shape = (205,)
+beats_start: shape = (205,)
+danceability: 0.0
+duration: 187.92444
+end_of_fade_in: 0.422
+energy: 0.0
+key: 9
+key_confidence: 0.065
+loudness: -15.953
+mode: 1
+mode_confidence: 0.398
+release: Gloria Lasso Sus 20 Grandes Éxitos (The Best Of Gloria Lasso)
+release_7digitalid: 751145
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (561,)
+segments_loudness_max: shape = (561,)
+segments_loudness_max_time: shape = (561,)
+segments_loudness_start: shape = (561,)
+segments_pitches: shape = (561, 12)
+segments_start: shape = (561,)
+segments_timbre: shape = (561, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFWVMI12AB018A50D
+start_of_fade_out: 181.029
+tatums_confidence: shape = (614,)
+tatums_start: shape = (614,)
+tempo: 65.195
+time_signature: 4
+time_signature_confidence: 0.732
+title: Termina La Feria
+track_7digitalid: 8316491
+track_id: TRAGLFC12903CA6A5D
+year: 0

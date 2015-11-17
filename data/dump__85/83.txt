@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3919
+artist_familiarity: 0.774037142161
+artist_hotttnesss: 0.521726647791
+artist_id: ARL3VGT1187FB40E8E
+artist_latitude: -34.60852
+artist_location: Buenos Aires.
+artist_longitude: -58.37354
+artist_mbid: cfe85625-10af-46c1-99fb-765ed3a4f1ad
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Los Fabulosos Cadillacs
+artist_playmeid: 15034
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 64aad1015d96ddeb3a4e99f612b7070e
+bars_confidence: shape = (569,)
+bars_start: shape = (569,)
+beats_confidence: shape = (569,)
+beats_start: shape = (569,)
+danceability: 0.0
+duration: 219.68934
+end_of_fade_in: 0.345
+energy: 0.0
+key: 0
+key_confidence: 0.57
+loudness: -10.768
+mode: 1
+mode_confidence: 0.681
+release: El Satanico Dr.Cadillac
+release_7digitalid: 509702
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (858,)
+segments_loudness_max: shape = (858,)
+segments_loudness_max_time: shape = (858,)
+segments_loudness_start: shape = (858,)
+segments_pitches: shape = (858, 12)
+segments_start: shape = (858,)
+segments_timbre: shape = (858, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.407233014901
+song_id: SOGOUPN12AB0186262
+start_of_fade_out: 209.548
+tatums_confidence: shape = (1138,)
+tatums_start: shape = (1138,)
+tempo: 161.176
+time_signature: 1
+time_signature_confidence: 0.0
+title: Todas Las Cosas Que Ella Me Dió
+track_7digitalid: 5644098
+track_id: TRBDMRW128F933A391
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2179
+artist_familiarity: 0.586607818406
+artist_hotttnesss: 0.414578836544
+artist_id: AR3DYAD1187FB3964E
+artist_latitude: 36.20201
+artist_location: Luttrell, TN
+artist_longitude: -83.74416
+artist_mbid: 5810667a-9db6-4fd0-abac-667cdac5d415
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Chet Atkins
+artist_playmeid: 10168
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 061428873b95ca6102b84c0755c75eb8
+bars_confidence: shape = (201,)
+bars_start: shape = (201,)
+beats_confidence: shape = (201,)
+beats_start: shape = (201,)
+danceability: 0.0
+duration: 87.64036
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.359
+loudness: -17.588
+mode: 1
+mode_confidence: 0.55
+release: Hi-Fi In Focus...Plus
+release_7digitalid: 554873
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (281,)
+segments_loudness_max: shape = (281,)
+segments_loudness_max_time: shape = (281,)
+segments_loudness_start: shape = (281,)
+segments_pitches: shape = (281, 12)
+segments_start: shape = (281,)
+segments_timbre: shape = (281, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWIOVE12AB0183FF9
+start_of_fade_out: 79.18
+tatums_confidence: shape = (402,)
+tatums_start: shape = (402,)
+tempo: 142.48
+time_signature: 1
+time_signature_confidence: 0.0
+title: Bourrèe
+track_7digitalid: 6135950
+track_id: TRAXMLO128F933BC5E
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 88849
+artist_familiarity: 0.482212869992
+artist_hotttnesss: 0.374531255441
+artist_id: ARCRR5X1187FB3BD4A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 753e60ac-cfec-47e7-b1a6-d116cfd31050
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Elva Hsiao
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 01c84009e855771013a5cecaca58db21
+bars_confidence: shape = (114,)
+bars_start: shape = (114,)
+beats_confidence: shape = (460,)
+beats_start: shape = (460,)
+danceability: 0.0
+duration: 225.59302
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.748
+loudness: -5.73
+mode: 1
+mode_confidence: 0.553
+release: The Fifth Ave
+release_7digitalid: 277276
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (633,)
+segments_loudness_max: shape = (633,)
+segments_loudness_max_time: shape = (633,)
+segments_loudness_start: shape = (633,)
+segments_pitches: shape = (633, 12)
+segments_start: shape = (633,)
+segments_timbre: shape = (633, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVVRRU12A81C2435C
+start_of_fade_out: 217.902
+tatums_confidence: shape = (920,)
+tatums_start: shape = (920,)
+tempo: 122.9
+time_signature: 4
+time_signature_confidence: 1.0
+title: Ni Shi Wo Xin Zhong Yi Ju Jing Tan
+track_7digitalid: 3089892
+track_id: TRBAIWW128F425627B
+year: 0

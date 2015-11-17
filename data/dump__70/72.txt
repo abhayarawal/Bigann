@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3295
+artist_familiarity: 0.695422285359
+artist_hotttnesss: 0.437494806886
+artist_id: ARZWPWP1241B9CA793
+artist_latitude: nan
+artist_location: Cleveland, OH
+artist_longitude: nan
+artist_mbid: 83e71a21-caf7-4e48-8ff7-6512d51e88a3
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Henry Mancini
+artist_playmeid: 3280
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 9db97a56a0cdd883ed8584277a37eeb2
+bars_confidence: shape = (47,)
+bars_start: shape = (47,)
+beats_confidence: shape = (207,)
+beats_start: shape = (207,)
+danceability: 0.0
+duration: 182.282
+end_of_fade_in: 0.336
+energy: 0.0
+key: 0
+key_confidence: 0.378
+loudness: -18.637
+mode: 1
+mode_confidence: 0.46
+release: Reader's Digest Music: The Best Of Henry Mancini: The 1981 Reader's Digest Recordings Volume 2
+release_7digitalid: 182814
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (446,)
+segments_loudness_max: shape = (446,)
+segments_loudness_max_time: shape = (446,)
+segments_loudness_start: shape = (446,)
+segments_pitches: shape = (446, 12)
+segments_start: shape = (446,)
+segments_timbre: shape = (446, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.263767589869
+song_id: SOCMUVE12A8AE47257
+start_of_fade_out: 172.286
+tatums_confidence: shape = (622,)
+tatums_start: shape = (622,)
+tempo: 70.769
+time_signature: 4
+time_signature_confidence: 0.089
+title: Stardust
+track_7digitalid: 1974590
+track_id: TRAYEUY128F4233766
+year: 0

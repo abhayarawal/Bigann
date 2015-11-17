@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1376
+artist_familiarity: 0.700635527796
+artist_hotttnesss: 0.511546183775
+artist_id: ARZTSYB1187FB54987
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e3cb4543-210f-499a-b0d1-3882c312dfb9
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Rainbow
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 294786d9147f083cefd7a737a171329e
+bars_confidence: shape = (191,)
+bars_start: shape = (191,)
+beats_confidence: shape = (766,)
+beats_start: shape = (766,)
+danceability: 0.0
+duration: 299.57179
+end_of_fade_in: 0.179
+energy: 0.0
+key: 0
+key_confidence: 0.788
+loudness: -10.915
+mode: 1
+mode_confidence: 0.62
+release: The Best Of Rainbow
+release_7digitalid: 2346
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1033,)
+segments_loudness_max: shape = (1033,)
+segments_loudness_max_time: shape = (1033,)
+segments_loudness_start: shape = (1033,)
+segments_pitches: shape = (1033, 12)
+segments_start: shape = (1033,)
+segments_timbre: shape = (1033, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.620610718069
+song_id: SOJOBVT12A6701E062
+start_of_fade_out: 287.33
+tatums_confidence: shape = (1532,)
+tatums_start: shape = (1532,)
+tempo: 155.999
+time_signature: 4
+time_signature_confidence: 0.168
+title: Can't Happen Here
+track_7digitalid: 23996
+track_id: TRAJPUF128E0784808
+year: 1981

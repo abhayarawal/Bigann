@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 267100
+artist_familiarity: 0.233308809813
+artist_hotttnesss: 0.105308834069
+artist_id: AR6DD3C1187FB3D775
+artist_latitude: nan
+artist_location: Pittsburgh, PA
+artist_longitude: nan
+artist_mbid: d833ca14-1104-44b6-a90a-3b7d6ea5b139
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Beaver Harris
+artist_playmeid: -1
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 020355c10ddd25f60f7ec97ce819c578
+bars_confidence: shape = (82,)
+bars_start: shape = (82,)
+beats_confidence: shape = (267,)
+beats_start: shape = (267,)
+danceability: 0.0
+duration: 193.4624
+end_of_fade_in: 0.152
+energy: 0.0
+key: 2
+key_confidence: 0.822
+loudness: -12.21
+mode: 1
+mode_confidence: 0.625
+release: African Drums
+release_7digitalid: 343159
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (884,)
+segments_loudness_max: shape = (884,)
+segments_loudness_max_time: shape = (884,)
+segments_loudness_start: shape = (884,)
+segments_pitches: shape = (884, 12)
+segments_start: shape = (884,)
+segments_timbre: shape = (884, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUWBCT12AB01846F6
+start_of_fade_out: 193.462
+tatums_confidence: shape = (800,)
+tatums_start: shape = (800,)
+tempo: 82.571
+time_signature: 3
+time_signature_confidence: 0.737
+title: Glo-Billy-Vee-Vee
+track_7digitalid: 3843126
+track_id: TRACWVL128F93016B4
+year: 0

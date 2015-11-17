@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1641
+artist_familiarity: 0.712675251311
+artist_hotttnesss: 0.563362693588
+artist_id: ARHTHC01187B9B6D2A
+artist_latitude: nan
+artist_location: St. Louis, MO
+artist_longitude: nan
+artist_mbid: f197a6e3-dc1a-4332-b9f6-fbf74eece637
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Michael McDonald
+artist_playmeid: 10813
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 6492c135a69a17afd2075674a8ef9ac3
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (412,)
+beats_start: shape = (412,)
+danceability: 0.0
+duration: 195.70893
+end_of_fade_in: 0.322
+energy: 0.0
+key: 0
+key_confidence: 0.458
+loudness: -4.222
+mode: 0
+mode_confidence: 0.449
+release: Motown II
+release_7digitalid: 8350
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (714,)
+segments_loudness_max: shape = (714,)
+segments_loudness_max_time: shape = (714,)
+segments_loudness_start: shape = (714,)
+segments_pitches: shape = (714, 12)
+segments_start: shape = (714,)
+segments_timbre: shape = (714, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.453713666693
+song_id: SORYFNI12AF72A2B2C
+start_of_fade_out: 181.725
+tatums_confidence: shape = (823,)
+tatums_start: shape = (823,)
+tempo: 128.968
+time_signature: 4
+time_signature_confidence: 0.971
+title: Nowhere To Run
+track_7digitalid: 51388
+track_id: TRAILUH128E0784D6D
+year: 0

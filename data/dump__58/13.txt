@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 156704
+artist_familiarity: 0.283352898365
+artist_hotttnesss: 0.251815622284
+artist_id: AR57WGF1187FB41F11
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1fb79c72-dafa-410a-902d-29cb51433bf6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Alan Feinberg
+artist_playmeid: 20159
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 1302139baf9262775f2856f019e8f9a4
+bars_confidence: shape = (45,)
+bars_start: shape = (45,)
+beats_confidence: shape = (166,)
+beats_start: shape = (166,)
+danceability: 0.0
+duration: 155.19302
+end_of_fade_in: 1.026
+energy: 0.0
+key: 11
+key_confidence: 0.464
+loudness: -28.327
+mode: 0
+mode_confidence: 0.539
+release: Music To My Ears_ A Collection of Music for Children of All Ages - Fauré_ Chopin_ Saint-Saëns_ Schumann_ Borodin_ Bach_ etc
+release_7digitalid: 538259
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (237,)
+segments_loudness_max: shape = (237,)
+segments_loudness_max_time: shape = (237,)
+segments_loudness_start: shape = (237,)
+segments_pitches: shape = (237, 12)
+segments_start: shape = (237,)
+segments_timbre: shape = (237, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZMHGF12AB017E01C
+start_of_fade_out: 136.29
+tatums_confidence: shape = (331,)
+tatums_start: shape = (331,)
+tempo: 70.1
+time_signature: 3
+time_signature_confidence: 0.737
+title: Menuet in the Name of Haydn
+track_7digitalid: 5957743
+track_id: TRATVGT128F9310C89
+year: 0

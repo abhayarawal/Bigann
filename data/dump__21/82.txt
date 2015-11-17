@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 107793
+artist_familiarity: 0.576404204778
+artist_hotttnesss: 0.450546674273
+artist_id: ARPNDSH1187B9B942F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b3a6ebdf-4ee6-4ec0-912c-be03ade6c833
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sui Generis
+artist_playmeid: -1
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: b92d1b0354ef11f1365be7bef7d12c50
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (588,)
+beats_start: shape = (588,)
+danceability: 0.0
+duration: 319.00689
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.259
+loudness: -14.886
+mode: 0
+mode_confidence: 0.428
+release: Adios Sui Generis Vol III
+release_7digitalid: 509704
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (776,)
+segments_loudness_max: shape = (776,)
+segments_loudness_max_time: shape = (776,)
+segments_loudness_start: shape = (776,)
+segments_pitches: shape = (776, 12)
+segments_start: shape = (776,)
+segments_timbre: shape = (776, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.266955186276
+song_id: SOGKRNG12AB01862A3
+start_of_fade_out: 313.934
+tatums_confidence: shape = (1175,)
+tatums_start: shape = (1175,)
+tempo: 109.305
+time_signature: 5
+time_signature_confidence: 0.795
+title: Bubulina
+track_7digitalid: 5644130
+track_id: TRAHLDM128F933A3B1
+year: 1975

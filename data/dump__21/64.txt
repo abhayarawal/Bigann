@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1563
+artist_familiarity: 0.63322062391
+artist_hotttnesss: 0.410247407476
+artist_id: ARCT5P61187FB3D950
+artist_latitude: nan
+artist_location: United States
+artist_longitude: nan
+artist_mbid: 8af64037-6d26-4d24-afd8-7e085abb01b1
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Impressions
+artist_playmeid: 5858
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 5c58d19344dae137afc17cd7cf13e579
+bars_confidence: shape = (66,)
+bars_start: shape = (66,)
+beats_confidence: shape = (276,)
+beats_start: shape = (276,)
+danceability: 0.0
+duration: 143.15057
+end_of_fade_in: 0.235
+energy: 0.0
+key: 7
+key_confidence: 0.61
+loudness: -7.293
+mode: 1
+mode_confidence: 0.618
+release: Soul Legends
+release_7digitalid: 40409
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (465,)
+segments_loudness_max: shape = (465,)
+segments_loudness_max_time: shape = (465,)
+segments_loudness_start: shape = (465,)
+segments_pitches: shape = (465, 12)
+segments_start: shape = (465,)
+segments_timbre: shape = (465, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOZUVDO12A6D4F7695
+start_of_fade_out: 132.981
+tatums_confidence: shape = (551,)
+tatums_start: shape = (551,)
+tempo: 116.122
+time_signature: 4
+time_signature_confidence: 0.31
+title: Ridin' High
+track_7digitalid: 431154
+track_id: TRAHIXN128F147F25D
+year: 0

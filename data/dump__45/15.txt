@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1633
+artist_familiarity: 0.626803106327
+artist_hotttnesss: 0.405234690787
+artist_id: ARJ9DSA1187B990E00
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4756395c-57ed-4a63-afb2-01117f14dff6
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: John Mayall & The Bluesbreakers
+artist_playmeid: 19569
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: b341463a00688dbad958e32556f1bc46
+bars_confidence: shape = (48,)
+bars_start: shape = (48,)
+beats_confidence: shape = (249,)
+beats_start: shape = (249,)
+danceability: 0.0
+duration: 129.48853
+end_of_fade_in: 0.2
+energy: 0.0
+key: 2
+key_confidence: 0.151
+loudness: -6.316
+mode: 1
+mode_confidence: 0.437
+release: Bluesbreakers With Eric Clapton - Deluxe Edition
+release_7digitalid: 45175
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (353,)
+segments_loudness_max: shape = (353,)
+segments_loudness_max_time: shape = (353,)
+segments_loudness_start: shape = (353,)
+segments_pitches: shape = (353, 12)
+segments_start: shape = (353,)
+segments_timbre: shape = (353, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODRNQF12AB0182322
+start_of_fade_out: 123.35
+tatums_confidence: shape = (498,)
+tatums_start: shape = (498,)
+tempo: 117.73
+time_signature: 5
+time_signature_confidence: 1.0
+title: I'm Your Witchdoctor
+track_7digitalid: 3925505
+track_id: TRAPKJT128F9311D9E
+year: 1988

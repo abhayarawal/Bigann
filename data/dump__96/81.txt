@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 58484
+artist_familiarity: 0.573289819515
+artist_hotttnesss: 0.343772476084
+artist_id: ARL6AH81187FB3B12A
+artist_latitude: nan
+artist_location: California - LA
+artist_longitude: nan
+artist_mbid: 0c9083e1-890b-4f95-b331-95b8b503598a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Stephen Pearcy
+artist_playmeid: 52258
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 2eb895fdfe070b4a708886968e308e65
+bars_confidence: shape = (112,)
+bars_start: shape = (112,)
+beats_confidence: shape = (451,)
+beats_start: shape = (451,)
+danceability: 0.0
+duration: 216.63302
+end_of_fade_in: 0.177
+energy: 0.0
+key: 6
+key_confidence: 0.581
+loudness: -2.456
+mode: 1
+mode_confidence: 0.591
+release: Anthology 1977-2007
+release_7digitalid: 195226
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (626,)
+segments_loudness_max: shape = (626,)
+segments_loudness_max_time: shape = (626,)
+segments_loudness_start: shape = (626,)
+segments_pitches: shape = (626, 12)
+segments_start: shape = (626,)
+segments_timbre: shape = (626, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORXFQI12A8C132FAC
+start_of_fade_out: 204.934
+tatums_confidence: shape = (901,)
+tatums_start: shape = (901,)
+tempo: 130.28
+time_signature: 4
+time_signature_confidence: 0.572
+title: Freak
+track_7digitalid: 2123995
+track_id: TRBHIIQ128F424AB61
+year: 2002

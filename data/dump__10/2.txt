@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4550
+artist_familiarity: 0.747815369314
+artist_hotttnesss: 0.45918919468
+artist_id: ARTWPGO1187FB52DC3
+artist_latitude: nan
+artist_location: Kingston, Jamaica
+artist_longitude: nan
+artist_mbid: cd5f7bd9-ee6f-4a99-8dd9-dc3afd9da736
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Elephant Man
+artist_playmeid: 535
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: aaf9cc6e8a71aae458999bcf4ec7403a
+bars_confidence: shape = (67,)
+bars_start: shape = (67,)
+beats_confidence: shape = (273,)
+beats_start: shape = (273,)
+danceability: 0.0
+duration: 128.80934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.26
+loudness: -7.286
+mode: 0
+mode_confidence: 0.243
+release: Riddim Driven: Power Cuts
+release_7digitalid: 74571
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (599,)
+segments_loudness_max: shape = (599,)
+segments_loudness_max_time: shape = (599,)
+segments_loudness_start: shape = (599,)
+segments_pitches: shape = (599, 12)
+segments_start: shape = (599,)
+segments_timbre: shape = (599, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.239629097774
+song_id: SOLMCUV12A6BD54773
+start_of_fade_out: 126.595
+tatums_confidence: shape = (546,)
+tatums_start: shape = (546,)
+tempo: 125.618
+time_signature: 4
+time_signature_confidence: 1.0
+title: Loud And Clear
+track_7digitalid: 769111
+track_id: TRADHUE128EF34DAF5
+year: 0

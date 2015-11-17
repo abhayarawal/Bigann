@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4458
+artist_familiarity: 0.600195392799
+artist_hotttnesss: 0.488181389999
+artist_id: ARXJJSN1187B98CB37
+artist_latitude: nan
+artist_location: Detroit, MI
+artist_longitude: nan
+artist_mbid: 8c86f18c-6703-473c-a1ca-482abd0cca27
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Bebe Winans / Stephanie Mills
+artist_playmeid: 21804
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 2f99c7a319c5542166a600fb02e5a922
+bars_confidence: shape = (189,)
+bars_start: shape = (189,)
+beats_confidence: shape = (761,)
+beats_start: shape = (761,)
+danceability: 0.0
+duration: 324.93669
+end_of_fade_in: 0.2
+energy: 0.0
+key: 7
+key_confidence: 0.378
+loudness: -9.2
+mode: 1
+mode_confidence: 0.423
+release: Love And Freedom
+release_7digitalid: 92970
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1147,)
+segments_loudness_max: shape = (1147,)
+segments_loudness_max_time: shape = (1147,)
+segments_loudness_start: shape = (1147,)
+segments_pitches: shape = (1147, 12)
+segments_start: shape = (1147,)
+segments_timbre: shape = (1147, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOXVCSA12A8C137504
+start_of_fade_out: 310.526
+tatums_confidence: shape = (1523,)
+tatums_start: shape = (1523,)
+tempo: 144.005
+time_signature: 4
+time_signature_confidence: 0.445
+title: Everyday
+track_7digitalid: 2235110
+track_id: TRAQDZM128F426444D
+year: 2000

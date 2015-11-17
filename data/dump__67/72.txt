@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 136164
+artist_familiarity: 0.702077834134
+artist_hotttnesss: 0.330820071111
+artist_id: AR8ZHWS1187B98CED1
+artist_latitude: nan
+artist_location: Providence, RI
+artist_longitude: nan
+artist_mbid: 80c096c0-2650-412c-97e2-b9e029a4b72b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Monty Are I
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 8932934461d6d556ee7670d646609366
+bars_confidence: shape = (261,)
+bars_start: shape = (261,)
+beats_confidence: shape = (788,)
+beats_start: shape = (788,)
+danceability: 0.0
+duration: 279.24853
+end_of_fade_in: 0.148
+energy: 0.0
+key: 11
+key_confidence: 0.285
+loudness: -3.699
+mode: 0
+mode_confidence: 0.432
+release: Wall Of People
+release_7digitalid: 179583
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (821,)
+segments_loudness_max: shape = (821,)
+segments_loudness_max_time: shape = (821,)
+segments_loudness_start: shape = (821,)
+segments_pitches: shape = (821, 12)
+segments_start: shape = (821,)
+segments_timbre: shape = (821, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.569275650675
+song_id: SOUPLIR12A81C206C4
+start_of_fade_out: 263.059
+tatums_confidence: shape = (1576,)
+tatums_start: shape = (1576,)
+tempo: 170.038
+time_signature: 3
+time_signature_confidence: 0.693
+title: O Brother
+track_7digitalid: 1941493
+track_id: TRAXDAH128F422BBFC
+year: 2006

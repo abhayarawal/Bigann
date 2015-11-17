@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20503
+artist_familiarity: 0.819132290668
+artist_hotttnesss: 0.485881459
+artist_id: AROKDJ41187B9A7700
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 44f42386-a733-4b51-8298-fe5c807d03aa
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Mindless Self Indulgence
+artist_playmeid: 24481
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 45cdf5ba4acf9056820d027d306e1697
+bars_confidence: shape = (166,)
+bars_start: shape = (166,)
+beats_confidence: shape = (668,)
+beats_start: shape = (668,)
+danceability: 0.0
+duration: 222.14485
+end_of_fade_in: 0.328
+energy: 0.0
+key: 6
+key_confidence: 0.048
+loudness: -4.487
+mode: 0
+mode_confidence: 0.336
+release: Never Wanted to Dance (Live In London)
+release_7digitalid: 368796
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (739,)
+segments_loudness_max: shape = (739,)
+segments_loudness_max_time: shape = (739,)
+segments_loudness_start: shape = (739,)
+segments_pitches: shape = (739, 12)
+segments_start: shape = (739,)
+segments_timbre: shape = (739, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.270775998946
+song_id: SOKUGPJ12A58A7FD8D
+start_of_fade_out: 212.161
+tatums_confidence: shape = (1335,)
+tatums_start: shape = (1335,)
+tempo: 182.98
+time_signature: 4
+time_signature_confidence: 0.794
+title: Never Wanted to Dance (Live In London)
+track_7digitalid: 4106424
+track_id: TRAEVTK128F9337030
+year: 0

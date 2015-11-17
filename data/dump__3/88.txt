@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 284755
+artist_familiarity: 0.0386381099084
+artist_hotttnesss: 0.0
+artist_id: ARFAGIR1187B997EA1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ef61eb63-101d-4cad-8341-899d79c779b0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jeanie Lambe & The Danny Moss Quartet
+artist_playmeid: -1
+artist_terms: shape = (7,)
+artist_terms_freq: shape = (7,)
+artist_terms_weight: shape = (7,)
+audio_md5: eb0a1dcc497510fcf0da32aa6c76f012
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (416,)
+beats_start: shape = (416,)
+danceability: 0.0
+duration: 152.0322
+end_of_fade_in: 0.097
+energy: 0.0
+key: 8
+key_confidence: 0.115
+loudness: -10.274
+mode: 1
+mode_confidence: 0.35
+release: The Blue Noise Session
+release_7digitalid: 367900
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (523,)
+segments_loudness_max: shape = (523,)
+segments_loudness_max_time: shape = (523,)
+segments_loudness_start: shape = (523,)
+segments_pitches: shape = (523, 12)
+segments_start: shape = (523,)
+segments_timbre: shape = (523, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCYAKZ12AB018708F
+start_of_fade_out: 147.441
+tatums_confidence: shape = (832,)
+tatums_start: shape = (832,)
+tempo: 168.558
+time_signature: 4
+time_signature_confidence: 0.226
+title: Saturday Night Is The Loneliest Night In The Week
+track_7digitalid: 4094546
+track_id: TRABGOW128F9334C37
+year: 0

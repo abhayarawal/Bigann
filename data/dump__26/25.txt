@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 341310
+artist_familiarity: 0.528563793159
+artist_hotttnesss: 0.340030739388
+artist_id: ARLZYDV11C8A4226B0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a5b56e83-6056-4ec0-ad21-c30df1611b4f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Albin Myers
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: e8361dcbf2a83bd0ad5ee433f4058ab7
+bars_confidence: shape = (978,)
+bars_start: shape = (978,)
+beats_confidence: shape = (978,)
+beats_start: shape = (978,)
+danceability: 0.0
+duration: 493.29587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.733
+loudness: -8.648
+mode: 1
+mode_confidence: 0.652
+release: Times Like These
+release_7digitalid: 724393
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (2088,)
+segments_loudness_max: shape = (2088,)
+segments_loudness_max_time: shape = (2088,)
+segments_loudness_start: shape = (2088,)
+segments_pitches: shape = (2088, 12)
+segments_start: shape = (2088,)
+segments_timbre: shape = (2088, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOALUMD12AB0187F8D
+start_of_fade_out: 450.496
+tatums_confidence: shape = (1956,)
+tatums_start: shape = (1956,)
+tempo: 127.923
+time_signature: 1
+time_signature_confidence: 0.0
+title: Times Like These
+track_7digitalid: 8029112
+track_id: TRAIUVT12903CD76F3
+year: 0

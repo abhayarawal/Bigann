@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17428
+artist_familiarity: 0.892688611404
+artist_hotttnesss: 0.830356766357
+artist_id: ARXOTQH1187FB57084
+artist_latitude: nan
+artist_location: Fairfax, California
+artist_longitude: nan
+artist_mbid: e1009244-1bf4-4a4c-889e-0db83b9be08f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Chris Brown
+artist_playmeid: 2729
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 847225bf56d19d0c48ca2bfd20d5a44c
+bars_confidence: shape = (334,)
+bars_start: shape = (334,)
+beats_confidence: shape = (334,)
+beats_start: shape = (334,)
+danceability: 0.0
+duration: 99.3171
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.395
+loudness: -20.575
+mode: 1
+mode_confidence: 0.341
+release: Talking Drum
+release_7digitalid: 88726
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (523,)
+segments_loudness_max: shape = (523,)
+segments_loudness_max_time: shape = (523,)
+segments_loudness_start: shape = (523,)
+segments_pitches: shape = (523, 12)
+segments_start: shape = (523,)
+segments_timbre: shape = (523, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWMUUZ12A8C133F2A
+start_of_fade_out: 99.317
+tatums_confidence: shape = (668,)
+tatums_start: shape = (668,)
+tempo: 204.064
+time_signature: 1
+time_signature_confidence: 0.0
+title: Talking Drum (Isea '95)
+track_7digitalid: 936142
+track_id: TRAFPHE128F4267123
+year: 0

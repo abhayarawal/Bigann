@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40537
+artist_familiarity: 0.796320378166
+artist_hotttnesss: 0.524994964438
+artist_id: ARGK9MB1187FB37402
+artist_latitude: 40.8448
+artist_location: New York, NY [Washington Heights]
+artist_longitude: -73.93585
+artist_mbid: f57ceb78-1e1d-427e-8fad-30d63acf9d4a
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: MIMS
+artist_playmeid: 6993
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 967c29962fc0da138aba9b330160d014
+bars_confidence: shape = (168,)
+bars_start: shape = (168,)
+beats_confidence: shape = (674,)
+beats_start: shape = (674,)
+danceability: 0.0
+duration: 258.92526
+end_of_fade_in: 0.566
+energy: 0.0
+key: 10
+key_confidence: 0.117
+loudness: -4.376
+mode: 0
+mode_confidence: 0.176
+release: This Is Why I'm Hot (The Original)
+release_7digitalid: 55763
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1127,)
+segments_loudness_max: shape = (1127,)
+segments_loudness_max_time: shape = (1127,)
+segments_loudness_start: shape = (1127,)
+segments_pitches: shape = (1127, 12)
+segments_start: shape = (1127,)
+segments_timbre: shape = (1127, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOMHOLR12A6D4FBE6A
+start_of_fade_out: 252.836
+tatums_confidence: shape = (1347,)
+tatums_start: shape = (1347,)
+tempo: 159.989
+time_signature: 4
+time_signature_confidence: 0.871
+title: This Is Why I'm Hot (The Original) (Single Version) (Edited)
+track_7digitalid: 579211
+track_id: TRASJIY128F149998B
+year: 0

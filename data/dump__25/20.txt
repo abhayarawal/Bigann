@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 90217
+artist_familiarity: 0.561272322612
+artist_hotttnesss: 0.377852557035
+artist_id: AR5IHI31187B998618
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2db6e9c3-5aa1-4876-9ec6-8f18c75d5210
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Pascal Obispo
+artist_playmeid: 6630
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 92b00f3bb35e612b007f5e6599b3cd05
+bars_confidence: shape = (132,)
+bars_start: shape = (132,)
+beats_confidence: shape = (531,)
+beats_start: shape = (531,)
+danceability: 0.0
+duration: 231.00036
+end_of_fade_in: 0.769
+energy: 0.0
+key: 5
+key_confidence: 0.488
+loudness: -13.691
+mode: 0
+mode_confidence: 0.634
+release: Un Jour Comme Aujourd' Hui
+release_7digitalid: 289903
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (739,)
+segments_loudness_max: shape = (739,)
+segments_loudness_max_time: shape = (739,)
+segments_loudness_start: shape = (739,)
+segments_pitches: shape = (739, 12)
+segments_start: shape = (739,)
+segments_timbre: shape = (739, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SODZLWS12A8C136414
+start_of_fade_out: 209.717
+tatums_confidence: shape = (1063,)
+tatums_start: shape = (1063,)
+tempo: 139.98
+time_signature: 4
+time_signature_confidence: 0.29
+title: Chlore
+track_7digitalid: 3250137
+track_id: TRAILLW128F4278C90
+year: 1994

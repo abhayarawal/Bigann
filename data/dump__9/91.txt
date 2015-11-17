@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 124455
+artist_familiarity: 0.599944669856
+artist_hotttnesss: 0.396800218979
+artist_id: ARTE6AQ1187B9B2826
+artist_latitude: 42.33168
+artist_location: Detroit, MI
+artist_longitude: -83.04792
+artist_mbid: 2b418029-92e6-4aa6-8099-f796fffb3023
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The High Strung
+artist_playmeid: 141898
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: efc2af653a84985710389149af58931a
+bars_confidence: shape = (58,)
+bars_start: shape = (58,)
+beats_confidence: shape = (237,)
+beats_start: shape = (237,)
+danceability: 0.0
+duration: 153.73016
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.623
+loudness: -2.679
+mode: 1
+mode_confidence: 0.631
+release: Ode to the Inverse of the Dude
+release_7digitalid: 420796
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (593,)
+segments_loudness_max: shape = (593,)
+segments_loudness_max_time: shape = (593,)
+segments_loudness_start: shape = (593,)
+segments_pitches: shape = (593, 12)
+segments_start: shape = (593,)
+segments_timbre: shape = (593, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.379523324422
+song_id: SOBXEJI12A58A79725
+start_of_fade_out: 140.73
+tatums_confidence: shape = (948,)
+tatums_start: shape = (948,)
+tempo: 95.11
+time_signature: 4
+time_signature_confidence: 0.542
+title: The Lifestyle That Got Away
+track_7digitalid: 4694767
+track_id: TRADGXI128F9339C88
+year: 2009

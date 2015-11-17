@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 585067
+artist_familiarity: 0.538346826604
+artist_hotttnesss: 0.362419611538
+artist_id: ARY9J9F1187B990241
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 88b0cc13-2d9a-4da6-8136-a903f1d6456d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Entre Ríos
+artist_playmeid: -1
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 73deca4c9515bc366dd5cad61a0609e7
+bars_confidence: shape = (341,)
+bars_start: shape = (341,)
+beats_confidence: shape = (1027,)
+beats_start: shape = (1027,)
+danceability: 0.0
+duration: 285.04771
+end_of_fade_in: 0.177
+energy: 0.0
+key: 5
+key_confidence: 0.862
+loudness: -10.083
+mode: 1
+mode_confidence: 0.73
+release: Onda
+release_7digitalid: 790920
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1100,)
+segments_loudness_max: shape = (1100,)
+segments_loudness_max_time: shape = (1100,)
+segments_loudness_start: shape = (1100,)
+segments_pitches: shape = (1100, 12)
+segments_start: shape = (1100,)
+segments_timbre: shape = (1100, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.663373594084
+song_id: SOXVFYT12A81C2351C
+start_of_fade_out: 285.048
+tatums_confidence: shape = (2053,)
+tatums_start: shape = (2053,)
+tempo: 215.999
+time_signature: 3
+time_signature_confidence: 0.738
+title: Cerca & Extraño
+track_7digitalid: 8750255
+track_id: TRANUVH12903D1059F
+year: 2005

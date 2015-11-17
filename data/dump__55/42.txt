@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 163825
+artist_familiarity: 0.587594370673
+artist_hotttnesss: 0.468158756358
+artist_id: ARLF0QY1187FB4FDCC
+artist_latitude: nan
+artist_location: Oxford, England
+artist_longitude: nan
+artist_mbid: d1a0301e-1167-42e8-bf89-c7835e0d3485
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Heavenly
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 7e1e6bc93f5771c25eeea9c04cb104f6
+bars_confidence: shape = (63,)
+bars_start: shape = (63,)
+beats_confidence: shape = (273,)
+beats_start: shape = (273,)
+danceability: 0.0
+duration: 234.60526
+end_of_fade_in: 0.705
+energy: 0.0
+key: 2
+key_confidence: 0.757
+loudness: -8.339
+mode: 1
+mode_confidence: 0.747
+release: Le Jardin De Heavenly
+release_7digitalid: 216824
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (773,)
+segments_loudness_max: shape = (773,)
+segments_loudness_max_time: shape = (773,)
+segments_loudness_start: shape = (773,)
+segments_pitches: shape = (773, 12)
+segments_start: shape = (773,)
+segments_timbre: shape = (773, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.471971171794
+song_id: SOLFKYA12A8C13B082
+start_of_fade_out: 231.253
+tatums_confidence: shape = (819,)
+tatums_start: shape = (819,)
+tempo: 69.965
+time_signature: 4
+time_signature_confidence: 0.0
+title: Smile
+track_7digitalid: 2360530
+track_id: TRASXZE128F427F156
+year: 1992

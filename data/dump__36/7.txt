@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8318
+artist_familiarity: 0.816596710223
+artist_hotttnesss: 0.553661233298
+artist_id: ARM0P6Z1187FB4D466
+artist_latitude: nan
+artist_location: Sheffield, South Yorkshire, Engla
+artist_longitude: nan
+artist_mbid: ada7a83c-e3e1-40f1-93f9-3e73dbc9298a
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Arctic Monkeys
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 5665e995a4b5c617cab9f0c3622b04b7
+bars_confidence: shape = (187,)
+bars_start: shape = (187,)
+beats_confidence: shape = (564,)
+beats_start: shape = (564,)
+danceability: 0.0
+duration: 193.43628
+end_of_fade_in: 0.061
+energy: 0.0
+key: 9
+key_confidence: 0.503
+loudness: -5.325
+mode: 0
+mode_confidence: 0.3
+release: Whatever People Say I Am_ That's What I'm Not
+release_7digitalid: 443784
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (717,)
+segments_loudness_max: shape = (717,)
+segments_loudness_max_time: shape = (717,)
+segments_loudness_start: shape = (717,)
+segments_pitches: shape = (717, 12)
+segments_start: shape = (717,)
+segments_timbre: shape = (717, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.771888914156
+song_id: SODKJWI12A8151BD74
+start_of_fade_out: 179.682
+tatums_confidence: shape = (1128,)
+tatums_start: shape = (1128,)
+tempo: 184.023
+time_signature: 3
+time_signature_confidence: 0.036
+title: From The Ritz To The Rubble
+track_7digitalid: 5024327
+track_id: TRAMGPM128F9311196
+year: 2004

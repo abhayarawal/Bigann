@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9947
+artist_familiarity: 0.706827671304
+artist_hotttnesss: 0.416173064627
+artist_id: ARB29H41187B98F0EF
+artist_latitude: 41.88415
+artist_location: Chicago
+artist_longitude: -87.63241
+artist_mbid: 44fd61e1-119c-479e-8301-8ac5c77148bf
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Terry Callier
+artist_playmeid: 43725
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 35d75a11d9813466db0819c947b4acc8
+bars_confidence: shape = (72,)
+bars_start: shape = (72,)
+beats_confidence: shape = (511,)
+beats_start: shape = (511,)
+danceability: 0.0
+duration: 243.04281
+end_of_fade_in: 0.102
+energy: 0.0
+key: 11
+key_confidence: 0.754
+loudness: -12.061
+mode: 1
+mode_confidence: 0.6
+release: Lifestyle2 - Acoustic Vol 2
+release_7digitalid: 597395
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (611,)
+segments_loudness_max: shape = (611,)
+segments_loudness_max_time: shape = (611,)
+segments_loudness_start: shape = (611,)
+segments_pitches: shape = (611, 12)
+segments_start: shape = (611,)
+segments_timbre: shape = (611, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.502544340289
+song_id: SOMPAOJ12A6D4F68BB
+start_of_fade_out: 227.886
+tatums_confidence: shape = (1023,)
+tatums_start: shape = (1023,)
+tempo: 125.964
+time_signature: 7
+time_signature_confidence: 0.904
+title: Occasional Rain
+track_7digitalid: 6630320
+track_id: TRANUNR12903CE6E2E
+year: 1972

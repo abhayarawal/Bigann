@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19534
+artist_familiarity: 0.645426499287
+artist_hotttnesss: 0.438779160645
+artist_id: ARKQ6QN1187B9B016D
+artist_latitude: 52.05777
+artist_location: Ipswich, England
+artist_longitude: 1.14378
+artist_mbid: 2095b935-2007-4ae0-a48a-ef4d6fc3aac0
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Photek
+artist_playmeid: 66588
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: be1a7ea0635b6def7d91f339422343ac
+bars_confidence: shape = (156,)
+bars_start: shape = (156,)
+beats_confidence: shape = (629,)
+beats_start: shape = (629,)
+danceability: 0.0
+duration: 327.88853
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.623
+loudness: -6.282
+mode: 0
+mode_confidence: 0.662
+release: Solaris
+release_7digitalid: 29172
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (1652,)
+segments_loudness_max: shape = (1652,)
+segments_loudness_max_time: shape = (1652,)
+segments_loudness_start: shape = (1652,)
+segments_pitches: shape = (1652, 12)
+segments_start: shape = (1652,)
+segments_timbre: shape = (1652, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIFTWG12AF72A1F55
+start_of_fade_out: 312.953
+tatums_confidence: shape = (1258,)
+tatums_start: shape = (1258,)
+tempo: 115.014
+time_signature: 4
+time_signature_confidence: 1.0
+title: Junk
+track_7digitalid: 321241
+track_id: TRBHDLD128F146A756
+year: 2000

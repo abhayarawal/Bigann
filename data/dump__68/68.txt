@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 59320
+artist_familiarity: 0.657883116345
+artist_hotttnesss: 0.464886257132
+artist_id: ARHZCG01187B99E4DE
+artist_latitude: 39.95227
+artist_location: Philadelphia, PA
+artist_longitude: -75.16237
+artist_mbid: 5ab6ca23-9e17-43f2-ad92-869d28bdbf11
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Stanley Clarke;Herbie Hancock
+artist_playmeid: 11279
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 76d9f0afa770217dbe91f0881f55fdad
+bars_confidence: shape = (648,)
+bars_start: shape = (648,)
+beats_confidence: shape = (648,)
+beats_start: shape = (648,)
+danceability: 0.0
+duration: 307.59138
+end_of_fade_in: 5.01
+energy: 0.0
+key: 9
+key_confidence: 0.623
+loudness: -9.421
+mode: 1
+mode_confidence: 0.537
+release: Hideaway
+release_7digitalid: 281979
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1215,)
+segments_loudness_max: shape = (1215,)
+segments_loudness_max_time: shape = (1215,)
+segments_loudness_start: shape = (1215,)
+segments_pitches: shape = (1215, 12)
+segments_start: shape = (1215,)
+segments_timbre: shape = (1215, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.270775998946
+song_id: SOMXJIW12A8C130351
+start_of_fade_out: 292.6
+tatums_confidence: shape = (1296,)
+tatums_start: shape = (1296,)
+tempo: 128.278
+time_signature: 1
+time_signature_confidence: 0.0
+title: Old Friends
+track_7digitalid: 3158246
+track_id: TRAXKXX128F4264EA1
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17520
+artist_familiarity: 0.487693971591
+artist_hotttnesss: 0.341976803831
+artist_id: ARFERPC1187FB557F6
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: be28eefe-4995-400b-94d0-4f4edbf8d092
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Hacken Lee
+artist_playmeid: 63902
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: dac189edfc8032bcddac465a452d6cf2
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (353,)
+beats_start: shape = (353,)
+danceability: 0.0
+duration: 188.52526
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.488
+loudness: -11.786
+mode: 1
+mode_confidence: 0.569
+release: De Xin Ying Shou Yan Chang Hui 2006
+release_7digitalid: 337157
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (620,)
+segments_loudness_max: shape = (620,)
+segments_loudness_max_time: shape = (620,)
+segments_loudness_start: shape = (620,)
+segments_pitches: shape = (620, 12)
+segments_start: shape = (620,)
+segments_timbre: shape = (620, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAXQTX12AB017F467
+start_of_fade_out: 188.525
+tatums_confidence: shape = (705,)
+tatums_start: shape = (705,)
+tempo: 112.081
+time_signature: 4
+time_signature_confidence: 1.0
+title: He Jiu Bi Hun
+track_7digitalid: 3774387
+track_id: TRACRRO128F92F34B9
+year: 0

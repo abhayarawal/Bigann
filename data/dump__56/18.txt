@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6051
+artist_familiarity: 0.915823253033
+artist_hotttnesss: 0.655283798415
+artist_id: ARBEOHF1187B9B044D
+artist_latitude: nan
+artist_location: Bay City, MI
+artist_longitude: nan
+artist_mbid: 79239441-bfd5-4981-a70c-55c3f15c1287
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Madonna
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 9ab9c9e0d3378a4cc351de082922a81a
+bars_confidence: shape = (790,)
+bars_start: shape = (790,)
+beats_confidence: shape = (790,)
+beats_start: shape = (790,)
+danceability: 0.0
+duration: 564.94975
+end_of_fade_in: 0.461
+energy: 0.0
+key: 10
+key_confidence: 0.72
+loudness: -4.204
+mode: 0
+mode_confidence: 0.631
+release: Revolver
+release_7digitalid: 681318
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (2531,)
+segments_loudness_max: shape = (2531,)
+segments_loudness_max_time: shape = (2531,)
+segments_loudness_start: shape = (2531,)
+segments_pitches: shape = (2531, 12)
+segments_start: shape = (2531,)
+segments_timbre: shape = (2531, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQLCJK12AB018DB42
+start_of_fade_out: 555.537
+tatums_confidence: shape = (2370,)
+tatums_start: shape = (2370,)
+tempo: 85.318
+time_signature: 1
+time_signature_confidence: 0.735
+title: Revolver [Tracy Young's Shoot To Kill Remix]
+track_7digitalid: 7559888
+track_id: TRATDSO12903CDC007
+year: 0

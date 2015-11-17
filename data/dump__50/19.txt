@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 48005
+artist_familiarity: 0.410850088248
+artist_hotttnesss: 0.254356500418
+artist_id: ARL3HJZ1187B9A35EB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f4859026-c646-4024-9c08-d9c7f11433fb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Johnny Daye
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 32ba611154d42370f0824c624beb1da7
+bars_confidence: shape = (85,)
+bars_start: shape = (85,)
+beats_confidence: shape = (346,)
+beats_start: shape = (346,)
+danceability: 0.0
+duration: 176.90077
+end_of_fade_in: 0.253
+energy: 0.0
+key: 11
+key_confidence: 0.684
+loudness: -11.323
+mode: 0
+mode_confidence: 0.613
+release: Stax-Volt: The Complete Singles 1959-1968
+release_7digitalid: 136655
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (586,)
+segments_loudness_max: shape = (586,)
+segments_loudness_max_time: shape = (586,)
+segments_loudness_start: shape = (586,)
+segments_pitches: shape = (586, 12)
+segments_start: shape = (586,)
+segments_timbre: shape = (586, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.197978946661
+song_id: SOSVQAW12A67ADC91A
+start_of_fade_out: 167.189
+tatums_confidence: shape = (691,)
+tatums_start: shape = (691,)
+tempo: 118.563
+time_signature: 4
+time_signature_confidence: 1.0
+title: What'll I Do For Satisfaction (LP Version)
+track_7digitalid: 1417738
+track_id: TRARBKI128F423DFA4
+year: 0

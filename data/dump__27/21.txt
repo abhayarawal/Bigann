@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15867
+artist_familiarity: 0.552053803339
+artist_hotttnesss: 0.34137626763
+artist_id: AREB22L1187B9A4BCE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 428bdc7a-373c-4cd0-b3a7-1cec7ce868bf
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bad Azz
+artist_playmeid: 61516
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 0ac2d6bdacbeafc91d421da44db69edc
+bars_confidence: shape = (124,)
+bars_start: shape = (124,)
+beats_confidence: shape = (515,)
+beats_start: shape = (515,)
+danceability: 0.0
+duration: 255.84281
+end_of_fade_in: 0.167
+energy: 0.0
+key: 1
+key_confidence: 0.278
+loudness: -7.532
+mode: 1
+mode_confidence: 0.402
+release: Money Run
+release_7digitalid: 451472
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1060,)
+segments_loudness_max: shape = (1060,)
+segments_loudness_max_time: shape = (1060,)
+segments_loudness_start: shape = (1060,)
+segments_pitches: shape = (1060, 12)
+segments_start: shape = (1060,)
+segments_timbre: shape = (1060, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.591754160596
+song_id: SOMAFMA12AB0182DB4
+start_of_fade_out: 255.843
+tatums_confidence: shape = (1031,)
+tatums_start: shape = (1031,)
+tempo: 121.871
+time_signature: 4
+time_signature_confidence: 0.915
+title: Ghetto
+track_7digitalid: 5013379
+track_id: TRAJCLY128F930F893
+year: 2003

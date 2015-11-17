@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 80602
+artist_familiarity: 0.606193496106
+artist_hotttnesss: 0.407344288039
+artist_id: AR2MEUK1187B992D1B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9946e322-2eb6-43dd-ae66-dd28114f1522
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jeff Scott Soto
+artist_playmeid: 59687
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 2aadbc170a65d6f965d158de81a3f7c0
+bars_confidence: shape = (208,)
+bars_start: shape = (208,)
+beats_confidence: shape = (627,)
+beats_start: shape = (627,)
+danceability: 0.0
+duration: 302.00118
+end_of_fade_in: 6.954
+energy: 0.0
+key: 11
+key_confidence: 0.63
+loudness: -4.799
+mode: 1
+mode_confidence: 0.524
+release: Prism
+release_7digitalid: 161082
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (783,)
+segments_loudness_max: shape = (783,)
+segments_loudness_max_time: shape = (783,)
+segments_loudness_start: shape = (783,)
+segments_pitches: shape = (783, 12)
+segments_start: shape = (783,)
+segments_timbre: shape = (783, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGTNSA12A8C13CCC0
+start_of_fade_out: 280.654
+tatums_confidence: shape = (1255,)
+tatums_start: shape = (1255,)
+tempo: 124.845
+time_signature: 3
+time_signature_confidence: 0.39
+title: 2 Late 4 Goodbyes
+track_7digitalid: 1702474
+track_id: TRBAOHM128F427EB66
+year: 2002

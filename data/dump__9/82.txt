@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 70998
+artist_familiarity: 0.50677396849
+artist_hotttnesss: 0.37976178373
+artist_id: AR4JY8V1187B98A62F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6e5477fa-8946-4a33-89fe-9f16c0568d12
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ann Hampton Callaway
+artist_playmeid: 15801
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 49dbfdbf7615dad90ed097653ba9d231
+bars_confidence: shape = (174,)
+bars_start: shape = (174,)
+beats_confidence: shape = (525,)
+beats_start: shape = (525,)
+danceability: 0.0
+duration: 312.65914
+end_of_fade_in: 0.183
+energy: 0.0
+key: 0
+key_confidence: 0.763
+loudness: -20.302
+mode: 1
+mode_confidence: 0.737
+release: After Ours
+release_7digitalid: 619860
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (969,)
+segments_loudness_max: shape = (969,)
+segments_loudness_max_time: shape = (969,)
+segments_loudness_start: shape = (969,)
+segments_pitches: shape = (969, 12)
+segments_start: shape = (969,)
+segments_timbre: shape = (969, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.532453874692
+song_id: SOPVYZH12AB017C34D
+start_of_fade_out: 300.472
+tatums_confidence: shape = (1050,)
+tatums_start: shape = (1050,)
+tempo: 103.077
+time_signature: 3
+time_signature_confidence: 1.0
+title: Time After Time
+track_7digitalid: 6884850
+track_id: TRADFSY128F9309CB6
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20032
+artist_familiarity: 0.542232717105
+artist_hotttnesss: 0.34154441252
+artist_id: AR78WG01187B98E404
+artist_latitude: 19.45565
+artist_location: Santiago de los Caballeros, Domin
+artist_longitude: -70.70719
+artist_mbid: 13f53407-3b0f-426b-8ca9-935456362412
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Johnny Pacheco
+artist_playmeid: 93695
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 790c080bd275cff299b830e21b1046f1
+bars_confidence: shape = (72,)
+bars_start: shape = (72,)
+beats_confidence: shape = (292,)
+beats_start: shape = (292,)
+danceability: 0.0
+duration: 152.31955
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.099
+loudness: -14.02
+mode: 1
+mode_confidence: 0.339
+release: Early Rythms
+release_7digitalid: 241191
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (515,)
+segments_loudness_max: shape = (515,)
+segments_loudness_max_time: shape = (515,)
+segments_loudness_start: shape = (515,)
+segments_pitches: shape = (515, 12)
+segments_start: shape = (515,)
+segments_timbre: shape = (515, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCWMGG12A8C1332B2
+start_of_fade_out: 145.043
+tatums_confidence: shape = (585,)
+tatums_start: shape = (585,)
+tempo: 116.045
+time_signature: 4
+time_signature_confidence: 0.854
+title: Cero Codazos
+track_7digitalid: 2631032
+track_id: TRBDYKO128F423829E
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 142271
+artist_familiarity: 0.633258330532
+artist_hotttnesss: 0.49576633024
+artist_id: ARKCTSM11F4C83C839
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Columbia Symphony Orchestra;Igor Stravinsky
+artist_playmeid: 17114
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 54449f678882e8daf66c7032bdba2135
+bars_confidence: shape = (161,)
+bars_start: shape = (161,)
+beats_confidence: shape = (161,)
+beats_start: shape = (161,)
+danceability: 0.0
+duration: 135.88853
+end_of_fade_in: 2.084
+energy: 0.0
+key: 4
+key_confidence: 0.391
+loudness: -22.177
+mode: 0
+mode_confidence: 0.137
+release: Stravinsky Conducts Stravinsky
+release_7digitalid: 283913
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (250,)
+segments_loudness_max: shape = (250,)
+segments_loudness_max_time: shape = (250,)
+segments_loudness_start: shape = (250,)
+segments_pitches: shape = (250, 12)
+segments_start: shape = (250,)
+segments_timbre: shape = (250, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTCFVP12A8C13636A
+start_of_fade_out: 132.255
+tatums_confidence: shape = (322,)
+tatums_start: shape = (322,)
+tempo: 71.998
+time_signature: 1
+time_signature_confidence: 0.191
+title: The Firebird/Apparition de L'Oiseau de Feu_ poursuivi par Ivan Tsarévitch
+track_7digitalid: 3203395
+track_id: TRAYWDO128F426DD31
+year: 0

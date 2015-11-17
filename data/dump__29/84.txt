@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 522
+artist_familiarity: 0.814829656133
+artist_hotttnesss: 0.776037656053
+artist_id: ARFCUN31187B9AD578
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: b071f9fa-14b0-4217-8e97-eb41da73f598
+artist_mbtags: shape = (13,)
+artist_mbtags_count: shape = (13,)
+artist_name: The Rolling Stones
+artist_playmeid: 10490
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 15d4a67fb47f4f54c226e9f537dec8f1
+bars_confidence: shape = (139,)
+bars_start: shape = (139,)
+beats_confidence: shape = (559,)
+beats_start: shape = (559,)
+danceability: 0.0
+duration: 183.17016
+end_of_fade_in: 0.386
+energy: 0.0
+key: 7
+key_confidence: 0.514
+loudness: -11.553
+mode: 1
+mode_confidence: 0.459
+release: 12 x 5
+release_7digitalid: 350902
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (745,)
+segments_loudness_max: shape = (745,)
+segments_loudness_max_time: shape = (745,)
+segments_loudness_start: shape = (745,)
+segments_pitches: shape = (745, 12)
+segments_start: shape = (745,)
+segments_timbre: shape = (745, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.633254321694
+song_id: SOGRKPG12A58A7ADF7
+start_of_fade_out: 174.266
+tatums_confidence: shape = (1118,)
+tatums_start: shape = (1118,)
+tempo: 185.333
+time_signature: 4
+time_signature_confidence: 0.164
+title: Around And Around
+track_7digitalid: 3922017
+track_id: TRAKBON128F9311039
+year: 1964

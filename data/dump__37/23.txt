@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4354
+artist_familiarity: 0.575692298657
+artist_hotttnesss: 0.36682078764
+artist_id: ARLTWXK1187FB5A3F8
+artist_latitude: 32.74863
+artist_location: Fort Worth, TX
+artist_longitude: -97.32925
+artist_mbid: 151231cb-fca6-42e0-976a-66b07193d657
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: King Curtis
+artist_playmeid: 6550
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 17548757e9b9a1c6cc9667ecbb40879e
+bars_confidence: shape = (15,)
+bars_start: shape = (15,)
+beats_confidence: shape = (121,)
+beats_start: shape = (121,)
+danceability: 0.0
+duration: 169.01179
+end_of_fade_in: 0.357
+energy: 0.0
+key: 5
+key_confidence: 0.462
+loudness: -18.199
+mode: 0
+mode_confidence: 0.747
+release: Azure
+release_7digitalid: 210302
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (443,)
+segments_loudness_max: shape = (443,)
+segments_loudness_max_time: shape = (443,)
+segments_loudness_start: shape = (443,)
+segments_pitches: shape = (443, 12)
+segments_start: shape = (443,)
+segments_timbre: shape = (443, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFWEJY12A8C131DF1
+start_of_fade_out: 163.463
+tatums_confidence: shape = (484,)
+tatums_start: shape = (484,)
+tempo: 43.211
+time_signature: 4
+time_signature_confidence: 0.0
+title: Misty
+track_7digitalid: 2282456
+track_id: TRAMQCL128F426F80D
+year: 0

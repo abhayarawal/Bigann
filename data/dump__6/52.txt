@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 158022
+artist_familiarity: 0.532850502341
+artist_hotttnesss: 0.302930470625
+artist_id: ARO0EUG1187B9AC250
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 668e5c58-903a-4aee-ba0d-9166a3bba4cc
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Portable
+artist_playmeid: 154330
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 2cc129cebff23dcaf7a4a16c253a7178
+bars_confidence: shape = (172,)
+bars_start: shape = (172,)
+beats_confidence: shape = (691,)
+beats_start: shape = (691,)
+danceability: 0.0
+duration: 362.60526
+end_of_fade_in: 0.103
+energy: 0.0
+key: 10
+key_confidence: 0.505
+loudness: -18.152
+mode: 0
+mode_confidence: 0.429
+release: Distance
+release_7digitalid: 478222
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1759,)
+segments_loudness_max: shape = (1759,)
+segments_loudness_max_time: shape = (1759,)
+segments_loudness_start: shape = (1759,)
+segments_pitches: shape = (1759, 12)
+segments_start: shape = (1759,)
+segments_timbre: shape = (1759, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOZSPTD12A8C143BFD
+start_of_fade_out: 335.105
+tatums_confidence: shape = (1382,)
+tatums_start: shape = (1382,)
+tempo: 116.005
+time_signature: 4
+time_signature_confidence: 1.0
+title: Theresa
+track_7digitalid: 5308233
+track_id: TRACCXJ128F92E984B
+year: 2003

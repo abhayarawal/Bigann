@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11476
+artist_familiarity: 0.806364124765
+artist_hotttnesss: 0.512455642577
+artist_id: AREMPZY1187B9B8FF3
+artist_latitude: nan
+artist_location: Jackson MS
+artist_longitude: nan
+artist_mbid: c0cc5d77-937d-4296-a349-0a09d733fbfb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: David Banner
+artist_playmeid: 2726
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 500ce2ca13f9d4105d05356faf1acfd7
+bars_confidence: shape = (49,)
+bars_start: shape = (49,)
+beats_confidence: shape = (201,)
+beats_start: shape = (201,)
+danceability: 0.0
+duration: 72.4371
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.159
+loudness: -11.576
+mode: 0
+mode_confidence: 0.576
+release: The Greatest Story Ever Told
+release_7digitalid: 275254
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (256,)
+segments_loudness_max: shape = (256,)
+segments_loudness_max_time: shape = (256,)
+segments_loudness_start: shape = (256,)
+segments_pitches: shape = (256, 12)
+segments_start: shape = (256,)
+segments_timbre: shape = (256, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCWCQL12AF72A3A5A
+start_of_fade_out: 68.261
+tatums_confidence: shape = (401,)
+tatums_start: shape = (401,)
+tempo: 167.018
+time_signature: 4
+time_signature_confidence: 0.789
+title: Syrup Sipping (Banner Beat Break)
+track_7digitalid: 3059624
+track_id: TRBFCKI128F4250666
+year: 2008

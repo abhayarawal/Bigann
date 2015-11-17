@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1020
+artist_familiarity: 0.629399857238
+artist_hotttnesss: 0.345269234911
+artist_id: ARE2XN81187B98BB83
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: eab89147-d970-49c4-82a3-eff4440a81e9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Alexis HK
+artist_playmeid: -1
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 60abf2c7d2d004c13005a037e196df03
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (353,)
+beats_start: shape = (353,)
+danceability: 0.0
+duration: 202.94485
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.217
+loudness: -12.489
+mode: 0
+mode_confidence: 0.446
+release: Les Affranchis
+release_7digitalid: 406997
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (729,)
+segments_loudness_max: shape = (729,)
+segments_loudness_max_time: shape = (729,)
+segments_loudness_start: shape = (729,)
+segments_pitches: shape = (729, 12)
+segments_start: shape = (729,)
+segments_timbre: shape = (729, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.345802233965
+song_id: SOOIHFU12AB017E465
+start_of_fade_out: 194.229
+tatums_confidence: shape = (706,)
+tatums_start: shape = (706,)
+tempo: 109.024
+time_signature: 4
+time_signature_confidence: 0.792
+title: La paix des étoiles
+track_7digitalid: 4522984
+track_id: TRASTLC128F931603A
+year: 2009

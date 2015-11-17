@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 54798
+artist_familiarity: 0.566796474833
+artist_hotttnesss: 0.388112773806
+artist_id: ARFTMGO1187B9A777A
+artist_latitude: 43.64856
+artist_location: Toronto, Ontario, Canada
+artist_longitude: -79.38533
+artist_mbid: 291dcfb8-b31c-496a-905b-9955509d75b6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Percy Faith
+artist_playmeid: 12855
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: e6b13614944d23e0d1bbf3f840fddd0c
+bars_confidence: shape = (238,)
+bars_start: shape = (238,)
+beats_confidence: shape = (238,)
+beats_start: shape = (238,)
+danceability: 0.0
+duration: 159.76444
+end_of_fade_in: 2.914
+energy: 0.0
+key: 5
+key_confidence: 0.564
+loudness: -16.445
+mode: 1
+mode_confidence: 0.731
+release: Porgy & Bess
+release_7digitalid: 725032
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (280,)
+segments_loudness_max: shape = (280,)
+segments_loudness_max_time: shape = (280,)
+segments_loudness_start: shape = (280,)
+segments_pitches: shape = (280, 12)
+segments_start: shape = (280,)
+segments_timbre: shape = (280, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIHLZN12AB018B917
+start_of_fade_out: 152.561
+tatums_confidence: shape = (476,)
+tatums_start: shape = (476,)
+tempo: 89.924
+time_signature: 1
+time_signature_confidence: 0.455
+title: I Loves You Porgy
+track_7digitalid: 8036160
+track_id: TRAQXYU12903CD9262
+year: 0

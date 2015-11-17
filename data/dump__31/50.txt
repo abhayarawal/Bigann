@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19920
+artist_familiarity: 0.540881349196
+artist_hotttnesss: 0.38663083651
+artist_id: ARJRQL51187FB541AB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 84f01d1b-ff47-4b26-bedb-2701ec5b2c9f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Juan Carlos Baglietto
+artist_playmeid: 67826
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: e4b848e3887c70004891a7a6c1e4429c
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (517,)
+beats_start: shape = (517,)
+danceability: 0.0
+duration: 262.922
+end_of_fade_in: 0.242
+energy: 0.0
+key: 4
+key_confidence: 0.481
+loudness: -12.142
+mode: 0
+mode_confidence: 0.409
+release: Corazon De Barco
+release_7digitalid: 29467
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1031,)
+segments_loudness_max: shape = (1031,)
+segments_loudness_max_time: shape = (1031,)
+segments_loudness_start: shape = (1031,)
+segments_pitches: shape = (1031, 12)
+segments_start: shape = (1031,)
+segments_timbre: shape = (1031, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOWIXZS12A58A7AB35
+start_of_fade_out: 246.428
+tatums_confidence: shape = (1550,)
+tatums_start: shape = (1550,)
+tempo: 120.101
+time_signature: 5
+time_signature_confidence: 0.704
+title: Fui Mujer
+track_7digitalid: 325119
+track_id: TRAKRCM128F146B4DE
+year: 0

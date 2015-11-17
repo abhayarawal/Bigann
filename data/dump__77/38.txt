@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4785
+artist_familiarity: 0.495957128015
+artist_hotttnesss: 0.284126948989
+artist_id: ARU5CP31187FB44C3A
+artist_latitude: 31.1689
+artist_location: Harlington, TX
+artist_longitude: -100.07715
+artist_mbid: 10f55070-09fb-4ac8-b684-b70ca66b0055
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Beth Nielsen Chapman
+artist_playmeid: 38078
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: adaa860f2c2c0b97adf4c9bf83dd16c5
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (420,)
+beats_start: shape = (420,)
+danceability: 0.0
+duration: 220.05506
+end_of_fade_in: 0.346
+energy: 0.0
+key: 6
+key_confidence: 0.572
+loudness: -11.168
+mode: 0
+mode_confidence: 0.605
+release: Sand And Water
+release_7digitalid: 672972
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (704,)
+segments_loudness_max: shape = (704,)
+segments_loudness_max_time: shape = (704,)
+segments_loudness_start: shape = (704,)
+segments_pitches: shape = (704, 12)
+segments_start: shape = (704,)
+segments_timbre: shape = (704, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQBXKB12AB018A727
+start_of_fade_out: 204.15
+tatums_confidence: shape = (1259,)
+tatums_start: shape = (1259,)
+tempo: 119.99
+time_signature: 5
+time_signature_confidence: 0.0
+title: Fair Enough (LP Version)
+track_7digitalid: 7458493
+track_id: TRBAJXD12903CC3493
+year: 1997

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4135
+artist_familiarity: 0.682101281711
+artist_hotttnesss: 0.424108277416
+artist_id: ARPATQ21187B9ACAFC
+artist_latitude: 53.4796
+artist_location: Manchester, England
+artist_longitude: -2.24881
+artist_mbid: 01f4fb92-6bf0-4de5-83dc-3fe194e763bf
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Happy Mondays
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 7e49780efaf27a9422b2bd3fb3b8f5c3
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (435,)
+beats_start: shape = (435,)
+danceability: 0.0
+duration: 243.25179
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.032
+loudness: -9.944
+mode: 1
+mode_confidence: 0.217
+release: Bummed
+release_7digitalid: 186364
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (842,)
+segments_loudness_max: shape = (842,)
+segments_loudness_max_time: shape = (842,)
+segments_loudness_start: shape = (842,)
+segments_pitches: shape = (842, 12)
+segments_start: shape = (842,)
+segments_timbre: shape = (842, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOZEPNS12A8AE4766D
+start_of_fade_out: 234.098
+tatums_confidence: shape = (870,)
+tatums_start: shape = (870,)
+tempo: 109.205
+time_signature: 4
+time_signature_confidence: 0.96
+title: Performance (Remastered)
+track_7digitalid: 2020487
+track_id: TRBCYEC128F423A352
+year: 1988

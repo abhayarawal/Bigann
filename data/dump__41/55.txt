@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 33197
+artist_familiarity: 0.421132725384
+artist_hotttnesss: 0.318834231458
+artist_id: ARB45GQ1187B98D2B4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cbee65fc-e11c-439b-b5b4-e068fb1c169a
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: DeGarmo & Key
+artist_playmeid: 61389
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: ab246da14275231b2cbdbfbc6f8b3f1c
+bars_confidence: shape = (71,)
+bars_start: shape = (71,)
+beats_confidence: shape = (361,)
+beats_start: shape = (361,)
+danceability: 0.0
+duration: 173.19138
+end_of_fade_in: 1.19
+energy: 0.0
+key: 9
+key_confidence: 0.476
+loudness: -7.099
+mode: 1
+mode_confidence: 0.472
+release: Very Best Of Degarmo & Key
+release_7digitalid: 45266
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (659,)
+segments_loudness_max: shape = (659,)
+segments_loudness_max_time: shape = (659,)
+segments_loudness_start: shape = (659,)
+segments_pitches: shape = (659, 12)
+segments_start: shape = (659,)
+segments_timbre: shape = (659, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTLXEX12A6D4F96EA
+start_of_fade_out: 168.856
+tatums_confidence: shape = (1083,)
+tatums_start: shape = (1083,)
+tempo: 127.89
+time_signature: 5
+time_signature_confidence: 0.524
+title: Out Of The Danger Zone (Degarmo And Key Album Version)
+track_7digitalid: 482908
+track_id: TRAOBTQ128F148877E
+year: 0

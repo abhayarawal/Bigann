@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22010
+artist_familiarity: 0.583646434655
+artist_hotttnesss: 0.414589569693
+artist_id: ARZ1PTN1187B9967D9
+artist_latitude: 33.46725
+artist_location: Tioga Springs, TX
+artist_longitude: -96.91393
+artist_mbid: 675b7627-6b5d-4a46-a728-785cb24a299e
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Gene Autry
+artist_playmeid: 4052
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: d6409afce9124778f6380715b0e393d8
+bars_confidence: shape = (111,)
+bars_start: shape = (111,)
+beats_confidence: shape = (335,)
+beats_start: shape = (335,)
+danceability: 0.0
+duration: 148.1922
+end_of_fade_in: 0.276
+energy: 0.0
+key: 10
+key_confidence: 0.733
+loudness: -17.065
+mode: 1
+mode_confidence: 0.674
+release: The Singin' Cowboy - 20 Great Favourites
+release_7digitalid: 650635
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (390,)
+segments_loudness_max: shape = (390,)
+segments_loudness_max_time: shape = (390,)
+segments_loudness_start: shape = (390,)
+segments_pitches: shape = (390, 12)
+segments_start: shape = (390,)
+segments_timbre: shape = (390, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLIBLI12AB0180FBB
+start_of_fade_out: 137.218
+tatums_confidence: shape = (335,)
+tatums_start: shape = (335,)
+tempo: 142.858
+time_signature: 3
+time_signature_confidence: 0.432
+title: Half As Much
+track_7digitalid: 7207617
+track_id: TRBAUSS128F9358456
+year: 0

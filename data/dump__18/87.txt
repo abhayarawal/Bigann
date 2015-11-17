@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7593
+artist_familiarity: 0.707204743933
+artist_hotttnesss: 0.519636855546
+artist_id: ARL5BEN1187B98E4D9
+artist_latitude: nan
+artist_location: Montego Bay, Jamaica
+artist_longitude: nan
+artist_mbid: 07b5e94b-95ac-467d-80e0-a691c709dd11
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Jah Cure
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 6f84e5cb1ebbf94b8f30dcdc60c8d6f5
+bars_confidence: shape = (139,)
+bars_start: shape = (139,)
+beats_confidence: shape = (558,)
+beats_start: shape = (558,)
+danceability: 0.0
+duration: 224.02567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.08
+loudness: -5.142
+mode: 1
+mode_confidence: 0.276
+release: I'm Free - Single
+release_7digitalid: 795325
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (936,)
+segments_loudness_max: shape = (936,)
+segments_loudness_max_time: shape = (936,)
+segments_loudness_start: shape = (936,)
+segments_pitches: shape = (936, 12)
+segments_start: shape = (936,)
+segments_timbre: shape = (936, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SORRKQZ12AB0185DAD
+start_of_fade_out: 218.825
+tatums_confidence: shape = (1117,)
+tatums_start: shape = (1117,)
+tempo: 151.744
+time_signature: 4
+time_signature_confidence: 0.931
+title: I'm Free
+track_7digitalid: 8796096
+track_id: TRAGKPS12903CA7AE5
+year: 0

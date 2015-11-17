@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 133742
+artist_familiarity: 0.470615400591
+artist_hotttnesss: 0.355646469026
+artist_id: ARTR7971187FB4CF69
+artist_latitude: 41.50471
+artist_location: Cleveland, OH
+artist_longitude: -81.69074
+artist_mbid: 3ce68b60-1c6c-4b0f-87fd-0f13410df01d
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Rocket From The Tombs
+artist_playmeid: 70063
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: d6580aeb328b0d895a70ef32f8b1712f
+bars_confidence: shape = (360,)
+bars_start: shape = (360,)
+beats_confidence: shape = (360,)
+beats_start: shape = (360,)
+danceability: 0.0
+duration: 138.44853
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.0
+loudness: -7.359
+mode: 0
+mode_confidence: 0.007
+release: Rocket Redux
+release_7digitalid: 715572
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (371,)
+segments_loudness_max: shape = (371,)
+segments_loudness_max_time: shape = (371,)
+segments_loudness_start: shape = (371,)
+segments_pitches: shape = (371, 12)
+segments_start: shape = (371,)
+segments_timbre: shape = (371, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORYXHP12A8BEE954B
+start_of_fade_out: 128.772
+tatums_confidence: shape = (719,)
+tatums_start: shape = (719,)
+tempo: 164.23
+time_signature: 1
+time_signature_confidence: 0.0
+title: Frustration
+track_7digitalid: 7937544
+track_id: TRAOBOQ12903CC1289
+year: 2002

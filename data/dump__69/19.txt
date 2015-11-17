@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 28335
+artist_familiarity: 0.757389969929
+artist_hotttnesss: 0.516764030267
+artist_id: AR5OB9M1187FB52F29
+artist_latitude: nan
+artist_location: Savannah, TN
+artist_longitude: nan
+artist_mbid: fac3bb7e-4e51-4fb7-85e4-741d69b6d779
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Darryl Worley
+artist_playmeid: 3124
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: b4848b572e74c61faba442a0ee533559
+bars_confidence: shape = (73,)
+bars_start: shape = (73,)
+beats_confidence: shape = (303,)
+beats_start: shape = (303,)
+danceability: 0.0
+duration: 239.56853
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 1.0
+loudness: -7.324
+mode: 1
+mode_confidence: 1.0
+release: Have You Forgotten?
+release_7digitalid: 46458
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (631,)
+segments_loudness_max: shape = (631,)
+segments_loudness_max_time: shape = (631,)
+segments_loudness_start: shape = (631,)
+segments_pitches: shape = (631, 12)
+segments_start: shape = (631,)
+segments_timbre: shape = (631, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.589770423924
+song_id: SOQEDJW12A6D4FB3F3
+start_of_fade_out: 226.424
+tatums_confidence: shape = (606,)
+tatums_start: shape = (606,)
+tempo: 79.534
+time_signature: 4
+time_signature_confidence: 0.325
+title: Those Less Fortunate Than I
+track_7digitalid: 496610
+track_id: TRAXPJU128F148ADE8
+year: 2000

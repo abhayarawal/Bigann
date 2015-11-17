@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 385731
+artist_familiarity: 0.360521011526
+artist_hotttnesss: 0.279976025033
+artist_id: ARRPFCU1187FB5402E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d9cc01f4-e06f-498d-93ce-057335b4aee0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Oldelaf et Monsieur D
+artist_playmeid: -1
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: c237ac27b2d15d0d7b0b0bf9bca4d52a
+bars_confidence: shape = (176,)
+bars_start: shape = (176,)
+beats_confidence: shape = (708,)
+beats_start: shape = (708,)
+danceability: 0.0
+duration: 296.93342
+end_of_fade_in: 0.125
+energy: 0.0
+key: 2
+key_confidence: 0.202
+loudness: -7.817
+mode: 1
+mode_confidence: 0.28
+release: Dernière Chance d'être disque d'or (Edition Spéciale: nouvel album + best of 5 titres)
+release_7digitalid: 524019
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1153,)
+segments_loudness_max: shape = (1153,)
+segments_loudness_max_time: shape = (1153,)
+segments_loudness_start: shape = (1153,)
+segments_pitches: shape = (1153, 12)
+segments_start: shape = (1153,)
+segments_timbre: shape = (1153, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGEONB12A8C1429C7
+start_of_fade_out: 293.355
+tatums_confidence: shape = (1415,)
+tatums_start: shape = (1415,)
+tempo: 145.323
+time_signature: 4
+time_signature_confidence: 0.692
+title: La fête à la prison
+track_7digitalid: 5789951
+track_id: TRAFWMO128F92E8216
+year: 2009

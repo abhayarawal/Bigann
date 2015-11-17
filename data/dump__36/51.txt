@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 80
+artist_familiarity: 0.674237799591
+artist_hotttnesss: 0.465270210086
+artist_id: ARJ2PMY1187FB5B563
+artist_latitude: nan
+artist_location: NY - Long Island
+artist_longitude: nan
+artist_mbid: 16dad944-c492-43dd-88ed-e0b7ac520c40
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Burning Spear
+artist_playmeid: 9408
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 6a151e19da3200f5911f0602fcbad064
+bars_confidence: shape = (364,)
+bars_start: shape = (364,)
+beats_confidence: shape = (364,)
+beats_start: shape = (364,)
+danceability: 0.0
+duration: 217.93914
+end_of_fade_in: 0.23
+energy: 0.0
+key: 8
+key_confidence: 0.516
+loudness: -14.241
+mode: 1
+mode_confidence: 0.538
+release: Jah Kingdom
+release_7digitalid: 26734
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (942,)
+segments_loudness_max: shape = (942,)
+segments_loudness_max_time: shape = (942,)
+segments_loudness_start: shape = (942,)
+segments_pitches: shape = (942, 12)
+segments_start: shape = (942,)
+segments_timbre: shape = (942, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.407233014901
+song_id: SOOREAS12A58A7C580
+start_of_fade_out: 204.376
+tatums_confidence: shape = (1093,)
+tatums_start: shape = (1093,)
+tempo: 101.799
+time_signature: 1
+time_signature_confidence: 0.51
+title: Tumble Down
+track_7digitalid: 289490
+track_id: TRAMKKJ128F1463612
+year: 1991

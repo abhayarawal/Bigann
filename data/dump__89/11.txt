@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 201680
+artist_familiarity: 0.361051022617
+artist_hotttnesss: 0.176392341565
+artist_id: ARSHTBB1241B9C434A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cedric Myton
+artist_playmeid: -1
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: dc7df6a5cc89291a206336691489252e
+bars_confidence: shape = (1141,)
+bars_start: shape = (1141,)
+beats_confidence: shape = (1141,)
+beats_start: shape = (1141,)
+danceability: 0.0
+duration: 520.04526
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -7.269
+mode: 1
+mode_confidence: 0.0
+release: Cedric "congo" myton inna de yard
+release_7digitalid: 264080
+sections_confidence: shape = (25,)
+sections_start: shape = (25,)
+segments_confidence: shape = (2066,)
+segments_loudness_max: shape = (2066,)
+segments_loudness_max_time: shape = (2066,)
+segments_loudness_start: shape = (2066,)
+segments_pitches: shape = (2066, 12)
+segments_start: shape = (2066,)
+segments_timbre: shape = (2066, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGTEWJ12A8C13ABC5
+start_of_fade_out: 516.963
+tatums_confidence: shape = (2282,)
+tatums_start: shape = (2282,)
+tempo: 132.084
+time_signature: 1
+time_signature_confidence: 0.066
+title: Wisdom
+track_7digitalid: 2798971
+track_id: TRBERJE128F425F098
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19603
+artist_familiarity: 0.730246318613
+artist_hotttnesss: 0.52048957098
+artist_id: AR2SGQW1187B9B9E7C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fc4568b6-cbe3-4a3d-8409-28510c19e3e2
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: KRS-One
+artist_playmeid: 6964
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: e1b28a7b9d00953dc5d48ae272e3629b
+bars_confidence: shape = (149,)
+bars_start: shape = (149,)
+beats_confidence: shape = (600,)
+beats_start: shape = (600,)
+danceability: 0.0
+duration: 256.57424
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -7.618
+mode: 1
+mode_confidence: 0.325
+release: We Will Rock You
+release_7digitalid: 92151
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (938,)
+segments_loudness_max: shape = (938,)
+segments_loudness_max_time: shape = (938,)
+segments_loudness_start: shape = (938,)
+segments_pitches: shape = (938, 12)
+segments_start: shape = (938,)
+segments_timbre: shape = (938, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTQKLJ12AF72A9260
+start_of_fade_out: 246.282
+tatums_confidence: shape = (1201,)
+tatums_start: shape = (1201,)
+tempo: 146.06
+time_signature: 4
+time_signature_confidence: 0.357
+title: The Devils Crown
+track_7digitalid: 977015
+track_id: TRALYLQ128F42710D6
+year: 0

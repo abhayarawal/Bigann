@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 361310
+artist_familiarity: 0.539156209732
+artist_hotttnesss: 0.360648924812
+artist_id: ARRS5961187B99F9DE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1201dd30-eef8-4982-b83d-81acffa31331
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jauida
+artist_playmeid: 16562
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 1823e225e5e0b9fa81d51bbddd691b74
+bars_confidence: shape = (110,)
+bars_start: shape = (110,)
+beats_confidence: shape = (444,)
+beats_start: shape = (444,)
+danceability: 0.0
+duration: 269.76608
+end_of_fade_in: 2.775
+energy: 0.0
+key: 7
+key_confidence: 0.0
+loudness: -6.996
+mode: 1
+mode_confidence: 0.175
+release: Ocean
+release_7digitalid: 588630
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (845,)
+segments_loudness_max: shape = (845,)
+segments_loudness_max_time: shape = (845,)
+segments_loudness_start: shape = (845,)
+segments_pitches: shape = (845, 12)
+segments_start: shape = (845,)
+segments_timbre: shape = (845, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SORZLRP12AB017D68D
+start_of_fade_out: 249.533
+tatums_confidence: shape = (889,)
+tatums_start: shape = (889,)
+tempo: 101.01
+time_signature: 4
+time_signature_confidence: 0.681
+title: I don't Want to Be Alone Tonight
+track_7digitalid: 6528490
+track_id: TRABEXK12903CCE19B
+year: 0

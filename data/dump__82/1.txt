@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10221
+artist_familiarity: 0.609636697931
+artist_hotttnesss: 0.382593000876
+artist_id: ARRT66G1187FB3DDF9
+artist_latitude: nan
+artist_location: Gilmer, TX
+artist_longitude: nan
+artist_mbid: d6ae4b23-965f-485a-b2c2-66c43ffaef20
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Freddie King
+artist_playmeid: 15428
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: fe539d4cec72d55aca0a895c206b6569
+bars_confidence: shape = (213,)
+bars_start: shape = (213,)
+beats_confidence: shape = (642,)
+beats_start: shape = (642,)
+danceability: 0.0
+duration: 263.65342
+end_of_fade_in: 0.484
+energy: 0.0
+key: 7
+key_confidence: 0.535
+loudness: -11.832
+mode: 1
+mode_confidence: 0.61
+release: Getting Ready... (World)
+release_7digitalid: 111872
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (850,)
+segments_loudness_max: shape = (850,)
+segments_loudness_max_time: shape = (850,)
+segments_loudness_start: shape = (850,)
+segments_pitches: shape = (850, 12)
+segments_start: shape = (850,)
+segments_timbre: shape = (850, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.526837034063
+song_id: SOBRZQM12A6D4F6896
+start_of_fade_out: 255.936
+tatums_confidence: shape = (1283,)
+tatums_start: shape = (1283,)
+tempo: 148.627
+time_signature: 3
+time_signature_confidence: 0.45
+title: Five Long Years
+track_7digitalid: 1156652
+track_id: TRBCBYQ128F42981F1
+year: 1971

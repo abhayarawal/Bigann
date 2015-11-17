@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10173
+artist_familiarity: 0.87253659867
+artist_hotttnesss: 0.610731462904
+artist_id: AR12F2S1187FB56EEF
+artist_latitude: nan
+artist_location: Boston, MA
+artist_longitude: nan
+artist_mbid: 3d2b98e5-556f-4451-a3ff-c50ea18d57cb
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Aerosmith
+artist_playmeid: 39
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 997055a49bce90ddea13de15a32159a9
+bars_confidence: shape = (107,)
+bars_start: shape = (107,)
+beats_confidence: shape = (436,)
+beats_start: shape = (436,)
+danceability: 0.0
+duration: 255.65995
+end_of_fade_in: 2.438
+energy: 0.0
+key: 7
+key_confidence: 0.005
+loudness: -10.672
+mode: 1
+mode_confidence: 0.184
+release: Pandora's Box (Display Box)
+release_7digitalid: 290095
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (867,)
+segments_loudness_max: shape = (867,)
+segments_loudness_max_time: shape = (867,)
+segments_loudness_start: shape = (867,)
+segments_pitches: shape = (867, 12)
+segments_start: shape = (867,)
+segments_timbre: shape = (867, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.595478748247
+song_id: SOTOMJM12A8C134AA2
+start_of_fade_out: 249.626
+tatums_confidence: shape = (872,)
+tatums_start: shape = (872,)
+tempo: 103.976
+time_signature: 4
+time_signature_confidence: 0.0
+title: Milkcow Blues
+track_7digitalid: 3255358
+track_id: TRAZZQC128F427A0F5
+year: 1991

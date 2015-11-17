@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3318
+artist_familiarity: 0.700570065019
+artist_hotttnesss: 0.487595647696
+artist_id: AR1SQSG1187B9AC782
+artist_latitude: nan
+artist_location: Eskilstuna, Sweden
+artist_longitude: nan
+artist_mbid: ffb2d3e3-a4cc-48cf-8fb0-f2f846e9d7b9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kent
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: ff70336a91c0e1533f3ad86cf78f3c6b
+bars_confidence: shape = (162,)
+bars_start: shape = (162,)
+beats_confidence: shape = (487,)
+beats_start: shape = (487,)
+danceability: 0.0
+duration: 222.53669
+end_of_fade_in: 0.276
+energy: 0.0
+key: 9
+key_confidence: 0.576
+loudness: -11.284
+mode: 1
+mode_confidence: 0.693
+release: Kent
+release_7digitalid: 299880
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (511,)
+segments_loudness_max: shape = (511,)
+segments_loudness_max_time: shape = (511,)
+segments_loudness_start: shape = (511,)
+segments_pitches: shape = (511, 12)
+segments_start: shape = (511,)
+segments_timbre: shape = (511, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.566707641676
+song_id: SOXWQWO12A8C13BF20
+start_of_fade_out: 202.211
+tatums_confidence: shape = (487,)
+tatums_start: shape = (487,)
+tempo: 135.776
+time_signature: 3
+time_signature_confidence: 0.934
+title: Vad två öron klarar
+track_7digitalid: 3367032
+track_id: TRATDDF128F4294E6A
+year: 0

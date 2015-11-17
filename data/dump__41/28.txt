@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 31619
+artist_familiarity: 0.609816403443
+artist_hotttnesss: 0.560380805158
+artist_id: AR4B3RX1187B9A868A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 391846f7-f09f-470c-b188-c16b3a2022e4
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Alexandre Desplat
+artist_playmeid: -1
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 2ce1c1a65f165c2ff9c13b6a87c86e69
+bars_confidence: shape = (40,)
+bars_start: shape = (40,)
+beats_confidence: shape = (164,)
+beats_start: shape = (164,)
+danceability: 0.0
+duration: 86.22975
+end_of_fade_in: 0.385
+energy: 0.0
+key: 10
+key_confidence: 0.333
+loudness: -20.551
+mode: 1
+mode_confidence: 0.268
+release: Fantastic Mr. Fox (Original Soundtrack)
+release_7digitalid: 604232
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (306,)
+segments_loudness_max: shape = (306,)
+segments_loudness_max_time: shape = (306,)
+segments_loudness_start: shape = (306,)
+segments_pitches: shape = (306, 12)
+segments_start: shape = (306,)
+segments_timbre: shape = (306, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHFZQQ12A58A7FA07
+start_of_fade_out: 81.757
+tatums_confidence: shape = (328,)
+tatums_start: shape = (328,)
+tempo: 120.08
+time_signature: 4
+time_signature_confidence: 0.0
+title: High-Speed French Train
+track_7digitalid: 6713251
+track_id: TRANZYG12903CFB180
+year: 2009

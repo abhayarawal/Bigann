@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 88523
+artist_familiarity: 0.577508974325
+artist_hotttnesss: 0.37948217028
+artist_id: ARL7K851187B99ACD2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 572d6bb7-58cc-4a96-8e5c-58eae4739190
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Andy Andy
+artist_playmeid: 14303
+artist_terms: shape = (9,)
+artist_terms_freq: shape = (9,)
+artist_terms_weight: shape = (9,)
+audio_md5: 9af1e355d778a3da15e0b55cfca6b02d
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (394,)
+beats_start: shape = (394,)
+danceability: 0.0
+duration: 264.46322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.021
+loudness: -6.73
+mode: 0
+mode_confidence: 0.187
+release: Tu Me Haces Falta
+release_7digitalid: 278032
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1247,)
+segments_loudness_max: shape = (1247,)
+segments_loudness_max_time: shape = (1247,)
+segments_loudness_start: shape = (1247,)
+segments_pitches: shape = (1247, 12)
+segments_start: shape = (1247,)
+segments_timbre: shape = (1247, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOAZHOK12A8AE46E45
+start_of_fade_out: 253.115
+tatums_confidence: shape = (1183,)
+tatums_start: shape = (1183,)
+tempo: 90.035
+time_signature: 5
+time_signature_confidence: 0.969
+title: Vida
+track_7digitalid: 3101656
+track_id: TRAVYXA128F425906C
+year: 0

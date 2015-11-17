@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 493710
+artist_familiarity: 0.4157846077
+artist_hotttnesss: 0.307902093869
+artist_id: ARDQO721187FB3C6D9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2ba29f11-6321-451f-934d-3f63b3930ce3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Rodney O & Joe Cooley
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: d845763d3ddb25ba0c11f8d5d78a0dd6
+bars_confidence: shape = (123,)
+bars_start: shape = (123,)
+beats_confidence: shape = (497,)
+beats_start: shape = (497,)
+danceability: 0.0
+duration: 252.23791
+end_of_fade_in: 0.154
+energy: 0.0
+key: 6
+key_confidence: 0.078
+loudness: -14.6
+mode: 1
+mode_confidence: 0.419
+release: Three The Hard Way
+release_7digitalid: 665297
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1064,)
+segments_loudness_max: shape = (1064,)
+segments_loudness_max_time: shape = (1064,)
+segments_loudness_start: shape = (1064,)
+segments_pitches: shape = (1064, 12)
+segments_start: shape = (1064,)
+segments_timbre: shape = (1064, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBKWON12A58291C7D
+start_of_fade_out: 242.387
+tatums_confidence: shape = (994,)
+tatums_start: shape = (994,)
+tempo: 119.074
+time_signature: 4
+time_signature_confidence: 1.0
+title: Party
+track_7digitalid: 7375435
+track_id: TRATRJL12903CAF484
+year: 2002

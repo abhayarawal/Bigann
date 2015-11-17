@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 257551
+artist_familiarity: 0.406187449275
+artist_hotttnesss: 0.273453727253
+artist_id: ARIOSKN1257509BCE1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fd3dcf38-ac5a-44eb-b8dc-01846f415adc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cama
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: b2863fba9d10d51879a31690bbd4ebff
+bars_confidence: shape = (550,)
+bars_start: shape = (550,)
+beats_confidence: shape = (550,)
+beats_start: shape = (550,)
+danceability: 0.0
+duration: 183.562
+end_of_fade_in: 0.067
+energy: 0.0
+key: 4
+key_confidence: 0.69
+loudness: -5.516
+mode: 1
+mode_confidence: 0.528
+release: A Handful Of Songs
+release_7digitalid: 602067
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (718,)
+segments_loudness_max: shape = (718,)
+segments_loudness_max_time: shape = (718,)
+segments_loudness_start: shape = (718,)
+segments_pitches: shape = (718, 12)
+segments_start: shape = (718,)
+segments_timbre: shape = (718, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXVRIV12AC468E055
+start_of_fade_out: 177.371
+tatums_confidence: shape = (1099,)
+tatums_start: shape = (1099,)
+tempo: 185.981
+time_signature: 1
+time_signature_confidence: 0.0
+title: Walk With You
+track_7digitalid: 6688827
+track_id: TRAKEOS12903CF523F
+year: 2009

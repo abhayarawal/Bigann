@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 125858
+artist_familiarity: 0.557905039772
+artist_hotttnesss: 0.275950770218
+artist_id: ARZRTZT124549A402A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Army of the Pharoahs
+artist_playmeid: 87520
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: cdc53f39ccb518088ea8aa84d9d15ec0
+bars_confidence: shape = (91,)
+bars_start: shape = (91,)
+beats_confidence: shape = (368,)
+beats_start: shape = (368,)
+danceability: 0.0
+duration: 242.25914
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.42
+loudness: -8.316
+mode: 0
+mode_confidence: 0.441
+release: The Torture Papers
+release_7digitalid: 164708
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1129,)
+segments_loudness_max: shape = (1129,)
+segments_loudness_max_time: shape = (1129,)
+segments_loudness_start: shape = (1129,)
+segments_pitches: shape = (1129, 12)
+segments_start: shape = (1129,)
+segments_timbre: shape = (1129, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTETFB12A8C13BDE9
+start_of_fade_out: 232.153
+tatums_confidence: shape = (735,)
+tatums_start: shape = (735,)
+tempo: 92.099
+time_signature: 4
+time_signature_confidence: 0.692
+title: Listen Up
+track_7digitalid: 1745684
+track_id: TRAZPYG128F4288AC3
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10934
+artist_familiarity: 0.687294463335
+artist_hotttnesss: 0.517170480632
+artist_id: ARK0BT61187B9ACEC2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a0955511-1324-4e9b-834f-e1e140502850
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Monster Magnet
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: e76a68a6b2de4b9b18c41295bef881ef
+bars_confidence: shape = (85,)
+bars_start: shape = (85,)
+beats_confidence: shape = (429,)
+beats_start: shape = (429,)
+danceability: 0.0
+duration: 289.12281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.819
+loudness: -6.724
+mode: 1
+mode_confidence: 0.556
+release: God Says No
+release_7digitalid: 15569
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (987,)
+segments_loudness_max: shape = (987,)
+segments_loudness_max_time: shape = (987,)
+segments_loudness_start: shape = (987,)
+segments_pitches: shape = (987, 12)
+segments_start: shape = (987,)
+segments_timbre: shape = (987, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.551921514942
+song_id: SOUMDHA12A6701DEB7
+start_of_fade_out: 271.192
+tatums_confidence: shape = (1289,)
+tatums_start: shape = (1289,)
+tempo: 89.296
+time_signature: 5
+time_signature_confidence: 1.0
+title: Down In The Jungle
+track_7digitalid: 163569
+track_id: TRBEHNT128E0792546
+year: 2000

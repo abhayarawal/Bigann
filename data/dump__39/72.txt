@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 194585
+artist_familiarity: 0.515932603371
+artist_hotttnesss: 0.331566220383
+artist_id: ARF1LT21187B989EEB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 147de9f1-2083-4fe9-82c2-2487ed626d9b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: White Willow
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: ba2bce4cb6b00ddd494877117bbb8a45
+bars_confidence: shape = (365,)
+bars_start: shape = (365,)
+beats_confidence: shape = (1104,)
+beats_start: shape = (1104,)
+danceability: 0.0
+duration: 659.46077
+end_of_fade_in: 5.114
+energy: 0.0
+key: 6
+key_confidence: 0.0
+loudness: -12.518
+mode: 0
+mode_confidence: 0.477
+release: Sacrament
+release_7digitalid: 680973
+sections_confidence: shape = (23,)
+sections_start: shape = (23,)
+segments_confidence: shape = (1817,)
+segments_loudness_max: shape = (1817,)
+segments_loudness_max_time: shape = (1817,)
+segments_loudness_start: shape = (1817,)
+segments_pitches: shape = (1817, 12)
+segments_start: shape = (1817,)
+segments_timbre: shape = (1817, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOZJIWO12AB0189335
+start_of_fade_out: 646.827
+tatums_confidence: shape = (3311,)
+tatums_start: shape = (3311,)
+tempo: 101.341
+time_signature: 3
+time_signature_confidence: 0.646
+title: The Reach
+track_7digitalid: 7555986
+track_id: TRANOXA12903CDB0ED
+year: 2000

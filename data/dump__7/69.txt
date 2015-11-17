@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15464
+artist_familiarity: 0.334542783657
+artist_hotttnesss: 0.0490343808485
+artist_id: AROIHOI122988FEB8E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mario Rosenstock
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: d6bcecb31e48032d397ee92b62606c3b
+bars_confidence: shape = (128,)
+bars_start: shape = (128,)
+beats_confidence: shape = (419,)
+beats_start: shape = (419,)
+danceability: 0.0
+duration: 319.63383
+end_of_fade_in: 0.429
+energy: 0.0
+key: 10
+key_confidence: 0.111
+loudness: -5.849
+mode: 1
+mode_confidence: 0.012
+release: Gift 2
+release_7digitalid: 281000
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1320,)
+segments_loudness_max: shape = (1320,)
+segments_loudness_max_time: shape = (1320,)
+segments_loudness_start: shape = (1320,)
+segments_pitches: shape = (1320, 12)
+segments_start: shape = (1320,)
+segments_timbre: shape = (1320, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODKPPT12A8AE46A99
+start_of_fade_out: 314.63
+tatums_confidence: shape = (1258,)
+tatums_start: shape = (1258,)
+tempo: 79.09
+time_signature: 3
+time_signature_confidence: 0.674
+title: De Tree Little Pigs
+track_7digitalid: 3125790
+track_id: TRACMYR128F425EE37
+year: 0

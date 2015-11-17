@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 192258
+artist_familiarity: 0.632367593971
+artist_hotttnesss: 0.384327716288
+artist_id: ARA7WV51187FB532B0
+artist_latitude: 44.48721
+artist_location: Lancaster, NH
+artist_longitude: -71.56889
+artist_mbid: 0c624637-4a2c-4df0-ba80-b4ddb25bb5e5
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: GG Allin
+artist_playmeid: -1
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: d5a1ca8e55ea0ccf28848559e2215187
+bars_confidence: shape = (33,)
+bars_start: shape = (33,)
+beats_confidence: shape = (149,)
+beats_start: shape = (149,)
+danceability: 0.0
+duration: 121.70404
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.741
+loudness: -12.298
+mode: 1
+mode_confidence: 0.594
+release: Suicide Sessions / Anti-Social Personality Disorder: Live
+release_7digitalid: 253452
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (363,)
+segments_loudness_max: shape = (363,)
+segments_loudness_max_time: shape = (363,)
+segments_loudness_start: shape = (363,)
+segments_pitches: shape = (363, 12)
+segments_start: shape = (363,)
+segments_timbre: shape = (363, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.382935090075
+song_id: SODUNOD12A58A79381
+start_of_fade_out: 116.286
+tatums_confidence: shape = (446,)
+tatums_start: shape = (446,)
+tempo: 74.82
+time_signature: 4
+time_signature_confidence: 0.187
+title: I Live to Be Hated
+track_7digitalid: 2759773
+track_id: TRACBEI128F42558D3
+year: 0

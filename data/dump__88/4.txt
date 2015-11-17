@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 49992
+artist_familiarity: 0.796337059499
+artist_hotttnesss: 0.582921576451
+artist_id: ARSW5F51187FB4CFC9
+artist_latitude: nan
+artist_location: Seattle, WA
+artist_longitude: nan
+artist_mbid: 4bd95eea-b9f6-4d70-a36c-cfea77431553
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Alice In Chains
+artist_playmeid: 65
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: fb4b966f87852fb8900eded0949f1f14
+bars_confidence: shape = (91,)
+bars_start: shape = (91,)
+beats_confidence: shape = (371,)
+beats_start: shape = (371,)
+danceability: 0.0
+duration: 223.26812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.395
+loudness: -7.532
+mode: 0
+mode_confidence: 0.461
+release: Unplugged
+release_7digitalid: 483589
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (704,)
+segments_loudness_max: shape = (704,)
+segments_loudness_max_time: shape = (704,)
+segments_loudness_start: shape = (704,)
+segments_pitches: shape = (704, 12)
+segments_start: shape = (704,)
+segments_timbre: shape = (704, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.503184513572
+song_id: SOHQYKY12AB017A589
+start_of_fade_out: 217.066
+tatums_confidence: shape = (1486,)
+tatums_start: shape = (1486,)
+tempo: 100.404
+time_signature: 4
+time_signature_confidence: 1.0
+title: Would?
+track_7digitalid: 5365772
+track_id: TRBEGHL128F92F76E8
+year: 1992

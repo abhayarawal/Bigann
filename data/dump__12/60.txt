@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 304060
+artist_familiarity: 0.305466192465
+artist_hotttnesss: 0.0353079471744
+artist_id: ARQ8FR81187FB58D27
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ebcf2655-9f48-406b-9e67-d5564358ee18
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gloria De Haven
+artist_playmeid: 139164
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: d935010c961da966daeada726a51ca3c
+bars_confidence: shape = (45,)
+bars_start: shape = (45,)
+beats_confidence: shape = (183,)
+beats_start: shape = (183,)
+danceability: 0.0
+duration: 110.88934
+end_of_fade_in: 0.136
+energy: 0.0
+key: 0
+key_confidence: 0.293
+loudness: -14.088
+mode: 0
+mode_confidence: 0.372
+release: The Very Best Of
+release_7digitalid: 619838
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (382,)
+segments_loudness_max: shape = (382,)
+segments_loudness_max_time: shape = (382,)
+segments_loudness_start: shape = (382,)
+segments_pitches: shape = (382, 12)
+segments_start: shape = (382,)
+segments_timbre: shape = (382, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZECOE12AB017E615
+start_of_fade_out: 105.599
+tatums_confidence: shape = (365,)
+tatums_start: shape = (365,)
+tempo: 100.296
+time_signature: 4
+time_signature_confidence: 1.0
+title: Diamonds Are A Girl's Best Friend
+track_7digitalid: 6884604
+track_id: TRAEEOQ128F9309BC0
+year: 0

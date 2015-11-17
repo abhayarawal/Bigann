@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 178783
+artist_familiarity: 0.433877465953
+artist_hotttnesss: 0.315757199825
+artist_id: ARZRCCP11F50C5165F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f42be5c7-db04-499c-a2ca-9cd8a4f5ebad
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Los Tres Diamantes
+artist_playmeid: 20659
+artist_terms: shape = (7,)
+artist_terms_freq: shape = (7,)
+artist_terms_weight: shape = (7,)
+audio_md5: cb60b7317d07c32d7c65b3afd3559b1e
+bars_confidence: shape = (55,)
+bars_start: shape = (55,)
+beats_confidence: shape = (282,)
+beats_start: shape = (282,)
+danceability: 0.0
+duration: 175.43791
+end_of_fade_in: 0.287
+energy: 0.0
+key: 4
+key_confidence: 0.146
+loudness: -12.421
+mode: 1
+mode_confidence: 0.248
+release: Boleros In Trío
+release_7digitalid: 231930
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (658,)
+segments_loudness_max: shape = (658,)
+segments_loudness_max_time: shape = (658,)
+segments_loudness_start: shape = (658,)
+segments_pitches: shape = (658, 12)
+segments_start: shape = (658,)
+segments_timbre: shape = (658, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMVRPL12A81C20EAC
+start_of_fade_out: 166.893
+tatums_confidence: shape = (846,)
+tatums_start: shape = (846,)
+tempo: 98.082
+time_signature: 5
+time_signature_confidence: 0.44
+title: Begin The Beguine
+track_7digitalid: 2544585
+track_id: TRAGLSM128F42253BF
+year: 0

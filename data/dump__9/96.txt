@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 54581
+artist_familiarity: 0.473963333208
+artist_hotttnesss: 0.3507066599
+artist_id: AR08GQF1187B98E316
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9661a587-fdb1-461d-abde-f6280acbde6b
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Daath
+artist_playmeid: 7382
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 6f679be68604d19e457337ad4fe215ee
+bars_confidence: shape = (153,)
+bars_start: shape = (153,)
+beats_confidence: shape = (616,)
+beats_start: shape = (616,)
+danceability: 0.0
+duration: 248.81587
+end_of_fade_in: 0.102
+energy: 0.0
+key: 4
+key_confidence: 0.06
+loudness: -3.961
+mode: 0
+mode_confidence: 0.364
+release: The Hinderers
+release_7digitalid: 138009
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (995,)
+segments_loudness_max: shape = (995,)
+segments_loudness_max_time: shape = (995,)
+segments_loudness_start: shape = (995,)
+segments_pitches: shape = (995, 12)
+segments_start: shape = (995,)
+segments_timbre: shape = (995, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBTQGV12A8AE496ED
+start_of_fade_out: 248.816
+tatums_confidence: shape = (1232,)
+tatums_start: shape = (1232,)
+tempo: 150.163
+time_signature: 4
+time_signature_confidence: 0.0
+title: Above Lucium (LP Version)
+track_7digitalid: 1432650
+track_id: TRADHLD128F4241363
+year: 2006

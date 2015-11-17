@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 63390
+artist_familiarity: 0.655995345455
+artist_hotttnesss: 0.436329933866
+artist_id: ARKT5SH1187B9AE8BF
+artist_latitude: 34.09834
+artist_location: HOLLYWOOD, California
+artist_longitude: -118.32674
+artist_mbid: 355facf3-c72c-45b1-9727-8d9cc6a5ed39
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Murderdolls
+artist_playmeid: -1
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: fa06b161f0bce35e9bd9467dfe8cf3db
+bars_confidence: shape = (470,)
+bars_start: shape = (470,)
+beats_confidence: shape = (470,)
+beats_start: shape = (470,)
+danceability: 0.0
+duration: 147.51302
+end_of_fade_in: 0.09
+energy: 0.0
+key: 9
+key_confidence: 0.198
+loudness: -4.063
+mode: 1
+mode_confidence: 0.313
+release: Beyond The Valley Of The Murderdolls
+release_7digitalid: 112144
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (591,)
+segments_loudness_max: shape = (591,)
+segments_loudness_max_time: shape = (591,)
+segments_loudness_start: shape = (591,)
+segments_pitches: shape = (591, 12)
+segments_start: shape = (591,)
+segments_timbre: shape = (591, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.640779216182
+song_id: SOEEWKM12A8C13B9FF
+start_of_fade_out: 143.935
+tatums_confidence: shape = (940,)
+tatums_start: shape = (940,)
+tempo: 195.317
+time_signature: 1
+time_signature_confidence: 0.0
+title: Kill Miss America (Album Version)
+track_7digitalid: 2266960
+track_id: TRBDEKV128F426BDAF
+year: 2002

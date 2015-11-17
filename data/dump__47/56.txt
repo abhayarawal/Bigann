@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 92339
+artist_familiarity: 0.842193350021
+artist_hotttnesss: 0.550422824859
+artist_id: AR1OBRC1187FB59AD4
+artist_latitude: nan
+artist_location: POLAND
+artist_longitude: nan
+artist_mbid: 69632f9c-31eb-43d5-a864-e73ac72efc66
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Behemoth
+artist_playmeid: 54446
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: c353f5a57c526437bc8ee31f61824e15
+bars_confidence: shape = (204,)
+bars_start: shape = (204,)
+beats_confidence: shape = (820,)
+beats_start: shape = (820,)
+danceability: 0.0
+duration: 321.48853
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.593
+loudness: -4.146
+mode: 1
+mode_confidence: 0.319
+release: Satanica
+release_7digitalid: 273881
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (763,)
+segments_loudness_max: shape = (763,)
+segments_loudness_max_time: shape = (763,)
+segments_loudness_start: shape = (763,)
+segments_pitches: shape = (763, 12)
+segments_start: shape = (763,)
+segments_timbre: shape = (763, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.611050049949
+song_id: SOYPZAE12A81C1FDC3
+start_of_fade_out: 303.659
+tatums_confidence: shape = (1640,)
+tatums_start: shape = (1640,)
+tempo: 156.261
+time_signature: 4
+time_signature_confidence: 0.435
+title: Chant For Eschaton 2000
+track_7digitalid: 3068319
+track_id: TRAQEUQ128F425282E
+year: 1999

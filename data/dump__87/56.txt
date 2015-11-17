@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 106482
+artist_familiarity: 0.554548549782
+artist_hotttnesss: 0.411545813622
+artist_id: AR531IG1187FB59B35
+artist_latitude: nan
+artist_location: CANADA - Ontario
+artist_longitude: nan
+artist_mbid: b7aa3a81-01f7-4603-905f-8de902528ba9
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Back Door Slam
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 9b098dbe2271f84f9a240a0df19aa976
+bars_confidence: shape = (119,)
+bars_start: shape = (119,)
+beats_confidence: shape = (478,)
+beats_start: shape = (478,)
+danceability: 0.0
+duration: 236.87791
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.629
+loudness: -5.564
+mode: 1
+mode_confidence: 0.597
+release: Roll Away
+release_7digitalid: 555515
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (761,)
+segments_loudness_max: shape = (761,)
+segments_loudness_max_time: shape = (761,)
+segments_loudness_start: shape = (761,)
+segments_pitches: shape = (761, 12)
+segments_start: shape = (761,)
+segments_timbre: shape = (761, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.619305881115
+song_id: SOBOKGJ12A8C132819
+start_of_fade_out: 220.955
+tatums_confidence: shape = (957,)
+tatums_start: shape = (957,)
+tempo: 123.382
+time_signature: 4
+time_signature_confidence: 0.089
+title: It'll All Come Around (Album Version)
+track_7digitalid: 6141539
+track_id: TRBEBWN128F933D21F
+year: 2007

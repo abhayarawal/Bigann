@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 627
+artist_familiarity: 0.527919315771
+artist_hotttnesss: 0.358681692769
+artist_id: ARDWS2V1187B99AED0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6f5aa5a9-2a35-4ce2-bbf4-09d5542be50d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mazz
+artist_playmeid: 61447
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: f85ba22d453b9dad8acaf4cf4b0990b6
+bars_confidence: shape = (110,)
+bars_start: shape = (110,)
+beats_confidence: shape = (445,)
+beats_start: shape = (445,)
+danceability: 0.0
+duration: 251.61098
+end_of_fade_in: 0.362
+energy: 0.0
+key: 0
+key_confidence: 0.925
+loudness: -13.327
+mode: 1
+mode_confidence: 0.562
+release: 15 Exitos
+release_7digitalid: 24766
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (755,)
+segments_loudness_max: shape = (755,)
+segments_loudness_max_time: shape = (755,)
+segments_loudness_start: shape = (755,)
+segments_pitches: shape = (755, 12)
+segments_start: shape = (755,)
+segments_timbre: shape = (755, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHVKVP12A6D4F827A
+start_of_fade_out: 242.277
+tatums_confidence: shape = (891,)
+tatums_start: shape = (891,)
+tempo: 106.847
+time_signature: 4
+time_signature_confidence: 1.0
+title: Más Y Más
+track_7digitalid: 262782
+track_id: TRBFUPZ128F145DB81
+year: 0

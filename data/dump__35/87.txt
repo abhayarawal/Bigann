@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 105261
+artist_familiarity: 0.612045793506
+artist_hotttnesss: 0.342375578291
+artist_id: ARVV4Y41187B995F04
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 79c531fa-0495-46bc-99e6-cecd9de04374
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Deepest Blue
+artist_playmeid: -1
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: d6c6366a605d50e0e604c0017993d2ea
+bars_confidence: shape = (1098,)
+bars_start: shape = (1098,)
+beats_confidence: shape = (1098,)
+beats_start: shape = (1098,)
+danceability: 0.0
+duration: 514.45506
+end_of_fade_in: 1.002
+energy: 0.0
+key: 6
+key_confidence: 0.437
+loudness: -6.368
+mode: 0
+mode_confidence: 0.345
+release: Euphoria: A Decade of Trance Anthems
+release_7digitalid: 768961
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (2094,)
+segments_loudness_max: shape = (2094,)
+segments_loudness_max_time: shape = (2094,)
+segments_loudness_start: shape = (2094,)
+segments_pitches: shape = (2094, 12)
+segments_start: shape = (2094,)
+segments_timbre: shape = (2094, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.633197379188
+song_id: SOCIKSJ12AB018BEAB
+start_of_fade_out: 506.125
+tatums_confidence: shape = (2196,)
+tatums_start: shape = (2196,)
+tempo: 130.013
+time_signature: 1
+time_signature_confidence: 0.0
+title: Is It A Sin
+track_7digitalid: 8514970
+track_id: TRAMFAS12903CD7030
+year: 2004

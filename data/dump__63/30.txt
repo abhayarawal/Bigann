@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1010
+artist_familiarity: 0.748104672125
+artist_hotttnesss: 0.545975531063
+artist_id: ART4EPR1187FB38772
+artist_latitude: 52.0953
+artist_location: Great Britain / UK
+artist_longitude: 1.31388
+artist_mbid: ff95eb47-41c4-4f7f-a104-cdc30f02e872
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Eno
+artist_playmeid: 1770
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 6fd8d70cb06461237f7853a3cb6430d5
+bars_confidence: shape = (159,)
+bars_start: shape = (159,)
+beats_confidence: shape = (640,)
+beats_start: shape = (640,)
+danceability: 0.0
+duration: 316.99546
+end_of_fade_in: 0.305
+energy: 0.0
+key: 8
+key_confidence: 0.618
+loudness: -9.645
+mode: 1
+mode_confidence: 0.544
+release: Island Records Post Punk Box Set - Out Come The Freaks
+release_7digitalid: 618328
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1137,)
+segments_loudness_max: shape = (1137,)
+segments_loudness_max_time: shape = (1137,)
+segments_loudness_start: shape = (1137,)
+segments_pitches: shape = (1137, 12)
+segments_start: shape = (1137,)
+segments_timbre: shape = (1137, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SOXZMDS12A8C1354C7
+start_of_fade_out: 313.197
+tatums_confidence: shape = (1280,)
+tatums_start: shape = (1280,)
+tempo: 121.966
+time_signature: 4
+time_signature_confidence: 0.0
+title: Baby's On Fire
+track_7digitalid: 6868054
+track_id: TRAVROB128F9305B80
+year: 1973

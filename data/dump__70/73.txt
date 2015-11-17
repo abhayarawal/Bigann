@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 92108
+artist_familiarity: 0.626957723005
+artist_hotttnesss: 0.434859589343
+artist_id: AR2XRFQ1187FB417FE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a69cd724-2f57-4ed0-bfed-ba20401eb84c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Julie Zenatti
+artist_playmeid: 5772
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: c083123923cf9326b334df7963278c58
+bars_confidence: shape = (82,)
+bars_start: shape = (82,)
+beats_confidence: shape = (333,)
+beats_start: shape = (333,)
+danceability: 0.0
+duration: 211.64363
+end_of_fade_in: 0.288
+energy: 0.0
+key: 4
+key_confidence: 0.591
+loudness: -7.051
+mode: 1
+mode_confidence: 0.524
+release: Si Je M'En Sors
+release_7digitalid: 382802
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (954,)
+segments_loudness_max: shape = (954,)
+segments_loudness_max_time: shape = (954,)
+segments_loudness_start: shape = (954,)
+segments_pitches: shape = (954, 12)
+segments_start: shape = (954,)
+segments_timbre: shape = (954, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYMQBA12AAF3B5701
+start_of_fade_out: 199.163
+tatums_confidence: shape = (666,)
+tatums_start: shape = (666,)
+tempo: 94.992
+time_signature: 4
+time_signature_confidence: 0.769
+title: Si Je M'En Sors
+track_7digitalid: 4249015
+track_id: TRAYEWY128F92DEC29
+year: 2000

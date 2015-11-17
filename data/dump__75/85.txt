@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 351647
+artist_familiarity: 0.439151375441
+artist_hotttnesss: 0.299667427552
+artist_id: ARUBDNK11F50C4F28B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Vrse Murphy
+artist_playmeid: -1
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: e502de8083390d3330615bbcdd2197fa
+bars_confidence: shape = (96,)
+bars_start: shape = (96,)
+beats_confidence: shape = (386,)
+beats_start: shape = (386,)
+danceability: 0.0
+duration: 234.23955
+end_of_fade_in: 2.276
+energy: 0.0
+key: 6
+key_confidence: 0.059
+loudness: -12.123
+mode: 1
+mode_confidence: 0.415
+release: Martini Breaks
+release_7digitalid: 716926
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (722,)
+segments_loudness_max: shape = (722,)
+segments_loudness_max_time: shape = (722,)
+segments_loudness_start: shape = (722,)
+segments_pitches: shape = (722, 12)
+segments_start: shape = (722,)
+segments_timbre: shape = (722, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIPQBF12AB018C890
+start_of_fade_out: 227.91
+tatums_confidence: shape = (772,)
+tatums_start: shape = (772,)
+tempo: 99.106
+time_signature: 4
+time_signature_confidence: 1.0
+title: Wrong Decision (Instrumental)
+track_7digitalid: 7951664
+track_id: TRAZWLK12903CC49A2
+year: 0

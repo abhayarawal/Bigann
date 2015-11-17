@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 197693
+artist_familiarity: 0.0216664461737
+artist_hotttnesss: 0.0
+artist_id: ARWQGYW11F4C846BF2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Yodi's
+artist_playmeid: -1
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: c6c5ad88f717bbd2fb257b6e01222fd0
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (416,)
+beats_start: shape = (416,)
+danceability: 0.0
+duration: 300.5122
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.348
+loudness: -9.432
+mode: 0
+mode_confidence: 0.5
+release: Zèlé
+release_7digitalid: 257891
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1842,)
+segments_loudness_max: shape = (1842,)
+segments_loudness_max_time: shape = (1842,)
+segments_loudness_start: shape = (1842,)
+segments_pitches: shape = (1842, 12)
+segments_start: shape = (1842,)
+segments_timbre: shape = (1842, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIAMVN12A8C13B750
+start_of_fade_out: 285.89
+tatums_confidence: shape = (1661,)
+tatums_start: shape = (1661,)
+tempo: 84.672
+time_signature: 4
+time_signature_confidence: 1.0
+title: Zélé
+track_7digitalid: 2904430
+track_id: TRAIAWE128F427700F
+year: 0

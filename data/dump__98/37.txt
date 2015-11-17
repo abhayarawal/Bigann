@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 88418
+artist_familiarity: 0.61742140664
+artist_hotttnesss: 0.449253876948
+artist_id: AR7GOK91187FB455F5
+artist_latitude: 48.85692
+artist_location: Paris, France
+artist_longitude: 2.34121
+artist_mbid: 0b3819e6-3fa1-4a50-a84c-f2a62643185d
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Jean-Jacques Goldman
+artist_playmeid: 26966
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 64bbc4be7422dfbd8313fe1473320667
+bars_confidence: shape = (262,)
+bars_start: shape = (262,)
+beats_confidence: shape = (1069,)
+beats_start: shape = (1069,)
+danceability: 0.0
+duration: 434.49424
+end_of_fade_in: 6.728
+energy: 0.0
+key: 7
+key_confidence: 0.394
+loudness: -10.787
+mode: 1
+mode_confidence: 0.521
+release: Intégrale 81-91
+release_7digitalid: 279664
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1480,)
+segments_loudness_max: shape = (1480,)
+segments_loudness_max_time: shape = (1480,)
+segments_loudness_start: shape = (1480,)
+segments_pitches: shape = (1480, 12)
+segments_start: shape = (1480,)
+segments_timbre: shape = (1480, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOJTAUO12A8AE45CD1
+start_of_fade_out: 434.494
+tatums_confidence: shape = (2138,)
+tatums_start: shape = (2138,)
+tempo: 150.407
+time_signature: 4
+time_signature_confidence: 0.602
+title: Entre Gris Clair Et Gris Foncé (Live)
+track_7digitalid: 3115010
+track_id: TRBHUUZ128F425C46F
+year: 0

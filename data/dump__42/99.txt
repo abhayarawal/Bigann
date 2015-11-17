@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9757
+artist_familiarity: 0.789018488522
+artist_hotttnesss: 0.573554543514
+artist_id: AR5OH2Z1187B9A46A9
+artist_latitude: nan
+artist_location: Muskegon, MI
+artist_longitude: nan
+artist_mbid: f37b3f31-b1f8-4b88-8cb5-b34f709b17d7
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Iggy Pop
+artist_playmeid: 2063
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 4917fb87d9b6ba19bde5b779945c792c
+bars_confidence: shape = (145,)
+bars_start: shape = (145,)
+beats_confidence: shape = (585,)
+beats_start: shape = (585,)
+danceability: 0.0
+duration: 294.3473
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.866
+loudness: -12.66
+mode: 0
+mode_confidence: 0.643
+release: Ultimate live
+release_7digitalid: 263925
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1089,)
+segments_loudness_max: shape = (1089,)
+segments_loudness_max_time: shape = (1089,)
+segments_loudness_start: shape = (1089,)
+segments_pitches: shape = (1089, 12)
+segments_start: shape = (1089,)
+segments_timbre: shape = (1089, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAQLNO12A8C136D80
+start_of_fade_out: 294.347
+tatums_confidence: shape = (1171,)
+tatums_start: shape = (1171,)
+tempo: 119.121
+time_signature: 4
+time_signature_confidence: 0.919
+title: Lust for life (recorded during the us tour in 1986)
+track_7digitalid: 2783184
+track_id: TRAOPYV128F425B2ED
+year: 0

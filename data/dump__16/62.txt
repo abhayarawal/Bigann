@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 38824
+artist_familiarity: 0.321448433081
+artist_hotttnesss: 0.0
+artist_id: AR21JFF1187B9A5CBA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1bcef2cb-5a57-4e44-b91b-27b2925bab13
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Six Brown Brothers
+artist_playmeid: 184876
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 504a95314908907524103581866b38bd
+bars_confidence: shape = (132,)
+bars_start: shape = (132,)
+beats_confidence: shape = (531,)
+beats_start: shape = (531,)
+danceability: 0.0
+duration: 257.95873
+end_of_fade_in: 0.148
+energy: 0.0
+key: 4
+key_confidence: 0.0
+loudness: -11.401
+mode: 1
+mode_confidence: 0.0
+release: Trax Records: Acid Classics
+release_7digitalid: 377202
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1493,)
+segments_loudness_max: shape = (1493,)
+segments_loudness_max_time: shape = (1493,)
+segments_loudness_start: shape = (1493,)
+segments_pitches: shape = (1493, 12)
+segments_start: shape = (1493,)
+segments_timbre: shape = (1493, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.229144103717
+song_id: SOBQXJP12A6D4F7587
+start_of_fade_out: 244.065
+tatums_confidence: shape = (1061,)
+tatums_start: shape = (1061,)
+tempo: 124.487
+time_signature: 4
+time_signature_confidence: 1.0
+title: Battery Acid
+track_7digitalid: 4197613
+track_id: TRAFQMD128F92D4950
+year: 1988

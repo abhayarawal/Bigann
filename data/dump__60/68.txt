@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15660
+artist_familiarity: 0.588237861996
+artist_hotttnesss: 0.387186147135
+artist_id: ARPAL0H1187B990A8E
+artist_latitude: 37.97615
+artist_location: Athens, Greece
+artist_longitude: 23.73641
+artist_mbid: 09b8609a-ca39-4f34-a2f6-5b81afc2c32d
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Nana Mouskouri
+artist_playmeid: -1
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: e8bc29c8d26b4754846e0c8ccfb59d60
+bars_confidence: shape = (97,)
+bars_start: shape = (97,)
+beats_confidence: shape = (391,)
+beats_start: shape = (391,)
+danceability: 0.0
+duration: 175.12444
+end_of_fade_in: 0.398
+energy: 0.0
+key: 2
+key_confidence: 0.658
+loudness: -11.778
+mode: 1
+mode_confidence: 0.685
+release: Songs For You
+release_7digitalid: 369221
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (511,)
+segments_loudness_max: shape = (511,)
+segments_loudness_max_time: shape = (511,)
+segments_loudness_start: shape = (511,)
+segments_pitches: shape = (511, 12)
+segments_start: shape = (511,)
+segments_timbre: shape = (511, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOAGEUK12A8C137581
+start_of_fade_out: 166.29
+tatums_confidence: shape = (782,)
+tatums_start: shape = (782,)
+tempo: 137.476
+time_signature: 4
+time_signature_confidence: 0.0
+title: Only You
+track_7digitalid: 4110071
+track_id: TRAUSOM128F9337BC3
+year: 1997

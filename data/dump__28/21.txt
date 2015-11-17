@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2003
+artist_familiarity: 0.737001276892
+artist_hotttnesss: 0.504964405987
+artist_id: ARXPDRB1187B9AD0B1
+artist_latitude: 41.88415
+artist_location: Chicago, IL
+artist_longitude: -87.63241
+artist_mbid: d135874d-9cae-4fef-97e3-36acbd9f5a26
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Patti Smith
+artist_playmeid: 1238
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 280eba922b02f5bf102656c086ec8c99
+bars_confidence: shape = (228,)
+bars_start: shape = (228,)
+beats_confidence: shape = (687,)
+beats_start: shape = (687,)
+danceability: 0.0
+duration: 293.53751
+end_of_fade_in: 5.59
+energy: 0.0
+key: 2
+key_confidence: 0.157
+loudness: -12.359
+mode: 1
+mode_confidence: 0.493
+release: Gone Again
+release_7digitalid: 297093
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (777,)
+segments_loudness_max: shape = (777,)
+segments_loudness_max_time: shape = (777,)
+segments_loudness_start: shape = (777,)
+segments_pitches: shape = (777, 12)
+segments_start: shape = (777,)
+segments_timbre: shape = (777, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.73673698627
+song_id: SOQDFVR12A8C13A3EF
+start_of_fade_out: 280.892
+tatums_confidence: shape = (1374,)
+tatums_start: shape = (1374,)
+tempo: 146.454
+time_signature: 3
+time_signature_confidence: 0.96
+title: Wing
+track_7digitalid: 3333797
+track_id: TRAJLOR128F428CCC9
+year: 1996

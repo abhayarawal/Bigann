@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 34729
+artist_familiarity: 0.51874395858
+artist_hotttnesss: 0.341288723301
+artist_id: ARY4M3J1187B9AC94C
+artist_latitude: 53.79449
+artist_location: Leeds
+artist_longitude: -1.54658
+artist_mbid: 95f9b1a1-dc0c-4440-9cd3-225aaba246ee
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: John Sebastian
+artist_playmeid: 7340
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 17c283b300331f472e60de375e722def
+bars_confidence: shape = (304,)
+bars_start: shape = (304,)
+beats_confidence: shape = (304,)
+beats_start: shape = (304,)
+danceability: 0.0
+duration: 170.762
+end_of_fade_in: 0.295
+energy: 0.0
+key: 10
+key_confidence: 0.213
+loudness: -23.086
+mode: 1
+mode_confidence: 0.331
+release: Rhino Hi-Five: John Sebastian
+release_7digitalid: 46706
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (506,)
+segments_loudness_max: shape = (506,)
+segments_loudness_max_time: shape = (506,)
+segments_loudness_start: shape = (506,)
+segments_pitches: shape = (506, 12)
+segments_start: shape = (506,)
+segments_timbre: shape = (506, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.405115721691
+song_id: SOSBDCE12A6D4FA0B6
+start_of_fade_out: 161.547
+tatums_confidence: shape = (609,)
+tatums_start: shape = (609,)
+tempo: 112.4
+time_signature: 1
+time_signature_confidence: 0.0
+title: You're A Big Boy Now (Album Version)
+track_7digitalid: 499077
+track_id: TRBECBY128F148B6F3
+year: 0

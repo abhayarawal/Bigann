@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10173
+artist_familiarity: 0.87253659867
+artist_hotttnesss: 0.610731462904
+artist_id: AR12F2S1187FB56EEF
+artist_latitude: nan
+artist_location: Boston, MA
+artist_longitude: nan
+artist_mbid: 3d2b98e5-556f-4451-a3ff-c50ea18d57cb
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Aerosmith
+artist_playmeid: 39
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 448152af7b44cc6fabadcd6da362bb59
+bars_confidence: shape = (156,)
+bars_start: shape = (156,)
+beats_confidence: shape = (627,)
+beats_start: shape = (627,)
+danceability: 0.0
+duration: 329.69098
+end_of_fade_in: 0.351
+energy: 0.0
+key: 5
+key_confidence: 0.057
+loudness: -6.658
+mode: 0
+mode_confidence: 0.246
+release: Big Ones
+release_7digitalid: 14327
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (987,)
+segments_loudness_max: shape = (987,)
+segments_loudness_max_time: shape = (987,)
+segments_loudness_start: shape = (987,)
+segments_pitches: shape = (987, 12)
+segments_start: shape = (987,)
+segments_timbre: shape = (987, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.730949906097
+song_id: SOZNZIN12A6701E95F
+start_of_fade_out: 309.992
+tatums_confidence: shape = (1255,)
+tatums_start: shape = (1255,)
+tempo: 115.106
+time_signature: 4
+time_signature_confidence: 0.318
+title: Janie's Got A Gun
+track_7digitalid: 148324
+track_id: TRBARHH128E078EDE9
+year: 1989

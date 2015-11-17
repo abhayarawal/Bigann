@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 35927
+artist_familiarity: 0.765141417908
+artist_hotttnesss: 0.471493226676
+artist_id: ARO5P0H1187FB5BAD7
+artist_latitude: nan
+artist_location: Kona, HI
+artist_longitude: nan
+artist_mbid: 04f8dad4-de2d-4e98-8837-6a55075a9847
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pepper
+artist_playmeid: 37294
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 6d5762297893fe7ccd601de15e728576
+bars_confidence: shape = (247,)
+bars_start: shape = (247,)
+beats_confidence: shape = (743,)
+beats_start: shape = (743,)
+danceability: 0.0
+duration: 204.5122
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.517
+loudness: -5.286
+mode: 0
+mode_confidence: 0.525
+release: Pink Crustaceans and  Good Vibrations
+release_7digitalid: 667208
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (792,)
+segments_loudness_max: shape = (792,)
+segments_loudness_max_time: shape = (792,)
+segments_loudness_start: shape = (792,)
+segments_pitches: shape = (792, 12)
+segments_start: shape = (792,)
+segments_timbre: shape = (792, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.54078600864
+song_id: SOTOHAH12AAF3B51FC
+start_of_fade_out: 202.176
+tatums_confidence: shape = (743,)
+tatums_start: shape = (743,)
+tempo: 220.104
+time_signature: 3
+time_signature_confidence: 1.0
+title: Freeze
+track_7digitalid: 7396100
+track_id: TRADHXU12903CB4400
+year: 2008

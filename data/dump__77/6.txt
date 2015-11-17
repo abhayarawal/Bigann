@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5855
+artist_familiarity: 0.632242851126
+artist_hotttnesss: 0.453435791193
+artist_id: ARC6UC81187B989062
+artist_latitude: 40.71455
+artist_location: NY - New York City
+artist_longitude: -74.00712
+artist_mbid: 232bb885-d7c6-4463-a694-0830ae3300bc
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Hem
+artist_playmeid: -1
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 77e293d3a71532104aaf444371ff3f70
+bars_confidence: shape = (27,)
+bars_start: shape = (27,)
+beats_confidence: shape = (139,)
+beats_start: shape = (139,)
+danceability: 0.0
+duration: 71.05261
+end_of_fade_in: 0.33
+energy: 0.0
+key: 9
+key_confidence: 0.437
+loudness: -21.694
+mode: 1
+mode_confidence: 0.5
+release: Rabbit Songs
+release_7digitalid: 284966
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (186,)
+segments_loudness_max: shape = (186,)
+segments_loudness_max_time: shape = (186,)
+segments_loudness_start: shape = (186,)
+segments_pitches: shape = (186, 12)
+segments_start: shape = (186,)
+segments_timbre: shape = (186, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.532482707508
+song_id: SOJNARC12A8C131B70
+start_of_fade_out: 71.053
+tatums_confidence: shape = (279,)
+tatums_start: shape = (279,)
+tempo: 123.018
+time_signature: 5
+time_signature_confidence: 0.065
+title: Polly's Dress
+track_7digitalid: 3181519
+track_id: TRBAHNM128F426895A
+year: 2000

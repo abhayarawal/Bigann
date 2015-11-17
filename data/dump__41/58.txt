@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 390566
+artist_familiarity: 0.641766664707
+artist_hotttnesss: 0.387243574628
+artist_id: AR7FN5Y1187B99B248
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a111c7e6-bbb7-43bc-a2dd-f0aee3a592c1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: J.R. Writer_ Jha Jha
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 4c56ba98e0e3767180be821ff80d9666
+bars_confidence: shape = (91,)
+bars_start: shape = (91,)
+beats_confidence: shape = (367,)
+beats_start: shape = (367,)
+danceability: 0.0
+duration: 145.10975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.562
+loudness: -9.146
+mode: 0
+mode_confidence: 0.447
+release: Jim Jones Presents M.O.B. (Members Of Byrdgang)
+release_7digitalid: 530201
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (680,)
+segments_loudness_max: shape = (680,)
+segments_loudness_max_time: shape = (680,)
+segments_loudness_start: shape = (680,)
+segments_pitches: shape = (680, 12)
+segments_start: shape = (680,)
+segments_timbre: shape = (680, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOMAWEN12A6D4FC37F
+start_of_fade_out: 140.005
+tatums_confidence: shape = (734,)
+tatums_start: shape = (734,)
+tempo: 151.936
+time_signature: 4
+time_signature_confidence: 0.679
+title: What It Do
+track_7digitalid: 5858221
+track_id: TRAOBZB128F92F89A8
+year: 0

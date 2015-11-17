@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 162511
+artist_familiarity: 0.398678644826
+artist_hotttnesss: 0.236566812771
+artist_id: AR4I72F1187B9A0D85
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cbd24fc2-9d44-48d7-ad14-c70aa942b5c6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Suzi Quatro
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: e77fee222e502c69c803b65df73defcd
+bars_confidence: shape = (623,)
+bars_start: shape = (623,)
+beats_confidence: shape = (623,)
+beats_start: shape = (623,)
+danceability: 0.0
+duration: 175.35955
+end_of_fade_in: 0.31
+energy: 0.0
+key: 9
+key_confidence: 0.37
+loudness: -13.526
+mode: 0
+mode_confidence: 0.438
+release: The Gold Collection
+release_7digitalid: 28503
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (902,)
+segments_loudness_max: shape = (902,)
+segments_loudness_max_time: shape = (902,)
+segments_loudness_start: shape = (902,)
+segments_pitches: shape = (902, 12)
+segments_start: shape = (902,)
+segments_timbre: shape = (902, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMZKMJ12AB017F236
+start_of_fade_out: 171.624
+tatums_confidence: shape = (1246,)
+tatums_start: shape = (1246,)
+tempo: 217.327
+time_signature: 1
+time_signature_confidence: 0.0
+title: Don't Break My Heart
+track_7digitalid: 4271927
+track_id: TRAXGIT128F92E3C04
+year: 0

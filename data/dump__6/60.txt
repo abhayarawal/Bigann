@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 516781
+artist_familiarity: 0.435889847088
+artist_hotttnesss: 0.268037839631
+artist_id: ARKPDBH1242077DEB1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Murskahumppa
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 9e5d9d0b877e601b625ab6944879d4c4
+bars_confidence: shape = (317,)
+bars_start: shape = (317,)
+beats_confidence: shape = (317,)
+beats_start: shape = (317,)
+danceability: 0.0
+duration: 145.76281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.846
+loudness: -8.189
+mode: 1
+mode_confidence: 0.629
+release: Poikamies (2009)
+release_7digitalid: 695138
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (361,)
+segments_loudness_max: shape = (361,)
+segments_loudness_max_time: shape = (361,)
+segments_loudness_start: shape = (361,)
+segments_pitches: shape = (361, 12)
+segments_start: shape = (361,)
+segments_timbre: shape = (361, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONTUMS12AC468A9AA
+start_of_fade_out: 143.267
+tatums_confidence: shape = (634,)
+tatums_start: shape = (634,)
+tempo: 130.756
+time_signature: 1
+time_signature_confidence: 0.0
+title: Poikamies (2009)
+track_7digitalid: 7716989
+track_id: TRACDZL12903D024D2
+year: 0

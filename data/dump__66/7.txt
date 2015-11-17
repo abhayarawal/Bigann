@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13626
+artist_familiarity: 0.793094370082
+artist_hotttnesss: 0.568491815445
+artist_id: ARD2NDU1187B99B615
+artist_latitude: nan
+artist_location: Boston, MA
+artist_longitude: nan
+artist_mbid: e8374874-4178-4869-b92e-fef6bf30dc04
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Dropkick Murphys
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 623a8373cb79b52d613c87a2421f0f78
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (407,)
+beats_start: shape = (407,)
+danceability: 0.0
+duration: 175.96036
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.485
+loudness: -1.983
+mode: 1
+mode_confidence: 0.588
+release: The Warrior's Code
+release_7digitalid: 204336
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (648,)
+segments_loudness_max: shape = (648,)
+segments_loudness_max_time: shape = (648,)
+segments_loudness_start: shape = (648,)
+segments_pitches: shape = (648, 12)
+segments_start: shape = (648,)
+segments_timbre: shape = (648, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.651569825506
+song_id: SOHMWZN12A8C13C088
+start_of_fade_out: 172.542
+tatums_confidence: shape = (814,)
+tatums_start: shape = (814,)
+tempo: 140.618
+time_signature: 4
+time_signature_confidence: 0.0
+title: The Burden (Album Version)
+track_7digitalid: 4019086
+track_id: TRAWOBG128F93256C6
+year: 2005

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 101368
+artist_familiarity: 0.591680359525
+artist_hotttnesss: 0.372951042602
+artist_id: ARDD5NR1187B9B61F9
+artist_latitude: nan
+artist_location: Los Angeles CA
+artist_longitude: nan
+artist_mbid: 50d2e0d5-c9c2-43be-b9db-209c58f75e95
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Maria Bamford
+artist_playmeid: 44142
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 4a05fd91655367e7dcd443d8f4f6731a
+bars_confidence: shape = (32,)
+bars_start: shape = (32,)
+beats_confidence: shape = (248,)
+beats_start: shape = (248,)
+danceability: 0.0
+duration: 127.16363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.398
+loudness: -10.377
+mode: 0
+mode_confidence: 0.412
+release: The Burning Bridges Tour
+release_7digitalid: 191051
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (515,)
+segments_loudness_max: shape = (515,)
+segments_loudness_max_time: shape = (515,)
+segments_loudness_start: shape = (515,)
+segments_pitches: shape = (515, 12)
+segments_start: shape = (515,)
+segments_timbre: shape = (515, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.480934212809
+song_id: SOFOSKB12A8C1328B6
+start_of_fade_out: 124.598
+tatums_confidence: shape = (496,)
+tatums_start: shape = (496,)
+tempo: 114.597
+time_signature: 7
+time_signature_confidence: 0.893
+title: Vennette
+track_7digitalid: 2076990
+track_id: TRAITHF128F423FDFE
+year: 2003

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 487514
+artist_familiarity: 0.277900040196
+artist_hotttnesss: 0.116156134208
+artist_id: ARRESZG1187B9A3FBF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 46022fdf-856f-4419-8590-44374b715864
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Les Hou-Lops
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: b27c940e08510fd457966ffff6c1268a
+bars_confidence: shape = (62,)
+bars_start: shape = (62,)
+beats_confidence: shape = (191,)
+beats_start: shape = (191,)
+danceability: 0.0
+duration: 120.08444
+end_of_fade_in: 0.16
+energy: 0.0
+key: 0
+key_confidence: 0.347
+loudness: -7.03
+mode: 0
+mode_confidence: 0.36
+release: Tout ira très bien
+release_7digitalid: 654064
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (351,)
+segments_loudness_max: shape = (351,)
+segments_loudness_max_time: shape = (351,)
+segments_loudness_start: shape = (351,)
+segments_pitches: shape = (351, 12)
+segments_start: shape = (351,)
+segments_timbre: shape = (351, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORGFFI12AB018970E
+start_of_fade_out: 114.469
+tatums_confidence: shape = (383,)
+tatums_start: shape = (383,)
+tempo: 96.177
+time_signature: 3
+time_signature_confidence: 1.0
+title: Fauché
+track_7digitalid: 7247028
+track_id: TRBCFIY128F9361E08
+year: 0

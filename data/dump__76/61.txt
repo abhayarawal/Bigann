@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 164936
+artist_familiarity: 0.498230071939
+artist_hotttnesss: 0.288726536783
+artist_id: ARZLCTV1241B9C4D46
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Claire Elzière
+artist_playmeid: -1
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: 151765ae32a71cefa5ac564ad170401c
+bars_confidence: shape = (94,)
+bars_start: shape = (94,)
+beats_confidence: shape = (382,)
+beats_start: shape = (382,)
+danceability: 0.0
+duration: 235.54567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.423
+loudness: -17.471
+mode: 1
+mode_confidence: 0.627
+release: La vie va si vite (Live)
+release_7digitalid: 804889
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (768,)
+segments_loudness_max: shape = (768,)
+segments_loudness_max_time: shape = (768,)
+segments_loudness_start: shape = (768,)
+segments_pitches: shape = (768, 12)
+segments_start: shape = (768,)
+segments_timbre: shape = (768, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVQMDQ12A8C13F034
+start_of_fade_out: 230.087
+tatums_confidence: shape = (763,)
+tatums_start: shape = (763,)
+tempo: 97.671
+time_signature: 4
+time_signature_confidence: 0.331
+title: Il fait déjà (Live)
+track_7digitalid: 8897439
+track_id: TRBADSX12903CC0660
+year: 0

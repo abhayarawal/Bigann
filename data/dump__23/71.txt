@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 125706
+artist_familiarity: 0.49544592177
+artist_hotttnesss: 0.294861261887
+artist_id: ARDD1RC1187B9B52B4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5665cefe-8f12-4328-b66b-2f62644be484
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Jacob Young
+artist_playmeid: -1
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: b1a7bcbc2e1bb547ffac61e376e80bd2
+bars_confidence: shape = (69,)
+bars_start: shape = (69,)
+beats_confidence: shape = (430,)
+beats_start: shape = (430,)
+danceability: 0.0
+duration: 335.93424
+end_of_fade_in: 0.345
+energy: 0.0
+key: 5
+key_confidence: 0.275
+loudness: -21.498
+mode: 1
+mode_confidence: 0.277
+release: This Is You
+release_7digitalid: 735329
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1373,)
+segments_loudness_max: shape = (1373,)
+segments_loudness_max_time: shape = (1373,)
+segments_loudness_start: shape = (1373,)
+segments_pitches: shape = (1373, 12)
+segments_start: shape = (1373,)
+segments_timbre: shape = (1373, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOBABBA12AC468ADD9
+start_of_fade_out: 327.819
+tatums_confidence: shape = (1289,)
+tatums_start: shape = (1289,)
+tempo: 77.635
+time_signature: 5
+time_signature_confidence: 0.672
+title: Print
+track_7digitalid: 8146144
+track_id: TRAHZOF12903CF3F75
+year: 0

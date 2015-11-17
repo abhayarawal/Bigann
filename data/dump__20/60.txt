@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21344
+artist_familiarity: 0.618765785486
+artist_hotttnesss: 0.409134868797
+artist_id: ARJDMBO1187B9AD118
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 74dca2c7-d7dc-4b13-bd17-502a35db042a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Johnny Osbourne
+artist_playmeid: 34193
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 2c357fd6376c7dbeac69651439745e02
+bars_confidence: shape = (112,)
+bars_start: shape = (112,)
+beats_confidence: shape = (452,)
+beats_start: shape = (452,)
+danceability: 0.0
+duration: 200.41098
+end_of_fade_in: 0.223
+energy: 0.0
+key: 6
+key_confidence: 0.198
+loudness: -7.454
+mode: 0
+mode_confidence: 0.333
+release: Nightfall Showcase
+release_7digitalid: 773676
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (654,)
+segments_loudness_max: shape = (654,)
+segments_loudness_max_time: shape = (654,)
+segments_loudness_start: shape = (654,)
+segments_pitches: shape = (654, 12)
+segments_start: shape = (654,)
+segments_timbre: shape = (654, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOWHCQG12AB0187E19
+start_of_fade_out: 200.411
+tatums_confidence: shape = (904,)
+tatums_start: shape = (904,)
+tempo: 135.537
+time_signature: 4
+time_signature_confidence: 0.961
+title: Come ALong
+track_7digitalid: 8562161
+track_id: TRAGZIJ12903CE27E4
+year: 0

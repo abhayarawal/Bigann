@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 378791
+artist_familiarity: 0.457533300221
+artist_hotttnesss: 0.415353710595
+artist_id: ARHLYXD11F50C4B49E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bruisers
+artist_playmeid: 176083
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: f9453e01a6e6c76003ba82b090c64298
+bars_confidence: shape = (49,)
+bars_start: shape = (49,)
+beats_confidence: shape = (198,)
+beats_start: shape = (198,)
+danceability: 0.0
+duration: 103.75791
+end_of_fade_in: 0.125
+energy: 0.0
+key: 2
+key_confidence: 0.336
+loudness: -10.352
+mode: 1
+mode_confidence: 0.537
+release: The Singles Collection
+release_7digitalid: 511379
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (357,)
+segments_loudness_max: shape = (357,)
+segments_loudness_max_time: shape = (357,)
+segments_loudness_start: shape = (357,)
+segments_pitches: shape = (357, 12)
+segments_start: shape = (357,)
+segments_timbre: shape = (357, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.49783321457
+song_id: SOPGPJM12AB0186FFA
+start_of_fade_out: 95.869
+tatums_confidence: shape = (395,)
+tatums_start: shape = (395,)
+tempo: 114.61
+time_signature: 4
+time_signature_confidence: 0.716
+title: Never Fall
+track_7digitalid: 5657828
+track_id: TRAKQNK128F933D92A
+year: 0

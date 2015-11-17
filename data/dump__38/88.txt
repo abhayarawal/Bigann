@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 253546
+artist_familiarity: 0.889749219647
+artist_hotttnesss: 0.922412443366
+artist_id: ARS54I31187FB46721
+artist_latitude: nan
+artist_location: Wyomissing, PA
+artist_longitude: nan
+artist_mbid: 20244d07-534f-4eff-b4d4-930878889970
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Taylor Swift
+artist_playmeid: 5232
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 76162b221d6a72a4b2eb8aad4ce557b9
+bars_confidence: shape = (155,)
+bars_start: shape = (155,)
+beats_confidence: shape = (624,)
+beats_start: shape = (624,)
+danceability: 0.0
+duration: 245.36771
+end_of_fade_in: 2.101
+energy: 0.0
+key: 5
+key_confidence: 0.989
+loudness: -4.536
+mode: 1
+mode_confidence: 0.676
+release: Fearless
+release_7digitalid: 382330
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (698,)
+segments_loudness_max: shape = (698,)
+segments_loudness_max_time: shape = (698,)
+segments_loudness_start: shape = (698,)
+segments_pitches: shape = (698, 12)
+segments_start: shape = (698,)
+segments_timbre: shape = (698, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.853828892799
+song_id: SOTNWCI12AAF3B2028
+start_of_fade_out: 234.185
+tatums_confidence: shape = (1248,)
+tatums_start: shape = (1248,)
+tempo: 160.786
+time_signature: 4
+time_signature_confidence: 0.335
+title: The Way I Loved You
+track_7digitalid: 4243063
+track_id: TRANHYE128F92DE232
+year: 2008

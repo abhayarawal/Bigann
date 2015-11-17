@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 272362
+artist_familiarity: 0.420364463246
+artist_hotttnesss: 0.336219532561
+artist_id: AR2KPDL1187B9A6BD8
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9a6761de-e96b-40b5-ad55-9d5379de5df0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Andre Popp
+artist_playmeid: -1
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 5a204219e218c3a60cb7f3f99a5d77a2
+bars_confidence: shape = (375,)
+bars_start: shape = (375,)
+beats_confidence: shape = (375,)
+beats_start: shape = (375,)
+danceability: 0.0
+duration: 220.94322
+end_of_fade_in: 0.32
+energy: 0.0
+key: 5
+key_confidence: 0.778
+loudness: -8.493
+mode: 1
+mode_confidence: 0.739
+release: 20 Éxitos Instrumentales De Oro Vol. 2
+release_7digitalid: 233540
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (670,)
+segments_loudness_max: shape = (670,)
+segments_loudness_max_time: shape = (670,)
+segments_loudness_start: shape = (670,)
+segments_pitches: shape = (670, 12)
+segments_start: shape = (670,)
+segments_timbre: shape = (670, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWDNTQ12A8AE47078
+start_of_fade_out: 215.917
+tatums_confidence: shape = (749,)
+tatums_start: shape = (749,)
+tempo: 103.77
+time_signature: 1
+time_signature_confidence: 0.0
+title: Fernando
+track_7digitalid: 2562036
+track_id: TRACULH128F42287AB
+year: 0

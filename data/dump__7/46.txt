@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2179
+artist_familiarity: 0.586304844629
+artist_hotttnesss: 0.414578836544
+artist_id: AR3DYAD1187FB3964E
+artist_latitude: 36.20201
+artist_location: Luttrell, TN
+artist_longitude: -83.74416
+artist_mbid: 5810667a-9db6-4fd0-abac-667cdac5d415
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Chet Atkins
+artist_playmeid: 10168
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 84330e35c4a6bf91525586ee90e6440a
+bars_confidence: shape = (279,)
+bars_start: shape = (279,)
+beats_confidence: shape = (279,)
+beats_start: shape = (279,)
+danceability: 0.0
+duration: 173.68771
+end_of_fade_in: 0.165
+energy: 0.0
+key: 5
+key_confidence: 0.813
+loudness: -11.851
+mode: 1
+mode_confidence: 0.708
+release: The Early Years_ CD C: 1952-1954
+release_7digitalid: 127491
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (567,)
+segments_loudness_max: shape = (567,)
+segments_loudness_max_time: shape = (567,)
+segments_loudness_start: shape = (567,)
+segments_pitches: shape = (567, 12)
+segments_start: shape = (567,)
+segments_timbre: shape = (567, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHGYDF12A6D4FCD5E
+start_of_fade_out: 166.69
+tatums_confidence: shape = (558,)
+tatums_start: shape = (558,)
+tempo: 98.117
+time_signature: 1
+time_signature_confidence: 0.109
+title: Get Up & Go
+track_7digitalid: 1317270
+track_id: TRACLUJ128F422DDA1
+year: 0

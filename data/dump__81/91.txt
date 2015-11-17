@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 243633
+artist_familiarity: 0.593119272103
+artist_hotttnesss: 0.373000739576
+artist_id: ARZHUJU1187FB51176
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: dc9fe516-b40e-4c39-84a8-584edc0b9742
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Leigh Jones
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 32a78ec6cc31fb4ba9abf69dbf2ee499
+bars_confidence: shape = (113,)
+bars_start: shape = (113,)
+beats_confidence: shape = (344,)
+beats_start: shape = (344,)
+danceability: 0.0
+duration: 200.51546
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.493
+loudness: -7.076
+mode: 0
+mode_confidence: 0.445
+release: Music in My Soul
+release_7digitalid: 314435
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (667,)
+segments_loudness_max: shape = (667,)
+segments_loudness_max_time: shape = (667,)
+segments_loudness_start: shape = (667,)
+segments_pitches: shape = (667, 12)
+segments_start: shape = (667,)
+segments_timbre: shape = (667, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQCJNI12A8C142188
+start_of_fade_out: 193.434
+tatums_confidence: shape = (687,)
+tatums_start: shape = (687,)
+tempo: 103.465
+time_signature: 3
+time_signature_confidence: 1.0
+title: Same Game
+track_7digitalid: 3557849
+track_id: TRBCBMO128F92C77B9
+year: 2008

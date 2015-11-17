@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5897
+artist_familiarity: 0.643982591493
+artist_hotttnesss: 0.406626217422
+artist_id: ARM4J201187B9B8B3B
+artist_latitude: -34.60852
+artist_location: Buenos Aires, Argentina
+artist_longitude: -58.37354
+artist_mbid: 3abc3eb1-7318-41d2-a52b-cbe14a14d8a0
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Gustavo Santaolalla
+artist_playmeid: 6012
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: f9c7dcad2472db5aa1c03d2fb43ea1cd
+bars_confidence: shape = (717,)
+bars_start: shape = (717,)
+beats_confidence: shape = (717,)
+beats_start: shape = (717,)
+danceability: 0.0
+duration: 276.21832
+end_of_fade_in: 4.644
+energy: 0.0
+key: 4
+key_confidence: 0.623
+loudness: -21.463
+mode: 0
+mode_confidence: 0.404
+release: Festival de Cannes
+release_7digitalid: 594661
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1124,)
+segments_loudness_max: shape = (1124,)
+segments_loudness_max_time: shape = (1124,)
+segments_loudness_start: shape = (1124,)
+segments_pitches: shape = (1124, 12)
+segments_start: shape = (1124,)
+segments_timbre: shape = (1124, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SODBXDN12AB018194E
+start_of_fade_out: 261.352
+tatums_confidence: shape = (1435,)
+tatums_start: shape = (1435,)
+tempo: 156.446
+time_signature: 1
+time_signature_confidence: 0.0
+title: Endless Flight
+track_7digitalid: 6597074
+track_id: TRANQKF12903CDEC7A
+year: 0

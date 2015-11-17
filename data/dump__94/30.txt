@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 108554
+artist_familiarity: 0.487445647927
+artist_hotttnesss: 0.383140731021
+artist_id: ARYV1OT1187B9B4C8E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2d67f7f4-1e85-4278-bac6-424e6204a8b9
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Commander Cody And His Lost Planet Airmen
+artist_playmeid: 38963
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: dd532c1d1ffeec7337e198f983b34a24
+bars_confidence: shape = (434,)
+bars_start: shape = (434,)
+beats_confidence: shape = (434,)
+beats_start: shape = (434,)
+danceability: 0.0
+duration: 161.88036
+end_of_fade_in: 0.194
+energy: 0.0
+key: 2
+key_confidence: 0.859
+loudness: -3.471
+mode: 1
+mode_confidence: 0.767
+release: Tales From The Ozone
+release_7digitalid: 34539
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (720,)
+segments_loudness_max: shape = (720,)
+segments_loudness_max_time: shape = (720,)
+segments_loudness_start: shape = (720,)
+segments_pitches: shape = (720, 12)
+segments_start: shape = (720,)
+segments_timbre: shape = (720, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SONDXDP12A6D4F866C
+start_of_fade_out: 156.462
+tatums_confidence: shape = (868,)
+tatums_start: shape = (868,)
+tempo: 166.531
+time_signature: 1
+time_signature_confidence: 0.0
+title: Cajun Baby (LP Version)
+track_7digitalid: 369818
+track_id: TRBGNGY128F14738B8
+year: 1975

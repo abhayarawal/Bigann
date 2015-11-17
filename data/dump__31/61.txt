@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10558
+artist_familiarity: 0.54191773701
+artist_hotttnesss: 0.404157671026
+artist_id: ART1R9I1187B9B3324
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ed20b805-2e45-4ccb-838d-56cfb3947a4c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Margaret Becker
+artist_playmeid: 61414
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 1362a1dc80958f10700ac7382561f609
+bars_confidence: shape = (130,)
+bars_start: shape = (130,)
+beats_confidence: shape = (527,)
+beats_start: shape = (527,)
+danceability: 0.0
+duration: 260.75383
+end_of_fade_in: 0.603
+energy: 0.0
+key: 0
+key_confidence: 0.452
+loudness: -7.329
+mode: 1
+mode_confidence: 0.675
+release: Falling Forward
+release_7digitalid: 153376
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1000,)
+segments_loudness_max: shape = (1000,)
+segments_loudness_max_time: shape = (1000,)
+segments_loudness_start: shape = (1000,)
+segments_pitches: shape = (1000, 12)
+segments_start: shape = (1000,)
+segments_timbre: shape = (1000, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3759843015
+song_id: SOCRJDM12A8C139311
+start_of_fade_out: 246.718
+tatums_confidence: shape = (1052,)
+tatums_start: shape = (1052,)
+tempo: 121.147
+time_signature: 4
+time_signature_confidence: 0.884
+title: Cave It In
+track_7digitalid: 1605252
+track_id: TRAKRXN128F42670BE
+year: 0

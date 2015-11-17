@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 26993
+artist_familiarity: 0.395013463912
+artist_hotttnesss: 0.306804126114
+artist_id: ARKYRYH11F4C84282E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Orquesta Harlow
+artist_playmeid: 212576
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: d2a2212dac3f2f6917e8a381392dd4d0
+bars_confidence: shape = (142,)
+bars_start: shape = (142,)
+beats_confidence: shape = (573,)
+beats_start: shape = (573,)
+danceability: 0.0
+duration: 281.59955
+end_of_fade_in: 0.156
+energy: 0.0
+key: 9
+key_confidence: 0.627
+loudness: -9.076
+mode: 0
+mode_confidence: 0.587
+release: Tribute To Arsenio Rodriguez
+release_7digitalid: 782426
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1053,)
+segments_loudness_max: shape = (1053,)
+segments_loudness_max_time: shape = (1053,)
+segments_loudness_start: shape = (1053,)
+segments_pitches: shape = (1053, 12)
+segments_start: shape = (1053,)
+segments_timbre: shape = (1053, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIHCDS12AC4687731
+start_of_fade_out: 276.468
+tatums_confidence: shape = (1146,)
+tatums_start: shape = (1146,)
+tempo: 124.001
+time_signature: 4
+time_signature_confidence: 0.0
+title: El Terror
+track_7digitalid: 8653636
+track_id: TRANCEY12903CF8C34
+year: 0

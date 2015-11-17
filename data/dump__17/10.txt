@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18214
+artist_familiarity: 0.386291901042
+artist_hotttnesss: 0.367639870555
+artist_id: ARPPURC1187B990FB7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 642e61c8-878c-4a7c-84e2-2a8a384a8f8e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bert Kaempfert And His Orchestra
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: b8d43961f77cf8a3e93042c04815e028
+bars_confidence: shape = (306,)
+bars_start: shape = (306,)
+beats_confidence: shape = (306,)
+beats_start: shape = (306,)
+danceability: 0.0
+duration: 165.61587
+end_of_fade_in: 3.181
+energy: 0.0
+key: 4
+key_confidence: 0.515
+loudness: -12.831
+mode: 1
+mode_confidence: 0.448
+release: Love Letters
+release_7digitalid: 47330
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (459,)
+segments_loudness_max: shape = (459,)
+segments_loudness_max_time: shape = (459,)
+segments_loudness_start: shape = (459,)
+segments_pitches: shape = (459, 12)
+segments_start: shape = (459,)
+segments_timbre: shape = (459, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBNOBG12A6D4FB54B
+start_of_fade_out: 154.633
+tatums_confidence: shape = (613,)
+tatums_start: shape = (613,)
+tempo: 111.868
+time_signature: 1
+time_signature_confidence: 0.0
+title: Let's Go Home
+track_7digitalid: 507351
+track_id: TRAFUXV128F148C901
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7516
+artist_familiarity: 0.830884642148
+artist_hotttnesss: 0.776167742324
+artist_id: AR633SY1187B9AC3B9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6fe07aa5-fec0-4eca-a456-f29bff451b04
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Weezer
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 3612ffaf69987f74cfa9304529f67025
+bars_confidence: shape = (115,)
+bars_start: shape = (115,)
+beats_confidence: shape = (464,)
+beats_start: shape = (464,)
+danceability: 0.0
+duration: 228.44036
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.519
+loudness: -10.571
+mode: 1
+mode_confidence: 0.508
+release: Raditude
+release_7digitalid: 623488
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (732,)
+segments_loudness_max: shape = (732,)
+segments_loudness_max_time: shape = (732,)
+segments_loudness_start: shape = (732,)
+segments_pitches: shape = (732, 12)
+segments_start: shape = (732,)
+segments_timbre: shape = (732, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.756267390366
+song_id: SOIOAIN12A58A7A9A5
+start_of_fade_out: 218.674
+tatums_confidence: shape = (928,)
+tatums_start: shape = (928,)
+tempo: 122.852
+time_signature: 4
+time_signature_confidence: 1.0
+title: I Don't Want To Let You Go
+track_7digitalid: 6921504
+track_id: TRATBVA128F9312ACC
+year: 2009

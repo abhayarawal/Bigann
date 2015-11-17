@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5827
+artist_familiarity: 0.797420740747
+artist_hotttnesss: 0.536400010793
+artist_id: ARUKN9H1187B9B71C8
+artist_latitude: nan
+artist_location: Atlanta, GA
+artist_longitude: nan
+artist_mbid: 02ceff75-7363-493e-a78d-912dc86c7460
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: The Black Crowes
+artist_playmeid: 6981
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 99b701b719186e636314bbaf407513e5
+bars_confidence: shape = (170,)
+bars_start: shape = (170,)
+beats_confidence: shape = (684,)
+beats_start: shape = (684,)
+danceability: 0.0
+duration: 256.20853
+end_of_fade_in: 3.1
+energy: 0.0
+key: 5
+key_confidence: 0.561
+loudness: -8.311
+mode: 0
+mode_confidence: 0.446
+release: Amorica
+release_7digitalid: 479327
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (870,)
+segments_loudness_max: shape = (870,)
+segments_loudness_max_time: shape = (870,)
+segments_loudness_start: shape = (870,)
+segments_pitches: shape = (870, 12)
+segments_start: shape = (870,)
+segments_timbre: shape = (870, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.755899157555
+song_id: SOTWIIY12A6D4F8837
+start_of_fade_out: 247.025
+tatums_confidence: shape = (1367,)
+tatums_start: shape = (1367,)
+tempo: 163.204
+time_signature: 4
+time_signature_confidence: 0.0
+title: Nonfiction
+track_7digitalid: 5323475
+track_id: TRADQAR128F92ED3DC
+year: 1994

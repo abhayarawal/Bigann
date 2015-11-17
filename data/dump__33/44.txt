@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1805
+artist_familiarity: 0.581507854612
+artist_hotttnesss: 0.390020825482
+artist_id: AR9SYAF1187FB43BD5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c6c538ec-a3ca-43f0-8d73-6e88582de31f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Cherish The Ladies
+artist_playmeid: 17599
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: b3ce663522613d07ef6a8afab8f812ae
+bars_confidence: shape = (50,)
+bars_start: shape = (50,)
+beats_confidence: shape = (257,)
+beats_start: shape = (257,)
+danceability: 0.0
+duration: 134.81751
+end_of_fade_in: 0.078
+energy: 0.0
+key: 2
+key_confidence: 0.044
+loudness: -16.831
+mode: 1
+mode_confidence: 0.351
+release: Cherish The Ladies: Irish Women Musicians in America
+release_7digitalid: 558721
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (455,)
+segments_loudness_max: shape = (455,)
+segments_loudness_max_time: shape = (455,)
+segments_loudness_start: shape = (455,)
+segments_pitches: shape = (455, 12)
+segments_start: shape = (455,)
+segments_timbre: shape = (455, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSJENW12AB0185F30
+start_of_fade_out: 130.084
+tatums_confidence: shape = (514,)
+tatums_start: shape = (514,)
+tempo: 118.182
+time_signature: 5
+time_signature_confidence: 0.374
+title: The Shaskeen / Gan Ainm
+track_7digitalid: 6182140
+track_id: TRALJGO128F9347068
+year: 1999

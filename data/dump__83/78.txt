@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 539
+artist_familiarity: 0.605880471066
+artist_hotttnesss: 0.393660867924
+artist_id: ARK8EHO1187B9B71D1
+artist_latitude: 57.15382
+artist_location: Aberdeen, Scotland
+artist_longitude: -2.10679
+artist_mbid: f22e793d-9a7e-4ec9-9d86-7a8528688abd
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Shamen
+artist_playmeid: 17892
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 930df9160e1cc21093b8f87aefda872c
+bars_confidence: shape = (275,)
+bars_start: shape = (275,)
+beats_confidence: shape = (835,)
+beats_start: shape = (835,)
+danceability: 0.0
+duration: 600.37179
+end_of_fade_in: 0.427
+energy: 0.0
+key: 4
+key_confidence: 0.287
+loudness: -7.512
+mode: 0
+mode_confidence: 0.305
+release: Trasmazonia
+release_7digitalid: 358013
+sections_confidence: shape = (22,)
+sections_start: shape = (22,)
+segments_confidence: shape = (2587,)
+segments_loudness_max: shape = (2587,)
+segments_loudness_max_time: shape = (2587,)
+segments_loudness_start: shape = (2587,)
+segments_pitches: shape = (2587, 12)
+segments_start: shape = (2587,)
+segments_timbre: shape = (2587, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOKJUOW12AB0181545
+start_of_fade_out: 588.121
+tatums_confidence: shape = (2505,)
+tatums_start: shape = (2505,)
+tempo: 83.497
+time_signature: 3
+time_signature_confidence: 1.0
+title: Transamazonia (Deep Dish No Doze Mix)
+track_7digitalid: 3994472
+track_id: TRBCTBL128F931FF29
+year: 1995

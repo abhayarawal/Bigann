@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10872
+artist_familiarity: 0.612543003669
+artist_hotttnesss: 0.459660463222
+artist_id: ARXP7MQ1187FB3AC5F
+artist_latitude: nan
+artist_location: LOWELL
+artist_longitude: nan
+artist_mbid: 2b0d81ce-1d0e-4097-91b3-c1f0cb045a2c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dave Hollister
+artist_playmeid: 19881
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: a9a5b990b9a2c0507eee62fdbaa0e1cc
+bars_confidence: shape = (141,)
+bars_start: shape = (141,)
+beats_confidence: shape = (572,)
+beats_start: shape = (572,)
+danceability: 0.0
+duration: 301.87057
+end_of_fade_in: 0.276
+energy: 0.0
+key: 1
+key_confidence: 0.792
+loudness: -4.942
+mode: 1
+mode_confidence: 0.679
+release: The Definitive Collection
+release_7digitalid: 606836
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1016,)
+segments_loudness_max: shape = (1016,)
+segments_loudness_max_time: shape = (1016,)
+segments_loudness_start: shape = (1016,)
+segments_pitches: shape = (1016, 12)
+segments_start: shape = (1016,)
+segments_timbre: shape = (1016, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZUAJB12AB017CE56
+start_of_fade_out: 288.044
+tatums_confidence: shape = (1144,)
+tatums_start: shape = (1144,)
+tempo: 113.09
+time_signature: 4
+time_signature_confidence: 1.0
+title: I'm Wrong
+track_7digitalid: 6742954
+track_id: TRAGLUU12903D024F2
+year: 2006

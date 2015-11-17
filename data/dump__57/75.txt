@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 213348
+artist_familiarity: 0.442111200272
+artist_hotttnesss: 0.162615582329
+artist_id: ARW86ZJ11A348EFE7F
+artist_latitude: 44.83663
+artist_location: Bordeaux
+artist_longitude: -0.58104
+artist_mbid: 35f5bfae-0a49-4371-adb7-b7e1644df9b3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Edgar De L'est
+artist_playmeid: -1
+artist_terms: shape = (7,)
+artist_terms_freq: shape = (7,)
+artist_terms_weight: shape = (7,)
+audio_md5: f70344092a9d88e067fa3f451b204238
+bars_confidence: shape = (201,)
+bars_start: shape = (201,)
+beats_confidence: shape = (632,)
+beats_start: shape = (632,)
+danceability: 0.0
+duration: 317.28281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.0
+loudness: -8.328
+mode: 1
+mode_confidence: 0.128
+release: Les vacances
+release_7digitalid: 405750
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1312,)
+segments_loudness_max: shape = (1312,)
+segments_loudness_max_time: shape = (1312,)
+segments_loudness_start: shape = (1312,)
+segments_pitches: shape = (1312, 12)
+segments_start: shape = (1312,)
+segments_timbre: shape = (1312, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBLADF12AB01860F5
+start_of_fade_out: 303.166
+tatums_confidence: shape = (1263,)
+tatums_start: shape = (1263,)
+tempo: 125.026
+time_signature: 3
+time_signature_confidence: 1.0
+title: Slavinka
+track_7digitalid: 4511259
+track_id: TRATQWZ128F93133F8
+year: 2002

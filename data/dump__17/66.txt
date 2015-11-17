@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 380
+artist_familiarity: 0.719313233573
+artist_hotttnesss: 0.472748272732
+artist_id: ARYECDK1187FB45587
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a96d82a0-cdca-40bf-b4c8-3d7ec178d85b
+artist_mbtags: shape = (12,)
+artist_mbtags_count: shape = (12,)
+artist_name: The Stranglers
+artist_playmeid: 15919
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: ec3a2910541214ffc1e1eac81b17c000
+bars_confidence: shape = (387,)
+bars_start: shape = (387,)
+beats_confidence: shape = (387,)
+beats_start: shape = (387,)
+danceability: 0.0
+duration: 217.96526
+end_of_fade_in: 0.073
+energy: 0.0
+key: 4
+key_confidence: 0.646
+loudness: -10.011
+mode: 1
+mode_confidence: 0.352
+release: La Folie
+release_7digitalid: 587
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (797,)
+segments_loudness_max: shape = (797,)
+segments_loudness_max_time: shape = (797,)
+segments_loudness_start: shape = (797,)
+segments_pitches: shape = (797, 12)
+segments_start: shape = (797,)
+segments_timbre: shape = (797, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.581493637152
+song_id: SOHJRZY12A63110838
+start_of_fade_out: 204.138
+tatums_confidence: shape = (774,)
+tatums_start: shape = (774,)
+tempo: 107.657
+time_signature: 1
+time_signature_confidence: 0.0
+title: It Only Takes Two To Tango
+track_7digitalid: 4969
+track_id: TRAGAGQ128E0781352
+year: 1981

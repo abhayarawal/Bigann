@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 252034
+artist_familiarity: 0.448025345538
+artist_hotttnesss: 0.393622171732
+artist_id: AR7CCS31187B98C531
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b680492b-1c40-4a57-845e-4d1e57f2f0f5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tom Barabas
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 5b0bcfe509f17cea4d67d6315accae1b
+bars_confidence: shape = (561,)
+bars_start: shape = (561,)
+beats_confidence: shape = (1690,)
+beats_start: shape = (1690,)
+danceability: 0.0
+duration: 743.36608
+end_of_fade_in: 0.425
+energy: 0.0
+key: 9
+key_confidence: 0.659
+loudness: -16.389
+mode: 0
+mode_confidence: 0.648
+release: Sedona Suite
+release_7digitalid: 503547
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (2060,)
+segments_loudness_max: shape = (2060,)
+segments_loudness_max_time: shape = (2060,)
+segments_loudness_start: shape = (2060,)
+segments_pitches: shape = (2060, 12)
+segments_start: shape = (2060,)
+segments_timbre: shape = (2060, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOAKCYS12AB01852C7
+start_of_fade_out: 724.677
+tatums_confidence: shape = (3380,)
+tatums_start: shape = (3380,)
+tempo: 134.491
+time_signature: 3
+time_signature_confidence: 0.735
+title: Sedona Suite (Sunrise/Prayer/Joy/Sunset)
+track_7digitalid: 5572946
+track_id: TRAEPGE128F9328E94
+year: 1992

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15861
+artist_familiarity: 0.541968374734
+artist_hotttnesss: 0.417885348963
+artist_id: ARWJHW61187B98FA8E
+artist_latitude: -4.03479
+artist_location: Kasai, Zaire
+artist_longitude: 21.75627
+artist_mbid: 07f9fb91-1147-4532-a522-ac36dacd1c72
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Papa Wemba
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 92b0bcbdd27d61ce4944ef7b1fd038a7
+bars_confidence: shape = (195,)
+bars_start: shape = (195,)
+beats_confidence: shape = (592,)
+beats_start: shape = (592,)
+danceability: 0.0
+duration: 265.76934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.577
+loudness: -11.73
+mode: 0
+mode_confidence: 0.738
+release: Molokai
+release_7digitalid: 28908
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1096,)
+segments_loudness_max: shape = (1096,)
+segments_loudness_max_time: shape = (1096,)
+segments_loudness_start: shape = (1096,)
+segments_pitches: shape = (1096, 12)
+segments_start: shape = (1096,)
+segments_timbre: shape = (1096, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPGMLA12A6D4F4BDF
+start_of_fade_out: 258.961
+tatums_confidence: shape = (1184,)
+tatums_start: shape = (1184,)
+tempo: 134.201
+time_signature: 3
+time_signature_confidence: 0.435
+title: Zero
+track_7digitalid: 317779
+track_id: TRAKKGJ128F1469B28
+year: 1992

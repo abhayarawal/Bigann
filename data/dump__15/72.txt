@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 362449
+artist_familiarity: 0.568427347298
+artist_hotttnesss: 0.335041777037
+artist_id: ARCRSUM1187FB52AB0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 870447e1-6f80-454d-8f3d-4ff7a2085168
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Frequency
+artist_playmeid: 149742
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 6f4b851faadd9a115acae6f76dc3547e
+bars_confidence: shape = (1072,)
+bars_start: shape = (1072,)
+beats_confidence: shape = (4291,)
+beats_start: shape = (4291,)
+danceability: 0.0
+duration: 1054.37995
+end_of_fade_in: 0.207
+energy: 0.0
+key: 9
+key_confidence: 1.0
+loudness: -11.906
+mode: 1
+mode_confidence: 0.825
+release: Morning to 3am
+release_7digitalid: 507547
+sections_confidence: shape = (30,)
+sections_start: shape = (30,)
+segments_confidence: shape = (2602,)
+segments_loudness_max: shape = (2602,)
+segments_loudness_max_time: shape = (2602,)
+segments_loudness_start: shape = (2602,)
+segments_pitches: shape = (2602, 12)
+segments_start: shape = (2602,)
+segments_timbre: shape = (2602, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SONNXDI12AB0186816
+start_of_fade_out: 1035.796
+tatums_confidence: shape = (4291,)
+tatums_start: shape = (4291,)
+tempo: 246.5
+time_signature: 4
+time_signature_confidence: 0.873
+title: Ego is the drug/3am
+track_7digitalid: 5612413
+track_id: TRAFJKG128F9332800
+year: 0

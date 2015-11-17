@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 488191
+artist_familiarity: 0.257251521691
+artist_hotttnesss: 0.138461596356
+artist_id: ARO7IJV1187FB5BFAD
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 16012d28-26ec-4f71-9da0-c629a5e9b0f6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Oesch's die Dritten
+artist_playmeid: -1
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: ab43065617eb09ca6a3091660031f7da
+bars_confidence: shape = (77,)
+bars_start: shape = (77,)
+beats_confidence: shape = (313,)
+beats_start: shape = (313,)
+danceability: 0.0
+duration: 209.97179
+end_of_fade_in: 0.386
+energy: 0.0
+key: 0
+key_confidence: 0.752
+loudness: -7.094
+mode: 1
+mode_confidence: 0.804
+release: Jodelzauber
+release_7digitalid: 660019
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (445,)
+segments_loudness_max: shape = (445,)
+segments_loudness_max_time: shape = (445,)
+segments_loudness_start: shape = (445,)
+segments_pitches: shape = (445, 12)
+segments_start: shape = (445,)
+segments_timbre: shape = (445, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOQWDSR12AB01850B6
+start_of_fade_out: 200.446
+tatums_confidence: shape = (626,)
+tatums_start: shape = (626,)
+tempo: 93.265
+time_signature: 4
+time_signature_confidence: 0.663
+title: Der weisse Mond von Maratonga
+track_7digitalid: 7314685
+track_id: TRAFDQJ12903CA09B9
+year: 2007

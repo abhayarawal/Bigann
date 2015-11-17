@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16974
+artist_familiarity: 0.64028755688
+artist_hotttnesss: 0.432172564147
+artist_id: ARNBV1X1187B996249
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: dd4586a0-ee49-4616-8a69-1916cd6d5923
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Alex
+artist_playmeid: 28115
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 68bb08a60c4d4e6e2ec46d62644eb77f
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (484,)
+beats_start: shape = (484,)
+danceability: 0.0
+duration: 298.52689
+end_of_fade_in: 3.239
+energy: 0.0
+key: 2
+key_confidence: 0.333
+loudness: -11.813
+mode: 0
+mode_confidence: 0.444
+release: Meraviglioso
+release_7digitalid: 732290
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1288,)
+segments_loudness_max: shape = (1288,)
+segments_loudness_max_time: shape = (1288,)
+segments_loudness_start: shape = (1288,)
+segments_pitches: shape = (1288, 12)
+segments_start: shape = (1288,)
+segments_timbre: shape = (1288, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONBHYT12AC468A58B
+start_of_fade_out: 284.415
+tatums_confidence: shape = (1939,)
+tatums_start: shape = (1939,)
+tempo: 98.974
+time_signature: 4
+time_signature_confidence: 0.382
+title: Cumpagno 'e cella
+track_7digitalid: 8112126
+track_id: TRAJNCR12903CEBAA1
+year: 0

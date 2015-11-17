@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 43787
+artist_familiarity: 0.842423318067
+artist_hotttnesss: 0.564855750477
+artist_id: ARCP94M1187B9B0F56
+artist_latitude: 42.88544
+artist_location: Buffalo, New York
+artist_longitude: -78.87846
+artist_mbid: ef90f210-f136-4386-ab37-8c00d04eeace
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Every Time I Die
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 6832dadc9614d1dff7e847dae5b743ce
+bars_confidence: shape = (261,)
+bars_start: shape = (261,)
+beats_confidence: shape = (261,)
+beats_start: shape = (261,)
+danceability: 0.0
+duration: 171.59791
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.538
+loudness: -4.029
+mode: 1
+mode_confidence: 0.346
+release: Last Night In Town
+release_7digitalid: 57839
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (458,)
+segments_loudness_max: shape = (458,)
+segments_loudness_max_time: shape = (458,)
+segments_loudness_start: shape = (458,)
+segments_pitches: shape = (458, 12)
+segments_start: shape = (458,)
+segments_timbre: shape = (458, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.574693297085
+song_id: SOELMDY12A6D4FB18A
+start_of_fade_out: 166.487
+tatums_confidence: shape = (522,)
+tatums_start: shape = (522,)
+tempo: 93.458
+time_signature: 1
+time_signature_confidence: 0.0
+title: California_ Gracefully
+track_7digitalid: 602283
+track_id: TRAGSJQ128F149EF8D
+year: 2001

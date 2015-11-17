@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 147800
+artist_familiarity: 0.429349278184
+artist_hotttnesss: 0.277789967207
+artist_id: AROVSYC119B3403921
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d5c4d5fe-f8c0-41f5-aed5-48a3760cddbb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gus Viseur
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 31945c10d3008a738d066debb05b7fad
+bars_confidence: shape = (192,)
+bars_start: shape = (192,)
+beats_confidence: shape = (579,)
+beats_start: shape = (579,)
+danceability: 0.0
+duration: 157.51791
+end_of_fade_in: 2.345
+energy: 0.0
+key: 9
+key_confidence: 0.59
+loudness: -13.963
+mode: 1
+mode_confidence: 0.64
+release: En attendant le tour
+release_7digitalid: 263687
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (827,)
+segments_loudness_max: shape = (827,)
+segments_loudness_max_time: shape = (827,)
+segments_loudness_start: shape = (827,)
+segments_pitches: shape = (827, 12)
+segments_start: shape = (827,)
+segments_timbre: shape = (827, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.360366319751
+song_id: SOGWEYN12A8C137359
+start_of_fade_out: 155.051
+tatums_confidence: shape = (1157,)
+tatums_start: shape = (1157,)
+tempo: 225.812
+time_signature: 3
+time_signature_confidence: 0.779
+title: Gracieusette
+track_7digitalid: 2772199
+track_id: TRBATEB128F4258804
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 24238
+artist_familiarity: 0.616436885257
+artist_hotttnesss: 0.409464909228
+artist_id: ARAHQDS1187FB55275
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e12fbbb6-46fe-4099-9bfa-1aeb56aef7e6
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Maysa
+artist_playmeid: 49627
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 016d55c0e36ef6296169f8bc236116eb
+bars_confidence: shape = (47,)
+bars_start: shape = (47,)
+beats_confidence: shape = (336,)
+beats_start: shape = (336,)
+danceability: 0.0
+duration: 150.25587
+end_of_fade_in: 12.666
+energy: 0.0
+key: 10
+key_confidence: 0.038
+loudness: -15.574
+mode: 0
+mode_confidence: 0.371
+release: Talento
+release_7digitalid: 150516
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (492,)
+segments_loudness_max: shape = (492,)
+segments_loudness_max_time: shape = (492,)
+segments_loudness_start: shape = (492,)
+segments_pitches: shape = (492, 12)
+segments_start: shape = (492,)
+segments_timbre: shape = (492, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORHXYU12A8C13716B
+start_of_fade_out: 137.439
+tatums_confidence: shape = (671,)
+tatums_start: shape = (671,)
+tempo: 137.673
+time_signature: 7
+time_signature_confidence: 0.415
+title: Bloco Da Solidao (1996 Digital Remaster)
+track_7digitalid: 1570013
+track_id: TRAAYCQ128F425EE32
+year: 0

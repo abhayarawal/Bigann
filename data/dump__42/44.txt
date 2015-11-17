@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 337424
+artist_familiarity: 0.0369289096837
+artist_hotttnesss: 0.15720769399
+artist_id: AR2NJW11187FB3F474
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e9602fa8-31da-4723-8580-6e66304c567b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Rincon Morales
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 19c04f08906b4c428b0ce33cd8f24146
+bars_confidence: shape = (212,)
+bars_start: shape = (212,)
+beats_confidence: shape = (212,)
+beats_start: shape = (212,)
+danceability: 0.0
+duration: 197.0673
+end_of_fade_in: 0.261
+energy: 0.0
+key: 11
+key_confidence: 0.546
+loudness: -10.325
+mode: 1
+mode_confidence: 0.328
+release: Explosion de Gaitas
+release_7digitalid: 698638
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1152,)
+segments_loudness_max: shape = (1152,)
+segments_loudness_max_time: shape = (1152,)
+segments_loudness_start: shape = (1152,)
+segments_pitches: shape = (1152, 12)
+segments_start: shape = (1152,)
+segments_timbre: shape = (1152, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SODATWH12AC46887D9
+start_of_fade_out: 193.765
+tatums_confidence: shape = (1269,)
+tatums_start: shape = (1269,)
+tempo: 65.316
+time_signature: 1
+time_signature_confidence: 0.0
+title: Gaita Gaitero
+track_7digitalid: 7752532
+track_id: TRAOKZF12903D0AF01
+year: 0

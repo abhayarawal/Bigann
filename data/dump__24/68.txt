@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 88
+artist_familiarity: 0.866519754051
+artist_hotttnesss: 0.766545450757
+artist_id: ARXPPEY1187FB51DF4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f27ec8db-af05-4f36-916e-3d57f91ecf5e
+artist_mbtags: shape = (20,)
+artist_mbtags_count: shape = (20,)
+artist_name: Michael Jackson
+artist_playmeid: 1081
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: fe7a37f89a8f503252cb5c13377cda55
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (351,)
+beats_start: shape = (351,)
+danceability: 0.0
+duration: 192.57424
+end_of_fade_in: 0.45
+energy: 0.0
+key: 1
+key_confidence: 0.544
+loudness: -7.98
+mode: 1
+mode_confidence: 0.564
+release: Soulsation! The 25th Anniversary Collection
+release_7digitalid: 76202
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (715,)
+segments_loudness_max: shape = (715,)
+segments_loudness_max_time: shape = (715,)
+segments_loudness_start: shape = (715,)
+segments_pitches: shape = (715, 12)
+segments_start: shape = (715,)
+segments_timbre: shape = (715, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHMIIR12A6D223C84
+start_of_fade_out: 183.089
+tatums_confidence: shape = (703,)
+tatums_start: shape = (703,)
+tempo: 110.28
+time_signature: 4
+time_signature_confidence: 0.087
+title: Just A Little Bit Of You
+track_7digitalid: 793482
+track_id: TRAIHFF128EF351817
+year: 1975

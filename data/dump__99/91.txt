@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 36609
+artist_familiarity: 0.772230439038
+artist_hotttnesss: 0.511576782928
+artist_id: ARJGQJD1187B997A00
+artist_latitude: nan
+artist_location: Buffalo, NY
+artist_longitude: nan
+artist_mbid: 2d2948f6-570b-4709-896b-f90011fc89c6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: It Dies Today
+artist_playmeid: 57099
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: d6943053be74c7b039ce317054f0b352
+bars_confidence: shape = (94,)
+bars_start: shape = (94,)
+beats_confidence: shape = (291,)
+beats_start: shape = (291,)
+danceability: 0.0
+duration: 179.40853
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.06
+loudness: -4.027
+mode: 1
+mode_confidence: 0.396
+release: Sirens
+release_7digitalid: 479604
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (611,)
+segments_loudness_max: shape = (611,)
+segments_loudness_max_time: shape = (611,)
+segments_loudness_start: shape = (611,)
+segments_pitches: shape = (611, 12)
+segments_start: shape = (611,)
+segments_timbre: shape = (611, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFOBSK12A8C1447C4
+start_of_fade_out: 179.409
+tatums_confidence: shape = (873,)
+tatums_start: shape = (873,)
+tempo: 98.377
+time_signature: 3
+time_signature_confidence: 0.991
+title: One the road (to Damnation)
+track_7digitalid: 5322779
+track_id: TRBIJFB128F92ED124
+year: 2006

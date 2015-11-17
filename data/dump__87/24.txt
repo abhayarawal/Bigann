@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 173055
+artist_familiarity: 0.552719818114
+artist_hotttnesss: 0.371711094041
+artist_id: AR25WM21187FB461B3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ddec1c79-0653-4d7a-a92a-ceaabc60748f
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Francis Lai
+artist_playmeid: 4701
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 87a8f145baa1855bd78e6df3ff464e9c
+bars_confidence: shape = (246,)
+bars_start: shape = (246,)
+beats_confidence: shape = (246,)
+beats_start: shape = (246,)
+danceability: 0.0
+duration: 155.16689
+end_of_fade_in: 0.291
+energy: 0.0
+key: 2
+key_confidence: 0.603
+loudness: -13.921
+mode: 1
+mode_confidence: 0.63
+release: Love Story
+release_7digitalid: 170393
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (562,)
+segments_loudness_max: shape = (562,)
+segments_loudness_max_time: shape = (562,)
+segments_loudness_start: shape = (562,)
+segments_pitches: shape = (562, 12)
+segments_start: shape = (562,)
+segments_timbre: shape = (562, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBLOGP12A8C13F779
+start_of_fade_out: 152.085
+tatums_confidence: shape = (492,)
+tatums_start: shape = (492,)
+tempo: 96.474
+time_signature: 1
+time_signature_confidence: 0.475
+title: Concerto No.3 In D: Allegro
+track_7digitalid: 1808048
+track_id: TRBDYIF128F4294F19
+year: 1970

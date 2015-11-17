@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 335276
+artist_familiarity: 0.496593064607
+artist_hotttnesss: 0.351449540734
+artist_id: AR59C6A1187B9B2143
+artist_latitude: -24.9162
+artist_location: Australia
+artist_longitude: 133.39311
+artist_mbid: 81a8b147-a44e-48a6-924a-e92719a72425
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Cat's Miaow
+artist_playmeid: -1
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 6ce18aed58568df8bf73b6907783fd10
+bars_confidence: shape = (73,)
+bars_start: shape = (73,)
+beats_confidence: shape = (295,)
+beats_start: shape = (295,)
+danceability: 0.0
+duration: 125.25669
+end_of_fade_in: 0.444
+energy: 0.0
+key: 4
+key_confidence: 0.941
+loudness: -13.386
+mode: 1
+mode_confidence: 0.674
+release: Songs For Girls To Sing
+release_7digitalid: 462985
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (524,)
+segments_loudness_max: shape = (524,)
+segments_loudness_max_time: shape = (524,)
+segments_loudness_start: shape = (524,)
+segments_pitches: shape = (524, 12)
+segments_start: shape = (524,)
+segments_timbre: shape = (524, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODQUNS12AB0186868
+start_of_fade_out: 119.931
+tatums_confidence: shape = (589,)
+tatums_start: shape = (589,)
+tempo: 146.909
+time_signature: 4
+time_signature_confidence: 0.0
+title: Portland_ Oregon
+track_7digitalid: 5153858
+track_id: TRAOOGL128F93303AA
+year: 1997

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 111336
+artist_familiarity: 0.751040126113
+artist_hotttnesss: 0.418193099976
+artist_id: ARIF6IS1187B98FDEB
+artist_latitude: 53.34376
+artist_location: Dublin, Ireland
+artist_longitude: -6.24953
+artist_mbid: eacf66a8-8ea0-41e4-879e-fcc61bcb03f0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Primordial
+artist_playmeid: 146475
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: f672934a059a05c3e1cf9c2872ae3174
+bars_confidence: shape = (240,)
+bars_start: shape = (240,)
+beats_confidence: shape = (1018,)
+beats_start: shape = (1018,)
+danceability: 0.0
+duration: 508.3424
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.543
+loudness: -10.141
+mode: 1
+mode_confidence: 0.376
+release: A Journey's End
+release_7digitalid: 632755
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1231,)
+segments_loudness_max: shape = (1231,)
+segments_loudness_max_time: shape = (1231,)
+segments_loudness_start: shape = (1231,)
+segments_pitches: shape = (1231, 12)
+segments_start: shape = (1231,)
+segments_timbre: shape = (1231, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOKANNU12AB0183D18
+start_of_fade_out: 508.342
+tatums_confidence: shape = (2036,)
+tatums_start: shape = (2036,)
+tempo: 118.196
+time_signature: 4
+time_signature_confidence: 0.385
+title: The Burning Season (Live)
+track_7digitalid: 7024323
+track_id: TRALULA128F932B9D0
+year: 1998

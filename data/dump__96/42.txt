@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5136
+artist_familiarity: 0.663231984801
+artist_hotttnesss: 0.493711076643
+artist_id: AR26X1C1187B9B0A1B
+artist_latitude: nan
+artist_location: Friars Point, MS
+artist_longitude: nan
+artist_mbid: a3c60d26-90d6-4788-ba9b-a89693fc396d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Conway Twitty
+artist_playmeid: 2998
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 9cde41504ea7e4b716df20a7cc0e3ed0
+bars_confidence: shape = (76,)
+bars_start: shape = (76,)
+beats_confidence: shape = (308,)
+beats_start: shape = (308,)
+danceability: 0.0
+duration: 175.51628
+end_of_fade_in: 0.63
+energy: 0.0
+key: 2
+key_confidence: 0.361
+loudness: -12.813
+mode: 0
+mode_confidence: 0.491
+release: Southern Comfort
+release_7digitalid: 60541
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (566,)
+segments_loudness_max: shape = (566,)
+segments_loudness_max_time: shape = (566,)
+segments_loudness_start: shape = (566,)
+segments_pitches: shape = (566, 12)
+segments_start: shape = (566,)
+segments_timbre: shape = (566, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304491031159
+song_id: SOMLCEU12A6D4FAB01
+start_of_fade_out: 168.937
+tatums_confidence: shape = (617,)
+tatums_start: shape = (617,)
+tempo: 106.407
+time_signature: 4
+time_signature_confidence: 0.712
+title: Slow Hand (LP Version)
+track_7digitalid: 2286346
+track_id: TRBHFDA128F4270728
+year: 0

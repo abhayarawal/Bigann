@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 351647
+artist_familiarity: 0.439151375441
+artist_hotttnesss: 0.299667427552
+artist_id: ARUBDNK11F50C4F28B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Vrse Murphy
+artist_playmeid: -1
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: 8f810798815a8461b2d1664a8e4ada1f
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (384,)
+beats_start: shape = (384,)
+danceability: 0.0
+duration: 240.5873
+end_of_fade_in: 0.316
+energy: 0.0
+key: 11
+key_confidence: 0.013
+loudness: -5.715
+mode: 0
+mode_confidence: 0.259
+release: Martini Breaks
+release_7digitalid: 716926
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (792,)
+segments_loudness_max: shape = (792,)
+segments_loudness_max_time: shape = (792,)
+segments_loudness_start: shape = (792,)
+segments_pitches: shape = (792, 12)
+segments_start: shape = (792,)
+segments_timbre: shape = (792, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSFOAG12AB018C8A0
+start_of_fade_out: 237.221
+tatums_confidence: shape = (768,)
+tatums_start: shape = (768,)
+tempo: 97.015
+time_signature: 4
+time_signature_confidence: 1.0
+title: Cremona (Instrumental)
+track_7digitalid: 7951668
+track_id: TRAJLSJ12903CC49A6
+year: 0

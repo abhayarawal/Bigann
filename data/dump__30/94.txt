@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 363158
+artist_familiarity: 0.396327109216
+artist_hotttnesss: 0.327012792699
+artist_id: ARMAOIY1187B9A3893
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e91504af-0b68-4729-8184-f567016658ff
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Jerry Yan
+artist_playmeid: 169859
+artist_terms: shape = (8,)
+artist_terms_freq: shape = (8,)
+artist_terms_weight: shape = (8,)
+audio_md5: 97b29a0deb2a7b2e1fb471d63d1512ee
+bars_confidence: shape = (139,)
+bars_start: shape = (139,)
+beats_confidence: shape = (561,)
+beats_start: shape = (561,)
+danceability: 0.0
+duration: 277.18485
+end_of_fade_in: 1.145
+energy: 0.0
+key: 0
+key_confidence: 0.679
+loudness: -6.954
+mode: 1
+mode_confidence: 0.541
+release: Jerry For You (Day Edition)
+release_7digitalid: 542948
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (743,)
+segments_loudness_max: shape = (743,)
+segments_loudness_max_time: shape = (743,)
+segments_loudness_start: shape = (743,)
+segments_pitches: shape = (743, 12)
+segments_start: shape = (743,)
+segments_timbre: shape = (743, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHESPW12AB0184D99
+start_of_fade_out: 256.43
+tatums_confidence: shape = (1123,)
+tatums_start: shape = (1123,)
+tempo: 125.506
+time_signature: 4
+time_signature_confidence: 0.799
+title: Pei Chen Pin
+track_7digitalid: 6009815
+track_id: TRAKMIX128F931D3EC
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 170420
+artist_familiarity: 0.466262209646
+artist_hotttnesss: 0.369609834555
+artist_id: AR0B6VD1187B99C293
+artist_latitude: 34.47326
+artist_location: Ventura County, CA
+artist_longitude: -119.05505
+artist_mbid: ba65d1ee-bcf9-45b0-8dbf-5032d6c1cad0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Uphill Battle
+artist_playmeid: -1
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 3138241821a59355b1d0a006c3d74a05
+bars_confidence: shape = (93,)
+bars_start: shape = (93,)
+beats_confidence: shape = (467,)
+beats_start: shape = (467,)
+danceability: 0.0
+duration: 210.36363
+end_of_fade_in: 0.1
+energy: 0.0
+key: 8
+key_confidence: 0.587
+loudness: -6.472
+mode: 1
+mode_confidence: 0.478
+release: Blurred 1999-2004
+release_7digitalid: 238883
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (639,)
+segments_loudness_max: shape = (639,)
+segments_loudness_max_time: shape = (639,)
+segments_loudness_start: shape = (639,)
+segments_pitches: shape = (639, 12)
+segments_start: shape = (639,)
+segments_timbre: shape = (639, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQGLPH12A8C141089
+start_of_fade_out: 204.672
+tatums_confidence: shape = (934,)
+tatums_start: shape = (934,)
+tempo: 137.911
+time_signature: 5
+time_signature_confidence: 0.807
+title: Memory
+track_7digitalid: 2999758
+track_id: TRALRNQ128F428CE3E
+year: 2002

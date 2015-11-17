@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3363
+artist_familiarity: 0.540750151436
+artist_hotttnesss: 0.379651219002
+artist_id: AR7CCCC1187FB578FF
+artist_latitude: nan
+artist_location: Shelby, North Carolina
+artist_longitude: nan
+artist_mbid: 870ab832-904b-4b49-ab72-7e6b0e0da65f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Don Gibson
+artist_playmeid: 15188
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 34d2bd757a07b72d56fe7650032f324a
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (335,)
+beats_start: shape = (335,)
+danceability: 0.0
+duration: 169.63873
+end_of_fade_in: 0.154
+energy: 0.0
+key: 4
+key_confidence: 0.624
+loudness: -14.257
+mode: 1
+mode_confidence: 0.608
+release: Lonesome Number One
+release_7digitalid: 609846
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (482,)
+segments_loudness_max: shape = (482,)
+segments_loudness_max_time: shape = (482,)
+segments_loudness_start: shape = (482,)
+segments_pitches: shape = (482, 12)
+segments_start: shape = (482,)
+segments_timbre: shape = (482, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOBHYLB12A8C1424C4
+start_of_fade_out: 162.923
+tatums_confidence: shape = (670,)
+tatums_start: shape = (670,)
+tempo: 123.531
+time_signature: 4
+time_signature_confidence: 0.0
+title: I Love No One But You
+track_7digitalid: 6777767
+track_id: TRAUGVF128F92EFCF8
+year: 1991

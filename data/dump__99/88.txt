@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 274928
+artist_familiarity: 0.383594016436
+artist_hotttnesss: 0.220210450092
+artist_id: ARMATAK1264D13AC27
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kaskaad
+artist_playmeid: -1
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: aa6606c6875cbf04b9c87922cfb804d7
+bars_confidence: shape = (150,)
+bars_start: shape = (150,)
+beats_confidence: shape = (603,)
+beats_start: shape = (603,)
+danceability: 0.0
+duration: 414.9024
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.868
+loudness: -6.239
+mode: 0
+mode_confidence: 0.718
+release: Kaskaad - Mohawk Hunt / Earuption
+release_7digitalid: 356024
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (2030,)
+segments_loudness_max: shape = (2030,)
+segments_loudness_max_time: shape = (2030,)
+segments_loudness_start: shape = (2030,)
+segments_pitches: shape = (2030, 12)
+segments_start: shape = (2030,)
+segments_timbre: shape = (2030, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHWHZJ12A58A79FA8
+start_of_fade_out: 408.596
+tatums_confidence: shape = (2414,)
+tatums_start: shape = (2414,)
+tempo: 87.507
+time_signature: 4
+time_signature_confidence: 1.0
+title: Mohawk Hunt
+track_7digitalid: 3971492
+track_id: TRBIIUC128F931B59E
+year: 0

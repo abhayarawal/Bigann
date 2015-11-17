@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 391974
+artist_familiarity: 0.494681416996
+artist_hotttnesss: 0.384146444305
+artist_id: ARYWCFZ11E2835CFDD
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Nazz
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: a1d45e30dcecdbdc42647211ee53a97e
+bars_confidence: shape = (105,)
+bars_start: shape = (105,)
+beats_confidence: shape = (422,)
+beats_start: shape = (422,)
+danceability: 0.0
+duration: 151.562
+end_of_fade_in: 0.068
+energy: 0.0
+key: 5
+key_confidence: 0.392
+loudness: -9.889
+mode: 1
+mode_confidence: 0.272
+release: 13th And Pine
+release_7digitalid: 534470
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (452,)
+segments_loudness_max: shape = (452,)
+segments_loudness_max_time: shape = (452,)
+segments_loudness_start: shape = (452,)
+segments_pitches: shape = (452, 12)
+segments_start: shape = (452,)
+segments_timbre: shape = (452, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOJHDDU12A8C143F70
+start_of_fade_out: 138.223
+tatums_confidence: shape = (422,)
+tatums_start: shape = (422,)
+tempo: 167.829
+time_signature: 4
+time_signature_confidence: 0.949
+title: It Must Be Everywhere (Complete Version)
+track_7digitalid: 5909913
+track_id: TRBFOEB128F9305372
+year: 0

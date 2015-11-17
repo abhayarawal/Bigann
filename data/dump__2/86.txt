@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11214
+artist_familiarity: 0.655359115426
+artist_hotttnesss: 0.405031297936
+artist_id: ARY80281187FB3E380
+artist_latitude: 56.65286
+artist_location: Scotland
+artist_longitude: -3.99667
+artist_mbid: fcdeb957-b420-4249-a092-946b537a00ca
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Sandi Thom
+artist_playmeid: 4235
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 38f6a86188207765c7a9d2277d42a974
+bars_confidence: shape = (65,)
+bars_start: shape = (65,)
+beats_confidence: shape = (272,)
+beats_start: shape = (272,)
+danceability: 0.0
+duration: 205.21751
+end_of_fade_in: 0.386
+energy: 0.0
+key: 4
+key_confidence: 0.666
+loudness: -4.332
+mode: 1
+mode_confidence: 0.578
+release: The Pink & The Lily
+release_7digitalid: 382970
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (464,)
+segments_loudness_max: shape = (464,)
+segments_loudness_max_time: shape = (464,)
+segments_loudness_start: shape = (464,)
+segments_pitches: shape = (464, 12)
+segments_start: shape = (464,)
+segments_timbre: shape = (464, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.41967427881
+song_id: SOBJYXZ12A8AE45FF1
+start_of_fade_out: 195.785
+tatums_confidence: shape = (1088,)
+tatums_start: shape = (1088,)
+tempo: 82.205
+time_signature: 4
+time_signature_confidence: 0.945
+title: Wounded Hearts
+track_7digitalid: 4250979
+track_id: TRAAWOR128F92DF3C8
+year: 2008

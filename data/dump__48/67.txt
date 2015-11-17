@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 62288
+artist_familiarity: 0.184250146825
+artist_hotttnesss: 0.0
+artist_id: AR21JV01187B999138
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 22f1d6e0-17e7-4adc-8dd9-dcef7b9c0a88
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bill Murk
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 508c5df9b050fb9363599667d8901737
+bars_confidence: shape = (154,)
+bars_start: shape = (154,)
+beats_confidence: shape = (625,)
+beats_start: shape = (625,)
+danceability: 0.0
+duration: 298.9971
+end_of_fade_in: 0.543
+energy: 0.0
+key: 7
+key_confidence: 0.495
+loudness: -8.188
+mode: 1
+mode_confidence: 0.445
+release: Praise Keeper
+release_7digitalid: 76785
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (819,)
+segments_loudness_max: shape = (819,)
+segments_loudness_max_time: shape = (819,)
+segments_loudness_start: shape = (819,)
+segments_pitches: shape = (819, 12)
+segments_start: shape = (819,)
+segments_timbre: shape = (819, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOLDQOV12A6D4F5BBB
+start_of_fade_out: 290.418
+tatums_confidence: shape = (1250,)
+tatums_start: shape = (1250,)
+tempo: 126.884
+time_signature: 4
+time_signature_confidence: 0.213
+title: Find us Faithful
+track_7digitalid: 802931
+track_id: TRAQOLQ128EF3531E3
+year: 0

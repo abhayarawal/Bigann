@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 209943
+artist_familiarity: 0.404099618985
+artist_hotttnesss: 0.0
+artist_id: ARXRYQS11F4C846B96
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 212bae63-4083-4fe3-a27a-3e986b4f96ad
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mathey
+artist_playmeid: -1
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: c189588a6a28f18a0853ba38501be97a
+bars_confidence: shape = (116,)
+bars_start: shape = (116,)
+beats_confidence: shape = (468,)
+beats_start: shape = (468,)
+danceability: 0.0
+duration: 262.19057
+end_of_fade_in: 0.345
+energy: 0.0
+key: 2
+key_confidence: 0.011
+loudness: -8.988
+mode: 1
+mode_confidence: 0.304
+release: Iyo
+release_7digitalid: 353193
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1209,)
+segments_loudness_max: shape = (1209,)
+segments_loudness_max_time: shape = (1209,)
+segments_loudness_start: shape = (1209,)
+segments_pitches: shape = (1209, 12)
+segments_start: shape = (1209,)
+segments_timbre: shape = (1209, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFEXUF12AB01877C6
+start_of_fade_out: 257.353
+tatums_confidence: shape = (937,)
+tatums_start: shape = (937,)
+tempo: 108.024
+time_signature: 4
+time_signature_confidence: 0.877
+title: Ballo
+track_7digitalid: 3947328
+track_id: TRALLEY128F9315EDA
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 144125
+artist_familiarity: 0.44698353796
+artist_hotttnesss: 0.35469336029
+artist_id: ARVTWQ11187B9A6A24
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0ce7fbf0-1107-4c4f-b117-5f0756cf90c4
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Sean Callery
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 06c74a4ff24743cc582935489a4f93a3
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (417,)
+beats_start: shape = (417,)
+danceability: 0.0
+duration: 212.84526
+end_of_fade_in: 3.785
+energy: 0.0
+key: 5
+key_confidence: 0.0
+loudness: -29.331
+mode: 1
+mode_confidence: 0.358
+release: 24: Redemption
+release_7digitalid: 381886
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (382,)
+segments_loudness_max: shape = (382,)
+segments_loudness_max_time: shape = (382,)
+segments_loudness_start: shape = (382,)
+segments_pitches: shape = (382, 12)
+segments_start: shape = (382,)
+segments_timbre: shape = (382, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.427446571488
+song_id: SOOBSJA12AAA8C7724
+start_of_fade_out: 203.807
+tatums_confidence: shape = (833,)
+tatums_start: shape = (833,)
+tempo: 121.153
+time_signature: 4
+time_signature_confidence: 0.0
+title: Jack and Benton
+track_7digitalid: 4237476
+track_id: TRAKJAE128F92DCC67
+year: 2008

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2185
+artist_familiarity: 0.692975623904
+artist_hotttnesss: 0.422507450826
+artist_id: AR3AY3R1187FB52CF0
+artist_latitude: nan
+artist_location: Vidor, TX
+artist_longitude: nan
+artist_mbid: 1edead6d-6c01-4ad4-9cce-c334bf7edf23
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tracy Byrd
+artist_playmeid: 3119
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: ffb48a2d6580b52ec6f48fe6f53a2f77
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (359,)
+beats_start: shape = (359,)
+danceability: 0.0
+duration: 227.57832
+end_of_fade_in: 2.682
+energy: 0.0
+key: 0
+key_confidence: 0.463
+loudness: -7.695
+mode: 0
+mode_confidence: 0.498
+release: Ten Rounds
+release_7digitalid: 280146
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (939,)
+segments_loudness_max: shape = (939,)
+segments_loudness_max_time: shape = (939,)
+segments_loudness_start: shape = (939,)
+segments_pitches: shape = (939, 12)
+segments_start: shape = (939,)
+segments_timbre: shape = (939, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.664578649846
+song_id: SOWMQNJ12A8AE471EE
+start_of_fade_out: 216.474
+tatums_confidence: shape = (1436,)
+tatums_start: shape = (1436,)
+tempo: 96.068
+time_signature: 4
+time_signature_confidence: 0.463
+title: Just Let Me Be In Love
+track_7digitalid: 3120685
+track_id: TRAZWGV128F425DA7C
+year: 2007

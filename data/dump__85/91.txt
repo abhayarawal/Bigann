@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 58476
+artist_familiarity: 0.474829406893
+artist_hotttnesss: 0.2969556818
+artist_id: ARV21JS1187B99E516
+artist_latitude: 40.73197
+artist_location: Newark, NJ
+artist_longitude: -74.17418
+artist_mbid: 0b696251-6f12-42e1-9302-926581ea5e08
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jerry Lewis
+artist_playmeid: 108212
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 35522f9255af9a70e71cd9948787692b
+bars_confidence: shape = (217,)
+bars_start: shape = (217,)
+beats_confidence: shape = (1091,)
+beats_start: shape = (1091,)
+danceability: 0.0
+duration: 446.37995
+end_of_fade_in: 0.374
+energy: 0.0
+key: 11
+key_confidence: 0.42
+loudness: -21.969
+mode: 0
+mode_confidence: 0.491
+release: Phoney Phone Calls 1959-1972
+release_7digitalid: 72563
+sections_confidence: shape = (23,)
+sections_start: shape = (23,)
+segments_confidence: shape = (1486,)
+segments_loudness_max: shape = (1486,)
+segments_loudness_max_time: shape = (1486,)
+segments_loudness_start: shape = (1486,)
+segments_pitches: shape = (1486, 12)
+segments_start: shape = (1486,)
+segments_timbre: shape = (1486, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLUWXE12A6BD550CD
+start_of_fade_out: 446.38
+tatums_confidence: shape = (1091,)
+tatums_start: shape = (1091,)
+tempo: 145.333
+time_signature: 5
+time_signature_confidence: 0.804
+title: Bill Lynch
+track_7digitalid: 762157
+track_id: TRBDNDX128EF34C722
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 38533
+artist_familiarity: 0.593262654756
+artist_hotttnesss: 0.372069058228
+artist_id: AR0DSOO1187B9B855E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f28a0e2e-d469-4f9d-8080-f5548fc1a239
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Wailing Souls
+artist_playmeid: 17994
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 164dfce80f4107f8a8a2fa13773522a2
+bars_confidence: shape = (365,)
+bars_start: shape = (365,)
+beats_confidence: shape = (365,)
+beats_start: shape = (365,)
+danceability: 0.0
+duration: 255.4771
+end_of_fade_in: 1.036
+energy: 0.0
+key: 9
+key_confidence: 0.204
+loudness: -5.788
+mode: 1
+mode_confidence: 0.309
+release: Firehouse Rock
+release_7digitalid: 274218
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (996,)
+segments_loudness_max: shape = (996,)
+segments_loudness_max_time: shape = (996,)
+segments_loudness_start: shape = (996,)
+segments_pitches: shape = (996, 12)
+segments_start: shape = (996,)
+segments_timbre: shape = (996, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOVSAM12A81C218AF
+start_of_fade_out: 247.362
+tatums_confidence: shape = (1094,)
+tatums_start: shape = (1094,)
+tempo: 86.752
+time_signature: 1
+time_signature_confidence: 0.991
+title: Firehouse Rock
+track_7digitalid: 3061611
+track_id: TRATIBL128F4250E1C
+year: 1980

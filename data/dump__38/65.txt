@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19019
+artist_familiarity: 0.659139476822
+artist_hotttnesss: 0.413261378295
+artist_id: AR4R0741187FB39AF2
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: 2a81f398-647b-4580-b24c-d78b3103a27b
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Bow Wow Wow
+artist_playmeid: 22316
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: acfdae3371e2bf4d1be853966d0d06b5
+bars_confidence: shape = (685,)
+bars_start: shape = (685,)
+beats_confidence: shape = (685,)
+beats_start: shape = (685,)
+danceability: 0.0
+duration: 182.9873
+end_of_fade_in: 0.485
+energy: 0.0
+key: 10
+key_confidence: 0.01
+loudness: -10.137
+mode: 0
+mode_confidence: 0.108
+release: Girl Bites Dog_ Your Compact Disc Pet
+release_7digitalid: 27646
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (926,)
+segments_loudness_max: shape = (926,)
+segments_loudness_max_time: shape = (926,)
+segments_loudness_start: shape = (926,)
+segments_pitches: shape = (926, 12)
+segments_start: shape = (926,)
+segments_timbre: shape = (926, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAXRPH12A6D4F802D
+start_of_fade_out: 177.366
+tatums_confidence: shape = (1371,)
+tatums_start: shape = (1371,)
+tempo: 231.725
+time_signature: 1
+time_signature_confidence: 0.663
+title: C30 C60 C90 Go
+track_7digitalid: 302337
+track_id: TRANFMB128F146631E
+year: 2003

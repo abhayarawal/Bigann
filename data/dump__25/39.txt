@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 314293
+artist_familiarity: 0.370454267076
+artist_hotttnesss: 0.237726813382
+artist_id: ARZXMYV1187FB5B99B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1a86015d-4965-40cd-bf2c-bd64b7c04323
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Los Ninos De Sara
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: ef1f09bd63ee2c87408f0765b79f3118
+bars_confidence: shape = (107,)
+bars_start: shape = (107,)
+beats_confidence: shape = (432,)
+beats_start: shape = (432,)
+danceability: 0.0
+duration: 226.58567
+end_of_fade_in: 0.16
+energy: 0.0
+key: 6
+key_confidence: 0.591
+loudness: -6.195
+mode: 0
+mode_confidence: 0.537
+release: Espana tiene sabor
+release_7digitalid: 431568
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1225,)
+segments_loudness_max: shape = (1225,)
+segments_loudness_max_time: shape = (1225,)
+segments_loudness_start: shape = (1225,)
+segments_pitches: shape = (1225, 12)
+segments_start: shape = (1225,)
+segments_timbre: shape = (1225, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHDXPG12AAA8C5AE7
+start_of_fade_out: 220.473
+tatums_confidence: shape = (865,)
+tatums_start: shape = (865,)
+tempo: 115.021
+time_signature: 4
+time_signature_confidence: 1.0
+title: Lioraras
+track_7digitalid: 4815506
+track_id: TRAIMXZ128F92E162F
+year: 0

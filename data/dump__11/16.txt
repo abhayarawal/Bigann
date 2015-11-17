@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 29437
+artist_familiarity: 0.320855383197
+artist_hotttnesss: 0.291271029996
+artist_id: ARN8NCB1187FB49652
+artist_latitude: 46.20835
+artist_location: Geneva, Switzerland
+artist_longitude: 6.1427
+artist_mbid: 90e17964-b04a-4c37-b952-3c9dfc16c430
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lionel Rogg
+artist_playmeid: 63046
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: b274b37f69d4be98fbcb9e3d4f392252
+bars_confidence: shape = (184,)
+bars_start: shape = (184,)
+beats_confidence: shape = (756,)
+beats_start: shape = (756,)
+danceability: 0.0
+duration: 499.51302
+end_of_fade_in: 0.477
+energy: 0.0
+key: 2
+key_confidence: 0.639
+loudness: -15.872
+mode: 0
+mode_confidence: 0.721
+release: Bach: Favorite Organ Works
+release_7digitalid: 150705
+sections_confidence: shape = (22,)
+sections_start: shape = (22,)
+segments_confidence: shape = (1156,)
+segments_loudness_max: shape = (1156,)
+segments_loudness_max_time: shape = (1156,)
+segments_loudness_start: shape = (1156,)
+segments_pitches: shape = (1156, 12)
+segments_start: shape = (1156,)
+segments_timbre: shape = (1156, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SOTBVZW12A8C1360F0
+start_of_fade_out: 486.11
+tatums_confidence: shape = (1511,)
+tatums_start: shape = (1511,)
+tempo: 92.924
+time_signature: 4
+time_signature_confidence: 0.5
+title: Toccata Et Fugue En Ré Mineur BWV 565
+track_7digitalid: 1572740
+track_id: TRADRWF128F425F7BE
+year: 0

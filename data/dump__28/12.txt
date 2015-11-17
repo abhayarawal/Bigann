@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 258
+artist_familiarity: 0.811953040098
+artist_hotttnesss: 0.578993548664
+artist_id: ARWA6NT1187FB3F15C
+artist_latitude: 51.11655
+artist_location: Crawley, England
+artist_longitude: -0.18703
+artist_mbid: 69ee3720-a7cb-4402-b48d-a02c366f2bcf
+artist_mbtags: shape = (16,)
+artist_mbtags_count: shape = (16,)
+artist_name: The Cure
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 2a42daeca9178a1729ba60e0afefc1f2
+bars_confidence: shape = (136,)
+bars_start: shape = (136,)
+beats_confidence: shape = (549,)
+beats_start: shape = (549,)
+danceability: 0.0
+duration: 250.85342
+end_of_fade_in: 0.119
+energy: 0.0
+key: 2
+key_confidence: 0.215
+loudness: -8.19
+mode: 1
+mode_confidence: 0.426
+release: The Cure - Greatest Hits (Deluxe Sound & Vision) PAL
+release_7digitalid: 130922
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (967,)
+segments_loudness_max: shape = (967,)
+segments_loudness_max_time: shape = (967,)
+segments_loudness_start: shape = (967,)
+segments_pitches: shape = (967, 12)
+segments_start: shape = (967,)
+segments_timbre: shape = (967, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFYIZF12A81C1FF4E
+start_of_fade_out: 243.438
+tatums_confidence: shape = (1097,)
+tatums_start: shape = (1097,)
+tempo: 135.038
+time_signature: 4
+time_signature_confidence: 0.048
+title: Cut Here
+track_7digitalid: 1355292
+track_id: TRAJKXS128F42340B5
+year: 2001

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 116275
+artist_familiarity: 0.37790605648
+artist_hotttnesss: 0.226754094582
+artist_id: ARGVBQ31187B9A5F3C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7e793d6e-bb0a-476f-8e9b-dc37502a515f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Eyes Cream
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: aa895a6f6d879e616bce7ac0b1d3d240
+bars_confidence: shape = (263,)
+bars_start: shape = (263,)
+beats_confidence: shape = (1056,)
+beats_start: shape = (1056,)
+danceability: 0.0
+duration: 492.30322
+end_of_fade_in: 0.624
+energy: 0.0
+key: 0
+key_confidence: 0.769
+loudness: -7.052
+mode: 0
+mode_confidence: 0.66
+release: Open Up Your Mind
+release_7digitalid: 148979
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (2659,)
+segments_loudness_max: shape = (2659,)
+segments_loudness_max_time: shape = (2659,)
+segments_loudness_start: shape = (2659,)
+segments_pitches: shape = (2659, 12)
+segments_start: shape = (2659,)
+segments_timbre: shape = (2659, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOUBBVK12A8C1344A6
+start_of_fade_out: 487.845
+tatums_confidence: shape = (2112,)
+tatums_start: shape = (2112,)
+tempo: 129.994
+time_signature: 4
+time_signature_confidence: 0.54
+title: Open Up Your Mind (Guido Osorio Club Mix)
+track_7digitalid: 1551240
+track_id: TRAOYPB128F425AF1C
+year: 2002

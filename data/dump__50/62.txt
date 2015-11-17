@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 262
+artist_familiarity: 0.871010615313
+artist_hotttnesss: 0.804830427831
+artist_id: ARTH9041187FB43E1F
+artist_latitude: nan
+artist_location: St. Joseph, MO
+artist_longitude: nan
+artist_mbid: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Eminem
+artist_playmeid: 549
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 9fcbc8ec645d74d15e3578cbe9c0968d
+bars_confidence: shape = (210,)
+bars_start: shape = (210,)
+beats_confidence: shape = (842,)
+beats_start: shape = (842,)
+danceability: 0.0
+duration: 291.10812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.067
+loudness: -3.353
+mode: 0
+mode_confidence: 0.419
+release: Curtain Call
+release_7digitalid: 389026
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1519,)
+segments_loudness_max: shape = (1519,)
+segments_loudness_max_time: shape = (1519,)
+segments_loudness_start: shape = (1519,)
+segments_pitches: shape = (1519, 12)
+segments_start: shape = (1519,)
+segments_timbre: shape = (1519, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQRRHL12AB017A67C
+start_of_fade_out: 278.32
+tatums_confidence: shape = (1685,)
+tatums_start: shape = (1685,)
+tempo: 174.731
+time_signature: 4
+time_signature_confidence: 0.862
+title: The Way I Am
+track_7digitalid: 4314191
+track_id: TRARFOC128F92ED401
+year: 2000

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 43787
+artist_familiarity: 0.842423318067
+artist_hotttnesss: 0.564855750477
+artist_id: ARCP94M1187B9B0F56
+artist_latitude: 42.88544
+artist_location: Buffalo, New York
+artist_longitude: -78.87846
+artist_mbid: ef90f210-f136-4386-ab37-8c00d04eeace
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Every Time I Die
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 3d202e9eae2dd1e6a4dbfa597a439a78
+bars_confidence: shape = (58,)
+bars_start: shape = (58,)
+beats_confidence: shape = (234,)
+beats_start: shape = (234,)
+danceability: 0.0
+duration: 148.92363
+end_of_fade_in: 0.078
+energy: 0.0
+key: 9
+key_confidence: 0.489
+loudness: -4.912
+mode: 1
+mode_confidence: 0.456
+release: The Big Dirty
+release_7digitalid: 124764
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (542,)
+segments_loudness_max: shape = (542,)
+segments_loudness_max_time: shape = (542,)
+segments_loudness_start: shape = (542,)
+segments_pitches: shape = (542, 12)
+segments_start: shape = (542,)
+segments_timbre: shape = (542, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.635164597961
+song_id: SOZPBWN12A58A7C3C4
+start_of_fade_out: 146.588
+tatums_confidence: shape = (938,)
+tatums_start: shape = (938,)
+tempo: 95.611
+time_signature: 4
+time_signature_confidence: 0.335
+title: Depressionista
+track_7digitalid: 1287881
+track_id: TRAFYYU128F4229376
+year: 2007

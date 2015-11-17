@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 466819
+artist_familiarity: 0.58543400972
+artist_hotttnesss: 0.375367266727
+artist_id: ARXAHU31187B9B1520
+artist_latitude: 51.50632
+artist_location: London
+artist_longitude: -0.12714
+artist_mbid: 70cfe8a4-1efb-4576-82a7-77533d4b9929
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Vex'd
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 75863a1c700a7683835ecc9c98c322a0
+bars_confidence: shape = (239,)
+bars_start: shape = (239,)
+beats_confidence: shape = (961,)
+beats_start: shape = (961,)
+danceability: 0.0
+duration: 365.03465
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.03
+loudness: -7.566
+mode: 0
+mode_confidence: 0.385
+release: Pop Pop / Canyon
+release_7digitalid: 627001
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1795,)
+segments_loudness_max: shape = (1795,)
+segments_loudness_max_time: shape = (1795,)
+segments_loudness_start: shape = (1795,)
+segments_pitches: shape = (1795, 12)
+segments_start: shape = (1795,)
+segments_timbre: shape = (1795, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.583678295608
+song_id: SOCPYWK12AB01832C7
+start_of_fade_out: 361.024
+tatums_confidence: shape = (1923,)
+tatums_start: shape = (1923,)
+tempo: 149.96
+time_signature: 4
+time_signature_confidence: 0.0
+title: Canyon
+track_7digitalid: 6960963
+track_id: TRALVNT128F931C4C6
+year: 2005

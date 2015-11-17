@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11464
+artist_familiarity: 0.588382121994
+artist_hotttnesss: 0.380979549774
+artist_id: AREUUVW1187B99A697
+artist_latitude: 40.7038
+artist_location: Queens, NY
+artist_longitude: -73.83168
+artist_mbid: a2567452-7d11-45a7-98ff-1cbbc8ba0910
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Paul Stanley
+artist_playmeid: -1
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 186a7a06fbb17b086c2f1c245b9504d4
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (434,)
+beats_start: shape = (434,)
+danceability: 0.0
+duration: 191.55546
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.477
+loudness: -7.196
+mode: 1
+mode_confidence: 0.589
+release: Paul Stanley
+release_7digitalid: 47036
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (588,)
+segments_loudness_max: shape = (588,)
+segments_loudness_max_time: shape = (588,)
+segments_loudness_start: shape = (588,)
+segments_pitches: shape = (588, 12)
+segments_start: shape = (588,)
+segments_timbre: shape = (588, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.705023455931
+song_id: SOFJJXH12A6D4F8104
+start_of_fade_out: 185.905
+tatums_confidence: shape = (868,)
+tatums_start: shape = (868,)
+tempo: 140.172
+time_signature: 4
+time_signature_confidence: 1.0
+title: Move On
+track_7digitalid: 503642
+track_id: TRBCGXN128F148C0CD
+year: 1978

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10180
+artist_familiarity: 0.74987636719
+artist_hotttnesss: 0.528302262284
+artist_id: AREHK7O1187B9ADDD7
+artist_latitude: nan
+artist_location: J�ping, Sweden
+artist_longitude: nan
+artist_mbid: 3e55d51d-687f-4a9d-af96-2fabccf802e5
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: The Cardigans
+artist_playmeid: 83087
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 724a5574de2a809350141424b1e7a60d
+bars_confidence: shape = (175,)
+bars_start: shape = (175,)
+beats_confidence: shape = (701,)
+beats_start: shape = (701,)
+danceability: 0.0
+duration: 296.85506
+end_of_fade_in: 19.336
+energy: 0.0
+key: 3
+key_confidence: 0.0
+loudness: -6.966
+mode: 1
+mode_confidence: 0.0
+release: Gran Turismo
+release_7digitalid: 14421
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (927,)
+segments_loudness_max: shape = (927,)
+segments_loudness_max_time: shape = (927,)
+segments_loudness_start: shape = (927,)
+segments_pitches: shape = (927, 12)
+segments_start: shape = (927,)
+segments_timbre: shape = (927, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.717391633536
+song_id: SOJCBAM12A6701FD04
+start_of_fade_out: 290.482
+tatums_confidence: shape = (1401,)
+tatums_start: shape = (1401,)
+tempo: 145.271
+time_signature: 4
+time_signature_confidence: 0.735
+title: Paralyzed
+track_7digitalid: 149635
+track_id: TRAGFPP128E078F34C
+year: 1998

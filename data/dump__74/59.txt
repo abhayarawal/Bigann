@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: -1
+artist_familiarity: 0.383789733831
+artist_hotttnesss: 0.251860619223
+artist_id: AR3SWQT1187B9B014F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c87c8e16-2438-4696-8fa1-b8f39173f86e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Vicious Mary
+artist_playmeid: -1
+artist_terms: shape = (7,)
+artist_terms_freq: shape = (7,)
+artist_terms_weight: shape = (7,)
+audio_md5: 754a49a224bb1c79443d7874a2f568a6
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (326,)
+beats_start: shape = (326,)
+danceability: 0.0
+duration: 229.22404
+end_of_fade_in: 5.579
+energy: 0.0
+key: 2
+key_confidence: 0.56
+loudness: -11.902
+mode: 0
+mode_confidence: 0.606
+release: Vicious Mary
+release_7digitalid: 198516
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (832,)
+segments_loudness_max: shape = (832,)
+segments_loudness_max_time: shape = (832,)
+segments_loudness_start: shape = (832,)
+segments_pitches: shape = (832, 12)
+segments_start: shape = (832,)
+segments_timbre: shape = (832, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHZDWZ12A8C136FBD
+start_of_fade_out: 219.893
+tatums_confidence: shape = (1305,)
+tatums_start: shape = (1305,)
+tempo: 88.984
+time_signature: 4
+time_signature_confidence: 0.504
+title: Keysage
+track_7digitalid: 2159849
+track_id: TRAZLZS128F425323D
+year: 0

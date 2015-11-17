@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 392792
+artist_familiarity: 0.337361712715
+artist_hotttnesss: 0.258106247437
+artist_id: ARZMWNY1187B99EBF1
+artist_latitude: 41.82387
+artist_location: Providence, RI
+artist_longitude: -71.41199
+artist_mbid: 8330d986-aff3-4d79-a22f-50eea8f1c7f2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Paul Geremia
+artist_playmeid: 96761
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 8ae94615f37c0ce055334f098b8fd18f
+bars_confidence: shape = (393,)
+bars_start: shape = (393,)
+beats_confidence: shape = (393,)
+beats_start: shape = (393,)
+danceability: 0.0
+duration: 204.56444
+end_of_fade_in: 0.397
+energy: 0.0
+key: 0
+key_confidence: 0.907
+loudness: -14.554
+mode: 1
+mode_confidence: 0.696
+release: Screamin' and Hollerin' The Blues
+release_7digitalid: 620938
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (776,)
+segments_loudness_max: shape = (776,)
+segments_loudness_max_time: shape = (776,)
+segments_loudness_start: shape = (776,)
+segments_pitches: shape = (776, 12)
+segments_start: shape = (776,)
+segments_timbre: shape = (776, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.319565986883
+song_id: SOOGMHS12AB017D84A
+start_of_fade_out: 196.325
+tatums_confidence: shape = (786,)
+tatums_start: shape = (786,)
+tempo: 116.318
+time_signature: 1
+time_signature_confidence: 0.0
+title: Tootie Blues
+track_7digitalid: 6897514
+track_id: TRAHDYQ128F930CE03
+year: 2004

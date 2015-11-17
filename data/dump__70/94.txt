@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 48634
+artist_familiarity: 0.548672435741
+artist_hotttnesss: 0.35850092274
+artist_id: ARGDY4Y1187B9A334F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: acefd28a-0735-4b1a-827d-bfa355611f55
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pyranja
+artist_playmeid: -1
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: f864c1c926de3cf8a3827e79f4fc23f2
+bars_confidence: shape = (112,)
+bars_start: shape = (112,)
+beats_confidence: shape = (451,)
+beats_start: shape = (451,)
+danceability: 0.0
+duration: 317.09995
+end_of_fade_in: 0.147
+energy: 0.0
+key: 6
+key_confidence: 0.575
+loudness: -12.367
+mode: 0
+mode_confidence: 0.498
+release: Nie Wieder
+release_7digitalid: 714552
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1425,)
+segments_loudness_max: shape = (1425,)
+segments_loudness_max_time: shape = (1425,)
+segments_loudness_start: shape = (1425,)
+segments_pitches: shape = (1425, 12)
+segments_start: shape = (1425,)
+segments_timbre: shape = (1425, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYYWRQ12AB01881C2
+start_of_fade_out: 312.053
+tatums_confidence: shape = (1804,)
+tatums_start: shape = (1804,)
+tempo: 85.989
+time_signature: 4
+time_signature_confidence: 1.0
+title: Nie Wieder (Toktok RMX)
+track_7digitalid: 7925048
+track_id: TRAYGYF12903CBE1D6
+year: 2006

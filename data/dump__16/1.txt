@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 60986
+artist_familiarity: 0.543971486596
+artist_hotttnesss: 0.358685666234
+artist_id: ARWF1KM1187B9908CA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: dbec3b6d-a3f6-410b-9fc5-5cf62008c598
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Spliff
+artist_playmeid: 26856
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: b9a0c529210cb6d8c4714c04796a4d27
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (407,)
+beats_start: shape = (407,)
+danceability: 0.0
+duration: 225.74975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.004
+loudness: -15.893
+mode: 1
+mode_confidence: 0.181
+release: 85555
+release_7digitalid: 292085
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (940,)
+segments_loudness_max: shape = (940,)
+segments_loudness_max_time: shape = (940,)
+segments_loudness_start: shape = (940,)
+segments_pitches: shape = (940, 12)
+segments_start: shape = (940,)
+segments_timbre: shape = (940, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.433861381879
+song_id: SOHWJYQ12A8C13658B
+start_of_fade_out: 205.967
+tatums_confidence: shape = (813,)
+tatums_start: shape = (813,)
+tempo: 110.598
+time_signature: 4
+time_signature_confidence: 0.912
+title: S.O.S.
+track_7digitalid: 3279679
+track_id: TRAFLAR128F427FE8D
+year: 1988

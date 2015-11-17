@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 313303
+artist_familiarity: 0.710531387969
+artist_hotttnesss: 0.433728781426
+artist_id: ARATR0U1187B9B76D0
+artist_latitude: nan
+artist_location: San Francisco CA
+artist_longitude: nan
+artist_mbid: 7a52d619-ebb3-4f95-838f-fbdd4aba646d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dead To Me
+artist_playmeid: 51822
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 88191179fa6a4599c249b7b5078bbc1b
+bars_confidence: shape = (40,)
+bars_start: shape = (40,)
+beats_confidence: shape = (162,)
+beats_start: shape = (162,)
+danceability: 0.0
+duration: 105.42975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.07
+loudness: -6.5
+mode: 1
+mode_confidence: 0.309
+release: Little Brother
+release_7digitalid: 415991
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (318,)
+segments_loudness_max: shape = (318,)
+segments_loudness_max_time: shape = (318,)
+segments_loudness_start: shape = (318,)
+segments_pitches: shape = (318, 12)
+segments_start: shape = (318,)
+segments_timbre: shape = (318, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.561692411179
+song_id: SOOFFET12AB0181D0D
+start_of_fade_out: 105.43
+tatums_confidence: shape = (648,)
+tatums_start: shape = (648,)
+tempo: 93.161
+time_signature: 4
+time_signature_confidence: 0.435
+title: What's Wrong
+track_7digitalid: 4628805
+track_id: TRAXBVE128F932BD11
+year: 2008

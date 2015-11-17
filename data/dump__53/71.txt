@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 173746
+artist_familiarity: 0.540123026187
+artist_hotttnesss: 0.376200928781
+artist_id: ARD4KNM1187FB3626A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c1281222-c989-4987-a87e-9a42a65727f0
+artist_mbtags: shape = (13,)
+artist_mbtags_count: shape = (13,)
+artist_name: Liquid Stranger
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 23b3dce0d9e171bc9c5e413fd246b1dd
+bars_confidence: shape = (140,)
+bars_start: shape = (140,)
+beats_confidence: shape = (561,)
+beats_start: shape = (561,)
+danceability: 0.0
+duration: 249.49506
+end_of_fade_in: 0.084
+energy: 0.0
+key: 9
+key_confidence: 0.729
+loudness: -11.727
+mode: 1
+mode_confidence: 0.527
+release: The Invisible Conquest
+release_7digitalid: 229474
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1036,)
+segments_loudness_max: shape = (1036,)
+segments_loudness_max_time: shape = (1036,)
+segments_loudness_start: shape = (1036,)
+segments_pitches: shape = (1036, 12)
+segments_start: shape = (1036,)
+segments_timbre: shape = (1036, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.434838090261
+song_id: SOTPVJM12A6D4FC3C4
+start_of_fade_out: 239.92
+tatums_confidence: shape = (1123,)
+tatums_start: shape = (1123,)
+tempo: 136.936
+time_signature: 4
+time_signature_confidence: 0.0
+title: Drop Sacrifice
+track_7digitalid: 2512805
+track_id: TRASJHN128F421E3F1
+year: 2007

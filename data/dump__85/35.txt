@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6997
+artist_familiarity: 0.390760839853
+artist_hotttnesss: 0.2076758378
+artist_id: ARLLANI1187FB5116F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: be0363b0-35ca-41c7-9770-17f73deb77e7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Simon Harris
+artist_playmeid: 53213
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 86c25b01d33310fe31e31e99392c5d29
+bars_confidence: shape = (347,)
+bars_start: shape = (347,)
+beats_confidence: shape = (347,)
+beats_start: shape = (347,)
+danceability: 0.0
+duration: 187.16689
+end_of_fade_in: 1.025
+energy: 0.0
+key: 9
+key_confidence: 0.417
+loudness: -15.787
+mode: 0
+mode_confidence: 0.481
+release: Gimme A Break
+release_7digitalid: 462645
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (872,)
+segments_loudness_max: shape = (872,)
+segments_loudness_max_time: shape = (872,)
+segments_loudness_start: shape = (872,)
+segments_pitches: shape = (872, 12)
+segments_start: shape = (872,)
+segments_timbre: shape = (872, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIAWUS12AB0187B0B
+start_of_fade_out: 175.525
+tatums_confidence: shape = (694,)
+tatums_start: shape = (694,)
+tempo: 114.169
+time_signature: 1
+time_signature_confidence: 0.0
+title: Sample Track 11
+track_7digitalid: 5150197
+track_id: TRBDHZH128F932F55D
+year: 0

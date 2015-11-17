@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 37807
+artist_familiarity: 0.329122231585
+artist_hotttnesss: 0.320460182395
+artist_id: ARVNBNU1252CCFA156
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Larry The Cable Guy
+artist_playmeid: -1
+artist_terms: shape = (7,)
+artist_terms_freq: shape = (7,)
+artist_terms_weight: shape = (7,)
+audio_md5: eb4591029fe9e352bf5775189ba9c2c4
+bars_confidence: shape = (155,)
+bars_start: shape = (155,)
+beats_confidence: shape = (155,)
+beats_start: shape = (155,)
+danceability: 0.0
+duration: 148.37506
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.0
+loudness: -12.149
+mode: 1
+mode_confidence: 0.0
+release: The Best Of Blue Collar Comedy
+release_7digitalid: 597540
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (541,)
+segments_loudness_max: shape = (541,)
+segments_loudness_max_time: shape = (541,)
+segments_loudness_start: shape = (541,)
+segments_pitches: shape = (541, 12)
+segments_start: shape = (541,)
+segments_timbre: shape = (541, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFLKLL12AC468B353
+start_of_fade_out: 148.375
+tatums_confidence: shape = (466,)
+tatums_start: shape = (466,)
+tempo: 62.018
+time_signature: 1
+time_signature_confidence: 0.793
+title: Bass Pro Shop & Wal-Mart
+track_7digitalid: 6632247
+track_id: TRADRZG12903CE75B5
+year: 2009

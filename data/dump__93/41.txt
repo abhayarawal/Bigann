@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10864
+artist_familiarity: 0.537849447116
+artist_hotttnesss: 0.36419124423
+artist_id: ARKVD621187B9B95FC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4043e97e-8a69-424f-bf59-16bc8aac71e6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Remy Shand
+artist_playmeid: -1
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 22a53b7697a2861f479fe43e76886234
+bars_confidence: shape = (182,)
+bars_start: shape = (182,)
+beats_confidence: shape = (732,)
+beats_start: shape = (732,)
+danceability: 0.0
+duration: 250.77506
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.46
+loudness: -6.188
+mode: 0
+mode_confidence: 0.558
+release: The Way I Feel
+release_7digitalid: 345794
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1098,)
+segments_loudness_max: shape = (1098,)
+segments_loudness_max_time: shape = (1098,)
+segments_loudness_start: shape = (1098,)
+segments_pitches: shape = (1098, 12)
+segments_start: shape = (1098,)
+segments_timbre: shape = (1098, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCISDR12A58A7EBF3
+start_of_fade_out: 246.404
+tatums_confidence: shape = (1464,)
+tatums_start: shape = (1464,)
+tempo: 177.963
+time_signature: 4
+time_signature_confidence: 0.917
+title: The Second One
+track_7digitalid: 3875835
+track_id: TRBGGOS128F9307FC5
+year: 2002

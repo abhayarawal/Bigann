@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4899
+artist_familiarity: 0.614642954159
+artist_hotttnesss: 0.439024561207
+artist_id: ARSYKGV1187B9A49CD
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8e8c6fd6-c96a-4296-9c11-90452394b1bc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Nicole C. Mullen
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: b8109046516514626a269c7b477308e8
+bars_confidence: shape = (69,)
+bars_start: shape = (69,)
+beats_confidence: shape = (354,)
+beats_start: shape = (354,)
+danceability: 0.0
+duration: 164.8322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.31
+loudness: -5.946
+mode: 1
+mode_confidence: 0.282
+release: Everyday People
+release_7digitalid: 7085
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (761,)
+segments_loudness_max: shape = (761,)
+segments_loudness_max_time: shape = (761,)
+segments_loudness_start: shape = (761,)
+segments_pitches: shape = (761, 12)
+segments_start: shape = (761,)
+segments_timbre: shape = (761, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOSKVKM12A6702153C
+start_of_fade_out: 157.373
+tatums_confidence: shape = (1061,)
+tatums_start: shape = (1061,)
+tempo: 130.64
+time_signature: 5
+time_signature_confidence: 0.885
+title: This This (LP Version)
+track_7digitalid: 71619
+track_id: TRACVBQ128E07855EE
+year: 0

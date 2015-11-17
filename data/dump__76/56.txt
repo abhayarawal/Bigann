@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21128
+artist_familiarity: 0.801136449608
+artist_hotttnesss: 0.605507135691
+artist_id: AR10USD1187B99F3F1
+artist_latitude: nan
+artist_location: Burlington, Ontario, Canada
+artist_longitude: nan
+artist_mbid: d89de379-665d-425c-b2e9-41b95d1edb36
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Silverstein
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: b19a4d7f7a3277d9343eb9a062dcdc89
+bars_confidence: shape = (176,)
+bars_start: shape = (176,)
+beats_confidence: shape = (529,)
+beats_start: shape = (529,)
+danceability: 0.0
+duration: 214.04689
+end_of_fade_in: 0.57
+energy: 0.0
+key: 7
+key_confidence: 0.525
+loudness: -7.896
+mode: 1
+mode_confidence: 0.67
+release: 18 CANDLES: THE EARLY YEARS
+release_7digitalid: 128135
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (689,)
+segments_loudness_max: shape = (689,)
+segments_loudness_max_time: shape = (689,)
+segments_loudness_start: shape = (689,)
+segments_pitches: shape = (689, 12)
+segments_start: shape = (689,)
+segments_timbre: shape = (689, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.592932119248
+song_id: SOOHLUK12A6D4FBB1D
+start_of_fade_out: 211.302
+tatums_confidence: shape = (1058,)
+tatums_start: shape = (1058,)
+tempo: 150.13
+time_signature: 3
+time_signature_confidence: 0.852
+title: MY HERIONE (Acoustic Version)
+track_7digitalid: 1322895
+track_id: TRBADFY128F422F325
+year: 2006

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 165469
+artist_familiarity: 0.518337025822
+artist_hotttnesss: 0.335335108329
+artist_id: AR26XQ61187FB36CF3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9a0117a8-6930-4bb0-9b7b-77362e2a1c6b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Geggy Tah
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 1323e71500ecc75a7621818619c2f746
+bars_confidence: shape = (97,)
+bars_start: shape = (97,)
+beats_confidence: shape = (390,)
+beats_start: shape = (390,)
+danceability: 0.0
+duration: 165.40689
+end_of_fade_in: 6.751
+energy: 0.0
+key: 0
+key_confidence: 0.079
+loudness: -12.987
+mode: 1
+mode_confidence: 0.286
+release: Sacred Cow
+release_7digitalid: 218944
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (489,)
+segments_loudness_max: shape = (489,)
+segments_loudness_max_time: shape = (489,)
+segments_loudness_start: shape = (489,)
+segments_pitches: shape = (489, 12)
+segments_start: shape = (489,)
+segments_timbre: shape = (489, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3759843015
+song_id: SODGSCA12A8C13F157
+start_of_fade_out: 156.723
+tatums_confidence: shape = (779,)
+tatums_start: shape = (779,)
+tempo: 147.508
+time_signature: 4
+time_signature_confidence: 0.518
+title: Gina
+track_7digitalid: 2388092
+track_id: TRAEPAW128F4285BAB
+year: 1996

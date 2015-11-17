@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 33141
+artist_familiarity: 0.743792497642
+artist_hotttnesss: 0.472670741053
+artist_id: ARYGXKQ11E2835CE3B
+artist_latitude: nan
+artist_location: New York, NY [Queens]
+artist_longitude: nan
+artist_mbid: 6c81c5d0-5159-4be8-b774-aa8397ed5a93
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Styles P
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 75b2c3ceb33cf097df99653c86919d3e
+bars_confidence: shape = (33,)
+bars_start: shape = (33,)
+beats_confidence: shape = (102,)
+beats_start: shape = (102,)
+danceability: 0.0
+duration: 57.57342
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.432
+loudness: -7.495
+mode: 0
+mode_confidence: 0.32
+release: The Art of War Volume 4
+release_7digitalid: 447646
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (252,)
+segments_loudness_max: shape = (252,)
+segments_loudness_max_time: shape = (252,)
+segments_loudness_start: shape = (252,)
+segments_pitches: shape = (252, 12)
+segments_start: shape = (252,)
+segments_timbre: shape = (252, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZLSQF12AB01852C1
+start_of_fade_out: 57.573
+tatums_confidence: shape = (204,)
+tatums_start: shape = (204,)
+tempo: 105.532
+time_signature: 3
+time_signature_confidence: 0.689
+title: Styles P Speaks (Interlude)
+track_7digitalid: 4966473
+track_id: TRAQMYS128F930582B
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10554
+artist_familiarity: 0.637772159418
+artist_hotttnesss: 0.540832551952
+artist_id: AR2O3B51187B98CD94
+artist_latitude: 35.2225
+artist_location: Charlotte, NC
+artist_longitude: -80.83754
+artist_mbid: 5a5d32e1-f3d2-4fde-8b41-24a78e696b83
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cece Winans
+artist_playmeid: 8496
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 4a0146aabca8ef84ce9964fb85004bb9
+bars_confidence: shape = (129,)
+bars_start: shape = (129,)
+beats_confidence: shape = (391,)
+beats_start: shape = (391,)
+danceability: 0.0
+duration: 248.2673
+end_of_fade_in: 0.212
+energy: 0.0
+key: 0
+key_confidence: 0.104
+loudness: -8.19
+mode: 0
+mode_confidence: 0.297
+release: Everlasting Love
+release_7digitalid: 514111
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (788,)
+segments_loudness_max: shape = (788,)
+segments_loudness_max_time: shape = (788,)
+segments_loudness_start: shape = (788,)
+segments_pitches: shape = (788, 12)
+segments_start: shape = (788,)
+segments_timbre: shape = (788, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.270775998946
+song_id: SOGNYHP12AF72A777F
+start_of_fade_out: 232.2
+tatums_confidence: shape = (782,)
+tatums_start: shape = (782,)
+tempo: 95.997
+time_signature: 3
+time_signature_confidence: 1.0
+title: Come On Back Home
+track_7digitalid: 5691384
+track_id: TRBGEGB128F9345BD0
+year: 1998

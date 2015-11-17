@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 44243
+artist_familiarity: 0.489318161699
+artist_hotttnesss: 0.251165925092
+artist_id: ARM86R71187FB4CBB4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c6d2724e-4c37-43e7-bd7b-daa70443844a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Christian Quast
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 7b7cfeaf03813cfe910bf867aae254c3
+bars_confidence: shape = (256,)
+bars_start: shape = (256,)
+beats_confidence: shape = (1026,)
+beats_start: shape = (1026,)
+danceability: 0.0
+duration: 485.14567
+end_of_fade_in: 2.177
+energy: 0.0
+key: 7
+key_confidence: 0.443
+loudness: -15.252
+mode: 1
+mode_confidence: 0.495
+release: Spank! It up
+release_7digitalid: 389352
+sections_confidence: shape = (21,)
+sections_start: shape = (21,)
+segments_confidence: shape = (3038,)
+segments_loudness_max: shape = (3038,)
+segments_loudness_max_time: shape = (3038,)
+segments_loudness_start: shape = (3038,)
+segments_pitches: shape = (3038, 12)
+segments_start: shape = (3038,)
+segments_timbre: shape = (3038, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOIEMSI12AB01802B4
+start_of_fade_out: 477.35
+tatums_confidence: shape = (2051,)
+tatums_start: shape = (2051,)
+tempo: 126.914
+time_signature: 4
+time_signature_confidence: 1.0
+title: Jugglin' Clown
+track_7digitalid: 4319570
+track_id: TRARQPW128F92EE8B8
+year: 0

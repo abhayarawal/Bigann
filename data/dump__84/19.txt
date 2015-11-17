@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1455
+artist_familiarity: 0.827357260054
+artist_hotttnesss: 0.752927890401
+artist_id: ARDCFNZ1187FB3DDB0
+artist_latitude: nan
+artist_location: Madrid, Spain
+artist_longitude: nan
+artist_mbid: 35f866dc-c061-48ba-8157-cf2e0eac4857
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Enrique Iglesias
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 4c517ec39936c25ea9da069baba07947
+bars_confidence: shape = (116,)
+bars_start: shape = (116,)
+beats_confidence: shape = (467,)
+beats_start: shape = (467,)
+danceability: 0.0
+duration: 234.81424
+end_of_fade_in: 0.155
+energy: 0.0
+key: 11
+key_confidence: 0.034
+loudness: -4.704
+mode: 0
+mode_confidence: 0.322
+release: Can You Hear Me
+release_7digitalid: 350598
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (920,)
+segments_loudness_max: shape = (920,)
+segments_loudness_max_time: shape = (920,)
+segments_loudness_start: shape = (920,)
+segments_pitches: shape = (920, 12)
+segments_start: shape = (920,)
+segments_timbre: shape = (920, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPUPYW12A8C13DEC9
+start_of_fade_out: 223.881
+tatums_confidence: shape = (933,)
+tatums_start: shape = (933,)
+tempo: 119.969
+time_signature: 4
+time_signature_confidence: 0.0
+title: Can You Hear Me
+track_7digitalid: 3918668
+track_id: TRBCWNH128F93103EE
+year: 2008

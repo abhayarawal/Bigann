@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 611754
+artist_familiarity: 0.0196308880799
+artist_hotttnesss: 0.0
+artist_id: ARECCJL1269FCCE7FD
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sven Scholander
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: a9e581afdca4c4bb36c42142190131dd
+bars_confidence: shape = (352,)
+bars_start: shape = (352,)
+beats_confidence: shape = (352,)
+beats_start: shape = (352,)
+danceability: 0.0
+duration: 191.42485
+end_of_fade_in: 0.292
+energy: 0.0
+key: 0
+key_confidence: 0.7
+loudness: -18.283
+mode: 1
+mode_confidence: 0.626
+release: Visans Gyllene Tid
+release_7digitalid: 821363
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (691,)
+segments_loudness_max: shape = (691,)
+segments_loudness_max_time: shape = (691,)
+segments_loudness_start: shape = (691,)
+segments_pitches: shape = (691, 12)
+segments_start: shape = (691,)
+segments_timbre: shape = (691, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOOLJYX12AB018FE92
+start_of_fade_out: 184.715
+tatums_confidence: shape = (703,)
+tatums_start: shape = (703,)
+tempo: 113.01
+time_signature: 1
+time_signature_confidence: 0.0
+title: Melangtäras intåg i Kallsta
+track_7digitalid: 9068335
+track_id: TRAOJGD12903CE9F70
+year: 0

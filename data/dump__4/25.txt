@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 325415
+artist_familiarity: 0.224787870774
+artist_hotttnesss: 0.243053210237
+artist_id: ARD88QA119B3403A02
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 334e6c0e-b7dd-4734-8bcc-97ec756df95d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Cosmosamatics
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 4ee579af58e2baaf1e572019ec13280d
+bars_confidence: shape = (57,)
+bars_start: shape = (57,)
+beats_confidence: shape = (364,)
+beats_start: shape = (364,)
+danceability: 0.0
+duration: 338.36363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.561
+loudness: -14.952
+mode: 1
+mode_confidence: 0.532
+release: Zetrons
+release_7digitalid: 436788
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1146,)
+segments_loudness_max: shape = (1146,)
+segments_loudness_max_time: shape = (1146,)
+segments_loudness_start: shape = (1146,)
+segments_pitches: shape = (1146, 12)
+segments_start: shape = (1146,)
+segments_timbre: shape = (1146, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHVUPT12AB0180D45
+start_of_fade_out: 330.362
+tatums_confidence: shape = (1094,)
+tatums_start: shape = (1094,)
+tempo: 65.054
+time_signature: 4
+time_signature_confidence: 0.275
+title: Serene
+track_7digitalid: 4867595
+track_id: TRABJRI128F92EDF92
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 52074
+artist_familiarity: 0.485855595673
+artist_hotttnesss: 0.362960597112
+artist_id: AR9LT7R1187FB4543A
+artist_latitude: 30.16602
+artist_location: Brenham, TX
+artist_longitude: -96.39998
+artist_mbid: ae2a2620-fac8-456b-b9ea-14b609879dca
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Darden Smith
+artist_playmeid: 16265
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: c5adb139f1b22ea90494395a1a28cccc
+bars_confidence: shape = (126,)
+bars_start: shape = (126,)
+beats_confidence: shape = (509,)
+beats_start: shape = (509,)
+danceability: 0.0
+duration: 207.41179
+end_of_fade_in: 0.154
+energy: 0.0
+key: 5
+key_confidence: 0.346
+loudness: -10.052
+mode: 0
+mode_confidence: 0.392
+release: Extra Extra
+release_7digitalid: 250581
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (807,)
+segments_loudness_max: shape = (807,)
+segments_loudness_max_time: shape = (807,)
+segments_loudness_start: shape = (807,)
+segments_pitches: shape = (807, 12)
+segments_start: shape = (807,)
+segments_timbre: shape = (807, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVNCCQ12A8C136CB3
+start_of_fade_out: 196.354
+tatums_confidence: shape = (509,)
+tatums_start: shape = (509,)
+tempo: 153.974
+time_signature: 4
+time_signature_confidence: 0.684
+title: Frankie & Sue
+track_7digitalid: 2718623
+track_id: TRBBGMS128F424C656
+year: 1990

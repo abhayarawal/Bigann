@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4921
+artist_familiarity: 0.547947708554
+artist_hotttnesss: 0.325824019259
+artist_id: AREVQ7D1187FB4371B
+artist_latitude: nan
+artist_location: California - LA
+artist_longitude: nan
+artist_mbid: 289d26e4-8935-4f27-9ddc-fe0ee445d6b7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Randy Stonehill
+artist_playmeid: 17338
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: d6063f7726866f1a9711fc360fff9f22
+bars_confidence: shape = (96,)
+bars_start: shape = (96,)
+beats_confidence: shape = (485,)
+beats_start: shape = (485,)
+danceability: 0.0
+duration: 215.2224
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.255
+loudness: -13.538
+mode: 1
+mode_confidence: 0.253
+release: Love Beyond Reason
+release_7digitalid: 20133
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (945,)
+segments_loudness_max: shape = (945,)
+segments_loudness_max_time: shape = (945,)
+segments_loudness_start: shape = (945,)
+segments_pitches: shape = (945, 12)
+segments_start: shape = (945,)
+segments_timbre: shape = (945, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHWVRC12A6D4F6DA6
+start_of_fade_out: 211.772
+tatums_confidence: shape = (1455,)
+tatums_start: shape = (1455,)
+tempo: 137.113
+time_signature: 5
+time_signature_confidence: 0.582
+title: Angry Young Men (LP Version)
+track_7digitalid: 209974
+track_id: TRBDOEW128F1452A7B
+year: 0

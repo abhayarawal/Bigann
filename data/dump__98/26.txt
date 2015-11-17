@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 379
+artist_familiarity: 0.700446614386
+artist_hotttnesss: 0.528795206131
+artist_id: AR0XSOO1187B9B9E88
+artist_latitude: 51.50632
+artist_location: London / Ex-Manchester
+artist_longitude: -0.12714
+artist_mbid: 31e9c35b-2675-4632-8596-f9bd9286f6c8
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Buzzcocks
+artist_playmeid: 38956
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 558de1dfad57757ee929415b49aeb000
+bars_confidence: shape = (77,)
+bars_start: shape = (77,)
+beats_confidence: shape = (392,)
+beats_start: shape = (392,)
+danceability: 0.0
+duration: 135.23546
+end_of_fade_in: 0.432
+energy: 0.0
+key: 6
+key_confidence: 0.237
+loudness: -7.324
+mode: 0
+mode_confidence: 0.486
+release: Chronology
+release_7digitalid: 986
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (445,)
+segments_loudness_max: shape = (445,)
+segments_loudness_max_time: shape = (445,)
+segments_loudness_start: shape = (445,)
+segments_pitches: shape = (445, 12)
+segments_start: shape = (445,)
+segments_timbre: shape = (445, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SOPYTWT12A6310EEF5
+start_of_fade_out: 124.68
+tatums_confidence: shape = (784,)
+tatums_start: shape = (784,)
+tempo: 177.551
+time_signature: 5
+time_signature_confidence: 0.632
+title: No Reply (Demo)
+track_7digitalid: 9239
+track_id: TRBHUBB128E0782209
+year: 2008

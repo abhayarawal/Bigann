@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3972
+artist_familiarity: 0.770847750968
+artist_hotttnesss: 0.452102264925
+artist_id: AR5OH1V1187FB574C3
+artist_latitude: nan
+artist_location: Shreveport, LA
+artist_longitude: nan
+artist_mbid: c5f42b91-82b9-466c-891c-a9cc391b50bc
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Vivian
+artist_playmeid: -1
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: ecb6b80ca3a6b5b49affba7785b992b2
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (383,)
+beats_start: shape = (383,)
+danceability: 0.0
+duration: 229.61587
+end_of_fade_in: 0.316
+energy: 0.0
+key: 9
+key_confidence: 0.003
+loudness: -6.859
+mode: 0
+mode_confidence: 0.0
+release: Vivianism
+release_7digitalid: 78341
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (688,)
+segments_loudness_max: shape = (688,)
+segments_loudness_max_time: shape = (688,)
+segments_loudness_start: shape = (688,)
+segments_pitches: shape = (688, 12)
+segments_start: shape = (688,)
+segments_timbre: shape = (688, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOGRKOS12AB0185A46
+start_of_fade_out: 226.017
+tatums_confidence: shape = (1531,)
+tatums_start: shape = (1531,)
+tempo: 101.139
+time_signature: 4
+time_signature_confidence: 0.794
+title: Streets On Fire
+track_7digitalid: 6003035
+track_id: TRBDITK128F931B9A7
+year: 0

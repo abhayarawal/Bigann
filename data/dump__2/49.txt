@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 106
+artist_familiarity: 0.843526543333
+artist_hotttnesss: 0.750311503248
+artist_id: ARUJ5A41187FB3F5F1
+artist_latitude: nan
+artist_location: Dublin, Ireland
+artist_longitude: nan
+artist_mbid: a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: U2
+artist_playmeid: 1636
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 913d80ce70cba0e9c3bb03ab9245dad3
+bars_confidence: shape = (264,)
+bars_start: shape = (264,)
+beats_confidence: shape = (1062,)
+beats_start: shape = (1062,)
+danceability: 0.0
+duration: 485.19791
+end_of_fade_in: 4.923
+energy: 0.0
+key: 3
+key_confidence: 0.878
+loudness: -7.614
+mode: 1
+mode_confidence: 0.916
+release: Window In The Skies
+release_7digitalid: 53563
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1332,)
+segments_loudness_max: shape = (1332,)
+segments_loudness_max_time: shape = (1332,)
+segments_loudness_start: shape = (1332,)
+segments_pitches: shape = (1332, 12)
+segments_start: shape = (1332,)
+segments_timbre: shape = (1332, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZWHVZ12A6D4F90E7
+start_of_fade_out: 474.517
+tatums_confidence: shape = (2123,)
+tatums_start: shape = (2123,)
+tempo: 134.083
+time_signature: 4
+time_signature_confidence: 0.662
+title: Kite Live from Sydney
+track_7digitalid: 558454
+track_id: TRAATMY128F149562F
+year: 2007

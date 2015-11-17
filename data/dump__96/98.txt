@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 32056
+artist_familiarity: 0.739047423745
+artist_hotttnesss: 0.541602502515
+artist_id: ARW9QSZ1187FB4B93E
+artist_latitude: nan
+artist_location: Liverpool, England
+artist_longitude: nan
+artist_mbid: 42a8f507-8412-4611-854f-926571049fa0
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: George Harrison
+artist_playmeid: 2054
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: d43ec496c5de62b989f2f34179926a53
+bars_confidence: shape = (110,)
+bars_start: shape = (110,)
+beats_confidence: shape = (445,)
+beats_start: shape = (445,)
+danceability: 0.0
+duration: 226.40281
+end_of_fade_in: 0.206
+energy: 0.0
+key: 9
+key_confidence: 0.156
+loudness: -6.466
+mode: 1
+mode_confidence: 0.494
+release: Let It Roll - Songs Of George Harrison
+release_7digitalid: 479056
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (571,)
+segments_loudness_max: shape = (571,)
+segments_loudness_max_time: shape = (571,)
+segments_loudness_start: shape = (571,)
+segments_pitches: shape = (571, 12)
+segments_start: shape = (571,)
+segments_timbre: shape = (571, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFCCPN12A8C1435FE
+start_of_fade_out: 215.893
+tatums_confidence: shape = (890,)
+tatums_start: shape = (890,)
+tempo: 122.341
+time_signature: 4
+time_signature_confidence: 0.0
+title: All Things Must Pass (2009 Digital Remaster)
+track_7digitalid: 5317915
+track_id: TRBHJUJ128F92EBE24
+year: 0

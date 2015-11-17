@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 47619
+artist_familiarity: 0.28393322497
+artist_hotttnesss: 0.25619508901
+artist_id: ARI0XA21187B9B26FC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d1bd2d04-d93b-4360-b6a9-aecb0e92a6b7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tri Atma
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 3531e8e049511abfa0ce6b21c3913b0d
+bars_confidence: shape = (149,)
+bars_start: shape = (149,)
+beats_confidence: shape = (597,)
+beats_start: shape = (597,)
+danceability: 0.0
+duration: 325.04118
+end_of_fade_in: 0.362
+energy: 0.0
+key: 9
+key_confidence: 0.549
+loudness: -12.269
+mode: 0
+mode_confidence: 0.402
+release: Belong To The Sun!
+release_7digitalid: 61900
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1571,)
+segments_loudness_max: shape = (1571,)
+segments_loudness_max_time: shape = (1571,)
+segments_loudness_start: shape = (1571,)
+segments_pitches: shape = (1571, 12)
+segments_start: shape = (1571,)
+segments_timbre: shape = (1571, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOSNLRT12A6D4FC150
+start_of_fade_out: 300.437
+tatums_confidence: shape = (2391,)
+tatums_start: shape = (2391,)
+tempo: 110.651
+time_signature: 4
+time_signature_confidence: 0.273
+title: RAMUKA
+track_7digitalid: 640823
+track_id: TRBEDXK128F14A7EC0
+year: 0

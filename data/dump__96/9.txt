@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 351261
+artist_familiarity: 0.500781985821
+artist_hotttnesss: 0.389029365984
+artist_id: ARVQTZP1187FB40283
+artist_latitude: 37.77916
+artist_location: California - SF
+artist_longitude: -122.42005
+artist_mbid: ae7defd2-004f-4d98-a06b-251fd73d07c7
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Constance Demby
+artist_playmeid: -1
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: c6562eac2d9ae8199c8630967451895d
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (356,)
+beats_start: shape = (356,)
+danceability: 0.0
+duration: 259.36934
+end_of_fade_in: 3.024
+energy: 0.0
+key: 6
+key_confidence: 0.033
+loudness: -8.273
+mode: 1
+mode_confidence: 0.436
+release: Set Free - The Definitive Edition
+release_7digitalid: 476209
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (952,)
+segments_loudness_max: shape = (952,)
+segments_loudness_max_time: shape = (952,)
+segments_loudness_start: shape = (952,)
+segments_pitches: shape = (952, 12)
+segments_start: shape = (952,)
+segments_timbre: shape = (952, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOPWTDE12A8C143C71
+start_of_fade_out: 250.253
+tatums_confidence: shape = (1423,)
+tatums_start: shape = (1423,)
+tempo: 85.155
+time_signature: 4
+time_signature_confidence: 0.198
+title: Javalon
+track_7digitalid: 5287973
+track_id: TRBHDIU128F92E49B7
+year: 1989

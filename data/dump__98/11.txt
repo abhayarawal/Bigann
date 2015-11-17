@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2852
+artist_familiarity: 0.506126773892
+artist_hotttnesss: 0.350787890875
+artist_id: AR5GLIU1187FB4638A
+artist_latitude: nan
+artist_location: Memphis, TN
+artist_longitude: nan
+artist_mbid: a147eefb-0e07-432d-bd1f-8edf7679a7da
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Memphis Jug Band
+artist_playmeid: 21159
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: ebb4f6e2f34dd81ca92b807f71a3a258
+bars_confidence: shape = (288,)
+bars_start: shape = (288,)
+beats_confidence: shape = (288,)
+beats_start: shape = (288,)
+danceability: 0.0
+duration: 184.52853
+end_of_fade_in: 1.565
+energy: 0.0
+key: 3
+key_confidence: 0.413
+loudness: -27.737
+mode: 0
+mode_confidence: 0.29
+release: Move That Thing Vol 2
+release_7digitalid: 765209
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (549,)
+segments_loudness_max: shape = (549,)
+segments_loudness_max_time: shape = (549,)
+segments_loudness_start: shape = (549,)
+segments_pitches: shape = (549, 12)
+segments_start: shape = (549,)
+segments_timbre: shape = (549, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAECCP12AB0186ADB
+start_of_fade_out: 179.206
+tatums_confidence: shape = (576,)
+tatums_start: shape = (576,)
+tempo: 94.853
+time_signature: 1
+time_signature_confidence: 0.0
+title: Spider's Nest Blues
+track_7digitalid: 8471053
+track_id: TRBHSOA12903CCC4B2
+year: 2005

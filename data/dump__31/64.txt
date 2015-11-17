@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 353456
+artist_familiarity: 0.42759126058
+artist_hotttnesss: 0.322421109994
+artist_id: AR8J32V1187FB4F874
+artist_latitude: 49.08215
+artist_location: Kremenchuk, Ukraine
+artist_longitude: 33.43009
+artist_mbid: 0ed6e209-dd4d-4c47-b6d0-c3a1ae06fef5
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Dimitri Tiomkin
+artist_playmeid: 23701
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: db2b8abd02db2669683516c86065d0a6
+bars_confidence: shape = (273,)
+bars_start: shape = (273,)
+beats_confidence: shape = (273,)
+beats_start: shape = (273,)
+danceability: 0.0
+duration: 192.7571
+end_of_fade_in: 0.374
+energy: 0.0
+key: 9
+key_confidence: 0.459
+loudness: -13.419
+mode: 0
+mode_confidence: 0.566
+release: Friendly Persuasion
+release_7digitalid: 725026
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (520,)
+segments_loudness_max: shape = (520,)
+segments_loudness_max_time: shape = (520,)
+segments_loudness_start: shape = (520,)
+segments_pitches: shape = (520, 12)
+segments_start: shape = (520,)
+segments_timbre: shape = (520, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBFRTX12AB018DE14
+start_of_fade_out: 185.435
+tatums_confidence: shape = (546,)
+tatums_start: shape = (546,)
+tempo: 84.926
+time_signature: 1
+time_signature_confidence: 0.178
+title: Villagers Galloping To Battle
+track_7digitalid: 8036067
+track_id: TRAKSDX12903CD9205
+year: 0

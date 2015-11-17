@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 60417
+artist_familiarity: 0.568497747695
+artist_hotttnesss: 0.316759902182
+artist_id: ARP3CRB1187FB410B1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 80948716-c548-4c8d-a5b2-a52d26b16c2c
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Sukshinder Shinda
+artist_playmeid: 53376
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: ce5c20338385652ae1123196fab80dec
+bars_confidence: shape = (113,)
+bars_start: shape = (113,)
+beats_confidence: shape = (455,)
+beats_start: shape = (455,)
+danceability: 0.0
+duration: 303.882
+end_of_fade_in: 0.073
+energy: 0.0
+key: 2
+key_confidence: 0.431
+loudness: -6.607
+mode: 1
+mode_confidence: 0.496
+release: The Way It Is
+release_7digitalid: 75089
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1619,)
+segments_loudness_max: shape = (1619,)
+segments_loudness_max_time: shape = (1619,)
+segments_loudness_start: shape = (1619,)
+segments_pitches: shape = (1619, 12)
+segments_start: shape = (1619,)
+segments_timbre: shape = (1619, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCHVQG12A6D4FB261
+start_of_fade_out: 298.022
+tatums_confidence: shape = (1820,)
+tatums_start: shape = (1820,)
+tempo: 91.513
+time_signature: 4
+time_signature_confidence: 0.814
+title: Jumke
+track_7digitalid: 776650
+track_id: TRBFNBZ128EF34EF11
+year: 0

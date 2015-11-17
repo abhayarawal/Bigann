@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10505
+artist_familiarity: 0.433194638544
+artist_hotttnesss: 0.295549702547
+artist_id: AROP23Q1187B992697
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4a6b1c95-05e6-4980-a45d-795d5d273f9a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: George Faith
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 2389851c5416ed3fbb448bb85e7d04d1
+bars_confidence: shape = (135,)
+bars_start: shape = (135,)
+beats_confidence: shape = (541,)
+beats_start: shape = (541,)
+danceability: 0.0
+duration: 277.08036
+end_of_fade_in: 0.247
+energy: 0.0
+key: 11
+key_confidence: 0.833
+loudness: -14.237
+mode: 0
+mode_confidence: 0.552
+release: Soulful
+release_7digitalid: 14980
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1129,)
+segments_loudness_max: shape = (1129,)
+segments_loudness_max_time: shape = (1129,)
+segments_loudness_start: shape = (1129,)
+segments_pitches: shape = (1129, 12)
+segments_start: shape = (1129,)
+segments_timbre: shape = (1129, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTQOSY12A67021C2D
+start_of_fade_out: 269.613
+tatums_confidence: shape = (1081,)
+tatums_start: shape = (1081,)
+tempo: 119.866
+time_signature: 4
+time_signature_confidence: 0.0
+title: If Loving You Is Wrong I Don't Wanna Be Right
+track_7digitalid: 156828
+track_id: TRAVQIO128E0790E80
+year: 1996

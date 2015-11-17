@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 29574
+artist_familiarity: 0.70409394652
+artist_hotttnesss: 0.410743577532
+artist_id: ARS2KW51187B9B556E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f5abf27f-4785-4777-9ea6-234a1d143ee7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: X (Australia)
+artist_playmeid: 47105
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 2e1a595e320975fa0b33a8c9b4c13ae6
+bars_confidence: shape = (23,)
+bars_start: shape = (23,)
+beats_confidence: shape = (95,)
+beats_start: shape = (95,)
+danceability: 0.0
+duration: 90.8273
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.377
+loudness: -11.378
+mode: 1
+mode_confidence: 0.35
+release: Aspirations
+release_7digitalid: 99422
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (374,)
+segments_loudness_max: shape = (374,)
+segments_loudness_max_time: shape = (374,)
+segments_loudness_start: shape = (374,)
+segments_pitches: shape = (374, 12)
+segments_start: shape = (374,)
+segments_timbre: shape = (374, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOJKIPU12A8C137B47
+start_of_fade_out: 90.827
+tatums_confidence: shape = (382,)
+tatums_start: shape = (382,)
+tempo: 63.641
+time_signature: 4
+time_signature_confidence: 0.0
+title: It Must Be Me
+track_7digitalid: 1036100
+track_id: TRBHHRC128F427F353
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 128419
+artist_familiarity: 0.325433883225
+artist_hotttnesss: 0.336304377463
+artist_id: ARGHMTX1187FB456CA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 72969d2e-4bc6-412d-9e1b-27434ceaafae
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Los Indios Tabajaras
+artist_playmeid: 22524
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: d643bfd378e93f5421f32c0cb990cbec
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (361,)
+beats_start: shape = (361,)
+danceability: 0.0
+duration: 171.28444
+end_of_fade_in: 0.205
+energy: 0.0
+key: 11
+key_confidence: 0.656
+loudness: -18.696
+mode: 1
+mode_confidence: 0.698
+release: Serie Platino
+release_7digitalid: 536574
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (537,)
+segments_loudness_max: shape = (537,)
+segments_loudness_max_time: shape = (537,)
+segments_loudness_start: shape = (537,)
+segments_pitches: shape = (537, 12)
+segments_start: shape = (537,)
+segments_timbre: shape = (537, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOSGVRE12AB01832AC
+start_of_fade_out: 166.667
+tatums_confidence: shape = (361,)
+tatums_start: shape = (361,)
+tempo: 128.162
+time_signature: 4
+time_signature_confidence: 0.305
+title: Sueño Salvaje
+track_7digitalid: 5948894
+track_id: TRATJYF128F930EA84
+year: 1997

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5615
+artist_familiarity: 0.75829970381
+artist_hotttnesss: 0.493629437812
+artist_id: ARUHYH21187B98BA89
+artist_latitude: 44.23153
+artist_location: Kingston, Ontario, Canada
+artist_longitude: -76.47933
+artist_mbid: e86ab653-bec8-46f3-b4b6-a1a866919ef6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Tragically Hip
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 4bce8a1e61d062a75dfb5979b5188229
+bars_confidence: shape = (192,)
+bars_start: shape = (192,)
+beats_confidence: shape = (579,)
+beats_start: shape = (579,)
+danceability: 0.0
+duration: 219.89832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.447
+loudness: -3.926
+mode: 1
+mode_confidence: 0.452
+release: World Container
+release_7digitalid: 358351
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (676,)
+segments_loudness_max: shape = (676,)
+segments_loudness_max_time: shape = (676,)
+segments_loudness_start: shape = (676,)
+segments_pitches: shape = (676, 12)
+segments_start: shape = (676,)
+segments_timbre: shape = (676, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.471578247701
+song_id: SOAFHVH12AAF3B11C8
+start_of_fade_out: 210.686
+tatums_confidence: shape = (1157,)
+tatums_start: shape = (1157,)
+tempo: 165.224
+time_signature: 3
+time_signature_confidence: 0.855
+title: The Drop-Off
+track_7digitalid: 3998467
+track_id: TRAHKRO128F9320EA7
+year: 2006

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7163
+artist_familiarity: 0.686811616813
+artist_hotttnesss: 0.443875676344
+artist_id: AR3TG3X1187FB4D577
+artist_latitude: 52.51607
+artist_location: Berlin, Germany
+artist_longitude: 13.37698
+artist_mbid: fe404dd9-09b2-4ac8-a0e5-8da1c4027061
+artist_mbtags: shape = (13,)
+artist_mbtags_count: shape = (13,)
+artist_name: Atari Teenage Riot
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: fe8284bf5530aaa55f335bd64bb60861
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (410,)
+beats_start: shape = (410,)
+danceability: 0.0
+duration: 249.46893
+end_of_fade_in: 2.815
+energy: 0.0
+key: 2
+key_confidence: 0.498
+loudness: -5.547
+mode: 0
+mode_confidence: 0.38
+release: 60 Second Wipe Out
+release_7digitalid: 505433
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (580,)
+segments_loudness_max: shape = (580,)
+segments_loudness_max_time: shape = (580,)
+segments_loudness_start: shape = (580,)
+segments_pitches: shape = (580, 12)
+segments_start: shape = (580,)
+segments_timbre: shape = (580, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOTDNWF12AB0186452
+start_of_fade_out: 249.469
+tatums_confidence: shape = (1641,)
+tatums_start: shape = (1641,)
+tempo: 100.341
+time_signature: 4
+time_signature_confidence: 0.933
+title: Revolution Action
+track_7digitalid: 5592425
+track_id: TRALTKQ128F932DA67
+year: 1999

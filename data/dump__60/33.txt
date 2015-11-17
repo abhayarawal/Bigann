@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30709
+artist_familiarity: 0.616968968561
+artist_hotttnesss: 0.356347936309
+artist_id: ARIRBN91187FB4523C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ef71268b-07b0-4fc9-aafc-c1909da8edef
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tyree
+artist_playmeid: 5840
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: e335c50c67303858673d15346063fdcc
+bars_confidence: shape = (213,)
+bars_start: shape = (213,)
+beats_confidence: shape = (1068,)
+beats_start: shape = (1068,)
+danceability: 0.0
+duration: 399.93424
+end_of_fade_in: 0.247
+energy: 0.0
+key: 1
+key_confidence: 0.07
+loudness: -9.752
+mode: 0
+mode_confidence: 0.354
+release: Jack'd Volume 1
+release_7digitalid: 702413
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (2785,)
+segments_loudness_max: shape = (2785,)
+segments_loudness_max_time: shape = (2785,)
+segments_loudness_start: shape = (2785,)
+segments_pitches: shape = (2785, 12)
+segments_start: shape = (2785,)
+segments_timbre: shape = (2785, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHYFHW12AB01849D8
+start_of_fade_out: 395.337
+tatums_confidence: shape = (3205,)
+tatums_start: shape = (3205,)
+tempo: 161.272
+time_signature: 5
+time_signature_confidence: 0.94
+title: My M.B. Thang
+track_7digitalid: 7792194
+track_id: TRAUPNY12903C9DE65
+year: 0

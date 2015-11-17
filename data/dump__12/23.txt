@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20131
+artist_familiarity: 0.688003348837
+artist_hotttnesss: 0.469340374259
+artist_id: ARSL3N21187B98DFC5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 74ba575f-3420-4d62-8e48-ac473d3c4282
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Klaus Badelt
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 60a7c056d0736b72b400b1a1a31fb729
+bars_confidence: shape = (98,)
+bars_start: shape = (98,)
+beats_confidence: shape = (98,)
+beats_start: shape = (98,)
+danceability: 0.0
+duration: 116.1922
+end_of_fade_in: 0.107
+energy: 0.0
+key: 7
+key_confidence: 0.038
+loudness: -27.369
+mode: 0
+mode_confidence: 0.431
+release: Rescue Dawn
+release_7digitalid: 109107
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (47,)
+segments_loudness_max: shape = (47,)
+segments_loudness_max_time: shape = (47,)
+segments_loudness_start: shape = (47,)
+segments_pitches: shape = (47, 12)
+segments_start: shape = (47,)
+segments_timbre: shape = (47, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SOVMXIC12A8C13CC28
+start_of_fade_out: 102.777
+tatums_confidence: shape = (196,)
+tatums_start: shape = (196,)
+tempo: 56.306
+time_signature: 1
+time_signature_confidence: 0.0
+title: After The Fire
+track_7digitalid: 1127239
+track_id: TRAEAST128F42931B1
+year: 2007

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5732
+artist_familiarity: 0.934935267398
+artist_hotttnesss: 0.787005468689
+artist_id: ARKSZW81187B9B695D
+artist_latitude: 40.71455
+artist_location: New York, New York
+artist_longitude: -74.00712
+artist_mbid: 494e8d09-f85b-4543-892f-a5096aed1cd4
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Mariah Carey
+artist_playmeid: 1010
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 9d0be91c01764d9f81ba8eb6eab17c63
+bars_confidence: shape = (55,)
+bars_start: shape = (55,)
+beats_confidence: shape = (391,)
+beats_start: shape = (391,)
+danceability: 0.0
+duration: 196.93669
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.045
+loudness: -10.187
+mode: 1
+mode_confidence: 0.291
+release: Charmbracelet
+release_7digitalid: 8456
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (740,)
+segments_loudness_max: shape = (740,)
+segments_loudness_max_time: shape = (740,)
+segments_loudness_start: shape = (740,)
+segments_pitches: shape = (740, 12)
+segments_start: shape = (740,)
+segments_timbre: shape = (740, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.564258739337
+song_id: SOZTULX12A6701E7EF
+start_of_fade_out: 192.737
+tatums_confidence: shape = (782,)
+tatums_start: shape = (782,)
+tempo: 120.083
+time_signature: 7
+time_signature_confidence: 1.0
+title: Clown
+track_7digitalid: 85236
+track_id: TRAPFXX128E0785EBA
+year: 2002

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 176248
+artist_familiarity: 0.608703568338
+artist_hotttnesss: 0.362218956815
+artist_id: AR7KA5V1187FB44E6B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7e5a0c3f-339a-4e5d-aed0-1946112b4a66
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Del McCoury Band
+artist_playmeid: 11415
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: ecdc656b8424b08a8d19f84699c10f71
+bars_confidence: shape = (129,)
+bars_start: shape = (129,)
+beats_confidence: shape = (522,)
+beats_start: shape = (522,)
+danceability: 0.0
+duration: 198.63465
+end_of_fade_in: 0.297
+energy: 0.0
+key: 11
+key_confidence: 0.745
+loudness: -8.61
+mode: 1
+mode_confidence: 0.664
+release: It's Just The Night
+release_7digitalid: 757773
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (962,)
+segments_loudness_max: shape = (962,)
+segments_loudness_max_time: shape = (962,)
+segments_loudness_start: shape = (962,)
+segments_pitches: shape = (962, 12)
+segments_start: shape = (962,)
+segments_timbre: shape = (962, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.445454525493
+song_id: SOMXMTB12A8C145406
+start_of_fade_out: 189.812
+tatums_confidence: shape = (1044,)
+tatums_start: shape = (1044,)
+tempo: 163.92
+time_signature: 4
+time_signature_confidence: 0.317
+title: Hillcrest Drive
+track_7digitalid: 8388181
+track_id: TRAQYZO12903CB818E
+year: 0

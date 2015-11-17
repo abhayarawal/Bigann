@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8536
+artist_familiarity: 0.0634807964011
+artist_hotttnesss: 0.0
+artist_id: AR4C7UZ1187B9AB278
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 61351570-0471-4e00-b427-284e2401a920
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: She Satellites
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: def1fe9672c0e89bf5914ee618b4aa7e
+bars_confidence: shape = (147,)
+bars_start: shape = (147,)
+beats_confidence: shape = (445,)
+beats_start: shape = (445,)
+danceability: 0.0
+duration: 149.36771
+end_of_fade_in: 0.102
+energy: 0.0
+key: 8
+key_confidence: 0.0
+loudness: -7.798
+mode: 1
+mode_confidence: 0.1
+release: Poison Lips
+release_7digitalid: 505440
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (500,)
+segments_loudness_max: shape = (500,)
+segments_loudness_max_time: shape = (500,)
+segments_loudness_start: shape = (500,)
+segments_pitches: shape = (500, 12)
+segments_start: shape = (500,)
+segments_timbre: shape = (500, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBDFTE12AB017ECA9
+start_of_fade_out: 140.173
+tatums_confidence: shape = (445,)
+tatums_start: shape = (445,)
+tempo: 185.76
+time_signature: 3
+time_signature_confidence: 0.832
+title: No-Satellites
+track_7digitalid: 5592482
+track_id: TRAJDAK128F932DAA0
+year: 1999

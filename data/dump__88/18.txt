@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 174649
+artist_familiarity: 0.430615963464
+artist_hotttnesss: 0.322549965474
+artist_id: ARHP4FT1187FB3897C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6116bd4a-1e7a-4e76-9b59-0b23a2887b01
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Billy Murray
+artist_playmeid: -1
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 2d09df4c4103904d094dd7f7214fd116
+bars_confidence: shape = (338,)
+bars_start: shape = (338,)
+beats_confidence: shape = (338,)
+beats_start: shape = (338,)
+danceability: 0.0
+duration: 176.5873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.083
+loudness: -17.59
+mode: 1
+mode_confidence: 0.293
+release: Over There! Songs of the American Expeditionary Force 1917-18
+release_7digitalid: 601858
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (485,)
+segments_loudness_max: shape = (485,)
+segments_loudness_max_time: shape = (485,)
+segments_loudness_start: shape = (485,)
+segments_pitches: shape = (485, 12)
+segments_start: shape = (485,)
+segments_timbre: shape = (485, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYYIGJ12AC90756DE
+start_of_fade_out: 176.587
+tatums_confidence: shape = (676,)
+tatums_start: shape = (676,)
+tempo: 115.771
+time_signature: 1
+time_signature_confidence: 0.0
+title: Goodbye Broadway_ Hello France
+track_7digitalid: 6682851
+track_id: TRBEHHY12903CF3AE8
+year: 0

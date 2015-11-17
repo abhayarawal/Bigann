@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 226119
+artist_familiarity: 0.439663710601
+artist_hotttnesss: 0.307366234445
+artist_id: ARKU2GK1187B98C8AB
+artist_latitude: 40.71455
+artist_location: NY - New York City
+artist_longitude: -74.00712
+artist_mbid: 839ac2bd-643b-4bc8-b8f6-4f503392cdef
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Jason Bonham Band
+artist_playmeid: 19839
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 33578c3db561b3059f13f969b8ca1f3c
+bars_confidence: shape = (233,)
+bars_start: shape = (233,)
+beats_confidence: shape = (933,)
+beats_start: shape = (933,)
+danceability: 0.0
+duration: 290.19383
+end_of_fade_in: 3.379
+energy: 0.0
+key: 9
+key_confidence: 0.51
+loudness: -7.11
+mode: 0
+mode_confidence: 0.395
+release: MAD HATTER
+release_7digitalid: 291718
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (871,)
+segments_loudness_max: shape = (871,)
+segments_loudness_max_time: shape = (871,)
+segments_loudness_start: shape = (871,)
+segments_pitches: shape = (871, 12)
+segments_start: shape = (871,)
+segments_timbre: shape = (871, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOBQXVB12A8C138200
+start_of_fade_out: 287.115
+tatums_confidence: shape = (1866,)
+tatums_start: shape = (1866,)
+tempo: 196.013
+time_signature: 4
+time_signature_confidence: 0.0
+title: Bing
+track_7digitalid: 3273941
+track_id: TRAQFDL128F427E823
+year: 1992

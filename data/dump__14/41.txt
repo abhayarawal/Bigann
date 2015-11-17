@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 125847
+artist_familiarity: 0.611933956413
+artist_hotttnesss: 0.372350869597
+artist_id: AR9788H1187B9A05D1
+artist_latitude: 39.95227
+artist_location: Philadelphia, PA
+artist_longitude: -75.16237
+artist_mbid: 62cc0dfc-52b8-4434-ba8c-937c47ef7ada
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jedi Mind Tricks
+artist_playmeid: 69958
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 8275ee5733efa9de34def7571a13058c
+bars_confidence: shape = (81,)
+bars_start: shape = (81,)
+beats_confidence: shape = (329,)
+beats_start: shape = (329,)
+danceability: 0.0
+duration: 240.06485
+end_of_fade_in: 3.64
+energy: 0.0
+key: 7
+key_confidence: 0.632
+loudness: -7.359
+mode: 1
+mode_confidence: 0.534
+release: Greatest Features
+release_7digitalid: 775675
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (915,)
+segments_loudness_max: shape = (915,)
+segments_loudness_max_time: shape = (915,)
+segments_loudness_start: shape = (915,)
+segments_pitches: shape = (915, 12)
+segments_start: shape = (915,)
+segments_timbre: shape = (915, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUEEDA12AC3DF474F
+start_of_fade_out: 226.871
+tatums_confidence: shape = (1314,)
+tatums_start: shape = (1314,)
+tempo: 87.005
+time_signature: 4
+time_signature_confidence: 0.972
+title: Brute Force II
+track_7digitalid: 8582223
+track_id: TRAEVKG12903CE75F4
+year: 0

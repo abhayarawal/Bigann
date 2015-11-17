@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 303777
+artist_familiarity: 0.619747146659
+artist_hotttnesss: 0.407386829646
+artist_id: ARC5Q0L1187B98D463
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 54ce7300-69ad-42ec-9327-53d61ead2a0c
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Enter the Haggis
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: de2e637c1b6a48f5e46a819ed3c0a162
+bars_confidence: shape = (210,)
+bars_start: shape = (210,)
+beats_confidence: shape = (844,)
+beats_start: shape = (844,)
+danceability: 0.0
+duration: 381.54404
+end_of_fade_in: 0.409
+energy: 0.0
+key: 7
+key_confidence: 0.816
+loudness: -10.211
+mode: 0
+mode_confidence: 0.754
+release: Let The Wind Blow High
+release_7digitalid: 699416
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1144,)
+segments_loudness_max: shape = (1144,)
+segments_loudness_max_time: shape = (1144,)
+segments_loudness_start: shape = (1144,)
+segments_pitches: shape = (1144, 12)
+segments_start: shape = (1144,)
+segments_timbre: shape = (1144, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.448590498657
+song_id: SOKLPTD12AC4688044
+start_of_fade_out: 365.732
+tatums_confidence: shape = (1687,)
+tatums_start: shape = (1687,)
+tempo: 134.819
+time_signature: 4
+time_signature_confidence: 0.48
+title: Widow's Walk
+track_7digitalid: 7759892
+track_id: TRAJSCN12903D0CBAA
+year: 1999

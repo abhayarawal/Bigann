@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8472
+artist_familiarity: 0.379218060566
+artist_hotttnesss: 0.29478990364
+artist_id: ARM8BKO1187FB3AD47
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6b2e7187-9114-4050-a7af-eba918aebde8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Carl Crack
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: f15ad20c5c536cc7c8288e2a1081807d
+bars_confidence: shape = (219,)
+bars_start: shape = (219,)
+beats_confidence: shape = (219,)
+beats_start: shape = (219,)
+danceability: 0.0
+duration: 256.70485
+end_of_fade_in: 0.311
+energy: 0.0
+key: 7
+key_confidence: 0.029
+loudness: -12.891
+mode: 1
+mode_confidence: 0.38
+release: Black Ark EP
+release_7digitalid: 505410
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (1487,)
+segments_loudness_max: shape = (1487,)
+segments_loudness_max_time: shape = (1487,)
+segments_loudness_start: shape = (1487,)
+segments_pitches: shape = (1487, 12)
+segments_start: shape = (1487,)
+segments_timbre: shape = (1487, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOKOPOR12AB0184FED
+start_of_fade_out: 246.184
+tatums_confidence: shape = (1747,)
+tatums_start: shape = (1747,)
+tempo: 51.265
+time_signature: 1
+time_signature_confidence: 0.0
+title: Dogon
+track_7digitalid: 5592171
+track_id: TRAEVLZ128F932D969
+year: 1998

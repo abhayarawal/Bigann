@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17613
+artist_familiarity: 0.52400817232
+artist_hotttnesss: 0.349037894353
+artist_id: ARJB9TE1187FB3A9F8
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c7b4135b-d12b-429b-b7ff-2584177536f6
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: The Edgar Broughton Band
+artist_playmeid: 72872
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: c47e2d5d9cf87936a2d0331b8e77f999
+bars_confidence: shape = (323,)
+bars_start: shape = (323,)
+beats_confidence: shape = (1296,)
+beats_start: shape = (1296,)
+danceability: 0.0
+duration: 594.85995
+end_of_fade_in: 0.264
+energy: 0.0
+key: 0
+key_confidence: 0.261
+loudness: -9.607
+mode: 1
+mode_confidence: 0.346
+release: Keep Them Freaks A Rollin' - Live At Abbey Road
+release_7digitalid: 28295
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (2167,)
+segments_loudness_max: shape = (2167,)
+segments_loudness_max_time: shape = (2167,)
+segments_loudness_start: shape = (2167,)
+segments_pitches: shape = (2167, 12)
+segments_start: shape = (2167,)
+segments_timbre: shape = (2167, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIQQYQ12A6D4F4AB7
+start_of_fade_out: 527.644
+tatums_confidence: shape = (2591,)
+tatums_start: shape = (2591,)
+tempo: 131.184
+time_signature: 4
+time_signature_confidence: 0.747
+title: Out Demons Out (Live) (2004 Digital Remaster)
+track_7digitalid: 310216
+track_id: TRAPKNH128F1467FBD
+year: 0

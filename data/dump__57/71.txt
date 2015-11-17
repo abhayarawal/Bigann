@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 88
+artist_familiarity: 0.86652031981
+artist_hotttnesss: 0.766545450757
+artist_id: ARXPPEY1187FB51DF4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f27ec8db-af05-4f36-916e-3d57f91ecf5e
+artist_mbtags: shape = (20,)
+artist_mbtags_count: shape = (20,)
+artist_name: Michael Jackson
+artist_playmeid: 1081
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 415beb8dbbf77abdc82138c6eb735ad6
+bars_confidence: shape = (360,)
+bars_start: shape = (360,)
+beats_confidence: shape = (360,)
+beats_start: shape = (360,)
+danceability: 0.0
+duration: 217.96526
+end_of_fade_in: 0.461
+energy: 0.0
+key: 8
+key_confidence: 0.248
+loudness: -8.486
+mode: 1
+mode_confidence: 0.365
+release: Gold
+release_7digitalid: 414918
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (717,)
+segments_loudness_max: shape = (717,)
+segments_loudness_max_time: shape = (717,)
+segments_loudness_start: shape = (717,)
+segments_pitches: shape = (717, 12)
+segments_start: shape = (717,)
+segments_timbre: shape = (717, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLXSAG12AB01874BD
+start_of_fade_out: 204.98
+tatums_confidence: shape = (720,)
+tatums_start: shape = (720,)
+tempo: 100.648
+time_signature: 1
+time_signature_confidence: 0.047
+title: Morning Glow
+track_7digitalid: 4641990
+track_id: TRATQSL128F932E2ED
+year: 1973

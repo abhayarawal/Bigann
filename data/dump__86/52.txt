@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 32
+artist_familiarity: 0.840963900935
+artist_hotttnesss: 0.59506940727
+artist_id: ARNDL191187FB51583
+artist_latitude: nan
+artist_location: Seattle, USA
+artist_longitude: nan
+artist_mbid: 06fb1c8b-566e-4cb2-985b-b467c90781d4
+artist_mbtags: shape = (14,)
+artist_mbtags_count: shape = (14,)
+artist_name: Jimi Hendrix
+artist_playmeid: 808
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: c9453143b683358859d17e8b03e0424b
+bars_confidence: shape = (325,)
+bars_start: shape = (325,)
+beats_confidence: shape = (325,)
+beats_start: shape = (325,)
+danceability: 0.0
+duration: 228.91057
+end_of_fade_in: 0.073
+energy: 0.0
+key: 1
+key_confidence: 0.477
+loudness: -7.048
+mode: 1
+mode_confidence: 0.52
+release: Valleys Of Neptune
+release_7digitalid: 740406
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (909,)
+segments_loudness_max: shape = (909,)
+segments_loudness_max_time: shape = (909,)
+segments_loudness_start: shape = (909,)
+segments_pitches: shape = (909, 12)
+segments_start: shape = (909,)
+segments_timbre: shape = (909, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.645341856714
+song_id: SOOBDVS12AB0188EA4
+start_of_fade_out: 224.386
+tatums_confidence: shape = (975,)
+tatums_start: shape = (975,)
+tempo: 86.104
+time_signature: 1
+time_signature_confidence: 0.0
+title: Lullaby For The Summer
+track_7digitalid: 8204157
+track_id: TRBDRTN12903D021D9
+year: 2010

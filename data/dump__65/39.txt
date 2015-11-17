@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 110621
+artist_familiarity: 0.427823238344
+artist_hotttnesss: 0.0
+artist_id: ARJB8BM1187FB5CBEC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0e3a3787-067a-4b00-af61-9b061157cc5a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Intex Systems
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 3d4d27bef6e64e98b2c31cf57e90fa8f
+bars_confidence: shape = (97,)
+bars_start: shape = (97,)
+beats_confidence: shape = (97,)
+beats_start: shape = (97,)
+danceability: 0.0
+duration: 131.13424
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.175
+loudness: -14.302
+mode: 1
+mode_confidence: 0.591
+release: Research & Development
+release_7digitalid: 501807
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (609,)
+segments_loudness_max: shape = (609,)
+segments_loudness_max_time: shape = (609,)
+segments_loudness_start: shape = (609,)
+segments_pitches: shape = (609, 12)
+segments_start: shape = (609,)
+segments_timbre: shape = (609, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORSEIY12AB01827CD
+start_of_fade_out: 124.976
+tatums_confidence: shape = (770,)
+tatums_start: shape = (770,)
+tempo: 45.514
+time_signature: 1
+time_signature_confidence: 0.0
+title: Vapour Fragments
+track_7digitalid: 5557468
+track_id: TRAWINM128F932555F
+year: 2006

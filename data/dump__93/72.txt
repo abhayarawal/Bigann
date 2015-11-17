@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1237
+artist_familiarity: 0.93391610637
+artist_hotttnesss: 0.778673579184
+artist_id: AR52EZT1187B9900BF
+artist_latitude: 40.8079
+artist_location: Harlem, New York
+artist_longitude: -73.9454
+artist_mbid: 8ef1df30-ae4f-4dbd-9351-1a32b208a01e
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Alicia Keys
+artist_playmeid: 66
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: cd8980dbf1346e4a9d24dd815670091b
+bars_confidence: shape = (159,)
+bars_start: shape = (159,)
+beats_confidence: shape = (481,)
+beats_start: shape = (481,)
+danceability: 0.0
+duration: 255.99955
+end_of_fade_in: 0.177
+energy: 0.0
+key: 7
+key_confidence: 0.267
+loudness: -6.155
+mode: 0
+mode_confidence: 0.324
+release: The Diary Of Alicia Keys
+release_7digitalid: 296589
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1039,)
+segments_loudness_max: shape = (1039,)
+segments_loudness_max_time: shape = (1039,)
+segments_loudness_start: shape = (1039,)
+segments_pitches: shape = (1039, 12)
+segments_start: shape = (1039,)
+segments_timbre: shape = (1039, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.723348601459
+song_id: SODHTCY12A58A7F125
+start_of_fade_out: 253.498
+tatums_confidence: shape = (1443,)
+tatums_start: shape = (1443,)
+tempo: 113.485
+time_signature: 3
+time_signature_confidence: 1.0
+title: Karma
+track_7digitalid: 3358987
+track_id: TRBGJDW128F4292EDB
+year: 2003

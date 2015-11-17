@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 29233
+artist_familiarity: 0.608824805464
+artist_hotttnesss: 0.42865098879
+artist_id: ARONPP01187B995FB5
+artist_latitude: 52.88356
+artist_location: England
+artist_longitude: -1.97406
+artist_mbid: 9a4c746f-8ae7-47a1-8292-937ec6792e7a
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Cockney Rejects
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: e970013cc5d6889aad506fb9d6434580
+bars_confidence: shape = (170,)
+bars_start: shape = (170,)
+beats_confidence: shape = (685,)
+beats_start: shape = (685,)
+danceability: 0.0
+duration: 250.01751
+end_of_fade_in: 0.543
+energy: 0.0
+key: 9
+key_confidence: 0.367
+loudness: -5.569
+mode: 0
+mode_confidence: 0.386
+release: Out Of The Gutter
+release_7digitalid: 610778
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (741,)
+segments_loudness_max: shape = (741,)
+segments_loudness_max_time: shape = (741,)
+segments_loudness_start: shape = (741,)
+segments_pitches: shape = (741, 12)
+segments_start: shape = (741,)
+segments_timbre: shape = (741, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.450992311636
+song_id: SOKCJMY12A8C1449C1
+start_of_fade_out: 235.938
+tatums_confidence: shape = (1370,)
+tatums_start: shape = (1370,)
+tempo: 165.621
+time_signature: 4
+time_signature_confidence: 0.0
+title: Beginning Of The End
+track_7digitalid: 6789432
+track_id: TRBHABK128F92F2A3D
+year: 1987

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13625
+artist_familiarity: 0.873238652758
+artist_hotttnesss: 0.519965479287
+artist_id: ARIMZQZ1187B9AD541
+artist_latitude: nan
+artist_location: Orange, CA
+artist_longitude: nan
+artist_mbid: 244afcb7-fa9a-49b1-9aa6-0149512d1c52
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Thrice
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 4185f6cb9f929dbb406335dacd8ed515
+bars_confidence: shape = (97,)
+bars_start: shape = (97,)
+beats_confidence: shape = (695,)
+beats_start: shape = (695,)
+danceability: 0.0
+duration: 329.7171
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.585
+loudness: -9.458
+mode: 0
+mode_confidence: 0.541
+release: Live At The House Of Blues
+release_7digitalid: 342901
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (839,)
+segments_loudness_max: shape = (839,)
+segments_loudness_max_time: shape = (839,)
+segments_loudness_start: shape = (839,)
+segments_pitches: shape = (839, 12)
+segments_start: shape = (839,)
+segments_timbre: shape = (839, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.83828667467
+song_id: SOQGLWB12AF72A632B
+start_of_fade_out: 324.493
+tatums_confidence: shape = (1389,)
+tatums_start: shape = (1389,)
+tempo: 126.947
+time_signature: 7
+time_signature_confidence: 0.957
+title: The Earth Will Shake
+track_7digitalid: 3840061
+track_id: TRALDDK128F9300AC5
+year: 2005

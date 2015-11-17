@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17102
+artist_familiarity: 0.391454064051
+artist_hotttnesss: 0.320850129554
+artist_id: ARQC4R31187B9A0D88
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a470515d-d664-48e8-a183-663d951c07f4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jean Ferret
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: d7d2cf3921c917863c091beea6019ea8
+bars_confidence: shape = (352,)
+bars_start: shape = (352,)
+beats_confidence: shape = (352,)
+beats_start: shape = (352,)
+danceability: 0.0
+duration: 172.61669
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.79
+loudness: -16.532
+mode: 0
+mode_confidence: 0.83
+release: CABU - From Paris With Jazz: Guitar
+release_7digitalid: 333098
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (746,)
+segments_loudness_max: shape = (746,)
+segments_loudness_max_time: shape = (746,)
+segments_loudness_start: shape = (746,)
+segments_pitches: shape = (746, 12)
+segments_start: shape = (746,)
+segments_timbre: shape = (746, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.323112120895
+song_id: SOMEPEB12A8C13E232
+start_of_fade_out: 169.726
+tatums_confidence: shape = (705,)
+tatums_start: shape = (705,)
+tempo: 124.089
+time_signature: 1
+time_signature_confidence: 0.0
+title: Les Deux Guitares
+track_7digitalid: 3732200
+track_id: TRBAJJL128F92ED53A
+year: 1991

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 29785
+artist_familiarity: 0.780461748777
+artist_hotttnesss: 0.574274730517
+artist_id: ARMQHX71187B9890D3
+artist_latitude: nan
+artist_location: Atlanta, GA
+artist_longitude: nan
+artist_mbid: bc5e2ad6-0a4a-4d90-b911-e9a7e6861727
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Mastodon
+artist_playmeid: -1
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: a600d65cf157a306be60f26ecbf218f4
+bars_confidence: shape = (159,)
+bars_start: shape = (159,)
+beats_confidence: shape = (799,)
+beats_start: shape = (799,)
+danceability: 0.0
+duration: 280.21506
+end_of_fade_in: 0.238
+energy: 0.0
+key: 5
+key_confidence: 0.555
+loudness: -3.306
+mode: 1
+mode_confidence: 0.5
+release: Call of the Mastodon
+release_7digitalid: 223563
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (843,)
+segments_loudness_max: shape = (843,)
+segments_loudness_max_time: shape = (843,)
+segments_loudness_start: shape = (843,)
+segments_pitches: shape = (843, 12)
+segments_start: shape = (843,)
+segments_timbre: shape = (843, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.597640797715
+song_id: SOVLGJY12A8C13FBED
+start_of_fade_out: 275.528
+tatums_confidence: shape = (1597,)
+tatums_start: shape = (1597,)
+tempo: 173.205
+time_signature: 5
+time_signature_confidence: 0.12
+title: Deep Sea Creature
+track_7digitalid: 2442524
+track_id: TRACCVZ128F4291A8A
+year: 2001

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11140
+artist_familiarity: 0.685125410687
+artist_hotttnesss: 0.527066335068
+artist_id: AR7JBP41187FB3EA8A
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: 2b6f3780-6fb6-42c2-95bb-5e080772e38c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gene Clark
+artist_playmeid: 19022
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 73af9c3cf2ec5eb19b875e4d94fa50d5
+bars_confidence: shape = (273,)
+bars_start: shape = (273,)
+beats_confidence: shape = (273,)
+beats_start: shape = (273,)
+danceability: 0.0
+duration: 168.38485
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.327
+loudness: -12.77
+mode: 1
+mode_confidence: 0.578
+release: Echoes
+release_7digitalid: 285631
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (588,)
+segments_loudness_max: shape = (588,)
+segments_loudness_max_time: shape = (588,)
+segments_loudness_start: shape = (588,)
+segments_pitches: shape = (588, 12)
+segments_start: shape = (588,)
+segments_timbre: shape = (588, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMWLCK12A8C135D69
+start_of_fade_out: 156.032
+tatums_confidence: shape = (545,)
+tatums_start: shape = (545,)
+tempo: 98.49
+time_signature: 1
+time_signature_confidence: 0.0
+title: Set You Free This Time
+track_7digitalid: 3194146
+track_id: TRAAXUY128F426BA55
+year: 1998

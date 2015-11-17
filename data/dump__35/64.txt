@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 105561
+artist_familiarity: 0.684994896581
+artist_hotttnesss: 0.41551708286
+artist_id: ARDG9Z71187B997023
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: 68950696-ee9a-49b2-a8c2-d1d6c19355cc
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Public Image Ltd
+artist_playmeid: 61470
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: d38e1e901737a96c35b4a05dcae95a94
+bars_confidence: shape = (107,)
+bars_start: shape = (107,)
+beats_confidence: shape = (433,)
+beats_start: shape = (433,)
+danceability: 0.0
+duration: 209.3971
+end_of_fade_in: 2.107
+energy: 0.0
+key: 8
+key_confidence: 0.341
+loudness: -23.949
+mode: 0
+mode_confidence: 0.393
+release: Metal Box
+release_7digitalid: 23179
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (690,)
+segments_loudness_max: shape = (690,)
+segments_loudness_max_time: shape = (690,)
+segments_loudness_start: shape = (690,)
+segments_pitches: shape = (690, 12)
+segments_start: shape = (690,)
+segments_timbre: shape = (690, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.70340221951
+song_id: SOGDWHE12A6D4F794A
+start_of_fade_out: 186.363
+tatums_confidence: shape = (867,)
+tatums_start: shape = (867,)
+tempo: 124.494
+time_signature: 4
+time_signature_confidence: 0.137
+title: The Suit
+track_7digitalid: 241602
+track_id: TRAMDQE128F1458F98
+year: 1979

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 516042
+artist_familiarity: 0.393049715247
+artist_hotttnesss: 0.221883241187
+artist_id: ARPZRFT12086C12690
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 49868c98-5f09-4c30-b81f-81febf41356f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Rick Snel
+artist_playmeid: -1
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: d10c097bc9759d5ba63e2821e65eb447
+bars_confidence: shape = (252,)
+bars_start: shape = (252,)
+beats_confidence: shape = (1018,)
+beats_start: shape = (1018,)
+danceability: 0.0
+duration: 465.99791
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.584
+loudness: -8.744
+mode: 1
+mode_confidence: 0.401
+release: Metanoia / Mundane
+release_7digitalid: 770581
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (2472,)
+segments_loudness_max: shape = (2472,)
+segments_loudness_max_time: shape = (2472,)
+segments_loudness_start: shape = (2472,)
+segments_pitches: shape = (2472, 12)
+segments_start: shape = (2472,)
+segments_timbre: shape = (2472, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SOISIPQ12AB018C2AE
+start_of_fade_out: 461.108
+tatums_confidence: shape = (2037,)
+tatums_start: shape = (2037,)
+tempo: 133.0
+time_signature: 4
+time_signature_confidence: 0.0
+title: Metanoia
+track_7digitalid: 8532318
+track_id: TRAKTXU12903CDB3C4
+year: 0

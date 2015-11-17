@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 89564
+artist_familiarity: 0.429235343528
+artist_hotttnesss: 0.322988162527
+artist_id: AR56UY11187FB46D49
+artist_latitude: 38.62774
+artist_location: St. Louis, MO
+artist_longitude: -90.19951
+artist_mbid: b3ee178f-e114-49d4-8013-c962d8f3d33b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lightnin' Slim
+artist_playmeid: -1
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: e37d49d2660d811b5692c1452a8b0010
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (270,)
+beats_start: shape = (270,)
+danceability: 0.0
+duration: 177.68444
+end_of_fade_in: 0.517
+energy: 0.0
+key: 7
+key_confidence: 0.864
+loudness: -16.554
+mode: 1
+mode_confidence: 0.913
+release: The Original Blues
+release_7digitalid: 356763
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (488,)
+segments_loudness_max: shape = (488,)
+segments_loudness_max_time: shape = (488,)
+segments_loudness_start: shape = (488,)
+segments_pitches: shape = (488, 12)
+segments_start: shape = (488,)
+segments_timbre: shape = (488, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEXZJD12AB0182FC1
+start_of_fade_out: 170.672
+tatums_confidence: shape = (541,)
+tatums_start: shape = (541,)
+tempo: 94.721
+time_signature: 3
+time_signature_confidence: 1.0
+title: My Babe
+track_7digitalid: 3978543
+track_id: TRALKRO128F931CF20
+year: 1997

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41090
+artist_familiarity: 0.477387133728
+artist_hotttnesss: 0.363610864647
+artist_id: AR5R7791187FB3A8C3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 07c766d0-7734-4574-ad5a-0798ae57ff5d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Alfredo Kraus/Paul Plishka/Matteo Manuguerra/Sherrill Milnes/Trinity Boys' Choir/Ambrosian Opera Chorus/National Philharmonic Orchestra/James Levine
+artist_playmeid: 58792
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 772df00b48a99d082ddd862a058d76e7
+bars_confidence: shape = (24,)
+bars_start: shape = (24,)
+beats_confidence: shape = (74,)
+beats_start: shape = (74,)
+danceability: 0.0
+duration: 34.55955
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.106
+loudness: -22.785
+mode: 1
+mode_confidence: 0.328
+release: Puccini: La Bohème - Highlights
+release_7digitalid: 151297
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (121,)
+segments_loudness_max: shape = (121,)
+segments_loudness_max_time: shape = (121,)
+segments_loudness_start: shape = (121,)
+segments_pitches: shape = (121, 12)
+segments_start: shape = (121,)
+segments_timbre: shape = (121, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONPHXB12A6D4FA61B
+start_of_fade_out: 34.56
+tatums_confidence: shape = (148,)
+tatums_start: shape = (148,)
+tempo: 130.319
+time_signature: 3
+time_signature_confidence: 0.592
+title: Caro! (Colline/Rodolfo/Schaunard/Children/Townspeople/Musetta) (1998 Digital Remaster)
+track_7digitalid: 1581069
+track_id: TRATRDP128F4261581
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2490
+artist_familiarity: 0.427298292644
+artist_hotttnesss: 0.379491424347
+artist_id: ARQIB731187FB3BE17
+artist_latitude: 42.31256
+artist_location: Boston, MA
+artist_longitude: -71.08868
+artist_mbid: 7c0ae486-bab5-410f-9ece-255c11f4876d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Arthur Fiedler
+artist_playmeid: 9958
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: ed4015c9879251b55ffba9e525ddaf26
+bars_confidence: shape = (259,)
+bars_start: shape = (259,)
+beats_confidence: shape = (780,)
+beats_start: shape = (780,)
+danceability: 0.0
+duration: 496.1171
+end_of_fade_in: 8.249
+energy: 0.0
+key: 0
+key_confidence: 0.217
+loudness: -17.73
+mode: 1
+mode_confidence: 0.418
+release: Strauss Family Waltzes
+release_7digitalid: 708309
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1305,)
+segments_loudness_max: shape = (1305,)
+segments_loudness_max_time: shape = (1305,)
+segments_loudness_start: shape = (1305,)
+segments_pitches: shape = (1305, 12)
+segments_start: shape = (1305,)
+segments_timbre: shape = (1305, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVFVTK12AB0188BAE
+start_of_fade_out: 490.359
+tatums_confidence: shape = (1561,)
+tatums_start: shape = (1561,)
+tempo: 95.234
+time_signature: 3
+time_signature_confidence: 0.977
+title: Doctrines
+track_7digitalid: 7855941
+track_id: TRBDJAE12903CAD5EC
+year: 0

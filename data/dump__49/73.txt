@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 29321
+artist_familiarity: 0.603268921561
+artist_hotttnesss: 0.385305378334
+artist_id: AR06M3F1187FB38BED
+artist_latitude: 34.51042
+artist_location: Rossville, Tennessee (Lived in Como, Mississippi)
+artist_longitude: -89.94049
+artist_mbid: 8d2651e1-f539-4492-957a-8b4dc4c5d9b9
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Mississippi Fred McDowell
+artist_playmeid: 40699
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 32d08b968fcdedad2bdd9fa92d8d5fb0
+bars_confidence: shape = (62,)
+bars_start: shape = (62,)
+beats_confidence: shape = (257,)
+beats_start: shape = (257,)
+danceability: 0.0
+duration: 226.37669
+end_of_fade_in: 0.264
+energy: 0.0
+key: 8
+key_confidence: 0.0
+loudness: -15.448
+mode: 0
+mode_confidence: 0.163
+release: Good Morning Little School Girl
+release_7digitalid: 219489
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (593,)
+segments_loudness_max: shape = (593,)
+segments_loudness_max_time: shape = (593,)
+segments_loudness_start: shape = (593,)
+segments_pitches: shape = (593, 12)
+segments_start: shape = (593,)
+segments_timbre: shape = (593, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWKEYU12A8C13C384
+start_of_fade_out: 216.549
+tatums_confidence: shape = (514,)
+tatums_start: shape = (514,)
+tempo: 69.347
+time_signature: 4
+time_signature_confidence: 0.789
+title: You Gotta Move
+track_7digitalid: 2394375
+track_id: TRAQYUA128F428742F
+year: 1999

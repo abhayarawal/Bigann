@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30117
+artist_familiarity: 0.449231470993
+artist_hotttnesss: 0.348184321066
+artist_id: ARDUOSV1187B9894D5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d881229b-f812-4f1c-8b5d-22dd06e96b42
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Wes King
+artist_playmeid: 36244
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 9b06c87724e8deb07b225c10ab8919b9
+bars_confidence: shape = (113,)
+bars_start: shape = (113,)
+beats_confidence: shape = (456,)
+beats_start: shape = (456,)
+danceability: 0.0
+duration: 233.45587
+end_of_fade_in: 2.188
+energy: 0.0
+key: 7
+key_confidence: 0.704
+loudness: -7.92
+mode: 1
+mode_confidence: 0.623
+release: A Room Full Of Stories
+release_7digitalid: 148624
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (851,)
+segments_loudness_max: shape = (851,)
+segments_loudness_max_time: shape = (851,)
+segments_loudness_start: shape = (851,)
+segments_pitches: shape = (851, 12)
+segments_start: shape = (851,)
+segments_timbre: shape = (851, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOJGPVN12A8C136BCF
+start_of_fade_out: 220.241
+tatums_confidence: shape = (912,)
+tatums_start: shape = (912,)
+tempo: 118.152
+time_signature: 4
+time_signature_confidence: 0.596
+title: Cover To Cover
+track_7digitalid: 1548981
+track_id: TRAJXRE128F425A63C
+year: 0

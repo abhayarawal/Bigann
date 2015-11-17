@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 500229
+artist_familiarity: 0.0751247616391
+artist_hotttnesss: 0.163904474401
+artist_id: ARUZILO1257509E8E1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Greg Vaccariello
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: f02c87914a6caffd05af32f92e3e02f3
+bars_confidence: shape = (171,)
+bars_start: shape = (171,)
+beats_confidence: shape = (171,)
+beats_start: shape = (171,)
+danceability: 0.0
+duration: 133.66812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.171
+loudness: -12.15
+mode: 1
+mode_confidence: 0.351
+release: I Do Things
+release_7digitalid: 671968
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (493,)
+segments_loudness_max: shape = (493,)
+segments_loudness_max_time: shape = (493,)
+segments_loudness_start: shape = (493,)
+segments_pitches: shape = (493, 12)
+segments_start: shape = (493,)
+segments_timbre: shape = (493, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONUJOP12AB018E6C9
+start_of_fade_out: 133.668
+tatums_confidence: shape = (512,)
+tatums_start: shape = (512,)
+tempo: 74.728
+time_signature: 1
+time_signature_confidence: 0.451
+title: Mom's Phone
+track_7digitalid: 7448454
+track_id: TRAJRLX12903CC0D7A
+year: 0

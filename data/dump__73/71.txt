@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11001
+artist_familiarity: 0.763010513431
+artist_hotttnesss: 0.537675628064
+artist_id: ARBOG0H1187B99F775
+artist_latitude: 47.565
+artist_location: Bremerton, WA
+artist_longitude: -122.62569
+artist_mbid: 3b221a54-54b9-435c-a7f3-5cf8e2ce9fb2
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: MxPx
+artist_playmeid: 1135
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 81b2874eb0f8f40bfddd39fceae1c507
+bars_confidence: shape = (242,)
+bars_start: shape = (242,)
+beats_confidence: shape = (242,)
+beats_start: shape = (242,)
+danceability: 0.0
+duration: 151.24853
+end_of_fade_in: 0.312
+energy: 0.0
+key: 11
+key_confidence: 0.0
+loudness: -5.41
+mode: 0
+mode_confidence: 0.108
+release: On The Cover
+release_7digitalid: 22451
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (496,)
+segments_loudness_max: shape = (496,)
+segments_loudness_max_time: shape = (496,)
+segments_loudness_start: shape = (496,)
+segments_pitches: shape = (496, 12)
+segments_start: shape = (496,)
+segments_timbre: shape = (496, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.466304830757
+song_id: SOLCNJN12A6D4F7740
+start_of_fade_out: 141.891
+tatums_confidence: shape = (484,)
+tatums_start: shape = (484,)
+tempo: 101.106
+time_signature: 1
+time_signature_confidence: 0.0
+title: You Found Me
+track_7digitalid: 232151
+track_id: TRAZEBG128F1456D2E
+year: 1995

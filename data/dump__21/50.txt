@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7173
+artist_familiarity: 0.39271030279
+artist_hotttnesss: 0.31178940576
+artist_id: ARO6WZY1187FB3A86E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 23f7ad3f-a189-4a1c-9991-4763ded495a7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sonic Subjunkies
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 94cfc9e279bfb53339b63913da366069
+bars_confidence: shape = (268,)
+bars_start: shape = (268,)
+beats_confidence: shape = (818,)
+beats_start: shape = (818,)
+danceability: 0.0
+duration: 327.73179
+end_of_fade_in: 0.398
+energy: 0.0
+key: 7
+key_confidence: 0.022
+loudness: -10.22
+mode: 1
+mode_confidence: 0.368
+release: Harder Than The Rest
+release_7digitalid: 505296
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1042,)
+segments_loudness_max: shape = (1042,)
+segments_loudness_max_time: shape = (1042,)
+segments_loudness_start: shape = (1042,)
+segments_pitches: shape = (1042, 12)
+segments_start: shape = (1042,)
+segments_timbre: shape = (1042, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.340922755864
+song_id: SOZVXUQ12AB01832CC
+start_of_fade_out: 321.3
+tatums_confidence: shape = (1635,)
+tatums_start: shape = (1635,)
+tempo: 149.853
+time_signature: 3
+time_signature_confidence: 1.0
+title: Turntable Terrorist
+track_7digitalid: 5591259
+track_id: TRAHHMM128F932D5D9
+year: 1995

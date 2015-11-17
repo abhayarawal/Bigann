@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4996
+artist_familiarity: 0.779838091767
+artist_hotttnesss: 0.568350503202
+artist_id: ARBEBBY1187B9B43DB
+artist_latitude: nan
+artist_location: Gainesville, FL
+artist_longitude: nan
+artist_mbid: 5ca3f318-d028-4151-ac73-78e2b2d6cdcc
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Tom Petty And The Heartbreakers
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: fef3c3ea3b98fd8b68503a99ec2f8cb5
+bars_confidence: shape = (145,)
+bars_start: shape = (145,)
+beats_confidence: shape = (584,)
+beats_start: shape = (584,)
+danceability: 0.0
+duration: 254.98077
+end_of_fade_in: 0.258
+energy: 0.0
+key: 9
+key_confidence: 0.371
+loudness: -7.72
+mode: 1
+mode_confidence: 0.48
+release: Four Christmases
+release_7digitalid: 340438
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (849,)
+segments_loudness_max: shape = (849,)
+segments_loudness_max_time: shape = (849,)
+segments_loudness_start: shape = (849,)
+segments_pitches: shape = (849, 12)
+segments_start: shape = (849,)
+segments_timbre: shape = (849, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.751968603001
+song_id: SOYWRWP12AB01845EE
+start_of_fade_out: 239.119
+tatums_confidence: shape = (1168,)
+tatums_start: shape = (1168,)
+tempo: 138.916
+time_signature: 4
+time_signature_confidence: 0.152
+title: Christmas All Over Again
+track_7digitalid: 3807311
+track_id: TRAPKBI128F92F9D33
+year: 0

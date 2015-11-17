@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16929
+artist_familiarity: 0.705881776978
+artist_hotttnesss: 0.491178953749
+artist_id: ARDSWIE1187FB39056
+artist_latitude: nan
+artist_location: Boston, Massachusettes
+artist_longitude: nan
+artist_mbid: 9ef8042a-2528-4f5c-b7c1-5e72b1efe170
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Gang Starr
+artist_playmeid: 2938
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 9a8fe9810e21fddbef14053f8867a22c
+bars_confidence: shape = (266,)
+bars_start: shape = (266,)
+beats_confidence: shape = (1067,)
+beats_start: shape = (1067,)
+danceability: 0.0
+duration: 316.02893
+end_of_fade_in: 0.298
+energy: 0.0
+key: 7
+key_confidence: 0.468
+loudness: -10.518
+mode: 1
+mode_confidence: 0.454
+release: Hard To Earn
+release_7digitalid: 27698
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1348,)
+segments_loudness_max: shape = (1348,)
+segments_loudness_max_time: shape = (1348,)
+segments_loudness_start: shape = (1348,)
+segments_pitches: shape = (1348, 12)
+segments_start: shape = (1348,)
+segments_timbre: shape = (1348, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.591161425441
+song_id: SOHIDSZ12A6D4F7CF5
+start_of_fade_out: 309.116
+tatums_confidence: shape = (1067,)
+tatums_start: shape = (1067,)
+tempo: 209.396
+time_signature: 4
+time_signature_confidence: 1.0
+title: The Planet (Explicit)
+track_7digitalid: 306495
+track_id: TRANLSP128F14671CA
+year: 1994

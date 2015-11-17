@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 195305
+artist_familiarity: 0.286040599549
+artist_hotttnesss: 0.0
+artist_id: ARBSAVH1241B9CA637
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Antonio Koudele
+artist_playmeid: -1
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: 72d67a07340edae64891531700073a4d
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (336,)
+beats_start: shape = (336,)
+danceability: 0.0
+duration: 175.90812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.904
+loudness: -14.881
+mode: 0
+mode_confidence: 0.797
+release: HarpGuitar "Antonio Koudele Plays Evergreens" Vol.1
+release_7digitalid: 648437
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (492,)
+segments_loudness_max: shape = (492,)
+segments_loudness_max_time: shape = (492,)
+segments_loudness_start: shape = (492,)
+segments_pitches: shape = (492, 12)
+segments_start: shape = (492,)
+segments_timbre: shape = (492, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONRQRW12AB01880EC
+start_of_fade_out: 169.5
+tatums_confidence: shape = (672,)
+tatums_start: shape = (672,)
+tempo: 117.298
+time_signature: 4
+time_signature_confidence: 1.0
+title: Track TAKE FIVE
+track_7digitalid: 7184546
+track_id: TRAHHJP128F9352A3C
+year: 0

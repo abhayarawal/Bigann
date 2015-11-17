@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 466325
+artist_familiarity: 0.364968696078
+artist_hotttnesss: 0.221851731552
+artist_id: AROSH7P1187B9B4D11
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 299139f2-f007-40e0-b6fb-9bbdd288ce97
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Van Gelder
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 88e16ecb19f5b6e7fe076cedcfcff574
+bars_confidence: shape = (410,)
+bars_start: shape = (410,)
+beats_confidence: shape = (1645,)
+beats_start: shape = (1645,)
+danceability: 0.0
+duration: 474.61832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.529
+loudness: -7.234
+mode: 0
+mode_confidence: 0.444
+release: Saints & Sinners
+release_7digitalid: 782283
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (2756,)
+segments_loudness_max: shape = (2756,)
+segments_loudness_max_time: shape = (2756,)
+segments_loudness_start: shape = (2756,)
+segments_pitches: shape = (2756, 12)
+segments_start: shape = (2756,)
+segments_timbre: shape = (2756, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZFLNZ12AC46875B7
+start_of_fade_out: 466.506
+tatums_confidence: shape = (3290,)
+tatums_start: shape = (3290,)
+tempo: 209.752
+time_signature: 4
+time_signature_confidence: 0.0
+title: Saints & Sinners
+track_7digitalid: 8652656
+track_id: TRASXUR12903CF8860
+year: 0

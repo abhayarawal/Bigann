@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 130660
+artist_familiarity: 0.60726012883
+artist_hotttnesss: 0.403000799032
+artist_id: ARUEYGC1187FB3D94B
+artist_latitude: 41.88415
+artist_location: Chicago, IL
+artist_longitude: -87.63241
+artist_mbid: daf21090-1c0f-46e6-bd76-9cd4d6ef7128
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Chi Lites
+artist_playmeid: 71071
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 70e1ec192aba53e23822b1a5894c3421
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (416,)
+beats_start: shape = (416,)
+danceability: 0.0
+duration: 170.70975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.324
+loudness: -9.957
+mode: 1
+mode_confidence: 0.417
+release: Nothing Lasts For Ever
+release_7digitalid: 363581
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (541,)
+segments_loudness_max: shape = (541,)
+segments_loudness_max_time: shape = (541,)
+segments_loudness_start: shape = (541,)
+segments_pitches: shape = (541, 12)
+segments_start: shape = (541,)
+segments_timbre: shape = (541, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUDEWA12AB018532F
+start_of_fade_out: 163.138
+tatums_confidence: shape = (831,)
+tatums_start: shape = (831,)
+tempo: 149.394
+time_signature: 4
+time_signature_confidence: 0.0
+title: Toby
+track_7digitalid: 4046909
+track_id: TRAUTXS128F932A629
+year: 1974

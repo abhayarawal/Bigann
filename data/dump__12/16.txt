@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 301063
+artist_familiarity: 0.543393231433
+artist_hotttnesss: 0.338575026457
+artist_id: ARTXS851187FB411C7
+artist_latitude: nan
+artist_location: Essex, England
+artist_longitude: nan
+artist_mbid: 6bb0bcaa-f96f-4c1a-b51d-c766db2af8ae
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Chris Farlowe
+artist_playmeid: 100509
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 99ac1d03d52adaae7673a508125056c2
+bars_confidence: shape = (127,)
+bars_start: shape = (127,)
+beats_confidence: shape = (512,)
+beats_start: shape = (512,)
+danceability: 0.0
+duration: 192.26077
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 1.0
+loudness: -13.626
+mode: 1
+mode_confidence: 0.887
+release: Chris Farlowe Selected Hits
+release_7digitalid: 468309
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (649,)
+segments_loudness_max: shape = (649,)
+segments_loudness_max_time: shape = (649,)
+segments_loudness_start: shape = (649,)
+segments_pitches: shape = (649, 12)
+segments_start: shape = (649,)
+segments_timbre: shape = (649, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOFFTS12AB018A83C
+start_of_fade_out: 183.205
+tatums_confidence: shape = (1024,)
+tatums_start: shape = (1024,)
+tempo: 160.663
+time_signature: 4
+time_signature_confidence: 0.13
+title: I Just Need Your Lovin' - Original
+track_7digitalid: 5208175
+track_id: TRAEACU128F933D7C1
+year: 0

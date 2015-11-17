@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 97
+artist_familiarity: 0.668509447109
+artist_hotttnesss: 0.506545319485
+artist_id: ARSZ6MA1187FB43D29
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d5d97b2b-b83b-4976-814a-056d9076c8c3
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: The Notorious B.I.G.
+artist_playmeid: 17288
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 2e93723abd354cbcb6434eabf579d865
+bars_confidence: shape = (121,)
+bars_start: shape = (121,)
+beats_confidence: shape = (488,)
+beats_start: shape = (488,)
+danceability: 0.0
+duration: 316.65587
+end_of_fade_in: 0.164
+energy: 0.0
+key: 4
+key_confidence: 0.613
+loudness: -5.934
+mode: 1
+mode_confidence: 0.462
+release: Greatest Hits
+release_7digitalid: 327425
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1275,)
+segments_loudness_max: shape = (1275,)
+segments_loudness_max_time: shape = (1275,)
+segments_loudness_start: shape = (1275,)
+segments_pitches: shape = (1275, 12)
+segments_start: shape = (1275,)
+segments_timbre: shape = (1275, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.274281704244
+song_id: SOLCPEB12A58A7BF47
+start_of_fade_out: 311.664
+tatums_confidence: shape = (977,)
+tatums_start: shape = (977,)
+tempo: 91.69
+time_signature: 4
+time_signature_confidence: 0.825
+title: Who Shot Ya (Amended Album Version)
+track_7digitalid: 3683109
+track_id: TRAAWDK128F92E2A17
+year: 2007

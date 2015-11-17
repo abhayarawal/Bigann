@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 103152
+artist_familiarity: 0.422019321101
+artist_hotttnesss: 0.320971148859
+artist_id: ARLTX751187B9A1828
+artist_latitude: 33.52029
+artist_location: Birmingham, AL
+artist_longitude: -86.8115
+artist_mbid: 6cf0b181-9c73-4e48-8527-e96bc5beb39b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Frederick Knight
+artist_playmeid: -1
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: d6de2cdb53eb3340fd5591efb8e8fbe9
+bars_confidence: shape = (318,)
+bars_start: shape = (318,)
+beats_confidence: shape = (318,)
+beats_start: shape = (318,)
+danceability: 0.0
+duration: 198.81751
+end_of_fade_in: 0.349
+energy: 0.0
+key: 7
+key_confidence: 0.72
+loudness: -8.482
+mode: 1
+mode_confidence: 0.757
+release: True Soulful Love
+release_7digitalid: 200748
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (616,)
+segments_loudness_max: shape = (616,)
+segments_loudness_max_time: shape = (616,)
+segments_loudness_start: shape = (616,)
+segments_pitches: shape = (616, 12)
+segments_start: shape = (616,)
+segments_timbre: shape = (616, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.636287224427
+song_id: SOHOXPI12A81C21566
+start_of_fade_out: 188.151
+tatums_confidence: shape = (635,)
+tatums_start: shape = (635,)
+tempo: 96.534
+time_signature: 1
+time_signature_confidence: 0.0
+title: I've Been Lonely (For So Long)
+track_7digitalid: 2186141
+track_id: TRAKYRW128F425979E
+year: 2000

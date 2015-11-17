@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4706
+artist_familiarity: 0.670615396166
+artist_hotttnesss: 0.503151605985
+artist_id: ARXPE571187FB4AFD0
+artist_latitude: nan
+artist_location: Chicago, IL
+artist_longitude: nan
+artist_mbid: 9cd9232e-7a3e-4eb9-8043-ee05c1e396ec
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Rickie Lee Jones
+artist_playmeid: 39140
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 41629917b48b8e7b0d48343c42374955
+bars_confidence: shape = (142,)
+bars_start: shape = (142,)
+beats_confidence: shape = (570,)
+beats_start: shape = (570,)
+danceability: 0.0
+duration: 246.62159
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -14.071
+mode: 0
+mode_confidence: 0.204
+release: Rickie Lee Jones
+release_7digitalid: 113780
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1005,)
+segments_loudness_max: shape = (1005,)
+segments_loudness_max_time: shape = (1005,)
+segments_loudness_start: shape = (1005,)
+segments_pitches: shape = (1005, 12)
+segments_start: shape = (1005,)
+segments_timbre: shape = (1005, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.602761783304
+song_id: SONWSOW12A8C13BC80
+start_of_fade_out: 226.337
+tatums_confidence: shape = (570,)
+tatums_start: shape = (570,)
+tempo: 143.497
+time_signature: 4
+time_signature_confidence: 0.591
+title: Danny's All-Star Joint (LP Version)
+track_7digitalid: 1174545
+track_id: TRAUTCA128F429B624
+year: 1979

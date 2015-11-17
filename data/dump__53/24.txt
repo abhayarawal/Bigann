@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 559821
+artist_familiarity: 0.487077751135
+artist_hotttnesss: 0.315690276816
+artist_id: AR4QYVC1187B99985B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c3b1105d-b40c-47c7-b489-e9b3f7b1e8c1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ Harry
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 8167b8b566d4d9adbc1bc6d19d004bcf
+bars_confidence: shape = (149,)
+bars_start: shape = (149,)
+beats_confidence: shape = (602,)
+beats_start: shape = (602,)
+danceability: 0.0
+duration: 299.98975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.664
+loudness: -6.573
+mode: 1
+mode_confidence: 0.587
+release: Collision
+release_7digitalid: 748788
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1122,)
+segments_loudness_max: shape = (1122,)
+segments_loudness_max_time: shape = (1122,)
+segments_loudness_start: shape = (1122,)
+segments_pitches: shape = (1122, 12)
+segments_start: shape = (1122,)
+segments_timbre: shape = (1122, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHDTLT12AB0183F06
+start_of_fade_out: 294.214
+tatums_confidence: shape = (1203,)
+tatums_start: shape = (1203,)
+tempo: 122.829
+time_signature: 4
+time_signature_confidence: 1.0
+title: Tragedy in Blue
+track_7digitalid: 8290819
+track_id: TRASDUS12903CA0686
+year: 2004

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 161984
+artist_familiarity: 0.634196180326
+artist_hotttnesss: 0.441945160514
+artist_id: ARGGD1E1187B98FA9D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b5027515-8ffe-40c2-9ca3-572438f00087
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Parachute Band
+artist_playmeid: 9636
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 98d6734f6bf018f87d615af79b10eed8
+bars_confidence: shape = (115,)
+bars_start: shape = (115,)
+beats_confidence: shape = (463,)
+beats_start: shape = (463,)
+danceability: 0.0
+duration: 199.28771
+end_of_fade_in: 2.212
+energy: 0.0
+key: 2
+key_confidence: 0.392
+loudness: -3.353
+mode: 1
+mode_confidence: 0.474
+release: Technicolor
+release_7digitalid: 326937
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (470,)
+segments_loudness_max: shape = (470,)
+segments_loudness_max_time: shape = (470,)
+segments_loudness_start: shape = (470,)
+segments_pitches: shape = (470, 12)
+segments_start: shape = (470,)
+segments_timbre: shape = (470, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.567591725042
+song_id: SOBQQCL12AB0180A33
+start_of_fade_out: 195.483
+tatums_confidence: shape = (927,)
+tatums_start: shape = (927,)
+tempo: 141.749
+time_signature: 4
+time_signature_confidence: 0.554
+title: No Eye Has Seen
+track_7digitalid: 3688503
+track_id: TRAFKKS128F92E3F23
+year: 0

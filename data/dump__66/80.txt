@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 515953
+artist_familiarity: 0.169516761601
+artist_hotttnesss: 0.274174779537
+artist_id: ARNRTFR1269FCD155C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Adam Richmond
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: f78258c73371579652bfea846d1363e3
+bars_confidence: shape = (22,)
+bars_start: shape = (22,)
+beats_confidence: shape = (70,)
+beats_start: shape = (70,)
+danceability: 0.0
+duration: 36.10077
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.006
+loudness: -14.641
+mode: 1
+mode_confidence: 0.169
+release: Rock 'em Dead
+release_7digitalid: 694101
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (151,)
+segments_loudness_max: shape = (151,)
+segments_loudness_max_time: shape = (151,)
+segments_loudness_start: shape = (151,)
+segments_pitches: shape = (151, 12)
+segments_start: shape = (151,)
+segments_timbre: shape = (151, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHYEJU12AC3DF9CE7
+start_of_fade_out: 36.101
+tatums_confidence: shape = (139,)
+tatums_start: shape = (139,)
+tempo: 114.057
+time_signature: 3
+time_signature_confidence: 0.741
+title: Pic & Run
+track_7digitalid: 7705616
+track_id: TRAWTRR12903CFF893
+year: 0

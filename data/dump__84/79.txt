@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 343187
+artist_familiarity: 0.560557983904
+artist_hotttnesss: 0.452789476752
+artist_id: AR1Y2PT1187FB5B9CE
+artist_latitude: 27.94017
+artist_location: Brandon
+artist_longitude: -82.32547
+artist_mbid: 84f3a2c3-95b4-4d4f-82d9-0e4baf4886ab
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: John Wesley
+artist_playmeid: -1
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 11178400be29882986efecbdf6e58f7f
+bars_confidence: shape = (164,)
+bars_start: shape = (164,)
+beats_confidence: shape = (661,)
+beats_start: shape = (661,)
+danceability: 0.0
+duration: 270.31465
+end_of_fade_in: 0.474
+energy: 0.0
+key: 4
+key_confidence: 0.566
+loudness: -8.098
+mode: 0
+mode_confidence: 0.545
+release: Chasing Monsters
+release_7digitalid: 463518
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (827,)
+segments_loudness_max: shape = (827,)
+segments_loudness_max_time: shape = (827,)
+segments_loudness_start: shape = (827,)
+segments_pitches: shape = (827, 12)
+segments_start: shape = (827,)
+segments_timbre: shape = (827, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.437036204112
+song_id: SOYYJBH12AB01894DB
+start_of_fade_out: 259.111
+tatums_confidence: shape = (1323,)
+tatums_start: shape = (1323,)
+tempo: 147.932
+time_signature: 4
+time_signature_confidence: 0.587
+title: Chasing Monsters
+track_7digitalid: 5158948
+track_id: TRBDCPM128F9331795
+year: 0

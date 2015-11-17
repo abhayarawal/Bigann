@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13022
+artist_familiarity: 0.603383145272
+artist_hotttnesss: 0.422127199293
+artist_id: AR1DR0E1187FB48F61
+artist_latitude: nan
+artist_location: Cross Lane, WV
+artist_longitude: nan
+artist_mbid: f29443f1-5712-4be7-a926-1bde47a1d71d
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Kathy Mattea
+artist_playmeid: 3057
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 06072ea20a4919973fdca879e36d37ce
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (95,)
+beats_start: shape = (95,)
+danceability: 0.0
+duration: 44.64281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.426
+loudness: -16.504
+mode: 0
+mode_confidence: 0.544
+release: Coal
+release_7digitalid: 243895
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (115,)
+segments_loudness_max: shape = (115,)
+segments_loudness_max_time: shape = (115,)
+segments_loudness_start: shape = (115,)
+segments_pitches: shape = (115, 12)
+segments_start: shape = (115,)
+segments_timbre: shape = (115, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.323112120895
+song_id: SOTTJUN12A8C132C22
+start_of_fade_out: 44.643
+tatums_confidence: shape = (190,)
+tatums_start: shape = (190,)
+tempo: 146.894
+time_signature: 1
+time_signature_confidence: 0.0
+title: Sally In the Garden
+track_7digitalid: 2659015
+track_id: TRABZRB128F423EFA9
+year: 2008

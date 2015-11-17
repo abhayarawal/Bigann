@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19987
+artist_familiarity: 0.788485245772
+artist_hotttnesss: 0.470107801535
+artist_id: ARLNY561187B9B0355
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: 5221de81-b3cb-48d6-8e60-7c04b5daf02a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Noisettes
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 8f47065b81275d2e47ff8e86d68ec566
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (405,)
+beats_start: shape = (405,)
+danceability: 0.0
+duration: 205.06077
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.559
+loudness: -2.912
+mode: 0
+mode_confidence: 0.586
+release: What's The Time Mr. Wolf
+release_7digitalid: 69099
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (639,)
+segments_loudness_max: shape = (639,)
+segments_loudness_max_time: shape = (639,)
+segments_loudness_start: shape = (639,)
+segments_pitches: shape = (639, 12)
+segments_start: shape = (639,)
+segments_timbre: shape = (639, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCQYRC12A67ADB469
+start_of_fade_out: 201.607
+tatums_confidence: shape = (809,)
+tatums_start: shape = (809,)
+tempo: 119.501
+time_signature: 4
+time_signature_confidence: 0.689
+title: Bridge To Canada
+track_7digitalid: 722869
+track_id: TRASLHI128EF343C84
+year: 2006

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 618
+artist_familiarity: 0.786427083379
+artist_hotttnesss: 0.512226738318
+artist_id: AR035N21187FB3938E
+artist_latitude: 34.23294
+artist_location: Earth
+artist_longitude: -102.4102
+artist_mbid: 88e2147d-0332-46f6-85b2-b5f463ba957b
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: BT
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: bf892af48031db37ab8555142b03cbb7
+bars_confidence: shape = (278,)
+bars_start: shape = (278,)
+beats_confidence: shape = (1117,)
+beats_start: shape = (1117,)
+danceability: 0.0
+duration: 506.27873
+end_of_fade_in: 0.206
+energy: 0.0
+key: 6
+key_confidence: 0.138
+loudness: -11.59
+mode: 0
+mode_confidence: 0.222
+release: In Search Of Sunrise 1
+release_7digitalid: 725628
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (2892,)
+segments_loudness_max: shape = (2892,)
+segments_loudness_max_time: shape = (2892,)
+segments_loudness_start: shape = (2892,)
+segments_pitches: shape = (2892, 12)
+segments_start: shape = (2892,)
+segments_timbre: shape = (2892, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.434838090261
+song_id: SOAUXQN12AB018D2F6
+start_of_fade_out: 491.119
+tatums_confidence: shape = (2233,)
+tatums_start: shape = (2233,)
+tempo: 136.003
+time_signature: 4
+time_signature_confidence: 0.152
+title: Mercury & Solace
+track_7digitalid: 8041406
+track_id: TRALOBE12903CDA6C5
+year: 2000

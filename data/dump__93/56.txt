@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 328794
+artist_familiarity: 0.291433259678
+artist_hotttnesss: 0.150857762445
+artist_id: AR502DZ1187B98F8E1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bc73bbad-ebd9-45c0-8581-260304b9c008
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Shamrock Singers
+artist_playmeid: -1
+artist_terms: shape = (9,)
+artist_terms_freq: shape = (9,)
+artist_terms_weight: shape = (9,)
+audio_md5: 808fe2a4324f15a2667b22b10f5ab005
+bars_confidence: shape = (126,)
+bars_start: shape = (126,)
+beats_confidence: shape = (509,)
+beats_start: shape = (509,)
+danceability: 0.0
+duration: 273.29261
+end_of_fade_in: 0.808
+energy: 0.0
+key: 4
+key_confidence: 0.898
+loudness: -17.805
+mode: 1
+mode_confidence: 0.731
+release: The Wild Rover
+release_7digitalid: 673874
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (736,)
+segments_loudness_max: shape = (736,)
+segments_loudness_max_time: shape = (736,)
+segments_loudness_start: shape = (736,)
+segments_pitches: shape = (736, 12)
+segments_start: shape = (736,)
+segments_timbre: shape = (736, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.204429372907
+song_id: SOXYFLY12AB0182A21
+start_of_fade_out: 266.67
+tatums_confidence: shape = (1019,)
+tatums_start: shape = (1019,)
+tempo: 114.276
+time_signature: 4
+time_signature_confidence: 0.992
+title: Fields Of Athenry
+track_7digitalid: 7471693
+track_id: TRBGHNM12903CC6797
+year: 0

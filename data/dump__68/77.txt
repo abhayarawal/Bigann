@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 484
+artist_familiarity: 0.596895543228
+artist_hotttnesss: 0.365951047654
+artist_id: ARX5XTP1187FB3D8CC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7217d3fb-a04b-429d-abcf-a74265a93c73
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Freddie McGregor
+artist_playmeid: 10710
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: b948f55c6003c56cf92b52b27c46dbbd
+bars_confidence: shape = (150,)
+bars_start: shape = (150,)
+beats_confidence: shape = (604,)
+beats_start: shape = (604,)
+danceability: 0.0
+duration: 229.95546
+end_of_fade_in: 0.13
+energy: 0.0
+key: 9
+key_confidence: 0.761
+loudness: -8.042
+mode: 1
+mode_confidence: 0.618
+release: Strictly The Best 28
+release_7digitalid: 185797
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (993,)
+segments_loudness_max: shape = (993,)
+segments_loudness_max_time: shape = (993,)
+segments_loudness_start: shape = (993,)
+segments_pitches: shape = (993, 12)
+segments_start: shape = (993,)
+segments_timbre: shape = (993, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SOFHWUZ12A8AE48B9D
+start_of_fade_out: 225.53
+tatums_confidence: shape = (1208,)
+tatums_start: shape = (1208,)
+tempo: 158.113
+time_signature: 4
+time_signature_confidence: 0.484
+title: YOUR LOVE
+track_7digitalid: 2013214
+track_id: TRAXLRT128F4238A87
+year: 0

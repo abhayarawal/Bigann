@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 422635
+artist_familiarity: 0.558481252978
+artist_hotttnesss: 0.376325960229
+artist_id: ARC1CJB1187B99FCA4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ca91d4fa-d532-426d-933a-14f26d83ab1b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Laurie Berkner
+artist_playmeid: 177796
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: e860964d5f85f3df0d7f63d6e5398fc0
+bars_confidence: shape = (141,)
+bars_start: shape = (141,)
+beats_confidence: shape = (566,)
+beats_start: shape = (566,)
+danceability: 0.0
+duration: 233.45587
+end_of_fade_in: 0.177
+energy: 0.0
+key: 5
+key_confidence: 0.84
+loudness: -16.263
+mode: 1
+mode_confidence: 0.598
+release: Buzz Buzz
+release_7digitalid: 632827
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (768,)
+segments_loudness_max: shape = (768,)
+segments_loudness_max_time: shape = (768,)
+segments_loudness_start: shape = (768,)
+segments_pitches: shape = (768, 12)
+segments_start: shape = (768,)
+segments_timbre: shape = (768, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOFJWKK12AB01826CD
+start_of_fade_out: 230.22
+tatums_confidence: shape = (1132,)
+tatums_start: shape = (1132,)
+tempo: 144.71
+time_signature: 4
+time_signature_confidence: 0.071
+title: The Cookie Bakers of the Night
+track_7digitalid: 7025250
+track_id: TRABXSA128F932BD6F
+year: 2001

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15260
+artist_familiarity: 0.84560188664
+artist_hotttnesss: 1.00594196595
+artist_id: ARTDQRC1187FB4EFD4
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: d5be5333-4171-427e-8e12-732087c6b78e
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Black Eyed Peas
+artist_playmeid: 21628
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 5304dd382803b40a2eccc0b617afad82
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (408,)
+beats_start: shape = (408,)
+danceability: 0.0
+duration: 229.61587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.205
+loudness: -4.882
+mode: 0
+mode_confidence: 0.332
+release: Total Workout Running 102 - 135 - 84bpm Ideal For Jogging_ Running_ Treadmill & General Fitness
+release_7digitalid: 358442
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (869,)
+segments_loudness_max: shape = (869,)
+segments_loudness_max_time: shape = (869,)
+segments_loudness_start: shape = (869,)
+segments_pitches: shape = (869, 12)
+segments_start: shape = (869,)
+segments_timbre: shape = (869, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.624425493271
+song_id: SOCHRXB12A8AE48069
+start_of_fade_out: 213.664
+tatums_confidence: shape = (816,)
+tatums_start: shape = (816,)
+tempo: 105.206
+time_signature: 4
+time_signature_confidence: 1.0
+title: Let's Get It Started
+track_7digitalid: 3999070
+track_id: TRAAGCZ128F93210FD
+year: 2004

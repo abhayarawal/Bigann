@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18214
+artist_familiarity: 0.386291901042
+artist_hotttnesss: 0.334793296272
+artist_id: ARPPURC1187B990FB7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 642e61c8-878c-4a7c-84e2-2a8a384a8f8e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bert Kaempfert And His Orchestra
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 7040732d1d8b1ea6913373f0502adfe6
+bars_confidence: shape = (46,)
+bars_start: shape = (46,)
+beats_confidence: shape = (192,)
+beats_start: shape = (192,)
+danceability: 0.0
+duration: 132.5971
+end_of_fade_in: 2.543
+energy: 0.0
+key: 10
+key_confidence: 0.407
+loudness: -11.554
+mode: 1
+mode_confidence: 0.56
+release: The World We Knew
+release_7digitalid: 47334
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (470,)
+segments_loudness_max: shape = (470,)
+segments_loudness_max_time: shape = (470,)
+segments_loudness_start: shape = (470,)
+segments_pitches: shape = (470, 12)
+segments_start: shape = (470,)
+segments_timbre: shape = (470, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOFKVJV12A6D4F8F4B
+start_of_fade_out: 129.364
+tatums_confidence: shape = (384,)
+tatums_start: shape = (384,)
+tempo: 88.47
+time_signature: 4
+time_signature_confidence: 1.0
+title: Talk
+track_7digitalid: 507409
+track_id: TRAWEYD128F148C93B
+year: 0

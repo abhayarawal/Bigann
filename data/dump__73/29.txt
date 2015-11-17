@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 240
+artist_familiarity: 0.619358945941
+artist_hotttnesss: 0.389107386526
+artist_id: ARP39OU1187FB4D543
+artist_latitude: nan
+artist_location: West London, England
+artist_longitude: nan
+artist_mbid: 617f2574-c2bd-4e39-9627-34fc9742a024
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Aswad
+artist_playmeid: 3348
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 35c3eafbc719101c8bfb5646f0046c93
+bars_confidence: shape = (774,)
+bars_start: shape = (774,)
+beats_confidence: shape = (774,)
+beats_start: shape = (774,)
+danceability: 0.0
+duration: 280.94649
+end_of_fade_in: 0.09
+energy: 0.0
+key: 2
+key_confidence: 0.364
+loudness: -8.777
+mode: 0
+mode_confidence: 0.355
+release: New Chapter
+release_7digitalid: 291227
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1002,)
+segments_loudness_max: shape = (1002,)
+segments_loudness_max_time: shape = (1002,)
+segments_loudness_start: shape = (1002,)
+segments_pitches: shape = (1002, 12)
+segments_start: shape = (1002,)
+segments_timbre: shape = (1002, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEYPBL12A8C1357C7
+start_of_fade_out: 269.357
+tatums_confidence: shape = (1548,)
+tatums_start: shape = (1548,)
+tempo: 167.312
+time_signature: 1
+time_signature_confidence: 0.0
+title: Ina Your Rights
+track_7digitalid: 3270646
+track_id: TRAZASN128F427DB44
+year: 1981

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22312
+artist_familiarity: 0.693883852615
+artist_hotttnesss: 0.491099453306
+artist_id: ARWGLPE1187FB3E54C
+artist_latitude: nan
+artist_location: Louisiana
+artist_longitude: nan
+artist_mbid: 74e3de96-f394-4aaf-b416-4d04c50b8370
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Crowbar
+artist_playmeid: 52806
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: dd2092666aec97aa050b2de130ab9441
+bars_confidence: shape = (208,)
+bars_start: shape = (208,)
+beats_confidence: shape = (834,)
+beats_start: shape = (834,)
+danceability: 0.0
+duration: 270.73261
+end_of_fade_in: 0.339
+energy: 0.0
+key: 4
+key_confidence: 0.723
+loudness: -8.6
+mode: 1
+mode_confidence: 0.641
+release: Crowbar
+release_7digitalid: 195247
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (755,)
+segments_loudness_max: shape = (755,)
+segments_loudness_max_time: shape = (755,)
+segments_loudness_start: shape = (755,)
+segments_pitches: shape = (755, 12)
+segments_start: shape = (755,)
+segments_timbre: shape = (755, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.714047459514
+song_id: SOVQEYV12AF72A06B2
+start_of_fade_out: 261.416
+tatums_confidence: shape = (1668,)
+tatums_start: shape = (1668,)
+tempo: 189.288
+time_signature: 4
+time_signature_confidence: 0.0
+title: No Quarter
+track_7digitalid: 2124143
+track_id: TRBBKLD128F424ABF5
+year: 0

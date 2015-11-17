@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 80885
+artist_familiarity: 0.606146076191
+artist_hotttnesss: 0.421128566438
+artist_id: AR71WYS1187FB5170D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5452c50b-7a1b-415e-bd73-10cc54b19054
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kelly Sweet
+artist_playmeid: 55696
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 75928ea02e4fd1124afc6e76c324422e
+bars_confidence: shape = (137,)
+bars_start: shape = (137,)
+beats_confidence: shape = (554,)
+beats_start: shape = (554,)
+danceability: 0.0
+duration: 256.93995
+end_of_fade_in: 0.173
+energy: 0.0
+key: 10
+key_confidence: 0.735
+loudness: -8.036
+mode: 1
+mode_confidence: 0.647
+release: We Are One
+release_7digitalid: 633575
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (749,)
+segments_loudness_max: shape = (749,)
+segments_loudness_max_time: shape = (749,)
+segments_loudness_start: shape = (749,)
+segments_pitches: shape = (749, 12)
+segments_start: shape = (749,)
+segments_timbre: shape = (749, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.541651442955
+song_id: SORPACP12AB017DFDB
+start_of_fade_out: 240.524
+tatums_confidence: shape = (1107,)
+tatums_start: shape = (1107,)
+tempo: 130.106
+time_signature: 4
+time_signature_confidence: 0.475
+title: Ready For Love
+track_7digitalid: 7031758
+track_id: TRAXUQL128F932D6C4
+year: 2007

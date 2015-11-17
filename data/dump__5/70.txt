@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 144833
+artist_familiarity: 0.524694957898
+artist_hotttnesss: 0.368067241031
+artist_id: AR8S3OI1187B9B92E4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5ae33ac1-1c74-4e65-a289-2109602ccac5
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Shy FX & T Power
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 2c5cec2c212302a4fe6604746e6c4dce
+bars_confidence: shape = (139,)
+bars_start: shape = (139,)
+beats_confidence: shape = (559,)
+beats_start: shape = (559,)
+danceability: 0.0
+duration: 380.44689
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.056
+loudness: -3.584
+mode: 0
+mode_confidence: 0.206
+release: Innovation The Album Mixed By Shy FX
+release_7digitalid: 278622
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1561,)
+segments_loudness_max: shape = (1561,)
+segments_loudness_max_time: shape = (1561,)
+segments_loudness_start: shape = (1561,)
+segments_pitches: shape = (1561, 12)
+segments_start: shape = (1561,)
+segments_timbre: shape = (1561, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKJKUH12A8AE46FAA
+start_of_fade_out: 367.467
+tatums_confidence: shape = (2235,)
+tatums_start: shape = (2235,)
+tempo: 88.973
+time_signature: 4
+time_signature_confidence: 1.0
+title: Feelings
+track_7digitalid: 3102732
+track_id: TRABWFU128F425949F
+year: 2005

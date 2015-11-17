@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 129610
+artist_familiarity: 0.685080489473
+artist_hotttnesss: 0.46070367445
+artist_id: ARGS67J1187FB3FC1A
+artist_latitude: 37.27188
+artist_location: California
+artist_longitude: -119.27023
+artist_mbid: 1ac3366a-a0e9-4a55-8f6e-796fce32a3b2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Righteous Brothers
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: fe9b39945ff6b6ad4fdbb5f66fa19e48
+bars_confidence: shape = (288,)
+bars_start: shape = (288,)
+beats_confidence: shape = (288,)
+beats_start: shape = (288,)
+danceability: 0.0
+duration: 130.0371
+end_of_fade_in: 0.346
+energy: 0.0
+key: 10
+key_confidence: 0.765
+loudness: -11.47
+mode: 1
+mode_confidence: 0.626
+release: The Collection
+release_7digitalid: 256904
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (420,)
+segments_loudness_max: shape = (420,)
+segments_loudness_max_time: shape = (420,)
+segments_loudness_start: shape = (420,)
+segments_pitches: shape = (420, 12)
+segments_start: shape = (420,)
+segments_timbre: shape = (420, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBATVY12A8C134A4C
+start_of_fade_out: 118.085
+tatums_confidence: shape = (577,)
+tatums_start: shape = (577,)
+tempo: 135.599
+time_signature: 1
+time_signature_confidence: 0.0
+title: Little Latin Lupe Lu
+track_7digitalid: 2706372
+track_id: TRATRMT128F4249901
+year: 1975

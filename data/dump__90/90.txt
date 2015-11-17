@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18960
+artist_familiarity: 0.526515278111
+artist_hotttnesss: 0.406581680352
+artist_id: ARVMFE61187B992463
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5326f884-ae4e-452f-97de-0a047facc16f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Darwin Hobbs
+artist_playmeid: 70495
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 47e63204f64d25952ce193dceccd25cf
+bars_confidence: shape = (240,)
+bars_start: shape = (240,)
+beats_confidence: shape = (723,)
+beats_start: shape = (723,)
+danceability: 0.0
+duration: 311.95383
+end_of_fade_in: 0.357
+energy: 0.0
+key: 1
+key_confidence: 0.323
+loudness: -7.487
+mode: 1
+mode_confidence: 0.485
+release: WOW Gospel 2010
+release_7digitalid: 704461
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (870,)
+segments_loudness_max: shape = (870,)
+segments_loudness_max_time: shape = (870,)
+segments_loudness_start: shape = (870,)
+segments_pitches: shape = (870, 12)
+segments_start: shape = (870,)
+segments_timbre: shape = (870, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.494489517502
+song_id: SOFHCUH12AB0183CA2
+start_of_fade_out: 300.751
+tatums_confidence: shape = (723,)
+tatums_start: shape = (723,)
+tempo: 140.085
+time_signature: 3
+time_signature_confidence: 0.642
+title: Free
+track_7digitalid: 7818242
+track_id: TRBFKAT12903CA42E2
+year: 0

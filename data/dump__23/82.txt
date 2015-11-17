@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15464
+artist_familiarity: 0.334542783657
+artist_hotttnesss: 0.0490343808485
+artist_id: AROIHOI122988FEB8E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mario Rosenstock
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 9e1011fe933cb13024ac72fb044259e9
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (285,)
+beats_start: shape = (285,)
+danceability: 0.0
+duration: 199.57506
+end_of_fade_in: 0.253
+energy: 0.0
+key: 0
+key_confidence: 0.548
+loudness: -11.924
+mode: 1
+mode_confidence: 0.29
+release: Gift Grub 8 - The G Factor
+release_7digitalid: 171941
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (747,)
+segments_loudness_max: shape = (747,)
+segments_loudness_max_time: shape = (747,)
+segments_loudness_start: shape = (747,)
+segments_pitches: shape = (747, 12)
+segments_start: shape = (747,)
+segments_timbre: shape = (747, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONGBCL12A8C1410C2
+start_of_fade_out: 190.862
+tatums_confidence: shape = (569,)
+tatums_start: shape = (569,)
+tempo: 84.871
+time_signature: 3
+time_signature_confidence: 0.586
+title: Paint Ball
+track_7digitalid: 1833754
+track_id: TRAIAID128F4298FF9
+year: 0

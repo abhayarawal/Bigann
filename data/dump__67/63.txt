@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 483
+artist_familiarity: 0.536336186173
+artist_hotttnesss: 0.414609584707
+artist_id: ARPTJHV11F4C83EF53
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mighty Diamonds
+artist_playmeid: 88200
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: edec96295dfe25e93b2d5706f7cc4029
+bars_confidence: shape = (76,)
+bars_start: shape = (76,)
+beats_confidence: shape = (309,)
+beats_start: shape = (309,)
+danceability: 0.0
+duration: 215.562
+end_of_fade_in: 0.345
+energy: 0.0
+key: 2
+key_confidence: 0.0
+loudness: -7.633
+mode: 1
+mode_confidence: 0.0
+release: Rise Up
+release_7digitalid: 568321
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (1023,)
+segments_loudness_max: shape = (1023,)
+segments_loudness_max_time: shape = (1023,)
+segments_loudness_start: shape = (1023,)
+segments_pitches: shape = (1023, 12)
+segments_start: shape = (1023,)
+segments_timbre: shape = (1023, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SODOOMJ12AB0185178
+start_of_fade_out: 208.504
+tatums_confidence: shape = (617,)
+tatums_start: shape = (617,)
+tempo: 86.205
+time_signature: 4
+time_signature_confidence: 0.929
+title: Searching
+track_7digitalid: 6292733
+track_id: TRAXBYD12903C956EF
+year: 0

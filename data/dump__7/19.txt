@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 263179
+artist_familiarity: 0.486679143166
+artist_hotttnesss: 0.362501433921
+artist_id: ARVUAJC1187B9908A5
+artist_latitude: nan
+artist_location: Speedball
+artist_longitude: nan
+artist_mbid: dcaedaf8-b460-4966-8a05-1a080a6734fb
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Speedball
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 94b58f7b5b13679f196c9a2dced7f928
+bars_confidence: shape = (544,)
+bars_start: shape = (544,)
+beats_confidence: shape = (544,)
+beats_start: shape = (544,)
+danceability: 0.0
+duration: 212.21832
+end_of_fade_in: 0.285
+energy: 0.0
+key: 5
+key_confidence: 0.285
+loudness: -9.191
+mode: 0
+mode_confidence: 0.256
+release: Maximum Speed
+release_7digitalid: 675629
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (837,)
+segments_loudness_max: shape = (837,)
+segments_loudness_max_time: shape = (837,)
+segments_loudness_start: shape = (837,)
+segments_pitches: shape = (837, 12)
+segments_start: shape = (837,)
+segments_timbre: shape = (837, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.255103035539
+song_id: SOMJNMD12AB0187F93
+start_of_fade_out: 203.685
+tatums_confidence: shape = (1087,)
+tatums_start: shape = (1087,)
+tempo: 159.702
+time_signature: 1
+time_signature_confidence: 0.0
+title: No Survivors
+track_7digitalid: 7493527
+track_id: TRACJJZ12903CCBCDA
+year: 1998

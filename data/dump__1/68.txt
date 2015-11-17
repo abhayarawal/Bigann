@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1915
+artist_familiarity: 0.712098902128
+artist_hotttnesss: 0.413393911287
+artist_id: AROTIMO1187FB532BF
+artist_latitude: nan
+artist_location: Compton CA
+artist_longitude: nan
+artist_mbid: 542f4f08-4d8f-48db-a414-d3a33a62929f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ Quik
+artist_playmeid: 7070
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 7842a4d5d8e2cd36045b7736e6e47e25
+bars_confidence: shape = (154,)
+bars_start: shape = (154,)
+beats_confidence: shape = (619,)
+beats_start: shape = (619,)
+danceability: 0.0
+duration: 205.58322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.025
+loudness: -6.998
+mode: 0
+mode_confidence: 0.312
+release: The Best of DJ Quik - Da Finale
+release_7digitalid: 528941
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (958,)
+segments_loudness_max: shape = (958,)
+segments_loudness_max_time: shape = (958,)
+segments_loudness_start: shape = (958,)
+segments_pitches: shape = (958, 12)
+segments_start: shape = (958,)
+segments_timbre: shape = (958, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSGXRU12AAF3B2B07
+start_of_fade_out: 202.931
+tatums_confidence: shape = (1238,)
+tatums_start: shape = (1238,)
+tempo: 181.115
+time_signature: 4
+time_signature_confidence: 0.701
+title: Born and Raised In Compton
+track_7digitalid: 5845776
+track_id: TRAAMJY128F92F5919
+year: 1991

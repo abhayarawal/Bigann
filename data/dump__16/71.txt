@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 516
+artist_familiarity: 0.674970293048
+artist_hotttnesss: 0.424953084113
+artist_id: ARZS5VW1187FB567E8
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a7412cd0-e0b8-4fa1-8d24-75bb92a84946
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: William Orbit
+artist_playmeid: 1695
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 95bd6576843e1e88d2ef32c3fbe913b5
+bars_confidence: shape = (35,)
+bars_start: shape = (35,)
+beats_confidence: shape = (260,)
+beats_start: shape = (260,)
+danceability: 0.0
+duration: 159.11138
+end_of_fade_in: 0.287
+energy: 0.0
+key: 1
+key_confidence: 0.687
+loudness: -20.142
+mode: 1
+mode_confidence: 0.669
+release: Best Of Strange Cargo
+release_7digitalid: 860
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (275,)
+segments_loudness_max: shape = (275,)
+segments_loudness_max_time: shape = (275,)
+segments_loudness_start: shape = (275,)
+segments_pitches: shape = (275, 12)
+segments_start: shape = (275,)
+segments_timbre: shape = (275, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEPVWS12A6D4FAFC4
+start_of_fade_out: 141.816
+tatums_confidence: shape = (520,)
+tatums_start: shape = (520,)
+tempo: 98.823
+time_signature: 7
+time_signature_confidence: 0.858
+title: Love My Way
+track_7digitalid: 7570
+track_id: TRAFRJH128E0781C5B
+year: 1987

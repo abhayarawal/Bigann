@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 163502
+artist_familiarity: 0.540032834119
+artist_hotttnesss: 0.356970259862
+artist_id: ARRJFJ31187B9961EF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7f8759ee-4ddc-4a6b-9d17-0771e1022db7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sergio Dalma
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 8805186145a20b7c407edafa036e7394
+bars_confidence: shape = (170,)
+bars_start: shape = (170,)
+beats_confidence: shape = (682,)
+beats_start: shape = (682,)
+danceability: 0.0
+duration: 253.59628
+end_of_fade_in: 2.746
+energy: 0.0
+key: 11
+key_confidence: 0.427
+loudness: -5.768
+mode: 1
+mode_confidence: 0.496
+release: Cuerpo A Cuerpo
+release_7digitalid: 226246
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (890,)
+segments_loudness_max: shape = (890,)
+segments_loudness_max_time: shape = (890,)
+segments_loudness_start: shape = (890,)
+segments_pitches: shape = (890, 12)
+segments_start: shape = (890,)
+segments_timbre: shape = (890, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SONNQPW12A6D4FAB57
+start_of_fade_out: 241.209
+tatums_confidence: shape = (1364,)
+tatums_start: shape = (1364,)
+tempo: 164.024
+time_signature: 4
+time_signature_confidence: 0.457
+title: Un Cachito De Ti
+track_7digitalid: 2475431
+track_id: TRAWLYD128F42153D2
+year: 1995

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20483
+artist_familiarity: 0.71603520847
+artist_hotttnesss: 0.541656322286
+artist_id: AR2W4T81187FB410A7
+artist_latitude: nan
+artist_location: Cambridgeshire, England
+artist_longitude: nan
+artist_mbid: 1dce970e-34bc-48b2-ab51-48d87544a4c2
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: David Gilmour Featuring Richard Wright
+artist_playmeid: 9884
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 74d5ec52b1fb74cdacd5bc01a931bf49
+bars_confidence: shape = (456,)
+bars_start: shape = (456,)
+beats_confidence: shape = (456,)
+beats_start: shape = (456,)
+danceability: 0.0
+duration: 202.1873
+end_of_fade_in: 2.067
+energy: 0.0
+key: 2
+key_confidence: 0.036
+loudness: -7.204
+mode: 1
+mode_confidence: 0.404
+release: Arnold Layne
+release_7digitalid: 53164
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (580,)
+segments_loudness_max: shape = (580,)
+segments_loudness_max_time: shape = (580,)
+segments_loudness_start: shape = (580,)
+segments_pitches: shape = (580, 12)
+segments_start: shape = (580,)
+segments_timbre: shape = (580, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGEMEJ12B34F1C5AC
+start_of_fade_out: 193.091
+tatums_confidence: shape = (912,)
+tatums_start: shape = (912,)
+tempo: 138.43
+time_signature: 1
+time_signature_confidence: 0.0
+title: Arnold Layne
+track_7digitalid: 554393
+track_id: TRAHYLE128F1494718
+year: 2006

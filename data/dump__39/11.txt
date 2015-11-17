@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4024
+artist_familiarity: 0.882111591224
+artist_hotttnesss: 0.670106172837
+artist_id: ARVNGA71187FB3C107
+artist_latitude: nan
+artist_location: Nashville, TN
+artist_longitude: nan
+artist_mbid: 406552d4-5ba1-4226-b7c0-367bc50fc767
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Faith Hill
+artist_playmeid: 593
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 4deec4ff20eed68f3ca4557337f77428
+bars_confidence: shape = (158,)
+bars_start: shape = (158,)
+beats_confidence: shape = (637,)
+beats_start: shape = (637,)
+danceability: 0.0
+duration: 253.1522
+end_of_fade_in: 0.241
+energy: 0.0
+key: 11
+key_confidence: 0.246
+loudness: -9.031
+mode: 1
+mode_confidence: 0.416
+release: There You'll Be
+release_7digitalid: 19113
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (904,)
+segments_loudness_max: shape = (904,)
+segments_loudness_max_time: shape = (904,)
+segments_loudness_start: shape = (904,)
+segments_pitches: shape = (904, 12)
+segments_start: shape = (904,)
+segments_timbre: shape = (904, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.571729008924
+song_id: SOYEPDE12A67ADCF1B
+start_of_fade_out: 235.595
+tatums_confidence: shape = (1275,)
+tatums_start: shape = (1275,)
+tempo: 154.434
+time_signature: 4
+time_signature_confidence: 0.81
+title: There Will Come A Day (Album Version)
+track_7digitalid: 201566
+track_id: TRANJSV128E0799689
+year: 2001

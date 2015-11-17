@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40119
+artist_familiarity: 0.445858670853
+artist_hotttnesss: 0.312044455676
+artist_id: AR3AIEI1187B992D8D
+artist_latitude: 54.31392
+artist_location: Great Britain / UK
+artist_longitude: -2.23218
+artist_mbid: 471087d4-3438-4f55-bb37-89cfe042b300
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Marilyn Horne
+artist_playmeid: 15167
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 442d85b71809348aafbae35bcbb14c56
+bars_confidence: shape = (46,)
+bars_start: shape = (46,)
+beats_confidence: shape = (189,)
+beats_start: shape = (189,)
+danceability: 0.0
+duration: 109.37424
+end_of_fade_in: 5.422
+energy: 0.0
+key: 9
+key_confidence: 0.753
+loudness: -22.417
+mode: 1
+mode_confidence: 0.791
+release: Rockabye Baby - Lullabies with Orchestra
+release_7digitalid: 279150
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (327,)
+segments_loudness_max: shape = (327,)
+segments_loudness_max_time: shape = (327,)
+segments_loudness_start: shape = (327,)
+segments_pitches: shape = (327, 12)
+segments_start: shape = (327,)
+segments_timbre: shape = (327, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSIZPX12A8AE46AD3
+start_of_fade_out: 96.792
+tatums_confidence: shape = (378,)
+tatums_start: shape = (378,)
+tempo: 109.257
+time_signature: 4
+time_signature_confidence: 0.756
+title: Nana
+track_7digitalid: 3108789
+track_id: TRBCRLW128F425AC34
+year: 0

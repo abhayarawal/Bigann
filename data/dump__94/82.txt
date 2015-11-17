@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11288
+artist_familiarity: 0.620041694718
+artist_hotttnesss: 0.364975595396
+artist_id: ARS6HDE1187B99CA29
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 47cd459b-06c1-462f-8fdd-27721a03ef68
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Joe Lynn Turner
+artist_playmeid: 74331
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 8fe8cb0a0cefe97bae7605c9e141dd1b
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (482,)
+beats_start: shape = (482,)
+danceability: 0.0
+duration: 239.35955
+end_of_fade_in: 0.365
+energy: 0.0
+key: 7
+key_confidence: 0.026
+loudness: -6.545
+mode: 1
+mode_confidence: 0.294
+release: Nothing's Changed [Original Recording Remastered]
+release_7digitalid: 603776
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (690,)
+segments_loudness_max: shape = (690,)
+segments_loudness_max_time: shape = (690,)
+segments_loudness_start: shape = (690,)
+segments_pitches: shape = (690, 12)
+segments_start: shape = (690,)
+segments_timbre: shape = (690, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOVHFHO12AC3DF6DC4
+start_of_fade_out: 225.884
+tatums_confidence: shape = (964,)
+tatums_start: shape = (964,)
+tempo: 122.414
+time_signature: 4
+time_signature_confidence: 0.389
+title: Baby's Got A Habit
+track_7digitalid: 6706332
+track_id: TRBGRNH12903CF9685
+year: 0

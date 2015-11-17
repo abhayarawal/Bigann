@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 909
+artist_familiarity: 0.765357013064
+artist_hotttnesss: 0.755149913058
+artist_id: ARGVJPK1187B9909EA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 12be5b16-915f-44bc-978a-8ddfab235b79
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Josh Groban
+artist_playmeid: 115101
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 1e360c10b7f7a31785143a278b3e13c4
+bars_confidence: shape = (148,)
+bars_start: shape = (148,)
+beats_confidence: shape = (596,)
+beats_start: shape = (596,)
+danceability: 0.0
+duration: 282.85342
+end_of_fade_in: 7.941
+energy: 0.0
+key: 9
+key_confidence: 0.57
+loudness: -7.341
+mode: 1
+mode_confidence: 0.575
+release: Awake Live
+release_7digitalid: 228741
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (591,)
+segments_loudness_max: shape = (591,)
+segments_loudness_max_time: shape = (591,)
+segments_loudness_start: shape = (591,)
+segments_pitches: shape = (591, 12)
+segments_start: shape = (591,)
+segments_timbre: shape = (591, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.520526510883
+song_id: SOPMFLZ12A6D4F9D3A
+start_of_fade_out: 282.853
+tatums_confidence: shape = (1192,)
+tatums_start: shape = (1192,)
+tempo: 125.958
+time_signature: 4
+time_signature_confidence: 0.515
+title: Mai [Live]
+track_7digitalid: 2502728
+track_id: TRAFFRG128F421BD23
+year: 2008

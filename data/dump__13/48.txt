@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7565
+artist_familiarity: 0.477724732492
+artist_hotttnesss: 0.299705214087
+artist_id: ARD3ICK1187B9A56C9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 96a5d12b-6f2e-4679-be43-ce0cc5146da6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jimmy Riley
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 11b6ac9064a9f6a9b22adb46847d4244
+bars_confidence: shape = (81,)
+bars_start: shape = (81,)
+beats_confidence: shape = (326,)
+beats_start: shape = (326,)
+danceability: 0.0
+duration: 232.25424
+end_of_fade_in: 0.972
+energy: 0.0
+key: 2
+key_confidence: 0.0
+loudness: -13.05
+mode: 1
+mode_confidence: 0.0
+release: Magic
+release_7digitalid: 236135
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (884,)
+segments_loudness_max: shape = (884,)
+segments_loudness_max_time: shape = (884,)
+segments_loudness_start: shape = (884,)
+segments_pitches: shape = (884, 12)
+segments_start: shape = (884,)
+segments_timbre: shape = (884, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORULTV12A8AE45994
+start_of_fade_out: 219.678
+tatums_confidence: shape = (651,)
+tatums_start: shape = (651,)
+tempo: 85.746
+time_signature: 4
+time_signature_confidence: 0.45
+title: Life
+track_7digitalid: 2589037
+track_id: TRAENTC128F422F01B
+year: 0

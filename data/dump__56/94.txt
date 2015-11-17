@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 28221
+artist_familiarity: 0.491963935033
+artist_hotttnesss: 0.352973770821
+artist_id: ARB5U6G1187B9A994C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6a451d5e-2676-40fe-aa5b-a61fcfe704ff
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Johnny Otis Show
+artist_playmeid: -1
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: c4ceb0d8f30a0c6ced09e6245923e47f
+bars_confidence: shape = (63,)
+bars_start: shape = (63,)
+beats_confidence: shape = (255,)
+beats_start: shape = (255,)
+danceability: 0.0
+duration: 164.8322
+end_of_fade_in: 0.189
+energy: 0.0
+key: 0
+key_confidence: 0.096
+loudness: -16.313
+mode: 1
+mode_confidence: 0.459
+release: Cold Shot!
+release_7digitalid: 607057
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (546,)
+segments_loudness_max: shape = (546,)
+segments_loudness_max_time: shape = (546,)
+segments_loudness_start: shape = (546,)
+segments_pitches: shape = (546, 12)
+segments_start: shape = (546,)
+segments_timbre: shape = (546, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOBWEEH12A58A7D3EC
+start_of_fade_out: 153.995
+tatums_confidence: shape = (765,)
+tatums_start: shape = (765,)
+tempo: 94.085
+time_signature: 4
+time_signature_confidence: 1.0
+title: You Better Look Out
+track_7digitalid: 6745449
+track_id: TRATKIX12903D02EB1
+year: 0

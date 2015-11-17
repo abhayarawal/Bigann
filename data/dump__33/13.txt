@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 37132
+artist_familiarity: 0.58568314983
+artist_hotttnesss: 0.360445765807
+artist_id: AR78ZID1187B9B31ED
+artist_latitude: 18.11526
+artist_location: Jamaica
+artist_longitude: -77.27348
+artist_mbid: 85fcc6c7-4b54-40dd-bd0e-0df68309acea
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Mikey Dread
+artist_playmeid: -1
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 33dd1717fef9c86ee6333d3aae0f78cb
+bars_confidence: shape = (183,)
+bars_start: shape = (183,)
+beats_confidence: shape = (737,)
+beats_start: shape = (737,)
+danceability: 0.0
+duration: 309.83791
+end_of_fade_in: 0.351
+energy: 0.0
+key: 1
+key_confidence: 0.857
+loudness: -7.325
+mode: 0
+mode_confidence: 0.66
+release: World War III
+release_7digitalid: 246071
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1198,)
+segments_loudness_max: shape = (1198,)
+segments_loudness_max_time: shape = (1198,)
+segments_loudness_start: shape = (1198,)
+segments_pitches: shape = (1198, 12)
+segments_start: shape = (1198,)
+segments_timbre: shape = (1198, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.536115091976
+song_id: SOEEWVH12A58A78C98
+start_of_fade_out: 297.215
+tatums_confidence: shape = (1475,)
+tatums_start: shape = (1475,)
+tempo: 144.144
+time_signature: 4
+time_signature_confidence: 0.443
+title: The Jumping Master
+track_7digitalid: 2671184
+track_id: TRALGWZ128F4241B20
+year: 1981

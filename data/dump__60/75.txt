@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15535
+artist_familiarity: 0.47046686593
+artist_hotttnesss: 0.378398546485
+artist_id: AR6MIU31187B994603
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a18b2895-1dbe-4b55-bba0-fae4c02a9a1a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Stefon Harris
+artist_playmeid: 61828
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 81fd59b6f5c54970efea4ee6733d0e9a
+bars_confidence: shape = (641,)
+bars_start: shape = (641,)
+beats_confidence: shape = (641,)
+beats_start: shape = (641,)
+danceability: 0.0
+duration: 538.27873
+end_of_fade_in: 0.357
+energy: 0.0
+key: 1
+key_confidence: 0.669
+loudness: -12.169
+mode: 0
+mode_confidence: 0.511
+release: African Tarantella
+release_7digitalid: 45508
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (1979,)
+segments_loudness_max: shape = (1979,)
+segments_loudness_max_time: shape = (1979,)
+segments_loudness_start: shape = (1979,)
+segments_pitches: shape = (1979, 12)
+segments_start: shape = (1979,)
+segments_timbre: shape = (1979, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.27845917878
+song_id: SOGUUTM12A58A7AAD9
+start_of_fade_out: 526.356
+tatums_confidence: shape = (1922,)
+tatums_start: shape = (1922,)
+tempo: 70.875
+time_signature: 1
+time_signature_confidence: 0.0
+title: From the Gardner Meditations: African Tarantella
+track_7digitalid: 485427
+track_id: TRAUTJD128F14890F5
+year: 2006

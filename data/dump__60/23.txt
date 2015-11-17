@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4411
+artist_familiarity: 0.641197514984
+artist_hotttnesss: 0.44865347113
+artist_id: AR4TLW81187B99683D
+artist_latitude: nan
+artist_location: Syracuse, NY
+artist_longitude: nan
+artist_mbid: 0685ac4a-5cfc-408a-b391-903ea20e00bf
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Martin Sexton
+artist_playmeid: 53504
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 309968fd772a7427e5330e41fcd7867b
+bars_confidence: shape = (116,)
+bars_start: shape = (116,)
+beats_confidence: shape = (585,)
+beats_start: shape = (585,)
+danceability: 0.0
+duration: 256.62649
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.332
+loudness: -9.071
+mode: 1
+mode_confidence: 0.162
+release: Live Wide Open
+release_7digitalid: 519688
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (1018,)
+segments_loudness_max: shape = (1018,)
+segments_loudness_max_time: shape = (1018,)
+segments_loudness_start: shape = (1018,)
+segments_pitches: shape = (1018, 12)
+segments_start: shape = (1018,)
+segments_timbre: shape = (1018, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORXZTW12AB0183775
+start_of_fade_out: 246.77
+tatums_confidence: shape = (1756,)
+tatums_start: shape = (1756,)
+tempo: 137.765
+time_signature: 5
+time_signature_confidence: 0.842
+title: Things You Do To Me
+track_7digitalid: 5749525
+track_id: TRAUOPA128F93537F2
+year: 2000

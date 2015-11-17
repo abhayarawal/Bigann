@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 669
+artist_familiarity: 0.847451713218
+artist_hotttnesss: 0.779968004597
+artist_id: ARPAAHK1187B9ABB00
+artist_latitude: 49.26044
+artist_location: Hanna, Alberta, Canada
+artist_longitude: -123.11403
+artist_mbid: bc710bcf-8815-42cf-bad2-3f1d12246aeb
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Nickelback
+artist_playmeid: 1168
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 68d7fd37cb815737d4ccf81300312e40
+bars_confidence: shape = (146,)
+bars_start: shape = (146,)
+beats_confidence: shape = (586,)
+beats_start: shape = (586,)
+danceability: 0.0
+duration: 217.62567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.487
+loudness: -4.278
+mode: 0
+mode_confidence: 0.537
+release: NOW (That's What I Call Music) 22
+release_7digitalid: 570867
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (585,)
+segments_loudness_max: shape = (585,)
+segments_loudness_max_time: shape = (585,)
+segments_loudness_start: shape = (585,)
+segments_pitches: shape = (585, 12)
+segments_start: shape = (585,)
+segments_timbre: shape = (585, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.8364553064
+song_id: SOTRDVJ12A8C13975E
+start_of_fade_out: 207.163
+tatums_confidence: shape = (1172,)
+tatums_start: shape = (1172,)
+tempo: 164.025
+time_signature: 4
+time_signature_confidence: 0.294
+title: Savin' Me
+track_7digitalid: 6335800
+track_id: TRBASRX12903C9FDA8
+year: 2005

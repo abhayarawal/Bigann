@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7699
+artist_familiarity: 0.547035734168
+artist_hotttnesss: 0.365686606035
+artist_id: ARTM0RS1187B9A0BE6
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2d5fbbfd-27a7-4b74-848a-2b1f24fa1d0a
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Super Cat
+artist_playmeid: 13583
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: cbd923a2a65af6e0c753bf4623bf81e4
+bars_confidence: shape = (159,)
+bars_start: shape = (159,)
+beats_confidence: shape = (640,)
+beats_start: shape = (640,)
+danceability: 0.0
+duration: 229.66812
+end_of_fade_in: 0.098
+energy: 0.0
+key: 6
+key_confidence: 0.781
+loudness: -9.349
+mode: 1
+mode_confidence: 0.571
+release: Don Dada
+release_7digitalid: 282237
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1199,)
+segments_loudness_max: shape = (1199,)
+segments_loudness_max_time: shape = (1199,)
+segments_loudness_start: shape = (1199,)
+segments_pitches: shape = (1199, 12)
+segments_start: shape = (1199,)
+segments_timbre: shape = (1199, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.54795294198
+song_id: SOWXKUV12A58A80BB4
+start_of_fade_out: 219.852
+tatums_confidence: shape = (1280,)
+tatums_start: shape = (1280,)
+tempo: 167.377
+time_signature: 4
+time_signature_confidence: 0.803
+title: Oh It's You
+track_7digitalid: 3141201
+track_id: TRAVUOW128F4262955
+year: 1992

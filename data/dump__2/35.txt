@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 196832
+artist_familiarity: 0.6466185291
+artist_hotttnesss: 0.442652003042
+artist_id: ARSTH0R1187B98951E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 98fb7792-01fa-4ed1-a15d-20077a47210f
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Moonsorrow
+artist_playmeid: -1
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 26611daeeb71f47753d429ab9d5957d6
+bars_confidence: shape = (183,)
+bars_start: shape = (183,)
+beats_confidence: shape = (734,)
+beats_start: shape = (734,)
+danceability: 0.0
+duration: 356.49261
+end_of_fade_in: 0.276
+energy: 0.0
+key: 9
+key_confidence: 0.764
+loudness: -4.178
+mode: 1
+mode_confidence: 0.561
+release: Kivenkantaja
+release_7digitalid: 312976
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (817,)
+segments_loudness_max: shape = (817,)
+segments_loudness_max_time: shape = (817,)
+segments_loudness_start: shape = (817,)
+segments_pitches: shape = (817, 12)
+segments_start: shape = (817,)
+segments_timbre: shape = (817, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONCYFS12A8C14261E
+start_of_fade_out: 356.493
+tatums_confidence: shape = (2204,)
+tatums_start: shape = (2204,)
+tempo: 124.237
+time_signature: 4
+time_signature_confidence: 0.0
+title: Ukkosenjumalan poika
+track_7digitalid: 3540289
+track_id: TRAASIG128F92C3A6B
+year: 2001

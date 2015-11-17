@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 94183
+artist_familiarity: 0.687454095457
+artist_hotttnesss: 0.448629111593
+artist_id: AR7H21J1187FB40C69
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5315c1a1-3667-488c-bbe4-f231e336b69a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mr. Lif
+artist_playmeid: 93383
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 6e9c6aefa6a738c977a4c4a220764394
+bars_confidence: shape = (193,)
+bars_start: shape = (193,)
+beats_confidence: shape = (583,)
+beats_start: shape = (583,)
+danceability: 0.0
+duration: 327.6273
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.584
+loudness: -7.144
+mode: 0
+mode_confidence: 0.457
+release: Mo' Mega
+release_7digitalid: 118939
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1661,)
+segments_loudness_max: shape = (1661,)
+segments_loudness_max_time: shape = (1661,)
+segments_loudness_start: shape = (1661,)
+segments_pitches: shape = (1661, 12)
+segments_start: shape = (1661,)
+segments_timbre: shape = (1661, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.41967427881
+song_id: SOOSLVC12A8C13E51E
+start_of_fade_out: 309.052
+tatums_confidence: shape = (1748,)
+tatums_start: shape = (1748,)
+tempo: 107.32
+time_signature: 3
+time_signature_confidence: 0.995
+title: For You
+track_7digitalid: 1226344
+track_id: TRAGVCD128F42A4C01
+year: 2006

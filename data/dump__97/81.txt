@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 145954
+artist_familiarity: 0.714019850042
+artist_hotttnesss: 0.529258741347
+artist_id: ARPNY981187B9ACB75
+artist_latitude: nan
+artist_location: Switzerland
+artist_longitude: nan
+artist_mbid: 8000598a-5edb-401c-8e6d-36b167feaf38
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Eluveitie
+artist_playmeid: 123765
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 130c95c7fc0d63474a19245a4b8f2d78
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (405,)
+beats_start: shape = (405,)
+danceability: 0.0
+duration: 259.02975
+end_of_fade_in: 2.85
+energy: 0.0
+key: 11
+key_confidence: 0.755
+loudness: -2.731
+mode: 0
+mode_confidence: 0.618
+release: Slania
+release_7digitalid: 212513
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (601,)
+segments_loudness_max: shape = (601,)
+segments_loudness_max_time: shape = (601,)
+segments_loudness_start: shape = (601,)
+segments_pitches: shape = (601, 12)
+segments_start: shape = (601,)
+segments_timbre: shape = (601, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYOQSV12CF582753D
+start_of_fade_out: 252.97
+tatums_confidence: shape = (1622,)
+tatums_start: shape = (1622,)
+tempo: 94.996
+time_signature: 4
+time_signature_confidence: 0.488
+title: Primordial Breath
+track_7digitalid: 2313052
+track_id: TRBHQDN128F4276D66
+year: 2008

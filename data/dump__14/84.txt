@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 412383
+artist_familiarity: 0.0596260969721
+artist_hotttnesss: 0.0
+artist_id: ARZWBH21187B99ACE1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ebe40a4e-b33d-4ba5-af20-d48da3a98517
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Günter Noris
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 61d8932d349b5e361335af6f1d9a5fcc
+bars_confidence: shape = (68,)
+bars_start: shape = (68,)
+beats_confidence: shape = (276,)
+beats_start: shape = (276,)
+danceability: 0.0
+duration: 180.79302
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.198
+loudness: -11.19
+mode: 0
+mode_confidence: 0.46
+release: Millennium-Tanzparty
+release_7digitalid: 139457
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (618,)
+segments_loudness_max: shape = (618,)
+segments_loudness_max_time: shape = (618,)
+segments_loudness_start: shape = (618,)
+segments_pitches: shape = (618, 12)
+segments_start: shape = (618,)
+segments_timbre: shape = (618, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOTSXZM12A8AE47061
+start_of_fade_out: 180.793
+tatums_confidence: shape = (552,)
+tatums_start: shape = (552,)
+tempo: 92.277
+time_signature: 4
+time_signature_confidence: 1.0
+title: Tigerauge Rock
+track_7digitalid: 1447522
+track_id: TRAEZWE128F4244505
+year: 0

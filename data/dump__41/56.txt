@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 983
+artist_familiarity: 0.741518130043
+artist_hotttnesss: 0.520412110054
+artist_id: AR1ZKBE1187FB53629
+artist_latitude: nan
+artist_location: D�orf, Germany
+artist_longitude: nan
+artist_mbid: 5700dcd4-c139-4f31-aa3e-6382b9af9032
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Kraftwerk
+artist_playmeid: 881
+artist_terms: shape = (62,)
+artist_terms_freq: shape = (62,)
+artist_terms_weight: shape = (62,)
+audio_md5: 7db1eca909db512ceb70632f353735f0
+bars_confidence: shape = (367,)
+bars_start: shape = (367,)
+beats_confidence: shape = (1471,)
+beats_start: shape = (1471,)
+danceability: 0.0
+duration: 531.61751
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.901
+loudness: -9.827
+mode: 1
+mode_confidence: 0.704
+release: Minimum - Maximum
+release_7digitalid: 13862
+sections_confidence: shape = (23,)
+sections_start: shape = (23,)
+segments_confidence: shape = (1791,)
+segments_loudness_max: shape = (1791,)
+segments_loudness_max_time: shape = (1791,)
+segments_loudness_start: shape = (1791,)
+segments_pitches: shape = (1791, 12)
+segments_start: shape = (1791,)
+segments_timbre: shape = (1791, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUNAQQ12A6701EBA8
+start_of_fade_out: 531.617
+tatums_confidence: shape = (2941,)
+tatums_start: shape = (2941,)
+tempo: 166.015
+time_signature: 4
+time_signature_confidence: 0.85
+title: Autobahn (Live)
+track_7digitalid: 144102
+track_id: TRAOBUI128E078E073
+year: 2008

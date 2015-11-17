@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41583
+artist_familiarity: 0.858677441848
+artist_hotttnesss: 0.618219159412
+artist_id: AR46CAD1187FB4D84B
+artist_latitude: 34.05349
+artist_location: Los Angeles, Ca
+artist_longitude: -118.24532
+artist_mbid: 149e6720-4e4a-41a4-afca-6d29083fc091
+artist_mbtags: shape = (14,)
+artist_mbtags_count: shape = (14,)
+artist_name: Bad Religion
+artist_playmeid: 1757
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 5d7dcc5fa5249184ea19cfeedd997d28
+bars_confidence: shape = (123,)
+bars_start: shape = (123,)
+beats_confidence: shape = (496,)
+beats_start: shape = (496,)
+danceability: 0.0
+duration: 247.58812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.438
+loudness: -8.512
+mode: 1
+mode_confidence: 0.54
+release: Stranger Than Fiction
+release_7digitalid: 309206
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (702,)
+segments_loudness_max: shape = (702,)
+segments_loudness_max_time: shape = (702,)
+segments_loudness_start: shape = (702,)
+segments_pitches: shape = (702, 12)
+segments_start: shape = (702,)
+segments_timbre: shape = (702, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.698494468202
+song_id: SOBMNXE12A8C140F8A
+start_of_fade_out: 229.262
+tatums_confidence: shape = (993,)
+tatums_start: shape = (993,)
+tempo: 121.524
+time_signature: 4
+time_signature_confidence: 0.468
+title: Infected
+track_7digitalid: 3497047
+track_id: TRAXRSK128F42B44D2
+year: 1994

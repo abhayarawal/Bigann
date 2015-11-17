@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16859
+artist_familiarity: 0.516873683434
+artist_hotttnesss: 0.310600343688
+artist_id: AR4GP451187FB3F2BB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 771bd654-80dd-44a0-bb77-5e09947c9082
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Andy Griffith
+artist_playmeid: 20761
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 0dfd13fd151616eee4ab159d447c749d
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (383,)
+beats_start: shape = (383,)
+danceability: 0.0
+duration: 151.32689
+end_of_fade_in: 3.547
+energy: 0.0
+key: 4
+key_confidence: 0.62
+loudness: -11.579
+mode: 1
+mode_confidence: 0.545
+release: Somebody Bigger Than You And I
+release_7digitalid: 286538
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (511,)
+segments_loudness_max: shape = (511,)
+segments_loudness_max_time: shape = (511,)
+segments_loudness_start: shape = (511,)
+segments_pitches: shape = (511, 12)
+segments_start: shape = (511,)
+segments_timbre: shape = (511, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.239629097774
+song_id: SOEWPSQ12A8C132E05
+start_of_fade_out: 145.148
+tatums_confidence: shape = (383,)
+tatums_start: shape = (383,)
+tempo: 160.623
+time_signature: 4
+time_signature_confidence: 0.297
+title: Turn Yourn Radio On
+track_7digitalid: 3207675
+track_id: TRBFMDY128F426E9B4
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 39786
+artist_familiarity: 0.760270106029
+artist_hotttnesss: 0.496071346624
+artist_id: ARGXIE31187FB55B48
+artist_latitude: nan
+artist_location: BAKERSFIELD, California
+artist_longitude: nan
+artist_mbid: dde3d9b1-0e44-48bc-b0c9-d739b3570000
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tech N9ne
+artist_playmeid: 7405
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: f0560243bc774185bf7520a2054749c9
+bars_confidence: shape = (72,)
+bars_start: shape = (72,)
+beats_confidence: shape = (291,)
+beats_start: shape = (291,)
+danceability: 0.0
+duration: 90.14812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.325
+loudness: -23.923
+mode: 0
+mode_confidence: 0.438
+release: Killer
+release_7digitalid: 585522
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (326,)
+segments_loudness_max: shape = (326,)
+segments_loudness_max_time: shape = (326,)
+segments_loudness_start: shape = (326,)
+segments_pitches: shape = (326, 12)
+segments_start: shape = (326,)
+segments_timbre: shape = (326, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLOEUN12AC95F02CE
+start_of_fade_out: 90.148
+tatums_confidence: shape = (291,)
+tatums_start: shape = (291,)
+tempo: 191.383
+time_signature: 4
+time_signature_confidence: 0.637
+title: Elbow Macaroni (Skit)
+track_7digitalid: 6493785
+track_id: TRAVNHK12903CC5B48
+year: 2008

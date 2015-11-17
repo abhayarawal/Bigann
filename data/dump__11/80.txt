@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 269
+artist_familiarity: 0.818319359139
+artist_hotttnesss: 0.667294595643
+artist_id: ARVN9FZ1187FB393F1
+artist_latitude: nan
+artist_location: Dundee, Scotland
+artist_longitude: nan
+artist_mbid: a66999a7-ae5c-460e-ba94-1a01143ae847
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Snow Patrol
+artist_playmeid: 1468
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: a96d94db91d803031ecce20e41678ab2
+bars_confidence: shape = (105,)
+bars_start: shape = (105,)
+beats_confidence: shape = (426,)
+beats_start: shape = (426,)
+danceability: 0.0
+duration: 209.162
+end_of_fade_in: 2.763
+energy: 0.0
+key: 8
+key_confidence: 0.003
+loudness: -7.078
+mode: 1
+mode_confidence: 0.259
+release: Shut Your Eyes
+release_7digitalid: 78472
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (718,)
+segments_loudness_max: shape = (718,)
+segments_loudness_max_time: shape = (718,)
+segments_loudness_start: shape = (718,)
+segments_pitches: shape = (718, 12)
+segments_start: shape = (718,)
+segments_timbre: shape = (718, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODOOHJ12A6D4F4A74
+start_of_fade_out: 198.583
+tatums_confidence: shape = (852,)
+tatums_start: shape = (852,)
+tempo: 125.057
+time_signature: 4
+time_signature_confidence: 0.665
+title: Shut Your Eyes
+track_7digitalid: 824703
+track_id: TRADXCF128EF357134
+year: 2006

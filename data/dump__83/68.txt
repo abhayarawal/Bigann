@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16303
+artist_familiarity: 0.694802519782
+artist_hotttnesss: 0.561830537939
+artist_id: ARIZODP1187B9AD272
+artist_latitude: 54.89814
+artist_location: Washington, England
+artist_longitude: -1.53179
+artist_mbid: 4ef7a9e2-2cf5-483a-8616-ef7791a98026
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Bryan Ferry
+artist_playmeid: 6437
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: ef63b0cf0f585f0a5b704ec687ccae8a
+bars_confidence: shape = (471,)
+bars_start: shape = (471,)
+beats_confidence: shape = (471,)
+beats_start: shape = (471,)
+danceability: 0.0
+duration: 194.61179
+end_of_fade_in: 5.817
+energy: 0.0
+key: 1
+key_confidence: 1.0
+loudness: -8.903
+mode: 1
+mode_confidence: 0.94
+release: Let's Stick Together
+release_7digitalid: 29030
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (797,)
+segments_loudness_max: shape = (797,)
+segments_loudness_max_time: shape = (797,)
+segments_loudness_start: shape = (797,)
+segments_pitches: shape = (797, 12)
+segments_start: shape = (797,)
+segments_timbre: shape = (797, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFEQWY12A6D4F94CC
+start_of_fade_out: 178.387
+tatums_confidence: shape = (942,)
+tatums_start: shape = (942,)
+tempo: 149.435
+time_signature: 1
+time_signature_confidence: 0.0
+title: 2HB (1999 Digital Remaster)
+track_7digitalid: 319469
+track_id: TRBCSMH128F146A146
+year: 1976

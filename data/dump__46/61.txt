@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 299762
+artist_familiarity: 0.518518769247
+artist_hotttnesss: 0.366268839863
+artist_id: ARPTYXP1187B9A1B86
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 67240930-1960-4d2d-901b-a3ac36e16611
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Aynsley Lister
+artist_playmeid: 146092
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: e327eb25107f9e59e2cca66dcdbaaf3f
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (359,)
+beats_start: shape = (359,)
+danceability: 0.0
+duration: 227.10812
+end_of_fade_in: 2.252
+energy: 0.0
+key: 2
+key_confidence: 0.0
+loudness: -9.77
+mode: 1
+mode_confidence: 0.0
+release: Equilibrium
+release_7digitalid: 394257
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (832,)
+segments_loudness_max: shape = (832,)
+segments_loudness_max_time: shape = (832,)
+segments_loudness_start: shape = (832,)
+segments_pitches: shape = (832, 12)
+segments_start: shape = (832,)
+segments_timbre: shape = (832, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOZYQDX12AB017F658
+start_of_fade_out: 222.999
+tatums_confidence: shape = (719,)
+tatums_start: shape = (719,)
+tempo: 96.364
+time_signature: 4
+time_signature_confidence: 0.868
+title: Crazy
+track_7digitalid: 4376851
+track_id: TRAPVZR128F92F8FD0
+year: 2009

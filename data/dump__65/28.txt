@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8122
+artist_familiarity: 0.594196619898
+artist_hotttnesss: 0.375914687587
+artist_id: ARW1DZQ1187B9A18E0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bba868d4-974d-4b3b-a09f-ceef888da5b8
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Vusi Mahlasela
+artist_playmeid: 17385
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 4723e758732083586d488e2d89ece574
+bars_confidence: shape = (126,)
+bars_start: shape = (126,)
+beats_confidence: shape = (382,)
+beats_start: shape = (382,)
+danceability: 0.0
+duration: 297.56036
+end_of_fade_in: 0.229
+energy: 0.0
+key: 0
+key_confidence: 0.846
+loudness: -6.642
+mode: 1
+mode_confidence: 0.696
+release: Miyela Africa
+release_7digitalid: 304110
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1284,)
+segments_loudness_max: shape = (1284,)
+segments_loudness_max_time: shape = (1284,)
+segments_loudness_start: shape = (1284,)
+segments_pitches: shape = (1284, 12)
+segments_start: shape = (1284,)
+segments_timbre: shape = (1284, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOLRAOA12A8C14067C
+start_of_fade_out: 294.83
+tatums_confidence: shape = (1148,)
+tatums_start: shape = (1148,)
+tempo: 77.39
+time_signature: 3
+time_signature_confidence: 1.0
+title: Miyela Afrika
+track_7digitalid: 3455654
+track_id: TRAWHZE128F42AA354
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 594244
+artist_familiarity: 0.0
+artist_hotttnesss: 0.0
+artist_id: ARWTFKF1241B9C68DC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Vienna Concert House Orchestra_ Wiener Sängerknaben_ Ferdinand Grossmann
+artist_playmeid: -1
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: dabc8f2c129e8a9f512e43010bd6641d
+bars_confidence: shape = (121,)
+bars_start: shape = (121,)
+beats_confidence: shape = (121,)
+beats_start: shape = (121,)
+danceability: 0.0
+duration: 178.65098
+end_of_fade_in: 0.455
+energy: 0.0
+key: 2
+key_confidence: 0.534
+loudness: -21.039
+mode: 0
+mode_confidence: 0.615
+release: 66 Mozart Masterpieces
+release_7digitalid: 789523
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (397,)
+segments_loudness_max: shape = (397,)
+segments_loudness_max_time: shape = (397,)
+segments_loudness_start: shape = (397,)
+segments_pitches: shape = (397, 12)
+segments_start: shape = (397,)
+segments_timbre: shape = (397, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOJZHQO12AB0184E36
+start_of_fade_out: 172.304
+tatums_confidence: shape = (241,)
+tatums_start: shape = (241,)
+tempo: 41.634
+time_signature: 1
+time_signature_confidence: 0.0
+title: Requiem Mass in D Minor_ K. 626: VIII. Lacrimosa dies illae
+track_7digitalid: 8809365
+track_id: TRBHKVE12903CAAEB4
+year: 0

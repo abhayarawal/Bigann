@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 88221
+artist_familiarity: 0.621587524646
+artist_hotttnesss: 0.401936414515
+artist_id: ART703V1187FB4FD63
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fb8b6996-265c-4d5b-934e-bc5a1e513a4a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Operator
+artist_playmeid: -1
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: f642a0f03f06b9c1232a46904aac34b3
+bars_confidence: shape = (118,)
+bars_start: shape = (118,)
+beats_confidence: shape = (475,)
+beats_start: shape = (475,)
+danceability: 0.0
+duration: 213.55057
+end_of_fade_in: 0.374
+energy: 0.0
+key: 5
+key_confidence: 0.242
+loudness: -5.15
+mode: 1
+mode_confidence: 0.367
+release: Soulcrusher
+release_7digitalid: 129313
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (576,)
+segments_loudness_max: shape = (576,)
+segments_loudness_max_time: shape = (576,)
+segments_loudness_start: shape = (576,)
+segments_pitches: shape = (576, 12)
+segments_start: shape = (576,)
+segments_timbre: shape = (576, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.646151233788
+song_id: SOMORCS12A58A7E211
+start_of_fade_out: 208.962
+tatums_confidence: shape = (951,)
+tatums_start: shape = (951,)
+tempo: 135.958
+time_signature: 4
+time_signature_confidence: 1.0
+title: Soulcrusher (Amended Album Version)
+track_7digitalid: 1337670
+track_id: TRAEXYP128F4231193
+year: 0

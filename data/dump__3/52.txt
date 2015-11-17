@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 94218
+artist_familiarity: 0.45197771728
+artist_hotttnesss: 0.331351564822
+artist_id: AR558FS1187FB45658
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c27c6ca8-3316-416a-aac2-9e91d6712027
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: 40 Grit
+artist_playmeid: -1
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: fb6c546e096e0e864ba8278f6ee085d9
+bars_confidence: shape = (76,)
+bars_start: shape = (76,)
+beats_confidence: shape = (232,)
+beats_start: shape = (232,)
+danceability: 0.0
+duration: 75.67628
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.154
+loudness: -22.752
+mode: 1
+mode_confidence: 0.301
+release: Nothing To Remember
+release_7digitalid: 559989
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (333,)
+segments_loudness_max: shape = (333,)
+segments_loudness_max_time: shape = (333,)
+segments_loudness_start: shape = (333,)
+segments_pitches: shape = (333, 12)
+segments_start: shape = (333,)
+segments_timbre: shape = (333, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.427446571488
+song_id: SOGDBUF12A8C140FAA
+start_of_fade_out: 75.676
+tatums_confidence: shape = (464,)
+tatums_start: shape = (464,)
+tempo: 186.882
+time_signature: 3
+time_signature_confidence: 0.734
+title: Intro
+track_7digitalid: 6198978
+track_id: TRABCTK128F934B224
+year: 2003

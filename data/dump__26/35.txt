@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19
+artist_familiarity: 0.778835827402
+artist_hotttnesss: 0.570106511951
+artist_id: ARAZCWP129462A97F1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ed2ac1e9-d51d-4eff-a2c2-85e81abd6360
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Bob Marley
+artist_playmeid: 237
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 5d48f7df1737e79f877344b4191147da
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (360,)
+beats_start: shape = (360,)
+danceability: 0.0
+duration: 173.24363
+end_of_fade_in: 0.287
+energy: 0.0
+key: 2
+key_confidence: 0.519
+loudness: -7.236
+mode: 1
+mode_confidence: 0.575
+release: Keep on Moving
+release_7digitalid: 783246
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (660,)
+segments_loudness_max: shape = (660,)
+segments_loudness_max_time: shape = (660,)
+segments_loudness_start: shape = (660,)
+segments_pitches: shape = (660, 12)
+segments_start: shape = (660,)
+segments_timbre: shape = (660, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLTIVF12AAFF43797
+start_of_fade_out: 166.388
+tatums_confidence: shape = (720,)
+tatums_start: shape = (720,)
+tempo: 127.765
+time_signature: 4
+time_signature_confidence: 1.0
+title: Lively Up Yourself
+track_7digitalid: 8662130
+track_id: TRAIVMM12903CFAD62
+year: 1991

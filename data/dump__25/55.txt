@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 187702
+artist_familiarity: 0.612200428922
+artist_hotttnesss: 0.319905353864
+artist_id: AR6RXJD1187B9B8B23
+artist_latitude: 39.74001
+artist_location: Denver, CO
+artist_longitude: -104.99226
+artist_mbid: 56c5341a-f20e-4d17-b7d0-56b4aa7a90ab
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Grace Gale
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: d9b1b38463da136e5a9fff730d00a685
+bars_confidence: shape = (159,)
+bars_start: shape = (159,)
+beats_confidence: shape = (640,)
+beats_start: shape = (640,)
+danceability: 0.0
+duration: 247.71873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.268
+loudness: -6.533
+mode: 0
+mode_confidence: 0.374
+release: Stronger_ Faster_ Science
+release_7digitalid: 500158
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (786,)
+segments_loudness_max: shape = (786,)
+segments_loudness_max_time: shape = (786,)
+segments_loudness_start: shape = (786,)
+segments_pitches: shape = (786, 12)
+segments_start: shape = (786,)
+segments_timbre: shape = (786, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOVJMFO12AB017E9A7
+start_of_fade_out: 247.719
+tatums_confidence: shape = (1280,)
+tatums_start: shape = (1280,)
+tempo: 155.173
+time_signature: 4
+time_signature_confidence: 0.0
+title: La Matanza
+track_7digitalid: 5539579
+track_id: TRAIPAC128F9320FAA
+year: 2008

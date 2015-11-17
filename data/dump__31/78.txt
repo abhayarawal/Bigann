@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 27818
+artist_familiarity: 0.690080123787
+artist_hotttnesss: 0.466775621926
+artist_id: ARQXR6R1187FB46FD6
+artist_latitude: nan
+artist_location: Minneapolis, MN
+artist_longitude: nan
+artist_mbid: b10db9ad-b4c3-47f3-a7a4-37864b134f65
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Soul Asylum
+artist_playmeid: 8610
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 0bf2b1c173e6032c3fac77ec0836ebaf
+bars_confidence: shape = (161,)
+bars_start: shape = (161,)
+beats_confidence: shape = (647,)
+beats_start: shape = (647,)
+danceability: 0.0
+duration: 206.75873
+end_of_fade_in: 2.101
+energy: 0.0
+key: 2
+key_confidence: 0.723
+loudness: -10.294
+mode: 1
+mode_confidence: 0.668
+release: While You Were Out
+release_7digitalid: 38769
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (607,)
+segments_loudness_max: shape = (607,)
+segments_loudness_max_time: shape = (607,)
+segments_loudness_start: shape = (607,)
+segments_pitches: shape = (607, 12)
+segments_start: shape = (607,)
+segments_timbre: shape = (607, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.372530039366
+song_id: SOGLABR12A6D4F9585
+start_of_fade_out: 198.124
+tatums_confidence: shape = (1294,)
+tatums_start: shape = (1294,)
+tempo: 191.226
+time_signature: 4
+time_signature_confidence: 0.958
+title: Freaks (Album Version)
+track_7digitalid: 415078
+track_id: TRAKUNC128F147C549
+year: 1986

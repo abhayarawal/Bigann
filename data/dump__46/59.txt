@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4783
+artist_familiarity: 0.625762202039
+artist_hotttnesss: 0.449493482722
+artist_id: ARWDEEB11E2835E73C
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: 8c7a8406-f15a-408d-b0f6-23be813bdddc
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Faces
+artist_playmeid: -1
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 1bbb795d02b1104c59eb80aebe2e7375
+bars_confidence: shape = (833,)
+bars_start: shape = (833,)
+beats_confidence: shape = (833,)
+beats_start: shape = (833,)
+danceability: 0.0
+duration: 279.84934
+end_of_fade_in: 0.271
+energy: 0.0
+key: 9
+key_confidence: 0.565
+loudness: -8.026
+mode: 1
+mode_confidence: 0.531
+release: The Best Of Faces: Good Boys When They're Asleep
+release_7digitalid: 57641
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1002,)
+segments_loudness_max: shape = (1002,)
+segments_loudness_max_time: shape = (1002,)
+segments_loudness_start: shape = (1002,)
+segments_pitches: shape = (1002, 12)
+segments_start: shape = (1002,)
+segments_timbre: shape = (1002, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.25576510102
+song_id: SOVPIUN12A6D4F8F1E
+start_of_fade_out: 269.276
+tatums_confidence: shape = (1667,)
+tatums_start: shape = (1667,)
+tempo: 182.085
+time_signature: 1
+time_signature_confidence: 0.0
+title: Stay With Me
+track_7digitalid: 600171
+track_id: TRAPVXU128F149E7CD
+year: 1971

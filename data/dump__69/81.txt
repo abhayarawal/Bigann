@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7487
+artist_familiarity: 0.792255589732
+artist_hotttnesss: 0.566971566219
+artist_id: ARDF8K01187FB37200
+artist_latitude: nan
+artist_location: Sydney, Australia
+artist_longitude: nan
+artist_mbid: f0c8f75f-8736-4b1d-b312-9349fcff321d
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Wolfmother
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 1442e1c82f2f8789b3f2e731ad8aa5e8
+bars_confidence: shape = (160,)
+bars_start: shape = (160,)
+beats_confidence: shape = (644,)
+beats_start: shape = (644,)
+danceability: 0.0
+duration: 288.33914
+end_of_fade_in: 0.432
+energy: 0.0
+key: 9
+key_confidence: 0.666
+loudness: -4.433
+mode: 1
+mode_confidence: 0.429
+release: Cosmic Egg
+release_7digitalid: 600124
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (572,)
+segments_loudness_max: shape = (572,)
+segments_loudness_max_time: shape = (572,)
+segments_loudness_start: shape = (572,)
+segments_pitches: shape = (572, 12)
+segments_start: shape = (572,)
+segments_timbre: shape = (572, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.660928327858
+song_id: SOFTXIE12AB017AEB1
+start_of_fade_out: 276.91
+tatums_confidence: shape = (1288,)
+tatums_start: shape = (1288,)
+tempo: 136.383
+time_signature: 4
+time_signature_confidence: 0.017
+title: Cosmonaut
+track_7digitalid: 6660427
+track_id: TRAXWDS12903CEE35E
+year: 2009

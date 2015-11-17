@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7032
+artist_familiarity: 0.837947909189
+artist_hotttnesss: 0.788137758283
+artist_id: ARZENOX1187B98A645
+artist_latitude: nan
+artist_location: Calcutta, India
+artist_longitude: nan
+artist_mbid: 8a81edd9-6f62-4ac7-afee-17dc0fec5fe7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: John Mayer
+artist_playmeid: 823
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 246089f0ac98b1f8fa2da70f6c5651f2
+bars_confidence: shape = (272,)
+bars_start: shape = (272,)
+beats_confidence: shape = (821,)
+beats_start: shape = (821,)
+danceability: 0.0
+duration: 301.13914
+end_of_fade_in: 4.133
+energy: 0.0
+key: 5
+key_confidence: 0.503
+loudness: -13.651
+mode: 1
+mode_confidence: 0.516
+release: Inside Wants Out
+release_7digitalid: 291300
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (596,)
+segments_loudness_max: shape = (596,)
+segments_loudness_max_time: shape = (596,)
+segments_loudness_start: shape = (596,)
+segments_pitches: shape = (596, 12)
+segments_start: shape = (596,)
+segments_timbre: shape = (596, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOERNA12A8C136691
+start_of_fade_out: 294.272
+tatums_confidence: shape = (821,)
+tatums_start: shape = (821,)
+tempo: 167.489
+time_signature: 3
+time_signature_confidence: 1.0
+title: Comfortable
+track_7digitalid: 3272250
+track_id: TRAPRQZ128F427E188
+year: 0

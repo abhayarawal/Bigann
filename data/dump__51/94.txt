@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 196046
+artist_familiarity: 0.548674174782
+artist_hotttnesss: 0.305093197499
+artist_id: ARCLBZ01187B98D025
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c3c91d78-6b95-4b1b-976c-3d1d12970628
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Crematorium
+artist_playmeid: 177647
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 8b727083201fc92ec548f4c814602acb
+bars_confidence: shape = (107,)
+bars_start: shape = (107,)
+beats_confidence: shape = (432,)
+beats_start: shape = (432,)
+danceability: 0.0
+duration: 210.1024
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.153
+loudness: -7.148
+mode: 0
+mode_confidence: 0.212
+release: For All Our Sins
+release_7digitalid: 632778
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (787,)
+segments_loudness_max: shape = (787,)
+segments_loudness_max_time: shape = (787,)
+segments_loudness_start: shape = (787,)
+segments_pitches: shape = (787, 12)
+segments_start: shape = (787,)
+segments_timbre: shape = (787, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOLZKK12A58A80000
+start_of_fade_out: 199.75
+tatums_confidence: shape = (864,)
+tatums_start: shape = (864,)
+tempo: 122.186
+time_signature: 4
+time_signature_confidence: 0.61
+title: Unlearn
+track_7digitalid: 7024619
+track_id: TRARSJD128F932BAF8
+year: 0

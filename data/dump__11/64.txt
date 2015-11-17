@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 63381
+artist_familiarity: 0.837450128295
+artist_hotttnesss: 0.476760867098
+artist_id: ARDEC2A1187B9A460E
+artist_latitude: nan
+artist_location: Cleveland, OH
+artist_longitude: nan
+artist_mbid: d624df22-b03d-4746-ac28-a4bd72aeec26
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Chimaira
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: a1e2c6354953ac50b5977d953046a3ba
+bars_confidence: shape = (62,)
+bars_start: shape = (62,)
+beats_confidence: shape = (202,)
+beats_start: shape = (202,)
+danceability: 0.0
+duration: 179.04281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.026
+loudness: -3.884
+mode: 0
+mode_confidence: 0.371
+release: Pass Out of Existence [Special Edition]
+release_7digitalid: 360235
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (490,)
+segments_loudness_max: shape = (490,)
+segments_loudness_max_time: shape = (490,)
+segments_loudness_start: shape = (490,)
+segments_pitches: shape = (490, 12)
+segments_start: shape = (490,)
+segments_timbre: shape = (490, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLOZFC12AB0180428
+start_of_fade_out: 170.835
+tatums_confidence: shape = (606,)
+tatums_start: shape = (606,)
+tempo: 69.792
+time_signature: 3
+time_signature_confidence: 0.525
+title: Severed (demo) (Album Version)
+track_7digitalid: 4013958
+track_id: TRADVKA128F93242C9
+year: 0

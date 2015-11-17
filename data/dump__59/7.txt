@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: -1
+artist_familiarity: 0.526356117708
+artist_hotttnesss: 0.24251484921
+artist_id: ARPNJUD122BCFCB9B4
+artist_latitude: nan
+artist_location: AUSTRALIA
+artist_longitude: nan
+artist_mbid: 06d6e5ec-1acd-482b-a780-f77135532c19
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dark Shadows
+artist_playmeid: -1
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: b193608609864c8e4d0e21de32a2aff1
+bars_confidence: shape = (12,)
+bars_start: shape = (12,)
+beats_confidence: shape = (114,)
+beats_start: shape = (114,)
+danceability: 0.0
+duration: 115.43465
+end_of_fade_in: 0.207
+energy: 0.0
+key: 7
+key_confidence: 0.108
+loudness: -21.277
+mode: 1
+mode_confidence: 0.389
+release: House Of Dark Shadows and Night Of Dark Shadows
+release_7digitalid: 43305
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (424,)
+segments_loudness_max: shape = (424,)
+segments_loudness_max_time: shape = (424,)
+segments_loudness_start: shape = (424,)
+segments_pitches: shape = (424, 12)
+segments_start: shape = (424,)
+segments_timbre: shape = (424, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODHFOI12A58A78491
+start_of_fade_out: 109.07
+tatums_confidence: shape = (572,)
+tatums_start: shape = (572,)
+tempo: 61.349
+time_signature: 5
+time_signature_confidence: 0.664
+title: Departure / End Title (Love Theme From Night Of Dark Shadows)
+track_7digitalid: 461953
+track_id: TRAUDRR128F1484388
+year: 0

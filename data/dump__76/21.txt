@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17461
+artist_familiarity: 0.51097701976
+artist_hotttnesss: 0.37500336871
+artist_id: AR7WZ1Y1187B99D10B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b7e9b00d-328e-4be1-b145-5ff372eba522
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Isabelle Adjani
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 9df24d21b961aa473d91db0469d31419
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (383,)
+beats_start: shape = (383,)
+danceability: 0.0
+duration: 179.77424
+end_of_fade_in: 1.472
+energy: 0.0
+key: 7
+key_confidence: 0.0
+loudness: -16.755
+mode: 0
+mode_confidence: 0.094
+release: Pull Marine
+release_7digitalid: 25098
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (617,)
+segments_loudness_max: shape = (617,)
+segments_loudness_max_time: shape = (617,)
+segments_loudness_start: shape = (617,)
+segments_pitches: shape = (617, 12)
+segments_start: shape = (617,)
+segments_timbre: shape = (617, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.386477291255
+song_id: SOSZDPD12A6D4F6ECA
+start_of_fade_out: 171.543
+tatums_confidence: shape = (765,)
+tatums_start: shape = (765,)
+tempo: 130.273
+time_signature: 4
+time_signature_confidence: 0.0
+title: Entre Autre Pas En Traître
+track_7digitalid: 266021
+track_id: TRAZZYK128F145E683
+year: 1983

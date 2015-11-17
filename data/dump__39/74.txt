@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 388469
+artist_familiarity: 0.417477564361
+artist_hotttnesss: 0.0
+artist_id: ARKBX5B1187B9ADAFD
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 888c157b-5a52-4119-b609-08b66b379c30
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ten Wheel Drive
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 6c7af3eb26e66a62d64352a4643ff536
+bars_confidence: shape = (125,)
+bars_start: shape = (125,)
+beats_confidence: shape = (510,)
+beats_start: shape = (510,)
+danceability: 0.0
+duration: 272.84853
+end_of_fade_in: 0.107
+energy: 0.0
+key: 5
+key_confidence: 0.433
+loudness: -11.723
+mode: 1
+mode_confidence: 0.434
+release: Peculiar Friends
+release_7digitalid: 527870
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (937,)
+segments_loudness_max: shape = (937,)
+segments_loudness_max_time: shape = (937,)
+segments_loudness_start: shape = (937,)
+segments_pitches: shape = (937, 12)
+segments_start: shape = (937,)
+segments_timbre: shape = (937, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOWRAQJ12A8C146BF1
+start_of_fade_out: 256.911
+tatums_confidence: shape = (1021,)
+tatums_start: shape = (1021,)
+tempo: 113.866
+time_signature: 4
+time_signature_confidence: 0.441
+title: No Next Time
+track_7digitalid: 5827170
+track_id: TRANPAA128F92F10F8
+year: 0

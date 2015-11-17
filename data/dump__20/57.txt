@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 42707
+artist_familiarity: 0.531415653369
+artist_hotttnesss: 0.318911184164
+artist_id: ARAOADX1187B98AED3
+artist_latitude: 36.15398
+artist_location: Tulsa, OK
+artist_longitude: -95.99277
+artist_mbid: 07aaebd9-0c37-4a65-80c8-48ae7cc99337
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dwight Twilley
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: ba0775d4df58a3a1e3e4337db0046ebb
+bars_confidence: shape = (64,)
+bars_start: shape = (64,)
+beats_confidence: shape = (337,)
+beats_start: shape = (337,)
+danceability: 0.0
+duration: 224.54812
+end_of_fade_in: 5.747
+energy: 0.0
+key: 7
+key_confidence: 0.395
+loudness: -8.812
+mode: 1
+mode_confidence: 0.461
+release: The Beatles
+release_7digitalid: 345449
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (605,)
+segments_loudness_max: shape = (605,)
+segments_loudness_max_time: shape = (605,)
+segments_loudness_start: shape = (605,)
+segments_pitches: shape = (605, 12)
+segments_start: shape = (605,)
+segments_timbre: shape = (605, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOERPVK12AB0185466
+start_of_fade_out: 204.591
+tatums_confidence: shape = (673,)
+tatums_start: shape = (673,)
+tempo: 90.875
+time_signature: 4
+time_signature_confidence: 1.0
+title: Tomorrow Never Knows
+track_7digitalid: 3871962
+track_id: TRAGZDU128F93070B1
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 598932
+artist_familiarity: 0.366678331092
+artist_hotttnesss: 0.272471255916
+artist_id: AR80RBU1187FB3757D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b1d8d2a4-cac3-4e08-8c87-bcc6f26e357b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Alvino Rey And His Orchestra
+artist_playmeid: -1
+artist_terms: shape = (8,)
+artist_terms_freq: shape = (8,)
+artist_terms_weight: shape = (8,)
+audio_md5: 3ab21ddc56151ceb94a7871b61fa1f24
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (411,)
+beats_start: shape = (411,)
+danceability: 0.0
+duration: 156.05506
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.479
+loudness: -11.956
+mode: 1
+mode_confidence: 0.492
+release: Big Band Favourites Vol 3
+release_7digitalid: 356210
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (511,)
+segments_loudness_max: shape = (511,)
+segments_loudness_max_time: shape = (511,)
+segments_loudness_start: shape = (511,)
+segments_pitches: shape = (511, 12)
+segments_start: shape = (511,)
+segments_timbre: shape = (511, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOUXGUH12AB0187661
+start_of_fade_out: 148.364
+tatums_confidence: shape = (822,)
+tatums_start: shape = (822,)
+tempo: 165.142
+time_signature: 4
+time_signature_confidence: 0.909
+title: Steel Guitar Rag
+track_7digitalid: 3973120
+track_id: TRBHQQY128F931BBFA
+year: 2005

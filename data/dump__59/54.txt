@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 27792
+artist_familiarity: 0.713274972364
+artist_hotttnesss: 0.377593081772
+artist_id: ARNF6401187FB57032
+artist_latitude: 40.79086
+artist_location: New York, NY [Manhattan]
+artist_longitude: -73.96644
+artist_mbid: fd7a8bc1-1b25-4b4c-b899-8f7b3343a229
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sophie B. Hawkins
+artist_playmeid: 1475
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 97f106442b79f0a3f8453cc41256305d
+bars_confidence: shape = (165,)
+bars_start: shape = (165,)
+beats_confidence: shape = (661,)
+beats_start: shape = (661,)
+danceability: 0.0
+duration: 302.86322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.338
+loudness: -7.838
+mode: 1
+mode_confidence: 0.53
+release: Timbre
+release_7digitalid: 38722
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1013,)
+segments_loudness_max: shape = (1013,)
+segments_loudness_max_time: shape = (1013,)
+segments_loudness_start: shape = (1013,)
+segments_pitches: shape = (1013, 12)
+segments_start: shape = (1013,)
+segments_timbre: shape = (1013, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCHHXJ12A6D4F8E9B
+start_of_fade_out: 279.383
+tatums_confidence: shape = (1322,)
+tatums_start: shape = (1322,)
+tempo: 129.316
+time_signature: 4
+time_signature_confidence: 0.35
+title: 32 Lines (Album Version)
+track_7digitalid: 414329
+track_id: TRAUIMO128F147C31C
+year: 1999

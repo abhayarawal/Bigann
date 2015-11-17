@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19494
+artist_familiarity: 0.491370278717
+artist_hotttnesss: 0.335322129929
+artist_id: AROW3XO1187B989E72
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 49fc3118-6bee-4e93-a089-be3d66450eeb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Motors
+artist_playmeid: 99342
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: dcdbe5346477a6aec187388764de6321
+bars_confidence: shape = (99,)
+bars_start: shape = (99,)
+beats_confidence: shape = (400,)
+beats_start: shape = (400,)
+danceability: 0.0
+duration: 161.64526
+end_of_fade_in: 0.142
+energy: 0.0
+key: 4
+key_confidence: 0.629
+loudness: -6.433
+mode: 1
+mode_confidence: 0.635
+release: Airport - The Motors Greatest Hits
+release_7digitalid: 28665
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (559,)
+segments_loudness_max: shape = (559,)
+segments_loudness_max_time: shape = (559,)
+segments_loudness_start: shape = (559,)
+segments_pitches: shape = (559, 12)
+segments_start: shape = (559,)
+segments_timbre: shape = (559, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.262308997212
+song_id: SOAMLOF12A6D4F8AE4
+start_of_fade_out: 152.224
+tatums_confidence: shape = (799,)
+tatums_start: shape = (799,)
+tempo: 154.167
+time_signature: 4
+time_signature_confidence: 1.0
+title: Love Round The Corner
+track_7digitalid: 314561
+track_id: TRAZVOH128F1468F8C
+year: 0

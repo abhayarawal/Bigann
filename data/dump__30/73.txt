@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 56876
+artist_familiarity: 0.447808057068
+artist_hotttnesss: 0.291913130379
+artist_id: ARG51IA1187B9B143A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 36e41722-0b6b-48e8-9a28-a80c35c0581e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Scott Glasgow
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 0f1be3de0dae69aa26d9caf946f6a6f5
+bars_confidence: shape = (285,)
+bars_start: shape = (285,)
+beats_confidence: shape = (285,)
+beats_start: shape = (285,)
+danceability: 0.0
+duration: 222.82404
+end_of_fade_in: 0.27
+energy: 0.0
+key: 6
+key_confidence: 0.333
+loudness: -14.15
+mode: 1
+mode_confidence: 0.159
+release: ROBOTECH: The Shadow Chronicles
+release_7digitalid: 72248
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (489,)
+segments_loudness_max: shape = (489,)
+segments_loudness_max_time: shape = (489,)
+segments_loudness_start: shape = (489,)
+segments_pitches: shape = (489, 12)
+segments_start: shape = (489,)
+segments_timbre: shape = (489, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLGYJO12A6BD55664
+start_of_fade_out: 216.009
+tatums_confidence: shape = (570,)
+tatums_start: shape = (570,)
+tempo: 77.115
+time_signature: 1
+time_signature_confidence: 0.0
+title: Space Station Liberty
+track_7digitalid: 759576
+track_id: TRAKJZU128EF34BE38
+year: 2007

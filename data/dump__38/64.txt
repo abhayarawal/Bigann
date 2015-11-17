@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13101
+artist_familiarity: 0.590816513592
+artist_hotttnesss: 0.376066361452
+artist_id: AR3NPVS1187FB5108F
+artist_latitude: 48.85692
+artist_location: Paris, France
+artist_longitude: 2.34121
+artist_mbid: 825836b9-af8b-4449-b078-d51fad0db73e
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Ministry of Sound
+artist_playmeid: 2610
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 67c27a101b84a2c2b7eabc29b0840e3e
+bars_confidence: shape = (807,)
+bars_start: shape = (807,)
+beats_confidence: shape = (2425,)
+beats_start: shape = (2425,)
+danceability: 0.0
+duration: 1686.7522
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.632
+loudness: -7.661
+mode: 1
+mode_confidence: 0.518
+release: Bitesize - Electro Beats
+release_7digitalid: 627341
+sections_confidence: shape = (40,)
+sections_start: shape = (40,)
+segments_confidence: shape = (8419,)
+segments_loudness_max: shape = (8419,)
+segments_loudness_max_time: shape = (8419,)
+segments_loudness_start: shape = (8419,)
+segments_pitches: shape = (8419, 12)
+segments_start: shape = (8419,)
+segments_timbre: shape = (8419, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.531722098421
+song_id: SOFDJER12A6D4FD361
+start_of_fade_out: 1686.752
+tatums_confidence: shape = (7275,)
+tatums_start: shape = (7275,)
+tempo: 85.958
+time_signature: 3
+time_signature_confidence: 1.0
+title: Bitesize - Electro Beats Mix
+track_7digitalid: 6963636
+track_id: TRANFLR128F931CF30
+year: 0

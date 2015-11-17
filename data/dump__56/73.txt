@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 54973
+artist_familiarity: 0.687619666235
+artist_hotttnesss: 0.417068912495
+artist_id: ARXK4YK1187FB4D0C4
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: 5483e1c0-14ca-4ec4-9b03-c4e987420e4e
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Dub Pistols feat. TK
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: c1e747188012243888667340602856a1
+bars_confidence: shape = (105,)
+bars_start: shape = (105,)
+beats_confidence: shape = (423,)
+beats_start: shape = (423,)
+danceability: 0.0
+duration: 264.82893
+end_of_fade_in: 0.712
+energy: 0.0
+key: 10
+key_confidence: 0.631
+loudness: -5.603
+mode: 0
+mode_confidence: 0.569
+release: Rum & Coke
+release_7digitalid: 430805
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1068,)
+segments_loudness_max: shape = (1068,)
+segments_loudness_max_time: shape = (1068,)
+segments_loudness_start: shape = (1068,)
+segments_pitches: shape = (1068, 12)
+segments_start: shape = (1068,)
+segments_timbre: shape = (1068, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.524822258191
+song_id: SOCKRCU12A8C143B0C
+start_of_fade_out: 252.308
+tatums_confidence: shape = (1695,)
+tatums_start: shape = (1695,)
+tempo: 100.019
+time_signature: 4
+time_signature_confidence: 0.48
+title: Revitalise
+track_7digitalid: 4807411
+track_id: TRATIQJ128F92DFA28
+year: 2009

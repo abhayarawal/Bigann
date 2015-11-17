@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 82239
+artist_familiarity: 0.839962768151
+artist_hotttnesss: 0.541888972034
+artist_id: ARMAC4T1187FB3FA4C
+artist_latitude: 40.82624
+artist_location: Morris Plains, NJ
+artist_longitude: -74.47995
+artist_mbid: 1bc41dff-5397-4c53-bb50-469d2c277197
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: The Dillinger Escape Plan
+artist_playmeid: 11414
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: e206c961ea8cb0c167684f9de3387c64
+bars_confidence: shape = (26,)
+bars_start: shape = (26,)
+beats_confidence: shape = (168,)
+beats_start: shape = (168,)
+danceability: 0.0
+duration: 144.01261
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.28
+loudness: -4.527
+mode: 0
+mode_confidence: 0.304
+release: Calculating Infinity
+release_7digitalid: 240656
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (469,)
+segments_loudness_max: shape = (469,)
+segments_loudness_max_time: shape = (469,)
+segments_loudness_start: shape = (469,)
+segments_pitches: shape = (469, 12)
+segments_start: shape = (469,)
+segments_timbre: shape = (469, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.652097591231
+song_id: SOZXTKD12A8C13FC43
+start_of_fade_out: 140.754
+tatums_confidence: shape = (506,)
+tatums_start: shape = (506,)
+tempo: 71.707
+time_signature: 5
+time_signature_confidence: 0.38
+title: Sugar Coated Sour
+track_7digitalid: 2998894
+track_id: TRBHTOR128F428CADE
+year: 1999

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20293
+artist_familiarity: 0.701441758982
+artist_hotttnesss: 0.504307725982
+artist_id: AR0O3AV1187FB4D030
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 40b8a690-94e4-4c82-ad0f-73f4b841e46a
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Wayne Kramer
+artist_playmeid: 11026
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: dc7638e39d8f7b09ce3a235d62929810
+bars_confidence: shape = (143,)
+bars_start: shape = (143,)
+beats_confidence: shape = (576,)
+beats_start: shape = (576,)
+danceability: 0.0
+duration: 248.52853
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.275
+loudness: -6.623
+mode: 1
+mode_confidence: 0.359
+release: Punk-O-Rama 3
+release_7digitalid: 297563
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (902,)
+segments_loudness_max: shape = (902,)
+segments_loudness_max_time: shape = (902,)
+segments_loudness_start: shape = (902,)
+segments_pitches: shape = (902, 12)
+segments_start: shape = (902,)
+segments_timbre: shape = (902, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKTKBH12A8C136F97
+start_of_fade_out: 242.358
+tatums_confidence: shape = (1153,)
+tatums_start: shape = (1153,)
+tempo: 141.493
+time_signature: 4
+time_signature_confidence: 0.056
+title: Bad Seed
+track_7digitalid: 3328792
+track_id: TRAXLLN128F428B982
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21569
+artist_familiarity: 0.534464352229
+artist_hotttnesss: 0.368689372548
+artist_id: AR243ZT1187B9A98D2
+artist_latitude: 32.29869
+artist_location: Jackson, MS
+artist_longitude: -90.18049
+artist_mbid: ff609eb0-5425-4963-9e55-85d729f4648e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Otis Spann
+artist_playmeid: 27780
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 76f2695a728e69f454e42a687444b4c3
+bars_confidence: shape = (353,)
+bars_start: shape = (353,)
+beats_confidence: shape = (353,)
+beats_start: shape = (353,)
+danceability: 0.0
+duration: 134.89587
+end_of_fade_in: 0.432
+energy: 0.0
+key: 0
+key_confidence: 0.299
+loudness: -25.654
+mode: 1
+mode_confidence: 0.271
+release: Blues Masters Vol. 10
+release_7digitalid: 210714
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (460,)
+segments_loudness_max: shape = (460,)
+segments_loudness_max_time: shape = (460,)
+segments_loudness_start: shape = (460,)
+segments_pitches: shape = (460, 12)
+segments_start: shape = (460,)
+segments_timbre: shape = (460, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SORJHBA12A8C13D1D0
+start_of_fade_out: 128.621
+tatums_confidence: shape = (707,)
+tatums_start: shape = (707,)
+tempo: 162.683
+time_signature: 1
+time_signature_confidence: 0.564
+title: Spann's Boogie
+track_7digitalid: 2291365
+track_id: TRASOCX128F4271AB9
+year: 1990

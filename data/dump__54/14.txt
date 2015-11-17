@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10813
+artist_familiarity: 0.71274489965
+artist_hotttnesss: 0.470700389614
+artist_id: ARP96FM1187B9AEA77
+artist_latitude: 44.97903
+artist_location: Minneapolis, MN
+artist_longitude: -93.26493
+artist_mbid: 3037bd18-0079-4e4b-9ce1-758689e210d8
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Semisonic
+artist_playmeid: -1
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 9e9a8f0feb2f055322b41b9960b5c744
+bars_confidence: shape = (91,)
+bars_start: shape = (91,)
+beats_confidence: shape = (367,)
+beats_start: shape = (367,)
+danceability: 0.0
+duration: 232.25424
+end_of_fade_in: 0.31
+energy: 0.0
+key: 0
+key_confidence: 0.289
+loudness: -10.185
+mode: 1
+mode_confidence: 0.394
+release: Feeling Strangely Fine
+release_7digitalid: 15316
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (656,)
+segments_loudness_max: shape = (656,)
+segments_loudness_max_time: shape = (656,)
+segments_loudness_start: shape = (656,)
+segments_pitches: shape = (656, 12)
+segments_start: shape = (656,)
+segments_timbre: shape = (656, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.612054953969
+song_id: SOACEDS12A6701EAAA
+start_of_fade_out: 221.756
+tatums_confidence: shape = (735,)
+tatums_start: shape = (735,)
+tempo: 97.995
+time_signature: 4
+time_signature_confidence: 0.919
+title: Gone To The Movies
+track_7digitalid: 160055
+track_id: TRASNOT128E0791785
+year: 1998

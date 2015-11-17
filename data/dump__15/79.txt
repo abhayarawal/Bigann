@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1915
+artist_familiarity: 0.712098902128
+artist_hotttnesss: 0.413393911287
+artist_id: AROTIMO1187FB532BF
+artist_latitude: nan
+artist_location: Compton CA
+artist_longitude: nan
+artist_mbid: 542f4f08-4d8f-48db-a414-d3a33a62929f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ Quik
+artist_playmeid: 7070
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 2d35b8de664e69927b3684243c019d73
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (438,)
+beats_start: shape = (438,)
+danceability: 0.0
+duration: 247.562
+end_of_fade_in: 0.188
+energy: 0.0
+key: 6
+key_confidence: 0.062
+loudness: -6.57
+mode: 0
+mode_confidence: 0.194
+release: Born And Raised In Compton: The Greatest Hits
+release_7digitalid: 310652
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1040,)
+segments_loudness_max: shape = (1040,)
+segments_loudness_max_time: shape = (1040,)
+segments_loudness_start: shape = (1040,)
+segments_pitches: shape = (1040, 12)
+segments_start: shape = (1040,)
+segments_timbre: shape = (1040, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCZSYW12AAF3B490E
+start_of_fade_out: 243.287
+tatums_confidence: shape = (876,)
+tatums_start: shape = (876,)
+tempo: 106.435
+time_signature: 4
+time_signature_confidence: 0.494
+title: Pitch In OnA Party
+track_7digitalid: 3529432
+track_id: TRAFJVH128F42BC25E
+year: 2000

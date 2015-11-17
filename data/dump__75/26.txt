@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2998
+artist_familiarity: 0.543290242866
+artist_hotttnesss: 0.35199833791
+artist_id: ARZEBW31187FB586EA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0b0bd0c0-3723-4715-87d7-9d57f0eb240f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Anne Dudley
+artist_playmeid: 6842
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: f923c793fb9520cf6a1c2a8aa9fbd272
+bars_confidence: shape = (19,)
+bars_start: shape = (19,)
+beats_confidence: shape = (143,)
+beats_start: shape = (143,)
+danceability: 0.0
+duration: 94.69342
+end_of_fade_in: 0.213
+energy: 0.0
+key: 1
+key_confidence: 0.317
+loudness: -18.671
+mode: 0
+mode_confidence: 0.416
+release: Black Book
+release_7digitalid: 44537
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (103,)
+segments_loudness_max: shape = (103,)
+segments_loudness_max_time: shape = (103,)
+segments_loudness_start: shape = (103,)
+segments_pitches: shape = (103, 12)
+segments_start: shape = (103,)
+segments_timbre: shape = (103, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWHJWV12A6D4F843E
+start_of_fade_out: 88.172
+tatums_confidence: shape = (427,)
+tatums_start: shape = (427,)
+tempo: 95.777
+time_signature: 7
+time_signature_confidence: 0.324
+title: Victims of the occupation
+track_7digitalid: 475998
+track_id: TRAZSDB128F148726F
+year: 2006

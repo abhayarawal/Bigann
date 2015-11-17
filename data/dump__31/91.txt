@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5150
+artist_familiarity: 0.54602936508
+artist_hotttnesss: 0.408790006011
+artist_id: ARPU5CQ1187FB4469F
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: c4c8a72e-a518-48ba-bd59-c27ea6f8d932
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jimmy Durante
+artist_playmeid: 3185
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: fc12cebbb1c4eb61e761b46d92b0b53c
+bars_confidence: shape = (119,)
+bars_start: shape = (119,)
+beats_confidence: shape = (479,)
+beats_start: shape = (479,)
+danceability: 0.0
+duration: 233.37751
+end_of_fade_in: 3.042
+energy: 0.0
+key: 10
+key_confidence: 0.227
+loudness: -14.751
+mode: 1
+mode_confidence: 0.498
+release: Songs For Sunday
+release_7digitalid: 460919
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (609,)
+segments_loudness_max: shape = (609,)
+segments_loudness_max_time: shape = (609,)
+segments_loudness_start: shape = (609,)
+segments_pitches: shape = (609, 12)
+segments_start: shape = (609,)
+segments_timbre: shape = (609, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOPAWDU12A58A7CD4D
+start_of_fade_out: 226.575
+tatums_confidence: shape = (479,)
+tatums_start: shape = (479,)
+tempo: 124.656
+time_signature: 4
+time_signature_confidence: 0.906
+title: Amen (Album Version)
+track_7digitalid: 5132190
+track_id: TRAKVNJ128F932AF0F
+year: 0

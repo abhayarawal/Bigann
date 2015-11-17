@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 490841
+artist_familiarity: 0.421853163547
+artist_hotttnesss: 0.323997368575
+artist_id: AR2D0XK1187B98EC4A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3f107c41-0c08-44dc-b2a6-5ad7bc4e8fd6
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Johnny Pearson
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 1dae9e680f8eb27c44a737e19b62db62
+bars_confidence: shape = (8,)
+bars_start: shape = (8,)
+beats_confidence: shape = (33,)
+beats_start: shape = (33,)
+danceability: 0.0
+duration: 17.60608
+end_of_fade_in: 0.34
+energy: 0.0
+key: 0
+key_confidence: 0.0
+loudness: -9.332
+mode: 1
+mode_confidence: 0.0
+release: KPM 1000 Series: Flamboyant Themes (Volume 4)
+release_7digitalid: 658032
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (74,)
+segments_loudness_max: shape = (74,)
+segments_loudness_max_time: shape = (74,)
+segments_loudness_start: shape = (74,)
+segments_pitches: shape = (74, 12)
+segments_start: shape = (74,)
+segments_timbre: shape = (74, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHJLBS12AB018B305
+start_of_fade_out: 17.606
+tatums_confidence: shape = (66,)
+tatums_start: shape = (66,)
+tempo: 117.101
+time_signature: 4
+time_signature_confidence: 1.0
+title: Lets Go Amigos - Tail
+track_7digitalid: 7290118
+track_id: TRAQAXL12903C9AA01
+year: 0

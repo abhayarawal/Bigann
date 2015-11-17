@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 129713
+artist_familiarity: 0.492199331334
+artist_hotttnesss: 0.34497245609
+artist_id: AR0PUK71187B9AC3C0
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: fd9f268a-89ef-4577-81f4-efebc9517a07
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Chorus Line
+artist_playmeid: 128443
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: ed7f7743da1d22cfe76dd00325301de0
+bars_confidence: shape = (190,)
+bars_start: shape = (190,)
+beats_confidence: shape = (190,)
+beats_start: shape = (190,)
+danceability: 0.0
+duration: 150.69995
+end_of_fade_in: 0.763
+energy: 0.0
+key: 11
+key_confidence: 0.461
+loudness: -16.456
+mode: 0
+mode_confidence: 0.474
+release: Coro montenero
+release_7digitalid: 769587
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (322,)
+segments_loudness_max: shape = (322,)
+segments_loudness_max_time: shape = (322,)
+segments_loudness_start: shape = (322,)
+segments_pitches: shape = (322, 12)
+segments_start: shape = (322,)
+segments_timbre: shape = (322, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJMHGU12AB01872F6
+start_of_fade_out: 146.036
+tatums_confidence: shape = (381,)
+tatums_start: shape = (381,)
+tempo: 78.031
+time_signature: 1
+time_signature_confidence: 0.896
+title: Mamma pettenami
+track_7digitalid: 8537150
+track_id: TRAWVUK12903CDC692
+year: 0

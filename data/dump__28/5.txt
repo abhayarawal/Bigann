@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 199858
+artist_familiarity: 0.620868047719
+artist_hotttnesss: 0.378971863636
+artist_id: ARQKXX41187FB4EB0E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c543f4b7-189d-4be2-8a62-d9f67a9db3ce
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Baby D
+artist_playmeid: -1
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: e79384312b1381c605b87d2b666f9f33
+bars_confidence: shape = (113,)
+bars_start: shape = (113,)
+beats_confidence: shape = (341,)
+beats_start: shape = (341,)
+danceability: 0.0
+duration: 231.18322
+end_of_fade_in: 0.356
+energy: 0.0
+key: 7
+key_confidence: 0.426
+loudness: -8.029
+mode: 1
+mode_confidence: 0.583
+release: Garage Classics Volume II Summer Edition
+release_7digitalid: 292859
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (932,)
+segments_loudness_max: shape = (932,)
+segments_loudness_max_time: shape = (932,)
+segments_loudness_start: shape = (932,)
+segments_pitches: shape = (932, 12)
+segments_start: shape = (932,)
+segments_timbre: shape = (932, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIAJRZ12A8C136212
+start_of_fade_out: 226.035
+tatums_confidence: shape = (1023,)
+tatums_start: shape = (1023,)
+tempo: 90.038
+time_signature: 3
+time_signature_confidence: 1.0
+title: Let Me Be Your Fantasy
+track_7digitalid: 3284327
+track_id: TRAJKMI128F4281107
+year: 0

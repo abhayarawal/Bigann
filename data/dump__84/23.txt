@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 516615
+artist_familiarity: 0.416965754195
+artist_hotttnesss: 0.350688006846
+artist_id: ARRUGT71187B98F222
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ebf7170c-82b9-49bb-b392-4777c99b231c
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Cyndi Wang
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 04a7b75aeffdbc56372bc9b03fae37aa
+bars_confidence: shape = (137,)
+bars_start: shape = (137,)
+beats_confidence: shape = (551,)
+beats_start: shape = (551,)
+danceability: 0.0
+duration: 260.98893
+end_of_fade_in: 5.445
+energy: 0.0
+key: 1
+key_confidence: 0.843
+loudness: -5.445
+mode: 1
+mode_confidence: 0.666
+release: H2H
+release_7digitalid: 694867
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (913,)
+segments_loudness_max: shape = (913,)
+segments_loudness_max_time: shape = (913,)
+segments_loudness_start: shape = (913,)
+segments_pitches: shape = (913, 12)
+segments_start: shape = (913,)
+segments_timbre: shape = (913, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOICDVR12AC3DFB6F6
+start_of_fade_out: 249.516
+tatums_confidence: shape = (1102,)
+tatums_start: shape = (1102,)
+tempo: 131.981
+time_signature: 4
+time_signature_confidence: 0.579
+title: I'll Be Better
+track_7digitalid: 7713928
+track_id: TRBCWQL12903D01904
+year: 0

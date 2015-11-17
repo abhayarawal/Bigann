@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 345566
+artist_familiarity: 0.596011504202
+artist_hotttnesss: 0.350349304354
+artist_id: AR0VR1O1187B9A0F1F
+artist_latitude: 59.27074
+artist_location: Örebro
+artist_longitude: 15.21751
+artist_mbid: 724e826b-bd80-49ca-8bfe-4e470b0b9aa9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Truckfighters
+artist_playmeid: -1
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 7c9a5ba7f646ab3982b6327a551f178c
+bars_confidence: shape = (164,)
+bars_start: shape = (164,)
+beats_confidence: shape = (661,)
+beats_start: shape = (661,)
+danceability: 0.0
+duration: 270.44526
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.234
+loudness: -4.935
+mode: 1
+mode_confidence: 0.34
+release: Phi
+release_7digitalid: 475640
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (724,)
+segments_loudness_max: shape = (724,)
+segments_loudness_max_time: shape = (724,)
+segments_loudness_start: shape = (724,)
+segments_pitches: shape = (724, 12)
+segments_start: shape = (724,)
+segments_timbre: shape = (724, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.576315292379
+song_id: SOGBEWD12A8C1427C8
+start_of_fade_out: 263.378
+tatums_confidence: shape = (1321,)
+tatums_start: shape = (1321,)
+tempo: 148.363
+time_signature: 4
+time_signature_confidence: 0.657
+title: Traffic
+track_7digitalid: 5281025
+track_id: TRBCBAM128F92E3044
+year: 2007

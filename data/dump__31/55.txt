@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 196711
+artist_familiarity: 0.651957876937
+artist_hotttnesss: 0.436220548184
+artist_id: ARDDTL91187B9974A7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4e359ed9-ea2a-46ac-9f54-df3cdfa4d95e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Warren Barfield
+artist_playmeid: 7127
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: ccea3ffa161088390f1381716251cffa
+bars_confidence: shape = (175,)
+bars_start: shape = (175,)
+beats_confidence: shape = (703,)
+beats_start: shape = (703,)
+danceability: 0.0
+duration: 216.81587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.517
+loudness: -6.352
+mode: 1
+mode_confidence: 0.491
+release: Reach
+release_7digitalid: 578327
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (933,)
+segments_loudness_max: shape = (933,)
+segments_loudness_max_time: shape = (933,)
+segments_loudness_start: shape = (933,)
+segments_pitches: shape = (933, 12)
+segments_start: shape = (933,)
+segments_timbre: shape = (933, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYJPUH12AF72AB2C8
+start_of_fade_out: 213.351
+tatums_confidence: shape = (1406,)
+tatums_start: shape = (1406,)
+tempo: 196.13
+time_signature: 4
+time_signature_confidence: 0.454
+title: Unleashed
+track_7digitalid: 6415471
+track_id: TRAKRQK12903CB3006
+year: 2006

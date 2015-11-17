@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 461297
+artist_familiarity: 0.479848521551
+artist_hotttnesss: 0.361702379422
+artist_id: AR95CRV1187B9AFD6D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c07ef5b7-9264-45d1-84bc-014950398d63
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pedro Luis e a Parede
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 34b4b3157b6fab39aaa4f0e4f02ebd91
+bars_confidence: shape = (150,)
+bars_start: shape = (150,)
+beats_confidence: shape = (603,)
+beats_start: shape = (603,)
+danceability: 0.0
+duration: 229.45914
+end_of_fade_in: 0.253
+energy: 0.0
+key: 0
+key_confidence: 0.707
+loudness: -6.032
+mode: 1
+mode_confidence: 0.616
+release: Astronauta Tupy
+release_7digitalid: 543440
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1042,)
+segments_loudness_max: shape = (1042,)
+segments_loudness_max_time: shape = (1042,)
+segments_loudness_start: shape = (1042,)
+segments_pitches: shape = (1042, 12)
+segments_start: shape = (1042,)
+segments_timbre: shape = (1042, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGRTXS12AB017CCFC
+start_of_fade_out: 226.923
+tatums_confidence: shape = (1207,)
+tatums_start: shape = (1207,)
+tempo: 159.134
+time_signature: 4
+time_signature_confidence: 0.62
+title: Soul
+track_7digitalid: 6014582
+track_id: TRBBECU128F931E67C
+year: 1997

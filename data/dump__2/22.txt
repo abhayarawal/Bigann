@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19806
+artist_familiarity: 0.560411685629
+artist_hotttnesss: 0.341904573541
+artist_id: ARCLCFS1187B9AE476
+artist_latitude: -23.56287
+artist_location: Sao Paulo, Brazil
+artist_longitude: -46.65466
+artist_mbid: c23280a8-abc8-4435-ab44-43762ce0c89c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Laurindo Almeida / Carlos Barbosa-Lima / Charlie Byrd
+artist_playmeid: 31977
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: f2d255cd1ba73071f8758827b9fc1096
+bars_confidence: shape = (267,)
+bars_start: shape = (267,)
+beats_confidence: shape = (804,)
+beats_start: shape = (804,)
+danceability: 0.0
+duration: 286.14485
+end_of_fade_in: 0.485
+energy: 0.0
+key: 9
+key_confidence: 0.206
+loudness: -24.597
+mode: 0
+mode_confidence: 0.323
+release: Music Of The Brazilian Masters
+release_7digitalid: 319844
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1001,)
+segments_loudness_max: shape = (1001,)
+segments_loudness_max_time: shape = (1001,)
+segments_loudness_start: shape = (1001,)
+segments_pitches: shape = (1001, 12)
+segments_start: shape = (1001,)
+segments_timbre: shape = (1001, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQDTZG12A8C1442E3
+start_of_fade_out: 271.946
+tatums_confidence: shape = (1609,)
+tatums_start: shape = (1609,)
+tempo: 169.775
+time_signature: 3
+time_signature_confidence: 0.1
+title: Ernesto Nazareth
+track_7digitalid: 3606765
+track_id: TRAAQWF128F92D1AAD
+year: 0

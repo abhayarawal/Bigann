@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 129713
+artist_familiarity: 0.492199331334
+artist_hotttnesss: 0.34497245609
+artist_id: AR0PUK71187B9AC3C0
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: fd9f268a-89ef-4577-81f4-efebc9517a07
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Marvin Hamlisch;John Lithgow;Jeffrey Huard
+artist_playmeid: 128443
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: cd6b38b031cb1a68a1267eb20ecfa115
+bars_confidence: shape = (61,)
+bars_start: shape = (61,)
+beats_confidence: shape = (194,)
+beats_start: shape = (194,)
+danceability: 0.0
+duration: 99.70893
+end_of_fade_in: 1.367
+energy: 0.0
+key: 9
+key_confidence: 0.239
+loudness: -11.404
+mode: 1
+mode_confidence: 0.39
+release: Sweet Smell of Success (Original Broadway Cast Recording)
+release_7digitalid: 287055
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (247,)
+segments_loudness_max: shape = (247,)
+segments_loudness_max_time: shape = (247,)
+segments_loudness_start: shape = (247,)
+segments_pitches: shape = (247, 12)
+segments_start: shape = (247,)
+segments_timbre: shape = (247, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVBRIV12A8C133996
+start_of_fade_out: 96.903
+tatums_confidence: shape = (388,)
+tatums_start: shape = (388,)
+tempo: 118.566
+time_signature: 3
+time_signature_confidence: 0.921
+title: At the Fountain (Reprise) (Brian d'Arcy James & Ensemble)
+track_7digitalid: 3224902
+track_id: TRBEQHL128F4272CBC
+year: 0

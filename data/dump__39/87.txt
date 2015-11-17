@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 14833
+artist_familiarity: 0.852638932219
+artist_hotttnesss: 0.53576315772
+artist_id: ARWA8AH1187FB3FC84
+artist_latitude: 51.50632
+artist_location: London
+artist_longitude: -0.12714
+artist_mbid: d8915e13-d67a-4aa0-9c0b-1f126af951af
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Hot Chip
+artist_playmeid: 5202
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: bf58ad6377cbe5f4986fec66faea2e27
+bars_confidence: shape = (109,)
+bars_start: shape = (109,)
+beats_confidence: shape = (440,)
+beats_start: shape = (440,)
+danceability: 0.0
+duration: 182.15138
+end_of_fade_in: 0.626
+energy: 0.0
+key: 5
+key_confidence: 0.399
+loudness: -8.208
+mode: 1
+mode_confidence: 0.443
+release: Worried Noodles
+release_7digitalid: 234374
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (507,)
+segments_loudness_max: shape = (507,)
+segments_loudness_max_time: shape = (507,)
+segments_loudness_start: shape = (507,)
+segments_pitches: shape = (507, 12)
+segments_start: shape = (507,)
+segments_timbre: shape = (507, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.439202489315
+song_id: SOEOKDW12A8AE45B27
+start_of_fade_out: 177.331
+tatums_confidence: shape = (881,)
+tatums_start: shape = (881,)
+tempo: 146.035
+time_signature: 4
+time_signature_confidence: 0.879
+title: No
+track_7digitalid: 2573094
+track_id: TRANPUZ128F422B236
+year: 2007

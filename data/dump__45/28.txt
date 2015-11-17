@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 505
+artist_familiarity: 0.853124523276
+artist_hotttnesss: 0.591628024008
+artist_id: ARLHO5Z1187FB4C861
+artist_latitude: nan
+artist_location: New York, NY
+artist_longitude: nan
+artist_mbid: 9beb62b2-88db-4cea-801e-162cd344ee53
+artist_mbtags: shape = (12,)
+artist_mbtags_count: shape = (12,)
+artist_name: Beastie Boys
+artist_playmeid: 173
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: cc0a14e5883c9148ea60f8aec4d0e79b
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (314,)
+beats_start: shape = (314,)
+danceability: 0.0
+duration: 132.51873
+end_of_fade_in: 0.183
+energy: 0.0
+key: 4
+key_confidence: 0.858
+loudness: -14.421
+mode: 1
+mode_confidence: 0.689
+release: Ill Communication
+release_7digitalid: 819
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (538,)
+segments_loudness_max: shape = (538,)
+segments_loudness_max_time: shape = (538,)
+segments_loudness_start: shape = (538,)
+segments_pitches: shape = (538, 12)
+segments_start: shape = (538,)
+segments_timbre: shape = (538, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHYDPA12B0B80B77C
+start_of_fade_out: 132.519
+tatums_confidence: shape = (628,)
+tatums_start: shape = (628,)
+tempo: 142.409
+time_signature: 4
+time_signature_confidence: 0.0
+title: Eugene's Lament
+track_7digitalid: 7012
+track_id: TRAPLSD128E0781A94
+year: 1994

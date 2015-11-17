@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 376502
+artist_familiarity: 0.307948850125
+artist_hotttnesss: 0.0
+artist_id: ARVMHOI12802FDF5DE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: David Andreu
+artist_playmeid: -1
+artist_terms: shape = (8,)
+artist_terms_freq: shape = (8,)
+artist_terms_weight: shape = (8,)
+audio_md5: 22ee2c9bc4e8cea5be380fd282ab480f
+bars_confidence: shape = (130,)
+bars_start: shape = (130,)
+beats_confidence: shape = (917,)
+beats_start: shape = (917,)
+danceability: 0.0
+duration: 250.56608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.182
+loudness: -6.063
+mode: 0
+mode_confidence: 0.487
+release: Las Cosas de Antes
+release_7digitalid: 508339
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1218,)
+segments_loudness_max: shape = (1218,)
+segments_loudness_max_time: shape = (1218,)
+segments_loudness_start: shape = (1218,)
+segments_pitches: shape = (1218, 12)
+segments_start: shape = (1218,)
+segments_timbre: shape = (1218, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUFPFU12AB01854D3
+start_of_fade_out: 240.042
+tatums_confidence: shape = (1834,)
+tatums_start: shape = (1834,)
+tempo: 222.02
+time_signature: 7
+time_signature_confidence: 0.0
+title: El Sabor lo Pongo Yo
+track_7digitalid: 5618582
+track_id: TRAQPWZ128F9333FF8
+year: 0

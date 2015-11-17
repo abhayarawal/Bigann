@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 276544
+artist_familiarity: 0.537532967491
+artist_hotttnesss: 0.369870107031
+artist_id: ARID1TK1187FB4CFB8
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2aca01cc-256e-4a0d-b337-2be263ef9302
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: All Girl Summer Fun Band
+artist_playmeid: -1
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 89d1189715a86d041fd777f154f2ced5
+bars_confidence: shape = (39,)
+bars_start: shape = (39,)
+beats_confidence: shape = (177,)
+beats_start: shape = (177,)
+danceability: 0.0
+duration: 138.97098
+end_of_fade_in: 0.537
+energy: 0.0
+key: 2
+key_confidence: 0.716
+loudness: -14.927
+mode: 1
+mode_confidence: 0.585
+release: Looking Into It
+release_7digitalid: 357852
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (451,)
+segments_loudness_max: shape = (451,)
+segments_loudness_max_time: shape = (451,)
+segments_loudness_start: shape = (451,)
+segments_pitches: shape = (451, 12)
+segments_start: shape = (451,)
+segments_timbre: shape = (451, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.447135796286
+song_id: SOAIPGL12AB01837A3
+start_of_fade_out: 127.721
+tatums_confidence: shape = (354,)
+tatums_start: shape = (354,)
+tempo: 76.455
+time_signature: 4
+time_signature_confidence: 0.802
+title: Rewind
+track_7digitalid: 3992807
+track_id: TRALODZ128F931FA34
+year: 2008

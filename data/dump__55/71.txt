@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 108
+artist_familiarity: 0.840432421742
+artist_hotttnesss: 0.608849018571
+artist_id: ARW1MUW1187FB4D5A1
+artist_latitude: nan
+artist_location: Escatawpa, MS
+artist_longitude: nan
+artist_mbid: 2386cd66-e923-4e8e-bf14-2eebe2e9b973
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: 3 Doors Down
+artist_playmeid: 10
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: afd4f55b39bd5b8adc75ec236bc0a38f
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (392,)
+beats_start: shape = (392,)
+danceability: 0.0
+duration: 278.90893
+end_of_fade_in: 3.831
+energy: 0.0
+key: 4
+key_confidence: 0.33
+loudness: -3.863
+mode: 0
+mode_confidence: 0.443
+release: Another 700 Miles
+release_7digitalid: 46557
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (658,)
+segments_loudness_max: shape = (658,)
+segments_loudness_max_time: shape = (658,)
+segments_loudness_start: shape = (658,)
+segments_pitches: shape = (658, 12)
+segments_start: shape = (658,)
+segments_timbre: shape = (658, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.527818136556
+song_id: SOYKAIZ12A6D4F97B2
+start_of_fade_out: 276.172
+tatums_confidence: shape = (1570,)
+tatums_start: shape = (1570,)
+tempo: 85.787
+time_signature: 4
+time_signature_confidence: 1.0
+title: Duck And Run
+track_7digitalid: 497514
+track_id: TRASZUN128F148B165
+year: 1999

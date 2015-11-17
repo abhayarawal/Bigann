@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 108554
+artist_familiarity: 0.487445647927
+artist_hotttnesss: 0.383140731021
+artist_id: ARYV1OT1187B9B4C8E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2d67f7f4-1e85-4278-bac6-424e6204a8b9
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Commander Cody & His Lost Planet Airmen
+artist_playmeid: 38963
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 2aac0ee6b57c91192554cbb070edea3d
+bars_confidence: shape = (69,)
+bars_start: shape = (69,)
+beats_confidence: shape = (490,)
+beats_start: shape = (490,)
+danceability: 0.0
+duration: 162.45506
+end_of_fade_in: 2.85
+energy: 0.0
+key: 9
+key_confidence: 0.333
+loudness: -14.152
+mode: 0
+mode_confidence: 0.321
+release: Sea Cruise
+release_7digitalid: 806525
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (600,)
+segments_loudness_max: shape = (600,)
+segments_loudness_max_time: shape = (600,)
+segments_loudness_start: shape = (600,)
+segments_pitches: shape = (600, 12)
+segments_start: shape = (600,)
+segments_timbre: shape = (600, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORZJUY12AB018BFB9
+start_of_fade_out: 154.749
+tatums_confidence: shape = (979,)
+tatums_start: shape = (979,)
+tempo: 182.918
+time_signature: 7
+time_signature_confidence: 0.364
+title: Sister Sue
+track_7digitalid: 8916643
+track_id: TRAWJAP12903CC515C
+year: 1973

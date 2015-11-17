@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 346728
+artist_familiarity: 0.324422216758
+artist_hotttnesss: 0.169797032606
+artist_id: AR9XPQF1187FB5A693
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2505814d-a241-4735-81e0-2331981eb79a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Mystic Moods Orchestra
+artist_playmeid: -1
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 1bca901f897f3d6bb3e430e58f3e25ec
+bars_confidence: shape = (75,)
+bars_start: shape = (75,)
+beats_confidence: shape = (301,)
+beats_start: shape = (301,)
+danceability: 0.0
+duration: 147.33016
+end_of_fade_in: 3.129
+energy: 0.0
+key: 0
+key_confidence: 0.894
+loudness: -21.437
+mode: 1
+mode_confidence: 0.479
+release: Mexican Trip
+release_7digitalid: 684352
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (509,)
+segments_loudness_max: shape = (509,)
+segments_loudness_max_time: shape = (509,)
+segments_loudness_start: shape = (509,)
+segments_pitches: shape = (509, 12)
+segments_start: shape = (509,)
+segments_timbre: shape = (509, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIKXBJ12AC3DF8048
+start_of_fade_out: 147.33
+tatums_confidence: shape = (603,)
+tatums_start: shape = (603,)
+tempo: 124.508
+time_signature: 4
+time_signature_confidence: 0.835
+title: Gay Ranchero
+track_7digitalid: 7595183
+track_id: TRBDHYG12903CE49CC
+year: 1967

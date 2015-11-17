@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9718
+artist_familiarity: 0.726298027446
+artist_hotttnesss: 0.555414575816
+artist_id: AR7Y6JX1187FB4D9B3
+artist_latitude: nan
+artist_location: Washington, D.C.
+artist_longitude: nan
+artist_mbid: e919b253-da5b-4aae-a444-6a368376a2d6
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Bad Brains
+artist_playmeid: 6595
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 8be2aa77ffdc3450df4c6dcd1a77ee85
+bars_confidence: shape = (26,)
+bars_start: shape = (26,)
+beats_confidence: shape = (125,)
+beats_start: shape = (125,)
+danceability: 0.0
+duration: 85.26322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.014
+loudness: -9.614
+mode: 0
+mode_confidence: 0.212
+release: Live at CBGB 1982
+release_7digitalid: 445975
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (177,)
+segments_loudness_max: shape = (177,)
+segments_loudness_max_time: shape = (177,)
+segments_loudness_start: shape = (177,)
+segments_pitches: shape = (177, 12)
+segments_start: shape = (177,)
+segments_timbre: shape = (177, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.589637891359
+song_id: SOTUGCE12AB0181409
+start_of_fade_out: 85.263
+tatums_confidence: shape = (375,)
+tatums_start: shape = (375,)
+tempo: 86.536
+time_signature: 4
+time_signature_confidence: 0.445
+title: Destroy Babylon
+track_7digitalid: 4947842
+track_id: TRACRTS128F9300F7E
+year: 1983

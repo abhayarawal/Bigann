@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 372116
+artist_familiarity: 0.342440144332
+artist_hotttnesss: 0.281284215549
+artist_id: ARTHEAP122BCFCD0B2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e40f8007-07cd-439f-b3cf-27104f146420
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ X-Change
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: e275f0176cdbccfa27f0731add4d3000
+bars_confidence: shape = (320,)
+bars_start: shape = (320,)
+beats_confidence: shape = (320,)
+beats_start: shape = (320,)
+danceability: 0.0
+duration: 188.78649
+end_of_fade_in: 0.693
+energy: 0.0
+key: 11
+key_confidence: 0.364
+loudness: -5.571
+mode: 0
+mode_confidence: 0.302
+release: The X-Factor (Side B)
+release_7digitalid: 598190
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (959,)
+segments_loudness_max: shape = (959,)
+segments_loudness_max_time: shape = (959,)
+segments_loudness_start: shape = (959,)
+segments_pitches: shape = (959, 12)
+segments_start: shape = (959,)
+segments_timbre: shape = (959, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLYISV12AC4687272
+start_of_fade_out: 185.864
+tatums_confidence: shape = (960,)
+tatums_start: shape = (960,)
+tempo: 102.662
+time_signature: 1
+time_signature_confidence: 1.0
+title: Zoned Out
+track_7digitalid: 6637395
+track_id: TRAWRVR12903CE8993
+year: 0

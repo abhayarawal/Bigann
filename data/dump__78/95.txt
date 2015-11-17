@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18928
+artist_familiarity: 0.658349215353
+artist_hotttnesss: 0.396963183629
+artist_id: ARY2ZUX1187B9A266C
+artist_latitude: 37.77916
+artist_location: San Francisco, CA
+artist_longitude: -122.42005
+artist_mbid: a13e0f83-1c89-4034-88dc-19313b80e586
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Miguel Migs
+artist_playmeid: 52690
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 3691ac1bf79360926a7f00e18a08d0ee
+bars_confidence: shape = (177,)
+bars_start: shape = (177,)
+beats_confidence: shape = (710,)
+beats_start: shape = (710,)
+danceability: 0.0
+duration: 342.59546
+end_of_fade_in: 4.04
+energy: 0.0
+key: 9
+key_confidence: 0.354
+loudness: -4.594
+mode: 1
+mode_confidence: 0.222
+release: Those Things Deluxe
+release_7digitalid: 280055
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1659,)
+segments_loudness_max: shape = (1659,)
+segments_loudness_max_time: shape = (1659,)
+segments_loudness_start: shape = (1659,)
+segments_pitches: shape = (1659, 12)
+segments_start: shape = (1659,)
+segments_timbre: shape = (1659, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLBXEE12A8AE45EC4
+start_of_fade_out: 342.595
+tatums_confidence: shape = (1420,)
+tatums_start: shape = (1420,)
+tempo: 125.005
+time_signature: 4
+time_signature_confidence: 0.829
+title: Mesmerized
+track_7digitalid: 3118772
+track_id: TRBAZVL128F425D303
+year: 0

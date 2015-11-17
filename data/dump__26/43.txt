@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 192953
+artist_familiarity: 0.396651638013
+artist_hotttnesss: 0.291030534194
+artist_id: AR8WHID1187FB549B1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b8d3ff12-3318-44e6-bf03-a58b02fe293c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mystic Rhythms Band
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 15235bd40256d7ea31afd016dd8d1c73
+bars_confidence: shape = (119,)
+bars_start: shape = (119,)
+beats_confidence: shape = (479,)
+beats_start: shape = (479,)
+danceability: 0.0
+duration: 206.2624
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.595
+loudness: -8.913
+mode: 1
+mode_confidence: 0.536
+release: Music For Dancing
+release_7digitalid: 261700
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (998,)
+segments_loudness_max: shape = (998,)
+segments_loudness_max_time: shape = (998,)
+segments_loudness_start: shape = (998,)
+segments_pitches: shape = (998, 12)
+segments_start: shape = (998,)
+segments_timbre: shape = (998, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXEOQW12A58A7DB48
+start_of_fade_out: 195.019
+tatums_confidence: shape = (957,)
+tatums_start: shape = (957,)
+tempo: 140.834
+time_signature: 4
+time_signature_confidence: 1.0
+title: Firedance
+track_7digitalid: 2759490
+track_id: TRAIWAY128F42557B8
+year: 0

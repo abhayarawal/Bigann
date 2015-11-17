@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 102330
+artist_familiarity: 0.498676830397
+artist_hotttnesss: 0.354168954829
+artist_id: AR0QS8F1187B9ADC96
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 280697d2-164d-4477-971d-06b91e57c6a5
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Sandy Lam
+artist_playmeid: 39158
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: c085372c9491a00efc27eaf642a4bcd4
+bars_confidence: shape = (152,)
+bars_start: shape = (152,)
+beats_confidence: shape = (612,)
+beats_start: shape = (612,)
+danceability: 0.0
+duration: 270.00118
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.213
+loudness: -10.034
+mode: 1
+mode_confidence: 0.418
+release: Sandy Live 07
+release_7digitalid: 215847
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1109,)
+segments_loudness_max: shape = (1109,)
+segments_loudness_max_time: shape = (1109,)
+segments_loudness_start: shape = (1109,)
+segments_pitches: shape = (1109, 12)
+segments_start: shape = (1109,)
+segments_timbre: shape = (1109, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOFEGQU12A8C13A938
+start_of_fade_out: 261.579
+tatums_confidence: shape = (1223,)
+tatums_start: shape = (1223,)
+tempo: 136.021
+time_signature: 4
+time_signature_confidence: 0.507
+title: Lonely Shooting Stars
+track_7digitalid: 2349390
+track_id: TRBHUMZ128F427C822
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 198798
+artist_familiarity: 0.546919389228
+artist_hotttnesss: 0.385299588296
+artist_id: AR45GMQ1187FB466DA
+artist_latitude: nan
+artist_location: London UK-England
+artist_longitude: nan
+artist_mbid: df310b1d-65ae-4607-85c5-74e49312ad62
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Richard Walters
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 1fd93eac7a4ec26c4993314d00927043
+bars_confidence: shape = (133,)
+bars_start: shape = (133,)
+beats_confidence: shape = (402,)
+beats_start: shape = (402,)
+danceability: 0.0
+duration: 193.93261
+end_of_fade_in: 5.724
+energy: 0.0
+key: 10
+key_confidence: 0.911
+loudness: -9.627
+mode: 1
+mode_confidence: 0.714
+release: All At Sea / Julia
+release_7digitalid: 795486
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (545,)
+segments_loudness_max: shape = (545,)
+segments_loudness_max_time: shape = (545,)
+segments_loudness_start: shape = (545,)
+segments_pitches: shape = (545, 12)
+segments_start: shape = (545,)
+segments_timbre: shape = (545, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYDJQU12AB018BD6F
+start_of_fade_out: 191.617
+tatums_confidence: shape = (804,)
+tatums_start: shape = (804,)
+tempo: 127.719
+time_signature: 3
+time_signature_confidence: 0.644
+title: All at sea
+track_7digitalid: 8798166
+track_id: TRAMRZO12903CA82FB
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7544
+artist_familiarity: 0.681084419844
+artist_hotttnesss: 0.453371188065
+artist_id: ARI4SKQ1187B9B43B0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a769ffc3-f436-4c7a-9c5c-72b049f5e4d2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Beres Hammond
+artist_playmeid: 1763
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 34e11d11500ccc32ea41a9c8822770c9
+bars_confidence: shape = (133,)
+bars_start: shape = (133,)
+beats_confidence: shape = (537,)
+beats_start: shape = (537,)
+danceability: 0.0
+duration: 193.07057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.908
+loudness: -15.998
+mode: 1
+mode_confidence: 0.67
+release: Have A Nice Weekend
+release_7digitalid: 639392
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (841,)
+segments_loudness_max: shape = (841,)
+segments_loudness_max_time: shape = (841,)
+segments_loudness_start: shape = (841,)
+segments_pitches: shape = (841, 12)
+segments_start: shape = (841,)
+segments_timbre: shape = (841, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOEEAEI12A8C1465B4
+start_of_fade_out: 176.414
+tatums_confidence: shape = (1073,)
+tatums_start: shape = (1073,)
+tempo: 170.114
+time_signature: 4
+time_signature_confidence: 0.363
+title: Tender Lies
+track_7digitalid: 7098139
+track_id: TRAOEGJ128F933D9B5
+year: 0

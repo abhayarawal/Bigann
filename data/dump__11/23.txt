@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 227466
+artist_familiarity: 0.391730379324
+artist_hotttnesss: 0.300518710572
+artist_id: ARGCEOR1187B9A4E7D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a705982d-bda6-42aa-9a11-fb192447f66a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Eric Demarsan
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: bbbbb8689abf03276c2c2081871274ed
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (288,)
+beats_start: shape = (288,)
+danceability: 0.0
+duration: 150.17751
+end_of_fade_in: 0.552
+energy: 0.0
+key: 2
+key_confidence: 0.636
+loudness: -13.345
+mode: 1
+mode_confidence: 0.477
+release: Les réalisateurs: Les plus belles musiques de films de Jean-Pierre Mocky
+release_7digitalid: 789617
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (354,)
+segments_loudness_max: shape = (354,)
+segments_loudness_max_time: shape = (354,)
+segments_loudness_start: shape = (354,)
+segments_pitches: shape = (354, 12)
+segments_start: shape = (354,)
+segments_timbre: shape = (354, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQRHIO12AC4689255
+start_of_fade_out: 143.052
+tatums_confidence: shape = (576,)
+tatums_start: shape = (576,)
+tempo: 117.311
+time_signature: 3
+time_signature_confidence: 0.207
+title: L'ombre d'une chance
+track_7digitalid: 8733555
+track_id: TRADSOP12903D0C463
+year: 2005

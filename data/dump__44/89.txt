@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 455790
+artist_familiarity: 0.518442304051
+artist_hotttnesss: 0.422033835578
+artist_id: ARZCNRW11F50C4A630
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e7cab571-1fa7-4ccc-8fb5-b4f1093df973
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Groundhogs
+artist_playmeid: -1
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 4b177c5a421c57a5f81554088a1a3bab
+bars_confidence: shape = (1541,)
+bars_start: shape = (1541,)
+beats_confidence: shape = (1541,)
+beats_start: shape = (1541,)
+danceability: 0.0
+duration: 601.3122
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.203
+loudness: -11.942
+mode: 1
+mode_confidence: 0.307
+release: U.S. Tour '72
+release_7digitalid: 613074
+sections_confidence: shape = (21,)
+sections_start: shape = (21,)
+segments_confidence: shape = (1642,)
+segments_loudness_max: shape = (1642,)
+segments_loudness_max_time: shape = (1642,)
+segments_loudness_start: shape = (1642,)
+segments_pitches: shape = (1642, 12)
+segments_start: shape = (1642,)
+segments_timbre: shape = (1642, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.493466819121
+song_id: SOELHME12A8C145C19
+start_of_fade_out: 596.677
+tatums_confidence: shape = (3082,)
+tatums_start: shape = (3082,)
+tempo: 153.656
+time_signature: 1
+time_signature_confidence: 0.0
+title: Split Part One
+track_7digitalid: 6813088
+track_id: TRAPHTR128F92F8634
+year: 0

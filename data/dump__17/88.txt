@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 183482
+artist_familiarity: 0.596189938258
+artist_hotttnesss: 0.396521303082
+artist_id: ARTF2KG1187B98DDD1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e434c190-2f7b-4256-97d1-4e0d8d825acf
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gold City
+artist_playmeid: 54907
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: c3fb21df521f150f7e79b40a733ca8e5
+bars_confidence: shape = (126,)
+bars_start: shape = (126,)
+beats_confidence: shape = (508,)
+beats_start: shape = (508,)
+danceability: 0.0
+duration: 165.09342
+end_of_fade_in: 0.316
+energy: 0.0
+key: 7
+key_confidence: 0.627
+loudness: -14.328
+mode: 0
+mode_confidence: 0.766
+release: Home For The Holidays
+release_7digitalid: 262113
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (428,)
+segments_loudness_max: shape = (428,)
+segments_loudness_max_time: shape = (428,)
+segments_loudness_start: shape = (428,)
+segments_pitches: shape = (428, 12)
+segments_start: shape = (428,)
+segments_timbre: shape = (428, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.251981899462
+song_id: SOMLAJJ12A8C138EAC
+start_of_fade_out: 153.101
+tatums_confidence: shape = (508,)
+tatums_start: shape = (508,)
+tempo: 194.028
+time_signature: 4
+time_signature_confidence: 0.406
+title: What Child Is This?
+track_7digitalid: 2757132
+track_id: TRAGCRL128F4254E80
+year: 0

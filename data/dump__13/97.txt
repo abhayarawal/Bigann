@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 35927
+artist_familiarity: 0.765141417908
+artist_hotttnesss: 0.471493226676
+artist_id: ARO5P0H1187FB5BAD7
+artist_latitude: nan
+artist_location: Kona, HI
+artist_longitude: nan
+artist_mbid: 04f8dad4-de2d-4e98-8837-6a55075a9847
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pepper
+artist_playmeid: 37294
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: ac597dda3c34e767706a2c513bb6f2b0
+bars_confidence: shape = (67,)
+bars_start: shape = (67,)
+beats_confidence: shape = (271,)
+beats_start: shape = (271,)
+danceability: 0.0
+duration: 108.93016
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.064
+loudness: -5.356
+mode: 0
+mode_confidence: 0.369
+release: Kona Gold
+release_7digitalid: 596461
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (417,)
+segments_loudness_max: shape = (417,)
+segments_loudness_max_time: shape = (417,)
+segments_loudness_start: shape = (417,)
+segments_pitches: shape = (417, 12)
+segments_start: shape = (417,)
+segments_timbre: shape = (417, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOIBLAH12AB018B3BA
+start_of_fade_out: 108.93
+tatums_confidence: shape = (542,)
+tatums_start: shape = (542,)
+tempo: 148.712
+time_signature: 4
+time_signature_confidence: 0.0
+title: Stormtrooper (Live)
+track_7digitalid: 6618101
+track_id: TRAEROB12903CE3E7D
+year: 2009

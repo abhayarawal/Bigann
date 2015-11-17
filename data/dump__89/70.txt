@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 35927
+artist_familiarity: 0.765141417908
+artist_hotttnesss: 0.471493226676
+artist_id: ARO5P0H1187FB5BAD7
+artist_latitude: nan
+artist_location: Kona, HI
+artist_longitude: nan
+artist_mbid: 04f8dad4-de2d-4e98-8837-6a55075a9847
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pepper
+artist_playmeid: 37294
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 57e49967288cd12a06377b9f74710f55
+bars_confidence: shape = (178,)
+bars_start: shape = (178,)
+beats_confidence: shape = (715,)
+beats_start: shape = (715,)
+danceability: 0.0
+duration: 264.59383
+end_of_fade_in: 0.112
+energy: 0.0
+key: 9
+key_confidence: 0.563
+loudness: -7.762
+mode: 1
+mode_confidence: 0.327
+release: To Da Max
+release_7digitalid: 596449
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (906,)
+segments_loudness_max: shape = (906,)
+segments_loudness_max_time: shape = (906,)
+segments_loudness_start: shape = (906,)
+segments_pitches: shape = (906, 12)
+segments_start: shape = (906,)
+segments_timbre: shape = (906, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWISMK12AC468BBF4
+start_of_fade_out: 254.647
+tatums_confidence: shape = (1431,)
+tatums_start: shape = (1431,)
+tempo: 165.171
+time_signature: 4
+time_signature_confidence: 0.0
+title: Point And Shoot (Demo)
+track_7digitalid: 6617953
+track_id: TRBEYVD12903CE3DE9
+year: 2007

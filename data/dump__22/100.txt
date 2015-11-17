@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12584
+artist_familiarity: 0.738039724799
+artist_hotttnesss: 0.530330383868
+artist_id: AROG07L1187FB4C826
+artist_latitude: nan
+artist_location: Scotland
+artist_longitude: nan
+artist_mbid: 69158f97-4c07-4c4e-baf8-4e4ab1ed666e
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Boards of Canada
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: f4c785173e3fdb51ba8241b20ba39963
+bars_confidence: shape = (192,)
+bars_start: shape = (192,)
+beats_confidence: shape = (770,)
+beats_start: shape = (770,)
+danceability: 0.0
+duration: 472.52853
+end_of_fade_in: 0.18
+energy: 0.0
+key: 7
+key_confidence: 0.087
+loudness: -13.207
+mode: 0
+mode_confidence: 0.427
+release: Music Has The Right To Children
+release_7digitalid: 532527
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1869,)
+segments_loudness_max: shape = (1869,)
+segments_loudness_max_time: shape = (1869,)
+segments_loudness_start: shape = (1869,)
+segments_pitches: shape = (1869, 12)
+segments_start: shape = (1869,)
+segments_timbre: shape = (1869, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.685473638195
+song_id: SONSNRE12A6D4FA2F7
+start_of_fade_out: 429.941
+tatums_confidence: shape = (1539,)
+tatums_start: shape = (1539,)
+tempo: 100.013
+time_signature: 4
+time_signature_confidence: 0.831
+title: Happy Cycling
+track_7digitalid: 5884580
+track_id: TRAHUGQ128F92FF08F
+year: 1996

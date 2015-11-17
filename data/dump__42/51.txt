@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19361
+artist_familiarity: 0.614431579567
+artist_hotttnesss: 0.383211422216
+artist_id: ARZCHLM1187FB495C3
+artist_latitude: nan
+artist_location: Brooklyn, NY
+artist_longitude: nan
+artist_mbid: 169153fd-ba80-401a-8ccd-2825efaf9155
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ray Barretto
+artist_playmeid: 6839
+artist_terms: shape = (50,)
+artist_terms_freq: shape = (50,)
+artist_terms_weight: shape = (50,)
+audio_md5: fa3c500972e32e4f8b782b739976d0dc
+bars_confidence: shape = (186,)
+bars_start: shape = (186,)
+beats_confidence: shape = (574,)
+beats_start: shape = (574,)
+danceability: 0.0
+duration: 413.07383
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.308
+loudness: -10.999
+mode: 1
+mode_confidence: 0.354
+release: Tomorrow: Barretto Live
+release_7digitalid: 53749
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1688,)
+segments_loudness_max: shape = (1688,)
+segments_loudness_max_time: shape = (1688,)
+segments_loudness_start: shape = (1688,)
+segments_pitches: shape = (1688, 12)
+segments_start: shape = (1688,)
+segments_timbre: shape = (1688, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOQTZWV12A6D4F9D54
+start_of_fade_out: 400.178
+tatums_confidence: shape = (1723,)
+tatums_start: shape = (1723,)
+tempo: 82.815
+time_signature: 3
+time_signature_confidence: 1.0
+title: Vaya (Live At The Beacon Theatre)
+track_7digitalid: 560570
+track_id: TRAOMBK128F1495E45
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16331
+artist_familiarity: 0.736677413341
+artist_hotttnesss: 0.526182556347
+artist_id: ARNDB1X1187B990AA0
+artist_latitude: 34.05349
+artist_location: Venice, CA
+artist_longitude: -118.24532
+artist_mbid: e9e2a634-984f-4c10-bf7b-7970179e1ef1
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Suicidal Tendencies
+artist_playmeid: 12797
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 8c5de0f402996577e19e20a5642e8f93
+bars_confidence: shape = (63,)
+bars_start: shape = (63,)
+beats_confidence: shape = (448,)
+beats_start: shape = (448,)
+danceability: 0.0
+duration: 167.78404
+end_of_fade_in: 0.374
+energy: 0.0
+key: 4
+key_confidence: 0.022
+loudness: -9.966
+mode: 1
+mode_confidence: 0.379
+release: Join The Army
+release_7digitalid: 92649
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (486,)
+segments_loudness_max: shape = (486,)
+segments_loudness_max_time: shape = (486,)
+segments_loudness_start: shape = (486,)
+segments_pitches: shape = (486, 12)
+segments_start: shape = (486,)
+segments_timbre: shape = (486, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.550647153374
+song_id: SONRUUU12A8C13C821
+start_of_fade_out: 162.342
+tatums_confidence: shape = (897,)
+tatums_start: shape = (897,)
+tempo: 166.09
+time_signature: 7
+time_signature_confidence: 0.369
+title: Looking In Your Eyes
+track_7digitalid: 1108725
+track_id: TRBGPCC128F428FF02
+year: 1987

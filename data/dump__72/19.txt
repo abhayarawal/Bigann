@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 400
+artist_familiarity: 0.683206040048
+artist_hotttnesss: 0.484876718954
+artist_id: ARCLFWR1187B9AE7B2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1b15e90d-910c-4be4-99cb-463772a6430f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Fun Lovin' Criminals
+artist_playmeid: 10539
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 85b6a06fcfb90e267c7aa2f62b8e427a
+bars_confidence: shape = (82,)
+bars_start: shape = (82,)
+beats_confidence: shape = (332,)
+beats_start: shape = (332,)
+danceability: 0.0
+duration: 221.33506
+end_of_fade_in: 0.444
+energy: 0.0
+key: 9
+key_confidence: 0.0
+loudness: -9.472
+mode: 1
+mode_confidence: 0.0
+release: Come Find Yourself
+release_7digitalid: 28359
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (826,)
+segments_loudness_max: shape = (826,)
+segments_loudness_max_time: shape = (826,)
+segments_loudness_start: shape = (826,)
+segments_pitches: shape = (826, 12)
+segments_start: shape = (826,)
+segments_timbre: shape = (826, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.614576981682
+song_id: SOIFDWL12A6D4F8A98
+start_of_fade_out: 213.293
+tatums_confidence: shape = (1330,)
+tatums_start: shape = (1330,)
+tempo: 91.833
+time_signature: 4
+time_signature_confidence: 1.0
+title: We Have All The Time In The World
+track_7digitalid: 311219
+track_id: TRAYSMW128F1468307
+year: 1996

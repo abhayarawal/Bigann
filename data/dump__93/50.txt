@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1822
+artist_familiarity: 0.750479817142
+artist_hotttnesss: 0.538491127504
+artist_id: ARLUAK21187B9B785A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7c09d8af-895a-4337-bb46-b4b6dcabff10
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ziggy Marley And The Melody Makers
+artist_playmeid: 3069
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: dac3d840b52590d6f8c558fb7afe4d82
+bars_confidence: shape = (138,)
+bars_start: shape = (138,)
+beats_confidence: shape = (556,)
+beats_start: shape = (556,)
+danceability: 0.0
+duration: 261.27628
+end_of_fade_in: 0.35
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -13.817
+mode: 0
+mode_confidence: 0.261
+release: The Best of Ziggy Marley And The Melody Makers (1988 - 1993)
+release_7digitalid: 28848
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1032,)
+segments_loudness_max: shape = (1032,)
+segments_loudness_max_time: shape = (1032,)
+segments_loudness_start: shape = (1032,)
+segments_pitches: shape = (1032, 12)
+segments_start: shape = (1032,)
+segments_timbre: shape = (1032, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCIYKT12A6D4F8085
+start_of_fade_out: 247.652
+tatums_confidence: shape = (1668,)
+tatums_start: shape = (1668,)
+tempo: 129.393
+time_signature: 4
+time_signature_confidence: 0.0
+title: New Love
+track_7digitalid: 317010
+track_id: TRBGHFZ128F146984C
+year: 0

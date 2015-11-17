@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 203519
+artist_familiarity: 0.569524160074
+artist_hotttnesss: 0.381467814824
+artist_id: AR72Q9R1187B98A664
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2f929d46-5246-4cc8-b117-ed899907fad6
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Hatiras
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: d01cbcdd78ed12dc7a4eb4e853af0170
+bars_confidence: shape = (86,)
+bars_start: shape = (86,)
+beats_confidence: shape = (268,)
+beats_start: shape = (268,)
+danceability: 0.0
+duration: 177.13587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.936
+loudness: -4.6
+mode: 1
+mode_confidence: 0.778
+release: Arrival
+release_7digitalid: 323827
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (794,)
+segments_loudness_max: shape = (794,)
+segments_loudness_max_time: shape = (794,)
+segments_loudness_start: shape = (794,)
+segments_pitches: shape = (794, 12)
+segments_start: shape = (794,)
+segments_timbre: shape = (794, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOSZMFP12AAF3B5692
+start_of_fade_out: 169.657
+tatums_confidence: shape = (1073,)
+tatums_start: shape = (1073,)
+tempo: 93.749
+time_signature: 3
+time_signature_confidence: 0.647
+title: Final Flash
+track_7digitalid: 3646287
+track_id: TRAXBYL128F92DA505
+year: 2002

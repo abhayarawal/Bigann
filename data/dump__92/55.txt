@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 495684
+artist_familiarity: 0.366884725437
+artist_hotttnesss: 0.216630259036
+artist_id: ARQOVNR1241B9C5050
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Bongo Man
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 4613bc7775a9a07f1aa41a41e5994052
+bars_confidence: shape = (214,)
+bars_start: shape = (214,)
+beats_confidence: shape = (653,)
+beats_start: shape = (653,)
+danceability: 0.0
+duration: 447.58159
+end_of_fade_in: 0.218
+energy: 0.0
+key: 7
+key_confidence: 0.277
+loudness: -7.596
+mode: 1
+mode_confidence: 0.27
+release: Beat Treatment
+release_7digitalid: 778755
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (2706,)
+segments_loudness_max: shape = (2706,)
+segments_loudness_max_time: shape = (2706,)
+segments_loudness_start: shape = (2706,)
+segments_pitches: shape = (2706, 12)
+segments_start: shape = (2706,)
+segments_timbre: shape = (2706, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORVBMW12AC4689175
+start_of_fade_out: 447.582
+tatums_confidence: shape = (1959,)
+tatums_start: shape = (1959,)
+tempo: 85.915
+time_signature: 3
+time_signature_confidence: 1.0
+title: Titan
+track_7digitalid: 8617857
+track_id: TRBFYPH12903CF00EA
+year: 0

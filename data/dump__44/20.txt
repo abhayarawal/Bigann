@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10180
+artist_familiarity: 0.74987636719
+artist_hotttnesss: 0.528302262284
+artist_id: AREHK7O1187B9ADDD7
+artist_latitude: nan
+artist_location: J�ping, Sweden
+artist_longitude: nan
+artist_mbid: 3e55d51d-687f-4a9d-af96-2fabccf802e5
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: The Cardigans
+artist_playmeid: 83087
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: fc23c0addb093c8e31701a8c8509fb34
+bars_confidence: shape = (136,)
+bars_start: shape = (136,)
+beats_confidence: shape = (547,)
+beats_start: shape = (547,)
+danceability: 0.0
+duration: 211.35628
+end_of_fade_in: 0.699
+energy: 0.0
+key: 4
+key_confidence: 0.586
+loudness: -4.659
+mode: 1
+mode_confidence: 0.547
+release: Best Of
+release_7digitalid: 191758
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (716,)
+segments_loudness_max: shape = (716,)
+segments_loudness_max_time: shape = (716,)
+segments_loudness_start: shape = (716,)
+segments_pitches: shape = (716, 12)
+segments_start: shape = (716,)
+segments_timbre: shape = (716, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.654651727741
+song_id: SOZQDRV12A8C133FB1
+start_of_fade_out: 203.14
+tatums_confidence: shape = (1095,)
+tatums_start: shape = (1095,)
+tempo: 161.994
+time_signature: 4
+time_signature_confidence: 0.391
+title: Rise & Shine
+track_7digitalid: 2084716
+track_id: TRAPCIQ128F4241A74
+year: 1994

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 83503
+artist_familiarity: 0.556721481227
+artist_hotttnesss: 0.415824885704
+artist_id: ARGUNFT1187FB3B140
+artist_latitude: nan
+artist_location: Downey, CA
+artist_longitude: nan
+artist_mbid: 3b061fda-3298-4cb2-bf36-8362c77faf20
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dave Alvin
+artist_playmeid: 18955
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 43816900b8a80eacd6cc71acca22fceb
+bars_confidence: shape = (94,)
+bars_start: shape = (94,)
+beats_confidence: shape = (380,)
+beats_start: shape = (380,)
+danceability: 0.0
+duration: 255.89506
+end_of_fade_in: 3.048
+energy: 0.0
+key: 5
+key_confidence: 0.958
+loudness: -10.455
+mode: 1
+mode_confidence: 0.67
+release: The Great American Music Galaxy
+release_7digitalid: 544900
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (893,)
+segments_loudness_max: shape = (893,)
+segments_loudness_max_time: shape = (893,)
+segments_loudness_start: shape = (893,)
+segments_pitches: shape = (893, 12)
+segments_start: shape = (893,)
+segments_timbre: shape = (893, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVNJBL12AB01840F9
+start_of_fade_out: 255.895
+tatums_confidence: shape = (760,)
+tatums_start: shape = (760,)
+tempo: 89.21
+time_signature: 4
+time_signature_confidence: 0.215
+title: All Night Worker
+track_7digitalid: 6028803
+track_id: TRBHUHD128F9321DA8
+year: 0

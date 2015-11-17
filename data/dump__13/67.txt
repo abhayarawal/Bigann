@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 62267
+artist_familiarity: 0.621597789239
+artist_hotttnesss: 0.386470142237
+artist_id: ARUMR3G1187B9B2B09
+artist_latitude: nan
+artist_location: Tennessee
+artist_longitude: nan
+artist_mbid: 6e6d0a84-632a-4107-af76-cdf18fe317cb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gary Nichols
+artist_playmeid: 5133
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: ee95c65bcf5b9cfe14a36129e6fbe89d
+bars_confidence: shape = (62,)
+bars_start: shape = (62,)
+beats_confidence: shape = (192,)
+beats_start: shape = (192,)
+danceability: 0.0
+duration: 162.19383
+end_of_fade_in: 0.153
+energy: 0.0
+key: 11
+key_confidence: 0.8
+loudness: -11.552
+mode: 1
+mode_confidence: 0.719
+release: Gary Nichols
+release_7digitalid: 76746
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (518,)
+segments_loudness_max: shape = (518,)
+segments_loudness_max_time: shape = (518,)
+segments_loudness_start: shape = (518,)
+segments_pitches: shape = (518, 12)
+segments_start: shape = (518,)
+segments_timbre: shape = (518, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOIXCN12A6D4F77B2
+start_of_fade_out: 150.158
+tatums_confidence: shape = (576,)
+tatums_start: shape = (576,)
+tempo: 73.979
+time_signature: 3
+time_signature_confidence: 0.211
+title: Paper Doll
+track_7digitalid: 802331
+track_id: TRAEOUJ128EF352F8B
+year: 0

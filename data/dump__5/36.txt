@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5417
+artist_familiarity: 0.644519691787
+artist_hotttnesss: 0.405618981981
+artist_id: ARQDWBG1187B9891D7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0b5aab47-3b3b-45f4-8488-2fc98e035166
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Zeromancer
+artist_playmeid: 43168
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 6a48fd6a2de0d0556d94d5f5f53dcd78
+bars_confidence: shape = (131,)
+bars_start: shape = (131,)
+beats_confidence: shape = (527,)
+beats_start: shape = (527,)
+danceability: 0.0
+duration: 362.31791
+end_of_fade_in: 3.065
+energy: 0.0
+key: 2
+key_confidence: 0.674
+loudness: -6.762
+mode: 1
+mode_confidence: 0.583
+release: Sinners International
+release_7digitalid: 522008
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1148,)
+segments_loudness_max: shape = (1148,)
+segments_loudness_max_time: shape = (1148,)
+segments_loudness_start: shape = (1148,)
+segments_pitches: shape = (1148, 12)
+segments_start: shape = (1148,)
+segments_timbre: shape = (1148, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.67569680729
+song_id: SOSQIQU12A8C143A53
+start_of_fade_out: 350.372
+tatums_confidence: shape = (2109,)
+tatums_start: shape = (2109,)
+tempo: 90.027
+time_signature: 4
+time_signature_confidence: 0.97
+title: Ammonite
+track_7digitalid: 5768861
+track_id: TRABTXS128F92E2FDC
+year: 2009

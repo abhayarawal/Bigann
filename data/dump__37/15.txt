@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 380731
+artist_familiarity: 0.435448191435
+artist_hotttnesss: 0.291685839904
+artist_id: AR3CLBX1187FB5A307
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c5a57ad4-1f29-43d4-9d7b-f7c2003d36ef
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Richi M.
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: b8521655fad93d9b05b56b1b91393fca
+bars_confidence: shape = (333,)
+bars_start: shape = (333,)
+beats_confidence: shape = (1336,)
+beats_start: shape = (1336,)
+danceability: 0.0
+duration: 590.00118
+end_of_fade_in: 0.317
+energy: 0.0
+key: 1
+key_confidence: 0.16
+loudness: -8.729
+mode: 1
+mode_confidence: 0.229
+release: Perfect World
+release_7digitalid: 521002
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (3108,)
+segments_loudness_max: shape = (3108,)
+segments_loudness_max_time: shape = (3108,)
+segments_loudness_start: shape = (3108,)
+segments_pitches: shape = (3108, 12)
+segments_start: shape = (3108,)
+segments_timbre: shape = (3108, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYXCOI12A8C1421AB
+start_of_fade_out: 585.886
+tatums_confidence: shape = (2671,)
+tatums_start: shape = (2671,)
+tempo: 136.826
+time_signature: 4
+time_signature_confidence: 0.495
+title: Wake Me Up
+track_7digitalid: 5761229
+track_id: TRAMPPE128F92E1218
+year: 1998

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15816
+artist_familiarity: 0.616496039275
+artist_hotttnesss: 0.399265000145
+artist_id: ART7R7N1187B9B999C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 550cb78b-4995-4873-baea-76ef265531f5
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: GZA/The Genius
+artist_playmeid: 102850
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 07dd214ee6a7dca5bcca4668b9fd22a0
+bars_confidence: shape = (81,)
+bars_start: shape = (81,)
+beats_confidence: shape = (408,)
+beats_start: shape = (408,)
+danceability: 0.0
+duration: 237.34812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.371
+loudness: -5.928
+mode: 0
+mode_confidence: 0.451
+release: Legend Of The Liquid Sword
+release_7digitalid: 23366
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1110,)
+segments_loudness_max: shape = (1110,)
+segments_loudness_max_time: shape = (1110,)
+segments_loudness_start: shape = (1110,)
+segments_pitches: shape = (1110, 12)
+segments_start: shape = (1110,)
+segments_timbre: shape = (1110, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.558037046788
+song_id: SODXCLM12A6D4F7C97
+start_of_fade_out: 237.348
+tatums_confidence: shape = (1225,)
+tatums_start: shape = (1225,)
+tempo: 104.013
+time_signature: 5
+time_signature_confidence: 0.938
+title: Did Ya Say That
+track_7digitalid: 244300
+track_id: TRBDITJ128F145998C
+year: 2002

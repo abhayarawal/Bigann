@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 14016
+artist_familiarity: 0.563922088486
+artist_hotttnesss: 0.292319515413
+artist_id: AR3OYPP1187B9952E3
+artist_latitude: 53.34376
+artist_location: Dublin, Ireland
+artist_longitude: -6.24953
+artist_mbid: 838b705b-2389-4de4-83a9-f5e970b2a7ef
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Humanzi
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 44fd33be02e2ac2776a2bead035eab28
+bars_confidence: shape = (178,)
+bars_start: shape = (178,)
+beats_confidence: shape = (714,)
+beats_start: shape = (714,)
+danceability: 0.0
+duration: 274.99057
+end_of_fade_in: 4.017
+energy: 0.0
+key: 0
+key_confidence: 0.291
+loudness: -6.114
+mode: 0
+mode_confidence: 0.405
+release: Fix The Cracks
+release_7digitalid: 20020
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (919,)
+segments_loudness_max: shape = (919,)
+segments_loudness_max_time: shape = (919,)
+segments_loudness_start: shape = (919,)
+segments_pitches: shape = (919, 12)
+segments_start: shape = (919,)
+segments_timbre: shape = (919, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTBMWN12A6D4F58CD
+start_of_fade_out: 262.565
+tatums_confidence: shape = (1428,)
+tatums_start: shape = (1428,)
+tempo: 158.972
+time_signature: 4
+time_signature_confidence: 0.672
+title: Fix The Cracks
+track_7digitalid: 209149
+track_id: TRAZSRV128F1452866
+year: 2006

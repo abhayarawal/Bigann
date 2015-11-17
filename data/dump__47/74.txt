@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3300
+artist_familiarity: 0.775946183675
+artist_hotttnesss: 0.621085212055
+artist_id: ARW9FP41187B98C2A7
+artist_latitude: 57.15382
+artist_location: Aberdeen
+artist_longitude: -2.10679
+artist_mbid: 3e30aebd-0557-4cfd-8fb9-3945afa5d72b
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Annie Lennox
+artist_playmeid: 2023
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 222654441e54f4cb286d805b477f5f34
+bars_confidence: shape = (190,)
+bars_start: shape = (190,)
+beats_confidence: shape = (763,)
+beats_start: shape = (763,)
+danceability: 0.0
+duration: 316.76036
+end_of_fade_in: 3.257
+energy: 0.0
+key: 0
+key_confidence: 0.613
+loudness: -8.724
+mode: 1
+mode_confidence: 0.612
+release: Medusa
+release_7digitalid: 278972
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1029,)
+segments_loudness_max: shape = (1029,)
+segments_loudness_max_time: shape = (1029,)
+segments_loudness_start: shape = (1029,)
+segments_pitches: shape = (1029, 12)
+segments_start: shape = (1029,)
+segments_timbre: shape = (1029, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOESVVP12CF5F8799A
+start_of_fade_out: 311.136
+tatums_confidence: shape = (1526,)
+tatums_start: shape = (1526,)
+tempo: 145.99
+time_signature: 4
+time_signature_confidence: 0.434
+title: A Whiter Shade Of Pale
+track_7digitalid: 3106411
+track_id: TRAQGMY128F425A2F5
+year: 1995

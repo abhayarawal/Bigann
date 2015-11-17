@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 119245
+artist_familiarity: 0.525905072145
+artist_hotttnesss: 0.343026179141
+artist_id: AR6HLKR1187B9A735A
+artist_latitude: 34.05349
+artist_location: Los Angeles
+artist_longitude: -118.24532
+artist_mbid: 183565e9-3a60-4af4-a4fc-d9a2c5233ff4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Stimulator
+artist_playmeid: 120579
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 66531da1b9e7ae72931f22528f4152a8
+bars_confidence: shape = (107,)
+bars_start: shape = (107,)
+beats_confidence: shape = (433,)
+beats_start: shape = (433,)
+danceability: 0.0
+duration: 213.55057
+end_of_fade_in: 0.322
+energy: 0.0
+key: 10
+key_confidence: 0.06
+loudness: -5.279
+mode: 0
+mode_confidence: 0.333
+release: Stimulator
+release_7digitalid: 153610
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (702,)
+segments_loudness_max: shape = (702,)
+segments_loudness_max_time: shape = (702,)
+segments_loudness_start: shape = (702,)
+segments_pitches: shape = (702, 12)
+segments_start: shape = (702,)
+segments_timbre: shape = (702, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUNBZQ12A8C1366A3
+start_of_fade_out: 208.057
+tatums_confidence: shape = (866,)
+tatums_start: shape = (866,)
+tempo: 123.044
+time_signature: 4
+time_signature_confidence: 0.354
+title: 78 Stimulator
+track_7digitalid: 1607010
+track_id: TRBHHMI128F426779C
+year: 2004

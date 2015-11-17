@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 374293
+artist_familiarity: 0.481599948912
+artist_hotttnesss: 0.350181689714
+artist_id: AR2F0FX1187B9A9ECE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ddb9462f-c93a-4ebf-a0ef-adefff7b74d7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: TAKARU
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 46166e005a1bbce2fac620b2d6cdd2dd
+bars_confidence: shape = (65,)
+bars_start: shape = (65,)
+beats_confidence: shape = (265,)
+beats_start: shape = (265,)
+danceability: 0.0
+duration: 128.33914
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.282
+loudness: -6.1
+mode: 0
+mode_confidence: 0.442
+release: There Can Be Only None
+release_7digitalid: 505071
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (375,)
+segments_loudness_max: shape = (375,)
+segments_loudness_max_time: shape = (375,)
+segments_loudness_start: shape = (375,)
+segments_pitches: shape = (375, 12)
+segments_start: shape = (375,)
+segments_timbre: shape = (375, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.523003703098
+song_id: SOZWMDF12AB018317A
+start_of_fade_out: 128.339
+tatums_confidence: shape = (530,)
+tatums_start: shape = (530,)
+tempo: 121.549
+time_signature: 4
+time_signature_confidence: 0.0
+title: Idnnitkhtr
+track_7digitalid: 5588596
+track_id: TRBCUST128F932CBA2
+year: 2004

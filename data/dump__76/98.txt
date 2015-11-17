@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 461987
+artist_familiarity: 0.420733809607
+artist_hotttnesss: 0.32780754873
+artist_id: ARD1XMG1187FB41229
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b96492e5-8eca-4370-bb3f-3a83bb5b75b7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Winifred Phillips
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: a2872cd09a8e7aefaccfb0e41a2467af
+bars_confidence: shape = (45,)
+bars_start: shape = (45,)
+beats_confidence: shape = (186,)
+beats_start: shape = (186,)
+danceability: 0.0
+duration: 80.61342
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.826
+loudness: -13.509
+mode: 1
+mode_confidence: 0.638
+release: SimAnimals
+release_7digitalid: 627847
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (231,)
+segments_loudness_max: shape = (231,)
+segments_loudness_max_time: shape = (231,)
+segments_loudness_start: shape = (231,)
+segments_pitches: shape = (231, 12)
+segments_start: shape = (231,)
+segments_timbre: shape = (231, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXVWRD12AB018145B
+start_of_fade_out: 78.35
+tatums_confidence: shape = (372,)
+tatums_start: shape = (372,)
+tempo: 144.835
+time_signature: 4
+time_signature_confidence: 0.858
+title: Misty Bog
+track_7digitalid: 6968858
+track_id: TRBAGVS128F931E395
+year: 2009

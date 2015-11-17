@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23825
+artist_familiarity: 0.593496043831
+artist_hotttnesss: 0.40489733548
+artist_id: ARPBNLO1187FB3D52F
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 2f2f7eb6-37c3-446e-8288-f88f76295c2a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tiny Tim
+artist_playmeid: 19253
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 5f7bd538f4529f7dd26e72a7316a6be5
+bars_confidence: shape = (183,)
+bars_start: shape = (183,)
+beats_confidence: shape = (552,)
+beats_start: shape = (552,)
+danceability: 0.0
+duration: 197.90322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.481
+loudness: -14.23
+mode: 1
+mode_confidence: 0.506
+release: Live! At The Royal Albert Hall
+release_7digitalid: 627950
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (570,)
+segments_loudness_max: shape = (570,)
+segments_loudness_max_time: shape = (570,)
+segments_loudness_start: shape = (570,)
+segments_pitches: shape = (570, 12)
+segments_start: shape = (570,)
+segments_timbre: shape = (570, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOOPNJS12AB0181570
+start_of_fade_out: 192.261
+tatums_confidence: shape = (552,)
+tatums_start: shape = (552,)
+tempo: 167.477
+time_signature: 3
+time_signature_confidence: 0.903
+title: You Called It Madness [But I Call It Love] [Live At Royal Albert Hall]
+track_7digitalid: 6970396
+track_id: TRADUMK128F931E994
+year: 2000

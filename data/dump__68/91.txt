@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17628
+artist_familiarity: 0.603550951818
+artist_hotttnesss: 0.303618163119
+artist_id: ARB5S4L1187FB4AD20
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 92d025f8-1a34-4b7a-b741-df6840f9232e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Carlos Ponce
+artist_playmeid: 21884
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: d787c48b06879827ed55abcda759eee5
+bars_confidence: shape = (85,)
+bars_start: shape = (85,)
+beats_confidence: shape = (343,)
+beats_start: shape = (343,)
+danceability: 0.0
+duration: 240.3522
+end_of_fade_in: 0.241
+energy: 0.0
+key: 7
+key_confidence: 0.773
+loudness: -5.933
+mode: 1
+mode_confidence: 0.647
+release: Ponce
+release_7digitalid: 25936
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (944,)
+segments_loudness_max: shape = (944,)
+segments_loudness_max_time: shape = (944,)
+segments_loudness_start: shape = (944,)
+segments_pitches: shape = (944, 12)
+segments_start: shape = (944,)
+segments_timbre: shape = (944, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOXAMTJ12A58A7CD18
+start_of_fade_out: 228.641
+tatums_confidence: shape = (1372,)
+tatums_start: shape = (1372,)
+tempo: 89.981
+time_signature: 4
+time_signature_confidence: 0.089
+title: Quiero
+track_7digitalid: 278218
+track_id: TRAXMWV128F14612AB
+year: 2002

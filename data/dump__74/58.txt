@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 33335
+artist_familiarity: 0.852699664161
+artist_hotttnesss: 0.661349364282
+artist_id: AR4EQ231187B99368F
+artist_latitude: 39.74001
+artist_location: Denver, CO
+artist_longitude: -104.99226
+artist_mbid: 2ddd167f-5b8a-4372-b350-6ad50493bac0
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Fray
+artist_playmeid: 2793
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: aa6c81d5dc97fe344df51e423b65874b
+bars_confidence: shape = (133,)
+bars_start: shape = (133,)
+beats_confidence: shape = (537,)
+beats_start: shape = (537,)
+danceability: 0.0
+duration: 227.60444
+end_of_fade_in: 0.224
+energy: 0.0
+key: 10
+key_confidence: 0.324
+loudness: -6.132
+mode: 1
+mode_confidence: 0.489
+release: Acoustic In Nashville - Bootleg No. 2
+release_7digitalid: 574113
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (737,)
+segments_loudness_max: shape = (737,)
+segments_loudness_max_time: shape = (737,)
+segments_loudness_start: shape = (737,)
+segments_pitches: shape = (737, 12)
+segments_start: shape = (737,)
+segments_timbre: shape = (737, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORLYBE12AF72AD168
+start_of_fade_out: 220.92
+tatums_confidence: shape = (1075,)
+tatums_start: shape = (1075,)
+tempo: 144.239
+time_signature: 4
+time_signature_confidence: 0.0
+title: She Is
+track_7digitalid: 7674006
+track_id: TRAZLXH12903CF7D51
+year: 2005

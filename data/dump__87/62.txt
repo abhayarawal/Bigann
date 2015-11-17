@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 601303
+artist_familiarity: 0.541404968634
+artist_hotttnesss: 0.446445661828
+artist_id: ARW0YFZ1187FB442DB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a2825c63-72bb-4a0d-8a95-904f9fafa04b
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Markscheider Kunst
+artist_playmeid: -1
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: b44d1e5d37c3482a3cebec58aa00bec4
+bars_confidence: shape = (149,)
+bars_start: shape = (149,)
+beats_confidence: shape = (600,)
+beats_start: shape = (600,)
+danceability: 0.0
+duration: 239.0722
+end_of_fade_in: 0.13
+energy: 0.0
+key: 7
+key_confidence: 0.113
+loudness: -7.427
+mode: 1
+mode_confidence: 0.339
+release: Utopia
+release_7digitalid: 805762
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1042,)
+segments_loudness_max: shape = (1042,)
+segments_loudness_max_time: shape = (1042,)
+segments_loudness_start: shape = (1042,)
+segments_pitches: shape = (1042, 12)
+segments_start: shape = (1042,)
+segments_timbre: shape = (1042, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.460963161424
+song_id: SORXHUD12AB0186030
+start_of_fade_out: 235.247
+tatums_confidence: shape = (1199,)
+tatums_start: shape = (1199,)
+tempo: 152.887
+time_signature: 4
+time_signature_confidence: 0.0
+title: Dj
+track_7digitalid: 8904771
+track_id: TRBECGH12903CC2304
+year: 2010

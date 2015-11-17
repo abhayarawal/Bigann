@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 406257
+artist_familiarity: 0.443930681628
+artist_hotttnesss: 0.320427615156
+artist_id: ARVAE1F1187B994957
+artist_latitude: 39.95227
+artist_location: Philadelphia, PA
+artist_longitude: -75.16237
+artist_mbid: 696bc433-dcb8-4f53-b11e-38f82ade17f4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gerald Veasley
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: f323f7956c1ddbca31e0c8e824a67942
+bars_confidence: shape = (73,)
+bars_start: shape = (73,)
+beats_confidence: shape = (318,)
+beats_start: shape = (318,)
+danceability: 0.0
+duration: 251.21914
+end_of_fade_in: 0.311
+energy: 0.0
+key: 5
+key_confidence: 0.733
+loudness: -11.733
+mode: 0
+mode_confidence: 0.717
+release: Love Letters
+release_7digitalid: 602012
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (942,)
+segments_loudness_max: shape = (942,)
+segments_loudness_max_time: shape = (942,)
+segments_loudness_start: shape = (942,)
+segments_pitches: shape = (942, 12)
+segments_start: shape = (942,)
+segments_timbre: shape = (942, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCEAHC12AB0186B7A
+start_of_fade_out: 234.876
+tatums_confidence: shape = (954,)
+tatums_start: shape = (954,)
+tempo: 76.693
+time_signature: 4
+time_signature_confidence: 1.0
+title: Love Letter
+track_7digitalid: 6684481
+track_id: TRAWXIK12903CF4145
+year: 1999

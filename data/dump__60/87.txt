@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11415
+artist_familiarity: 0.564496971938
+artist_hotttnesss: 0.36338641535
+artist_id: AR1U3BY1187B9B136F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: dda71dfb-3df9-48f9-90ac-577d3d2b2a01
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: God Lives Underwater
+artist_playmeid: 31768
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 3f9aa11ec1e5588c96b53781d9059a46
+bars_confidence: shape = (149,)
+bars_start: shape = (149,)
+beats_confidence: shape = (598,)
+beats_start: shape = (598,)
+danceability: 0.0
+duration: 215.40526
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.411
+loudness: -5.66
+mode: 1
+mode_confidence: 0.406
+release: Empty
+release_7digitalid: 500966
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (968,)
+segments_loudness_max: shape = (968,)
+segments_loudness_max_time: shape = (968,)
+segments_loudness_start: shape = (968,)
+segments_pitches: shape = (968, 12)
+segments_start: shape = (968,)
+segments_timbre: shape = (968, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.561428517629
+song_id: SOPWHEV12AB017DC10
+start_of_fade_out: 207.975
+tatums_confidence: shape = (1196,)
+tatums_start: shape = (1196,)
+tempo: 169.966
+time_signature: 4
+time_signature_confidence: 0.952
+title: Don't Know How To Be
+track_7digitalid: 5548641
+track_id: TRAUUIF128F93232FE
+year: 1995

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 126733
+artist_familiarity: 0.362997346826
+artist_hotttnesss: 0.274769104138
+artist_id: AR5NDDL1187B9A4EDB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 683aed33-85a4-48a0-a48d-17c8fa48cffd
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Big John Greer
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: f58a8a4024af5a07a82fc1332d5b7132
+bars_confidence: shape = (54,)
+bars_start: shape = (54,)
+beats_confidence: shape = (225,)
+beats_start: shape = (225,)
+danceability: 0.0
+duration: 155.45424
+end_of_fade_in: 0.16
+energy: 0.0
+key: 7
+key_confidence: 0.298
+loudness: -7.335
+mode: 0
+mode_confidence: 0.659
+release: I'm The Fat Man
+release_7digitalid: 258482
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (486,)
+segments_loudness_max: shape = (486,)
+segments_loudness_max_time: shape = (486,)
+segments_loudness_start: shape = (486,)
+segments_pitches: shape = (486, 12)
+segments_start: shape = (486,)
+segments_timbre: shape = (486, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SORUTNO12A8C13D2F5
+start_of_fade_out: 152.95
+tatums_confidence: shape = (450,)
+tatums_start: shape = (450,)
+tempo: 87.635
+time_signature: 4
+time_signature_confidence: 0.078
+title: Big John's A-Blowin'
+track_7digitalid: 2908807
+track_id: TRATKOV128F4278128
+year: 0

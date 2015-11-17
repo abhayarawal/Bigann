@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 166069
+artist_familiarity: 0.539311728042
+artist_hotttnesss: 0.343752897
+artist_id: ARWXIVG1187B9B17C5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1f44dc31-d117-4450-9f75-9f12f5a96fa2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mr Lab!
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 6d6d6f943a353c19b59c138135415bb6
+bars_confidence: shape = (143,)
+bars_start: shape = (143,)
+beats_confidence: shape = (575,)
+beats_start: shape = (575,)
+danceability: 0.0
+duration: 285.17832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.168
+loudness: -8.885
+mode: 1
+mode_confidence: 0.472
+release: Post Industrial Ceremony
+release_7digitalid: 262798
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (862,)
+segments_loudness_max: shape = (862,)
+segments_loudness_max_time: shape = (862,)
+segments_loudness_start: shape = (862,)
+segments_pitches: shape = (862, 12)
+segments_start: shape = (862,)
+segments_timbre: shape = (862, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOJZFE12A8C136655
+start_of_fade_out: 272.446
+tatums_confidence: shape = (1149,)
+tatums_start: shape = (1149,)
+tempo: 120.099
+time_signature: 4
+time_signature_confidence: 1.0
+title: Would You Like
+track_7digitalid: 2753886
+track_id: TRAVBGZ128F42541D2
+year: 2008

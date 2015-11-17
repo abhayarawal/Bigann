@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 163502
+artist_familiarity: 0.540032834119
+artist_hotttnesss: 0.356970259862
+artist_id: ARRJFJ31187B9961EF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7f8759ee-4ddc-4a6b-9d17-0771e1022db7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sergio Dalma
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: e030a64aafdcbc297ed074a8e966add9
+bars_confidence: shape = (143,)
+bars_start: shape = (143,)
+beats_confidence: shape = (574,)
+beats_start: shape = (574,)
+danceability: 0.0
+duration: 279.24853
+end_of_fade_in: 3.849
+energy: 0.0
+key: 0
+key_confidence: 0.711
+loudness: -6.213
+mode: 1
+mode_confidence: 0.656
+release: Cuerpo A Cuerpo
+release_7digitalid: 226246
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (762,)
+segments_loudness_max: shape = (762,)
+segments_loudness_max_time: shape = (762,)
+segments_loudness_start: shape = (762,)
+segments_pitches: shape = (762, 12)
+segments_start: shape = (762,)
+segments_timbre: shape = (762, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOWDQHL12A6D4FAE8F
+start_of_fade_out: 264.806
+tatums_confidence: shape = (1148,)
+tatums_start: shape = (1148,)
+tempo: 124.008
+time_signature: 4
+time_signature_confidence: 0.999
+title: La Marca De Tus Labios
+track_7digitalid: 2475435
+track_id: TRAHEQC128F42153D6
+year: 1995

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 88
+artist_familiarity: 0.86652031981
+artist_hotttnesss: 0.766545450757
+artist_id: ARXPPEY1187FB51DF4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f27ec8db-af05-4f36-916e-3d57f91ecf5e
+artist_mbtags: shape = (20,)
+artist_mbtags_count: shape = (20,)
+artist_name: Michael Jackson
+artist_playmeid: 1081
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 29447c7fa8bd4ef48c8930c04b3127cf
+bars_confidence: shape = (152,)
+bars_start: shape = (152,)
+beats_confidence: shape = (609,)
+beats_start: shape = (609,)
+danceability: 0.0
+duration: 182.7522
+end_of_fade_in: 0.148
+energy: 0.0
+key: 4
+key_confidence: 0.495
+loudness: -8.962
+mode: 0
+mode_confidence: 0.503
+release: Hello World - The Motown Solo Collection
+release_7digitalid: 562561
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (821,)
+segments_loudness_max: shape = (821,)
+segments_loudness_max_time: shape = (821,)
+segments_loudness_start: shape = (821,)
+segments_pitches: shape = (821, 12)
+segments_start: shape = (821,)
+segments_timbre: shape = (821, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQUAIH12AB0181406
+start_of_fade_out: 162.975
+tatums_confidence: shape = (1219,)
+tatums_start: shape = (1219,)
+tempo: 207.544
+time_signature: 4
+time_signature_confidence: 0.0
+title: I Wanna Be Where You Are
+track_7digitalid: 6226407
+track_id: TRAUZTR128F9351D2A
+year: 1972

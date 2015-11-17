@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4837
+artist_familiarity: 0.749796959401
+artist_hotttnesss: 0.551552455156
+artist_id: AR9YWMS1187FB43A34
+artist_latitude: nan
+artist_location: Amherst, MA
+artist_longitude: nan
+artist_mbid: 77c167d2-4965-4421-830a-9815e4956475
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Dinosaur Jr
+artist_playmeid: 31682
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 9d3ac5659f968c6f3aa7bbfbc0cbfe9d
+bars_confidence: shape = (166,)
+bars_start: shape = (166,)
+beats_confidence: shape = (667,)
+beats_start: shape = (667,)
+danceability: 0.0
+duration: 298.57914
+end_of_fade_in: 3.129
+energy: 0.0
+key: 4
+key_confidence: 0.23
+loudness: -5.899
+mode: 1
+mode_confidence: 0.37
+release: Green Mind [Digital Version] [with Bonus Tracks]
+release_7digitalid: 46122
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (894,)
+segments_loudness_max: shape = (894,)
+segments_loudness_max_time: shape = (894,)
+segments_loudness_start: shape = (894,)
+segments_pitches: shape = (894, 12)
+segments_start: shape = (894,)
+segments_timbre: shape = (894, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.607036690746
+song_id: SOWQSUC12A6D4F969C
+start_of_fade_out: 287.126
+tatums_confidence: shape = (1334,)
+tatums_start: shape = (1334,)
+tempo: 135.314
+time_signature: 4
+time_signature_confidence: 0.118
+title: Green Mind
+track_7digitalid: 492597
+track_id: TRBHQHN128F148A1B3
+year: 1991

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17958
+artist_familiarity: 0.344062158743
+artist_hotttnesss: 0.0
+artist_id: ARS8WH31187B9B8B04
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e02d67b8-b581-478e-be33-c988627e4050
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Edu Lobo
+artist_playmeid: 63610
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 921a605fa587d06a246919188ba49747
+bars_confidence: shape = (431,)
+bars_start: shape = (431,)
+beats_confidence: shape = (431,)
+beats_start: shape = (431,)
+danceability: 0.0
+duration: 309.52444
+end_of_fade_in: 0.241
+energy: 0.0
+key: 2
+key_confidence: 0.239
+loudness: -18.581
+mode: 0
+mode_confidence: 0.303
+release: Meia-Noite
+release_7digitalid: 199694
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (898,)
+segments_loudness_max: shape = (898,)
+segments_loudness_max_time: shape = (898,)
+segments_loudness_start: shape = (898,)
+segments_pitches: shape = (898, 12)
+segments_start: shape = (898,)
+segments_timbre: shape = (898, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQKYWC12A8C136A4F
+start_of_fade_out: 297.001
+tatums_confidence: shape = (861,)
+tatums_start: shape = (861,)
+tempo: 84.853
+time_signature: 1
+time_signature_confidence: 0.094
+title: Canto Triste
+track_7digitalid: 2172341
+track_id: TRAGQQK128F42561AB
+year: 1967

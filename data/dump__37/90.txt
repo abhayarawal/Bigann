@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13234
+artist_familiarity: 0.494282101888
+artist_hotttnesss: 0.383818661688
+artist_id: ARIP54S1187FB53259
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fce05c7c-af64-4a28-b8e3-da0a5e9c5839
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jaime Urrutia
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 6f358777ad0452c1b1237992def70169
+bars_confidence: shape = (138,)
+bars_start: shape = (138,)
+beats_confidence: shape = (556,)
+beats_start: shape = (556,)
+danceability: 0.0
+duration: 278.96118
+end_of_fade_in: 1.088
+energy: 0.0
+key: 8
+key_confidence: 0.0
+loudness: -5.688
+mode: 1
+mode_confidence: 0.0
+release: El muchacho electrico
+release_7digitalid: 18642
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1139,)
+segments_loudness_max: shape = (1139,)
+segments_loudness_max_time: shape = (1139,)
+segments_loudness_start: shape = (1139,)
+segments_pitches: shape = (1139, 12)
+segments_start: shape = (1139,)
+segments_timbre: shape = (1139, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOFQJNR12A67ADE64E
+start_of_fade_out: 260.836
+tatums_confidence: shape = (1113,)
+tatums_start: shape = (1113,)
+tempo: 120.464
+time_signature: 4
+time_signature_confidence: 0.651
+title: Azzurro
+track_7digitalid: 197759
+track_id: TRAMXDO128E0798C6A
+year: 2005

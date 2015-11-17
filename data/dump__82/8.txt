@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9558
+artist_familiarity: 0.611942955898
+artist_hotttnesss: 0.403197977717
+artist_id: AR8Q4RZ1187FB46BDC
+artist_latitude: 33.01158
+artist_location: Linden, TX
+artist_longitude: -94.365
+artist_mbid: f1a3fb4a-fff6-4556-a290-3704b109da90
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: T-Bone Walker
+artist_playmeid: 7295
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 2ed7b797aafff400f3cc411df803ce83
+bars_confidence: shape = (249,)
+bars_start: shape = (249,)
+beats_confidence: shape = (249,)
+beats_start: shape = (249,)
+danceability: 0.0
+duration: 174.96771
+end_of_fade_in: 0.246
+energy: 0.0
+key: 1
+key_confidence: 0.376
+loudness: -15.852
+mode: 1
+mode_confidence: 0.368
+release: My Baby Left Me
+release_7digitalid: 379741
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (485,)
+segments_loudness_max: shape = (485,)
+segments_loudness_max_time: shape = (485,)
+segments_loudness_start: shape = (485,)
+segments_pitches: shape = (485, 12)
+segments_start: shape = (485,)
+segments_timbre: shape = (485, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLPVLB12AB01879CB
+start_of_fade_out: 170.864
+tatums_confidence: shape = (498,)
+tatums_start: shape = (498,)
+tempo: 87.056
+time_signature: 1
+time_signature_confidence: 0.718
+title: Mean Old World Blues
+track_7digitalid: 5664268
+track_id: TRBCCWW128F933F246
+year: 1983

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 174626
+artist_familiarity: 0.411045134617
+artist_hotttnesss: 0.310731085333
+artist_id: AR6GSIE1187B98C3C7
+artist_latitude: 39.49974
+artist_location: Raines, UT
+artist_longitude: -111.54732
+artist_mbid: d3453ce7-2671-4b53-bcb2-aa22f2a5f1b6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ned Miller
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: e4cb15ccdf4bf884e99ce76988bbd115
+bars_confidence: shape = (208,)
+bars_start: shape = (208,)
+beats_confidence: shape = (208,)
+beats_start: shape = (208,)
+danceability: 0.0
+duration: 128.26077
+end_of_fade_in: 0.177
+energy: 0.0
+key: 3
+key_confidence: 0.833
+loudness: -7.068
+mode: 1
+mode_confidence: 0.46
+release: 100 Country Classics
+release_7digitalid: 792359
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (376,)
+segments_loudness_max: shape = (376,)
+segments_loudness_max_time: shape = (376,)
+segments_loudness_start: shape = (376,)
+segments_pitches: shape = (376, 12)
+segments_start: shape = (376,)
+segments_timbre: shape = (376, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONMZRR12AC4688C8C
+start_of_fade_out: 125.19
+tatums_confidence: shape = (416,)
+tatums_start: shape = (416,)
+tempo: 99.312
+time_signature: 1
+time_signature_confidence: 0.0
+title: From A Jack To A King
+track_7digitalid: 8764501
+track_id: TRBGKZD12903D13D23
+year: 1963

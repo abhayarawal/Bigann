@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1376
+artist_familiarity: 0.700635527796
+artist_hotttnesss: 0.511546183775
+artist_id: ARZTSYB1187FB54987
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e3cb4543-210f-499a-b0d1-3882c312dfb9
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Rainbow
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 2ea32027841f0bf6af345f7af7d7d40d
+bars_confidence: shape = (443,)
+bars_start: shape = (443,)
+beats_confidence: shape = (1780,)
+beats_start: shape = (1780,)
+danceability: 0.0
+duration: 663.24853
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.547
+loudness: -10.178
+mode: 0
+mode_confidence: 0.617
+release: On Stage
+release_7digitalid: 16061
+sections_confidence: shape = (23,)
+sections_start: shape = (23,)
+segments_confidence: shape = (1953,)
+segments_loudness_max: shape = (1953,)
+segments_loudness_max_time: shape = (1953,)
+segments_loudness_start: shape = (1953,)
+segments_pitches: shape = (1953, 12)
+segments_start: shape = (1953,)
+segments_timbre: shape = (1953, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.401486711428
+song_id: SOWQVVZ12A58A7B65C
+start_of_fade_out: 647.541
+tatums_confidence: shape = (3559,)
+tatums_start: shape = (3559,)
+tempo: 162.384
+time_signature: 4
+time_signature_confidence: 0.061
+title: Still I'm Sad
+track_7digitalid: 170198
+track_id: TRANRDW128E0793D49
+year: 1975

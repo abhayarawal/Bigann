@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 332739
+artist_familiarity: 0.565102058046
+artist_hotttnesss: 0.360054673342
+artist_id: AROEVV91187B9B7F4F
+artist_latitude: nan
+artist_location: Columbia, South Carolina
+artist_longitude: nan
+artist_mbid: 23db55fc-da4f-4f1d-8ab4-e9d96cc9e5de
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Milieu
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 12a804ece8b0689615eda9423bf8d1ba
+bars_confidence: shape = (129,)
+bars_start: shape = (129,)
+beats_confidence: shape = (519,)
+beats_start: shape = (519,)
+danceability: 0.0
+duration: 371.87873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.088
+loudness: -13.08
+mode: 1
+mode_confidence: 0.421
+release: Remodelled
+release_7digitalid: 455163
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1245,)
+segments_loudness_max: shape = (1245,)
+segments_loudness_max_time: shape = (1245,)
+segments_loudness_start: shape = (1245,)
+segments_pitches: shape = (1245, 12)
+segments_start: shape = (1245,)
+segments_timbre: shape = (1245, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.401486711428
+song_id: SOJSITS12AB01850A4
+start_of_fade_out: 342.57
+tatums_confidence: shape = (1037,)
+tatums_start: shape = (1037,)
+tempo: 87.003
+time_signature: 4
+time_signature_confidence: 0.551
+title: Blackwood Moth
+track_7digitalid: 5059565
+track_id: TRAREOY128F93199EF
+year: 2007

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16475
+artist_familiarity: 0.48170358567
+artist_hotttnesss: 0.342626790602
+artist_id: AR9HABI1187FB3ACAA
+artist_latitude: nan
+artist_location: Blue Lick, KY
+artist_longitude: nan
+artist_mbid: aff932c2-ec30-4ee9-9125-5f761aae61a4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Red Foley
+artist_playmeid: 7469
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 6aaa17a3acb69fb3b91073233bc829c5
+bars_confidence: shape = (14,)
+bars_start: shape = (14,)
+beats_confidence: shape = (123,)
+beats_start: shape = (123,)
+danceability: 0.0
+duration: 192.80934
+end_of_fade_in: 0.491
+energy: 0.0
+key: 4
+key_confidence: 0.195
+loudness: -10.697
+mode: 0
+mode_confidence: 0.274
+release: 25 Country Memories
+release_7digitalid: 651071
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (529,)
+segments_loudness_max: shape = (529,)
+segments_loudness_max_time: shape = (529,)
+segments_loudness_start: shape = (529,)
+segments_pitches: shape = (529, 12)
+segments_start: shape = (529,)
+segments_timbre: shape = (529, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSBXRW12AB01857E0
+start_of_fade_out: 189.98
+tatums_confidence: shape = (493,)
+tatums_start: shape = (493,)
+tempo: 38.443
+time_signature: 4
+time_signature_confidence: 0.0
+title: Old Shep
+track_7digitalid: 7212420
+track_id: TRAMWSA128F9359719
+year: 1936

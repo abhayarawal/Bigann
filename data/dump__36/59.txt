@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 134227
+artist_familiarity: 0.431966634726
+artist_hotttnesss: 0.341714730617
+artist_id: ARIZLHQ1187B9A18C4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 580a0f83-f445-4873-b93f-a07faae8ef29
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Eduardo Fernandez / Norbert Blume / English Chamber Orchestra / George Malcolm
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: eea5ea1d5fa211544f90be454b6860bf
+bars_confidence: shape = (738,)
+bars_start: shape = (738,)
+beats_confidence: shape = (738,)
+beats_start: shape = (738,)
+danceability: 0.0
+duration: 341.05424
+end_of_fade_in: 0.392
+energy: 0.0
+key: 2
+key_confidence: 0.32
+loudness: -25.127
+mode: 0
+mode_confidence: 0.487
+release: Ultimate Baroque
+release_7digitalid: 628401
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (1128,)
+segments_loudness_max: shape = (1128,)
+segments_loudness_max_time: shape = (1128,)
+segments_loudness_start: shape = (1128,)
+segments_pitches: shape = (1128, 12)
+segments_start: shape = (1128,)
+segments_timbre: shape = (1128, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPRXCY12AB0183788
+start_of_fade_out: 335.679
+tatums_confidence: shape = (1475,)
+tatums_start: shape = (1475,)
+tempo: 131.816
+time_signature: 1
+time_signature_confidence: 0.0
+title: 1. Allegro
+track_7digitalid: 6975097
+track_id: TRAMLAE128F931FBE7
+year: 0

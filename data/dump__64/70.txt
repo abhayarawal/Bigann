@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: -1
+artist_familiarity: 0.526356117708
+artist_hotttnesss: 0.24251484921
+artist_id: ARPNJUD122BCFCB9B4
+artist_latitude: nan
+artist_location: AUSTRALIA
+artist_longitude: nan
+artist_mbid: 06d6e5ec-1acd-482b-a780-f77135532c19
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dark Shadows
+artist_playmeid: -1
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: 4ba778a2b1e8ee9ba4e551f2e40b6cdf
+bars_confidence: shape = (242,)
+bars_start: shape = (242,)
+beats_confidence: shape = (242,)
+beats_start: shape = (242,)
+danceability: 0.0
+duration: 116.6624
+end_of_fade_in: 0.271
+energy: 0.0
+key: 7
+key_confidence: 0.671
+loudness: -27.942
+mode: 1
+mode_confidence: 0.54
+release: House Of Dark Shadows and Night Of Dark Shadows
+release_7digitalid: 43305
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (306,)
+segments_loudness_max: shape = (306,)
+segments_loudness_max_time: shape = (306,)
+segments_loudness_start: shape = (306,)
+segments_pitches: shape = (306, 12)
+segments_start: shape = (306,)
+segments_timbre: shape = (306, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHDQDZ12A6D4F86E2
+start_of_fade_out: 104.316
+tatums_confidence: shape = (485,)
+tatums_start: shape = (485,)
+tempo: 130.557
+time_signature: 1
+time_signature_confidence: 0.336
+title: Love Theme From Night Of Dark Shadows (unused Version)
+track_7digitalid: 461955
+track_id: TRAWDAI128F148438A
+year: 0

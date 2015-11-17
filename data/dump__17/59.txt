@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 499893
+artist_familiarity: 0.204725766413
+artist_hotttnesss: 0.257075915215
+artist_id: ARGFOAI1269FB3852B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: 2Fresh
+artist_playmeid: -1
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: 010be7c5672a11f3e8cad691ec982a29
+bars_confidence: shape = (216,)
+bars_start: shape = (216,)
+beats_confidence: shape = (651,)
+beats_start: shape = (651,)
+danceability: 0.0
+duration: 461.24363
+end_of_fade_in: 4.133
+energy: 0.0
+key: 8
+key_confidence: 0.548
+loudness: -5.497
+mode: 1
+mode_confidence: 0.608
+release: 2Fresh - Get It Started
+release_7digitalid: 799147
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (2379,)
+segments_loudness_max: shape = (2379,)
+segments_loudness_max_time: shape = (2379,)
+segments_loudness_start: shape = (2379,)
+segments_pitches: shape = (2379, 12)
+segments_start: shape = (2379,)
+segments_timbre: shape = (2379, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOKDUJ12AB018BB67
+start_of_fade_out: 456.824
+tatums_confidence: shape = (1952,)
+tatums_start: shape = (1952,)
+tempo: 85.322
+time_signature: 3
+time_signature_confidence: 1.0
+title: Get It Started
+track_7digitalid: 8838247
+track_id: TRAFZTM12903CB1F7B
+year: 0

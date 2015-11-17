@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18502
+artist_familiarity: 0.407849996597
+artist_hotttnesss: 0.298946784378
+artist_id: AR6HEHH1187B9985F9
+artist_latitude: 41.41013
+artist_location: Scranton, PA
+artist_longitude: -75.66079
+artist_mbid: e9ef278b-740e-440e-97a7-7039ec589feb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Russ Morgan
+artist_playmeid: 20190
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: ca874f32e03a2452e8323aecd9ee57df
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (407,)
+beats_start: shape = (407,)
+danceability: 0.0
+duration: 212.63628
+end_of_fade_in: 0.119
+energy: 0.0
+key: 7
+key_confidence: 0.211
+loudness: -10.503
+mode: 0
+mode_confidence: 0.266
+release: Russ Morgan At Catalina (Digitally Remastered)
+release_7digitalid: 738734
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (669,)
+segments_loudness_max: shape = (669,)
+segments_loudness_max_time: shape = (669,)
+segments_loudness_start: shape = (669,)
+segments_pitches: shape = (669, 12)
+segments_start: shape = (669,)
+segments_timbre: shape = (669, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEDOSC12AC960A037
+start_of_fade_out: 209.786
+tatums_confidence: shape = (815,)
+tatums_start: shape = (815,)
+tempo: 116.587
+time_signature: 4
+time_signature_confidence: 0.029
+title: The Moon Was Yellow
+track_7digitalid: 8184753
+track_id: TRBAQCD12903CFD63C
+year: 0

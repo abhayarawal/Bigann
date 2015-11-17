@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4931
+artist_familiarity: 0.470414613683
+artist_hotttnesss: 0.310298996385
+artist_id: ARU2JAB1187FB50C72
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ea7e2bb8-bfb5-4307-a4c5-68df453de287
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: David Meece
+artist_playmeid: 37004
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: bae6e9057938da02e2da618cfa3fe739
+bars_confidence: shape = (125,)
+bars_start: shape = (125,)
+beats_confidence: shape = (506,)
+beats_start: shape = (506,)
+danceability: 0.0
+duration: 185.33832
+end_of_fade_in: 0.398
+energy: 0.0
+key: 7
+key_confidence: 0.809
+loudness: -6.429
+mode: 1
+mode_confidence: 0.729
+release: Front Row
+release_7digitalid: 185937
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (624,)
+segments_loudness_max: shape = (624,)
+segments_loudness_max_time: shape = (624,)
+segments_loudness_start: shape = (624,)
+segments_pitches: shape = (624, 12)
+segments_start: shape = (624,)
+segments_timbre: shape = (624, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.285458634126
+song_id: SOEBXBQ12A8AE47F49
+start_of_fade_out: 185.338
+tatums_confidence: shape = (1011,)
+tatums_start: shape = (1011,)
+tempo: 162.995
+time_signature: 4
+time_signature_confidence: 0.0
+title: Gospel Train (LP Version)
+track_7digitalid: 2014819
+track_id: TRAIBWR128F42390B3
+year: 0

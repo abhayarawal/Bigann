@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19072
+artist_familiarity: 0.630382334147
+artist_hotttnesss: 0.454231156571
+artist_id: AR7G5I41187FB4CE6C
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: e188a520-9cb7-4f73-a3d7-2f70c6538e92
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Adam Ant
+artist_playmeid: 12697
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 50a875117a89f6c5b6ebe0da10be3379
+bars_confidence: shape = (76,)
+bars_start: shape = (76,)
+beats_confidence: shape = (318,)
+beats_start: shape = (318,)
+danceability: 0.0
+duration: 202.97098
+end_of_fade_in: 1.218
+energy: 0.0
+key: 9
+key_confidence: 0.617
+loudness: -3.402
+mode: 1
+mode_confidence: 0.439
+release: Friend Or Foe
+release_7digitalid: 278975
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (867,)
+segments_loudness_max: shape = (867,)
+segments_loudness_max_time: shape = (867,)
+segments_loudness_start: shape = (867,)
+segments_pitches: shape = (867, 12)
+segments_start: shape = (867,)
+segments_timbre: shape = (867, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONCWFW12A8AE4702B
+start_of_fade_out: 197.526
+tatums_confidence: shape = (637,)
+tatums_start: shape = (637,)
+tempo: 95.7
+time_signature: 4
+time_signature_confidence: 1.0
+title: Goody Two Shoes
+track_7digitalid: 3106694
+track_id: TRATAZV128F425A410
+year: 1982

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 24769
+artist_familiarity: 0.811825981808
+artist_hotttnesss: 0.554633230574
+artist_id: ARPFHN61187FB575F6
+artist_latitude: 41.88415
+artist_location: Chicago, IL
+artist_longitude: -87.63241
+artist_mbid: cf15719f-51f9-4db8-a15d-5eed9664ce69
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Lupe Fiasco
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: f82b22c1f83fc9213c65a028629023e9
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (356,)
+beats_start: shape = (356,)
+danceability: 0.0
+duration: 251.68934
+end_of_fade_in: 0.13
+energy: 0.0
+key: 2
+key_confidence: 0.0
+loudness: -4.237
+mode: 1
+mode_confidence: 0.23
+release: Lupe Fiasco's Food & Liquor
+release_7digitalid: 132321
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (988,)
+segments_loudness_max: shape = (988,)
+segments_loudness_max_time: shape = (988,)
+segments_loudness_start: shape = (988,)
+segments_pitches: shape = (988, 12)
+segments_start: shape = (988,)
+segments_timbre: shape = (988, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTQLJE12CF58274B5
+start_of_fade_out: 247.989
+tatums_confidence: shape = (711,)
+tatums_start: shape = (711,)
+tempo: 85.015
+time_signature: 4
+time_signature_confidence: 1.0
+title: Kick_ Push II (Album Version)
+track_7digitalid: 1373222
+track_id: TRBFRNE128F42368B1
+year: 0

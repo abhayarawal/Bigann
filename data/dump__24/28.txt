@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19076
+artist_familiarity: 0.416147176425
+artist_hotttnesss: 0.28744675323
+artist_id: ARI945I1187FB4CC22
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f5014b80-cded-427a-bac8-0ad161949df2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The King Sisters & Alvino Rey
+artist_playmeid: 66797
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 75cea94aea1d805a34783a44370f3063
+bars_confidence: shape = (67,)
+bars_start: shape = (67,)
+beats_confidence: shape = (280,)
+beats_start: shape = (280,)
+danceability: 0.0
+duration: 163.97016
+end_of_fade_in: 0.485
+energy: 0.0
+key: 4
+key_confidence: 0.513
+loudness: -10.814
+mode: 0
+mode_confidence: 0.397
+release: In The Mood
+release_7digitalid: 225158
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (548,)
+segments_loudness_max: shape = (548,)
+segments_loudness_max_time: shape = (548,)
+segments_loudness_start: shape = (548,)
+segments_pitches: shape = (548, 12)
+segments_start: shape = (548,)
+segments_timbre: shape = (548, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPMAQD12A8C141E57
+start_of_fade_out: 159.306
+tatums_confidence: shape = (559,)
+tatums_start: shape = (559,)
+tempo: 100.72
+time_signature: 4
+time_signature_confidence: 0.358
+title: The Army Air Corps
+track_7digitalid: 2463233
+track_id: TRAIDSB128F4296B73
+year: 0

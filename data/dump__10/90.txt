@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23610
+artist_familiarity: 0.429544941704
+artist_hotttnesss: 0.322468154464
+artist_id: AR0CWSC1187B9AFE3F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bafc346c-8c25-4e94-b9dd-5e0183db32c8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: José Augusto;Catia Guimma
+artist_playmeid: 76083
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: b6405382d14107c05a6a1bb4fd02b7f4
+bars_confidence: shape = (106,)
+bars_start: shape = (106,)
+beats_confidence: shape = (428,)
+beats_start: shape = (428,)
+danceability: 0.0
+duration: 256.15628
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.567
+loudness: -5.962
+mode: 1
+mode_confidence: 0.601
+release: Ao Vivo
+release_7digitalid: 509285
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1065,)
+segments_loudness_max: shape = (1065,)
+segments_loudness_max_time: shape = (1065,)
+segments_loudness_start: shape = (1065,)
+segments_pitches: shape = (1065, 12)
+segments_start: shape = (1065,)
+segments_timbre: shape = (1065, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGQJCQ12AB0188A27
+start_of_fade_out: 250.874
+tatums_confidence: shape = (1713,)
+tatums_start: shape = (1713,)
+tempo: 102.399
+time_signature: 4
+time_signature_confidence: 0.745
+title: Tudo Que Você Quiser
+track_7digitalid: 5634050
+track_id: TRADPQT128F9337C45
+year: 0

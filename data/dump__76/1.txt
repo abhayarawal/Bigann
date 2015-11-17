@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 133083
+artist_familiarity: 0.338370154526
+artist_hotttnesss: 0.0
+artist_id: ARJSGPI1241B9C8855
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Birmingham Jubilee Singers
+artist_playmeid: 75022
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: a90364892dbbfdb819f5bd5dbbf86750
+bars_confidence: shape = (300,)
+bars_start: shape = (300,)
+beats_confidence: shape = (300,)
+beats_start: shape = (300,)
+danceability: 0.0
+duration: 200.17587
+end_of_fade_in: 0.479
+energy: 0.0
+key: 1
+key_confidence: 0.381
+loudness: -17.839
+mode: 1
+mode_confidence: 0.398
+release: Birmingham Jubilee Singers Vol. 2 (1927-1930)
+release_7digitalid: 174801
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (509,)
+segments_loudness_max: shape = (509,)
+segments_loudness_max_time: shape = (509,)
+segments_loudness_start: shape = (509,)
+segments_pitches: shape = (509, 12)
+segments_start: shape = (509,)
+segments_timbre: shape = (509, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYPEPK12A8C141727
+start_of_fade_out: 192.853
+tatums_confidence: shape = (601,)
+tatums_start: shape = (601,)
+tempo: 90.942
+time_signature: 1
+time_signature_confidence: 0.0
+title: Rollin' Down To Jordan
+track_7digitalid: 1875710
+track_id: TRAZYHO128F42A0478
+year: 0

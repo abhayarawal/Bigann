@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4024
+artist_familiarity: 0.643544997241
+artist_hotttnesss: 0.670106172837
+artist_id: ARVNGA71187FB3C107
+artist_latitude: nan
+artist_location: Jackson, MS
+artist_longitude: nan
+artist_mbid: 406552d4-5ba1-4226-b7c0-367bc50fc767
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Faith Hill
+artist_playmeid: 593
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 2315c89c34357caf27f730fcd0837292
+bars_confidence: shape = (14,)
+bars_start: shape = (14,)
+beats_confidence: shape = (118,)
+beats_start: shape = (118,)
+danceability: 0.0
+duration: 189.67465
+end_of_fade_in: 0.148
+energy: 0.0
+key: 6
+key_confidence: 0.306
+loudness: -16.402
+mode: 1
+mode_confidence: 0.68
+release: Joy To The World
+release_7digitalid: 322647
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (428,)
+segments_loudness_max: shape = (428,)
+segments_loudness_max_time: shape = (428,)
+segments_loudness_start: shape = (428,)
+segments_pitches: shape = (428, 12)
+segments_start: shape = (428,)
+segments_timbre: shape = (428, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.637148190776
+song_id: SOBVERW12AAF3B56C0
+start_of_fade_out: 181.04
+tatums_confidence: shape = (470,)
+tatums_start: shape = (470,)
+tempo: 37.656
+time_signature: 4
+time_signature_confidence: 0.0
+title: Silent Night_ Holy Night! (Album Version)
+track_7digitalid: 3635973
+track_id: TRANHJV128F92D819D
+year: 2008

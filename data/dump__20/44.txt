@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5913
+artist_familiarity: 0.657566887241
+artist_hotttnesss: 0.507625007837
+artist_id: ARTBQTE1187B9B8A0F
+artist_latitude: nan
+artist_location: Seattle, WA
+artist_longitude: nan
+artist_mbid: 8e9516ba-f417-47dd-a8a5-8998b94553f8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Candlebox
+artist_playmeid: -1
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 30ba6d14c87b84c797d89bd7695a9dd5
+bars_confidence: shape = (190,)
+bars_start: shape = (190,)
+beats_confidence: shape = (579,)
+beats_start: shape = (579,)
+danceability: 0.0
+duration: 283.66322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.46
+loudness: -7.589
+mode: 1
+mode_confidence: 0.484
+release: Into The Sun [Amended]
+release_7digitalid: 743805
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (729,)
+segments_loudness_max: shape = (729,)
+segments_loudness_max_time: shape = (729,)
+segments_loudness_start: shape = (729,)
+segments_pitches: shape = (729, 12)
+segments_start: shape = (729,)
+segments_timbre: shape = (729, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLTZIT12A58A7B9BC
+start_of_fade_out: 274.408
+tatums_confidence: shape = (1158,)
+tatums_start: shape = (1158,)
+tempo: 125.994
+time_signature: 3
+time_signature_confidence: 0.609
+title: Lover Come Back To Me
+track_7digitalid: 8233791
+track_id: TRAGYDZ12903D0957F
+year: 0

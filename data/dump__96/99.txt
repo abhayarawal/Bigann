@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11301
+artist_familiarity: 0.645192338747
+artist_hotttnesss: 0.458738221226
+artist_id: AR3THYK1187B999F1F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 286ec4c2-b5ca-4f85-b331-280a6d73dd14
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: João Gilberto
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 0e15d3edee11765e872149b208b22620
+bars_confidence: shape = (50,)
+bars_start: shape = (50,)
+beats_confidence: shape = (223,)
+beats_start: shape = (223,)
+danceability: 0.0
+duration: 153.70404
+end_of_fade_in: 0.518
+energy: 0.0
+key: 0
+key_confidence: 0.42
+loudness: -14.963
+mode: 0
+mode_confidence: 0.346
+release: Chega de Saudade
+release_7digitalid: 793013
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (382,)
+segments_loudness_max: shape = (382,)
+segments_loudness_max_time: shape = (382,)
+segments_loudness_start: shape = (382,)
+segments_pitches: shape = (382, 12)
+segments_start: shape = (382,)
+segments_timbre: shape = (382, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKGCRN12AC468D603
+start_of_fade_out: 146.959
+tatums_confidence: shape = (448,)
+tatums_start: shape = (448,)
+tempo: 91.493
+time_signature: 4
+time_signature_confidence: 0.258
+title: Manhã de Carnaval (Morning of the Carnaval) (Cantando As Músicas do Film Orfeo do Carnaval)
+track_7digitalid: 8771515
+track_id: TRBHJXG12903D15879
+year: 1959

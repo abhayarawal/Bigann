@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 64070
+artist_familiarity: 0.478770833861
+artist_hotttnesss: 0.327875294793
+artist_id: ARAFRFP1187FB4230B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b39fd057-141c-4a9e-a1e6-266665dbc79d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Williamson
+artist_playmeid: 74542
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 06eece6881e4a4a19b60b4f71baa4dd0
+bars_confidence: shape = (156,)
+bars_start: shape = (156,)
+beats_confidence: shape = (628,)
+beats_start: shape = (628,)
+danceability: 0.0
+duration: 354.06322
+end_of_fade_in: 0.067
+energy: 0.0
+key: 7
+key_confidence: 0.091
+loudness: -11.96
+mode: 1
+mode_confidence: 0.354
+release: A Few Things To Hear Before We All Blow Up
+release_7digitalid: 98027
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (1202,)
+segments_loudness_max: shape = (1202,)
+segments_loudness_max_time: shape = (1202,)
+segments_loudness_start: shape = (1202,)
+segments_pitches: shape = (1202, 12)
+segments_start: shape = (1202,)
+segments_timbre: shape = (1202, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.403798072256
+song_id: SOANUHW12A8C137587
+start_of_fade_out: 336.202
+tatums_confidence: shape = (1254,)
+tatums_start: shape = (1254,)
+tempo: 105.982
+time_signature: 4
+time_signature_confidence: 0.028
+title: Time You'll Never Get Back
+track_7digitalid: 1018306
+track_id: TRAEXXT128F427AF12
+year: 2003

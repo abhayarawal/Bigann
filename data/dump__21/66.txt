@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10898
+artist_familiarity: 0.686221995069
+artist_hotttnesss: 0.486072379666
+artist_id: AR5LE4K1187FB4C3BE
+artist_latitude: nan
+artist_location: Indianapolis, IN
+artist_longitude: nan
+artist_mbid: e78202c9-7717-435c-9aac-dd5ebc4e64d5
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: John Hiatt
+artist_playmeid: 19619
+artist_terms: shape = (50,)
+artist_terms_freq: shape = (50,)
+artist_terms_weight: shape = (50,)
+audio_md5: 8de677c4c5c5fadb621f8066d98321eb
+bars_confidence: shape = (178,)
+bars_start: shape = (178,)
+beats_confidence: shape = (715,)
+beats_start: shape = (715,)
+danceability: 0.0
+duration: 239.5424
+end_of_fade_in: 0.403
+energy: 0.0
+key: 9
+key_confidence: 0.443
+loudness: -8.626
+mode: 1
+mode_confidence: 0.275
+release: Greatest Hits: The A&M Years '87- '94
+release_7digitalid: 47633
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1048,)
+segments_loudness_max: shape = (1048,)
+segments_loudness_max_time: shape = (1048,)
+segments_loudness_start: shape = (1048,)
+segments_pitches: shape = (1048, 12)
+segments_start: shape = (1048,)
+segments_timbre: shape = (1048, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.608552821338
+song_id: SOFZNZA12A6D4F8B0D
+start_of_fade_out: 229.529
+tatums_confidence: shape = (1429,)
+tatums_start: shape = (1429,)
+tempo: 181.355
+time_signature: 4
+time_signature_confidence: 0.472
+title: Memphis In The Meantime
+track_7digitalid: 510618
+track_id: TRAHIZR128F148D3D1
+year: 1987

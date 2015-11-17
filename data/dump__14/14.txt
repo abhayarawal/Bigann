@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3318
+artist_familiarity: 0.700570065019
+artist_hotttnesss: 0.487595647696
+artist_id: AR1SQSG1187B9AC782
+artist_latitude: nan
+artist_location: Eskilstuna, Sweden
+artist_longitude: nan
+artist_mbid: ffb2d3e3-a4cc-48cf-8fb0-f2f846e9d7b9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kent
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 7f9a9a2b8c0a1d41d249895508038a56
+bars_confidence: shape = (127,)
+bars_start: shape = (127,)
+beats_confidence: shape = (511,)
+beats_start: shape = (511,)
+danceability: 0.0
+duration: 257.74975
+end_of_fade_in: 0.476
+energy: 0.0
+key: 11
+key_confidence: 0.208
+loudness: -6.421
+mode: 0
+mode_confidence: 0.622
+release: Tillbaka Till Samtiden
+release_7digitalid: 313166
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (984,)
+segments_loudness_max: shape = (984,)
+segments_loudness_max_time: shape = (984,)
+segments_loudness_start: shape = (984,)
+segments_pitches: shape = (984, 12)
+segments_start: shape = (984,)
+segments_timbre: shape = (984, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.666656368531
+song_id: SOULMYP12A8C143D8B
+start_of_fade_out: 239.816
+tatums_confidence: shape = (1022,)
+tatums_start: shape = (1022,)
+tempo: 120.008
+time_signature: 4
+time_signature_confidence: 0.275
+title: Ingenting
+track_7digitalid: 3543025
+track_id: TRAETLW128F92C44F3
+year: 0

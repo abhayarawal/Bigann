@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20724
+artist_familiarity: 0.551502069088
+artist_hotttnesss: 0.351717751121
+artist_id: ARB1KC91187FB38B13
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bc933822-d278-4388-ac7a-af8244e9f2b9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Carl Smith
+artist_playmeid: 3070
+artist_terms: shape = (59,)
+artist_terms_freq: shape = (59,)
+artist_terms_weight: shape = (59,)
+audio_md5: 7a45dd106f563c78210f9292770a4103
+bars_confidence: shape = (45,)
+bars_start: shape = (45,)
+beats_confidence: shape = (183,)
+beats_start: shape = (183,)
+danceability: 0.0
+duration: 107.62404
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.618
+loudness: -13.51
+mode: 1
+mode_confidence: 0.553
+release: The Hickory Days
+release_7digitalid: 224258
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (519,)
+segments_loudness_max: shape = (519,)
+segments_loudness_max_time: shape = (519,)
+segments_loudness_start: shape = (519,)
+segments_pitches: shape = (519, 12)
+segments_start: shape = (519,)
+segments_timbre: shape = (519, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOUCLTK12A8C141490
+start_of_fade_out: 99.12
+tatums_confidence: shape = (733,)
+tatums_start: shape = (733,)
+tempo: 109.449
+time_signature: 4
+time_signature_confidence: 0.569
+title: If You Don't Somebody Else Will
+track_7digitalid: 2450908
+track_id: TRALSZL128F4293B41
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 323208
+artist_familiarity: 0.363475534701
+artist_hotttnesss: 0.0
+artist_id: ARBY23A1187B9A82E4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 92d0242d-c47d-4e2b-915d-4f875a07c91f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Naseebo Lal
+artist_playmeid: 149466
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: fc735dac87d6883d5302b2574f588d68
+bars_confidence: shape = (232,)
+bars_start: shape = (232,)
+beats_confidence: shape = (934,)
+beats_start: shape = (934,)
+danceability: 0.0
+duration: 376.16281
+end_of_fade_in: 0.462
+energy: 0.0
+key: 7
+key_confidence: 0.857
+loudness: -12.746
+mode: 1
+mode_confidence: 0.681
+release: Ronde Ne Nain
+release_7digitalid: 473571
+sections_confidence: shape = (21,)
+sections_start: shape = (21,)
+segments_confidence: shape = (1613,)
+segments_loudness_max: shape = (1613,)
+segments_loudness_max_time: shape = (1613,)
+segments_loudness_start: shape = (1613,)
+segments_pitches: shape = (1613, 12)
+segments_start: shape = (1613,)
+segments_timbre: shape = (1613, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOOCMS12A8C1413F3
+start_of_fade_out: 367.961
+tatums_confidence: shape = (1868,)
+tatums_start: shape = (1868,)
+tempo: 151.983
+time_signature: 4
+time_signature_confidence: 0.203
+title: Dholna Dholna
+track_7digitalid: 5261027
+track_id: TRARNMW128F92DE2D4
+year: 0

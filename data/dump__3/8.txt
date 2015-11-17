@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 230530
+artist_familiarity: 0.542512528352
+artist_hotttnesss: 0.403784234959
+artist_id: AR1QXAQ1187FB47FAC
+artist_latitude: nan
+artist_location: Brookyln, NY
+artist_longitude: nan
+artist_mbid: dd10cfe1-ced1-49f1-92cf-ac33265dc274
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sticky Fingaz
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: f14c686be487f4a5f333ad5c164ae97e
+bars_confidence: shape = (86,)
+bars_start: shape = (86,)
+beats_confidence: shape = (362,)
+beats_start: shape = (362,)
+danceability: 0.0
+duration: 266.4224
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.358
+loudness: -5.947
+mode: 0
+mode_confidence: 0.324
+release: Oh My God
+release_7digitalid: 355081
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (1161,)
+segments_loudness_max: shape = (1161,)
+segments_loudness_max_time: shape = (1161,)
+segments_loudness_start: shape = (1161,)
+segments_pitches: shape = (1161, 12)
+segments_start: shape = (1161,)
+segments_timbre: shape = (1161, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.636287224427
+song_id: SODTRPJ12A8C1377E9
+start_of_fade_out: 266.422
+tatums_confidence: shape = (1086,)
+tatums_start: shape = (1086,)
+tempo: 80.149
+time_signature: 4
+time_signature_confidence: 1.0
+title: Oh My God
+track_7digitalid: 3257650
+track_id: TRAAZBD128F427A97D
+year: 2000

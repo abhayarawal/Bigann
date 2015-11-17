@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19534
+artist_familiarity: 0.645426499287
+artist_hotttnesss: 0.438779160645
+artist_id: ARKQ6QN1187B9B016D
+artist_latitude: 52.05777
+artist_location: Ipswich, England
+artist_longitude: 1.14378
+artist_mbid: 2095b935-2007-4ae0-a48a-ef4d6fc3aac0
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Photek
+artist_playmeid: 66588
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: dfcfd4205fc60810bd30a608bb78a22b
+bars_confidence: shape = (65,)
+bars_start: shape = (65,)
+beats_confidence: shape = (265,)
+beats_start: shape = (265,)
+danceability: 0.0
+duration: 157.3873
+end_of_fade_in: 0.199
+energy: 0.0
+key: 2
+key_confidence: 0.087
+loudness: -15.006
+mode: 1
+mode_confidence: 0.599
+release: Solaris
+release_7digitalid: 29172
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (245,)
+segments_loudness_max: shape = (245,)
+segments_loudness_max_time: shape = (245,)
+segments_loudness_start: shape = (245,)
+segments_pitches: shape = (245, 12)
+segments_start: shape = (245,)
+segments_timbre: shape = (245, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.468997787645
+song_id: SOYASGU12A6D4F89BE
+start_of_fade_out: 157.387
+tatums_confidence: shape = (529,)
+tatums_start: shape = (529,)
+tempo: 105.085
+time_signature: 4
+time_signature_confidence: 1.0
+title: Under The Palms
+track_7digitalid: 321250
+track_id: TRAHLMD128F146A75F
+year: 2000

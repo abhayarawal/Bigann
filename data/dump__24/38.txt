@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 356925
+artist_familiarity: 0.484463044052
+artist_hotttnesss: 0.342537003163
+artist_id: AR126G61187B9B88A6
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7ede4a5c-b55d-48d4-bf5a-55ced3597ae8
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Candy Lo
+artist_playmeid: 174198
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 4e122c26fc3c3518f8cb58b8a4390f7c
+bars_confidence: shape = (134,)
+bars_start: shape = (134,)
+beats_confidence: shape = (951,)
+beats_start: shape = (951,)
+danceability: 0.0
+duration: 244.03546
+end_of_fade_in: 0.223
+energy: 0.0
+key: 0
+key_confidence: 0.569
+loudness: -8.951
+mode: 1
+mode_confidence: 0.563
+release: Miao......
+release_7digitalid: 552858
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (896,)
+segments_loudness_max: shape = (896,)
+segments_loudness_max_time: shape = (896,)
+segments_loudness_start: shape = (896,)
+segments_pitches: shape = (896, 12)
+segments_start: shape = (896,)
+segments_timbre: shape = (896, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEMYLB12AB0182CFA
+start_of_fade_out: 238.219
+tatums_confidence: shape = (1902,)
+tatums_start: shape = (1902,)
+tempo: 235.903
+time_signature: 7
+time_signature_confidence: 1.0
+title: Ji Nian Pin
+track_7digitalid: 6113251
+track_id: TRAIEUH128F93363F7
+year: 0

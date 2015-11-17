@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23041
+artist_familiarity: 0.83453858559
+artist_hotttnesss: 0.477310881067
+artist_id: AR6F6I21187FB5A3AA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: aba64937-3334-4c65-90a1-4e6b9d4d7ada
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Aesop Rock
+artist_playmeid: 7929
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 475d4524de387dc9c11eddc512bd5844
+bars_confidence: shape = (261,)
+bars_start: shape = (261,)
+beats_confidence: shape = (261,)
+beats_start: shape = (261,)
+danceability: 0.0
+duration: 273.60608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.51
+loudness: -8.011
+mode: 0
+mode_confidence: 0.479
+release: Bazooka Tooth
+release_7digitalid: 445429
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1232,)
+segments_loudness_max: shape = (1232,)
+segments_loudness_max_time: shape = (1232,)
+segments_loudness_start: shape = (1232,)
+segments_pitches: shape = (1232, 12)
+segments_start: shape = (1232,)
+segments_timbre: shape = (1232, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.577888777843
+song_id: SOUBCNK12AB017CA1C
+start_of_fade_out: 266.257
+tatums_confidence: shape = (1563,)
+tatums_start: shape = (1563,)
+tempo: 57.332
+time_signature: 1
+time_signature_confidence: 0.0
+title: Limelighters (feat. Camp Lo) / Flunkadelic Interlude
+track_7digitalid: 4946767
+track_id: TRAKPJU128F9300B55
+year: 2003

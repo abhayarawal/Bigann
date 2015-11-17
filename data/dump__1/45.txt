@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4715
+artist_familiarity: 0.604820431918
+artist_hotttnesss: 0.383877493634
+artist_id: AR7BMMV1187FB5B2D7
+artist_latitude: 39.15093
+artist_location: Ukiah, CA
+artist_longitude: -123.2079
+artist_mbid: 9c17c956-de06-4463-9a87-234652c306dc
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Robben Ford
+artist_playmeid: -1
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 7f45d69dd40af2c912b3ed69001cf313
+bars_confidence: shape = (126,)
+bars_start: shape = (126,)
+beats_confidence: shape = (509,)
+beats_start: shape = (509,)
+danceability: 0.0
+duration: 203.98975
+end_of_fade_in: 0.161
+energy: 0.0
+key: 11
+key_confidence: 0.236
+loudness: -11.976
+mode: 0
+mode_confidence: 0.384
+release: Talk To Your Daughter
+release_7digitalid: 762519
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (726,)
+segments_loudness_max: shape = (726,)
+segments_loudness_max_time: shape = (726,)
+segments_loudness_start: shape = (726,)
+segments_pitches: shape = (726, 12)
+segments_start: shape = (726,)
+segments_timbre: shape = (726, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.47212111954
+song_id: SOOSYMY12AB01888CD
+start_of_fade_out: 182.921
+tatums_confidence: shape = (1019,)
+tatums_start: shape = (1019,)
+tempo: 154.322
+time_signature: 4
+time_signature_confidence: 0.0
+title: I Got Over It (Album Version)
+track_7digitalid: 8441520
+track_id: TRAAKNS12903CC5198
+year: 1988

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 207693
+artist_familiarity: 0.442904225873
+artist_hotttnesss: 0.0
+artist_id: ARO08R311C8A414C15
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 17be1f55-141b-4a6c-a295-9496a47dc6a2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The LeRoi Brothers
+artist_playmeid: -1
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 45c62fe7880c2d0dddb0b4819dbe113f
+bars_confidence: shape = (61,)
+bars_start: shape = (61,)
+beats_confidence: shape = (249,)
+beats_start: shape = (249,)
+danceability: 0.0
+duration: 126.53669
+end_of_fade_in: 0.102
+energy: 0.0
+key: 4
+key_confidence: 0.409
+loudness: -7.093
+mode: 1
+mode_confidence: 0.41
+release: Happy Birthday Buck - A Texas Salute to Buck Owens
+release_7digitalid: 258331
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (506,)
+segments_loudness_max: shape = (506,)
+segments_loudness_max_time: shape = (506,)
+segments_loudness_start: shape = (506,)
+segments_pitches: shape = (506, 12)
+segments_start: shape = (506,)
+segments_timbre: shape = (506, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHWREF12A58A7EC7F
+start_of_fade_out: 117.388
+tatums_confidence: shape = (497,)
+tatums_start: shape = (497,)
+tempo: 121.666
+time_signature: 4
+time_signature_confidence: 1.0
+title: Flash_ Crash and Thunder
+track_7digitalid: 3487196
+track_id: TRAHPOB128F42B1E55
+year: 0

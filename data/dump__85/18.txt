@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 286013
+artist_familiarity: 0.349507478404
+artist_hotttnesss: 0.236832077881
+artist_id: AR7GYNZ1187FB44803
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 258c1ce5-8357-4bdf-8206-1329c9b17684
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Christian adam
+artist_playmeid: -1
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: 5c8a0cb37aa3a443740ca1c03a5d32dc
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (363,)
+beats_start: shape = (363,)
+danceability: 0.0
+duration: 163.5522
+end_of_fade_in: 0.38
+energy: 0.0
+key: 10
+key_confidence: 0.807
+loudness: -11.667
+mode: 1
+mode_confidence: 0.617
+release: De beste liedjes
+release_7digitalid: 560989
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (457,)
+segments_loudness_max: shape = (457,)
+segments_loudness_max_time: shape = (457,)
+segments_loudness_start: shape = (457,)
+segments_pitches: shape = (457, 12)
+segments_start: shape = (457,)
+segments_timbre: shape = (457, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMQIKW12AB018595D
+start_of_fade_out: 151.516
+tatums_confidence: shape = (727,)
+tatums_start: shape = (727,)
+tempo: 139.315
+time_signature: 3
+time_signature_confidence: 0.73
+title: Il a suffit d'une chanson d'amour
+track_7digitalid: 6208292
+track_id: TRBDGRU128F934D684
+year: 0

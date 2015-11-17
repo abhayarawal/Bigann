@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 49211
+artist_familiarity: 0.585514006971
+artist_hotttnesss: 0.364914034535
+artist_id: AR32ETX1187B9A792F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0244ceb5-57dc-4831-aa9c-6a5e5a1c4938
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Vaughan Brothers;Stevie Ray Vaughan;Jimmy Vaughan
+artist_playmeid: 11639
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 0a2d9b8cc084be12025a2ae556a2aa27
+bars_confidence: shape = (92,)
+bars_start: shape = (92,)
+beats_confidence: shape = (371,)
+beats_start: shape = (371,)
+danceability: 0.0
+duration: 196.57098
+end_of_fade_in: 2.194
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -7.827
+mode: 1
+mode_confidence: 0.085
+release: The Essential Stevie Ray Vaughan And Double Trouble
+release_7digitalid: 287254
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (776,)
+segments_loudness_max: shape = (776,)
+segments_loudness_max_time: shape = (776,)
+segments_loudness_start: shape = (776,)
+segments_pitches: shape = (776, 12)
+segments_start: shape = (776,)
+segments_timbre: shape = (776, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.62829679606
+song_id: SOTNHJI12A8C135862
+start_of_fade_out: 177.673
+tatums_confidence: shape = (742,)
+tatums_start: shape = (742,)
+tempo: 114.088
+time_signature: 4
+time_signature_confidence: 0.0
+title: Long Way From Home
+track_7digitalid: 3222424
+track_id: TRBFEYR128F427230E
+year: 1990

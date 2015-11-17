@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15122
+artist_familiarity: 0.850789988555
+artist_hotttnesss: 0.838095532425
+artist_id: AR91C8S1187B990901
+artist_latitude: 40.23447
+artist_location: Freehold, NJ
+artist_longitude: -74.29504
+artist_mbid: 70248960-cb53-4ea4-943a-edb18f7d336f
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Bruce Springsteen
+artist_playmeid: 270
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 6376c8b76de26006c548942e5a16ec67
+bars_confidence: shape = (1676,)
+bars_start: shape = (1676,)
+beats_confidence: shape = (1676,)
+beats_start: shape = (1676,)
+danceability: 0.0
+duration: 591.62077
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.598
+loudness: -5.67
+mode: 1
+mode_confidence: 0.475
+release: Hammersmith Odeon_ London '75
+release_7digitalid: 570833
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (1860,)
+segments_loudness_max: shape = (1860,)
+segments_loudness_max_time: shape = (1860,)
+segments_loudness_start: shape = (1860,)
+segments_pitches: shape = (1860, 12)
+segments_start: shape = (1860,)
+segments_timbre: shape = (1860, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONTMSY12AB017B6E1
+start_of_fade_out: 584.202
+tatums_confidence: shape = (3353,)
+tatums_start: shape = (3353,)
+tempo: 167.559
+time_signature: 1
+time_signature_confidence: 0.0
+title: Rosalita (Come Out Tonight)
+track_7digitalid: 6335413
+track_id: TRAOPRI12903C9FC25
+year: 1973

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11367
+artist_familiarity: 0.624723767579
+artist_hotttnesss: 0.403509673363
+artist_id: ARCZ20M1187FB49687
+artist_latitude: 32.77942
+artist_location: Goodwill, LA
+artist_longitude: -91.56123
+artist_mbid: 810af667-6a1f-40df-87a9-27f726cba4f3
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Tony Joe White
+artist_playmeid: 20062
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: a760fbefa36d2ce7901807ba2c5666ec
+bars_confidence: shape = (141,)
+bars_start: shape = (141,)
+beats_confidence: shape = (566,)
+beats_start: shape = (566,)
+danceability: 0.0
+duration: 252.1073
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.041
+loudness: -9.653
+mode: 1
+mode_confidence: 0.488
+release: Album 95
+release_7digitalid: 59803
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (892,)
+segments_loudness_max: shape = (892,)
+segments_loudness_max_time: shape = (892,)
+segments_loudness_start: shape = (892,)
+segments_pitches: shape = (892, 12)
+segments_start: shape = (892,)
+segments_timbre: shape = (892, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOPJHMG12A6D4FA978
+start_of_fade_out: 248.355
+tatums_confidence: shape = (1131,)
+tatums_start: shape = (1131,)
+tempo: 136.621
+time_signature: 4
+time_signature_confidence: 0.0
+title: Menutha
+track_7digitalid: 619335
+track_id: TRATIYP128F14A3056
+year: 1999

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 618
+artist_familiarity: 0.786427083379
+artist_hotttnesss: 0.512226738318
+artist_id: AR035N21187FB3938E
+artist_latitude: 34.23294
+artist_location: Earth
+artist_longitude: -102.4102
+artist_mbid: 88e2147d-0332-46f6-85b2-b5f463ba957b
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: BT
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: cbff921bb3c74074280379ee98ef490b
+bars_confidence: shape = (198,)
+bars_start: shape = (198,)
+beats_confidence: shape = (596,)
+beats_start: shape = (596,)
+danceability: 0.0
+duration: 253.07383
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.255
+loudness: -6.21
+mode: 0
+mode_confidence: 0.375
+release: The Dungeonmaster's Guide
+release_7digitalid: 264782
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (825,)
+segments_loudness_max: shape = (825,)
+segments_loudness_max_time: shape = (825,)
+segments_loudness_start: shape = (825,)
+segments_pitches: shape = (825, 12)
+segments_start: shape = (825,)
+segments_timbre: shape = (825, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.578274893123
+song_id: SOPTEDP12A8C139E74
+start_of_fade_out: 234.934
+tatums_confidence: shape = (1192,)
+tatums_start: shape = (1192,)
+tempo: 136.897
+time_signature: 3
+time_signature_confidence: 1.0
+title: Knowledge Of Self (Evol Intent Remix)
+track_7digitalid: 2836548
+track_id: TRAHXMC128F4267B70
+year: 2004

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 490841
+artist_familiarity: 0.421853163547
+artist_hotttnesss: 0.323997368575
+artist_id: AR2D0XK1187B98EC4A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3f107c41-0c08-44dc-b2a6-5ad7bc4e8fd6
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Johnny Pearson
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: e30f06551a528f8087458fb8cb5d3466
+bars_confidence: shape = (74,)
+bars_start: shape = (74,)
+beats_confidence: shape = (298,)
+beats_start: shape = (298,)
+danceability: 0.0
+duration: 144.48281
+end_of_fade_in: 0.415
+energy: 0.0
+key: 0
+key_confidence: 1.0
+loudness: -11.101
+mode: 1
+mode_confidence: 0.636
+release: KPM 1000 Series: Flamboyant Themes (Volume 2)
+release_7digitalid: 658011
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (549,)
+segments_loudness_max: shape = (549,)
+segments_loudness_max_time: shape = (549,)
+segments_loudness_start: shape = (549,)
+segments_pitches: shape = (549, 12)
+segments_start: shape = (549,)
+segments_timbre: shape = (549, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOZONJS12A58A7920D
+start_of_fade_out: 141.827
+tatums_confidence: shape = (596,)
+tatums_start: shape = (596,)
+tempo: 125.41
+time_signature: 4
+time_signature_confidence: 0.47
+title: Boss-Eyed Whelk
+track_7digitalid: 7289751
+track_id: TRALLJN12903C9A892
+year: 0

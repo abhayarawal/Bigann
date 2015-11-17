@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4159
+artist_familiarity: 0.654860822343
+artist_hotttnesss: 0.451466060363
+artist_id: ARB336A1187B9A4583
+artist_latitude: 42.25147
+artist_location: Lincoln Park, MI
+artist_longitude: -83.18186
+artist_mbid: 08b736bb-1c82-40b4-8b0b-49e2182a067a
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: MC5
+artist_playmeid: 28736
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: db5d77ff86565aecb2ec596d67aad5f2
+bars_confidence: shape = (159,)
+bars_start: shape = (159,)
+beats_confidence: shape = (1119,)
+beats_start: shape = (1119,)
+danceability: 0.0
+duration: 381.30893
+end_of_fade_in: 7.425
+energy: 0.0
+key: 2
+key_confidence: 0.5
+loudness: -11.996
+mode: 0
+mode_confidence: 0.542
+release: High Time
+release_7digitalid: 13139
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1245,)
+segments_loudness_max: shape = (1245,)
+segments_loudness_max_time: shape = (1245,)
+segments_loudness_start: shape = (1245,)
+segments_pitches: shape = (1245, 12)
+segments_start: shape = (1245,)
+segments_timbre: shape = (1245, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.266330590041
+song_id: SOYDZAD12A67020BDB
+start_of_fade_out: 369.905
+tatums_confidence: shape = (2239,)
+tatums_start: shape = (2239,)
+tempo: 171.944
+time_signature: 7
+time_signature_confidence: 0.57
+title: Future/Now (LP Version)
+track_7digitalid: 136915
+track_id: TRBDVLN128E078C6FB
+year: 1971

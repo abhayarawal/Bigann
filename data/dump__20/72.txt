@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 68717
+artist_familiarity: 0.506778928376
+artist_hotttnesss: 0.328413737878
+artist_id: AR6IJ6U1187B99FC7C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9965a96a-d838-48be-bcad-dd22fb76fc70
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Alberto Cortez
+artist_playmeid: 9285
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 725f6fec052f3ddf19a726082b58ccc7
+bars_confidence: shape = (39,)
+bars_start: shape = (39,)
+beats_confidence: shape = (276,)
+beats_start: shape = (276,)
+danceability: 0.0
+duration: 183.17016
+end_of_fade_in: 0.27
+energy: 0.0
+key: 3
+key_confidence: 0.343
+loudness: -6.752
+mode: 1
+mode_confidence: 0.41
+release: Colección Diamante: Alberto Cortez
+release_7digitalid: 122921
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (531,)
+segments_loudness_max: shape = (531,)
+segments_loudness_max_time: shape = (531,)
+segments_loudness_start: shape = (531,)
+segments_pitches: shape = (531, 12)
+segments_start: shape = (531,)
+segments_timbre: shape = (531, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOTWTSO12A8C142128
+start_of_fade_out: 168.687
+tatums_confidence: shape = (553,)
+tatums_start: shape = (553,)
+tempo: 91.584
+time_signature: 7
+time_signature_confidence: 0.505
+title: Guitarra Dimelo Tu
+track_7digitalid: 1269906
+track_id: TRAHAOP128F42AC92E
+year: 0

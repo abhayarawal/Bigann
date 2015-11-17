@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 197055
+artist_familiarity: 0.272774044277
+artist_hotttnesss: 0.0
+artist_id: AROKPWU11F50C48F1B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6492e313-bc31-4300-960d-f6eb3db8500d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dennis O'Neill
+artist_playmeid: -1
+artist_terms: shape = (8,)
+artist_terms_freq: shape = (8,)
+artist_terms_weight: shape = (8,)
+audio_md5: e6f5d597d2ae53fe16d7097a2a14d21d
+bars_confidence: shape = (482,)
+bars_start: shape = (482,)
+beats_confidence: shape = (482,)
+beats_start: shape = (482,)
+danceability: 0.0
+duration: 384.62649
+end_of_fade_in: 9.549
+energy: 0.0
+key: 4
+key_confidence: 0.716
+loudness: -25.056
+mode: 1
+mode_confidence: 0.282
+release: Liszt: 'Tre Sonetti di Petrarca' & First Settings of Victor Hugo
+release_7digitalid: 249452
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (876,)
+segments_loudness_max: shape = (876,)
+segments_loudness_max_time: shape = (876,)
+segments_loudness_start: shape = (876,)
+segments_pitches: shape = (876, 12)
+segments_start: shape = (876,)
+segments_timbre: shape = (876, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOLUHDN12A8C13714D
+start_of_fade_out: 346.419
+tatums_confidence: shape = (965,)
+tatums_start: shape = (965,)
+tempo: 80.77
+time_signature: 1
+time_signature_confidence: 0.582
+title: Oh! quand je dors
+track_7digitalid: 2728480
+track_id: TRAZCZL128F424E1DD
+year: 0

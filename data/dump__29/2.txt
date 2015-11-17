@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 559821
+artist_familiarity: 0.487077751135
+artist_hotttnesss: 0.315690276816
+artist_id: AR4QYVC1187B99985B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c3b1105d-b40c-47c7-b489-e9b3f7b1e8c1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ Harry
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 8e43cfc867a214410badada49f87b9ba
+bars_confidence: shape = (232,)
+bars_start: shape = (232,)
+beats_confidence: shape = (931,)
+beats_start: shape = (931,)
+danceability: 0.0
+duration: 309.60281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.795
+loudness: -7.254
+mode: 0
+mode_confidence: 0.615
+release: Collision
+release_7digitalid: 748788
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1513,)
+segments_loudness_max: shape = (1513,)
+segments_loudness_max_time: shape = (1513,)
+segments_loudness_start: shape = (1513,)
+segments_pitches: shape = (1513, 12)
+segments_start: shape = (1513,)
+segments_timbre: shape = (1513, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIOWYG12AB018751B
+start_of_fade_out: 296.159
+tatums_confidence: shape = (1862,)
+tatums_start: shape = (1862,)
+tempo: 181.371
+time_signature: 4
+time_signature_confidence: 0.159
+title: Shadows
+track_7digitalid: 8290825
+track_id: TRAJSRM12903CA068C
+year: 2004

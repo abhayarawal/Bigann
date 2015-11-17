@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 373578
+artist_familiarity: 0.668370611552
+artist_hotttnesss: 0.457553909836
+artist_id: AR0VZWC1187B99BA57
+artist_latitude: -37.81753
+artist_location: Melbourne, Australia
+artist_longitude: 144.96715
+artist_mbid: c064d097-4a1e-4e81-bd6f-22ba86ee2904
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Berzerker
+artist_playmeid: 160708
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 785157a4b712c55f1a3ca68e74c05eb4
+bars_confidence: shape = (36,)
+bars_start: shape = (36,)
+beats_confidence: shape = (148,)
+beats_start: shape = (148,)
+danceability: 0.0
+duration: 105.45587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.038
+loudness: -6.952
+mode: 0
+mode_confidence: 0.38
+release: The Berzerker
+release_7digitalid: 681639
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (221,)
+segments_loudness_max: shape = (221,)
+segments_loudness_max_time: shape = (221,)
+segments_loudness_start: shape = (221,)
+segments_pitches: shape = (221, 12)
+segments_start: shape = (221,)
+segments_timbre: shape = (221, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.502449624125
+song_id: SOGFXKP12AB0180E00
+start_of_fade_out: 101.013
+tatums_confidence: shape = (590,)
+tatums_start: shape = (590,)
+tempo: 86.5
+time_signature: 4
+time_signature_confidence: 1.0
+title: Humanity
+track_7digitalid: 7564993
+track_id: TRAOPRY12903CDD3E0
+year: 2000

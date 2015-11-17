@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 509823
+artist_familiarity: 0.510192176585
+artist_hotttnesss: 0.324097702984
+artist_id: ARO89GU1187B98ADA2
+artist_latitude: 53.4796
+artist_location: Manchester, England
+artist_longitude: -2.24881
+artist_mbid: 3cc5d43f-4d2d-4eb5-9d60-52a1ab60715d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Reni
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: aaa7504512495d0da465f941ef960b8c
+bars_confidence: shape = (338,)
+bars_start: shape = (338,)
+beats_confidence: shape = (338,)
+beats_start: shape = (338,)
+danceability: 0.0
+duration: 222.14485
+end_of_fade_in: 0.949
+energy: 0.0
+key: 0
+key_confidence: 0.486
+loudness: -3.826
+mode: 0
+mode_confidence: 0.589
+release: Reni 2001
+release_7digitalid: 685885
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (867,)
+segments_loudness_max: shape = (867,)
+segments_loudness_max_time: shape = (867,)
+segments_loudness_start: shape = (867,)
+segments_pitches: shape = (867, 12)
+segments_start: shape = (867,)
+segments_timbre: shape = (867, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODJOWL12AC468D389
+start_of_fade_out: 218.546
+tatums_confidence: shape = (1014,)
+tatums_start: shape = (1014,)
+tempo: 92.68
+time_signature: 1
+time_signature_confidence: 1.0
+title: Slamka Spasa
+track_7digitalid: 7611127
+track_id: TRACGHY12903CE8831
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1563
+artist_familiarity: 0.63322062391
+artist_hotttnesss: 0.410247407476
+artist_id: ARCT5P61187FB3D950
+artist_latitude: nan
+artist_location: United States
+artist_longitude: nan
+artist_mbid: 8af64037-6d26-4d24-afd8-7e085abb01b1
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Impressions
+artist_playmeid: 5858
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 1944bf8c7ba475149202953692ae1818
+bars_confidence: shape = (47,)
+bars_start: shape = (47,)
+beats_confidence: shape = (347,)
+beats_start: shape = (347,)
+danceability: 0.0
+duration: 236.69506
+end_of_fade_in: 0.345
+energy: 0.0
+key: 10
+key_confidence: 0.666
+loudness: -8.671
+mode: 1
+mode_confidence: 0.485
+release: Times Have Changed
+release_7digitalid: 34609
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (797,)
+segments_loudness_max: shape = (797,)
+segments_loudness_max_time: shape = (797,)
+segments_loudness_start: shape = (797,)
+segments_pitches: shape = (797, 12)
+segments_start: shape = (797,)
+segments_timbre: shape = (797, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SOQLAUY12A6D4F900A
+start_of_fade_out: 222.854
+tatums_confidence: shape = (694,)
+tatums_start: shape = (694,)
+tempo: 90.089
+time_signature: 7
+time_signature_confidence: 0.649
+title: Need To Belong To Someone
+track_7digitalid: 370536
+track_id: TRBCVKD128F1473B98
+year: 1972

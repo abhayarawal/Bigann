@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 317632
+artist_familiarity: 0.520420053094
+artist_hotttnesss: 0.296553690512
+artist_id: ARZ0LFY1187FB4FE17
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 34b67ccb-3bcb-49a4-8109-1c5282b1e0a0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Orthrelm
+artist_playmeid: 164807
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: d17d5dc86928c440b41b1692f010234b
+bars_confidence: shape = (47,)
+bars_start: shape = (47,)
+beats_confidence: shape = (192,)
+beats_start: shape = (192,)
+danceability: 0.0
+duration: 70.03383
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.155
+loudness: -4.665
+mode: 1
+mode_confidence: 0.345
+release: 2nd18/04
+release_7digitalid: 500649
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (128,)
+segments_loudness_max: shape = (128,)
+segments_loudness_max_time: shape = (128,)
+segments_loudness_start: shape = (128,)
+segments_pitches: shape = (128, 12)
+segments_start: shape = (128,)
+segments_timbre: shape = (128, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWMEYR12AB0182279
+start_of_fade_out: 64.824
+tatums_confidence: shape = (192,)
+tatums_start: shape = (192,)
+tempo: 164.216
+time_signature: 4
+time_signature_confidence: 0.909
+title: Scelxenak
+track_7digitalid: 5544493
+track_id: TRBEJFD128F93222D8
+year: 2002

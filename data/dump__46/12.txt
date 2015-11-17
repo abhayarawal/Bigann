@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 85145
+artist_familiarity: 0.741848575612
+artist_hotttnesss: 0.523561641644
+artist_id: AR2VLIP1187B99F897
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: eb55f2c5-e7dc-4697-9ed7-864438d10eb6
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: All Shall Persih
+artist_playmeid: 50221
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: c166a5aedc0a2628e86c40425b4d2f9d
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (356,)
+beats_start: shape = (356,)
+danceability: 0.0
+duration: 215.61424
+end_of_fade_in: 0.061
+energy: 0.0
+key: 11
+key_confidence: 0.042
+loudness: -2.685
+mode: 1
+mode_confidence: 0.506
+release: The Price Of Existence
+release_7digitalid: 130032
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (649,)
+segments_loudness_max: shape = (649,)
+segments_loudness_max_time: shape = (649,)
+segments_loudness_start: shape = (649,)
+segments_pitches: shape = (649, 12)
+segments_start: shape = (649,)
+segments_timbre: shape = (649, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.649212581557
+song_id: SOGNSLP12A6D4FD729
+start_of_fade_out: 196.452
+tatums_confidence: shape = (1424,)
+tatums_start: shape = (1424,)
+tempo: 99.963
+time_signature: 4
+time_signature_confidence: 0.73
+title: The True Beast
+track_7digitalid: 1298710
+track_id: TRAPSJN128F422AF18
+year: 2006

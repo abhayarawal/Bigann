@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 35098
+artist_familiarity: 0.555787460558
+artist_hotttnesss: 0.354454708478
+artist_id: ARVSDB11187FB4270B
+artist_latitude: 51.55615
+artist_location: Middlesex, England
+artist_longitude: -0.25969
+artist_mbid: 1d5d9b06-1b0b-4c40-8481-bad62e03b4ab
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Creation
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: f610decd57e0e88f114121bc3620b8d2
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (316,)
+beats_start: shape = (316,)
+danceability: 0.0
+duration: 147.69587
+end_of_fade_in: 0.154
+energy: 0.0
+key: 2
+key_confidence: 0.791
+loudness: -9.877
+mode: 1
+mode_confidence: 0.545
+release: Our Music Is Red  - With Purple Flashes
+release_7digitalid: 416757
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (439,)
+segments_loudness_max: shape = (439,)
+segments_loudness_max_time: shape = (439,)
+segments_loudness_start: shape = (439,)
+segments_pitches: shape = (439, 12)
+segments_start: shape = (439,)
+segments_timbre: shape = (439, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.487492443417
+song_id: SOGCCFL12AB0185B8C
+start_of_fade_out: 138.873
+tatums_confidence: shape = (632,)
+tatums_start: shape = (632,)
+tempo: 134.021
+time_signature: 4
+time_signature_confidence: 0.382
+title: Try And Stop Me
+track_7digitalid: 4635470
+track_id: TRBDWBW128F932C973
+year: 1967

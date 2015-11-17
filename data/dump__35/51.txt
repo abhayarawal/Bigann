@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 142205
+artist_familiarity: 0.601245988381
+artist_hotttnesss: 0.461026520548
+artist_id: AR2S4CA1187B99632E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 652ce480-5f04-4601-9e2d-9b41b42a5ce6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: FFH
+artist_playmeid: 8354
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 777e7765f5db1a1da9e121fac7b001f0
+bars_confidence: shape = (184,)
+bars_start: shape = (184,)
+beats_confidence: shape = (742,)
+beats_start: shape = (742,)
+danceability: 0.0
+duration: 277.62893
+end_of_fade_in: 0.252
+energy: 0.0
+key: 0
+key_confidence: 0.915
+loudness: -7.721
+mode: 1
+mode_confidence: 0.685
+release: Found A Place
+release_7digitalid: 487841
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (817,)
+segments_loudness_max: shape = (817,)
+segments_loudness_max_time: shape = (817,)
+segments_loudness_start: shape = (817,)
+segments_pitches: shape = (817, 12)
+segments_start: shape = (817,)
+segments_timbre: shape = (817, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.445454525493
+song_id: SOESCEH12A58A7EC90
+start_of_fade_out: 265.572
+tatums_confidence: shape = (1484,)
+tatums_start: shape = (1484,)
+tempo: 163.96
+time_signature: 4
+time_signature_confidence: 0.869
+title: Why Do I
+track_7digitalid: 5413967
+track_id: TRAMCLN128F9302E27
+year: 2000

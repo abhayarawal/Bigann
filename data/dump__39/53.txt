@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2022
+artist_familiarity: 0.679748141444
+artist_hotttnesss: 0.458595402877
+artist_id: AR1ZYLH1187B98C159
+artist_latitude: nan
+artist_location: East Orange, NJ
+artist_longitude: nan
+artist_mbid: 3bdcd49d-212e-4f4f-877a-eac1e4a2bddc
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Naughty By Nature
+artist_playmeid: 7556
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 9a23893d9eda17d39646ef3a73db7cd2
+bars_confidence: shape = (176,)
+bars_start: shape = (176,)
+beats_confidence: shape = (708,)
+beats_start: shape = (708,)
+danceability: 0.0
+duration: 216.60689
+end_of_fade_in: 0.464
+energy: 0.0
+key: 6
+key_confidence: 0.757
+loudness: -12.711
+mode: 0
+mode_confidence: 0.599
+release: 19 Naughty III
+release_7digitalid: 45989
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1037,)
+segments_loudness_max: shape = (1037,)
+segments_loudness_max_time: shape = (1037,)
+segments_loudness_start: shape = (1037,)
+segments_pitches: shape = (1037, 12)
+segments_start: shape = (1037,)
+segments_timbre: shape = (1037, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.439202489315
+song_id: SOQDTMC12A6D4FA1D2
+start_of_fade_out: 195.704
+tatums_confidence: shape = (1415,)
+tatums_start: shape = (1415,)
+tempo: 199.652
+time_signature: 4
+time_signature_confidence: 0.912
+title: The Hood Comes First (LP Version)
+track_7digitalid: 491178
+track_id: TRANMXY128F1489C65
+year: 1993

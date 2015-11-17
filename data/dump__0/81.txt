@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 324572
+artist_familiarity: 0.481004583018
+artist_hotttnesss: 0.335651839185
+artist_id: ARI5P4N1187FB3F44D
+artist_latitude: nan
+artist_location: Minnesota
+artist_longitude: nan
+artist_mbid: 48e797f1-0473-4445-9696-c9bc197a3404
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Suburbs
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 4e588672cdea2867001b85faebbd48a0
+bars_confidence: shape = (549,)
+bars_start: shape = (549,)
+beats_confidence: shape = (549,)
+beats_start: shape = (549,)
+danceability: 0.0
+duration: 187.24526
+end_of_fade_in: 0.107
+energy: 0.0
+key: 1
+key_confidence: 0.842
+loudness: -4.42
+mode: 1
+mode_confidence: 0.721
+release: Un Titre de Toune
+release_7digitalid: 435830
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (657,)
+segments_loudness_max: shape = (657,)
+segments_loudness_max_time: shape = (657,)
+segments_loudness_start: shape = (657,)
+segments_pitches: shape = (657, 12)
+segments_start: shape = (657,)
+segments_timbre: shape = (657, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.249065794854
+song_id: SOHWGFU12AB017B036
+start_of_fade_out: 178.625
+tatums_confidence: shape = (1099,)
+tatums_start: shape = (1099,)
+tempo: 183.92
+time_signature: 1
+time_signature_confidence: 0.063
+title: Monde De Fou
+track_7digitalid: 4855196
+track_id: TRAAGKQ128F92EAF39
+year: 2005

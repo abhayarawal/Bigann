@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19776
+artist_familiarity: 0.6129125729
+artist_hotttnesss: 0.395999522735
+artist_id: ARHTRR71187B98F305
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4ebf21af-d8c8-4536-a3ba-a84b0f6a33b8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Michelle Tumes
+artist_playmeid: 44165
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: d9fd37648869be7b2c13dfea8fb6bda8
+bars_confidence: shape = (121,)
+bars_start: shape = (121,)
+beats_confidence: shape = (490,)
+beats_start: shape = (490,)
+danceability: 0.0
+duration: 265.29914
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.307
+loudness: -9.279
+mode: 0
+mode_confidence: 0.47
+release: Streams
+release_7digitalid: 132377
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (890,)
+segments_loudness_max: shape = (890,)
+segments_loudness_max_time: shape = (890,)
+segments_loudness_start: shape = (890,)
+segments_pitches: shape = (890, 12)
+segments_start: shape = (890,)
+segments_timbre: shape = (890, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOLXNRC12A81C21193
+start_of_fade_out: 243.659
+tatums_confidence: shape = (981,)
+tatums_start: shape = (981,)
+tempo: 111.824
+time_signature: 4
+time_signature_confidence: 0.96
+title: Hold On (LP Version)
+track_7digitalid: 1373565
+track_id: TRAGOUB128F42369BA
+year: 0

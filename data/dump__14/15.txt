@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 258580
+artist_familiarity: 0.543247115987
+artist_hotttnesss: 0.362398213147
+artist_id: ARA1EK21187B9A2FB7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a3e7dbdc-5cfb-4075-b109-e24b44b9bfb4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Silent Stream Of Godless Elegy
+artist_playmeid: 144939
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 91adf11c57f29373219f197ecb85d715
+bars_confidence: shape = (18,)
+bars_start: shape = (18,)
+beats_confidence: shape = (132,)
+beats_start: shape = (132,)
+danceability: 0.0
+duration: 50.1024
+end_of_fade_in: 4.394
+energy: 0.0
+key: 3
+key_confidence: 0.248
+loudness: -16.468
+mode: 1
+mode_confidence: 0.553
+release: Themes
+release_7digitalid: 331266
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (158,)
+segments_loudness_max: shape = (158,)
+segments_loudness_max_time: shape = (158,)
+segments_loudness_start: shape = (158,)
+segments_pitches: shape = (158, 12)
+segments_start: shape = (158,)
+segments_timbre: shape = (158, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.439202489315
+song_id: SOQJQUF12AB0184B38
+start_of_fade_out: 50.102
+tatums_confidence: shape = (132,)
+tatums_start: shape = (132,)
+tempo: 162.676
+time_signature: 7
+time_signature_confidence: 0.265
+title: Theme III
+track_7digitalid: 3817013
+track_id: TRAETLY128F92FBEE0
+year: 2000

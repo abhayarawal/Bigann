@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 605187
+artist_familiarity: 0.25014816965
+artist_hotttnesss: 0.124010097288
+artist_id: AR2F37U1187B990860
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: babff96e-f9fa-4bc9-9f7b-2aa6e8066ff2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gina V. D'Orio
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 904fb2c09383d10bd259d0c9d3ba28fc
+bars_confidence: shape = (374,)
+bars_start: shape = (374,)
+beats_confidence: shape = (374,)
+beats_start: shape = (374,)
+danceability: 0.0
+duration: 139.91138
+end_of_fade_in: 0.142
+energy: 0.0
+key: 5
+key_confidence: 0.148
+loudness: -10.115
+mode: 0
+mode_confidence: 0.401
+release: Sailor Songs
+release_7digitalid: 812008
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (451,)
+segments_loudness_max: shape = (451,)
+segments_loudness_max_time: shape = (451,)
+segments_loudness_start: shape = (451,)
+segments_pitches: shape = (451, 12)
+segments_start: shape = (451,)
+segments_timbre: shape = (451, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.229144103717
+song_id: SOIUETF12AB0189B73
+start_of_fade_out: 134.67
+tatums_confidence: shape = (374,)
+tatums_start: shape = (374,)
+tempo: 168.628
+time_signature: 1
+time_signature_confidence: 0.0
+title: Naval War
+track_7digitalid: 8973295
+track_id: TRAWNFQ12903CD2CCF
+year: 2004

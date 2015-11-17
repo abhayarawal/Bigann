@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 414
+artist_familiarity: 0.731184230413
+artist_hotttnesss: 0.549204383877
+artist_id: ARD3LXU1187B9ABFC5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e5db18cb-4b1f-496d-a308-548b611090d3
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Sex Pistols
+artist_playmeid: 1418
+artist_terms: shape = (9,)
+artist_terms_freq: shape = (9,)
+artist_terms_weight: shape = (9,)
+audio_md5: 9c12146c89ad751625cdbed29ddc2687
+bars_confidence: shape = (275,)
+bars_start: shape = (275,)
+beats_confidence: shape = (275,)
+beats_start: shape = (275,)
+danceability: 0.0
+duration: 126.06649
+end_of_fade_in: 0.16
+energy: 0.0
+key: 8
+key_confidence: 0.663
+loudness: -4.871
+mode: 1
+mode_confidence: 0.501
+release: Live & Filthy
+release_7digitalid: 816896
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (348,)
+segments_loudness_max: shape = (348,)
+segments_loudness_max_time: shape = (348,)
+segments_loudness_start: shape = (348,)
+segments_pitches: shape = (348, 12)
+segments_start: shape = (348,)
+segments_timbre: shape = (348, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SODDHDA12AB018CF6D
+start_of_fade_out: 126.066
+tatums_confidence: shape = (549,)
+tatums_start: shape = (549,)
+tempo: 130.429
+time_signature: 1
+time_signature_confidence: 0.833
+title: I'm A Lazy Sod (Live)
+track_7digitalid: 9025234
+track_id: TRAXUIZ12903CDF737
+year: 1998

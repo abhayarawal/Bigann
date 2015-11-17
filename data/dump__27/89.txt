@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 295533
+artist_familiarity: 0.360241801208
+artist_hotttnesss: 0.279642625277
+artist_id: AR6W9T51187B9A8B8E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e39cebbc-be71-42ba-a60c-2d6ffc57a4f1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Maurice Larcange
+artist_playmeid: 65578
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 1ea84bd9c0a953c6ab14346bc7b0cba4
+bars_confidence: shape = (94,)
+bars_start: shape = (94,)
+beats_confidence: shape = (385,)
+beats_start: shape = (385,)
+danceability: 0.0
+duration: 276.53179
+end_of_fade_in: 2.258
+energy: 0.0
+key: 4
+key_confidence: 0.177
+loudness: -12.35
+mode: 1
+mode_confidence: 0.293
+release: Joue Legrand & Becaud
+release_7digitalid: 386702
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (742,)
+segments_loudness_max: shape = (742,)
+segments_loudness_max_time: shape = (742,)
+segments_loudness_start: shape = (742,)
+segments_pitches: shape = (742, 12)
+segments_start: shape = (742,)
+segments_timbre: shape = (742, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFBRDB12AB017F2C2
+start_of_fade_out: 266.31
+tatums_confidence: shape = (770,)
+tatums_start: shape = (770,)
+tempo: 84.133
+time_signature: 4
+time_signature_confidence: 0.777
+title: Je T'Appartiens
+track_7digitalid: 4289278
+track_id: TRAJIIF128F92E7FB1
+year: 0

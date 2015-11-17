@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20293
+artist_familiarity: 0.701441758982
+artist_hotttnesss: 0.504307725982
+artist_id: AR0O3AV1187FB4D030
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 40b8a690-94e4-4c82-ad0f-73f4b841e46a
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Agnostic Front
+artist_playmeid: 11026
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 6ecc3dd247c87ec24627c0f57c6efe96
+bars_confidence: shape = (50,)
+bars_start: shape = (50,)
+beats_confidence: shape = (363,)
+beats_start: shape = (363,)
+danceability: 0.0
+duration: 122.17424
+end_of_fade_in: 0.096
+energy: 0.0
+key: 2
+key_confidence: 0.312
+loudness: -5.218
+mode: 1
+mode_confidence: 0.43
+release: Warriors
+release_7digitalid: 274824
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (478,)
+segments_loudness_max: shape = (478,)
+segments_loudness_max_time: shape = (478,)
+segments_loudness_start: shape = (478,)
+segments_pitches: shape = (478, 12)
+segments_start: shape = (478,)
+segments_timbre: shape = (478, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.704649755854
+song_id: SOCNBUC12A81C2075A
+start_of_fade_out: 118.062
+tatums_confidence: shape = (726,)
+tatums_start: shape = (726,)
+tempo: 185.453
+time_signature: 7
+time_signature_confidence: 0.716
+title: Come Alive
+track_7digitalid: 3053537
+track_id: TRARACF128F424FACF
+year: 2007

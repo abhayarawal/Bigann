@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 170417
+artist_familiarity: 0.574400788692
+artist_hotttnesss: 0.446071584412
+artist_id: ARRH2S81187B98C8AA
+artist_latitude: 43.07295
+artist_location: Madison, Wisconsin
+artist_longitude: -89.38669
+artist_mbid: fb7659b2-5ceb-45ac-be95-b0c1f832caec
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Bongzilla
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: f18d8d2e47ec2fadd9bab774a99e9d3f
+bars_confidence: shape = (152,)
+bars_start: shape = (152,)
+beats_confidence: shape = (459,)
+beats_start: shape = (459,)
+danceability: 0.0
+duration: 286.58893
+end_of_fade_in: 0.165
+energy: 0.0
+key: 9
+key_confidence: 0.437
+loudness: -4.627
+mode: 1
+mode_confidence: 0.353
+release: Amerijuanican
+release_7digitalid: 223456
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (616,)
+segments_loudness_max: shape = (616,)
+segments_loudness_max_time: shape = (616,)
+segments_loudness_start: shape = (616,)
+segments_pitches: shape = (616, 12)
+segments_start: shape = (616,)
+segments_timbre: shape = (616, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.536788886441
+song_id: SOESBTV12A8C1407EB
+start_of_fade_out: 282.517
+tatums_confidence: shape = (919,)
+tatums_start: shape = (919,)
+tempo: 97.265
+time_signature: 3
+time_signature_confidence: 1.0
+title: Champagne & Reefer
+track_7digitalid: 2441186
+track_id: TRARTSA128F4291550
+year: 2005

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4738
+artist_familiarity: 0.482148324971
+artist_hotttnesss: 0.344198187483
+artist_id: ARFCOGY1187FB454B4
+artist_latitude: nan
+artist_location: Detroit, MI
+artist_longitude: nan
+artist_mbid: 29e51d5b-33e6-4646-be96-245c77a49d36
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Winans
+artist_playmeid: -1
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 43cb2103e61f0e179ca5739830f68aa6
+bars_confidence: shape = (128,)
+bars_start: shape = (128,)
+beats_confidence: shape = (530,)
+beats_start: shape = (530,)
+danceability: 0.0
+duration: 319.60771
+end_of_fade_in: 0.363
+energy: 0.0
+key: 8
+key_confidence: 0.346
+loudness: -13.792
+mode: 1
+mode_confidence: 0.426
+release: Carry me Home - The Power Of Gospel
+release_7digitalid: 572666
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (922,)
+segments_loudness_max: shape = (922,)
+segments_loudness_max_time: shape = (922,)
+segments_loudness_start: shape = (922,)
+segments_pitches: shape = (922, 12)
+segments_start: shape = (922,)
+segments_timbre: shape = (922, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.572920147947
+song_id: SOHPFNX12AB018A5FE
+start_of_fade_out: 309.098
+tatums_confidence: shape = (1060,)
+tatums_start: shape = (1060,)
+tempo: 102.328
+time_signature: 4
+time_signature_confidence: 0.906
+title: Everything You Touch Is a Song
+track_7digitalid: 6346454
+track_id: TRACMXG12903CA2541
+year: 0

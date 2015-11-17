@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19920
+artist_familiarity: 0.540881349196
+artist_hotttnesss: 0.38663083651
+artist_id: ARJRQL51187FB541AB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 84f01d1b-ff47-4b26-bedb-2701ec5b2c9f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Juan Carlos Baglietto
+artist_playmeid: 67826
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: b7b1b5ed4c63c4df4fb7d67a53359089
+bars_confidence: shape = (109,)
+bars_start: shape = (109,)
+beats_confidence: shape = (442,)
+beats_start: shape = (442,)
+danceability: 0.0
+duration: 205.84444
+end_of_fade_in: 0.299
+energy: 0.0
+key: 7
+key_confidence: 0.779
+loudness: -11.54
+mode: 1
+mode_confidence: 0.888
+release: Mami
+release_7digitalid: 149708
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (819,)
+segments_loudness_max: shape = (819,)
+segments_loudness_max_time: shape = (819,)
+segments_loudness_start: shape = (819,)
+segments_pitches: shape = (819, 12)
+segments_start: shape = (819,)
+segments_timbre: shape = (819, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOXZRXO12A8C134918
+start_of_fade_out: 191.321
+tatums_confidence: shape = (884,)
+tatums_start: shape = (884,)
+tempo: 131.724
+time_signature: 4
+time_signature_confidence: 0.0
+title: Como Boomerang
+track_7digitalid: 1557350
+track_id: TRAMNDH128F425C33D
+year: 1986

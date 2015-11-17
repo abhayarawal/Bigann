@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 276197
+artist_familiarity: 0.438320807911
+artist_hotttnesss: 0.292589242722
+artist_id: ARLVCLM1269FB35C0B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Guillaume Ledent
+artist_playmeid: -1
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: c3299ab3992c3cf5db919e2b7042de28
+bars_confidence: shape = (179,)
+bars_start: shape = (179,)
+beats_confidence: shape = (718,)
+beats_start: shape = (718,)
+danceability: 0.0
+duration: 229.8771
+end_of_fade_in: 0.316
+energy: 0.0
+key: 9
+key_confidence: 0.319
+loudness: -7.347
+mode: 0
+mode_confidence: 0.427
+release: Guillaume Ledent & Dîne à Quatre Orchestra
+release_7digitalid: 357434
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (936,)
+segments_loudness_max: shape = (936,)
+segments_loudness_max_time: shape = (936,)
+segments_loudness_start: shape = (936,)
+segments_pitches: shape = (936, 12)
+segments_start: shape = (936,)
+segments_timbre: shape = (936, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHWXGM12AB0181210
+start_of_fade_out: 215.806
+tatums_confidence: shape = (1437,)
+tatums_start: shape = (1437,)
+tempo: 190.309
+time_signature: 4
+time_signature_confidence: 0.703
+title: Le type d'en face
+track_7digitalid: 3988314
+track_id: TRAWLXR128F931F009
+year: 0

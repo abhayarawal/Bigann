@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 171024
+artist_familiarity: 0.652367864188
+artist_hotttnesss: 0.437964733142
+artist_id: ARVEJ9M1187FB4DC44
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a9a7819b-8c6a-4b9a-a3e9-cad0471963df
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Les Ogres De Barback
+artist_playmeid: -1
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 26ea169898c3d0cfae3f766a5dbe4f6a
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (297,)
+beats_start: shape = (297,)
+danceability: 0.0
+duration: 212.13995
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.431
+loudness: -4.727
+mode: 0
+mode_confidence: 0.783
+release: Concert
+release_7digitalid: 421964
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (841,)
+segments_loudness_max: shape = (841,)
+segments_loudness_max_time: shape = (841,)
+segments_loudness_start: shape = (841,)
+segments_pitches: shape = (841, 12)
+segments_start: shape = (841,)
+segments_timbre: shape = (841, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SOTSOTJ12AB01872E4
+start_of_fade_out: 212.14
+tatums_confidence: shape = (890,)
+tatums_start: shape = (890,)
+tempo: 86.092
+time_signature: 3
+time_signature_confidence: 1.0
+title: Dubrovnic
+track_7digitalid: 4703107
+track_id: TRAQUJD128F933BBF9
+year: 0

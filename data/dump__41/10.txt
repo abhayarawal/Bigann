@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7694
+artist_familiarity: 0.498414133308
+artist_hotttnesss: 0.326008873279
+artist_id: ARHINI31187B995C1D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: da3df0b1-1945-455b-beb7-701cf76a4da4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Singing Melody
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 50df004c5922bc5f0c4c93efbf95c736
+bars_confidence: shape = (183,)
+bars_start: shape = (183,)
+beats_confidence: shape = (554,)
+beats_start: shape = (554,)
+danceability: 0.0
+duration: 231.67955
+end_of_fade_in: 0.119
+energy: 0.0
+key: 10
+key_confidence: 0.226
+loudness: -7.837
+mode: 0
+mode_confidence: 0.404
+release: Expression
+release_7digitalid: 135226
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1057,)
+segments_loudness_max: shape = (1057,)
+segments_loudness_max_time: shape = (1057,)
+segments_loudness_start: shape = (1057,)
+segments_pitches: shape = (1057, 12)
+segments_start: shape = (1057,)
+segments_timbre: shape = (1057, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SORIWJQ12A8AE4778E
+start_of_fade_out: 219.632
+tatums_confidence: shape = (1107,)
+tatums_start: shape = (1107,)
+tempo: 146.545
+time_signature: 3
+time_signature_confidence: 0.521
+title: I Never Know
+track_7digitalid: 1400642
+track_id: TRANYZJ128F423B989
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 305169
+artist_familiarity: 0.48915883251
+artist_hotttnesss: 0.304642724612
+artist_id: AR8JQ521187FB491AA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 00793456-2e3f-49ab-9439-84efe81dc0e2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Vince Taylor
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: b0deb0cd14a773cd298100041b682db3
+bars_confidence: shape = (589,)
+bars_start: shape = (589,)
+beats_confidence: shape = (589,)
+beats_start: shape = (589,)
+danceability: 0.0
+duration: 200.04526
+end_of_fade_in: 0.636
+energy: 0.0
+key: 6
+key_confidence: 0.0
+loudness: -5.085
+mode: 0
+mode_confidence: 0.196
+release: Le Rock C'Est Ca
+release_7digitalid: 505148
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (708,)
+segments_loudness_max: shape = (708,)
+segments_loudness_max_time: shape = (708,)
+segments_loudness_start: shape = (708,)
+segments_pitches: shape = (708, 12)
+segments_start: shape = (708,)
+segments_timbre: shape = (708, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOJVHBP12AB01877F3
+start_of_fade_out: 194.81
+tatums_confidence: shape = (1178,)
+tatums_start: shape = (1178,)
+tempo: 180.733
+time_signature: 1
+time_signature_confidence: 0.001
+title: Sweet Little Sixteen
+track_7digitalid: 5589448
+track_id: TRATWFN128F932CEF6
+year: 0

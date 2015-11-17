@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 80483
+artist_familiarity: 0.531757816309
+artist_hotttnesss: 0.335933116022
+artist_id: AR36F9J1187FB406F1
+artist_latitude: 56.27609
+artist_location: Denmark
+artist_longitude: 9.51695
+artist_mbid: 99186cd1-81d3-44b0-8215-8cff400f97a9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bombay Rockers
+artist_playmeid: 53811
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 01772e157140242a6da4dbf06ffe1c78
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (308,)
+beats_start: shape = (308,)
+danceability: 0.0
+duration: 230.71302
+end_of_fade_in: 0.421
+energy: 0.0
+key: 4
+key_confidence: 0.282
+loudness: -6.358
+mode: 0
+mode_confidence: 0.269
+release: Wild Rose
+release_7digitalid: 102907
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1203,)
+segments_loudness_max: shape = (1203,)
+segments_loudness_max_time: shape = (1203,)
+segments_loudness_start: shape = (1203,)
+segments_pitches: shape = (1203, 12)
+segments_start: shape = (1203,)
+segments_timbre: shape = (1203, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBKWDJ12A8C13B2F3
+start_of_fade_out: 219.417
+tatums_confidence: shape = (924,)
+tatums_start: shape = (924,)
+tempo: 81.319
+time_signature: 3
+time_signature_confidence: 0.125
+title: Wild Rose (Back 2 Basics Mix)
+track_7digitalid: 1061326
+track_id: TRABBKX128F4285205
+year: 0

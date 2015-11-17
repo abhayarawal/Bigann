@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30269
+artist_familiarity: 0.498834975258
+artist_hotttnesss: 0.379960766975
+artist_id: AR9OLFX1187B9A5762
+artist_latitude: 31.30757
+artist_location: Kosse, TX
+artist_longitude: -96.63166
+artist_mbid: c727f585-54e0-4e0d-b8ad-05f216f99244
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bob Willis
+artist_playmeid: 4912
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 923795fa952922df613931463f319792
+bars_confidence: shape = (340,)
+bars_start: shape = (340,)
+beats_confidence: shape = (340,)
+beats_start: shape = (340,)
+danceability: 0.0
+duration: 172.09424
+end_of_fade_in: 0.083
+energy: 0.0
+key: 3
+key_confidence: 0.688
+loudness: -13.559
+mode: 1
+mode_confidence: 0.65
+release: Texas Playboys
+release_7digitalid: 341482
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (575,)
+segments_loudness_max: shape = (575,)
+segments_loudness_max_time: shape = (575,)
+segments_loudness_start: shape = (575,)
+segments_pitches: shape = (575, 12)
+segments_start: shape = (575,)
+segments_timbre: shape = (575, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.400443466244
+song_id: SOTJMAA12AB01862F2
+start_of_fade_out: 163.039
+tatums_confidence: shape = (679,)
+tatums_start: shape = (679,)
+tempo: 121.923
+time_signature: 1
+time_signature_confidence: 0.0
+title: Sugar Blues
+track_7digitalid: 3824500
+track_id: TRBBHUR128F92FDBE2
+year: 2000

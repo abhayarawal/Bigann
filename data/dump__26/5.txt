@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7764
+artist_familiarity: 0.563750448071
+artist_hotttnesss: 0.339532420349
+artist_id: ARB78VW1187B98F81C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8347fcf6-d073-4fa4-99b8-5f545fee39de
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: George Nooks
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 96584d47544a22cbda3cb8a8dddd3f0b
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (317,)
+beats_start: shape = (317,)
+danceability: 0.0
+duration: 222.14485
+end_of_fade_in: 0.328
+energy: 0.0
+key: 7
+key_confidence: 0.438
+loudness: -6.735
+mode: 1
+mode_confidence: 0.539
+release: Better Days
+release_7digitalid: 565418
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (928,)
+segments_loudness_max: shape = (928,)
+segments_loudness_max_time: shape = (928,)
+segments_loudness_start: shape = (928,)
+segments_pitches: shape = (928, 12)
+segments_start: shape = (928,)
+segments_timbre: shape = (928, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOFZQNM12AB0183C50
+start_of_fade_out: 213.728
+tatums_confidence: shape = (635,)
+tatums_start: shape = (635,)
+tempo: 85.994
+time_signature: 4
+time_signature_confidence: 0.59
+title: No One Knows
+track_7digitalid: 6257927
+track_id: TRAISZU128F9359838
+year: 0

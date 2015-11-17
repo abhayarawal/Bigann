@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 116499
+artist_familiarity: 0.469788161122
+artist_hotttnesss: 0.435798645216
+artist_id: AR68V7Z1187B9A2FCA
+artist_latitude: 51.16418
+artist_location: GERMANY
+artist_longitude: 10.45415
+artist_mbid: 5e23ff6c-4c77-4cb9-8d64-079aa1adcd9e
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Polkaholix
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 5a3e8324a54019e89fdc3638561ddf7b
+bars_confidence: shape = (96,)
+bars_start: shape = (96,)
+beats_confidence: shape = (388,)
+beats_start: shape = (388,)
+danceability: 0.0
+duration: 196.93669
+end_of_fade_in: 0.363
+energy: 0.0
+key: 2
+key_confidence: 0.264
+loudness: -4.586
+mode: 1
+mode_confidence: 0.339
+release: The Great Polka Swindle
+release_7digitalid: 149290
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (841,)
+segments_loudness_max: shape = (841,)
+segments_loudness_max_time: shape = (841,)
+segments_loudness_start: shape = (841,)
+segments_pitches: shape = (841, 12)
+segments_start: shape = (841,)
+segments_timbre: shape = (841, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMKHES12A8C137EFC
+start_of_fade_out: 193.144
+tatums_confidence: shape = (777,)
+tatums_start: shape = (777,)
+tempo: 118.892
+time_signature: 4
+time_signature_confidence: 1.0
+title: Krause seine Kreuzpolka
+track_7digitalid: 1553308
+track_id: TRASDIH128F425B6CF
+year: 2007

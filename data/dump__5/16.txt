@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 95567
+artist_familiarity: 0.543350012966
+artist_hotttnesss: 0.399265149721
+artist_id: ARXOKNT1187B9AA521
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9ceb4e76-2b49-48a1-96f5-5fca8a0ca6c8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kali
+artist_playmeid: -1
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: dd526e7b8d6f86dc944c92fbb2522700
+bars_confidence: shape = (200,)
+bars_start: shape = (200,)
+beats_confidence: shape = (803,)
+beats_start: shape = (803,)
+danceability: 0.0
+duration: 349.83138
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.034
+loudness: -6.26
+mode: 1
+mode_confidence: 0.264
+release: Requiem EP
+release_7digitalid: 370175
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (2593,)
+segments_loudness_max: shape = (2593,)
+segments_loudness_max_time: shape = (2593,)
+segments_loudness_start: shape = (2593,)
+segments_pitches: shape = (2593, 12)
+segments_start: shape = (2593,)
+segments_timbre: shape = (2593, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJPXLR12AB018378B
+start_of_fade_out: 347.045
+tatums_confidence: shape = (1607,)
+tatums_start: shape = (1607,)
+tempo: 138.048
+time_signature: 4
+time_signature_confidence: 0.304
+title: Ponto
+track_7digitalid: 4121772
+track_id: TRABROW128F9338E5B
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 37779
+artist_familiarity: 0.40029603492
+artist_hotttnesss: 0.391342451875
+artist_id: ARUVPZF1187FB4880D
+artist_latitude: nan
+artist_location: Tennessee
+artist_longitude: nan
+artist_mbid: a174a588-cda4-49cc-8d53-e05e3a42ab4f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Charlie Louvin
+artist_playmeid: 90552
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: e59e4569fc59a07ae231e9976703f491
+bars_confidence: shape = (11,)
+bars_start: shape = (11,)
+beats_confidence: shape = (125,)
+beats_start: shape = (125,)
+danceability: 0.0
+duration: 179.30404
+end_of_fade_in: 0.154
+energy: 0.0
+key: 5
+key_confidence: 0.0
+loudness: -12.986
+mode: 1
+mode_confidence: 0.039
+release: Less And Less And I Don't Love You Anymore
+release_7digitalid: 124881
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (592,)
+segments_loudness_max: shape = (592,)
+segments_loudness_max_time: shape = (592,)
+segments_loudness_start: shape = (592,)
+segments_pitches: shape = (592, 12)
+segments_start: shape = (592,)
+segments_timbre: shape = (592, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.268505681139
+song_id: SOQSEBZ12AB017E984
+start_of_fade_out: 172.96
+tatums_confidence: shape = (497,)
+tatums_start: shape = (497,)
+tempo: 41.874
+time_signature: 4
+time_signature_confidence: 0.0
+title: Just Between The Two Of Us
+track_7digitalid: 1289764
+track_id: TRAYDXA128F42296C6
+year: 0

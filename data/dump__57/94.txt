@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 50661
+artist_familiarity: 0.842577664477
+artist_hotttnesss: 0.514522578266
+artist_id: ARVXV1J1187FB5BF88
+artist_latitude: nan
+artist_location: oxford
+artist_longitude: nan
+artist_mbid: 6a65d878-fcd0-42cf-aff9-ca1d636a8bcc
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Foals
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: f5ababb1f0df490833b9d889f66ceaef
+bars_confidence: shape = (164,)
+bars_start: shape = (164,)
+beats_confidence: shape = (824,)
+beats_start: shape = (824,)
+danceability: 0.0
+duration: 315.27138
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.618
+loudness: -6.611
+mode: 0
+mode_confidence: 0.591
+release: Antidotes
+release_7digitalid: 214092
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1222,)
+segments_loudness_max: shape = (1222,)
+segments_loudness_max_time: shape = (1222,)
+segments_loudness_start: shape = (1222,)
+segments_pitches: shape = (1222, 12)
+segments_start: shape = (1222,)
+segments_timbre: shape = (1222, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.728377176857
+song_id: SOMGPML12A8C13AE8C
+start_of_fade_out: 293.494
+tatums_confidence: shape = (1649,)
+tatums_start: shape = (1649,)
+tempo: 156.917
+time_signature: 5
+time_signature_confidence: 1.0
+title: Red Socks Pugie
+track_7digitalid: 2328472
+track_id: TRATTGW128F427A82D
+year: 2008

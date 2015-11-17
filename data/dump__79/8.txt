@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 106
+artist_familiarity: 0.843526543333
+artist_hotttnesss: 0.750311503248
+artist_id: ARUJ5A41187FB3F5F1
+artist_latitude: nan
+artist_location: Dublin, Ireland
+artist_longitude: nan
+artist_mbid: a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: U2
+artist_playmeid: 1636
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 201fd9de7d21a66785dcb9ca5d6c6e00
+bars_confidence: shape = (245,)
+bars_start: shape = (245,)
+beats_confidence: shape = (985,)
+beats_start: shape = (985,)
+danceability: 0.0
+duration: 406.85669
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.01
+loudness: -8.539
+mode: 1
+mode_confidence: 0.295
+release: Live From Paris
+release_7digitalid: 289719
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1010,)
+segments_loudness_max: shape = (1010,)
+segments_loudness_max_time: shape = (1010,)
+segments_loudness_start: shape = (1010,)
+segments_pitches: shape = (1010, 12)
+segments_start: shape = (1010,)
+segments_timbre: shape = (1010, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIKNYT12A8C134A20
+start_of_fade_out: 385.416
+tatums_confidence: shape = (1970,)
+tatums_start: shape = (1970,)
+tempo: 146.826
+time_signature: 4
+time_signature_confidence: 0.691
+title: 40
+track_7digitalid: 3245932
+track_id: TRBBANR128F4277C5B
+year: 1992

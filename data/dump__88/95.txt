@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 37132
+artist_familiarity: 0.58568314983
+artist_hotttnesss: 0.360445765807
+artist_id: AR78ZID1187B9B31ED
+artist_latitude: 18.11526
+artist_location: Jamaica
+artist_longitude: -77.27348
+artist_mbid: 85fcc6c7-4b54-40dd-bd0e-0df68309acea
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Mikey Dread
+artist_playmeid: -1
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: ff7ba04a2d14cd72c246c0bd73cdff04
+bars_confidence: shape = (150,)
+bars_start: shape = (150,)
+beats_confidence: shape = (603,)
+beats_start: shape = (603,)
+danceability: 0.0
+duration: 261.79873
+end_of_fade_in: 2.717
+energy: 0.0
+key: 0
+key_confidence: 0.192
+loudness: -18.679
+mode: 1
+mode_confidence: 0.397
+release: Mikey Dread Dubwise
+release_7digitalid: 252712
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1062,)
+segments_loudness_max: shape = (1062,)
+segments_loudness_max_time: shape = (1062,)
+segments_loudness_start: shape = (1062,)
+segments_pitches: shape = (1062, 12)
+segments_start: shape = (1062,)
+segments_timbre: shape = (1062, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODMADA12A8C139707
+start_of_fade_out: 245.447
+tatums_confidence: shape = (1207,)
+tatums_start: shape = (1207,)
+tempo: 141.148
+time_signature: 4
+time_signature_confidence: 1.0
+title: Master Mantrol (Dub / Instrumental Reggae Music)
+track_7digitalid: 2830272
+track_id: TRBEPTI128F4266340
+year: 0

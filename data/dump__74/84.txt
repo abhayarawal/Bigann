@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 126701
+artist_familiarity: 0.41091288073
+artist_hotttnesss: 0.312678559631
+artist_id: ARLCGW21187B9929EE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f8b180f7-eca1-43b8-93c1-c2560edcca21
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Juan Carmona
+artist_playmeid: 127077
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 34327f59ef283a7f57f26c25d6e4aa88
+bars_confidence: shape = (237,)
+bars_start: shape = (237,)
+beats_confidence: shape = (952,)
+beats_start: shape = (952,)
+danceability: 0.0
+duration: 369.89342
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.172
+loudness: -8.218
+mode: 1
+mode_confidence: 0.179
+release: Orillas
+release_7digitalid: 684335
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (2130,)
+segments_loudness_max: shape = (2130,)
+segments_loudness_max_time: shape = (2130,)
+segments_loudness_start: shape = (2130,)
+segments_pitches: shape = (2130, 12)
+segments_start: shape = (2130,)
+segments_timbre: shape = (2130, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCAHVE12AC3DFA206
+start_of_fade_out: 364.211
+tatums_confidence: shape = (2858,)
+tatums_start: shape = (2858,)
+tempo: 156.833
+time_signature: 4
+time_signature_confidence: 0.377
+title: Juncales
+track_7digitalid: 7594934
+track_id: TRAZNRY12903CE48D3
+year: 0

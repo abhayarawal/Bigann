@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 163825
+artist_familiarity: 0.587594370673
+artist_hotttnesss: 0.468158756358
+artist_id: ARLF0QY1187FB4FDCC
+artist_latitude: nan
+artist_location: Oxford, England
+artist_longitude: nan
+artist_mbid: d1a0301e-1167-42e8-bf89-c7835e0d3485
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Heavenly
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: b4d4fdd3f02fc284e78a00e03493458d
+bars_confidence: shape = (146,)
+bars_start: shape = (146,)
+beats_confidence: shape = (587,)
+beats_start: shape = (587,)
+danceability: 0.0
+duration: 206.18404
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.202
+loudness: -11.429
+mode: 1
+mode_confidence: 0.348
+release: Heavenly Vs. Satan
+release_7digitalid: 216817
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (731,)
+segments_loudness_max: shape = (731,)
+segments_loudness_max_time: shape = (731,)
+segments_loudness_start: shape = (731,)
+segments_pitches: shape = (731, 12)
+segments_start: shape = (731,)
+segments_timbre: shape = (731, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.433005077275
+song_id: SOAJFUR12A8C13C9CD
+start_of_fade_out: 201.967
+tatums_confidence: shape = (1174,)
+tatums_start: shape = (1174,)
+tempo: 174.395
+time_signature: 4
+time_signature_confidence: 0.0
+title: Over And Over
+track_7digitalid: 2360464
+track_id: TRBDREO128F427F114
+year: 1990

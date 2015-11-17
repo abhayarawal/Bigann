@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4921
+artist_familiarity: 0.547950627959
+artist_hotttnesss: 0.325824019259
+artist_id: AREVQ7D1187FB4371B
+artist_latitude: nan
+artist_location: California - LA
+artist_longitude: nan
+artist_mbid: 289d26e4-8935-4f27-9ddc-fe0ee445d6b7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Randy Stonehill
+artist_playmeid: 17338
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 656c9de4283a10f0a3871f04013256e4
+bars_confidence: shape = (111,)
+bars_start: shape = (111,)
+beats_confidence: shape = (450,)
+beats_start: shape = (450,)
+danceability: 0.0
+duration: 229.90322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.836
+loudness: -11.724
+mode: 1
+mode_confidence: 0.589
+release: Wild Frontier
+release_7digitalid: 666014
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (708,)
+segments_loudness_max: shape = (708,)
+segments_loudness_max_time: shape = (708,)
+segments_loudness_start: shape = (708,)
+segments_pitches: shape = (708, 12)
+segments_start: shape = (708,)
+segments_timbre: shape = (708, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOQBIEB12AB0187D27
+start_of_fade_out: 220.851
+tatums_confidence: shape = (901,)
+tatums_start: shape = (901,)
+tempo: 121.437
+time_signature: 4
+time_signature_confidence: 1.0
+title: Get Together - Album Version
+track_7digitalid: 7379787
+track_id: TRALKVQ12903CB0573
+year: 0

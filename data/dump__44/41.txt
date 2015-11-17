@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1968
+artist_familiarity: 0.647933084094
+artist_hotttnesss: 0.480575192777
+artist_id: AR4PQ891187FB5CA9F
+artist_latitude: 40.76099
+artist_location: East Orange, NJ
+artist_longitude: -74.20991
+artist_mbid: 6784ee31-6d79-4a37-9e1f-01d6ef31940e
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Dionne Warwick
+artist_playmeid: 460
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 91645daecc5e043a98e1bf52a17b1afa
+bars_confidence: shape = (131,)
+bars_start: shape = (131,)
+beats_confidence: shape = (529,)
+beats_start: shape = (529,)
+danceability: 0.0
+duration: 243.85261
+end_of_fade_in: 0.533
+energy: 0.0
+key: 2
+key_confidence: 0.007
+loudness: -12.772
+mode: 1
+mode_confidence: 0.213
+release: Just Being Myself
+release_7digitalid: 57633
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (767,)
+segments_loudness_max: shape = (767,)
+segments_loudness_max_time: shape = (767,)
+segments_loudness_start: shape = (767,)
+segments_pitches: shape = (767, 12)
+segments_start: shape = (767,)
+segments_timbre: shape = (767, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONFKHD12A6D4F8ED6
+start_of_fade_out: 235.294
+tatums_confidence: shape = (1058,)
+tatums_start: shape = (1058,)
+tempo: 130.637
+time_signature: 4
+time_signature_confidence: 0.446
+title: Don't Let My Teardrops Bother You (Album Version)
+track_7digitalid: 600059
+track_id: TRAPEBL128F149E768
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 526664
+artist_familiarity: 0.292268267345
+artist_hotttnesss: 0.249111798005
+artist_id: ARIOJO01187B9B31B1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f1a4d35f-f79f-4a93-9eb0-47f6786804a9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mariachi Silvestre Vargas
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 05b5181e106fd07ae2b19b0f384b6a4b
+bars_confidence: shape = (37,)
+bars_start: shape = (37,)
+beats_confidence: shape = (265,)
+beats_start: shape = (265,)
+danceability: 0.0
+duration: 186.09587
+end_of_fade_in: 0.566
+energy: 0.0
+key: 7
+key_confidence: 0.683
+loudness: -12.881
+mode: 1
+mode_confidence: 0.624
+release: Mexico Gran Colección Ranchera - Mariachi Silvestre Vargas
+release_7digitalid: 715069
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (423,)
+segments_loudness_max: shape = (423,)
+segments_loudness_max_time: shape = (423,)
+segments_loudness_start: shape = (423,)
+segments_pitches: shape = (423, 12)
+segments_start: shape = (423,)
+segments_timbre: shape = (423, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOOWRBQ12AB0189096
+start_of_fade_out: 179.09
+tatums_confidence: shape = (529,)
+tatums_start: shape = (529,)
+tempo: 88.457
+time_signature: 7
+time_signature_confidence: 1.0
+title: Cielito lindo
+track_7digitalid: 7931488
+track_id: TRBAVQR12903CBFAE2
+year: 2006

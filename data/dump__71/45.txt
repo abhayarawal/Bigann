@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 284883
+artist_familiarity: 0.240387119041
+artist_hotttnesss: 0.0
+artist_id: ARPGOAF1187B98F677
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9ce2a18a-3e70-45bd-9de4-2a4f204348ff
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Giorgos Tsalikis
+artist_playmeid: -1
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: d3b3682a0cd30179680294123fc67b8e
+bars_confidence: shape = (217,)
+bars_start: shape = (217,)
+beats_confidence: shape = (217,)
+beats_start: shape = (217,)
+danceability: 0.0
+duration: 78.05342
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.467
+loudness: -5.251
+mode: 1
+mode_confidence: 0.516
+release: Live!
+release_7digitalid: 796038
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (333,)
+segments_loudness_max: shape = (333,)
+segments_loudness_max_time: shape = (333,)
+segments_loudness_start: shape = (333,)
+segments_pitches: shape = (333, 12)
+segments_start: shape = (333,)
+segments_timbre: shape = (333, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLQGKC12AB0187983
+start_of_fade_out: 78.053
+tatums_confidence: shape = (434,)
+tatums_start: shape = (434,)
+tempo: 166.93
+time_signature: 1
+time_signature_confidence: 0.0
+title: Polles Fores
+track_7digitalid: 8806017
+track_id: TRAYLGZ12903CAA1A1
+year: 0

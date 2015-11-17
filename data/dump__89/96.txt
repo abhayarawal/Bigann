@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40992
+artist_familiarity: 0.421892529136
+artist_hotttnesss: 0.238795250935
+artist_id: ARHSMIG1187B99C199
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e7e6ebd6-7c02-4b89-8908-91d62049c83e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: 3 of Hearts
+artist_playmeid: 19580
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 8a970bffa54a5edd7d8c19478f3c2df3
+bars_confidence: shape = (90,)
+bars_start: shape = (90,)
+beats_confidence: shape = (364,)
+beats_start: shape = (364,)
+danceability: 0.0
+duration: 224.07791
+end_of_fade_in: 3.245
+energy: 0.0
+key: 0
+key_confidence: 0.231
+loudness: -8.811
+mode: 0
+mode_confidence: 0.359
+release: 3 Of Hearts
+release_7digitalid: 298783
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (632,)
+segments_loudness_max: shape = (632,)
+segments_loudness_max_time: shape = (632,)
+segments_loudness_start: shape = (632,)
+segments_pitches: shape = (632, 12)
+segments_start: shape = (632,)
+segments_timbre: shape = (632, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAQFSL12A8C13C2C4
+start_of_fade_out: 211.859
+tatums_confidence: shape = (729,)
+tatums_start: shape = (729,)
+tempo: 101.684
+time_signature: 4
+time_signature_confidence: 0.47
+title: Is It Love
+track_7digitalid: 3360499
+track_id: TRBFANX128F42934C3
+year: 2001

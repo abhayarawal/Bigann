@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3423
+artist_familiarity: 0.466897960145
+artist_hotttnesss: 0.320165416046
+artist_id: AR1JGQT1187FB56878
+artist_latitude: 30.23513
+artist_location: Rayne, LA
+artist_longitude: -92.26831
+artist_mbid: cae92fc4-ebf8-4940-badf-d54cc6b8e6d3
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Jo-El Sonnier
+artist_playmeid: 68654
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: fc494cc13ac5c2a78675fbcf7e0be00a
+bars_confidence: shape = (129,)
+bars_start: shape = (129,)
+beats_confidence: shape = (393,)
+beats_start: shape = (393,)
+danceability: 0.0
+duration: 192.67873
+end_of_fade_in: 0.2
+energy: 0.0
+key: 0
+key_confidence: 0.686
+loudness: -10.73
+mode: 1
+mode_confidence: 0.712
+release: Cajun Hymns
+release_7digitalid: 266590
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (533,)
+segments_loudness_max: shape = (533,)
+segments_loudness_max_time: shape = (533,)
+segments_loudness_start: shape = (533,)
+segments_pitches: shape = (533, 12)
+segments_start: shape = (533,)
+segments_timbre: shape = (533, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOLWALE12A8C13F621
+start_of_fade_out: 182.178
+tatums_confidence: shape = (785,)
+tatums_start: shape = (785,)
+tempo: 123.472
+time_signature: 3
+time_signature_confidence: 1.0
+title: Amazing Grace
+track_7digitalid: 2897761
+track_id: TRAYWEU128F427567F
+year: 0

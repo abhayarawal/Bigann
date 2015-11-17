@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 560
+artist_familiarity: 0.82243282937
+artist_hotttnesss: 0.531303318565
+artist_id: ARASYMJ1187B9ACAF2
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: 5dedf5cf-a598-4408-9556-3bf3f149f3ba
+artist_mbtags: shape = (16,)
+artist_mbtags_count: shape = (16,)
+artist_name: Whitesnake
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: c190cf947380b334e606b658bbc83a9c
+bars_confidence: shape = (99,)
+bars_start: shape = (99,)
+beats_confidence: shape = (502,)
+beats_start: shape = (502,)
+danceability: 0.0
+duration: 209.99791
+end_of_fade_in: 0.976
+energy: 0.0
+key: 7
+key_confidence: 0.64
+loudness: -6.186
+mode: 1
+mode_confidence: 0.446
+release: Saints And Sinners
+release_7digitalid: 66818
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (658,)
+segments_loudness_max: shape = (658,)
+segments_loudness_max_time: shape = (658,)
+segments_loudness_start: shape = (658,)
+segments_pitches: shape = (658, 12)
+segments_start: shape = (658,)
+segments_timbre: shape = (658, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.66846625787
+song_id: SOGEBZO12A67ADF488
+start_of_fade_out: 200.899
+tatums_confidence: shape = (1005,)
+tatums_start: shape = (1005,)
+tempo: 145.689
+time_signature: 5
+time_signature_confidence: 0.286
+title: Young Blood (2007 Digital Remaster)
+track_7digitalid: 698012
+track_id: TRACLRV128EF33FAB8
+year: 0

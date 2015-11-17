@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 380731
+artist_familiarity: 0.435448191435
+artist_hotttnesss: 0.291685839904
+artist_id: AR3CLBX1187FB5A307
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c5a57ad4-1f29-43d4-9d7b-f7c2003d36ef
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Richi M.
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 1fccaf4a02089ba659f5b0be58348fb7
+bars_confidence: shape = (190,)
+bars_start: shape = (190,)
+beats_confidence: shape = (765,)
+beats_start: shape = (765,)
+danceability: 0.0
+duration: 350.22322
+end_of_fade_in: 0.34
+energy: 0.0
+key: 7
+key_confidence: 0.184
+loudness: -7.21
+mode: 1
+mode_confidence: 0.332
+release: Popcorn
+release_7digitalid: 519966
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1940,)
+segments_loudness_max: shape = (1940,)
+segments_loudness_max_time: shape = (1940,)
+segments_loudness_start: shape = (1940,)
+segments_pitches: shape = (1940, 12)
+segments_start: shape = (1940,)
+segments_timbre: shape = (1940, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIKIJC12AB01839D1
+start_of_fade_out: 350.223
+tatums_confidence: shape = (1531,)
+tatums_start: shape = (1531,)
+tempo: 131.01
+time_signature: 4
+time_signature_confidence: 0.0
+title: Popcorn
+track_7digitalid: 5752440
+track_id: TRAXAYE128F9354352
+year: 2000

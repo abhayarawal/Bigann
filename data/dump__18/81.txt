@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 131293
+artist_familiarity: 0.282317588288
+artist_hotttnesss: 0.0
+artist_id: ARVA23V1187B98C54A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2d6afdb1-d22a-4f75-a61b-2cd48dbd8151
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Barley Bree
+artist_playmeid: 80790
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: a179798d1fbfccee1b6394adc40df914
+bars_confidence: shape = (135,)
+bars_start: shape = (135,)
+beats_confidence: shape = (544,)
+beats_start: shape = (544,)
+danceability: 0.0
+duration: 279.58812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.575
+loudness: -13.515
+mode: 1
+mode_confidence: 0.753
+release: The Best Of Barley Bree
+release_7digitalid: 597340
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (863,)
+segments_loudness_max: shape = (863,)
+segments_loudness_max_time: shape = (863,)
+segments_loudness_start: shape = (863,)
+segments_pitches: shape = (863, 12)
+segments_start: shape = (863,)
+segments_timbre: shape = (863, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUZONQ12A8C13DE81
+start_of_fade_out: 276.335
+tatums_confidence: shape = (1088,)
+tatums_start: shape = (1088,)
+tempo: 119.017
+time_signature: 4
+time_signature_confidence: 0.902
+title: Flight Of Earls
+track_7digitalid: 6629598
+track_id: TRAGKKN12903CE6B5C
+year: 0

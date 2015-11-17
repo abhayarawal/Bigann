@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 88418
+artist_familiarity: 0.61742140664
+artist_hotttnesss: 0.449253876948
+artist_id: AR7GOK91187FB455F5
+artist_latitude: 48.85692
+artist_location: Paris, France
+artist_longitude: 2.34121
+artist_mbid: 0b3819e6-3fa1-4a50-a84c-f2a62643185d
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Jean-Jacques Goldman
+artist_playmeid: 26966
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 400f6cc3b6592683f44bd338b8a1ee12
+bars_confidence: shape = (1265,)
+bars_start: shape = (1265,)
+beats_confidence: shape = (1265,)
+beats_start: shape = (1265,)
+danceability: 0.0
+duration: 558.44526
+end_of_fade_in: 5.126
+energy: 0.0
+key: 0
+key_confidence: 0.358
+loudness: -10.91
+mode: 1
+mode_confidence: 0.473
+release: Intégrale 81-91
+release_7digitalid: 279664
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1803,)
+segments_loudness_max: shape = (1803,)
+segments_loudness_max_time: shape = (1803,)
+segments_loudness_start: shape = (1803,)
+segments_pitches: shape = (1803, 12)
+segments_start: shape = (1803,)
+segments_timbre: shape = (1803, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOTNVHX12A8AE45CE9
+start_of_fade_out: 545.762
+tatums_confidence: shape = (2529,)
+tatums_start: shape = (2529,)
+tempo: 139.286
+time_signature: 1
+time_signature_confidence: 0.0
+title: Medley : "Traces" (Live)
+track_7digitalid: 3115018
+track_id: TRBHHRZ128F425C477
+year: 0

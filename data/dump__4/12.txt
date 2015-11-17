@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6795
+artist_familiarity: 0.847081688244
+artist_hotttnesss: 0.625080480974
+artist_id: ARZWK2R1187B98F09F
+artist_latitude: nan
+artist_location: Chicago
+artist_longitude: nan
+artist_mbid: 606bf117-494f-4864-891f-09d63ff6aa4b
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Rise Against
+artist_playmeid: 4579
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: c2333cd567ad74d1961bbe6c1ca4f309
+bars_confidence: shape = (133,)
+bars_start: shape = (133,)
+beats_confidence: shape = (536,)
+beats_start: shape = (536,)
+danceability: 0.0
+duration: 260.8322
+end_of_fade_in: 0.242
+energy: 0.0
+key: 11
+key_confidence: 0.156
+loudness: -8.576
+mode: 1
+mode_confidence: 0.298
+release: This Is Noise
+release_7digitalid: 216087
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (773,)
+segments_loudness_max: shape = (773,)
+segments_loudness_max_time: shape = (773,)
+segments_loudness_start: shape = (773,)
+segments_pitches: shape = (773, 12)
+segments_start: shape = (773,)
+segments_timbre: shape = (773, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORZHIP12A8C13EEB8
+start_of_fade_out: 252.755
+tatums_confidence: shape = (1071,)
+tatums_start: shape = (1071,)
+tempo: 122.006
+time_signature: 4
+time_signature_confidence: 0.695
+title: Everchanging
+track_7digitalid: 2351676
+track_id: TRABIQP128F427D0DD
+year: 2001

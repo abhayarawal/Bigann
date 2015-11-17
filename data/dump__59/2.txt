@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 97870
+artist_familiarity: 0.578223523598
+artist_hotttnesss: 0.402203101511
+artist_id: ARDP3WW1187FB3D28C
+artist_latitude: 45.4215
+artist_location: Ottawa, Ontario, Canada
+artist_longitude: -75.69189
+artist_mbid: 7699f64f-9a90-4291-902e-afeeed3e138f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sue Foley
+artist_playmeid: 74854
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: e4430c64580edd74ac54b6b006484e3c
+bars_confidence: shape = (96,)
+bars_start: shape = (96,)
+beats_confidence: shape = (388,)
+beats_start: shape = (388,)
+danceability: 0.0
+duration: 224.65261
+end_of_fade_in: 0.406
+energy: 0.0
+key: 7
+key_confidence: 0.56
+loudness: -6.278
+mode: 1
+mode_confidence: 0.679
+release: Ten Days In November
+release_7digitalid: 597335
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (736,)
+segments_loudness_max: shape = (736,)
+segments_loudness_max_time: shape = (736,)
+segments_loudness_start: shape = (736,)
+segments_pitches: shape = (736, 12)
+segments_start: shape = (736,)
+segments_timbre: shape = (736, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOBRDLW12AC468A908
+start_of_fade_out: 214.43
+tatums_confidence: shape = (775,)
+tatums_start: shape = (775,)
+tempo: 105.21
+time_signature: 4
+time_signature_confidence: 1.0
+title: She Don't Belong To You
+track_7digitalid: 6629525
+track_id: TRAUDHC12903CE6B13
+year: 1998

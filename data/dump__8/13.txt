@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 244557
+artist_familiarity: 0.514414554202
+artist_hotttnesss: 0.413757657252
+artist_id: AR3KXHI1187FB3A8BF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2989f1b7-b1db-40a4-ab9e-a28a3b6d6c45
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dora The Explorer
+artist_playmeid: 24517
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: f7874809c23fed053b639b0e0647ed8b
+bars_confidence: shape = (35,)
+bars_start: shape = (35,)
+beats_confidence: shape = (142,)
+beats_start: shape = (142,)
+danceability: 0.0
+duration: 68.98893
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -6.917
+mode: 1
+mode_confidence: 0.0
+release: Dora The Explorer Party Favorites
+release_7digitalid: 482113
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (393,)
+segments_loudness_max: shape = (393,)
+segments_loudness_max_time: shape = (393,)
+segments_loudness_start: shape = (393,)
+segments_pitches: shape = (393, 12)
+segments_start: shape = (393,)
+segments_timbre: shape = (393, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOGKVQY12AAF3B28D7
+start_of_fade_out: 62.787
+tatums_confidence: shape = (284,)
+tatums_start: shape = (284,)
+tempo: 123.965
+time_signature: 4
+time_signature_confidence: 0.492
+title: Travel Song (Reprise)
+track_7digitalid: 5350044
+track_id: TRACRAR128F92F3B74
+year: 2008

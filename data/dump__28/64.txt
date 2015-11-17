@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17073
+artist_familiarity: 0.418055780892
+artist_hotttnesss: 0.324759318694
+artist_id: ARH5AAF1187B991D23
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: db36efcc-6a79-4f34-a2e8-78d721031bbe
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: June Hutton
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 1b838eb52262f016f8889fcab6974379
+bars_confidence: shape = (24,)
+bars_start: shape = (24,)
+beats_confidence: shape = (198,)
+beats_start: shape = (198,)
+danceability: 0.0
+duration: 138.34404
+end_of_fade_in: 0.902
+energy: 0.0
+key: 11
+key_confidence: 0.101
+loudness: -15.545
+mode: 0
+mode_confidence: 0.409
+release: Songs From 'By The Light Of The Silvery Moon' and Other Selections
+release_7digitalid: 301421
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (261,)
+segments_loudness_max: shape = (261,)
+segments_loudness_max_time: shape = (261,)
+segments_loudness_start: shape = (261,)
+segments_pitches: shape = (261, 12)
+segments_start: shape = (261,)
+segments_timbre: shape = (261, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWSLLQ12A8C13B3A6
+start_of_fade_out: 133.329
+tatums_confidence: shape = (396,)
+tatums_start: shape = (396,)
+tempo: 88.95
+time_signature: 7
+time_signature_confidence: 1.0
+title: For The First Time
+track_7digitalid: 3391939
+track_id: TRAJPTE128F429AEC2
+year: 0

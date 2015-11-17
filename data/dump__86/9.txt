@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5732
+artist_familiarity: 0.934935267398
+artist_hotttnesss: 0.787005468689
+artist_id: ARKSZW81187B9B695D
+artist_latitude: 40.71455
+artist_location: New York, New York
+artist_longitude: -74.00712
+artist_mbid: 494e8d09-f85b-4543-892f-a5096aed1cd4
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Mariah Carey
+artist_playmeid: 1010
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: a9073afd954ce606c2a1136650b009e0
+bars_confidence: shape = (327,)
+bars_start: shape = (327,)
+beats_confidence: shape = (1322,)
+beats_start: shape = (1322,)
+danceability: 0.0
+duration: 652.40771
+end_of_fade_in: 0.258
+energy: 0.0
+key: 2
+key_confidence: 0.508
+loudness: -7.863
+mode: 1
+mode_confidence: 0.499
+release: The Remixes
+release_7digitalid: 290264
+sections_confidence: shape = (22,)
+sections_start: shape = (22,)
+segments_confidence: shape = (3303,)
+segments_loudness_max: shape = (3303,)
+segments_loudness_max_time: shape = (3303,)
+segments_loudness_start: shape = (3303,)
+segments_pitches: shape = (3303, 12)
+segments_start: shape = (3303,)
+segments_timbre: shape = (3303, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOSBQP12A8C1353B6
+start_of_fade_out: 641.091
+tatums_confidence: shape = (2644,)
+tatums_start: shape = (2644,)
+tempo: 121.884
+time_signature: 4
+time_signature_confidence: 1.0
+title: Anytime You Need A Friend
+track_7digitalid: 3263797
+track_id: TRBDOFA128F427C09D
+year: 1993

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7173
+artist_familiarity: 0.39271030279
+artist_hotttnesss: 0.31178940576
+artist_id: ARO6WZY1187FB3A86E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 23f7ad3f-a189-4a1c-9991-4763ded495a7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sonic Subjunkies
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: f73d512a3350b4ea24579f54662ea15b
+bars_confidence: shape = (206,)
+bars_start: shape = (206,)
+beats_confidence: shape = (622,)
+beats_start: shape = (622,)
+danceability: 0.0
+duration: 266.34404
+end_of_fade_in: 0.392
+energy: 0.0
+key: 1
+key_confidence: 0.61
+loudness: -6.31
+mode: 1
+mode_confidence: 0.647
+release: Live At The Suicide Club
+release_7digitalid: 505430
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1098,)
+segments_loudness_max: shape = (1098,)
+segments_loudness_max_time: shape = (1098,)
+segments_loudness_start: shape = (1098,)
+segments_pitches: shape = (1098, 12)
+segments_start: shape = (1098,)
+segments_timbre: shape = (1098, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOOYJKF12AB0183217
+start_of_fade_out: 260.487
+tatums_confidence: shape = (1245,)
+tatums_start: shape = (1245,)
+tempo: 143.267
+time_signature: 3
+time_signature_confidence: 0.973
+title: Djungelstadt
+track_7digitalid: 5592407
+track_id: TRBHEMP128F932DA55
+year: 1994

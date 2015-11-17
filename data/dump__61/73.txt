@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 156185
+artist_familiarity: 0.494252819274
+artist_hotttnesss: 0.371304590234
+artist_id: AR4FE4N1187B99395A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 723927d2-5a23-4678-87cb-5a43a588d822
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Corderoy
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: d577ee523756def2097db7b247ef8d16
+bars_confidence: shape = (291,)
+bars_start: shape = (291,)
+beats_confidence: shape = (1167,)
+beats_start: shape = (1167,)
+danceability: 0.0
+duration: 513.43628
+end_of_fade_in: 4.574
+energy: 0.0
+key: 9
+key_confidence: 0.061
+loudness: -4.003
+mode: 0
+mode_confidence: 0.323
+release: Rock Guitar
+release_7digitalid: 651916
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (2134,)
+segments_loudness_max: shape = (2134,)
+segments_loudness_max_time: shape = (2134,)
+segments_loudness_start: shape = (2134,)
+segments_pitches: shape = (2134, 12)
+segments_start: shape = (2134,)
+segments_timbre: shape = (2134, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORGBYP12AB0182E4F
+start_of_fade_out: 501.017
+tatums_confidence: shape = (2334,)
+tatums_start: shape = (2334,)
+tempo: 137.896
+time_signature: 4
+time_signature_confidence: 0.396
+title: Rock Guitar
+track_7digitalid: 7221913
+track_id: TRAVCKQ128F935BC1E
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 314126
+artist_familiarity: 0.489712436492
+artist_hotttnesss: 0.25109374038
+artist_id: AR74W1A1187FB5ACFC
+artist_latitude: 48.20254
+artist_location: Vienna
+artist_longitude: 16.3688
+artist_mbid: f2e11fac-6d7a-481d-8181-f08f4722ca6c
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Devanic
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 42348fc069c4f1e8ec53ba92206f40f8
+bars_confidence: shape = (121,)
+bars_start: shape = (121,)
+beats_confidence: shape = (487,)
+beats_start: shape = (487,)
+danceability: 0.0
+duration: 336.06485
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.034
+loudness: -7.071
+mode: 1
+mode_confidence: 0.239
+release: Mask Industries
+release_7digitalid: 417438
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1150,)
+segments_loudness_max: shape = (1150,)
+segments_loudness_max_time: shape = (1150,)
+segments_loudness_start: shape = (1150,)
+segments_pitches: shape = (1150, 12)
+segments_start: shape = (1150,)
+segments_timbre: shape = (1150, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSZFJT12AB0181E84
+start_of_fade_out: 326.507
+tatums_confidence: shape = (1461,)
+tatums_start: shape = (1461,)
+tempo: 87.044
+time_signature: 4
+time_signature_confidence: 0.437
+title: I Am
+track_7digitalid: 4642504
+track_id: TRAOVVK128F932E4EF
+year: 2006

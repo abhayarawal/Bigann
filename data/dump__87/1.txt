@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 68006
+artist_familiarity: 0.28422040368
+artist_hotttnesss: 0.305849744336
+artist_id: ARQXGWX11F50C49BC7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5e814d09-9d00-4e43-9a0d-61c73b4ed380
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Manuel & The Music Of The Mountains
+artist_playmeid: 51224
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: 0278fc83d9f1fd3bdb50172023e029d9
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (323,)
+beats_start: shape = (323,)
+danceability: 0.0
+duration: 158.14485
+end_of_fade_in: 0.653
+energy: 0.0
+key: 2
+key_confidence: 0.587
+loudness: -12.948
+mode: 0
+mode_confidence: 0.613
+release: Mountain Fiesta
+release_7digitalid: 23972
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (364,)
+segments_loudness_max: shape = (364,)
+segments_loudness_max_time: shape = (364,)
+segments_loudness_start: shape = (364,)
+segments_pitches: shape = (364, 12)
+segments_start: shape = (364,)
+segments_timbre: shape = (364, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJBTHL12A6D4F7409
+start_of_fade_out: 147.389
+tatums_confidence: shape = (646,)
+tatums_start: shape = (646,)
+tempo: 130.422
+time_signature: 4
+time_signature_confidence: 0.0
+title: Umbrellas Of Cherbourg
+track_7digitalid: 250909
+track_id: TRBDWJW128F145B1C0
+year: 0

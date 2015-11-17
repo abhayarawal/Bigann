@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 97850
+artist_familiarity: 0.62900822586
+artist_hotttnesss: 0.361917926414
+artist_id: ARMFGS71187B98ED03
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b8282669-ab13-40c2-a01e-acbb9cf64981
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Liquid Soul
+artist_playmeid: 139978
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: ea60f30d5e0c34f96b5f2290bebdd0ba
+bars_confidence: shape = (212,)
+bars_start: shape = (212,)
+beats_confidence: shape = (852,)
+beats_start: shape = (852,)
+danceability: 0.0
+duration: 285.28281
+end_of_fade_in: 0.282
+energy: 0.0
+key: 10
+key_confidence: 0.467
+loudness: -9.154
+mode: 0
+mode_confidence: 0.485
+release: Here's The Deal
+release_7digitalid: 620941
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1193,)
+segments_loudness_max: shape = (1193,)
+segments_loudness_max_time: shape = (1193,)
+segments_loudness_start: shape = (1193,)
+segments_pitches: shape = (1193, 12)
+segments_start: shape = (1193,)
+segments_timbre: shape = (1193, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.536378022872
+song_id: SOBEYDE12A8C141417
+start_of_fade_out: 276.126
+tatums_confidence: shape = (1703,)
+tatums_start: shape = (1703,)
+tempo: 183.836
+time_signature: 4
+time_signature_confidence: 0.0
+title: Dysfunction
+track_7digitalid: 6897545
+track_id: TRANXOR128F930CE22
+year: 2000

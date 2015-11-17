@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30101
+artist_familiarity: 0.477364752484
+artist_hotttnesss: 0.337507289166
+artist_id: ARCCRTI11F4C845308
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: White Heart
+artist_playmeid: 86428
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: b16819aa22ca8de52d4a72828380a205
+bars_confidence: shape = (114,)
+bars_start: shape = (114,)
+beats_confidence: shape = (459,)
+beats_start: shape = (459,)
+danceability: 0.0
+duration: 221.20444
+end_of_fade_in: 0.38
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -10.383
+mode: 1
+mode_confidence: 0.223
+release: Whiteheart
+release_7digitalid: 80491
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (787,)
+segments_loudness_max: shape = (787,)
+segments_loudness_max_time: shape = (787,)
+segments_loudness_start: shape = (787,)
+segments_pitches: shape = (787, 12)
+segments_start: shape = (787,)
+segments_timbre: shape = (787, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.427446571488
+song_id: SOAXZLM12A6D4F7A95
+start_of_fade_out: 206.007
+tatums_confidence: shape = (918,)
+tatums_start: shape = (918,)
+tempo: 125.881
+time_signature: 4
+time_signature_confidence: 0.0
+title: Hold On
+track_7digitalid: 851752
+track_id: TRAKGTS128EF35CBD5
+year: 0

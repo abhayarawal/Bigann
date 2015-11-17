@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 27920
+artist_familiarity: 0.852136186667
+artist_hotttnesss: 0.780334119573
+artist_id: ART5MUE1187B98C961
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: 65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab
+artist_mbtags: shape = (17,)
+artist_mbtags_count: shape = (17,)
+artist_name: Metallica
+artist_playmeid: 1073
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 4ee44f6e0dbe1ba75ca8e4c02daeb3a8
+bars_confidence: shape = (216,)
+bars_start: shape = (216,)
+beats_confidence: shape = (872,)
+beats_start: shape = (872,)
+danceability: 0.0
+duration: 472.45016
+end_of_fade_in: 3.32
+energy: 0.0
+key: 3
+key_confidence: 0.838
+loudness: -3.258
+mode: 1
+mode_confidence: 0.645
+release: Broken_ Beat & Scarred
+release_7digitalid: 411463
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1333,)
+segments_loudness_max: shape = (1333,)
+segments_loudness_max_time: shape = (1333,)
+segments_loudness_start: shape = (1333,)
+segments_pitches: shape = (1333, 12)
+segments_start: shape = (1333,)
+segments_timbre: shape = (1333, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFCNRE12AB01864E3
+start_of_fade_out: 461.926
+tatums_confidence: shape = (1744,)
+tatums_start: shape = (1744,)
+tempo: 111.504
+time_signature: 4
+time_signature_confidence: 0.513
+title: The End Of The Line
+track_7digitalid: 4575102
+track_id: TRADFII128F931FC9F
+year: 2008

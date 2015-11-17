@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 83542
+artist_familiarity: 0.698977345836
+artist_hotttnesss: 0.394107804197
+artist_id: ARQEPTZ1187FB4CD36
+artist_latitude: nan
+artist_location: US
+artist_longitude: nan
+artist_mbid: 93b34a61-0487-45f5-887d-0f6fe81e6c71
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Toby Love
+artist_playmeid: 8295
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: be584b8421d134443135c965643cc57c
+bars_confidence: shape = (303,)
+bars_start: shape = (303,)
+beats_confidence: shape = (303,)
+beats_start: shape = (303,)
+danceability: 0.0
+duration: 202.26567
+end_of_fade_in: 0.184
+energy: 0.0
+key: 9
+key_confidence: 0.457
+loudness: -3.723
+mode: 0
+mode_confidence: 0.472
+release: Love Is Back
+release_7digitalid: 509820
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (873,)
+segments_loudness_max: shape = (873,)
+segments_loudness_max_time: shape = (873,)
+segments_loudness_start: shape = (873,)
+segments_pitches: shape = (873, 12)
+segments_start: shape = (873,)
+segments_timbre: shape = (873, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOJMCCN12AB0185039
+start_of_fade_out: 195.558
+tatums_confidence: shape = (909,)
+tatums_start: shape = (909,)
+tempo: 90.681
+time_signature: 1
+time_signature_confidence: 0.808
+title: Happy Valentine's
+track_7digitalid: 5647748
+track_id: TRBCSSP128F933B1D2
+year: 0

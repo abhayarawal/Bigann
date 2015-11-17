@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 170931
+artist_familiarity: 0.36685815093
+artist_hotttnesss: 0.355320262173
+artist_id: ARWWPKQ11F4C83D8E2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Baby Rasta & Gringo
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: c71a342e08de939da77bad136eaf03a0
+bars_confidence: shape = (134,)
+bars_start: shape = (134,)
+beats_confidence: shape = (672,)
+beats_start: shape = (672,)
+danceability: 0.0
+duration: 219.42812
+end_of_fade_in: 0.09
+energy: 0.0
+key: 1
+key_confidence: 0.67
+loudness: -5.65
+mode: 0
+mode_confidence: 0.754
+release: Reggeaton Unplugged
+release_7digitalid: 716817
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1033,)
+segments_loudness_max: shape = (1033,)
+segments_loudness_max_time: shape = (1033,)
+segments_loudness_start: shape = (1033,)
+segments_pitches: shape = (1033, 12)
+segments_start: shape = (1033,)
+segments_timbre: shape = (1033, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIHELV12AB018684B
+start_of_fade_out: 213.809
+tatums_confidence: shape = (1345,)
+tatums_start: shape = (1345,)
+tempo: 187.944
+time_signature: 5
+time_signature_confidence: 0.697
+title: Avisame
+track_7digitalid: 7950498
+track_id: TRAWYDB12903CC4519
+year: 0

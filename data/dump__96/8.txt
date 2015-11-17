@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 78739
+artist_familiarity: 0.64602134277
+artist_hotttnesss: 0.40880107252
+artist_id: AR4CH531187FB4EA21
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 128fba8e-a03a-444a-8a79-c99b31cda0ea
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Abysmal Dawn
+artist_playmeid: 44768
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: c06745ca6280f56be4167ba8617ca84d
+bars_confidence: shape = (554,)
+bars_start: shape = (554,)
+beats_confidence: shape = (554,)
+beats_start: shape = (554,)
+danceability: 0.0
+duration: 261.43302
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.271
+loudness: -6.405
+mode: 1
+mode_confidence: 0.357
+release: Programmed to Consume
+release_7digitalid: 237545
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1111,)
+segments_loudness_max: shape = (1111,)
+segments_loudness_max_time: shape = (1111,)
+segments_loudness_start: shape = (1111,)
+segments_pitches: shape = (1111, 12)
+segments_start: shape = (1111,)
+segments_timbre: shape = (1111, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.540493129382
+song_id: SODRVWF12A58A7DB20
+start_of_fade_out: 258.328
+tatums_confidence: shape = (1107,)
+tatums_start: shape = (1107,)
+tempo: 126.428
+time_signature: 1
+time_signature_confidence: 0.0
+title: Programmed to Consume
+track_7digitalid: 2606973
+track_id: TRBHDGL128F42324A7
+year: 2008

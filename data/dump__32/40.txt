@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17263
+artist_familiarity: 0.691800849769
+artist_hotttnesss: 0.501597042323
+artist_id: AR01VU31187B997DA0
+artist_latitude: 43.0026
+artist_location: Flint, MI
+artist_longitude: -83.7826
+artist_mbid: 103241b0-6adf-4b4f-9cff-5c87459f61a4
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Grand Funk
+artist_playmeid: 6015
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 76625854620073c499dc296f10bb655c
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (415,)
+beats_start: shape = (415,)
+danceability: 0.0
+duration: 217.73016
+end_of_fade_in: 0.241
+energy: 0.0
+key: 2
+key_confidence: 0.697
+loudness: -5.791
+mode: 1
+mode_confidence: 0.691
+release: Shinin' On (2002 Digital Remaster)
+release_7digitalid: 160397
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (643,)
+segments_loudness_max: shape = (643,)
+segments_loudness_max_time: shape = (643,)
+segments_loudness_start: shape = (643,)
+segments_pitches: shape = (643, 12)
+segments_start: shape = (643,)
+segments_timbre: shape = (643, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOJFJVJ12A8C139F83
+start_of_fade_out: 205.793
+tatums_confidence: shape = (830,)
+tatums_start: shape = (830,)
+tempo: 114.934
+time_signature: 4
+time_signature_confidence: 0.838
+title: Please Me (24-Bit Digitally Remastered 02)
+track_7digitalid: 1688435
+track_id: TRAKZMB128F427B44F
+year: 0

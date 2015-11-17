@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 60488
+artist_familiarity: 0.360031166464
+artist_hotttnesss: 0.296268954311
+artist_id: ARGSJW91187B9B1D6B
+artist_latitude: 35.21962
+artist_location: North Carolina
+artist_longitude: -80.01955
+artist_mbid: eb722df4-372e-4742-8586-f7ff658012d6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: JennyAnyKind
+artist_playmeid: -1
+artist_terms: shape = (51,)
+artist_terms_freq: shape = (51,)
+artist_terms_weight: shape = (51,)
+audio_md5: 1d51234a3c832678e5afae1186b79ce5
+bars_confidence: shape = (156,)
+bars_start: shape = (156,)
+beats_confidence: shape = (629,)
+beats_start: shape = (629,)
+danceability: 0.0
+duration: 224.80934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.772
+loudness: -10.824
+mode: 0
+mode_confidence: 0.649
+release: I Need You
+release_7digitalid: 539081
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (984,)
+segments_loudness_max: shape = (984,)
+segments_loudness_max_time: shape = (984,)
+segments_loudness_start: shape = (984,)
+segments_pitches: shape = (984, 12)
+segments_start: shape = (984,)
+segments_timbre: shape = (984, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYRIEN12AB0184D7B
+start_of_fade_out: 212.526
+tatums_confidence: shape = (1259,)
+tatums_start: shape = (1259,)
+tempo: 169.991
+time_signature: 4
+time_signature_confidence: 0.231
+title: In A Village Square
+track_7digitalid: 5968014
+track_id: TRALMJZ128F9313421
+year: 0

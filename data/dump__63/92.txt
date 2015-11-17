@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4268
+artist_familiarity: 0.575986600525
+artist_hotttnesss: 0.406367592935
+artist_id: ARBX0VO1187B98A412
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a8ad585a-2776-4531-a1cc-93b9a3c9d43b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Zebra
+artist_playmeid: 12899
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 567b1f1acb7977d0b6d5540bd5d66f20
+bars_confidence: shape = (75,)
+bars_start: shape = (75,)
+beats_confidence: shape = (303,)
+beats_start: shape = (303,)
+danceability: 0.0
+duration: 205.11302
+end_of_fade_in: 0.156
+energy: 0.0
+key: 11
+key_confidence: 0.491
+loudness: -8.189
+mode: 1
+mode_confidence: 0.62
+release: Strictly The Best Vol. 23
+release_7digitalid: 186254
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (948,)
+segments_loudness_max: shape = (948,)
+segments_loudness_max_time: shape = (948,)
+segments_loudness_start: shape = (948,)
+segments_pitches: shape = (948, 12)
+segments_start: shape = (948,)
+segments_timbre: shape = (948, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOTRAIA12A8AE47465
+start_of_fade_out: 190.694
+tatums_confidence: shape = (1211,)
+tatums_start: shape = (1211,)
+tempo: 90.07
+time_signature: 4
+time_signature_confidence: 1.0
+title: Red
+track_7digitalid: 2018287
+track_id: TRAVWVZ128F4239DD1
+year: 1999

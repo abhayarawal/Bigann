@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 131684
+artist_familiarity: 0.317391380089
+artist_hotttnesss: 0.345284772988
+artist_id: ARGAWJY11F50C50904
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jane Winther
+artist_playmeid: 50989
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 4e1cc8e3e39be488e70b46670ec224b1
+bars_confidence: shape = (62,)
+bars_start: shape = (62,)
+beats_confidence: shape = (62,)
+beats_start: shape = (62,)
+danceability: 0.0
+duration: 145.68444
+end_of_fade_in: 0.56
+energy: 0.0
+key: 8
+key_confidence: 0.527
+loudness: -16.051
+mode: 1
+mode_confidence: 0.553
+release: Prayer
+release_7digitalid: 346332
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (225,)
+segments_loudness_max: shape = (225,)
+segments_loudness_max_time: shape = (225,)
+segments_loudness_start: shape = (225,)
+segments_pitches: shape = (225, 12)
+segments_start: shape = (225,)
+segments_timbre: shape = (225, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWMUXA12AB01840EC
+start_of_fade_out: 130.74
+tatums_confidence: shape = (122,)
+tatums_start: shape = (122,)
+tempo: 27.163
+time_signature: 1
+time_signature_confidence: 0.0
+title: The Lords Prayer
+track_7digitalid: 3883266
+track_id: TRABPCJ128F930903D
+year: 0

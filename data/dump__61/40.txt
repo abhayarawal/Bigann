@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 61142
+artist_familiarity: 0.773736294381
+artist_hotttnesss: 0.524467224072
+artist_id: ARZXLZD11E2835CEA7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7e54e412-bb31-481c-9a5b-cd5ba7199f46
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jason Michael Carroll
+artist_playmeid: 7079
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 6f85c131d0b669fe4aacd5f24aa9bd27
+bars_confidence: shape = (79,)
+bars_start: shape = (79,)
+beats_confidence: shape = (320,)
+beats_start: shape = (320,)
+danceability: 0.0
+duration: 229.8771
+end_of_fade_in: 0.136
+energy: 0.0
+key: 2
+key_confidence: 0.465
+loudness: -3.662
+mode: 1
+mode_confidence: 0.479
+release: Waitin' In The Country
+release_7digitalid: 310772
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (644,)
+segments_loudness_max: shape = (644,)
+segments_loudness_max_time: shape = (644,)
+segments_loudness_start: shape = (644,)
+segments_pitches: shape = (644, 12)
+segments_start: shape = (644,)
+segments_timbre: shape = (644, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.490904200542
+song_id: SONMZBU12A58A7D2D3
+start_of_fade_out: 219.347
+tatums_confidence: shape = (1281,)
+tatums_start: shape = (1281,)
+tempo: 87.712
+time_signature: 4
+time_signature_confidence: 0.618
+title: No Good In Goodbye
+track_7digitalid: 3532502
+track_id: TRAUZFY128F42BCE57
+year: 2007

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 582
+artist_familiarity: 0.85107300895
+artist_hotttnesss: 0.590449276812
+artist_id: AROBHK51187B9AD82B
+artist_latitude: nan
+artist_location: Wales
+artist_longitude: nan
+artist_mbid: 199d0ab3-22c0-4c00-b99d-257f591dda1f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Funeral For A Friend
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 00ed922ffb65aec7be6aaa48f70fcf6a
+bars_confidence: shape = (169,)
+bars_start: shape = (169,)
+beats_confidence: shape = (680,)
+beats_start: shape = (680,)
+danceability: 0.0
+duration: 217.49506
+end_of_fade_in: 4.18
+energy: 0.0
+key: 3
+key_confidence: 0.0
+loudness: -3.624
+mode: 0
+mode_confidence: 0.22
+release: Hours
+release_7digitalid: 16694
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (729,)
+segments_loudness_max: shape = (729,)
+segments_loudness_max_time: shape = (729,)
+segments_loudness_start: shape = (729,)
+segments_pitches: shape = (729, 12)
+segments_start: shape = (729,)
+segments_timbre: shape = (729, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOLQRVZ12A67ADAD17
+start_of_fade_out: 214.198
+tatums_confidence: shape = (1360,)
+tatums_start: shape = (1360,)
+tempo: 190.116
+time_signature: 4
+time_signature_confidence: 0.0
+title: All The Rage (Clean Album Version)
+track_7digitalid: 178366
+track_id: TRAVPGQ128E079530E
+year: 2005

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9766
+artist_familiarity: 0.426882762347
+artist_hotttnesss: 0.333303418273
+artist_id: ARBB58Y1187B9B621B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1c701b15-54f5-4de2-8e17-1a9e3b167a6b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bill & Gloria Gaither
+artist_playmeid: 61305
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 0b9ea2391dee6e56ddb14c1f5cd7e5aa
+bars_confidence: shape = (161,)
+bars_start: shape = (161,)
+beats_confidence: shape = (161,)
+beats_start: shape = (161,)
+danceability: 0.0
+duration: 199.02649
+end_of_fade_in: 3.756
+energy: 0.0
+key: 0
+key_confidence: 0.956
+loudness: -15.516
+mode: 1
+mode_confidence: 0.68
+release: Homecoming Hymns
+release_7digitalid: 143822
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (350,)
+segments_loudness_max: shape = (350,)
+segments_loudness_max_time: shape = (350,)
+segments_loudness_start: shape = (350,)
+segments_pitches: shape = (350, 12)
+segments_start: shape = (350,)
+segments_timbre: shape = (350, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.261300285205
+song_id: SOIPXAK12A8C133A08
+start_of_fade_out: 185.87
+tatums_confidence: shape = (324,)
+tatums_start: shape = (324,)
+tempo: 50.066
+time_signature: 1
+time_signature_confidence: 0.0
+title: God Lead Us Along (Homecoming Hymns Version)
+track_7digitalid: 1500652
+track_id: TRANYOK128F424ECC5
+year: 0

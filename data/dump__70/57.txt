@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23355
+artist_familiarity: 0.682320611152
+artist_hotttnesss: 0.433126587562
+artist_id: ARHP6H31187FB4A38C
+artist_latitude: 27.9758
+artist_location: Florida
+artist_longitude: -81.54106
+artist_mbid: 138dd95b-9311-416e-bcdd-a80067289de6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ Icey
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 1e64aa3d890f1af1765f5091c589396c
+bars_confidence: shape = (801,)
+bars_start: shape = (801,)
+beats_confidence: shape = (801,)
+beats_start: shape = (801,)
+danceability: 0.0
+duration: 356.41424
+end_of_fade_in: 0.369
+energy: 0.0
+key: 0
+key_confidence: 0.768
+loudness: -7.36
+mode: 1
+mode_confidence: 0.564
+release: A Little Louder
+release_7digitalid: 725530
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1362,)
+segments_loudness_max: shape = (1362,)
+segments_loudness_max_time: shape = (1362,)
+segments_loudness_start: shape = (1362,)
+segments_pitches: shape = (1362, 12)
+segments_start: shape = (1362,)
+segments_timbre: shape = (1362, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAHRLX12A58A7C372
+start_of_fade_out: 338.541
+tatums_confidence: shape = (1603,)
+tatums_start: shape = (1603,)
+tempo: 135.99
+time_signature: 1
+time_signature_confidence: 0.0
+title: A Little Louder
+track_7digitalid: 8040511
+track_id: TRAYDTH12903CDA34B
+year: 2003

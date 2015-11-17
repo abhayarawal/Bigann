@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30491
+artist_familiarity: 0.873627174335
+artist_hotttnesss: 0.560205546389
+artist_id: ARMRCET1187FB52049
+artist_latitude: 33.99363
+artist_location: Hacienda Heights, CA
+artist_longitude: -117.97092
+artist_mbid: 4f9675d2-f6d5-486c-9b26-33dcca998500
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Fergie
+artist_playmeid: 4755
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 8ee410c691034f929c474504ba023226
+bars_confidence: shape = (232,)
+bars_start: shape = (232,)
+beats_confidence: shape = (930,)
+beats_start: shape = (930,)
+danceability: 0.0
+duration: 440.18893
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.538
+loudness: -10.441
+mode: 0
+mode_confidence: 0.526
+release: Remixed at 16:05
+release_7digitalid: 701666
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (2784,)
+segments_loudness_max: shape = (2784,)
+segments_loudness_max_time: shape = (2784,)
+segments_loudness_start: shape = (2784,)
+segments_pitches: shape = (2784, 12)
+segments_start: shape = (2784,)
+segments_timbre: shape = (2784, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORTGDS12A8C143188
+start_of_fade_out: 407.545
+tatums_confidence: shape = (1860,)
+tatums_start: shape = (1860,)
+tempo: 126.966
+time_signature: 4
+time_signature_confidence: 0.0
+title: Exit People
+track_7digitalid: 7784765
+track_id: TRBEHKV128F92F93DF
+year: 0

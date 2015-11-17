@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 176599
+artist_familiarity: 0.505847110537
+artist_hotttnesss: 0.383010327837
+artist_id: AR4W9EZ1187B99282A
+artist_latitude: 29.95369
+artist_location: New Orleans, LA
+artist_longitude: -90.07771
+artist_mbid: adf3d1c6-6a7d-446c-b191-28bac7a2ee4a
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Kenny Neal
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: c19cfa61fec4d78e2ad1c1195a4a1aa0
+bars_confidence: shape = (79,)
+bars_start: shape = (79,)
+beats_confidence: shape = (320,)
+beats_start: shape = (320,)
+danceability: 0.0
+duration: 180.61016
+end_of_fade_in: 0.189
+energy: 0.0
+key: 4
+key_confidence: 0.565
+loudness: -14.422
+mode: 1
+mode_confidence: 0.385
+release: Blues Fallin' Down Like Rain
+release_7digitalid: 602191
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (851,)
+segments_loudness_max: shape = (851,)
+segments_loudness_max_time: shape = (851,)
+segments_loudness_start: shape = (851,)
+segments_pitches: shape = (851, 12)
+segments_start: shape = (851,)
+segments_timbre: shape = (851, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVJQYF12AB0185B36
+start_of_fade_out: 168.118
+tatums_confidence: shape = (1282,)
+tatums_start: shape = (1282,)
+tempo: 107.008
+time_signature: 4
+time_signature_confidence: 0.366
+title: Strike While the Iron is Hot
+track_7digitalid: 6685984
+track_id: TRARVTN12903CF4724
+year: 0

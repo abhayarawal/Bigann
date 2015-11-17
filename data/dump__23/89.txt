@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 101173
+artist_familiarity: 0.377190202702
+artist_hotttnesss: 0.290242069993
+artist_id: ARVF2AD1187FB47580
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fd711779-5524-4ed3-8d68-da0b867caa34
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Rev. Timothy Wright
+artist_playmeid: 115336
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 8d11136dbb7fd402e1f16f5a48833257
+bars_confidence: shape = (209,)
+bars_start: shape = (209,)
+beats_confidence: shape = (839,)
+beats_start: shape = (839,)
+danceability: 0.0
+duration: 244.74077
+end_of_fade_in: 0.322
+energy: 0.0
+key: 1
+key_confidence: 0.632
+loudness: -6.094
+mode: 1
+mode_confidence: 0.694
+release: Who's On The Lord's Side "Live
+release_7digitalid: 242490
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (886,)
+segments_loudness_max: shape = (886,)
+segments_loudness_max_time: shape = (886,)
+segments_loudness_start: shape = (886,)
+segments_pitches: shape = (886, 12)
+segments_start: shape = (886,)
+segments_timbre: shape = (886, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVTPTM12A8C1323B0
+start_of_fade_out: 235.526
+tatums_confidence: shape = (1677,)
+tatums_start: shape = (1677,)
+tempo: 208.51
+time_signature: 4
+time_signature_confidence: 0.406
+title: I Know A Man
+track_7digitalid: 2644601
+track_id: TRAIAQH128F423B794
+year: 0

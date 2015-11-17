@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4802
+artist_familiarity: 0.826513628554
+artist_hotttnesss: 0.628228387313
+artist_id: ARSF0K11187B9AF319
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: c5a69f1d-f4fc-42b1-9e99-5b3cd35406fa
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: James Taylor
+artist_playmeid: 2968
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: d430393577d2b0e74d56939176a738ae
+bars_confidence: shape = (124,)
+bars_start: shape = (124,)
+beats_confidence: shape = (499,)
+beats_start: shape = (499,)
+danceability: 0.0
+duration: 280.81587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.508
+loudness: -12.346
+mode: 0
+mode_confidence: 0.447
+release: New Moon Shine
+release_7digitalid: 282022
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (953,)
+segments_loudness_max: shape = (953,)
+segments_loudness_max_time: shape = (953,)
+segments_loudness_start: shape = (953,)
+segments_pitches: shape = (953, 12)
+segments_start: shape = (953,)
+segments_timbre: shape = (953, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.407233014901
+song_id: SOXPVJS12A8C1326A8
+start_of_fade_out: 262.246
+tatums_confidence: shape = (999,)
+tatums_start: shape = (999,)
+tempo: 108.047
+time_signature: 4
+time_signature_confidence: 0.0
+title: One More Go Round
+track_7digitalid: 3151840
+track_id: TRAGQBY128F42635B7
+year: 0

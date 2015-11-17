@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3117
+artist_familiarity: 0.856448923652
+artist_hotttnesss: 0.854637828218
+artist_id: ARPDVPJ1187B9ADBE9
+artist_latitude: nan
+artist_location: Atlanta, GA
+artist_longitude: nan
+artist_mbid: 3414d446-735a-443c-931f-10634f57e5b9
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Usher
+artist_playmeid: 1646
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 70991d401b3b2634b29a95f50b8dcd4f
+bars_confidence: shape = (175,)
+bars_start: shape = (175,)
+beats_confidence: shape = (705,)
+beats_start: shape = (705,)
+danceability: 0.0
+duration: 286.77179
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.322
+loudness: -4.04
+mode: 0
+mode_confidence: 0.324
+release: Dance Workout Classics; Keep Fit With The Hottest Hits & Remixes
+release_7digitalid: 611118
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1333,)
+segments_loudness_max: shape = (1333,)
+segments_loudness_max_time: shape = (1333,)
+segments_loudness_start: shape = (1333,)
+segments_pitches: shape = (1333, 12)
+segments_start: shape = (1333,)
+segments_timbre: shape = (1333, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUVKXW12A8C1427AC
+start_of_fade_out: 286.772
+tatums_confidence: shape = (1409,)
+tatums_start: shape = (1409,)
+tempo: 147.979
+time_signature: 4
+time_signature_confidence: 0.0
+title: Trading Places
+track_7digitalid: 6795948
+track_id: TRAJRIT128F92F4352
+year: 2008

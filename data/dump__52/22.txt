@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 273042
+artist_familiarity: 0.453444930749
+artist_hotttnesss: 0.311617484932
+artist_id: ARCQ3LZ1187FB49B42
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 45d921dd-aaf9-4f72-9a8c-101ec24b9186
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Koffi Olomidé
+artist_playmeid: -1
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 6ed22a02ed3c63a241b044819049698b
+bars_confidence: shape = (183,)
+bars_start: shape = (183,)
+beats_confidence: shape = (927,)
+beats_start: shape = (927,)
+danceability: 0.0
+duration: 625.78893
+end_of_fade_in: 0.343
+energy: 0.0
+key: 0
+key_confidence: 0.66
+loudness: -7.164
+mode: 1
+mode_confidence: 0.585
+release: Les incontournables du Congo
+release_7digitalid: 353224
+sections_confidence: shape = (21,)
+sections_start: shape = (21,)
+segments_confidence: shape = (2690,)
+segments_loudness_max: shape = (2690,)
+segments_loudness_max_time: shape = (2690,)
+segments_loudness_start: shape = (2690,)
+segments_pitches: shape = (2690, 12)
+segments_start: shape = (2690,)
+segments_timbre: shape = (2690, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVPBXO12AB0188671
+start_of_fade_out: 613.837
+tatums_confidence: shape = (2783,)
+tatums_start: shape = (2783,)
+tempo: 89.572
+time_signature: 5
+time_signature_confidence: 0.7
+title: Bennie
+track_7digitalid: 3950907
+track_id: TRARUYJ128F9316C65
+year: 0

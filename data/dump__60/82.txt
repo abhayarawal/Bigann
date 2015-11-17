@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13132
+artist_familiarity: 0.638614022451
+artist_hotttnesss: 0.601436482837
+artist_id: AR4L4WQ1187FB51996
+artist_latitude: nan
+artist_location: Braintree, Essex, England
+artist_longitude: nan
+artist_mbid: 4a4ee089-93b1-4470-af9a-6ff575d32704
+artist_mbtags: shape = (20,)
+artist_mbtags_count: shape = (20,)
+artist_name: The Prodigy
+artist_playmeid: 40163
+artist_terms: shape = (57,)
+artist_terms_freq: shape = (57,)
+artist_terms_weight: shape = (57,)
+audio_md5: 770743fc2dccf0ea08ae6810f55c641b
+bars_confidence: shape = (99,)
+bars_start: shape = (99,)
+beats_confidence: shape = (503,)
+beats_start: shape = (503,)
+danceability: 0.0
+duration: 312.86812
+end_of_fade_in: 3.361
+energy: 0.0
+key: 1
+key_confidence: 0.315
+loudness: -6.361
+mode: 1
+mode_confidence: 0.565
+release: Experience: Expanded (Remastered)
+release_7digitalid: 279573
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1590,)
+segments_loudness_max: shape = (1590,)
+segments_loudness_max_time: shape = (1590,)
+segments_loudness_start: shape = (1590,)
+segments_pitches: shape = (1590, 12)
+segments_start: shape = (1590,)
+segments_timbre: shape = (1590, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.633130699795
+song_id: SOASNQV12A8AE48819
+start_of_fade_out: 308.785
+tatums_confidence: shape = (1509,)
+tatums_start: shape = (1509,)
+tempo: 96.732
+time_signature: 5
+time_signature_confidence: 1.0
+title: Charly (Trip Into Drum And Bass Version) (Remastered)
+track_7digitalid: 3113342
+track_id: TRAUTTP128F425BDEB
+year: 0

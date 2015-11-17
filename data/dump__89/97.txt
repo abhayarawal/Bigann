@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21192
+artist_familiarity: 0.613464932135
+artist_hotttnesss: 0.412115553459
+artist_id: ARQ3VBJ1187FB3FE55
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9af7a998-33f9-4900-9396-9b5e1862298d
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Dario Marianelli
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 0e26169b56db54d8d0e3d8e096bcde65
+bars_confidence: shape = (62,)
+bars_start: shape = (62,)
+beats_confidence: shape = (62,)
+beats_start: shape = (62,)
+danceability: 0.0
+duration: 70.05995
+end_of_fade_in: 0.655
+energy: 0.0
+key: 9
+key_confidence: 0.253
+loudness: -24.651
+mode: 1
+mode_confidence: 0.306
+release: The Soloist
+release_7digitalid: 539442
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (85,)
+segments_loudness_max: shape = (85,)
+segments_loudness_max_time: shape = (85,)
+segments_loudness_start: shape = (85,)
+segments_pitches: shape = (85, 12)
+segments_start: shape = (85,)
+segments_timbre: shape = (85, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.456949543537
+song_id: SONGHHF12AB0182BBA
+start_of_fade_out: 60.749
+tatums_confidence: shape = (62,)
+tatums_start: shape = (62,)
+tempo: 60.404
+time_signature: 1
+time_signature_confidence: 0.0
+title: Falling Apart
+track_7digitalid: 5970129
+track_id: TRBFAON128F9313C62
+year: 2009

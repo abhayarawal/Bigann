@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5172
+artist_familiarity: 0.672680592884
+artist_hotttnesss: 0.476389108826
+artist_id: ARGBR4I1187B99D073
+artist_latitude: 47.60356
+artist_location: Seattle, WA
+artist_longitude: -122.32944
+artist_mbid: e675295a-1efe-4247-aa3b-53b78d0cdffc
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Mudhoney
+artist_playmeid: 11301
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 8e012f267209e4cf253096dfe5b825ca
+bars_confidence: shape = (40,)
+bars_start: shape = (40,)
+beats_confidence: shape = (225,)
+beats_start: shape = (225,)
+danceability: 0.0
+duration: 166.32118
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.303
+loudness: -5.13
+mode: 0
+mode_confidence: 0.337
+release: Live At El Sol
+release_7digitalid: 632110
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (356,)
+segments_loudness_max: shape = (356,)
+segments_loudness_max_time: shape = (356,)
+segments_loudness_start: shape = (356,)
+segments_pitches: shape = (356, 12)
+segments_start: shape = (356,)
+segments_timbre: shape = (356, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.637311276401
+song_id: SOFYIDZ12AB0180A2B
+start_of_fade_out: 158.662
+tatums_confidence: shape = (451,)
+tatums_start: shape = (451,)
+tempo: 81.419
+time_signature: 4
+time_signature_confidence: 0.025
+title: The Money Will Roll Right In
+track_7digitalid: 7016765
+track_id: TRAVRJA128F9329C4C
+year: 1991

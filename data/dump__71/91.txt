@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 144739
+artist_familiarity: 0.727030782206
+artist_hotttnesss: 0.530321954827
+artist_id: ARZ33PH1187FB52F58
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ddd4c4bc-a4ae-4946-b59c-a86aea7fa4f0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kat Deluna / Akon
+artist_playmeid: 8307
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 50c74912ef484a5e38ef48c360612cc7
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (405,)
+beats_start: shape = (405,)
+danceability: 0.0
+duration: 188.96934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.566
+loudness: -4.87
+mode: 0
+mode_confidence: 0.553
+release: Push Push
+release_7digitalid: 803821
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (708,)
+segments_loudness_max: shape = (708,)
+segments_loudness_max_time: shape = (708,)
+segments_loudness_start: shape = (708,)
+segments_pitches: shape = (708, 12)
+segments_start: shape = (708,)
+segments_timbre: shape = (708, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.736526578091
+song_id: SOKRHQK12AB018CCC0
+start_of_fade_out: 183.461
+tatums_confidence: shape = (811,)
+tatums_start: shape = (811,)
+tempo: 130.073
+time_signature: 4
+time_signature_confidence: 0.32
+title: Push Push
+track_7digitalid: 8886905
+track_id: TRAYQAI12903CBDD3D
+year: 0

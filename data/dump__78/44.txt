@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 265338
+artist_familiarity: 0.385383282661
+artist_hotttnesss: 0.292094197339
+artist_id: ARLXFDN11F4C8417F8
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Irtio
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: ce9d2ec335ded6df9b75f37e4dd3c4dd
+bars_confidence: shape = (180,)
+bars_start: shape = (180,)
+beats_confidence: shape = (550,)
+beats_start: shape = (550,)
+danceability: 0.0
+duration: 333.73995
+end_of_fade_in: 0.612
+energy: 0.0
+key: 2
+key_confidence: 0.566
+loudness: -11.31
+mode: 1
+mode_confidence: 0.642
+release: Mar de Pedra
+release_7digitalid: 340950
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (946,)
+segments_loudness_max: shape = (946,)
+segments_loudness_max_time: shape = (946,)
+segments_loudness_start: shape = (946,)
+segments_pitches: shape = (946, 12)
+segments_start: shape = (946,)
+segments_timbre: shape = (946, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOZNYQY12AB017DB76
+start_of_fade_out: 314.625
+tatums_confidence: shape = (1100,)
+tatums_start: shape = (1100,)
+tempo: 100.022
+time_signature: 3
+time_signature_confidence: 1.0
+title: Outubro
+track_7digitalid: 3813820
+track_id: TRBAUAB128F92FB27F
+year: 0

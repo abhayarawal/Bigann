@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 36729
+artist_familiarity: 0.484898305345
+artist_hotttnesss: 0.301094091237
+artist_id: ARGUAHS11F50C4CF7D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 17b882d4-c0c7-4f28-abef-f4dd1d9d7ae5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Los Traileros Del Norte
+artist_playmeid: 34243
+artist_terms: shape = (8,)
+artist_terms_freq: shape = (8,)
+artist_terms_weight: shape = (8,)
+audio_md5: d3e987afec323f512ae983d7594725a5
+bars_confidence: shape = (122,)
+bars_start: shape = (122,)
+beats_confidence: shape = (489,)
+beats_start: shape = (489,)
+danceability: 0.0
+duration: 163.23873
+end_of_fade_in: 0.067
+energy: 0.0
+key: 5
+key_confidence: 0.682
+loudness: -8.662
+mode: 1
+mode_confidence: 0.523
+release: A Todo Terreno
+release_7digitalid: 615314
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (642,)
+segments_loudness_max: shape = (642,)
+segments_loudness_max_time: shape = (642,)
+segments_loudness_start: shape = (642,)
+segments_pitches: shape = (642, 12)
+segments_start: shape = (642,)
+segments_timbre: shape = (642, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYZIJN12A8C142E33
+start_of_fade_out: 155.516
+tatums_confidence: shape = (979,)
+tatums_start: shape = (979,)
+tempo: 189.682
+time_signature: 4
+time_signature_confidence: 0.0
+title: Perro Faldero
+track_7digitalid: 6840396
+track_id: TRBERHS128F92FF079
+year: 0

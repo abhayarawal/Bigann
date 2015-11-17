@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 197586
+artist_familiarity: 0.519740959226
+artist_hotttnesss: 0.35471662033
+artist_id: AR6TSMD1187FB5640F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 131df7c9-42d1-4f7c-993b-7d80224c3c24
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jean Fauque
+artist_playmeid: -1
+artist_terms: shape = (8,)
+artist_terms_freq: shape = (8,)
+artist_terms_weight: shape = (8,)
+audio_md5: b6969ea7bb0857004e6e177fbf5ec1bb
+bars_confidence: shape = (132,)
+bars_start: shape = (132,)
+beats_confidence: shape = (401,)
+beats_start: shape = (401,)
+danceability: 0.0
+duration: 219.01016
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.382
+loudness: -13.528
+mode: 0
+mode_confidence: 0.4
+release: 13 Aurores
+release_7digitalid: 257668
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (582,)
+segments_loudness_max: shape = (582,)
+segments_loudness_max_time: shape = (582,)
+segments_loudness_start: shape = (582,)
+segments_pitches: shape = (582, 12)
+segments_start: shape = (582,)
+segments_timbre: shape = (582, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOGEFW12A8C13538F
+start_of_fade_out: 198.24
+tatums_confidence: shape = (802,)
+tatums_start: shape = (802,)
+tempo: 112.015
+time_signature: 3
+time_signature_confidence: 0.698
+title: Off The Record
+track_7digitalid: 2747973
+track_id: TRASZIA128F4252D8E
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23817
+artist_familiarity: 0.604296587266
+artist_hotttnesss: 0.437987748288
+artist_id: ARKE7ZQ1187FB504BB
+artist_latitude: nan
+artist_location: Jacksonville, FL
+artist_longitude: nan
+artist_mbid: d6d0b51f-1b65-4643-a679-cf4d0c0f3915
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Blackfoot
+artist_playmeid: 41092
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 3ad28dd8b4f229129ab423f7128922c9
+bars_confidence: shape = (161,)
+bars_start: shape = (161,)
+beats_confidence: shape = (648,)
+beats_start: shape = (648,)
+danceability: 0.0
+duration: 316.99546
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.552
+loudness: -12.377
+mode: 0
+mode_confidence: 0.33
+release: Tomcattin'
+release_7digitalid: 129804
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1261,)
+segments_loudness_max: shape = (1261,)
+segments_loudness_max_time: shape = (1261,)
+segments_loudness_start: shape = (1261,)
+segments_pitches: shape = (1261, 12)
+segments_start: shape = (1261,)
+segments_timbre: shape = (1261, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.556541103505
+song_id: SONDPIA12A8151CE96
+start_of_fade_out: 299.816
+tatums_confidence: shape = (1946,)
+tatums_start: shape = (1946,)
+tempo: 123.415
+time_signature: 4
+time_signature_confidence: 0.0
+title: Dream On (LP Version)
+track_7digitalid: 1346690
+track_id: TRAOOOL128F42327D6
+year: 0

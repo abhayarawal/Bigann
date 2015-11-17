@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1062
+artist_familiarity: 0.870033796618
+artist_hotttnesss: 0.546326119552
+artist_id: ARUJZFJ1187B9B135F
+artist_latitude: nan
+artist_location: Timmins, Ontario, Canada
+artist_longitude: nan
+artist_mbid: faabb55d-3c9e-4c23-8779-732ac2ee2c0d
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Shania Twain
+artist_playmeid: 1426
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 75cd7f4d567f09c82081aca8341d0fd6
+bars_confidence: shape = (73,)
+bars_start: shape = (73,)
+beats_confidence: shape = (383,)
+beats_start: shape = (383,)
+danceability: 0.0
+duration: 278.54322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.847
+loudness: -11.958
+mode: 1
+mode_confidence: 0.844
+release: The Woman In Me
+release_7digitalid: 14219
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (741,)
+segments_loudness_max: shape = (741,)
+segments_loudness_max_time: shape = (741,)
+segments_loudness_start: shape = (741,)
+segments_pitches: shape = (741, 12)
+segments_start: shape = (741,)
+segments_timbre: shape = (741, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.485122364102
+song_id: SOBRUSQ12A6701DF34
+start_of_fade_out: 266.437
+tatums_confidence: shape = (765,)
+tatums_start: shape = (765,)
+tempo: 82.789
+time_signature: 5
+time_signature_confidence: 0.372
+title: Raining On Our Love
+track_7digitalid: 146875
+track_id: TRAGJQL128E078E840
+year: 1995

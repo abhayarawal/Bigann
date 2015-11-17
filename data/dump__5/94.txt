@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8395
+artist_familiarity: 0.685691649
+artist_hotttnesss: 0.542502096105
+artist_id: ARA3VJJ1187FB3F5A6
+artist_latitude: nan
+artist_location: Quantico, VA
+artist_longitude: nan
+artist_mbid: f4992dae-69f2-4c0d-95fa-0b65f47906f2
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Shelby Lynne
+artist_playmeid: 10963
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 713b91d8013c84dd71e4be506831a278
+bars_confidence: shape = (145,)
+bars_start: shape = (145,)
+beats_confidence: shape = (585,)
+beats_start: shape = (585,)
+danceability: 0.0
+duration: 290.97751
+end_of_fade_in: 0.177
+energy: 0.0
+key: 7
+key_confidence: 0.738
+loudness: -15.546
+mode: 1
+mode_confidence: 0.877
+release: Suit Yourself
+release_7digitalid: 11462
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (784,)
+segments_loudness_max: shape = (784,)
+segments_loudness_max_time: shape = (784,)
+segments_loudness_start: shape = (784,)
+segments_pitches: shape = (784, 12)
+segments_start: shape = (784,)
+segments_timbre: shape = (784, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.392008771471
+song_id: SOJWZGJ12A670203B7
+start_of_fade_out: 258.885
+tatums_confidence: shape = (1169,)
+tatums_start: shape = (1169,)
+tempo: 121.773
+time_signature: 4
+time_signature_confidence: 1.0
+title: Old Times Sake
+track_7digitalid: 117348
+track_id: TRABZCL128E0789AED
+year: 2005

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 25
+artist_familiarity: 0.813013088935
+artist_hotttnesss: 0.548533654534
+artist_id: ARXDQJB1187FB57154
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: 23d9d74d-c95e-46a6-be26-a6075c49747a
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Faithless
+artist_playmeid: 594
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 7745d73453ae4acd640d5e739d2823df
+bars_confidence: shape = (299,)
+bars_start: shape = (299,)
+beats_confidence: shape = (299,)
+beats_start: shape = (299,)
+danceability: 0.0
+duration: 197.79873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.712
+loudness: -7.133
+mode: 0
+mode_confidence: 0.418
+release: Live At Alexandra Palace
+release_7digitalid: 307773
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (805,)
+segments_loudness_max: shape = (805,)
+segments_loudness_max_time: shape = (805,)
+segments_loudness_start: shape = (805,)
+segments_pitches: shape = (805, 12)
+segments_start: shape = (805,)
+segments_timbre: shape = (805, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCTUNO12A8C14050A
+start_of_fade_out: 197.799
+tatums_confidence: shape = (896,)
+tatums_start: shape = (896,)
+tempo: 90.718
+time_signature: 1
+time_signature_confidence: 0.831
+title: I Want More - Part 1
+track_7digitalid: 3466034
+track_id: TRAPKIJ128F42ACBC5
+year: 0

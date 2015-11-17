@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 32440
+artist_familiarity: 0.621121051286
+artist_hotttnesss: 0.435684070209
+artist_id: ARS0W831187B9AF0B7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 256f09e5-43f4-4b3d-836c-2cc9283d22c0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Maximilian Hecker
+artist_playmeid: 157463
+artist_terms: shape = (50,)
+artist_terms_freq: shape = (50,)
+artist_terms_weight: shape = (50,)
+audio_md5: 239193c16d15a26c3820342d001504ff
+bars_confidence: shape = (79,)
+bars_start: shape = (79,)
+beats_confidence: shape = (320,)
+beats_start: shape = (320,)
+danceability: 0.0
+duration: 295.60118
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.876
+loudness: -12.397
+mode: 1
+mode_confidence: 0.607
+release: Infinite Love Songs
+release_7digitalid: 420743
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (587,)
+segments_loudness_max: shape = (587,)
+segments_loudness_max_time: shape = (587,)
+segments_loudness_start: shape = (587,)
+segments_pitches: shape = (587, 12)
+segments_start: shape = (587,)
+segments_timbre: shape = (587, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.467365631328
+song_id: SOPVVJD12A58A7CA8D
+start_of_fade_out: 279.208
+tatums_confidence: shape = (640,)
+tatums_start: shape = (640,)
+tempo: 65.941
+time_signature: 4
+time_signature_confidence: 0.0
+title: Let Me Out
+track_7digitalid: 4694138
+track_id: TRBDUSM128F9339A13
+year: 2001

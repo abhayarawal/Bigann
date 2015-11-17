@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 218875
+artist_familiarity: 0.680042255619
+artist_hotttnesss: 0.449818173111
+artist_id: AR6GR981187FB5184A
+artist_latitude: nan
+artist_location: BROCKTON, Massachusetts
+artist_longitude: nan
+artist_mbid: 339ed05f-5f9f-4222-8e95-5bf5ec3af22a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sheek Louch
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 43141bcb0afd6f60bff62861fe78e190
+bars_confidence: shape = (40,)
+bars_start: shape = (40,)
+beats_confidence: shape = (166,)
+beats_start: shape = (166,)
+danceability: 0.0
+duration: 64.65261
+end_of_fade_in: 0.189
+energy: 0.0
+key: 8
+key_confidence: 0.085
+loudness: -4.592
+mode: 1
+mode_confidence: 0.126
+release: Life On D-Block
+release_7digitalid: 598477
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (255,)
+segments_loudness_max: shape = (255,)
+segments_loudness_max_time: shape = (255,)
+segments_loudness_start: shape = (255,)
+segments_pitches: shape = (255, 12)
+segments_start: shape = (255,)
+segments_timbre: shape = (255, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.58901565886
+song_id: SODNYAB12A8C145644
+start_of_fade_out: 57.789
+tatums_confidence: shape = (332,)
+tatums_start: shape = (332,)
+tempo: 157.696
+time_signature: 4
+time_signature_confidence: 1.0
+title: Die Slow
+track_7digitalid: 6804676
+track_id: TRBDAXF128F92F6565
+year: 2009

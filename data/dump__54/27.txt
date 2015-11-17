@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 82238
+artist_familiarity: 0.810506205225
+artist_hotttnesss: 0.531157063062
+artist_id: ARYOPH81187B98AEED
+artist_latitude: 40.65507
+artist_location: Boston, Brooklyn USA
+artist_longitude: -73.94888
+artist_mbid: fa31e7d4-a03a-4110-98fc-f8826e95ec25
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Converge
+artist_playmeid: -1
+artist_terms: shape = (65,)
+artist_terms_freq: shape = (65,)
+artist_terms_weight: shape = (65,)
+audio_md5: 65bd8a5c266d90b1e948828361945f60
+bars_confidence: shape = (72,)
+bars_start: shape = (72,)
+beats_confidence: shape = (218,)
+beats_start: shape = (218,)
+danceability: 0.0
+duration: 99.99628
+end_of_fade_in: 0.357
+energy: 0.0
+key: 10
+key_confidence: 0.142
+loudness: -3.83
+mode: 1
+mode_confidence: 0.36
+release: Unloved and Weeded Out
+release_7digitalid: 540204
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (309,)
+segments_loudness_max: shape = (309,)
+segments_loudness_max_time: shape = (309,)
+segments_loudness_start: shape = (309,)
+segments_pitches: shape = (309, 12)
+segments_start: shape = (309,)
+segments_timbre: shape = (309, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.547003914303
+song_id: SOWJRTX12AB0183C28
+start_of_fade_out: 99.996
+tatums_confidence: shape = (437,)
+tatums_start: shape = (437,)
+tempo: 133.549
+time_signature: 3
+time_signature_confidence: 0.505
+title: Locust Reign (Live in California)
+track_7digitalid: 5981679
+track_id: TRASOPN128F9316701
+year: 2003

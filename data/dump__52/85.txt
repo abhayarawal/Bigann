@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11350
+artist_familiarity: 0.675384811998
+artist_hotttnesss: 0.633339908702
+artist_id: AR5FP401187FB523C9
+artist_latitude: nan
+artist_location: Duluth, MN
+artist_longitude: nan
+artist_mbid: 72c536dc-7137-4477-a521-567eeb840fa8
+artist_mbtags: shape = (16,)
+artist_mbtags_count: shape = (16,)
+artist_name: Bob Dylan
+artist_playmeid: 236
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: bc0e15da3f64e4e7498d8ff77b1e914c
+bars_confidence: shape = (577,)
+bars_start: shape = (577,)
+beats_confidence: shape = (577,)
+beats_start: shape = (577,)
+danceability: 0.0
+duration: 257.61914
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.368
+loudness: -13.776
+mode: 1
+mode_confidence: 0.382
+release: Desire/Blood On The Tracks/Street Legal
+release_7digitalid: 285737
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (854,)
+segments_loudness_max: shape = (854,)
+segments_loudness_max_time: shape = (854,)
+segments_loudness_start: shape = (854,)
+segments_pitches: shape = (854, 12)
+segments_start: shape = (854,)
+segments_timbre: shape = (854, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.702551585005
+song_id: SOBMWXO12A8C132120
+start_of_fade_out: 248.9
+tatums_confidence: shape = (1155,)
+tatums_start: shape = (1155,)
+tempo: 136.842
+time_signature: 1
+time_signature_confidence: 0.0
+title: Simple Twist Of Fate
+track_7digitalid: 3208938
+track_id: TRASAQI128F426EEA3
+year: 1975

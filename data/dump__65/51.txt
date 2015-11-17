@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4024
+artist_familiarity: 0.643544997241
+artist_hotttnesss: 0.670106172837
+artist_id: ARVNGA71187FB3C107
+artist_latitude: nan
+artist_location: Jackson, MS
+artist_longitude: nan
+artist_mbid: 406552d4-5ba1-4226-b7c0-367bc50fc767
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Faith Hill
+artist_playmeid: 593
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 8fd300011041de5abcb18ad798cd62fa
+bars_confidence: shape = (82,)
+bars_start: shape = (82,)
+beats_confidence: shape = (332,)
+beats_start: shape = (332,)
+danceability: 0.0
+duration: 231.44444
+end_of_fade_in: 0.544
+energy: 0.0
+key: 7
+key_confidence: 0.549
+loudness: -5.537
+mode: 1
+mode_confidence: 0.433
+release: Cry
+release_7digitalid: 571520
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (835,)
+segments_loudness_max: shape = (835,)
+segments_loudness_max_time: shape = (835,)
+segments_loudness_start: shape = (835,)
+segments_pitches: shape = (835, 12)
+segments_start: shape = (835,)
+segments_timbre: shape = (835, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.524822258191
+song_id: SOUVCGM12AB0185A29
+start_of_fade_out: 219.417
+tatums_confidence: shape = (1331,)
+tatums_start: shape = (1331,)
+tempo: 87.003
+time_signature: 4
+time_signature_confidence: 0.702
+title: Unsaveable (Album Version)
+track_7digitalid: 6330909
+track_id: TRAWJBE12903C9EB05
+year: 2002

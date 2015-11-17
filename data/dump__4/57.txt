@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1480
+artist_familiarity: 0.790367908794
+artist_hotttnesss: 0.642655961125
+artist_id: ARIPLUN1187B99B9F9
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: 9e0e2b01-41db-4008-bd8b-988977d6019a
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: The Police
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: ac7bf7333e8e96c4b443a9ecd152ee9e
+bars_confidence: shape = (109,)
+bars_start: shape = (109,)
+beats_confidence: shape = (442,)
+beats_start: shape = (442,)
+danceability: 0.0
+duration: 216.42404
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.335
+loudness: -10.45
+mode: 1
+mode_confidence: 0.505
+release: Zenyatta Mondatta
+release_7digitalid: 36072
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (850,)
+segments_loudness_max: shape = (850,)
+segments_loudness_max_time: shape = (850,)
+segments_loudness_start: shape = (850,)
+segments_pitches: shape = (850, 12)
+segments_start: shape = (850,)
+segments_timbre: shape = (850, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSHODS12A6D4F79BC
+start_of_fade_out: 207.11
+tatums_confidence: shape = (883,)
+tatums_start: shape = (883,)
+tempo: 123.657
+time_signature: 4
+time_signature_confidence: 0.299
+title: When The World Is Running Down_ You Make The Best Of What's Still Around
+track_7digitalid: 385776
+track_id: TRABMFI128F1476F9F
+year: 0

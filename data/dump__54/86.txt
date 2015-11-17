@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 356314
+artist_familiarity: 0.699858127331
+artist_hotttnesss: 0.522251910392
+artist_id: ARLGOUD12298900ACE
+artist_latitude: nan
+artist_location: Philadelphia PA
+artist_longitude: nan
+artist_mbid: 75be165a-ad83-4d12-bd28-f589a15c479f
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Major Lazer / Vybz Kartel / Afrojack
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 4d16053ff8ae980747b079ecb739c367
+bars_confidence: shape = (84,)
+bars_start: shape = (84,)
+beats_confidence: shape = (260,)
+beats_start: shape = (260,)
+danceability: 0.0
+duration: 187.0624
+end_of_fade_in: 0.084
+energy: 0.0
+key: 9
+key_confidence: 0.234
+loudness: -7.098
+mode: 0
+mode_confidence: 0.266
+release: Pon De Floor
+release_7digitalid: 804376
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (831,)
+segments_loudness_max: shape = (831,)
+segments_loudness_max_time: shape = (831,)
+segments_loudness_start: shape = (831,)
+segments_pitches: shape = (831, 12)
+segments_start: shape = (831,)
+segments_timbre: shape = (831, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORWLZC12AB018D798
+start_of_fade_out: 180.216
+tatums_confidence: shape = (780,)
+tatums_start: shape = (780,)
+tempo: 84.525
+time_signature: 3
+time_signature_confidence: 1.0
+title: Pon De Floor
+track_7digitalid: 8891598
+track_id: TRASTMM12903CBEF91
+year: 2009

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 242178
+artist_familiarity: 0.0302676358694
+artist_hotttnesss: 0.0
+artist_id: ARVKMRB122988EEA68
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tony Malone And The Rapparees
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: d98772a08f9627fbbbe9522ea2780547
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (292,)
+beats_start: shape = (292,)
+danceability: 0.0
+duration: 267.85914
+end_of_fade_in: 0.276
+energy: 0.0
+key: 7
+key_confidence: 0.872
+loudness: -15.511
+mode: 1
+mode_confidence: 0.909
+release: Ireland (Rebel Songs)
+release_7digitalid: 482692
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (702,)
+segments_loudness_max: shape = (702,)
+segments_loudness_max_time: shape = (702,)
+segments_loudness_start: shape = (702,)
+segments_pitches: shape = (702, 12)
+segments_start: shape = (702,)
+segments_timbre: shape = (702, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCQUSZ12A8C1421AE
+start_of_fade_out: 258.339
+tatums_confidence: shape = (585,)
+tatums_start: shape = (585,)
+tempo: 65.287
+time_signature: 3
+time_signature_confidence: 0.926
+title: The west's awake
+track_7digitalid: 5346316
+track_id: TRAYYIT128F92F2CE6
+year: 0

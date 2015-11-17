@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 471594
+artist_familiarity: 0.528733975122
+artist_hotttnesss: 0.277529479667
+artist_id: ARSOPEA1187B9B0F98
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3ae9c9d9-0860-4c10-9e84-d106c326deba
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Rodeo
+artist_playmeid: -1
+artist_terms: shape = (86,)
+artist_terms_freq: shape = (86,)
+artist_terms_weight: shape = (86,)
+audio_md5: 17cb50a91cbc6b8acd660ed37a55f3d8
+bars_confidence: shape = (375,)
+bars_start: shape = (375,)
+beats_confidence: shape = (375,)
+beats_start: shape = (375,)
+danceability: 0.0
+duration: 176.97914
+end_of_fade_in: 0.09
+energy: 0.0
+key: 11
+key_confidence: 0.512
+loudness: -6.317
+mode: 0
+mode_confidence: 0.439
+release: Hotel Utah
+release_7digitalid: 650557
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (742,)
+segments_loudness_max: shape = (742,)
+segments_loudness_max_time: shape = (742,)
+segments_loudness_start: shape = (742,)
+segments_pitches: shape = (742, 12)
+segments_start: shape = (742,)
+segments_timbre: shape = (742, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQFANJ12AB0182758
+start_of_fade_out: 171.654
+tatums_confidence: shape = (750,)
+tatums_start: shape = (750,)
+tempo: 130.203
+time_signature: 1
+time_signature_confidence: 0.0
+title: Cha Cha Cha
+track_7digitalid: 7206706
+track_id: TRARWBA128F93580C7
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 31296
+artist_familiarity: 0.416141022469
+artist_hotttnesss: 0.331090126339
+artist_id: ARSDSMG1187B98CB59
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 0e04e04c-bdfe-4a0e-a311-a2190bd6d72c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Eddie Cantor
+artist_playmeid: 18554
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: f71eb6f36d726dd24d453b30fdf20ee7
+bars_confidence: shape = (343,)
+bars_start: shape = (343,)
+beats_confidence: shape = (343,)
+beats_start: shape = (343,)
+danceability: 0.0
+duration: 168.88118
+end_of_fade_in: 0.299
+energy: 0.0
+key: 2
+key_confidence: 0.359
+loudness: -19.052
+mode: 1
+mode_confidence: 0.349
+release: The Fabulous Eddie Cantor
+release_7digitalid: 489673
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (683,)
+segments_loudness_max: shape = (683,)
+segments_loudness_max_time: shape = (683,)
+segments_loudness_start: shape = (683,)
+segments_pitches: shape = (683, 12)
+segments_start: shape = (683,)
+segments_timbre: shape = (683, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUOJUC12AB017CF7E
+start_of_fade_out: 162.11
+tatums_confidence: shape = (686,)
+tatums_start: shape = (686,)
+tempo: 125.361
+time_signature: 1
+time_signature_confidence: 0.118
+title: Charley_ My Boy
+track_7digitalid: 5426657
+track_id: TRAHGHP128F9305799
+year: 0

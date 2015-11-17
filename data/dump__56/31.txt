@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 82279
+artist_familiarity: 0.618002714909
+artist_hotttnesss: 0.349476327198
+artist_id: ARU9KWP1187B98B2A7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ccd5bf1f-f83d-4e81-86aa-2aff85d5d6c5
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Busdriver
+artist_playmeid: -1
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: ccbd92247629053d53f4aabbb417dc25
+bars_confidence: shape = (139,)
+bars_start: shape = (139,)
+beats_confidence: shape = (559,)
+beats_start: shape = (559,)
+danceability: 0.0
+duration: 246.22975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.444
+loudness: -4.293
+mode: 1
+mode_confidence: 0.446
+release: Ellen Disingenuous
+release_7digitalid: 256771
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1309,)
+segments_loudness_max: shape = (1309,)
+segments_loudness_max_time: shape = (1309,)
+segments_loudness_start: shape = (1309,)
+segments_pitches: shape = (1309, 12)
+segments_start: shape = (1309,)
+segments_timbre: shape = (1309, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SODPYOG12A8C136332
+start_of_fade_out: 235.636
+tatums_confidence: shape = (1118,)
+tatums_start: shape = (1118,)
+tempo: 136.116
+time_signature: 4
+time_signature_confidence: 0.0
+title: Ellen Disingenuous
+track_7digitalid: 2703974
+track_id: TRATFFT128F4248FA9
+year: 0

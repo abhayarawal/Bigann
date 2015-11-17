@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 61219
+artist_familiarity: 0.710203377403
+artist_hotttnesss: 0.514849879573
+artist_id: ARUWB5W1187B98D7A1
+artist_latitude: nan
+artist_location: Helsinki, Finland
+artist_longitude: nan
+artist_mbid: 6e64cbfa-1a60-450e-81f4-c044c868ab24
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Ensiferum
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 5a77afd268a69ca2b82b713f386025cc
+bars_confidence: shape = (610,)
+bars_start: shape = (610,)
+beats_confidence: shape = (610,)
+beats_start: shape = (610,)
+danceability: 0.0
+duration: 352.49587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.762
+loudness: -5.827
+mode: 0
+mode_confidence: 0.579
+release: Iron
+release_7digitalid: 391883
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1329,)
+segments_loudness_max: shape = (1329,)
+segments_loudness_max_time: shape = (1329,)
+segments_loudness_start: shape = (1329,)
+segments_pitches: shape = (1329, 12)
+segments_start: shape = (1329,)
+segments_timbre: shape = (1329, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.682204661511
+song_id: SOLECZU12AB017DAAC
+start_of_fade_out: 347.638
+tatums_confidence: shape = (1219,)
+tatums_start: shape = (1219,)
+tempo: 105.05
+time_signature: 1
+time_signature_confidence: 0.0
+title: Into Battle
+track_7digitalid: 4345693
+track_id: TRAIUPS128F92F2825
+year: 2004

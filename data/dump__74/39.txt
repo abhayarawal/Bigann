@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 244557
+artist_familiarity: 0.514414554202
+artist_hotttnesss: 0.413757657252
+artist_id: AR3KXHI1187FB3A8BF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2989f1b7-b1db-40a4-ab9e-a28a3b6d6c45
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dora The Explorer
+artist_playmeid: 24517
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 22d2c4d91ccaf2c74d78f31e14e008ff
+bars_confidence: shape = (19,)
+bars_start: shape = (19,)
+beats_confidence: shape = (98,)
+beats_start: shape = (98,)
+danceability: 0.0
+duration: 39.73179
+end_of_fade_in: 2.154
+energy: 0.0
+key: 2
+key_confidence: 0.458
+loudness: -8.52
+mode: 1
+mode_confidence: 0.448
+release: Dora The Explorer
+release_7digitalid: 315020
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (230,)
+segments_loudness_max: shape = (230,)
+segments_loudness_max_time: shape = (230,)
+segments_loudness_start: shape = (230,)
+segments_pitches: shape = (230, 12)
+segments_start: shape = (230,)
+segments_timbre: shape = (230, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.427446571488
+song_id: SOZMHAO12A8C141C2A
+start_of_fade_out: 37.094
+tatums_confidence: shape = (293,)
+tatums_start: shape = (293,)
+tempo: 153.033
+time_signature: 5
+time_signature_confidence: 0.245
+title: Boots The Monkey!
+track_7digitalid: 3565939
+track_id: TRAZKJU128F92C972A
+year: 0

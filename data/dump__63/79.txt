@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 258664
+artist_familiarity: 0.417936056827
+artist_hotttnesss: 0.322467821345
+artist_id: ARVVSJC1187FB3A637
+artist_latitude: 34.05349
+artist_location: California - LA
+artist_longitude: -118.24532
+artist_mbid: af351f7b-718c-40fc-845e-a6059b7afe7d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Rob Mullins
+artist_playmeid: 56470
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 7363a2012136184f3424a08084d47ffd
+bars_confidence: shape = (191,)
+bars_start: shape = (191,)
+beats_confidence: shape = (576,)
+beats_start: shape = (576,)
+danceability: 0.0
+duration: 242.07628
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.483
+loudness: -12.688
+mode: 1
+mode_confidence: 0.395
+release: Jazz Straight Ahead
+release_7digitalid: 331475
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1101,)
+segments_loudness_max: shape = (1101,)
+segments_loudness_max_time: shape = (1101,)
+segments_loudness_start: shape = (1101,)
+segments_pitches: shape = (1101, 12)
+segments_start: shape = (1101,)
+segments_timbre: shape = (1101, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONTDAI12AB017AD5E
+start_of_fade_out: 236.263
+tatums_confidence: shape = (1153,)
+tatums_start: shape = (1153,)
+tempo: 146.306
+time_signature: 3
+time_signature_confidence: 1.0
+title: 5 4 3 2 1
+track_7digitalid: 3717723
+track_id: TRAVVUS128F92EA4F9
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 187427
+artist_familiarity: 0.410082039862
+artist_hotttnesss: 0.278865040501
+artist_id: ARBE5BJ1187B98BCFD
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9b1236b0-f3d7-4b64-88d3-43dff9bfff5a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Chico Hamilton Quintet
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: daf4d26f6f5bc13f213301c7a8917c16
+bars_confidence: shape = (146,)
+bars_start: shape = (146,)
+beats_confidence: shape = (146,)
+beats_start: shape = (146,)
+danceability: 0.0
+duration: 140.19873
+end_of_fade_in: 0.388
+energy: 0.0
+key: 2
+key_confidence: 0.324
+loudness: -17.169
+mode: 0
+mode_confidence: 0.559
+release: Sweet Smell Of Success
+release_7digitalid: 257266
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (315,)
+segments_loudness_max: shape = (315,)
+segments_loudness_max_time: shape = (315,)
+segments_loudness_start: shape = (315,)
+segments_pitches: shape = (315, 12)
+segments_start: shape = (315,)
+segments_timbre: shape = (315, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOGMRON12A8C136042
+start_of_fade_out: 132.638
+tatums_confidence: shape = (290,)
+tatums_start: shape = (290,)
+tempo: 65.019
+time_signature: 1
+time_signature_confidence: 0.0
+title: Night Beat
+track_7digitalid: 2717699
+track_id: TRBDCPY128F424C367
+year: 0

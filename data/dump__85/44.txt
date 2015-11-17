@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 25654
+artist_familiarity: 0.508636229134
+artist_hotttnesss: 0.372119118631
+artist_id: AREUYDJ1187B9BA040
+artist_latitude: nan
+artist_location: Havířov, Česká republika
+artist_longitude: nan
+artist_mbid: ea759c1a-5ee5-4729-9871-7ddd270469d6
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Krystof
+artist_playmeid: 8949
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 4d1e662449a5a5b48abeae7fce32454a
+bars_confidence: shape = (163,)
+bars_start: shape = (163,)
+beats_confidence: shape = (656,)
+beats_start: shape = (656,)
+danceability: 0.0
+duration: 252.57751
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.494
+loudness: -7.546
+mode: 1
+mode_confidence: 0.629
+release: Zi(v)je
+release_7digitalid: 189605
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (707,)
+segments_loudness_max: shape = (707,)
+segments_loudness_max_time: shape = (707,)
+segments_loudness_start: shape = (707,)
+segments_pitches: shape = (707, 12)
+segments_start: shape = (707,)
+segments_timbre: shape = (707, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODKOWW12A8C1325BB
+start_of_fade_out: 252.577
+tatums_confidence: shape = (1312,)
+tatums_start: shape = (1312,)
+tempo: 156.107
+time_signature: 4
+time_signature_confidence: 0.365
+title: Vodne stocne
+track_7digitalid: 2058982
+track_id: TRBDISR128F423E194
+year: 0

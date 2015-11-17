@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2998
+artist_familiarity: 0.543290242866
+artist_hotttnesss: 0.35199833791
+artist_id: ARZEBW31187FB586EA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0b0bd0c0-3723-4715-87d7-9d57f0eb240f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Anne Dudley
+artist_playmeid: 6842
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 19d991836688d62ca25500a2ed7d06cc
+bars_confidence: shape = (137,)
+bars_start: shape = (137,)
+beats_confidence: shape = (564,)
+beats_start: shape = (564,)
+danceability: 0.0
+duration: 280.86812
+end_of_fade_in: 3.744
+energy: 0.0
+key: 11
+key_confidence: 0.599
+loudness: -15.428
+mode: 0
+mode_confidence: 0.528
+release: Black Book
+release_7digitalid: 44537
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (482,)
+segments_loudness_max: shape = (482,)
+segments_loudness_max_time: shape = (482,)
+segments_loudness_start: shape = (482,)
+segments_pitches: shape = (482, 12)
+segments_start: shape = (482,)
+segments_timbre: shape = (482, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFPYLJ12A6D4F843F
+start_of_fade_out: 249.133
+tatums_confidence: shape = (1127,)
+tatums_start: shape = (1127,)
+tempo: 118.326
+time_signature: 4
+time_signature_confidence: 0.45
+title: Rachel's retribution
+track_7digitalid: 475999
+track_id: TRAROSP128F1487270
+year: 2006

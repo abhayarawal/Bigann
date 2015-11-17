@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4259
+artist_familiarity: 0.634084944737
+artist_hotttnesss: 0.380133079193
+artist_id: ARGA5RF1187FB5C7EB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 584bd06c-660b-438f-90c1-9dd38e0b2f3b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Socialburn
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: eea95222bed15ed670608a08bb4120f6
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (360,)
+beats_start: shape = (360,)
+danceability: 0.0
+duration: 241.84118
+end_of_fade_in: 0.508
+energy: 0.0
+key: 9
+key_confidence: 0.777
+loudness: -5.134
+mode: 1
+mode_confidence: 0.75
+release: Where You Are
+release_7digitalid: 610646
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (596,)
+segments_loudness_max: shape = (596,)
+segments_loudness_max_time: shape = (596,)
+segments_loudness_start: shape = (596,)
+segments_pitches: shape = (596, 12)
+segments_start: shape = (596,)
+segments_timbre: shape = (596, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.523166108211
+song_id: SOQERJP12A8C14130F
+start_of_fade_out: 227.219
+tatums_confidence: shape = (1439,)
+tatums_start: shape = (1439,)
+tempo: 91.231
+time_signature: 4
+time_signature_confidence: 1.0
+title: Everyone (LP Version)
+track_7digitalid: 6787717
+track_id: TRBCCJV128F92F23B0
+year: 2003

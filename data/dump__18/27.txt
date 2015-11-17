@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3285
+artist_familiarity: 0.576053722689
+artist_hotttnesss: 0.385878057741
+artist_id: ARHOCKY11E2835D7CB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 06a63579-f1fc-4c4d-80fd-729ffafe06f5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Máire Brennan
+artist_playmeid: 40710
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 3655309e5ac5704a3f6bec8fba1de915
+bars_confidence: shape = (66,)
+bars_start: shape = (66,)
+beats_confidence: shape = (336,)
+beats_start: shape = (336,)
+danceability: 0.0
+duration: 244.74077
+end_of_fade_in: 2.554
+energy: 0.0
+key: 0
+key_confidence: 0.304
+loudness: -12.121
+mode: 1
+mode_confidence: 0.561
+release: Maire
+release_7digitalid: 297303
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (975,)
+segments_loudness_max: shape = (975,)
+segments_loudness_max_time: shape = (975,)
+segments_loudness_start: shape = (975,)
+segments_pitches: shape = (975, 12)
+segments_start: shape = (975,)
+segments_timbre: shape = (975, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.613045835768
+song_id: SOODNBV12A8C139FC7
+start_of_fade_out: 216.874
+tatums_confidence: shape = (1010,)
+tatums_start: shape = (1010,)
+tempo: 84.826
+time_signature: 5
+time_signature_confidence: 0.74
+title: Atlantic Shore
+track_7digitalid: 3338895
+track_id: TRAGFOI128F428E060
+year: 0

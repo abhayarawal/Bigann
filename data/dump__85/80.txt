@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1579
+artist_familiarity: 0.927985930524
+artist_hotttnesss: 0.599859524967
+artist_id: ARPBTRI1187FB52457
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: baec7ed1-32d7-482d-9455-33c403e61952
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Game
+artist_playmeid: 1967
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 7a50311128815ff5cb8a73a706785cc3
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (326,)
+beats_start: shape = (326,)
+danceability: 0.0
+duration: 264.09751
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.642
+loudness: -4.762
+mode: 1
+mode_confidence: 0.551
+release: West Coast Resurrection
+release_7digitalid: 230648
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1346,)
+segments_loudness_max: shape = (1346,)
+segments_loudness_max_time: shape = (1346,)
+segments_loudness_start: shape = (1346,)
+segments_pitches: shape = (1346, 12)
+segments_start: shape = (1346,)
+segments_timbre: shape = (1346, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.372530039366
+song_id: SOLCICH12A58A7DB31
+start_of_fade_out: 257.144
+tatums_confidence: shape = (1628,)
+tatums_start: shape = (1628,)
+tempo: 74.697
+time_signature: 3
+time_signature_confidence: 0.849
+title: Desperados
+track_7digitalid: 2527735
+track_id: TRBDMJK128F4221E31
+year: 0

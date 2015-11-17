@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 487514
+artist_familiarity: 0.277900040196
+artist_hotttnesss: 0.116156134208
+artist_id: ARRESZG1187B9A3FBF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 46022fdf-856f-4419-8590-44374b715864
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Les Hou-Lops
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 684414206a09763576b8cea8c879857f
+bars_confidence: shape = (71,)
+bars_start: shape = (71,)
+beats_confidence: shape = (289,)
+beats_start: shape = (289,)
+danceability: 0.0
+duration: 181.86404
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.054
+loudness: -5.144
+mode: 1
+mode_confidence: 0.491
+release: XL60 Remix-Jeunesse 1
+release_7digitalid: 665291
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (816,)
+segments_loudness_max: shape = (816,)
+segments_loudness_max_time: shape = (816,)
+segments_loudness_start: shape = (816,)
+segments_pitches: shape = (816, 12)
+segments_start: shape = (816,)
+segments_timbre: shape = (816, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQMSPF12AB018C5DF
+start_of_fade_out: 175.241
+tatums_confidence: shape = (578,)
+tatums_start: shape = (578,)
+tempo: 95.735
+time_signature: 4
+time_signature_confidence: 0.584
+title: Quand on est amoureux
+track_7digitalid: 7375394
+track_id: TRATHDO12903CAF45B
+year: 1964

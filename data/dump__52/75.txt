@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 27095
+artist_familiarity: 0.45528726198
+artist_hotttnesss: 0.206394504827
+artist_id: ARRLCY71187B9A0FC6
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1d15a111-061d-48a2-bfe7-d352ec11d5f0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jongo Trio
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: a4f028c5353100306498090aeb655bdf
+bars_confidence: shape = (92,)
+bars_start: shape = (92,)
+beats_confidence: shape = (371,)
+beats_start: shape = (371,)
+danceability: 0.0
+duration: 157.72689
+end_of_fade_in: 0.345
+energy: 0.0
+key: 2
+key_confidence: 0.192
+loudness: -8.151
+mode: 1
+mode_confidence: 0.487
+release: Jongo Trio
+release_7digitalid: 37893
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (730,)
+segments_loudness_max: shape = (730,)
+segments_loudness_max_time: shape = (730,)
+segments_loudness_start: shape = (730,)
+segments_pitches: shape = (730, 12)
+segments_start: shape = (730,)
+segments_timbre: shape = (730, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMZNFA12A6D4F8A2A
+start_of_fade_out: 144.776
+tatums_confidence: shape = (742,)
+tatums_start: shape = (742,)
+tempo: 144.581
+time_signature: 4
+time_signature_confidence: 0.0
+title: Cavaleiro De Aruanda
+track_7digitalid: 405282
+track_id: TRARZIV128F147AADB
+year: 0

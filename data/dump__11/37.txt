@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 291580
+artist_familiarity: 0.711165786578
+artist_hotttnesss: 0.466826992527
+artist_id: ARBJSO81187B9BA09B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3f8a5e5b-c24b-4068-9f1c-afad8829e06b
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Soda Stereo
+artist_playmeid: 2146
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: c9d006804b3133335b371c1ba9f39a8d
+bars_confidence: shape = (144,)
+bars_start: shape = (144,)
+beats_confidence: shape = (578,)
+beats_start: shape = (578,)
+danceability: 0.0
+duration: 343.562
+end_of_fade_in: 3.158
+energy: 0.0
+key: 4
+key_confidence: 0.468
+loudness: -11.947
+mode: 0
+mode_confidence: 0.429
+release: Ruido Blanco
+release_7digitalid: 511645
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1199,)
+segments_loudness_max: shape = (1199,)
+segments_loudness_max_time: shape = (1199,)
+segments_loudness_start: shape = (1199,)
+segments_pitches: shape = (1199, 12)
+segments_start: shape = (1199,)
+segments_timbre: shape = (1199, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.270775998946
+song_id: SODJAUI12AB0188C5E
+start_of_fade_out: 332.806
+tatums_confidence: shape = (1156,)
+tatums_start: shape = (1156,)
+tempo: 104.521
+time_signature: 4
+time_signature_confidence: 0.244
+title: Persiana Americana (Live)
+track_7digitalid: 5669354
+track_id: TRADTQJ128F9340624
+year: 1987

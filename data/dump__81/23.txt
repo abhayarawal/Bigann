@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15670
+artist_familiarity: 0.683388516689
+artist_hotttnesss: 0.46311833993
+artist_id: AR8SRQ31187FB4D477
+artist_latitude: 52.94922
+artist_location: Nottingham, England
+artist_longitude: -1.14392
+artist_mbid: 73faa89a-ee00-4e40-b68e-80e4891dbc45
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ten Years After
+artist_playmeid: 19295
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: d2c553cea9da28151887a24f03f06648
+bars_confidence: shape = (251,)
+bars_start: shape = (251,)
+beats_confidence: shape = (251,)
+beats_start: shape = (251,)
+danceability: 0.0
+duration: 145.00526
+end_of_fade_in: 0.449
+energy: 0.0
+key: 11
+key_confidence: 0.707
+loudness: -10.124
+mode: 0
+mode_confidence: 0.7
+release: Cricklewood Green
+release_7digitalid: 25971
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (566,)
+segments_loudness_max: shape = (566,)
+segments_loudness_max_time: shape = (566,)
+segments_loudness_start: shape = (566,)
+segments_pitches: shape = (566, 12)
+segments_start: shape = (566,)
+segments_timbre: shape = (566, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.270775998946
+song_id: SOQLWVI12A6D4F465F
+start_of_fade_out: 136.371
+tatums_confidence: shape = (501,)
+tatums_start: shape = (501,)
+tempo: 106.145
+time_signature: 1
+time_signature_confidence: 0.0
+title: Year 3_000 Blues (2002 Digital Remaster)
+track_7digitalid: 278836
+track_id: TRBBVFB128F1461507
+year: 1970

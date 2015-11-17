@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 493710
+artist_familiarity: 0.4157846077
+artist_hotttnesss: 0.307902093869
+artist_id: ARDQO721187FB3C6D9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2ba29f11-6321-451f-934d-3f63b3930ce3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Rodney O_ Joe Cooley
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 5590fef540e895ca75ddf6e1bf8a13f0
+bars_confidence: shape = (91,)
+bars_start: shape = (91,)
+beats_confidence: shape = (369,)
+beats_start: shape = (369,)
+danceability: 0.0
+duration: 222.24934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.006
+loudness: -11.255
+mode: 1
+mode_confidence: 0.227
+release: The Best of Rodney O and Joe Cooley
+release_7digitalid: 612611
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1000,)
+segments_loudness_max: shape = (1000,)
+segments_loudness_max_time: shape = (1000,)
+segments_loudness_start: shape = (1000,)
+segments_pitches: shape = (1000, 12)
+segments_start: shape = (1000,)
+segments_timbre: shape = (1000, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.408110883511
+song_id: SOUBNYW12A8C1460C3
+start_of_fade_out: 199.61
+tatums_confidence: shape = (1475,)
+tatums_start: shape = (1475,)
+tempo: 99.612
+time_signature: 4
+time_signature_confidence: 1.0
+title: Let's Have Some Fun
+track_7digitalid: 6821928
+track_id: TRAIWKK128F92FA8A9
+year: 1995

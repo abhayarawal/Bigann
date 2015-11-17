@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 623
+artist_familiarity: 0.567313224122
+artist_hotttnesss: 0.58001318294
+artist_id: ARAIABB1187B9AC6E2
+artist_latitude: nan
+artist_location: Paddington, London, England
+artist_longitude: nan
+artist_mbid: f053ae01-dae6-4aae-9883-e8c279fdbef4
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Seal
+artist_playmeid: 1408
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 92ede3026b725a87e6b6e9832524a4a6
+bars_confidence: shape = (152,)
+bars_start: shape = (152,)
+beats_confidence: shape = (612,)
+beats_start: shape = (612,)
+danceability: 0.0
+duration: 258.63791
+end_of_fade_in: 3.164
+energy: 0.0
+key: 4
+key_confidence: 1.0
+loudness: -9.303
+mode: 1
+mode_confidence: 0.616
+release: Human Being
+release_7digitalid: 387111
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (712,)
+segments_loudness_max: shape = (712,)
+segments_loudness_max_time: shape = (712,)
+segments_loudness_start: shape = (712,)
+segments_pitches: shape = (712, 12)
+segments_start: shape = (712,)
+segments_timbre: shape = (712, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.517657895945
+song_id: SOXCQIQ12AB017D8DB
+start_of_fade_out: 230.754
+tatums_confidence: shape = (1224,)
+tatums_start: shape = (1224,)
+tempo: 146.758
+time_signature: 4
+time_signature_confidence: 0.651
+title: When A Man Is Wrong (Album Version)
+track_7digitalid: 4292930
+track_id: TRANSUM128F92E8DF3
+year: 1998

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 323208
+artist_familiarity: 0.363475534701
+artist_hotttnesss: 0.0
+artist_id: ARBY23A1187B9A82E4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 92d0242d-c47d-4e2b-915d-4f875a07c91f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Naseebo Lal
+artist_playmeid: 149466
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: d918586bb7ba0c8defb895141b0e892a
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (354,)
+beats_start: shape = (354,)
+danceability: 0.0
+duration: 247.562
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.493
+loudness: -13.749
+mode: 1
+mode_confidence: 0.445
+release: Pyar Tere Nal
+release_7digitalid: 445155
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1118,)
+segments_loudness_max: shape = (1118,)
+segments_loudness_max_time: shape = (1118,)
+segments_loudness_start: shape = (1118,)
+segments_pitches: shape = (1118, 12)
+segments_start: shape = (1118,)
+segments_timbre: shape = (1118, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEFIPZ12AB01836DE
+start_of_fade_out: 243.368
+tatums_confidence: shape = (1416,)
+tatums_start: shape = (1416,)
+tempo: 87.03
+time_signature: 3
+time_signature_confidence: 0.635
+title: Dang Pyar Da 
+track_7digitalid: 4944146
+track_id: TRALAPT128F930011F
+year: 0

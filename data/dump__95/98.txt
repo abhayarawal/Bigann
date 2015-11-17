@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11095
+artist_familiarity: 0.601891975303
+artist_hotttnesss: 0.38065635953
+artist_id: AR1JD6E1187FB5696C
+artist_latitude: 53.07516
+artist_location: Bremen, Germany
+artist_longitude: 8.80466
+artist_mbid: 0b7ee619-16ed-4e60-b871-6a2111c12b76
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: James Last
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 807c2120ad543edab08d6f35a22347e6
+bars_confidence: shape = (210,)
+bars_start: shape = (210,)
+beats_confidence: shape = (210,)
+beats_start: shape = (210,)
+danceability: 0.0
+duration: 101.642
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.615
+loudness: -9.9
+mode: 0
+mode_confidence: 0.562
+release: Last The Whole Night Long
+release_7digitalid: 431155
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (376,)
+segments_loudness_max: shape = (376,)
+segments_loudness_max_time: shape = (376,)
+segments_loudness_start: shape = (376,)
+segments_pitches: shape = (376, 12)
+segments_start: shape = (376,)
+segments_timbre: shape = (376, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFKMDX12AB0184231
+start_of_fade_out: 95.904
+tatums_confidence: shape = (421,)
+tatums_start: shape = (421,)
+tempo: 126.184
+time_signature: 1
+time_signature_confidence: 0.0
+title: Stuff Like That
+track_7digitalid: 4810922
+track_id: TRBHCMQ128F92E0447
+year: 0

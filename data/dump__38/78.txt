@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 65476
+artist_familiarity: 0.566157341575
+artist_hotttnesss: 0.358845025164
+artist_id: AROLZEM1187B9A805E
+artist_latitude: 64.55653
+artist_location: NORWAY
+artist_longitude: 12.66538
+artist_mbid: 9653afd0-27af-40ff-ad60-caf1b79b18c5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ashes to Ashes
+artist_playmeid: 59392
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 9dfc35f056141320e5d9a3590a56601d
+bars_confidence: shape = (96,)
+bars_start: shape = (96,)
+beats_confidence: shape = (390,)
+beats_start: shape = (390,)
+danceability: 0.0
+duration: 215.40526
+end_of_fade_in: 0.218
+energy: 0.0
+key: 1
+key_confidence: 0.72
+loudness: -6.125
+mode: 1
+mode_confidence: 0.695
+release: Plaything
+release_7digitalid: 181787
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (732,)
+segments_loudness_max: shape = (732,)
+segments_loudness_max_time: shape = (732,)
+segments_loudness_start: shape = (732,)
+segments_pitches: shape = (732, 12)
+segments_start: shape = (732,)
+segments_timbre: shape = (732, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPYTTP12A81C22D88
+start_of_fade_out: 210.257
+tatums_confidence: shape = (779,)
+tatums_start: shape = (779,)
+tempo: 110.005
+time_signature: 4
+time_signature_confidence: 0.271
+title: Pass The Earplugs
+track_7digitalid: 1963484
+track_id: TRANHEK128F4230E25
+year: 0

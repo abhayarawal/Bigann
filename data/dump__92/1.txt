@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16755
+artist_familiarity: 0.537160562972
+artist_hotttnesss: 0.382843062209
+artist_id: ARJTX7M1187FB4CED3
+artist_latitude: 52.88356
+artist_location: England
+artist_longitude: -1.97406
+artist_mbid: 96742ec2-b733-4ac6-b493-7e056a43b357
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Be Bop Deluxe
+artist_playmeid: 61597
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 0394d6d559a4939f6709859ef8547a1d
+bars_confidence: shape = (148,)
+bars_start: shape = (148,)
+beats_confidence: shape = (596,)
+beats_start: shape = (596,)
+danceability: 0.0
+duration: 285.1522
+end_of_fade_in: 0.792
+energy: 0.0
+key: 1
+key_confidence: 0.619
+loudness: -11.969
+mode: 1
+mode_confidence: 0.617
+release: Air Age Anthology
+release_7digitalid: 154890
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (911,)
+segments_loudness_max: shape = (911,)
+segments_loudness_max_time: shape = (911,)
+segments_loudness_start: shape = (911,)
+segments_pitches: shape = (911, 12)
+segments_start: shape = (911,)
+segments_timbre: shape = (911, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJCSXO12A8C13A80B
+start_of_fade_out: 281.112
+tatums_confidence: shape = (1191,)
+tatums_start: shape = (1191,)
+tempo: 126.729
+time_signature: 4
+time_signature_confidence: 0.0
+title: Music In Dreamland
+track_7digitalid: 1620415
+track_id: TRBFTJP128F426AC3F
+year: 1975

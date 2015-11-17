@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 139869
+artist_familiarity: 0.515344517974
+artist_hotttnesss: 0.338999979193
+artist_id: ARAZF6G1187FB5A0C1
+artist_latitude: nan
+artist_location: Centre
+artist_longitude: nan
+artist_mbid: 3ea63f3f-c9fc-4a10-bc71-7aa4c77cfa13
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Gerard Lenorman
+artist_playmeid: 26953
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: a3e912b0d2571b1d4619c5944684422f
+bars_confidence: shape = (452,)
+bars_start: shape = (452,)
+beats_confidence: shape = (452,)
+beats_start: shape = (452,)
+danceability: 0.0
+duration: 227.39546
+end_of_fade_in: 2.241
+energy: 0.0
+key: 2
+key_confidence: 0.152
+loudness: -8.811
+mode: 1
+mode_confidence: 0.278
+release: La Ballade Des Gens Heureux
+release_7digitalid: 291253
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (781,)
+segments_loudness_max: shape = (781,)
+segments_loudness_max_time: shape = (781,)
+segments_loudness_start: shape = (781,)
+segments_pitches: shape = (781, 12)
+segments_start: shape = (781,)
+segments_timbre: shape = (781, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAMORU12A8C137E6F
+start_of_fade_out: 218.552
+tatums_confidence: shape = (904,)
+tatums_start: shape = (904,)
+tempo: 121.832
+time_signature: 1
+time_signature_confidence: 0.553
+title: Voici Les Clés
+track_7digitalid: 3271338
+track_id: TRAQKPR128F427DDF8
+year: 1999

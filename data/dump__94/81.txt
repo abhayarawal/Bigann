@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 87742
+artist_familiarity: 0.316251606693
+artist_hotttnesss: 0.269410043151
+artist_id: ARYAOUL12454A3789B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Emilio Tuero
+artist_playmeid: 38243
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: d8ffa893b9a5bbc39c0f2dfa167e2ce3
+bars_confidence: shape = (147,)
+bars_start: shape = (147,)
+beats_confidence: shape = (447,)
+beats_start: shape = (447,)
+danceability: 0.0
+duration: 194.24608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.618
+loudness: -14.079
+mode: 0
+mode_confidence: 0.623
+release: Antología... Emilio Tuero
+release_7digitalid: 766853
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (618,)
+segments_loudness_max: shape = (618,)
+segments_loudness_max_time: shape = (618,)
+segments_loudness_start: shape = (618,)
+segments_pitches: shape = (618, 12)
+segments_start: shape = (618,)
+segments_timbre: shape = (618, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQIURR12AB018E8B1
+start_of_fade_out: 189.266
+tatums_confidence: shape = (447,)
+tatums_start: shape = (447,)
+tempo: 140.354
+time_signature: 3
+time_signature_confidence: 0.334
+title: Nostalgia
+track_7digitalid: 8491285
+track_id: TRBGRLS12903CD13B4
+year: 0

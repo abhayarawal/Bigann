@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 516
+artist_familiarity: 0.674970293048
+artist_hotttnesss: 0.424953084113
+artist_id: ARZS5VW1187FB567E8
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a7412cd0-e0b8-4fa1-8d24-75bb92a84946
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: William Orbit
+artist_playmeid: 1695
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 2b4b54a3895e902ed53e89022a923082
+bars_confidence: shape = (128,)
+bars_start: shape = (128,)
+beats_confidence: shape = (650,)
+beats_start: shape = (650,)
+danceability: 0.0
+duration: 270.94159
+end_of_fade_in: 0.276
+energy: 0.0
+key: 0
+key_confidence: 0.031
+loudness: -20.607
+mode: 1
+mode_confidence: 0.416
+release: Strange Cargo III
+release_7digitalid: 1224
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1009,)
+segments_loudness_max: shape = (1009,)
+segments_loudness_max_time: shape = (1009,)
+segments_loudness_start: shape = (1009,)
+segments_pitches: shape = (1009, 12)
+segments_start: shape = (1009,)
+segments_timbre: shape = (1009, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVKTLW12A6310E32D
+start_of_fade_out: 255.959
+tatums_confidence: shape = (1301,)
+tatums_start: shape = (1301,)
+tempo: 146.389
+time_signature: 5
+time_signature_confidence: 0.399
+title: Harry Flowers
+track_7digitalid: 11242
+track_id: TRAIIUE128E07826EC
+year: 1993

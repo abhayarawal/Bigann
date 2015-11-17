@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 48409
+artist_familiarity: 0.665322161906
+artist_hotttnesss: 0.394217198901
+artist_id: ARRJNTE1187FB44E12
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 73d882c7-1146-4012-a61b-a3b2c11fce2f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Casiotone For The Painfully Alone
+artist_playmeid: -1
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: b1d9d9e75f48900bdeed47b220d0460e
+bars_confidence: shape = (227,)
+bars_start: shape = (227,)
+beats_confidence: shape = (227,)
+beats_start: shape = (227,)
+danceability: 0.0
+duration: 115.17342
+end_of_fade_in: 0.165
+energy: 0.0
+key: 0
+key_confidence: 0.614
+loudness: -7.807
+mode: 1
+mode_confidence: 0.605
+release: Town Topic EP
+release_7digitalid: 316960
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (363,)
+segments_loudness_max: shape = (363,)
+segments_loudness_max_time: shape = (363,)
+segments_loudness_start: shape = (363,)
+segments_pitches: shape = (363, 12)
+segments_start: shape = (363,)
+segments_timbre: shape = (363, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.557187767519
+song_id: SOBQKWL12A8C14337F
+start_of_fade_out: 107.503
+tatums_confidence: shape = (455,)
+tatums_start: shape = (455,)
+tempo: 125.663
+time_signature: 1
+time_signature_confidence: 0.0
+title: Town Topic (Instrumental)
+track_7digitalid: 3582138
+track_id: TRAHGMV128F92CD444
+year: 2008

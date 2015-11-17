@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 95797
+artist_familiarity: 0.579089449003
+artist_hotttnesss: 0.359706047314
+artist_id: AROD1VN1187B9B377F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 32c0cf0d-7e5b-493a-8a64-64e5aec0245b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Klubbingman feat. Beatrix Delgado
+artist_playmeid: -1
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: aa2b966d5b874bf34ad72802587c79d2
+bars_confidence: shape = (201,)
+bars_start: shape = (201,)
+beats_confidence: shape = (807,)
+beats_start: shape = (807,)
+danceability: 0.0
+duration: 333.21751
+end_of_fade_in: 0.084
+energy: 0.0
+key: 3
+key_confidence: 0.272
+loudness: -5.395
+mode: 0
+mode_confidence: 0.258
+release: Another Day Another Night
+release_7digitalid: 454271
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1339,)
+segments_loudness_max: shape = (1339,)
+segments_loudness_max_time: shape = (1339,)
+segments_loudness_start: shape = (1339,)
+segments_pitches: shape = (1339, 12)
+segments_start: shape = (1339,)
+segments_timbre: shape = (1339, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAPRLL12AB0183EF2
+start_of_fade_out: 327.099
+tatums_confidence: shape = (1613,)
+tatums_start: shape = (1613,)
+tempo: 145.004
+time_signature: 4
+time_signature_confidence: 0.0
+title: Another Day Another Night
+track_7digitalid: 5047393
+track_id: TRANPYL128F9316AE7
+year: 0

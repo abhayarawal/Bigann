@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 434953
+artist_familiarity: 0.522423829106
+artist_hotttnesss: 0.417591879765
+artist_id: ARJJRZ41187FB4C856
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6dd5961a-16e7-4f03-8385-b251e12f9698
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Floor
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: f0acd2591bd38b908ebdcfbe9ce3b878
+bars_confidence: shape = (73,)
+bars_start: shape = (73,)
+beats_confidence: shape = (297,)
+beats_start: shape = (297,)
+danceability: 0.0
+duration: 117.02812
+end_of_fade_in: 0.258
+energy: 0.0
+key: 4
+key_confidence: 0.446
+loudness: -7.24
+mode: 0
+mode_confidence: 0.285
+release: Below & Beyond
+release_7digitalid: 769747
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (399,)
+segments_loudness_max: shape = (399,)
+segments_loudness_max_time: shape = (399,)
+segments_loudness_start: shape = (399,)
+segments_pitches: shape = (399, 12)
+segments_start: shape = (399,)
+segments_timbre: shape = (399, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.51535717917
+song_id: SOBPRCW12AB0186D3E
+start_of_fade_out: 113.731
+tatums_confidence: shape = (594,)
+tatums_start: shape = (594,)
+tempo: 156.179
+time_signature: 4
+time_signature_confidence: 0.0
+title: Assassin
+track_7digitalid: 8524831
+track_id: TRBCHOY12903CD9688
+year: 2002

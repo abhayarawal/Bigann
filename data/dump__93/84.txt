@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 304705
+artist_familiarity: 0.654039350631
+artist_hotttnesss: 0.390624707501
+artist_id: ARFN4JN1187B98C627
+artist_latitude: -22.96566
+artist_location: Detroit
+artist_longitude: 18.48617
+artist_mbid: 3c34ad84-7628-459e-949d-c27e2ae73231
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bedrock
+artist_playmeid: -1
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 6b64c74c1595a7f840e1725062ac56ec
+bars_confidence: shape = (270,)
+bars_start: shape = (270,)
+beats_confidence: shape = (1087,)
+beats_start: shape = (1087,)
+danceability: 0.0
+duration: 501.86404
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.041
+loudness: -14.442
+mode: 1
+mode_confidence: 0.343
+release: Emerald
+release_7digitalid: 699533
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (3494,)
+segments_loudness_max: shape = (3494,)
+segments_loudness_max_time: shape = (3494,)
+segments_loudness_start: shape = (3494,)
+segments_pitches: shape = (3494, 12)
+segments_start: shape = (3494,)
+segments_timbre: shape = (3494, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKMTOP12AC468980A
+start_of_fade_out: 487.004
+tatums_confidence: shape = (2175,)
+tatums_start: shape = (2175,)
+tempo: 129.988
+time_signature: 4
+time_signature_confidence: 0.607
+title: Emerald
+track_7digitalid: 7761766
+track_id: TRBGJZN12903D0D2FC
+year: 2004

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 36761
+artist_familiarity: 0.533724476939
+artist_hotttnesss: 0.370747683691
+artist_id: ARHEQ501187FB4F898
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ee0552e7-de2b-4fc2-8739-9c33a905c3e7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Fruko Y Sus Tesos
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 8857e233a849d93d025ba984a65321d6
+bars_confidence: shape = (114,)
+bars_start: shape = (114,)
+beats_confidence: shape = (459,)
+beats_start: shape = (459,)
+danceability: 0.0
+duration: 261.90322
+end_of_fade_in: 0.212
+energy: 0.0
+key: 10
+key_confidence: 0.098
+loudness: -6.206
+mode: 0
+mode_confidence: 0.243
+release: Soy Como Soy
+release_7digitalid: 230945
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1248,)
+segments_loudness_max: shape = (1248,)
+segments_loudness_max_time: shape = (1248,)
+segments_loudness_start: shape = (1248,)
+segments_pitches: shape = (1248, 12)
+segments_start: shape = (1248,)
+segments_timbre: shape = (1248, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.697181542285
+song_id: SOWCGOU12A81C2194D
+start_of_fade_out: 257.62
+tatums_confidence: shape = (1838,)
+tatums_start: shape = (1838,)
+tempo: 106.769
+time_signature: 4
+time_signature_confidence: 1.0
+title: A La Memoria Del Muerto
+track_7digitalid: 2531111
+track_id: TRABMDN128F4222B61
+year: 2004

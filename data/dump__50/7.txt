@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6795
+artist_familiarity: 0.821718693377
+artist_hotttnesss: 0.696161109836
+artist_id: ARZWK2R1187B98F09F
+artist_latitude: nan
+artist_location: Chicago
+artist_longitude: nan
+artist_mbid: 606bf117-494f-4864-891f-09d63ff6aa4b
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Rise Against
+artist_playmeid: 4579
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 3f435eb4a98ce468acb70504a7b5013c
+bars_confidence: shape = (154,)
+bars_start: shape = (154,)
+beats_confidence: shape = (617,)
+beats_start: shape = (617,)
+danceability: 0.0
+duration: 181.57669
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.301
+loudness: -3.696
+mode: 0
+mode_confidence: 0.336
+release: The Sufferer & The Witness
+release_7digitalid: 36714
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (596,)
+segments_loudness_max: shape = (596,)
+segments_loudness_max_time: shape = (596,)
+segments_loudness_start: shape = (596,)
+segments_pitches: shape = (596, 12)
+segments_start: shape = (596,)
+segments_timbre: shape = (596, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBDENU12CF5465247
+start_of_fade_out: 176.721
+tatums_confidence: shape = (1234,)
+tatums_start: shape = (1234,)
+tempo: 209.141
+time_signature: 4
+time_signature_confidence: 0.0
+title: Drones
+track_7digitalid: 394433
+track_id: TRARANL128F1478789
+year: 2006

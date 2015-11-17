@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16617
+artist_familiarity: 0.631050319904
+artist_hotttnesss: 0.609481161338
+artist_id: ARM7C1Q1187FB471C8
+artist_latitude: nan
+artist_location: Bridgend, South Wales, UK
+artist_longitude: nan
+artist_mbid: d530dbf9-69b1-404f-98f2-0431104f5a1e
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Bullet For My Valentine
+artist_playmeid: 3680
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 800d80ec867ca8e06334defc0c3eb9c0
+bars_confidence: shape = (169,)
+bars_start: shape = (169,)
+beats_confidence: shape = (680,)
+beats_start: shape = (680,)
+danceability: 0.0
+duration: 223.76444
+end_of_fade_in: 0.113
+energy: 0.0
+key: 8
+key_confidence: 0.673
+loudness: -2.839
+mode: 1
+mode_confidence: 0.638
+release: The Poison
+release_7digitalid: 389990
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (661,)
+segments_loudness_max: shape = (661,)
+segments_loudness_max_time: shape = (661,)
+segments_loudness_start: shape = (661,)
+segments_pitches: shape = (661, 12)
+segments_start: shape = (661,)
+segments_timbre: shape = (661, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.513189736126
+song_id: SOWMQGR12A8C1458A2
+start_of_fade_out: 221.048
+tatums_confidence: shape = (1360,)
+tatums_start: shape = (1360,)
+tempo: 185.012
+time_signature: 4
+time_signature_confidence: 0.0
+title: 4 Words (To Choke Upon)
+track_7digitalid: 4326676
+track_id: TRBFCSV128F92EF7B9
+year: 2005

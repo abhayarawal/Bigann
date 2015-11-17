@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 171024
+artist_familiarity: 0.652367864188
+artist_hotttnesss: 0.437964733142
+artist_id: ARVEJ9M1187FB4DC44
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a9a7819b-8c6a-4b9a-a3e9-cad0471963df
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Les Ogres De Barback
+artist_playmeid: -1
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 0af8f4994ff95bf58e4f016478c93b17
+bars_confidence: shape = (316,)
+bars_start: shape = (316,)
+beats_confidence: shape = (950,)
+beats_start: shape = (950,)
+danceability: 0.0
+duration: 278.12526
+end_of_fade_in: 0.107
+energy: 0.0
+key: 7
+key_confidence: 0.681
+loudness: -10.032
+mode: 0
+mode_confidence: 0.687
+release: Rue du temps
+release_7digitalid: 421961
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1082,)
+segments_loudness_max: shape = (1082,)
+segments_loudness_max_time: shape = (1082,)
+segments_loudness_start: shape = (1082,)
+segments_pitches: shape = (1082, 12)
+segments_start: shape = (1082,)
+segments_timbre: shape = (1082, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFGKES12AB018930D
+start_of_fade_out: 247.229
+tatums_confidence: shape = (1900,)
+tatums_start: shape = (1900,)
+tempo: 209.384
+time_signature: 3
+time_signature_confidence: 1.0
+title: Femme du guerrier
+track_7digitalid: 4703060
+track_id: TRAZSBF128F933BBCA
+year: 1997

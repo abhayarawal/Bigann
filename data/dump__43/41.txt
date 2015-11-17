@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17075
+artist_familiarity: 0.412473042373
+artist_hotttnesss: 0.306976307226
+artist_id: AR9F71I1187FB46CAF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 63da067e-d1ba-4e39-a1ac-ef09594993c4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gordon MacRae
+artist_playmeid: 149144
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: c075308f7da1373b08e9595c91cca259
+bars_confidence: shape = (343,)
+bars_start: shape = (343,)
+beats_confidence: shape = (1043,)
+beats_start: shape = (1043,)
+danceability: 0.0
+duration: 470.9873
+end_of_fade_in: 0.409
+energy: 0.0
+key: 5
+key_confidence: 0.2
+loudness: -14.563
+mode: 1
+mode_confidence: 0.357
+release: Carousel / Rodgers & Hammerstein's / Original Motion Picture Soundtrack (Expanded Edition)
+release_7digitalid: 290435
+sections_confidence: shape = (22,)
+sections_start: shape = (22,)
+segments_confidence: shape = (1406,)
+segments_loudness_max: shape = (1406,)
+segments_loudness_max_time: shape = (1406,)
+segments_loudness_start: shape = (1406,)
+segments_pitches: shape = (1406, 12)
+segments_start: shape = (1406,)
+segments_timbre: shape = (1406, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZIIMQ12A8C13700E
+start_of_fade_out: 464.411
+tatums_confidence: shape = (1043,)
+tatums_start: shape = (1043,)
+tempo: 133.017
+time_signature: 3
+time_signature_confidence: 0.97
+title: Soliloquy (2001 Digital Remaster)
+track_7digitalid: 3256670
+track_id: TRAOVAV128F427A5E0
+year: 0

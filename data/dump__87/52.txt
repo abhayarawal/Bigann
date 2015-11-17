@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 422635
+artist_familiarity: 0.558481252978
+artist_hotttnesss: 0.376325960229
+artist_id: ARC1CJB1187B99FCA4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ca91d4fa-d532-426d-933a-14f26d83ab1b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Laurie Berkner
+artist_playmeid: 177796
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 72c9cd24c0b98195368f73caf7243ed3
+bars_confidence: shape = (383,)
+bars_start: shape = (383,)
+beats_confidence: shape = (383,)
+beats_start: shape = (383,)
+danceability: 0.0
+duration: 167.00036
+end_of_fade_in: 4.661
+energy: 0.0
+key: 9
+key_confidence: 0.868
+loudness: -10.62
+mode: 1
+mode_confidence: 0.865
+release: Whaddaya Think of That?
+release_7digitalid: 633245
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (560,)
+segments_loudness_max: shape = (560,)
+segments_loudness_max_time: shape = (560,)
+segments_loudness_start: shape = (560,)
+segments_pitches: shape = (560, 12)
+segments_start: shape = (560,)
+segments_timbre: shape = (560, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.462643182592
+song_id: SOKPBHZ12AB0181931
+start_of_fade_out: 164.38
+tatums_confidence: shape = (766,)
+tatums_start: shape = (766,)
+tempo: 139.628
+time_signature: 1
+time_signature_confidence: 0.0
+title: The Cat Came Back
+track_7digitalid: 7029354
+track_id: TRBEBTR128F932CD6B
+year: 0

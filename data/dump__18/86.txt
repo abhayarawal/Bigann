@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17102
+artist_familiarity: 0.391454064051
+artist_hotttnesss: 0.320850129554
+artist_id: ARQC4R31187B9A0D88
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a470515d-d664-48e8-a183-663d951c07f4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jo Privat
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 02afee4e62934d33dab973d0e735562a
+bars_confidence: shape = (320,)
+bars_start: shape = (320,)
+beats_confidence: shape = (320,)
+beats_start: shape = (320,)
+danceability: 0.0
+duration: 153.36444
+end_of_fade_in: 0.421
+energy: 0.0
+key: 4
+key_confidence: 0.492
+loudness: -6.811
+mode: 1
+mode_confidence: 0.59
+release: Rendez Vous Au Balajo
+release_7digitalid: 158319
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (527,)
+segments_loudness_max: shape = (527,)
+segments_loudness_max_time: shape = (527,)
+segments_loudness_start: shape = (527,)
+segments_pitches: shape = (527, 12)
+segments_start: shape = (527,)
+segments_timbre: shape = (527, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCCANS12A8C139F53
+start_of_fade_out: 148.416
+tatums_confidence: shape = (640,)
+tatums_start: shape = (640,)
+tempo: 127.659
+time_signature: 1
+time_signature_confidence: 0.0
+title: Rodriguez Pena
+track_7digitalid: 1666454
+track_id: TRAGKPD128F4275DF9
+year: 0

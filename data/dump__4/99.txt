@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 497868
+artist_familiarity: 0.439866904499
+artist_hotttnesss: 0.312947509706
+artist_id: ARUDPRC1257509BA98
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Adr Lavey
+artist_playmeid: -1
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: 7a0efc7e0f0385b59fe2f03085aaf46a
+bars_confidence: shape = (76,)
+bars_start: shape = (76,)
+beats_confidence: shape = (306,)
+beats_start: shape = (306,)
+danceability: 0.0
+duration: 194.45506
+end_of_fade_in: 0.096
+energy: 0.0
+key: 6
+key_confidence: 0.512
+loudness: -6.181
+mode: 1
+mode_confidence: 0.548
+release: Leviathans Creations
+release_7digitalid: 667999
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (893,)
+segments_loudness_max: shape = (893,)
+segments_loudness_max_time: shape = (893,)
+segments_loudness_start: shape = (893,)
+segments_pitches: shape = (893, 12)
+segments_start: shape = (893,)
+segments_timbre: shape = (893, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWOSLT12A8C13F193
+start_of_fade_out: 189.574
+tatums_confidence: shape = (1226,)
+tatums_start: shape = (1226,)
+tempo: 96.007
+time_signature: 4
+time_signature_confidence: 0.655
+title: In The Name of the Father
+track_7digitalid: 7406355
+track_id: TRABQFJ12903CB6C29
+year: 0

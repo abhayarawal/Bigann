@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 214
+artist_familiarity: 0.153605548145
+artist_hotttnesss: 0.607257279581
+artist_id: AR03BDP1187FB5B324
+artist_latitude: 34.05349
+artist_location: Kentwood, LA; Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 45a663b5-b1cb-4a91-bff6-2bef7bbfdd76
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Britney Spears feat. Pharrell Williams
+artist_playmeid: 267
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: fec825e489bbd6e74d30195ccbed0efb
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (404,)
+beats_start: shape = (404,)
+danceability: 0.0
+duration: 225.48853
+end_of_fade_in: 0.345
+energy: 0.0
+key: 6
+key_confidence: 0.835
+loudness: -4.947
+mode: 0
+mode_confidence: 0.77
+release: Touch My Soul_ Vol. 23
+release_7digitalid: 300483
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1090,)
+segments_loudness_max: shape = (1090,)
+segments_loudness_max_time: shape = (1090,)
+segments_loudness_start: shape = (1090,)
+segments_pitches: shape = (1090, 12)
+segments_start: shape = (1090,)
+segments_timbre: shape = (1090, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.563246899281
+song_id: SOLQLGL12A8C138380
+start_of_fade_out: 221.931
+tatums_confidence: shape = (809,)
+tatums_start: shape = (809,)
+tempo: 106.919
+time_signature: 4
+time_signature_confidence: 1.0
+title: Boys
+track_7digitalid: 3384878
+track_id: TRAEBXS128F429933A
+year: 2001

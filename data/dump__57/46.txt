@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 36259
+artist_familiarity: 0.571833795936
+artist_hotttnesss: 0.414985282439
+artist_id: AR508LN1187B996F4E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 863de8b5-4283-48f4-84fa-330cd073f84a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lole y Manuel
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 8af8b0fb498673fa2271d5fb7f773315
+bars_confidence: shape = (85,)
+bars_start: shape = (85,)
+beats_confidence: shape = (345,)
+beats_start: shape = (345,)
+danceability: 0.0
+duration: 145.55383
+end_of_fade_in: 0.583
+energy: 0.0
+key: 6
+key_confidence: 0.487
+loudness: -10.905
+mode: 1
+mode_confidence: 0.593
+release: Alba Molina
+release_7digitalid: 155134
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (545,)
+segments_loudness_max: shape = (545,)
+segments_loudness_max_time: shape = (545,)
+segments_loudness_start: shape = (545,)
+segments_pitches: shape = (545, 12)
+segments_start: shape = (545,)
+segments_timbre: shape = (545, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHHZTL12A8C1363B4
+start_of_fade_out: 145.554
+tatums_confidence: shape = (690,)
+tatums_start: shape = (690,)
+tempo: 148.105
+time_signature: 4
+time_signature_confidence: 0.376
+title: Tango de la Flor (Album Version)
+track_7digitalid: 1624111
+track_id: TRATOQR128F426BAEE
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 333975
+artist_familiarity: 0.530630809297
+artist_hotttnesss: 0.371157041295
+artist_id: ARV2F621187B993BF6
+artist_latitude: 37.77916
+artist_location: California - SF
+artist_longitude: -122.42005
+artist_mbid: a39fdbe7-1407-467b-9e6f-ec403de8bf65
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Waybacks
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 4ca0c3a621437dd0992410937eb7a525
+bars_confidence: shape = (376,)
+bars_start: shape = (376,)
+beats_confidence: shape = (1131,)
+beats_start: shape = (1131,)
+danceability: 0.0
+duration: 288.49587
+end_of_fade_in: 0.164
+energy: 0.0
+key: 0
+key_confidence: 0.592
+loudness: -13.915
+mode: 1
+mode_confidence: 0.64
+release: Devolver
+release_7digitalid: 451714
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (769,)
+segments_loudness_max: shape = (769,)
+segments_loudness_max_time: shape = (769,)
+segments_loudness_start: shape = (769,)
+segments_pitches: shape = (769, 12)
+segments_start: shape = (769,)
+segments_timbre: shape = (769, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONQTFK12AB0180BAC
+start_of_fade_out: 280.892
+tatums_confidence: shape = (1131,)
+tatums_start: shape = (1131,)
+tempo: 240.983
+time_signature: 3
+time_signature_confidence: 0.69
+title: McHattie's Waltz
+track_7digitalid: 5015007
+track_id: TRAPZAW128F930FEEF
+year: 2000

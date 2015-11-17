@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40983
+artist_familiarity: 0.662298709656
+artist_hotttnesss: 0.379137555625
+artist_id: ARALP6I1187B989E27
+artist_latitude: 40.86034
+artist_location: Passaic, NJ
+artist_longitude: -74.12374
+artist_mbid: a8540ea0-1a74-4c22-8b70-1348a77a74a0
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: The Shirelles
+artist_playmeid: 2984
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 8d8b06d77d3cadde3e2db1d047bbff57
+bars_confidence: shape = (63,)
+bars_start: shape = (63,)
+beats_confidence: shape = (255,)
+beats_start: shape = (255,)
+danceability: 0.0
+duration: 132.33587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.696
+loudness: -11.49
+mode: 1
+mode_confidence: 0.588
+release: Karaoke: 60's Star Power - Singing to the Hits
+release_7digitalid: 610227
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (458,)
+segments_loudness_max: shape = (458,)
+segments_loudness_max_time: shape = (458,)
+segments_loudness_start: shape = (458,)
+segments_pitches: shape = (458, 12)
+segments_start: shape = (458,)
+segments_timbre: shape = (458, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEYALK12A8C143123
+start_of_fade_out: 126.851
+tatums_confidence: shape = (510,)
+tatums_start: shape = (510,)
+tempo: 116.764
+time_signature: 4
+time_signature_confidence: 0.765
+title: Foolish Little Girl
+track_7digitalid: 6783163
+track_id: TRBBCOM128F92F1208
+year: 1963

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 440148
+artist_familiarity: 0.387295691307
+artist_hotttnesss: 0.283367108282
+artist_id: AR02KZG1187FB3B3B4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 87d93b85-413c-4374-b2bc-3ac5ef2c3189
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Hi-Fi Companions
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 30e7cdaec358c6645798a9316391171c
+bars_confidence: shape = (250,)
+bars_start: shape = (250,)
+beats_confidence: shape = (1004,)
+beats_start: shape = (1004,)
+danceability: 0.0
+duration: 464.5873
+end_of_fade_in: 0.183
+energy: 0.0
+key: 4
+key_confidence: 0.482
+loudness: -7.818
+mode: 0
+mode_confidence: 0.416
+release: Swingers In Paradise
+release_7digitalid: 590928
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (2511,)
+segments_loudness_max: shape = (2511,)
+segments_loudness_max_time: shape = (2511,)
+segments_loudness_start: shape = (2511,)
+segments_pitches: shape = (2511, 12)
+segments_start: shape = (2511,)
+segments_timbre: shape = (2511, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.223238282807
+song_id: SOZZFVR12AB0188142
+start_of_fade_out: 457.543
+tatums_confidence: shape = (2007,)
+tatums_start: shape = (2007,)
+tempo: 130.005
+time_signature: 4
+time_signature_confidence: 0.383
+title: Amoria
+track_7digitalid: 6553818
+track_id: TRAPTCZ12903CD4408
+year: 2003

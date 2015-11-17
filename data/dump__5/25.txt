@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16253
+artist_familiarity: 0.604259559858
+artist_hotttnesss: 0.461023015726
+artist_id: AR0CDSK1187FB52ED6
+artist_latitude: nan
+artist_location: Paw Paw, WV
+artist_longitude: nan
+artist_mbid: 79ad8210-274e-4a99-8033-f4c9fe9be8a3
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Asleep At The Wheel
+artist_playmeid: 8624
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 427b6b3feb8c2f8babdf8b3107afec3f
+bars_confidence: shape = (130,)
+bars_start: shape = (130,)
+beats_confidence: shape = (524,)
+beats_start: shape = (524,)
+danceability: 0.0
+duration: 251.37587
+end_of_fade_in: 2.914
+energy: 0.0
+key: 0
+key_confidence: 0.335
+loudness: -10.85
+mode: 1
+mode_confidence: 0.418
+release: House Of Blue Lights
+release_7digitalid: 747512
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (961,)
+segments_loudness_max: shape = (961,)
+segments_loudness_max_time: shape = (961,)
+segments_loudness_start: shape = (961,)
+segments_pitches: shape = (961, 12)
+segments_start: shape = (961,)
+segments_timbre: shape = (961, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.260338242567
+song_id: SOLQSUX12AF72AB397
+start_of_fade_out: 241.493
+tatums_confidence: shape = (1048,)
+tatums_start: shape = (1048,)
+tempo: 126.533
+time_signature: 4
+time_signature_confidence: 0.089
+title: Big Balls And Cow Town
+track_7digitalid: 8274275
+track_id: TRABSPB12903D1337A
+year: 0

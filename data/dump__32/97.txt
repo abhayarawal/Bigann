@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8592
+artist_familiarity: 0.637521050415
+artist_hotttnesss: 0.404798068262
+artist_id: ARYYCVC1187B9A8510
+artist_latitude: 35.04644
+artist_location: Chattanooga, TN
+artist_longitude: -85.30946
+artist_mbid: ffa28768-ecda-42c6-ac49-6ce5c7d33043
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bessie Smith
+artist_playmeid: 12625
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 2f78569e5825c184ab6fd52f15b05073
+bars_confidence: shape = (244,)
+bars_start: shape = (244,)
+beats_confidence: shape = (244,)
+beats_start: shape = (244,)
+danceability: 0.0
+duration: 195.70893
+end_of_fade_in: 0.323
+energy: 0.0
+key: 11
+key_confidence: 0.612
+loudness: -21.782
+mode: 0
+mode_confidence: 0.475
+release: Bessie Smith
+release_7digitalid: 443467
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (502,)
+segments_loudness_max: shape = (502,)
+segments_loudness_max_time: shape = (502,)
+segments_loudness_start: shape = (502,)
+segments_pitches: shape = (502, 12)
+segments_start: shape = (502,)
+segments_timbre: shape = (502, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBHLPN12AB01822EB
+start_of_fade_out: 190.92
+tatums_confidence: shape = (487,)
+tatums_start: shape = (487,)
+tempo: 75.316
+time_signature: 1
+time_signature_confidence: 0.107
+title: Gin House Blues
+track_7digitalid: 4924395
+track_id: TRALFJW128F92FB86C
+year: 2007

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23986
+artist_familiarity: 0.744873719262
+artist_hotttnesss: 0.505012391947
+artist_id: AR6CFZ71187B99AE5B
+artist_latitude: 34.23497
+artist_location: Wilmington, NC
+artist_longitude: -77.94599
+artist_mbid: b9fb5447-7f95-4a6a-a157-afed2d7b9f4c
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: He Is Legend
+artist_playmeid: 91861
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 6a63a647e53d2ec7a65c17fb42c51c54
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (338,)
+beats_start: shape = (338,)
+danceability: 0.0
+duration: 207.12444
+end_of_fade_in: 0.077
+energy: 0.0
+key: 7
+key_confidence: 0.517
+loudness: -6.808
+mode: 1
+mode_confidence: 0.51
+release: Suck Out The Poison
+release_7digitalid: 45048
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (811,)
+segments_loudness_max: shape = (811,)
+segments_loudness_max_time: shape = (811,)
+segments_loudness_start: shape = (811,)
+segments_pitches: shape = (811, 12)
+segments_start: shape = (811,)
+segments_timbre: shape = (811, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOATSTU12AF72A64DF
+start_of_fade_out: 207.124
+tatums_confidence: shape = (1352,)
+tatums_start: shape = (1352,)
+tempo: 97.969
+time_signature: 4
+time_signature_confidence: 0.542
+title: Stampede
+track_7digitalid: 480206
+track_id: TRBGDXT128F1487E86
+year: 2006

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8593
+artist_familiarity: 0.517126315036
+artist_hotttnesss: 0.360145056506
+artist_id: ARKJVHY11E2835E76B
+artist_latitude: nan
+artist_location: Massachusetts
+artist_longitude: nan
+artist_mbid: b95e98f2-5511-4dc9-a089-444af424d74d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sonny Terry & Brownie McGhee
+artist_playmeid: 69238
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 6dd5ca4c20f2ee7dc6490fd4f60ac46e
+bars_confidence: shape = (77,)
+bars_start: shape = (77,)
+beats_confidence: shape = (313,)
+beats_start: shape = (313,)
+danceability: 0.0
+duration: 167.02649
+end_of_fade_in: 0.234
+energy: 0.0
+key: 2
+key_confidence: 0.701
+loudness: -19.569
+mode: 1
+mode_confidence: 0.608
+release: Sonny Terry & Brownie McGhee_ Vol. E (1938-1941)
+release_7digitalid: 91294
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (616,)
+segments_loudness_max: shape = (616,)
+segments_loudness_max_time: shape = (616,)
+segments_loudness_start: shape = (616,)
+segments_pitches: shape = (616, 12)
+segments_start: shape = (616,)
+segments_timbre: shape = (616, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGHJED12A8C137F42
+start_of_fade_out: 160.961
+tatums_confidence: shape = (626,)
+tatums_start: shape = (626,)
+tempo: 117.625
+time_signature: 4
+time_signature_confidence: 0.394
+title: My Bulldog Blues
+track_7digitalid: 967432
+track_id: TRAEMZE128F426EB6B
+year: 0

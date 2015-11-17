@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 135889
+artist_familiarity: 0.645533996473
+artist_hotttnesss: 0.448407442123
+artist_id: AR1ZZOW1187B99BA84
+artist_latitude: 40.14323
+artist_location: New Jersey
+artist_longitude: -74.72671
+artist_mbid: cf6fd745-1035-4bad-b0ef-33ed822b00b7
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Bumblefoot
+artist_playmeid: 80775
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 09e92aa4fa101a8ae786a99c6a173a7b
+bars_confidence: shape = (81,)
+bars_start: shape = (81,)
+beats_confidence: shape = (325,)
+beats_start: shape = (325,)
+danceability: 0.0
+duration: 200.35873
+end_of_fade_in: 0.067
+energy: 0.0
+key: 2
+key_confidence: 0.487
+loudness: -4.793
+mode: 1
+mode_confidence: 0.434
+release: Abnormal
+release_7digitalid: 630579
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (806,)
+segments_loudness_max: shape = (806,)
+segments_loudness_max_time: shape = (806,)
+segments_loudness_start: shape = (806,)
+segments_pitches: shape = (806, 12)
+segments_start: shape = (806,)
+segments_timbre: shape = (806, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.272245680006
+song_id: SOJPOIO12AB0184888
+start_of_fade_out: 194.99
+tatums_confidence: shape = (1301,)
+tatums_start: shape = (1301,)
+tempo: 98.784
+time_signature: 4
+time_signature_confidence: 0.26
+title: Piranha
+track_7digitalid: 6997683
+track_id: TRAHYDH128F9325200
+year: 2008

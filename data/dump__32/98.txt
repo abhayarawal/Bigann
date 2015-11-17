@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1245
+artist_familiarity: 0.810696983072
+artist_hotttnesss: 0.481975849154
+artist_id: ARO5T1P1187B9AC680
+artist_latitude: 40.65507
+artist_location: Brooklyn, New York
+artist_longitude: -73.94888
+artist_mbid: 9d1ebcfe-4c15-4d18-95d3-d919898638a1
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Lou Reed
+artist_playmeid: 960
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: f4f3583b1ba93c026478b8da2bc8f581
+bars_confidence: shape = (28,)
+bars_start: shape = (28,)
+beats_confidence: shape = (123,)
+beats_start: shape = (123,)
+danceability: 0.0
+duration: 111.15057
+end_of_fade_in: 2.978
+energy: 0.0
+key: 7
+key_confidence: 0.462
+loudness: -23.367
+mode: 1
+mode_confidence: 0.329
+release: Berlin: Live at St. Ann's Warehouse
+release_7digitalid: 326964
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (236,)
+segments_loudness_max: shape = (236,)
+segments_loudness_max_time: shape = (236,)
+segments_loudness_start: shape = (236,)
+segments_pitches: shape = (236, 12)
+segments_start: shape = (236,)
+segments_timbre: shape = (236, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.460541281359
+song_id: SOKHSHK12AB017BBDC
+start_of_fade_out: 111.151
+tatums_confidence: shape = (244,)
+tatums_start: shape = (244,)
+tempo: 65.896
+time_signature: 4
+time_signature_confidence: 0.43
+title: Intro
+track_7digitalid: 3677995
+track_id: TRALFLE128F92E166E
+year: 0

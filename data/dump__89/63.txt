@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40884
+artist_familiarity: 0.7379725284
+artist_hotttnesss: 0.555968803752
+artist_id: ARAEX7Y1187FB42D36
+artist_latitude: nan
+artist_location: Severn, MD
+artist_longitude: nan
+artist_mbid: 3c8a8696-e176-4c46-a2d3-48b6b1525c7f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Toni Braxton
+artist_playmeid: 1610
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 977ef80049bfc4c0be123bd062a1ab34
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (351,)
+beats_start: shape = (351,)
+danceability: 0.0
+duration: 249.18159
+end_of_fade_in: 0.09
+energy: 0.0
+key: 1
+key_confidence: 0.337
+loudness: -6.297
+mode: 1
+mode_confidence: 0.429
+release: More Than A Woman
+release_7digitalid: 299156
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (950,)
+segments_loudness_max: shape = (950,)
+segments_loudness_max_time: shape = (950,)
+segments_loudness_start: shape = (950,)
+segments_pitches: shape = (950, 12)
+segments_start: shape = (950,)
+segments_timbre: shape = (950, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.662651978738
+song_id: SORTGHI12A8C13FB9A
+start_of_fade_out: 235.224
+tatums_confidence: shape = (702,)
+tatums_start: shape = (702,)
+tempo: 84.797
+time_signature: 4
+time_signature_confidence: 0.0
+title: Tell Me
+track_7digitalid: 3356801
+track_id: TRBEYJR128F4292651
+year: 2002

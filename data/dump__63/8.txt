@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5239
+artist_familiarity: 0.527279842846
+artist_hotttnesss: 0.320660017163
+artist_id: AR163QH1187FB42E0D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7796eed0-9716-42d4-ab3f-f9a25c22069e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Terry Dexter
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: b1d6c2e3719f198e2cd3a33c6a1fafb1
+bars_confidence: shape = (114,)
+bars_start: shape = (114,)
+beats_confidence: shape = (470,)
+beats_start: shape = (470,)
+danceability: 0.0
+duration: 281.86077
+end_of_fade_in: 0.154
+energy: 0.0
+key: 1
+key_confidence: 0.846
+loudness: -8.489
+mode: 1
+mode_confidence: 0.732
+release: Listen
+release_7digitalid: 587868
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (838,)
+segments_loudness_max: shape = (838,)
+segments_loudness_max_time: shape = (838,)
+segments_loudness_start: shape = (838,)
+segments_pitches: shape = (838, 12)
+segments_start: shape = (838,)
+segments_timbre: shape = (838, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SODHUER12AB018859B
+start_of_fade_out: 270.06
+tatums_confidence: shape = (940,)
+tatums_start: shape = (940,)
+tempo: 100.98
+time_signature: 4
+time_signature_confidence: 1.0
+title: Beautiful One
+track_7digitalid: 6519603
+track_id: TRAVPRG12903CCBF03
+year: 2008

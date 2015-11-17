@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 196884
+artist_familiarity: 0.404173370856
+artist_hotttnesss: 0.296346828451
+artist_id: AR90Z4C1187B98A260
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fd1069ae-f5f5-4ae7-8416-c0d081c6db36
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Meiway
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 5e1d099b3aff3dd95d241acc5c8a5bf2
+bars_confidence: shape = (111,)
+bars_start: shape = (111,)
+beats_confidence: shape = (447,)
+beats_start: shape = (447,)
+danceability: 0.0
+duration: 288.62649
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.483
+loudness: -5.297
+mode: 1
+mode_confidence: 0.543
+release: M20
+release_7digitalid: 768659
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1196,)
+segments_loudness_max: shape = (1196,)
+segments_loudness_max_time: shape = (1196,)
+segments_loudness_start: shape = (1196,)
+segments_pitches: shape = (1196, 12)
+segments_start: shape = (1196,)
+segments_timbre: shape = (1196, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOFKWOZ12AB018B51C
+start_of_fade_out: 277.42
+tatums_confidence: shape = (1787,)
+tatums_start: shape = (1787,)
+tempo: 92.979
+time_signature: 4
+time_signature_confidence: 0.84
+title: Aho
+track_7digitalid: 8511484
+track_id: TRBCYAF12903CD6294
+year: 0

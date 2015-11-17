@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 111426
+artist_familiarity: 0.568897346571
+artist_hotttnesss: 0.37498664603
+artist_id: ARZ4UWR1187FB41898
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b5fe748c-28e4-409f-84d6-732555d27ce1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Fastway
+artist_playmeid: 14521
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 95133e6ccc21e88fa5185c97713355c7
+bars_confidence: shape = (164,)
+bars_start: shape = (164,)
+beats_confidence: shape = (659,)
+beats_start: shape = (659,)
+danceability: 0.0
+duration: 302.15791
+end_of_fade_in: 2.125
+energy: 0.0
+key: 9
+key_confidence: 0.453
+loudness: -8.513
+mode: 0
+mode_confidence: 0.446
+release: Waiting For The Roar
+release_7digitalid: 280165
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (939,)
+segments_loudness_max: shape = (939,)
+segments_loudness_max_time: shape = (939,)
+segments_loudness_start: shape = (939,)
+segments_pitches: shape = (939, 12)
+segments_start: shape = (939,)
+segments_timbre: shape = (939, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.445454525493
+song_id: SOEYKSX12A8AE473AF
+start_of_fade_out: 282.569
+tatums_confidence: shape = (1319,)
+tatums_start: shape = (1319,)
+tempo: 133.393
+time_signature: 4
+time_signature_confidence: 0.852
+title: Kill Me With Your Heart
+track_7digitalid: 3121129
+track_id: TRAYAYH128F425DC38
+year: 1986

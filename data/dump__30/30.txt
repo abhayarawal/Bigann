@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 34985
+artist_familiarity: 0.611788253947
+artist_hotttnesss: 0.336726841409
+artist_id: AR202MX1187B9B0383
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4910c255-cd1c-4f3e-a2c1-6e419b162220
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Tanto Metro & Devonte
+artist_playmeid: 17301
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: cc5e8b1f79b948d39fa979a476802465
+bars_confidence: shape = (75,)
+bars_start: shape = (75,)
+beats_confidence: shape = (305,)
+beats_start: shape = (305,)
+danceability: 0.0
+duration: 209.03138
+end_of_fade_in: 3.529
+energy: 0.0
+key: 1
+key_confidence: 0.021
+loudness: -8.726
+mode: 1
+mode_confidence: 0.43
+release: The Beat Goes On
+release_7digitalid: 700385
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (935,)
+segments_loudness_max: shape = (935,)
+segments_loudness_max_time: shape = (935,)
+segments_loudness_start: shape = (935,)
+segments_pitches: shape = (935, 12)
+segments_start: shape = (935,)
+segments_timbre: shape = (935, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOMSKEY12AC468E52C
+start_of_fade_out: 202.722
+tatums_confidence: shape = (1220,)
+tatums_start: shape = (1220,)
+tempo: 87.697
+time_signature: 4
+time_signature_confidence: 1.0
+title: The Story (get It On)
+track_7digitalid: 7771069
+track_id: TRAKFUN12903D0F74F
+year: 0

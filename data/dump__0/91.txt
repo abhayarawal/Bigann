@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3946
+artist_familiarity: 0.454043995003
+artist_hotttnesss: 0.421415102542
+artist_id: AR9XEVF1187B99D017
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8601834a-baf3-473c-aac7-00e37b06144a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Borialis
+artist_playmeid: 119364
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 27c2501d57affc43e719e4d241ec8daf
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (331,)
+beats_start: shape = (331,)
+danceability: 0.0
+duration: 239.3073
+end_of_fade_in: 0.182
+energy: 0.0
+key: 2
+key_confidence: 0.569
+loudness: -5.758
+mode: 1
+mode_confidence: 0.601
+release: What You Thought You Heard
+release_7digitalid: 4967
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (865,)
+segments_loudness_max: shape = (865,)
+segments_loudness_max_time: shape = (865,)
+segments_loudness_start: shape = (865,)
+segments_pitches: shape = (865, 12)
+segments_start: shape = (865,)
+segments_timbre: shape = (865, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.554654767466
+song_id: SORENXV12A6701F61F
+start_of_fade_out: 220.264
+tatums_confidence: shape = (1326,)
+tatums_start: shape = (1326,)
+tempo: 86.938
+time_signature: 4
+time_signature_confidence: 0.222
+title: Hourglass
+track_7digitalid: 51416
+track_id: TRAAGVM128E0784D95
+year: 0

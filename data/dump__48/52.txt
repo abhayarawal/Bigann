@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10621
+artist_familiarity: 0.479755040732
+artist_hotttnesss: 0.340544079537
+artist_id: ARNARI81187FB3C9A7
+artist_latitude: nan
+artist_location: Rio de Janeiro, Brazil
+artist_longitude: nan
+artist_mbid: b1091eee-4198-4e66-8b15-05ae12b03353
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Flora Purim
+artist_playmeid: 27564
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: dc32fe9eea84d32449df4832d16e9eff
+bars_confidence: shape = (47,)
+bars_start: shape = (47,)
+beats_confidence: shape = (296,)
+beats_start: shape = (296,)
+danceability: 0.0
+duration: 242.83383
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.253
+loudness: -19.173
+mode: 1
+mode_confidence: 0.483
+release: Encounter
+release_7digitalid: 275330
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (501,)
+segments_loudness_max: shape = (501,)
+segments_loudness_max_time: shape = (501,)
+segments_loudness_start: shape = (501,)
+segments_pitches: shape = (501, 12)
+segments_start: shape = (501,)
+segments_timbre: shape = (501, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOROJLB12A81C2178B
+start_of_fade_out: 232.594
+tatums_confidence: shape = (591,)
+tatums_start: shape = (591,)
+tempo: 75.297
+time_signature: 5
+time_signature_confidence: 0.83
+title: Tomara (I Wish)
+track_7digitalid: 3062055
+track_id: TRAQMNQ128F4250FD8
+year: 1994

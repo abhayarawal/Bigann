@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 100434
+artist_familiarity: 0.686862470836
+artist_hotttnesss: 0.414292679235
+artist_id: ARGFFF91187FB4FA62
+artist_latitude: nan
+artist_location: Long Island, NY
+artist_longitude: nan
+artist_mbid: 2ff7f5c0-ae22-4922-be09-71474487cc9d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Northern State
+artist_playmeid: 8525
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: cfc3f3f0a73cd6d250eb80de48d85e8a
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (446,)
+beats_start: shape = (446,)
+danceability: 0.0
+duration: 208.09098
+end_of_fade_in: 0.09
+energy: 0.0
+key: 6
+key_confidence: 0.248
+loudness: -7.492
+mode: 1
+mode_confidence: 0.505
+release: All City (Clean)
+release_7digitalid: 292257
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (966,)
+segments_loudness_max: shape = (966,)
+segments_loudness_max_time: shape = (966,)
+segments_loudness_start: shape = (966,)
+segments_pitches: shape = (966, 12)
+segments_start: shape = (966,)
+segments_timbre: shape = (966, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.434838090261
+song_id: SOQZBVF12A8C13813A
+start_of_fade_out: 189.829
+tatums_confidence: shape = (1336,)
+tatums_start: shape = (1336,)
+tempo: 129.352
+time_signature: 5
+time_signature_confidence: 0.659
+title: Last Night
+track_7digitalid: 3282646
+track_id: TRAZYVR128F4280A24
+year: 2004

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41002
+artist_familiarity: 0.645720023336
+artist_hotttnesss: 0.543954417056
+artist_id: AROY6XW1187B991121
+artist_latitude: nan
+artist_location: Carle Place, New York
+artist_longitude: nan
+artist_mbid: 5e7ccd92-6277-451a-aab9-1efd587c50f3
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Steve Vai
+artist_playmeid: 8613
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 1dd21e7f5c58ddd473da15b24b5f645c
+bars_confidence: shape = (49,)
+bars_start: shape = (49,)
+beats_confidence: shape = (201,)
+beats_start: shape = (201,)
+danceability: 0.0
+duration: 69.90322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.051
+loudness: -7.949
+mode: 0
+mode_confidence: 0.143
+release: Sound Theories Vol. I & II
+release_7digitalid: 310447
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (135,)
+segments_loudness_max: shape = (135,)
+segments_loudness_max_time: shape = (135,)
+segments_loudness_start: shape = (135,)
+segments_pitches: shape = (135, 12)
+segments_start: shape = (135,)
+segments_timbre: shape = (135, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.518340537882
+song_id: SORSIAC12A8C140BD9
+start_of_fade_out: 60.889
+tatums_confidence: shape = (201,)
+tatums_start: shape = (201,)
+tempo: 169.654
+time_signature: 4
+time_signature_confidence: 0.896
+title: The Murder Prologue
+track_7digitalid: 3535642
+track_id: TRBDFJX128F92C2847
+year: 2007

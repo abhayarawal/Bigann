@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1246
+artist_familiarity: 0.845768866449
+artist_hotttnesss: 0.788805935162
+artist_id: ARF2EHS1187B994F4E
+artist_latitude: 36.16778
+artist_location: Nashville, Tennessee
+artist_longitude: -86.77836
+artist_mbid: 6ffb8ea9-2370-44d8-b678-e9237bbd347b
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Kings Of Leon
+artist_playmeid: 1858
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 2c5618de2a1419e40855a8454abcb6dc
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (361,)
+beats_start: shape = (361,)
+danceability: 0.0
+duration: 187.92444
+end_of_fade_in: 0.328
+energy: 0.0
+key: 0
+key_confidence: 0.612
+loudness: -5.907
+mode: 1
+mode_confidence: 0.735
+release: Holy Roller Novocaine
+release_7digitalid: 449471
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (504,)
+segments_loudness_max: shape = (504,)
+segments_loudness_max_time: shape = (504,)
+segments_loudness_start: shape = (504,)
+segments_pitches: shape = (504, 12)
+segments_start: shape = (504,)
+segments_timbre: shape = (504, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.685940226698
+song_id: SOLGHDZ12AB0183B11
+start_of_fade_out: 180.344
+tatums_confidence: shape = (722,)
+tatums_start: shape = (722,)
+tempo: 116.823
+time_signature: 4
+time_signature_confidence: 0.347
+title: Wicker Chair
+track_7digitalid: 4989932
+track_id: TRAAEWG128F930B3A4
+year: 2003

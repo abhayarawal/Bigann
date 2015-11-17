@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 27818
+artist_familiarity: 0.690080123787
+artist_hotttnesss: 0.466775621926
+artist_id: ARQXR6R1187FB46FD6
+artist_latitude: nan
+artist_location: Minneapolis, MN
+artist_longitude: nan
+artist_mbid: b10db9ad-b4c3-47f3-a7a4-37864b134f65
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Soul Asylum
+artist_playmeid: 8610
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 9765562601bbcd750114e5af6a60d928
+bars_confidence: shape = (48,)
+bars_start: shape = (48,)
+beats_confidence: shape = (193,)
+beats_start: shape = (193,)
+danceability: 0.0
+duration: 166.26893
+end_of_fade_in: 0.18
+energy: 0.0
+key: 11
+key_confidence: 0.169
+loudness: -11.207
+mode: 0
+mode_confidence: 0.415
+release: Say What You Will  Clarence...Karl Sold The Truck
+release_7digitalid: 38767
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (743,)
+segments_loudness_max: shape = (743,)
+segments_loudness_max_time: shape = (743,)
+segments_loudness_start: shape = (743,)
+segments_pitches: shape = (743, 12)
+segments_start: shape = (743,)
+segments_timbre: shape = (743, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SODRXYW12A6D4F956E
+start_of_fade_out: 162.458
+tatums_confidence: shape = (964,)
+tatums_start: shape = (964,)
+tempo: 70.778
+time_signature: 4
+time_signature_confidence: 0.0
+title: Long Day (Album Version)
+track_7digitalid: 415052
+track_id: TRAOJNB128F147C52F
+year: 0

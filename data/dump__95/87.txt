@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 92693
+artist_familiarity: 0.572943395802
+artist_hotttnesss: 0.435808284864
+artist_id: ARR46IW1187FB51C2E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b1ea49d6-e25b-4675-9104-8329442c3e9e
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Nicholas Hooper
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 2c6cd6ca0276d0e6f58fe8d427a78294
+bars_confidence: shape = (63,)
+bars_start: shape = (63,)
+beats_confidence: shape = (323,)
+beats_start: shape = (323,)
+danceability: 0.0
+duration: 214.90893
+end_of_fade_in: 4.174
+energy: 0.0
+key: 8
+key_confidence: 0.012
+loudness: -29.51
+mode: 1
+mode_confidence: 0.331
+release: Harry Potter And The Half-Blood Prince - Original Soundtrack
+release_7digitalid: 505179
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (384,)
+segments_loudness_max: shape = (384,)
+segments_loudness_max_time: shape = (384,)
+segments_loudness_start: shape = (384,)
+segments_pitches: shape = (384, 12)
+segments_start: shape = (384,)
+segments_timbre: shape = (384, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHDPIN12AC960DAC9
+start_of_fade_out: 203.61
+tatums_confidence: shape = (968,)
+tatums_start: shape = (968,)
+tempo: 93.633
+time_signature: 5
+time_signature_confidence: 0.617
+title: The Killing Of Dumbledore ("Harry Potter & The Half-Blood Prince")
+track_7digitalid: 5589872
+track_id: TRBHAHN128F932D09E
+year: 0

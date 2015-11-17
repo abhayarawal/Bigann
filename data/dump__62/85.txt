@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 192150
+artist_familiarity: 0.624573379079
+artist_hotttnesss: 0.438701670045
+artist_id: AR32JLC1187B9946AF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6c7aac91-d780-4c24-9700-590c69f1c8f9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: X-Raided
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: fb3da45060bc4220fc6b7026993458c4
+bars_confidence: shape = (84,)
+bars_start: shape = (84,)
+beats_confidence: shape = (342,)
+beats_start: shape = (342,)
+danceability: 0.0
+duration: 281.83465
+end_of_fade_in: 0.45
+energy: 0.0
+key: 7
+key_confidence: 0.844
+loudness: -6.392
+mode: 1
+mode_confidence: 0.709
+release: Bloc Bizniz
+release_7digitalid: 751159
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1163,)
+segments_loudness_max: shape = (1163,)
+segments_loudness_max_time: shape = (1163,)
+segments_loudness_start: shape = (1163,)
+segments_pitches: shape = (1163, 12)
+segments_start: shape = (1163,)
+segments_timbre: shape = (1163, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHFJRL12AB0185571
+start_of_fade_out: 268.997
+tatums_confidence: shape = (1027,)
+tatums_start: shape = (1027,)
+tempo: 73.052
+time_signature: 4
+time_signature_confidence: 0.349
+title: Liftoff
+track_7digitalid: 8316561
+track_id: TRAVNYY12903CA6AA3
+year: 0

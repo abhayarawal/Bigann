@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15044
+artist_familiarity: 0.563421563097
+artist_hotttnesss: 0.402033856023
+artist_id: ARFQ7RR1187FB3CC0A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6faf0844-7fe3-4021-9ffe-e0ecccd517ec
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Badmarsh & Shri
+artist_playmeid: -1
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 92a27b1259529831b4dbbf4bfdf92b2e
+bars_confidence: shape = (124,)
+bars_start: shape = (124,)
+beats_confidence: shape = (375,)
+beats_start: shape = (375,)
+danceability: 0.0
+duration: 263.31383
+end_of_fade_in: 3.558
+energy: 0.0
+key: 6
+key_confidence: 0.432
+loudness: -6.715
+mode: 1
+mode_confidence: 0.586
+release: Signs
+release_7digitalid: 31500
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1262,)
+segments_loudness_max: shape = (1262,)
+segments_loudness_max_time: shape = (1262,)
+segments_loudness_start: shape = (1262,)
+segments_pitches: shape = (1262, 12)
+segments_start: shape = (1262,)
+segments_timbre: shape = (1262, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.579728748614
+song_id: SOGHPTG12A6D4F97CF
+start_of_fade_out: 263.314
+tatums_confidence: shape = (1126,)
+tatums_start: shape = (1126,)
+tempo: 87.327
+time_signature: 3
+time_signature_confidence: 1.0
+title: Bang
+track_7digitalid: 340748
+track_id: TRBDMJP128F146E512
+year: 2001

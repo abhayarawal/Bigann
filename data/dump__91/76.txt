@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20912
+artist_familiarity: 0.844039532227
+artist_hotttnesss: 0.524378987515
+artist_id: ARUSOMY1187FB4D3B4
+artist_latitude: nan
+artist_location: Pittsburgh, PA
+artist_longitude: nan
+artist_mbid: b88f21a7-a1b9-48fd-bbc4-ae758026f17f
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Anti-Flag
+artist_playmeid: 8398
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 26399f23b89cf549540c2ed2d358d7c2
+bars_confidence: shape = (451,)
+bars_start: shape = (451,)
+beats_confidence: shape = (451,)
+beats_start: shape = (451,)
+danceability: 0.0
+duration: 188.55138
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 1.0
+loudness: -5.032
+mode: 1
+mode_confidence: 0.762
+release: The People or The Gun
+release_7digitalid: 468835
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (498,)
+segments_loudness_max: shape = (498,)
+segments_loudness_max_time: shape = (498,)
+segments_loudness_start: shape = (498,)
+segments_pitches: shape = (498, 12)
+segments_start: shape = (498,)
+segments_timbre: shape = (498, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.613814443903
+song_id: SOVMQSA12A58A789E3
+start_of_fade_out: 177.975
+tatums_confidence: shape = (903,)
+tatums_start: shape = (903,)
+tempo: 146.141
+time_signature: 1
+time_signature_confidence: 0.0
+title: The Gre(A)t Depression
+track_7digitalid: 5213819
+track_id: TRBFQTF128F933EDCA
+year: 2009

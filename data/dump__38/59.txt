@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16470
+artist_familiarity: 0.632130913015
+artist_hotttnesss: 0.472281210651
+artist_id: ARO0QD41187FB3AB0A
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 280ddd36-ac7d-4446-8689-a548d6f3458e
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Keb' Mo'
+artist_playmeid: 13085
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 005f92fe0db71d7a6e861d3d5169c761
+bars_confidence: shape = (109,)
+bars_start: shape = (109,)
+beats_confidence: shape = (344,)
+beats_start: shape = (344,)
+danceability: 0.0
+duration: 242.80771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.678
+loudness: -16.239
+mode: 1
+mode_confidence: 0.849
+release: Big Wide Grin
+release_7digitalid: 283805
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (717,)
+segments_loudness_max: shape = (717,)
+segments_loudness_max_time: shape = (717,)
+segments_loudness_start: shape = (717,)
+segments_pitches: shape = (717, 12)
+segments_start: shape = (717,)
+segments_timbre: shape = (717, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.484562529968
+song_id: SORBWQW12A8C130C25
+start_of_fade_out: 233.837
+tatums_confidence: shape = (688,)
+tatums_start: shape = (688,)
+tempo: 86.631
+time_signature: 3
+time_signature_confidence: 1.0
+title: I Am Your Mother Too
+track_7digitalid: 3183344
+track_id: TRANEYV128F4269032
+year: 2001

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 47808
+artist_familiarity: 0.298409678388
+artist_hotttnesss: 0.215021295324
+artist_id: ARQB8PN1187B98E6C4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b7214281-5136-4abd-b374-da5e6c588232
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tresenlesen
+artist_playmeid: -1
+artist_terms: shape = (8,)
+artist_terms_freq: shape = (8,)
+artist_terms_weight: shape = (8,)
+audio_md5: 5fed7a28a733597c4ca645ab5c570a5e
+bars_confidence: shape = (135,)
+bars_start: shape = (135,)
+beats_confidence: shape = (687,)
+beats_start: shape = (687,)
+danceability: 0.0
+duration: 239.46404
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.481
+loudness: -12.119
+mode: 1
+mode_confidence: 0.413
+release: Kloidt Ze Di Penussen!
+release_7digitalid: 65878
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (814,)
+segments_loudness_max: shape = (814,)
+segments_loudness_max_time: shape = (814,)
+segments_loudness_start: shape = (814,)
+segments_pitches: shape = (814, 12)
+segments_start: shape = (814,)
+segments_timbre: shape = (814, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOMYHTA12A6D4FB87D
+start_of_fade_out: 218.163
+tatums_confidence: shape = (687,)
+tatums_start: shape = (687,)
+tempo: 174.332
+time_signature: 5
+time_signature_confidence: 0.939
+title: Das Gelübde
+track_7digitalid: 687804
+track_id: TRANNCH128F14B1A75
+year: 1998

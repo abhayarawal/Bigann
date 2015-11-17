@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 123275
+artist_familiarity: 0.547801656047
+artist_hotttnesss: 0.36947051062
+artist_id: ARKO7AO1187FB5664B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7a4311d2-5f0e-40df-b03d-ac4a5465b236
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Tin Hat Trio
+artist_playmeid: 61977
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: b5a74224615976464c085833c4960be9
+bars_confidence: shape = (137,)
+bars_start: shape = (137,)
+beats_confidence: shape = (421,)
+beats_start: shape = (421,)
+danceability: 0.0
+duration: 276.58404
+end_of_fade_in: 0.723
+energy: 0.0
+key: 5
+key_confidence: 0.747
+loudness: -12.614
+mode: 1
+mode_confidence: 0.565
+release: The Rodeo Eroded
+release_7digitalid: 603826
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (865,)
+segments_loudness_max: shape = (865,)
+segments_loudness_max_time: shape = (865,)
+segments_loudness_start: shape = (865,)
+segments_pitches: shape = (865, 12)
+segments_start: shape = (865,)
+segments_timbre: shape = (865, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.544575868502
+song_id: SONPSZT12AC3DF9942
+start_of_fade_out: 266.635
+tatums_confidence: shape = (842,)
+tatums_start: shape = (842,)
+tempo: 91.681
+time_signature: 3
+time_signature_confidence: 0.828
+title: Willow Weep For Me (With Willie Nelson)
+track_7digitalid: 6706917
+track_id: TRASVXI12903CF98CD
+year: 2002

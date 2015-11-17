@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 28343
+artist_familiarity: 0.719492291264
+artist_hotttnesss: 0.467565441274
+artist_id: ARWVOHH1187FB5974B
+artist_latitude: nan
+artist_location: Cleveland, OH
+artist_longitude: nan
+artist_mbid: 185af318-55c7-405f-8b00-0fa308e56da9
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Screamin' Jay Hawkins
+artist_playmeid: 12732
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: fdf2a4cdbc56188a86fb6c4968c5bf69
+bars_confidence: shape = (193,)
+bars_start: shape = (193,)
+beats_confidence: shape = (582,)
+beats_start: shape = (582,)
+danceability: 0.0
+duration: 301.13914
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.605
+loudness: -7.401
+mode: 1
+mode_confidence: 0.578
+release: I Put a Spell on You: The Best Of
+release_7digitalid: 95340
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1042,)
+segments_loudness_max: shape = (1042,)
+segments_loudness_max_time: shape = (1042,)
+segments_loudness_start: shape = (1042,)
+segments_pitches: shape = (1042, 12)
+segments_start: shape = (1042,)
+segments_timbre: shape = (1042, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.582918458498
+song_id: SOLDTNU12A58A7A231
+start_of_fade_out: 291.91
+tatums_confidence: shape = (1165,)
+tatums_start: shape = (1165,)
+tempo: 116.01
+time_signature: 3
+time_signature_confidence: 0.918
+title: What's Gonna Happen On the 8th Day
+track_7digitalid: 1044564
+track_id: TRBCHIL128F4281434
+year: 1996

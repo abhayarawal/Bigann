@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 398782
+artist_familiarity: 0.423385846796
+artist_hotttnesss: 0.367007961493
+artist_id: AR8LD3R1187FB4D08F
+artist_latitude: 30.9742
+artist_location: Louisiana
+artist_longitude: -91.52382
+artist_mbid: 22474393-579b-414c-aa24-d74598f193f7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: C.C. Adcock
+artist_playmeid: -1
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: dbb67d1dc62cd54715125dd71b60580a
+bars_confidence: shape = (345,)
+bars_start: shape = (345,)
+beats_confidence: shape = (345,)
+beats_start: shape = (345,)
+danceability: 0.0
+duration: 121.0771
+end_of_fade_in: 0.078
+energy: 0.0
+key: 7
+key_confidence: 0.398
+loudness: -7.071
+mode: 1
+mode_confidence: 0.525
+release: C.C. Adcock
+release_7digitalid: 539338
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (482,)
+segments_loudness_max: shape = (482,)
+segments_loudness_max_time: shape = (482,)
+segments_loudness_start: shape = (482,)
+segments_pitches: shape = (482, 12)
+segments_start: shape = (482,)
+segments_timbre: shape = (482, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOGCMMV12AB0184BBB
+start_of_fade_out: 119.049
+tatums_confidence: shape = (690,)
+tatums_start: shape = (690,)
+tempo: 172.716
+time_signature: 1
+time_signature_confidence: 0.0
+title: Good Loving
+track_7digitalid: 5969636
+track_id: TRACETS128F9313A75
+year: 0

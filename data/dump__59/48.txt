@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 97773
+artist_familiarity: 0.526077280017
+artist_hotttnesss: 0.374560252927
+artist_id: AR4MCB01187B98BF5C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: be4aed5d-28d5-423a-a229-cb812cbe0167
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Atman
+artist_playmeid: 75062
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 9e66a711359c19d769507debfb521058
+bars_confidence: shape = (157,)
+bars_start: shape = (157,)
+beats_confidence: shape = (632,)
+beats_start: shape = (632,)
+danceability: 0.0
+duration: 433.94567
+end_of_fade_in: 7.866
+energy: 0.0
+key: 6
+key_confidence: 0.114
+loudness: -7.77
+mode: 1
+mode_confidence: 0.46
+release: 97 | 07
+release_7digitalid: 553001
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (2161,)
+segments_loudness_max: shape = (2161,)
+segments_loudness_max_time: shape = (2161,)
+segments_loudness_start: shape = (2161,)
+segments_pitches: shape = (2161, 12)
+segments_start: shape = (2161,)
+segments_timbre: shape = (2161, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHWNYG12A81C208D4
+start_of_fade_out: 423.027
+tatums_confidence: shape = (2529,)
+tatums_start: shape = (2529,)
+tempo: 89.385
+time_signature: 4
+time_signature_confidence: 0.234
+title: All Is One
+track_7digitalid: 6113640
+track_id: TRAUHVP128F933657C
+year: 1998

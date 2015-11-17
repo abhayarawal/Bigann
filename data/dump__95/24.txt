@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 389584
+artist_familiarity: 0.639165318057
+artist_hotttnesss: 0.443395584874
+artist_id: ARY02GH1187B99B223
+artist_latitude: nan
+artist_location: Edmonton, Alberta, Canada
+artist_longitude: nan
+artist_mbid: 050bd499-feba-4321-93d7-27b96a60d504
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Zombie Girl
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: db74c4ccb0a89d1aab4d55c61e4dd9b1
+bars_confidence: shape = (128,)
+bars_start: shape = (128,)
+beats_confidence: shape = (514,)
+beats_start: shape = (514,)
+danceability: 0.0
+duration: 256.73098
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.207
+loudness: -7.479
+mode: 0
+mode_confidence: 0.548
+release: Endzeit Bunkertracks - Act IV: The Alfa Matrix Selection
+release_7digitalid: 818242
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (833,)
+segments_loudness_max: shape = (833,)
+segments_loudness_max_time: shape = (833,)
+segments_loudness_start: shape = (833,)
+segments_pitches: shape = (833, 12)
+segments_start: shape = (833,)
+segments_timbre: shape = (833, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.425124658313
+song_id: SOOKYPR12AB018AD0C
+start_of_fade_out: 245.412
+tatums_confidence: shape = (1542,)
+tatums_start: shape = (1542,)
+tempo: 120.103
+time_signature: 4
+time_signature_confidence: 1.0
+title: The Darkness (Komor Kommando Mix)
+track_7digitalid: 9040207
+track_id: TRBGVWB12903CE31A6
+year: 2009

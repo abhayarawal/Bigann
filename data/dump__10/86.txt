@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 169
+artist_familiarity: 0.825805386192
+artist_hotttnesss: 0.661382924338
+artist_id: ARH3S5S1187FB4F76B
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: 9282c8b4-ca0b-4c6b-b7e3-4f7762dfc4d6
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Nirvana
+artist_playmeid: 188210
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: bc4e6dd05feccd85dc5ea7cb25d814a7
+bars_confidence: shape = (122,)
+bars_start: shape = (122,)
+beats_confidence: shape = (491,)
+beats_start: shape = (491,)
+danceability: 0.0
+duration: 281.65179
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.804
+loudness: -6.89
+mode: 1
+mode_confidence: 0.637
+release: From The Muddy Banks Of The Wishkah
+release_7digitalid: 14329
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (776,)
+segments_loudness_max: shape = (776,)
+segments_loudness_max_time: shape = (776,)
+segments_loudness_start: shape = (776,)
+segments_pitches: shape = (776, 12)
+segments_start: shape = (776,)
+segments_timbre: shape = (776, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.544855920119
+song_id: SOSMWDQ12A6701E981
+start_of_fade_out: 273.386
+tatums_confidence: shape = (982,)
+tatums_start: shape = (982,)
+tempo: 105.826
+time_signature: 4
+time_signature_confidence: 0.0
+title: Heart-Shaped Box
+track_7digitalid: 148359
+track_id: TRADPIA128E078EE1B
+year: 0

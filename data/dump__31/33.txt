@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1015
+artist_familiarity: 0.814506223599
+artist_hotttnesss: 0.584836888719
+artist_id: AR9W3X91187FB3994C
+artist_latitude: nan
+artist_location: Chiswick, London, England
+artist_longitude: nan
+artist_mbid: 401c3991-b76b-499d-8082-9f2df958ef78
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Phil Collins
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 983f60d016bd48da2a900d5f24b46060
+bars_confidence: shape = (68,)
+bars_start: shape = (68,)
+beats_confidence: shape = (275,)
+beats_start: shape = (275,)
+danceability: 0.0
+duration: 172.93016
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.516
+loudness: -11.813
+mode: 1
+mode_confidence: 0.805
+release: Hits
+release_7digitalid: 133451
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (649,)
+segments_loudness_max: shape = (649,)
+segments_loudness_max_time: shape = (649,)
+segments_loudness_start: shape = (649,)
+segments_pitches: shape = (649, 12)
+segments_start: shape = (649,)
+segments_timbre: shape = (649, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOILEMF12CF530E512
+start_of_fade_out: 162.331
+tatums_confidence: shape = (551,)
+tatums_start: shape = (551,)
+tempo: 97.649
+time_signature: 4
+time_signature_confidence: 0.0
+title: You Can't Hurry Love  (LP Version)
+track_7digitalid: 1383350
+track_id: TRAKPND128F42389EA
+year: 0

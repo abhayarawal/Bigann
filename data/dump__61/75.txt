@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 270342
+artist_familiarity: 0.540862601844
+artist_hotttnesss: 0.482490972444
+artist_id: ARQVZ7F1187FB57CC9
+artist_latitude: nan
+artist_location: Virginia
+artist_longitude: nan
+artist_mbid: 211da642-bc13-47f4-85c5-34c071f83a06
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Twenty 4 Seven
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: b0fdf9e8e28368dff62109c45630ba5a
+bars_confidence: shape = (126,)
+bars_start: shape = (126,)
+beats_confidence: shape = (509,)
+beats_start: shape = (509,)
+danceability: 0.0
+duration: 215.01342
+end_of_fade_in: 0.311
+energy: 0.0
+key: 8
+key_confidence: 0.852
+loudness: -12.066
+mode: 1
+mode_confidence: 0.67
+release: Best of
+release_7digitalid: 784667
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1102,)
+segments_loudness_max: shape = (1102,)
+segments_loudness_max_time: shape = (1102,)
+segments_loudness_start: shape = (1102,)
+segments_pitches: shape = (1102, 12)
+segments_start: shape = (1102,)
+segments_timbre: shape = (1102, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.266955186276
+song_id: SOSVWFQ12AC95F0272
+start_of_fade_out: 209.816
+tatums_confidence: shape = (1018,)
+tatums_start: shape = (1018,)
+tempo: 141.964
+time_signature: 4
+time_signature_confidence: 0.459
+title: Take Your Chance
+track_7digitalid: 8681183
+track_id: TRAVCTG12903CFF7F9
+year: 0

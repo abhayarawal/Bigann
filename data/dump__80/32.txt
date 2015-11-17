@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41090
+artist_familiarity: 0.477387133728
+artist_hotttnesss: 0.363610864647
+artist_id: AR5R7791187FB3A8C3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 07c766d0-7734-4574-ad5a-0798ae57ff5d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Alfredo Kraus
+artist_playmeid: 58792
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: daffa10945e22f394cf8fcc6a9ec3170
+bars_confidence: shape = (190,)
+bars_start: shape = (190,)
+beats_confidence: shape = (588,)
+beats_start: shape = (588,)
+danceability: 0.0
+duration: 322.29832
+end_of_fade_in: 4.389
+energy: 0.0
+key: 2
+key_confidence: 0.836
+loudness: -15.734
+mode: 1
+mode_confidence: 0.649
+release: KRAUS - Una Voz Universal
+release_7digitalid: 555767
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (847,)
+segments_loudness_max: shape = (847,)
+segments_loudness_max_time: shape = (847,)
+segments_loudness_start: shape = (847,)
+segments_pitches: shape = (847, 12)
+segments_start: shape = (847,)
+segments_timbre: shape = (847, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQKTJJ12AB0181488
+start_of_fade_out: 316.134
+tatums_confidence: shape = (588,)
+tatums_start: shape = (588,)
+tempo: 110.034
+time_signature: 3
+time_signature_confidence: 0.904
+title: Los De Aragón: "Los De Aragón
+track_7digitalid: 6144936
+track_id: TRBBMIR128F933DF44
+year: 0

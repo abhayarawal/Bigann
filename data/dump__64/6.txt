@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20293
+artist_familiarity: 0.701441758982
+artist_hotttnesss: 0.504307725982
+artist_id: AR0O3AV1187FB4D030
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 40b8a690-94e4-4c82-ad0f-73f4b841e46a
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Agnostic Front
+artist_playmeid: 11026
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 0c3825ded58efa2b57749c5f05a824f7
+bars_confidence: shape = (192,)
+bars_start: shape = (192,)
+beats_confidence: shape = (192,)
+beats_start: shape = (192,)
+danceability: 0.0
+duration: 105.84771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.517
+loudness: -5.152
+mode: 1
+mode_confidence: 0.364
+release: Dead Yuppies
+release_7digitalid: 205428
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (345,)
+segments_loudness_max: shape = (345,)
+segments_loudness_max_time: shape = (345,)
+segments_loudness_start: shape = (345,)
+segments_pitches: shape = (345, 12)
+segments_start: shape = (345,)
+segments_timbre: shape = (345, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.610184713056
+song_id: SOEIVEC12A8C139DDA
+start_of_fade_out: 101.715
+tatums_confidence: shape = (383,)
+tatums_start: shape = (383,)
+tempo: 112.292
+time_signature: 1
+time_signature_confidence: 0.0
+title: Standing On My Own
+track_7digitalid: 2226308
+track_id: TRAVYIU128F42625E1
+year: 2001

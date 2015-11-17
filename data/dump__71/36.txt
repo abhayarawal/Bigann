@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10173
+artist_familiarity: 0.87253659867
+artist_hotttnesss: 0.610731462904
+artist_id: AR12F2S1187FB56EEF
+artist_latitude: nan
+artist_location: Boston, MA
+artist_longitude: nan
+artist_mbid: 3d2b98e5-556f-4451-a3ff-c50ea18d57cb
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Aerosmith
+artist_playmeid: 39
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: d3e1571a12358d7a2488e1802dd8473b
+bars_confidence: shape = (179,)
+bars_start: shape = (179,)
+beats_confidence: shape = (541,)
+beats_start: shape = (541,)
+danceability: 0.0
+duration: 308.76689
+end_of_fade_in: 0.384
+energy: 0.0
+key: 9
+key_confidence: 0.706
+loudness: -3.947
+mode: 1
+mode_confidence: 0.832
+release: 20th Century Masters: The Millennium Collection: The Best Of Aerosmith
+release_7digitalid: 403756
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (785,)
+segments_loudness_max: shape = (785,)
+segments_loudness_max_time: shape = (785,)
+segments_loudness_start: shape = (785,)
+segments_pitches: shape = (785, 12)
+segments_start: shape = (785,)
+segments_timbre: shape = (785, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMUMTW12A6701C7B8
+start_of_fade_out: 294.847
+tatums_confidence: shape = (1081,)
+tatums_start: shape = (1081,)
+tempo: 105.804
+time_signature: 3
+time_signature_confidence: 1.0
+title: Cryin'
+track_7digitalid: 4486210
+track_id: TRAYKOC128F930D2B8
+year: 1993

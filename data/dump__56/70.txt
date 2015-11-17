@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 174019
+artist_familiarity: 0.565738780413
+artist_hotttnesss: 0.369505750479
+artist_id: ARSFVDS1187B990F14
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 68ea1169-9464-4af1-862e-fb3ccd75e526
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tranzas
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 33219b235c85ed4ec0fddfdb031fff67
+bars_confidence: shape = (32,)
+bars_start: shape = (32,)
+beats_confidence: shape = (230,)
+beats_start: shape = (230,)
+danceability: 0.0
+duration: 184.21506
+end_of_fade_in: 0.485
+energy: 0.0
+key: 1
+key_confidence: 0.283
+loudness: -6.991
+mode: 1
+mode_confidence: 0.439
+release: Por Siempre
+release_7digitalid: 237975
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (883,)
+segments_loudness_max: shape = (883,)
+segments_loudness_max_time: shape = (883,)
+segments_loudness_start: shape = (883,)
+segments_pitches: shape = (883, 12)
+segments_start: shape = (883,)
+segments_timbre: shape = (883, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.469676965401
+song_id: SOIFKVI12A8C131696
+start_of_fade_out: 179.45
+tatums_confidence: shape = (1149,)
+tatums_start: shape = (1149,)
+tempo: 75.826
+time_signature: 7
+time_signature_confidence: 0.876
+title: Un nuevo amor (version salsa)
+track_7digitalid: 2611019
+track_id: TRATIKG128F4233475
+year: 2000

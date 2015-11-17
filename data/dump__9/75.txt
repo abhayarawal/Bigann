@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 99237
+artist_familiarity: 0.450779113181
+artist_hotttnesss: 0.324672497108
+artist_id: ARHMZAR1187B9B077C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 623a98fb-9e9c-4646-ad6e-6b22103867e3
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Brian Auger's Oblivion Express
+artist_playmeid: 29338
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 77977dcc993864bb8d83bbb19cfd2a80
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (847,)
+beats_start: shape = (847,)
+danceability: 0.0
+duration: 265.7171
+end_of_fade_in: 1.064
+energy: 0.0
+key: 5
+key_confidence: 0.593
+loudness: -10.284
+mode: 0
+mode_confidence: 0.604
+release: Closer To It!
+release_7digitalid: 466626
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1244,)
+segments_loudness_max: shape = (1244,)
+segments_loudness_max_time: shape = (1244,)
+segments_loudness_start: shape = (1244,)
+segments_pitches: shape = (1244, 12)
+segments_start: shape = (1244,)
+segments_timbre: shape = (1244, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SORJLDF12A58A7C7F0
+start_of_fade_out: 254.491
+tatums_confidence: shape = (1695,)
+tatums_start: shape = (1695,)
+tempo: 193.84
+time_signature: 7
+time_signature_confidence: 0.424
+title: Inner City Blues (Alternate Mix) (Bonus Track)
+track_7digitalid: 5190681
+track_id: TRADFLB128F9339370
+year: 0

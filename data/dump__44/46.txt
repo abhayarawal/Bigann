@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 26669
+artist_familiarity: 0.551311116606
+artist_hotttnesss: 0.35766344769
+artist_id: ARW3V6T1187B9ACAC4
+artist_latitude: 48.39023
+artist_location: Brest, France
+artist_longitude: -4.48622
+artist_mbid: b44299ef-1399-48a4-832d-899b49c1455d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Miossec
+artist_playmeid: -1
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: c9b6d0734b0a79454f123abd9a1022d8
+bars_confidence: shape = (106,)
+bars_start: shape = (106,)
+beats_confidence: shape = (427,)
+beats_start: shape = (427,)
+danceability: 0.0
+duration: 162.32444
+end_of_fade_in: 0.441
+energy: 0.0
+key: 5
+key_confidence: 0.739
+loudness: -12.892
+mode: 1
+mode_confidence: 0.636
+release: Boire
+release_7digitalid: 123772
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (636,)
+segments_loudness_max: shape = (636,)
+segments_loudness_max_time: shape = (636,)
+segments_loudness_start: shape = (636,)
+segments_pitches: shape = (636, 12)
+segments_start: shape = (636,)
+segments_timbre: shape = (636, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCYVBL12A6D4FD36C
+start_of_fade_out: 151.115
+tatums_confidence: shape = (855,)
+tatums_start: shape = (855,)
+tempo: 166.081
+time_signature: 4
+time_signature_confidence: 0.509
+title: Regarde Un Peu La France
+track_7digitalid: 1277762
+track_id: TRAPEPI128F4226DDD
+year: 1995

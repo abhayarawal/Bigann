@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 82549
+artist_familiarity: 0.460250922106
+artist_hotttnesss: 0.0
+artist_id: AR6896B1187B98FADA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b99522ac-a4ff-4ec5-8a18-98695687a414
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Paso Doble
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 3203160d436169fe7324bb4fd84d2419
+bars_confidence: shape = (155,)
+bars_start: shape = (155,)
+beats_confidence: shape = (628,)
+beats_start: shape = (628,)
+danceability: 0.0
+duration: 327.83628
+end_of_fade_in: 4.023
+energy: 0.0
+key: 0
+key_confidence: 0.569
+loudness: -11.718
+mode: 0
+mode_confidence: 0.741
+release: Fantasie [Deluxe Edition]
+release_7digitalid: 105411
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1150,)
+segments_loudness_max: shape = (1150,)
+segments_loudness_max_time: shape = (1150,)
+segments_loudness_start: shape = (1150,)
+segments_pitches: shape = (1150, 12)
+segments_start: shape = (1150,)
+segments_timbre: shape = (1150, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWRBWU12A8C13969D
+start_of_fade_out: 314.892
+tatums_confidence: shape = (1256,)
+tatums_start: shape = (1256,)
+tempo: 115.633
+time_signature: 4
+time_signature_confidence: 1.0
+title: Fantasie (Extended Version)
+track_7digitalid: 1089941
+track_id: TRAGCYG128F428C517
+year: 0

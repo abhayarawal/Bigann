@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 111666
+artist_familiarity: 0.543161423105
+artist_hotttnesss: 0.290393914384
+artist_id: ARZE0AG1187FB5BF61
+artist_latitude: nan
+artist_location: Chicago, IL
+artist_longitude: nan
+artist_mbid: 42700164-abe3-4b45-b627-f4c8deca5e82
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Five Stairsteps
+artist_playmeid: 13981
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 83a932b355975752fc7cd0585972c8ae
+bars_confidence: shape = (63,)
+bars_start: shape = (63,)
+beats_confidence: shape = (256,)
+beats_start: shape = (256,)
+danceability: 0.0
+duration: 165.74649
+end_of_fade_in: 3.024
+energy: 0.0
+key: 10
+key_confidence: 0.71
+loudness: -8.701
+mode: 0
+mode_confidence: 0.687
+release: Cameo Parkway 1957-1967
+release_7digitalid: 717822
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (487,)
+segments_loudness_max: shape = (487,)
+segments_loudness_max_time: shape = (487,)
+segments_loudness_start: shape = (487,)
+segments_pitches: shape = (487, 12)
+segments_start: shape = (487,)
+segments_timbre: shape = (487, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOYNTSK12AB0184C2F
+start_of_fade_out: 155.643
+tatums_confidence: shape = (513,)
+tatums_start: shape = (513,)
+tempo: 93.847
+time_signature: 4
+time_signature_confidence: 0.0
+title: Danger! She's A Stranger
+track_7digitalid: 7959135
+track_id: TRBCBOY12903CC66C6
+year: 2005

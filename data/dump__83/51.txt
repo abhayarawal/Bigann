@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 618
+artist_familiarity: 0.786427083379
+artist_hotttnesss: 0.512226738318
+artist_id: AR035N21187FB3938E
+artist_latitude: 34.23294
+artist_location: Earth
+artist_longitude: -102.4102
+artist_mbid: 88e2147d-0332-46f6-85b2-b5f463ba957b
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: BT
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: d9deae3f80bbbeb22f38ccfa4d048140
+bars_confidence: shape = (132,)
+bars_start: shape = (132,)
+beats_confidence: shape = (530,)
+beats_start: shape = (530,)
+danceability: 0.0
+duration: 214.54322
+end_of_fade_in: 12.179
+energy: 0.0
+key: 2
+key_confidence: 0.245
+loudness: -7.652
+mode: 1
+mode_confidence: 0.414
+release: Stealth
+release_7digitalid: 64190
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (756,)
+segments_loudness_max: shape = (756,)
+segments_loudness_max_time: shape = (756,)
+segments_loudness_start: shape = (756,)
+segments_pitches: shape = (756, 12)
+segments_start: shape = (756,)
+segments_timbre: shape = (756, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.327736683178
+song_id: SOEGJRT12A6D4FCD65
+start_of_fade_out: 210.947
+tatums_confidence: shape = (1060,)
+tatums_start: shape = (1060,)
+tempo: 150.082
+time_signature: 4
+time_signature_confidence: 0.916
+title: Henrys Death
+track_7digitalid: 665712
+track_id: TRBCRKF128F14AD398
+year: 2005

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 45918
+artist_familiarity: 0.627997389723
+artist_hotttnesss: 0.365339652714
+artist_id: ARILV5E1187B9959C8
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fb517c3e-01c4-4285-8eb3-aceeb1739b9c
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Boogie Pimps
+artist_playmeid: 173232
+artist_terms: shape = (50,)
+artist_terms_freq: shape = (50,)
+artist_terms_weight: shape = (50,)
+audio_md5: 36c5c35852f6ba22358ec049089dae29
+bars_confidence: shape = (94,)
+bars_start: shape = (94,)
+beats_confidence: shape = (474,)
+beats_start: shape = (474,)
+danceability: 0.0
+duration: 333.89669
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.542
+loudness: -7.269
+mode: 0
+mode_confidence: 0.536
+release: Then Came You
+release_7digitalid: 128803
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1637,)
+segments_loudness_max: shape = (1637,)
+segments_loudness_max_time: shape = (1637,)
+segments_loudness_start: shape = (1637,)
+segments_pitches: shape = (1637, 12)
+segments_start: shape = (1637,)
+segments_timbre: shape = (1637, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCFPEQ12A6D4FC241
+start_of_fade_out: 297.767
+tatums_confidence: shape = (1422,)
+tatums_start: shape = (1422,)
+tempo: 85.325
+time_signature: 5
+time_signature_confidence: 0.946
+title: Then Came You
+track_7digitalid: 1334778
+track_id: TRBHQHE128F4230865
+year: 2007

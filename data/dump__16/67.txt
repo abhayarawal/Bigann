@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30973
+artist_familiarity: 0.651045660832
+artist_hotttnesss: 0.401723685504
+artist_id: ARXR32B1187FB57099
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c6903a2e-063c-4f91-a284-17b8f421be7b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gob
+artist_playmeid: 8355
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 305bdc4a8b30e28d63231ee49c6f1bbd
+bars_confidence: shape = (81,)
+bars_start: shape = (81,)
+beats_confidence: shape = (326,)
+beats_start: shape = (326,)
+danceability: 0.0
+duration: 153.33832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.258
+loudness: -5.92
+mode: 1
+mode_confidence: 0.319
+release: The World According To Gob
+release_7digitalid: 598782
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (559,)
+segments_loudness_max: shape = (559,)
+segments_loudness_max_time: shape = (559,)
+segments_loudness_start: shape = (559,)
+segments_pitches: shape = (559, 12)
+segments_start: shape = (559,)
+segments_timbre: shape = (559, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.658202537014
+song_id: SOLMFNE12AB018F807
+start_of_fade_out: 141.56
+tatums_confidence: shape = (652,)
+tatums_start: shape = (652,)
+tempo: 133.986
+time_signature: 4
+time_signature_confidence: 0.0
+title: No Regrets
+track_7digitalid: 6643692
+track_id: TRAFRCH12903CEA22D
+year: 2001

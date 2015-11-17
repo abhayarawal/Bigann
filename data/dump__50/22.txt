@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23692
+artist_familiarity: 0.78523045371
+artist_hotttnesss: 0.515058318073
+artist_id: ARMHMPG1187B9A9A4A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 53f402db-7d17-4927-ba1c-35e75f76c24e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Wreckers
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 1063b547ab30f58523347f41f09d1a5c
+bars_confidence: shape = (533,)
+bars_start: shape = (533,)
+beats_confidence: shape = (533,)
+beats_start: shape = (533,)
+danceability: 0.0
+duration: 211.59138
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.349
+loudness: -5.809
+mode: 1
+mode_confidence: 0.383
+release: Way Back Home: Live From New York City
+release_7digitalid: 185990
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (707,)
+segments_loudness_max: shape = (707,)
+segments_loudness_max_time: shape = (707,)
+segments_loudness_start: shape = (707,)
+segments_pitches: shape = (707, 12)
+segments_start: shape = (707,)
+segments_timbre: shape = (707, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.372530039366
+song_id: SOFKARX12A8AE485EE
+start_of_fade_out: 203.343
+tatums_confidence: shape = (1066,)
+tatums_start: shape = (1066,)
+tempo: 152.208
+time_signature: 1
+time_signature_confidence: 0.623
+title: Damn That Radio [Live]
+track_7digitalid: 2015271
+track_id: TRARBVD128F4239284
+year: 2007

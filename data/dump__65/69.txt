@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1642
+artist_familiarity: 0.858270677796
+artist_hotttnesss: 0.515325300572
+artist_id: ARMB95F1187B9B5B93
+artist_latitude: 40.8079
+artist_location: Harlem, NY
+artist_longitude: -73.9454
+artist_mbid: ea6b7199-901d-4c0e-8242-6d7bc2bf62b7
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Cam'Ron / Juelz Santana / Jimmy Jones
+artist_playmeid: 138754
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: e0b93340a838157d2fd92973f0df7adc
+bars_confidence: shape = (203,)
+bars_start: shape = (203,)
+beats_confidence: shape = (817,)
+beats_start: shape = (817,)
+danceability: 0.0
+duration: 301.50485
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.659
+loudness: -5.104
+mode: 0
+mode_confidence: 0.506
+release: Come Home With Me
+release_7digitalid: 64782
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1245,)
+segments_loudness_max: shape = (1245,)
+segments_loudness_max_time: shape = (1245,)
+segments_loudness_start: shape = (1245,)
+segments_pitches: shape = (1245, 12)
+segments_start: shape = (1245,)
+segments_timbre: shape = (1245, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.499445834801
+song_id: SOKHRQI12A8C13F53E
+start_of_fade_out: 286.598
+tatums_confidence: shape = (1633,)
+tatums_start: shape = (1633,)
+tempo: 163.57
+time_signature: 4
+time_signature_confidence: 0.772
+title: Come Home With Me
+track_7digitalid: 3504807
+track_id: TRAWKXK128F42B62B3
+year: 2002

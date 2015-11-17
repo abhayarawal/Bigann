@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9917
+artist_familiarity: 0.589694605247
+artist_hotttnesss: 0.383863704328
+artist_id: AR21YNH1187FB49649
+artist_latitude: 51.50632
+artist_location: London
+artist_longitude: -0.12714
+artist_mbid: c0c5e158-d61d-4043-a0eb-dc6cc1e0a539
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Ms. Dynamite
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 075e9e6a0e343ad3a6f71fef41210a34
+bars_confidence: shape = (167,)
+bars_start: shape = (167,)
+beats_confidence: shape = (672,)
+beats_start: shape = (672,)
+danceability: 0.0
+duration: 269.81832
+end_of_fade_in: 0.196
+energy: 0.0
+key: 9
+key_confidence: 0.65
+loudness: -11.136
+mode: 1
+mode_confidence: 0.539
+release: A Little Deeper
+release_7digitalid: 15821
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1056,)
+segments_loudness_max: shape = (1056,)
+segments_loudness_max_time: shape = (1056,)
+segments_loudness_start: shape = (1056,)
+segments_pitches: shape = (1056, 12)
+segments_start: shape = (1056,)
+segments_timbre: shape = (1056, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODYSVW12A679C805B
+start_of_fade_out: 266.095
+tatums_confidence: shape = (1343,)
+tatums_start: shape = (1343,)
+tempo: 150.567
+time_signature: 4
+time_signature_confidence: 1.0
+title: All I Ever
+track_7digitalid: 167429
+track_id: TRAMEDG128E07933F4
+year: 2002

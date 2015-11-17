@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6186
+artist_familiarity: 0.701180873608
+artist_hotttnesss: 0.466628888902
+artist_id: AR7TTS41187B9B42D3
+artist_latitude: 34.36401
+artist_location: Oxford, MS
+artist_longitude: -89.51877
+artist_mbid: 355eed00-6c40-4d33-940a-600b2597407a
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: R.L. Burnside
+artist_playmeid: 26588
+artist_terms: shape = (50,)
+artist_terms_freq: shape = (50,)
+artist_terms_weight: shape = (50,)
+audio_md5: dd24dc270e0c8062d62865ef9754d2b3
+bars_confidence: shape = (349,)
+bars_start: shape = (349,)
+beats_confidence: shape = (349,)
+beats_start: shape = (349,)
+danceability: 0.0
+duration: 196.88444
+end_of_fade_in: 0.345
+energy: 0.0
+key: 0
+key_confidence: 0.326
+loudness: -10.426
+mode: 0
+mode_confidence: 0.306
+release: First Recordings
+release_7digitalid: 815268
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (779,)
+segments_loudness_max: shape = (779,)
+segments_loudness_max_time: shape = (779,)
+segments_loudness_start: shape = (779,)
+segments_pitches: shape = (779, 12)
+segments_start: shape = (779,)
+segments_timbre: shape = (779, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEWLHT12AB0185559
+start_of_fade_out: 192.61
+tatums_confidence: shape = (697,)
+tatums_start: shape = (697,)
+tempo: 107.601
+time_signature: 1
+time_signature_confidence: 0.0
+title: Rollin' and Tumblin'
+track_7digitalid: 9008001
+track_id: TRBDHSQ12903CDB3E8
+year: 2001

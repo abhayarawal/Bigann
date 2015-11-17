@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5845
+artist_familiarity: 0.798645178742
+artist_hotttnesss: 0.552413345517
+artist_id: AR6G4V01187B9AD086
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7dc8f5bd-9d0b-4087-9f73-dc164950bbd8
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Queens Of The Stone Age
+artist_playmeid: -1
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 343fb42e35d36386fc5ae5858dfa2cc2
+bars_confidence: shape = (139,)
+bars_start: shape = (139,)
+beats_confidence: shape = (560,)
+beats_start: shape = (560,)
+danceability: 0.0
+duration: 288.41751
+end_of_fade_in: 0.113
+energy: 0.0
+key: 2
+key_confidence: 0.08
+loudness: -8.165
+mode: 1
+mode_confidence: 0.665
+release: Lullabies To Paralyze
+release_7digitalid: 220917
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1036,)
+segments_loudness_max: shape = (1036,)
+segments_loudness_max_time: shape = (1036,)
+segments_loudness_start: shape = (1036,)
+segments_pitches: shape = (1036, 12)
+segments_start: shape = (1036,)
+segments_timbre: shape = (1036, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.725121283567
+song_id: SOKLLOH12A67020F2C
+start_of_fade_out: 279.179
+tatums_confidence: shape = (1119,)
+tatums_start: shape = (1119,)
+tempo: 115.606
+time_signature: 4
+time_signature_confidence: 0.0
+title: I Never Came
+track_7digitalid: 2417203
+track_id: TRAAGPJ128F428CD1B
+year: 2005

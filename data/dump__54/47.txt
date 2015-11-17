@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2051
+artist_familiarity: 0.592108229144
+artist_hotttnesss: 0.37206162812
+artist_id: ARG2UZ71187FB4FF5C
+artist_latitude: nan
+artist_location: West Plains, MO
+artist_longitude: nan
+artist_mbid: 942123a3-df28-463f-9f6e-202b69b8e253
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Porter Wagoner
+artist_playmeid: 3946
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: ebc317b26eb190e67ca0cd8e72a5be74
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (337,)
+beats_start: shape = (337,)
+danceability: 0.0
+duration: 152.34567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.922
+loudness: -14.761
+mode: 1
+mode_confidence: 0.839
+release: Country Cream Volume 1
+release_7digitalid: 376281
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (444,)
+segments_loudness_max: shape = (444,)
+segments_loudness_max_time: shape = (444,)
+segments_loudness_start: shape = (444,)
+segments_pitches: shape = (444, 12)
+segments_start: shape = (444,)
+segments_timbre: shape = (444, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOHXVM12A8C143BA5
+start_of_fade_out: 144.544
+tatums_confidence: shape = (674,)
+tatums_start: shape = (674,)
+tempo: 136.129
+time_signature: 4
+time_signature_confidence: 0.0
+title: Angel Band
+track_7digitalid: 4186864
+track_id: TRASPZN128F92D278C
+year: 1997

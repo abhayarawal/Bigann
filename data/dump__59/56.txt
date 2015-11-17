@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 27719
+artist_familiarity: 0.666522676567
+artist_hotttnesss: 0.414079473032
+artist_id: ARNFTGS1187B9A465F
+artist_latitude: 34.05349
+artist_location: California - LA
+artist_longitude: -118.24532
+artist_mbid: 22995eba-1238-4b4f-a937-ac2c5767ab9f
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Circle Jerks
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 2485c4a4c4b8d1c295e69b109a349a5e
+bars_confidence: shape = (82,)
+bars_start: shape = (82,)
+beats_confidence: shape = (332,)
+beats_start: shape = (332,)
+danceability: 0.0
+duration: 122.64444
+end_of_fade_in: 8.231
+energy: 0.0
+key: 1
+key_confidence: 0.322
+loudness: -10.18
+mode: 0
+mode_confidence: 0.383
+release: Wild In the Streets
+release_7digitalid: 609161
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (408,)
+segments_loudness_max: shape = (408,)
+segments_loudness_max_time: shape = (408,)
+segments_loudness_start: shape = (408,)
+segments_pitches: shape = (408, 12)
+segments_start: shape = (408,)
+segments_timbre: shape = (408, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.665544601963
+song_id: SOLMXIE12A8C1429A8
+start_of_fade_out: 113.528
+tatums_confidence: shape = (663,)
+tatums_start: shape = (663,)
+tempo: 173.669
+time_signature: 4
+time_signature_confidence: 0.304
+title: Question Authority
+track_7digitalid: 6769341
+track_id: TRAUIOQ128F92EDC51
+year: 1982

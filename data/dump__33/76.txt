@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5899
+artist_familiarity: 0.599935171947
+artist_hotttnesss: 0.356795543167
+artist_id: ARAG1DX1187B98BB10
+artist_latitude: 41.88415
+artist_location: Chicago, IL
+artist_longitude: -87.63241
+artist_mbid: 2f84b66f-06c5-4f45-b19a-b8947ca5b0ba
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ben Sidran
+artist_playmeid: 18348
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 51c062e1bd9a26b202635a531ca431c3
+bars_confidence: shape = (184,)
+bars_start: shape = (184,)
+beats_confidence: shape = (740,)
+beats_start: shape = (740,)
+danceability: 0.0
+duration: 278.7522
+end_of_fade_in: 0.479
+energy: 0.0
+key: 7
+key_confidence: 0.918
+loudness: -9.399
+mode: 1
+mode_confidence: 0.614
+release: The Doctor Is In
+release_7digitalid: 769217
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1099,)
+segments_loudness_max: shape = (1099,)
+segments_loudness_max_time: shape = (1099,)
+segments_loudness_start: shape = (1099,)
+segments_pitches: shape = (1099, 12)
+segments_start: shape = (1099,)
+segments_timbre: shape = (1099, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SONIMPI12AB0186C14
+start_of_fade_out: 266.652
+tatums_confidence: shape = (1480,)
+tatums_start: shape = (1480,)
+tempo: 160.976
+time_signature: 4
+time_signature_confidence: 0.0
+title: See You On The Other Side
+track_7digitalid: 8519940
+track_id: TRALLQX12903CD838C
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1375
+artist_familiarity: 0.52821128664
+artist_hotttnesss: 0.345368825086
+artist_id: ARYVJYT1187FB484D7
+artist_latitude: nan
+artist_location: San Diego, CA
+artist_longitude: nan
+artist_mbid: d18436e8-8b40-4f40-ac3c-ed765831e669
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: John Stewart
+artist_playmeid: 6921
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 0e627261f5bcfab5ddbdb17924192150
+bars_confidence: shape = (107,)
+bars_start: shape = (107,)
+beats_confidence: shape = (437,)
+beats_start: shape = (437,)
+danceability: 0.0
+duration: 290.53342
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.844
+loudness: -14.28
+mode: 0
+mode_confidence: 0.838
+release: Punch The Big Guy
+release_7digitalid: 620110
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (940,)
+segments_loudness_max: shape = (940,)
+segments_loudness_max_time: shape = (940,)
+segments_loudness_start: shape = (940,)
+segments_pitches: shape = (940, 12)
+segments_start: shape = (940,)
+segments_timbre: shape = (940, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SONNUHH12A8C133376
+start_of_fade_out: 281.217
+tatums_confidence: shape = (874,)
+tatums_start: shape = (874,)
+tempo: 91.496
+time_signature: 4
+time_signature_confidence: 0.385
+title: Price Of The Fire
+track_7digitalid: 6887983
+track_id: TRAOCVH128F930A8EF
+year: 0

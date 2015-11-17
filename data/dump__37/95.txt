@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 161598
+artist_familiarity: 0.455528505038
+artist_hotttnesss: 0.383466836224
+artist_id: ARL0ID81187B9B2CB3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 867ae21b-cb83-4ec4-ba26-0837a48e84db
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Yvette
+artist_playmeid: -1
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: dc5d2baedec2184c867ca11971fb3c9b
+bars_confidence: shape = (217,)
+bars_start: shape = (217,)
+beats_confidence: shape = (871,)
+beats_start: shape = (871,)
+danceability: 0.0
+duration: 405.002
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.029
+loudness: -6.103
+mode: 0
+mode_confidence: 0.047
+release: Je me sens libre
+release_7digitalid: 613031
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (2016,)
+segments_loudness_max: shape = (2016,)
+segments_loudness_max_time: shape = (2016,)
+segments_loudness_start: shape = (2016,)
+segments_pitches: shape = (2016, 12)
+segments_start: shape = (2016,)
+segments_timbre: shape = (2016, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFKXQZ12A8C1422D9
+start_of_fade_out: 399.366
+tatums_confidence: shape = (1743,)
+tatums_start: shape = (1743,)
+tempo: 130.03
+time_signature: 4
+time_signature_confidence: 0.119
+title: Je me sens libre
+track_7digitalid: 6812768
+track_id: TRAMXNY128F92F84F4
+year: 0

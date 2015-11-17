@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 975
+artist_familiarity: 0.648902582007
+artist_hotttnesss: 0.440835006713
+artist_id: ARP07GD1187B9B9DA4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0ef70a3e-fcd9-4de2-bfc9-a3e5ce99f380
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Los Originales De San Juan
+artist_playmeid: 11015
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 2278807a989a0682fd55fc22c4c73819
+bars_confidence: shape = (429,)
+bars_start: shape = (429,)
+beats_confidence: shape = (429,)
+beats_start: shape = (429,)
+danceability: 0.0
+duration: 250.48771
+end_of_fade_in: 0.403
+energy: 0.0
+key: 5
+key_confidence: 0.572
+loudness: -7.658
+mode: 1
+mode_confidence: 0.426
+release: Perro Malagradecido
+release_7digitalid: 156712
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1040,)
+segments_loudness_max: shape = (1040,)
+segments_loudness_max_time: shape = (1040,)
+segments_loudness_start: shape = (1040,)
+segments_pitches: shape = (1040, 12)
+segments_start: shape = (1040,)
+segments_timbre: shape = (1040, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOYDOBA12A8C1384F9
+start_of_fade_out: 238.26
+tatums_confidence: shape = (858,)
+tatums_start: shape = (858,)
+tempo: 103.02
+time_signature: 1
+time_signature_confidence: 0.025
+title: Joaquin Torres Jr.
+track_7digitalid: 1647194
+track_id: TRBDUAQ128F427154D
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 49992
+artist_familiarity: 0.796337059499
+artist_hotttnesss: 0.582921576451
+artist_id: ARSW5F51187FB4CFC9
+artist_latitude: nan
+artist_location: Seattle, WA
+artist_longitude: nan
+artist_mbid: 4bd95eea-b9f6-4d70-a36c-cfea77431553
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Alice In Chains
+artist_playmeid: 65
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 087c071408ece8805203f46d3586599a
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (485,)
+beats_start: shape = (485,)
+danceability: 0.0
+duration: 262.47791
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.133
+loudness: -5.499
+mode: 0
+mode_confidence: 0.201
+release: Live
+release_7digitalid: 289266
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (545,)
+segments_loudness_max: shape = (545,)
+segments_loudness_max_time: shape = (545,)
+segments_loudness_start: shape = (545,)
+segments_pitches: shape = (545, 12)
+segments_start: shape = (545,)
+segments_timbre: shape = (545, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFHVPF12A8C134ED7
+start_of_fade_out: 262.478
+tatums_confidence: shape = (970,)
+tatums_start: shape = (970,)
+tempo: 111.239
+time_signature: 4
+time_signature_confidence: 0.96
+title: Angry Chair
+track_7digitalid: 3243947
+track_id: TRAUXNO128F42774A0
+year: 1992

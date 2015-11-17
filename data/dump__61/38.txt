@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10546
+artist_familiarity: 0.421187326158
+artist_hotttnesss: 0.310544672135
+artist_id: AREDBBQ1187B98AFF5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cfc840a4-dfdc-40b9-9ed8-c8ec72739406
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Eddie Calvert
+artist_playmeid: 76669
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 8336572bf9aea5d303d5850ab50a5160
+bars_confidence: shape = (53,)
+bars_start: shape = (53,)
+beats_confidence: shape = (373,)
+beats_start: shape = (373,)
+danceability: 0.0
+duration: 171.65016
+end_of_fade_in: 2.897
+energy: 0.0
+key: 7
+key_confidence: 0.219
+loudness: -19.941
+mode: 1
+mode_confidence: 0.29
+release: Memories Of You
+release_7digitalid: 211700
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (534,)
+segments_loudness_max: shape = (534,)
+segments_loudness_max_time: shape = (534,)
+segments_loudness_start: shape = (534,)
+segments_pitches: shape = (534, 12)
+segments_start: shape = (534,)
+segments_timbre: shape = (534, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONHNAC12A8C13A15A
+start_of_fade_out: 163.271
+tatums_confidence: shape = (746,)
+tatums_start: shape = (746,)
+tempo: 130.598
+time_signature: 7
+time_signature_confidence: 0.756
+title: Tenderly
+track_7digitalid: 2302805
+track_id: TRAUZED128F4274561
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 27822
+artist_familiarity: 0.821121431336
+artist_hotttnesss: 0.476803353534
+artist_id: AR93WAA1187FB42116
+artist_latitude: 41.35644
+artist_location: New London, CT
+artist_longitude: -72.09647
+artist_mbid: 4a8ac23a-e27a-44db-814a-f8c31beb68e6
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Cassie
+artist_playmeid: 4664
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 79cdeede380b1064030ebb9bc6dd4964
+bars_confidence: shape = (37,)
+bars_start: shape = (37,)
+beats_confidence: shape = (201,)
+beats_start: shape = (201,)
+danceability: 0.0
+duration: 222.74567
+end_of_fade_in: 3.431
+energy: 0.0
+key: 8
+key_confidence: 0.319
+loudness: -8.081
+mode: 1
+mode_confidence: 0.465
+release: Long Way 2 Go
+release_7digitalid: 45686
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (908,)
+segments_loudness_max: shape = (908,)
+segments_loudness_max_time: shape = (908,)
+segments_loudness_start: shape = (908,)
+segments_pitches: shape = (908, 12)
+segments_start: shape = (908,)
+segments_timbre: shape = (908, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKDLKT12A6D4F9F46
+start_of_fade_out: 222.746
+tatums_confidence: shape = (804,)
+tatums_start: shape = (804,)
+tempo: 52.711
+time_signature: 4
+time_signature_confidence: 0.774
+title: Long Way 2 Go (Album Version)
+track_7digitalid: 487429
+track_id: TRAPBHY128F148946F
+year: 2006

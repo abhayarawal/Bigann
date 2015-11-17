@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 202857
+artist_familiarity: 0.0361035523693
+artist_hotttnesss: 0.0
+artist_id: ARNLY0W11C8A42C7E5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a45f988c-27ed-4e42-920a-07d1883d7d9b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Serge Desaunay
+artist_playmeid: -1
+artist_terms: shape = (9,)
+artist_terms_freq: shape = (9,)
+artist_terms_weight: shape = (9,)
+audio_md5: bd13d4c474ecf0c76c1a7de3a86116ac
+bars_confidence: shape = (274,)
+bars_start: shape = (274,)
+beats_confidence: shape = (274,)
+beats_start: shape = (274,)
+danceability: 0.0
+duration: 127.76444
+end_of_fade_in: 0.311
+energy: 0.0
+key: 0
+key_confidence: 0.348
+loudness: -5.989
+mode: 1
+mode_confidence: 0.48
+release: Rue du canal
+release_7digitalid: 264677
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (681,)
+segments_loudness_max: shape = (681,)
+segments_loudness_max_time: shape = (681,)
+segments_loudness_start: shape = (681,)
+segments_pitches: shape = (681, 12)
+segments_start: shape = (681,)
+segments_timbre: shape = (681, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOXBLDL12A8C13ADD4
+start_of_fade_out: 121.359
+tatums_confidence: shape = (548,)
+tatums_start: shape = (548,)
+tempo: 131.842
+time_signature: 1
+time_signature_confidence: 0.0
+title: La polka des grenouilles
+track_7digitalid: 2828009
+track_id: TRBADXN128F4265A6B
+year: 0

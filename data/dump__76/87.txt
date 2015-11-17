@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 320280
+artist_familiarity: 0.500576574183
+artist_hotttnesss: 0.383849057986
+artist_id: ARUFRGT1187B98ED43
+artist_latitude: -28.49522
+artist_location: Atamisqui, Argentina
+artist_longitude: -63.81885
+artist_mbid: 9766faa7-8786-4a55-8d7e-a35bb24b9844
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Leo Dan
+artist_playmeid: 15319
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 87e841fd9869524928651305500b1846
+bars_confidence: shape = (105,)
+bars_start: shape = (105,)
+beats_confidence: shape = (423,)
+beats_start: shape = (423,)
+danceability: 0.0
+duration: 148.53179
+end_of_fade_in: 0.09
+energy: 0.0
+key: 0
+key_confidence: 0.58
+loudness: -5.359
+mode: 1
+mode_confidence: 0.579
+release: Sus Grandes Éxitos
+release_7digitalid: 751036
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (690,)
+segments_loudness_max: shape = (690,)
+segments_loudness_max_time: shape = (690,)
+segments_loudness_start: shape = (690,)
+segments_pitches: shape = (690, 12)
+segments_start: shape = (690,)
+segments_timbre: shape = (690, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEIJSK12AB0183835
+start_of_fade_out: 144.73
+tatums_confidence: shape = (845,)
+tatums_start: shape = (845,)
+tempo: 171.91
+time_signature: 4
+time_signature_confidence: 0.622
+title: Con un poquitito de suerte
+track_7digitalid: 8315251
+track_id: TRBAFYR12903CA6588
+year: 0

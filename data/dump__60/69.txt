@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 36761
+artist_familiarity: 0.533724476939
+artist_hotttnesss: 0.370747683691
+artist_id: ARHEQ501187FB4F898
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ee0552e7-de2b-4fc2-8739-9c33a905c3e7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Fruko Y Sus Tesos
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 48f41ac06c7a4adf1d48c91a959ff967
+bars_confidence: shape = (47,)
+bars_start: shape = (47,)
+beats_confidence: shape = (336,)
+beats_start: shape = (336,)
+danceability: 0.0
+duration: 242.75546
+end_of_fade_in: 0.223
+energy: 0.0
+key: 8
+key_confidence: 0.519
+loudness: -8.588
+mode: 1
+mode_confidence: 0.553
+release: Fruko Power Salsa
+release_7digitalid: 236556
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1195,)
+segments_loudness_max: shape = (1195,)
+segments_loudness_max_time: shape = (1195,)
+segments_loudness_start: shape = (1195,)
+segments_pitches: shape = (1195, 12)
+segments_start: shape = (1195,)
+segments_timbre: shape = (1195, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQUAKN12A8AE486C2
+start_of_fade_out: 237.621
+tatums_confidence: shape = (1681,)
+tatums_start: shape = (1681,)
+tempo: 84.751
+time_signature: 7
+time_signature_confidence: 0.561
+title: La Fruta Bomba
+track_7digitalid: 2596047
+track_id: TRAUSQP128F4230490
+year: 2000

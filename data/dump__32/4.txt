@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41517
+artist_familiarity: 0.695421644696
+artist_hotttnesss: 0.455537721976
+artist_id: AR3Q86S1187B9ADDCF
+artist_latitude: nan
+artist_location: Lille, Nord-Pas-de-Calais, France
+artist_longitude: nan
+artist_mbid: 67468e38-0c90-4318-b2d2-0c18b7b1e144
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Deep Forest
+artist_playmeid: 10007
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: ed91d1ab843ba8ae319b77a7f429dda8
+bars_confidence: shape = (239,)
+bars_start: shape = (239,)
+beats_confidence: shape = (961,)
+beats_start: shape = (961,)
+danceability: 0.0
+duration: 397.76608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.522
+loudness: -9.314
+mode: 1
+mode_confidence: 0.485
+release: Made In Japan
+release_7digitalid: 284637
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1738,)
+segments_loudness_max: shape = (1738,)
+segments_loudness_max_time: shape = (1738,)
+segments_loudness_start: shape = (1738,)
+segments_pitches: shape = (1738, 12)
+segments_start: shape = (1738,)
+segments_timbre: shape = (1738, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.777596478373
+song_id: SODDXCD12A8C1339AB
+start_of_fade_out: 397.766
+tatums_confidence: shape = (1922,)
+tatums_start: shape = (1922,)
+tempo: 145.464
+time_signature: 4
+time_signature_confidence: 0.0
+title: Hunting
+track_7digitalid: 3185796
+track_id: TRAKWUV128F42699BD
+year: 1992

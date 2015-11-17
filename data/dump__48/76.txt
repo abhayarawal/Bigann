@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 179046
+artist_familiarity: 0.450361260877
+artist_hotttnesss: 0.267757495381
+artist_id: ARMSW7X1187FB5B504
+artist_latitude: 34.05349
+artist_location: California - LA
+artist_longitude: -118.24532
+artist_mbid: fe44e194-1933-4ee8-a54a-5b92b21dc7a2
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Dave Eggar
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 292e02bb4e06940f54c52ae000e6ddab
+bars_confidence: shape = (82,)
+bars_start: shape = (82,)
+beats_confidence: shape = (415,)
+beats_start: shape = (415,)
+danceability: 0.0
+duration: 224.73098
+end_of_fade_in: 0.409
+energy: 0.0
+key: 4
+key_confidence: 0.35
+loudness: -29.084
+mode: 1
+mode_confidence: 0.603
+release: Serenity
+release_7digitalid: 240350
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (410,)
+segments_loudness_max: shape = (410,)
+segments_loudness_max_time: shape = (410,)
+segments_loudness_start: shape = (410,)
+segments_pitches: shape = (410, 12)
+segments_start: shape = (410,)
+segments_timbre: shape = (410, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SORYKAR12A8C13048C
+start_of_fade_out: 197.939
+tatums_confidence: shape = (831,)
+tatums_start: shape = (831,)
+tempo: 117.298
+time_signature: 5
+time_signature_confidence: 1.0
+title: Dream Of Ice
+track_7digitalid: 2623811
+track_id: TRAQPAW128F423666C
+year: 1998

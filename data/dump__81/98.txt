@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 206404
+artist_familiarity: 0.494880755266
+artist_hotttnesss: 0.159349705203
+artist_id: ARM1ELZ1187FB49FC1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 67dc8464-3f5b-4ae0-bd2b-824411cc7664
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lexie Mountain Boys
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 69c3b4e4886cbba5dafd8b8013aac470
+bars_confidence: shape = (325,)
+bars_start: shape = (325,)
+beats_confidence: shape = (325,)
+beats_start: shape = (325,)
+danceability: 0.0
+duration: 247.11791
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.2
+loudness: -24.19
+mode: 1
+mode_confidence: 0.258
+release: Sexy Fountain Noise
+release_7digitalid: 321191
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (828,)
+segments_loudness_max: shape = (828,)
+segments_loudness_max_time: shape = (828,)
+segments_loudness_start: shape = (828,)
+segments_pitches: shape = (828, 12)
+segments_start: shape = (828,)
+segments_timbre: shape = (828, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCLYJV12A8C13F5DC
+start_of_fade_out: 221.977
+tatums_confidence: shape = (650,)
+tatums_start: shape = (650,)
+tempo: 80.002
+time_signature: 1
+time_signature_confidence: 0.0
+title: Where We Are From
+track_7digitalid: 3618230
+track_id: TRBCBVO128F92D4299
+year: 2006

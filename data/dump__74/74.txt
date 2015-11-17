@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 103122
+artist_familiarity: 0.332466938345
+artist_hotttnesss: 0.304496933646
+artist_id: ARGRIHK1242077F57F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bob McKenzie / Doug McKenzie
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 2e7e5c704a0a37d459d57ffac86f7a3d
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (288,)
+beats_start: shape = (288,)
+danceability: 0.0
+duration: 224.46975
+end_of_fade_in: 0.246
+energy: 0.0
+key: 11
+key_confidence: 0.0
+loudness: -28.096
+mode: 0
+mode_confidence: 0.0
+release: Great White North
+release_7digitalid: 130677
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (737,)
+segments_loudness_max: shape = (737,)
+segments_loudness_max_time: shape = (737,)
+segments_loudness_start: shape = (737,)
+segments_pitches: shape = (737, 12)
+segments_start: shape = (737,)
+segments_timbre: shape = (737, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.427974259292
+song_id: SOHVUVA12A8C13E1A9
+start_of_fade_out: 207.633
+tatums_confidence: shape = (576,)
+tatums_start: shape = (576,)
+tempo: 77.718
+time_signature: 3
+time_signature_confidence: 0.72
+title: This Is Our Album_ Eh?
+track_7digitalid: 3505378
+track_id: TRAZNDU128F42B64EE
+year: 0

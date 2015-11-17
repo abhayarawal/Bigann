@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1455
+artist_familiarity: 0.827357260054
+artist_hotttnesss: 0.749062406112
+artist_id: ARDCFNZ1187FB3DDB0
+artist_latitude: nan
+artist_location: Madrid, Spain
+artist_longitude: nan
+artist_mbid: 35f866dc-c061-48ba-8157-cf2e0eac4857
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Enrique Iglesias
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 24522c53c95a2bc31115612219efd400
+bars_confidence: shape = (152,)
+bars_start: shape = (152,)
+beats_confidence: shape = (611,)
+beats_start: shape = (611,)
+danceability: 0.0
+duration: 263.81016
+end_of_fade_in: 3.907
+energy: 0.0
+key: 9
+key_confidence: 0.93
+loudness: -7.06
+mode: 1
+mode_confidence: 0.756
+release: Enrique Iglesias
+release_7digitalid: 226330
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (770,)
+segments_loudness_max: shape = (770,)
+segments_loudness_max_time: shape = (770,)
+segments_loudness_start: shape = (770,)
+segments_pitches: shape = (770, 12)
+segments_start: shape = (770,)
+segments_timbre: shape = (770, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.468181070918
+song_id: SOWHBYK12A6D4F7925
+start_of_fade_out: 255.28
+tatums_confidence: shape = (1223,)
+tatums_start: shape = (1223,)
+tempo: 141.22
+time_signature: 4
+time_signature_confidence: 0.0
+title: Si Juras Regresar
+track_7digitalid: 2476719
+track_id: TRAKMUO128F4215890
+year: 1995

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40615
+artist_familiarity: 0.512956420718
+artist_hotttnesss: 0.335547913298
+artist_id: AREMPZG1187B99D246
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 53254544-ed75-49d6-952c-5acf495afdbc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Márcio Faraco
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 8a3ca23cf2edaf643bcab9b313e1f029
+bars_confidence: shape = (159,)
+bars_start: shape = (159,)
+beats_confidence: shape = (480,)
+beats_start: shape = (480,)
+danceability: 0.0
+duration: 236.35546
+end_of_fade_in: 1.338
+energy: 0.0
+key: 4
+key_confidence: 0.637
+loudness: -16.285
+mode: 0
+mode_confidence: 0.589
+release: Um Rio
+release_7digitalid: 602964
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (861,)
+segments_loudness_max: shape = (861,)
+segments_loudness_max_time: shape = (861,)
+segments_loudness_start: shape = (861,)
+segments_pitches: shape = (861, 12)
+segments_start: shape = (861,)
+segments_timbre: shape = (861, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOXNMHZ12AC9097DE9
+start_of_fade_out: 227.643
+tatums_confidence: shape = (960,)
+tatums_start: shape = (960,)
+tempo: 125.989
+time_signature: 3
+time_signature_confidence: 0.656
+title: Kanoê
+track_7digitalid: 6697775
+track_id: TRAXWTA12903CF7520
+year: 0

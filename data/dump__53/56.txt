@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 617
+artist_familiarity: 0.807043479859
+artist_hotttnesss: 0.591744738546
+artist_id: AR9O98A1187FB39621
+artist_latitude: 40.71455
+artist_location: NY
+artist_longitude: -74.00712
+artist_mbid: f181961b-20f7-459e-89de-920ef03c7ed0
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: The Strokes
+artist_playmeid: 1582
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 36d87f94e071d00f4530ff9bdc0c7e79
+bars_confidence: shape = (51,)
+bars_start: shape = (51,)
+beats_confidence: shape = (259,)
+beats_start: shape = (259,)
+danceability: 0.0
+duration: 177.18812
+end_of_fade_in: 0.129
+energy: 0.0
+key: 7
+key_confidence: 0.67
+loudness: -3.994
+mode: 1
+mode_confidence: 0.79
+release: Room On Fire
+release_7digitalid: 268144
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (590,)
+segments_loudness_max: shape = (590,)
+segments_loudness_max_time: shape = (590,)
+segments_loudness_start: shape = (590,)
+segments_pitches: shape = (590, 12)
+segments_start: shape = (590,)
+segments_timbre: shape = (590, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.745743388118
+song_id: SOBVLUP12A8C140311
+start_of_fade_out: 166.76
+tatums_confidence: shape = (777,)
+tatums_start: shape = (777,)
+tempo: 93.315
+time_signature: 5
+time_signature_confidence: 0.673
+title: Meet Me In The Bathroom
+track_7digitalid: 2948889
+track_id: TRASHPV128F4281CB1
+year: 2003

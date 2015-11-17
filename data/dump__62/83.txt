@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 137698
+artist_familiarity: 0.258591186061
+artist_hotttnesss: 0.0
+artist_id: ARCXCUP122988EF596
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Blindman's Sun
+artist_playmeid: 74742
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: a530ee46ee5dff13e7ef2aacde57f073
+bars_confidence: shape = (277,)
+bars_start: shape = (277,)
+beats_confidence: shape = (1136,)
+beats_start: shape = (1136,)
+danceability: 0.0
+duration: 639.42485
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.259
+loudness: -9.324
+mode: 0
+mode_confidence: 0.363
+release: Blindman's Sun
+release_7digitalid: 230751
+sections_confidence: shape = (23,)
+sections_start: shape = (23,)
+segments_confidence: shape = (2663,)
+segments_loudness_max: shape = (2663,)
+segments_loudness_max_time: shape = (2663,)
+segments_loudness_start: shape = (2663,)
+segments_pitches: shape = (2663, 12)
+segments_start: shape = (2663,)
+segments_timbre: shape = (2663, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTXMJG12A81C22F8E
+start_of_fade_out: 632.802
+tatums_confidence: shape = (3410,)
+tatums_start: shape = (3410,)
+tempo: 101.172
+time_signature: 4
+time_signature_confidence: 0.96
+title: The Fugitives
+track_7digitalid: 2528992
+track_id: TRAVNUX128F422231A
+year: 0

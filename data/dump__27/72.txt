@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7537
+artist_familiarity: 0.729212274097
+artist_hotttnesss: 0.481339308574
+artist_id: ARVUN5F1187FB4CCC7
+artist_latitude: nan
+artist_location: Kingston, Jamaica
+artist_longitude: nan
+artist_mbid: 0d85b9f2-802d-48bb-aa85-6a9668869053
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Beenie Man Featuring Janet Jackson
+artist_playmeid: 177
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 595ecaf2c30f5e139ec239251c192b58
+bars_confidence: shape = (91,)
+bars_start: shape = (91,)
+beats_confidence: shape = (367,)
+beats_start: shape = (367,)
+danceability: 0.0
+duration: 215.90159
+end_of_fade_in: 0.31
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -4.475
+mode: 1
+mode_confidence: 0.0
+release: Feel It Boy
+release_7digitalid: 277594
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (829,)
+segments_loudness_max: shape = (829,)
+segments_loudness_max_time: shape = (829,)
+segments_loudness_start: shape = (829,)
+segments_pitches: shape = (829, 12)
+segments_start: shape = (829,)
+segments_timbre: shape = (829, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBGXEU12A8AE45903
+start_of_fade_out: 212.759
+tatums_confidence: shape = (735,)
+tatums_start: shape = (735,)
+tempo: 102.828
+time_signature: 4
+time_signature_confidence: 1.0
+title: Feel It Boy (Deep Dish Danchall Remix) (Feat. Janet Jackson)
+track_7digitalid: 3093547
+track_id: TRAJHCO128F42570C1
+year: 2002

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 72456
+artist_familiarity: 0.632856418729
+artist_hotttnesss: 0.428980521439
+artist_id: ARQ0BZY1187B99F093
+artist_latitude: nan
+artist_location: Columbus, OH
+artist_longitude: nan
+artist_mbid: 901502fb-3759-47c2-afac-064cacb8d8a1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Everyday Sunday
+artist_playmeid: 38266
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 4bd3ffc538e0dd1132021539047a4004
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (413,)
+beats_start: shape = (413,)
+danceability: 0.0
+duration: 168.95955
+end_of_fade_in: 0.074
+energy: 0.0
+key: 1
+key_confidence: 0.683
+loudness: -4.017
+mode: 1
+mode_confidence: 0.651
+release: Wake Up! Wake Up!
+release_7digitalid: 92631
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (537,)
+segments_loudness_max: shape = (537,)
+segments_loudness_max_time: shape = (537,)
+segments_loudness_start: shape = (537,)
+segments_pitches: shape = (537, 12)
+segments_start: shape = (537,)
+segments_timbre: shape = (537, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.601402938946
+song_id: SOQSSFX12A8C13424A
+start_of_fade_out: 163.614
+tatums_confidence: shape = (826,)
+tatums_start: shape = (826,)
+tempo: 151.844
+time_signature: 4
+time_signature_confidence: 0.0
+title: Wake Up! Wake Up! (Wake Up! Wake Up! Album Version)
+track_7digitalid: 981744
+track_id: TRAIFSM128F42722F1
+year: 2007

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 298
+artist_familiarity: 0.773075676414
+artist_hotttnesss: 0.586729913278
+artist_id: ARMI8BW1187FB57B2E
+artist_latitude: nan
+artist_location: New York, NY
+artist_longitude: nan
+artist_mbid: 98b67ebc-5606-4cdb-9787-47b12cceb101
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kiss
+artist_playmeid: 872
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: fd994e630124e03aa43c8190933ad9fa
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (352,)
+beats_start: shape = (352,)
+danceability: 0.0
+duration: 154.40934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.788
+loudness: -6.609
+mode: 0
+mode_confidence: 0.702
+release: Gold (1974-1982)
+release_7digitalid: 16141
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (570,)
+segments_loudness_max: shape = (570,)
+segments_loudness_max_time: shape = (570,)
+segments_loudness_start: shape = (570,)
+segments_pitches: shape = (570, 12)
+segments_start: shape = (570,)
+segments_timbre: shape = (570, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.598167313919
+song_id: SOBMGLG12A6D4F84D7
+start_of_fade_out: 137.242
+tatums_confidence: shape = (704,)
+tatums_start: shape = (704,)
+tempo: 139.706
+time_signature: 4
+time_signature_confidence: 0.415
+title: Anything For My Baby
+track_7digitalid: 172072
+track_id: TRBGHND128E079438C
+year: 0

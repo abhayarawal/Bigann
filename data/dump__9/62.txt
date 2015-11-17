@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4738
+artist_familiarity: 0.482148324971
+artist_hotttnesss: 0.344198187483
+artist_id: ARFCOGY1187FB454B4
+artist_latitude: nan
+artist_location: Detroit, MI
+artist_longitude: nan
+artist_mbid: 29e51d5b-33e6-4646-be96-245c77a49d36
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Winans
+artist_playmeid: -1
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 5b5be8baadb1b81a72c2bb9c5d0d20b8
+bars_confidence: shape = (113,)
+bars_start: shape = (113,)
+beats_confidence: shape = (455,)
+beats_start: shape = (455,)
+danceability: 0.0
+duration: 263.20934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.282
+loudness: -7.68
+mode: 1
+mode_confidence: 0.322
+release: Return
+release_7digitalid: 343272
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1153,)
+segments_loudness_max: shape = (1153,)
+segments_loudness_max_time: shape = (1153,)
+segments_loudness_start: shape = (1153,)
+segments_pitches: shape = (1153, 12)
+segments_start: shape = (1153,)
+segments_timbre: shape = (1153, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOIZRPR12AB0180BF1
+start_of_fade_out: 248.349
+tatums_confidence: shape = (910,)
+tatums_start: shape = (910,)
+tempo: 104.856
+time_signature: 4
+time_signature_confidence: 1.0
+title: Free (Album Version)
+track_7digitalid: 3844677
+track_id: TRADEME128F9301CBB
+year: 0

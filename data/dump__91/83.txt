@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7789
+artist_familiarity: 0.432074796015
+artist_hotttnesss: 0.299392787198
+artist_id: ARUBX2Y1187B99CD25
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f02e98c4-a0fa-4c02-ac0a-587f4319ac87
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tyrone Taylor
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 554f25781c00bf33cef0ef85457fb310
+bars_confidence: shape = (841,)
+bars_start: shape = (841,)
+beats_confidence: shape = (841,)
+beats_start: shape = (841,)
+danceability: 0.0
+duration: 290.16771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.439
+loudness: -7.06
+mode: 1
+mode_confidence: 0.437
+release: Reggae Max
+release_7digitalid: 345122
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1124,)
+segments_loudness_max: shape = (1124,)
+segments_loudness_max_time: shape = (1124,)
+segments_loudness_start: shape = (1124,)
+segments_pitches: shape = (1124, 12)
+segments_start: shape = (1124,)
+segments_timbre: shape = (1124, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.227329874827
+song_id: SOVLMTZ12AB018530D
+start_of_fade_out: 286.668
+tatums_confidence: shape = (1682,)
+tatums_start: shape = (1682,)
+tempo: 174.33
+time_signature: 1
+time_signature_confidence: 0.0
+title: True Love
+track_7digitalid: 3867821
+track_id: TRBFRNX128F9306093
+year: 0

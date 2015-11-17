@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 29680
+artist_familiarity: 0.60761549057
+artist_hotttnesss: 0.340915136303
+artist_id: ARZQPE11187FB40939
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1ab5659c-aa39-479e-8920-92eaa98999fe
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Panic Channel
+artist_playmeid: 86010
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 8344a8385c696337b1eba426ed4e2bf6
+bars_confidence: shape = (359,)
+bars_start: shape = (359,)
+beats_confidence: shape = (359,)
+beats_start: shape = (359,)
+danceability: 0.0
+duration: 153.25995
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.505
+loudness: -2.648
+mode: 1
+mode_confidence: 0.319
+release: (ONe)
+release_7digitalid: 41093
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (556,)
+segments_loudness_max: shape = (556,)
+segments_loudness_max_time: shape = (556,)
+segments_loudness_start: shape = (556,)
+segments_pitches: shape = (556, 12)
+segments_start: shape = (556,)
+segments_timbre: shape = (556, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.511424325686
+song_id: SOCCMWP12A58A7919C
+start_of_fade_out: 148.468
+tatums_confidence: shape = (1078,)
+tatums_start: shape = (1078,)
+tempo: 143.224
+time_signature: 1
+time_signature_confidence: 0.0
+title: Said You'd Be
+track_7digitalid: 437192
+track_id: TRASYWM128F14804A5
+year: 2006

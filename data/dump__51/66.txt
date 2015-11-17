@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 316562
+artist_familiarity: 0.612640524236
+artist_hotttnesss: 0.436782949495
+artist_id: ARVWNTI1269FB34C59
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: SOJA
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: a5d0fba0fa1e66bcf92447440df6914e
+bars_confidence: shape = (73,)
+bars_start: shape = (73,)
+beats_confidence: shape = (370,)
+beats_start: shape = (370,)
+danceability: 0.0
+duration: 221.09995
+end_of_fade_in: 0.066
+energy: 0.0
+key: 7
+key_confidence: 0.218
+loudness: -5.781
+mode: 1
+mode_confidence: 0.395
+release: Stars and Stripes
+release_7digitalid: 773700
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (872,)
+segments_loudness_max: shape = (872,)
+segments_loudness_max_time: shape = (872,)
+segments_loudness_start: shape = (872,)
+segments_pitches: shape = (872, 12)
+segments_start: shape = (872,)
+segments_timbre: shape = (872, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOONUVQ12AB018889B
+start_of_fade_out: 217.757
+tatums_confidence: shape = (1110,)
+tatums_start: shape = (1110,)
+tempo: 102.581
+time_signature: 5
+time_signature_confidence: 0.086
+title: Be Aware
+track_7digitalid: 8562341
+track_id: TRARPTJ12903CE2898
+year: 0

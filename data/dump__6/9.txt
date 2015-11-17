@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 385087
+artist_familiarity: 0.526646054931
+artist_hotttnesss: 0.352342013006
+artist_id: AR05VW21187FB407B4
+artist_latitude: 52.94922
+artist_location: Nottingham
+artist_longitude: -1.14392
+artist_mbid: 72402b72-3c5d-43ee-ba41-5affbdef9bad
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Fudge Tunnel
+artist_playmeid: 160624
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: b85bfc00339908953014cdde0cb0699f
+bars_confidence: shape = (60,)
+bars_start: shape = (60,)
+beats_confidence: shape = (242,)
+beats_start: shape = (242,)
+danceability: 0.0
+duration: 124.94322
+end_of_fade_in: 0.415
+energy: 0.0
+key: 11
+key_confidence: 0.038
+loudness: -7.31
+mode: 1
+mode_confidence: 0.332
+release: In A Word
+release_7digitalid: 681552
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (362,)
+segments_loudness_max: shape = (362,)
+segments_loudness_max_time: shape = (362,)
+segments_loudness_start: shape = (362,)
+segments_pitches: shape = (362, 12)
+segments_start: shape = (362,)
+segments_timbre: shape = (362, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.480238747979
+song_id: SOZTDIN12AB018AAD1
+start_of_fade_out: 120.32
+tatums_confidence: shape = (485,)
+tatums_start: shape = (485,)
+tempo: 120.703
+time_signature: 4
+time_signature_confidence: 0.005
+title: Bed Crumbs
+track_7digitalid: 7563932
+track_id: TRACALZ12903CDCFBB
+year: 1991

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 317186
+artist_familiarity: 0.408850474781
+artist_hotttnesss: 0.338992802604
+artist_id: ARIXB7T1187B9AB215
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 37d131d3-1639-4ae3-b642-eb786a15f16a
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Intars Busulis
+artist_playmeid: 162320
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 97fdfef0eaded59bf4e9a84ece4d03f6
+bars_confidence: shape = (116,)
+bars_start: shape = (116,)
+beats_confidence: shape = (469,)
+beats_start: shape = (469,)
+danceability: 0.0
+duration: 206.31465
+end_of_fade_in: 0.531
+energy: 0.0
+key: 2
+key_confidence: 0.541
+loudness: -6.447
+mode: 0
+mode_confidence: 0.422
+release: Kino
+release_7digitalid: 423728
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (663,)
+segments_loudness_max: shape = (663,)
+segments_loudness_max_time: shape = (663,)
+segments_loudness_start: shape = (663,)
+segments_pitches: shape = (663, 12)
+segments_start: shape = (663,)
+segments_timbre: shape = (663, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.400039656955
+song_id: SOVEPPC12AB018AE2F
+start_of_fade_out: 197.822
+tatums_confidence: shape = (938,)
+tatums_start: shape = (938,)
+tempo: 140.076
+time_signature: 4
+time_signature_confidence: 0.409
+title: Brivdiena
+track_7digitalid: 4723645
+track_id: TRBFYPB128F9340C24
+year: 0

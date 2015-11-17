@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 95567
+artist_familiarity: 0.543350012966
+artist_hotttnesss: 0.399265149721
+artist_id: ARXOKNT1187B9AA521
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9ceb4e76-2b49-48a1-96f5-5fca8a0ca6c8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dj Kali
+artist_playmeid: -1
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: f8b889a219fb921968cc80dfebf804f6
+bars_confidence: shape = (195,)
+bars_start: shape = (195,)
+beats_confidence: shape = (784,)
+beats_start: shape = (784,)
+danceability: 0.0
+duration: 347.61098
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.002
+loudness: -4.988
+mode: 0
+mode_confidence: 0.246
+release: Various Artists #4
+release_7digitalid: 359608
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (2085,)
+segments_loudness_max: shape = (2085,)
+segments_loudness_max_time: shape = (2085,)
+segments_loudness_start: shape = (2085,)
+segments_pitches: shape = (2085, 12)
+segments_start: shape = (2085,)
+segments_timbre: shape = (2085, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORZCXI12AB0183DB4
+start_of_fade_out: 343.406
+tatums_confidence: shape = (1569,)
+tatums_start: shape = (1569,)
+tempo: 133.891
+time_signature: 4
+time_signature_confidence: 1.0
+title: Body
+track_7digitalid: 4009067
+track_id: TRBHVRD128F93232B7
+year: 0

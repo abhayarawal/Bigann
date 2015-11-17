@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7544
+artist_familiarity: 0.681084419844
+artist_hotttnesss: 0.453371188065
+artist_id: ARI4SKQ1187B9B43B0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a769ffc3-f436-4c7a-9c5c-72b049f5e4d2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Beres Hammond
+artist_playmeid: 1763
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: a289284014f31d2c3e0362ed5e757752
+bars_confidence: shape = (147,)
+bars_start: shape = (147,)
+beats_confidence: shape = (592,)
+beats_start: shape = (592,)
+danceability: 0.0
+duration: 229.51138
+end_of_fade_in: 0.183
+energy: 0.0
+key: 4
+key_confidence: 0.005
+loudness: -8.574
+mode: 0
+mode_confidence: 0.044
+release: Can't Stop A Man
+release_7digitalid: 52956
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1003,)
+segments_loudness_max: shape = (1003,)
+segments_loudness_max_time: shape = (1003,)
+segments_loudness_start: shape = (1003,)
+segments_pitches: shape = (1003, 12)
+segments_start: shape = (1003,)
+segments_timbre: shape = (1003, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.372530039366
+song_id: SODBQYW12A6D4F6CFA
+start_of_fade_out: 223.817
+tatums_confidence: shape = (1185,)
+tatums_start: shape = (1185,)
+tempo: 155.769
+time_signature: 4
+time_signature_confidence: 0.906
+title: Call On The Father
+track_7digitalid: 561478
+track_id: TRAYXHL128F14961C6
+year: 2003

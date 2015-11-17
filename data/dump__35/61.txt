@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 107468
+artist_familiarity: 0.501544777104
+artist_hotttnesss: 0.392733675547
+artist_id: ARGUVEV1187B98BA17
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 017f5df4-c30c-4799-95f7-997bd5b88df7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sierra Maestra
+artist_playmeid: 185183
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 86c84850bba04386d56768bb690348b1
+bars_confidence: shape = (677,)
+bars_start: shape = (677,)
+beats_confidence: shape = (677,)
+beats_start: shape = (677,)
+danceability: 0.0
+duration: 295.99302
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.422
+loudness: -13.822
+mode: 1
+mode_confidence: 0.505
+release: Criolla Karabalí
+release_7digitalid: 338569
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1298,)
+segments_loudness_max: shape = (1298,)
+segments_loudness_max_time: shape = (1298,)
+segments_loudness_start: shape = (1298,)
+segments_pitches: shape = (1298, 12)
+segments_start: shape = (1298,)
+segments_timbre: shape = (1298, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOPAZPG12AB017DDDA
+start_of_fade_out: 286.883
+tatums_confidence: shape = (1353,)
+tatums_start: shape = (1353,)
+tempo: 141.121
+time_signature: 1
+time_signature_confidence: 0.0
+title: Abandonada / Blancas azucenas
+track_7digitalid: 3786970
+track_id: TRAMDHN128F92F5E19
+year: 1992

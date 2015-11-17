@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1646
+artist_familiarity: 0.641172817621
+artist_hotttnesss: 0.436769069709
+artist_id: ARC0MTS1187FB44C21
+artist_latitude: 50.84838
+artist_location: Brussels, Belgium
+artist_longitude: 4.34968
+artist_mbid: 20404789-b0f3-43de-bbe1-f4fe39e83e87
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Toots Thielemans
+artist_playmeid: 16621
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: f90953e7425a13a1a060e49168ca4ed7
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (412,)
+beats_start: shape = (412,)
+danceability: 0.0
+duration: 119.71873
+end_of_fade_in: 0.235
+energy: 0.0
+key: 2
+key_confidence: 0.666
+loudness: -12.192
+mode: 1
+mode_confidence: 0.647
+release: Aquarela Do Brasil
+release_7digitalid: 57363
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (463,)
+segments_loudness_max: shape = (463,)
+segments_loudness_max_time: shape = (463,)
+segments_loudness_start: shape = (463,)
+segments_pitches: shape = (463, 12)
+segments_start: shape = (463,)
+segments_timbre: shape = (463, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOUROWU12A6D4F8EA6
+start_of_fade_out: 111.131
+tatums_confidence: shape = (824,)
+tatums_start: shape = (824,)
+tempo: 218.681
+time_signature: 4
+time_signature_confidence: 0.97
+title: Five For Ellis
+track_7digitalid: 596653
+track_id: TRATLLL128F149DBEB
+year: 0

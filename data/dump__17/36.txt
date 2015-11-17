@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 623
+artist_familiarity: 0.567313224122
+artist_hotttnesss: 0.58001318294
+artist_id: ARAIABB1187B9AC6E2
+artist_latitude: nan
+artist_location: Paddington, London, England
+artist_longitude: nan
+artist_mbid: f053ae01-dae6-4aae-9883-e8c279fdbef4
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Seal
+artist_playmeid: 1408
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 80e6e8a8111287d265b0d9e5748f663e
+bars_confidence: shape = (215,)
+bars_start: shape = (215,)
+beats_confidence: shape = (864,)
+beats_start: shape = (864,)
+danceability: 0.0
+duration: 279.74485
+end_of_fade_in: 0.681
+energy: 0.0
+key: 4
+key_confidence: 0.378
+loudness: -9.86
+mode: 0
+mode_confidence: 0.406
+release: Killer
+release_7digitalid: 7315
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (942,)
+segments_loudness_max: shape = (942,)
+segments_loudness_max_time: shape = (942,)
+segments_loudness_start: shape = (942,)
+segments_pitches: shape = (942, 12)
+segments_start: shape = (942,)
+segments_timbre: shape = (942, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.221548659914
+song_id: SOBJLED12A8C14108C
+start_of_fade_out: 263.25
+tatums_confidence: shape = (1728,)
+tatums_start: shape = (1728,)
+tempo: 187.566
+time_signature: 4
+time_signature_confidence: 0.57
+title: Whirlpool [Live]
+track_7digitalid: 3548749
+track_id: TRAFXST128F92C5B0A
+year: 0

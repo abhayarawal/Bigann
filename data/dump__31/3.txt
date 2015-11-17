@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 82979
+artist_familiarity: 0.557875168422
+artist_hotttnesss: 0.359324726504
+artist_id: AREENKN1187B98F35D
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 3fec8b00-4142-4129-96f5-1c9bf65e8e8f
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: The Plasmatics
+artist_playmeid: 102992
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 31146fb7173c4b6aa06d09ae66fb69d2
+bars_confidence: shape = (138,)
+bars_start: shape = (138,)
+beats_confidence: shape = (560,)
+beats_start: shape = (560,)
+danceability: 0.0
+duration: 286.9024
+end_of_fade_in: 4.818
+energy: 0.0
+key: 11
+key_confidence: 0.701
+loudness: -4.907
+mode: 1
+mode_confidence: 0.511
+release: Beyond The Valley Of 1984
+release_7digitalid: 256978
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (823,)
+segments_loudness_max: shape = (823,)
+segments_loudness_max_time: shape = (823,)
+segments_loudness_start: shape = (823,)
+segments_pitches: shape = (823, 12)
+segments_start: shape = (823,)
+segments_timbre: shape = (823, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.536032111708
+song_id: SOKHOUY12A8C1358E0
+start_of_fade_out: 276.614
+tatums_confidence: shape = (1119,)
+tatums_start: shape = (1119,)
+tempo: 119.38
+time_signature: 4
+time_signature_confidence: 0.71
+title: Summer Nite
+track_7digitalid: 2708129
+track_id: TRAKNBW128F4249FD8
+year: 1981

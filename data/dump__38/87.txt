@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22258
+artist_familiarity: 0.546788716654
+artist_hotttnesss: 0.370828989973
+artist_id: AR0693R1187FB59D32
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 783b9eec-e8d2-48b7-b41f-ba1a1d3e155f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Dusminguet
+artist_playmeid: -1
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 04e0b5115389afaee285c14fe6a7dc0f
+bars_confidence: shape = (74,)
+bars_start: shape = (74,)
+beats_confidence: shape = (300,)
+beats_start: shape = (300,)
+danceability: 0.0
+duration: 173.97506
+end_of_fade_in: 0.229
+energy: 0.0
+key: 7
+key_confidence: 0.064
+loudness: -9.688
+mode: 1
+mode_confidence: 0.413
+release: Vafalungo
+release_7digitalid: 155097
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (752,)
+segments_loudness_max: shape = (752,)
+segments_loudness_max_time: shape = (752,)
+segments_loudness_start: shape = (752,)
+segments_pitches: shape = (752, 12)
+segments_start: shape = (752,)
+segments_timbre: shape = (752, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.349166902125
+song_id: SOKWAIM12A8C137350
+start_of_fade_out: 168.786
+tatums_confidence: shape = (1198,)
+tatums_start: shape = (1198,)
+tempo: 106.073
+time_signature: 4
+time_signature_confidence: 1.0
+title: Africa
+track_7digitalid: 1623654
+track_id: TRANHRS128F426B925
+year: 1998

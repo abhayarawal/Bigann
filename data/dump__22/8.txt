@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13447
+artist_familiarity: 0.686988954629
+artist_hotttnesss: 0.606630151729
+artist_id: ARX9YIP1187B98A656
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5ecc3f72-20a6-47a0-8dc5-fb0b3dadeea0
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: RUN-DMC
+artist_playmeid: 1373
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 3708b2849bb588fa9059f3a6e55e02de
+bars_confidence: shape = (40,)
+bars_start: shape = (40,)
+beats_confidence: shape = (163,)
+beats_start: shape = (163,)
+danceability: 0.0
+duration: 101.74649
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.095
+loudness: -6.905
+mode: 0
+mode_confidence: 0.486
+release: Tougher Than Leather
+release_7digitalid: 307454
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (460,)
+segments_loudness_max: shape = (460,)
+segments_loudness_max_time: shape = (460,)
+segments_loudness_start: shape = (460,)
+segments_pitches: shape = (460, 12)
+segments_start: shape = (460,)
+segments_timbre: shape = (460, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.270775998946
+song_id: SORURGG12A8C13E8BF
+start_of_fade_out: 101.746
+tatums_confidence: shape = (652,)
+tatums_start: shape = (652,)
+tempo: 96.686
+time_signature: 4
+time_signature_confidence: 0.976
+title: Crack
+track_7digitalid: 3474952
+track_id: TRAHNPU128F42AEE9C
+year: 1988

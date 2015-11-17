@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3254
+artist_familiarity: 0.325219143048
+artist_hotttnesss: 0.270099982469
+artist_id: ARQVTCN11E2835DFFD
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f4847b22-6278-4963-aae6-43f6958ec261
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Marcel Mouloudji
+artist_playmeid: 27517
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: 852170df826e5aa9c64a21114b38147c
+bars_confidence: shape = (55,)
+bars_start: shape = (55,)
+beats_confidence: shape = (231,)
+beats_start: shape = (231,)
+danceability: 0.0
+duration: 129.77587
+end_of_fade_in: 0.428
+energy: 0.0
+key: 1
+key_confidence: 0.245
+loudness: -15.788
+mode: 0
+mode_confidence: 0.407
+release: 36 Grands Succès
+release_7digitalid: 299377
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (407,)
+segments_loudness_max: shape = (407,)
+segments_loudness_max_time: shape = (407,)
+segments_loudness_start: shape = (407,)
+segments_pitches: shape = (407, 12)
+segments_start: shape = (407,)
+segments_timbre: shape = (407, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFJAJB12A8C139F14
+start_of_fade_out: 124.093
+tatums_confidence: shape = (461,)
+tatums_start: shape = (461,)
+tempo: 108.333
+time_signature: 4
+time_signature_confidence: 0.74
+title: Madeleine
+track_7digitalid: 3374916
+track_id: TRBEOIU128F4296D36
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 90222
+artist_familiarity: 0.737437395434
+artist_hotttnesss: 0.663686475969
+artist_id: ARFWL8S1187B9B4B44
+artist_latitude: nan
+artist_location: Charlemagne, Quebec, Canada
+artist_longitude: nan
+artist_mbid: 847e8a0c-cc20-4213-9e16-975515c2a926
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Céline Dion
+artist_playmeid: 309
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 7d68097f88a6a90ba9c5591fad2286f9
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (275,)
+beats_start: shape = (275,)
+danceability: 0.0
+duration: 224.20853
+end_of_fade_in: 0.822
+energy: 0.0
+key: 2
+key_confidence: 0.647
+loudness: -9.528
+mode: 0
+mode_confidence: 0.577
+release: Taking Chances
+release_7digitalid: 662478
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (628,)
+segments_loudness_max: shape = (628,)
+segments_loudness_max_time: shape = (628,)
+segments_loudness_start: shape = (628,)
+segments_pitches: shape = (628, 12)
+segments_start: shape = (628,)
+segments_timbre: shape = (628, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.443291311905
+song_id: SOOWKSP12AB018043B
+start_of_fade_out: 198.983
+tatums_confidence: shape = (551,)
+tatums_start: shape = (551,)
+tempo: 77.977
+time_signature: 3
+time_signature_confidence: 0.337
+title: The Reason I Go On
+track_7digitalid: 7350280
+track_id: TRADFCO12903CA9439
+year: 2007

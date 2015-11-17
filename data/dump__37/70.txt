@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 25
+artist_familiarity: 0.813013088935
+artist_hotttnesss: 0.548533654534
+artist_id: ARXDQJB1187FB57154
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: 23d9d74d-c95e-46a6-be26-a6075c49747a
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Faithless
+artist_playmeid: 594
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 683b9924d8f4a8446a7ce6ece89b0e1d
+bars_confidence: shape = (146,)
+bars_start: shape = (146,)
+beats_confidence: shape = (588,)
+beats_start: shape = (588,)
+danceability: 0.0
+duration: 275.12118
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.515
+loudness: -7.852
+mode: 1
+mode_confidence: 0.431
+release: Live At Alexandra Palace
+release_7digitalid: 307773
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1258,)
+segments_loudness_max: shape = (1258,)
+segments_loudness_max_time: shape = (1258,)
+segments_loudness_start: shape = (1258,)
+segments_pitches: shape = (1258, 12)
+segments_start: shape = (1258,)
+segments_timbre: shape = (1258, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGBZFX12A8C13C9BA
+start_of_fade_out: 275.121
+tatums_confidence: shape = (1177,)
+tatums_start: shape = (1177,)
+tempo: 130.002
+time_signature: 4
+time_signature_confidence: 0.0
+title: Take The Long Way Home
+track_7digitalid: 3465859
+track_id: TRAMVOM128F42ACB16
+year: 1998

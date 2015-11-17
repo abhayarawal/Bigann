@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20074
+artist_familiarity: 0.642355325437
+artist_hotttnesss: 0.370346773126
+artist_id: AROCP781187B98E2A3
+artist_latitude: 49.38426
+artist_location: CANADA - Ontario
+artist_longitude: -84.75627
+artist_mbid: 2972f54d-aa74-4b6a-a719-49e2c22277f6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tim Hughes
+artist_playmeid: 36202
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 4eac97a2ca5fb1bfef6a404dc9267468
+bars_confidence: shape = (162,)
+bars_start: shape = (162,)
+beats_confidence: shape = (652,)
+beats_start: shape = (652,)
+danceability: 0.0
+duration: 268.2771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.701
+loudness: -7.205
+mode: 1
+mode_confidence: 0.273
+release: Happy Day
+release_7digitalid: 405251
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (914,)
+segments_loudness_max: shape = (914,)
+segments_loudness_max_time: shape = (914,)
+segments_loudness_start: shape = (914,)
+segments_pitches: shape = (914, 12)
+segments_start: shape = (914,)
+segments_timbre: shape = (914, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.699867742729
+song_id: SORMVVP12AB017B071
+start_of_fade_out: 268.277
+tatums_confidence: shape = (1303,)
+tatums_start: shape = (1303,)
+tempo: 145.962
+time_signature: 4
+time_signature_confidence: 1.0
+title: Dance
+track_7digitalid: 4503385
+track_id: TRAMPXI128F931154A
+year: 2007

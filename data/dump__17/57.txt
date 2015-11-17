@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 47077
+artist_familiarity: 0.604644689712
+artist_hotttnesss: 0.398862597257
+artist_id: ARNVCZC1187B9934F5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a61da244-5ae2-44e8-be90-af59ae45caec
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Corona
+artist_playmeid: -1
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: fc31362c9b778b7870624265e9707b6f
+bars_confidence: shape = (115,)
+bars_start: shape = (115,)
+beats_confidence: shape = (465,)
+beats_start: shape = (465,)
+danceability: 0.0
+duration: 221.49179
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.313
+loudness: -10.771
+mode: 1
+mode_confidence: 0.468
+release: The Rhythm Of The Night
+release_7digitalid: 123416
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1044,)
+segments_loudness_max: shape = (1044,)
+segments_loudness_max_time: shape = (1044,)
+segments_loudness_start: shape = (1044,)
+segments_pitches: shape = (1044, 12)
+segments_start: shape = (1044,)
+segments_timbre: shape = (1044, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.424539052237
+song_id: SOUFZNH12A8C13F572
+start_of_fade_out: 221.492
+tatums_confidence: shape = (930,)
+tatums_start: shape = (930,)
+tempo: 131.981
+time_signature: 4
+time_signature_confidence: 0.234
+title: I Gotta Keep Dancing
+track_7digitalid: 1274929
+track_id: TRAFZLA128F42ADCCB
+year: 0

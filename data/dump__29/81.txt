@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30101
+artist_familiarity: 0.477364752484
+artist_hotttnesss: 0.337507289166
+artist_id: ARCCRTI11F4C845308
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: White Heart
+artist_playmeid: 86428
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 9a7b8f39125fe505f60b64487b728997
+bars_confidence: shape = (154,)
+bars_start: shape = (154,)
+beats_confidence: shape = (621,)
+beats_start: shape = (621,)
+danceability: 0.0
+duration: 299.36281
+end_of_fade_in: 0.779
+energy: 0.0
+key: 11
+key_confidence: 0.378
+loudness: -8.797
+mode: 0
+mode_confidence: 0.481
+release: The Early Years - Whiteheart
+release_7digitalid: 41813
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (907,)
+segments_loudness_max: shape = (907,)
+segments_loudness_max_time: shape = (907,)
+segments_loudness_start: shape = (907,)
+segments_pitches: shape = (907, 12)
+segments_start: shape = (907,)
+segments_timbre: shape = (907, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOQOHSQ12A6D4F80D5
+start_of_fade_out: 282.459
+tatums_confidence: shape = (1243,)
+tatums_start: shape = (1243,)
+tempo: 126.153
+time_signature: 4
+time_signature_confidence: 0.242
+title: Sing Your Freedom
+track_7digitalid: 444574
+track_id: TRAKBKO128F1481CFA
+year: 0

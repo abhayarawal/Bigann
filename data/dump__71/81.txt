@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 133285
+artist_familiarity: 0.285488908329
+artist_hotttnesss: 0.246656523411
+artist_id: AR3S7KI1187FB3F737
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d260d424-3db1-40ee-952d-ed82e8632692
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Leon Berry
+artist_playmeid: 78161
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 93cac2f653ef12ff46538014311ff1cc
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (338,)
+beats_start: shape = (338,)
+danceability: 0.0
+duration: 171.59791
+end_of_fade_in: 0.427
+energy: 0.0
+key: 3
+key_confidence: 0.706
+loudness: -9.612
+mode: 1
+mode_confidence: 0.608
+release: Giant Wurlitzer Pipe Organ Vol. 1
+release_7digitalid: 175288
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (429,)
+segments_loudness_max: shape = (429,)
+segments_loudness_max_time: shape = (429,)
+segments_loudness_start: shape = (429,)
+segments_pitches: shape = (429, 12)
+segments_start: shape = (429,)
+segments_timbre: shape = (429, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCJBTQ12A6D4FA539
+start_of_fade_out: 161.495
+tatums_confidence: shape = (675,)
+tatums_start: shape = (675,)
+tempo: 123.816
+time_signature: 4
+time_signature_confidence: 0.484
+title: Waltzing Matilda
+track_7digitalid: 1884104
+track_id: TRAYPEF128F421F58B
+year: 0

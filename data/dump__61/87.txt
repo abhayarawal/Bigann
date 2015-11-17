@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 157532
+artist_familiarity: 0.646401652494
+artist_hotttnesss: 0.423300013309
+artist_id: ARJ438T1187B9AD503
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3d6bbeb7-f90e-4d10-b440-e153c0d10b53
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Elvenking
+artist_playmeid: -1
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 94c7f7e7cadd0d8d500001f6ee808bbb
+bars_confidence: shape = (204,)
+bars_start: shape = (204,)
+beats_confidence: shape = (821,)
+beats_start: shape = (821,)
+danceability: 0.0
+duration: 299.31057
+end_of_fade_in: 0.065
+energy: 0.0
+key: 7
+key_confidence: 0.439
+loudness: -5.157
+mode: 1
+mode_confidence: 0.491
+release: Wyrd
+release_7digitalid: 228651
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (929,)
+segments_loudness_max: shape = (929,)
+segments_loudness_max_time: shape = (929,)
+segments_loudness_start: shape = (929,)
+segments_pitches: shape = (929, 12)
+segments_start: shape = (929,)
+segments_timbre: shape = (929, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.367273415809
+song_id: SOXWXPG12A6D4FE1EA
+start_of_fade_out: 294.446
+tatums_confidence: shape = (1642,)
+tatums_start: shape = (1642,)
+tempo: 165.278
+time_signature: 4
+time_signature_confidence: 0.383
+title: A Fiery Stride (Ltd. Edition Bonus)
+track_7digitalid: 2501507
+track_id: TRAVDQQ128F421B864
+year: 2004

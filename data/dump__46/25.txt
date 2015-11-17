@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 180187
+artist_familiarity: 0.62268416734
+artist_hotttnesss: 0.362238746702
+artist_id: AR0GGKI1187FB391D5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f930ba6a-a87f-44d6-abe5-0c172772d9e4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Eddie
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: ba68e0bd9f42e839e5d4505f16f793e3
+bars_confidence: shape = (122,)
+bars_start: shape = (122,)
+beats_confidence: shape = (493,)
+beats_start: shape = (493,)
+danceability: 0.0
+duration: 170.08281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.885
+loudness: -5.037
+mode: 1
+mode_confidence: 0.786
+release: Metropolitano
+release_7digitalid: 573257
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (795,)
+segments_loudness_max: shape = (795,)
+segments_loudness_max_time: shape = (795,)
+segments_loudness_start: shape = (795,)
+segments_pitches: shape = (795, 12)
+segments_start: shape = (795,)
+segments_timbre: shape = (795, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOYQZUC12AB01839DC
+start_of_fade_out: 170.083
+tatums_confidence: shape = (985,)
+tatums_start: shape = (985,)
+tempo: 175.01
+time_signature: 4
+time_signature_confidence: 0.0
+title: Lombrigas e os vermes
+track_7digitalid: 6354338
+track_id: TRAPTMR12903CA43F0
+year: 0

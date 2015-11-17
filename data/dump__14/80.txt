@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 95198
+artist_familiarity: 0.545803433083
+artist_hotttnesss: 0.336141578129
+artist_id: AR22R8A1187FB46B9E
+artist_latitude: 35.67048
+artist_location: Tokyo
+artist_longitude: 139.74092
+artist_mbid: 5184cf63-9e16-4e13-8b86-f6ecbac4b543
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Shanadoo
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 47d27e5c7ae1d9e2c52b7c19e3b01865
+bars_confidence: shape = (104,)
+bars_start: shape = (104,)
+beats_confidence: shape = (525,)
+beats_start: shape = (525,)
+danceability: 0.0
+duration: 225.20118
+end_of_fade_in: 0.104
+energy: 0.0
+key: 10
+key_confidence: 0.489
+loudness: -3.198
+mode: 1
+mode_confidence: 0.394
+release: Welcome To Tokyo
+release_7digitalid: 125738
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (900,)
+segments_loudness_max: shape = (900,)
+segments_loudness_max_time: shape = (900,)
+segments_loudness_start: shape = (900,)
+segments_pitches: shape = (900, 12)
+segments_start: shape = (900,)
+segments_timbre: shape = (900, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.499664862131
+song_id: SOQVCQK12A6D4FD32F
+start_of_fade_out: 219.649
+tatums_confidence: shape = (1050,)
+tatums_start: shape = (1050,)
+tempo: 142.946
+time_signature: 5
+time_signature_confidence: 0.612
+title: King Kong
+track_7digitalid: 1296214
+track_id: TRAEZFJ128F422A5C0
+year: 2006

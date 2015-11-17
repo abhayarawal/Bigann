@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 173055
+artist_familiarity: 0.552719818114
+artist_hotttnesss: 0.371711094041
+artist_id: AR25WM21187FB461B3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ddec1c79-0653-4d7a-a92a-ceaabc60748f
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Francis Lai
+artist_playmeid: 4701
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: a7190fd7c1b5606032b19967f99e65ac
+bars_confidence: shape = (59,)
+bars_start: shape = (59,)
+beats_confidence: shape = (179,)
+beats_start: shape = (179,)
+danceability: 0.0
+duration: 123.24526
+end_of_fade_in: 0.203
+energy: 0.0
+key: 7
+key_confidence: 0.459
+loudness: -9.853
+mode: 0
+mode_confidence: 0.672
+release: Le passager de la pluie (Original Soundtrack)
+release_7digitalid: 422119
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (376,)
+segments_loudness_max: shape = (376,)
+segments_loudness_max_time: shape = (376,)
+segments_loudness_start: shape = (376,)
+segments_pitches: shape = (376, 12)
+segments_start: shape = (376,)
+segments_timbre: shape = (376, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOQVJZI12AB018520D
+start_of_fade_out: 119.176
+tatums_confidence: shape = (358,)
+tatums_start: shape = (358,)
+tempo: 88.967
+time_signature: 3
+time_signature_confidence: 0.847
+title: La valse du mariage
+track_7digitalid: 4705300
+track_id: TRAEBQO128F933C48A
+year: 2003

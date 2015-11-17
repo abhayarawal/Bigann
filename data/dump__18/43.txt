@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 740906
+artist_familiarity: 0.54003774898
+artist_hotttnesss: 0.360053306539
+artist_id: AR1N6N61187FB4E25E
+artist_latitude: 23.0833
+artist_location: Havana, Cuba [Jesus Maria]
+artist_longitude: -82.4167
+artist_mbid: 915f84de-eac2-4e78-99ad-9ab6e2c50af6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mongo Santamaria
+artist_playmeid: 6530
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: f1636ce26e5d8ee67f546ae907b90dea
+bars_confidence: shape = (379,)
+bars_start: shape = (379,)
+beats_confidence: shape = (379,)
+beats_start: shape = (379,)
+danceability: 0.0
+duration: 194.76853
+end_of_fade_in: 0.15
+energy: 0.0
+key: 2
+key_confidence: 0.579
+loudness: -8.674
+mode: 0
+mode_confidence: 0.696
+release: Afro-Indio
+release_7digitalid: 725669
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (817,)
+segments_loudness_max: shape = (817,)
+segments_loudness_max_time: shape = (817,)
+segments_loudness_start: shape = (817,)
+segments_pitches: shape = (817, 12)
+segments_start: shape = (817,)
+segments_timbre: shape = (817, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLAZFN12AB018A094
+start_of_fade_out: 182.503
+tatums_confidence: shape = (758,)
+tatums_start: shape = (758,)
+tempo: 118.295
+time_signature: 1
+time_signature_confidence: 0.0
+title: Lady Marmalade
+track_7digitalid: 8041800
+track_id: TRAGGXK12903CDA84B
+year: 1975

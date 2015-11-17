@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 31352
+artist_familiarity: 0.307376167086
+artist_hotttnesss: 0.234488654454
+artist_id: ARFNXFR1187B98F6C1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5329161f-2f6c-4174-a747-54790b876fa4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ned Nash Orchestra
+artist_playmeid: 38602
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: d3c06d339cc3c12a002c398da0642db9
+bars_confidence: shape = (82,)
+bars_start: shape = (82,)
+beats_confidence: shape = (331,)
+beats_start: shape = (331,)
+danceability: 0.0
+duration: 174.78485
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.48
+loudness: -13.901
+mode: 0
+mode_confidence: 0.536
+release: Western Movie Themes
+release_7digitalid: 170685
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (491,)
+segments_loudness_max: shape = (491,)
+segments_loudness_max_time: shape = (491,)
+segments_loudness_start: shape = (491,)
+segments_pitches: shape = (491, 12)
+segments_start: shape = (491,)
+segments_timbre: shape = (491, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.327736683178
+song_id: SOWBZMU12A8C13754C
+start_of_fade_out: 163.312
+tatums_confidence: shape = (662,)
+tatums_start: shape = (662,)
+tempo: 118.683
+time_signature: 4
+time_signature_confidence: 0.96
+title: Hang 'm High
+track_7digitalid: 1813387
+track_id: TRBAGOC128F429528A
+year: 0

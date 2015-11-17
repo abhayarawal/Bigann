@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 206175
+artist_familiarity: 0.418399310363
+artist_hotttnesss: 0.290174666928
+artist_id: ARH9NBO1187FB43904
+artist_latitude: 38.00335
+artist_location: Virginia
+artist_longitude: -79.77127
+artist_mbid: bea82584-578d-4be3-bf96-ce0df5eeda81
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: David Taylor
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 30ff0c6b28361a4b7bcc1007f2a390cb
+bars_confidence: shape = (1411,)
+bars_start: shape = (1411,)
+beats_confidence: shape = (1411,)
+beats_start: shape = (1411,)
+danceability: 0.0
+duration: 600.11057
+end_of_fade_in: 0.474
+energy: 0.0
+key: 11
+key_confidence: 0.133
+loudness: -22.54
+mode: 1
+mode_confidence: 0.249
+release: Bass Hits
+release_7digitalid: 529989
+sections_confidence: shape = (24,)
+sections_start: shape = (24,)
+segments_confidence: shape = (1544,)
+segments_loudness_max: shape = (1544,)
+segments_loudness_max_time: shape = (1544,)
+segments_loudness_start: shape = (1544,)
+segments_pitches: shape = (1544, 12)
+segments_start: shape = (1544,)
+segments_timbre: shape = (1544, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOBOIA12AAF3B268E
+start_of_fade_out: 589.642
+tatums_confidence: shape = (2823,)
+tatums_start: shape = (2823,)
+tempo: 144.252
+time_signature: 1
+time_signature_confidence: 0.495
+title: Concertino for Bass Trombone and Trombone Choir
+track_7digitalid: 5855362
+track_id: TRAROQL128F92F7E7D
+year: 0

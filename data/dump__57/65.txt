@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4
+artist_familiarity: 0.835596474134
+artist_hotttnesss: 0.596775654228
+artist_id: ARWD25M1187FB4C563
+artist_latitude: nan
+artist_location: London
+artist_longitude: nan
+artist_mbid: dfe9a7c4-8cf2-47f4-9dcb-d233c2b86ec3
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Amy Winehouse
+artist_playmeid: -1
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: a13ddf2baff6e0e0c5fe1228aaeaa2cb
+bars_confidence: shape = (219,)
+bars_start: shape = (219,)
+beats_confidence: shape = (877,)
+beats_start: shape = (877,)
+danceability: 0.0
+duration: 274.99057
+end_of_fade_in: 2.032
+energy: 0.0
+key: 10
+key_confidence: 0.18
+loudness: -3.154
+mode: 0
+mode_confidence: 0.529
+release: Frank
+release_7digitalid: 229064
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1078,)
+segments_loudness_max: shape = (1078,)
+segments_loudness_max_time: shape = (1078,)
+segments_loudness_start: shape = (1078,)
+segments_pitches: shape = (1078, 12)
+segments_start: shape = (1078,)
+segments_timbre: shape = (1078, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVKRNJ12CF5F876BB
+start_of_fade_out: 265.468
+tatums_confidence: shape = (1753,)
+tatums_start: shape = (1753,)
+tempo: 192.668
+time_signature: 4
+time_signature_confidence: 0.647
+title: In My Bed
+track_7digitalid: 2507115
+track_id: TRATQHP128F421CDBA
+year: 2003

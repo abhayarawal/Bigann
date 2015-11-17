@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17871
+artist_familiarity: 0.498663648578
+artist_hotttnesss: 0.321882689946
+artist_id: AR6C8EJ1187FB3F473
+artist_latitude: nan
+artist_location:  Ubá, Minas Gerais
+artist_longitude: nan
+artist_mbid: 5c70dd66-e717-4ce3-8940-9a530f492383
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Nelson Ned
+artist_playmeid: 66900
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 31a02d2c80953fad548ba072eda6c6b4
+bars_confidence: shape = (153,)
+bars_start: shape = (153,)
+beats_confidence: shape = (613,)
+beats_start: shape = (613,)
+danceability: 0.0
+duration: 241.57995
+end_of_fade_in: 0.27
+energy: 0.0
+key: 2
+key_confidence: 0.532
+loudness: -3.892
+mode: 1
+mode_confidence: 0.568
+release: Canta Lo Mejor De Los Mejores
+release_7digitalid: 150096
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (796,)
+segments_loudness_max: shape = (796,)
+segments_loudness_max_time: shape = (796,)
+segments_loudness_start: shape = (796,)
+segments_pitches: shape = (796, 12)
+segments_start: shape = (796,)
+segments_timbre: shape = (796, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIMTOV12A8C135A36
+start_of_fade_out: 227.875
+tatums_confidence: shape = (1225,)
+tatums_start: shape = (1225,)
+tempo: 156.029
+time_signature: 4
+time_signature_confidence: 0.838
+title: La Barca
+track_7digitalid: 1563126
+track_id: TRAIGTJ128F425D552
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10206
+artist_familiarity: 0.772292647418
+artist_hotttnesss: 0.542175165589
+artist_id: ARTYXQC1187B9ACAB2
+artist_latitude: nan
+artist_location: Kingston, Jamaica
+artist_longitude: nan
+artist_mbid: fc63d806-ca89-4ea3-a404-ee6de695743f
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Shaggy / Brian & Tony Gold
+artist_playmeid: 1421
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: e2191ee75e7161192c4100671ecf511b
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (336,)
+beats_start: shape = (336,)
+danceability: 0.0
+duration: 199.94077
+end_of_fade_in: 0.206
+energy: 0.0
+key: 11
+key_confidence: 0.698
+loudness: -6.469
+mode: 1
+mode_confidence: 0.703
+release: Lucky Day
+release_7digitalid: 23370
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (699,)
+segments_loudness_max: shape = (699,)
+segments_loudness_max_time: shape = (699,)
+segments_loudness_start: shape = (699,)
+segments_pitches: shape = (699, 12)
+segments_start: shape = (699,)
+segments_timbre: shape = (699, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.634031023209
+song_id: SOTXXBT12A6D4F6B25
+start_of_fade_out: 197.265
+tatums_confidence: shape = (673,)
+tatums_start: shape = (673,)
+tempo: 101.786
+time_signature: 4
+time_signature_confidence: 0.553
+title: Hey Sexy Lady
+track_7digitalid: 244357
+track_id: TRBEDVH128F14599C7
+year: 2002

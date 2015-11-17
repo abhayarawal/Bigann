@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2857
+artist_familiarity: 0.428252654267
+artist_hotttnesss: 0.351023682295
+artist_id: ARSX3I61187B98FAC7
+artist_latitude: 35.03731
+artist_location: Whitehaven, TN
+artist_longitude: -90.06146
+artist_mbid: 35992a97-e1c5-4987-96dd-9a03f358a69d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Frank Stokes
+artist_playmeid: 31741
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 7bec6bf1e8f7fa8955f5999ccff00fdb
+bars_confidence: shape = (133,)
+bars_start: shape = (133,)
+beats_confidence: shape = (535,)
+beats_start: shape = (535,)
+danceability: 0.0
+duration: 190.92853
+end_of_fade_in: 0.257
+energy: 0.0
+key: 2
+key_confidence: 0.826
+loudness: -16.079
+mode: 1
+mode_confidence: 0.728
+release: Creator Of The Memphis Blues
+release_7digitalid: 174759
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (699,)
+segments_loudness_max: shape = (699,)
+segments_loudness_max_time: shape = (699,)
+segments_loudness_start: shape = (699,)
+segments_pitches: shape = (699, 12)
+segments_start: shape = (699,)
+segments_timbre: shape = (699, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAFHDJ12A8C13F6FF
+start_of_fade_out: 183.234
+tatums_confidence: shape = (1070,)
+tatums_start: shape = (1070,)
+tempo: 172.348
+time_signature: 4
+time_signature_confidence: 0.115
+title: Nehi Mamma Blues
+track_7digitalid: 1874718
+track_id: TRANKMZ128F42A0098
+year: 1995

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20723
+artist_familiarity: 0.408071910562
+artist_hotttnesss: 0.313667191807
+artist_id: ARXCUQE1187B9ADD91
+artist_latitude: 43.04181
+artist_location: Milwaukee, WI
+artist_longitude: -87.90684
+artist_mbid: a6744983-be90-41b1-8541-2d8719b03ee7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pee Wee King
+artist_playmeid: 91121
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 336b5d4bae6c2de21c2d8439075c3ed8
+bars_confidence: shape = (395,)
+bars_start: shape = (395,)
+beats_confidence: shape = (395,)
+beats_start: shape = (395,)
+danceability: 0.0
+duration: 182.282
+end_of_fade_in: 0.154
+energy: 0.0
+key: 7
+key_confidence: 0.573
+loudness: -13.995
+mode: 1
+mode_confidence: 0.635
+release: The Fabulous Fifties Vol 4
+release_7digitalid: 493286
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (597,)
+segments_loudness_max: shape = (597,)
+segments_loudness_max_time: shape = (597,)
+segments_loudness_start: shape = (597,)
+segments_pitches: shape = (597, 12)
+segments_start: shape = (597,)
+segments_timbre: shape = (597, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYTVXY12AB0181ED0
+start_of_fade_out: 174.295
+tatums_confidence: shape = (790,)
+tatums_start: shape = (790,)
+tempo: 133.792
+time_signature: 1
+time_signature_confidence: 0.0
+title: Slow Poke
+track_7digitalid: 5461315
+track_id: TRAPQMG128F930DEC3
+year: 1989

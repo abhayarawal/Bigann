@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 28782
+artist_familiarity: 0.698619546973
+artist_hotttnesss: 0.546745176247
+artist_id: ARK3PWH1187B9A441D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6c8d5d17-aab0-424a-90f1-d579012b33bd
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Showbread
+artist_playmeid: 61397
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: a5a0450d94b54eaba04fe2b6957c8f34
+bars_confidence: shape = (121,)
+bars_start: shape = (121,)
+beats_confidence: shape = (487,)
+beats_start: shape = (487,)
+danceability: 0.0
+duration: 264.01914
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.891
+loudness: -4.789
+mode: 1
+mode_confidence: 0.804
+release: Age Of Reptiles
+release_7digitalid: 40023
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (973,)
+segments_loudness_max: shape = (973,)
+segments_loudness_max_time: shape = (973,)
+segments_loudness_start: shape = (973,)
+segments_pitches: shape = (973, 12)
+segments_start: shape = (973,)
+segments_timbre: shape = (973, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.489174002406
+song_id: SOMWMMJ12A58A7F577
+start_of_fade_out: 257.585
+tatums_confidence: shape = (1948,)
+tatums_start: shape = (1948,)
+tempo: 112.734
+time_signature: 4
+time_signature_confidence: 0.76
+title: Dinosaur Bones
+track_7digitalid: 426524
+track_id: TRBANBC128F147E363
+year: 2006

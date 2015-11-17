@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15122
+artist_familiarity: 0.850789988555
+artist_hotttnesss: 0.838095532425
+artist_id: AR91C8S1187B990901
+artist_latitude: 40.23447
+artist_location: Freehold, NJ
+artist_longitude: -74.29504
+artist_mbid: 70248960-cb53-4ea4-943a-edb18f7d336f
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Bruce Springsteen
+artist_playmeid: 270
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: b1ed8affa1602d7cf0802cf26a621e35
+bars_confidence: shape = (145,)
+bars_start: shape = (145,)
+beats_confidence: shape = (582,)
+beats_start: shape = (582,)
+danceability: 0.0
+duration: 191.99955
+end_of_fade_in: 0.898
+energy: 0.0
+key: 0
+key_confidence: 0.641
+loudness: -11.516
+mode: 1
+mode_confidence: 0.826
+release: Born In The U.S.A.
+release_7digitalid: 290204
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (896,)
+segments_loudness_max: shape = (896,)
+segments_loudness_max_time: shape = (896,)
+segments_loudness_start: shape = (896,)
+segments_pitches: shape = (896, 12)
+segments_start: shape = (896,)
+segments_timbre: shape = (896, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.751580890905
+song_id: SOYIXMY12AF72A0734
+start_of_fade_out: 189.068
+tatums_confidence: shape = (1163,)
+tatums_start: shape = (1163,)
+tempo: 183.709
+time_signature: 4
+time_signature_confidence: 0.0
+title: Working On The Highway
+track_7digitalid: 7673579
+track_id: TRAUJTZ12903CF7BB4
+year: 1984

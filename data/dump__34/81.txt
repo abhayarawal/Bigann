@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15875
+artist_familiarity: 0.566723382704
+artist_hotttnesss: 0.33759391048
+artist_id: ARC41BF1187B98ECBB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d729eafd-7f67-4869-8867-ec51021c80bb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lil' Romeo
+artist_playmeid: 66521
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: d9f95d3f5133e4335c50ea85df7646f3
+bars_confidence: shape = (82,)
+bars_start: shape = (82,)
+beats_confidence: shape = (343,)
+beats_start: shape = (343,)
+danceability: 0.0
+duration: 211.82649
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.45
+loudness: -7.076
+mode: 1
+mode_confidence: 0.367
+release: Lil' Romeo
+release_7digitalid: 22460
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (811,)
+segments_loudness_max: shape = (811,)
+segments_loudness_max_time: shape = (811,)
+segments_loudness_start: shape = (811,)
+segments_pitches: shape = (811, 12)
+segments_start: shape = (811,)
+segments_timbre: shape = (811, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZLTVI12A6D4F77B8
+start_of_fade_out: 204.655
+tatums_confidence: shape = (686,)
+tatums_start: shape = (686,)
+tempo: 95.991
+time_signature: 4
+time_signature_confidence: 1.0
+title: Don't Want To
+track_7digitalid: 232288
+track_id: TRALWDN128F1456DB7
+year: 0

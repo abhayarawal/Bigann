@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 289
+artist_familiarity: 0.839297677568
+artist_hotttnesss: 0.776303263519
+artist_id: ARDVZTE1187FB5A0A1
+artist_latitude: nan
+artist_location: Sayreville, NJ
+artist_longitude: nan
+artist_mbid: 5dcdb5eb-cb72-4e6e-9e63-b7bace604965
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Harry Connick_ Jr.
+artist_playmeid: 827
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: dce8a7b787f7d8544bf313d412b63e50
+bars_confidence: shape = (369,)
+bars_start: shape = (369,)
+beats_confidence: shape = (369,)
+beats_start: shape = (369,)
+danceability: 0.0
+duration: 364.64281
+end_of_fade_in: 2.241
+energy: 0.0
+key: 0
+key_confidence: 0.333
+loudness: -17.67
+mode: 1
+mode_confidence: 0.326
+release: To See You
+release_7digitalid: 281448
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (798,)
+segments_loudness_max: shape = (798,)
+segments_loudness_max_time: shape = (798,)
+segments_loudness_start: shape = (798,)
+segments_pitches: shape = (798, 12)
+segments_start: shape = (798,)
+segments_timbre: shape = (798, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.392008771471
+song_id: SOBHHUS12A58A78589
+start_of_fade_out: 357.193
+tatums_confidence: shape = (738,)
+tatums_start: shape = (738,)
+tempo: 60.882
+time_signature: 1
+time_signature_confidence: 0.0
+title: Once
+track_7digitalid: 3137208
+track_id: TRBAAOT128F4261A18
+year: 0

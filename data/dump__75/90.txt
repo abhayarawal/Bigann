@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 432178
+artist_familiarity: 0.621213510513
+artist_hotttnesss: 0.374259940092
+artist_id: ARE1N571187B98A47D
+artist_latitude: 51.50632
+artist_location: London
+artist_longitude: -0.12714
+artist_mbid: c0ab7def-72c5-4774-8c38-3c61399fd0c3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Prozak
+artist_playmeid: 33549
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 7f728b5a0a2f2aa1fe8938c6b92a6152
+bars_confidence: shape = (162,)
+bars_start: shape = (162,)
+beats_confidence: shape = (650,)
+beats_start: shape = (650,)
+danceability: 0.0
+duration: 195.42159
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.091
+loudness: -4.449
+mode: 0
+mode_confidence: 0.208
+release: Tales From The Sick
+release_7digitalid: 585535
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1013,)
+segments_loudness_max: shape = (1013,)
+segments_loudness_max_time: shape = (1013,)
+segments_loudness_start: shape = (1013,)
+segments_pitches: shape = (1013, 12)
+segments_start: shape = (1013,)
+segments_timbre: shape = (1013, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.549998637169
+song_id: SOYMECD12AB0186797
+start_of_fade_out: 191.28
+tatums_confidence: shape = (1300,)
+tatums_start: shape = (1300,)
+tempo: 200.004
+time_signature: 4
+time_signature_confidence: 0.639
+title: Its Too Late Now
+track_7digitalid: 6493955
+track_id: TRAZXBG12903CC5BF2
+year: 0

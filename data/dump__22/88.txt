@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 31401
+artist_familiarity: 0.495518892622
+artist_hotttnesss: 0.332867170255
+artist_id: ARFLHWV1187FB4E77F
+artist_latitude: nan
+artist_location: Jasper, AL
+artist_longitude: nan
+artist_mbid: ed682cfc-c080-46c6-baf9-2df4935db7ce
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sandy Posey
+artist_playmeid: 13745
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 32227355828adaea575f46aae19a90a8
+bars_confidence: shape = (252,)
+bars_start: shape = (252,)
+beats_confidence: shape = (252,)
+beats_start: shape = (252,)
+danceability: 0.0
+duration: 125.36118
+end_of_fade_in: 2.038
+energy: 0.0
+key: 4
+key_confidence: 0.937
+loudness: -12.892
+mode: 1
+mode_confidence: 0.786
+release: One Fine Day
+release_7digitalid: 663900
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (499,)
+segments_loudness_max: shape = (499,)
+segments_loudness_max_time: shape = (499,)
+segments_loudness_start: shape = (499,)
+segments_pitches: shape = (499, 12)
+segments_start: shape = (499,)
+segments_timbre: shape = (499, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOCWCNX12AB0185027
+start_of_fade_out: 117.383
+tatums_confidence: shape = (756,)
+tatums_start: shape = (756,)
+tempo: 120.92
+time_signature: 1
+time_signature_confidence: 0.0
+title: When Will I Be Loved
+track_7digitalid: 7358680
+track_id: TRAHTNH12903CAB43D
+year: 1990

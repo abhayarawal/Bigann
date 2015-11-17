@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 147800
+artist_familiarity: 0.429349278184
+artist_hotttnesss: 0.277789967207
+artist_id: AROVSYC119B3403921
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d5c4d5fe-f8c0-41f5-aed5-48a3760cddbb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gus Viseur
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: f58d9457fd3da5c8cdbfb8e77ba65331
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (434,)
+beats_start: shape = (434,)
+danceability: 0.0
+duration: 128.93995
+end_of_fade_in: 0.728
+energy: 0.0
+key: 8
+key_confidence: 0.411
+loudness: -16.683
+mode: 1
+mode_confidence: 0.501
+release: 50 Reasons To Love Paris
+release_7digitalid: 195716
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (575,)
+segments_loudness_max: shape = (575,)
+segments_loudness_max_time: shape = (575,)
+segments_loudness_start: shape = (575,)
+segments_pitches: shape = (575, 12)
+segments_start: shape = (575,)
+segments_timbre: shape = (575, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.364612477323
+song_id: SOXKNIV12A8C132248
+start_of_fade_out: 125.19
+tatums_confidence: shape = (868,)
+tatums_start: shape = (868,)
+tempo: 206.454
+time_signature: 4
+time_signature_confidence: 0.148
+title: Le Bal Du P'tit Jardin
+track_7digitalid: 2129446
+track_id: TRAFSQP128F424C04F
+year: 2005

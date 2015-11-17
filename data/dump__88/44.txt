@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4782
+artist_familiarity: 0.71189384129
+artist_hotttnesss: 0.535163042124
+artist_id: ARQOATR1187B9AE959
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: e3434cc7-d348-491a-9dc8-325af3d9086d
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Jane's Addiction
+artist_playmeid: 6380
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: e17c67a0298c3d6cb80a21957b900426
+bars_confidence: shape = (181,)
+bars_start: shape = (181,)
+beats_confidence: shape = (725,)
+beats_start: shape = (725,)
+danceability: 0.0
+duration: 327.1571
+end_of_fade_in: 11.802
+energy: 0.0
+key: 1
+key_confidence: 0.599
+loudness: -5.234
+mode: 1
+mode_confidence: 0.532
+release: Strays
+release_7digitalid: 150174
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (854,)
+segments_loudness_max: shape = (854,)
+segments_loudness_max_time: shape = (854,)
+segments_loudness_start: shape = (854,)
+segments_pitches: shape = (854, 12)
+segments_start: shape = (854,)
+segments_timbre: shape = (854, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.601708035096
+song_id: SORKXVV12A8C134C70
+start_of_fade_out: 323.5
+tatums_confidence: shape = (1450,)
+tatums_start: shape = (1450,)
+tempo: 138.657
+time_signature: 4
+time_signature_confidence: 1.0
+title: Price I Pay
+track_7digitalid: 1564923
+track_id: TRBEKGR128F425DA44
+year: 2003

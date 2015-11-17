@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11315
+artist_familiarity: 0.630308846108
+artist_hotttnesss: 0.48894420136
+artist_id: ARPGTHP1187B9AC284
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e9571c17-817f-4d34-ae3f-0c7a96f822c1
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Temple Of The Dog
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 1585c593f5eaa29b76d365ad9c4c6da2
+bars_confidence: shape = (137,)
+bars_start: shape = (137,)
+beats_confidence: shape = (551,)
+beats_start: shape = (551,)
+danceability: 0.0
+duration: 243.9571
+end_of_fade_in: 1.193
+energy: 0.0
+key: 7
+key_confidence: 0.598
+loudness: -10.847
+mode: 1
+mode_confidence: 0.664
+release: Temple Of The Dog
+release_7digitalid: 15963
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (602,)
+segments_loudness_max: shape = (602,)
+segments_loudness_max_time: shape = (602,)
+segments_loudness_start: shape = (602,)
+segments_pitches: shape = (602, 12)
+segments_start: shape = (602,)
+segments_timbre: shape = (602, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.84901988558
+song_id: SOUXANT12A6D4FB048
+start_of_fade_out: 230.824
+tatums_confidence: shape = (1103,)
+tatums_start: shape = (1103,)
+tempo: 137.937
+time_signature: 4
+time_signature_confidence: 0.117
+title: Hunger Strike
+track_7digitalid: 168795
+track_id: TRBDSFP128E07937B9
+year: 1991

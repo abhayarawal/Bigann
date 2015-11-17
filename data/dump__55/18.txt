@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 65832
+artist_familiarity: 0.60009152369
+artist_hotttnesss: 0.475834302149
+artist_id: ARWJAQ81187FB46F73
+artist_latitude: 45.75342
+artist_location: Timişoara
+artist_longitude: 21.22327
+artist_mbid: aeeeaab0-7262-4eef-aa80-198c98b2ba95
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Negura Bunget
+artist_playmeid: -1
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 82c1061de80d09ba79aa3038d2acc5ed
+bars_confidence: shape = (63,)
+bars_start: shape = (63,)
+beats_confidence: shape = (255,)
+beats_start: shape = (255,)
+danceability: 0.0
+duration: 123.66322
+end_of_fade_in: 2.09
+energy: 0.0
+key: 2
+key_confidence: 0.026
+loudness: -19.586
+mode: 1
+mode_confidence: 0.423
+release: OM
+release_7digitalid: 81232
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (153,)
+segments_loudness_max: shape = (153,)
+segments_loudness_max_time: shape = (153,)
+segments_loudness_start: shape = (153,)
+segments_pitches: shape = (153, 12)
+segments_start: shape = (153,)
+segments_timbre: shape = (153, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOORFHT12A6D4F7C2D
+start_of_fade_out: 118.451
+tatums_confidence: shape = (765,)
+tatums_start: shape = (765,)
+tempo: 127.719
+time_signature: 4
+time_signature_confidence: 0.0
+title: Al Doilea Om
+track_7digitalid: 859835
+track_id: TRASVZZ128EF35EB69
+year: 2006

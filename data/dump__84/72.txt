@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 92295
+artist_familiarity: 0.446700436691
+artist_hotttnesss: 0.381626705622
+artist_id: ARWDDAE11F4C844B57
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Donna Ares
+artist_playmeid: 55387
+artist_terms: shape = (7,)
+artist_terms_freq: shape = (7,)
+artist_terms_weight: shape = (7,)
+audio_md5: 7bae58ec86379b8a0dfabf1198452f3e
+bars_confidence: shape = (68,)
+bars_start: shape = (68,)
+beats_confidence: shape = (276,)
+beats_start: shape = (276,)
+danceability: 0.0
+duration: 194.71628
+end_of_fade_in: 0.375
+energy: 0.0
+key: 1
+key_confidence: 0.508
+loudness: -6.224
+mode: 0
+mode_confidence: 0.571
+release: Nemam Razloga Za Strah
+release_7digitalid: 116845
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (786,)
+segments_loudness_max: shape = (786,)
+segments_loudness_max_time: shape = (786,)
+segments_loudness_start: shape = (786,)
+segments_pitches: shape = (786, 12)
+segments_start: shape = (786,)
+segments_timbre: shape = (786, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODNYXU12A8C13F1B3
+start_of_fade_out: 188.383
+tatums_confidence: shape = (1104,)
+tatums_start: shape = (1104,)
+tempo: 87.006
+time_signature: 4
+time_signature_confidence: 0.901
+title: Prijateljica
+track_7digitalid: 1202372
+track_id: TRBDBUA128F42A0B01
+year: 0

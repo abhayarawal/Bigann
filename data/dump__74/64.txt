@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2708
+artist_familiarity: 0.62287493888
+artist_hotttnesss: 0.461245798143
+artist_id: AR71A931187B99CDD9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8974da95-e631-45aa-8fd7-aa0c2795f997
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Harry Gregson-Williams
+artist_playmeid: 13258
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 98d961522072a6dada60b051dba8405e
+bars_confidence: shape = (247,)
+bars_start: shape = (247,)
+beats_confidence: shape = (745,)
+beats_start: shape = (745,)
+danceability: 0.0
+duration: 284.682
+end_of_fade_in: 0.165
+energy: 0.0
+key: 9
+key_confidence: 0.21
+loudness: -15.118
+mode: 1
+mode_confidence: 0.271
+release: Man On Fire
+release_7digitalid: 285184
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (757,)
+segments_loudness_max: shape = (757,)
+segments_loudness_max_time: shape = (757,)
+segments_loudness_start: shape = (757,)
+segments_pitches: shape = (757, 12)
+segments_start: shape = (757,)
+segments_timbre: shape = (757, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.392008771471
+song_id: SOFKSJC12A8C13483C
+start_of_fade_out: 275.255
+tatums_confidence: shape = (1490,)
+tatums_start: shape = (1490,)
+tempo: 160.038
+time_signature: 3
+time_signature_confidence: 0.872
+title: Sanchez Family
+track_7digitalid: 3185193
+track_id: TRAZMND128F4269762
+year: 2004

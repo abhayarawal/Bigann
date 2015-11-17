@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 80602
+artist_familiarity: 0.606193496106
+artist_hotttnesss: 0.407344288039
+artist_id: AR2MEUK1187B992D1B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9946e322-2eb6-43dd-ae66-dd28114f1522
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jeff Scott Soto
+artist_playmeid: 59687
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 521599cd117b1dba0c38d0214f34d9e4
+bars_confidence: shape = (122,)
+bars_start: shape = (122,)
+beats_confidence: shape = (492,)
+beats_start: shape = (492,)
+danceability: 0.0
+duration: 281.70404
+end_of_fade_in: 0.212
+energy: 0.0
+key: 0
+key_confidence: 0.412
+loudness: -8.061
+mode: 0
+mode_confidence: 0.615
+release: Lost In The Translation
+release_7digitalid: 103106
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (699,)
+segments_loudness_max: shape = (699,)
+segments_loudness_max_time: shape = (699,)
+segments_loudness_start: shape = (699,)
+segments_pitches: shape = (699, 12)
+segments_start: shape = (699,)
+segments_timbre: shape = (699, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMCLSH12AF72A5CA4
+start_of_fade_out: 269.415
+tatums_confidence: shape = (985,)
+tatums_start: shape = (985,)
+tempo: 105.837
+time_signature: 4
+time_signature_confidence: 0.477
+title: If This Is The End
+track_7digitalid: 1063781
+track_id: TRBHSMF128F4285B9C
+year: 2004

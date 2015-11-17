@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2852
+artist_familiarity: 0.506126773892
+artist_hotttnesss: 0.350787890875
+artist_id: AR5GLIU1187FB4638A
+artist_latitude: nan
+artist_location: Memphis, TN
+artist_longitude: nan
+artist_mbid: a147eefb-0e07-432d-bd1f-8edf7679a7da
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Memphis Jug Band
+artist_playmeid: 21159
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 8ef65f03899b15438f19400ecc70fb5d
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (436,)
+beats_start: shape = (436,)
+danceability: 0.0
+duration: 187.53261
+end_of_fade_in: 0.16
+energy: 0.0
+key: 2
+key_confidence: 0.0
+loudness: -17.186
+mode: 0
+mode_confidence: 0.064
+release: The Best Of The Memphis Jug Band
+release_7digitalid: 597112
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (635,)
+segments_loudness_max: shape = (635,)
+segments_loudness_max_time: shape = (635,)
+segments_loudness_start: shape = (635,)
+segments_pitches: shape = (635, 12)
+segments_start: shape = (635,)
+segments_timbre: shape = (635, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQZCRW12AC468B0C0
+start_of_fade_out: 183.629
+tatums_confidence: shape = (873,)
+tatums_start: shape = (873,)
+tempo: 141.185
+time_signature: 4
+time_signature_confidence: 0.0
+title: Memphis Jug
+track_7digitalid: 6626924
+track_id: TRBCIEV12903CE60F1
+year: 2001

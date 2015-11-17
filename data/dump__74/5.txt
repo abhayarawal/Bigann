@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1573
+artist_familiarity: 1.0
+artist_hotttnesss: 0.826777013491
+artist_id: ARCGJ6U1187FB4D01F
+artist_latitude: nan
+artist_location: St. Louis, MO
+artist_longitude: nan
+artist_mbid: 1138a764-2212-4d0a-b02d-0dc14df91e08
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Akon
+artist_playmeid: 197645
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: c9d337721a163bd3363570beb5688905
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (316,)
+beats_start: shape = (316,)
+danceability: 0.0
+duration: 211.66975
+end_of_fade_in: 0.175
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -10.87
+mode: 1
+mode_confidence: 0.0
+release: Lonely
+release_7digitalid: 10697
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (795,)
+segments_loudness_max: shape = (795,)
+segments_loudness_max_time: shape = (795,)
+segments_loudness_start: shape = (795,)
+segments_pitches: shape = (795, 12)
+segments_start: shape = (795,)
+segments_timbre: shape = (795, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORCTMT12A58291950
+start_of_fade_out: 209.258
+tatums_confidence: shape = (948,)
+tatums_start: shape = (948,)
+tempo: 90.069
+time_signature: 4
+time_signature_confidence: 0.148
+title: Lonely
+track_7digitalid: 109491
+track_id: TRAZHUK128E0789114
+year: 2004

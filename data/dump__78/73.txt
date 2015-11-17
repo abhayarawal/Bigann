@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 81100
+artist_familiarity: 0.631630608053
+artist_hotttnesss: 0.373621212395
+artist_id: ARI3W3K1187FB49E6F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c9073012-4547-4a72-8963-738d9f8503cc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cedric Gervais feat. Second Sun
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 997c127b60f82a5ff1c058bb113b695a
+bars_confidence: shape = (205,)
+bars_start: shape = (205,)
+beats_confidence: shape = (825,)
+beats_start: shape = (825,)
+danceability: 0.0
+duration: 392.9073
+end_of_fade_in: 0.142
+energy: 0.0
+key: 10
+key_confidence: 0.86
+loudness: -7.501
+mode: 0
+mode_confidence: 0.716
+release: Pills
+release_7digitalid: 539006
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (2772,)
+segments_loudness_max: shape = (2772,)
+segments_loudness_max_time: shape = (2772,)
+segments_loudness_start: shape = (2772,)
+segments_pitches: shape = (2772, 12)
+segments_start: shape = (2772,)
+segments_timbre: shape = (2772, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONKAVH12AB017D040
+start_of_fade_out: 387.094
+tatums_confidence: shape = (1649,)
+tatums_start: shape = (1649,)
+tempo: 124.063
+time_signature: 4
+time_signature_confidence: 0.548
+title: Pills (Dub) (Dub)
+track_7digitalid: 5967336
+track_id: TRBAWWJ128F931318A
+year: 0

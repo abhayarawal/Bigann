@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4431
+artist_familiarity: 0.427790621088
+artist_hotttnesss: 0.308163474494
+artist_id: ARL0H401187B98B0E1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bcf78bed-40e9-475d-b251-c479ee6e6973
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Philly's Most Wanted
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 205eecef979428adbabe48d7999e7ba3
+bars_confidence: shape = (96,)
+bars_start: shape = (96,)
+beats_confidence: shape = (386,)
+beats_start: shape = (386,)
+danceability: 0.0
+duration: 242.25914
+end_of_fade_in: 0.125
+energy: 0.0
+key: 11
+key_confidence: 0.225
+loudness: -6.355
+mode: 0
+mode_confidence: 0.335
+release: Get Down Or Lay Down
+release_7digitalid: 762263
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1124,)
+segments_loudness_max: shape = (1124,)
+segments_loudness_max_time: shape = (1124,)
+segments_loudness_start: shape = (1124,)
+segments_pitches: shape = (1124, 12)
+segments_start: shape = (1124,)
+segments_timbre: shape = (1124, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLZTDM12AB01865A7
+start_of_fade_out: 238.602
+tatums_confidence: shape = (1544,)
+tatums_start: shape = (1544,)
+tempo: 96.037
+time_signature: 4
+time_signature_confidence: 1.0
+title: Y'all Can't Never Hurt Us (Clean Version)
+track_7digitalid: 8438565
+track_id: TRALGJT12903CC460F
+year: 2001

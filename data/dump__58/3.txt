@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 251564
+artist_familiarity: 0.472938417943
+artist_hotttnesss: 0.28725591344
+artist_id: ARILU7Z1187B999204
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c7f9e400-e9c3-49b1-b391-6631d2c53eb4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Gaskets
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 0fc06f8d43e0fa69f50337ebfe0c5533
+bars_confidence: shape = (79,)
+bars_start: shape = (79,)
+beats_confidence: shape = (321,)
+beats_start: shape = (321,)
+danceability: 0.0
+duration: 232.69832
+end_of_fade_in: 0.479
+energy: 0.0
+key: 5
+key_confidence: 0.36
+loudness: -5.619
+mode: 1
+mode_confidence: 0.316
+release: Loose Change
+release_7digitalid: 505145
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (975,)
+segments_loudness_max: shape = (975,)
+segments_loudness_max_time: shape = (975,)
+segments_loudness_start: shape = (975,)
+segments_pitches: shape = (975, 12)
+segments_start: shape = (975,)
+segments_timbre: shape = (975, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOWDITP12A58A777CF
+start_of_fade_out: 227.857
+tatums_confidence: shape = (1282,)
+tatums_start: shape = (1282,)
+tempo: 83.942
+time_signature: 4
+time_signature_confidence: 0.815
+title: Deportees
+track_7digitalid: 5589399
+track_id: TRATUIA128F932CEC5
+year: 0

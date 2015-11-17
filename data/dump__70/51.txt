@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17586
+artist_familiarity: 0.674160475385
+artist_hotttnesss: 0.478490732973
+artist_id: AR2NJG71187FB5203E
+artist_latitude: nan
+artist_location: Bristol, England
+artist_longitude: nan
+artist_mbid: 2eeba1d4-f67d-45be-a22e-ab73e925aa43
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Roni Size
+artist_playmeid: -1
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 6e029b7123de96f4a9439850424612f6
+bars_confidence: shape = (132,)
+bars_start: shape = (132,)
+beats_confidence: shape = (700,)
+beats_start: shape = (700,)
+danceability: 0.0
+duration: 373.86404
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.58
+loudness: -6.594
+mode: 1
+mode_confidence: 0.552
+release: Roni Size Reprazent - New Forms2
+release_7digitalid: 216081
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1637,)
+segments_loudness_max: shape = (1637,)
+segments_loudness_max_time: shape = (1637,)
+segments_loudness_start: shape = (1637,)
+segments_pitches: shape = (1637, 12)
+segments_start: shape = (1637,)
+segments_timbre: shape = (1637, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.345802233965
+song_id: SOFTBCN12A8C13AAC1
+start_of_fade_out: 370.84
+tatums_confidence: shape = (1399,)
+tatums_start: shape = (1399,)
+tempo: 109.703
+time_signature: 5
+time_signature_confidence: 1.0
+title: Less Is More
+track_7digitalid: 2351549
+track_id: TRAYDGA128F427D05F
+year: 0

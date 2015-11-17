@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 31097
+artist_familiarity: 0.466331054287
+artist_hotttnesss: 0.332749770049
+artist_id: ARFWZZD1187FB561F9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6a169ee3-d030-44cc-a77e-3217a2d8ee47
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Fureys
+artist_playmeid: 94256
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 45178c056d9172bad62315cdfd0d919d
+bars_confidence: shape = (110,)
+bars_start: shape = (110,)
+beats_confidence: shape = (352,)
+beats_start: shape = (352,)
+danceability: 0.0
+duration: 240.74404
+end_of_fade_in: 3.785
+energy: 0.0
+key: 11
+key_confidence: 0.039
+loudness: -18.302
+mode: 0
+mode_confidence: 0.298
+release: The Essential Fureys
+release_7digitalid: 611663
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (737,)
+segments_loudness_max: shape = (737,)
+segments_loudness_max_time: shape = (737,)
+segments_loudness_start: shape = (737,)
+segments_pitches: shape = (737, 12)
+segments_start: shape = (737,)
+segments_timbre: shape = (737, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.270775998946
+song_id: SOSACTG12A8C144B2B
+start_of_fade_out: 227.614
+tatums_confidence: shape = (705,)
+tatums_start: shape = (705,)
+tempo: 89.236
+time_signature: 3
+time_signature_confidence: 0.839
+title: The Anniversary Waltz
+track_7digitalid: 6799818
+track_id: TRAYSTC128F92F526B
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 102654
+artist_familiarity: 0.467531441901
+artist_hotttnesss: 0.29874306476
+artist_id: AR8AZTM1187FB3FB9C
+artist_latitude: 40.4203
+artist_location: Madrid, Spain
+artist_longitude: -3.70577
+artist_mbid: bbb184be-eef6-4977-9c02-2df0bf7eade6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Julio Iglesias Jr.
+artist_playmeid: 14623
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 5cd6fbbd6c11d1d72b5f420c6965bedd
+bars_confidence: shape = (97,)
+bars_start: shape = (97,)
+beats_confidence: shape = (391,)
+beats_start: shape = (391,)
+danceability: 0.0
+duration: 244.50567
+end_of_fade_in: 4.516
+energy: 0.0
+key: 2
+key_confidence: 0.389
+loudness: -4.824
+mode: 1
+mode_confidence: 0.479
+release: Tercera Dimension
+release_7digitalid: 766885
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (816,)
+segments_loudness_max: shape = (816,)
+segments_loudness_max_time: shape = (816,)
+segments_loudness_start: shape = (816,)
+segments_pitches: shape = (816, 12)
+segments_start: shape = (816,)
+segments_timbre: shape = (816, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCXKFS12AB018E309
+start_of_fade_out: 234.313
+tatums_confidence: shape = (1563,)
+tatums_start: shape = (1563,)
+tempo: 100.518
+time_signature: 4
+time_signature_confidence: 0.749
+title: Me quedo sin ti
+track_7digitalid: 8491742
+track_id: TRBAYDA12903CD157D
+year: 0

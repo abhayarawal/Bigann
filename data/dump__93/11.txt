@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 62288
+artist_familiarity: 0.184250146825
+artist_hotttnesss: 0.0
+artist_id: AR21JV01187B999138
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 22f1d6e0-17e7-4adc-8dd9-dcef7b9c0a88
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bill Murk
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 826c198bdc51fb7021f8d71b210610d9
+bars_confidence: shape = (84,)
+bars_start: shape = (84,)
+beats_confidence: shape = (255,)
+beats_start: shape = (255,)
+danceability: 0.0
+duration: 109.322
+end_of_fade_in: 0.398
+energy: 0.0
+key: 2
+key_confidence: 0.79
+loudness: -8.244
+mode: 1
+mode_confidence: 0.614
+release: Praise Keeper
+release_7digitalid: 76785
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (414,)
+segments_loudness_max: shape = (414,)
+segments_loudness_max_time: shape = (414,)
+segments_loudness_start: shape = (414,)
+segments_pitches: shape = (414, 12)
+segments_start: shape = (414,)
+segments_timbre: shape = (414, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFHPMO12A6D4F5BC0
+start_of_fade_out: 101.471
+tatums_confidence: shape = (510,)
+tatums_start: shape = (510,)
+tempo: 149.972
+time_signature: 3
+time_signature_confidence: 0.451
+title: I Will Call Upon the Lord
+track_7digitalid: 802936
+track_id: TRBGDXO128EF3531E8
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4
+artist_familiarity: 0.899709852629
+artist_hotttnesss: 0.583732613088
+artist_id: ARWD25M1187FB4C563
+artist_latitude: nan
+artist_location: London
+artist_longitude: nan
+artist_mbid: dfe9a7c4-8cf2-47f4-9dcb-d233c2b86ec3
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Amy Winehouse
+artist_playmeid: -1
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 6a630db35563706a67bab1542c6a2936
+bars_confidence: shape = (91,)
+bars_start: shape = (91,)
+beats_confidence: shape = (375,)
+beats_start: shape = (375,)
+danceability: 0.0
+duration: 229.85098
+end_of_fade_in: 0.16
+energy: 0.0
+key: 5
+key_confidence: 0.64
+loudness: -7.256
+mode: 0
+mode_confidence: 0.588
+release: ESSENTIAL 08
+release_7digitalid: 229040
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (835,)
+segments_loudness_max: shape = (835,)
+segments_loudness_max_time: shape = (835,)
+segments_loudness_start: shape = (835,)
+segments_pitches: shape = (835, 12)
+segments_start: shape = (835,)
+segments_timbre: shape = (835, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.782898860252
+song_id: SOSELMV12A6D4FCF5A
+start_of_fade_out: 223.591
+tatums_confidence: shape = (750,)
+tatums_start: shape = (750,)
+tempo: 96.224
+time_signature: 4
+time_signature_confidence: 0.858
+title: Valerie
+track_7digitalid: 2506629
+track_id: TRAUOEY128F421CBD3
+year: 2007

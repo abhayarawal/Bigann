@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3356
+artist_familiarity: 0.564128950147
+artist_hotttnesss: 0.397775654323
+artist_id: AR14CJ91187FB3A994
+artist_latitude: 35.52069
+artist_location: Madisonville, TN
+artist_longitude: -84.36354
+artist_mbid: 1c4c789d-06af-42ef-b86c-7d6bf49c652c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Eddy Arnold
+artist_playmeid: 14170
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 41947080e51dc2618020fcb27fb19237
+bars_confidence: shape = (42,)
+bars_start: shape = (42,)
+beats_confidence: shape = (218,)
+beats_start: shape = (218,)
+danceability: 0.0
+duration: 128.96608
+end_of_fade_in: 0.16
+energy: 0.0
+key: 1
+key_confidence: 0.651
+loudness: -11.863
+mode: 1
+mode_confidence: 0.579
+release: Ultimate Eddy Arnold
+release_7digitalid: 295719
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (334,)
+segments_loudness_max: shape = (334,)
+segments_loudness_max_time: shape = (334,)
+segments_loudness_start: shape = (334,)
+segments_pitches: shape = (334, 12)
+segments_start: shape = (334,)
+segments_timbre: shape = (334, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAEGKR12A58A79091
+start_of_fade_out: 123.356
+tatums_confidence: shape = (435,)
+tatums_start: shape = (435,)
+tempo: 102.151
+time_signature: 5
+time_signature_confidence: 0.816
+title: What's He Doin' In My World
+track_7digitalid: 3319246
+track_id: TRBDNGV128F42895AE
+year: 1967

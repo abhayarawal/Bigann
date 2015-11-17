@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 249776
+artist_familiarity: 0.515310233231
+artist_hotttnesss: 0.260796778253
+artist_id: ARPOPBQ11F4C83D36D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 987dbb5a-1593-4b83-8e42-fb6f3861154e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ Spinn and DJ Rashad
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: ca998e3c970059c4a6630275aae40831
+bars_confidence: shape = (139,)
+bars_start: shape = (139,)
+beats_confidence: shape = (559,)
+beats_start: shape = (559,)
+danceability: 0.0
+duration: 209.94567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.25
+loudness: -13.306
+mode: 0
+mode_confidence: 0.474
+release: Girl Bust Down EP
+release_7digitalid: 664980
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (904,)
+segments_loudness_max: shape = (904,)
+segments_loudness_max_time: shape = (904,)
+segments_loudness_start: shape = (904,)
+segments_pitches: shape = (904, 12)
+segments_start: shape = (904,)
+segments_timbre: shape = (904, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOMOMXN12AB018AB6B
+start_of_fade_out: 206.425
+tatums_confidence: shape = (559,)
+tatums_start: shape = (559,)
+tempo: 160.04
+time_signature: 4
+time_signature_confidence: 0.232
+title: Like It's Hot
+track_7digitalid: 7372372
+track_id: TRAKFZB12903CAE89D
+year: 0

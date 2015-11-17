@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 228154
+artist_familiarity: 0.346883859467
+artist_hotttnesss: 0.0
+artist_id: ARWSPAI12420782828
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Necrodaemon
+artist_playmeid: -1
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: 9f048bb992235e2131cea26201a00956
+bars_confidence: shape = (193,)
+bars_start: shape = (193,)
+beats_confidence: shape = (773,)
+beats_start: shape = (773,)
+danceability: 0.0
+duration: 225.59302
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.012
+loudness: -3.883
+mode: 1
+mode_confidence: 0.274
+release: Prophecy Of The Decadent
+release_7digitalid: 286040
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (401,)
+segments_loudness_max: shape = (401,)
+segments_loudness_max_time: shape = (401,)
+segments_loudness_start: shape = (401,)
+segments_pitches: shape = (401, 12)
+segments_start: shape = (401,)
+segments_timbre: shape = (401, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVATLZ12A8C135595
+start_of_fade_out: 218.79
+tatums_confidence: shape = (1545,)
+tatums_start: shape = (1545,)
+tempo: 210.124
+time_signature: 4
+time_signature_confidence: 0.362
+title: The last havoc
+track_7digitalid: 3200234
+track_id: TRBFFVX128F426D1A4
+year: 0

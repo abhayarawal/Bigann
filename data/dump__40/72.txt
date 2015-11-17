@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 199394
+artist_familiarity: 0.660225681164
+artist_hotttnesss: 0.405657125096
+artist_id: ARXK6E71187FB4AA1E
+artist_latitude: 43.64856
+artist_location: Toronto, Canada
+artist_longitude: -79.38533
+artist_mbid: 1bc69a93-8020-4e07-8b05-0b63312808fb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Cliks
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: abe1960533ae978ccd7500f5a6c026f0
+bars_confidence: shape = (113,)
+bars_start: shape = (113,)
+beats_confidence: shape = (456,)
+beats_start: shape = (456,)
+danceability: 0.0
+duration: 199.78404
+end_of_fade_in: 0.2
+energy: 0.0
+key: 2
+key_confidence: 0.533
+loudness: -5.122
+mode: 1
+mode_confidence: 0.559
+release: Dirty King
+release_7digitalid: 467254
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (609,)
+segments_loudness_max: shape = (609,)
+segments_loudness_max_time: shape = (609,)
+segments_loudness_start: shape = (609,)
+segments_pitches: shape = (609, 12)
+segments_start: shape = (609,)
+segments_timbre: shape = (609, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.588922167556
+song_id: SOMGSLD12AB017EDD1
+start_of_fade_out: 188.285
+tatums_confidence: shape = (913,)
+tatums_start: shape = (913,)
+tempo: 142.948
+time_signature: 4
+time_signature_confidence: 0.811
+title: Career Suicide (CD)
+track_7digitalid: 5197045
+track_id: TRANVMD128F933AC4A
+year: 2009

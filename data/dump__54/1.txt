@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1269
+artist_familiarity: 0.693009203581
+artist_hotttnesss: 0.498668874796
+artist_id: ARD5K161187B9AC784
+artist_latitude: 51.27562
+artist_location: Sevenoaks, United Kingdom
+artist_longitude: 0.17898
+artist_mbid: f3e2a7d9-c6bb-4848-95e5-04c0a1e2f511
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Orbital
+artist_playmeid: 6689
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 1b9222c577c630e6ba672878b0c9ac23
+bars_confidence: shape = (219,)
+bars_start: shape = (219,)
+beats_confidence: shape = (879,)
+beats_start: shape = (879,)
+danceability: 0.0
+duration: 521.56036
+end_of_fade_in: 0.148
+energy: 0.0
+key: 7
+key_confidence: 0.307
+loudness: -10.893
+mode: 1
+mode_confidence: 0.417
+release: In Sides
+release_7digitalid: 2027
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (2849,)
+segments_loudness_max: shape = (2849,)
+segments_loudness_max_time: shape = (2849,)
+segments_loudness_start: shape = (2849,)
+segments_pitches: shape = (2849, 12)
+segments_start: shape = (2849,)
+segments_timbre: shape = (2849, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.754274011148
+song_id: SOCOMUU12A6D4F8518
+start_of_fade_out: 508.006
+tatums_confidence: shape = (3516,)
+tatums_start: shape = (3516,)
+tempo: 101.99
+time_signature: 4
+time_signature_confidence: 0.777
+title: Adnans
+track_7digitalid: 2315199
+track_id: TRASMUR128F42775D6
+year: 1999

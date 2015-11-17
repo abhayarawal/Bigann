@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15205
+artist_familiarity: 0.671596269848
+artist_hotttnesss: 0.481024239212
+artist_id: AR8H87D1187FB3A841
+artist_latitude: 34.03142
+artist_location: Delight, AR
+artist_longitude: -93.50243
+artist_mbid: 57976431-1a5c-4968-a422-b92c5e9b0d4f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Glen Campbell
+artist_playmeid: 3137
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: f7a745162e3a0f686feff63130921b68
+bars_confidence: shape = (161,)
+bars_start: shape = (161,)
+beats_confidence: shape = (487,)
+beats_start: shape = (487,)
+danceability: 0.0
+duration: 202.70975
+end_of_fade_in: 0.171
+energy: 0.0
+key: 1
+key_confidence: 1.0
+loudness: -8.472
+mode: 1
+mode_confidence: 0.978
+release: Walkin' In The Sun
+release_7digitalid: 112850
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (640,)
+segments_loudness_max: shape = (640,)
+segments_loudness_max_time: shape = (640,)
+segments_loudness_start: shape = (640,)
+segments_pitches: shape = (640, 12)
+segments_start: shape = (640,)
+segments_timbre: shape = (640, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODMTUR12A8C13C8A4
+start_of_fade_out: 192.279
+tatums_confidence: shape = (974,)
+tatums_start: shape = (974,)
+tempo: 152.082
+time_signature: 3
+time_signature_confidence: 0.697
+title: Woodcarver
+track_7digitalid: 1164856
+track_id: TRAOXEU128F4299BE5
+year: 0

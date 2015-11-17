@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 131301
+artist_familiarity: 0.432294471967
+artist_hotttnesss: 0.361477193663
+artist_id: ARELFMN1187FB3D68B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8826a2b1-7dbf-4ab6-9baf-329372691a29
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Doc & Merle Watson
+artist_playmeid: 112575
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 5a785195049bcf06e8ed54aab3738b52
+bars_confidence: shape = (56,)
+bars_start: shape = (56,)
+beats_confidence: shape = (226,)
+beats_start: shape = (226,)
+danceability: 0.0
+duration: 140.5122
+end_of_fade_in: 0.183
+energy: 0.0
+key: 4
+key_confidence: 0.802
+loudness: -16.522
+mode: 1
+mode_confidence: 0.565
+release: Elementary Doctor Watson
+release_7digitalid: 172323
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (554,)
+segments_loudness_max: shape = (554,)
+segments_loudness_max_time: shape = (554,)
+segments_loudness_start: shape = (554,)
+segments_pitches: shape = (554, 12)
+segments_start: shape = (554,)
+segments_timbre: shape = (554, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SORWVBQ12A8C1410D7
+start_of_fade_out: 132.476
+tatums_confidence: shape = (452,)
+tatums_start: shape = (452,)
+tempo: 100.483
+time_signature: 4
+time_signature_confidence: 0.938
+title: Three Times Seven
+track_7digitalid: 1837449
+track_id: TRANAOE128F429961F
+year: 0

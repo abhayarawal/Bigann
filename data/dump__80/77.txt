@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3950
+artist_familiarity: 0.63642364495
+artist_hotttnesss: 0.44793548048
+artist_id: ARD842G1187B997376
+artist_latitude: 43.64856
+artist_location: Toronto, Ontario, Canada
+artist_longitude: -79.38533
+artist_mbid: 6b52e1be-f27a-433c-b51a-3f2d63abc2ba
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Blue Rodeo
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 7156d59f2bc4d093df4c3fc50717308f
+bars_confidence: shape = (143,)
+bars_start: shape = (143,)
+beats_confidence: shape = (576,)
+beats_start: shape = (576,)
+danceability: 0.0
+duration: 280.65914
+end_of_fade_in: 0.334
+energy: 0.0
+key: 7
+key_confidence: 0.345
+loudness: -6.033
+mode: 1
+mode_confidence: 0.588
+release: Lost Together
+release_7digitalid: 7106
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (887,)
+segments_loudness_max: shape = (887,)
+segments_loudness_max_time: shape = (887,)
+segments_loudness_start: shape = (887,)
+segments_pitches: shape = (887, 12)
+segments_start: shape = (887,)
+segments_timbre: shape = (887, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.494489517502
+song_id: SOFGAJF12A8C141DA3
+start_of_fade_out: 269.526
+tatums_confidence: shape = (1153,)
+tatums_start: shape = (1153,)
+tempo: 126.1
+time_signature: 4
+time_signature_confidence: 0.415
+title: Fools Like You
+track_7digitalid: 3548725
+track_id: TRBBQJZ128F92C5AF2
+year: 1992

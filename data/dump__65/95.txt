@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 111393
+artist_familiarity: 0.465903761192
+artist_hotttnesss: 0.17145670328
+artist_id: AR8VUUR1187B9A518B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8a44ef58-d3ab-4592-9122-a94379456782
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Chris Jagger
+artist_playmeid: 87603
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 29340b111c1945982be3f9817daae497
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (351,)
+beats_start: shape = (351,)
+danceability: 0.0
+duration: 198.03383
+end_of_fade_in: 0.409
+energy: 0.0
+key: 0
+key_confidence: 0.805
+loudness: -12.497
+mode: 1
+mode_confidence: 0.739
+release: Channel Fever
+release_7digitalid: 143011
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (579,)
+segments_loudness_max: shape = (579,)
+segments_loudness_max_time: shape = (579,)
+segments_loudness_start: shape = (579,)
+segments_pitches: shape = (579, 12)
+segments_start: shape = (579,)
+segments_timbre: shape = (579, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMLZER12A8C134C00
+start_of_fade_out: 190.613
+tatums_confidence: shape = (702,)
+tatums_start: shape = (702,)
+tempo: 109.346
+time_signature: 4
+time_signature_confidence: 0.983
+title: Baby Is Blue
+track_7digitalid: 1491313
+track_id: TRAWMXP128F424D68B
+year: 0

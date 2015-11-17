@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 258216
+artist_familiarity: 0.406166634914
+artist_hotttnesss: 0.272385459553
+artist_id: ARWAPYC1187FB3FCAF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3b0db373-57d5-4d4f-b009-2cbfd7b7aa0d
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: S.U.P
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: b8e91dda17637e796633c5b26a5fbcae
+bars_confidence: shape = (94,)
+bars_start: shape = (94,)
+beats_confidence: shape = (476,)
+beats_start: shape = (476,)
+danceability: 0.0
+duration: 369.24036
+end_of_fade_in: 5.294
+energy: 0.0
+key: 4
+key_confidence: 0.561
+loudness: -7.803
+mode: 0
+mode_confidence: 0.531
+release: The Holy Bible 1992-2002
+release_7digitalid: 330070
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1179,)
+segments_loudness_max: shape = (1179,)
+segments_loudness_max_time: shape = (1179,)
+segments_loudness_start: shape = (1179,)
+segments_pitches: shape = (1179, 12)
+segments_start: shape = (1179,)
+segments_timbre: shape = (1179, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYMCST12AB017E8AB
+start_of_fade_out: 344.735
+tatums_confidence: shape = (1429,)
+tatums_start: shape = (1429,)
+tempo: 78.601
+time_signature: 5
+time_signature_confidence: 0.452
+title: Insanity
+track_7digitalid: 3708802
+track_id: TRAHDCA128F92E8221
+year: 0

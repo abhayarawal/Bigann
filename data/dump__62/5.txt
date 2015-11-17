@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4043
+artist_familiarity: 0.681090691743
+artist_hotttnesss: 0.488536125402
+artist_id: ARN2ZKL1187FB3972B
+artist_latitude: 37.16793
+artist_location: L.A 	California, Estados Unidos 
+artist_longitude: -95.84502
+artist_mbid: d25fa5a6-92bf-46a3-8bf7-31149b62eb84
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Distillers
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 97b44de98aad1bdfcfad9cc393784796
+bars_confidence: shape = (299,)
+bars_start: shape = (299,)
+beats_confidence: shape = (1199,)
+beats_start: shape = (1199,)
+danceability: 0.0
+duration: 448.54812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.791
+loudness: -5.055
+mode: 1
+mode_confidence: 0.762
+release: The Distillers
+release_7digitalid: 205356
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1143,)
+segments_loudness_max: shape = (1143,)
+segments_loudness_max_time: shape = (1143,)
+segments_loudness_start: shape = (1143,)
+segments_pitches: shape = (1143, 12)
+segments_start: shape = (1143,)
+segments_timbre: shape = (1143, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.588385843491
+song_id: SOBANXX12A8C1388F9
+start_of_fade_out: 448.548
+tatums_confidence: shape = (2399,)
+tatums_start: shape = (2399,)
+tempo: 161.288
+time_signature: 4
+time_signature_confidence: 0.714
+title: The Blackest Years (CD only hidden track)
+track_7digitalid: 2225297
+track_id: TRAVFPH128F42621EE
+year: 2000

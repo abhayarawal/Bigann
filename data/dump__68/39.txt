@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 356556
+artist_familiarity: 0.337576041247
+artist_hotttnesss: 0.0
+artist_id: AR5RA3W1187B9B4A22
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c2a1a86c-1219-4a03-b34b-e4db2506bcb0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pepe Kalle
+artist_playmeid: -1
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 4d6b816f3fbd704a8e3408366c3509fb
+bars_confidence: shape = (215,)
+bars_start: shape = (215,)
+beats_confidence: shape = (863,)
+beats_start: shape = (863,)
+danceability: 0.0
+duration: 369.52771
+end_of_fade_in: 0.355
+energy: 0.0
+key: 7
+key_confidence: 0.789
+loudness: -9.008
+mode: 1
+mode_confidence: 0.72
+release: Larger Than Life
+release_7digitalid: 609331
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (1736,)
+segments_loudness_max: shape = (1736,)
+segments_loudness_max_time: shape = (1736,)
+segments_loudness_start: shape = (1736,)
+segments_pitches: shape = (1736, 12)
+segments_start: shape = (1736,)
+segments_timbre: shape = (1736, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZKTRT12A58A7CF13
+start_of_fade_out: 357.907
+tatums_confidence: shape = (1726,)
+tatums_start: shape = (1726,)
+tempo: 140.269
+time_signature: 4
+time_signature_confidence: 0.84
+title: Roger Milla
+track_7digitalid: 6771269
+track_id: TRAXIYH128F92EE3B3
+year: 2005

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 265626
+artist_familiarity: 0.657578621198
+artist_hotttnesss: 0.422364007618
+artist_id: AR9VEMN1187FB4D75B
+artist_latitude: 51.50632
+artist_location: London
+artist_longitude: -0.12714
+artist_mbid: dc9b8085-fe1e-4b83-8d41-6dd8d295513c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Caspa
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: d763ccffca7b37e4e21ee077a9552c59
+bars_confidence: shape = (583,)
+bars_start: shape = (583,)
+beats_confidence: shape = (583,)
+beats_start: shape = (583,)
+danceability: 0.0
+duration: 371.64363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.649
+loudness: -8.559
+mode: 1
+mode_confidence: 0.525
+release: Everybody's Talking_ Nobody's Listening!
+release_7digitalid: 409257
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1738,)
+segments_loudness_max: shape = (1738,)
+segments_loudness_max_time: shape = (1738,)
+segments_loudness_start: shape = (1738,)
+segments_pitches: shape = (1738, 12)
+segments_start: shape = (1738,)
+segments_timbre: shape = (1738, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHANRI12AB0186668
+start_of_fade_out: 365.772
+tatums_confidence: shape = (1750,)
+tatums_start: shape = (1750,)
+tempo: 93.33
+time_signature: 1
+time_signature_confidence: 0.504
+title: Back to '93
+track_7digitalid: 4553034
+track_id: TRAFCZM128F931AD24
+year: 2009

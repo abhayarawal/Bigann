@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 68306
+artist_familiarity: 0.330139596904
+artist_hotttnesss: 0.249127455013
+artist_id: ARP90NR1187B990ECA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: afad957d-b11c-435d-90f6-ab54728351cb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Rene Touzet
+artist_playmeid: 50951
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 96420f1c881c63dfe0eea2aa6348c930
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (357,)
+beats_start: shape = (357,)
+danceability: 0.0
+duration: 198.922
+end_of_fade_in: 0.406
+energy: 0.0
+key: 1
+key_confidence: 0.141
+loudness: -16.034
+mode: 1
+mode_confidence: 0.368
+release: The Best Of Rene Touzet (His Piano and  Orchestra)
+release_7digitalid: 86249
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (705,)
+segments_loudness_max: shape = (705,)
+segments_loudness_max_time: shape = (705,)
+segments_loudness_start: shape = (705,)
+segments_pitches: shape = (705, 12)
+segments_start: shape = (705,)
+segments_timbre: shape = (705, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOPYJPU12A58A7B4A3
+start_of_fade_out: 180.982
+tatums_confidence: shape = (714,)
+tatums_start: shape = (714,)
+tempo: 111.493
+time_signature: 4
+time_signature_confidence: 0.106
+title: Delirio
+track_7digitalid: 903955
+track_id: TRASBVE128F425F34E
+year: 0

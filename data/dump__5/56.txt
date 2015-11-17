@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1304
+artist_familiarity: 0.822316235979
+artist_hotttnesss: 0.50881319501
+artist_id: ARTE9CG1187B99B1AF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f3bf61f8-97d4-4e52-a73d-2ddbbe8196c8
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: DMX / Eve / Jadakiss
+artist_playmeid: 491
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 2643be4a7af63457f978430ec0719cca
+bars_confidence: shape = (202,)
+bars_start: shape = (202,)
+beats_confidence: shape = (813,)
+beats_start: shape = (813,)
+danceability: 0.0
+duration: 265.22077
+end_of_fade_in: 0.096
+energy: 0.0
+key: 10
+key_confidence: 0.179
+loudness: -2.542
+mode: 0
+mode_confidence: 0.213
+release: Grand Champ
+release_7digitalid: 8497
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1217,)
+segments_loudness_max: shape = (1217,)
+segments_loudness_max_time: shape = (1217,)
+segments_loudness_start: shape = (1217,)
+segments_pitches: shape = (1217, 12)
+segments_start: shape = (1217,)
+segments_timbre: shape = (1217, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.604088178078
+song_id: SOTVHQT12AB0181279
+start_of_fade_out: 254.108
+tatums_confidence: shape = (1626,)
+tatums_start: shape = (1626,)
+tempo: 185.094
+time_signature: 4
+time_signature_confidence: 0.344
+title: We're Back
+track_7digitalid: 85633
+track_id: TRABUZC128E078603F
+year: 2003

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 33863
+artist_familiarity: 0.731208047166
+artist_hotttnesss: 0.547506775318
+artist_id: ARQ76LG1187B9ACD84
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 9941a936-196a-4a62-ae53-a69cbc33f20e
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Black Flag
+artist_playmeid: 6593
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 3a1861c79816c808bc200c3a0d74c755
+bars_confidence: shape = (58,)
+bars_start: shape = (58,)
+beats_confidence: shape = (236,)
+beats_start: shape = (236,)
+danceability: 0.0
+duration: 79.51628
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.631
+loudness: -4.606
+mode: 1
+mode_confidence: 0.505
+release: Live at The On Broadway 1982
+release_7digitalid: 729456
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (199,)
+segments_loudness_max: shape = (199,)
+segments_loudness_max_time: shape = (199,)
+segments_loudness_start: shape = (199,)
+segments_pitches: shape = (199, 12)
+segments_start: shape = (199,)
+segments_timbre: shape = (199, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCKBSD12AB0188C72
+start_of_fade_out: 79.516
+tatums_confidence: shape = (473,)
+tatums_start: shape = (473,)
+tempo: 190.6
+time_signature: 4
+time_signature_confidence: 0.581
+title: Room 13
+track_7digitalid: 8081066
+track_id: TRAOHPG12903CE4155
+year: 1981

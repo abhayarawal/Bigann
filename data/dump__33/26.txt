@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 599027
+artist_familiarity: 0.0921250734123
+artist_hotttnesss: 0.0
+artist_id: ARBNYIE12802FDE477
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cool Connection
+artist_playmeid: -1
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: 516290025e38b8d1af1ce26a0de41c76
+bars_confidence: shape = (134,)
+bars_start: shape = (134,)
+beats_confidence: shape = (540,)
+beats_start: shape = (540,)
+danceability: 0.0
+duration: 274.31138
+end_of_fade_in: 0.374
+energy: 0.0
+key: 0
+key_confidence: 0.002
+loudness: -10.66
+mode: 1
+mode_confidence: 0.237
+release: I'm Your Boogie Man / Rotation
+release_7digitalid: 803194
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1335,)
+segments_loudness_max: shape = (1335,)
+segments_loudness_max_time: shape = (1335,)
+segments_loudness_start: shape = (1335,)
+segments_pitches: shape = (1335, 12)
+segments_start: shape = (1335,)
+segments_timbre: shape = (1335, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORYEAW12AB0184D51
+start_of_fade_out: 271.581
+tatums_confidence: shape = (1080,)
+tatums_start: shape = (1080,)
+tempo: 119.957
+time_signature: 4
+time_signature_confidence: 1.0
+title: I'm Your Boogie Man
+track_7digitalid: 8878991
+track_id: TRALHTO12903CBBE95
+year: 0

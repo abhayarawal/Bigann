@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 101629
+artist_familiarity: 0.496436795914
+artist_hotttnesss: 0.29993529462
+artist_id: AR4O3MM1187FB3DF77
+artist_latitude: 18.22328
+artist_location: Puerto Rico
+artist_longitude: -66.42889
+artist_mbid: 2edd04f0-89fa-4630-90f1-1ccaec4dc093
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gisselle
+artist_playmeid: 4572
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 74abf17ead9740adb34e47f3a1d97c12
+bars_confidence: shape = (133,)
+bars_start: shape = (133,)
+beats_confidence: shape = (540,)
+beats_start: shape = (540,)
+danceability: 0.0
+duration: 243.61751
+end_of_fade_in: 0.363
+energy: 0.0
+key: 9
+key_confidence: 0.568
+loudness: -3.628
+mode: 1
+mode_confidence: 0.456
+release: Atada
+release_7digitalid: 413889
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1248,)
+segments_loudness_max: shape = (1248,)
+segments_loudness_max_time: shape = (1248,)
+segments_loudness_start: shape = (1248,)
+segments_pitches: shape = (1248, 12)
+segments_start: shape = (1248,)
+segments_timbre: shape = (1248, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODWUKB12AB0180C2A
+start_of_fade_out: 240.565
+tatums_confidence: shape = (1080,)
+tatums_start: shape = (1080,)
+tempo: 136.7
+time_signature: 4
+time_signature_confidence: 0.301
+title: Tocame
+track_7digitalid: 4613696
+track_id: TRBCYJG128F93283CB
+year: 2008

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7562
+artist_familiarity: 0.433507626379
+artist_hotttnesss: 0.289902931609
+artist_id: ARS1DCR1187B9A4A56
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0159799c-ef7f-4c37-a011-25b6572c0f62
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Winston Reedy
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 3d02c6a015112c719d87d1eea241e59c
+bars_confidence: shape = (94,)
+bars_start: shape = (94,)
+beats_confidence: shape = (380,)
+beats_start: shape = (380,)
+danceability: 0.0
+duration: 193.72363
+end_of_fade_in: 0.173
+energy: 0.0
+key: 1
+key_confidence: 0.931
+loudness: -12.087
+mode: 1
+mode_confidence: 0.565
+release: Reality
+release_7digitalid: 346402
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (788,)
+segments_loudness_max: shape = (788,)
+segments_loudness_max_time: shape = (788,)
+segments_loudness_start: shape = (788,)
+segments_pitches: shape = (788, 12)
+segments_start: shape = (788,)
+segments_timbre: shape = (788, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJZLAJ12AB017E8A2
+start_of_fade_out: 186.015
+tatums_confidence: shape = (759,)
+tatums_start: shape = (759,)
+tempo: 118.123
+time_signature: 4
+time_signature_confidence: 0.205
+title: Sentimental Man
+track_7digitalid: 3884209
+track_id: TRBIJNK128F93093EC
+year: 0

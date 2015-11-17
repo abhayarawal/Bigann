@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 38432
+artist_familiarity: 0.588370653419
+artist_hotttnesss: 0.413237883925
+artist_id: ARN5W1B1187B98BE10
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 03586e0c-6a3f-4cb1-b039-2d4406f1a053
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Warrior King
+artist_playmeid: -1
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: f2d9f3a18eb64095950c192a13f73e2e
+bars_confidence: shape = (136,)
+bars_start: shape = (136,)
+beats_confidence: shape = (548,)
+beats_start: shape = (548,)
+danceability: 0.0
+duration: 223.29424
+end_of_fade_in: 0.316
+energy: 0.0
+key: 8
+key_confidence: 0.011
+loudness: -6.582
+mode: 1
+mode_confidence: 0.171
+release: Riddim Rider : Trod'n to Zion
+release_7digitalid: 565386
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1032,)
+segments_loudness_max: shape = (1032,)
+segments_loudness_max_time: shape = (1032,)
+segments_loudness_start: shape = (1032,)
+segments_pitches: shape = (1032, 12)
+segments_start: shape = (1032,)
+segments_timbre: shape = (1032, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJVMJI12AF72A14F8
+start_of_fade_out: 215.899
+tatums_confidence: shape = (1097,)
+tatums_start: shape = (1097,)
+tempo: 147.97
+time_signature: 4
+time_signature_confidence: 0.458
+title: Virtuous Woman
+track_7digitalid: 6257655
+track_id: TRBHMJS128F9359728
+year: 2002

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 36713
+artist_familiarity: 0.51503358359
+artist_hotttnesss: 0.372356587534
+artist_id: ARW9DSD1187B9A0345
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cf940d52-04ef-46bd-aa83-058c4f3a710f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Los Chunguitos
+artist_playmeid: 9288
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 769fe9114a649af7db039c14ff52c7ad
+bars_confidence: shape = (109,)
+bars_start: shape = (109,)
+beats_confidence: shape = (440,)
+beats_start: shape = (440,)
+danceability: 0.0
+duration: 170.50077
+end_of_fade_in: 0.351
+energy: 0.0
+key: 11
+key_confidence: 0.599
+loudness: -13.086
+mode: 0
+mode_confidence: 0.591
+release: Los Chunguitos
+release_7digitalid: 156633
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (760,)
+segments_loudness_max: shape = (760,)
+segments_loudness_max_time: shape = (760,)
+segments_loudness_start: shape = (760,)
+segments_pitches: shape = (760, 12)
+segments_start: shape = (760,)
+segments_timbre: shape = (760, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOENXLS12A8C139E83
+start_of_fade_out: 161.715
+tatums_confidence: shape = (879,)
+tatums_start: shape = (879,)
+tempo: 157.67
+time_signature: 4
+time_signature_confidence: 0.819
+title: Èay! Que Pena
+track_7digitalid: 1646133
+track_id: TRBHTJJ128F4271122
+year: 0

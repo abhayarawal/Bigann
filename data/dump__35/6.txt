@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7488
+artist_familiarity: 0.769098837115
+artist_hotttnesss: 0.487848389245
+artist_id: AR7DBMA1187FB516B1
+artist_latitude: nan
+artist_location: Sweden
+artist_longitude: nan
+artist_mbid: cf16d0a3-9d9c-44d4-b610-f0baccc27912
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Knife
+artist_playmeid: 99117
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 1ee9c51dd22de7dd8e48fa8a77561899
+bars_confidence: shape = (159,)
+bars_start: shape = (159,)
+beats_confidence: shape = (639,)
+beats_start: shape = (639,)
+danceability: 0.0
+duration: 368.79628
+end_of_fade_in: 0.463
+energy: 0.0
+key: 4
+key_confidence: 0.183
+loudness: -11.194
+mode: 0
+mode_confidence: 0.245
+release: Silent Shout
+release_7digitalid: 275321
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1026,)
+segments_loudness_max: shape = (1026,)
+segments_loudness_max_time: shape = (1026,)
+segments_loudness_start: shape = (1026,)
+segments_pitches: shape = (1026, 12)
+segments_start: shape = (1026,)
+segments_timbre: shape = (1026, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEBCBI12AF72A154F
+start_of_fade_out: 358.185
+tatums_confidence: shape = (2558,)
+tatums_start: shape = (2558,)
+tempo: 105.02
+time_signature: 4
+time_signature_confidence: 0.58
+title: The Captain
+track_7digitalid: 3061679
+track_id: TRALZBV128F4250E60
+year: 0

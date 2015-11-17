@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4139
+artist_familiarity: 0.690447549773
+artist_hotttnesss: 0.507781667405
+artist_id: ARBM4TC1187FB5CE98
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: eb45032c-80da-469c-be20-1d09f08ef37f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Natalie Cole
+artist_playmeid: 2221
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: a24b7b9ea018349a06ad86e1c8d5b170
+bars_confidence: shape = (265,)
+bars_start: shape = (265,)
+beats_confidence: shape = (265,)
+beats_start: shape = (265,)
+danceability: 0.0
+duration: 185.7824
+end_of_fade_in: 3.059
+energy: 0.0
+key: 8
+key_confidence: 0.015
+loudness: -13.251
+mode: 1
+mode_confidence: 0.236
+release: Take A Look
+release_7digitalid: 614890
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (478,)
+segments_loudness_max: shape = (478,)
+segments_loudness_max_time: shape = (478,)
+segments_loudness_start: shape = (478,)
+segments_pitches: shape = (478, 12)
+segments_start: shape = (478,)
+segments_timbre: shape = (478, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVQZYP12A8C144692
+start_of_fade_out: 174.556
+tatums_confidence: shape = (530,)
+tatums_start: shape = (530,)
+tempo: 88.489
+time_signature: 1
+time_signature_confidence: 0.249
+title: Take A Look  (LP Version)
+track_7digitalid: 6835825
+track_id: TRAAMFG128F92FDEA2
+year: 0

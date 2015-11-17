@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10682
+artist_familiarity: 0.71426853252
+artist_hotttnesss: 0.50545315343
+artist_id: ARWR6RK1187FB3AB52
+artist_latitude: nan
+artist_location: Long Island, NY
+artist_longitude: nan
+artist_mbid: a6bfadac-d028-4bda-a5b2-e1468f556569
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: From Autumn To Ashes
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: bbae9ac5dfa9e3ff667c994ce6664007
+bars_confidence: shape = (74,)
+bars_start: shape = (74,)
+beats_confidence: shape = (230,)
+beats_start: shape = (230,)
+danceability: 0.0
+duration: 147.64363
+end_of_fade_in: 0.15
+energy: 0.0
+key: 4
+key_confidence: 0.516
+loudness: -12.063
+mode: 0
+mode_confidence: 0.569
+release: Too Bad You're Beautiful
+release_7digitalid: 271741
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (211,)
+segments_loudness_max: shape = (211,)
+segments_loudness_max_time: shape = (211,)
+segments_loudness_start: shape = (211,)
+segments_pitches: shape = (211, 12)
+segments_start: shape = (211,)
+segments_timbre: shape = (211, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.512253654303
+song_id: SOHKXAC12A58A7F6E5
+start_of_fade_out: 134.565
+tatums_confidence: shape = (459,)
+tatums_start: shape = (459,)
+tempo: 97.169
+time_signature: 3
+time_signature_confidence: 0.685
+title: IV
+track_7digitalid: 3022767
+track_id: TRAUAZA128F424847C
+year: 2002

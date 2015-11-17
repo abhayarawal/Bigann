@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19148
+artist_familiarity: 0.45312517863
+artist_hotttnesss: 0.349409350734
+artist_id: ARR8AIK1187B9A0BCE
+artist_latitude: 34.30138
+artist_location: Stovall, MS
+artist_longitude: -90.64208
+artist_mbid: 8766468c-9a0f-41e2-8466-601d94d5098e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Eddie Boyd
+artist_playmeid: 27740
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: d720e4045e9dce640d3d757bd9789abd
+bars_confidence: shape = (279,)
+bars_start: shape = (279,)
+beats_confidence: shape = (279,)
+beats_start: shape = (279,)
+danceability: 0.0
+duration: 203.36281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.397
+loudness: -14.688
+mode: 1
+mode_confidence: 0.456
+release: Live In Switzerland
+release_7digitalid: 372927
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (712,)
+segments_loudness_max: shape = (712,)
+segments_loudness_max_time: shape = (712,)
+segments_loudness_start: shape = (712,)
+segments_pitches: shape = (712, 12)
+segments_start: shape = (712,)
+segments_timbre: shape = (712, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORNGOF12A8C144013
+start_of_fade_out: 200.092
+tatums_confidence: shape = (838,)
+tatums_start: shape = (838,)
+tempo: 84.224
+time_signature: 1
+time_signature_confidence: 0.141
+title: I'm Sitting Here Waiting
+track_7digitalid: 4151934
+track_id: TRABMKR128F92CC02B
+year: 0

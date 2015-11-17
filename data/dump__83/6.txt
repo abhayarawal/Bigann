@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11422
+artist_familiarity: 0.821697316739
+artist_hotttnesss: 0.60172975571
+artist_id: ARXSABJ1187FB3C336
+artist_latitude: nan
+artist_location: Sacramento, CA
+artist_longitude: nan
+artist_mbid: 7527f6c2-d762-4b88-b5e2-9244f1e34c46
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Deftones
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 9f552cd5e8d1c11f21062accdcc59489
+bars_confidence: shape = (116,)
+bars_start: shape = (116,)
+beats_confidence: shape = (586,)
+beats_start: shape = (586,)
+danceability: 0.0
+duration: 203.59791
+end_of_fade_in: 3.593
+energy: 0.0
+key: 7
+key_confidence: 0.332
+loudness: -3.145
+mode: 1
+mode_confidence: 0.598
+release: White Pony
+release_7digitalid: 65697
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (525,)
+segments_loudness_max: shape = (525,)
+segments_loudness_max_time: shape = (525,)
+segments_loudness_start: shape = (525,)
+segments_pitches: shape = (525, 12)
+segments_start: shape = (525,)
+segments_timbre: shape = (525, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.715502169123
+song_id: SOUVHAM12A6D4FA42A
+start_of_fade_out: 197.857
+tatums_confidence: shape = (1172,)
+tatums_start: shape = (1172,)
+tempo: 178.339
+time_signature: 5
+time_signature_confidence: 0.996
+title: Korea (LP Version)
+track_7digitalid: 685403
+track_id: TRBCMJT128F14B12CC
+year: 2000

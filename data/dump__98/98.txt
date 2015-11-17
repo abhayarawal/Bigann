@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16253
+artist_familiarity: 0.604258728444
+artist_hotttnesss: 0.461023015726
+artist_id: AR0CDSK1187FB52ED6
+artist_latitude: nan
+artist_location: Paw Paw, WV
+artist_longitude: nan
+artist_mbid: 79ad8210-274e-4a99-8033-f4c9fe9be8a3
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Asleep At The Wheel
+artist_playmeid: 8624
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 9d3b5633df8b15731e6d26528dc4678e
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (485,)
+beats_start: shape = (485,)
+danceability: 0.0
+duration: 238.21016
+end_of_fade_in: 0.067
+energy: 0.0
+key: 11
+key_confidence: 0.046
+loudness: -9.02
+mode: 1
+mode_confidence: 0.407
+release: Kings Of The Texas Swing - Live
+release_7digitalid: 71368
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (847,)
+segments_loudness_max: shape = (847,)
+segments_loudness_max_time: shape = (847,)
+segments_loudness_start: shape = (847,)
+segments_pitches: shape = (847, 12)
+segments_start: shape = (847,)
+segments_timbre: shape = (847, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.580704292633
+song_id: SOFCCRW12A6D4FA064
+start_of_fade_out: 233.935
+tatums_confidence: shape = (969,)
+tatums_start: shape = (969,)
+tempo: 122.166
+time_signature: 4
+time_signature_confidence: 0.738
+title: The Letter That Johnny Walker Read
+track_7digitalid: 748242
+track_id: TRBIAVU128EF3493BA
+year: 2002

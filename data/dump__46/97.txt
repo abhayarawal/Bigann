@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21453
+artist_familiarity: 0.889460725348
+artist_hotttnesss: 0.619431422311
+artist_id: AR65K7A1187FB4DAA4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 183105b5-3e68-4748-9086-2c1c11bf7a3d
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Beyoncé
+artist_playmeid: 193
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: dea6eb2198d4e2a93d5c0ae5df27820b
+bars_confidence: shape = (639,)
+bars_start: shape = (639,)
+beats_confidence: shape = (639,)
+beats_start: shape = (639,)
+danceability: 0.0
+duration: 466.05016
+end_of_fade_in: 0.293
+energy: 0.0
+key: 11
+key_confidence: 0.847
+loudness: -6.593
+mode: 0
+mode_confidence: 0.58
+release: Single Ladies (Put A Ring On It) - Dance Remixes
+release_7digitalid: 372352
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1818,)
+segments_loudness_max: shape = (1818,)
+segments_loudness_max_time: shape = (1818,)
+segments_loudness_start: shape = (1818,)
+segments_pitches: shape = (1818, 12)
+segments_start: shape = (1818,)
+segments_timbre: shape = (1818, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFQBMN12A8C1428AD
+start_of_fade_out: 454.246
+tatums_confidence: shape = (1278,)
+tatums_start: shape = (1278,)
+tempo: 84.1
+time_signature: 1
+time_signature_confidence: 1.0
+title: Single Ladies (Put A Ring On It)
+track_7digitalid: 4143185
+track_id: TRAPZTV128F92CAA4E
+year: 2008

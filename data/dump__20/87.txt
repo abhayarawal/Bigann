@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30031
+artist_familiarity: 0.710445622387
+artist_hotttnesss: 0.540630686225
+artist_id: AR2UQQ51187B9AC816
+artist_latitude: nan
+artist_location: Arles, France
+artist_longitude: nan
+artist_mbid: 44a7f7d5-79df-4f44-8f5e-02dfc0626904
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Gipsy Kings
+artist_playmeid: 5223
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 901e4ed0b368a2caaf4495ebaf7fd29f
+bars_confidence: shape = (106,)
+bars_start: shape = (106,)
+beats_confidence: shape = (426,)
+beats_start: shape = (426,)
+danceability: 0.0
+duration: 222.92853
+end_of_fade_in: 3.291
+energy: 0.0
+key: 7
+key_confidence: 0.697
+loudness: -5.057
+mode: 1
+mode_confidence: 0.526
+release: Somos Gitanos
+release_7digitalid: 289146
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1098,)
+segments_loudness_max: shape = (1098,)
+segments_loudness_max_time: shape = (1098,)
+segments_loudness_start: shape = (1098,)
+segments_pitches: shape = (1098, 12)
+segments_start: shape = (1098,)
+segments_timbre: shape = (1098, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.523166108211
+song_id: SOGTRKA12A8C137D72
+start_of_fade_out: 216.213
+tatums_confidence: shape = (1704,)
+tatums_start: shape = (1704,)
+tempo: 118.056
+time_signature: 4
+time_signature_confidence: 1.0
+title: Somos Gitanos
+track_7digitalid: 3242082
+track_id: TRAHCHN128F4276D58
+year: 2001

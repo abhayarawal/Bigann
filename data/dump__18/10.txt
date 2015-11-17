@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 407965
+artist_familiarity: 0.49244072825
+artist_hotttnesss: 0.338946969158
+artist_id: ARY1K701187B9A43A9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a9f0fc9f-13a0-47aa-a7c3-f2d78013f7b6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Joe McBride
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 43bafdc8aa55087a4156c76c624d9988
+bars_confidence: shape = (118,)
+bars_start: shape = (118,)
+beats_confidence: shape = (481,)
+beats_start: shape = (481,)
+danceability: 0.0
+duration: 314.06975
+end_of_fade_in: 0.165
+energy: 0.0
+key: 0
+key_confidence: 0.445
+loudness: -10.203
+mode: 1
+mode_confidence: 0.521
+release: Texas Hold'em
+release_7digitalid: 602374
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1449,)
+segments_loudness_max: shape = (1449,)
+segments_loudness_max_time: shape = (1449,)
+segments_loudness_start: shape = (1449,)
+segments_pitches: shape = (1449, 12)
+segments_start: shape = (1449,)
+segments_timbre: shape = (1449, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SODXHIZ12A58A7A889
+start_of_fade_out: 302.231
+tatums_confidence: shape = (961,)
+tatums_start: shape = (961,)
+tempo: 91.979
+time_signature: 4
+time_signature_confidence: 0.833
+title: One Eyed Jack
+track_7digitalid: 6689943
+track_id: TRAGDYS12903CF569B
+year: 2005

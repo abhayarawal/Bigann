@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: -1
+artist_familiarity: 0.201077559682
+artist_hotttnesss: 0.0
+artist_id: ARTHKKA122BCFCBF58
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2ac02ce5-a398-4f37-b72e-d2888e5c2e4b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Milan Band
+artist_playmeid: -1
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: b0218e448b7866c6e417f448523a8265
+bars_confidence: shape = (61,)
+bars_start: shape = (61,)
+beats_confidence: shape = (313,)
+beats_start: shape = (313,)
+danceability: 0.0
+duration: 152.0322
+end_of_fade_in: 0.479
+energy: 0.0
+key: 8
+key_confidence: 0.656
+loudness: -9.414
+mode: 1
+mode_confidence: 0.393
+release: Milan Milan
+release_7digitalid: 162273
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (506,)
+segments_loudness_max: shape = (506,)
+segments_loudness_max_time: shape = (506,)
+segments_loudness_start: shape = (506,)
+segments_pitches: shape = (506, 12)
+segments_start: shape = (506,)
+segments_timbre: shape = (506, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMJPML12A8C13D74E
+start_of_fade_out: 143.871
+tatums_confidence: shape = (625,)
+tatums_start: shape = (625,)
+tempo: 128.598
+time_signature: 5
+time_signature_confidence: 0.197
+title: Ciao Milan
+track_7digitalid: 1719344
+track_id: TRAALSV128F4282B9B
+year: 0

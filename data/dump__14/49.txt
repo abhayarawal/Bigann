@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4342
+artist_familiarity: 0.759909540126
+artist_hotttnesss: 0.673207274956
+artist_id: AR20CFC1187B98A25D
+artist_latitude: nan
+artist_location: Albany, GA
+artist_longitude: nan
+artist_mbid: 8518b7af-5e33-498a-90c9-9fd772f4c422
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ray Charles
+artist_playmeid: 2093
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 756a239d2a283cda27797a20253d4cc2
+bars_confidence: shape = (139,)
+bars_start: shape = (139,)
+beats_confidence: shape = (139,)
+beats_start: shape = (139,)
+danceability: 0.0
+duration: 87.06567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.347
+loudness: -16.077
+mode: 1
+mode_confidence: 0.336
+release: Pure Genius: The Complete Atlantic Recordings 1952-1960
+release_7digitalid: 129224
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (235,)
+segments_loudness_max: shape = (235,)
+segments_loudness_max_time: shape = (235,)
+segments_loudness_start: shape = (235,)
+segments_pitches: shape = (235, 12)
+segments_start: shape = (235,)
+segments_timbre: shape = (235, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOSGYY12A8135690B
+start_of_fade_out: 79.168
+tatums_confidence: shape = (278,)
+tatums_start: shape = (278,)
+tempo: 97.302
+time_signature: 1
+time_signature_confidence: 0.0
+title: Losing Hand & Dialog #3 (w/reverb) (Rehearsal Session with Ahmet Ertegun_ 1953)
+track_7digitalid: 1342206
+track_id: TRAEVYV128F4231BA7
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 348006
+artist_familiarity: 0.529862599509
+artist_hotttnesss: 0.351552506213
+artist_id: ARRSNAA11F50C49717
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ocho y Media
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 13df2368d72aae1fe5b4f7f25d702e3e
+bars_confidence: shape = (56,)
+bars_start: shape = (56,)
+beats_confidence: shape = (287,)
+beats_start: shape = (287,)
+danceability: 0.0
+duration: 278.17751
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.645
+loudness: -3.638
+mode: 1
+mode_confidence: 0.5
+release: Sigue!
+release_7digitalid: 470302
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1346,)
+segments_loudness_max: shape = (1346,)
+segments_loudness_max_time: shape = (1346,)
+segments_loudness_start: shape = (1346,)
+segments_pitches: shape = (1346, 12)
+segments_start: shape = (1346,)
+segments_timbre: shape = (1346, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SOUXCFT12AB01846C9
+start_of_fade_out: 271.906
+tatums_confidence: shape = (1721,)
+tatums_start: shape = (1721,)
+tempo: 62.78
+time_signature: 5
+time_signature_confidence: 0.298
+title: A la Hora
+track_7digitalid: 5228496
+track_id: TRAHNKH128F93426EC
+year: 0

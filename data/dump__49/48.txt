@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17428
+artist_familiarity: 0.892688611404
+artist_hotttnesss: 0.852186238402
+artist_id: ARXOTQH1187FB57084
+artist_latitude: nan
+artist_location: Fairfax, California
+artist_longitude: nan
+artist_mbid: e1009244-1bf4-4a4c-889e-0db83b9be08f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Chris Brown
+artist_playmeid: 2729
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 3afb293de0568f1b3e91998a24b05828
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (412,)
+beats_start: shape = (412,)
+danceability: 0.0
+duration: 188.89098
+end_of_fade_in: 3.855
+energy: 0.0
+key: 5
+key_confidence: 0.657
+loudness: -6.969
+mode: 1
+mode_confidence: 0.453
+release: Graffiti
+release_7digitalid: 640908
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (702,)
+segments_loudness_max: shape = (702,)
+segments_loudness_max_time: shape = (702,)
+segments_loudness_start: shape = (702,)
+segments_pitches: shape = (702, 12)
+segments_start: shape = (702,)
+segments_timbre: shape = (702, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.635536648623
+song_id: SOJXPPN12A58A7E3E7
+start_of_fade_out: 174.225
+tatums_confidence: shape = (824,)
+tatums_start: shape = (824,)
+tempo: 131.953
+time_signature: 4
+time_signature_confidence: 0.28
+title: I.Y.A.
+track_7digitalid: 7111672
+track_id: TRAQVOG128F9340E58
+year: 0

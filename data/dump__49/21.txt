@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 63932
+artist_familiarity: 0.432839367307
+artist_hotttnesss: 0.366905852789
+artist_id: ARFZSPU1187B9B5BA9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 95ac1574-7e50-49cd-95be-5f33e118d00e
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: John Frizzell
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: d60c76be3ce60a1bd299ab0515178ee0
+bars_confidence: shape = (35,)
+bars_start: shape = (35,)
+beats_confidence: shape = (145,)
+beats_start: shape = (145,)
+danceability: 0.0
+duration: 100.75383
+end_of_fade_in: 1.216
+energy: 0.0
+key: 2
+key_confidence: 0.748
+loudness: -29.999
+mode: 0
+mode_confidence: 0.682
+release: Whiteout : Music from The Original Motion Picture
+release_7digitalid: 758204
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (232,)
+segments_loudness_max: shape = (232,)
+segments_loudness_max_time: shape = (232,)
+segments_loudness_start: shape = (232,)
+segments_pitches: shape = (232, 12)
+segments_start: shape = (232,)
+segments_timbre: shape = (232, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.407233014901
+song_id: SOQIRNJ12AB0187772
+start_of_fade_out: 91.539
+tatums_confidence: shape = (291,)
+tatums_start: shape = (291,)
+tempo: 91.434
+time_signature: 4
+time_signature_confidence: 0.0
+title: Carrie's Theme
+track_7digitalid: 8393575
+track_id: TRAQSYW12903CB969B
+year: 2009

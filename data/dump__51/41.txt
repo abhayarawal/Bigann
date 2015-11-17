@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10872
+artist_familiarity: 0.612543003669
+artist_hotttnesss: 0.459660463222
+artist_id: ARXP7MQ1187FB3AC5F
+artist_latitude: nan
+artist_location: LOWELL
+artist_longitude: nan
+artist_mbid: 2b0d81ce-1d0e-4097-91b3-c1f0cb045a2c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dave Hollister
+artist_playmeid: 19881
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 5e7f73930ac9e2aa0fe36f480f71b0e8
+bars_confidence: shape = (123,)
+bars_start: shape = (123,)
+beats_confidence: shape = (494,)
+beats_start: shape = (494,)
+danceability: 0.0
+duration: 258.16771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.242
+loudness: -5.193
+mode: 1
+mode_confidence: 0.438
+release: Witness Protection
+release_7digitalid: 305855
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (766,)
+segments_loudness_max: shape = (766,)
+segments_loudness_max_time: shape = (766,)
+segments_loudness_start: shape = (766,)
+segments_pitches: shape = (766, 12)
+segments_start: shape = (766,)
+segments_timbre: shape = (766, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.427446571488
+song_id: SOKLGLN12A8C13D204
+start_of_fade_out: 249.406
+tatums_confidence: shape = (987,)
+tatums_start: shape = (987,)
+tempo: 117.936
+time_signature: 4
+time_signature_confidence: 1.0
+title: Calm Da Seas
+track_7digitalid: 3459612
+track_id: TRARNCP128F42AB2B0
+year: 2008

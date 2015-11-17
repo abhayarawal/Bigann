@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18353
+artist_familiarity: 0.609123874818
+artist_hotttnesss: 0.462367839987
+artist_id: ARCEEC91187B9AC4FB
+artist_latitude: 44.97903
+artist_location: Minneapolis, MN
+artist_longitude: -93.26493
+artist_mbid: fc4af92a-1aa8-4f35-9aea-29b2ecbe0779
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Alexander O'Neal
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 5ed0897c774a28efbddad05d775d577f
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (487,)
+beats_start: shape = (487,)
+danceability: 0.0
+duration: 267.25832
+end_of_fade_in: 0.142
+energy: 0.0
+key: 9
+key_confidence: 0.492
+loudness: -7.367
+mode: 0
+mode_confidence: 0.494
+release: Alex Loves...
+release_7digitalid: 192588
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (838,)
+segments_loudness_max: shape = (838,)
+segments_loudness_max_time: shape = (838,)
+segments_loudness_start: shape = (838,)
+segments_pitches: shape = (838, 12)
+segments_start: shape = (838,)
+segments_timbre: shape = (838, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.460484844986
+song_id: SOMXGSM12A8C130A2C
+start_of_fade_out: 259.692
+tatums_confidence: shape = (974,)
+tatums_start: shape = (974,)
+tempo: 109.991
+time_signature: 4
+time_signature_confidence: 0.791
+title: Unbreak My Heart
+track_7digitalid: 2094105
+track_id: TRBCTEE128F42438DC
+year: 2008

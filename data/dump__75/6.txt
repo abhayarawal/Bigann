@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16968
+artist_familiarity: 0.32467743102
+artist_hotttnesss: 0.304184256208
+artist_id: ARIJ7MR1187B9B484E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 415cab7b-226a-49c7-9c1c-92e96ab93876
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Pegy Zina
+artist_playmeid: 11018
+artist_terms: shape = (7,)
+artist_terms_freq: shape = (7,)
+artist_terms_weight: shape = (7,)
+audio_md5: 8fda46bc2e7937db2a977010d1831312
+bars_confidence: shape = (133,)
+bars_start: shape = (133,)
+beats_confidence: shape = (403,)
+beats_start: shape = (403,)
+danceability: 0.0
+duration: 196.362
+end_of_fade_in: 0.073
+energy: 0.0
+key: 9
+key_confidence: 0.763
+loudness: -8.189
+mode: 0
+mode_confidence: 0.683
+release: The Digital Collection
+release_7digitalid: 304147
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (735,)
+segments_loudness_max: shape = (735,)
+segments_loudness_max_time: shape = (735,)
+segments_loudness_start: shape = (735,)
+segments_pitches: shape = (735, 12)
+segments_start: shape = (735,)
+segments_timbre: shape = (735, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBOUAF12A8C13CE4A
+start_of_fade_out: 189.214
+tatums_confidence: shape = (806,)
+tatums_start: shape = (806,)
+tempo: 125.027
+time_signature: 3
+time_signature_confidence: 1.0
+title: Psihi Mou Moni
+track_7digitalid: 3456998
+track_id: TRAZQPN128F42AA894
+year: 0

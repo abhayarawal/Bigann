@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 678
+artist_familiarity: 0.844085061395
+artist_hotttnesss: 0.71366981958
+artist_id: ARM7EDF1187B9B3FA1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: eeb1195b-f213-4ce1-b28c-8565211f8e43
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Guns N' Roses
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 3ea03a283473b28e2c51b6422093dc2d
+bars_confidence: shape = (205,)
+bars_start: shape = (205,)
+beats_confidence: shape = (830,)
+beats_start: shape = (830,)
+danceability: 0.0
+duration: 402.36363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.741
+loudness: -5.454
+mode: 1
+mode_confidence: 0.82
+release: Live Era '87-'93
+release_7digitalid: 15555
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1108,)
+segments_loudness_max: shape = (1108,)
+segments_loudness_max_time: shape = (1108,)
+segments_loudness_start: shape = (1108,)
+segments_pitches: shape = (1108, 12)
+segments_start: shape = (1108,)
+segments_timbre: shape = (1108, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.502211220551
+song_id: SOSBXWX12A6701D235
+start_of_fade_out: 402.364
+tatums_confidence: shape = (1660,)
+tatums_start: shape = (1660,)
+tempo: 122.838
+time_signature: 4
+time_signature_confidence: 0.554
+title: Patience
+track_7digitalid: 163361
+track_id: TRBICGT128E0792473
+year: 1988

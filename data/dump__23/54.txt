@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4468
+artist_familiarity: 0.653397489024
+artist_hotttnesss: 0.419163587763
+artist_id: AR3FOK11187FB3F4EE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3fc945b4-bbb8-408a-8c2f-d636441b5dfe
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Seven Mary Three
+artist_playmeid: 6938
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: cf7de77973f395d8b3acd5e525ee8435
+bars_confidence: shape = (69,)
+bars_start: shape = (69,)
+beats_confidence: shape = (296,)
+beats_start: shape = (296,)
+danceability: 0.0
+duration: 238.10567
+end_of_fade_in: 6.31
+energy: 0.0
+key: 9
+key_confidence: 0.213
+loudness: -10.133
+mode: 0
+mode_confidence: 0.486
+release: Rock Crown
+release_7digitalid: 761892
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (522,)
+segments_loudness_max: shape = (522,)
+segments_loudness_max_time: shape = (522,)
+segments_loudness_start: shape = (522,)
+segments_pitches: shape = (522, 12)
+segments_start: shape = (522,)
+segments_timbre: shape = (522, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOVHTEG12AB0188A10
+start_of_fade_out: 230.882
+tatums_confidence: shape = (593,)
+tatums_start: shape = (593,)
+tempo: 77.885
+time_signature: 4
+time_signature_confidence: 0.575
+title: People Like New (LP Version)
+track_7digitalid: 8434690
+track_id: TRAHYON12903CC36EF
+year: 1997

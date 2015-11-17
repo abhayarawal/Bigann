@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10667
+artist_familiarity: 0.80322000309
+artist_hotttnesss: 0.571376561591
+artist_id: ARYVO9V1187B9B1FC6
+artist_latitude: nan
+artist_location: Glasgow, Scotland
+artist_longitude: nan
+artist_mbid: aa7a2827-f74b-473c-bd79-03d065835cf7
+artist_mbtags: shape = (13,)
+artist_mbtags_count: shape = (13,)
+artist_name: Franz Ferdinand
+artist_playmeid: 646
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 4c2868834ec643ab862be2bc162a48a5
+bars_confidence: shape = (110,)
+bars_start: shape = (110,)
+beats_confidence: shape = (443,)
+beats_start: shape = (443,)
+danceability: 0.0
+duration: 214.9873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.493
+loudness: -3.509
+mode: 1
+mode_confidence: 0.409
+release: You Could Have It So Much Better
+release_7digitalid: 505751
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (739,)
+segments_loudness_max: shape = (739,)
+segments_loudness_max_time: shape = (739,)
+segments_loudness_start: shape = (739,)
+segments_pitches: shape = (739, 12)
+segments_start: shape = (739,)
+segments_timbre: shape = (739, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.849377280451
+song_id: SOAWCYO12A8151DF97
+start_of_fade_out: 208.306
+tatums_confidence: shape = (887,)
+tatums_start: shape = (887,)
+tempo: 124.01
+time_signature: 4
+time_signature_confidence: 0.315
+title: Do You Want To
+track_7digitalid: 5601016
+track_id: TRAZASM128F932FBEE
+year: 2005

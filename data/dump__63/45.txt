@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 25491
+artist_familiarity: 0.451784405954
+artist_hotttnesss: 0.360916230015
+artist_id: AR3EABF1187B98AD35
+artist_latitude: 59.46148
+artist_location: Russia
+artist_longitude: 108.83178
+artist_mbid: 1404fcf2-5c92-434b-8d37-7f9b0c8f986f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sophie Tucker
+artist_playmeid: 20252
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: e227762b1d81de16686b75f9895ca248
+bars_confidence: shape = (59,)
+bars_start: shape = (59,)
+beats_confidence: shape = (419,)
+beats_start: shape = (419,)
+danceability: 0.0
+duration: 154.74893
+end_of_fade_in: 0.183
+energy: 0.0
+key: 5
+key_confidence: 0.0
+loudness: -12.266
+mode: 1
+mode_confidence: 0.0
+release: Cabaret Days
+release_7digitalid: 765678
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (584,)
+segments_loudness_max: shape = (584,)
+segments_loudness_max_time: shape = (584,)
+segments_loudness_start: shape = (584,)
+segments_pitches: shape = (584, 12)
+segments_start: shape = (584,)
+segments_timbre: shape = (584, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPSCFO12AB0189541
+start_of_fade_out: 151.98
+tatums_confidence: shape = (839,)
+tatums_start: shape = (839,)
+tempo: 165.578
+time_signature: 7
+time_signature_confidence: 0.78
+title: You Can't Deep Freeze a Red Hot Mama
+track_7digitalid: 8478119
+track_id: TRAVTGF12903CCE04B
+year: 0

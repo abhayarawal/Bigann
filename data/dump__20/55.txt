@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 62562
+artist_familiarity: 0.419755366288
+artist_hotttnesss: 0.317838410801
+artist_id: ARG36WO1187B9B3A9A
+artist_latitude: 48.42831
+artist_location: Georgia
+artist_longitude: -123.36451
+artist_mbid: 6c1841b5-211a-4d63-abd1-7de8c38cba88
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jeff Talmadge
+artist_playmeid: 112981
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 5f54c10738f805f6af72bc4fb238d712
+bars_confidence: shape = (594,)
+bars_start: shape = (594,)
+beats_confidence: shape = (594,)
+beats_start: shape = (594,)
+danceability: 0.0
+duration: 228.62322
+end_of_fade_in: 0.148
+energy: 0.0
+key: 2
+key_confidence: 0.995
+loudness: -12.174
+mode: 1
+mode_confidence: 0.811
+release: The Spinning of the World
+release_7digitalid: 543288
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (751,)
+segments_loudness_max: shape = (751,)
+segments_loudness_max_time: shape = (751,)
+segments_loudness_start: shape = (751,)
+segments_pitches: shape = (751, 12)
+segments_start: shape = (751,)
+segments_timbre: shape = (751, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWGMLU12A58A7E280
+start_of_fade_out: 221.762
+tatums_confidence: shape = (1188,)
+tatums_start: shape = (1188,)
+tempo: 160.105
+time_signature: 1
+time_signature_confidence: 0.0
+title: The Hard Part's Letting Go
+track_7digitalid: 6012790
+track_id: TRAGZBS128F931DF7C
+year: 0

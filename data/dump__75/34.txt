@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 362541
+artist_familiarity: 0.38453308609
+artist_hotttnesss: 0.276698831023
+artist_id: AROTFS71187B99F243
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 306182ff-550e-4aa1-abbe-11dffdabb69a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jill Paquette
+artist_playmeid: 18644
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: a01e396678c323abae0566a04aebabc0
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (471,)
+beats_start: shape = (471,)
+danceability: 0.0
+duration: 199.70567
+end_of_fade_in: 0.375
+energy: 0.0
+key: 6
+key_confidence: 0.89
+loudness: -9.922
+mode: 1
+mode_confidence: 0.823
+release: Jill Paquette
+release_7digitalid: 489533
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (735,)
+segments_loudness_max: shape = (735,)
+segments_loudness_max_time: shape = (735,)
+segments_loudness_start: shape = (735,)
+segments_pitches: shape = (735, 12)
+segments_start: shape = (735,)
+segments_timbre: shape = (735, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOXOLXL12AB0180979
+start_of_fade_out: 181.493
+tatums_confidence: shape = (942,)
+tatums_start: shape = (942,)
+tempo: 144.027
+time_signature: 4
+time_signature_confidence: 0.5
+title: Sometimes Yes_ Sometimes No
+track_7digitalid: 5434378
+track_id: TRAZSPF128F93075C2
+year: 0

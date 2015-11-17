@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 541353
+artist_familiarity: 0.563087241821
+artist_hotttnesss: 0.284359373859
+artist_id: ARLOVHG1187FB39692
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 34eebbb4-eb2f-4c83-a222-dc2897c1447f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sébastien Roch
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 7772288d4c4d608f30a9a3ba8ec1d082
+bars_confidence: shape = (96,)
+bars_start: shape = (96,)
+beats_confidence: shape = (385,)
+beats_start: shape = (385,)
+danceability: 0.0
+duration: 184.08444
+end_of_fade_in: 5.079
+energy: 0.0
+key: 4
+key_confidence: 0.0
+loudness: -7.162
+mode: 0
+mode_confidence: 0.017
+release: Puce de luxe
+release_7digitalid: 726495
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (822,)
+segments_loudness_max: shape = (822,)
+segments_loudness_max_time: shape = (822,)
+segments_loudness_start: shape = (822,)
+segments_pitches: shape = (822, 12)
+segments_start: shape = (822,)
+segments_timbre: shape = (822, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAUTVB12AB018AFF0
+start_of_fade_out: 175.502
+tatums_confidence: shape = (770,)
+tatums_start: shape = (770,)
+tempo: 126.103
+time_signature: 4
+time_signature_confidence: 0.26
+title: 
+track_7digitalid: 8050561
+track_id: TRAXBZR12903CDCA82
+year: 0

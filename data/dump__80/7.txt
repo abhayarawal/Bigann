@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 31569
+artist_familiarity: 0.756063870843
+artist_hotttnesss: 0.491468881637
+artist_id: AR82DJK1187B991107
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: d7134426-a937-43bf-bc54-f10ad8102ed9
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: The Pharcyde
+artist_playmeid: 7931
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: ffdb48cbf2a4581c7907b7ea3b276a94
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (354,)
+beats_start: shape = (354,)
+danceability: 0.0
+duration: 217.88689
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.0
+loudness: -4.163
+mode: 1
+mode_confidence: 0.0
+release: Humboldt Beginnings
+release_7digitalid: 519747
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1000,)
+segments_loudness_max: shape = (1000,)
+segments_loudness_max_time: shape = (1000,)
+segments_loudness_start: shape = (1000,)
+segments_pitches: shape = (1000, 12)
+segments_start: shape = (1000,)
+segments_timbre: shape = (1000, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.460541281359
+song_id: SOCIACN12AB0189ADC
+start_of_fade_out: 217.887
+tatums_confidence: shape = (707,)
+tatums_start: shape = (707,)
+tempo: 97.594
+time_signature: 4
+time_signature_confidence: 0.684
+title: Storm
+track_7digitalid: 5750041
+track_id: TRBBKMZ128F93539F4
+year: 2004

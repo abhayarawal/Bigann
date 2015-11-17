@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3363
+artist_familiarity: 0.540750151436
+artist_hotttnesss: 0.379651219002
+artist_id: AR7CCCC1187FB578FF
+artist_latitude: nan
+artist_location: Shelby, North Carolina
+artist_longitude: nan
+artist_mbid: 870ab832-904b-4b49-ab72-7e6b0e0da65f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Don Gibson
+artist_playmeid: 15188
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 2ccde7ff7366a9c5ecd3f5b63f11d35d
+bars_confidence: shape = (184,)
+bars_start: shape = (184,)
+beats_confidence: shape = (184,)
+beats_start: shape = (184,)
+danceability: 0.0
+duration: 109.71383
+end_of_fade_in: 0.369
+energy: 0.0
+key: 4
+key_confidence: 0.851
+loudness: -12.808
+mode: 1
+mode_confidence: 0.659
+release: The Road More Traveled 
+release_7digitalid: 342093
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (388,)
+segments_loudness_max: shape = (388,)
+segments_loudness_max_time: shape = (388,)
+segments_loudness_start: shape = (388,)
+segments_pitches: shape = (388, 12)
+segments_start: shape = (388,)
+segments_timbre: shape = (388, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQVLOK12AB017E8BC
+start_of_fade_out: 99.84
+tatums_confidence: shape = (368,)
+tatums_start: shape = (368,)
+tempo: 108.974
+time_signature: 1
+time_signature_confidence: 0.0
+title: Blue Blue Day
+track_7digitalid: 3828782
+track_id: TRAPESV128F92FE5E9
+year: 1987

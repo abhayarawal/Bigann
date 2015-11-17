@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 52071
+artist_familiarity: 0.583989842416
+artist_hotttnesss: 0.473636664534
+artist_id: ARCEOW71187B9A5A71
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: 694b1fd8-0ba6-45bb-a359-d8a8fecaee46
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: B.A.D.
+artist_playmeid: 8757
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 5fb0459dc3de422fda9a5fa70f48a039
+bars_confidence: shape = (38,)
+bars_start: shape = (38,)
+beats_confidence: shape = (162,)
+beats_start: shape = (162,)
+danceability: 0.0
+duration: 102.03383
+end_of_fade_in: 0.45
+energy: 0.0
+key: 0
+key_confidence: 0.032
+loudness: -5.653
+mode: 1
+mode_confidence: 0.262
+release: B.A.D. (Be A Devil)
+release_7digitalid: 156038
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (439,)
+segments_loudness_max: shape = (439,)
+segments_loudness_max_time: shape = (439,)
+segments_loudness_start: shape = (439,)
+segments_pitches: shape = (439, 12)
+segments_start: shape = (439,)
+segments_timbre: shape = (439, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKIXDM12A8C136E04
+start_of_fade_out: 96.897
+tatums_confidence: shape = (325,)
+tatums_start: shape = (325,)
+tempo: 95.655
+time_signature: 4
+time_signature_confidence: 1.0
+title: Interlude
+track_7digitalid: 1637233
+track_id: TRABLVP128F426EE4A
+year: 0

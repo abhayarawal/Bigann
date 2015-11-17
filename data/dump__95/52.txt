@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7256
+artist_familiarity: 0.281714298343
+artist_hotttnesss: 0.0
+artist_id: ARX83ZF1187FB3B66A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 80648bde-31dd-41c8-89fc-2dc1e00f692c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Helen Hobson
+artist_playmeid: -1
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: bb4351f0f1397fbcf57664b27438f711
+bars_confidence: shape = (42,)
+bars_start: shape = (42,)
+beats_confidence: shape = (306,)
+beats_start: shape = (306,)
+danceability: 0.0
+duration: 176.97914
+end_of_fade_in: 2.032
+energy: 0.0
+key: 8
+key_confidence: 0.665
+loudness: -24.633
+mode: 1
+mode_confidence: 0.624
+release: Hobson's Choice
+release_7digitalid: 448651
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (560,)
+segments_loudness_max: shape = (560,)
+segments_loudness_max_time: shape = (560,)
+segments_loudness_start: shape = (560,)
+segments_pitches: shape = (560, 12)
+segments_start: shape = (560,)
+segments_timbre: shape = (560, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTXCIT12AB0180723
+start_of_fade_out: 167.079
+tatums_confidence: shape = (612,)
+tatums_start: shape = (612,)
+tempo: 107.537
+time_signature: 7
+time_signature_confidence: 0.738
+title: Merry-Go-Round
+track_7digitalid: 4980352
+track_id: TRBGXTS128F9308E62
+year: 1996

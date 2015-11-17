@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 98670
+artist_familiarity: 0.548022399066
+artist_hotttnesss: 0.440134712015
+artist_id: ARJ5BEW1187FB52361
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: de885e5b-284d-4dac-954c-48c7d7e2ebe5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Inoki
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: be8aed67f11db6c2aa79d2907efce5ff
+bars_confidence: shape = (40,)
+bars_start: shape = (40,)
+beats_confidence: shape = (122,)
+beats_start: shape = (122,)
+danceability: 0.0
+duration: 75.93751
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.536
+loudness: -3.148
+mode: 1
+mode_confidence: 0.531
+release: Nobiltà di strada
+release_7digitalid: 124304
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (289,)
+segments_loudness_max: shape = (289,)
+segments_loudness_max_time: shape = (289,)
+segments_loudness_start: shape = (289,)
+segments_pitches: shape = (289, 12)
+segments_start: shape = (289,)
+segments_timbre: shape = (289, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.266955186276
+song_id: SOLLVWH12A6D4FAA5A
+start_of_fade_out: 71.459
+tatums_confidence: shape = (365,)
+tatums_start: shape = (365,)
+tempo: 98.533
+time_signature: 3
+time_signature_confidence: 0.801
+title: Parola di faliero
+track_7digitalid: 1283028
+track_id: TRATVAI128F42281FE
+year: 0

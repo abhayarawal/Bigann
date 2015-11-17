@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13101
+artist_familiarity: 0.590816513592
+artist_hotttnesss: 0.376066361452
+artist_id: AR3NPVS1187FB5108F
+artist_latitude: 48.85692
+artist_location: Paris, France
+artist_longitude: 2.34121
+artist_mbid: 825836b9-af8b-4449-b078-d51fad0db73e
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Les Rythmes Digitales feat. Nik Kershaw
+artist_playmeid: 2610
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 45eb88ffab50ddfb1705bbbfe82d6764
+bars_confidence: shape = (151,)
+bars_start: shape = (151,)
+beats_confidence: shape = (609,)
+beats_start: shape = (609,)
+danceability: 0.0
+duration: 297.45587
+end_of_fade_in: 0.206
+energy: 0.0
+key: 2
+key_confidence: 0.011
+loudness: -4.249
+mode: 1
+mode_confidence: 0.311
+release: Off The Wall - Ten Years of Wall of Sound
+release_7digitalid: 59548
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1233,)
+segments_loudness_max: shape = (1233,)
+segments_loudness_max_time: shape = (1233,)
+segments_loudness_start: shape = (1233,)
+segments_pitches: shape = (1233, 12)
+segments_start: shape = (1233,)
+segments_timbre: shape = (1233, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.699913603349
+song_id: SOJMXIM12A6D4FB4FC
+start_of_fade_out: 292.659
+tatums_confidence: shape = (1217,)
+tatums_start: shape = (1217,)
+tempo: 123.829
+time_signature: 4
+time_signature_confidence: 0.395
+title: Sometimes
+track_7digitalid: 616176
+track_id: TRBGBGH128F14A23E5
+year: 1999

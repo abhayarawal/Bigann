@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 126841
+artist_familiarity: 0.703229577373
+artist_hotttnesss: 0.43392783827
+artist_id: AROZNFA1187B99D367
+artist_latitude: nan
+artist_location: Hastings, England
+artist_longitude: nan
+artist_mbid: 68cac857-3147-43d0-879e-c63dc9c82014
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: John Digweed
+artist_playmeid: -1
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 6948b800f4e3f326a9381b235b346dd2
+bars_confidence: shape = (239,)
+bars_start: shape = (239,)
+beats_confidence: shape = (959,)
+beats_start: shape = (959,)
+danceability: 0.0
+duration: 460.79955
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.012
+loudness: -7.569
+mode: 1
+mode_confidence: 0.225
+release: Clubplanet Volume 1
+release_7digitalid: 807538
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (2796,)
+segments_loudness_max: shape = (2796,)
+segments_loudness_max_time: shape = (2796,)
+segments_loudness_start: shape = (2796,)
+segments_pitches: shape = (2796, 12)
+segments_start: shape = (2796,)
+segments_timbre: shape = (2796, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.41373983586
+song_id: SONNTQH12AB018C2D8
+start_of_fade_out: 460.8
+tatums_confidence: shape = (1918,)
+tatums_start: shape = (1918,)
+tempo: 125.015
+time_signature: 4
+time_signature_confidence: 0.76
+title: Warung Beach
+track_7digitalid: 8928829
+track_id: TRAPSLP12903CC80EC
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19180
+artist_familiarity: 0.677016696215
+artist_hotttnesss: 0.490034460639
+artist_id: AR336PG1187FB3DC6E
+artist_latitude: 53.4796
+artist_location: Manchester, England
+artist_longitude: -2.24881
+artist_mbid: c147b96e-3428-4604-9b6c-d931f980f684
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Oceansize
+artist_playmeid: 120860
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 3c44b09fca23cabccb2479418a4104c0
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (485,)
+beats_start: shape = (485,)
+danceability: 0.0
+duration: 249.93914
+end_of_fade_in: 1.007
+energy: 0.0
+key: 2
+key_confidence: 0.355
+loudness: -8.08
+mode: 1
+mode_confidence: 0.411
+release: New Pin
+release_7digitalid: 30491
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (985,)
+segments_loudness_max: shape = (985,)
+segments_loudness_max_time: shape = (985,)
+segments_loudness_start: shape = (985,)
+segments_pitches: shape = (985, 12)
+segments_start: shape = (985,)
+segments_timbre: shape = (985, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.638877875547
+song_id: SOWCRYD12A6D4F6B70
+start_of_fade_out: 232.35
+tatums_confidence: shape = (1943,)
+tatums_start: shape = (1943,)
+tempo: 118.049
+time_signature: 4
+time_signature_confidence: 0.759
+title: New Pin (edit)
+track_7digitalid: 331574
+track_id: TRASWQE128F146C987
+year: 2005

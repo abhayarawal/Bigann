@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 135117
+artist_familiarity: 0.561370907228
+artist_hotttnesss: 0.365533756198
+artist_id: ARN3O411187FB4D859
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a04ceabd-1f20-4d29-b579-24810ac2da88
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Stephan Micus
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 804b1bf63e234be6b85b68a8e6f04fe6
+bars_confidence: shape = (184,)
+bars_start: shape = (184,)
+beats_confidence: shape = (751,)
+beats_start: shape = (751,)
+danceability: 0.0
+duration: 504.94649
+end_of_fade_in: 10.286
+energy: 0.0
+key: 2
+key_confidence: 0.924
+loudness: -19.569
+mode: 1
+mode_confidence: 0.683
+release: Desert Poems
+release_7digitalid: 178620
+sections_confidence: shape = (23,)
+sections_start: shape = (23,)
+segments_confidence: shape = (1741,)
+segments_loudness_max: shape = (1741,)
+segments_loudness_max_time: shape = (1741,)
+segments_loudness_start: shape = (1741,)
+segments_pitches: shape = (1741, 12)
+segments_start: shape = (1741,)
+segments_timbre: shape = (1741, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.377531644977
+song_id: SOIKYQE12A81356CFD
+start_of_fade_out: 483.254
+tatums_confidence: shape = (2253,)
+tatums_start: shape = (2253,)
+tempo: 92.203
+time_signature: 4
+time_signature_confidence: 0.139
+title: Mikhail's Dream
+track_7digitalid: 1931109
+track_id: TRAXNWF128F422936F
+year: 2001

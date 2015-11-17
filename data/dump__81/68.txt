@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 68006
+artist_familiarity: 0.28422040368
+artist_hotttnesss: 0.305849744336
+artist_id: ARQXGWX11F50C49BC7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5e814d09-9d00-4e43-9a0d-61c73b4ed380
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Vincent Bruley
+artist_playmeid: 51224
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: 3cacb75662b71ba5c4a025b1a8448c30
+bars_confidence: shape = (308,)
+bars_start: shape = (308,)
+beats_confidence: shape = (1234,)
+beats_start: shape = (1234,)
+danceability: 0.0
+duration: 498.38975
+end_of_fade_in: 6.473
+energy: 0.0
+key: 4
+key_confidence: 0.927
+loudness: -14.037
+mode: 0
+mode_confidence: 0.839
+release: Le Temps Suspendu
+release_7digitalid: 200189
+sections_confidence: shape = (32,)
+sections_start: shape = (32,)
+segments_confidence: shape = (1086,)
+segments_loudness_max: shape = (1086,)
+segments_loudness_max_time: shape = (1086,)
+segments_loudness_start: shape = (1086,)
+segments_pitches: shape = (1086, 12)
+segments_start: shape = (1086,)
+segments_timbre: shape = (1086, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFRVYQ12A8C137BAC
+start_of_fade_out: 461.166
+tatums_confidence: shape = (2469,)
+tatums_start: shape = (2469,)
+tempo: 150.867
+time_signature: 4
+time_signature_confidence: 0.483
+title: Ombre Et Lumière
+track_7digitalid: 2178874
+track_id: TRBBZSO128F4257B30
+year: 0

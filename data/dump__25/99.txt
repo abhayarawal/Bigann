@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 152362
+artist_familiarity: 0.492986719403
+artist_hotttnesss: 0.348265163062
+artist_id: AR7JAMC1187B98BCF3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a4c24af0-78b1-4f66-96a9-df63a21d590c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Gentle Good
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 034ba0fe9ff01219901cdc173db702c1
+bars_confidence: shape = (344,)
+bars_start: shape = (344,)
+beats_confidence: shape = (344,)
+beats_start: shape = (344,)
+danceability: 0.0
+duration: 197.19791
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.343
+loudness: -12.0
+mode: 1
+mode_confidence: 0.496
+release: While You Slept I Went Out Walking
+release_7digitalid: 820141
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (765,)
+segments_loudness_max: shape = (765,)
+segments_loudness_max_time: shape = (765,)
+segments_loudness_start: shape = (765,)
+segments_pitches: shape = (765, 12)
+segments_start: shape = (765,)
+segments_timbre: shape = (765, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYBQPY12A8C144A7A
+start_of_fade_out: 183.258
+tatums_confidence: shape = (688,)
+tatums_start: shape = (688,)
+tempo: 111.537
+time_signature: 1
+time_signature_confidence: 0.0
+title: Cri'r Adar Main
+track_7digitalid: 9058216
+track_id: TRAISSE12903CE77EF
+year: 0

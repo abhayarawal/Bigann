@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 417392
+artist_familiarity: 0.435455957304
+artist_hotttnesss: 0.279395875802
+artist_id: ARDTPOC1241B9CE246
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ Phiene
+artist_playmeid: -1
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: 65e311f1b4bd799ce26f4e1b38771425
+bars_confidence: shape = (131,)
+bars_start: shape = (131,)
+beats_confidence: shape = (528,)
+beats_start: shape = (528,)
+danceability: 0.0
+duration: 190.22322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.024
+loudness: -3.547
+mode: 1
+mode_confidence: 0.43
+release: Da Grand Architek
+release_7digitalid: 563573
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (999,)
+segments_loudness_max: shape = (999,)
+segments_loudness_max_time: shape = (999,)
+segments_loudness_start: shape = (999,)
+segments_pitches: shape = (999, 12)
+segments_start: shape = (999,)
+segments_timbre: shape = (999, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOMMGDG12AB018376F
+start_of_fade_out: 190.223
+tatums_confidence: shape = (1056,)
+tatums_start: shape = (1056,)
+tempo: 165.048
+time_signature: 4
+time_signature_confidence: 0.265
+title: Thump Thump Da Box
+track_7digitalid: 6237891
+track_id: TRAZJSJ128F9354A01
+year: 0

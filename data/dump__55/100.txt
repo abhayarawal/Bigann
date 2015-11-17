@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9718
+artist_familiarity: 0.726298027446
+artist_hotttnesss: 0.555414575816
+artist_id: AR7Y6JX1187FB4D9B3
+artist_latitude: nan
+artist_location: Washington, D.C.
+artist_longitude: nan
+artist_mbid: e919b253-da5b-4aae-a444-6a368376a2d6
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Bad Brains
+artist_playmeid: 6595
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: d5fdbbea3e164b92c6ec63537f66aa7f
+bars_confidence: shape = (72,)
+bars_start: shape = (72,)
+beats_confidence: shape = (292,)
+beats_start: shape = (292,)
+danceability: 0.0
+duration: 136.38485
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.0
+loudness: -9.233
+mode: 0
+mode_confidence: 0.0
+release: Rock For Light
+release_7digitalid: 160699
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (427,)
+segments_loudness_max: shape = (427,)
+segments_loudness_max_time: shape = (427,)
+segments_loudness_start: shape = (427,)
+segments_pitches: shape = (427, 12)
+segments_start: shape = (427,)
+segments_timbre: shape = (427, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPNTAR12A6D4F7B7D
+start_of_fade_out: 131.338
+tatums_confidence: shape = (877,)
+tatums_start: shape = (877,)
+tempo: 127.157
+time_signature: 4
+time_signature_confidence: 0.0
+title: At The Movies (1991 Digital Remaster)
+track_7digitalid: 1696286
+track_id: TRATBWX128F427D343
+year: 1983

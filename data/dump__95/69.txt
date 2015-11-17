@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 34508
+artist_familiarity: 0.600274910298
+artist_hotttnesss: 0.413159858773
+artist_id: ARSSR8L1187B990BC5
+artist_latitude: 50.67109
+artist_location: Isle of Wight, England
+artist_longitude: -1.32524
+artist_mbid: cea6cb45-d685-4917-90bf-482b656f4cf8
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Joey Negro
+artist_playmeid: 5604
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: dedfa6a0e76afa9a00f321d0aed3693f
+bars_confidence: shape = (286,)
+bars_start: shape = (286,)
+beats_confidence: shape = (1150,)
+beats_start: shape = (1150,)
+danceability: 0.0
+duration: 535.69261
+end_of_fade_in: 2.026
+energy: 0.0
+key: 1
+key_confidence: 0.629
+loudness: -6.983
+mode: 1
+mode_confidence: 0.573
+release: The Very Best Of Euphoric Dance Breakdown
+release_7digitalid: 208420
+sections_confidence: shape = (22,)
+sections_start: shape = (22,)
+segments_confidence: shape = (2374,)
+segments_loudness_max: shape = (2374,)
+segments_loudness_max_time: shape = (2374,)
+segments_loudness_start: shape = (2374,)
+segments_pitches: shape = (2374, 12)
+segments_start: shape = (2374,)
+segments_timbre: shape = (2374, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.224314282108
+song_id: SOKDVVW12A67ADD8AD
+start_of_fade_out: 525.549
+tatums_confidence: shape = (2301,)
+tatums_start: shape = (2301,)
+tempo: 128.319
+time_signature: 4
+time_signature_confidence: 0.809
+title: Make A Move On Me
+track_7digitalid: 2259575
+track_id: TRBGYVK128F426A0D6
+year: 2005

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 94432
+artist_familiarity: 0.406467436478
+artist_hotttnesss: 0.301570181792
+artist_id: ARHXWB01187B9A205C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 477597d4-c13d-4d8c-854b-e97d73ea87df
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jean Gabin
+artist_playmeid: 98286
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: fd52cfef16dd3e470f000e076fd47749
+bars_confidence: shape = (67,)
+bars_start: shape = (67,)
+beats_confidence: shape = (288,)
+beats_start: shape = (288,)
+danceability: 0.0
+duration: 193.27955
+end_of_fade_in: 0.073
+energy: 0.0
+key: 7
+key_confidence: 0.334
+loudness: -10.499
+mode: 1
+mode_confidence: 0.294
+release: The Greatest Hits from 40's and 50's_ Vol. 28
+release_7digitalid: 803126
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (567,)
+segments_loudness_max: shape = (567,)
+segments_loudness_max_time: shape = (567,)
+segments_loudness_start: shape = (567,)
+segments_pitches: shape = (567, 12)
+segments_start: shape = (567,)
+segments_timbre: shape = (567, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOEBRRS12AB0184BDC
+start_of_fade_out: 185.574
+tatums_confidence: shape = (575,)
+tatums_start: shape = (575,)
+tempo: 88.915
+time_signature: 4
+time_signature_confidence: 0.258
+title: C'est moi le mari
+track_7digitalid: 8877977
+track_id: TRAHSRU12903CBBA9F
+year: 0

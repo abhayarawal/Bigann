@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2847
+artist_familiarity: 0.487124953029
+artist_hotttnesss: 0.338800176123
+artist_id: AREE69X1187FB438D6
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a4e14b84-be3f-4cf3-a0d5-54c3c8c4089b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cannon's Jug Stompers
+artist_playmeid: 32655
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: d596ba4a299295ba90d2059f99fe1f71
+bars_confidence: shape = (426,)
+bars_start: shape = (426,)
+beats_confidence: shape = (426,)
+beats_start: shape = (426,)
+danceability: 0.0
+duration: 186.64444
+end_of_fade_in: 0.131
+energy: 0.0
+key: 11
+key_confidence: 0.849
+loudness: -14.897
+mode: 1
+mode_confidence: 0.698
+release: The Best Of Cannon's Jug Stompers
+release_7digitalid: 597425
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (675,)
+segments_loudness_max: shape = (675,)
+segments_loudness_max_time: shape = (675,)
+segments_loudness_start: shape = (675,)
+segments_pitches: shape = (675, 12)
+segments_start: shape = (675,)
+segments_timbre: shape = (675, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOBQGC12AC468CEAA
+start_of_fade_out: 179.67
+tatums_confidence: shape = (851,)
+tatums_start: shape = (851,)
+tempo: 139.606
+time_signature: 1
+time_signature_confidence: 0.258
+title: Heart Breakin' Blues
+track_7digitalid: 6630720
+track_id: TRARDCR12903CE6FBE
+year: 0

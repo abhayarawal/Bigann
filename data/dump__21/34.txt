@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9888
+artist_familiarity: 0.578302605134
+artist_hotttnesss: 0.431242181589
+artist_id: ARWZE8O1187B9B8480
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: e2c7d7a5-b520-4232-b7cf-aaceead17b6c
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Elmer Bernstein
+artist_playmeid: 8067
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: bf6afad12c067ba089cf4f2e8e25d062
+bars_confidence: shape = (61,)
+bars_start: shape = (61,)
+beats_confidence: shape = (315,)
+beats_start: shape = (315,)
+danceability: 0.0
+duration: 231.67955
+end_of_fade_in: 0.334
+energy: 0.0
+key: 2
+key_confidence: 0.85
+loudness: -19.583
+mode: 1
+mode_confidence: 0.471
+release: My Left Foot
+release_7digitalid: 63881
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (562,)
+segments_loudness_max: shape = (562,)
+segments_loudness_max_time: shape = (562,)
+segments_loudness_start: shape = (562,)
+segments_pitches: shape = (562, 12)
+segments_start: shape = (562,)
+segments_timbre: shape = (562, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYIRYT12A6D4F9B3E
+start_of_fade_out: 220.009
+tatums_confidence: shape = (947,)
+tatums_start: shape = (947,)
+tempo: 83.255
+time_signature: 5
+time_signature_confidence: 1.0
+title: Drown The Dog!
+track_7digitalid: 662905
+track_id: TRAHGCI128F14ACB7D
+year: 0

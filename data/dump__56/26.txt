@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 190715
+artist_familiarity: 0.57070446927
+artist_hotttnesss: 0.394921730676
+artist_id: ARS10A81187B9B6E16
+artist_latitude: 41.88415
+artist_location: CHICAGO, Illinois
+artist_longitude: -87.63241
+artist_mbid: ed7156ee-07da-484b-b5a5-be322afa1a34
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Art Ensemble Of Chicago
+artist_playmeid: 41759
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 6d719829f6c49851877122e26de0aafe
+bars_confidence: shape = (104,)
+bars_start: shape = (104,)
+beats_confidence: shape = (330,)
+beats_start: shape = (330,)
+danceability: 0.0
+duration: 207.09832
+end_of_fade_in: 0.201
+energy: 0.0
+key: 4
+key_confidence: 0.053
+loudness: -12.326
+mode: 1
+mode_confidence: 0.343
+release: Sirius Calling
+release_7digitalid: 517215
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (735,)
+segments_loudness_max: shape = (735,)
+segments_loudness_max_time: shape = (735,)
+segments_loudness_start: shape = (735,)
+segments_pitches: shape = (735, 12)
+segments_start: shape = (735,)
+segments_timbre: shape = (735, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORAHIC12AB0185506
+start_of_fade_out: 198.658
+tatums_confidence: shape = (660,)
+tatums_start: shape = (660,)
+tempo: 96.411
+time_signature: 3
+time_signature_confidence: 0.903
+title: Sirius Calling
+track_7digitalid: 5725458
+track_id: TRATESS128F934DA9F
+year: 2004

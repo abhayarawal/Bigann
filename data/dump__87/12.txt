@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 570614
+artist_familiarity: 0.412544629931
+artist_hotttnesss: 0.353290289769
+artist_id: ARKJJZN1187B9AFC88
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f07c41f1-7743-4bd7-9575-da9af88ddb98
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Taal
+artist_playmeid: -1
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 6c74b16b370f76833a895d48549d8c01
+bars_confidence: shape = (14,)
+bars_start: shape = (14,)
+beats_confidence: shape = (62,)
+beats_start: shape = (62,)
+danceability: 0.0
+duration: 17.73669
+end_of_fade_in: 0.09
+energy: 0.0
+key: 0
+key_confidence: 0.007
+loudness: -38.148
+mode: 1
+mode_confidence: 0.171
+release: Mister Green
+release_7digitalid: 763657
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (63,)
+segments_loudness_max: shape = (63,)
+segments_loudness_max_time: shape = (63,)
+segments_loudness_start: shape = (63,)
+segments_pitches: shape = (63, 12)
+segments_start: shape = (63,)
+segments_timbre: shape = (63, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAPOVV12AB018CFC8
+start_of_fade_out: 17.737
+tatums_confidence: shape = (62,)
+tatums_start: shape = (62,)
+tempo: 219.569
+time_signature: 4
+time_signature_confidence: 0.0
+title: Noises
+track_7digitalid: 8455854
+track_id: TRBDXLZ12903CC8988
+year: 2000

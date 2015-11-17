@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 400428
+artist_familiarity: 0.385340538313
+artist_hotttnesss: 0.319817386072
+artist_id: AROYTOV1187FB4C7F8
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 57f3b8e9-714f-4332-9031-253a6db08def
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Robin Beanland
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 3cd0d7b22b05c8523c0bd8acad6fed8c
+bars_confidence: shape = (276,)
+bars_start: shape = (276,)
+beats_confidence: shape = (276,)
+beats_start: shape = (276,)
+danceability: 0.0
+duration: 140.7473
+end_of_fade_in: 0.131
+energy: 0.0
+key: 10
+key_confidence: 0.034
+loudness: -18.002
+mode: 0
+mode_confidence: 0.31
+release: Banjo-Kazooie: Nuts And Bolts (Original Soundtrack)
+release_7digitalid: 541924
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (502,)
+segments_loudness_max: shape = (502,)
+segments_loudness_max_time: shape = (502,)
+segments_loudness_start: shape = (502,)
+segments_pitches: shape = (502, 12)
+segments_start: shape = (502,)
+segments_timbre: shape = (502, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOJPCYV12AB017C9D3
+start_of_fade_out: 125.742
+tatums_confidence: shape = (552,)
+tatums_start: shape = (552,)
+tempo: 120.02
+time_signature: 1
+time_signature_confidence: 0.0
+title: Test Of The Terrarium
+track_7digitalid: 5999590
+track_id: TRASMVX128F931AC3C
+year: 0

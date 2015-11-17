@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 123275
+artist_familiarity: 0.547801656047
+artist_hotttnesss: 0.36947051062
+artist_id: ARKO7AO1187FB5664B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7a4311d2-5f0e-40df-b03d-ac4a5465b236
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Tin Hat Trio
+artist_playmeid: 61977
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: e30c343bf9ab15c3d9c6a436ceda0674
+bars_confidence: shape = (57,)
+bars_start: shape = (57,)
+beats_confidence: shape = (57,)
+beats_start: shape = (57,)
+danceability: 0.0
+duration: 44.59057
+end_of_fade_in: 0.52
+energy: 0.0
+key: 0
+key_confidence: 0.209
+loudness: -15.406
+mode: 1
+mode_confidence: 0.402
+release: Helium
+release_7digitalid: 160733
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (232,)
+segments_loudness_max: shape = (232,)
+segments_loudness_max_time: shape = (232,)
+segments_loudness_start: shape = (232,)
+segments_pitches: shape = (232, 12)
+segments_start: shape = (232,)
+segments_timbre: shape = (232, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.456949543537
+song_id: SOXHSRQ12A8C13C56F
+start_of_fade_out: 44.591
+tatums_confidence: shape = (287,)
+tatums_start: shape = (287,)
+tempo: 86.826
+time_signature: 1
+time_signature_confidence: 0.0
+title: Scrap
+track_7digitalid: 1697071
+track_id: TRBADGD128F427D654
+year: 2000

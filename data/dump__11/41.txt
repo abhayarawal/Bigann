@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 78095
+artist_familiarity: 0.588117649664
+artist_hotttnesss: 0.378106965104
+artist_id: ARS26BQ1187B99466D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a03c336b-5295-4ad8-baa9-0309b47603c4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Spieluhrmelodien
+artist_playmeid: 113977
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 2903d17164b4e83784628f7ec52b4b53
+bars_confidence: shape = (50,)
+bars_start: shape = (50,)
+beats_confidence: shape = (203,)
+beats_start: shape = (203,)
+danceability: 0.0
+duration: 131.94404
+end_of_fade_in: 1.036
+energy: 0.0
+key: 2
+key_confidence: 0.0
+loudness: -10.823
+mode: 1
+mode_confidence: 0.0
+release: Zeigt Her Eure Füsse
+release_7digitalid: 170716
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (372,)
+segments_loudness_max: shape = (372,)
+segments_loudness_max_time: shape = (372,)
+segments_loudness_start: shape = (372,)
+segments_pitches: shape = (372, 12)
+segments_start: shape = (372,)
+segments_timbre: shape = (372, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOCKIPC12A8C13F0C0
+start_of_fade_out: 118.59
+tatums_confidence: shape = (405,)
+tatums_start: shape = (405,)
+tempo: 94.977
+time_signature: 4
+time_signature_confidence: 0.893
+title: Zeigt her eure Füße
+track_7digitalid: 1814035
+track_id: TRADTTI128F4295512
+year: 0

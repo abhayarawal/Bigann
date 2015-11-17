@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4451
+artist_familiarity: 0.674088297488
+artist_hotttnesss: 0.430321317531
+artist_id: ARRTQ3Y1187B9AC835
+artist_latitude: 36.97402
+artist_location: Santa Cruz, CA
+artist_longitude: -122.03095
+artist_mbid: 3b709eac-a251-4cc8-8259-4b379c4b9331
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Scott Weiland
+artist_playmeid: 78762
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 107e148204893768a424886ae9ec535c
+bars_confidence: shape = (152,)
+bars_start: shape = (152,)
+beats_confidence: shape = (619,)
+beats_start: shape = (619,)
+danceability: 0.0
+duration: 321.01832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.0
+loudness: -5.328
+mode: 1
+mode_confidence: 0.194
+release: 12 Bar Blues
+release_7digitalid: 659225
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (935,)
+segments_loudness_max: shape = (935,)
+segments_loudness_max_time: shape = (935,)
+segments_loudness_start: shape = (935,)
+segments_pitches: shape = (935, 12)
+segments_start: shape = (935,)
+segments_timbre: shape = (935, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.492713639573
+song_id: SODWTYQ12AB018A257
+start_of_fade_out: 321.018
+tatums_confidence: shape = (1238,)
+tatums_start: shape = (1238,)
+tempo: 112.68
+time_signature: 4
+time_signature_confidence: 0.625
+title: The Date ( LP Version )
+track_7digitalid: 7304818
+track_id: TRALTTR12903C9E32E
+year: 1998

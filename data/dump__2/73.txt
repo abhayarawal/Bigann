@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18214
+artist_familiarity: 0.386291901042
+artist_hotttnesss: 0.367639870555
+artist_id: ARPPURC1187B990FB7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 642e61c8-878c-4a7c-84e2-2a8a384a8f8e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bert Kaempfert And His Orchestra
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 18f6e68ef35f423154d86aefeb6e2a33
+bars_confidence: shape = (280,)
+bars_start: shape = (280,)
+beats_confidence: shape = (280,)
+beats_start: shape = (280,)
+danceability: 0.0
+duration: 163.76118
+end_of_fade_in: 3.286
+energy: 0.0
+key: 0
+key_confidence: 0.377
+loudness: -10.328
+mode: 1
+mode_confidence: 0.395
+release: Love That Bert Kaempfert
+release_7digitalid: 47335
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (460,)
+segments_loudness_max: shape = (460,)
+segments_loudness_max_time: shape = (460,)
+segments_loudness_start: shape = (460,)
+segments_pitches: shape = (460, 12)
+segments_start: shape = (460,)
+segments_timbre: shape = (460, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHGAJH12A6D4F8F58
+start_of_fade_out: 157.994
+tatums_confidence: shape = (561,)
+tatums_start: shape = (561,)
+tempo: 105.181
+time_signature: 1
+time_signature_confidence: 0.0
+title: Just As Much As Ever
+track_7digitalid: 507422
+track_id: TRAAVDZ128F148C948
+year: 0

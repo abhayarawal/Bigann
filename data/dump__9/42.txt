@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 350459
+artist_familiarity: 0.431082532303
+artist_hotttnesss: 0.0
+artist_id: ARTLGXQ1269FB35910
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Aurélien Merle
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: bc4eabf0f65d6c6934da1f7b5ae82ae3
+bars_confidence: shape = (168,)
+bars_start: shape = (168,)
+beats_confidence: shape = (677,)
+beats_start: shape = (677,)
+danceability: 0.0
+duration: 286.85016
+end_of_fade_in: 18.442
+energy: 0.0
+key: 5
+key_confidence: 0.583
+loudness: -17.661
+mode: 1
+mode_confidence: 0.572
+release: Le Jeu des Balcons Mal Fermés
+release_7digitalid: 476948
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (918,)
+segments_loudness_max: shape = (918,)
+segments_loudness_max_time: shape = (918,)
+segments_loudness_start: shape = (918,)
+segments_pitches: shape = (918, 12)
+segments_start: shape = (918,)
+segments_timbre: shape = (918, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGGZNB12A8C142178
+start_of_fade_out: 261.027
+tatums_confidence: shape = (1354,)
+tatums_start: shape = (1354,)
+tempo: 150.032
+time_signature: 4
+time_signature_confidence: 0.538
+title: C'est Dimanche
+track_7digitalid: 5295711
+track_id: TRADCUZ128F92E6775
+year: 0

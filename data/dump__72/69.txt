@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4845
+artist_familiarity: 0.669371501935
+artist_hotttnesss: 0.566912407282
+artist_id: ARGKD4W1187B990E04
+artist_latitude: 33.71197
+artist_location: Lithonia, GA
+artist_longitude: -84.10599
+artist_mbid: 6ca4886a-8f77-4133-b404-46fb3908e24a
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Brenda Lee
+artist_playmeid: 3007
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: f73a9f17e5c4e5a5f86d48503920e2b9
+bars_confidence: shape = (127,)
+bars_start: shape = (127,)
+beats_confidence: shape = (384,)
+beats_start: shape = (384,)
+danceability: 0.0
+duration: 205.13914
+end_of_fade_in: 0.224
+energy: 0.0
+key: 2
+key_confidence: 0.571
+loudness: -12.992
+mode: 1
+mode_confidence: 0.732
+release: Brenda Lee
+release_7digitalid: 176456
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (589,)
+segments_loudness_max: shape = (589,)
+segments_loudness_max_time: shape = (589,)
+segments_loudness_start: shape = (589,)
+segments_pitches: shape = (589, 12)
+segments_start: shape = (589,)
+segments_timbre: shape = (589, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVGRXC12A6D4F94A8
+start_of_fade_out: 189.69
+tatums_confidence: shape = (767,)
+tatums_start: shape = (767,)
+tempo: 118.297
+time_signature: 3
+time_signature_confidence: 1.0
+title: Against My Will (LP Version)
+track_7digitalid: 1898671
+track_id: TRAYWSL128F4222D80
+year: 1960

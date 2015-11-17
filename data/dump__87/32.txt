@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 289256
+artist_familiarity: 0.496244736606
+artist_hotttnesss: 0.304743659539
+artist_id: ARWGY6U1187B98B228
+artist_latitude: 21.51102
+artist_location: Cuba
+artist_longitude: -77.80679
+artist_mbid: e09db85d-2de6-41e1-a856-d131089ab49d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Orquesta Sublime
+artist_playmeid: 144244
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: aac8caf3222cc21ad1109df2b0164cb6
+bars_confidence: shape = (361,)
+bars_start: shape = (361,)
+beats_confidence: shape = (361,)
+beats_start: shape = (361,)
+danceability: 0.0
+duration: 184.00608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.023
+loudness: -4.395
+mode: 0
+mode_confidence: 0.226
+release: Sabroso Como El Guarapo (Digitally Remastered)
+release_7digitalid: 649799
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (729,)
+segments_loudness_max: shape = (729,)
+segments_loudness_max_time: shape = (729,)
+segments_loudness_start: shape = (729,)
+segments_pitches: shape = (729, 12)
+segments_start: shape = (729,)
+segments_timbre: shape = (729, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVKXYA12AB0188679
+start_of_fade_out: 181.563
+tatums_confidence: shape = (721,)
+tatums_start: shape = (721,)
+tempo: 118.656
+time_signature: 1
+time_signature_confidence: 0.506
+title: Tras La Reja
+track_7digitalid: 7197609
+track_id: TRBDZPG128F9355D41
+year: 0

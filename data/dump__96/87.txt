@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11422
+artist_familiarity: 0.821697316739
+artist_hotttnesss: 0.60172975571
+artist_id: ARXSABJ1187FB3C336
+artist_latitude: nan
+artist_location: Sacramento, CA
+artist_longitude: nan
+artist_mbid: 7527f6c2-d762-4b88-b5e2-9244f1e34c46
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Deftones
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 5708a7ee758813e13cf43a401a4d240d
+bars_confidence: shape = (227,)
+bars_start: shape = (227,)
+beats_confidence: shape = (914,)
+beats_start: shape = (914,)
+danceability: 0.0
+duration: 334.75873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.006
+loudness: -6.893
+mode: 0
+mode_confidence: 0.386
+release: B-Sides & Rarities
+release_7digitalid: 20137
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1471,)
+segments_loudness_max: shape = (1471,)
+segments_loudness_max_time: shape = (1471,)
+segments_loudness_start: shape = (1471,)
+segments_pitches: shape = (1471, 12)
+segments_start: shape = (1471,)
+segments_timbre: shape = (1471, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.658851937892
+song_id: SONCELS12A58A7D2A7
+start_of_fade_out: 310.578
+tatums_confidence: shape = (1828,)
+tatums_start: shape = (1828,)
+tempo: 166.03
+time_signature: 4
+time_signature_confidence: 0.0
+title: No Ordinary Love (Remastered LP Version)
+track_7digitalid: 210055
+track_id: TRBHIRB128F1452ACC
+year: 2005

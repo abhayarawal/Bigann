@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 176248
+artist_familiarity: 0.608703568338
+artist_hotttnesss: 0.362218956815
+artist_id: AR7KA5V1187FB44E6B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7e5a0c3f-339a-4e5d-aed0-1946112b4a66
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Del McCoury Band
+artist_playmeid: 11415
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 23b75a5e4c6e6ab14accbe5bb263ed24
+bars_confidence: shape = (494,)
+bars_start: shape = (494,)
+beats_confidence: shape = (494,)
+beats_start: shape = (494,)
+danceability: 0.0
+duration: 234.16118
+end_of_fade_in: 0.148
+energy: 0.0
+key: 0
+key_confidence: 0.839
+loudness: -6.748
+mode: 1
+mode_confidence: 0.738
+release: The Company We Keep
+release_7digitalid: 757774
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1046,)
+segments_loudness_max: shape = (1046,)
+segments_loudness_max_time: shape = (1046,)
+segments_loudness_start: shape = (1046,)
+segments_pitches: shape = (1046, 12)
+segments_start: shape = (1046,)
+segments_timbre: shape = (1046, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.579938252066
+song_id: SOEFDUR12A8C14337A
+start_of_fade_out: 219.15
+tatums_confidence: shape = (988,)
+tatums_start: shape = (988,)
+tempo: 127.257
+time_signature: 1
+time_signature_confidence: 0.241
+title: She Can't Burn Me Now
+track_7digitalid: 8388196
+track_id: TRAXCZO12903CB819D
+year: 0

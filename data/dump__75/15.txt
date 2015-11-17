@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 176354
+artist_familiarity: 0.383073611764
+artist_hotttnesss: 0.0
+artist_id: AR22KZ51187B9A0A31
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 48991947-18af-4327-9e4c-c8e8e7c113c3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Five Fingers of Funk
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: e394e82c7e0d5282827998f9e8224ce7
+bars_confidence: shape = (322,)
+bars_start: shape = (322,)
+beats_confidence: shape = (322,)
+beats_start: shape = (322,)
+danceability: 0.0
+duration: 177.00526
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.393
+loudness: -9.999
+mode: 0
+mode_confidence: 0.419
+release: About Time
+release_7digitalid: 230859
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (799,)
+segments_loudness_max: shape = (799,)
+segments_loudness_max_time: shape = (799,)
+segments_loudness_start: shape = (799,)
+segments_pitches: shape = (799, 12)
+segments_start: shape = (799,)
+segments_timbre: shape = (799, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.224832032611
+song_id: SOMSMYI12A58A7C1EA
+start_of_fade_out: 171.654
+tatums_confidence: shape = (967,)
+tatums_start: shape = (967,)
+tempo: 111.924
+time_signature: 1
+time_signature_confidence: 0.727
+title: Let It Flow (Feat. Gauran-T and Freaky Frederali)
+track_7digitalid: 2530326
+track_id: TRAZRES128F4222850
+year: 1998

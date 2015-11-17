@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 26362
+artist_familiarity: 0.604479006972
+artist_hotttnesss: 0.390489535122
+artist_id: ARNLW7H1187B99EC9D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9c7fa325-d654-46e7-a122-076aa5dd0a51
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Trick Trick / Obie Trice
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 508119475983e2d11297c49f5a30449c
+bars_confidence: shape = (197,)
+bars_start: shape = (197,)
+beats_confidence: shape = (791,)
+beats_start: shape = (791,)
+danceability: 0.0
+duration: 266.78812
+end_of_fade_in: 0.206
+energy: 0.0
+key: 10
+key_confidence: 0.055
+loudness: -6.858
+mode: 0
+mode_confidence: 0.199
+release: The People Vs.
+release_7digitalid: 312458
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1206,)
+segments_loudness_max: shape = (1206,)
+segments_loudness_max_time: shape = (1206,)
+segments_loudness_start: shape = (1206,)
+segments_pitches: shape = (1206, 12)
+segments_start: shape = (1206,)
+segments_timbre: shape = (1206, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.286560083567
+song_id: SOYJNAI12A8C14150D
+start_of_fade_out: 262.229
+tatums_confidence: shape = (1583,)
+tatums_start: shape = (1583,)
+tempo: 180.02
+time_signature: 4
+time_signature_confidence: 0.856
+title: War
+track_7digitalid: 3523215
+track_id: TRBGYQN128F42BAA17
+year: 2005

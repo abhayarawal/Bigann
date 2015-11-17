@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 97582
+artist_familiarity: 0.411904977888
+artist_hotttnesss: 0.354996925712
+artist_id: ARG4K2W1187B99EA5D
+artist_latitude: 38.00335
+artist_location: Virginia
+artist_longitude: -79.77127
+artist_mbid: 08a8ff71-ff55-46ad-8578-5a46d60184de
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Charles Aznavour
+artist_playmeid: 83631
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: cdd04f2818f747ea4216682099621751
+bars_confidence: shape = (48,)
+bars_start: shape = (48,)
+beats_confidence: shape = (249,)
+beats_start: shape = (249,)
+danceability: 0.0
+duration: 147.77424
+end_of_fade_in: 0.322
+energy: 0.0
+key: 5
+key_confidence: 0.091
+loudness: -10.819
+mode: 1
+mode_confidence: 0.306
+release: C'est Ça
+release_7digitalid: 69622
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (426,)
+segments_loudness_max: shape = (426,)
+segments_loudness_max_time: shape = (426,)
+segments_loudness_start: shape = (426,)
+segments_pitches: shape = (426, 12)
+segments_start: shape = (426,)
+segments_timbre: shape = (426, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.345802233965
+song_id: SOAKDLX12A67ADAFC5
+start_of_fade_out: 142.251
+tatums_confidence: shape = (498,)
+tatums_start: shape = (498,)
+tempo: 100.618
+time_signature: 5
+time_signature_confidence: 0.334
+title: Tant Que L'on S'aimera
+track_7digitalid: 728955
+track_id: TRAVBSQ128EF344B3C
+year: 0

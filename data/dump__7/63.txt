@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8583
+artist_familiarity: 0.574300068277
+artist_hotttnesss: 0.375593582585
+artist_id: ARTDUXM1187B9899ED
+artist_latitude: 32.33112
+artist_location: Edwards, MS
+artist_longitude: -90.60536
+artist_mbid: c71b4f57-29da-4bf2-bccb-9dc81cd2d905
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Charley Patton
+artist_playmeid: 17678
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: ec395991829475e78a540fd1e151c11f
+bars_confidence: shape = (342,)
+bars_start: shape = (342,)
+beats_confidence: shape = (342,)
+beats_start: shape = (342,)
+danceability: 0.0
+duration: 196.62322
+end_of_fade_in: 0.171
+energy: 0.0
+key: 10
+key_confidence: 0.346
+loudness: -15.164
+mode: 1
+mode_confidence: 0.343
+release: Essential Delta Blues
+release_7digitalid: 688952
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (668,)
+segments_loudness_max: shape = (668,)
+segments_loudness_max_time: shape = (668,)
+segments_loudness_start: shape = (668,)
+segments_pitches: shape = (668, 12)
+segments_start: shape = (668,)
+segments_timbre: shape = (668, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFLCWE12AC468C2B2
+start_of_fade_out: 190.572
+tatums_confidence: shape = (685,)
+tatums_start: shape = (685,)
+tempo: 107.877
+time_signature: 1
+time_signature_confidence: 0.0
+title: Moon Going Down
+track_7digitalid: 7647278
+track_id: TRACMPZ12903CF150B
+year: 1930

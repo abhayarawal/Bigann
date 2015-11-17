@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2995
+artist_familiarity: 0.421960437311
+artist_hotttnesss: 0.232748678347
+artist_id: ARLNSD41187FB4D9A0
+artist_latitude: 42.50382
+artist_location: Italy
+artist_longitude: 12.57347
+artist_mbid: 9230c25a-8812-4f16-b963-734729229d39
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sergio Franchi
+artist_playmeid: 17642
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: b10ea8ebb322d8bfb4d5ca2ec802d92b
+bars_confidence: shape = (94,)
+bars_start: shape = (94,)
+beats_confidence: shape = (388,)
+beats_start: shape = (388,)
+danceability: 0.0
+duration: 199.73179
+end_of_fade_in: 0.067
+energy: 0.0
+key: 5
+key_confidence: 0.442
+loudness: -13.148
+mode: 1
+mode_confidence: 0.508
+release: I Giovani Assi Della Fisarmonica
+release_7digitalid: 224131
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (915,)
+segments_loudness_max: shape = (915,)
+segments_loudness_max_time: shape = (915,)
+segments_loudness_start: shape = (915,)
+segments_pitches: shape = (915, 12)
+segments_start: shape = (915,)
+segments_timbre: shape = (915, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.250921416085
+song_id: SOFRDRA12A8C1419D9
+start_of_fade_out: 197.526
+tatums_confidence: shape = (777,)
+tatums_start: shape = (777,)
+tempo: 118.137
+time_signature: 4
+time_signature_confidence: 0.093
+title: Cuore Appassionato
+track_7digitalid: 2461985
+track_id: TRAQRAM128F4296694
+year: 0

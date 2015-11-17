@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15556
+artist_familiarity: 0.629186017122
+artist_hotttnesss: 0.361483732792
+artist_id: AREAEX91187B98DC01
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ad8648f9-95ca-4fc1-bc19-9cee86e468d3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gaither Vocal Band
+artist_playmeid: 61337
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: e6aa0834423e37eac3b8b8c5a9eb5801
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (404,)
+beats_start: shape = (404,)
+danceability: 0.0
+duration: 200.14975
+end_of_fade_in: 0.194
+energy: 0.0
+key: 9
+key_confidence: 1.0
+loudness: -5.564
+mode: 1
+mode_confidence: 0.709
+release: Everything Good
+release_7digitalid: 163975
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (664,)
+segments_loudness_max: shape = (664,)
+segments_loudness_max_time: shape = (664,)
+segments_loudness_start: shape = (664,)
+segments_pitches: shape = (664, 12)
+segments_start: shape = (664,)
+segments_timbre: shape = (664, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMBASS12A58A7B09E
+start_of_fade_out: 197.979
+tatums_confidence: shape = (808,)
+tatums_start: shape = (808,)
+tempo: 122.015
+time_signature: 4
+time_signature_confidence: 0.835
+title: Everything Good (Everything Good Version)
+track_7digitalid: 1737497
+track_id: TRBDILQ128F4286CC3
+year: 0

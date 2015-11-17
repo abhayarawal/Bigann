@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20072
+artist_familiarity: 0.687478318449
+artist_hotttnesss: 0.516234384084
+artist_id: ARGEZ5E1187FB56F38
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f12a9472-02be-40f4-9ff3-a836e2b9ece8
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Audio Adrenaline
+artist_playmeid: 61785
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: fac5a9572b9609348fb69fd574849e4e
+bars_confidence: shape = (82,)
+bars_start: shape = (82,)
+beats_confidence: shape = (333,)
+beats_start: shape = (333,)
+danceability: 0.0
+duration: 229.01506
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.492
+loudness: -4.774
+mode: 0
+mode_confidence: 0.389
+release: Hit Parade: The Greatest Hits
+release_7digitalid: 150911
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (798,)
+segments_loudness_max: shape = (798,)
+segments_loudness_max_time: shape = (798,)
+segments_loudness_start: shape = (798,)
+segments_pitches: shape = (798, 12)
+segments_start: shape = (798,)
+segments_timbre: shape = (798, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.268165186485
+song_id: SOWDBUH12A8C138B73
+start_of_fade_out: 225.553
+tatums_confidence: shape = (1332,)
+tatums_start: shape = (1332,)
+tempo: 87.899
+time_signature: 4
+time_signature_confidence: 0.862
+title: Will Not Fade  (Hit Parade Album Version (new Song))
+track_7digitalid: 1575487
+track_id: TRAFQVV128F4260033
+year: 0

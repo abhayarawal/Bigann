@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 165320
+artist_familiarity: 0.338383263148
+artist_hotttnesss: 0.277753672346
+artist_id: ARPMJGA11F4C83BDFE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: US Coast Guard Band
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 168a5c05bc50bd6e765ee82030f241a5
+bars_confidence: shape = (49,)
+bars_start: shape = (49,)
+beats_confidence: shape = (198,)
+beats_start: shape = (198,)
+danceability: 0.0
+duration: 106.16118
+end_of_fade_in: 0.703
+energy: 0.0
+key: 10
+key_confidence: 0.384
+loudness: -16.657
+mode: 1
+mode_confidence: 0.307
+release: Liberty For All!
+release_7digitalid: 218766
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (327,)
+segments_loudness_max: shape = (327,)
+segments_loudness_max_time: shape = (327,)
+segments_loudness_start: shape = (327,)
+segments_pitches: shape = (327, 12)
+segments_start: shape = (327,)
+segments_timbre: shape = (327, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKNLLQ12A8C13F42B
+start_of_fade_out: 96.839
+tatums_confidence: shape = (396,)
+tatums_start: shape = (396,)
+tempo: 120.317
+time_signature: 4
+time_signature_confidence: 0.0
+title: Fanfare For Freedom
+track_7digitalid: 2385960
+track_id: TRAHTPW128F4285343
+year: 0

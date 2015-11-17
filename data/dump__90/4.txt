@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4549
+artist_familiarity: 0.830252261722
+artist_hotttnesss: 0.507965802159
+artist_id: ARYO9BU1187B9ADA88
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 169c4c28-858e-497b-81a4-8bc15e0026ea
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Porcupine Tree
+artist_playmeid: 9392
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 94fbc71725acaa65a44bc9ca448a367b
+bars_confidence: shape = (373,)
+bars_start: shape = (373,)
+beats_confidence: shape = (1121,)
+beats_start: shape = (1121,)
+danceability: 0.0
+duration: 441.88689
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.705
+loudness: -5.94
+mode: 1
+mode_confidence: 0.532
+release: In Absentia
+release_7digitalid: 124129
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1191,)
+segments_loudness_max: shape = (1191,)
+segments_loudness_max_time: shape = (1191,)
+segments_loudness_start: shape = (1191,)
+segments_pitches: shape = (1191, 12)
+segments_start: shape = (1191,)
+segments_timbre: shape = (1191, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.863477373663
+song_id: SOCXOJF12A6D4FCD91
+start_of_fade_out: 420.513
+tatums_confidence: shape = (2242,)
+tatums_start: shape = (2242,)
+tempo: 154.24
+time_signature: 3
+time_signature_confidence: 0.909
+title: Strip The Soul (album version)
+track_7digitalid: 1281346
+track_id: TRBFBAB128F4227B85
+year: 2002

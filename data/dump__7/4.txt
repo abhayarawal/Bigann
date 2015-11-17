@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 391
+artist_familiarity: 0.40737228057
+artist_hotttnesss: 0.482486802139
+artist_id: AR1VWD91187FB4CE99
+artist_latitude: 54.97791
+artist_location: Newcastle
+artist_longitude: -1.61237
+artist_mbid: 4d8afa16-4018-4ca8-8b5e-ede8f9314562
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: The Animals_ Sonny Boy Williamson
+artist_playmeid: 44693
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: d36d3fe9e27b1d4386b463e90461e198
+bars_confidence: shape = (205,)
+bars_start: shape = (205,)
+beats_confidence: shape = (620,)
+beats_start: shape = (620,)
+danceability: 0.0
+duration: 463.49016
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.124
+loudness: -9.492
+mode: 1
+mode_confidence: 0.48
+release: The Animals with Sonny Boy Williamson
+release_7digitalid: 759910
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1620,)
+segments_loudness_max: shape = (1620,)
+segments_loudness_max_time: shape = (1620,)
+segments_loudness_start: shape = (1620,)
+segments_pitches: shape = (1620, 12)
+segments_start: shape = (1620,)
+segments_timbre: shape = (1620, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.288481642656
+song_id: SOOCWAO12AB01852C1
+start_of_fade_out: 457.236
+tatums_confidence: shape = (1860,)
+tatums_start: shape = (1860,)
+tempo: 81.111
+time_signature: 3
+time_signature_confidence: 1.0
+title: Bo Diddley
+track_7digitalid: 8413829
+track_id: TRACHTO12903CBE58B
+year: 1973

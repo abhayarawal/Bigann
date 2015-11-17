@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 44333
+artist_familiarity: 0.616453999652
+artist_hotttnesss: 0.458400493994
+artist_id: AR41O131187FB51448
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e6e600e1-1597-4301-9f0f-158ecab5bf43
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ Isaac
+artist_playmeid: 89161
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: d7eab9d55465c973b60b878d4d8389f6
+bars_confidence: shape = (123,)
+bars_start: shape = (123,)
+beats_confidence: shape = (495,)
+beats_start: shape = (495,)
+danceability: 0.0
+duration: 599.24853
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.718
+loudness: -3.674
+mode: 1
+mode_confidence: 0.569
+release: Best Of Dwarf Records
+release_7digitalid: 687611
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1308,)
+segments_loudness_max: shape = (1308,)
+segments_loudness_max_time: shape = (1308,)
+segments_loudness_start: shape = (1308,)
+segments_pitches: shape = (1308, 12)
+segments_start: shape = (1308,)
+segments_timbre: shape = (1308, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPAGGN12AC468D06E
+start_of_fade_out: 599.249
+tatums_confidence: shape = (1982,)
+tatums_start: shape = (1982,)
+tempo: 94.535
+time_signature: 4
+time_signature_confidence: 0.6
+title: Hardcore From The Underland
+track_7digitalid: 7633560
+track_id: TRBACFH12903CEDFBC
+year: 0

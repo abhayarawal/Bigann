@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 289
+artist_familiarity: 0.839297677568
+artist_hotttnesss: 0.71889145567
+artist_id: ARDVZTE1187FB5A0A1
+artist_latitude: nan
+artist_location: Sayreville, NJ
+artist_longitude: nan
+artist_mbid: 5dcdb5eb-cb72-4e6e-9e63-b7bace604965
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Bon Jovi
+artist_playmeid: 827
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 0f57fdc74ffff7cab718d772fc41960e
+bars_confidence: shape = (189,)
+bars_start: shape = (189,)
+beats_confidence: shape = (627,)
+beats_start: shape = (627,)
+danceability: 0.0
+duration: 432.97914
+end_of_fade_in: 2.09
+energy: 0.0
+key: 8
+key_confidence: 0.495
+loudness: -7.984
+mode: 1
+mode_confidence: 0.612
+release: These Days- Special Edition
+release_7digitalid: 814897
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1001,)
+segments_loudness_max: shape = (1001,)
+segments_loudness_max_time: shape = (1001,)
+segments_loudness_start: shape = (1001,)
+segments_pitches: shape = (1001, 12)
+segments_start: shape = (1001,)
+segments_timbre: shape = (1001, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFZXTF12AB018D64B
+start_of_fade_out: 420.705
+tatums_confidence: shape = (1253,)
+tatums_start: shape = (1253,)
+tempo: 91.775
+time_signature: 3
+time_signature_confidence: 0.727
+title: This Ain't A Love Song
+track_7digitalid: 9004113
+track_id: TRAUYZG12903CDA4E9
+year: 1995

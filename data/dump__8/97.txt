@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 427759
+artist_familiarity: 0.0214929054152
+artist_hotttnesss: 0.0
+artist_id: ARGSAFR1269FB35070
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Blingtones
+artist_playmeid: -1
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: adf3f7963c0c127428175d2f618df655
+bars_confidence: shape = (10,)
+bars_start: shape = (10,)
+beats_confidence: shape = (10,)
+beats_start: shape = (10,)
+danceability: 0.0
+duration: 9.66485
+end_of_fade_in: 0.12
+energy: 0.0
+key: 4
+key_confidence: 0.0
+loudness: -12.838
+mode: 1
+mode_confidence: 0.0
+release: Sonneries ch'ti By Blingtones
+release_7digitalid: 633037
+sections_confidence: shape = (0,)
+sections_start: shape = (0,)
+segments_confidence: shape = (9,)
+segments_loudness_max: shape = (9,)
+segments_loudness_max_time: shape = (9,)
+segments_loudness_start: shape = (9,)
+segments_pitches: shape = (9, 12)
+segments_start: shape = (9,)
+segments_timbre: shape = (9, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLBDEY12AC9E12684
+start_of_fade_out: 9.665
+tatums_confidence: shape = (10,)
+tatums_start: shape = (10,)
+tempo: 67.046
+time_signature: 1
+time_signature_confidence: 0.0
+title: La boîte à hein biloute
+track_7digitalid: 7027798
+track_id: TRACYDQ128F932C763
+year: 0

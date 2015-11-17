@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 103711
+artist_familiarity: 0.50087616005
+artist_hotttnesss: 0.37922806909
+artist_id: AR22KLC1187B98E812
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 446455f2-7d62-45ca-a7ef-53c1c676ac5c
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Kaija Koo
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 72b6531ddcacdf0e405d12a1e64e4342
+bars_confidence: shape = (121,)
+bars_start: shape = (121,)
+beats_confidence: shape = (490,)
+beats_start: shape = (490,)
+danceability: 0.0
+duration: 192.26077
+end_of_fade_in: 2.067
+energy: 0.0
+key: 11
+key_confidence: 0.436
+loudness: -8.228
+mode: 0
+mode_confidence: 0.508
+release: Operaatio Jalokivimeri
+release_7digitalid: 217883
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (797,)
+segments_loudness_max: shape = (797,)
+segments_loudness_max_time: shape = (797,)
+segments_loudness_start: shape = (797,)
+segments_pitches: shape = (797, 12)
+segments_start: shape = (797,)
+segments_timbre: shape = (797, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.288481642656
+song_id: SOLOJYI12A8C13C49E
+start_of_fade_out: 188.111
+tatums_confidence: shape = (981,)
+tatums_start: shape = (981,)
+tempo: 155.049
+time_signature: 4
+time_signature_confidence: 0.272
+title: Savu hälvenee
+track_7digitalid: 2375755
+track_id: TRAEZKA128F4282B79
+year: 1998

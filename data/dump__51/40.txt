@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 34985
+artist_familiarity: 0.611788253947
+artist_hotttnesss: 0.336726841409
+artist_id: AR202MX1187B9B0383
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4910c255-cd1c-4f3e-a2c1-6e419b162220
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Tanto Metro & Devonte
+artist_playmeid: 17301
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 1a4dfc522708c86bd1614653521f30bd
+bars_confidence: shape = (68,)
+bars_start: shape = (68,)
+beats_confidence: shape = (273,)
+beats_start: shape = (273,)
+danceability: 0.0
+duration: 158.1971
+end_of_fade_in: 0.108
+energy: 0.0
+key: 7
+key_confidence: 0.147
+loudness: -6.712
+mode: 1
+mode_confidence: 0.474
+release: Riddim Driven: Celebration
+release_7digitalid: 185842
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (780,)
+segments_loudness_max: shape = (780,)
+segments_loudness_max_time: shape = (780,)
+segments_loudness_start: shape = (780,)
+segments_pitches: shape = (780, 12)
+segments_start: shape = (780,)
+segments_timbre: shape = (780, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOMAFQT12A8AE47E8D
+start_of_fade_out: 158.197
+tatums_confidence: shape = (1094,)
+tatums_start: shape = (1094,)
+tempo: 104.465
+time_signature: 4
+time_signature_confidence: 1.0
+title: Strange Things
+track_7digitalid: 2013839
+track_id: TRARNBZ128F4238CF7
+year: 2004

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 144699
+artist_familiarity: 0.612576141799
+artist_hotttnesss: 0.415748475536
+artist_id: ARJD6I01187FB50347
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e2367946-ece1-4de7-995c-12395c2b94f2
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Anna Abreu
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: e5d5ec17cc64108f719cd9658ef85c05
+bars_confidence: shape = (116,)
+bars_start: shape = (116,)
+beats_confidence: shape = (467,)
+beats_start: shape = (467,)
+danceability: 0.0
+duration: 205.45261
+end_of_fade_in: 2.577
+energy: 0.0
+key: 4
+key_confidence: 0.593
+loudness: -6.692
+mode: 0
+mode_confidence: 0.581
+release: Anna Abreu
+release_7digitalid: 280401
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (530,)
+segments_loudness_max: shape = (530,)
+segments_loudness_max_time: shape = (530,)
+segments_loudness_start: shape = (530,)
+segments_pitches: shape = (530, 12)
+segments_start: shape = (530,)
+segments_timbre: shape = (530, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.47872628848
+song_id: SOSUVLO12A8AE487E6
+start_of_fade_out: 193.44
+tatums_confidence: shape = (934,)
+tatums_start: shape = (934,)
+tempo: 143.864
+time_signature: 4
+time_signature_confidence: 0.447
+title: Shame
+track_7digitalid: 3124606
+track_id: TRAUGRD128F425E997
+year: 2007

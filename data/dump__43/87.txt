@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 372
+artist_familiarity: 0.749217793049
+artist_hotttnesss: 0.544321914839
+artist_id: ARNHMFD1187FB3B3F6
+artist_latitude: 40.72023
+artist_location: Bayshore, Long Island, NY
+artist_longitude: -73.24922
+artist_mbid: a4dd0e77-83b8-4e92-89b7-effb0e47fd8c
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: LL Cool J / Freeway
+artist_playmeid: 941
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 1ffb2506cbfd322d0cf0b858906e8069
+bars_confidence: shape = (219,)
+bars_start: shape = (219,)
+beats_confidence: shape = (219,)
+beats_start: shape = (219,)
+danceability: 0.0
+duration: 264.48934
+end_of_fade_in: 0.183
+energy: 0.0
+key: 1
+key_confidence: 0.367
+loudness: -4.628
+mode: 1
+mode_confidence: 0.223
+release: Todd Smith
+release_7digitalid: 32887
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1265,)
+segments_loudness_max: shape = (1265,)
+segments_loudness_max_time: shape = (1265,)
+segments_loudness_start: shape = (1265,)
+segments_pitches: shape = (1265, 12)
+segments_start: shape = (1265,)
+segments_timbre: shape = (1265, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.41373983586
+song_id: SOFICXV12A6D4F84D5
+start_of_fade_out: 261.3
+tatums_confidence: shape = (1093,)
+tatums_start: shape = (1093,)
+tempo: 50.51
+time_signature: 1
+time_signature_confidence: 0.0
+title: What You Want
+track_7digitalid: 354045
+track_id: TRAOZNT128F147089A
+year: 2006

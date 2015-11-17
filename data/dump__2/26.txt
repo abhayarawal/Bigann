@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 65240
+artist_familiarity: 0.583773264922
+artist_hotttnesss: 0.343275660546
+artist_id: ARGR9FY1187FB4D0E7
+artist_latitude: nan
+artist_location: Poza Rica, MX
+artist_longitude: nan
+artist_mbid: 4aaf6eb8-c44e-42d1-b99b-3ebf87325dc4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Aberdeen
+artist_playmeid: 79906
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: cc6a8d8e89fdd62c27bd0f7d608b6c2b
+bars_confidence: shape = (131,)
+bars_start: shape = (131,)
+beats_confidence: shape = (398,)
+beats_start: shape = (398,)
+danceability: 0.0
+duration: 266.70975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.731
+loudness: -12.658
+mode: 1
+mode_confidence: 0.577
+release: Suburban
+release_7digitalid: 80339
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1022,)
+segments_loudness_max: shape = (1022,)
+segments_loudness_max_time: shape = (1022,)
+segments_loudness_start: shape = (1022,)
+segments_pitches: shape = (1022, 12)
+segments_start: shape = (1022,)
+segments_timbre: shape = (1022, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOZKNQ12A6D4F6FD4
+start_of_fade_out: 257.225
+tatums_confidence: shape = (1196,)
+tatums_start: shape = (1196,)
+tempo: 90.908
+time_signature: 3
+time_signature_confidence: 1.0
+title: Beyond the Light
+track_7digitalid: 850029
+track_id: TRAAQZQ128EF35C51A
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7516
+artist_familiarity: 0.830884642148
+artist_hotttnesss: 0.776167742324
+artist_id: AR633SY1187B9AC3B9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6fe07aa5-fec0-4eca-a456-f29bff451b04
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Weezer
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 3d1bbfe0575d43a66a3c3f67dc0432a4
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (415,)
+beats_start: shape = (415,)
+danceability: 0.0
+duration: 180.97587
+end_of_fade_in: 2.635
+energy: 0.0
+key: 2
+key_confidence: 0.63
+loudness: -3.637
+mode: 1
+mode_confidence: 0.63
+release: The Green Album
+release_7digitalid: 15588
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (477,)
+segments_loudness_max: shape = (477,)
+segments_loudness_max_time: shape = (477,)
+segments_loudness_start: shape = (477,)
+segments_pitches: shape = (477, 12)
+segments_start: shape = (477,)
+segments_timbre: shape = (477, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.784712265796
+song_id: SOHSGTX12A67020685
+start_of_fade_out: 172.054
+tatums_confidence: shape = (829,)
+tatums_start: shape = (829,)
+tempo: 142.68
+time_signature: 4
+time_signature_confidence: 0.591
+title: Don't Let Go
+track_7digitalid: 163888
+track_id: TRABLMN128E0792687
+year: 2001

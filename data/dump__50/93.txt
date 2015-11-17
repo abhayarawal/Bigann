@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8329
+artist_familiarity: 0.834564098277
+artist_hotttnesss: 0.553393663056
+artist_id: ARBUOOR1187B997391
+artist_latitude: nan
+artist_location: Manchester, England
+artist_longitude: nan
+artist_mbid: ecf9f3a3-35e9-4c58-acaa-e707fba45060
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Oasis
+artist_playmeid: 1196
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: d955fe20663f2ebd0800f28d660aeab3
+bars_confidence: shape = (134,)
+bars_start: shape = (134,)
+beats_confidence: shape = (539,)
+beats_start: shape = (539,)
+danceability: 0.0
+duration: 324.80608
+end_of_fade_in: 0.096
+energy: 0.0
+key: 2
+key_confidence: 0.046
+loudness: -7.588
+mode: 1
+mode_confidence: 0.392
+release: Supersonic
+release_7digitalid: 15862
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (988,)
+segments_loudness_max: shape = (988,)
+segments_loudness_max_time: shape = (988,)
+segments_loudness_start: shape = (988,)
+segments_pitches: shape = (988, 12)
+segments_start: shape = (988,)
+segments_timbre: shape = (988, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPVMQT12A679C8040
+start_of_fade_out: 314.921
+tatums_confidence: shape = (2156,)
+tatums_start: shape = (2156,)
+tempo: 100.146
+time_signature: 4
+time_signature_confidence: 1.0
+title: Columbia
+track_7digitalid: 167811
+track_id: TRARIWH128E079349F
+year: 0

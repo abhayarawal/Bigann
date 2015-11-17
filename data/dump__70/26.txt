@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 33328
+artist_familiarity: 0.561131213326
+artist_hotttnesss: 0.554291489013
+artist_id: AR06EB01187FB40150
+artist_latitude: nan
+artist_location: Berkeley, CA
+artist_longitude: nan
+artist_mbid: dcaa4f81-bfb7-44eb-8594-4e74f004b6e4
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: NOFX
+artist_playmeid: 11040
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: b5be1b416f3b699961c96aaa2817466d
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (243,)
+beats_start: shape = (243,)
+danceability: 0.0
+duration: 158.11873
+end_of_fade_in: 0.125
+energy: 0.0
+key: 4
+key_confidence: 0.0
+loudness: -4.795
+mode: 0
+mode_confidence: 0.113
+release: Wolves In Wolves' Clothing
+release_7digitalid: 239879
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (656,)
+segments_loudness_max: shape = (656,)
+segments_loudness_max_time: shape = (656,)
+segments_loudness_start: shape = (656,)
+segments_pitches: shape = (656, 12)
+segments_start: shape = (656,)
+segments_timbre: shape = (656, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOFUMT12A8C133296
+start_of_fade_out: 151.092
+tatums_confidence: shape = (974,)
+tatums_start: shape = (974,)
+tempo: 94.898
+time_signature: 3
+time_signature_confidence: 0.165
+title: We March To The Beat Of Indifferent Drum
+track_7digitalid: 2620255
+track_id: TRAYABW128F4235888
+year: 2006

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 298145
+artist_familiarity: 0.795729700238
+artist_hotttnesss: 0.693524720237
+artist_id: AR0WLH6119B8669027
+artist_latitude: nan
+artist_location: Minnesota
+artist_longitude: nan
+artist_mbid: ad279295-653f-42e1-9aaa-b731df2e78ba
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Owl City
+artist_playmeid: 111795
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 18c9e7bbcd5d999cd8be019b1e7a53c4
+bars_confidence: shape = (142,)
+bars_start: shape = (142,)
+beats_confidence: shape = (569,)
+beats_start: shape = (569,)
+danceability: 0.0
+duration: 301.16526
+end_of_fade_in: 0.102
+energy: 0.0
+key: 10
+key_confidence: 0.603
+loudness: -6.445
+mode: 1
+mode_confidence: 0.511
+release: Ocean Eyes
+release_7digitalid: 542335
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1333,)
+segments_loudness_max: shape = (1333,)
+segments_loudness_max_time: shape = (1333,)
+segments_loudness_start: shape = (1333,)
+segments_pitches: shape = (1333, 12)
+segments_start: shape = (1333,)
+segments_timbre: shape = (1333, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAJLWB12CF5828932
+start_of_fade_out: 288.641
+tatums_confidence: shape = (2276,)
+tatums_start: shape = (2276,)
+tempo: 115.02
+time_signature: 4
+time_signature_confidence: 0.558
+title: On The Wing
+track_7digitalid: 6003363
+track_id: TRBAWKB128F931BAEE
+year: 2008

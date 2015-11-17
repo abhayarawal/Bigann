@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 24975
+artist_familiarity: 0.606901382497
+artist_hotttnesss: 0.438932849542
+artist_id: AR1IY711187B9B0B50
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c62d0ce7-1a0a-4ae8-ad7c-fa2b33dcffc5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Katinas
+artist_playmeid: 61066
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: a03c112228aa03e89110251baecadf16
+bars_confidence: shape = (29,)
+bars_start: shape = (29,)
+beats_confidence: shape = (213,)
+beats_start: shape = (213,)
+danceability: 0.0
+duration: 159.26812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.373
+loudness: -10.599
+mode: 0
+mode_confidence: 0.422
+release: Kennedy Center Homecoming
+release_7digitalid: 143821
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (451,)
+segments_loudness_max: shape = (451,)
+segments_loudness_max_time: shape = (451,)
+segments_loudness_start: shape = (451,)
+segments_pitches: shape = (451, 12)
+segments_start: shape = (451,)
+segments_timbre: shape = (451, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOUUQXL12A8C1339FE
+start_of_fade_out: 159.268
+tatums_confidence: shape = (426,)
+tatums_start: shape = (426,)
+tempo: 80.945
+time_signature: 7
+time_signature_confidence: 0.035
+title: One More Time (Kennedy Center Homecoming Version)
+track_7digitalid: 1500643
+track_id: TRBGGTE128F424ECBC
+year: 0

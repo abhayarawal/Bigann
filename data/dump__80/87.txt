@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 24313
+artist_familiarity: 0.717670524729
+artist_hotttnesss: 0.479308459338
+artist_id: ARS1OWB1187B99EEAD
+artist_latitude: nan
+artist_location: New York, NY
+artist_longitude: nan
+artist_mbid: 1b96b9c9-0832-40cb-9f8d-7274de3733fc
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: New York Dolls
+artist_playmeid: 5379
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: bcff256bcfb760edb6d5e0893ad8fb9a
+bars_confidence: shape = (96,)
+bars_start: shape = (96,)
+beats_confidence: shape = (388,)
+beats_start: shape = (388,)
+danceability: 0.0
+duration: 210.85995
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.844
+loudness: -12.153
+mode: 1
+mode_confidence: 0.786
+release: Manhattan Mayhem (a history of the Dolls)
+release_7digitalid: 702585
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (601,)
+segments_loudness_max: shape = (601,)
+segments_loudness_max_time: shape = (601,)
+segments_loudness_start: shape = (601,)
+segments_pitches: shape = (601, 12)
+segments_start: shape = (601,)
+segments_timbre: shape = (601, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOCJPAI12AB0185DB1
+start_of_fade_out: 210.86
+tatums_confidence: shape = (776,)
+tatums_start: shape = (776,)
+tempo: 110.056
+time_signature: 4
+time_signature_confidence: 0.0
+title: Trash (live Paris)
+track_7digitalid: 7794027
+track_id: TRBBRQE12903C9E587
+year: 0

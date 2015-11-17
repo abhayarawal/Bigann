@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4779
+artist_familiarity: 0.58695062173
+artist_hotttnesss: 0.43205407899
+artist_id: ARGJ0911187FB4613F
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 3aeb9e89-4fc3-46f4-a5a8-cf6c1b7e66a0
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Maria Muldaur
+artist_playmeid: 41489
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 7194ef6a60976a8bc57f202688251ab4
+bars_confidence: shape = (189,)
+bars_start: shape = (189,)
+beats_confidence: shape = (597,)
+beats_start: shape = (597,)
+danceability: 0.0
+duration: 411.01016
+end_of_fade_in: 0.078
+energy: 0.0
+key: 5
+key_confidence: 0.44
+loudness: -17.684
+mode: 0
+mode_confidence: 0.36
+release: Meet Me Where They Play The Blues
+release_7digitalid: 601813
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1019,)
+segments_loudness_max: shape = (1019,)
+segments_loudness_max_time: shape = (1019,)
+segments_loudness_start: shape = (1019,)
+segments_pitches: shape = (1019, 12)
+segments_start: shape = (1019,)
+segments_timbre: shape = (1019, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.494489517502
+song_id: SOUTSZU12AB0185C96
+start_of_fade_out: 400.707
+tatums_confidence: shape = (1193,)
+tatums_start: shape = (1193,)
+tempo: 87.702
+time_signature: 3
+time_signature_confidence: 1.0
+title: It Feels Like Rain
+track_7digitalid: 6682527
+track_id: TRAYZCF12903CF39A4
+year: 1999

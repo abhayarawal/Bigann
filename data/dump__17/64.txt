@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 24219
+artist_familiarity: 0.530631076718
+artist_hotttnesss: 0.32623594643
+artist_id: AR5BLB01187FB57E99
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 680355ed-b0be-4181-a758-99c9c0d0674a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Headliners
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: ed376a54ceb86ebb71aea5c93a41fbfc
+bars_confidence: shape = (139,)
+bars_start: shape = (139,)
+beats_confidence: shape = (559,)
+beats_start: shape = (559,)
+danceability: 0.0
+duration: 216.89424
+end_of_fade_in: 0.27
+energy: 0.0
+key: 9
+key_confidence: 0.712
+loudness: -5.893
+mode: 1
+mode_confidence: 0.556
+release: Sag Ihnen Bescheid
+release_7digitalid: 35097
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (978,)
+segments_loudness_max: shape = (978,)
+segments_loudness_max_time: shape = (978,)
+segments_loudness_start: shape = (978,)
+segments_pitches: shape = (978, 12)
+segments_start: shape = (978,)
+segments_timbre: shape = (978, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.638227964132
+song_id: SOOTRFL12A6D4F5428
+start_of_fade_out: 207.981
+tatums_confidence: shape = (1118,)
+tatums_start: shape = (1118,)
+tempo: 160.158
+time_signature: 4
+time_signature_confidence: 0.835
+title: Sag Ihnen Bescheid
+track_7digitalid: 376108
+track_id: TRAGACV128F1474DEC
+year: 2005

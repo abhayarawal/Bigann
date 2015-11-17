@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 192619
+artist_familiarity: 0.442769650057
+artist_hotttnesss: 0.294986616555
+artist_id: ARI648V1187B9B5379
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4e744ffc-767a-4b18-b485-47d4b123ff4a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Michael Stanley Band
+artist_playmeid: 15835
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: a34f75494e29e933d3c6cda033b794e9
+bars_confidence: shape = (506,)
+bars_start: shape = (506,)
+beats_confidence: shape = (506,)
+beats_start: shape = (506,)
+danceability: 0.0
+duration: 220.05506
+end_of_fade_in: 13.827
+energy: 0.0
+key: 2
+key_confidence: 0.58
+loudness: -12.253
+mode: 1
+mode_confidence: 0.574
+release: You Break It...You Bought It!
+release_7digitalid: 540308
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (936,)
+segments_loudness_max: shape = (936,)
+segments_loudness_max_time: shape = (936,)
+segments_loudness_start: shape = (936,)
+segments_pitches: shape = (936, 12)
+segments_start: shape = (936,)
+segments_timbre: shape = (936, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.250638100653
+song_id: SOVSWSL12A58A7856D
+start_of_fade_out: 214.256
+tatums_confidence: shape = (1517,)
+tatums_start: shape = (1517,)
+tempo: 140.654
+time_signature: 1
+time_signature_confidence: 0.0
+title: Lost In The Funhouse Again
+track_7digitalid: 5982912
+track_id: TRAISDO128F9316BD2
+year: 1975

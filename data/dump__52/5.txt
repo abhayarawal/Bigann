@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4741
+artist_familiarity: 0.744641245933
+artist_hotttnesss: 0.579988982429
+artist_id: ARNLO5S1187B9B80CC
+artist_latitude: nan
+artist_location: Pasadena, CA
+artist_longitude: nan
+artist_mbid: b665b768-0d83-4363-950c-31ed39317c15
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Van Halen
+artist_playmeid: 54598
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 774038b87ce329fbed97ba8147abb130
+bars_confidence: shape = (463,)
+bars_start: shape = (463,)
+beats_confidence: shape = (463,)
+beats_start: shape = (463,)
+danceability: 0.0
+duration: 324.23138
+end_of_fade_in: 12.452
+energy: 0.0
+key: 4
+key_confidence: 0.696
+loudness: -9.057
+mode: 0
+mode_confidence: 0.638
+release: Van Halen III
+release_7digitalid: 129837
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (843,)
+segments_loudness_max: shape = (843,)
+segments_loudness_max_time: shape = (843,)
+segments_loudness_start: shape = (843,)
+segments_pitches: shape = (843, 12)
+segments_start: shape = (843,)
+segments_timbre: shape = (843, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.685351117616
+song_id: SORKWDV12A8C13B43B
+start_of_fade_out: 317.44
+tatums_confidence: shape = (926,)
+tatums_start: shape = (926,)
+tempo: 87.899
+time_signature: 1
+time_signature_confidence: 0.445
+title: From Afar (Album Version)
+track_7digitalid: 2366538
+track_id: TRARTEH128F4280823
+year: 1998

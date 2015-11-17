@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 261
+artist_familiarity: 0.725843499395
+artist_hotttnesss: 0.601187377852
+artist_id: ARD39VZ1187B9B9A57
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8a6ccf62-b8fa-46d7-87df-f2dd14e6280d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lloyd Banks
+artist_playmeid: 53346
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 975f4ae71fb30d571231934e76c7c212
+bars_confidence: shape = (85,)
+bars_start: shape = (85,)
+beats_confidence: shape = (356,)
+beats_start: shape = (356,)
+danceability: 0.0
+duration: 250.74893
+end_of_fade_in: 0.299
+energy: 0.0
+key: 1
+key_confidence: 1.0
+loudness: -2.844
+mode: 1
+mode_confidence: 0.695
+release: The Hunger For More
+release_7digitalid: 436
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1016,)
+segments_loudness_max: shape = (1016,)
+segments_loudness_max_time: shape = (1016,)
+segments_loudness_start: shape = (1016,)
+segments_pitches: shape = (1016, 12)
+segments_start: shape = (1016,)
+segments_timbre: shape = (1016, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.579416471937
+song_id: SOZYUKG12A6D4FB64F
+start_of_fade_out: 241.075
+tatums_confidence: shape = (712,)
+tatums_start: shape = (712,)
+tempo: 85.366
+time_signature: 4
+time_signature_confidence: 1.0
+title: South Side Story
+track_7digitalid: 3904
+track_id: TRADNGD128E0780F88
+year: 2004

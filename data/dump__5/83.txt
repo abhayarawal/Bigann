@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 48897
+artist_familiarity: 0.796493401551
+artist_hotttnesss: 0.510324986101
+artist_id: ARIWB161187B9AA1D5
+artist_latitude: nan
+artist_location: Forest Hills, Queens, New York City, NY, USA
+artist_longitude: nan
+artist_mbid: 5d02f264-e225-41ff-83f7-d9b1f0b1874a
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Simon & Garfunkel
+artist_playmeid: 1444
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 384b9e8725cea018f242d48394f284d7
+bars_confidence: shape = (119,)
+bars_start: shape = (119,)
+beats_confidence: shape = (479,)
+beats_start: shape = (479,)
+danceability: 0.0
+duration: 194.35057
+end_of_fade_in: 0.34
+energy: 0.0
+key: 7
+key_confidence: 0.704
+loudness: -13.047
+mode: 1
+mode_confidence: 0.55
+release: Old Friends Live On Stage
+release_7digitalid: 292662
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (742,)
+segments_loudness_max: shape = (742,)
+segments_loudness_max_time: shape = (742,)
+segments_loudness_start: shape = (742,)
+segments_pitches: shape = (742, 12)
+segments_start: shape = (742,)
+segments_timbre: shape = (742, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.41967427881
+song_id: SOTETIO12A8151CA26
+start_of_fade_out: 183.844
+tatums_confidence: shape = (959,)
+tatums_start: shape = (959,)
+tempo: 151.5
+time_signature: 4
+time_signature_confidence: 0.161
+title: Citizen Of The Planet
+track_7digitalid: 3299548
+track_id: TRABXVE128F4284AFC
+year: 2004

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 159702
+artist_familiarity: 0.591846287473
+artist_hotttnesss: 0.372462979783
+artist_id: ARO0R521187B98A2D1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 82f68ef2-d2a6-45c4-b285-cee49279cbfd
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: 2 Minutos
+artist_playmeid: 35041
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 0e54ced86fcaea043a42b0615555a07d
+bars_confidence: shape = (289,)
+bars_start: shape = (289,)
+beats_confidence: shape = (289,)
+beats_start: shape = (289,)
+danceability: 0.0
+duration: 88.58077
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.083
+loudness: -3.211
+mode: 1
+mode_confidence: 0.118
+release: Un Mundo De Sensaciones
+release_7digitalid: 211112
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (340,)
+segments_loudness_max: shape = (340,)
+segments_loudness_max_time: shape = (340,)
+segments_loudness_start: shape = (340,)
+segments_pitches: shape = (340, 12)
+segments_start: shape = (340,)
+segments_timbre: shape = (340, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.372530039366
+song_id: SOSSUGT12A8C138F9F
+start_of_fade_out: 84.184
+tatums_confidence: shape = (578,)
+tatums_start: shape = (578,)
+tempo: 203.994
+time_signature: 1
+time_signature_confidence: 0.0
+title: Rompan Todo
+track_7digitalid: 2295860
+track_id: TRAGETA128F4272C38
+year: 2006

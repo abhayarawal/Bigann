@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 245653
+artist_familiarity: 0.652508643707
+artist_hotttnesss: 0.493814429696
+artist_id: AR557N41187FB3E67F
+artist_latitude: 62.24049
+artist_location: Jyväskylä, Finland
+artist_longitude: 25.75129
+artist_mbid: 0f6df3f2-01f5-4d9a-a047-a76c907d7b66
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Swallow The Sun
+artist_playmeid: 160543
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 0f90e5c546d139404c71b5811ebb3288
+bars_confidence: shape = (346,)
+bars_start: shape = (346,)
+beats_confidence: shape = (1389,)
+beats_start: shape = (1389,)
+danceability: 0.0
+duration: 509.49179
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.459
+loudness: -6.664
+mode: 1
+mode_confidence: 0.56
+release: Hope
+release_7digitalid: 316435
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (709,)
+segments_loudness_max: shape = (709,)
+segments_loudness_max_time: shape = (709,)
+segments_loudness_start: shape = (709,)
+segments_pitches: shape = (709, 12)
+segments_start: shape = (709,)
+segments_timbre: shape = (709, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.621291653556
+song_id: SOHVOBI12A5891E993
+start_of_fade_out: 479.295
+tatums_confidence: shape = (1389,)
+tatums_start: shape = (1389,)
+tempo: 165.908
+time_signature: 4
+time_signature_confidence: 0.519
+title: Doomed To Walk The Earth
+track_7digitalid: 3578948
+track_id: TRBAHJW128F92CC8B4
+year: 2007

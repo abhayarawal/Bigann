@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1538
+artist_familiarity: 0.621414328404
+artist_hotttnesss: 0.443930192726
+artist_id: ARMIMHT1187B98F038
+artist_latitude: nan
+artist_location: Santa Monica, CA
+artist_longitude: nan
+artist_mbid: 98cb2d05-0b47-4bc6-b345-792eecbe8449
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Teena Marie
+artist_playmeid: 7535
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 3cf546beef703b7807286c32b4632505
+bars_confidence: shape = (191,)
+bars_start: shape = (191,)
+beats_confidence: shape = (574,)
+beats_start: shape = (574,)
+danceability: 0.0
+duration: 345.67791
+end_of_fade_in: 3.582
+energy: 0.0
+key: 6
+key_confidence: 0.481
+loudness: -12.23
+mode: 0
+mode_confidence: 0.471
+release: Starchild
+release_7digitalid: 282364
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1581,)
+segments_loudness_max: shape = (1581,)
+segments_loudness_max_time: shape = (1581,)
+segments_loudness_start: shape = (1581,)
+segments_pitches: shape = (1581, 12)
+segments_start: shape = (1581,)
+segments_timbre: shape = (1581, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.266955186276
+song_id: SOTBQVH12A58A7B6C7
+start_of_fade_out: 338.274
+tatums_confidence: shape = (2299,)
+tatums_start: shape = (2299,)
+tempo: 99.978
+time_signature: 3
+time_signature_confidence: 0.978
+title: Help Youngblood Get To the Freaky Party
+track_7digitalid: 3157296
+track_id: TRALNOD128F4264AEB
+year: 1984

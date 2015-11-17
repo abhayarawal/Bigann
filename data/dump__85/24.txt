@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10653
+artist_familiarity: 0.917863905848
+artist_hotttnesss: 0.908202619208
+artist_id: ARKU3Z61187FB51DCA
+artist_latitude: 13.11199
+artist_location: St Michael, Barbados 
+artist_longitude: -59.59895
+artist_mbid: 73e5e69d-3554-40d8-8516-00cb38737a1c
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Rihanna
+artist_playmeid: 2544
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 90d0954221c382b92552dfd55a787b18
+bars_confidence: shape = (81,)
+bars_start: shape = (81,)
+beats_confidence: shape = (330,)
+beats_start: shape = (330,)
+danceability: 0.0
+duration: 213.26322
+end_of_fade_in: 0.229
+energy: 0.0
+key: 5
+key_confidence: 0.609
+loudness: -6.146
+mode: 0
+mode_confidence: 0.615
+release: Good Girl Gone Bad: Reloaded
+release_7digitalid: 265313
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (804,)
+segments_loudness_max: shape = (804,)
+segments_loudness_max_time: shape = (804,)
+segments_loudness_start: shape = (804,)
+segments_pitches: shape = (804, 12)
+segments_start: shape = (804,)
+segments_timbre: shape = (804, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.705148005241
+song_id: SOKZTHA12A8C134830
+start_of_fade_out: 205.7
+tatums_confidence: shape = (1319,)
+tatums_start: shape = (1319,)
+tempo: 94.987
+time_signature: 4
+time_signature_confidence: 1.0
+title: Good Girl Gone Bad
+track_7digitalid: 2853917
+track_id: TRBDHKL128F426BE45
+year: 2007

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8133
+artist_familiarity: 0.631151242449
+artist_hotttnesss: 0.432754336766
+artist_id: ARGDSO91187B9AAB35
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bbd476fe-2987-4e5a-a278-ce5d5f3a6b9c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Patrick Bruel
+artist_playmeid: 5587
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: c202cf04afefc64279882f8327100137
+bars_confidence: shape = (154,)
+bars_start: shape = (154,)
+beats_confidence: shape = (617,)
+beats_start: shape = (617,)
+danceability: 0.0
+duration: 263.94077
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.733
+loudness: -17.855
+mode: 1
+mode_confidence: 0.616
+release: Seul Ou presque
+release_7digitalid: 479468
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (736,)
+segments_loudness_max: shape = (736,)
+segments_loudness_max_time: shape = (736,)
+segments_loudness_start: shape = (736,)
+segments_pitches: shape = (736, 12)
+segments_start: shape = (736,)
+segments_timbre: shape = (736, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPFUJH12A8C1460C9
+start_of_fade_out: 255.46
+tatums_confidence: shape = (1235,)
+tatums_start: shape = (1235,)
+tempo: 140.696
+time_signature: 4
+time_signature_confidence: 0.245
+title: L'Appart
+track_7digitalid: 5325691
+track_id: TRALSAJ128F92EDC84
+year: 1991

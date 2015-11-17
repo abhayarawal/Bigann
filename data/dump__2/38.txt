@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 124036
+artist_familiarity: 0.362800141681
+artist_hotttnesss: 0.282286405633
+artist_id: ARW4AGO1187FB4F107
+artist_latitude: 33.45081
+artist_location: Indianola, MS
+artist_longitude: -90.645
+artist_mbid: a32c74a4-4774-4b60-be49-341665450d46
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jazz Gillum
+artist_playmeid: 54945
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 41921b4a9c231d0d8696f78e50bf8687
+bars_confidence: shape = (306,)
+bars_start: shape = (306,)
+beats_confidence: shape = (306,)
+beats_start: shape = (306,)
+danceability: 0.0
+duration: 185.67791
+end_of_fade_in: 0.234
+energy: 0.0
+key: 0
+key_confidence: 0.04
+loudness: -16.844
+mode: 0
+mode_confidence: 0.123
+release: Take One More Chance With Me
+release_7digitalid: 161810
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (725,)
+segments_loudness_max: shape = (725,)
+segments_loudness_max_time: shape = (725,)
+segments_loudness_start: shape = (725,)
+segments_pitches: shape = (725, 12)
+segments_start: shape = (725,)
+segments_timbre: shape = (725, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEESQT12A8C13C7D5
+start_of_fade_out: 178.765
+tatums_confidence: shape = (613,)
+tatums_start: shape = (613,)
+tempo: 101.41
+time_signature: 1
+time_signature_confidence: 0.0
+title: Me And My Buddy
+track_7digitalid: 1713200
+track_id: TRAASOD128F428154C
+year: 0

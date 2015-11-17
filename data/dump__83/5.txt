@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11476
+artist_familiarity: 0.806364124765
+artist_hotttnesss: 0.512455642577
+artist_id: AREMPZY1187B9B8FF3
+artist_latitude: nan
+artist_location: Jackson MS
+artist_longitude: nan
+artist_mbid: c0cc5d77-937d-4296-a349-0a09d733fbfb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: David Banner / Sky / Marcus
+artist_playmeid: 2726
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 7bdca0ff67845e87408bd556d3c6a5c8
+bars_confidence: shape = (91,)
+bars_start: shape = (91,)
+beats_confidence: shape = (366,)
+beats_start: shape = (366,)
+danceability: 0.0
+duration: 253.67465
+end_of_fade_in: 0.076
+energy: 0.0
+key: 7
+key_confidence: 0.739
+loudness: -5.29
+mode: 1
+mode_confidence: 0.498
+release: MTA2-Baptized In Dirty Water
+release_7digitalid: 46559
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1009,)
+segments_loudness_max: shape = (1009,)
+segments_loudness_max_time: shape = (1009,)
+segments_loudness_start: shape = (1009,)
+segments_pitches: shape = (1009, 12)
+segments_start: shape = (1009,)
+segments_timbre: shape = (1009, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOXQVRI12A6D4F8E28
+start_of_fade_out: 250.683
+tatums_confidence: shape = (1464,)
+tatums_start: shape = (1464,)
+tempo: 87.033
+time_signature: 4
+time_signature_confidence: 0.864
+title: The Christmas Song
+track_7digitalid: 497540
+track_id: TRBCMHI128F148B17F
+year: 0

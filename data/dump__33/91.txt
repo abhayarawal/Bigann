@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5057
+artist_familiarity: 0.328179991307
+artist_hotttnesss: 0.201037195321
+artist_id: AR6U4801187B9A8C45
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3dcbc17c-5b2e-4fd9-b8d1-5caea71ecff3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Boney James And Rick Braun
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 49e26bbe1fbcc43e901783adb7d1b392
+bars_confidence: shape = (127,)
+bars_start: shape = (127,)
+beats_confidence: shape = (383,)
+beats_start: shape = (383,)
+danceability: 0.0
+duration: 243.48689
+end_of_fade_in: 0.224
+energy: 0.0
+key: 9
+key_confidence: 0.681
+loudness: -5.58
+mode: 1
+mode_confidence: 0.549
+release: Shake It Up
+release_7digitalid: 765824
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1078,)
+segments_loudness_max: shape = (1078,)
+segments_loudness_max_time: shape = (1078,)
+segments_loudness_start: shape = (1078,)
+segments_pitches: shape = (1078, 12)
+segments_start: shape = (1078,)
+segments_timbre: shape = (1078, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOSZHRE12AB018BB5F
+start_of_fade_out: 238.068
+tatums_confidence: shape = (1533,)
+tatums_start: shape = (1533,)
+tempo: 96.136
+time_signature: 3
+time_signature_confidence: 0.556
+title: Shake It Up (Album Version)
+track_7digitalid: 8480089
+track_id: TRALNFM12903CCE7FA
+year: 2000

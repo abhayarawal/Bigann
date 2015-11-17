@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 33328
+artist_familiarity: 0.561131213326
+artist_hotttnesss: 0.554291489013
+artist_id: AR06EB01187FB40150
+artist_latitude: nan
+artist_location: Berkeley, CA
+artist_longitude: nan
+artist_mbid: dcaa4f81-bfb7-44eb-8594-4e74f004b6e4
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: NOFX
+artist_playmeid: 11040
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 7ce4e01bca8179a2dee8dd732845f6a7
+bars_confidence: shape = (367,)
+bars_start: shape = (367,)
+beats_confidence: shape = (367,)
+beats_start: shape = (367,)
+danceability: 0.0
+duration: 143.64689
+end_of_fade_in: 0.171
+energy: 0.0
+key: 7
+key_confidence: 0.527
+loudness: -11.661
+mode: 1
+mode_confidence: 0.659
+release: Punk In Drublic
+release_7digitalid: 205383
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (649,)
+segments_loudness_max: shape = (649,)
+segments_loudness_max_time: shape = (649,)
+segments_loudness_start: shape = (649,)
+segments_pitches: shape = (649, 12)
+segments_start: shape = (649,)
+segments_timbre: shape = (649, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.652878392476
+song_id: SORSFTZ12A8C1391C5
+start_of_fade_out: 136.638
+tatums_confidence: shape = (734,)
+tatums_start: shape = (734,)
+tempo: 156.079
+time_signature: 1
+time_signature_confidence: 0.0
+title: My Heart Is Yearning
+track_7digitalid: 2225658
+track_id: TRAEOMS128F4262357
+year: 1994

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 100208
+artist_familiarity: 0.484343034726
+artist_hotttnesss: 0.34990619708
+artist_id: ARUACR61187FB3AB37
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 833ffe4c-1df1-4dda-91e4-d0f2d4db84a7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kisha
+artist_playmeid: 27475
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 45d4d6d6ea352c1d5abaffd359ea4e4e
+bars_confidence: shape = (105,)
+bars_start: shape = (105,)
+beats_confidence: shape = (736,)
+beats_start: shape = (736,)
+danceability: 0.0
+duration: 225.38404
+end_of_fade_in: 0.99
+energy: 0.0
+key: 7
+key_confidence: 0.866
+loudness: -4.799
+mode: 1
+mode_confidence: 0.719
+release: Kisha
+release_7digitalid: 297130
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (801,)
+segments_loudness_max: shape = (801,)
+segments_loudness_max_time: shape = (801,)
+segments_loudness_start: shape = (801,)
+segments_pitches: shape = (801, 12)
+segments_start: shape = (801,)
+segments_timbre: shape = (801, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJHXCE12A8C139B1E
+start_of_fade_out: 220.311
+tatums_confidence: shape = (1472,)
+tatums_start: shape = (1472,)
+tempo: 199.917
+time_signature: 7
+time_signature_confidence: 0.969
+title: Why?
+track_7digitalid: 3336811
+track_id: TRAKGGU128F428D83C
+year: 1998

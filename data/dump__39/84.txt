@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 172149
+artist_familiarity: 0.526880371691
+artist_hotttnesss: 0.348462172045
+artist_id: ARVEFIT12086C1686D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1c01cf84-07c7-408a-b5a8-7dae0b1312fc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Vinícius de Moraes
+artist_playmeid: -1
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 68ef088e08b0b809673c50fe727e309b
+bars_confidence: shape = (84,)
+bars_start: shape = (84,)
+beats_confidence: shape = (268,)
+beats_start: shape = (268,)
+danceability: 0.0
+duration: 157.30893
+end_of_fade_in: 0.328
+energy: 0.0
+key: 5
+key_confidence: 0.509
+loudness: -16.216
+mode: 0
+mode_confidence: 0.589
+release: Vinícius em Portugal
+release_7digitalid: 225016
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (535,)
+segments_loudness_max: shape = (535,)
+segments_loudness_max_time: shape = (535,)
+segments_loudness_start: shape = (535,)
+segments_pitches: shape = (535, 12)
+segments_start: shape = (535,)
+segments_timbre: shape = (535, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOKRRQW12A8C13F94B
+start_of_fade_out: 154.587
+tatums_confidence: shape = (535,)
+tatums_start: shape = (535,)
+tempo: 103.682
+time_signature: 3
+time_signature_confidence: 0.758
+title: A volta da mulher morena
+track_7digitalid: 2461024
+track_id: TRANPPB128F42962D4
+year: 0

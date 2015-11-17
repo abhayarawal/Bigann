@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1636
+artist_familiarity: 0.61669819236
+artist_hotttnesss: 0.456080519824
+artist_id: AR392MV1187FB3C3FE
+artist_latitude: 40.73197
+artist_location: Newark, NJ
+artist_longitude: -74.17418
+artist_mbid: 5fcd7daf-25e1-47fd-9ba1-830b42708f84
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Connie Francis
+artist_playmeid: 36988
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 03f2621a388772e29b712d7374462bf8
+bars_confidence: shape = (337,)
+bars_start: shape = (337,)
+beats_confidence: shape = (337,)
+beats_start: shape = (337,)
+danceability: 0.0
+duration: 147.17342
+end_of_fade_in: 0.305
+energy: 0.0
+key: 6
+key_confidence: 0.824
+loudness: -9.378
+mode: 1
+mode_confidence: 0.715
+release: Essential Christmas
+release_7digitalid: 179557
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (343,)
+segments_loudness_max: shape = (343,)
+segments_loudness_max_time: shape = (343,)
+segments_loudness_start: shape = (343,)
+segments_pitches: shape = (343, 12)
+segments_start: shape = (343,)
+segments_timbre: shape = (343, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.377531644977
+song_id: SOVGSQX12A81C22AA5
+start_of_fade_out: 139.662
+tatums_confidence: shape = (337,)
+tatums_start: shape = (337,)
+tempo: 137.99
+time_signature: 1
+time_signature_confidence: 0.0
+title: Baby's First Christmas
+track_7digitalid: 1941267
+track_id: TRAOLUA128F422BB1D
+year: 1959

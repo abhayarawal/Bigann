@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 174314
+artist_familiarity: 0.507108739679
+artist_hotttnesss: 0.353532627765
+artist_id: ARZ3JUB1187B99A5AC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bedf43c7-5db9-4ea6-88e7-5cb1ebe99cc7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Halfway to Gone
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 8cda25f02327ba67a3151ff5fe474932
+bars_confidence: shape = (123,)
+bars_start: shape = (123,)
+beats_confidence: shape = (494,)
+beats_start: shape = (494,)
+danceability: 0.0
+duration: 210.07628
+end_of_fade_in: 0.183
+energy: 0.0
+key: 8
+key_confidence: 0.236
+loudness: -5.061
+mode: 1
+mode_confidence: 0.443
+release: Halfway to Gone
+release_7digitalid: 230458
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (749,)
+segments_loudness_max: shape = (749,)
+segments_loudness_max_time: shape = (749,)
+segments_loudness_start: shape = (749,)
+segments_pitches: shape = (749, 12)
+segments_start: shape = (749,)
+segments_timbre: shape = (749, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.482137585065
+song_id: SOOYLGJ12A58A7B465
+start_of_fade_out: 196.737
+tatums_confidence: shape = (987,)
+tatums_start: shape = (987,)
+tempo: 141.63
+time_signature: 4
+time_signature_confidence: 0.031
+title: Black Night
+track_7digitalid: 2525233
+track_id: TRAQSPU128F422146B
+year: 2004

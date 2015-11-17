@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 678
+artist_familiarity: 0.844085061395
+artist_hotttnesss: 0.71366981958
+artist_id: ARM7EDF1187B9B3FA1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: eeb1195b-f213-4ce1-b28c-8565211f8e43
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Guns N' Roses
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 426ee26fd2c31ad2ea8a677c6c571878
+bars_confidence: shape = (600,)
+bars_start: shape = (600,)
+beats_confidence: shape = (600,)
+beats_start: shape = (600,)
+danceability: 0.0
+duration: 237.13914
+end_of_fade_in: 3.257
+energy: 0.0
+key: 8
+key_confidence: 0.602
+loudness: -8.591
+mode: 1
+mode_confidence: 0.462
+release: Lies / Appetite For Destruction
+release_7digitalid: 226115
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (703,)
+segments_loudness_max: shape = (703,)
+segments_loudness_max_time: shape = (703,)
+segments_loudness_start: shape = (703,)
+segments_pitches: shape = (703, 12)
+segments_start: shape = (703,)
+segments_timbre: shape = (703, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.719747140996
+song_id: SODXTMM12AF729F8F1
+start_of_fade_out: 229.767
+tatums_confidence: shape = (1200,)
+tatums_start: shape = (1200,)
+tempo: 156.65
+time_signature: 1
+time_signature_confidence: 0.276
+title: Mama Kin
+track_7digitalid: 2473821
+track_id: TRADESF128F4214D8E
+year: 1986

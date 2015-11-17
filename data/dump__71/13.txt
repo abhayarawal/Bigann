@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3367
+artist_familiarity: 0.580798777682
+artist_hotttnesss: 0.38934175191
+artist_id: ARMWZF41187FB387F9
+artist_latitude: nan
+artist_location: Sledge, MS
+artist_longitude: nan
+artist_mbid: 1c1de177-984d-4208-9177-ca94f8776a39
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Charley Pride
+artist_playmeid: 13330
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: cb824d787fd5f640c496e462cbd59873
+bars_confidence: shape = (50,)
+bars_start: shape = (50,)
+beats_confidence: shape = (215,)
+beats_start: shape = (215,)
+danceability: 0.0
+duration: 172.09424
+end_of_fade_in: 0.496
+energy: 0.0
+key: 0
+key_confidence: 0.764
+loudness: -13.551
+mode: 1
+mode_confidence: 0.73
+release: The Pride of Country
+release_7digitalid: 580920
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (478,)
+segments_loudness_max: shape = (478,)
+segments_loudness_max_time: shape = (478,)
+segments_loudness_start: shape = (478,)
+segments_pitches: shape = (478, 12)
+segments_start: shape = (478,)
+segments_timbre: shape = (478, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHNNXG12AB0187669
+start_of_fade_out: 163.027
+tatums_confidence: shape = (430,)
+tatums_start: shape = (430,)
+tempo: 76.98
+time_signature: 4
+time_signature_confidence: 0.0
+title: Help Me Make It Through the Night
+track_7digitalid: 6435108
+track_id: TRAYIND12903CB7B05
+year: 2002

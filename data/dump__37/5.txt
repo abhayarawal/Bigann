@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7041
+artist_familiarity: 0.887920450193
+artist_hotttnesss: 0.64722472378
+artist_id: ARN5NHX1187FB4F755
+artist_latitude: 41.88415
+artist_location: Chicago, IL
+artist_longitude: -87.63241
+artist_mbid: ba0d6274-db14-4ef5-b28d-657ebde1a396
+artist_mbtags: shape = (16,)
+artist_mbtags_count: shape = (16,)
+artist_name: The Smashing Pumpkins
+artist_playmeid: 66483
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: c7d7269242df295c9424cb7c007cc86d
+bars_confidence: shape = (154,)
+bars_start: shape = (154,)
+beats_confidence: shape = (465,)
+beats_start: shape = (465,)
+danceability: 0.0
+duration: 246.93506
+end_of_fade_in: 0.202
+energy: 0.0
+key: 0
+key_confidence: 1.0
+loudness: -11.253
+mode: 1
+mode_confidence: 0.62
+release: Siamese Dream
+release_7digitalid: 10147
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (540,)
+segments_loudness_max: shape = (540,)
+segments_loudness_max_time: shape = (540,)
+segments_loudness_start: shape = (540,)
+segments_pitches: shape = (540, 12)
+segments_start: shape = (540,)
+segments_timbre: shape = (540, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.713749944248
+song_id: SOARXSQ12A67020F78
+start_of_fade_out: 239.409
+tatums_confidence: shape = (1395,)
+tatums_start: shape = (1395,)
+tempo: 115.938
+time_signature: 3
+time_signature_confidence: 0.733
+title: Rocket
+track_7digitalid: 103822
+track_id: TRAMOPU128E07888FD
+year: 1993

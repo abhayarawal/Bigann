@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 36229
+artist_familiarity: 0.510301323192
+artist_hotttnesss: 0.35297647202
+artist_id: ARW45YR1187FB3DE95
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: da447efe-b2d7-4c62-8743-1d969a108200
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pierre Perret
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 28313e4b08319263b77a975bbe315d7a
+bars_confidence: shape = (168,)
+bars_start: shape = (168,)
+beats_confidence: shape = (512,)
+beats_start: shape = (512,)
+danceability: 0.0
+duration: 277.21098
+end_of_fade_in: 0.16
+energy: 0.0
+key: 10
+key_confidence: 0.506
+loudness: -10.416
+mode: 0
+mode_confidence: 0.503
+release: Le Monde de Pierrot
+release_7digitalid: 584987
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1235,)
+segments_loudness_max: shape = (1235,)
+segments_loudness_max_time: shape = (1235,)
+segments_loudness_start: shape = (1235,)
+segments_pitches: shape = (1235, 12)
+segments_start: shape = (1235,)
+segments_timbre: shape = (1235, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJKSPB12A67AD93AE
+start_of_fade_out: 272.631
+tatums_confidence: shape = (1024,)
+tatums_start: shape = (1024,)
+tempo: 111.682
+time_signature: 3
+time_signature_confidence: 0.88
+title: Marcel
+track_7digitalid: 6485590
+track_id: TRBBLTV12903CC3C00
+year: 1994

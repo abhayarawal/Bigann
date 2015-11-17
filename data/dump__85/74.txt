@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16501
+artist_familiarity: 0.496043251827
+artist_hotttnesss: 0.402627792927
+artist_id: AR2VJMU1187B9947AF
+artist_latitude: 36.49905
+artist_location: Mount Airy, NC
+artist_longitude: -80.60688
+artist_mbid: 9ce777de-7e3f-40fe-8c9e-415955fc49d8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Donna Fargo
+artist_playmeid: 11431
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: a881c236bdb98b0e4a004b46f88df68d
+bars_confidence: shape = (124,)
+bars_start: shape = (124,)
+beats_confidence: shape = (501,)
+beats_start: shape = (501,)
+danceability: 0.0
+duration: 149.62893
+end_of_fade_in: 0.148
+energy: 0.0
+key: 11
+key_confidence: 0.849
+loudness: -9.838
+mode: 1
+mode_confidence: 0.677
+release: 100 #1 Country Hits
+release_7digitalid: 651040
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (624,)
+segments_loudness_max: shape = (624,)
+segments_loudness_max_time: shape = (624,)
+segments_loudness_start: shape = (624,)
+segments_pitches: shape = (624, 12)
+segments_start: shape = (624,)
+segments_timbre: shape = (624, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSQYQG12AB01835EA
+start_of_fade_out: 145.502
+tatums_confidence: shape = (1003,)
+tatums_start: shape = (1003,)
+tempo: 202.358
+time_signature: 4
+time_signature_confidence: 0.0
+title: Superman
+track_7digitalid: 7212150
+track_id: TRBDMAU128F935960B
+year: 1999

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 298
+artist_familiarity: 0.589763812044
+artist_hotttnesss: 0.586729913278
+artist_id: ARMI8BW1187FB57B2E
+artist_latitude: nan
+artist_location: New York, NY
+artist_longitude: nan
+artist_mbid: 98b67ebc-5606-4cdb-9787-47b12cceb101
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kiss
+artist_playmeid: 872
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 9bfaa66f1faecadb68c46cd405455bd0
+bars_confidence: shape = (151,)
+bars_start: shape = (151,)
+beats_confidence: shape = (606,)
+beats_start: shape = (606,)
+danceability: 0.0
+duration: 290.84689
+end_of_fade_in: 1.042
+energy: 0.0
+key: 8
+key_confidence: 0.58
+loudness: -6.558
+mode: 1
+mode_confidence: 0.445
+release: Sonic Boom
+release_7digitalid: 601534
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (740,)
+segments_loudness_max: shape = (740,)
+segments_loudness_max_time: shape = (740,)
+segments_loudness_start: shape = (740,)
+segments_pitches: shape = (740, 12)
+segments_start: shape = (740,)
+segments_timbre: shape = (740, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIFHTU12AC46867F6
+start_of_fade_out: 282.79
+tatums_confidence: shape = (1211,)
+tatums_start: shape = (1211,)
+tempo: 126.418
+time_signature: 4
+time_signature_confidence: 0.446
+title: Stand (Album Version)
+track_7digitalid: 6678941
+track_id: TRBCICD12903CF2BA9
+year: 0

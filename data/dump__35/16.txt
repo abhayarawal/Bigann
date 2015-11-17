@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 90222
+artist_familiarity: 0.737437395434
+artist_hotttnesss: 0.663686475969
+artist_id: ARFWL8S1187B9B4B44
+artist_latitude: nan
+artist_location: Charlemagne, Quebec, Canada
+artist_longitude: nan
+artist_mbid: 847e8a0c-cc20-4213-9e16-975515c2a926
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Céline Dion
+artist_playmeid: 309
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: ef9ffcf94f06aabd767bcdcd40dda092
+bars_confidence: shape = (132,)
+bars_start: shape = (132,)
+beats_confidence: shape = (534,)
+beats_start: shape = (534,)
+danceability: 0.0
+duration: 274.57261
+end_of_fade_in: 0.166
+energy: 0.0
+key: 1
+key_confidence: 0.523
+loudness: -7.722
+mode: 1
+mode_confidence: 0.697
+release: My Love Ultimate Essential Collection
+release_7digitalid: 332606
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (785,)
+segments_loudness_max: shape = (785,)
+segments_loudness_max_time: shape = (785,)
+segments_loudness_start: shape = (785,)
+segments_pitches: shape = (785, 12)
+segments_start: shape = (785,)
+segments_timbre: shape = (785, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOTADG12AF729F5CF
+start_of_fade_out: 261.387
+tatums_confidence: shape = (1068,)
+tatums_start: shape = (1068,)
+tempo: 120.047
+time_signature: 4
+time_signature_confidence: 0.952
+title: Because You Loved Me (Theme from "Up Close and Personal")
+track_7digitalid: 3728270
+track_id: TRALZTM128F92EC5F0
+year: 1996

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11139
+artist_familiarity: 0.698969925264
+artist_hotttnesss: 0.486783024923
+artist_id: ARBHBE91187B9A1F58
+artist_latitude: nan
+artist_location: Fargo, ND
+artist_longitude: nan
+artist_mbid: 6a60adeb-c68a-4efd-b16f-04da75a866a5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jonny Lang
+artist_playmeid: 143990
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: dc1929706a7d55b84e823c363bc30c2c
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (472,)
+beats_start: shape = (472,)
+danceability: 0.0
+duration: 208.32608
+end_of_fade_in: 0.198
+energy: 0.0
+key: 2
+key_confidence: 0.577
+loudness: -6.067
+mode: 1
+mode_confidence: 0.596
+release: Long Time Coming
+release_7digitalid: 46549
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (694,)
+segments_loudness_max: shape = (694,)
+segments_loudness_max_time: shape = (694,)
+segments_loudness_start: shape = (694,)
+segments_pitches: shape = (694, 12)
+segments_start: shape = (694,)
+segments_timbre: shape = (694, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.603030144794
+song_id: SOZCURA12AF72A17B1
+start_of_fade_out: 197.671
+tatums_confidence: shape = (944,)
+tatums_start: shape = (944,)
+tempo: 136.932
+time_signature: 4
+time_signature_confidence: 0.333
+title: The One I Got
+track_7digitalid: 497403
+track_id: TRADJGI128F148B0F6
+year: 2003

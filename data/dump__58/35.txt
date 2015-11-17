@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 52268
+artist_familiarity: 0.852569497907
+artist_hotttnesss: 0.701404765804
+artist_id: ARNAIMI1187FB5733C
+artist_latitude: nan
+artist_location: Miami
+artist_longitude: nan
+artist_mbid: 3813b7cf-5550-42bb-a23f-3d6977f7943e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Rick Ross / Carol City Cartel
+artist_playmeid: 4822
+artist_terms: shape = (8,)
+artist_terms_freq: shape = (8,)
+artist_terms_weight: shape = (8,)
+audio_md5: 1fe9ed142016e7a7a514ad66b54fe115
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (357,)
+beats_start: shape = (357,)
+danceability: 0.0
+duration: 227.57832
+end_of_fade_in: 0.09
+energy: 0.0
+key: 6
+key_confidence: 0.004
+loudness: -6.404
+mode: 1
+mode_confidence: 0.116
+release: Port Of Miami
+release_7digitalid: 67520
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1064,)
+segments_loudness_max: shape = (1064,)
+segments_loudness_max_time: shape = (1064,)
+segments_loudness_start: shape = (1064,)
+segments_pitches: shape = (1064, 12)
+segments_start: shape = (1064,)
+segments_timbre: shape = (1064, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPBMDJ12A67AD8666
+start_of_fade_out: 222.732
+tatums_confidence: shape = (1431,)
+tatums_start: shape = (1431,)
+tempo: 95.585
+time_signature: 4
+time_signature_confidence: 0.948
+title: It Ain't A Problem
+track_7digitalid: 705101
+track_id: TRATXMS128EF340BEC
+year: 0

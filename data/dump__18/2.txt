@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7550
+artist_familiarity: 0.693287838551
+artist_hotttnesss: 0.393274491405
+artist_id: ARMPQIE1187FB3D4EB
+artist_latitude: nan
+artist_location: Kingston, Jamaica
+artist_longitude: nan
+artist_mbid: 42c7542e-71d1-488a-ba2f-9a368c9147f2
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Bounty Killer
+artist_playmeid: 34166
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 6e7a8b53bf8b31e04ad73d49c5b04390
+bars_confidence: shape = (85,)
+bars_start: shape = (85,)
+beats_confidence: shape = (433,)
+beats_start: shape = (433,)
+danceability: 0.0
+duration: 227.5522
+end_of_fade_in: 0.182
+energy: 0.0
+key: 1
+key_confidence: 0.577
+loudness: -7.113
+mode: 1
+mode_confidence: 0.46
+release: Strictly The Best Vol. 15
+release_7digitalid: 700059
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1077,)
+segments_loudness_max: shape = (1077,)
+segments_loudness_max_time: shape = (1077,)
+segments_loudness_start: shape = (1077,)
+segments_pitches: shape = (1077, 12)
+segments_start: shape = (1077,)
+segments_timbre: shape = (1077, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAGRTC12AC468B954
+start_of_fade_out: 222.848
+tatums_confidence: shape = (867,)
+tatums_start: shape = (867,)
+tempo: 114.272
+time_signature: 5
+time_signature_confidence: 1.0
+title: Ask Fi War
+track_7digitalid: 7766977
+track_id: TRAGDKW12903D0E755
+year: 0

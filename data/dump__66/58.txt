@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17517
+artist_familiarity: 0.501144995753
+artist_hotttnesss: 0.230130793752
+artist_id: ARXGWZP11F4C83C075
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Leon Lai
+artist_playmeid: 123429
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 4dcd28d639d62011d9bb20d987ccc4bf
+bars_confidence: shape = (139,)
+bars_start: shape = (139,)
+beats_confidence: shape = (560,)
+beats_start: shape = (560,)
+danceability: 0.0
+duration: 265.482
+end_of_fade_in: 0.374
+energy: 0.0
+key: 11
+key_confidence: 0.051
+loudness: -12.24
+mode: 0
+mode_confidence: 0.301
+release: Yi Ge Gu Shi
+release_7digitalid: 465578
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (852,)
+segments_loudness_max: shape = (852,)
+segments_loudness_max_time: shape = (852,)
+segments_loudness_start: shape = (852,)
+segments_pitches: shape = (852, 12)
+segments_start: shape = (852,)
+segments_timbre: shape = (852, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLSYJA12AB018810D
+start_of_fade_out: 256.348
+tatums_confidence: shape = (1120,)
+tatums_start: shape = (1120,)
+tempo: 130.008
+time_signature: 4
+time_signature_confidence: 0.263
+title: Mei Zi
+track_7digitalid: 5180089
+track_id: TRAWSDQ128F9336A19
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 229621
+artist_familiarity: 0.351182453883
+artist_hotttnesss: 0.0801669386642
+artist_id: AR051KA1187B98B2FF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9db08847-f7a8-4cd2-a425-3ab4adc5b4d3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Wilks
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 176ebf2a066d23bf77b03ad7847bf422
+bars_confidence: shape = (93,)
+bars_start: shape = (93,)
+beats_confidence: shape = (376,)
+beats_start: shape = (376,)
+danceability: 0.0
+duration: 261.51138
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.237
+loudness: -7.64
+mode: 0
+mode_confidence: 0.0
+release: Tears
+release_7digitalid: 288454
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1132,)
+segments_loudness_max: shape = (1132,)
+segments_loudness_max_time: shape = (1132,)
+segments_loudness_start: shape = (1132,)
+segments_pitches: shape = (1132, 12)
+segments_start: shape = (1132,)
+segments_timbre: shape = (1132, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLYIBD12A8C135045
+start_of_fade_out: 247.525
+tatums_confidence: shape = (752,)
+tatums_start: shape = (752,)
+tempo: 88.973
+time_signature: 4
+time_signature_confidence: 1.0
+title: Music is what we love
+track_7digitalid: 3237646
+track_id: TRABCPZ128F4275C32
+year: 0

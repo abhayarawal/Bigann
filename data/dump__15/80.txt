@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 83795
+artist_familiarity: 0.475142470746
+artist_hotttnesss: 0.290835364032
+artist_id: ARL4M621187FB3FF06
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d797e11e-f963-48f1-8076-67d5748cc5d6
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Massiel
+artist_playmeid: 27621
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 4073d2d2eb1544913561e36e4dfed8a7
+bars_confidence: shape = (110,)
+bars_start: shape = (110,)
+beats_confidence: shape = (444,)
+beats_start: shape = (444,)
+danceability: 0.0
+duration: 192.20853
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.645
+loudness: -7.012
+mode: 0
+mode_confidence: 0.478
+release: Serie 3x4 (Karina_ Massiel_ Jeanette)
+release_7digitalid: 106926
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (738,)
+segments_loudness_max: shape = (738,)
+segments_loudness_max_time: shape = (738,)
+segments_loudness_start: shape = (738,)
+segments_pitches: shape = (738, 12)
+segments_start: shape = (738,)
+segments_timbre: shape = (738, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOUKOB12A8C13C30B
+start_of_fade_out: 188.349
+tatums_confidence: shape = (888,)
+tatums_start: shape = (888,)
+tempo: 141.681
+time_signature: 4
+time_signature_confidence: 0.55
+title: Acordeón
+track_7digitalid: 1107305
+track_id: TRAFJVI128F428FA50
+year: 0

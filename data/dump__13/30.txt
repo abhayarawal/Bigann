@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10173
+artist_familiarity: 0.87253659867
+artist_hotttnesss: 0.610731462904
+artist_id: AR12F2S1187FB56EEF
+artist_latitude: nan
+artist_location: Boston, MA
+artist_longitude: nan
+artist_mbid: 3d2b98e5-556f-4451-a3ff-c50ea18d57cb
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Aerosmith
+artist_playmeid: 39
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 564bd6e2c53a6da7916ef4f222656fba
+bars_confidence: shape = (428,)
+bars_start: shape = (428,)
+beats_confidence: shape = (428,)
+beats_start: shape = (428,)
+danceability: 0.0
+duration: 335.33342
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.458
+loudness: -5.763
+mode: 1
+mode_confidence: 0.642
+release: A Little South Of Sanity
+release_7digitalid: 419069
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (726,)
+segments_loudness_max: shape = (726,)
+segments_loudness_max_time: shape = (726,)
+segments_loudness_start: shape = (726,)
+segments_pitches: shape = (726, 12)
+segments_start: shape = (726,)
+segments_timbre: shape = (726, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.415049772316
+song_id: SOGVJTG12A6701E991
+start_of_fade_out: 335.333
+tatums_confidence: shape = (856,)
+tatums_start: shape = (856,)
+tempo: 76.096
+time_signature: 1
+time_signature_confidence: 0.283
+title: Angel
+track_7digitalid: 4672563
+track_id: TRAEMNZ128F9334662
+year: 1987

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 252034
+artist_familiarity: 0.448025345538
+artist_hotttnesss: 0.393622171732
+artist_id: AR7CCS31187B98C531
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b680492b-1c40-4a57-845e-4d1e57f2f0f5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tom Barabas
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 8ef62f501e14f377f27dce0163336fc0
+bars_confidence: shape = (622,)
+bars_start: shape = (622,)
+beats_confidence: shape = (622,)
+beats_start: shape = (622,)
+danceability: 0.0
+duration: 276.79302
+end_of_fade_in: 0.38
+energy: 0.0
+key: 7
+key_confidence: 0.527
+loudness: -22.645
+mode: 1
+mode_confidence: 0.697
+release: Tom Barabas Live
+release_7digitalid: 485210
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (869,)
+segments_loudness_max: shape = (869,)
+segments_loudness_max_time: shape = (869,)
+segments_loudness_start: shape = (869,)
+segments_pitches: shape = (869, 12)
+segments_start: shape = (869,)
+segments_timbre: shape = (869, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.579728748614
+song_id: SOAUNDO12AB017BFF8
+start_of_fade_out: 253.933
+tatums_confidence: shape = (1244,)
+tatums_start: shape = (1244,)
+tempo: 138.83
+time_signature: 1
+time_signature_confidence: 0.0
+title: More Than Words
+track_7digitalid: 5383932
+track_id: TRAFPDD128F92FBBA6
+year: 1992

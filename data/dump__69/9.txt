@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22747
+artist_familiarity: 0.623696863116
+artist_hotttnesss: 0.400211297918
+artist_id: AR07VS41187FB37944
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d99a6247-94ab-4685-87df-572ba6ef44b7
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Mungo Jerry
+artist_playmeid: 3288
+artist_terms: shape = (50,)
+artist_terms_freq: shape = (50,)
+artist_terms_weight: shape = (50,)
+audio_md5: ba1edf5ba033b218f00ba40e242c4542
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (416,)
+beats_start: shape = (416,)
+danceability: 0.0
+duration: 155.24526
+end_of_fade_in: 0.996
+energy: 0.0
+key: 9
+key_confidence: 0.49
+loudness: -15.512
+mode: 1
+mode_confidence: 0.498
+release: In The Summertime - Greatest Hits
+release_7digitalid: 537529
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (574,)
+segments_loudness_max: shape = (574,)
+segments_loudness_max_time: shape = (574,)
+segments_loudness_start: shape = (574,)
+segments_pitches: shape = (574, 12)
+segments_start: shape = (574,)
+segments_timbre: shape = (574, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTDUIP12AB017EDD5
+start_of_fade_out: 147.389
+tatums_confidence: shape = (832,)
+tatums_start: shape = (832,)
+tempo: 167.793
+time_signature: 4
+time_signature_confidence: 1.0
+title: Pushbike Song
+track_7digitalid: 5945393
+track_id: TRAXOQP128F930DD49
+year: 2001

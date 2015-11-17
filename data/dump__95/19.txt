@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 365
+artist_familiarity: 0.865970006331
+artist_hotttnesss: 0.594733860303
+artist_id: ARJA1841187FB3A029
+artist_latitude: 51.50632
+artist_location: London, UK
+artist_longitude: -0.12714
+artist_mbid: 5441c29d-3602-4898-b1a1-b77fa23b8e50
+artist_mbtags: shape = (13,)
+artist_mbtags_count: shape = (13,)
+artist_name: David Bowie
+artist_playmeid: 421
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 4fd480ecc939271adc2020d274a8b31e
+bars_confidence: shape = (188,)
+bars_start: shape = (188,)
+beats_confidence: shape = (567,)
+beats_start: shape = (567,)
+danceability: 0.0
+duration: 243.06893
+end_of_fade_in: 1.019
+energy: 0.0
+key: 0
+key_confidence: 0.588
+loudness: -10.502
+mode: 1
+mode_confidence: 0.561
+release: In Bertolt Brecht's Baal
+release_7digitalid: 53426
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (781,)
+segments_loudness_max: shape = (781,)
+segments_loudness_max_time: shape = (781,)
+segments_loudness_start: shape = (781,)
+segments_pitches: shape = (781, 12)
+segments_start: shape = (781,)
+segments_timbre: shape = (781, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.270583472485
+song_id: SOGDJWU12A58A7DA10
+start_of_fade_out: 239.52
+tatums_confidence: shape = (567,)
+tatums_start: shape = (567,)
+tempo: 141.816
+time_signature: 3
+time_signature_confidence: 0.312
+title: Baal's Hymn
+track_7digitalid: 556780
+track_id: TRBGUUE128F1494FB6
+year: 1982

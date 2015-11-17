@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2180
+artist_familiarity: 0.628121340029
+artist_hotttnesss: 0.418946871251
+artist_id: AR1WC0X1187B991056
+artist_latitude: 37.77916
+artist_location: San Francisco, CA
+artist_longitude: -122.42005
+artist_mbid: 4854429b-66f7-41c0-a89c-030bb7ccf958
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Jefferson Starship
+artist_playmeid: 8009
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 2f362b9361c3f1a8ae254bb8a9ef8e7f
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (437,)
+beats_start: shape = (437,)
+danceability: 0.0
+duration: 220.52526
+end_of_fade_in: 0.226
+energy: 0.0
+key: 10
+key_confidence: 0.58
+loudness: -8.365
+mode: 1
+mode_confidence: 0.562
+release: Original Album Classics
+release_7digitalid: 668390
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (552,)
+segments_loudness_max: shape = (552,)
+segments_loudness_max_time: shape = (552,)
+segments_loudness_start: shape = (552,)
+segments_pitches: shape = (552, 12)
+segments_start: shape = (552,)
+segments_timbre: shape = (552, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.285429881701
+song_id: SOZQJKU12A8C13A0C1
+start_of_fade_out: 212.434
+tatums_confidence: shape = (874,)
+tatums_start: shape = (874,)
+tempo: 122.348
+time_signature: 4
+time_signature_confidence: 1.0
+title: Fading Lady Light
+track_7digitalid: 7410662
+track_id: TRAUNPM12903CB7CCC
+year: 0

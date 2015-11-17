@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 71484
+artist_familiarity: 0.405923906651
+artist_hotttnesss: 0.281396284445
+artist_id: AR15YLD1187FB3D4DD
+artist_latitude: 55.67631
+artist_location: Copenhagen, Denmark
+artist_longitude: 12.56935
+artist_mbid: 27fc27ae-3d8d-40cd-b3cf-ed2541a2321d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: John Tchicai
+artist_playmeid: 56888
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 230e2772429ca60b77be55bb29fed54d
+bars_confidence: shape = (44,)
+bars_start: shape = (44,)
+beats_confidence: shape = (331,)
+beats_start: shape = (331,)
+danceability: 0.0
+duration: 191.92118
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.162
+loudness: -39.325
+mode: 1
+mode_confidence: 0.222
+release: Anybody Home?
+release_7digitalid: 93215
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (252,)
+segments_loudness_max: shape = (252,)
+segments_loudness_max_time: shape = (252,)
+segments_loudness_start: shape = (252,)
+segments_pitches: shape = (252, 12)
+segments_start: shape = (252,)
+segments_timbre: shape = (252, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMABKL12A8C138314
+start_of_fade_out: 181.83
+tatums_confidence: shape = (662,)
+tatums_start: shape = (662,)
+tempo: 105.096
+time_signature: 7
+time_signature_confidence: 0.74
+title: Drunnhvita Elevator
+track_7digitalid: 999228
+track_id: TRAZEFH128F4276468
+year: 0

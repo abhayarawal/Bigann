@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8805
+artist_familiarity: 0.433317390445
+artist_hotttnesss: 0.349886289133
+artist_id: ARGP7WY1187FB45464
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 056c5d14-7d26-4b96-a512-380ad5eee02f
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Edmond Leung
+artist_playmeid: 70735
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 6ee8b442d5ddac604ed434419a54bee2
+bars_confidence: shape = (90,)
+bars_start: shape = (90,)
+beats_confidence: shape = (370,)
+beats_start: shape = (370,)
+danceability: 0.0
+duration: 211.17342
+end_of_fade_in: 0.345
+energy: 0.0
+key: 0
+key_confidence: 0.537
+loudness: -6.164
+mode: 1
+mode_confidence: 0.508
+release: Edmond Leung Collections
+release_7digitalid: 300907
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (746,)
+segments_loudness_max: shape = (746,)
+segments_loudness_max_time: shape = (746,)
+segments_loudness_start: shape = (746,)
+segments_pitches: shape = (746, 12)
+segments_start: shape = (746,)
+segments_timbre: shape = (746, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJPEUX12A8C138B18
+start_of_fade_out: 208.771
+tatums_confidence: shape = (740,)
+tatums_start: shape = (740,)
+tempo: 106.879
+time_signature: 4
+time_signature_confidence: 1.0
+title: Xing Dao Shou
+track_7digitalid: 3370060
+track_id: TRANYQD128F4295A3E
+year: 0

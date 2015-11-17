@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2853
+artist_familiarity: 0.572500600682
+artist_hotttnesss: 0.368054038751
+artist_id: ARN7OQ21187FB5A6B3
+artist_latitude: nan
+artist_location: Greenwood, MS
+artist_longitude: nan
+artist_mbid: c60131ae-9e8f-46a8-a7d2-1393fe48a9d1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Furry Lewis
+artist_playmeid: 30562
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 8bf5856f32a293e2ecc17df0bb6d45db
+bars_confidence: shape = (141,)
+bars_start: shape = (141,)
+beats_confidence: shape = (578,)
+beats_start: shape = (578,)
+danceability: 0.0
+duration: 234.78812
+end_of_fade_in: 0.328
+energy: 0.0
+key: 10
+key_confidence: 0.074
+loudness: -8.032
+mode: 0
+mode_confidence: 0.366
+release: Good Morning Judge
+release_7digitalid: 541577
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (793,)
+segments_loudness_max: shape = (793,)
+segments_loudness_max_time: shape = (793,)
+segments_loudness_start: shape = (793,)
+segments_pitches: shape = (793, 12)
+segments_start: shape = (793,)
+segments_timbre: shape = (793, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.494489517502
+song_id: SOQKKCG12AB017D5C4
+start_of_fade_out: 234.788
+tatums_confidence: shape = (578,)
+tatums_start: shape = (578,)
+tempo: 146.569
+time_signature: 4
+time_signature_confidence: 0.449
+title: Old Hobo
+track_7digitalid: 5994297
+track_id: TRAEABT128F931984D
+year: 2003

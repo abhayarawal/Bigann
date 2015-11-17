@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 87883
+artist_familiarity: 0.547938241204
+artist_hotttnesss: 0.374791219264
+artist_id: AR37ILI1187B98E27B
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: 748161b8-ec62-4423-b6f1-3a8026190ebb
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Shriekback
+artist_playmeid: -1
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 26a1b215eabc2eaf9ecb4399ef321f47
+bars_confidence: shape = (153,)
+bars_start: shape = (153,)
+beats_confidence: shape = (769,)
+beats_start: shape = (769,)
+danceability: 0.0
+duration: 297.92608
+end_of_fade_in: 0.218
+energy: 0.0
+key: 5
+key_confidence: 1.0
+loudness: -13.339
+mode: 1
+mode_confidence: 0.844
+release: Big Night Music
+release_7digitalid: 679623
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1231,)
+segments_loudness_max: shape = (1231,)
+segments_loudness_max_time: shape = (1231,)
+segments_loudness_start: shape = (1231,)
+segments_pitches: shape = (1231, 12)
+segments_start: shape = (1231,)
+segments_timbre: shape = (1231, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOXSNIW12AB018681A
+start_of_fade_out: 291.666
+tatums_confidence: shape = (2306,)
+tatums_start: shape = (2306,)
+tempo: 157.956
+time_signature: 5
+time_signature_confidence: 0.767
+title: Running On The Rocks
+track_7digitalid: 7540832
+track_id: TRAJODO12903CD7591
+year: 1986

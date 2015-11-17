@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 522
+artist_familiarity: 0.814829656133
+artist_hotttnesss: 0.776037656053
+artist_id: ARFCUN31187B9AD578
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: b071f9fa-14b0-4217-8e97-eb41da73f598
+artist_mbtags: shape = (13,)
+artist_mbtags_count: shape = (13,)
+artist_name: The Rolling Stones
+artist_playmeid: 10490
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: ef2f9bd9c95bf229cf34bbc531cf72c0
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (306,)
+beats_start: shape = (306,)
+danceability: 0.0
+duration: 172.72118
+end_of_fade_in: 0.183
+energy: 0.0
+key: 4
+key_confidence: 0.494
+loudness: -7.343
+mode: 1
+mode_confidence: 0.344
+release: 12 x 5
+release_7digitalid: 350902
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (527,)
+segments_loudness_max: shape = (527,)
+segments_loudness_max_time: shape = (527,)
+segments_loudness_start: shape = (527,)
+segments_pitches: shape = (527, 12)
+segments_start: shape = (527,)
+segments_timbre: shape = (527, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODLKUO12A8C13CA35
+start_of_fade_out: 164.148
+tatums_confidence: shape = (613,)
+tatums_start: shape = (613,)
+tempo: 107.455
+time_signature: 3
+time_signature_confidence: 1.0
+title: Time Is On My Side
+track_7digitalid: 3922023
+track_id: TRAERPT128F931103E
+year: 1964

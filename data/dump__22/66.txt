@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19729
+artist_familiarity: 0.46258543954
+artist_hotttnesss: 0.309656148697
+artist_id: ARFLBJQ1187B9B928D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2caeff7f-8b83-4a01-9d2c-dc1ac27c6934
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Nando Lauria
+artist_playmeid: 66669
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: a7fb28c12bce0cbaa0ac7acbee36a718
+bars_confidence: shape = (90,)
+bars_start: shape = (90,)
+beats_confidence: shape = (367,)
+beats_start: shape = (367,)
+danceability: 0.0
+duration: 210.52036
+end_of_fade_in: 0.224
+energy: 0.0
+key: 10
+key_confidence: 0.71
+loudness: -12.928
+mode: 1
+mode_confidence: 0.773
+release: Latino Christmas
+release_7digitalid: 399772
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (419,)
+segments_loudness_max: shape = (419,)
+segments_loudness_max_time: shape = (419,)
+segments_loudness_start: shape = (419,)
+segments_pitches: shape = (419, 12)
+segments_start: shape = (419,)
+segments_timbre: shape = (419, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.42530424172
+song_id: SOOOUCP12AB0180D5B
+start_of_fade_out: 198.972
+tatums_confidence: shape = (734,)
+tatums_start: shape = (734,)
+tempo: 106.658
+time_signature: 4
+time_signature_confidence: 1.0
+title: O Come All Ye Faithful
+track_7digitalid: 4434705
+track_id: TRAHSFC128F9303E8E
+year: 2003

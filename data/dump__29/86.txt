@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 88409
+artist_familiarity: 0.601395113088
+artist_hotttnesss: 0.436730221089
+artist_id: AR05NQH1187B98E875
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0efa01aa-2725-48af-a7df-273faa718ed6
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Kassav'
+artist_playmeid: 10761
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: ea76cd24484abea965e86ae320a5ad94
+bars_confidence: shape = (135,)
+bars_start: shape = (135,)
+beats_confidence: shape = (545,)
+beats_start: shape = (545,)
+danceability: 0.0
+duration: 335.56853
+end_of_fade_in: 3.135
+energy: 0.0
+key: 8
+key_confidence: 0.522
+loudness: -6.824
+mode: 1
+mode_confidence: 0.479
+release: Nou La
+release_7digitalid: 289937
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1598,)
+segments_loudness_max: shape = (1598,)
+segments_loudness_max_time: shape = (1598,)
+segments_loudness_start: shape = (1598,)
+segments_pitches: shape = (1598, 12)
+segments_start: shape = (1598,)
+segments_timbre: shape = (1598, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SODTEEH12A8C133B01
+start_of_fade_out: 318.578
+tatums_confidence: shape = (2182,)
+tatums_start: shape = (2182,)
+tempo: 97.999
+time_signature: 4
+time_signature_confidence: 0.864
+title: Loko
+track_7digitalid: 3251167
+track_id: TRAKBTM128F4279096
+year: 2000

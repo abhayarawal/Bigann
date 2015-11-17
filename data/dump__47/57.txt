@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 52966
+artist_familiarity: 0.782984211165
+artist_hotttnesss: 0.675117718829
+artist_id: AR190KO1187B9905EC
+artist_latitude: 34.05349
+artist_location: Sydney, Australia
+artist_longitude: -118.24532
+artist_mbid: 86f78011-5087-48d2-8922-c381d2eb0c40
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Sick Puppies
+artist_playmeid: 8849
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: c9ed6c55c5653e271ce233c84a84f5fc
+bars_confidence: shape = (71,)
+bars_start: shape = (71,)
+beats_confidence: shape = (290,)
+beats_start: shape = (290,)
+danceability: 0.0
+duration: 190.9024
+end_of_fade_in: 0.218
+energy: 0.0
+key: 5
+key_confidence: 0.557
+loudness: -4.531
+mode: 1
+mode_confidence: 0.524
+release: Dressed Up As Life
+release_7digitalid: 74767
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (526,)
+segments_loudness_max: shape = (526,)
+segments_loudness_max_time: shape = (526,)
+segments_loudness_start: shape = (526,)
+segments_pitches: shape = (526, 12)
+segments_start: shape = (526,)
+segments_timbre: shape = (526, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHCYND12AF72A3CD9
+start_of_fade_out: 190.902
+tatums_confidence: shape = (1159,)
+tatums_start: shape = (1159,)
+tempo: 91.145
+time_signature: 4
+time_signature_confidence: 0.664
+title: Deliverance
+track_7digitalid: 771685
+track_id: TRAQEVV128EF34E413
+year: 2006

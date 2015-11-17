@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 196711
+artist_familiarity: 0.651957876937
+artist_hotttnesss: 0.436220548184
+artist_id: ARDDTL91187B9974A7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4e359ed9-ea2a-46ac-9f54-df3cdfa4d95e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Warren Barfield
+artist_playmeid: 7127
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 81d222d717843e5995b246499243d632
+bars_confidence: shape = (99,)
+bars_start: shape = (99,)
+beats_confidence: shape = (399,)
+beats_start: shape = (399,)
+danceability: 0.0
+duration: 207.51628
+end_of_fade_in: 0.154
+energy: 0.0
+key: 11
+key_confidence: 0.574
+loudness: -6.748
+mode: 1
+mode_confidence: 0.525
+release: Reach
+release_7digitalid: 578327
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (685,)
+segments_loudness_max: shape = (685,)
+segments_loudness_max_time: shape = (685,)
+segments_loudness_start: shape = (685,)
+segments_pitches: shape = (685, 12)
+segments_start: shape = (685,)
+segments_timbre: shape = (685, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOYVONC12AB0187167
+start_of_fade_out: 197.416
+tatums_confidence: shape = (798,)
+tatums_start: shape = (798,)
+tempo: 117.985
+time_signature: 4
+time_signature_confidence: 0.746
+title: Shadow
+track_7digitalid: 6415474
+track_id: TRACHFO12903CB3009
+year: 2006

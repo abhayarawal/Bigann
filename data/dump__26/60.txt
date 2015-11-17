@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4705
+artist_familiarity: 0.707839968442
+artist_hotttnesss: 0.532445870959
+artist_id: ARYML1P1187B9AF39B
+artist_latitude: nan
+artist_location: Georgia
+artist_longitude: nan
+artist_mbid: d2db1078-c170-4e22-b261-14f3ad60a690
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Devo
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 8dad9f8096c7002f0bf6cd616105ac8b
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (355,)
+beats_start: shape = (355,)
+danceability: 0.0
+duration: 141.08689
+end_of_fade_in: 0.16
+energy: 0.0
+key: 9
+key_confidence: 0.805
+loudness: -11.714
+mode: 1
+mode_confidence: 0.524
+release: Q: Are We Not Men?  A: We Are Devo / Devo Live
+release_7digitalid: 28253
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (489,)
+segments_loudness_max: shape = (489,)
+segments_loudness_max_time: shape = (489,)
+segments_loudness_start: shape = (489,)
+segments_pitches: shape = (489, 12)
+segments_start: shape = (489,)
+segments_timbre: shape = (489, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.509640965552
+song_id: SOJBRYI12A6D4F80EF
+start_of_fade_out: 133.846
+tatums_confidence: shape = (709,)
+tatums_start: shape = (709,)
+tempo: 155.26
+time_signature: 4
+time_signature_confidence: 0.813
+title: Soo Bawlz
+track_7digitalid: 309588
+track_id: TRAIXQL128F1467D66
+year: 1979

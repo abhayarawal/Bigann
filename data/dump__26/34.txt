@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16470
+artist_familiarity: 0.632130913015
+artist_hotttnesss: 0.472281210651
+artist_id: ARO0QD41187FB3AB0A
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 280ddd36-ac7d-4446-8689-a548d6f3458e
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Keb'Mo'
+artist_playmeid: 13085
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: d0d99c593e8f507a93da868cd8c46b44
+bars_confidence: shape = (54,)
+bars_start: shape = (54,)
+beats_confidence: shape = (222,)
+beats_start: shape = (222,)
+danceability: 0.0
+duration: 176.5873
+end_of_fade_in: 1.468
+energy: 0.0
+key: 7
+key_confidence: 0.677
+loudness: -15.608
+mode: 1
+mode_confidence: 0.65
+release: Keb' Mo'
+release_7digitalid: 282923
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (497,)
+segments_loudness_max: shape = (497,)
+segments_loudness_max_time: shape = (497,)
+segments_loudness_start: shape = (497,)
+segments_pitches: shape = (497, 12)
+segments_start: shape = (497,)
+segments_timbre: shape = (497, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.66249316082
+song_id: SOQMZCQ12A8C1335F0
+start_of_fade_out: 165.309
+tatums_confidence: shape = (445,)
+tatums_start: shape = (445,)
+tempo: 79.151
+time_signature: 4
+time_signature_confidence: 0.93
+title: Anybody Seen My Girl
+track_7digitalid: 3162777
+track_id: TRAIVMM128F4266056
+year: 1994

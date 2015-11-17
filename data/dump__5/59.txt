@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 48509
+artist_familiarity: 0.555966789433
+artist_hotttnesss: 0.338110388112
+artist_id: AR9KWJK1187FB4A531
+artist_latitude: 18.22328
+artist_location: Cuomo, Puerto Rico
+artist_longitude: -66.42889
+artist_mbid: 6d1d1fca-3f97-4919-970d-9089aa830aa3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Willie Rosario
+artist_playmeid: 56331
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 99f3c1372c185c447a52c1c2646047a6
+bars_confidence: shape = (227,)
+bars_start: shape = (227,)
+beats_confidence: shape = (910,)
+beats_start: shape = (910,)
+danceability: 0.0
+duration: 281.41669
+end_of_fade_in: 0.148
+energy: 0.0
+key: 7
+key_confidence: 0.602
+loudness: -5.799
+mode: 1
+mode_confidence: 0.501
+release: Back To The Future
+release_7digitalid: 227007
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1222,)
+segments_loudness_max: shape = (1222,)
+segments_loudness_max_time: shape = (1222,)
+segments_loudness_start: shape = (1222,)
+segments_pitches: shape = (1222, 12)
+segments_start: shape = (1222,)
+segments_timbre: shape = (1222, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.569275650675
+song_id: SOZVBBA12A6D4FD1A8
+start_of_fade_out: 276.364
+tatums_confidence: shape = (1820,)
+tatums_start: shape = (1820,)
+tempo: 197.458
+time_signature: 4
+time_signature_confidence: 0.0
+title: Un Tipo Como Yo
+track_7digitalid: 2507647
+track_id: TRABVAR128F421CFCB
+year: 1999

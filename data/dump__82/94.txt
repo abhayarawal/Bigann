@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8860
+artist_familiarity: 0.937964750397
+artist_hotttnesss: 0.566622887558
+artist_id: ARSG7NQ1187FB57482
+artist_latitude: nan
+artist_location: Wilmette, IL
+artist_longitude: nan
+artist_mbid: 516cef4d-0718-4007-9939-f9b38af3f784
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Fall Out Boy
+artist_playmeid: 2598
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 7ad40bb1bc56efeb26134d986073c1dd
+bars_confidence: shape = (177,)
+bars_start: shape = (177,)
+beats_confidence: shape = (711,)
+beats_start: shape = (711,)
+danceability: 0.0
+duration: 275.3824
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.292
+loudness: -3.214
+mode: 1
+mode_confidence: 0.413
+release: Folie à Deux
+release_7digitalid: 415212
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (832,)
+segments_loudness_max: shape = (832,)
+segments_loudness_max_time: shape = (832,)
+segments_loudness_start: shape = (832,)
+segments_pitches: shape = (832, 12)
+segments_start: shape = (832,)
+segments_timbre: shape = (832, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.685642423805
+song_id: SORSXYJ12AB01882C9
+start_of_fade_out: 271.325
+tatums_confidence: shape = (1421,)
+tatums_start: shape = (1421,)
+tempo: 155.038
+time_signature: 4
+time_signature_confidence: 0.228
+title: (Coffee's For Closers)
+track_7digitalid: 4652953
+track_id: TRBCKSF128F932FA70
+year: 2008

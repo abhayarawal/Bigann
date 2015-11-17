@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13625
+artist_familiarity: 0.873238652758
+artist_hotttnesss: 0.519965479287
+artist_id: ARIMZQZ1187B9AD541
+artist_latitude: nan
+artist_location: Orange, CA
+artist_longitude: nan
+artist_mbid: 244afcb7-fa9a-49b1-9aa6-0149512d1c52
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Thrice
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: cf34e458b51f5e562bff2fbd8b3bbdf9
+bars_confidence: shape = (324,)
+bars_start: shape = (324,)
+beats_confidence: shape = (324,)
+beats_start: shape = (324,)
+danceability: 0.0
+duration: 169.63873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 1.0
+loudness: -5.176
+mode: 1
+mode_confidence: 0.606
+release: The Illusion of Safety
+release_7digitalid: 628265
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (651,)
+segments_loudness_max: shape = (651,)
+segments_loudness_max_time: shape = (651,)
+segments_loudness_start: shape = (651,)
+segments_pitches: shape = (651, 12)
+segments_start: shape = (651,)
+segments_timbre: shape = (651, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.735346456486
+song_id: SOUQYYT12A8C13BA09
+start_of_fade_out: 166.934
+tatums_confidence: shape = (647,)
+tatums_start: shape = (647,)
+tempo: 114.179
+time_signature: 1
+time_signature_confidence: 0.0
+title: Betrayal Is A Symptom
+track_7digitalid: 6973431
+track_id: TRASAIH128F931F567
+year: 2002

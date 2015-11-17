@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4947
+artist_familiarity: 0.679789023574
+artist_hotttnesss: 0.483035298046
+artist_id: ARWVVVP1187FB52F31
+artist_latitude: nan
+artist_location: Cleveland, TN
+artist_longitude: nan
+artist_mbid: 1d13f774-b0cd-4879-9960-33b597c77672
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mark Wills
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: eed54a7cfb3235267dd835bb101268e2
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (323,)
+beats_start: shape = (323,)
+danceability: 0.0
+duration: 210.33751
+end_of_fade_in: 0.256
+energy: 0.0
+key: 2
+key_confidence: 1.0
+loudness: -5.849
+mode: 1
+mode_confidence: 0.921
+release: And The Crowd Goes Wild
+release_7digitalid: 46544
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (621,)
+segments_loudness_max: shape = (621,)
+segments_loudness_max_time: shape = (621,)
+segments_loudness_start: shape = (621,)
+segments_pitches: shape = (621, 12)
+segments_start: shape = (621,)
+segments_timbre: shape = (621, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.503381236206
+song_id: SOVKVJM12A6D4F972F
+start_of_fade_out: 194.096
+tatums_confidence: shape = (646,)
+tatums_start: shape = (646,)
+tempo: 96.071
+time_signature: 4
+time_signature_confidence: 0.0
+title: How Bad Do You Want It
+track_7digitalid: 497351
+track_id: TRAMXPQ128F148B0C2
+year: 2003

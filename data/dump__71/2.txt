@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 56876
+artist_familiarity: 0.447808057068
+artist_hotttnesss: 0.291913130379
+artist_id: ARG51IA1187B9B143A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 36e41722-0b6b-48e8-9a28-a80c35c0581e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Scott Glasgow
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 9b2812976808e10a48ddf4b57abf5c1f
+bars_confidence: shape = (53,)
+bars_start: shape = (53,)
+beats_confidence: shape = (53,)
+beats_start: shape = (53,)
+danceability: 0.0
+duration: 85.15873
+end_of_fade_in: 7.227
+energy: 0.0
+key: 11
+key_confidence: 0.001
+loudness: -28.158
+mode: 1
+mode_confidence: 0.137
+release: The Gene Generation
+release_7digitalid: 433265
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (117,)
+segments_loudness_max: shape = (117,)
+segments_loudness_max_time: shape = (117,)
+segments_loudness_start: shape = (117,)
+segments_pitches: shape = (117, 12)
+segments_start: shape = (117,)
+segments_timbre: shape = (117, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIHBHO12AAF3B3EA2
+start_of_fade_out: 76.91
+tatums_confidence: shape = (104,)
+tatums_start: shape = (104,)
+tempo: 42.183
+time_signature: 1
+time_signature_confidence: 0.0
+title: Solemn
+track_7digitalid: 4828870
+track_id: TRAYHSH128F92E4A6F
+year: 2009

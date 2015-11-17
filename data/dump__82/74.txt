@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 35
+artist_familiarity: 0.817635146361
+artist_hotttnesss: 0.564005985821
+artist_id: AR40GSU1187FB3AA01
+artist_latitude: nan
+artist_location: Brooklyn, NY
+artist_longitude: nan
+artist_mbid: a42d3fd5-55de-4206-86c3-4fbb5404018f
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Neil Diamond
+artist_playmeid: 2589
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 1b6b3c97eb752125a325f2e36e8f97de
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (402,)
+beats_start: shape = (402,)
+danceability: 0.0
+duration: 267.57179
+end_of_fade_in: 0.386
+energy: 0.0
+key: 5
+key_confidence: 0.886
+loudness: -9.413
+mode: 1
+mode_confidence: 0.711
+release: Tennessee Moon
+release_7digitalid: 282123
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (741,)
+segments_loudness_max: shape = (741,)
+segments_loudness_max_time: shape = (741,)
+segments_loudness_start: shape = (741,)
+segments_pitches: shape = (741, 12)
+segments_start: shape = (741,)
+segments_timbre: shape = (741, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOMNOUE12A8C130DDE
+start_of_fade_out: 259.796
+tatums_confidence: shape = (804,)
+tatums_start: shape = (804,)
+tempo: 91.302
+time_signature: 4
+time_signature_confidence: 0.179
+title: Reminisce For A While (Sung With Raul Malo)
+track_7digitalid: 3138565
+track_id: TRBCIXV128F4261F09
+year: 1996

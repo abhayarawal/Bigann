@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 552901
+artist_familiarity: 0.027457373237
+artist_hotttnesss: 0.0
+artist_id: ARKEBNJ126E2B3BF7E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Théophil
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: c1db5ee3ccbc7db0033ae75dd0bd87a0
+bars_confidence: shape = (166,)
+bars_start: shape = (166,)
+beats_confidence: shape = (501,)
+beats_start: shape = (501,)
+danceability: 0.0
+duration: 248.58077
+end_of_fade_in: 0.136
+energy: 0.0
+key: 8
+key_confidence: 0.813
+loudness: -10.007
+mode: 1
+mode_confidence: 0.691
+release: Des vies
+release_7digitalid: 739931
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1065,)
+segments_loudness_max: shape = (1065,)
+segments_loudness_max_time: shape = (1065,)
+segments_loudness_start: shape = (1065,)
+segments_pitches: shape = (1065, 12)
+segments_start: shape = (1065,)
+segments_timbre: shape = (1065, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOPEPYA12AC90758FA
+start_of_fade_out: 234.162
+tatums_confidence: shape = (1002,)
+tatums_start: shape = (1002,)
+tempo: 122.99
+time_signature: 3
+time_signature_confidence: 1.0
+title: De belles
+track_7digitalid: 8197081
+track_id: TRBHONF12903D00664
+year: 0

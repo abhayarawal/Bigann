@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4782
+artist_familiarity: 0.71189384129
+artist_hotttnesss: 0.535163042124
+artist_id: ARQOATR1187B9AE959
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: e3434cc7-d348-491a-9dc8-325af3d9086d
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Jane's Addiction
+artist_playmeid: 6380
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: a004a6d074d8a3c1234f05f2aa39515f
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (483,)
+beats_start: shape = (483,)
+danceability: 0.0
+duration: 240.01261
+end_of_fade_in: 2.49
+energy: 0.0
+key: 9
+key_confidence: 0.675
+loudness: -7.915
+mode: 1
+mode_confidence: 0.649
+release: A Cabinet Of Curiosities
+release_7digitalid: 447827
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (726,)
+segments_loudness_max: shape = (726,)
+segments_loudness_max_time: shape = (726,)
+segments_loudness_start: shape = (726,)
+segments_pitches: shape = (726, 12)
+segments_start: shape = (726,)
+segments_timbre: shape = (726, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.372530039366
+song_id: SOOJLSM12AB0180267
+start_of_fade_out: 231.422
+tatums_confidence: shape = (966,)
+tatums_start: shape = (966,)
+tempo: 123.015
+time_signature: 4
+time_signature_confidence: 0.53
+title: Stop! [Demo]
+track_7digitalid: 4969150
+track_id: TRAMLFL128F93062A0
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 293676
+artist_familiarity: 0.453600538864
+artist_hotttnesss: 0.350803574069
+artist_id: ARN4IYF1187FB49D76
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 733fd871-62b7-4fa3-9c70-6e7aa6cdfe0e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pagan Wanderer Lu
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 0fa6a54d9f56e62781873becb6b0b9e2
+bars_confidence: shape = (106,)
+bars_start: shape = (106,)
+beats_confidence: shape = (323,)
+beats_start: shape = (323,)
+danceability: 0.0
+duration: 236.01587
+end_of_fade_in: 2.339
+energy: 0.0
+key: 0
+key_confidence: 0.987
+loudness: -11.38
+mode: 1
+mode_confidence: 0.745
+release: European Monsoon
+release_7digitalid: 820294
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (699,)
+segments_loudness_max: shape = (699,)
+segments_loudness_max_time: shape = (699,)
+segments_loudness_start: shape = (699,)
+segments_pitches: shape = (699, 12)
+segments_start: shape = (699,)
+segments_timbre: shape = (699, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.340922755864
+song_id: SOWALNK12AB018A5DD
+start_of_fade_out: 221.205
+tatums_confidence: shape = (645,)
+tatums_start: shape = (645,)
+tempo: 85.073
+time_signature: 3
+time_signature_confidence: 0.719
+title: The Island etc.
+track_7digitalid: 9059051
+track_id: TRAWPRX12903CE7B32
+year: 0

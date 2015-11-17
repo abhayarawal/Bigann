@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 298793
+artist_familiarity: 0.580369789607
+artist_hotttnesss: 0.420176593517
+artist_id: ARJ1BWM1187B9B117B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 49029e98-1a51-420b-a3eb-0b45b84cdfd7
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Embrace the End
+artist_playmeid: 142851
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: d7f0a0a2c2fec8cecefa57d7b441a7a7
+bars_confidence: shape = (186,)
+bars_start: shape = (186,)
+beats_confidence: shape = (936,)
+beats_start: shape = (936,)
+danceability: 0.0
+duration: 247.48363
+end_of_fade_in: 0.091
+energy: 0.0
+key: 7
+key_confidence: 0.714
+loudness: -3.402
+mode: 1
+mode_confidence: 0.506
+release: Ley Lines
+release_7digitalid: 739757
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1036,)
+segments_loudness_max: shape = (1036,)
+segments_loudness_max_time: shape = (1036,)
+segments_loudness_start: shape = (1036,)
+segments_pitches: shape = (1036, 12)
+segments_start: shape = (1036,)
+segments_timbre: shape = (1036, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.54795294198
+song_id: SOQATFK12AB017D325
+start_of_fade_out: 245.063
+tatums_confidence: shape = (1873,)
+tatums_start: shape = (1873,)
+tempo: 231.851
+time_signature: 5
+time_signature_confidence: 0.592
+title: Intensity In Ten Cities
+track_7digitalid: 8195148
+track_id: TRASOQC12903CFFED7
+year: 2008

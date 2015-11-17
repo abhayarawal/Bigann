@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 130122
+artist_familiarity: 0.651952138716
+artist_hotttnesss: 0.449693997768
+artist_id: AR040M31187B98CA41
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: eddd6562-ab2a-4a26-a53a-2141854a57df
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: The Bug Featuring Ricky Ranking
+artist_playmeid: -1
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 96829726e84b9064b4898c24ee94d2b7
+bars_confidence: shape = (180,)
+bars_start: shape = (180,)
+beats_confidence: shape = (726,)
+beats_start: shape = (726,)
+danceability: 0.0
+duration: 309.28934
+end_of_fade_in: 0.177
+energy: 0.0
+key: 8
+key_confidence: 0.0
+loudness: -9.376
+mode: 1
+mode_confidence: 0.232
+release: London Zoo
+release_7digitalid: 266849
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1033,)
+segments_loudness_max: shape = (1033,)
+segments_loudness_max_time: shape = (1033,)
+segments_loudness_start: shape = (1033,)
+segments_pitches: shape = (1033, 12)
+segments_start: shape = (1033,)
+segments_timbre: shape = (1033, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.553166753501
+song_id: SOMOSOM12A8C13D618
+start_of_fade_out: 303.601
+tatums_confidence: shape = (1451,)
+tatums_start: shape = (1451,)
+tempo: 143.812
+time_signature: 4
+time_signature_confidence: 1.0
+title: Judgement
+track_7digitalid: 2929414
+track_id: TRALOCJ128F427D106
+year: 2008

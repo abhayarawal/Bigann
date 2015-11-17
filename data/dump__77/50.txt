@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 87638
+artist_familiarity: 0.505602747928
+artist_hotttnesss: 0.345717931852
+artist_id: ARABTW91187FB3A73B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d920b15b-4e26-4cfa-b053-24c6129a5c41
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: David Summers
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: de82f0690c307f7fbd129053196ad416
+bars_confidence: shape = (124,)
+bars_start: shape = (124,)
+beats_confidence: shape = (499,)
+beats_start: shape = (499,)
+danceability: 0.0
+duration: 213.26322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.618
+loudness: -3.238
+mode: 1
+mode_confidence: 0.602
+release: Basado En Hechos Reales
+release_7digitalid: 111459
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (734,)
+segments_loudness_max: shape = (734,)
+segments_loudness_max_time: shape = (734,)
+segments_loudness_start: shape = (734,)
+segments_pitches: shape = (734, 12)
+segments_start: shape = (734,)
+segments_timbre: shape = (734, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOJEDHO12A8C13DB77
+start_of_fade_out: 189.922
+tatums_confidence: shape = (998,)
+tatums_start: shape = (998,)
+tempo: 142.431
+time_signature: 4
+time_signature_confidence: 0.0
+title: Tu Mejor Amigo
+track_7digitalid: 1152373
+track_id: TRBALLT128F4297655
+year: 0

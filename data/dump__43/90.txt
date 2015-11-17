@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5571
+artist_familiarity: 0.517480571927
+artist_hotttnesss: 0.432804310302
+artist_id: ARD5SR21187B9B5F4A
+artist_latitude: 60.99655
+artist_location: Hämeenlinna
+artist_longitude: 24.49511
+artist_mbid: 078f98b2-3a90-4443-817b-440c7089b0c4
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Irwin Goodman
+artist_playmeid: -1
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: ad090201abe7e264e51f10845e84e09b
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (358,)
+beats_start: shape = (358,)
+danceability: 0.0
+duration: 200.9073
+end_of_fade_in: 3.437
+energy: 0.0
+key: 9
+key_confidence: 0.305
+loudness: -5.901
+mode: 1
+mode_confidence: 0.496
+release: Kolmastoista kerta
+release_7digitalid: 68561
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (775,)
+segments_loudness_max: shape = (775,)
+segments_loudness_max_time: shape = (775,)
+segments_loudness_start: shape = (775,)
+segments_pitches: shape = (775, 12)
+segments_start: shape = (775,)
+segments_timbre: shape = (775, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONHGXE12A67ADE77C
+start_of_fade_out: 191.599
+tatums_confidence: shape = (716,)
+tatums_start: shape = (716,)
+tempo: 108.199
+time_signature: 4
+time_signature_confidence: 0.675
+title: Terve menoo jätkänretale
+track_7digitalid: 717019
+track_id: TRAOZSG128EF3428D8
+year: 1977

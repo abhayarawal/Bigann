@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 321380
+artist_familiarity: 0.352014441432
+artist_hotttnesss: 0.0
+artist_id: ARXNDB61187B9B2208
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 204f3ee3-a9a7-4428-9590-e35a0f9538f6
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Ken Chu
+artist_playmeid: 145124
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 158b71c94a8900c2cfd826a16e0ad2ab
+bars_confidence: shape = (159,)
+bars_start: shape = (159,)
+beats_confidence: shape = (639,)
+beats_start: shape = (639,)
+danceability: 0.0
+duration: 281.93914
+end_of_fade_in: 0.125
+energy: 0.0
+key: 10
+key_confidence: 0.731
+loudness: -6.923
+mode: 1
+mode_confidence: 0.726
+release: On Ken's Time
+release_7digitalid: 542799
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (793,)
+segments_loudness_max: shape = (793,)
+segments_loudness_max_time: shape = (793,)
+segments_loudness_start: shape = (793,)
+segments_pitches: shape = (793, 12)
+segments_start: shape = (793,)
+segments_timbre: shape = (793, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOPLET12AB01825DE
+start_of_fade_out: 273.096
+tatums_confidence: shape = (1279,)
+tatums_start: shape = (1279,)
+tempo: 140.082
+time_signature: 4
+time_signature_confidence: 0.166
+title: Dai Wo Li Kai
+track_7digitalid: 6008924
+track_id: TRASBTO128F931D070
+year: 0

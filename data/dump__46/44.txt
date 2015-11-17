@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4260
+artist_familiarity: 0.84297210826
+artist_hotttnesss: 0.793412622763
+artist_id: ARML3X41187FB35F2E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 82eb8936-7bf6-4577-8320-a2639465206d
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Jason Mraz
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: b1bd14d5c27c1905037955d1646d26ff
+bars_confidence: shape = (304,)
+bars_start: shape = (304,)
+beats_confidence: shape = (2134,)
+beats_start: shape = (2134,)
+danceability: 0.0
+duration: 740.46649
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.537
+loudness: -10.798
+mode: 0
+mode_confidence: 0.615
+release: Selections For Friends
+release_7digitalid: 68507
+sections_confidence: shape = (26,)
+sections_start: shape = (26,)
+segments_confidence: shape = (2364,)
+segments_loudness_max: shape = (2364,)
+segments_loudness_max_time: shape = (2364,)
+segments_loudness_start: shape = (2364,)
+segments_pitches: shape = (2364, 12)
+segments_start: shape = (2364,)
+segments_timbre: shape = (2364, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.681546638213
+song_id: SOSAZTX12A67ADBEE0
+start_of_fade_out: 736.729
+tatums_confidence: shape = (4270,)
+tatums_start: shape = (4270,)
+tempo: 173.468
+time_signature: 7
+time_signature_confidence: 0.796
+title: Song For A Friend (Live From Montalvo)
+track_7digitalid: 716268
+track_id: TRAPUWG128EF3425E7
+year: 2007

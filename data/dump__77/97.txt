@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 192322
+artist_familiarity: 0.639249551657
+artist_hotttnesss: 0.413885097666
+artist_id: ARNUPIM11F4C83BD4D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Melt Banana
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: aad6efbae06e460eb221466624dc0301
+bars_confidence: shape = (71,)
+bars_start: shape = (71,)
+beats_confidence: shape = (71,)
+beats_start: shape = (71,)
+danceability: 0.0
+duration: 42.34404
+end_of_fade_in: 0.403
+energy: 0.0
+key: 11
+key_confidence: 0.393
+loudness: -8.352
+mode: 0
+mode_confidence: 0.38
+release: Speak Squeak Creak
+release_7digitalid: 248780
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (149,)
+segments_loudness_max: shape = (149,)
+segments_loudness_max_time: shape = (149,)
+segments_loudness_start: shape = (149,)
+segments_pitches: shape = (149, 12)
+segments_start: shape = (149,)
+segments_timbre: shape = (149, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.507489844445
+song_id: SOTFJGB12A8C13A1F7
+start_of_fade_out: 39.369
+tatums_confidence: shape = (141,)
+tatums_start: shape = (141,)
+tempo: 107.447
+time_signature: 1
+time_signature_confidence: 0.0
+title: Stick Out
+track_7digitalid: 2784192
+track_id: TRBAOUJ128F425B6DD
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21344
+artist_familiarity: 0.618765785486
+artist_hotttnesss: 0.409134868797
+artist_id: ARJDMBO1187B9AD118
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 74dca2c7-d7dc-4b13-bd17-502a35db042a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Johnny Osbourne
+artist_playmeid: 34193
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: e5a69b4883f31c849dd55458282fd696
+bars_confidence: shape = (119,)
+bars_start: shape = (119,)
+beats_confidence: shape = (479,)
+beats_start: shape = (479,)
+danceability: 0.0
+duration: 226.69016
+end_of_fade_in: 0.578
+energy: 0.0
+key: 1
+key_confidence: 0.995
+loudness: -9.237
+mode: 1
+mode_confidence: 0.608
+release: The Crowning Of Prince Jammy
+release_7digitalid: 265739
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (987,)
+segments_loudness_max: shape = (987,)
+segments_loudness_max_time: shape = (987,)
+segments_loudness_start: shape = (987,)
+segments_pitches: shape = (987, 12)
+segments_start: shape = (987,)
+segments_timbre: shape = (987, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.327736683178
+song_id: SOSOSQO12A8C13A23A
+start_of_fade_out: 213.061
+tatums_confidence: shape = (958,)
+tatums_start: shape = (958,)
+tempo: 128.532
+time_signature: 4
+time_signature_confidence: 0.043
+title: Mr. Marshall
+track_7digitalid: 2867361
+track_id: TRAWCXJ128F426F2B5
+year: 0

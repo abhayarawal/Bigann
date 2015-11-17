@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 393531
+artist_familiarity: 0.353429550222
+artist_hotttnesss: 0.365514003263
+artist_id: ARBMHBC11F4C8403A2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Hushabye Baby
+artist_playmeid: -1
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: 8b85f76bcc716c3fd0936e8b452720fa
+bars_confidence: shape = (62,)
+bars_start: shape = (62,)
+beats_confidence: shape = (252,)
+beats_start: shape = (252,)
+danceability: 0.0
+duration: 223.45098
+end_of_fade_in: 0.102
+energy: 0.0
+key: 2
+key_confidence: 0.68
+loudness: -18.798
+mode: 1
+mode_confidence: 0.578
+release: Hushabye Baby : Lullaby Renditions of Country Music Favorites Volume 2
+release_7digitalid: 533632
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (489,)
+segments_loudness_max: shape = (489,)
+segments_loudness_max_time: shape = (489,)
+segments_loudness_start: shape = (489,)
+segments_pitches: shape = (489, 12)
+segments_start: shape = (489,)
+segments_timbre: shape = (489, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWHPTY12AB0181D50
+start_of_fade_out: 214.43
+tatums_confidence: shape = (503,)
+tatums_start: shape = (503,)
+tempo: 69.995
+time_signature: 4
+time_signature_confidence: 0.481
+title: You Had Me From Hello (Lullaby Rendition of Kenny Chesney)
+track_7digitalid: 5897098
+track_id: TRARMPK128F9302164
+year: 0

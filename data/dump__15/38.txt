@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 87706
+artist_familiarity: 0.488160852219
+artist_hotttnesss: 0.299112579539
+artist_id: ARO1NHM1187B9B9D27
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f8baa848-8d5f-4151-b837-0d1dff59deb7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Los Solitarios
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 43d3d1739ca6cb14f69b575ac1536f9e
+bars_confidence: shape = (259,)
+bars_start: shape = (259,)
+beats_confidence: shape = (259,)
+beats_start: shape = (259,)
+danceability: 0.0
+duration: 168.12363
+end_of_fade_in: 0.138
+energy: 0.0
+key: 5
+key_confidence: 0.61
+loudness: -14.058
+mode: 0
+mode_confidence: 0.638
+release: 12 Grandes exitos Vol. 1
+release_7digitalid: 131960
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (619,)
+segments_loudness_max: shape = (619,)
+segments_loudness_max_time: shape = (619,)
+segments_loudness_start: shape = (619,)
+segments_pitches: shape = (619, 12)
+segments_start: shape = (619,)
+segments_timbre: shape = (619, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.235714229539
+song_id: SOZUQAZ12A81C21E0D
+start_of_fade_out: 153.734
+tatums_confidence: shape = (517,)
+tatums_start: shape = (517,)
+tempo: 94.994
+time_signature: 1
+time_signature_confidence: 0.0
+title: Verdad Amarga
+track_7digitalid: 1368100
+track_id: TRAFFIW128F4236391
+year: 0

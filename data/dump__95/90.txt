@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5907
+artist_familiarity: 0.538085500795
+artist_hotttnesss: 0.31350075537
+artist_id: AR8ACFK1187B9B4063
+artist_latitude: nan
+artist_location: New Orleans, LA
+artist_longitude: nan
+artist_mbid: 5849fa32-0283-4204-9d1b-507cfaf9d4a2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Champion Jack Dupree
+artist_playmeid: 19460
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 24ebcd80ce21c38f18f5944ad66cfaab
+bars_confidence: shape = (306,)
+bars_start: shape = (306,)
+beats_confidence: shape = (306,)
+beats_start: shape = (306,)
+danceability: 0.0
+duration: 183.95383
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.268
+loudness: -13.757
+mode: 1
+mode_confidence: 0.324
+release: The Blues Of Champion Jack Dupree Vol. 1
+release_7digitalid: 372935
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (664,)
+segments_loudness_max: shape = (664,)
+segments_loudness_max_time: shape = (664,)
+segments_loudness_start: shape = (664,)
+segments_pitches: shape = (664, 12)
+segments_start: shape = (664,)
+segments_timbre: shape = (664, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFSZCZ12A8C140AB4
+start_of_fade_out: 173.436
+tatums_confidence: shape = (612,)
+tatums_start: shape = (612,)
+tempo: 105.291
+time_signature: 1
+time_signature_confidence: 0.0
+title: When I Left Home
+track_7digitalid: 4152089
+track_id: TRBHBEB128F92CC0C6
+year: 0

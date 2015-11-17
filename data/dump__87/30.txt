@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 56108
+artist_familiarity: 0.602555589129
+artist_hotttnesss: 0.389535576189
+artist_id: AR567PN1187FB4B4F2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b4051f19-c3a3-43ac-bd54-2b70d9d0e226
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Moss
+artist_playmeid: -1
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: e184276bec009d239225913cd368658c
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (413,)
+beats_start: shape = (413,)
+danceability: 0.0
+duration: 206.57587
+end_of_fade_in: 0.073
+energy: 0.0
+key: 4
+key_confidence: 0.76
+loudness: -7.736
+mode: 0
+mode_confidence: 0.628
+release: The Long Way Back
+release_7digitalid: 731006
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (715,)
+segments_loudness_max: shape = (715,)
+segments_loudness_max_time: shape = (715,)
+segments_loudness_start: shape = (715,)
+segments_pitches: shape = (715, 12)
+segments_start: shape = (715,)
+segments_timbre: shape = (715, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.504034340805
+song_id: SOOHZIM12A67ADDB09
+start_of_fade_out: 201.961
+tatums_confidence: shape = (825,)
+tatums_start: shape = (825,)
+tempo: 119.947
+time_signature: 4
+time_signature_confidence: 0.781
+title: Winter In Finland
+track_7digitalid: 8098625
+track_id: TRBDZBH12903CE85E4
+year: 2006

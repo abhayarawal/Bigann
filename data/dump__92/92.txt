@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 129124
+artist_familiarity: 0.56433383862
+artist_hotttnesss: 0.387081084454
+artist_id: ARIFK6X1187B9ADA44
+artist_latitude: 51.16418
+artist_location: Germany
+artist_longitude: 10.45415
+artist_mbid: d662aac8-5691-45e1-93dd-72962ca696ae
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Will Ackerman
+artist_playmeid: 18530
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 560734e2cb8dab5c01e9826297eec660
+bars_confidence: shape = (143,)
+bars_start: shape = (143,)
+beats_confidence: shape = (589,)
+beats_start: shape = (589,)
+danceability: 0.0
+duration: 384.60036
+end_of_fade_in: 0.334
+energy: 0.0
+key: 1
+key_confidence: 0.231
+loudness: -18.891
+mode: 0
+mode_confidence: 0.406
+release: The Opening Of Doors
+release_7digitalid: 296868
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (867,)
+segments_loudness_max: shape = (867,)
+segments_loudness_max_time: shape = (867,)
+segments_loudness_start: shape = (867,)
+segments_pitches: shape = (867, 12)
+segments_start: shape = (867,)
+segments_timbre: shape = (867, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOYLDNP12A8C13C135
+start_of_fade_out: 365.209
+tatums_confidence: shape = (1178,)
+tatums_start: shape = (1178,)
+tempo: 92.331
+time_signature: 4
+time_signature_confidence: 0.218
+title: A Movie Of A Placid Lake On A Moonless Night in September
+track_7digitalid: 3358220
+track_id: TRBGBWK128F4292BDC
+year: 1992

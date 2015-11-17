@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 24232
+artist_familiarity: 0.639883304093
+artist_hotttnesss: 0.375494483494
+artist_id: ARF1E421187B9AF8C4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 62b6875e-f507-4f32-9e61-61e8eabc8877
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: El Gran Silencio
+artist_playmeid: 61860
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 9462876d046c2f138b9e10f6b4599717
+bars_confidence: shape = (175,)
+bars_start: shape = (175,)
+beats_confidence: shape = (702,)
+beats_start: shape = (702,)
+danceability: 0.0
+duration: 300.09424
+end_of_fade_in: 0.178
+energy: 0.0
+key: 7
+key_confidence: 0.156
+loudness: -6.195
+mode: 1
+mode_confidence: 0.665
+release: Super Riddim Internacional Volumen 1
+release_7digitalid: 35114
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1144,)
+segments_loudness_max: shape = (1144,)
+segments_loudness_max_time: shape = (1144,)
+segments_loudness_start: shape = (1144,)
+segments_pitches: shape = (1144, 12)
+segments_start: shape = (1144,)
+segments_timbre: shape = (1144, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.253834736132
+song_id: SOBWYOK12A6D4F9314
+start_of_fade_out: 294.116
+tatums_confidence: shape = (1403,)
+tatums_start: shape = (1403,)
+tempo: 143.947
+time_signature: 4
+time_signature_confidence: 0.793
+title: Ayer
+track_7digitalid: 376384
+track_id: TRAMQKM128F1474EEE
+year: 0

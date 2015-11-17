@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 280248
+artist_familiarity: 0.320974666144
+artist_hotttnesss: 0.193843483708
+artist_id: ARGH53H1187B9A5511
+artist_latitude: 29.76045
+artist_location: Houston, TX
+artist_longitude: -95.36978
+artist_mbid: 2505117d-2929-4da8-96b1-c1cdcd06fe85
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cliff Bruner
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 9d32ca3f8926d435b446209b8988b6ca
+bars_confidence: shape = (125,)
+bars_start: shape = (125,)
+beats_confidence: shape = (504,)
+beats_start: shape = (504,)
+danceability: 0.0
+duration: 188.31628
+end_of_fade_in: 0.357
+energy: 0.0
+key: 7
+key_confidence: 0.685
+loudness: -13.841
+mode: 1
+mode_confidence: 0.505
+release: Blues Legends 1930 - 1939
+release_7digitalid: 779906
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (593,)
+segments_loudness_max: shape = (593,)
+segments_loudness_max_time: shape = (593,)
+segments_loudness_start: shape = (593,)
+segments_pitches: shape = (593, 12)
+segments_start: shape = (593,)
+segments_timbre: shape = (593, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPAOVE12AC468EC72
+start_of_fade_out: 185.179
+tatums_confidence: shape = (504,)
+tatums_start: shape = (504,)
+tempo: 161.246
+time_signature: 4
+time_signature_confidence: 0.232
+title: Milk Cow Blues
+track_7digitalid: 8630380
+track_id: TRANWCP12903CF31D3
+year: 2004

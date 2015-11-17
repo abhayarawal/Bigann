@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 363158
+artist_familiarity: 0.396327109216
+artist_hotttnesss: 0.327012792699
+artist_id: ARMAOIY1187B9A3893
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e91504af-0b68-4729-8184-f567016658ff
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Jerry Yan
+artist_playmeid: 169859
+artist_terms: shape = (8,)
+artist_terms_freq: shape = (8,)
+artist_terms_weight: shape = (8,)
+audio_md5: b42bc1ef0784636d58d1df1a9374e9fe
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (484,)
+beats_start: shape = (484,)
+danceability: 0.0
+duration: 252.18567
+end_of_fade_in: 0.345
+energy: 0.0
+key: 11
+key_confidence: 0.571
+loudness: -10.803
+mode: 1
+mode_confidence: 0.644
+release: My Secret Lover_ Jerry Yan
+release_7digitalid: 704552
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (808,)
+segments_loudness_max: shape = (808,)
+segments_loudness_max_time: shape = (808,)
+segments_loudness_start: shape = (808,)
+segments_pitches: shape = (808, 12)
+segments_start: shape = (808,)
+segments_timbre: shape = (808, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMOINR12AB0189188
+start_of_fade_out: 242.474
+tatums_confidence: shape = (967,)
+tatums_start: shape = (967,)
+tempo: 117.892
+time_signature: 4
+time_signature_confidence: 1.0
+title: XI GUAN LIANG GE REN
+track_7digitalid: 7818578
+track_id: TRACXDB12903CA4432
+year: 0

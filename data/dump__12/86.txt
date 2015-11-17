@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17800
+artist_familiarity: 0.701521706441
+artist_hotttnesss: 0.52431892047
+artist_id: ARFM7OI1187B990C49
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e0e9ed26-0abe-41c4-9f7f-bc50649fd8fd
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tonic
+artist_playmeid: -1
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 8c64fa3c9db0aa66ac7dc3fdb5a00a0d
+bars_confidence: shape = (116,)
+bars_start: shape = (116,)
+beats_confidence: shape = (468,)
+beats_start: shape = (468,)
+danceability: 0.0
+duration: 184.68526
+end_of_fade_in: 0.67
+energy: 0.0
+key: 2
+key_confidence: 1.0
+loudness: -4.768
+mode: 1
+mode_confidence: 0.715
+release: Tonic
+release_7digitalid: 817501
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (407,)
+segments_loudness_max: shape = (407,)
+segments_loudness_max_time: shape = (407,)
+segments_loudness_start: shape = (407,)
+segments_pitches: shape = (407, 12)
+segments_start: shape = (407,)
+segments_timbre: shape = (407, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.6387456399
+song_id: SODVRAB12AB018DD17
+start_of_fade_out: 176.791
+tatums_confidence: shape = (936,)
+tatums_start: shape = (936,)
+tempo: 156.028
+time_signature: 4
+time_signature_confidence: 1.0
+title: Where Do I Fit
+track_7digitalid: 9031649
+track_id: TRAEHBW12903CE1045
+year: 0

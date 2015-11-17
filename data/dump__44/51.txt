@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 291877
+artist_familiarity: 0.438159739753
+artist_hotttnesss: 0.312752628337
+artist_id: ARIGR2O1187FB5036E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 40cb378d-02c4-4f83-8e31-ee99c51feb15
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Unborn Chikken Voices
+artist_playmeid: 57070
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 99a8f545dbb1366b9eb8f975c67628e8
+bars_confidence: shape = (58,)
+bars_start: shape = (58,)
+beats_confidence: shape = (236,)
+beats_start: shape = (236,)
+danceability: 0.0
+duration: 217.91302
+end_of_fade_in: 0.148
+energy: 0.0
+key: 2
+key_confidence: 0.69
+loudness: -5.746
+mode: 1
+mode_confidence: 0.521
+release: Pay To Play
+release_7digitalid: 378320
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (488,)
+segments_loudness_max: shape = (488,)
+segments_loudness_max_time: shape = (488,)
+segments_loudness_start: shape = (488,)
+segments_pitches: shape = (488, 12)
+segments_start: shape = (488,)
+segments_timbre: shape = (488, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOLWVEA12A8C143C45
+start_of_fade_out: 217.913
+tatums_confidence: shape = (943,)
+tatums_start: shape = (943,)
+tempo: 85.039
+time_signature: 4
+time_signature_confidence: 1.0
+title: Again And Again
+track_7digitalid: 4212379
+track_id: TRAPFCP128F92D772E
+year: 0

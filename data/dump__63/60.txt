@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 63345
+artist_familiarity: 0.928936926189
+artist_hotttnesss: 0.598555411894
+artist_id: AR0KBXO1187B996460
+artist_latitude: 41.58979
+artist_location: Des Moines, Iowa
+artist_longitude: -93.61566
+artist_mbid: ceb7b6be-1dbb-4d80-b157-5588bc884764
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Slipknot
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 611230085956a52c78ba90b8efb7b589
+bars_confidence: shape = (158,)
+bars_start: shape = (158,)
+beats_confidence: shape = (640,)
+beats_start: shape = (640,)
+danceability: 0.0
+duration: 303.59465
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.075
+loudness: -3.176
+mode: 1
+mode_confidence: 0.357
+release: 9.0 Live
+release_7digitalid: 138026
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1267,)
+segments_loudness_max: shape = (1267,)
+segments_loudness_max_time: shape = (1267,)
+segments_loudness_start: shape = (1267,)
+segments_pitches: shape = (1267, 12)
+segments_start: shape = (1267,)
+segments_timbre: shape = (1267, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFHTFD12A8AE47A17
+start_of_fade_out: 303.595
+tatums_confidence: shape = (1279,)
+tatums_start: shape = (1279,)
+tempo: 125.02
+time_signature: 4
+time_signature_confidence: 0.22
+title: Everything Ends (Live version) (Album Version)
+track_7digitalid: 1432854
+track_id: TRAVUOI128F424142F
+year: 0

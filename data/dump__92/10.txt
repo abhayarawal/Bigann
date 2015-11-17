@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 232
+artist_familiarity: 0.793708084007
+artist_hotttnesss: 0.589856179924
+artist_id: ARCJKV91187FB46210
+artist_latitude: nan
+artist_location: Scotland
+artist_longitude: nan
+artist_mbid: 951d2103-9c7d-4849-ae60-88bf6aa4790b
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: KT Tunstall
+artist_playmeid: 2265
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: ab524fd95da1f836bd60919c474495ff
+bars_confidence: shape = (165,)
+bars_start: shape = (165,)
+beats_confidence: shape = (497,)
+beats_start: shape = (497,)
+danceability: 0.0
+duration: 216.5024
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.0
+loudness: -9.911
+mode: 1
+mode_confidence: 0.286
+release: Eye To The Telescope
+release_7digitalid: 21604
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (630,)
+segments_loudness_max: shape = (630,)
+segments_loudness_max_time: shape = (630,)
+segments_loudness_start: shape = (630,)
+segments_pitches: shape = (630, 12)
+segments_start: shape = (630,)
+segments_timbre: shape = (630, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.694453546062
+song_id: SOLMCFH12A58A7FACE
+start_of_fade_out: 205.752
+tatums_confidence: shape = (993,)
+tatums_start: shape = (993,)
+tempo: 142.121
+time_signature: 3
+time_signature_confidence: 0.661
+title: Under The Weather
+track_7digitalid: 224121
+track_id: TRBFURI128F1455498
+year: 2004

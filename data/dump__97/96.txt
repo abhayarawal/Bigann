@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 109946
+artist_familiarity: 0.541077952498
+artist_hotttnesss: 0.304547713372
+artist_id: ARGC7FQ1187FB409CC
+artist_latitude: 40.71455
+artist_location: New York
+artist_longitude: -74.00712
+artist_mbid: e211367b-efd7-43b6-a4ba-1defb4dc1fb0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Stew
+artist_playmeid: 68482
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: d121e44192e3447ec670ee16d86b10cd
+bars_confidence: shape = (119,)
+bars_start: shape = (119,)
+beats_confidence: shape = (912,)
+beats_start: shape = (912,)
+danceability: 0.0
+duration: 569.20771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.05
+loudness: -17.647
+mode: 1
+mode_confidence: 0.317
+release: The Naked Dutch Painter And Other Songs
+release_7digitalid: 140708
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1532,)
+segments_loudness_max: shape = (1532,)
+segments_loudness_max_time: shape = (1532,)
+segments_loudness_start: shape = (1532,)
+segments_pitches: shape = (1532, 12)
+segments_start: shape = (1532,)
+segments_timbre: shape = (1532, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOJZKQG12A8C131DDC
+start_of_fade_out: 562.364
+tatums_confidence: shape = (1824,)
+tatums_start: shape = (1824,)
+tempo: 96.598
+time_signature: 7
+time_signature_confidence: 0.667
+title: The Drug Suite
+track_7digitalid: 1461197
+track_id: TRBHRKO128F42479B1
+year: 2002

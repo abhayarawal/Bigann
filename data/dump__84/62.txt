@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 353534
+artist_familiarity: 0.438220364297
+artist_hotttnesss: 0.403689030121
+artist_id: AR70C8A1187B99B56D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5e0a64cf-c74f-44ab-bc1d-50a75eff1a79
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Papp'os Blues
+artist_playmeid: 57709
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 438891b5be9cb3b922a03ed3e63fea39
+bars_confidence: shape = (228,)
+bars_start: shape = (228,)
+beats_confidence: shape = (917,)
+beats_start: shape = (917,)
+danceability: 0.0
+duration: 418.45506
+end_of_fade_in: 0.345
+energy: 0.0
+key: 9
+key_confidence: 0.233
+loudness: -15.713
+mode: 1
+mode_confidence: 0.268
+release: Plan Diabolico
+release_7digitalid: 511983
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1323,)
+segments_loudness_max: shape = (1323,)
+segments_loudness_max_time: shape = (1323,)
+segments_loudness_start: shape = (1323,)
+segments_pitches: shape = (1323, 12)
+segments_start: shape = (1323,)
+segments_timbre: shape = (1323, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORXJLK12A58A79C35
+start_of_fade_out: 389.84
+tatums_confidence: shape = (1834,)
+tatums_start: shape = (1834,)
+tempo: 132.636
+time_signature: 4
+time_signature_confidence: 0.0
+title: El Hombre De La Valija (Rock)
+track_7digitalid: 5678648
+track_id: TRBDAYU128F9342A51
+year: 0

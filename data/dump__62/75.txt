@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 161984
+artist_familiarity: 0.634196180326
+artist_hotttnesss: 0.441945160514
+artist_id: ARGGD1E1187B98FA9D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b5027515-8ffe-40c2-9ca3-572438f00087
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Parachute Band
+artist_playmeid: 9636
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 2e2ae2f8aa9c8ce355b1a339e428d168
+bars_confidence: shape = (158,)
+bars_start: shape = (158,)
+beats_confidence: shape = (636,)
+beats_start: shape = (636,)
+danceability: 0.0
+duration: 272.14322
+end_of_fade_in: 3.077
+energy: 0.0
+key: 0
+key_confidence: 0.0
+loudness: -5.049
+mode: 1
+mode_confidence: 0.428
+release: Technicolor
+release_7digitalid: 326937
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (639,)
+segments_loudness_max: shape = (639,)
+segments_loudness_max_time: shape = (639,)
+segments_loudness_start: shape = (639,)
+segments_pitches: shape = (639, 12)
+segments_start: shape = (639,)
+segments_timbre: shape = (639, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPFNDA12AF72A2A54
+start_of_fade_out: 251.257
+tatums_confidence: shape = (1272,)
+tatums_start: shape = (1272,)
+tempo: 143.864
+time_signature: 4
+time_signature_confidence: 0.913
+title: Take Over
+track_7digitalid: 3688476
+track_id: TRAVNDK128F92E3F08
+year: 0

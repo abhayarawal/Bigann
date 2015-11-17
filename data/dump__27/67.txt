@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 438284
+artist_familiarity: 0.454301560242
+artist_hotttnesss: 0.334749431306
+artist_id: ARPRQSD12086C16679
+artist_latitude: 38.2589
+artist_location: Missouri
+artist_longitude: -92.43659
+artist_mbid: 0d435ae7-d20d-46cd-a8f1-0ec51cb0b2b2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Incurables
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 8212f2bf6f600e9e8b957f82217f79c6
+bars_confidence: shape = (36,)
+bars_start: shape = (36,)
+beats_confidence: shape = (196,)
+beats_start: shape = (196,)
+danceability: 0.0
+duration: 187.97669
+end_of_fade_in: 0.183
+energy: 0.0
+key: 2
+key_confidence: 0.692
+loudness: -10.085
+mode: 1
+mode_confidence: 0.856
+release: Fade
+release_7digitalid: 588642
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (567,)
+segments_loudness_max: shape = (567,)
+segments_loudness_max_time: shape = (567,)
+segments_loudness_start: shape = (567,)
+segments_pitches: shape = (567, 12)
+segments_start: shape = (567,)
+segments_timbre: shape = (567, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAKFDN12AB018A37A
+start_of_fade_out: 183.281
+tatums_confidence: shape = (588,)
+tatums_start: shape = (588,)
+tempo: 63.359
+time_signature: 5
+time_signature_confidence: 1.0
+title: Scared
+track_7digitalid: 6529504
+track_id: TRAJGGP12903CCE582
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 285519
+artist_familiarity: 0.313851151598
+artist_hotttnesss: 0.14519082979
+artist_id: ARYDFJA1241B9CBFF2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jacques Douai
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 8e7e41e385227d19ade5e5e45c9a2af1
+bars_confidence: shape = (30,)
+bars_start: shape = (30,)
+beats_confidence: shape = (122,)
+beats_start: shape = (122,)
+danceability: 0.0
+duration: 60.89098
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.202
+loudness: -18.852
+mode: 0
+mode_confidence: 0.366
+release: Heritage - Récital N°5 & 6 - BAM (1958-1959)
+release_7digitalid: 368975
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (202,)
+segments_loudness_max: shape = (202,)
+segments_loudness_max_time: shape = (202,)
+segments_loudness_start: shape = (202,)
+segments_pitches: shape = (202, 12)
+segments_start: shape = (202,)
+segments_timbre: shape = (202, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAMDMA12AB0186434
+start_of_fade_out: 60.891
+tatums_confidence: shape = (244,)
+tatums_start: shape = (244,)
+tempo: 127.14
+time_signature: 4
+time_signature_confidence: 0.0
+title: Pauvre Jean
+track_7digitalid: 4109276
+track_id: TRAOMRN128F93378B3
+year: 0

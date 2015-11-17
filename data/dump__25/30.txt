@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7546
+artist_familiarity: 0.595645308494
+artist_hotttnesss: 0.426009300484
+artist_id: AR6EVQA1187B9AA1DF
+artist_latitude: nan
+artist_location: Kingston, Jamaica
+artist_longitude: nan
+artist_mbid: bd67db55-a85f-4c2b-b5cd-4c8f9ceb50d4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cocoa Tea
+artist_playmeid: 34176
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 88c5b1fd9c0c51b8db7b01075e4fec6d
+bars_confidence: shape = (126,)
+bars_start: shape = (126,)
+beats_confidence: shape = (388,)
+beats_start: shape = (388,)
+danceability: 0.0
+duration: 241.29261
+end_of_fade_in: 0.194
+energy: 0.0
+key: 0
+key_confidence: 0.808
+loudness: -11.368
+mode: 1
+mode_confidence: 0.512
+release: Authorized
+release_7digitalid: 273611
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (975,)
+segments_loudness_max: shape = (975,)
+segments_loudness_max_time: shape = (975,)
+segments_loudness_start: shape = (975,)
+segments_pitches: shape = (975, 12)
+segments_start: shape = (975,)
+segments_timbre: shape = (975, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOBULBX12A81C22BF0
+start_of_fade_out: 223.498
+tatums_confidence: shape = (777,)
+tatums_start: shape = (777,)
+tempo: 99.894
+time_signature: 3
+time_signature_confidence: 0.906
+title: Cooling Out
+track_7digitalid: 3062491
+track_id: TRAIMHP128F425118C
+year: 1992

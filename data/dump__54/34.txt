@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 78095
+artist_familiarity: 0.588117649664
+artist_hotttnesss: 0.378106965104
+artist_id: ARS26BQ1187B99466D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a03c336b-5295-4ad8-baa9-0309b47603c4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Vilma Palma e Vampiros
+artist_playmeid: 113977
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 0391bdf4436de810bf85030d4e3d7daa
+bars_confidence: shape = (171,)
+bars_start: shape = (171,)
+beats_confidence: shape = (687,)
+beats_start: shape = (687,)
+danceability: 0.0
+duration: 411.97669
+end_of_fade_in: 0.242
+energy: 0.0
+key: 7
+key_confidence: 0.597
+loudness: -7.202
+mode: 1
+mode_confidence: 0.28
+release: Vilma Palma e Vampiros_ grandes exitos
+release_7digitalid: 97822
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1710,)
+segments_loudness_max: shape = (1710,)
+segments_loudness_max_time: shape = (1710,)
+segments_loudness_start: shape = (1710,)
+segments_pitches: shape = (1710, 12)
+segments_start: shape = (1710,)
+segments_timbre: shape = (1710, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.728706464969
+song_id: SOWEEGD12A8C136D4D
+start_of_fade_out: 401.519
+tatums_confidence: shape = (2745,)
+tatums_start: shape = (2745,)
+tempo: 102.129
+time_signature: 4
+time_signature_confidence: 1.0
+title: Verano traidor
+track_7digitalid: 1014890
+track_id: TRASOWA128F427A1B6
+year: 1993

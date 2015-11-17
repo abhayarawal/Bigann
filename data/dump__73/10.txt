@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 302922
+artist_familiarity: 0.524265130552
+artist_hotttnesss: 0.372232888611
+artist_id: AR7ZKHQ1187B98DD73
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 16cea8ac-a655-4500-9c99-c3bbcc133fed
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Glad
+artist_playmeid: 35879
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: abfe59bc6bab1f398045382552f31ebf
+bars_confidence: shape = (60,)
+bars_start: shape = (60,)
+beats_confidence: shape = (194,)
+beats_start: shape = (194,)
+danceability: 0.0
+duration: 174.52363
+end_of_fade_in: 3.657
+energy: 0.0
+key: 7
+key_confidence: 0.339
+loudness: -14.042
+mode: 1
+mode_confidence: 0.611
+release: Acapella Hymns
+release_7digitalid: 579605
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (428,)
+segments_loudness_max: shape = (428,)
+segments_loudness_max_time: shape = (428,)
+segments_loudness_start: shape = (428,)
+segments_pitches: shape = (428, 12)
+segments_start: shape = (428,)
+segments_timbre: shape = (428, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOUOXQJ12A58A7E777
+start_of_fade_out: 171.433
+tatums_confidence: shape = (387,)
+tatums_start: shape = (387,)
+tempo: 68.826
+time_signature: 3
+time_signature_confidence: 0.434
+title: Immortal_ Invisible
+track_7digitalid: 6425916
+track_id: TRAYZHZ12903CB576F
+year: 1993

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 132213
+artist_familiarity: 0.377366436061
+artist_hotttnesss: 0.0
+artist_id: ARKIQSL1241B9C90C8
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Fred Merpol
+artist_playmeid: 91244
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 4cee71a86c71b53f256ffc3883f275b8
+bars_confidence: shape = (590,)
+bars_start: shape = (590,)
+beats_confidence: shape = (590,)
+beats_start: shape = (590,)
+danceability: 0.0
+duration: 345.10322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.843
+loudness: -14.855
+mode: 0
+mode_confidence: 0.785
+release: En vrai
+release_7digitalid: 779324
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1411,)
+segments_loudness_max: shape = (1411,)
+segments_loudness_max_time: shape = (1411,)
+segments_loudness_start: shape = (1411,)
+segments_pitches: shape = (1411, 12)
+segments_start: shape = (1411,)
+segments_timbre: shape = (1411, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWNIIQ12AC468CB58
+start_of_fade_out: 345.103
+tatums_confidence: shape = (1181,)
+tatums_start: shape = (1181,)
+tempo: 101.954
+time_signature: 1
+time_signature_confidence: 0.0
+title: N'ayez crainte mesdames
+track_7digitalid: 8623242
+track_id: TRBCIJF12903CF15F3
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3300
+artist_familiarity: 0.806580411327
+artist_hotttnesss: 0.621085212055
+artist_id: ARW9FP41187B98C2A7
+artist_latitude: 57.15382
+artist_location: Aberdeen
+artist_longitude: -2.10679
+artist_mbid: 3e30aebd-0557-4cfd-8fb9-3945afa5d72b
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Annie Lennox
+artist_playmeid: 2023
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 24d854fe1164592c77ea31c72821d878
+bars_confidence: shape = (194,)
+bars_start: shape = (194,)
+beats_confidence: shape = (778,)
+beats_start: shape = (778,)
+danceability: 0.0
+duration: 280.00608
+end_of_fade_in: 0.154
+energy: 0.0
+key: 7
+key_confidence: 0.027
+loudness: -7.787
+mode: 0
+mode_confidence: 0.483
+release: Bare
+release_7digitalid: 397358
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (869,)
+segments_loudness_max: shape = (869,)
+segments_loudness_max_time: shape = (869,)
+segments_loudness_start: shape = (869,)
+segments_pitches: shape = (869, 12)
+segments_start: shape = (869,)
+segments_timbre: shape = (869, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.557313136388
+song_id: SOHASMZ12A8AE48671
+start_of_fade_out: 268.225
+tatums_confidence: shape = (1556,)
+tatums_start: shape = (1556,)
+tempo: 167.997
+time_signature: 4
+time_signature_confidence: 0.619
+title: Erased
+track_7digitalid: 4415925
+track_id: TRAYWLI128F9300223
+year: 2003

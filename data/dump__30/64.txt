@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 102354
+artist_familiarity: 0.302857819643
+artist_hotttnesss: 0.177855110799
+artist_id: ARSYWV7119B3403694
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 67e5cdc2-7bf2-4942-930a-c8e3f308429f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jorgen Ingmann
+artist_playmeid: 46353
+artist_terms: shape = (8,)
+artist_terms_freq: shape = (8,)
+artist_terms_weight: shape = (8,)
+audio_md5: e4e762b634c4c43826dd7753540a511a
+bars_confidence: shape = (84,)
+bars_start: shape = (84,)
+beats_confidence: shape = (341,)
+beats_start: shape = (341,)
+danceability: 0.0
+duration: 129.01832
+end_of_fade_in: 0.479
+energy: 0.0
+key: 9
+key_confidence: 0.84
+loudness: -8.768
+mode: 1
+mode_confidence: 0.272
+release: The Many Guitars of Jorgen Ingmann
+release_7digitalid: 129223
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (496,)
+segments_loudness_max: shape = (496,)
+segments_loudness_max_time: shape = (496,)
+segments_loudness_start: shape = (496,)
+segments_pitches: shape = (496, 12)
+segments_start: shape = (496,)
+segments_timbre: shape = (496, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJFWTK12A813565DC
+start_of_fade_out: 121.649
+tatums_confidence: shape = (683,)
+tatums_start: shape = (683,)
+tempo: 160.451
+time_signature: 4
+time_signature_confidence: 0.0
+title: Oceans Of Love (LP Version)
+track_7digitalid: 1342089
+track_id: TRAKIZE128F4231B3F
+year: 0

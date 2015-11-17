@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 89684
+artist_familiarity: 0.567814264001
+artist_hotttnesss: 0.376688631022
+artist_id: AR1GYND1187B9A9CD3
+artist_latitude: 38.43773
+artist_location: Santa Rosa, California
+artist_longitude: -122.71242
+artist_mbid: 044cb251-d596-40e2-a4a8-6b2943af05c9
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Diesel Boy
+artist_playmeid: 38194
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 88e8211f5e4f00e807be5c25d6a08178
+bars_confidence: shape = (114,)
+bars_start: shape = (114,)
+beats_confidence: shape = (458,)
+beats_start: shape = (458,)
+danceability: 0.0
+duration: 140.06812
+end_of_fade_in: 0.368
+energy: 0.0
+key: 0
+key_confidence: 0.435
+loudness: -4.564
+mode: 1
+mode_confidence: 0.578
+release: Venus Envy
+release_7digitalid: 558289
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (623,)
+segments_loudness_max: shape = (623,)
+segments_loudness_max_time: shape = (623,)
+segments_loudness_start: shape = (623,)
+segments_pitches: shape = (623, 12)
+segments_start: shape = (623,)
+segments_timbre: shape = (623, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.340922755864
+song_id: SOQVVDQ12AB018300C
+start_of_fade_out: 126.212
+tatums_confidence: shape = (915,)
+tatums_start: shape = (915,)
+tempo: 205.553
+time_signature: 4
+time_signature_confidence: 0.0
+title: Dragonfly
+track_7digitalid: 6176519
+track_id: TRAUIBK128F9345A79
+year: 1998

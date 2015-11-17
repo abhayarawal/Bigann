@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12566
+artist_familiarity: 0.823548253022
+artist_hotttnesss: 0.507115548752
+artist_id: ARB6OGR1187FB4D43D
+artist_latitude: 43.58015
+artist_location: Antibes, France
+artist_longitude: 7.12123
+artist_mbid: 6d7b7cd4-254b-4c25-83f6-dd20f98ceacd
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: M83
+artist_playmeid: 13427
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 4aced3016253f26580748460c728dd4f
+bars_confidence: shape = (396,)
+bars_start: shape = (396,)
+beats_confidence: shape = (1605,)
+beats_start: shape = (1605,)
+danceability: 0.0
+duration: 1071.882
+end_of_fade_in: 0.078
+energy: 0.0
+key: 4
+key_confidence: 0.879
+loudness: -6.1
+mode: 0
+mode_confidence: 0.707
+release: M83
+release_7digitalid: 27450
+sections_confidence: shape = (27,)
+sections_start: shape = (27,)
+segments_confidence: shape = (1667,)
+segments_loudness_max: shape = (1667,)
+segments_loudness_max_time: shape = (1667,)
+segments_loudness_start: shape = (1667,)
+segments_pitches: shape = (1667, 12)
+segments_start: shape = (1667,)
+segments_timbre: shape = (1667, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.699426728188
+song_id: SOWGWCP12A6D4F860D
+start_of_fade_out: 1043.458
+tatums_confidence: shape = (3209,)
+tatums_start: shape = (3209,)
+tempo: 90.264
+time_signature: 4
+time_signature_confidence: 0.757
+title: I'm Happy She Said
+track_7digitalid: 299712
+track_id: TRASBSO128F1465A78
+year: 2001

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 333769
+artist_familiarity: 0.447714449595
+artist_hotttnesss: 0.315065604539
+artist_id: ARKPDUG11F50C4B54A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Juggler
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 30b93f195ee28906ce00609f66eaa8ff
+bars_confidence: shape = (106,)
+bars_start: shape = (106,)
+beats_confidence: shape = (536,)
+beats_start: shape = (536,)
+danceability: 0.0
+duration: 231.94077
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.216
+loudness: -14.1
+mode: 0
+mode_confidence: 0.311
+release: Tribesman Album
+release_7digitalid: 451367
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1286,)
+segments_loudness_max: shape = (1286,)
+segments_loudness_max_time: shape = (1286,)
+segments_loudness_start: shape = (1286,)
+segments_pitches: shape = (1286, 12)
+segments_start: shape = (1286,)
+segments_timbre: shape = (1286, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWDPOU12AB018495D
+start_of_fade_out: 228.194
+tatums_confidence: shape = (1608,)
+tatums_start: shape = (1608,)
+tempo: 140.019
+time_signature: 5
+time_signature_confidence: 1.0
+title: How It Feels
+track_7digitalid: 5012224
+track_id: TRAFGYR128F930F410
+year: 0

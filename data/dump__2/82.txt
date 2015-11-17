@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 141459
+artist_familiarity: 0.609538991619
+artist_hotttnesss: 0.482131081053
+artist_id: ARTW7I31187B9A4CA9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f26c72d3-e52c-467b-b651-679c73d8e1a7
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: !!!
+artist_playmeid: -1
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 4d6a185abc27490f2ae8d03d31b3dee3
+bars_confidence: shape = (115,)
+bars_start: shape = (115,)
+beats_confidence: shape = (463,)
+beats_start: shape = (463,)
+danceability: 0.0
+duration: 143.98649
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.673
+loudness: -7.901
+mode: 0
+mode_confidence: 0.677
+release: Myth Takes
+release_7digitalid: 532741
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (584,)
+segments_loudness_max: shape = (584,)
+segments_loudness_max_time: shape = (584,)
+segments_loudness_start: shape = (584,)
+segments_pitches: shape = (584, 12)
+segments_start: shape = (584,)
+segments_timbre: shape = (584, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOYHNTG12A6D4F5703
+start_of_fade_out: 134.6
+tatums_confidence: shape = (926,)
+tatums_start: shape = (926,)
+tempo: 193.978
+time_signature: 4
+time_signature_confidence: 0.0
+title: Myth Takes
+track_7digitalid: 5886751
+track_id: TRAAVRJ128F92FF90A
+year: 2007

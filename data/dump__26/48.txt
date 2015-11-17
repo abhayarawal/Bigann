@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1679
+artist_familiarity: 0.461917430861
+artist_hotttnesss: 0.360625670596
+artist_id: ARHY20W1187B9B8262
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9df3cdb8-3595-4e80-b154-f64f3c1275bb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Steve Erquiaga
+artist_playmeid: 17558
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 825db2c7db5e3ff96e4a9270787c9c6e
+bars_confidence: shape = (350,)
+bars_start: shape = (350,)
+beats_confidence: shape = (350,)
+beats_start: shape = (350,)
+danceability: 0.0
+duration: 184.29342
+end_of_fade_in: 4.052
+energy: 0.0
+key: 4
+key_confidence: 0.663
+loudness: -23.966
+mode: 0
+mode_confidence: 0.625
+release: The Bach Variations
+release_7digitalid: 296889
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (654,)
+segments_loudness_max: shape = (654,)
+segments_loudness_max_time: shape = (654,)
+segments_loudness_start: shape = (654,)
+segments_pitches: shape = (654, 12)
+segments_start: shape = (654,)
+segments_timbre: shape = (654, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.557187767519
+song_id: SOZNYHL12A58A7F979
+start_of_fade_out: 173.801
+tatums_confidence: shape = (699,)
+tatums_start: shape = (699,)
+tempo: 116.949
+time_signature: 1
+time_signature_confidence: 0.0
+title: Prelude In C Minor From The Well Tempered-Clavier
+track_7digitalid: 3328110
+track_id: TRAIWMZ128F428B6D8
+year: 0

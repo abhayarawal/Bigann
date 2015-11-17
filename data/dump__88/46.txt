@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 388935
+artist_familiarity: 0.438784795334
+artist_hotttnesss: 0.301947212693
+artist_id: AR5AXVN1187B9A2761
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cb1ace0a-fb34-4450-b801-419a78fc3151
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sharon Burch
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 3b76400f893eab3d32292a929fb27848
+bars_confidence: shape = (119,)
+bars_start: shape = (119,)
+beats_confidence: shape = (481,)
+beats_start: shape = (481,)
+danceability: 0.0
+duration: 225.72363
+end_of_fade_in: 0.201
+energy: 0.0
+key: 2
+key_confidence: 0.359
+loudness: -12.62
+mode: 1
+mode_confidence: 0.36
+release: Colors of My Heart
+release_7digitalid: 531093
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (670,)
+segments_loudness_max: shape = (670,)
+segments_loudness_max_time: shape = (670,)
+segments_loudness_start: shape = (670,)
+segments_pitches: shape = (670, 12)
+segments_start: shape = (670,)
+segments_timbre: shape = (670, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONTDOE12AAFF4446C
+start_of_fade_out: 213.525
+tatums_confidence: shape = (962,)
+tatums_start: shape = (962,)
+tempo: 128.578
+time_signature: 4
+time_signature_confidence: 0.914
+title: Earth Child (World)
+track_7digitalid: 5868742
+track_id: TRBEKLP128F92FB2BD
+year: 1999

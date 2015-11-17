@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20131
+artist_familiarity: 0.688003348837
+artist_hotttnesss: 0.469340374259
+artist_id: ARSL3N21187B98DFC5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 74ba575f-3420-4d62-8e48-ac473d3c4282
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Klaus Badelt
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: e7436bd568533ae40dc391258782bbf2
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (554,)
+beats_start: shape = (554,)
+danceability: 0.0
+duration: 275.19955
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.039
+loudness: -16.683
+mode: 1
+mode_confidence: 0.049
+release: The Time Machine
+release_7digitalid: 285187
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (438,)
+segments_loudness_max: shape = (438,)
+segments_loudness_max_time: shape = (438,)
+segments_loudness_start: shape = (438,)
+segments_pitches: shape = (438, 12)
+segments_start: shape = (438,)
+segments_timbre: shape = (438, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.425124658313
+song_id: SOAESFB12A8C13573F
+start_of_fade_out: 261.155
+tatums_confidence: shape = (1109,)
+tatums_start: shape = (1109,)
+tempo: 121.667
+time_signature: 5
+time_signature_confidence: 0.454
+title: Time Travel
+track_7digitalid: 3185286
+track_id: TRATIKX128F42697BF
+year: 2002

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 35
+artist_familiarity: 0.817635146361
+artist_hotttnesss: 0.564005985821
+artist_id: AR40GSU1187FB3AA01
+artist_latitude: nan
+artist_location: Brooklyn, NY
+artist_longitude: nan
+artist_mbid: a42d3fd5-55de-4206-86c3-4fbb5404018f
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Neil Diamond
+artist_playmeid: 2589
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 76bd243b585cfb0bb177a27a6f873026
+bars_confidence: shape = (90,)
+bars_start: shape = (90,)
+beats_confidence: shape = (365,)
+beats_start: shape = (365,)
+danceability: 0.0
+duration: 172.38159
+end_of_fade_in: 2.409
+energy: 0.0
+key: 0
+key_confidence: 0.864
+loudness: -12.409
+mode: 1
+mode_confidence: 0.73
+release: Hot August Nights II
+release_7digitalid: 282376
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (521,)
+segments_loudness_max: shape = (521,)
+segments_loudness_max_time: shape = (521,)
+segments_loudness_start: shape = (521,)
+segments_pitches: shape = (521, 12)
+segments_start: shape = (521,)
+segments_timbre: shape = (521, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSCHDW12A8C130FD7
+start_of_fade_out: 172.382
+tatums_confidence: shape = (731,)
+tatums_start: shape = (731,)
+tempo: 127.275
+time_signature: 4
+time_signature_confidence: 0.0
+title: Song Sung Blue
+track_7digitalid: 3141817
+track_id: TRAJZWM128F4262BBD
+year: 1972

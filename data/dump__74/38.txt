@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 97843
+artist_familiarity: 0.602360696263
+artist_hotttnesss: 0.366348438993
+artist_id: AR7AE0Q1187B9AE30E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ae389557-f85b-4954-88f2-7b542db07ff8
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Solas
+artist_playmeid: 80882
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 7d51e65c1e025226915f5f14e43422a6
+bars_confidence: shape = (152,)
+bars_start: shape = (152,)
+beats_confidence: shape = (152,)
+beats_start: shape = (152,)
+danceability: 0.0
+duration: 192.67873
+end_of_fade_in: 0.194
+energy: 0.0
+key: 3
+key_confidence: 1.0
+loudness: -22.187
+mode: 1
+mode_confidence: 0.873
+release: Solas
+release_7digitalid: 600322
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (547,)
+segments_loudness_max: shape = (547,)
+segments_loudness_max_time: shape = (547,)
+segments_loudness_start: shape = (547,)
+segments_pitches: shape = (547, 12)
+segments_start: shape = (547,)
+segments_timbre: shape = (547, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTUDJY12AC9070E78
+start_of_fade_out: 187.362
+tatums_confidence: shape = (304,)
+tatums_start: shape = (304,)
+tempo: 47.934
+time_signature: 1
+time_signature_confidence: 0.0
+title: Lament for Frankie
+track_7digitalid: 6663011
+track_id: TRAZKIS12903CEED76
+year: 1996

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 82404
+artist_familiarity: 0.346073476146
+artist_hotttnesss: 0.2473593192
+artist_id: AR2ABYH1187B9A0C67
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c880c519-8fc2-4bee-95ca-34f50da728ff
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bröderna Djup
+artist_playmeid: -1
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: 376588f2896d796252d08f1fa3417044
+bars_confidence: shape = (67,)
+bars_start: shape = (67,)
+beats_confidence: shape = (272,)
+beats_start: shape = (272,)
+danceability: 0.0
+duration: 126.6673
+end_of_fade_in: 0.359
+energy: 0.0
+key: 9
+key_confidence: 0.42
+loudness: -9.221
+mode: 1
+mode_confidence: 0.558
+release: Bröderna Djup - Vi bor på landet
+release_7digitalid: 105323
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (495,)
+segments_loudness_max: shape = (495,)
+segments_loudness_max_time: shape = (495,)
+segments_loudness_start: shape = (495,)
+segments_pitches: shape = (495, 12)
+segments_start: shape = (495,)
+segments_timbre: shape = (495, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKCDWG12A8C1398E7
+start_of_fade_out: 120.471
+tatums_confidence: shape = (543,)
+tatums_start: shape = (543,)
+tempo: 135.407
+time_signature: 4
+time_signature_confidence: 0.492
+title: Råskevärsrock
+track_7digitalid: 1088575
+track_id: TRACDPS128F428BFBD
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 60985
+artist_familiarity: 0.686452083232
+artist_hotttnesss: 0.517259283138
+artist_id: ARMD6JB1187FB3B0E7
+artist_latitude: nan
+artist_location: Germany
+artist_longitude: nan
+artist_mbid: 7928481f-848e-4551-b658-472c0aaf0c85
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Die Fantastischen Vier
+artist_playmeid: 2338
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 2873aa3d26506480117b6a4c9dc10473
+bars_confidence: shape = (124,)
+bars_start: shape = (124,)
+beats_confidence: shape = (498,)
+beats_start: shape = (498,)
+danceability: 0.0
+duration: 316.55138
+end_of_fade_in: 0.239
+energy: 0.0
+key: 10
+key_confidence: 0.0
+loudness: -7.43
+mode: 1
+mode_confidence: 0.246
+release: Für Dich Immer Noch Fanta Sie
+release_7digitalid: 809638
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1160,)
+segments_loudness_max: shape = (1160,)
+segments_loudness_max_time: shape = (1160,)
+segments_loudness_start: shape = (1160,)
+segments_pitches: shape = (1160, 12)
+segments_start: shape = (1160,)
+segments_timbre: shape = (1160, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.600471580614
+song_id: SODJEJR12AB018A460
+start_of_fade_out: 312.436
+tatums_confidence: shape = (1993,)
+tatums_start: shape = (1993,)
+tempo: 95.863
+time_signature: 4
+time_signature_confidence: 0.932
+title: Was wollen wir noch mehr?
+track_7digitalid: 8953332
+track_id: TRBHRUL12903CCDF09
+year: 2010

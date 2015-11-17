@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1246
+artist_familiarity: 0.845768866449
+artist_hotttnesss: 0.788805935162
+artist_id: ARF2EHS1187B994F4E
+artist_latitude: 36.16778
+artist_location: Nashville, Tennessee
+artist_longitude: -86.77836
+artist_mbid: 6ffb8ea9-2370-44d8-b678-e9237bbd347b
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Kings Of Leon
+artist_playmeid: 1858
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: ae675b66cbf95eac7d7ea49d67135875
+bars_confidence: shape = (217,)
+bars_start: shape = (217,)
+beats_confidence: shape = (873,)
+beats_start: shape = (873,)
+danceability: 0.0
+duration: 466.65098
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.0
+loudness: -7.714
+mode: 1
+mode_confidence: 0.0
+release: Sex On Fire
+release_7digitalid: 315023
+sections_confidence: shape = (21,)
+sections_start: shape = (21,)
+segments_confidence: shape = (1219,)
+segments_loudness_max: shape = (1219,)
+segments_loudness_max_time: shape = (1219,)
+segments_loudness_start: shape = (1219,)
+segments_pitches: shape = (1219, 12)
+segments_start: shape = (1219,)
+segments_timbre: shape = (1219, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCOICY12A8C140D18
+start_of_fade_out: 462.222
+tatums_confidence: shape = (1747,)
+tatums_start: shape = (1747,)
+tempo: 114.73
+time_signature: 4
+time_signature_confidence: 0.572
+title: Knocked Up
+track_7digitalid: 3567668
+track_id: TRABNEX128F92C9DEA
+year: 2007

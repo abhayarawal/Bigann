@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 270028
+artist_familiarity: 0.713782885977
+artist_hotttnesss: 0.529166982926
+artist_id: ARUYVDC12086C11D5C
+artist_latitude: nan
+artist_location: Stockholm
+artist_longitude: nan
+artist_mbid: f7df5df4-4dfa-459d-972b-1ba051c15ddc
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Fever Ray
+artist_playmeid: 116389
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 3cac3079508fd9a6bb0f2379f92b674b
+bars_confidence: shape = (73,)
+bars_start: shape = (73,)
+beats_confidence: shape = (304,)
+beats_start: shape = (304,)
+danceability: 0.0
+duration: 280.24118
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.0
+loudness: -9.074
+mode: 1
+mode_confidence: 0.119
+release: Live In Lulea
+release_7digitalid: 645658
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (1131,)
+segments_loudness_max: shape = (1131,)
+segments_loudness_max_time: shape = (1131,)
+segments_loudness_start: shape = (1131,)
+segments_pitches: shape = (1131, 12)
+segments_start: shape = (1131,)
+segments_timbre: shape = (1131, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.554384121184
+song_id: SOJDJRK12AB018565D
+start_of_fade_out: 256.592
+tatums_confidence: shape = (1519,)
+tatums_start: shape = (1519,)
+tempo: 64.811
+time_signature: 4
+time_signature_confidence: 0.24
+title: I'm Not Done
+track_7digitalid: 7153317
+track_id: TRACHKX128F934B07A
+year: 2009

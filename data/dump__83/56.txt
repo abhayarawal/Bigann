@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 33141
+artist_familiarity: 0.743792497642
+artist_hotttnesss: 0.472670741053
+artist_id: ARYGXKQ11E2835CE3B
+artist_latitude: nan
+artist_location: New York, NY [Queens]
+artist_longitude: nan
+artist_mbid: 6c81c5d0-5159-4be8-b774-aa8397ed5a93
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Styles P
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: ea301db8d1ec0d562576c3467c079cca
+bars_confidence: shape = (92,)
+bars_start: shape = (92,)
+beats_confidence: shape = (377,)
+beats_start: shape = (377,)
+danceability: 0.0
+duration: 229.14567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.489
+loudness: -5.587
+mode: 1
+mode_confidence: 0.541
+release: The Ghost Dub-Dime Mixtape
+release_7digitalid: 822031
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (938,)
+segments_loudness_max: shape = (938,)
+segments_loudness_max_time: shape = (938,)
+segments_loudness_start: shape = (938,)
+segments_pitches: shape = (938, 12)
+segments_start: shape = (938,)
+segments_timbre: shape = (938, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.240040555587
+song_id: SOEOSKZ12AC392B55B
+start_of_fade_out: 218.157
+tatums_confidence: shape = (754,)
+tatums_start: shape = (754,)
+tempo: 98.299
+time_signature: 4
+time_signature_confidence: 0.803
+title: Back On My New S*** (feat. Tre Williams)
+track_7digitalid: 9075359
+track_id: TRBCRRZ12903CEBAC1
+year: 0

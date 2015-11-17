@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 54798
+artist_familiarity: 0.566796474833
+artist_hotttnesss: 0.388112773806
+artist_id: ARFTMGO1187B9A777A
+artist_latitude: 43.64856
+artist_location: Toronto, Ontario, Canada
+artist_longitude: -79.38533
+artist_mbid: 291dcfb8-b31c-496a-905b-9955509d75b6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Percy Faith
+artist_playmeid: 12855
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 5e6d06e7dc9277e86d6536ec04abce64
+bars_confidence: shape = (56,)
+bars_start: shape = (56,)
+beats_confidence: shape = (228,)
+beats_start: shape = (228,)
+danceability: 0.0
+duration: 160.28689
+end_of_fade_in: 0.061
+energy: 0.0
+key: 0
+key_confidence: 0.837
+loudness: -15.578
+mode: 0
+mode_confidence: 0.718
+release: A Jerome Kern Songbook
+release_7digitalid: 708314
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (383,)
+segments_loudness_max: shape = (383,)
+segments_loudness_max_time: shape = (383,)
+segments_loudness_start: shape = (383,)
+segments_pitches: shape = (383, 12)
+segments_start: shape = (383,)
+segments_timbre: shape = (383, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFWWGY12AB0185BC5
+start_of_fade_out: 156.386
+tatums_confidence: shape = (456,)
+tatums_start: shape = (456,)
+tempo: 86.141
+time_signature: 4
+time_signature_confidence: 0.77
+title: Yesterdays
+track_7digitalid: 7855982
+track_id: TRAATOA12903CAD615
+year: 0

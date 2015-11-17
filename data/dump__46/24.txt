@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 26992
+artist_familiarity: 0.415487694399
+artist_hotttnesss: 0.311679480924
+artist_id: ARE6ZTY1187FB5007F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a2573ff2-dd80-42fc-948c-f01e4745fdd0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Adalberto Santiago
+artist_playmeid: 54058
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 8f6a38eb19ec4e2cac195585fbdc3eff
+bars_confidence: shape = (256,)
+bars_start: shape = (256,)
+beats_confidence: shape = (1027,)
+beats_start: shape = (1027,)
+danceability: 0.0
+duration: 299.93751
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.046
+loudness: -3.533
+mode: 1
+mode_confidence: 0.18
+release: Adalberto
+release_7digitalid: 725665
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1370,)
+segments_loudness_max: shape = (1370,)
+segments_loudness_max_time: shape = (1370,)
+segments_loudness_start: shape = (1370,)
+segments_pitches: shape = (1370, 12)
+segments_start: shape = (1370,)
+segments_timbre: shape = (1370, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOWKWKH12A8C13C972
+start_of_fade_out: 295.573
+tatums_confidence: shape = (2054,)
+tatums_start: shape = (2054,)
+tempo: 205.885
+time_signature: 4
+time_signature_confidence: 0.0
+title: Tu Me Desesperas
+track_7digitalid: 8041739
+track_id: TRAPTMB12903CDA80E
+year: 1977

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 39252
+artist_familiarity: 0.609181991921
+artist_hotttnesss: 0.509243098679
+artist_id: ARYXOV81187B99831D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 56e7a15e-8b19-4f09-b3e7-c5fb830e3120
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Seventh Day Slumber
+artist_playmeid: 7399
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 20d92b5f72cab7608a8aa94b3e145810
+bars_confidence: shape = (121,)
+bars_start: shape = (121,)
+beats_confidence: shape = (489,)
+beats_start: shape = (489,)
+danceability: 0.0
+duration: 209.73669
+end_of_fade_in: 0.125
+energy: 0.0
+key: 2
+key_confidence: 0.315
+loudness: -5.324
+mode: 0
+mode_confidence: 0.406
+release: Once Upon A Shattered Life
+release_7digitalid: 64501
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (577,)
+segments_loudness_max: shape = (577,)
+segments_loudness_max_time: shape = (577,)
+segments_loudness_start: shape = (577,)
+segments_pitches: shape = (577, 12)
+segments_start: shape = (577,)
+segments_timbre: shape = (577, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.780311604252
+song_id: SOFAOMI12A6D4FA2D8
+start_of_fade_out: 193.167
+tatums_confidence: shape = (978,)
+tatums_start: shape = (978,)
+tempo: 150.575
+time_signature: 4
+time_signature_confidence: 0.317
+title: Shattered Life
+track_7digitalid: 670250
+track_id: TRBIJYB128F14AE326
+year: 2005

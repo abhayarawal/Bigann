@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 196416
+artist_familiarity: 0.438738148274
+artist_hotttnesss: 0.328826085166
+artist_id: ARSX72J1187FB3740D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4d8163d2-e020-40c3-bf45-d6532e3cd44f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Big Mike Griffin
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 2ab4d1321588b26f71373e424f60781a
+bars_confidence: shape = (81,)
+bars_start: shape = (81,)
+beats_confidence: shape = (326,)
+beats_start: shape = (326,)
+danceability: 0.0
+duration: 232.82893
+end_of_fade_in: 0.369
+energy: 0.0
+key: 5
+key_confidence: 0.333
+loudness: -7.875
+mode: 1
+mode_confidence: 0.31
+release: Sittin' Here With Nothing
+release_7digitalid: 262259
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (840,)
+segments_loudness_max: shape = (840,)
+segments_loudness_max_time: shape = (840,)
+segments_loudness_start: shape = (840,)
+segments_pitches: shape = (840, 12)
+segments_start: shape = (840,)
+segments_timbre: shape = (840, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEXCDW12A58A7C4C9
+start_of_fade_out: 213.838
+tatums_confidence: shape = (1303,)
+tatums_start: shape = (1303,)
+tempo: 86.164
+time_signature: 4
+time_signature_confidence: 0.551
+title: The Last Thing I Need
+track_7digitalid: 2753384
+track_id: TRBHNJY128F4253FDC
+year: 0

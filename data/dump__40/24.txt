@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11367
+artist_familiarity: 0.624723767579
+artist_hotttnesss: 0.403509673363
+artist_id: ARCZ20M1187FB49687
+artist_latitude: 32.77942
+artist_location: Goodwill, LA
+artist_longitude: -91.56123
+artist_mbid: 810af667-6a1f-40df-87a9-27f726cba4f3
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Tony Joe White
+artist_playmeid: 20062
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: e52460096b44e91dfd5be48ac7e8b011
+bars_confidence: shape = (75,)
+bars_start: shape = (75,)
+beats_confidence: shape = (305,)
+beats_start: shape = (305,)
+danceability: 0.0
+duration: 152.842
+end_of_fade_in: 3.257
+energy: 0.0
+key: 7
+key_confidence: 0.191
+loudness: -16.834
+mode: 1
+mode_confidence: 0.364
+release: Tony Joe
+release_7digitalid: 176428
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (524,)
+segments_loudness_max: shape = (524,)
+segments_loudness_max_time: shape = (524,)
+segments_loudness_start: shape = (524,)
+segments_pitches: shape = (524, 12)
+segments_start: shape = (524,)
+segments_timbre: shape = (524, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.369053603475
+song_id: SOGXGUK12A6D4FC1B4
+start_of_fade_out: 146.239
+tatums_confidence: shape = (610,)
+tatums_start: shape = (610,)
+tempo: 122.236
+time_signature: 4
+time_signature_confidence: 0.463
+title: A Man Can Only Stand Just So Much Pain (Bonus Track)
+track_7digitalid: 1898408
+track_id: TRANRXY128F4222CB4
+year: 1970

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23683
+artist_familiarity: 0.524700041107
+artist_hotttnesss: 0.389765518091
+artist_id: AR8EDG51187FB41A08
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9ee12319-bfdb-4b63-a0b3-a7968a664a6c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gary Hobbs
+artist_playmeid: 51164
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 27e1fcaaee813988e1140b5a9c331e43
+bars_confidence: shape = (903,)
+bars_start: shape = (903,)
+beats_confidence: shape = (903,)
+beats_start: shape = (903,)
+danceability: 0.0
+duration: 289.64526
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.403
+loudness: -9.435
+mode: 1
+mode_confidence: 0.578
+release: Of My Times
+release_7digitalid: 539974
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1268,)
+segments_loudness_max: shape = (1268,)
+segments_loudness_max_time: shape = (1268,)
+segments_loudness_start: shape = (1268,)
+segments_pitches: shape = (1268, 12)
+segments_start: shape = (1268,)
+segments_timbre: shape = (1268, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SORGLCR12AB0184B69
+start_of_fade_out: 286.18
+tatums_confidence: shape = (1805,)
+tatums_start: shape = (1805,)
+tempo: 188.502
+time_signature: 1
+time_signature_confidence: 0.0
+title: The Look Of Love
+track_7digitalid: 5979322
+track_id: TRAAMZR128F9315DCC
+year: 0

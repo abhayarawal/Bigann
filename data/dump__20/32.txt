@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19920
+artist_familiarity: 0.540881349196
+artist_hotttnesss: 0.38663083651
+artist_id: ARJRQL51187FB541AB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 84f01d1b-ff47-4b26-bedb-2701ec5b2c9f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Juan Carlos Baglietto
+artist_playmeid: 67826
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 908f2f19b4464b11533701bd35792ba7
+bars_confidence: shape = (114,)
+bars_start: shape = (114,)
+beats_confidence: shape = (378,)
+beats_start: shape = (378,)
+danceability: 0.0
+duration: 232.61995
+end_of_fade_in: 0.248
+energy: 0.0
+key: 10
+key_confidence: 0.572
+loudness: -14.511
+mode: 1
+mode_confidence: 0.439
+release: Actuar Para Vivir
+release_7digitalid: 160142
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (625,)
+segments_loudness_max: shape = (625,)
+segments_loudness_max_time: shape = (625,)
+segments_loudness_start: shape = (625,)
+segments_pitches: shape = (625, 12)
+segments_start: shape = (625,)
+segments_timbre: shape = (625, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.201387441934
+song_id: SOMCTKM12A8C138B86
+start_of_fade_out: 210.913
+tatums_confidence: shape = (756,)
+tatums_start: shape = (756,)
+tempo: 97.342
+time_signature: 3
+time_signature_confidence: 0.666
+title: Tiempos Dificiles
+track_7digitalid: 1682027
+track_id: TRAGXAI128F4279B2B
+year: 1982

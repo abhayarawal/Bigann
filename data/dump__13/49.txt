@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3169
+artist_familiarity: 0.561976087409
+artist_hotttnesss: 0.364776170561
+artist_id: ARR8B8W1187B9AE0B4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3042ccd3-9a71-4852-a126-f6a164e58174
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: House Of Lords
+artist_playmeid: 57629
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 0e387f855628dd08ca32b729a508622c
+bars_confidence: shape = (162,)
+bars_start: shape = (162,)
+beats_confidence: shape = (489,)
+beats_start: shape = (489,)
+danceability: 0.0
+duration: 232.75057
+end_of_fade_in: 0.131
+energy: 0.0
+key: 0
+key_confidence: 0.687
+loudness: -4.045
+mode: 0
+mode_confidence: 0.643
+release: World Upside Down
+release_7digitalid: 197174
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (648,)
+segments_loudness_max: shape = (648,)
+segments_loudness_max_time: shape = (648,)
+segments_loudness_start: shape = (648,)
+segments_pitches: shape = (648, 12)
+segments_start: shape = (648,)
+segments_timbre: shape = (648, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.599660357626
+song_id: SOSBUAO12A8C132DE4
+start_of_fade_out: 227.701
+tatums_confidence: shape = (977,)
+tatums_start: shape = (977,)
+tempo: 127.974
+time_signature: 3
+time_signature_confidence: 0.461
+title: Rock Bottom
+track_7digitalid: 2142996
+track_id: TRAENUU128F424F50C
+year: 2006

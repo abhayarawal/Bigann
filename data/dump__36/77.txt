@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8588
+artist_familiarity: 0.594866645475
+artist_hotttnesss: 0.3828469015
+artist_id: ARE36MM1187B991E50
+artist_latitude: 31.1689
+artist_location: Couchman, TX
+artist_longitude: -100.07715
+artist_mbid: 9481010a-db23-469d-87df-b04118850efb
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Blind Lemon Jefferson
+artist_playmeid: 16298
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: b967ea10bae3857d6841798ee0dcca65
+bars_confidence: shape = (349,)
+bars_start: shape = (349,)
+beats_confidence: shape = (349,)
+beats_start: shape = (349,)
+danceability: 0.0
+duration: 201.79546
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.652
+loudness: -28.197
+mode: 1
+mode_confidence: 0.564
+release: Penitentiary Blues
+release_7digitalid: 579914
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (574,)
+segments_loudness_max: shape = (574,)
+segments_loudness_max_time: shape = (574,)
+segments_loudness_start: shape = (574,)
+segments_pitches: shape = (574, 12)
+segments_start: shape = (574,)
+segments_timbre: shape = (574, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFOWNK12AB018C539
+start_of_fade_out: 191.269
+tatums_confidence: shape = (699,)
+tatums_start: shape = (699,)
+tempo: 106.798
+time_signature: 1
+time_signature_confidence: 0.086
+title: Long Distance Moan
+track_7digitalid: 6426511
+track_id: TRAMMFP12903CB59C2
+year: 2007

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15403
+artist_familiarity: 0.556750823055
+artist_hotttnesss: 0.361587941532
+artist_id: ARAMIDF1187FB3D8D4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: aae1ec8e-ecd9-44ef-aca8-b5f44579ecce
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Alejandro Lerner
+artist_playmeid: -1
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 0891833f67782c04d24692482787c358
+bars_confidence: shape = (121,)
+bars_start: shape = (121,)
+beats_confidence: shape = (489,)
+beats_start: shape = (489,)
+danceability: 0.0
+duration: 232.48934
+end_of_fade_in: 4.998
+energy: 0.0
+key: 7
+key_confidence: 0.651
+loudness: -17.181
+mode: 1
+mode_confidence: 0.646
+release: Lernertres
+release_7digitalid: 346205
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (647,)
+segments_loudness_max: shape = (647,)
+segments_loudness_max_time: shape = (647,)
+segments_loudness_start: shape = (647,)
+segments_pitches: shape = (647, 12)
+segments_start: shape = (647,)
+segments_timbre: shape = (647, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOCSZVF12AB017F6BF
+start_of_fade_out: 209.694
+tatums_confidence: shape = (978,)
+tatums_start: shape = (978,)
+tempo: 129.233
+time_signature: 4
+time_signature_confidence: 0.77
+title: Canta Una Canción De Amor
+track_7digitalid: 3879353
+track_id: TRBEYEO128F9308A8D
+year: 1984

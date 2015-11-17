@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 218883
+artist_familiarity: 0.42960301673
+artist_hotttnesss: 0.370441154739
+artist_id: AR4B1LP1187FB55C83
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c77272a6-7db3-49ec-8cbb-5da16b59966c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Juan Diego Flórez / Riccardo Frizza / Orchestra Sinfonica di Milano Giuseppe Verdi
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: c71c012134702d7d276815f4ee533fe2
+bars_confidence: shape = (196,)
+bars_start: shape = (196,)
+beats_confidence: shape = (590,)
+beats_start: shape = (590,)
+danceability: 0.0
+duration: 222.61506
+end_of_fade_in: 2.92
+energy: 0.0
+key: 4
+key_confidence: 0.688
+loudness: -17.898
+mode: 1
+mode_confidence: 0.362
+release: The Tenor
+release_7digitalid: 55526
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (704,)
+segments_loudness_max: shape = (704,)
+segments_loudness_max_time: shape = (704,)
+segments_loudness_start: shape = (704,)
+segments_pitches: shape = (704, 12)
+segments_start: shape = (704,)
+segments_timbre: shape = (704, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWSCTG12A6D4FA919
+start_of_fade_out: 217.67
+tatums_confidence: shape = (590,)
+tatums_start: shape = (590,)
+tempo: 164.595
+time_signature: 3
+time_signature_confidence: 0.862
+title: Allegro io son
+track_7digitalid: 576948
+track_id: TRANUQO128F14991ED
+year: 0

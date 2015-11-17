@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 176139
+artist_familiarity: 0.482356042591
+artist_hotttnesss: 0.350078578989
+artist_id: AR6YDKV1187B989230
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a3bbee3c-ef45-43e7-bf4f-ba0f871ea716
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Roberto Torres
+artist_playmeid: -1
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: d8954ff1c68425f8e10709a51954c469
+bars_confidence: shape = (183,)
+bars_start: shape = (183,)
+beats_confidence: shape = (736,)
+beats_start: shape = (736,)
+danceability: 0.0
+duration: 276.00934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.844
+loudness: -7.196
+mode: 0
+mode_confidence: 0.875
+release: Lo Mejor De Roberto Torres / Vol. II
+release_7digitalid: 257997
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1132,)
+segments_loudness_max: shape = (1132,)
+segments_loudness_max_time: shape = (1132,)
+segments_loudness_start: shape = (1132,)
+segments_pitches: shape = (1132, 12)
+segments_start: shape = (1132,)
+segments_timbre: shape = (1132, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOPBAMQ12A8C13A815
+start_of_fade_out: 272.637
+tatums_confidence: shape = (1471,)
+tatums_start: shape = (1471,)
+tempo: 161.345
+time_signature: 4
+time_signature_confidence: 0.892
+title: Decima Del Tiempo De Antes
+track_7digitalid: 2852188
+track_id: TRBCBQT128F426B79A
+year: 0

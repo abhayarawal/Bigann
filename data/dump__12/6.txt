@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 446542
+artist_familiarity: 0.328678545669
+artist_hotttnesss: 0.25501125829
+artist_id: ARI9ZSM1187FB377C5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7614d716-7391-448b-b937-d52f66cadd46
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pamelo Mounk'a
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 35f8cefb440fe7634970f8a7050c4f70
+bars_confidence: shape = (248,)
+bars_start: shape = (248,)
+beats_confidence: shape = (995,)
+beats_start: shape = (995,)
+danceability: 0.0
+duration: 528.40444
+end_of_fade_in: 0.125
+energy: 0.0
+key: 2
+key_confidence: 0.162
+loudness: -13.89
+mode: 1
+mode_confidence: 0.263
+release: L'Incontournable
+release_7digitalid: 602149
+sections_confidence: shape = (24,)
+sections_start: shape = (24,)
+segments_confidence: shape = (2494,)
+segments_loudness_max: shape = (2494,)
+segments_loudness_max_time: shape = (2494,)
+segments_loudness_start: shape = (2494,)
+segments_pitches: shape = (2494, 12)
+segments_start: shape = (2494,)
+segments_timbre: shape = (2494, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLCRKR12AC96184F8
+start_of_fade_out: 519.866
+tatums_confidence: shape = (3980,)
+tatums_start: shape = (3980,)
+tempo: 112.752
+time_signature: 4
+time_signature_confidence: 1.0
+title: On ne meurt qu'une fois
+track_7digitalid: 6685454
+track_id: TRADZGK12903CF4512
+year: 0

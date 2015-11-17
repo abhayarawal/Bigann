@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4
+artist_familiarity: 0.899709852629
+artist_hotttnesss: 0.583732613088
+artist_id: ARWD25M1187FB4C563
+artist_latitude: nan
+artist_location: London
+artist_longitude: nan
+artist_mbid: dfe9a7c4-8cf2-47f4-9dcb-d233c2b86ec3
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Amy Winehouse
+artist_playmeid: -1
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 4d34592240debd914eec174ec501d87e
+bars_confidence: shape = (93,)
+bars_start: shape = (93,)
+beats_confidence: shape = (385,)
+beats_start: shape = (385,)
+danceability: 0.0
+duration: 256.10404
+end_of_fade_in: 0.206
+energy: 0.0
+key: 10
+key_confidence: 0.312
+loudness: -7.758
+mode: 1
+mode_confidence: 0.371
+release: Take The Box
+release_7digitalid: 133
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (958,)
+segments_loudness_max: shape = (958,)
+segments_loudness_max_time: shape = (958,)
+segments_loudness_start: shape = (958,)
+segments_pitches: shape = (958, 12)
+segments_start: shape = (958,)
+segments_timbre: shape = (958, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXLVKX12A6310E1C9
+start_of_fade_out: 249.156
+tatums_confidence: shape = (771,)
+tatums_start: shape = (771,)
+tempo: 91.198
+time_signature: 4
+time_signature_confidence: 0.0
+title: Stronger Than Me
+track_7digitalid: 1655
+track_id: TRABJIX128C7196953
+year: 2003

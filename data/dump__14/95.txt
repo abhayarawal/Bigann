@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 301063
+artist_familiarity: 0.543393231433
+artist_hotttnesss: 0.338575026457
+artist_id: ARTXS851187FB411C7
+artist_latitude: nan
+artist_location: Essex, England
+artist_longitude: nan
+artist_mbid: 6bb0bcaa-f96f-4c1a-b51d-c766db2af8ae
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Chris Farlowe
+artist_playmeid: 100509
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 9812977f533f82dc5506b40fffbce296
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (484,)
+beats_start: shape = (484,)
+danceability: 0.0
+duration: 165.51138
+end_of_fade_in: 0.138
+energy: 0.0
+key: 0
+key_confidence: 0.543
+loudness: -11.854
+mode: 1
+mode_confidence: 0.724
+release: Chris Farlowe Selected Hits
+release_7digitalid: 468309
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (619,)
+segments_loudness_max: shape = (619,)
+segments_loudness_max_time: shape = (619,)
+segments_loudness_start: shape = (619,)
+segments_pitches: shape = (619, 12)
+segments_start: shape = (619,)
+segments_timbre: shape = (619, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKLWWG12AB018A824
+start_of_fade_out: 154.569
+tatums_confidence: shape = (969,)
+tatums_start: shape = (969,)
+tempo: 177.598
+time_signature: 4
+time_signature_confidence: 0.413
+title: Paperman_ Fly In The Sky - Original
+track_7digitalid: 5208167
+track_id: TRAFAKZ128F933D7B9
+year: 0

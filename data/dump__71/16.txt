@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 64440
+artist_familiarity: 0.673653885322
+artist_hotttnesss: 0.461679633089
+artist_id: AR4Y1BM1187B99A1EF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5618fee2-7613-4337-8169-6621aff5d6f5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Deitrick Haddon
+artist_playmeid: 7989
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 4a3f57bf1d81a67d8b665682cafa032e
+bars_confidence: shape = (114,)
+bars_start: shape = (114,)
+beats_confidence: shape = (461,)
+beats_start: shape = (461,)
+danceability: 0.0
+duration: 199.07873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.625
+loudness: -7.077
+mode: 1
+mode_confidence: 0.59
+release: Crossroads
+release_7digitalid: 295592
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (720,)
+segments_loudness_max: shape = (720,)
+segments_loudness_max_time: shape = (720,)
+segments_loudness_start: shape = (720,)
+segments_pitches: shape = (720, 12)
+segments_start: shape = (720,)
+segments_timbre: shape = (720, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3759843015
+song_id: SOTDRNJ12A8C137751
+start_of_fade_out: 191.263
+tatums_confidence: shape = (922,)
+tatums_start: shape = (922,)
+tempo: 139.543
+time_signature: 4
+time_signature_confidence: 0.469
+title: Stir The Gift
+track_7digitalid: 3320202
+track_id: TRAYIUY128F4289952
+year: 2004

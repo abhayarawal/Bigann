@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 60366
+artist_familiarity: 0.771492149522
+artist_hotttnesss: 0.517342285953
+artist_id: AR7N7MI1187FB46935
+artist_latitude: 7.37884
+artist_location: Ibadan, Nigeria
+artist_longitude: 3.89527
+artist_mbid: 67930b3e-e00b-469f-8c74-fd69f20522ec
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Sade
+artist_playmeid: 1376
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 2a1785f68621ca9d46f32452ac9de85e
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (362,)
+beats_start: shape = (362,)
+danceability: 0.0
+duration: 271.98649
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.303
+loudness: -8.183
+mode: 0
+mode_confidence: 0.402
+release: Lovers Live
+release_7digitalid: 278832
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1369,)
+segments_loudness_max: shape = (1369,)
+segments_loudness_max_time: shape = (1369,)
+segments_loudness_start: shape = (1369,)
+segments_pitches: shape = (1369, 12)
+segments_start: shape = (1369,)
+segments_timbre: shape = (1369, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHUEFC12A8AE4827A
+start_of_fade_out: 271.986
+tatums_confidence: shape = (1810,)
+tatums_start: shape = (1810,)
+tempo: 80.292
+time_signature: 3
+time_signature_confidence: 0.402
+title: Paradise
+track_7digitalid: 3105260
+track_id: TRAVMRI128F4259E76
+year: 1988

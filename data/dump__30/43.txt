@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4715
+artist_familiarity: 0.604820431918
+artist_hotttnesss: 0.383877493634
+artist_id: AR7BMMV1187FB5B2D7
+artist_latitude: 39.15093
+artist_location: Ukiah, CA
+artist_longitude: -123.2079
+artist_mbid: 9c17c956-de06-4463-9a87-234652c306dc
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Robben Ford
+artist_playmeid: -1
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: c663d545c09b963f3bac229c9e99924d
+bars_confidence: shape = (195,)
+bars_start: shape = (195,)
+beats_confidence: shape = (588,)
+beats_start: shape = (588,)
+danceability: 0.0
+duration: 312.92036
+end_of_fade_in: 0.45
+energy: 0.0
+key: 2
+key_confidence: 0.409
+loudness: -9.925
+mode: 0
+mode_confidence: 0.655
+release: Tiger Walk
+release_7digitalid: 57342
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (971,)
+segments_loudness_max: shape = (971,)
+segments_loudness_max_time: shape = (971,)
+segments_loudness_start: shape = (971,)
+segments_pitches: shape = (971, 12)
+segments_start: shape = (971,)
+segments_timbre: shape = (971, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.599660357626
+song_id: SOBEZJB12A6D4FBA4A
+start_of_fade_out: 294.278
+tatums_confidence: shape = (1176,)
+tatums_start: shape = (1176,)
+tempo: 114.681
+time_signature: 3
+time_signature_confidence: 1.0
+title: The Champ
+track_7digitalid: 596412
+track_id: TRAKGRM128F149DAFB
+year: 1997

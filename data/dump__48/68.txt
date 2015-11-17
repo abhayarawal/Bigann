@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 34720
+artist_familiarity: 0.585610141332
+artist_hotttnesss: 0.317036751943
+artist_id: ARAVPU21187B993957
+artist_latitude: 40.19033
+artist_location: Ohio
+artist_longitude: -82.66947
+artist_mbid: 685c472f-9abf-4490-a845-6aa13b0922af
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Don & Juan
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 5d9f1023967d539961d10db8d3793d21
+bars_confidence: shape = (79,)
+bars_start: shape = (79,)
+beats_confidence: shape = (318,)
+beats_start: shape = (318,)
+danceability: 0.0
+duration: 136.04526
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.916
+loudness: -9.146
+mode: 1
+mode_confidence: 0.594
+release: Twirl Records Story Volume 10
+release_7digitalid: 715795
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (481,)
+segments_loudness_max: shape = (481,)
+segments_loudness_max_time: shape = (481,)
+segments_loudness_start: shape = (481,)
+segments_pitches: shape = (481, 12)
+segments_start: shape = (481,)
+segments_timbre: shape = (481, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONZTSK12AB018C5A1
+start_of_fade_out: 130.287
+tatums_confidence: shape = (318,)
+tatums_start: shape = (318,)
+tempo: 141.469
+time_signature: 4
+time_signature_confidence: 1.0
+title: Are You Putting Me On The Shelf
+track_7digitalid: 7940251
+track_id: TRAQOMM12903CC1D1C
+year: 1995

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15897
+artist_familiarity: 0.698291623658
+artist_hotttnesss: 0.453850265331
+artist_id: ARSQDUN1187B98D7D7
+artist_latitude: nan
+artist_location: allentown Pennsylvania USA
+artist_longitude: nan
+artist_mbid: 4fa39dc8-c695-4e0e-ba04-92c63d99c9f9
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: EPMD
+artist_playmeid: 90149
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 1c879f7a7a40c33a6f12a29e5472e0cc
+bars_confidence: shape = (161,)
+bars_start: shape = (161,)
+beats_confidence: shape = (647,)
+beats_start: shape = (647,)
+danceability: 0.0
+duration: 196.91057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.589
+loudness: -7.481
+mode: 1
+mode_confidence: 0.473
+release: Out Of Business
+release_7digitalid: 47389
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (963,)
+segments_loudness_max: shape = (963,)
+segments_loudness_max_time: shape = (963,)
+segments_loudness_start: shape = (963,)
+segments_pitches: shape = (963, 12)
+segments_start: shape = (963,)
+segments_timbre: shape = (963, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.433005077275
+song_id: SOIHMRM12A6D4F89CC
+start_of_fade_out: 177.296
+tatums_confidence: shape = (1294,)
+tatums_start: shape = (1294,)
+tempo: 200.265
+time_signature: 4
+time_signature_confidence: 1.0
+title: Check 1_2
+track_7digitalid: 508053
+track_id: TRBCCAJ128F148CBBB
+year: 1999

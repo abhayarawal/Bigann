@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 293676
+artist_familiarity: 0.453600538864
+artist_hotttnesss: 0.350803574069
+artist_id: ARN4IYF1187FB49D76
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 733fd871-62b7-4fa3-9c70-6e7aa6cdfe0e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pagan Wanderer Lu
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 7b81f4630ca53e1345c8d6d990c6c1c9
+bars_confidence: shape = (62,)
+bars_start: shape = (62,)
+beats_confidence: shape = (250,)
+beats_start: shape = (250,)
+danceability: 0.0
+duration: 117.28934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.665
+loudness: -4.952
+mode: 1
+mode_confidence: 0.722
+release: European Monsoon
+release_7digitalid: 820294
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (280,)
+segments_loudness_max: shape = (280,)
+segments_loudness_max_time: shape = (280,)
+segments_loudness_start: shape = (280,)
+segments_pitches: shape = (280, 12)
+segments_start: shape = (280,)
+segments_timbre: shape = (280, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.299877488274
+song_id: SODXTQB12AB018A5C0
+start_of_fade_out: 106.04
+tatums_confidence: shape = (500,)
+tatums_start: shape = (500,)
+tempo: 140.247
+time_signature: 4
+time_signature_confidence: 0.608
+title: Crustaceans As Castanets
+track_7digitalid: 9059043
+track_id: TRBCOMF12903CE7B2A
+year: 0

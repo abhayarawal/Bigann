@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8862
+artist_familiarity: 0.90898429564
+artist_hotttnesss: 0.562506672289
+artist_id: ARBNXYA1187FB51C50
+artist_latitude: 18.22328
+artist_location: Puerto Rico
+artist_longitude: -66.42889
+artist_mbid: 2f522f5c-111c-4ce8-8bd0-d82e97c227ad
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Daddy Yankee
+artist_playmeid: 2007
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 9f1c27852a8120c0b5ff1b075473dc5d
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (356,)
+beats_start: shape = (356,)
+danceability: 0.0
+duration: 235.15383
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.085
+loudness: -4.13
+mode: 0
+mode_confidence: 0.39
+release: El Cartel: The Big Boss
+release_7digitalid: 106394
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1052,)
+segments_loudness_max: shape = (1052,)
+segments_loudness_max_time: shape = (1052,)
+segments_loudness_start: shape = (1052,)
+segments_pitches: shape = (1052, 12)
+segments_start: shape = (1052,)
+segments_timbre: shape = (1052, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.487112194863
+song_id: SOIKPOX12A58A7BA0B
+start_of_fade_out: 230.946
+tatums_confidence: shape = (1426,)
+tatums_start: shape = (1426,)
+tempo: 91.026
+time_signature: 4
+time_signature_confidence: 1.0
+title: A Lo Clasico
+track_7digitalid: 1103893
+track_id: TRARGBM128F428F65E
+year: 2007

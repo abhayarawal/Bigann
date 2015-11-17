@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 284880
+artist_familiarity: 0.413934001593
+artist_hotttnesss: 0.317491738988
+artist_id: ARJQSSS1187B99A513
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a9e7b58c-606d-4c86-b5bf-841bd3b70ddd
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cookie Crew
+artist_playmeid: -1
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: ce8d039b0f4866313c344767399e798e
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (396,)
+beats_start: shape = (396,)
+danceability: 0.0
+duration: 282.33098
+end_of_fade_in: 1.088
+energy: 0.0
+key: 8
+key_confidence: 0.622
+loudness: -10.713
+mode: 0
+mode_confidence: 0.519
+release: Smash Hits 1989
+release_7digitalid: 368010
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1268,)
+segments_loudness_max: shape = (1268,)
+segments_loudness_max_time: shape = (1268,)
+segments_loudness_start: shape = (1268,)
+segments_pitches: shape = (1268, 12)
+segments_start: shape = (1268,)
+segments_timbre: shape = (1268, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOUHLWG12AB0184414
+start_of_fade_out: 274.866
+tatums_confidence: shape = (1187,)
+tatums_start: shape = (1187,)
+tempo: 85.962
+time_signature: 5
+time_signature_confidence: 1.0
+title: Got To Keep On (12" Version)
+track_7digitalid: 4095951
+track_id: TRALPGS128F93351B3
+year: 1989

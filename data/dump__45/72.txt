@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1701
+artist_familiarity: 0.425723658047
+artist_hotttnesss: 0.0
+artist_id: ARODOO01187FB44F4A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 60bd8a1c-c093-4849-8f28-08101ca059b1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Baltimore Consort
+artist_playmeid: 20540
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 7dfe7223b98019fdc585b4bc71ac3764
+bars_confidence: shape = (1251,)
+bars_start: shape = (1251,)
+beats_confidence: shape = (1251,)
+beats_start: shape = (1251,)
+danceability: 0.0
+duration: 614.00771
+end_of_fade_in: 0.319
+energy: 0.0
+key: 7
+key_confidence: 0.719
+loudness: -21.925
+mode: 0
+mode_confidence: 0.696
+release: A Trip to Killburn
+release_7digitalid: 494990
+sections_confidence: shape = (23,)
+sections_start: shape = (23,)
+segments_confidence: shape = (1710,)
+segments_loudness_max: shape = (1710,)
+segments_loudness_max_time: shape = (1710,)
+segments_loudness_start: shape = (1710,)
+segments_pitches: shape = (1710, 12)
+segments_start: shape = (1710,)
+segments_timbre: shape = (1710, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMLMRZ12AB017D510
+start_of_fade_out: 575.692
+tatums_confidence: shape = (2502,)
+tatums_start: shape = (2502,)
+tempo: 130.572
+time_signature: 1
+time_signature_confidence: 0.099
+title: The Beautiful Shepherdess of Arcadia
+track_7digitalid: 5480600
+track_id: TRAPPUL128F9312995
+year: 1996

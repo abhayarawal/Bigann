@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 33863
+artist_familiarity: 0.731208047166
+artist_hotttnesss: 0.547506775318
+artist_id: ARQ76LG1187B9ACD84
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 9941a936-196a-4a62-ae53-a69cbc33f20e
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Black Flag
+artist_playmeid: 6593
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: d8df928b5e268a48fb943ef424b24573
+bars_confidence: shape = (92,)
+bars_start: shape = (92,)
+beats_confidence: shape = (280,)
+beats_start: shape = (280,)
+danceability: 0.0
+duration: 136.14975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.233
+loudness: -6.419
+mode: 1
+mode_confidence: 0.553
+release: Live at The On Broadway 1982
+release_7digitalid: 729456
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (404,)
+segments_loudness_max: shape = (404,)
+segments_loudness_max_time: shape = (404,)
+segments_loudness_start: shape = (404,)
+segments_pitches: shape = (404, 12)
+segments_start: shape = (404,)
+segments_timbre: shape = (404, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJGTKX12AB0188C94
+start_of_fade_out: 127.954
+tatums_confidence: shape = (561,)
+tatums_start: shape = (561,)
+tempo: 124.481
+time_signature: 3
+time_signature_confidence: 1.0
+title: Jealous Again
+track_7digitalid: 8081078
+track_id: TRADYFD12903CE4161
+year: 1980

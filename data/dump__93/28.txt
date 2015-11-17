@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 170470
+artist_familiarity: 0.196312059984
+artist_hotttnesss: 0.0
+artist_id: ARZFR3S1187FB3D659
+artist_latitude: nan
+artist_location: NY - New York City
+artist_longitude: nan
+artist_mbid: cd78472f-6d51-4e04-99b0-a8a1e01d0fa5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Norman Howard
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: a5c9f73534ef9fd565a7c7a2e38ab25e
+bars_confidence: shape = (56,)
+bars_start: shape = (56,)
+beats_confidence: shape = (378,)
+beats_start: shape = (378,)
+danceability: 0.0
+duration: 417.48853
+end_of_fade_in: 2.043
+energy: 0.0
+key: 1
+key_confidence: 0.76
+loudness: -21.69
+mode: 1
+mode_confidence: 0.608
+release: Burn Baby Burn
+release_7digitalid: 223560
+sections_confidence: shape = (21,)
+sections_start: shape = (21,)
+segments_confidence: shape = (1352,)
+segments_loudness_max: shape = (1352,)
+segments_loudness_max_time: shape = (1352,)
+segments_loudness_start: shape = (1352,)
+segments_pitches: shape = (1352, 12)
+segments_start: shape = (1352,)
+segments_timbre: shape = (1352, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOTQUUP12A8C13F049
+start_of_fade_out: 406.239
+tatums_confidence: shape = (1509,)
+tatums_start: shape = (1509,)
+tempo: 53.354
+time_signature: 4
+time_signature_confidence: 0.714
+title: The Sound From There
+track_7digitalid: 2442488
+track_id: TRBGFAX128F4291A66
+year: 0

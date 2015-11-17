@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 46342
+artist_familiarity: 0.590131051895
+artist_hotttnesss: 0.384549527936
+artist_id: ARRVGAX1187FB4D745
+artist_latitude: 35.21962
+artist_location: Bellhaven, NC
+artist_longitude: -80.01955
+artist_mbid: 531643e6-b3ba-4c7f-9d0d-f2831dc42317
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Little Eva
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 2221399bf72aa806de6464d3c5ff255f
+bars_confidence: shape = (313,)
+bars_start: shape = (313,)
+beats_confidence: shape = (313,)
+beats_start: shape = (313,)
+danceability: 0.0
+duration: 145.162
+end_of_fade_in: 0.148
+energy: 0.0
+key: 3
+key_confidence: 0.655
+loudness: -6.643
+mode: 1
+mode_confidence: 0.543
+release: The Loco-Motion
+release_7digitalid: 60587
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (541,)
+segments_loudness_max: shape = (541,)
+segments_loudness_max_time: shape = (541,)
+segments_loudness_start: shape = (541,)
+segments_pitches: shape = (541, 12)
+segments_start: shape = (541,)
+segments_timbre: shape = (541, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.928367113414
+song_id: SOKYXSZ12A6D4F6E92
+start_of_fade_out: 136.319
+tatums_confidence: shape = (625,)
+tatums_start: shape = (625,)
+tempo: 129.781
+time_signature: 1
+time_signature_confidence: 0.247
+title: The Loco-Motion
+track_7digitalid: 630096
+track_id: TRADZQV128F14A5760
+year: 1962

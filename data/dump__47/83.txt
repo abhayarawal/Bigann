@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4708
+artist_familiarity: 0.567510985929
+artist_hotttnesss: 0.430897608715
+artist_id: ARGY9FW1187B991C7D
+artist_latitude: nan
+artist_location: Minneapolis, MN
+artist_longitude: nan
+artist_mbid: 051439e5-478e-4c03-8bea-774ad0c28c12
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Information Society
+artist_playmeid: 45899
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 68d57a822ae187263d7b6f9a4f54c42a
+bars_confidence: shape = (176,)
+bars_start: shape = (176,)
+beats_confidence: shape = (707,)
+beats_start: shape = (707,)
+danceability: 0.0
+duration: 288.62649
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.455
+loudness: -8.149
+mode: 0
+mode_confidence: 0.395
+release: Don't Be Afraid
+release_7digitalid: 474494
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1068,)
+segments_loudness_max: shape = (1068,)
+segments_loudness_max_time: shape = (1068,)
+segments_loudness_start: shape = (1068,)
+segments_pitches: shape = (1068, 12)
+segments_start: shape = (1068,)
+segments_timbre: shape = (1068, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOMORVY12A8C144093
+start_of_fade_out: 281.437
+tatums_confidence: shape = (1415,)
+tatums_start: shape = (1415,)
+tempo: 150.055
+time_signature: 4
+time_signature_confidence: 0.0
+title: Seek 300
+track_7digitalid: 5270444
+track_id: TRAQHHV128F92E0787
+year: 1997

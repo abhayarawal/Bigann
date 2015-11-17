@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 216078
+artist_familiarity: 0.411939007536
+artist_hotttnesss: 0.0
+artist_id: ARSKATF1187B98A622
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 975593af-1c8a-4a1e-aba6-90a93866bd6a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Alain Turban
+artist_playmeid: -1
+artist_terms: shape = (7,)
+artist_terms_freq: shape = (7,)
+artist_terms_weight: shape = (7,)
+audio_md5: 9721c0e770c4515e04cf6abcb3d55268
+bars_confidence: shape = (360,)
+bars_start: shape = (360,)
+beats_confidence: shape = (360,)
+beats_start: shape = (360,)
+danceability: 0.0
+duration: 186.51383
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.522
+loudness: -10.32
+mode: 1
+mode_confidence: 0.485
+release: Medrano
+release_7digitalid: 551529
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (597,)
+segments_loudness_max: shape = (597,)
+segments_loudness_max_time: shape = (597,)
+segments_loudness_start: shape = (597,)
+segments_pitches: shape = (597, 12)
+segments_start: shape = (597,)
+segments_timbre: shape = (597, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIWAUK12AB01857D2
+start_of_fade_out: 178.387
+tatums_confidence: shape = (720,)
+tatums_start: shape = (720,)
+tempo: 116.086
+time_signature: 1
+time_signature_confidence: 0.0
+title: L'Homme au trapèze volant
+track_7digitalid: 6097763
+track_id: TRBCGLJ128F933277D
+year: 0

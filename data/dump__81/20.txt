@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 255049
+artist_familiarity: 0.425072222335
+artist_hotttnesss: 0.363452130675
+artist_id: ARQ2PMX1187FB38D62
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9f6a2c03-0cbb-42e4-9722-b885939607cc
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Hins Cheung
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 6cd6e44f3c9d7923ed2c92f47072a268
+bars_confidence: shape = (144,)
+bars_start: shape = (144,)
+beats_confidence: shape = (581,)
+beats_start: shape = (581,)
+danceability: 0.0
+duration: 238.21016
+end_of_fade_in: 0.316
+energy: 0.0
+key: 0
+key_confidence: 0.709
+loudness: -6.339
+mode: 1
+mode_confidence: 0.708
+release: Urban Emotions
+release_7digitalid: 375397
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (686,)
+segments_loudness_max: shape = (686,)
+segments_loudness_max_time: shape = (686,)
+segments_loudness_start: shape = (686,)
+segments_pitches: shape = (686, 12)
+segments_start: shape = (686,)
+segments_timbre: shape = (686, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOORJCV12A8C144A4E
+start_of_fade_out: 231.665
+tatums_confidence: shape = (1163,)
+tatums_start: shape = (1163,)
+tempo: 149.765
+time_signature: 4
+time_signature_confidence: 0.862
+title: Xue Hua Chao
+track_7digitalid: 4170873
+track_id: TRBBVBM128F92D07F1
+year: 2008

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19856
+artist_familiarity: 0.515044056409
+artist_hotttnesss: 0.316692161547
+artist_id: ARGNGRI11E2835D567
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 98024747-6524-4cbe-8802-5dd4f86d68fa
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Tam Tam Go!
+artist_playmeid: 81756
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 2ef5177b8ff2388e61325dd9c4251c9c
+bars_confidence: shape = (106,)
+bars_start: shape = (106,)
+beats_confidence: shape = (428,)
+beats_start: shape = (428,)
+danceability: 0.0
+duration: 190.04036
+end_of_fade_in: 0.241
+energy: 0.0
+key: 7
+key_confidence: 0.252
+loudness: -11.324
+mode: 1
+mode_confidence: 0.399
+release: The Platinum Collection
+release_7digitalid: 286010
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (604,)
+segments_loudness_max: shape = (604,)
+segments_loudness_max_time: shape = (604,)
+segments_loudness_start: shape = (604,)
+segments_pitches: shape = (604, 12)
+segments_start: shape = (604,)
+segments_timbre: shape = (604, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTUHTD12A8C133D88
+start_of_fade_out: 179.101
+tatums_confidence: shape = (856,)
+tatums_start: shape = (856,)
+tempo: 141.394
+time_signature: 4
+time_signature_confidence: 0.498
+title: Belleza Pasajera
+track_7digitalid: 3198006
+track_id: TRAXIES128F426C8F0
+year: 1993

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21797
+artist_familiarity: 0.629732488809
+artist_hotttnesss: 0.341265841356
+artist_id: AR323JD1187FB483D0
+artist_latitude: nan
+artist_location: New York
+artist_longitude: nan
+artist_mbid: efb91519-38e7-47ee-8713-3eb026d09764
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Solomon
+artist_playmeid: 77119
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 1bed7de8e098ddd053df303be1a14f3c
+bars_confidence: shape = (166,)
+bars_start: shape = (166,)
+beats_confidence: shape = (166,)
+beats_start: shape = (166,)
+danceability: 0.0
+duration: 150.56934
+end_of_fade_in: 0.826
+energy: 0.0
+key: 5
+key_confidence: 0.659
+loudness: -21.835
+mode: 0
+mode_confidence: 0.509
+release: Beethoven: Piano Sonatas 29 & 32
+release_7digitalid: 276619
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (420,)
+segments_loudness_max: shape = (420,)
+segments_loudness_max_time: shape = (420,)
+segments_loudness_start: shape = (420,)
+segments_pitches: shape = (420, 12)
+segments_start: shape = (420,)
+segments_timbre: shape = (420, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLYUYS12A81C23F3A
+start_of_fade_out: 141.827
+tatums_confidence: shape = (500,)
+tatums_start: shape = (500,)
+tempo: 68.742
+time_signature: 1
+time_signature_confidence: 0.0
+title: Piano Sonata No. 29 in B flat major Op. 106  "Hammerklavier" (2005 Digital Remaster): II.     Scherzo (Assai vivace) - Presto
+track_7digitalid: 3083144
+track_id: TRBGTCB128F42548C2
+year: 0

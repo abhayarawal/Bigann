@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19731
+artist_familiarity: 0.584633790637
+artist_hotttnesss: 0.288999938395
+artist_id: AR022JO1187B99587B
+artist_latitude: 0.10974
+artist_location: Indonesia
+artist_longitude: 113.9174
+artist_mbid: 9538ab80-dcbf-4b94-a0cf-e5d1fbbc42c9
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Ross
+artist_playmeid: 77704
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: f547904df9889124e20046eaaf1ca223
+bars_confidence: shape = (38,)
+bars_start: shape = (38,)
+beats_confidence: shape = (154,)
+beats_start: shape = (154,)
+danceability: 0.0
+duration: 68.49261
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.0
+loudness: -9.233
+mode: 0
+mode_confidence: 0.0
+release: I Promise My Heart
+release_7digitalid: 583392
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (411,)
+segments_loudness_max: shape = (411,)
+segments_loudness_max_time: shape = (411,)
+segments_loudness_start: shape = (411,)
+segments_pitches: shape = (411, 12)
+segments_start: shape = (411,)
+segments_timbre: shape = (411, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJTMEQ12AB0188BB7
+start_of_fade_out: 68.493
+tatums_confidence: shape = (309,)
+tatums_start: shape = (309,)
+tempo: 135.826
+time_signature: 4
+time_signature_confidence: 0.0
+title: I Promise My Heart
+track_7digitalid: 6465885
+track_id: TRAHSJR12903CBF093
+year: 0

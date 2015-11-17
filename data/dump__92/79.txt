@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 34989
+artist_familiarity: 0.585387198606
+artist_hotttnesss: 0.429513639801
+artist_id: ARPVRUC1187FB4F1DE
+artist_latitude: nan
+artist_location: Oakland, CA
+artist_longitude: nan
+artist_mbid: d1e1c4d7-cf24-4ea2-96e4-f74e3f4d97ef
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pitch Black
+artist_playmeid: -1
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 181b8587d8e477c209c05754e1549ddd
+bars_confidence: shape = (139,)
+bars_start: shape = (139,)
+beats_confidence: shape = (561,)
+beats_start: shape = (561,)
+danceability: 0.0
+duration: 283.32363
+end_of_fade_in: 3.355
+energy: 0.0
+key: 2
+key_confidence: 0.055
+loudness: -12.195
+mode: 1
+mode_confidence: 0.389
+release: Frequencies Fall
+release_7digitalid: 598659
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1222,)
+segments_loudness_max: shape = (1222,)
+segments_loudness_max_time: shape = (1222,)
+segments_loudness_start: shape = (1222,)
+segments_pitches: shape = (1222, 12)
+segments_start: shape = (1222,)
+segments_timbre: shape = (1222, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXEKMY12AC468ACF1
+start_of_fade_out: 273.908
+tatums_confidence: shape = (1122,)
+tatums_start: shape = (1122,)
+tempo: 118.926
+time_signature: 4
+time_signature_confidence: 0.671
+title: Big Trouble Upstairs
+track_7digitalid: 6642791
+track_id: TRBGBDH12903CE9EA8
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 29834
+artist_familiarity: 0.428324820715
+artist_hotttnesss: 0.331260494304
+artist_id: ARPWZPV1187FB51DCF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e91c7817-73af-4bd8-a707-71e41aa6aa27
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Theodore Shapiro
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 3295cb45a591d80f8a2da46793b63c89
+bars_confidence: shape = (36,)
+bars_start: shape = (36,)
+beats_confidence: shape = (149,)
+beats_start: shape = (149,)
+danceability: 0.0
+duration: 82.31138
+end_of_fade_in: 2.107
+energy: 0.0
+key: 0
+key_confidence: 0.0
+loudness: -15.409
+mode: 1
+mode_confidence: 0.253
+release: Fun With Dick And Jane
+release_7digitalid: 59374
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (321,)
+segments_loudness_max: shape = (321,)
+segments_loudness_max_time: shape = (321,)
+segments_loudness_start: shape = (321,)
+segments_pitches: shape = (321, 12)
+segments_start: shape = (321,)
+segments_timbre: shape = (321, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHZXUO12A6D4FBD73
+start_of_fade_out: 82.311
+tatums_confidence: shape = (298,)
+tatums_start: shape = (298,)
+tempo: 124.894
+time_signature: 4
+time_signature_confidence: 0.551
+title: The Big Stall
+track_7digitalid: 614230
+track_id: TRBDXDO128F14A1CD1
+year: 2006

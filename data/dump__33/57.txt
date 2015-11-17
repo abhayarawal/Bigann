@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 820
+artist_familiarity: 0.77081365167
+artist_hotttnesss: 0.477260389684
+artist_id: ARSC6WR1187FB40B18
+artist_latitude: 46.91008
+artist_location: Jamestown, ND
+artist_longitude: -98.70853
+artist_mbid: 5a2463af-eef0-4a22-bc8f-5865fbe9c78e
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Peggy Lee
+artist_playmeid: 9390
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: daad4bee1b4dd0c90e5dc844a460d198
+bars_confidence: shape = (439,)
+bars_start: shape = (439,)
+beats_confidence: shape = (439,)
+beats_start: shape = (439,)
+danceability: 0.0
+duration: 185.0771
+end_of_fade_in: 3.82
+energy: 0.0
+key: 3
+key_confidence: 0.232
+loudness: -11.824
+mode: 1
+mode_confidence: 0.483
+release: The Complete Recordings 1941-1947
+release_7digitalid: 286343
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (572,)
+segments_loudness_max: shape = (572,)
+segments_loudness_max_time: shape = (572,)
+segments_loudness_start: shape = (572,)
+segments_pitches: shape = (572, 12)
+segments_start: shape = (572,)
+segments_timbre: shape = (572, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.473346541109
+song_id: SOOAHQO12A6D4FA507
+start_of_fade_out: 183.037
+tatums_confidence: shape = (878,)
+tatums_start: shape = (878,)
+tempo: 144.099
+time_signature: 1
+time_signature_confidence: 0.297
+title: If You Build A Better Mousetrap
+track_7digitalid: 3214271
+track_id: TRALKHV128F4270340
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6020
+artist_familiarity: 0.510993041906
+artist_hotttnesss: 0.379222861086
+artist_id: ARKQN8X1187B99221C
+artist_latitude: 40.73197
+artist_location: Newark, NJ
+artist_longitude: -74.17418
+artist_mbid: 7aeed70b-8768-4e19-9c5a-93dcba2f58e1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Joe Rogan
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: e71845149b70b2946c68feb41c75501d
+bars_confidence: shape = (19,)
+bars_start: shape = (19,)
+beats_confidence: shape = (178,)
+beats_start: shape = (178,)
+danceability: 0.0
+duration: 183.97995
+end_of_fade_in: 2.728
+energy: 0.0
+key: 10
+key_confidence: 0.005
+loudness: -9.689
+mode: 0
+mode_confidence: 0.14
+release: Shiny Happy Jihad
+release_7digitalid: 72446
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (722,)
+segments_loudness_max: shape = (722,)
+segments_loudness_max_time: shape = (722,)
+segments_loudness_start: shape = (722,)
+segments_pitches: shape = (722, 12)
+segments_start: shape = (722,)
+segments_timbre: shape = (722, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.533155191869
+song_id: SOGLHIC12A6BD56BBF
+start_of_fade_out: 181.563
+tatums_confidence: shape = (713,)
+tatums_start: shape = (713,)
+tempo: 58.165
+time_signature: 4
+time_signature_confidence: 0.604
+title: Fear Factor (Shiny Happy Jihad)
+track_7digitalid: 761272
+track_id: TRBFYIZ128EF34C3C7
+year: 2007

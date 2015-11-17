@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 103711
+artist_familiarity: 0.50087616005
+artist_hotttnesss: 0.37922806909
+artist_id: AR22KLC1187B98E812
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 446455f2-7d62-45ca-a7ef-53c1c676ac5c
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Kaija Koo
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 55172e4733625127cc941acd15f73e79
+bars_confidence: shape = (166,)
+bars_start: shape = (166,)
+beats_confidence: shape = (502,)
+beats_start: shape = (502,)
+danceability: 0.0
+duration: 182.33424
+end_of_fade_in: 0.769
+energy: 0.0
+key: 1
+key_confidence: 0.528
+loudness: -9.933
+mode: 1
+mode_confidence: 0.583
+release: Lauluja rakkaudesta
+release_7digitalid: 131443
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (665,)
+segments_loudness_max: shape = (665,)
+segments_loudness_max_time: shape = (665,)
+segments_loudness_start: shape = (665,)
+segments_pitches: shape = (665, 12)
+segments_start: shape = (665,)
+segments_timbre: shape = (665, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.530385795147
+song_id: SOKJNAP12A81C22CAA
+start_of_fade_out: 173.546
+tatums_confidence: shape = (1003,)
+tatums_start: shape = (1003,)
+tempo: 167.857
+time_signature: 3
+time_signature_confidence: 0.923
+title: Viimeinen lento
+track_7digitalid: 1360235
+track_id: TRAZDKY128F4235130
+year: 1993

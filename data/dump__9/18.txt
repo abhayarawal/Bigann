@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7032
+artist_familiarity: 0.837947909189
+artist_hotttnesss: 0.788137758283
+artist_id: ARZENOX1187B98A645
+artist_latitude: nan
+artist_location: Calcutta, India
+artist_longitude: nan
+artist_mbid: 8a81edd9-6f62-4ac7-afee-17dc0fec5fe7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: John Mayer
+artist_playmeid: 823
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 22e1017a161091e5be594418ec1e1c39
+bars_confidence: shape = (255,)
+bars_start: shape = (255,)
+beats_confidence: shape = (1029,)
+beats_start: shape = (1029,)
+danceability: 0.0
+duration: 407.45751
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.398
+loudness: -7.123
+mode: 0
+mode_confidence: 0.584
+release: Any Given Thursday
+release_7digitalid: 281644
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1291,)
+segments_loudness_max: shape = (1291,)
+segments_loudness_max_time: shape = (1291,)
+segments_loudness_start: shape = (1291,)
+segments_pitches: shape = (1291, 12)
+segments_start: shape = (1291,)
+segments_timbre: shape = (1291, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCWWGG12A58A7AC1C
+start_of_fade_out: 399.766
+tatums_confidence: shape = (2057,)
+tatums_start: shape = (2057,)
+tempo: 153.055
+time_signature: 4
+time_signature_confidence: 0.315
+title: Something's Missing
+track_7digitalid: 3153086
+track_id: TRADAOM128F4263A78
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3380
+artist_familiarity: 0.565452291658
+artist_hotttnesss: 0.35241012681
+artist_id: ARVAE6W1187FB3CAF3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f115c91a-2f30-4c0a-a6ce-e67411f2247f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Refreshments
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 4767280a7810b97d9525ffcf4c36fd5d
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (407,)
+beats_start: shape = (407,)
+danceability: 0.0
+duration: 168.4371
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.021
+loudness: -4.865
+mode: 1
+mode_confidence: 0.349
+release: A Band's Gotta Do What A Band's Gotta Do
+release_7digitalid: 581920
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (721,)
+segments_loudness_max: shape = (721,)
+segments_loudness_max_time: shape = (721,)
+segments_loudness_start: shape = (721,)
+segments_pitches: shape = (721, 12)
+segments_start: shape = (721,)
+segments_timbre: shape = (721, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.237770877701
+song_id: SOPUAKC12A58A78E8F
+start_of_fade_out: 164.235
+tatums_confidence: shape = (814,)
+tatums_start: shape = (814,)
+tempo: 147.02
+time_signature: 4
+time_signature_confidence: 0.236
+title: Rock'n'Roll Heaven
+track_7digitalid: 6449863
+track_id: TRAXUQL12903CBB3B7
+year: 0

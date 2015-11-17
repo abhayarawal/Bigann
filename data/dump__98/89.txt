@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20696
+artist_familiarity: 0.241133753411
+artist_hotttnesss: 0.416435183585
+artist_id: ARQFPFK1187FB533E1
+artist_latitude: 41.88415
+artist_location: Chicago, IL
+artist_longitude: -87.63241
+artist_mbid: 6ec7336b-a56a-4b5d-bcec-575d2b8ed4e1
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Roger McGuinn
+artist_playmeid: 12799
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 6a7541f3f1036d6e398fb2aa7d736204
+bars_confidence: shape = (115,)
+bars_start: shape = (115,)
+beats_confidence: shape = (373,)
+beats_start: shape = (373,)
+danceability: 0.0
+duration: 264.69832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.743
+loudness: -16.326
+mode: 1
+mode_confidence: 0.791
+release: Roger McGuinn Live At The XM Studios  05/27/2004
+release_7digitalid: 445182
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1083,)
+segments_loudness_max: shape = (1083,)
+segments_loudness_max_time: shape = (1083,)
+segments_loudness_start: shape = (1083,)
+segments_pitches: shape = (1083, 12)
+segments_start: shape = (1083,)
+segments_timbre: shape = (1083, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOVUFWU12A3F1ECA3C
+start_of_fade_out: 256.255
+tatums_confidence: shape = (1120,)
+tatums_start: shape = (1120,)
+tempo: 83.897
+time_signature: 3
+time_signature_confidence: 0.317
+title: The Bells Of Rhymney
+track_7digitalid: 4944397
+track_id: TRBIACM128F930021A
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4128
+artist_familiarity: 0.694098144726
+artist_hotttnesss: 0.467552020732
+artist_id: AR05OJD1187B9B99A6
+artist_latitude: nan
+artist_location: Brooklyn, New York
+artist_longitude: nan
+artist_mbid: d50548a0-3cfd-4d7a-964b-0aef6545d819
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Ol' Dirty Bastard
+artist_playmeid: 6959
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: f2cb4d3ff9864e123688cfe8221e2f64
+bars_confidence: shape = (65,)
+bars_start: shape = (65,)
+beats_confidence: shape = (262,)
+beats_start: shape = (262,)
+danceability: 0.0
+duration: 180.45342
+end_of_fade_in: 0.59
+energy: 0.0
+key: 7
+key_confidence: 0.165
+loudness: -3.949
+mode: 1
+mode_confidence: 0.446
+release: Message To The Other Side (Osirus Part 1)
+release_7digitalid: 641098
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (851,)
+segments_loudness_max: shape = (851,)
+segments_loudness_max_time: shape = (851,)
+segments_loudness_start: shape = (851,)
+segments_pitches: shape = (851, 12)
+segments_start: shape = (851,)
+segments_timbre: shape = (851, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.386790177139
+song_id: SOYJVQR12AB01835DE
+start_of_fade_out: 175.444
+tatums_confidence: shape = (1048,)
+tatums_start: shape = (1048,)
+tempo: 90.473
+time_signature: 4
+time_signature_confidence: 0.539
+title: Destiny Ft: Lesk One
+track_7digitalid: 7112179
+track_id: TRBCQXJ128F9341051
+year: 0

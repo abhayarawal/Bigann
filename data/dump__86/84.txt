@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 102462
+artist_familiarity: 0.444921249918
+artist_hotttnesss: 0.318458623333
+artist_id: AR76YOD1187FB46B24
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: d63cbb12-0d16-4fd5-8fbf-a57dc8ddfe83
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Joshua Rifkin
+artist_playmeid: 48798
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 48c737efe825a4a9210522b9527eedde
+bars_confidence: shape = (593,)
+bars_start: shape = (593,)
+beats_confidence: shape = (593,)
+beats_start: shape = (593,)
+danceability: 0.0
+duration: 229.53751
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.74
+loudness: -25.342
+mode: 1
+mode_confidence: 0.762
+release: Scott Joplin Piano Rags
+release_7digitalid: 129766
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (786,)
+segments_loudness_max: shape = (786,)
+segments_loudness_max_time: shape = (786,)
+segments_loudness_start: shape = (786,)
+segments_pitches: shape = (786, 12)
+segments_start: shape = (786,)
+segments_timbre: shape = (786, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORTJEP12A58A7B7EA
+start_of_fade_out: 223.277
+tatums_confidence: shape = (1186,)
+tatums_start: shape = (1186,)
+tempo: 158.569
+time_signature: 1
+time_signature_confidence: 0.0
+title: Paragon Rag  (LP Version)
+track_7digitalid: 1346260
+track_id: TRBDUXF128F4232689
+year: 1994

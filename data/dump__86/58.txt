@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40884
+artist_familiarity: 0.7379725284
+artist_hotttnesss: 0.555968803752
+artist_id: ARAEX7Y1187FB42D36
+artist_latitude: nan
+artist_location: Severn, MD
+artist_longitude: nan
+artist_mbid: 3c8a8696-e176-4c46-a2d3-48b6b1525c7f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Toni Braxton
+artist_playmeid: 1610
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 2edec5896e7bba5ca38aac484f8297b1
+bars_confidence: shape = (137,)
+bars_start: shape = (137,)
+beats_confidence: shape = (552,)
+beats_start: shape = (552,)
+danceability: 0.0
+duration: 267.2322
+end_of_fade_in: 0.369
+energy: 0.0
+key: 11
+key_confidence: 0.497
+loudness: -9.272
+mode: 1
+mode_confidence: 0.363
+release: Toni Braxton
+release_7digitalid: 294880
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (820,)
+segments_loudness_max: shape = (820,)
+segments_loudness_max_time: shape = (820,)
+segments_loudness_start: shape = (820,)
+segments_pitches: shape = (820, 12)
+segments_start: shape = (820,)
+segments_timbre: shape = (820, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.507531546008
+song_id: SOZGBWV12A8C137BE5
+start_of_fade_out: 258.479
+tatums_confidence: shape = (1103,)
+tatums_start: shape = (1103,)
+tempo: 123.755
+time_signature: 4
+time_signature_confidence: 1.0
+title: Best Friend
+track_7digitalid: 3314133
+track_id: TRBDSLA128F4288246
+year: 1993

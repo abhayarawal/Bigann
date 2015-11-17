@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 361046
+artist_familiarity: 0.481163682628
+artist_hotttnesss: 0.362371720815
+artist_id: ARP6RUO1187FB3F1CF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 487904ff-d3ef-477e-813a-c27548bc0570
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: The Embarrassment
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 17f479981eee8ab50e627c7d6a40ec42
+bars_confidence: shape = (235,)
+bars_start: shape = (235,)
+beats_confidence: shape = (235,)
+beats_start: shape = (235,)
+danceability: 0.0
+duration: 78.75873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.694
+loudness: -6.893
+mode: 1
+mode_confidence: 0.468
+release: Blister Pop
+release_7digitalid: 487339
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (303,)
+segments_loudness_max: shape = (303,)
+segments_loudness_max_time: shape = (303,)
+segments_loudness_start: shape = (303,)
+segments_pitches: shape = (303, 12)
+segments_start: shape = (303,)
+segments_timbre: shape = (303, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.203008915981
+song_id: SOWABTJ12AB0182291
+start_of_fade_out: 75.233
+tatums_confidence: shape = (471,)
+tatums_start: shape = (471,)
+tempo: 186.501
+time_signature: 1
+time_signature_confidence: 0.075
+title: Song For Val
+track_7digitalid: 5403654
+track_id: TRAFWVO128F9300880
+year: 0

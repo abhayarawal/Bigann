@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20293
+artist_familiarity: 0.701441758982
+artist_hotttnesss: 0.504307725982
+artist_id: AR0O3AV1187FB4D030
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 40b8a690-94e4-4c82-ad0f-73f4b841e46a
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Agnostic Front
+artist_playmeid: 11026
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 9b6edf7134fdba892a4a503138afc241
+bars_confidence: shape = (181,)
+bars_start: shape = (181,)
+beats_confidence: shape = (181,)
+beats_start: shape = (181,)
+danceability: 0.0
+duration: 94.6673
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.534
+loudness: -3.199
+mode: 0
+mode_confidence: 0.42
+release: Riot_ Riot_ Upstart
+release_7digitalid: 205410
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (345,)
+segments_loudness_max: shape = (345,)
+segments_loudness_max_time: shape = (345,)
+segments_loudness_start: shape = (345,)
+segments_pitches: shape = (345, 12)
+segments_start: shape = (345,)
+segments_timbre: shape = (345, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.662251154302
+song_id: SOBAAER12A8C13A83C
+start_of_fade_out: 94.667
+tatums_confidence: shape = (362,)
+tatums_start: shape = (362,)
+tempo: 116.438
+time_signature: 1
+time_signature_confidence: 0.0
+title: Rock Star
+track_7digitalid: 2226052
+track_id: TRALYQN128F42624E1
+year: 1999

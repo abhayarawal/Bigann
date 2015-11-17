@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 32074
+artist_familiarity: 0.505163004914
+artist_hotttnesss: 0.371960266493
+artist_id: ARS8DXZ1187B998AA3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cf7afdb9-ee6c-4478-af32-828ce76e1286
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bravehearts
+artist_playmeid: 8492
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: afdb4e5cd05f693851363fbc3e6c1a9a
+bars_confidence: shape = (97,)
+bars_start: shape = (97,)
+beats_confidence: shape = (692,)
+beats_start: shape = (692,)
+danceability: 0.0
+duration: 209.03138
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.325
+loudness: -10.212
+mode: 0
+mode_confidence: 0.393
+release: Bravehearted (Clean)
+release_7digitalid: 291702
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (948,)
+segments_loudness_max: shape = (948,)
+segments_loudness_max_time: shape = (948,)
+segments_loudness_start: shape = (948,)
+segments_pitches: shape = (948, 12)
+segments_start: shape = (948,)
+segments_timbre: shape = (948, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOENIFL12A8C138231
+start_of_fade_out: 193.91
+tatums_confidence: shape = (1384,)
+tatums_start: shape = (1384,)
+tempo: 199.07
+time_signature: 7
+time_signature_confidence: 1.0
+title: Sensations
+track_7digitalid: 3274712
+track_id: TRALUAQ128F427EB26
+year: 2003

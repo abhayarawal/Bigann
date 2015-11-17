@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 109340
+artist_familiarity: 0.605278551259
+artist_hotttnesss: 0.35018273201
+artist_id: ARAA1VM1187B994013
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 90b5e47b-e432-47ab-99c1-97f85c88dc9a
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Daler Mehndi
+artist_playmeid: 54057
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: b664e0d9419275d82d1dbcf9721d6d19
+bars_confidence: shape = (147,)
+bars_start: shape = (147,)
+beats_confidence: shape = (593,)
+beats_start: shape = (593,)
+danceability: 0.0
+duration: 245.49832
+end_of_fade_in: 0.206
+energy: 0.0
+key: 0
+key_confidence: 0.954
+loudness: -4.462
+mode: 1
+mode_confidence: 0.701
+release: Ek-Dana
+release_7digitalid: 139750
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1136,)
+segments_loudness_max: shape = (1136,)
+segments_loudness_max_time: shape = (1136,)
+segments_loudness_start: shape = (1136,)
+segments_pitches: shape = (1136, 12)
+segments_start: shape = (1136,)
+segments_timbre: shape = (1136, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOBFWIT12A8AE4795E
+start_of_fade_out: 242.422
+tatums_confidence: shape = (1187,)
+tatums_start: shape = (1187,)
+tempo: 146.856
+time_signature: 4
+time_signature_confidence: 0.845
+title: Teri Nau Ke Paune Teen
+track_7digitalid: 1450665
+track_id: TRALVTD128F424514C
+year: 2000

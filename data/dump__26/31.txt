@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 145954
+artist_familiarity: 0.764566084305
+artist_hotttnesss: 0.527492981016
+artist_id: ARPNY981187B9ACB75
+artist_latitude: nan
+artist_location: Switzerland
+artist_longitude: nan
+artist_mbid: 8000598a-5edb-401c-8e6d-36b167feaf38
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Eluveitie
+artist_playmeid: 123765
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 8b0b54375268d86ecd89f30a144b3ac4
+bars_confidence: shape = (42,)
+bars_start: shape = (42,)
+beats_confidence: shape = (130,)
+beats_start: shape = (130,)
+danceability: 0.0
+duration: 78.18404
+end_of_fade_in: 3.315
+energy: 0.0
+key: 0
+key_confidence: 0.651
+loudness: -14.481
+mode: 0
+mode_confidence: 0.529
+release: Evocation I - The Arcane Dominion
+release_7digitalid: 416727
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (231,)
+segments_loudness_max: shape = (231,)
+segments_loudness_max_time: shape = (231,)
+segments_loudness_start: shape = (231,)
+segments_pitches: shape = (231, 12)
+segments_start: shape = (231,)
+segments_timbre: shape = (231, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.650676968982
+song_id: SOHVOAF12A8C143ED2
+start_of_fade_out: 78.184
+tatums_confidence: shape = (260,)
+tatums_start: shape = (260,)
+tempo: 111.127
+time_signature: 3
+time_signature_confidence: 0.636
+title: A Girls Oath
+track_7digitalid: 4635136
+track_id: TRAIVFK128F932C825
+year: 0

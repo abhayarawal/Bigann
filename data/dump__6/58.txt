@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3423
+artist_familiarity: 0.466897960145
+artist_hotttnesss: 0.320165416046
+artist_id: AR1JGQT1187FB56878
+artist_latitude: 30.23513
+artist_location: Rayne, LA
+artist_longitude: -92.26831
+artist_mbid: cae92fc4-ebf8-4940-badf-d54cc6b8e6d3
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Jo-El Sonnier
+artist_playmeid: 68654
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: edf0c9c25fe1127306adfe4064aea189
+bars_confidence: shape = (156,)
+bars_start: shape = (156,)
+beats_confidence: shape = (629,)
+beats_start: shape = (629,)
+danceability: 0.0
+duration: 233.01179
+end_of_fade_in: 2.072
+energy: 0.0
+key: 7
+key_confidence: 0.807
+loudness: -6.589
+mode: 1
+mode_confidence: 0.883
+release: Cajun Blood
+release_7digitalid: 249662
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (760,)
+segments_loudness_max: shape = (760,)
+segments_loudness_max_time: shape = (760,)
+segments_loudness_start: shape = (760,)
+segments_pitches: shape = (760, 12)
+segments_start: shape = (760,)
+segments_timbre: shape = (760, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.278293119581
+song_id: SOAQCDC12A8C139378
+start_of_fade_out: 216.967
+tatums_confidence: shape = (1258,)
+tatums_start: shape = (1258,)
+tempo: 169.235
+time_signature: 4
+time_signature_confidence: 0.77
+title: Cajun Blood
+track_7digitalid: 2786711
+track_id: TRACDSI128F425C0B4
+year: 0

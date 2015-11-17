@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1971
+artist_familiarity: 0.629301805676
+artist_hotttnesss: 0.450779890687
+artist_id: ARFFDZU1187FB50682
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: f4c53778-e48d-4da4-9ddd-cc007f715d64
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Alan Silvestri
+artist_playmeid: 7464
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 8ce3a088f81c1baab2dcd5eb7195e4af
+bars_confidence: shape = (326,)
+bars_start: shape = (326,)
+beats_confidence: shape = (1305,)
+beats_start: shape = (1305,)
+danceability: 0.0
+duration: 504.05832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.087
+loudness: -10.586
+mode: 1
+mode_confidence: 0.246
+release: G.I. JOE
+release_7digitalid: 538812
+sections_confidence: shape = (29,)
+sections_start: shape = (29,)
+segments_confidence: shape = (1750,)
+segments_loudness_max: shape = (1750,)
+segments_loudness_max_time: shape = (1750,)
+segments_loudness_start: shape = (1750,)
+segments_pitches: shape = (1750, 12)
+segments_start: shape = (1750,)
+segments_timbre: shape = (1750, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.301681756732
+song_id: SOKCFEJ12AB017BE83
+start_of_fade_out: 497.348
+tatums_confidence: shape = (2610,)
+tatums_start: shape = (2610,)
+tempo: 154.172
+time_signature: 4
+time_signature_confidence: 0.198
+title: The Joes Mobilize
+track_7digitalid: 5965806
+track_id: TRABTBA128F9312BD8
+year: 2009

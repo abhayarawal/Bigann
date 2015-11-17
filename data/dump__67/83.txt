@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 49555
+artist_familiarity: 0.594832623751
+artist_hotttnesss: 0.378649978962
+artist_id: AR9YV621187B99373E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bced6266-4c23-4806-8e3d-165eac0ad494
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Marco Beltrami
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 420f20e1a657f810e5d4ac39bee4d506
+bars_confidence: shape = (92,)
+bars_start: shape = (92,)
+beats_confidence: shape = (469,)
+beats_start: shape = (469,)
+danceability: 0.0
+duration: 201.61261
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.058
+loudness: -23.685
+mode: 1
+mode_confidence: 0.363
+release: Flight Of The Phoenix
+release_7digitalid: 64169
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (444,)
+segments_loudness_max: shape = (444,)
+segments_loudness_max_time: shape = (444,)
+segments_loudness_start: shape = (444,)
+segments_pitches: shape = (444, 12)
+segments_start: shape = (444,)
+segments_timbre: shape = (444, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOPUGFD12A6D4FB501
+start_of_fade_out: 182.079
+tatums_confidence: shape = (1407,)
+tatums_start: shape = (1407,)
+tempo: 148.555
+time_signature: 5
+time_signature_confidence: 1.0
+title: Nomads Alive
+track_7digitalid: 665330
+track_id: TRAXDPS128F14AD21B
+year: 2004

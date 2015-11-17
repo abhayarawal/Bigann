@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 186879
+artist_familiarity: 0.493193932975
+artist_hotttnesss: 0.366628415471
+artist_id: AR7XK9K1187B9B1864
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8ed78ccf-7a3f-4717-b84c-1606627124bd
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Hey Colossus
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 0f41284ee36e6ea1a87f8fe030ff02e1
+bars_confidence: shape = (138,)
+bars_start: shape = (138,)
+beats_confidence: shape = (596,)
+beats_start: shape = (596,)
+danceability: 0.0
+duration: 420.07465
+end_of_fade_in: 0.374
+energy: 0.0
+key: 9
+key_confidence: 0.608
+loudness: -10.017
+mode: 0
+mode_confidence: 0.564
+release: Project: Death
+release_7digitalid: 244917
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (691,)
+segments_loudness_max: shape = (691,)
+segments_loudness_max_time: shape = (691,)
+segments_loudness_start: shape = (691,)
+segments_pitches: shape = (691, 12)
+segments_start: shape = (691,)
+segments_timbre: shape = (691, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBYWCK12A58A7C5C0
+start_of_fade_out: 401.415
+tatums_confidence: shape = (1191,)
+tatums_start: shape = (1191,)
+tempo: 84.518
+time_signature: 4
+time_signature_confidence: 0.9
+title: The Book of Disquiet
+track_7digitalid: 2905881
+track_id: TRALDHD128F42775BA
+year: 2007

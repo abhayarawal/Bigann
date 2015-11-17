@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 438284
+artist_familiarity: 0.454301560242
+artist_hotttnesss: 0.355907641797
+artist_id: ARPRQSD12086C16679
+artist_latitude: 38.2589
+artist_location: Missouri
+artist_longitude: -92.43659
+artist_mbid: 0d435ae7-d20d-46cd-a8f1-0ec51cb0b2b2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Incurables
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 495735d95237a06a213b122b2ed9be7f
+bars_confidence: shape = (107,)
+bars_start: shape = (107,)
+beats_confidence: shape = (444,)
+beats_start: shape = (444,)
+danceability: 0.0
+duration: 276.63628
+end_of_fade_in: 0.2
+energy: 0.0
+key: 7
+key_confidence: 0.632
+loudness: -9.254
+mode: 1
+mode_confidence: 0.659
+release: Fade
+release_7digitalid: 588642
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (737,)
+segments_loudness_max: shape = (737,)
+segments_loudness_max_time: shape = (737,)
+segments_loudness_start: shape = (737,)
+segments_pitches: shape = (737, 12)
+segments_start: shape = (737,)
+segments_timbre: shape = (737, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOASECA12AB01875F6
+start_of_fade_out: 255.837
+tatums_confidence: shape = (888,)
+tatums_start: shape = (888,)
+tempo: 99.139
+time_signature: 4
+time_signature_confidence: 0.816
+title: Finally
+track_7digitalid: 6529478
+track_id: TRAQCTA12903CCE568
+year: 0

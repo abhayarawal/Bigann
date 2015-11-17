@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 432798
+artist_familiarity: 0.474712354102
+artist_hotttnesss: 0.33208898102
+artist_id: ARGXJRQ1241B9C5FDE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Charlie Khan
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 40f17917facce7134707bb91bcee96b3
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (324,)
+beats_start: shape = (324,)
+danceability: 0.0
+duration: 208.24771
+end_of_fade_in: 0.148
+energy: 0.0
+key: 6
+key_confidence: 0.417
+loudness: -3.976
+mode: 0
+mode_confidence: 0.321
+release: How We Divide the Cake
+release_7digitalid: 581662
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (592,)
+segments_loudness_max: shape = (592,)
+segments_loudness_max_time: shape = (592,)
+segments_loudness_start: shape = (592,)
+segments_pitches: shape = (592, 12)
+segments_start: shape = (592,)
+segments_timbre: shape = (592, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SOXCEGC12AB018A0BD
+start_of_fade_out: 204.446
+tatums_confidence: shape = (648,)
+tatums_start: shape = (648,)
+tempo: 92.55
+time_signature: 4
+time_signature_confidence: 0.596
+title: Beautiful When You're Green
+track_7digitalid: 6448442
+track_id: TRAJSIX12903CBAE2B
+year: 0

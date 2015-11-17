@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 562583
+artist_familiarity: 0.392570165608
+artist_hotttnesss: 0.31398973328
+artist_id: ARHXBJI1241B9C8B7F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cbf8aa43-fd3e-480d-b5c9-c94d968efec1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ Dips
+artist_playmeid: 154468
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: 16fb424433b3adc5eba0777a1ac90c2b
+bars_confidence: shape = (113,)
+bars_start: shape = (113,)
+beats_confidence: shape = (340,)
+beats_start: shape = (340,)
+danceability: 0.0
+duration: 240.3522
+end_of_fade_in: 0.132
+energy: 0.0
+key: 1
+key_confidence: 0.611
+loudness: -6.248
+mode: 1
+mode_confidence: 0.544
+release: This DJ
+release_7digitalid: 752185
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1315,)
+segments_loudness_max: shape = (1315,)
+segments_loudness_max_time: shape = (1315,)
+segments_loudness_start: shape = (1315,)
+segments_pitches: shape = (1315, 12)
+segments_start: shape = (1315,)
+segments_timbre: shape = (1315, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOIZTH12AB018C12E
+start_of_fade_out: 233.465
+tatums_confidence: shape = (1019,)
+tatums_start: shape = (1019,)
+tempo: 86.689
+time_signature: 3
+time_signature_confidence: 0.859
+title: Gerra De De
+track_7digitalid: 8326052
+track_id: TRAAQDL12903CA8FB5
+year: 0

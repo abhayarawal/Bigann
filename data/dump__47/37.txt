@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 366375
+artist_familiarity: 0.374570026566
+artist_hotttnesss: 0.233939609049
+artist_id: ARLQOVG1241B9CAD7B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Groove Karma
+artist_playmeid: -1
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: 7266c0b0c673d8fe4c4d5daaee86e90d
+bars_confidence: shape = (122,)
+bars_start: shape = (122,)
+beats_confidence: shape = (491,)
+beats_start: shape = (491,)
+danceability: 0.0
+duration: 206.78485
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.113
+loudness: -7.377
+mode: 1
+mode_confidence: 0.35
+release: Come All Over Me
+release_7digitalid: 494459
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (992,)
+segments_loudness_max: shape = (992,)
+segments_loudness_max_time: shape = (992,)
+segments_loudness_start: shape = (992,)
+segments_pitches: shape = (992, 12)
+segments_start: shape = (992,)
+segments_timbre: shape = (992, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHPRWZ12AB0180B14
+start_of_fade_out: 199.488
+tatums_confidence: shape = (981,)
+tatums_start: shape = (981,)
+tempo: 144.045
+time_signature: 4
+time_signature_confidence: 0.257
+title: Come All Over Me
+track_7digitalid: 5476388
+track_id: TRAQDVL128F9311923
+year: 0

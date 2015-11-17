@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 380001
+artist_familiarity: 0.568428704355
+artist_hotttnesss: 0.379868109943
+artist_id: ARJPRV411A348EFE4B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6bdd76c7-b792-406c-b566-bcd5dee6165f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Rupa & the April Fishes
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 55b68178819c0cc9e766b90f650177e5
+bars_confidence: shape = (170,)
+bars_start: shape = (170,)
+beats_confidence: shape = (683,)
+beats_start: shape = (683,)
+danceability: 0.0
+duration: 251.76771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.996
+loudness: -8.592
+mode: 1
+mode_confidence: 0.78
+release: Hear Globally: A Cumbancha Collection
+release_7digitalid: 514098
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (882,)
+segments_loudness_max: shape = (882,)
+segments_loudness_max_time: shape = (882,)
+segments_loudness_start: shape = (882,)
+segments_pitches: shape = (882, 12)
+segments_start: shape = (882,)
+segments_timbre: shape = (882, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOODPJI12AB0181BD8
+start_of_fade_out: 240.849
+tatums_confidence: shape = (1365,)
+tatums_start: shape = (1365,)
+tempo: 165.971
+time_signature: 4
+time_signature_confidence: 0.53
+title: C'est Moi
+track_7digitalid: 5691293
+track_id: TRAFRFF128F9345B75
+year: 2009

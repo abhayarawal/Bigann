@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 38533
+artist_familiarity: 0.593262654756
+artist_hotttnesss: 0.372069058228
+artist_id: AR0DSOO1187B9B855E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f28a0e2e-d469-4f9d-8080-f5548fc1a239
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Wailing Souls
+artist_playmeid: 17994
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: cbcc64cc162e81da93fb1afc3bd27a11
+bars_confidence: shape = (115,)
+bars_start: shape = (115,)
+beats_confidence: shape = (463,)
+beats_start: shape = (463,)
+danceability: 0.0
+duration: 213.15873
+end_of_fade_in: 0.125
+energy: 0.0
+key: 10
+key_confidence: 0.696
+loudness: -17.309
+mode: 0
+mode_confidence: 0.754
+release: Best of Thompson Sound Vol 2 The 80s
+release_7digitalid: 795387
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (782,)
+segments_loudness_max: shape = (782,)
+segments_loudness_max_time: shape = (782,)
+segments_loudness_start: shape = (782,)
+segments_pitches: shape = (782, 12)
+segments_start: shape = (782,)
+segments_timbre: shape = (782, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOENIVE12AB0187ACE
+start_of_fade_out: 208.202
+tatums_confidence: shape = (925,)
+tatums_start: shape = (925,)
+tempo: 130.427
+time_signature: 4
+time_signature_confidence: 0.847
+title: I Am a Rasta Man
+track_7digitalid: 8797098
+track_id: TRAJRMC12903CA7ECF
+year: 0

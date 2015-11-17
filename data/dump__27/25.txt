@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 179268
+artist_familiarity: 0.279531682958
+artist_hotttnesss: 0.0
+artist_id: ARYLG3I119B8668696
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 49dcac74-58e0-4fed-aa33-caedc5100c37
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Rockin' Dopsie_ Jr.
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 81559ad4e4438753ede2eafaad8d1965
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (352,)
+beats_start: shape = (352,)
+danceability: 0.0
+duration: 205.71383
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.692
+loudness: -8.265
+mode: 1
+mode_confidence: 0.454
+release: Ultimate Mardi Gras
+release_7digitalid: 609492
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1038,)
+segments_loudness_max: shape = (1038,)
+segments_loudness_max_time: shape = (1038,)
+segments_loudness_start: shape = (1038,)
+segments_pitches: shape = (1038, 12)
+segments_start: shape = (1038,)
+segments_timbre: shape = (1038, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.313562114248
+song_id: SOZZWBA12A8C13F403
+start_of_fade_out: 201.253
+tatums_confidence: shape = (1407,)
+tatums_start: shape = (1407,)
+tempo: 104.448
+time_signature: 4
+time_signature_confidence: 0.759
+title: Down at the Mardi Gras
+track_7digitalid: 6773455
+track_id: TRAJCYW128F92EEC32
+year: 0

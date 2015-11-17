@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 288538
+artist_familiarity: 0.441586733214
+artist_hotttnesss: 0.279515479757
+artist_id: AREB9421187FB458EF
+artist_latitude: 35.472
+artist_location: Oklahoma City, OK
+artist_longitude: -97.52033
+artist_mbid: ec45b4bf-0f5c-41df-ab2b-5454bf292a10
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tommy Overstreet
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 0ff62710f4ab1814725349268da2ad38
+bars_confidence: shape = (99,)
+bars_start: shape = (99,)
+beats_confidence: shape = (401,)
+beats_start: shape = (401,)
+danceability: 0.0
+duration: 185.73016
+end_of_fade_in: 0.161
+energy: 0.0
+key: 11
+key_confidence: 0.878
+loudness: -13.569
+mode: 1
+mode_confidence: 0.734
+release: Welcome To My Land Of Love
+release_7digitalid: 373724
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (553,)
+segments_loudness_max: shape = (553,)
+segments_loudness_max_time: shape = (553,)
+segments_loudness_start: shape = (553,)
+segments_pitches: shape = (553, 12)
+segments_start: shape = (553,)
+segments_timbre: shape = (553, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORQBLL12AB0184523
+start_of_fade_out: 176.884
+tatums_confidence: shape = (802,)
+tatums_start: shape = (802,)
+tempo: 129.714
+time_signature: 4
+time_signature_confidence: 0.0
+title: Heart Of Dixie
+track_7digitalid: 5660497
+track_id: TRADWHL128F933E397
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 89866
+artist_familiarity: 0.567800601258
+artist_hotttnesss: 0.373527170154
+artist_id: ARFAKQ01187B990163
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3e46f4da-eee2-455f-bb72-9ca83887e9e4
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Georges Delerue
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 9c0524aec566a401b3c9ed0d4f63cc79
+bars_confidence: shape = (167,)
+bars_start: shape = (167,)
+beats_confidence: shape = (533,)
+beats_start: shape = (533,)
+danceability: 0.0
+duration: 417.12281
+end_of_fade_in: 2.351
+energy: 0.0
+key: 4
+key_confidence: 0.396
+loudness: -21.161
+mode: 0
+mode_confidence: 0.17
+release: In Session: A Film Music Celebration
+release_7digitalid: 275801
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (541,)
+segments_loudness_max: shape = (541,)
+segments_loudness_max_time: shape = (541,)
+segments_loudness_start: shape = (541,)
+segments_pitches: shape = (541, 12)
+segments_start: shape = (541,)
+segments_timbre: shape = (541, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOCCVNR12A81C230BC
+start_of_fade_out: 406.674
+tatums_confidence: shape = (1066,)
+tatums_start: shape = (1066,)
+tempo: 76.965
+time_signature: 3
+time_signature_confidence: 0.688
+title: Platoon - Theme
+track_7digitalid: 3072122
+track_id: TRAXGMX128F42536FC
+year: 0

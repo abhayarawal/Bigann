@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 481
+artist_familiarity: 0.640574149168
+artist_hotttnesss: 0.454714841079
+artist_id: ARWD82K1187B98CFF2
+artist_latitude: nan
+artist_location: Richmond VA
+artist_longitude: nan
+artist_mbid: ca48bfb8-37c5-4a04-9837-a07975ee0cd3
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Cracker
+artist_playmeid: 40329
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 9f7ee964b0ee91eed19a5b7554001509
+bars_confidence: shape = (245,)
+bars_start: shape = (245,)
+beats_confidence: shape = (739,)
+beats_start: shape = (739,)
+danceability: 0.0
+duration: 380.86485
+end_of_fade_in: 0.32
+energy: 0.0
+key: 2
+key_confidence: 0.063
+loudness: -19.164
+mode: 1
+mode_confidence: 0.436
+release: Cracker
+release_7digitalid: 1197
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1001,)
+segments_loudness_max: shape = (1001,)
+segments_loudness_max_time: shape = (1001,)
+segments_loudness_start: shape = (1001,)
+segments_pitches: shape = (1001, 12)
+segments_start: shape = (1001,)
+segments_timbre: shape = (1001, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.542898743291
+song_id: SOPWGTF12A58A7D658
+start_of_fade_out: 373.441
+tatums_confidence: shape = (1477,)
+tatums_start: shape = (1477,)
+tempo: 116.805
+time_signature: 3
+time_signature_confidence: 0.659
+title: Dr. Bernice
+track_7digitalid: 10914
+track_id: TRAMIUD128E07825DB
+year: 1992

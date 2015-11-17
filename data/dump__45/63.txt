@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 287182
+artist_familiarity: 0.433019436711
+artist_hotttnesss: 0.251968125168
+artist_id: ARGSOPB1241B9CBB58
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Drouz
+artist_playmeid: 145467
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: d48f34ed2a4650d51b9e61cf7d07a8e8
+bars_confidence: shape = (131,)
+bars_start: shape = (131,)
+beats_confidence: shape = (406,)
+beats_start: shape = (406,)
+danceability: 0.0
+duration: 286.98077
+end_of_fade_in: 0.136
+energy: 0.0
+key: 0
+key_confidence: 0.372
+loudness: -12.235
+mode: 1
+mode_confidence: 0.485
+release: Drouz
+release_7digitalid: 371428
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (778,)
+segments_loudness_max: shape = (778,)
+segments_loudness_max_time: shape = (778,)
+segments_loudness_start: shape = (778,)
+segments_pitches: shape = (778, 12)
+segments_start: shape = (778,)
+segments_timbre: shape = (778, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOPOKGS12AB01823C0
+start_of_fade_out: 278.581
+tatums_confidence: shape = (811,)
+tatums_start: shape = (811,)
+tempo: 85.187
+time_signature: 3
+time_signature_confidence: 0.665
+title: Turn Me Around
+track_7digitalid: 4132889
+track_id: TRAPOHB128F933B2D8
+year: 0

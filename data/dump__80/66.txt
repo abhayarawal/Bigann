@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20021
+artist_familiarity: 0.563997692315
+artist_hotttnesss: 0.349923661324
+artist_id: ARMHR011187B9A62B5
+artist_latitude: nan
+artist_location: Spanish Harlem, New York City, NY
+artist_longitude: nan
+artist_mbid: de7d54d7-0fce-4fb9-84f0-6fee794335d2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Joe Bataan
+artist_playmeid: 54046
+artist_terms: shape = (50,)
+artist_terms_freq: shape = (50,)
+artist_terms_weight: shape = (50,)
+audio_md5: 98c67b84149c481ac4f958d62f3066c8
+bars_confidence: shape = (446,)
+bars_start: shape = (446,)
+beats_confidence: shape = (446,)
+beats_start: shape = (446,)
+danceability: 0.0
+duration: 311.19628
+end_of_fade_in: 0.113
+energy: 0.0
+key: 10
+key_confidence: 0.613
+loudness: -11.574
+mode: 1
+mode_confidence: 0.553
+release: Call My Name
+release_7digitalid: 555842
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (866,)
+segments_loudness_max: shape = (866,)
+segments_loudness_max_time: shape = (866,)
+segments_loudness_start: shape = (866,)
+segments_pitches: shape = (866, 12)
+segments_start: shape = (866,)
+segments_timbre: shape = (866, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.427446571488
+song_id: SOYTIWN12A6D4FBA37
+start_of_fade_out: 304.774
+tatums_confidence: shape = (891,)
+tatums_start: shape = (891,)
+tempo: 87.467
+time_signature: 1
+time_signature_confidence: 0.0
+title: Ernestine
+track_7digitalid: 6145970
+track_id: TRBBPGL128F933E34C
+year: 2005

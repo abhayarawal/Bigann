@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 202807
+artist_familiarity: 0.29082647734
+artist_hotttnesss: 0.261822385496
+artist_id: ARGKPBC1187B9ADF8E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d67915ce-5afe-4ada-9761-edea81b76460
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jean Lumière
+artist_playmeid: -1
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: c9af9ebd363a3a6b858b4a31cdbaa0f8
+bars_confidence: shape = (7,)
+bars_start: shape = (7,)
+beats_confidence: shape = (115,)
+beats_start: shape = (115,)
+danceability: 0.0
+duration: 183.37914
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -10.621
+mode: 1
+mode_confidence: 0.0
+release: The Greatest Hits from 40's and 50's_ Vol. 66
+release_7digitalid: 812274
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (472,)
+segments_loudness_max: shape = (472,)
+segments_loudness_max_time: shape = (472,)
+segments_loudness_start: shape = (472,)
+segments_pitches: shape = (472, 12)
+segments_start: shape = (472,)
+segments_timbre: shape = (472, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPUMFQ12AB0187B54
+start_of_fade_out: 176.588
+tatums_confidence: shape = (461,)
+tatums_start: shape = (461,)
+tempo: 38.644
+time_signature: 4
+time_signature_confidence: 0.0
+title: Le temps des cerises
+track_7digitalid: 8976262
+track_id: TRADHRX12903CD3866
+year: 2002

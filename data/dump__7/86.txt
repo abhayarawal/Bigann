@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 63381
+artist_familiarity: 0.837450128295
+artist_hotttnesss: 0.476760867098
+artist_id: ARDEC2A1187B9A460E
+artist_latitude: nan
+artist_location: Cleveland, OH
+artist_longitude: nan
+artist_mbid: d624df22-b03d-4746-ac28-a4bd72aeec26
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Chimaira
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: b1d5d12f95b65691d5d055a78d085369
+bars_confidence: shape = (199,)
+bars_start: shape = (199,)
+beats_confidence: shape = (802,)
+beats_start: shape = (802,)
+danceability: 0.0
+duration: 323.18649
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.631
+loudness: -4.238
+mode: 1
+mode_confidence: 0.509
+release: Resurrection
+release_7digitalid: 142667
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (902,)
+segments_loudness_max: shape = (902,)
+segments_loudness_max_time: shape = (902,)
+segments_loudness_start: shape = (902,)
+segments_pitches: shape = (902, 12)
+segments_start: shape = (902,)
+segments_timbre: shape = (902, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.629071835595
+song_id: SOATHUP12A8C131DC3
+start_of_fade_out: 323.186
+tatums_confidence: shape = (1603,)
+tatums_start: shape = (1603,)
+tempo: 150.11
+time_signature: 4
+time_signature_confidence: 0.852
+title: The Flame
+track_7digitalid: 1487059
+track_id: TRACOHQ128F424C5EF
+year: 2007

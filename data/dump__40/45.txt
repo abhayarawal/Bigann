@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 29483
+artist_familiarity: 0.829851316499
+artist_hotttnesss: 0.581505802686
+artist_id: ARAN38V1187FB4C4EE
+artist_latitude: nan
+artist_location: Salt Lake City, UT
+artist_longitude: nan
+artist_mbid: 92e1f515-fc89-4577-9f77-addacdaf7559
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Almost
+artist_playmeid: 67580
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: b91935e2c750a350f495b3ccbc9b6540
+bars_confidence: shape = (72,)
+bars_start: shape = (72,)
+beats_confidence: shape = (292,)
+beats_start: shape = (292,)
+danceability: 0.0
+duration: 210.59873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.505
+loudness: -4.289
+mode: 0
+mode_confidence: 0.476
+release: Monster Monster
+release_7digitalid: 627198
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (581,)
+segments_loudness_max: shape = (581,)
+segments_loudness_max_time: shape = (581,)
+segments_loudness_start: shape = (581,)
+segments_pitches: shape = (581, 12)
+segments_start: shape = (581,)
+segments_timbre: shape = (581, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.627929999534
+song_id: SOPCFDS12AB017E0E5
+start_of_fade_out: 203.79
+tatums_confidence: shape = (1168,)
+tatums_start: shape = (1168,)
+tempo: 84.99
+time_signature: 4
+time_signature_confidence: 0.675
+title: Books & Books
+track_7digitalid: 6961753
+track_id: TRANTFR128F931C7DA
+year: 2009

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23683
+artist_familiarity: 0.524700041107
+artist_hotttnesss: 0.389765518091
+artist_id: AR8EDG51187FB41A08
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9ee12319-bfdb-4b63-a0b3-a7968a664a6c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gary Hobbs
+artist_playmeid: 51164
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: c3950bc7a5138a140c517560dd4ca0f7
+bars_confidence: shape = (130,)
+bars_start: shape = (130,)
+beats_confidence: shape = (395,)
+beats_start: shape = (395,)
+danceability: 0.0
+duration: 228.49261
+end_of_fade_in: 0.467
+energy: 0.0
+key: 9
+key_confidence: 0.565
+loudness: -7.917
+mode: 1
+mode_confidence: 0.599
+release: 30 Del Recuerdo
+release_7digitalid: 265858
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (724,)
+segments_loudness_max: shape = (724,)
+segments_loudness_max_time: shape = (724,)
+segments_loudness_start: shape = (724,)
+segments_pitches: shape = (724, 12)
+segments_start: shape = (724,)
+segments_timbre: shape = (724, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.309774639668
+song_id: SOXGTSO12A6D4F8FC4
+start_of_fade_out: 222.348
+tatums_confidence: shape = (790,)
+tatums_start: shape = (790,)
+tempo: 104.12
+time_signature: 3
+time_signature_confidence: 0.68
+title: Soñando En Ti
+track_7digitalid: 2877474
+track_id: TRAJLRX128F4271A2C
+year: 0

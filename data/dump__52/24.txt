@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 48562
+artist_familiarity: 0.756790991767
+artist_hotttnesss: 0.458697013253
+artist_id: ARRPOUR1187FB4D0BA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: dbd1b11b-0ab2-4afd-8264-c2909237b6fb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Aceyalone
+artist_playmeid: 9113
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 1528e46752c740af0d2442cfd55ad501
+bars_confidence: shape = (72,)
+bars_start: shape = (72,)
+beats_confidence: shape = (363,)
+beats_start: shape = (363,)
+danceability: 0.0
+duration: 170.1873
+end_of_fade_in: 0.165
+energy: 0.0
+key: 1
+key_confidence: 0.676
+loudness: -4.149
+mode: 0
+mode_confidence: 0.542
+release: Lightning Strikes
+release_7digitalid: 141928
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (858,)
+segments_loudness_max: shape = (858,)
+segments_loudness_max_time: shape = (858,)
+segments_loudness_start: shape = (858,)
+segments_pitches: shape = (858, 12)
+segments_start: shape = (858,)
+segments_timbre: shape = (858, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOPXSOJ12A81C209E2
+start_of_fade_out: 161.576
+tatums_confidence: shape = (1091,)
+tatums_start: shape = (1091,)
+tempo: 129.956
+time_signature: 5
+time_signature_confidence: 1.0
+title: Suicide
+track_7digitalid: 1478257
+track_id: TRARVDX128F424A397
+year: 2007

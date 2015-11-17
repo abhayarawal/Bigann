@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2759
+artist_familiarity: 0.60276693426
+artist_hotttnesss: 0.463192852316
+artist_id: ARH1LE01187B98D68D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3df3a779-a7b1-4362-a8b4-9ae6c7eb623d
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: John Debney
+artist_playmeid: -1
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: fd5f3570fcaf69245b099b6673aec244
+bars_confidence: shape = (23,)
+bars_start: shape = (23,)
+beats_confidence: shape = (97,)
+beats_start: shape = (97,)
+danceability: 0.0
+duration: 74.762
+end_of_fade_in: 0.229
+energy: 0.0
+key: 0
+key_confidence: 0.0
+loudness: -17.712
+mode: 1
+mode_confidence: 0.0
+release: Elf
+release_7digitalid: 286891
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (149,)
+segments_loudness_max: shape = (149,)
+segments_loudness_max_time: shape = (149,)
+segments_loudness_start: shape = (149,)
+segments_pitches: shape = (149, 12)
+segments_start: shape = (149,)
+segments_timbre: shape = (149, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOBCOMU12A8C1330B0
+start_of_fade_out: 66.113
+tatums_confidence: shape = (194,)
+tatums_start: shape = (194,)
+tempo: 83.95
+time_signature: 4
+time_signature_confidence: 0.66
+title: Buddy and Santa's Flight
+track_7digitalid: 3212656
+track_id: TRAHFLM128F426FD27
+year: 2003

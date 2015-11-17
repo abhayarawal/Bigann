@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 371628
+artist_familiarity: 0.422413313416
+artist_hotttnesss: 0.329220236388
+artist_id: ARLDVL71187B9AD7AC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f7e99ebe-bea6-46b4-82a4-5b775a168594
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: War Babies
+artist_playmeid: 169037
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 81c40d6e6a2ee4dab1c76cf933238a60
+bars_confidence: shape = (194,)
+bars_start: shape = (194,)
+beats_confidence: shape = (780,)
+beats_start: shape = (780,)
+danceability: 0.0
+duration: 285.83138
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.319
+loudness: -5.977
+mode: 0
+mode_confidence: 0.422
+release: War Babies
+release_7digitalid: 501959
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (767,)
+segments_loudness_max: shape = (767,)
+segments_loudness_max_time: shape = (767,)
+segments_loudness_start: shape = (767,)
+segments_pitches: shape = (767, 12)
+segments_start: shape = (767,)
+segments_timbre: shape = (767, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.445454525493
+song_id: SOQJLWY12AB0180839
+start_of_fade_out: 269.172
+tatums_confidence: shape = (1561,)
+tatums_start: shape = (1561,)
+tempo: 165.965
+time_signature: 4
+time_signature_confidence: 0.196
+title: Cry Yourself To Sleep
+track_7digitalid: 5560818
+track_id: TRAVVIV128F932617C
+year: 1991

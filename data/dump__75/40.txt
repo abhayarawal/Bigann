@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 92108
+artist_familiarity: 0.626957723005
+artist_hotttnesss: 0.434859589343
+artist_id: AR2XRFQ1187FB417FE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a69cd724-2f57-4ed0-bfed-ba20401eb84c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Julie Zenatti
+artist_playmeid: 5772
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: db4e97bc8f61ad93c82c9e2b6b7becd1
+bars_confidence: shape = (109,)
+bars_start: shape = (109,)
+beats_confidence: shape = (440,)
+beats_start: shape = (440,)
+danceability: 0.0
+duration: 201.66485
+end_of_fade_in: 0.221
+energy: 0.0
+key: 9
+key_confidence: 0.676
+loudness: -5.559
+mode: 0
+mode_confidence: 0.965
+release: Comme Vous
+release_7digitalid: 382807
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (576,)
+segments_loudness_max: shape = (576,)
+segments_loudness_max_time: shape = (576,)
+segments_loudness_start: shape = (576,)
+segments_pitches: shape = (576, 12)
+segments_start: shape = (576,)
+segments_timbre: shape = (576, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.367273415809
+song_id: SOYVZLL12AAF3B2276
+start_of_fade_out: 196.719
+tatums_confidence: shape = (879,)
+tatums_start: shape = (879,)
+tempo: 134.882
+time_signature: 4
+time_signature_confidence: 0.779
+title: A Quoi Ca Sert
+track_7digitalid: 4249097
+track_id: TRAZSVT128F92DEC7B
+year: 0

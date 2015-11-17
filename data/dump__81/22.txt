@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 467176
+artist_familiarity: 0.334167651725
+artist_hotttnesss: 0.188030094574
+artist_id: AR95F611187B99CE1C
+artist_latitude: 35.14968
+artist_location: Memphis, TN
+artist_longitude: -90.04892
+artist_mbid: 5061911c-56ff-4967-9cbc-de1601beea96
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Anita Kerr
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 2a2dabea29e22e23274ae42e2fac953d
+bars_confidence: shape = (77,)
+bars_start: shape = (77,)
+beats_confidence: shape = (238,)
+beats_start: shape = (238,)
+danceability: 0.0
+duration: 156.52526
+end_of_fade_in: 0.27
+energy: 0.0
+key: 3
+key_confidence: 0.717
+loudness: -14.355
+mode: 1
+mode_confidence: 0.655
+release: And Now...The Anita Kerr Orchestra!
+release_7digitalid: 627509
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (401,)
+segments_loudness_max: shape = (401,)
+segments_loudness_max_time: shape = (401,)
+segments_loudness_start: shape = (401,)
+segments_pitches: shape = (401, 12)
+segments_start: shape = (401,)
+segments_timbre: shape = (401, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCFNPC12AB017CE1B
+start_of_fade_out: 148.753
+tatums_confidence: shape = (476,)
+tatums_start: shape = (476,)
+tempo: 94.771
+time_signature: 3
+time_signature_confidence: 0.768
+title: Over The Rainbow
+track_7digitalid: 6985918
+track_id: TRBBVDW128F932262A
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 271259
+artist_familiarity: 0.522821817763
+artist_hotttnesss: 0.35550299502
+artist_id: ARPCEWC11F4C83EEA7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Eddie Palmieri
+artist_playmeid: 152309
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 42f29ba2f4623887811ad2eb704b4436
+bars_confidence: shape = (204,)
+bars_start: shape = (204,)
+beats_confidence: shape = (818,)
+beats_start: shape = (818,)
+danceability: 0.0
+duration: 392.85506
+end_of_fade_in: 0.331
+energy: 0.0
+key: 5
+key_confidence: 0.407
+loudness: -11.876
+mode: 0
+mode_confidence: 0.509
+release: Eddie Palmieri/Lala Rodrigues/Ismael Quintana - Gold 1973-1976
+release_7digitalid: 248450
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (1754,)
+segments_loudness_max: shape = (1754,)
+segments_loudness_max_time: shape = (1754,)
+segments_loudness_start: shape = (1754,)
+segments_pitches: shape = (1754, 12)
+segments_start: shape = (1754,)
+segments_timbre: shape = (1754, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSCRKV12A8C13BBBD
+start_of_fade_out: 385.887
+tatums_confidence: shape = (2452,)
+tatums_start: shape = (2452,)
+tempo: 127.749
+time_signature: 4
+time_signature_confidence: 0.0
+title: Nada De Ti
+track_7digitalid: 2821906
+track_id: TRBDIKL128F42649B0
+year: 1973

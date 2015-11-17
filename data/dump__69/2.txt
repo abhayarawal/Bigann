@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2906
+artist_familiarity: 0.531124492893
+artist_hotttnesss: 0.382528157938
+artist_id: ARZKUQI11F4C8467A5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Oscar Peterson Trio
+artist_playmeid: -1
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 4abc7e1f54e4e4a903288d9f58cff379
+bars_confidence: shape = (105,)
+bars_start: shape = (105,)
+beats_confidence: shape = (424,)
+beats_start: shape = (424,)
+danceability: 0.0
+duration: 152.13669
+end_of_fade_in: 0.28
+energy: 0.0
+key: 0
+key_confidence: 0.0
+loudness: -22.457
+mode: 0
+mode_confidence: 0.447
+release: Best Of Jazz
+release_7digitalid: 323769
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (503,)
+segments_loudness_max: shape = (503,)
+segments_loudness_max_time: shape = (503,)
+segments_loudness_start: shape = (503,)
+segments_pitches: shape = (503, 12)
+segments_start: shape = (503,)
+segments_timbre: shape = (503, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.494489517502
+song_id: SOMCIAU12AAF3B5665
+start_of_fade_out: 144.625
+tatums_confidence: shape = (847,)
+tatums_start: shape = (847,)
+tempo: 172.514
+time_signature: 4
+time_signature_confidence: 0.719
+title: Night And Day
+track_7digitalid: 3645690
+track_id: TRAXNYL128F92DA2B1
+year: 0

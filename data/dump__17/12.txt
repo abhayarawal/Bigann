@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2124
+artist_familiarity: 0.632592419749
+artist_hotttnesss: 0.497690506998
+artist_id: ARGIABO1187FB4B3B5
+artist_latitude: 35.32689
+artist_location: Robbinsville, NC
+artist_longitude: -83.80489
+artist_mbid: f5d7d748-256e-4875-a065-78cf2f1e3d39
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ronnie Milsap
+artist_playmeid: 2939
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: b8345bd14b5655b45d7f7497f02229d9
+bars_confidence: shape = (275,)
+bars_start: shape = (275,)
+beats_confidence: shape = (275,)
+beats_start: shape = (275,)
+danceability: 0.0
+duration: 242.70322
+end_of_fade_in: 0.334
+energy: 0.0
+key: 2
+key_confidence: 0.795
+loudness: -13.558
+mode: 1
+mode_confidence: 0.691
+release: Inside Ronnie Milsap
+release_7digitalid: 298724
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (593,)
+segments_loudness_max: shape = (593,)
+segments_loudness_max_time: shape = (593,)
+segments_loudness_start: shape = (593,)
+segments_pitches: shape = (593, 12)
+segments_start: shape = (593,)
+segments_timbre: shape = (593, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.262391598498
+song_id: SOFSRSS12A8C13B685
+start_of_fade_out: 235.381
+tatums_confidence: shape = (549,)
+tatums_start: shape = (549,)
+tempo: 69.704
+time_signature: 1
+time_signature_confidence: 0.0
+title: Wrong End Of The Rainbow
+track_7digitalid: 3361003
+track_id: TRAFVDV128F42936BA
+year: 1982

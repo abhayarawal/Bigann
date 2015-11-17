@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 24313
+artist_familiarity: 0.717670524729
+artist_hotttnesss: 0.479308459338
+artist_id: ARS1OWB1187B99EEAD
+artist_latitude: nan
+artist_location: New York, NY
+artist_longitude: nan
+artist_mbid: 1b96b9c9-0832-40cb-9f8d-7274de3733fc
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: The New York Dolls
+artist_playmeid: 5379
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 14ceca621785b67a0da9802bed0fdefe
+bars_confidence: shape = (881,)
+bars_start: shape = (881,)
+beats_confidence: shape = (881,)
+beats_start: shape = (881,)
+danceability: 0.0
+duration: 344.45016
+end_of_fade_in: 0.154
+energy: 0.0
+key: 4
+key_confidence: 0.232
+loudness: -10.193
+mode: 1
+mode_confidence: 0.229
+release: Too Much Too Soon
+release_7digitalid: 279769
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (1165,)
+segments_loudness_max: shape = (1165,)
+segments_loudness_max_time: shape = (1165,)
+segments_loudness_start: shape = (1165,)
+segments_pitches: shape = (1165, 12)
+segments_start: shape = (1165,)
+segments_timbre: shape = (1165, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVOEOG12AF729F7DF
+start_of_fade_out: 335.377
+tatums_confidence: shape = (1761,)
+tatums_start: shape = (1761,)
+tempo: 154.763
+time_signature: 1
+time_signature_confidence: 0.0
+title: Human Being
+track_7digitalid: 3115529
+track_id: TRBFNEE128F425C676
+year: 1974

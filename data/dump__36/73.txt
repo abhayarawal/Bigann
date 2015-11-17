@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41932
+artist_familiarity: 0.803619261844
+artist_hotttnesss: 0.531213286805
+artist_id: ARFSPOV1187B9B2363
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: 28cbf94d-0700-4095-a188-37e373b069a7
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Basement Jaxx
+artist_playmeid: 169
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: f551e9f63c1f856be6459493060011bb
+bars_confidence: shape = (48,)
+bars_start: shape = (48,)
+beats_confidence: shape = (341,)
+beats_start: shape = (341,)
+danceability: 0.0
+duration: 161.85424
+end_of_fade_in: 0.322
+energy: 0.0
+key: 7
+key_confidence: 0.057
+loudness: -4.665
+mode: 1
+mode_confidence: 0.373
+release: Rooty
+release_7digitalid: 344654
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (744,)
+segments_loudness_max: shape = (744,)
+segments_loudness_max_time: shape = (744,)
+segments_loudness_start: shape = (744,)
+segments_pitches: shape = (744, 12)
+segments_start: shape = (744,)
+segments_timbre: shape = (744, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.595478748247
+song_id: SOAHYMX12AB0182021
+start_of_fade_out: 149.537
+tatums_confidence: shape = (1023,)
+tatums_start: shape = (1023,)
+tempo: 130.862
+time_signature: 7
+time_signature_confidence: 1.0
+title: Sfm
+track_7digitalid: 3861274
+track_id: TRAMMAF128F93051B0
+year: 2001

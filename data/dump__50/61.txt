@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7562
+artist_familiarity: 0.433507626379
+artist_hotttnesss: 0.289902931609
+artist_id: ARS1DCR1187B9A4A56
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0159799c-ef7f-4c37-a011-25b6572c0f62
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Winston Reedy
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 7a2d4615087377656b32f145d8186b86
+bars_confidence: shape = (144,)
+bars_start: shape = (144,)
+beats_confidence: shape = (577,)
+beats_start: shape = (577,)
+danceability: 0.0
+duration: 268.61669
+end_of_fade_in: 2.415
+energy: 0.0
+key: 0
+key_confidence: 0.879
+loudness: -7.097
+mode: 1
+mode_confidence: 0.612
+release: Love Thing
+release_7digitalid: 244426
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1050,)
+segments_loudness_max: shape = (1050,)
+segments_loudness_max_time: shape = (1050,)
+segments_loudness_start: shape = (1050,)
+segments_pitches: shape = (1050, 12)
+segments_start: shape = (1050,)
+segments_timbre: shape = (1050, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORZLQQ12A8C137BB6
+start_of_fade_out: 259.094
+tatums_confidence: shape = (1154,)
+tatums_start: shape = (1154,)
+tempo: 130.812
+time_signature: 4
+time_signature_confidence: 0.431
+title: Paradise In Your Eyes
+track_7digitalid: 2783614
+track_id: TRARFLF128F425B49B
+year: 0

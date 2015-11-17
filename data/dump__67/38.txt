@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 301297
+artist_familiarity: 0.570609658225
+artist_hotttnesss: 0.389877126421
+artist_id: ARXB7B21187B98BEF0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bf319713-88a0-4a06-ab6f-2ead83e923bb
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Marisela
+artist_playmeid: 13449
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 9b1eb58a2879ac55ca4b0f2d32d07fdc
+bars_confidence: shape = (93,)
+bars_start: shape = (93,)
+beats_confidence: shape = (377,)
+beats_start: shape = (377,)
+danceability: 0.0
+duration: 232.14975
+end_of_fade_in: 0.369
+energy: 0.0
+key: 10
+key_confidence: 0.675
+loudness: -9.994
+mode: 1
+mode_confidence: 0.643
+release: Voz Y Sentimiento
+release_7digitalid: 536933
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (739,)
+segments_loudness_max: shape = (739,)
+segments_loudness_max_time: shape = (739,)
+segments_loudness_start: shape = (739,)
+segments_pitches: shape = (739, 12)
+segments_start: shape = (739,)
+segments_timbre: shape = (739, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SORTBWU12AB017CC09
+start_of_fade_out: 223.655
+tatums_confidence: shape = (754,)
+tatums_start: shape = (754,)
+tempo: 98.07
+time_signature: 4
+time_signature_confidence: 0.476
+title: Decidete
+track_7digitalid: 5949277
+track_id: TRAWZLK128F930EC02
+year: 0

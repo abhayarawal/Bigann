@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 198008
+artist_familiarity: 0.677550148928
+artist_hotttnesss: 0.492132220964
+artist_id: ARVWIEH1187B9B39B5
+artist_latitude: nan
+artist_location: Long Island, NY
+artist_longitude: nan
+artist_mbid: 48e52efa-e3b9-4e3d-9f20-d408a4b78421
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: This Is Hell
+artist_playmeid: 57098
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 334e4b2eae459721c7378b42814e55d9
+bars_confidence: shape = (71,)
+bars_start: shape = (71,)
+beats_confidence: shape = (287,)
+beats_start: shape = (287,)
+danceability: 0.0
+duration: 119.7971
+end_of_fade_in: 0.228
+energy: 0.0
+key: 8
+key_confidence: 0.184
+loudness: -5.261
+mode: 1
+mode_confidence: 0.342
+release: Misfortunes
+release_7digitalid: 716004
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (391,)
+segments_loudness_max: shape = (391,)
+segments_loudness_max_time: shape = (391,)
+segments_loudness_start: shape = (391,)
+segments_pitches: shape = (391, 12)
+segments_start: shape = (391,)
+segments_timbre: shape = (391, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.733956330552
+song_id: SOFNTHT12A58A7D462
+start_of_fade_out: 112.205
+tatums_confidence: shape = (574,)
+tatums_start: shape = (574,)
+tempo: 150.006
+time_signature: 4
+time_signature_confidence: 0.0
+title: RECKLESS
+track_7digitalid: 7942726
+track_id: TRAOEAQ12903CC26BD
+year: 2008

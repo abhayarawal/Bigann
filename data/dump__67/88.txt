@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2904
+artist_familiarity: 0.51727459245
+artist_hotttnesss: 0.349431337925
+artist_id: AR6BHP31187FB365E1
+artist_latitude: 36.06899
+artist_location: Greensboro, NC
+artist_longitude: -79.7947
+artist_mbid: 3e07fca6-2c7f-4fc1-a138-ec6cd7e4be8a
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Sonny Terry
+artist_playmeid: 21252
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: e599c2d1f980bc1e9c2a9c6ca73970e8
+bars_confidence: shape = (371,)
+bars_start: shape = (371,)
+beats_confidence: shape = (371,)
+beats_start: shape = (371,)
+danceability: 0.0
+duration: 149.41995
+end_of_fade_in: 0.334
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -17.294
+mode: 0
+mode_confidence: 0.202
+release: Blowing The Blues
+release_7digitalid: 356383
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (589,)
+segments_loudness_max: shape = (589,)
+segments_loudness_max_time: shape = (589,)
+segments_loudness_start: shape = (589,)
+segments_pitches: shape = (589, 12)
+segments_start: shape = (589,)
+segments_timbre: shape = (589, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJHNUQ12AB0186526
+start_of_fade_out: 143.07
+tatums_confidence: shape = (741,)
+tatums_start: shape = (741,)
+tempo: 150.059
+time_signature: 1
+time_signature_confidence: 0.0
+title: My Baby Likes To Shuffle
+track_7digitalid: 3975127
+track_id: TRAXEAY128F931C3D0
+year: 1994

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21305
+artist_familiarity: 0.666216159368
+artist_hotttnesss: 0.549761225457
+artist_id: ARYN2M61187B995BD6
+artist_latitude: nan
+artist_location: Medellin, Colombia
+artist_longitude: nan
+artist_mbid: 8b0f05ce-354e-4121-9e0b-8b4732ea844f
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Juanes
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 423c13faa9c9d9c25abb14f5aaf4ca76
+bars_confidence: shape = (265,)
+bars_start: shape = (265,)
+beats_confidence: shape = (1065,)
+beats_start: shape = (1065,)
+danceability: 0.0
+duration: 332.5122
+end_of_fade_in: 2.624
+energy: 0.0
+key: 11
+key_confidence: 0.575
+loudness: -5.821
+mode: 0
+mode_confidence: 0.475
+release: La Vida Es Un Ratico En Vivo
+release_7digitalid: 343601
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1485,)
+segments_loudness_max: shape = (1485,)
+segments_loudness_max_time: shape = (1485,)
+segments_loudness_start: shape = (1485,)
+segments_pitches: shape = (1485, 12)
+segments_start: shape = (1485,)
+segments_timbre: shape = (1485, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SOBXWEW12AB017FB9B
+start_of_fade_out: 319.205
+tatums_confidence: shape = (2130,)
+tatums_start: shape = (2130,)
+tempo: 196.106
+time_signature: 4
+time_signature_confidence: 0.0
+title: Rebelion
+track_7digitalid: 3849023
+track_id: TRAHLVM128F9302BEE
+year: 0

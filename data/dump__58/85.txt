@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 518617
+artist_familiarity: 0.482917218184
+artist_hotttnesss: 0.395313930439
+artist_id: ARQQZEQ1187FB3EAC0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 28814e91-5718-4c10-af96-093c3888c4f3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Connemara Stone Company
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: c92daf432b2a106b7a7b9759b1fe58fa
+bars_confidence: shape = (97,)
+bars_start: shape = (97,)
+beats_confidence: shape = (396,)
+beats_start: shape = (396,)
+danceability: 0.0
+duration: 192.10404
+end_of_fade_in: 0.398
+energy: 0.0
+key: 2
+key_confidence: 0.014
+loudness: -7.179
+mode: 1
+mode_confidence: 0.301
+release: Dragonfly - Live at Folk im Schlosshof
+release_7digitalid: 697292
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (331,)
+segments_loudness_max: shape = (331,)
+segments_loudness_max_time: shape = (331,)
+segments_loudness_start: shape = (331,)
+segments_pitches: shape = (331, 12)
+segments_start: shape = (331,)
+segments_timbre: shape = (331, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.21990668462
+song_id: SOQLXRZ12AC468BC3F
+start_of_fade_out: 189.01
+tatums_confidence: shape = (792,)
+tatums_start: shape = (792,)
+tempo: 123.36
+time_signature: 4
+time_signature_confidence: 0.642
+title: Dragonfly
+track_7digitalid: 7740707
+track_id: TRAUCJF12903D080F2
+year: 0

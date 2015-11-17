@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 14247
+artist_familiarity: 0.562090336907
+artist_hotttnesss: 0.387146501652
+artist_id: ARLT4N91187FB533DB
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: abcc1941-e8d2-406a-b4bb-6c208f36d2cf
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Low Millions
+artist_playmeid: 61844
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 0a6b9c91c27ea8d2b8cd7968477095ad
+bars_confidence: shape = (343,)
+bars_start: shape = (343,)
+beats_confidence: shape = (343,)
+beats_start: shape = (343,)
+danceability: 0.0
+duration: 193.38404
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.606
+loudness: -6.016
+mode: 1
+mode_confidence: 0.575
+release: Eleanor
+release_7digitalid: 154282
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (559,)
+segments_loudness_max: shape = (559,)
+segments_loudness_max_time: shape = (559,)
+segments_loudness_start: shape = (559,)
+segments_pitches: shape = (559, 12)
+segments_start: shape = (559,)
+segments_timbre: shape = (559, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLIQRN12A8C1391A6
+start_of_fade_out: 182.938
+tatums_confidence: shape = (687,)
+tatums_start: shape = (687,)
+tempo: 112.897
+time_signature: 1
+time_signature_confidence: 0.201
+title: Eleanor
+track_7digitalid: 1611326
+track_id: TRBHRGA128F4268884
+year: 2004

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17767
+artist_familiarity: 0.698532476696
+artist_hotttnesss: 0.509456000853
+artist_id: ARW2U4O1187FB4408B
+artist_latitude: nan
+artist_location: New York NY
+artist_longitude: nan
+artist_mbid: ef2d4a1c-195e-41f4-839e-bdfd3f85adc3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Andrew W.K.
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: bba7c8199acc015c1b7742c26e715f96
+bars_confidence: shape = (82,)
+bars_start: shape = (82,)
+beats_confidence: shape = (330,)
+beats_start: shape = (330,)
+danceability: 0.0
+duration: 165.51138
+end_of_fade_in: 0.343
+energy: 0.0
+key: 2
+key_confidence: 0.0
+loudness: -3.378
+mode: 1
+mode_confidence: 0.0
+release: Close Calls With Brick Walls / Mother of Mankind
+release_7digitalid: 765362
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (467,)
+segments_loudness_max: shape = (467,)
+segments_loudness_max_time: shape = (467,)
+segments_loudness_start: shape = (467,)
+segments_pitches: shape = (467, 12)
+segments_start: shape = (467,)
+segments_timbre: shape = (467, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.530663030144
+song_id: SOKVKEC12AB0186B68
+start_of_fade_out: 165.511
+tatums_confidence: shape = (660,)
+tatums_start: shape = (660,)
+tempo: 120.153
+time_signature: 4
+time_signature_confidence: 0.0
+title: Don't Call Me Andy
+track_7digitalid: 8472580
+track_id: TRAGSKH12903CCCAA9
+year: 2006

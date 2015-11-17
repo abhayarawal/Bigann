@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8956
+artist_familiarity: 0.867258942438
+artist_hotttnesss: 0.54776411101
+artist_id: ARHUC691187B9AD27F
+artist_latitude: nan
+artist_location: Long Beach, California
+artist_longitude: nan
+artist_mbid: 20883363-1ea4-4d72-ad72-c0e767038f3e
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Mars Volta
+artist_playmeid: -1
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 6bfd92c8e3b9387c6804ac25ca7c8a70
+bars_confidence: shape = (123,)
+bars_start: shape = (123,)
+beats_confidence: shape = (496,)
+beats_start: shape = (496,)
+danceability: 0.0
+duration: 266.47465
+end_of_fade_in: 2.322
+energy: 0.0
+key: 6
+key_confidence: 0.501
+loudness: -3.952
+mode: 0
+mode_confidence: 0.612
+release: Inertiatic Esp
+release_7digitalid: 354680
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (791,)
+segments_loudness_max: shape = (791,)
+segments_loudness_max_time: shape = (791,)
+segments_loudness_start: shape = (791,)
+segments_pitches: shape = (791, 12)
+segments_start: shape = (791,)
+segments_timbre: shape = (791, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.928616841889
+song_id: SOFDYGC12A6D4F9059
+start_of_fade_out: 260.412
+tatums_confidence: shape = (1487,)
+tatums_start: shape = (1487,)
+tempo: 112.486
+time_signature: 4
+time_signature_confidence: 0.529
+title: Inertiatic Esp
+track_7digitalid: 511408
+track_id: TRBBBUG128F148D65B
+year: 2003

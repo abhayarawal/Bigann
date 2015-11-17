@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 177675
+artist_familiarity: 0.560351641028
+artist_hotttnesss: 0.365026437742
+artist_id: AROSW2I1187FB44866
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d726a2b3-5c6b-4cae-8e79-81d52db9462b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sonora Carruseles
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 2f9df10828ea7a6e3f16e1213c0efb73
+bars_confidence: shape = (52,)
+bars_start: shape = (52,)
+beats_confidence: shape = (216,)
+beats_start: shape = (216,)
+danceability: 0.0
+duration: 220.78649
+end_of_fade_in: 0.27
+energy: 0.0
+key: 8
+key_confidence: 0.081
+loudness: -11.079
+mode: 0
+mode_confidence: 0.462
+release: Sonora Carruseles Espectacular
+release_7digitalid: 240167
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1247,)
+segments_loudness_max: shape = (1247,)
+segments_loudness_max_time: shape = (1247,)
+segments_loudness_start: shape = (1247,)
+segments_pitches: shape = (1247, 12)
+segments_start: shape = (1247,)
+segments_timbre: shape = (1247, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOINJHA12A8C134C60
+start_of_fade_out: 212.84
+tatums_confidence: shape = (1517,)
+tatums_start: shape = (1517,)
+tempo: 60.159
+time_signature: 4
+time_signature_confidence: 0.537
+title: Chela
+track_7digitalid: 2622150
+track_id: TRAKFPX128F4235FEF
+year: 1999

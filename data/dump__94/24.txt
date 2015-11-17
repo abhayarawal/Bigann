@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40894
+artist_familiarity: 0.655483478445
+artist_hotttnesss: 0.445216987441
+artist_id: ARXGASQ1187FB3C727
+artist_latitude: nan
+artist_location: New York, NY [Bronx]
+artist_longitude: nan
+artist_mbid: a5474ad8-1671-4ace-a5ea-82df42245bda
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Camp Lo
+artist_playmeid: 8382
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 33d90730d341a58e37d824fb68179d9d
+bars_confidence: shape = (97,)
+bars_start: shape = (97,)
+beats_confidence: shape = (489,)
+beats_start: shape = (489,)
+danceability: 0.0
+duration: 267.17995
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.243
+loudness: -10.481
+mode: 0
+mode_confidence: 0.314
+release: Another Heist
+release_7digitalid: 614267
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1262,)
+segments_loudness_max: shape = (1262,)
+segments_loudness_max_time: shape = (1262,)
+segments_loudness_start: shape = (1262,)
+segments_pitches: shape = (1262, 12)
+segments_start: shape = (1262,)
+segments_timbre: shape = (1262, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.400039656955
+song_id: SOPEXAV12A8C144164
+start_of_fade_out: 257.66
+tatums_confidence: shape = (1465,)
+tatums_start: shape = (1465,)
+tempo: 111.81
+time_signature: 5
+time_signature_confidence: 0.579
+title: Black Connect 3
+track_7digitalid: 6828645
+track_id: TRBGMXY128F92FC2B2
+year: 2009

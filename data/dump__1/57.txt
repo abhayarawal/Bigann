@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 74269
+artist_familiarity: 0.59341604878
+artist_hotttnesss: 0.395709547708
+artist_id: ARZEWUR1187FB53DC8
+artist_latitude: 50.45663
+artist_location: Belgica -- Namur, Namur/Ghent, East Flanders
+artist_longitude: 4.87137
+artist_mbid: 0be59867-0da4-4e45-9b64-728cdf25487c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Enthroned
+artist_playmeid: 55656
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: c5aa4f7222ee542e573441589d41ae86
+bars_confidence: shape = (77,)
+bars_start: shape = (77,)
+beats_confidence: shape = (544,)
+beats_start: shape = (544,)
+danceability: 0.0
+duration: 240.74404
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.735
+loudness: -4.878
+mode: 0
+mode_confidence: 0.838
+release: Pentagrammaton
+release_7digitalid: 785362
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (581,)
+segments_loudness_max: shape = (581,)
+segments_loudness_max_time: shape = (581,)
+segments_loudness_start: shape = (581,)
+segments_pitches: shape = (581, 12)
+segments_start: shape = (581,)
+segments_timbre: shape = (581, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.543052864199
+song_id: SOXCWTT12AC9075756
+start_of_fade_out: 240.744
+tatums_confidence: shape = (1088,)
+tatums_start: shape = (1088,)
+tempo: 135.535
+time_signature: 7
+time_signature_confidence: 0.583
+title: The Vitalized Shell
+track_7digitalid: 8688592
+track_id: TRAALNG12903D014E9
+year: 2010

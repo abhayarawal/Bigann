@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22010
+artist_familiarity: 0.583646434655
+artist_hotttnesss: 0.414589569693
+artist_id: ARZ1PTN1187B9967D9
+artist_latitude: 33.46725
+artist_location: Tioga Springs, TX
+artist_longitude: -96.91393
+artist_mbid: 675b7627-6b5d-4a46-a728-785cb24a299e
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Gene Autry
+artist_playmeid: 4052
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 1e07560ced074526332c824a3e858312
+bars_confidence: shape = (66,)
+bars_start: shape = (66,)
+beats_confidence: shape = (271,)
+beats_start: shape = (271,)
+danceability: 0.0
+duration: 155.53261
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.113
+loudness: -15.971
+mode: 1
+mode_confidence: 0.474
+release: Back In The Saddle Again
+release_7digitalid: 572262
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (409,)
+segments_loudness_max: shape = (409,)
+segments_loudness_max_time: shape = (409,)
+segments_loudness_start: shape = (409,)
+segments_pitches: shape = (409, 12)
+segments_start: shape = (409,)
+segments_timbre: shape = (409, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLIGLL12AB018C551
+start_of_fade_out: 149.072
+tatums_confidence: shape = (542,)
+tatums_start: shape = (542,)
+tempo: 107.718
+time_signature: 4
+time_signature_confidence: 0.008
+title: Blueberry Hill
+track_7digitalid: 6341264
+track_id: TRBCEAB12903CA10FC
+year: 1992

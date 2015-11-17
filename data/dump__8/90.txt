@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 123528
+artist_familiarity: 0.580971509957
+artist_hotttnesss: 0.348735929784
+artist_id: ARELFAE1187FB40D0A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4e01e834-c872-4c76-87ab-c2304efa5e7e
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Bally Sagoo
+artist_playmeid: 65999
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 55636109fbc4807998d5f696b561614d
+bars_confidence: shape = (171,)
+bars_start: shape = (171,)
+beats_confidence: shape = (689,)
+beats_start: shape = (689,)
+danceability: 0.0
+duration: 373.39383
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.527
+loudness: -12.392
+mode: 0
+mode_confidence: 0.507
+release: Wham Bam!! Bhangra Remixes
+release_7digitalid: 540707
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1889,)
+segments_loudness_max: shape = (1889,)
+segments_loudness_max_time: shape = (1889,)
+segments_loudness_start: shape = (1889,)
+segments_pitches: shape = (1889, 12)
+segments_start: shape = (1889,)
+segments_timbre: shape = (1889, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOAPUWG12AB017DE50
+start_of_fade_out: 359.282
+tatums_confidence: shape = (2753,)
+tatums_start: shape = (2753,)
+tempo: 111.901
+time_signature: 4
+time_signature_confidence: 0.854
+title: Mele Wich Ayee (Shaan Remix)
+track_7digitalid: 5987742
+track_id: TRACXRL128F9317EAE
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 240
+artist_familiarity: 0.619358945941
+artist_hotttnesss: 0.389107386526
+artist_id: ARP39OU1187FB4D543
+artist_latitude: nan
+artist_location: West London, England
+artist_longitude: nan
+artist_mbid: 617f2574-c2bd-4e39-9627-34fc9742a024
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Aswad
+artist_playmeid: 3348
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 1bb7b7343e1e9ea471cf8608a3dcd379
+bars_confidence: shape = (118,)
+bars_start: shape = (118,)
+beats_confidence: shape = (835,)
+beats_start: shape = (835,)
+danceability: 0.0
+duration: 258.42893
+end_of_fade_in: 3.21
+energy: 0.0
+key: 1
+key_confidence: 0.69
+loudness: -10.789
+mode: 0
+mode_confidence: 0.494
+release: Aswad vs. The Rhythm Riders
+release_7digitalid: 222209
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1268,)
+segments_loudness_max: shape = (1268,)
+segments_loudness_max_time: shape = (1268,)
+segments_loudness_start: shape = (1268,)
+segments_pitches: shape = (1268, 12)
+segments_start: shape = (1268,)
+segments_timbre: shape = (1268, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCJJDX12A8C13E745
+start_of_fade_out: 241.656
+tatums_confidence: shape = (1669,)
+tatums_start: shape = (1669,)
+tempo: 199.826
+time_signature: 7
+time_signature_confidence: 0.32
+title: Rudeboy
+track_7digitalid: 2429383
+track_id: TRAZZSV128F428EDC8
+year: 0

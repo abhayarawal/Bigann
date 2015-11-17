@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15897
+artist_familiarity: 0.315684874345
+artist_hotttnesss: 0.453850265331
+artist_id: ARSQDUN1187B98D7D7
+artist_latitude: nan
+artist_location: allentown Pennsylvania USA
+artist_longitude: nan
+artist_mbid: 4fa39dc8-c695-4e0e-ba04-92c63d99c9f9
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: EPMD
+artist_playmeid: 90149
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 93faec38a692a8a2b3dec2b29d0ead25
+bars_confidence: shape = (114,)
+bars_start: shape = (114,)
+beats_confidence: shape = (459,)
+beats_start: shape = (459,)
+danceability: 0.0
+duration: 159.26812
+end_of_fade_in: 0.31
+energy: 0.0
+key: 6
+key_confidence: 0.543
+loudness: -11.498
+mode: 0
+mode_confidence: 0.273
+release: Business As Usual
+release_7digitalid: 47639
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (742,)
+segments_loudness_max: shape = (742,)
+segments_loudness_max_time: shape = (742,)
+segments_loudness_start: shape = (742,)
+segments_pitches: shape = (742, 12)
+segments_start: shape = (742,)
+segments_timbre: shape = (742, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.476248227291
+song_id: SOZLLLT12A3F1EA275
+start_of_fade_out: 159.268
+tatums_confidence: shape = (918,)
+tatums_start: shape = (918,)
+tempo: 173.423
+time_signature: 4
+time_signature_confidence: 0.918
+title: Mr. Bozack
+track_7digitalid: 510705
+track_id: TRAHVWT128F148D428
+year: 1990

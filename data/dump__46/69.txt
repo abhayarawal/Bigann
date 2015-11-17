@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 288538
+artist_familiarity: 0.441586733214
+artist_hotttnesss: 0.279515479757
+artist_id: AREB9421187FB458EF
+artist_latitude: 35.472
+artist_location: Oklahoma City, OK
+artist_longitude: -97.52033
+artist_mbid: ec45b4bf-0f5c-41df-ab2b-5454bf292a10
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tommy Overstreet
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 7a7341960a6b8f9419e230688e6f1d83
+bars_confidence: shape = (64,)
+bars_start: shape = (64,)
+beats_confidence: shape = (260,)
+beats_start: shape = (260,)
+danceability: 0.0
+duration: 169.22077
+end_of_fade_in: 0.073
+energy: 0.0
+key: 5
+key_confidence: 0.669
+loudness: -16.735
+mode: 1
+mode_confidence: 0.525
+release: The Best of Tommy Overstreet
+release_7digitalid: 673803
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (547,)
+segments_loudness_max: shape = (547,)
+segments_loudness_max_time: shape = (547,)
+segments_loudness_start: shape = (547,)
+segments_pitches: shape = (547, 12)
+segments_start: shape = (547,)
+segments_timbre: shape = (547, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBRJMH12AB018B853
+start_of_fade_out: 156.305
+tatums_confidence: shape = (520,)
+tatums_start: shape = (520,)
+tempo: 93.72
+time_signature: 4
+time_signature_confidence: 0.38
+title: If I Miss You Again Tonight
+track_7digitalid: 7470547
+track_id: TRAPXDK12903CC631E
+year: 0

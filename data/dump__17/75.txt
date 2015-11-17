@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2124
+artist_familiarity: 0.632592419749
+artist_hotttnesss: 0.497690506998
+artist_id: ARGIABO1187FB4B3B5
+artist_latitude: 35.32689
+artist_location: Robbinsville, NC
+artist_longitude: -83.80489
+artist_mbid: f5d7d748-256e-4875-a065-78cf2f1e3d39
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ronnie Milsap
+artist_playmeid: 2939
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 6cc55fbfde370453952853e9078f4293
+bars_confidence: shape = (70,)
+bars_start: shape = (70,)
+beats_confidence: shape = (284,)
+beats_start: shape = (284,)
+danceability: 0.0
+duration: 151.37914
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.0
+loudness: -12.581
+mode: 1
+mode_confidence: 0.257
+release: Live
+release_7digitalid: 251858
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (490,)
+segments_loudness_max: shape = (490,)
+segments_loudness_max_time: shape = (490,)
+segments_loudness_start: shape = (490,)
+segments_pitches: shape = (490, 12)
+segments_start: shape = (490,)
+segments_timbre: shape = (490, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHCBTN12A8C134568
+start_of_fade_out: 148.225
+tatums_confidence: shape = (567,)
+tatums_start: shape = (567,)
+tempo: 112.88
+time_signature: 4
+time_signature_confidence: 0.375
+title: Don't You Know How Much I Love You
+track_7digitalid: 2700446
+track_id: TRAGAVF128F424829B
+year: 1983

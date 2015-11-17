@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23538
+artist_familiarity: 0.631665134743
+artist_hotttnesss: 0.419387342451
+artist_id: ARGBNIX11F50C50A01
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Anna Vissi
+artist_playmeid: 27404
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 23ffa46acd76df4ff301457b6b087d42
+bars_confidence: shape = (204,)
+bars_start: shape = (204,)
+beats_confidence: shape = (820,)
+beats_start: shape = (820,)
+danceability: 0.0
+duration: 296.30649
+end_of_fade_in: 0.154
+energy: 0.0
+key: 11
+key_confidence: 0.002
+loudness: -12.712
+mode: 1
+mode_confidence: 0.209
+release: Music Guide - Athens
+release_7digitalid: 391698
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1157,)
+segments_loudness_max: shape = (1157,)
+segments_loudness_max_time: shape = (1157,)
+segments_loudness_start: shape = (1157,)
+segments_pitches: shape = (1157, 12)
+segments_start: shape = (1157,)
+segments_timbre: shape = (1157, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.527818136556
+song_id: SOMZIPX12B34F32E77
+start_of_fade_out: 287.01
+tatums_confidence: shape = (1639,)
+tatums_start: shape = (1639,)
+tempo: 166.891
+time_signature: 4
+time_signature_confidence: 0.799
+title: Den Me Agapas
+track_7digitalid: 4348688
+track_id: TRAQMLV128F92F33CB
+year: 0

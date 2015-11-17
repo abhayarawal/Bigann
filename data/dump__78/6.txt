@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3501
+artist_familiarity: 0.842636333464
+artist_hotttnesss: 0.583530838294
+artist_id: ARWK5QH1187B9A9B7F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 596ffa74-3d08-44ef-b113-765d43d12738
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Justin Timberlake
+artist_playmeid: 837
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: e29381c29e532b1e18de7001eef1b40c
+bars_confidence: shape = (93,)
+bars_start: shape = (93,)
+beats_confidence: shape = (385,)
+beats_start: shape = (385,)
+danceability: 0.0
+duration: 261.27628
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.53
+loudness: -7.761
+mode: 1
+mode_confidence: 0.498
+release: The Soundtrack
+release_7digitalid: 137817
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (981,)
+segments_loudness_max: shape = (981,)
+segments_loudness_max_time: shape = (981,)
+segments_loudness_start: shape = (981,)
+segments_pitches: shape = (981, 12)
+segments_start: shape = (981,)
+segments_timbre: shape = (981, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.245668090785
+song_id: SOOHWCX12A8AE48B59
+start_of_fade_out: 261.276
+tatums_confidence: shape = (769,)
+tatums_start: shape = (769,)
+tempo: 86.964
+time_signature: 4
+time_signature_confidence: 1.0
+title: Love Don't Love Me (Justin Timberlake) (Amended Version)
+track_7digitalid: 1430467
+track_id: TRBAPZQ128F4240B93
+year: 0

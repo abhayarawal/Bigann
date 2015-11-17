@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3441
+artist_familiarity: 0.508731241151
+artist_hotttnesss: 0.332930951194
+artist_id: ARRVUWA1187B9A0FE2
+artist_latitude: 21.51102
+artist_location: Cuba
+artist_longitude: -77.80679
+artist_mbid: be725fe7-b2e7-4c66-ad1d-6612055684ab
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Orquesta Aragon
+artist_playmeid: 16692
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: aba6168aa299df61a98ce3745e8422ea
+bars_confidence: shape = (305,)
+bars_start: shape = (305,)
+beats_confidence: shape = (305,)
+beats_start: shape = (305,)
+danceability: 0.0
+duration: 160.54812
+end_of_fade_in: 0.189
+energy: 0.0
+key: 0
+key_confidence: 0.328
+loudness: -9.807
+mode: 1
+mode_confidence: 0.407
+release: The 70th anniversary album
+release_7digitalid: 554317
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (527,)
+segments_loudness_max: shape = (527,)
+segments_loudness_max_time: shape = (527,)
+segments_loudness_start: shape = (527,)
+segments_pitches: shape = (527, 12)
+segments_start: shape = (527,)
+segments_timbre: shape = (527, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMHCGO12AB01810C6
+start_of_fade_out: 154.749
+tatums_confidence: shape = (611,)
+tatums_start: shape = (611,)
+tempo: 116.683
+time_signature: 1
+time_signature_confidence: 0.0
+title: Lo Decidio
+track_7digitalid: 6128491
+track_id: TRBAYDT128F9339F5F
+year: 0

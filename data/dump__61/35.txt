@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 274675
+artist_familiarity: 0.361362812399
+artist_hotttnesss: 0.307675417079
+artist_id: ARRBT8X1187FB3D242
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e7a9cdbd-528b-4aac-90e6-a42c19e86155
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Eddie and the Subtitles
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 6fdf62466fa05bff947cea648bfdaf98
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (358,)
+beats_start: shape = (358,)
+danceability: 0.0
+duration: 143.98649
+end_of_fade_in: 0.206
+energy: 0.0
+key: 1
+key_confidence: 0.255
+loudness: -14.489
+mode: 0
+mode_confidence: 0.406
+release: Fuck You Eddie!
+release_7digitalid: 478359
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (528,)
+segments_loudness_max: shape = (528,)
+segments_loudness_max_time: shape = (528,)
+segments_loudness_start: shape = (528,)
+segments_pitches: shape = (528, 12)
+segments_start: shape = (528,)
+segments_timbre: shape = (528, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOAWYUA12A8C144D4D
+start_of_fade_out: 138.228
+tatums_confidence: shape = (716,)
+tatums_start: shape = (716,)
+tempo: 154.072
+time_signature: 4
+time_signature_confidence: 0.0
+title: Louie Louie
+track_7digitalid: 5309837
+track_id: TRAUYYW128F92E9E8F
+year: 0

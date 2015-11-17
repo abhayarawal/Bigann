@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 201237
+artist_familiarity: 0.494911483413
+artist_hotttnesss: 0.307188709041
+artist_id: AR1WLWQ1187B989B85
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bcf9e560-e155-4bbf-a929-bb6a55f7e386
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dealership
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 1f567b3e3cf67ef36277641f95bc6210
+bars_confidence: shape = (41,)
+bars_start: shape = (41,)
+beats_confidence: shape = (165,)
+beats_start: shape = (165,)
+danceability: 0.0
+duration: 103.52281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.691
+loudness: -7.403
+mode: 1
+mode_confidence: 0.555
+release: Action / Adventure
+release_7digitalid: 484720
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (321,)
+segments_loudness_max: shape = (321,)
+segments_loudness_max_time: shape = (321,)
+segments_loudness_start: shape = (321,)
+segments_pitches: shape = (321, 12)
+segments_start: shape = (321,)
+segments_timbre: shape = (321, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.355139302203
+song_id: SOFPYWI12AB017E7C0
+start_of_fade_out: 91.696
+tatums_confidence: shape = (330,)
+tatums_start: shape = (330,)
+tempo: 107.002
+time_signature: 4
+time_signature_confidence: 0.518
+title: I Don't Want Your Love
+track_7digitalid: 5375290
+track_id: TRAMOLS128F92F99E3
+year: 2004

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 215717
+artist_familiarity: 0.380201192629
+artist_hotttnesss: 0.212531089504
+artist_id: ARA03M61187B996945
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9ee09609-7b0d-4888-8a4d-291f9ab29528
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dixieland Jug Blowers
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 847a67347604255ab5f4739e97dd4c97
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (404,)
+beats_start: shape = (404,)
+danceability: 0.0
+duration: 193.56689
+end_of_fade_in: 0.485
+energy: 0.0
+key: 5
+key_confidence: 0.179
+loudness: -14.175
+mode: 1
+mode_confidence: 0.3
+release: Ruckus Juice & Chittlins_ Vol. 1
+release_7digitalid: 599473
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (810,)
+segments_loudness_max: shape = (810,)
+segments_loudness_max_time: shape = (810,)
+segments_loudness_start: shape = (810,)
+segments_pitches: shape = (810, 12)
+segments_start: shape = (810,)
+segments_timbre: shape = (810, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOLCQTH12AC468C57C
+start_of_fade_out: 189.701
+tatums_confidence: shape = (808,)
+tatums_start: shape = (808,)
+tempo: 126.881
+time_signature: 4
+time_signature_confidence: 0.778
+title: Banjoreno
+track_7digitalid: 6652203
+track_id: TRAYHEC12903CEC366
+year: 0

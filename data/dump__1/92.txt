@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 95400
+artist_familiarity: 0.480047819371
+artist_hotttnesss: 0.306603641297
+artist_id: ARTB56G11C8A41569D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 85e9f066-26f8-4e75-9894-b549a9880255
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sven Tasnadi
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 34daf4cc07595feaada8ca4abc96c4c4
+bars_confidence: shape = (287,)
+bars_start: shape = (287,)
+beats_confidence: shape = (1151,)
+beats_start: shape = (1151,)
+danceability: 0.0
+duration: 557.26975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.259
+loudness: -12.26
+mode: 1
+mode_confidence: 0.462
+release: Break The Night
+release_7digitalid: 515188
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (2890,)
+segments_loudness_max: shape = (2890,)
+segments_loudness_max_time: shape = (2890,)
+segments_loudness_start: shape = (2890,)
+segments_pitches: shape = (2890, 12)
+segments_start: shape = (2890,)
+segments_timbre: shape = (2890, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPNRDT12AB018A2D8
+start_of_fade_out: 508.54
+tatums_confidence: shape = (2303,)
+tatums_start: shape = (2303,)
+tempo: 123.993
+time_signature: 4
+time_signature_confidence: 0.302
+title: Charisma
+track_7digitalid: 5706978
+track_id: TRAAORY128F934984F
+year: 0

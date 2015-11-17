@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4822
+artist_familiarity: 0.57810362972
+artist_hotttnesss: 0.414892612437
+artist_id: AR1RHCO1187B9AF0BF
+artist_latitude: 37.77916
+artist_location: San Francisco, CA
+artist_longitude: -122.42005
+artist_mbid: 05b5488d-7141-4b21-819b-d4713abf2a98
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Vince Guaraldi
+artist_playmeid: 8349
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: c73281f87622a23be51a1f9a8b06b651
+bars_confidence: shape = (135,)
+bars_start: shape = (135,)
+beats_confidence: shape = (408,)
+beats_start: shape = (408,)
+danceability: 0.0
+duration: 201.42975
+end_of_fade_in: 0.41
+energy: 0.0
+key: 9
+key_confidence: 0.434
+loudness: -18.7
+mode: 0
+mode_confidence: 0.449
+release: The Latin Side Of Vince Guaraldi
+release_7digitalid: 459993
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (718,)
+segments_loudness_max: shape = (718,)
+segments_loudness_max_time: shape = (718,)
+segments_loudness_start: shape = (718,)
+segments_pitches: shape = (718, 12)
+segments_start: shape = (718,)
+segments_timbre: shape = (718, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLJYHM12AB0186497
+start_of_fade_out: 192.435
+tatums_confidence: shape = (817,)
+tatums_start: shape = (817,)
+tempo: 124.391
+time_signature: 3
+time_signature_confidence: 0.318
+title: Corcovado
+track_7digitalid: 5120485
+track_id: TRATTGP128F932854B
+year: 1964

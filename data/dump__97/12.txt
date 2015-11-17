@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 575485
+artist_familiarity: 0.467759065196
+artist_hotttnesss: 0.31876265849
+artist_id: ARHHEXT1269FCCF474
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Los Jaigüey
+artist_playmeid: -1
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: 7c4e935a14ee40f5a43a1a37fb0eb25f
+bars_confidence: shape = (148,)
+bars_start: shape = (148,)
+beats_confidence: shape = (595,)
+beats_start: shape = (595,)
+danceability: 0.0
+duration: 293.92934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.719
+loudness: -6.394
+mode: 1
+mode_confidence: 0.622
+release: Los Jaigüey
+release_7digitalid: 770850
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (958,)
+segments_loudness_max: shape = (958,)
+segments_loudness_max_time: shape = (958,)
+segments_loudness_start: shape = (958,)
+segments_pitches: shape = (958, 12)
+segments_start: shape = (958,)
+segments_timbre: shape = (958, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOUDXDX12AB018B942
+start_of_fade_out: 285.634
+tatums_confidence: shape = (1190,)
+tatums_start: shape = (1190,)
+tempo: 121.996
+time_signature: 4
+time_signature_confidence: 0.655
+title: Confiar Es Perder
+track_7digitalid: 8534338
+track_id: TRBHKQV12903CDBB98
+year: 0

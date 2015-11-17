@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 201908
+artist_familiarity: 0.465801588869
+artist_hotttnesss: 0.312848330943
+artist_id: ARZEHMQ1187B9950C0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 27e464ba-5b3f-4764-9519-c1bb0962c776
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Paulo Flores
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 9e4592a680e85e76b59125d448afa8d5
+bars_confidence: shape = (171,)
+bars_start: shape = (171,)
+beats_confidence: shape = (1208,)
+beats_start: shape = (1208,)
+danceability: 0.0
+duration: 337.08363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.457
+loudness: -7.775
+mode: 0
+mode_confidence: 0.393
+release: Live - Ao vivo
+release_7digitalid: 754269
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1397,)
+segments_loudness_max: shape = (1397,)
+segments_loudness_max_time: shape = (1397,)
+segments_loudness_start: shape = (1397,)
+segments_pitches: shape = (1397, 12)
+segments_start: shape = (1397,)
+segments_timbre: shape = (1397, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZRYQY12AB0188BE0
+start_of_fade_out: 331.564
+tatums_confidence: shape = (2416,)
+tatums_start: shape = (2416,)
+tempo: 218.093
+time_signature: 7
+time_signature_confidence: 1.0
+title: Poema do semba
+track_7digitalid: 8349942
+track_id: TRATZDT12903CAECE5
+year: 0

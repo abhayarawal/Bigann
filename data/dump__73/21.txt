@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30959
+artist_familiarity: 0.440042444858
+artist_hotttnesss: 0.319119601789
+artist_id: ARPN0NC1187B991591
+artist_latitude: 33.51711
+artist_location: Greenwood, MS
+artist_longitude: -90.18043
+artist_mbid: 017151db-3920-4b4d-ab17-c8c5b6616648
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Guitar Slim
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 75524399fcf4200ec9fef5cb1a92103d
+bars_confidence: shape = (75,)
+bars_start: shape = (75,)
+beats_confidence: shape = (234,)
+beats_start: shape = (234,)
+danceability: 0.0
+duration: 151.64036
+end_of_fade_in: 0.194
+energy: 0.0
+key: 8
+key_confidence: 0.162
+loudness: -18.662
+mode: 1
+mode_confidence: 0.289
+release: New Orleans Guitar_ CD D
+release_7digitalid: 142807
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (441,)
+segments_loudness_max: shape = (441,)
+segments_loudness_max_time: shape = (441,)
+segments_loudness_start: shape = (441,)
+segments_pitches: shape = (441, 12)
+segments_start: shape = (441,)
+segments_timbre: shape = (441, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOISUCV12A8C133542
+start_of_fade_out: 145.212
+tatums_confidence: shape = (468,)
+tatums_start: shape = (468,)
+tempo: 95.643
+time_signature: 3
+time_signature_confidence: 0.887
+title: When The Sun Goes Down
+track_7digitalid: 1488583
+track_id: TRAZACR128F424CBEB
+year: 0

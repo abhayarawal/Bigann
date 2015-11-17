@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 156345
+artist_familiarity: 0.747061426955
+artist_hotttnesss: 0.327526078019
+artist_id: AR8J63I119B8668504
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1cb731d7-fee7-4c07-845d-ab60c8ae122f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Red I Flight
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 5b78628f71409641a20300ac42bbbfc0
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (355,)
+beats_start: shape = (355,)
+danceability: 0.0
+duration: 179.01669
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.398
+loudness: -4.852
+mode: 1
+mode_confidence: 0.506
+release: The Years
+release_7digitalid: 212771
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (536,)
+segments_loudness_max: shape = (536,)
+segments_loudness_max_time: shape = (536,)
+segments_loudness_start: shape = (536,)
+segments_pitches: shape = (536, 12)
+segments_start: shape = (536,)
+segments_timbre: shape = (536, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVMWTZ12A8C136E39
+start_of_fade_out: 176.39
+tatums_confidence: shape = (1064,)
+tatums_start: shape = (1064,)
+tempo: 120.617
+time_signature: 4
+time_signature_confidence: 0.737
+title: Rock Biter (Album Version)
+track_7digitalid: 2316638
+track_id: TRAJSJD128F4277B75
+year: 2008

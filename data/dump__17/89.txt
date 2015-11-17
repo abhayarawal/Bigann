@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15061
+artist_familiarity: 0.510660236281
+artist_hotttnesss: 0.333770845165
+artist_id: ARTK5LU1187B9A654C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d83529bf-6d3a-4c85-9c5f-e7c991c19956
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Michael Gettel
+artist_playmeid: 61197
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 17746ca508ba5ae10576e691b961460f
+bars_confidence: shape = (137,)
+bars_start: shape = (137,)
+beats_confidence: shape = (553,)
+beats_start: shape = (553,)
+danceability: 0.0
+duration: 330.97098
+end_of_fade_in: 2.148
+energy: 0.0
+key: 7
+key_confidence: 0.369
+loudness: -16.934
+mode: 1
+mode_confidence: 0.406
+release: San Juan Suite/San Juan Suite II: Narada Classics
+release_7digitalid: 150863
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1093,)
+segments_loudness_max: shape = (1093,)
+segments_loudness_max_time: shape = (1093,)
+segments_loudness_start: shape = (1093,)
+segments_pitches: shape = (1093, 12)
+segments_start: shape = (1093,)
+segments_timbre: shape = (1093, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOMLFVN12A8C136135
+start_of_fade_out: 315.902
+tatums_confidence: shape = (2214,)
+tatums_start: shape = (2214,)
+tempo: 101.529
+time_signature: 4
+time_signature_confidence: 0.406
+title: Safe Passage
+track_7digitalid: 1574806
+track_id: TRAGCSE128F425FE4B
+year: 1996

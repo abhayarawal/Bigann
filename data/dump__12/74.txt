@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16859
+artist_familiarity: 0.516873683434
+artist_hotttnesss: 0.310600343688
+artist_id: AR4GP451187FB3F2BB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 771bd654-80dd-44a0-bb77-5e09947c9082
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Andy Griffith
+artist_playmeid: 20761
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: fa8193401367002ac8f9923094708468
+bars_confidence: shape = (71,)
+bars_start: shape = (71,)
+beats_confidence: shape = (286,)
+beats_start: shape = (286,)
+danceability: 0.0
+duration: 179.93098
+end_of_fade_in: 3.094
+energy: 0.0
+key: 2
+key_confidence: 0.396
+loudness: -16.334
+mode: 1
+mode_confidence: 0.568
+release: Somebody Bigger Than You And I
+release_7digitalid: 286538
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (549,)
+segments_loudness_max: shape = (549,)
+segments_loudness_max_time: shape = (549,)
+segments_loudness_start: shape = (549,)
+segments_pitches: shape = (549, 12)
+segments_start: shape = (549,)
+segments_timbre: shape = (549, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOQEUVL12A8C133AC2
+start_of_fade_out: 173.105
+tatums_confidence: shape = (857,)
+tatums_start: shape = (857,)
+tempo: 100.018
+time_signature: 4
+time_signature_confidence: 0.0
+title: Just A Closer Walk With Thee
+track_7digitalid: 3214921
+track_id: TRAEGDO128F42705BF
+year: 0

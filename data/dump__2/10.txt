@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 24981
+artist_familiarity: 0.916058238483
+artist_hotttnesss: 0.53540837923
+artist_id: ARKZJ301187FB521B2
+artist_latitude: nan
+artist_location: LDN
+artist_longitude: nan
+artist_mbid: 6e0c7c0e-cba5-4c2c-a652-38f71ef5785d
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Lily Allen
+artist_playmeid: 4702
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 0d0956a7419bbee27fa80c08b3c73c86
+bars_confidence: shape = (170,)
+bars_start: shape = (170,)
+beats_confidence: shape = (684,)
+beats_start: shape = (684,)
+danceability: 0.0
+duration: 264.69832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.594
+loudness: -5.871
+mode: 1
+mode_confidence: 0.509
+release: Alright_ Still (Deluxe)
+release_7digitalid: 435050
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (896,)
+segments_loudness_max: shape = (896,)
+segments_loudness_max_time: shape = (896,)
+segments_loudness_start: shape = (896,)
+segments_pitches: shape = (896, 12)
+segments_start: shape = (896,)
+segments_timbre: shape = (896, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.56698844404
+song_id: SOFJNQR12A6D4FAE92
+start_of_fade_out: 251.141
+tatums_confidence: shape = (684,)
+tatums_start: shape = (684,)
+tempo: 156.097
+time_signature: 4
+time_signature_confidence: 1.0
+title: U Killed It
+track_7digitalid: 4846225
+track_id: TRAAQCK128F92E8C33
+year: 2006

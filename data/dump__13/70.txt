@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41212
+artist_familiarity: 0.611381594879
+artist_hotttnesss: 0.445321878275
+artist_id: ARSZIBW1187B994053
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f6580b26-77f7-4a7b-8513-6db0476e8f21
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: James Newton Howard
+artist_playmeid: 7886
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 192d40207e53d84e01b7c9a0c7f0a5e9
+bars_confidence: shape = (156,)
+bars_start: shape = (156,)
+beats_confidence: shape = (156,)
+beats_start: shape = (156,)
+danceability: 0.0
+duration: 110.52363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.359
+loudness: -9.516
+mode: 0
+mode_confidence: 0.47
+release: Nanny McPhee & The Big Bang
+release_7digitalid: 778010
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (265,)
+segments_loudness_max: shape = (265,)
+segments_loudness_max_time: shape = (265,)
+segments_loudness_start: shape = (265,)
+segments_pitches: shape = (265, 12)
+segments_start: shape = (265,)
+segments_timbre: shape = (265, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCUGVI12AC468B002
+start_of_fade_out: 110.524
+tatums_confidence: shape = (311,)
+tatums_start: shape = (311,)
+tempo: 84.969
+time_signature: 1
+time_signature_confidence: 0.0
+title: The Burp Heard 'Round The World
+track_7digitalid: 8608721
+track_id: TRAEOVG12903CEDD3A
+year: 2010

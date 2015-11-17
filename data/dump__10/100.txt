@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12221
+artist_familiarity: 0.72486448152
+artist_hotttnesss: 0.524449470713
+artist_id: ARX2DLI1187FB4DD03
+artist_latitude: nan
+artist_location: Sydney, Australia
+artist_longitude: nan
+artist_mbid: f5b8ea5f-c269-45dd-9936-1fedf3c56851
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: The Presets
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: b9483565c1247bd811585f01ec6c915e
+bars_confidence: shape = (185,)
+bars_start: shape = (185,)
+beats_confidence: shape = (742,)
+beats_start: shape = (742,)
+danceability: 0.0
+duration: 351.32036
+end_of_fade_in: 2.914
+energy: 0.0
+key: 2
+key_confidence: 0.456
+loudness: -7.168
+mode: 1
+mode_confidence: 0.497
+release: If I Know You
+release_7digitalid: 428296
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1560,)
+segments_loudness_max: shape = (1560,)
+segments_loudness_max_time: shape = (1560,)
+segments_loudness_start: shape = (1560,)
+segments_pitches: shape = (1560, 12)
+segments_start: shape = (1560,)
+segments_timbre: shape = (1560, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJORVL12A8C143582
+start_of_fade_out: 344.752
+tatums_confidence: shape = (1483,)
+tatums_start: shape = (1483,)
+tempo: 128.976
+time_signature: 4
+time_signature_confidence: 0.0
+title: If I Know You
+track_7digitalid: 4781460
+track_id: TRADQJL128F92D9957
+year: 2008

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 36252
+artist_familiarity: 0.714201447209
+artist_hotttnesss: 0.496123346043
+artist_id: ARJVTRE1187B9959C0
+artist_latitude: 40.71455
+artist_location: London, England
+artist_longitude: -74.00712
+artist_mbid: 3cc3942d-bbfc-446d-a8f4-f0e1e238ca86
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Foghat
+artist_playmeid: 11821
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: a7985d36376516d84a0f8b85ef0bffc3
+bars_confidence: shape = (171,)
+bars_start: shape = (171,)
+beats_confidence: shape = (685,)
+beats_start: shape = (685,)
+danceability: 0.0
+duration: 300.14649
+end_of_fade_in: 0.072
+energy: 0.0
+key: 6
+key_confidence: 0.548
+loudness: -5.693
+mode: 0
+mode_confidence: 0.581
+release: Tight Shoes
+release_7digitalid: 62347
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1084,)
+segments_loudness_max: shape = (1084,)
+segments_loudness_max_time: shape = (1084,)
+segments_loudness_start: shape = (1084,)
+segments_pitches: shape = (1084, 12)
+segments_start: shape = (1084,)
+segments_timbre: shape = (1084, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOJLMEY12A6D4FB027
+start_of_fade_out: 288.311
+tatums_confidence: shape = (1369,)
+tatums_start: shape = (1369,)
+tempo: 137.804
+time_signature: 4
+time_signature_confidence: 0.862
+title: Dead End Street
+track_7digitalid: 646366
+track_id: TRBHJAY128F14A9061
+year: 1980

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1020
+artist_familiarity: 0.629399857238
+artist_hotttnesss: 0.345269234911
+artist_id: ARE2XN81187B98BB83
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: eab89147-d970-49c4-82a3-eff4440a81e9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Alexis HK
+artist_playmeid: -1
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 26e6303a0288df5b4775dc32145314aa
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (322,)
+beats_start: shape = (322,)
+danceability: 0.0
+duration: 167.28771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.064
+loudness: -9.885
+mode: 0
+mode_confidence: 0.217
+release: Belle Ville
+release_7digitalid: 150319
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (765,)
+segments_loudness_max: shape = (765,)
+segments_loudness_max_time: shape = (765,)
+segments_loudness_start: shape = (765,)
+segments_pitches: shape = (765, 12)
+segments_start: shape = (765,)
+segments_timbre: shape = (765, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SOTVHNP12A8C1376BF
+start_of_fade_out: 162.244
+tatums_confidence: shape = (644,)
+tatums_start: shape = (644,)
+tempo: 116.099
+time_signature: 4
+time_signature_confidence: 0.945
+title: Le Diable
+track_7digitalid: 1567543
+track_id: TRAKWMU128F425E481
+year: 0

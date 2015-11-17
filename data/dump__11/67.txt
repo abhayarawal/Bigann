@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 48295
+artist_familiarity: 0.55757105921
+artist_hotttnesss: 0.306947608643
+artist_id: AR1KMPF1187B99AA98
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cc57dbcb-1263-4039-9045-1ca7dbac4429
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lara
+artist_playmeid: 9598
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: f40ca71df71ff505e4551427c25f7277
+bars_confidence: shape = (106,)
+bars_start: shape = (106,)
+beats_confidence: shape = (427,)
+beats_start: shape = (427,)
+danceability: 0.0
+duration: 211.90485
+end_of_fade_in: 2.218
+energy: 0.0
+key: 1
+key_confidence: 0.769
+loudness: -6.255
+mode: 1
+mode_confidence: 0.819
+release: Wahnsinn
+release_7digitalid: 396837
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (748,)
+segments_loudness_max: shape = (748,)
+segments_loudness_max_time: shape = (748,)
+segments_loudness_start: shape = (748,)
+segments_pitches: shape = (748, 12)
+segments_start: shape = (748,)
+segments_timbre: shape = (748, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONIOEX12AB017D541
+start_of_fade_out: 206.582
+tatums_confidence: shape = (854,)
+tatums_start: shape = (854,)
+tempo: 124.014
+time_signature: 4
+time_signature_confidence: 0.754
+title: Nur eine Nacht mit Dir
+track_7digitalid: 4405777
+track_id: TRADVYU128F92FE96F
+year: 2009

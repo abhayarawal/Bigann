@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 493
+artist_familiarity: 0.629463245187
+artist_hotttnesss: 0.424791235571
+artist_id: ARJPZSG1187FB3E985
+artist_latitude: 18.01571
+artist_location: Kingston, Jamaica
+artist_longitude: -76.79731
+artist_mbid: 38d64df7-5b7f-42ca-9d98-9541640ca84f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: John Holt
+artist_playmeid: 64632
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 12db8ac7933e9c4a75dbb956000f1990
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (471,)
+beats_start: shape = (471,)
+danceability: 0.0
+duration: 170.50077
+end_of_fade_in: 0.125
+energy: 0.0
+key: 8
+key_confidence: 0.708
+loudness: -13.898
+mode: 1
+mode_confidence: 0.548
+release: John Holt's 21 Miles From You
+release_7digitalid: 349121
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (637,)
+segments_loudness_max: shape = (637,)
+segments_loudness_max_time: shape = (637,)
+segments_loudness_start: shape = (637,)
+segments_pitches: shape = (637, 12)
+segments_start: shape = (637,)
+segments_timbre: shape = (637, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCYTFB12AB017F7CE
+start_of_fade_out: 165.03
+tatums_confidence: shape = (942,)
+tatums_start: shape = (942,)
+tempo: 166.05
+time_signature: 4
+time_signature_confidence: 0.281
+title: The Tide Is High - Original
+track_7digitalid: 3897276
+track_id: TRACOTY128F930BCFA
+year: 0

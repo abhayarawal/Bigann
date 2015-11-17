@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 820
+artist_familiarity: 0.77081365167
+artist_hotttnesss: 0.477260389684
+artist_id: ARSC6WR1187FB40B18
+artist_latitude: 46.91008
+artist_location: Jamestown, ND
+artist_longitude: -98.70853
+artist_mbid: 5a2463af-eef0-4a22-bc8f-5865fbe9c78e
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Peggy Lee
+artist_playmeid: 9390
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: eacdcdbc8d3f0444b08976cde3516548
+bars_confidence: shape = (74,)
+bars_start: shape = (74,)
+beats_confidence: shape = (299,)
+beats_start: shape = (299,)
+danceability: 0.0
+duration: 134.81751
+end_of_fade_in: 0.351
+energy: 0.0
+key: 0
+key_confidence: 0.659
+loudness: -9.152
+mode: 1
+mode_confidence: 0.635
+release: Blues Cross Country
+release_7digitalid: 24811
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (432,)
+segments_loudness_max: shape = (432,)
+segments_loudness_max_time: shape = (432,)
+segments_loudness_start: shape = (432,)
+segments_pitches: shape = (432, 12)
+segments_start: shape = (432,)
+segments_timbre: shape = (432, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHWCXW12A6D4F801E
+start_of_fade_out: 129.277
+tatums_confidence: shape = (598,)
+tatums_start: shape = (598,)
+tempo: 139.301
+time_signature: 4
+time_signature_confidence: 0.741
+title: St. Louis Blues (24-Bit Digitally Remastered 99)
+track_7digitalid: 263522
+track_id: TRAVWAA128F145DE49
+year: 0

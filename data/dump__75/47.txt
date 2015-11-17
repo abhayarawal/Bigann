@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8472
+artist_familiarity: 0.379218060566
+artist_hotttnesss: 0.29478990364
+artist_id: ARM8BKO1187FB3AD47
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6b2e7187-9114-4050-a7af-eba918aebde8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Carl Crack
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 248e4da1b56b75dbf137625e5a2bf977
+bars_confidence: shape = (47,)
+bars_start: shape = (47,)
+beats_confidence: shape = (145,)
+beats_start: shape = (145,)
+danceability: 0.0
+duration: 78.96771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.13
+loudness: -14.159
+mode: 1
+mode_confidence: 0.553
+release: Black Ark EP
+release_7digitalid: 505410
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (168,)
+segments_loudness_max: shape = (168,)
+segments_loudness_max_time: shape = (168,)
+segments_loudness_start: shape = (168,)
+segments_pitches: shape = (168, 12)
+segments_start: shape = (168,)
+segments_timbre: shape = (168, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.299877488274
+song_id: SOXDCWZ12AB0184FF6
+start_of_fade_out: 78.968
+tatums_confidence: shape = (289,)
+tatums_start: shape = (289,)
+tempo: 107.054
+time_signature: 3
+time_signature_confidence: 1.0
+title: Sonnenfreunde
+track_7digitalid: 5592173
+track_id: TRAZTJP128F932D96B
+year: 1998

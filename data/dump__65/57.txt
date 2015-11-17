@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16331
+artist_familiarity: 0.736677413341
+artist_hotttnesss: 0.526182556347
+artist_id: ARNDB1X1187B990AA0
+artist_latitude: 34.05349
+artist_location: Venice, CA
+artist_longitude: -118.24532
+artist_mbid: e9e2a634-984f-4c10-bf7b-7970179e1ef1
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Suicidal Tendencies
+artist_playmeid: 12797
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 3d772db82f1d31cbfecd00aa82cf7daf
+bars_confidence: shape = (172,)
+bars_start: shape = (172,)
+beats_confidence: shape = (692,)
+beats_start: shape = (692,)
+danceability: 0.0
+duration: 312.55465
+end_of_fade_in: 2.003
+energy: 0.0
+key: 11
+key_confidence: 0.166
+loudness: -6.61
+mode: 1
+mode_confidence: 0.527
+release: The Art Of Rebellion
+release_7digitalid: 282042
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1024,)
+segments_loudness_max: shape = (1024,)
+segments_loudness_max_time: shape = (1024,)
+segments_loudness_start: shape = (1024,)
+segments_pitches: shape = (1024, 12)
+segments_start: shape = (1024,)
+segments_timbre: shape = (1024, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.704504079508
+song_id: SOCUXEW12A58A7CA5B
+start_of_fade_out: 302.364
+tatums_confidence: shape = (1384,)
+tatums_start: shape = (1384,)
+tempo: 130.345
+time_signature: 4
+time_signature_confidence: 0.0
+title: Monopoly On Sorrow
+track_7digitalid: 3140567
+track_id: TRAWJPF128F42626DB
+year: 1992

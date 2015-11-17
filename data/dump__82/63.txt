@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 53100
+artist_familiarity: 0.513829587299
+artist_hotttnesss: 0.343185045273
+artist_id: AR8YV1I1187FB45D2B
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 1e9aa4bd-9689-4535-9665-7f661d63d1c8
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Rory Block
+artist_playmeid: 40123
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: f74964c8ea40feaba30796e94e50b675
+bars_confidence: shape = (36,)
+bars_start: shape = (36,)
+beats_confidence: shape = (149,)
+beats_start: shape = (149,)
+danceability: 0.0
+duration: 111.46404
+end_of_fade_in: 0.224
+energy: 0.0
+key: 2
+key_confidence: 0.203
+loudness: -16.037
+mode: 1
+mode_confidence: 0.355
+release: The Early Tapes 1975-1976
+release_7digitalid: 572855
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (344,)
+segments_loudness_max: shape = (344,)
+segments_loudness_max_time: shape = (344,)
+segments_loudness_start: shape = (344,)
+segments_pitches: shape = (344, 12)
+segments_start: shape = (344,)
+segments_timbre: shape = (344, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOYRPRE12AB018B083
+start_of_fade_out: 99.706
+tatums_confidence: shape = (298,)
+tatums_start: shape = (298,)
+tempo: 85.981
+time_signature: 4
+time_signature_confidence: 0.053
+title: Blues Again
+track_7digitalid: 6349034
+track_id: TRBCIDU12903CA2F54
+year: 0

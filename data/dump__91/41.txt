@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 45232
+artist_familiarity: 0.675295469456
+artist_hotttnesss: 0.442696719581
+artist_id: AR2EO6H1187B9A3B92
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 23d89243-79c9-4afc-8db5-fce27e7ba78d
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Brian Tyler
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 46556719fd036096e8c4de0e41b28fee
+bars_confidence: shape = (84,)
+bars_start: shape = (84,)
+beats_confidence: shape = (256,)
+beats_start: shape = (256,)
+danceability: 0.0
+duration: 128.54812
+end_of_fade_in: 0.229
+energy: 0.0
+key: 11
+key_confidence: 0.071
+loudness: -13.85
+mode: 1
+mode_confidence: 0.473
+release: Partition
+release_7digitalid: 67868
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (723,)
+segments_loudness_max: shape = (723,)
+segments_loudness_max_time: shape = (723,)
+segments_loudness_start: shape = (723,)
+segments_pitches: shape = (723, 12)
+segments_start: shape = (723,)
+segments_timbre: shape = (723, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEZMXF12A67ADB0F8
+start_of_fade_out: 124.651
+tatums_confidence: shape = (769,)
+tatums_start: shape = (769,)
+tempo: 122.653
+time_signature: 3
+time_signature_confidence: 0.105
+title: Festival Of Holi
+track_7digitalid: 708825
+track_id: TRBFNYS128EF3412E8
+year: 2007

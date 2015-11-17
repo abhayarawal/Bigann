@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 183482
+artist_familiarity: 0.596189938258
+artist_hotttnesss: 0.396521303082
+artist_id: ARTF2KG1187B98DDD1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e434c190-2f7b-4256-97d1-4e0d8d825acf
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gold City
+artist_playmeid: 54907
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: fbc7266a76cb33e2603ce12580145e30
+bars_confidence: shape = (17,)
+bars_start: shape = (17,)
+beats_confidence: shape = (17,)
+beats_start: shape = (17,)
+danceability: 0.0
+duration: 28.83873
+end_of_fade_in: 0.316
+energy: 0.0
+key: 3
+key_confidence: 0.0
+loudness: -12.193
+mode: 1
+mode_confidence: 0.0
+release: Are You Ready?
+release_7digitalid: 246942
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (37,)
+segments_loudness_max: shape = (37,)
+segments_loudness_max_time: shape = (37,)
+segments_loudness_start: shape = (37,)
+segments_pitches: shape = (37, 12)
+segments_start: shape = (37,)
+segments_timbre: shape = (37, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSKXTH12A8C13495D
+start_of_fade_out: 28.839
+tatums_confidence: shape = (33,)
+tatums_start: shape = (33,)
+tempo: 39.866
+time_signature: 1
+time_signature_confidence: 0.0
+title: Are You Ready? (Acapella)
+track_7digitalid: 2682181
+track_id: TRAXZFG128F42445FB
+year: 0

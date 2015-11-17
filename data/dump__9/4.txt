@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 32440
+artist_familiarity: 0.621121051286
+artist_hotttnesss: 0.435684070209
+artist_id: ARS0W831187B9AF0B7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 256f09e5-43f4-4b3d-836c-2cc9283d22c0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Maximilian Hecker
+artist_playmeid: 157463
+artist_terms: shape = (50,)
+artist_terms_freq: shape = (50,)
+artist_terms_weight: shape = (50,)
+audio_md5: 6793139342f81b9457cfea4ab2822f6c
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (442,)
+beats_start: shape = (442,)
+danceability: 0.0
+duration: 205.7922
+end_of_fade_in: 2.421
+energy: 0.0
+key: 8
+key_confidence: 0.506
+loudness: -8.059
+mode: 1
+mode_confidence: 0.625
+release: Live Radio Sessions
+release_7digitalid: 420490
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (647,)
+segments_loudness_max: shape = (647,)
+segments_loudness_max_time: shape = (647,)
+segments_loudness_start: shape = (647,)
+segments_pitches: shape = (647, 12)
+segments_start: shape = (647,)
+segments_timbre: shape = (647, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGINAY12A8C138666
+start_of_fade_out: 192.952
+tatums_confidence: shape = (1328,)
+tatums_start: shape = (1328,)
+tempo: 129.488
+time_signature: 5
+time_signature_confidence: 0.737
+title: Full Of Voices
+track_7digitalid: 4691012
+track_id: TRACYPF128F9338DE0
+year: 2005

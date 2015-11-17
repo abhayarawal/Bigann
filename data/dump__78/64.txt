@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4047
+artist_familiarity: 0.584266181728
+artist_hotttnesss: 0.451570770754
+artist_id: ARHN74X1187B98D79F
+artist_latitude: nan
+artist_location: Galveston, TX
+artist_longitude: nan
+artist_mbid: e46504cb-1aac-4b9a-9581-451778df9eba
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bill Engvall
+artist_playmeid: 23391
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 781523f2e6c76fa7e4dfe3e9b648e7a7
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (270,)
+beats_start: shape = (270,)
+danceability: 0.0
+duration: 170.52689
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.755
+loudness: -9.606
+mode: 1
+mode_confidence: 0.551
+release: Aged And Confused
+release_7digitalid: 597543
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (735,)
+segments_loudness_max: shape = (735,)
+segments_loudness_max_time: shape = (735,)
+segments_loudness_start: shape = (735,)
+segments_pitches: shape = (735, 12)
+segments_start: shape = (735,)
+segments_timbre: shape = (735, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.270775998946
+song_id: SOATRRA12AC468DDE7
+start_of_fade_out: 166.864
+tatums_confidence: shape = (810,)
+tatums_start: shape = (810,)
+tempo: 94.501
+time_signature: 3
+time_signature_confidence: 0.596
+title: Game Night (Album Version)
+track_7digitalid: 6632299
+track_id: TRBAVTS12903CE75E6
+year: 0

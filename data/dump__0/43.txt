@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 522
+artist_familiarity: 0.814829656133
+artist_hotttnesss: 0.735765692951
+artist_id: ARFCUN31187B9AD578
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: b071f9fa-14b0-4217-8e97-eb41da73f598
+artist_mbtags: shape = (13,)
+artist_mbtags_count: shape = (13,)
+artist_name: The Rolling Stones
+artist_playmeid: 10490
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 7bbefe182a5d8a70b5b72a64a14f6c1b
+bars_confidence: shape = (616,)
+bars_start: shape = (616,)
+beats_confidence: shape = (616,)
+beats_start: shape = (616,)
+danceability: 0.0
+duration: 271.49016
+end_of_fade_in: 0.171
+energy: 0.0
+key: 9
+key_confidence: 0.301
+loudness: -10.358
+mode: 0
+mode_confidence: 0.392
+release: Jump Back - The Best Of The Rolling Stones_ '71-'93
+release_7digitalid: 42595
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (847,)
+segments_loudness_max: shape = (847,)
+segments_loudness_max_time: shape = (847,)
+segments_loudness_start: shape = (847,)
+segments_pitches: shape = (847, 12)
+segments_start: shape = (847,)
+segments_timbre: shape = (847, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.834492619891
+song_id: SONQBUB12A6D4F8ED0
+start_of_fade_out: 263.784
+tatums_confidence: shape = (1232,)
+tatums_start: shape = (1232,)
+tempo: 139.333
+time_signature: 1
+time_signature_confidence: 0.0
+title: Angie (1993 Digital Remaster)
+track_7digitalid: 453879
+track_id: TRAADLN128F14832E9
+year: 0

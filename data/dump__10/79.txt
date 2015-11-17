@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 347407
+artist_familiarity: 0.489537502465
+artist_hotttnesss: 0.343389814615
+artist_id: ARBXBQR1187FB56FA5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f75b906a-a107-4f57-b846-fb98f6ce5e21
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bill Douglas
+artist_playmeid: -1
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: ae269c2df83c32cba8082426c43e0771
+bars_confidence: shape = (76,)
+bars_start: shape = (76,)
+beats_confidence: shape = (309,)
+beats_start: shape = (309,)
+danceability: 0.0
+duration: 185.67791
+end_of_fade_in: 2.177
+energy: 0.0
+key: 3
+key_confidence: 0.722
+loudness: -23.771
+mode: 1
+mode_confidence: 0.697
+release: Jewel Lake
+release_7digitalid: 469687
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (458,)
+segments_loudness_max: shape = (458,)
+segments_loudness_max_time: shape = (458,)
+segments_loudness_start: shape = (458,)
+segments_pitches: shape = (458, 12)
+segments_start: shape = (458,)
+segments_timbre: shape = (458, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOEDOYM12AB0189A92
+start_of_fade_out: 173.383
+tatums_confidence: shape = (619,)
+tatums_start: shape = (619,)
+tempo: 106.117
+time_signature: 4
+time_signature_confidence: 0.524
+title: Caroline
+track_7digitalid: 5221841
+track_id: TRADOVU128F9340CEE
+year: 0

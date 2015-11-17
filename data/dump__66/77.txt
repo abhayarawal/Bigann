@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 68540
+artist_familiarity: 0.491256209492
+artist_hotttnesss: 0.32620825462
+artist_id: ARJ4B7V1187FB4CB90
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 45fc5c0a-3614-4018-95e9-9101ac827e2b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ Godfather
+artist_playmeid: 80386
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: a4fc3ff7df7eca081c450372776243d0
+bars_confidence: shape = (127,)
+bars_start: shape = (127,)
+beats_confidence: shape = (127,)
+beats_start: shape = (127,)
+danceability: 0.0
+duration: 45.08689
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.187
+loudness: -9.691
+mode: 0
+mode_confidence: 0.565
+release: Da Bomb Vol 6
+release_7digitalid: 176242
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (252,)
+segments_loudness_max: shape = (252,)
+segments_loudness_max_time: shape = (252,)
+segments_loudness_start: shape = (252,)
+segments_pitches: shape = (252, 12)
+segments_start: shape = (252,)
+segments_timbre: shape = (252, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOARLQW12A6D4FAC77
+start_of_fade_out: 45.087
+tatums_confidence: shape = (254,)
+tatums_start: shape = (254,)
+tempo: 170.548
+time_signature: 1
+time_signature_confidence: 0.0
+title: From Da Back
+track_7digitalid: 1896228
+track_id: TRAWTPL128F42224E7
+year: 2003

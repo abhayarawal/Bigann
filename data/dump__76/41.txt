@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 193093
+artist_familiarity: 0.384423949874
+artist_hotttnesss: 0.252333655842
+artist_id: AR2C9UQ1187B98E69F
+artist_latitude: 36.38418
+artist_location: Livingston, TN
+artist_longitude: -85.32281
+artist_mbid: 31c1d0c6-6045-4b5b-b411-0098588fe9a8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Roy Roberts
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 2c0a6e766421ae5a8efba3a063824aae
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (352,)
+beats_start: shape = (352,)
+danceability: 0.0
+duration: 189.93587
+end_of_fade_in: 0.45
+energy: 0.0
+key: 5
+key_confidence: 0.8
+loudness: -16.141
+mode: 1
+mode_confidence: 0.513
+release: Every Shade of Blue
+release_7digitalid: 250430
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (678,)
+segments_loudness_max: shape = (678,)
+segments_loudness_max_time: shape = (678,)
+segments_loudness_start: shape = (678,)
+segments_pitches: shape = (678, 12)
+segments_start: shape = (678,)
+segments_timbre: shape = (678, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIVXLP12A8C139F26
+start_of_fade_out: 175.485
+tatums_confidence: shape = (704,)
+tatums_start: shape = (704,)
+tempo: 114.512
+time_signature: 4
+time_signature_confidence: 0.464
+title: Let's Wrap Up
+track_7digitalid: 2755092
+track_id: TRBABQS128F4254688
+year: 1997

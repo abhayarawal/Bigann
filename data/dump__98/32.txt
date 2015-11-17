@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8588
+artist_familiarity: 0.594866645475
+artist_hotttnesss: 0.3828469015
+artist_id: ARE36MM1187B991E50
+artist_latitude: 31.1689
+artist_location: Couchman, TX
+artist_longitude: -100.07715
+artist_mbid: 9481010a-db23-469d-87df-b04118850efb
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Blind Lemon Jefferson
+artist_playmeid: 16298
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: f8088a888eb97229a31de72ca57178ca
+bars_confidence: shape = (70,)
+bars_start: shape = (70,)
+beats_confidence: shape = (295,)
+beats_start: shape = (295,)
+danceability: 0.0
+duration: 178.38975
+end_of_fade_in: 0.584
+energy: 0.0
+key: 1
+key_confidence: 0.053
+loudness: -24.106
+mode: 1
+mode_confidence: 0.428
+release: The Complete Classic Sides Remastered: Chicago 1926 Disc A
+release_7digitalid: 183909
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (638,)
+segments_loudness_max: shape = (638,)
+segments_loudness_max_time: shape = (638,)
+segments_loudness_start: shape = (638,)
+segments_pitches: shape = (638, 12)
+segments_start: shape = (638,)
+segments_timbre: shape = (638, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCSUYP12A58A79438
+start_of_fade_out: 173.337
+tatums_confidence: shape = (588,)
+tatums_start: shape = (588,)
+tempo: 100.329
+time_signature: 4
+time_signature_confidence: 0.073
+title: Long Lonesome Blues
+track_7digitalid: 1989829
+track_id: TRBHUOU128F423625E
+year: 1926

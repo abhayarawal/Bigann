@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 820
+artist_familiarity: 0.770814366531
+artist_hotttnesss: 0.477260389684
+artist_id: ARSC6WR1187FB40B18
+artist_latitude: 46.91008
+artist_location: Jamestown, ND
+artist_longitude: -98.70853
+artist_mbid: 5a2463af-eef0-4a22-bc8f-5865fbe9c78e
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Peggy Lee
+artist_playmeid: 9390
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: dcc6de8a1bb6be134970bed32654261e
+bars_confidence: shape = (82,)
+bars_start: shape = (82,)
+beats_confidence: shape = (331,)
+beats_start: shape = (331,)
+danceability: 0.0
+duration: 138.60526
+end_of_fade_in: 0.186
+energy: 0.0
+key: 5
+key_confidence: 0.364
+loudness: -17.369
+mode: 0
+mode_confidence: 0.587
+release: Ain'tcha Ever Comin' Back
+release_7digitalid: 378761
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (530,)
+segments_loudness_max: shape = (530,)
+segments_loudness_max_time: shape = (530,)
+segments_loudness_start: shape = (530,)
+segments_pitches: shape = (530, 12)
+segments_start: shape = (530,)
+segments_timbre: shape = (530, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPXWCI12AB0188DE6
+start_of_fade_out: 134.577
+tatums_confidence: shape = (663,)
+tatums_start: shape = (663,)
+tempo: 144.591
+time_signature: 4
+time_signature_confidence: 0.518
+title: It Never Happened To Me
+track_7digitalid: 5661956
+track_id: TRAXFVD128F933E94A
+year: 0

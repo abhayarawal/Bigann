@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 414650
+artist_familiarity: 0.484333757966
+artist_hotttnesss: 0.335935512252
+artist_id: ARQFKVO1187B9B1777
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 99f0e05e-e63e-4b48-a0a7-039ad3f9fc3d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dave Brockie Experience
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 833ecce13e614631669be4c4dcc256cb
+bars_confidence: shape = (44,)
+bars_start: shape = (44,)
+beats_confidence: shape = (222,)
+beats_start: shape = (222,)
+danceability: 0.0
+duration: 135.8624
+end_of_fade_in: 0.311
+energy: 0.0
+key: 1
+key_confidence: 0.387
+loudness: -3.312
+mode: 0
+mode_confidence: 0.418
+release: Diarrhea Of A Madman
+release_7digitalid: 559962
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (506,)
+segments_loudness_max: shape = (506,)
+segments_loudness_max_time: shape = (506,)
+segments_loudness_start: shape = (506,)
+segments_pitches: shape = (506, 12)
+segments_start: shape = (506,)
+segments_timbre: shape = (506, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.355285536423
+song_id: SOGXENE12AB01854EB
+start_of_fade_out: 132.888
+tatums_confidence: shape = (665,)
+tatums_start: shape = (665,)
+tempo: 99.959
+time_signature: 5
+time_signature_confidence: 0.902
+title: The Dance Of Europe
+track_7digitalid: 6198667
+track_id: TRARUDQ128F934B0ED
+year: 2001

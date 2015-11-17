@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3919
+artist_familiarity: 0.774037142161
+artist_hotttnesss: 0.521726647791
+artist_id: ARL3VGT1187FB40E8E
+artist_latitude: -34.60852
+artist_location: Buenos Aires.
+artist_longitude: -58.37354
+artist_mbid: cfe85625-10af-46c1-99fb-765ed3a4f1ad
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Los Fabulosos Cadillacs
+artist_playmeid: 15034
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: ea033cefdf69c74619770b1ee14304a0
+bars_confidence: shape = (0,)
+bars_start: shape = (0,)
+beats_confidence: shape = (0,)
+beats_start: shape = (0,)
+danceability: 0.0
+duration: 187.0624
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.881
+loudness: -15.909
+mode: 0
+mode_confidence: 0.758
+release: Bares y Fondas
+release_7digitalid: 346407
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (903,)
+segments_loudness_max: shape = (903,)
+segments_loudness_max_time: shape = (903,)
+segments_loudness_start: shape = (903,)
+segments_pitches: shape = (903, 12)
+segments_start: shape = (903,)
+segments_timbre: shape = (903, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.434838090261
+song_id: SOSPNDI12AB017F769
+start_of_fade_out: 182.904
+tatums_confidence: shape = (0,)
+tatums_start: shape = (0,)
+tempo: 0.0
+time_signature: 4
+time_signature_confidence: 0.761
+title: Noches Arabes
+track_7digitalid: 3884134
+track_id: TRAHIRO128F93093A1
+year: 1986

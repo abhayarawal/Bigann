@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12221
+artist_familiarity: 0.72486448152
+artist_hotttnesss: 0.524449470713
+artist_id: ARX2DLI1187FB4DD03
+artist_latitude: nan
+artist_location: Sydney, Australia
+artist_longitude: nan
+artist_mbid: f5b8ea5f-c269-45dd-9936-1fedf3c56851
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: The Presets
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 49b5c462cc7ce636fef1bb61a90bfe6e
+bars_confidence: shape = (151,)
+bars_start: shape = (151,)
+beats_confidence: shape = (609,)
+beats_start: shape = (609,)
+danceability: 0.0
+duration: 281.0771
+end_of_fade_in: 2.705
+energy: 0.0
+key: 9
+key_confidence: 0.039
+loudness: -11.403
+mode: 1
+mode_confidence: 0.252
+release: Are You The One?
+release_7digitalid: 30908
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1007,)
+segments_loudness_max: shape = (1007,)
+segments_loudness_max_time: shape = (1007,)
+segments_loudness_start: shape = (1007,)
+segments_pitches: shape = (1007, 12)
+segments_start: shape = (1007,)
+segments_timbre: shape = (1007, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.488289876037
+song_id: SOFHZSP12A58A79004
+start_of_fade_out: 275.54
+tatums_confidence: shape = (1217,)
+tatums_start: shape = (1217,)
+tempo: 132.946
+time_signature: 4
+time_signature_confidence: 1.0
+title: Are You The One?
+track_7digitalid: 335702
+track_id: TRBHCXP128F146D63B
+year: 2005

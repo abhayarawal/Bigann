@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5241
+artist_familiarity: 0.443865074984
+artist_hotttnesss: 0.372910680758
+artist_id: ARJDWEA1187B9B676F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 14abda46-7ed4-4cf6-b4c6-f694166cd5f0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bob Newhart
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: da8fe84ec302612bc7c812e7629be213
+bars_confidence: shape = (51,)
+bars_start: shape = (51,)
+beats_confidence: shape = (156,)
+beats_start: shape = (156,)
+danceability: 0.0
+duration: 72.33261
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.492
+loudness: -12.043
+mode: 1
+mode_confidence: 0.308
+release: Behind The Button-Down Mind Of Bob Newhart
+release_7digitalid: 12546
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (257,)
+segments_loudness_max: shape = (257,)
+segments_loudness_max_time: shape = (257,)
+segments_loudness_start: shape = (257,)
+segments_pitches: shape = (257, 12)
+segments_start: shape = (257,)
+segments_timbre: shape = (257, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQTJWB12A670218FD
+start_of_fade_out: 72.333
+tatums_confidence: shape = (313,)
+tatums_start: shape = (313,)
+tempo: 133.721
+time_signature: 3
+time_signature_confidence: 0.956
+title: Herb Philbrick - Counter Spy ( LP Version )
+track_7digitalid: 129142
+track_id: TRALNES128E078B122
+year: 1961

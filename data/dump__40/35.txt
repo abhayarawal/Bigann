@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 35758
+artist_familiarity: 0.423401377256
+artist_hotttnesss: 0.375652824002
+artist_id: ARCII0J1187FB3A1B4
+artist_latitude: 40.71455
+artist_location: New York City, New York
+artist_longitude: -74.00712
+artist_mbid: 36f93472-e1c2-45bc-b141-801e79b7de14
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Marx Brothers
+artist_playmeid: 86080
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: e9f15f8f09fff53fc9f730f0aed1c37d
+bars_confidence: shape = (33,)
+bars_start: shape = (33,)
+beats_confidence: shape = (203,)
+beats_start: shape = (203,)
+danceability: 0.0
+duration: 159.16363
+end_of_fade_in: 0.508
+energy: 0.0
+key: 5
+key_confidence: 0.545
+loudness: -17.315
+mode: 1
+mode_confidence: 0.397
+release: Horse Feathers / Animal Crackers
+release_7digitalid: 237206
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (626,)
+segments_loudness_max: shape = (626,)
+segments_loudness_max_time: shape = (626,)
+segments_loudness_start: shape = (626,)
+segments_pitches: shape = (626, 12)
+segments_start: shape = (626,)
+segments_timbre: shape = (626, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOIXFFL12A8BED74A0
+start_of_fade_out: 154.14
+tatums_confidence: shape = (609,)
+tatums_start: shape = (609,)
+tempo: 77.212
+time_signature: 5
+time_signature_confidence: 0.744
+title: The Professor's Conference/Horse Feathers (Dialogue)
+track_7digitalid: 2602601
+track_id: TRANSSH128F4231393
+year: 0

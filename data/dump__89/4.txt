@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7624
+artist_familiarity: 0.496196128032
+artist_hotttnesss: 0.331744767101
+artist_id: ARRTI6E1187B9A661D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2f768221-c825-49af-8688-aceeeef247c6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tony Tuff
+artist_playmeid: 125811
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: dac8f290b59c4db886dc454e7dda803a
+bars_confidence: shape = (142,)
+bars_start: shape = (142,)
+beats_confidence: shape = (574,)
+beats_start: shape = (574,)
+danceability: 0.0
+duration: 229.58975
+end_of_fade_in: 2.177
+energy: 0.0
+key: 4
+key_confidence: 0.065
+loudness: -9.655
+mode: 0
+mode_confidence: 0.293
+release: Say Something
+release_7digitalid: 714137
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (982,)
+segments_loudness_max: shape = (982,)
+segments_loudness_max_time: shape = (982,)
+segments_loudness_start: shape = (982,)
+segments_pitches: shape = (982, 12)
+segments_start: shape = (982,)
+segments_timbre: shape = (982, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONXZLQ12AB018C1E4
+start_of_fade_out: 222.592
+tatums_confidence: shape = (1149,)
+tatums_start: shape = (1149,)
+tempo: 149.844
+time_signature: 4
+time_signature_confidence: 0.462
+title: Say Something
+track_7digitalid: 7920860
+track_id: TRBEQUV12903CBD17A
+year: 0

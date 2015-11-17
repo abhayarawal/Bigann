@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9560
+artist_familiarity: 0.518310126759
+artist_hotttnesss: 0.398181054984
+artist_id: ARTPY6B1187B98C720
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 411185bd-b218-401b-9d91-5e99830048c7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cactus
+artist_playmeid: -1
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: dbf39f5640adcfdca7bbac8fdbc13ef8
+bars_confidence: shape = (405,)
+bars_start: shape = (405,)
+beats_confidence: shape = (405,)
+beats_start: shape = (405,)
+danceability: 0.0
+duration: 186.69669
+end_of_fade_in: 0.432
+energy: 0.0
+key: 7
+key_confidence: 0.31
+loudness: -5.872
+mode: 1
+mode_confidence: 0.2
+release: Cactology "The Cactus Collection
+release_7digitalid: 13340
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (648,)
+segments_loudness_max: shape = (648,)
+segments_loudness_max_time: shape = (648,)
+segments_loudness_start: shape = (648,)
+segments_pitches: shape = (648, 12)
+segments_start: shape = (648,)
+segments_timbre: shape = (648, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOYOBCG12A6701FB4E
+start_of_fade_out: 181.203
+tatums_confidence: shape = (809,)
+tatums_start: shape = (809,)
+tempo: 133.227
+time_signature: 1
+time_signature_confidence: 0.132
+title: Parchman Farm (LP Version)
+track_7digitalid: 139089
+track_id: TRAMFCQ128E078CF59
+year: 0

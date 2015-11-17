@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 174717
+artist_familiarity: 0.450743177522
+artist_hotttnesss: 0.331214989792
+artist_id: AR1DGSO1187FB59B15
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fe4e71a9-ddb9-47b5-9e2e-ec53862a91c6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Eddie Turner
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 25dcbd93811fd122ed0b440468ad13f0
+bars_confidence: shape = (53,)
+bars_start: shape = (53,)
+beats_confidence: shape = (213,)
+beats_start: shape = (213,)
+danceability: 0.0
+duration: 146.1024
+end_of_fade_in: 0.357
+energy: 0.0
+key: 2
+key_confidence: 0.074
+loudness: -5.804
+mode: 0
+mode_confidence: 0.462
+release: Rise
+release_7digitalid: 227650
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (372,)
+segments_loudness_max: shape = (372,)
+segments_loudness_max_time: shape = (372,)
+segments_loudness_start: shape = (372,)
+segments_pitches: shape = (372, 12)
+segments_start: shape = (372,)
+segments_timbre: shape = (372, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOJPNVG12A6D4FACFC
+start_of_fade_out: 134.536
+tatums_confidence: shape = (427,)
+tatums_start: shape = (427,)
+tempo: 89.984
+time_signature: 4
+time_signature_confidence: 0.611
+title: Resurrection
+track_7digitalid: 2488108
+track_id: TRBDPHY128F4218493
+year: 2005

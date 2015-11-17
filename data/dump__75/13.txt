@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2605
+artist_familiarity: 0.678125502327
+artist_hotttnesss: 0.404039733775
+artist_id: ARAH4TU1187FB51D28
+artist_latitude: 38.62666
+artist_location: New York City (Salem, IL - originally)
+artist_longitude: -88.94561
+artist_mbid: 8b7a121c-5b50-4912-ab4c-e49a631a2db0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jah Wobble & Bill Laswell
+artist_playmeid: 19583
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 43faac9e9876817554ac75e58d0eead1
+bars_confidence: shape = (299,)
+bars_start: shape = (299,)
+beats_confidence: shape = (1201,)
+beats_start: shape = (1201,)
+danceability: 0.0
+duration: 463.35955
+end_of_fade_in: 5.039
+energy: 0.0
+key: 7
+key_confidence: 0.225
+loudness: -12.997
+mode: 1
+mode_confidence: 0.371
+release: Unity Dub's Voyage Into Paradise
+release_7digitalid: 540651
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (1768,)
+segments_loudness_max: shape = (1768,)
+segments_loudness_max_time: shape = (1768,)
+segments_loudness_start: shape = (1768,)
+segments_pitches: shape = (1768, 12)
+segments_start: shape = (1768,)
+segments_timbre: shape = (1768, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3759843015
+song_id: SOURIGQ12AB017FCA3
+start_of_fade_out: 463.36
+tatums_confidence: shape = (2401,)
+tatums_start: shape = (2401,)
+tempo: 155.193
+time_signature: 4
+time_signature_confidence: 0.0
+title: Subcode
+track_7digitalid: 5987045
+track_id: TRAZRBF128F9317BF5
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 49597
+artist_familiarity: 0.478083521069
+artist_hotttnesss: 0.378387397783
+artist_id: AR0CWOB1187B99FA08
+artist_latitude: nan
+artist_location: United States
+artist_longitude: nan
+artist_mbid: 0df890e1-f4f2-4b21-a413-cd8af1af32d8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Christophe Beck
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 3856d012201e24367be22189683fe216
+bars_confidence: shape = (51,)
+bars_start: shape = (51,)
+beats_confidence: shape = (216,)
+beats_start: shape = (216,)
+danceability: 0.0
+duration: 150.09914
+end_of_fade_in: 2.781
+energy: 0.0
+key: 5
+key_confidence: 0.318
+loudness: -25.661
+mode: 1
+mode_confidence: 0.558
+release: We Are Marshall
+release_7digitalid: 90441
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (236,)
+segments_loudness_max: shape = (236,)
+segments_loudness_max_time: shape = (236,)
+segments_loudness_start: shape = (236,)
+segments_pitches: shape = (236, 12)
+segments_start: shape = (236,)
+segments_timbre: shape = (236, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFLXUY12A8C1364F6
+start_of_fade_out: 150.099
+tatums_confidence: shape = (648,)
+tatums_start: shape = (648,)
+tempo: 94.843
+time_signature: 4
+time_signature_confidence: 0.106
+title: Why Jack Called
+track_7digitalid: 955882
+track_id: TRAXJHY128F426BE4C
+year: 2006

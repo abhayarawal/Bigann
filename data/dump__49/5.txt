@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19920
+artist_familiarity: 0.540881349196
+artist_hotttnesss: 0.38663083651
+artist_id: ARJRQL51187FB541AB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 84f01d1b-ff47-4b26-bedb-2701ec5b2c9f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Juan Carlos Baglietto
+artist_playmeid: 67826
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: e8977bb928b40a8dc8067400f7cb327b
+bars_confidence: shape = (105,)
+bars_start: shape = (105,)
+beats_confidence: shape = (422,)
+beats_start: shape = (422,)
+danceability: 0.0
+duration: 274.99057
+end_of_fade_in: 4.452
+energy: 0.0
+key: 7
+key_confidence: 0.018
+loudness: -13.592
+mode: 1
+mode_confidence: 0.295
+release: Modelo Para Armar
+release_7digitalid: 159947
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1046,)
+segments_loudness_max: shape = (1046,)
+segments_loudness_max_time: shape = (1046,)
+segments_loudness_start: shape = (1046,)
+segments_pitches: shape = (1046, 12)
+segments_start: shape = (1046,)
+segments_timbre: shape = (1046, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOPOWPY12A8C13A4D0
+start_of_fade_out: 263.657
+tatums_confidence: shape = (1687,)
+tatums_start: shape = (1687,)
+tempo: 93.008
+time_signature: 4
+time_signature_confidence: 0.728
+title: Estas Listo
+track_7digitalid: 1679246
+track_id: TRAQRSK128F4279043
+year: 0

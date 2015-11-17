@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15897
+artist_familiarity: 0.698291623658
+artist_hotttnesss: 0.453850265331
+artist_id: ARSQDUN1187B98D7D7
+artist_latitude: nan
+artist_location: allentown Pennsylvania USA
+artist_longitude: nan
+artist_mbid: 4fa39dc8-c695-4e0e-ba04-92c63d99c9f9
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: EPMD / Nocturnal
+artist_playmeid: 90149
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 2b6584f9015b0640366f385eca692bbf
+bars_confidence: shape = (151,)
+bars_start: shape = (151,)
+beats_confidence: shape = (609,)
+beats_start: shape = (609,)
+danceability: 0.0
+duration: 204.5122
+end_of_fade_in: 0.206
+energy: 0.0
+key: 6
+key_confidence: 0.608
+loudness: -6.866
+mode: 1
+mode_confidence: 0.535
+release: Back In Business
+release_7digitalid: 311061
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (939,)
+segments_loudness_max: shape = (939,)
+segments_loudness_max_time: shape = (939,)
+segments_loudness_start: shape = (939,)
+segments_pitches: shape = (939, 12)
+segments_start: shape = (939,)
+segments_timbre: shape = (939, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.480238747979
+song_id: SOHPCSX12A8C13F224
+start_of_fade_out: 189.057
+tatums_confidence: shape = (1218,)
+tatums_start: shape = (1218,)
+tempo: 180.823
+time_signature: 4
+time_signature_confidence: 0.567
+title: Dungeon Master
+track_7digitalid: 3511047
+track_id: TRAQRJO128F42B7B09
+year: 1997

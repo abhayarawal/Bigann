@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 31097
+artist_familiarity: 0.466331054287
+artist_hotttnesss: 0.332749770049
+artist_id: ARFWZZD1187FB561F9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6a169ee3-d030-44cc-a77e-3217a2d8ee47
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Fureys
+artist_playmeid: 94256
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 6983e1a751dcbae7602d0f8ed0a4003c
+bars_confidence: shape = (195,)
+bars_start: shape = (195,)
+beats_confidence: shape = (783,)
+beats_start: shape = (783,)
+danceability: 0.0
+duration: 398.10567
+end_of_fade_in: 0.392
+energy: 0.0
+key: 1
+key_confidence: 0.266
+loudness: -14.28
+mode: 1
+mode_confidence: 0.316
+release: The Dizzy Gillespie Alumni All-Stars: Dizzy's 80th Birthday Party
+release_7digitalid: 619638
+sections_confidence: shape = (22,)
+sections_start: shape = (22,)
+segments_confidence: shape = (1506,)
+segments_loudness_max: shape = (1506,)
+segments_loudness_max_time: shape = (1506,)
+segments_loudness_start: shape = (1506,)
+segments_pitches: shape = (1506, 12)
+segments_start: shape = (1506,)
+segments_timbre: shape = (1506, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGMQBQ12AB017A9D1
+start_of_fade_out: 373.487
+tatums_confidence: shape = (1567,)
+tatums_start: shape = (1567,)
+tempo: 120.083
+time_signature: 4
+time_signature_confidence: 0.228
+title: Con Alma
+track_7digitalid: 6881809
+track_id: TRBCEOA128F93090D6
+year: 0

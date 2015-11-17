@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 25079
+artist_familiarity: 0.577276089132
+artist_hotttnesss: 0.376939984442
+artist_id: AREJ5K11187B993F5F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3c050ada-9db8-4e87-86fb-11c5294f9711
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: R. Carlos Nakai
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: d6cce6c720273d7d453fad8ffc62eed8
+bars_confidence: shape = (249,)
+bars_start: shape = (249,)
+beats_confidence: shape = (249,)
+beats_start: shape = (249,)
+danceability: 0.0
+duration: 146.33751
+end_of_fade_in: 0.347
+energy: 0.0
+key: 1
+key_confidence: 0.027
+loudness: -25.651
+mode: 0
+mode_confidence: 0.415
+release: Changes
+release_7digitalid: 529426
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (509,)
+segments_loudness_max: shape = (509,)
+segments_loudness_max_time: shape = (509,)
+segments_loudness_start: shape = (509,)
+segments_pitches: shape = (509, 12)
+segments_start: shape = (509,)
+segments_timbre: shape = (509, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SODENZR12AAF3B13B9
+start_of_fade_out: 137.143
+tatums_confidence: shape = (497,)
+tatums_start: shape = (497,)
+tempo: 104.989
+time_signature: 1
+time_signature_confidence: 0.0
+title: Blood Round Dance Song (World)
+track_7digitalid: 5846819
+track_id: TRARUFE128F92F5D21
+year: 1982

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8908
+artist_familiarity: 0.686812987091
+artist_hotttnesss: 0.684478823309
+artist_id: ARJGIOD1187B9AE920
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d339efbb-77b9-4147-ba9e-59f2f24550b2
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Kelly Clarkson
+artist_playmeid: 857
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: ff05160915ead981ed0ed40bd4f71c8f
+bars_confidence: shape = (164,)
+bars_start: shape = (164,)
+beats_confidence: shape = (495,)
+beats_start: shape = (495,)
+danceability: 0.0
+duration: 214.5171
+end_of_fade_in: 0.148
+energy: 0.0
+key: 10
+key_confidence: 0.571
+loudness: -4.256
+mode: 1
+mode_confidence: 0.312
+release: All I Ever Wanted
+release_7digitalid: 393179
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (500,)
+segments_loudness_max: shape = (500,)
+segments_loudness_max_time: shape = (500,)
+segments_loudness_start: shape = (500,)
+segments_pitches: shape = (500, 12)
+segments_start: shape = (500,)
+segments_timbre: shape = (500, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.689313564224
+song_id: SOAYXCJ12AB0183822
+start_of_fade_out: 202.06
+tatums_confidence: shape = (990,)
+tatums_start: shape = (990,)
+tempo: 142.137
+time_signature: 3
+time_signature_confidence: 0.688
+title: Cry
+track_7digitalid: 4386638
+track_id: TRAYJOF128F92F9EEA
+year: 2009

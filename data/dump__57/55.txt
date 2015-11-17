@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 183482
+artist_familiarity: 0.596189938258
+artist_hotttnesss: 0.396521303082
+artist_id: ARTF2KG1187B98DDD1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e434c190-2f7b-4256-97d1-4e0d8d825acf
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gold City
+artist_playmeid: 54907
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: c99b15634b280266a03963c59e19e88b
+bars_confidence: shape = (73,)
+bars_start: shape = (73,)
+beats_confidence: shape = (296,)
+beats_start: shape = (296,)
+danceability: 0.0
+duration: 182.25587
+end_of_fade_in: 0.374
+energy: 0.0
+key: 2
+key_confidence: 0.076
+loudness: -8.533
+mode: 1
+mode_confidence: 0.395
+release: Signed Sealed Delivered
+release_7digitalid: 262089
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (618,)
+segments_loudness_max: shape = (618,)
+segments_loudness_max_time: shape = (618,)
+segments_loudness_start: shape = (618,)
+segments_pitches: shape = (618, 12)
+segments_start: shape = (618,)
+segments_timbre: shape = (618, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334898743902
+song_id: SOMODRR12A8C13EAF6
+start_of_fade_out: 172.025
+tatums_confidence: shape = (592,)
+tatums_start: shape = (592,)
+tempo: 100.022
+time_signature: 4
+time_signature_confidence: 1.0
+title: Mighty Army Band
+track_7digitalid: 2874878
+track_id: TRATPHN128F4271011
+year: 0

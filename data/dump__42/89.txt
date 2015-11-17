@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 181870
+artist_familiarity: 0.517707751925
+artist_hotttnesss: 0.258111988028
+artist_id: AR797VK1187B989DDE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2eb4ee61-9df5-4917-9a9f-3b4095924876
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: D.A.R.
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: bc7748d86f3ea3f95cf2c452307ab314
+bars_confidence: shape = (733,)
+bars_start: shape = (733,)
+beats_confidence: shape = (733,)
+beats_start: shape = (733,)
+danceability: 0.0
+duration: 250.122
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.472
+loudness: -6.657
+mode: 1
+mode_confidence: 0.584
+release: Cumbia Mix 3 - el poder de la cumbia en México
+release_7digitalid: 536002
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1154,)
+segments_loudness_max: shape = (1154,)
+segments_loudness_max_time: shape = (1154,)
+segments_loudness_start: shape = (1154,)
+segments_pitches: shape = (1154, 12)
+segments_start: shape = (1154,)
+segments_timbre: shape = (1154, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVXTIS12AB017C9FB
+start_of_fade_out: 250.122
+tatums_confidence: shape = (1466,)
+tatums_start: shape = (1466,)
+tempo: 176.298
+time_signature: 1
+time_signature_confidence: 0.0
+title: Que paso
+track_7digitalid: 5929714
+track_id: TRAOPFB128F930A064
+year: 0

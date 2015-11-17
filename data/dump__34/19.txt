@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 432739
+artist_familiarity: 0.486573734184
+artist_hotttnesss: 0.317516298049
+artist_id: ARJPADO1187B9897CE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 304eb210-1d60-4915-a8d4-3c1395677b08
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Moving Ninja
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 68e070980c495bc09b4d682c2be0b365
+bars_confidence: shape = (146,)
+bars_start: shape = (146,)
+beats_confidence: shape = (447,)
+beats_start: shape = (447,)
+danceability: 0.0
+duration: 287.00689
+end_of_fade_in: 2.844
+energy: 0.0
+key: 6
+key_confidence: 0.313
+loudness: -8.717
+mode: 0
+mode_confidence: 0.096
+release: Shellcode
+release_7digitalid: 626950
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1292,)
+segments_loudness_max: shape = (1292,)
+segments_loudness_max_time: shape = (1292,)
+segments_loudness_start: shape = (1292,)
+segments_pitches: shape = (1292, 12)
+segments_start: shape = (1292,)
+segments_timbre: shape = (1292, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.266955186276
+song_id: SOXXSLE12AB0184F1B
+start_of_fade_out: 284.915
+tatums_confidence: shape = (1341,)
+tatums_start: shape = (1341,)
+tempo: 90.167
+time_signature: 3
+time_signature_confidence: 1.0
+title: Lost Tribe
+track_7digitalid: 6960391
+track_id: TRALPQM128F931C28A
+year: 2005

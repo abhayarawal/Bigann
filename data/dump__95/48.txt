@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 445029
+artist_familiarity: 0.415280900364
+artist_hotttnesss: 0.284260942742
+artist_id: ARC3WPR1187B9A183E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e9d4c98e-aa52-4855-bcea-657f7bc97b1f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Non Stop DJs
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 583a5355d01d69a5156fcff0facc1c6e
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (453,)
+beats_start: shape = (453,)
+danceability: 0.0
+duration: 222.24934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.419
+loudness: -7.379
+mode: 1
+mode_confidence: 0.37
+release: Furious EP
+release_7digitalid: 598147
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1199,)
+segments_loudness_max: shape = (1199,)
+segments_loudness_max_time: shape = (1199,)
+segments_loudness_start: shape = (1199,)
+segments_pitches: shape = (1199, 12)
+segments_start: shape = (1199,)
+segments_timbre: shape = (1199, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXMFQR12AC4686E84
+start_of_fade_out: 218.72
+tatums_confidence: shape = (905,)
+tatums_start: shape = (905,)
+tempo: 123.975
+time_signature: 5
+time_signature_confidence: 1.0
+title: Hydraulic Pimp
+track_7digitalid: 6637131
+track_id: TRBGXJO12903CE888B
+year: 2004

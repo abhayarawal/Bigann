@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 69353
+artist_familiarity: 0.419312641399
+artist_hotttnesss: 0.319651458692
+artist_id: ARTZMXB1187B990A55
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 321b9344-1d61-4fc5-89b3-66572b1d2862
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Streetwize
+artist_playmeid: 53668
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 5b9a212a3bf9dd222f0f66ff0bdfc612
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (408,)
+beats_start: shape = (408,)
+danceability: 0.0
+duration: 265.58649
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.662
+loudness: -8.723
+mode: 1
+mode_confidence: 0.431
+release: Put U To Bed
+release_7digitalid: 625137
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (810,)
+segments_loudness_max: shape = (810,)
+segments_loudness_max_time: shape = (810,)
+segments_loudness_start: shape = (810,)
+segments_pitches: shape = (810, 12)
+segments_start: shape = (810,)
+segments_timbre: shape = (810, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOAGIPB12AB0181E21
+start_of_fade_out: 261.149
+tatums_confidence: shape = (817,)
+tatums_start: shape = (817,)
+tempo: 93.001
+time_signature: 4
+time_signature_confidence: 0.601
+title: No One
+track_7digitalid: 6939359
+track_id: TRAHSTL128F931708D
+year: 0

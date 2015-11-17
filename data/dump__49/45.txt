@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 270028
+artist_familiarity: 0.713782885977
+artist_hotttnesss: 0.529166982926
+artist_id: ARUYVDC12086C11D5C
+artist_latitude: nan
+artist_location: Stockholm
+artist_longitude: nan
+artist_mbid: f7df5df4-4dfa-459d-972b-1ba051c15ddc
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Fever Ray
+artist_playmeid: 116389
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: dae356e4b1161be538a4c64f88855432
+bars_confidence: shape = (224,)
+bars_start: shape = (224,)
+beats_confidence: shape = (1127,)
+beats_start: shape = (1127,)
+danceability: 0.0
+duration: 556.06812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.099
+loudness: -6.817
+mode: 0
+mode_confidence: 0.46
+release: When I Grow Up
+release_7digitalid: 405085
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (2344,)
+segments_loudness_max: shape = (2344,)
+segments_loudness_max_time: shape = (2344,)
+segments_loudness_start: shape = (2344,)
+segments_pitches: shape = (2344, 12)
+segments_start: shape = (2344,)
+segments_timbre: shape = (2344, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.505487343149
+song_id: SOKJUZQ12AB0185E37
+start_of_fade_out: 538.674
+tatums_confidence: shape = (2255,)
+tatums_start: shape = (2255,)
+tempo: 122.984
+time_signature: 5
+time_signature_confidence: 1.0
+title: When I Grow Up
+track_7digitalid: 4501774
+track_id: TRAQVJM128F9310F20
+year: 2009

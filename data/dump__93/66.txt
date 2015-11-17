@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23323
+artist_familiarity: 0.50228868156
+artist_hotttnesss: 0.35683522051
+artist_id: ARJ84561187B993E3E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 86017973-25c2-41a5-9a37-2843878199af
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ill Harmonics
+artist_playmeid: 62011
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 1c6460ee259058f2245d3407e37fe5a9
+bars_confidence: shape = (25,)
+bars_start: shape = (25,)
+beats_confidence: shape = (102,)
+beats_start: shape = (102,)
+danceability: 0.0
+duration: 71.99302
+end_of_fade_in: 2.072
+energy: 0.0
+key: 0
+key_confidence: 0.026
+loudness: -15.686
+mode: 1
+mode_confidence: 0.299
+release: Modern Heart Exhibit
+release_7digitalid: 466909
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (291,)
+segments_loudness_max: shape = (291,)
+segments_loudness_max_time: shape = (291,)
+segments_loudness_start: shape = (291,)
+segments_pitches: shape = (291, 12)
+segments_start: shape = (291,)
+segments_timbre: shape = (291, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHMAJU12AB0186744
+start_of_fade_out: 64.395
+tatums_confidence: shape = (407,)
+tatums_start: shape = (407,)
+tempo: 88.464
+time_signature: 4
+time_signature_confidence: 0.395
+title: Life
+track_7digitalid: 5193649
+track_id: TRBGISC128F9339F08
+year: 0

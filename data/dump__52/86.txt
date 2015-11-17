@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 587148
+artist_familiarity: 0.575805715274
+artist_hotttnesss: 0.39717034145
+artist_id: AR2O20V1187B989AF6
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8cf2cf86-fb95-4a93-be6b-37d98d3df506
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Black Tambourine
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 2617dbbd30e5354c19cc9f1cd83cad1d
+bars_confidence: shape = (126,)
+bars_start: shape = (126,)
+beats_confidence: shape = (508,)
+beats_start: shape = (508,)
+danceability: 0.0
+duration: 236.35546
+end_of_fade_in: 3.065
+energy: 0.0
+key: 10
+key_confidence: 0.698
+loudness: -9.975
+mode: 1
+mode_confidence: 0.246
+release: Black Tambourine
+release_7digitalid: 785985
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (625,)
+segments_loudness_max: shape = (625,)
+segments_loudness_max_time: shape = (625,)
+segments_loudness_start: shape = (625,)
+segments_pitches: shape = (625, 12)
+segments_start: shape = (625,)
+segments_timbre: shape = (625, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.593251651531
+song_id: SORRNTH12AC960A43B
+start_of_fade_out: 225.414
+tatums_confidence: shape = (1016,)
+tatums_start: shape = (1016,)
+tempo: 131.388
+time_signature: 4
+time_signature_confidence: 0.242
+title: Dream Baby Dream
+track_7digitalid: 8697359
+track_id: TRASARM12903D03718
+year: 2010

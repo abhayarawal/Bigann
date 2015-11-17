@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 352643
+artist_familiarity: 0.0
+artist_hotttnesss: 0.399098557715
+artist_id: ARWHVAC123E29C221D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 23cd5cb7-50f7-419d-a4c9-f758ea68e030
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Willie Isz
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 69e00bafff27bb40e7f0c61d8126d9d0
+bars_confidence: shape = (461,)
+bars_start: shape = (461,)
+beats_confidence: shape = (461,)
+beats_start: shape = (461,)
+danceability: 0.0
+duration: 338.72934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -6.988
+mode: 1
+mode_confidence: 0.089
+release: Georgiavania
+release_7digitalid: 476059
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1028,)
+segments_loudness_max: shape = (1028,)
+segments_loudness_max_time: shape = (1028,)
+segments_loudness_start: shape = (1028,)
+segments_pitches: shape = (1028, 12)
+segments_start: shape = (1028,)
+segments_timbre: shape = (1028, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.385950834464
+song_id: SOXVMZV12A8C142488
+start_of_fade_out: 331.564
+tatums_confidence: shape = (1385,)
+tatums_start: shape = (1385,)
+tempo: 83.573
+time_signature: 1
+time_signature_confidence: 1.0
+title: Violet Heart Box
+track_7digitalid: 5286106
+track_id: TRBICHF128F92E42FA
+year: 2009

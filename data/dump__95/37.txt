@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 125
+artist_familiarity: 0.593240643949
+artist_hotttnesss: 0.464277500246
+artist_id: AR1NJEP1187FB4F4C1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9b09674c-c950-4265-aa4a-4232adfc064c
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: 22-20s
+artist_playmeid: 2637
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: d6dfa9f750ff1aba32620204145e1258
+bars_confidence: shape = (175,)
+bars_start: shape = (175,)
+beats_confidence: shape = (704,)
+beats_start: shape = (704,)
+danceability: 0.0
+duration: 317.46567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.413
+loudness: -6.806
+mode: 0
+mode_confidence: 0.453
+release: 22-20s
+release_7digitalid: 10180
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (755,)
+segments_loudness_max: shape = (755,)
+segments_loudness_max_time: shape = (755,)
+segments_loudness_start: shape = (755,)
+segments_pitches: shape = (755, 12)
+segments_start: shape = (755,)
+segments_timbre: shape = (755, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.681755339127
+song_id: SODWQCV12A6701F288
+start_of_fade_out: 303.09
+tatums_confidence: shape = (1408,)
+tatums_start: shape = (1408,)
+tempo: 133.325
+time_signature: 4
+time_signature_confidence: 0.982
+title: Hold On
+track_7digitalid: 104333
+track_id: TRBGWVI128E0788AE7
+year: 2004

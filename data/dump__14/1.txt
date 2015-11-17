@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 60200
+artist_familiarity: 0.563583586258
+artist_hotttnesss: 0.388527293306
+artist_id: ARTCO131187B9B9ADB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 134ab384-5fa8-45d6-8052-876d0e4790a2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bob Carlisle
+artist_playmeid: 7107
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: ae0fc3c1525164d16f9bdc71a4dba62b
+bars_confidence: shape = (140,)
+bars_start: shape = (140,)
+beats_confidence: shape = (564,)
+beats_start: shape = (564,)
+danceability: 0.0
+duration: 331.25832
+end_of_fade_in: 5.195
+energy: 0.0
+key: 7
+key_confidence: 0.618
+loudness: -16.196
+mode: 1
+mode_confidence: 0.59
+release: Collection: B. Carlisle
+release_7digitalid: 153344
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (1290,)
+segments_loudness_max: shape = (1290,)
+segments_loudness_max_time: shape = (1290,)
+segments_loudness_start: shape = (1290,)
+segments_pitches: shape = (1290, 12)
+segments_start: shape = (1290,)
+segments_timbre: shape = (1290, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOIXNYE12A8C1366F2
+start_of_fade_out: 307.641
+tatums_confidence: shape = (1693,)
+tatums_start: shape = (1693,)
+tempo: 103.634
+time_signature: 4
+time_signature_confidence: 0.066
+title: Man Of No Reputation
+track_7digitalid: 1604950
+track_id: TRAERST128F4266F90
+year: 1994

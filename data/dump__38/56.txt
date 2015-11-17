@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 92339
+artist_familiarity: 0.842193350021
+artist_hotttnesss: 0.550422824859
+artist_id: AR1OBRC1187FB59AD4
+artist_latitude: nan
+artist_location: POLAND
+artist_longitude: nan
+artist_mbid: 69632f9c-31eb-43d5-a864-e73ac72efc66
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Behemoth
+artist_playmeid: 54446
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 39d6fa83a428357556842e67d12b16ca
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (446,)
+beats_start: shape = (446,)
+danceability: 0.0
+duration: 229.40689
+end_of_fade_in: 0.125
+energy: 0.0
+key: 1
+key_confidence: 0.657
+loudness: -5.117
+mode: 1
+mode_confidence: 0.478
+release: Zos Kia Cultus
+release_7digitalid: 116947
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (715,)
+segments_loudness_max: shape = (715,)
+segments_loudness_max_time: shape = (715,)
+segments_loudness_start: shape = (715,)
+segments_pitches: shape = (715, 12)
+segments_start: shape = (715,)
+segments_timbre: shape = (715, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSVBAP12A58A7ABC2
+start_of_fade_out: 225.605
+tatums_confidence: shape = (1337,)
+tatums_start: shape = (1337,)
+tempo: 118.817
+time_signature: 5
+time_signature_confidence: 0.8
+title: No Sympathy For Fools
+track_7digitalid: 1203808
+track_id: TRANEMQ128F42A10A8
+year: 2002

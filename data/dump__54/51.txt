@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 493
+artist_familiarity: 0.629463245187
+artist_hotttnesss: 0.424791235571
+artist_id: ARJPZSG1187FB3E985
+artist_latitude: 18.01571
+artist_location: Kingston, Jamaica
+artist_longitude: -76.79731
+artist_mbid: 38d64df7-5b7f-42ca-9d98-9541640ca84f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: John Holt
+artist_playmeid: 64632
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: eb533800b1c857f9e4022f6b47d7c152
+bars_confidence: shape = (153,)
+bars_start: shape = (153,)
+beats_confidence: shape = (617,)
+beats_start: shape = (617,)
+danceability: 0.0
+duration: 225.07057
+end_of_fade_in: 0.322
+energy: 0.0
+key: 6
+key_confidence: 0.836
+loudness: -16.582
+mode: 1
+mode_confidence: 0.543
+release: 1000 Volts Of Holt
+release_7digitalid: 758551
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (762,)
+segments_loudness_max: shape = (762,)
+segments_loudness_max_time: shape = (762,)
+segments_loudness_start: shape = (762,)
+segments_pitches: shape = (762, 12)
+segments_start: shape = (762,)
+segments_timbre: shape = (762, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.340922755864
+song_id: SODMAWK12AB0188985
+start_of_fade_out: 214.146
+tatums_confidence: shape = (617,)
+tatums_start: shape = (617,)
+tempo: 165.183
+time_signature: 4
+time_signature_confidence: 0.0
+title: I'll Take A Melody
+track_7digitalid: 8399393
+track_id: TRASQED12903CBAD54
+year: 0

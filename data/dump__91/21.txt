@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 83726
+artist_familiarity: 0.713945881247
+artist_hotttnesss: 0.466991272287
+artist_id: ARP7AOI1187FB518B4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2b64e811-cbcd-45f7-b29d-296444cad4f1
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Mum
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: aae370ff4421e0a3dcece13f5c543d42
+bars_confidence: shape = (335,)
+bars_start: shape = (335,)
+beats_confidence: shape = (335,)
+beats_start: shape = (335,)
+danceability: 0.0
+duration: 242.18077
+end_of_fade_in: 0.287
+energy: 0.0
+key: 2
+key_confidence: 0.535
+loudness: -7.665
+mode: 1
+mode_confidence: 0.439
+release: The Szabotnik 15 Mission
+release_7digitalid: 210004
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1419,)
+segments_loudness_max: shape = (1419,)
+segments_loudness_max_time: shape = (1419,)
+segments_loudness_start: shape = (1419,)
+segments_pitches: shape = (1419, 12)
+segments_start: shape = (1419,)
+segments_timbre: shape = (1419, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOIYKGB12A8C1384B0
+start_of_fade_out: 235.752
+tatums_confidence: shape = (1004,)
+tatums_start: shape = (1004,)
+tempo: 83.341
+time_signature: 1
+time_signature_confidence: 0.694
+title: Mr. Crump
+track_7digitalid: 2279215
+track_id: TRBFMKO128F426EB91
+year: 0

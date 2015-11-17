@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10778
+artist_familiarity: 0.695416519042
+artist_hotttnesss: 0.412110495205
+artist_id: ARGEKDX1187FB3A5BF
+artist_latitude: 40.65507
+artist_location: Brooklyn, NY
+artist_longitude: -73.94888
+artist_mbid: 8fbabd07-4b2b-4f4c-add5-680429a8c44a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Marcus Miller
+artist_playmeid: 14094
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 856046fa6da8476429d610cd02b9b724
+bars_confidence: shape = (159,)
+bars_start: shape = (159,)
+beats_confidence: shape = (640,)
+beats_start: shape = (640,)
+danceability: 0.0
+duration: 382.95465
+end_of_fade_in: 3.628
+energy: 0.0
+key: 0
+key_confidence: 0.0
+loudness: -12.878
+mode: 0
+mode_confidence: 0.028
+release: The Ozell Tapes
+release_7digitalid: 471399
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1429,)
+segments_loudness_max: shape = (1429,)
+segments_loudness_max_time: shape = (1429,)
+segments_loudness_start: shape = (1429,)
+segments_pitches: shape = (1429, 12)
+segments_start: shape = (1429,)
+segments_timbre: shape = (1429, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTOZVC12AB01870D1
+start_of_fade_out: 382.955
+tatums_confidence: shape = (1279,)
+tatums_start: shape = (1279,)
+tempo: 100.135
+time_signature: 4
+time_signature_confidence: 0.341
+title: 3 Deuces
+track_7digitalid: 5239597
+track_id: TRAZGIF128F934522F
+year: 2001

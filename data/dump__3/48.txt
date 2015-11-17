@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 27792
+artist_familiarity: 0.713274972364
+artist_hotttnesss: 0.377593081772
+artist_id: ARNF6401187FB57032
+artist_latitude: 40.79086
+artist_location: New York, NY [Manhattan]
+artist_longitude: -73.96644
+artist_mbid: fd7a8bc1-1b25-4b4c-b899-8f7b3343a229
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sophie B. Hawkins
+artist_playmeid: 1475
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 4979085141b00757ae55736783f90e67
+bars_confidence: shape = (131,)
+bars_start: shape = (131,)
+beats_confidence: shape = (527,)
+beats_start: shape = (527,)
+danceability: 0.0
+duration: 305.162
+end_of_fade_in: 0.189
+energy: 0.0
+key: 9
+key_confidence: 0.582
+loudness: -6.301
+mode: 1
+mode_confidence: 0.583
+release: Whaler
+release_7digitalid: 282914
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1109,)
+segments_loudness_max: shape = (1109,)
+segments_loudness_max_time: shape = (1109,)
+segments_loudness_start: shape = (1109,)
+segments_pitches: shape = (1109, 12)
+segments_start: shape = (1109,)
+segments_timbre: shape = (1109, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.599660357626
+song_id: SONWXQJ12A8C134D94
+start_of_fade_out: 283.527
+tatums_confidence: shape = (1054,)
+tatums_start: shape = (1054,)
+tempo: 105.003
+time_signature: 4
+time_signature_confidence: 0.669
+title: The Ballad Of Sleeping Beauty
+track_7digitalid: 3160903
+track_id: TRABCIX128F4265903
+year: 1994

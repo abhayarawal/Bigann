@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19361
+artist_familiarity: 0.614431579567
+artist_hotttnesss: 0.383211422216
+artist_id: ARZCHLM1187FB495C3
+artist_latitude: nan
+artist_location: Brooklyn, NY
+artist_longitude: nan
+artist_mbid: 169153fd-ba80-401a-8ccd-2825efaf9155
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ray Barretto
+artist_playmeid: 6839
+artist_terms: shape = (50,)
+artist_terms_freq: shape = (50,)
+artist_terms_weight: shape = (50,)
+audio_md5: 8362a563e904120311cb268cb6b965f0
+bars_confidence: shape = (118,)
+bars_start: shape = (118,)
+beats_confidence: shape = (592,)
+beats_start: shape = (592,)
+danceability: 0.0
+duration: 270.88934
+end_of_fade_in: 0.282
+energy: 0.0
+key: 7
+key_confidence: 0.556
+loudness: -10.7
+mode: 1
+mode_confidence: 0.771
+release: Can You Feel It
+release_7digitalid: 53747
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1213,)
+segments_loudness_max: shape = (1213,)
+segments_loudness_max_time: shape = (1213,)
+segments_loudness_start: shape = (1213,)
+segments_pitches: shape = (1213, 12)
+segments_start: shape = (1213,)
+segments_timbre: shape = (1213, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOVJPHX12A6D4F9D48
+start_of_fade_out: 253.301
+tatums_confidence: shape = (1776,)
+tatums_start: shape = (1776,)
+tempo: 133.12
+time_signature: 5
+time_signature_confidence: 0.929
+title: Whirlpool (LP Version)
+track_7digitalid: 560557
+track_id: TRAWPYE128F1495E38
+year: 0

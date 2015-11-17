@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2051
+artist_familiarity: 0.592108229144
+artist_hotttnesss: 0.37206162812
+artist_id: ARG2UZ71187FB4FF5C
+artist_latitude: nan
+artist_location: West Plains, MO
+artist_longitude: nan
+artist_mbid: 942123a3-df28-463f-9f6e-202b69b8e253
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Porter Wagoner
+artist_playmeid: 3946
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 77e0244c5c0f2bb0e7e695d212772954
+bars_confidence: shape = (24,)
+bars_start: shape = (24,)
+beats_confidence: shape = (24,)
+beats_start: shape = (24,)
+danceability: 0.0
+duration: 13.26975
+end_of_fade_in: 0.187
+energy: 0.0
+key: 7
+key_confidence: 0.012
+loudness: -12.847
+mode: 1
+mode_confidence: 0.429
+release: Porter Wagoner's When The One You Love Says I Love You
+release_7digitalid: 474110
+sections_confidence: shape = (0,)
+sections_start: shape = (0,)
+segments_confidence: shape = (54,)
+segments_loudness_max: shape = (54,)
+segments_loudness_max_time: shape = (54,)
+segments_loudness_start: shape = (54,)
+segments_pitches: shape = (54, 12)
+segments_start: shape = (54,)
+segments_timbre: shape = (54, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGQEED12A8C13FCDB
+start_of_fade_out: 13.27
+tatums_confidence: shape = (48,)
+tatums_start: shape = (48,)
+tempo: 109.079
+time_signature: 1
+time_signature_confidence: 0.0
+title: I Can't Be Your Man
+track_7digitalid: 5266088
+track_id: TRBHMOE128F92DF68C
+year: 0

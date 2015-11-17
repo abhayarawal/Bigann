@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 362418
+artist_familiarity: 0.726299713385
+artist_hotttnesss: 0.466946703147
+artist_id: ARKMIBT11F4C8430D9
+artist_latitude: 40.71455
+artist_location: Brooklyn, NY
+artist_longitude: -74.00712
+artist_mbid: ff0d20a7-a69e-4207-a18f-ca808759499d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Antlers
+artist_playmeid: 172449
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 6a31f1989729b10c26a4ff9ba4ffab20
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (363,)
+beats_start: shape = (363,)
+danceability: 0.0
+duration: 277.99465
+end_of_fade_in: 15.488
+energy: 0.0
+key: 7
+key_confidence: 0.08
+loudness: -8.878
+mode: 1
+mode_confidence: 0.42
+release: In the Attic of the Universe
+release_7digitalid: 489387
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (725,)
+segments_loudness_max: shape = (725,)
+segments_loudness_max_time: shape = (725,)
+segments_loudness_start: shape = (725,)
+segments_pitches: shape = (725, 12)
+segments_start: shape = (725,)
+segments_timbre: shape = (725, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.603024581456
+song_id: SOEYFCZ12AB017D780
+start_of_fade_out: 245.133
+tatums_confidence: shape = (727,)
+tatums_start: shape = (727,)
+tempo: 80.023
+time_signature: 4
+time_signature_confidence: 0.484
+title: Stairs To the Attic
+track_7digitalid: 5424229
+track_id: TRADKLT128F9304E1D
+year: 2007

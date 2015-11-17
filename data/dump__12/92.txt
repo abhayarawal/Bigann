@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 206019
+artist_familiarity: 0.546310423699
+artist_hotttnesss: 0.309919339654
+artist_id: ARXTM8U1187B99F200
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8a2e86ca-2153-4ba1-b2c2-2a525c2bd665
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pablo Montero
+artist_playmeid: 7997
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: e6e273581948050a0b0eed8a9b0fec09
+bars_confidence: shape = (75,)
+bars_start: shape = (75,)
+beats_confidence: shape = (305,)
+beats_start: shape = (305,)
+danceability: 0.0
+duration: 189.57016
+end_of_fade_in: 0.16
+energy: 0.0
+key: 0
+key_confidence: 0.674
+loudness: -8.888
+mode: 1
+mode_confidence: 0.588
+release: Pídemelo Todo
+release_7digitalid: 487924
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (659,)
+segments_loudness_max: shape = (659,)
+segments_loudness_max_time: shape = (659,)
+segments_loudness_start: shape = (659,)
+segments_pitches: shape = (659, 12)
+segments_start: shape = (659,)
+segments_timbre: shape = (659, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.236216271386
+song_id: SOKMREL12AB017AC04
+start_of_fade_out: 184.442
+tatums_confidence: shape = (609,)
+tatums_start: shape = (609,)
+tempo: 98.063
+time_signature: 4
+time_signature_confidence: 0.345
+title: La Copa Grande
+track_7digitalid: 5416352
+track_id: TRAEHTT128F9303492
+year: 0

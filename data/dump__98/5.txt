@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 80602
+artist_familiarity: 0.606193496106
+artist_hotttnesss: 0.407344288039
+artist_id: AR2MEUK1187B992D1B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9946e322-2eb6-43dd-ae66-dd28114f1522
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jeff Scott Soto
+artist_playmeid: 59687
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 4ea290baef4b538d01e5d3e8b78bcbd9
+bars_confidence: shape = (525,)
+bars_start: shape = (525,)
+beats_confidence: shape = (1593,)
+beats_start: shape = (1593,)
+danceability: 0.0
+duration: 771.89179
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.581
+loudness: -5.221
+mode: 1
+mode_confidence: 0.428
+release: One Night In Madrid
+release_7digitalid: 670712
+sections_confidence: shape = (35,)
+sections_start: shape = (35,)
+segments_confidence: shape = (2506,)
+segments_loudness_max: shape = (2506,)
+segments_loudness_max_time: shape = (2506,)
+segments_loudness_start: shape = (2506,)
+segments_pitches: shape = (2506, 12)
+segments_start: shape = (2506,)
+segments_timbre: shape = (2506, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZPFXD12A58A7E0CC
+start_of_fade_out: 767.489
+tatums_confidence: shape = (3186,)
+tatums_start: shape = (3186,)
+tempo: 119.291
+time_signature: 3
+time_signature_confidence: 0.42
+title: Funky Medley
+track_7digitalid: 7438444
+track_id: TRBHSHC12903CBE83E
+year: 0

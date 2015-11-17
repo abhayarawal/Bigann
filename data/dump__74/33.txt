@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10923
+artist_familiarity: 0.909247283467
+artist_hotttnesss: 0.554938522475
+artist_id: AR2FAMK1187FB4CF60
+artist_latitude: nan
+artist_location: Ukiah, CA
+artist_longitude: nan
+artist_mbid: 1c3919b2-43ca-4a4a-935d-9d50135ec0ef
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: AFI
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: db7f8edf7e67521da0dbdc643ee81542
+bars_confidence: shape = (68,)
+bars_start: shape = (68,)
+beats_confidence: shape = (277,)
+beats_start: shape = (277,)
+danceability: 0.0
+duration: 176.61342
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.1
+loudness: -4.606
+mode: 1
+mode_confidence: 0.375
+release: Crash Love
+release_7digitalid: 589791
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (703,)
+segments_loudness_max: shape = (703,)
+segments_loudness_max_time: shape = (703,)
+segments_loudness_start: shape = (703,)
+segments_pitches: shape = (703, 12)
+segments_start: shape = (703,)
+segments_timbre: shape = (703, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.867008491279
+song_id: SOKAVYA12AB0188454
+start_of_fade_out: 176.613
+tatums_confidence: shape = (1108,)
+tatums_start: shape = (1108,)
+tempo: 94.937
+time_signature: 4
+time_signature_confidence: 0.642
+title: Too Shy To Scream
+track_7digitalid: 6542822
+track_id: TRAZKAG12903CD1918
+year: 2009

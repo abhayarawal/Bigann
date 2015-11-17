@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7050
+artist_familiarity: 0.458055179363
+artist_hotttnesss: 0.371760895395
+artist_id: AR0LVFQ1187B9A84E0
+artist_latitude: 40.71455
+artist_location: NY - New York City
+artist_longitude: -74.00712
+artist_mbid: eb8700f3-bb21-44d4-b340-4eb162c924ee
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jason Miles
+artist_playmeid: 111355
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 20840834770ea82744d09c9c712fdd9d
+bars_confidence: shape = (98,)
+bars_start: shape = (98,)
+beats_confidence: shape = (396,)
+beats_start: shape = (396,)
+danceability: 0.0
+duration: 235.80689
+end_of_fade_in: 0.131
+energy: 0.0
+key: 10
+key_confidence: 0.391
+loudness: -9.716
+mode: 0
+mode_confidence: 0.316
+release: Miles To Miles
+release_7digitalid: 150501
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1081,)
+segments_loudness_max: shape = (1081,)
+segments_loudness_max_time: shape = (1081,)
+segments_loudness_start: shape = (1081,)
+segments_pitches: shape = (1081, 12)
+segments_start: shape = (1081,)
+segments_timbre: shape = (1081, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.253834736132
+song_id: SOMBQEO12A8C135018
+start_of_fade_out: 235.807
+tatums_confidence: shape = (791,)
+tatums_start: shape = (791,)
+tempo: 101.03
+time_signature: 4
+time_signature_confidence: 0.58
+title: Voices On The Corner
+track_7digitalid: 1569838
+track_id: TRAAQFC128F425ED83
+year: 0

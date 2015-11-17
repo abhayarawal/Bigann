@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 14421
+artist_familiarity: 0.34561272505
+artist_hotttnesss: 0.267359775182
+artist_id: AR97HAK1187B99C7D2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 63fe228c-70fc-41ae-9d88-4db3d09c76b6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Harvey Averne Dozen
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: e5ff8162e436e1041f4d34cfa36d9dcd
+bars_confidence: shape = (253,)
+bars_start: shape = (253,)
+beats_confidence: shape = (253,)
+beats_start: shape = (253,)
+danceability: 0.0
+duration: 166.81751
+end_of_fade_in: 2.148
+energy: 0.0
+key: 10
+key_confidence: 0.172
+loudness: -15.489
+mode: 1
+mode_confidence: 0.113
+release: Viva Soul
+release_7digitalid: 570420
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (603,)
+segments_loudness_max: shape = (603,)
+segments_loudness_max_time: shape = (603,)
+segments_loudness_start: shape = (603,)
+segments_pitches: shape = (603, 12)
+segments_start: shape = (603,)
+segments_timbre: shape = (603, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZLBPC12AB0183CEF
+start_of_fade_out: 157.6
+tatums_confidence: shape = (758,)
+tatums_start: shape = (758,)
+tempo: 92.082
+time_signature: 1
+time_signature_confidence: 0.275
+title: The Think Drink Theme
+track_7digitalid: 6321948
+track_id: TRANCWY12903C9C82C
+year: 1967

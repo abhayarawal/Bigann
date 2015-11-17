@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 66280
+artist_familiarity: 0.842431482081
+artist_hotttnesss: 0.526458223464
+artist_id: ARJV0U41187B9AB715
+artist_latitude: nan
+artist_location: Baltimore, MD
+artist_longitude: nan
+artist_mbid: 62162215-b023-4f0e-84bd-1e9412d5b32c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: All Time Low
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 81e88a837e72f038f6b9df2810ba97e5
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (333,)
+beats_start: shape = (333,)
+danceability: 0.0
+duration: 221.67465
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.403
+loudness: -2.838
+mode: 1
+mode_confidence: 0.548
+release: So Wrong_ It's Right
+release_7digitalid: 665347
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (520,)
+segments_loudness_max: shape = (520,)
+segments_loudness_max_time: shape = (520,)
+segments_loudness_start: shape = (520,)
+segments_pitches: shape = (520, 12)
+segments_start: shape = (520,)
+segments_timbre: shape = (520, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.270775998946
+song_id: SOIKYMH12AB0186452
+start_of_fade_out: 202.374
+tatums_confidence: shape = (1333,)
+tatums_start: shape = (1333,)
+tempo: 91.483
+time_signature: 4
+time_signature_confidence: 0.537
+title: Shameless
+track_7digitalid: 7375842
+track_id: TRABFKN12903CAF61B
+year: 2007

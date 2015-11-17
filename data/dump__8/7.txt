@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7674
+artist_familiarity: 0.558384455186
+artist_hotttnesss: 0.340632714452
+artist_id: ARW90Y31187B98FC7C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8dc3c6f8-1c44-4e0b-b17b-de6650e43c19
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Pinchers
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 8d8f5ab18bd5050f62df21acf679f3db
+bars_confidence: shape = (127,)
+bars_start: shape = (127,)
+beats_confidence: shape = (510,)
+beats_start: shape = (510,)
+danceability: 0.0
+duration: 195.10812
+end_of_fade_in: 0.148
+energy: 0.0
+key: 10
+key_confidence: 0.301
+loudness: -7.551
+mode: 0
+mode_confidence: 0.439
+release: King Jammy's: Selector's Choice Vol. 2
+release_7digitalid: 409661
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (753,)
+segments_loudness_max: shape = (753,)
+segments_loudness_max_time: shape = (753,)
+segments_loudness_start: shape = (753,)
+segments_pitches: shape = (753, 12)
+segments_start: shape = (753,)
+segments_timbre: shape = (753, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.433005077275
+song_id: SOUYIJX12A6D4F96CE
+start_of_fade_out: 189.318
+tatums_confidence: shape = (1020,)
+tatums_start: shape = (1020,)
+tempo: 158.103
+time_signature: 4
+time_signature_confidence: 1.0
+title: For Your Eyes Only
+track_7digitalid: 4556004
+track_id: TRACQIL128F931B8AD
+year: 0

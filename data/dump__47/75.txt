@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 34
+artist_familiarity: 0.851351443053
+artist_hotttnesss: 0.582346373958
+artist_id: ARA3I0J1187FB57869
+artist_latitude: nan
+artist_location: Poway, CA
+artist_longitude: nan
+artist_mbid: 0743b15a-3c32-48c8-ad58-cb325350befa
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Blink-182
+artist_playmeid: 85548
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 9e9ae8d5a361d3fac2c3c504a018cd1d
+bars_confidence: shape = (135,)
+bars_start: shape = (135,)
+beats_confidence: shape = (545,)
+beats_start: shape = (545,)
+danceability: 0.0
+duration: 280.00608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.501
+loudness: -5.342
+mode: 1
+mode_confidence: 0.6
+release: blink-182
+release_7digitalid: 109
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (883,)
+segments_loudness_max: shape = (883,)
+segments_loudness_max_time: shape = (883,)
+segments_loudness_start: shape = (883,)
+segments_pitches: shape = (883, 12)
+segments_start: shape = (883,)
+segments_timbre: shape = (883, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.724133953204
+song_id: SOSDYAS12AB0180457
+start_of_fade_out: 276.764
+tatums_confidence: shape = (1089,)
+tatums_start: shape = (1089,)
+tempo: 117.574
+time_signature: 4
+time_signature_confidence: 0.956
+title: All Of This
+track_7digitalid: 1494
+track_id: TRAQGNV128C7196894
+year: 2003

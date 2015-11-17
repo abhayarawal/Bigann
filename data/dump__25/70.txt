@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 31097
+artist_familiarity: 0.466331054287
+artist_hotttnesss: 0.332749770049
+artist_id: ARFWZZD1187FB561F9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6a169ee3-d030-44cc-a77e-3217a2d8ee47
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Fureys
+artist_playmeid: 94256
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 1f8d464bf3a2f9002d3933afb852260e
+bars_confidence: shape = (75,)
+bars_start: shape = (75,)
+beats_confidence: shape = (303,)
+beats_start: shape = (303,)
+danceability: 0.0
+duration: 198.5824
+end_of_fade_in: 0.312
+energy: 0.0
+key: 0
+key_confidence: 0.706
+loudness: -20.975
+mode: 1
+mode_confidence: 0.663
+release: The Fureys Finest
+release_7digitalid: 611707
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (543,)
+segments_loudness_max: shape = (543,)
+segments_loudness_max_time: shape = (543,)
+segments_loudness_start: shape = (543,)
+segments_pitches: shape = (543, 12)
+segments_start: shape = (543,)
+segments_timbre: shape = (543, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOAXHCC12A8C14330F
+start_of_fade_out: 185.591
+tatums_confidence: shape = (607,)
+tatums_start: shape = (607,)
+tempo: 94.804
+time_signature: 4
+time_signature_confidence: 0.5
+title: The First Leaves Of Autumn
+track_7digitalid: 6800313
+track_id: TRAIQDV128F92F545A
+year: 0

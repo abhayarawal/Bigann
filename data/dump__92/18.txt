@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19415
+artist_familiarity: 0.588140722447
+artist_hotttnesss: 0.366741233181
+artist_id: AR0QL3J1187FB3748E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1fe4421e-850f-46e2-a8be-b760c57cb9c7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Clara Nunes
+artist_playmeid: 69685
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: bed68eb5666f1d4ca4e7bb30338761f1
+bars_confidence: shape = (134,)
+bars_start: shape = (134,)
+beats_confidence: shape = (537,)
+beats_start: shape = (537,)
+danceability: 0.0
+duration: 193.48853
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.855
+loudness: -10.363
+mode: 1
+mode_confidence: 0.741
+release: Guerreira
+release_7digitalid: 35159
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (936,)
+segments_loudness_max: shape = (936,)
+segments_loudness_max_time: shape = (936,)
+segments_loudness_start: shape = (936,)
+segments_pitches: shape = (936, 12)
+segments_start: shape = (936,)
+segments_timbre: shape = (936, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHLLRA12A6D4F7DBA
+start_of_fade_out: 175.798
+tatums_confidence: shape = (1075,)
+tatums_start: shape = (1075,)
+tempo: 171.505
+time_signature: 4
+time_signature_confidence: 0.259
+title: Zambele (1997 Digital Remaster)
+track_7digitalid: 376862
+track_id: TRBFVEM128F147508C
+year: 0

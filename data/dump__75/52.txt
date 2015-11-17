@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 164936
+artist_familiarity: 0.498230071939
+artist_hotttnesss: 0.288726536783
+artist_id: ARZLCTV1241B9C4D46
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Claire Elzière
+artist_playmeid: -1
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: d686fca642bf146ec53b722a2f145526
+bars_confidence: shape = (252,)
+bars_start: shape = (252,)
+beats_confidence: shape = (252,)
+beats_start: shape = (252,)
+danceability: 0.0
+duration: 92.89098
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.254
+loudness: -13.4
+mode: 1
+mode_confidence: 0.411
+release: La vie va si vite (Live)
+release_7digitalid: 804889
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (332,)
+segments_loudness_max: shape = (332,)
+segments_loudness_max_time: shape = (332,)
+segments_loudness_start: shape = (332,)
+segments_pitches: shape = (332, 12)
+segments_start: shape = (332,)
+segments_timbre: shape = (332, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXXODX12A8C13F040
+start_of_fade_out: 79.702
+tatums_confidence: shape = (504,)
+tatums_start: shape = (504,)
+tempo: 163.066
+time_signature: 1
+time_signature_confidence: 0.0
+title: Les frelons (Live)
+track_7digitalid: 8897442
+track_id: TRAZUFA12903CC0663
+year: 0

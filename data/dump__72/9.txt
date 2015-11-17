@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10627
+artist_familiarity: 0.359129965901
+artist_hotttnesss: 0.274197771089
+artist_id: ARODP5P1187FB40142
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0ef41d78-6a69-44fa-b355-23581a88990a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Eddie Cano
+artist_playmeid: 47311
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: ddd93e2d46c2777aa67270423f3c8525
+bars_confidence: shape = (50,)
+bars_start: shape = (50,)
+beats_confidence: shape = (252,)
+beats_start: shape = (252,)
+danceability: 0.0
+duration: 129.12281
+end_of_fade_in: 0.178
+energy: 0.0
+key: 5
+key_confidence: 0.251
+loudness: -13.259
+mode: 0
+mode_confidence: 0.369
+release: Here is Fabulous Eddie Cano
+release_7digitalid: 461028
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (561,)
+segments_loudness_max: shape = (561,)
+segments_loudness_max_time: shape = (561,)
+segments_loudness_start: shape = (561,)
+segments_pitches: shape = (561, 12)
+segments_start: shape = (561,)
+segments_timbre: shape = (561, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBCQXN12AB01889DB
+start_of_fade_out: 123.217
+tatums_confidence: shape = (505,)
+tatums_start: shape = (505,)
+tempo: 124.726
+time_signature: 5
+time_signature_confidence: 0.682
+title: Barsanova Brown (Album Version)
+track_7digitalid: 5133204
+track_id: TRAYRWL128F932B305
+year: 0

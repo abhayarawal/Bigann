@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 270586
+artist_familiarity: 0.639568998241
+artist_hotttnesss: 0.295501621932
+artist_id: ARLRHRM11E2835E415
+artist_latitude: 51.26143
+artist_location: Basingstoke
+artist_longitude: -1.09712
+artist_mbid: 5dc3323e-deec-4658-b87f-3488792df573
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mandi
+artist_playmeid: 74267
+artist_terms: shape = (82,)
+artist_terms_freq: shape = (82,)
+artist_terms_weight: shape = (82,)
+audio_md5: 1a397f57911028341aa27ae7cae25b59
+bars_confidence: shape = (92,)
+bars_start: shape = (92,)
+beats_confidence: shape = (371,)
+beats_start: shape = (371,)
+danceability: 0.0
+duration: 200.59383
+end_of_fade_in: 0.322
+energy: 0.0
+key: 7
+key_confidence: 0.762
+loudness: -6.572
+mode: 1
+mode_confidence: 0.957
+release: Pieni Maailma
+release_7digitalid: 347757
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (690,)
+segments_loudness_max: shape = (690,)
+segments_loudness_max_time: shape = (690,)
+segments_loudness_start: shape = (690,)
+segments_pitches: shape = (690, 12)
+segments_start: shape = (690,)
+segments_timbre: shape = (690, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOESZEO12AB017F908
+start_of_fade_out: 194.815
+tatums_confidence: shape = (741,)
+tatums_start: shape = (741,)
+tempo: 113.063
+time_signature: 4
+time_signature_confidence: 0.214
+title: Pieni Maailma
+track_7digitalid: 3889453
+track_id: TRAEWGT128F930A556
+year: 1998

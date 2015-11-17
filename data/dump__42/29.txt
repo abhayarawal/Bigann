@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 818
+artist_familiarity: 0.77659896783
+artist_hotttnesss: 0.490079584183
+artist_id: AR0IVSA1187FB4F069
+artist_latitude: 40.71455
+artist_location: New York
+artist_longitude: -74.00712
+artist_mbid: 582fee78-d934-4603-9f5c-1729e0ca36b7
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Helmet
+artist_playmeid: 82914
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: e8e5dbce192a1d1e3075d206e8503807
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (384,)
+beats_start: shape = (384,)
+danceability: 0.0
+duration: 206.94159
+end_of_fade_in: 0.073
+energy: 0.0
+key: 0
+key_confidence: 0.005
+loudness: -3.568
+mode: 1
+mode_confidence: 0.203
+release: Size Matters
+release_7digitalid: 1537
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (475,)
+segments_loudness_max: shape = (475,)
+segments_loudness_max_time: shape = (475,)
+segments_loudness_start: shape = (475,)
+segments_pitches: shape = (475, 12)
+segments_start: shape = (475,)
+segments_timbre: shape = (475, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.544514001879
+song_id: SOVKTCY12A6310E1CC
+start_of_fade_out: 203.395
+tatums_confidence: shape = (768,)
+tatums_start: shape = (768,)
+tempo: 112.77
+time_signature: 4
+time_signature_confidence: 0.806
+title: Everybody Loves You
+track_7digitalid: 15646
+track_id: TRAOJMY128E07836D9
+year: 2004

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 411
+artist_familiarity: 0.797890010219
+artist_hotttnesss: 0.531399329244
+artist_id: AR1CB5G1187B9AFB8E
+artist_latitude: 52.47859
+artist_location: Birmingham, England
+artist_longitude: -1.9086
+artist_mbid: 0c502791-4ee9-4c5f-9696-0602b721ff3b
+artist_mbtags: shape = (12,)
+artist_mbtags_count: shape = (12,)
+artist_name: Electric Light Orchestra
+artist_playmeid: 8503
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: c16701003275df79d6b83ce5338649bc
+bars_confidence: shape = (127,)
+bars_start: shape = (127,)
+beats_confidence: shape = (513,)
+beats_start: shape = (513,)
+danceability: 0.0
+duration: 205.40036
+end_of_fade_in: 0.436
+energy: 0.0
+key: 5
+key_confidence: 0.238
+loudness: -10.782
+mode: 0
+mode_confidence: 0.392
+release: Electric Light Orchestra
+release_7digitalid: 756
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (632,)
+segments_loudness_max: shape = (632,)
+segments_loudness_max_time: shape = (632,)
+segments_loudness_start: shape = (632,)
+segments_pitches: shape = (632, 12)
+segments_start: shape = (632,)
+segments_timbre: shape = (632, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOHOXD12A6310E8C6
+start_of_fade_out: 197.747
+tatums_confidence: shape = (1026,)
+tatums_start: shape = (1026,)
+tempo: 154.244
+time_signature: 4
+time_signature_confidence: 0.051
+title: Queen Of The Hours (2001 Digital Remaster)
+track_7digitalid: 6227
+track_id: TRBDBOI128E07817D7
+year: 0

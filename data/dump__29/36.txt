@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41002
+artist_familiarity: 0.645720023336
+artist_hotttnesss: 0.543954417056
+artist_id: AROY6XW1187B991121
+artist_latitude: nan
+artist_location: Carle Place, New York
+artist_longitude: nan
+artist_mbid: 5e7ccd92-6277-451a-aab9-1efd587c50f3
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Steve Vai
+artist_playmeid: 8613
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: d8a19ee4d69c85eeae3c05c08c8d16a2
+bars_confidence: shape = (281,)
+bars_start: shape = (281,)
+beats_confidence: shape = (1129,)
+beats_start: shape = (1129,)
+danceability: 0.0
+duration: 304.71791
+end_of_fade_in: 0.101
+energy: 0.0
+key: 5
+key_confidence: 0.663
+loudness: -7.269
+mode: 1
+mode_confidence: 0.693
+release: Fire Garden
+release_7digitalid: 282332
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (732,)
+segments_loudness_max: shape = (732,)
+segments_loudness_max_time: shape = (732,)
+segments_loudness_start: shape = (732,)
+segments_pitches: shape = (732, 12)
+segments_start: shape = (732,)
+segments_timbre: shape = (732, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.637311276401
+song_id: SOJMLXA12A8C12FB20
+start_of_fade_out: 292.49
+tatums_confidence: shape = (1129,)
+tatums_start: shape = (1129,)
+tempo: 227.161
+time_signature: 4
+time_signature_confidence: 0.645
+title: Brother
+track_7digitalid: 3138623
+track_id: TRAJXNB128F4261F43
+year: 1996

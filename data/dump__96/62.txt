@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1480
+artist_familiarity: 0.790367908794
+artist_hotttnesss: 0.642655961125
+artist_id: ARIPLUN1187B99B9F9
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: 9e0e2b01-41db-4008-bd8b-988977d6019a
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: The Police
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 34a64c560b4ad372a4999bab33482e78
+bars_confidence: shape = (148,)
+bars_start: shape = (148,)
+beats_confidence: shape = (598,)
+beats_start: shape = (598,)
+danceability: 0.0
+duration: 249.18159
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.757
+loudness: -10.362
+mode: 1
+mode_confidence: 0.527
+release: Message In A Box
+release_7digitalid: 16027
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1099,)
+segments_loudness_max: shape = (1099,)
+segments_loudness_max_time: shape = (1099,)
+segments_loudness_start: shape = (1099,)
+segments_pitches: shape = (1099, 12)
+segments_start: shape = (1099,)
+segments_timbre: shape = (1099, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMWKPQ12A679D8AEA
+start_of_fade_out: 227.068
+tatums_confidence: shape = (1196,)
+tatums_start: shape = (1196,)
+tempo: 147.599
+time_signature: 4
+time_signature_confidence: 0.209
+title: De Do Do Do_ De Da Da Da
+track_7digitalid: 169617
+track_id: TRBHGWP128E0793AD8
+year: 0

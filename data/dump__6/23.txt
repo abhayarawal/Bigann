@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 147800
+artist_familiarity: 0.429349278184
+artist_hotttnesss: 0.277789967207
+artist_id: AROVSYC119B3403921
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d5c4d5fe-f8c0-41f5-aed5-48a3760cddbb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gus Viseur
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 6678ac52d66d549bf47a5b9a4d1640f2
+bars_confidence: shape = (66,)
+bars_start: shape = (66,)
+beats_confidence: shape = (267,)
+beats_start: shape = (267,)
+danceability: 0.0
+duration: 180.00934
+end_of_fade_in: 0.845
+energy: 0.0
+key: 2
+key_confidence: 0.327
+loudness: -13.512
+mode: 0
+mode_confidence: 0.381
+release: Paris Jazz Cafe Vol.3
+release_7digitalid: 757812
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (740,)
+segments_loudness_max: shape = (740,)
+segments_loudness_max_time: shape = (740,)
+segments_loudness_start: shape = (740,)
+segments_pitches: shape = (740, 12)
+segments_start: shape = (740,)
+segments_timbre: shape = (740, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SOJUZCX12AB0181D3E
+start_of_fade_out: 175.421
+tatums_confidence: shape = (534,)
+tatums_start: shape = (534,)
+tempo: 90.177
+time_signature: 4
+time_signature_confidence: 0.817
+title: Fausse monnaie
+track_7digitalid: 8388686
+track_id: TRACBBI12903CB8387
+year: 2000

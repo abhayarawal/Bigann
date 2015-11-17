@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 822
+artist_familiarity: 0.877213745925
+artist_hotttnesss: 1.08250255673
+artist_id: ARRH63Y1187FB47783
+artist_latitude: nan
+artist_location: Atlanta, GA
+artist_longitude: nan
+artist_mbid: 164f0d73-1234-4e2c-8743-d77bf2191051
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Kanye West
+artist_playmeid: 843
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 7382e217215a256d42ea6c1133f45bb5
+bars_confidence: shape = (30,)
+bars_start: shape = (30,)
+beats_confidence: shape = (154,)
+beats_start: shape = (154,)
+danceability: 0.0
+duration: 46.602
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.127
+loudness: -13.928
+mode: 1
+mode_confidence: 0.243
+release: The College Dropout
+release_7digitalid: 2277
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (209,)
+segments_loudness_max: shape = (209,)
+segments_loudness_max_time: shape = (209,)
+segments_loudness_start: shape = (209,)
+segments_pitches: shape = (209, 12)
+segments_start: shape = (209,)
+segments_timbre: shape = (209, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOODJPE12AB01815F8
+start_of_fade_out: 44.478
+tatums_confidence: shape = (154,)
+tatums_start: shape = (154,)
+tempo: 201.792
+time_signature: 5
+time_signature_confidence: 0.255
+title: School Spirit Skit 2
+track_7digitalid: 23435
+track_id: TRAZBBP128E07845D4
+year: 2003

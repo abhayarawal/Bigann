@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 833
+artist_familiarity: 0.740250721103
+artist_hotttnesss: 0.516771087457
+artist_id: ARYVGP31187B9A531A
+artist_latitude: nan
+artist_location: Seymour, IN
+artist_longitude: nan
+artist_mbid: 0aad6b52-fd93-4ea4-9c5d-1f66e1bc9f0a
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: John Mellencamp
+artist_playmeid: 2260
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: ed4abe542de49dbd2949dcb84657096f
+bars_confidence: shape = (141,)
+bars_start: shape = (141,)
+beats_confidence: shape = (567,)
+beats_start: shape = (567,)
+danceability: 0.0
+duration: 218.67057
+end_of_fade_in: 3.17
+energy: 0.0
+key: 2
+key_confidence: 0.636
+loudness: -11.413
+mode: 1
+mode_confidence: 0.632
+release: God Bless America
+release_7digitalid: 286998
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (755,)
+segments_loudness_max: shape = (755,)
+segments_loudness_max_time: shape = (755,)
+segments_loudness_start: shape = (755,)
+segments_pitches: shape = (755, 12)
+segments_start: shape = (755,)
+segments_timbre: shape = (755, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPZQYB12AF72A186C
+start_of_fade_out: 213.316
+tatums_confidence: shape = (1133,)
+tatums_start: shape = (1133,)
+tempo: 157.419
+time_signature: 4
+time_signature_confidence: 0.061
+title: Peaceful World
+track_7digitalid: 3219308
+track_id: TRAXWQU128F42716E2
+year: 2001

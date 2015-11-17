@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 103309
+artist_familiarity: 0.381481861314
+artist_hotttnesss: 0.350213824944
+artist_id: ARSVRVA1187B99228A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cdd110d9-11b0-441f-a07b-301ca079cadb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Nelons
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: cfddf76a93c4a6b2caaa8f8ac0325cb4
+bars_confidence: shape = (21,)
+bars_start: shape = (21,)
+beats_confidence: shape = (110,)
+beats_start: shape = (110,)
+danceability: 0.0
+duration: 91.95057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.281
+loudness: -30.293
+mode: 1
+mode_confidence: 0.452
+release: Hallelujah Live
+release_7digitalid: 343010
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (339,)
+segments_loudness_max: shape = (339,)
+segments_loudness_max_time: shape = (339,)
+segments_loudness_start: shape = (339,)
+segments_pitches: shape = (339, 12)
+segments_start: shape = (339,)
+segments_timbre: shape = (339, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGFQTK12AB017DE14
+start_of_fade_out: 91.951
+tatums_confidence: shape = (331,)
+tatums_start: shape = (331,)
+tempo: 72.001
+time_signature: 5
+time_signature_confidence: 0.539
+title: I've Won (Introduction - Speaking)
+track_7digitalid: 3841189
+track_id: TRACFVO128F9300F29
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3117
+artist_familiarity: 0.856448923652
+artist_hotttnesss: 0.854637828218
+artist_id: ARPDVPJ1187B9ADBE9
+artist_latitude: nan
+artist_location: Atlanta, GA
+artist_longitude: nan
+artist_mbid: 3414d446-735a-443c-931f-10634f57e5b9
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Usher Featuring The Nu Beginning
+artist_playmeid: 1646
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: b42c1d2482e4c802195111917dc02e1e
+bars_confidence: shape = (164,)
+bars_start: shape = (164,)
+beats_confidence: shape = (660,)
+beats_start: shape = (660,)
+danceability: 0.0
+duration: 338.75546
+end_of_fade_in: 5.875
+energy: 0.0
+key: 5
+key_confidence: 0.167
+loudness: -11.215
+mode: 0
+mode_confidence: 0.366
+release: Back To The Beginning - Usher
+release_7digitalid: 667675
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1290,)
+segments_loudness_max: shape = (1290,)
+segments_loudness_max_time: shape = (1290,)
+segments_loudness_start: shape = (1290,)
+segments_pitches: shape = (1290, 12)
+segments_start: shape = (1290,)
+segments_timbre: shape = (1290, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSIANM12AB018CC80
+start_of_fade_out: 333.195
+tatums_confidence: shape = (1321,)
+tatums_start: shape = (1321,)
+tempo: 118.099
+time_signature: 4
+time_signature_confidence: 1.0
+title: Only Human
+track_7digitalid: 7402419
+track_id: TRBBQGV12903CB5CD3
+year: 2004

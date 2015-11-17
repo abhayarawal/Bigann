@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 29483
+artist_familiarity: 0.829851316499
+artist_hotttnesss: 0.581505802686
+artist_id: ARAN38V1187FB4C4EE
+artist_latitude: nan
+artist_location: Salt Lake City, UT
+artist_longitude: nan
+artist_mbid: 92e1f515-fc89-4577-9f77-addacdaf7559
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Almost
+artist_playmeid: 67580
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: b3093131faa1a0db804f47a9b1c589b7
+bars_confidence: shape = (126,)
+bars_start: shape = (126,)
+beats_confidence: shape = (507,)
+beats_start: shape = (507,)
+danceability: 0.0
+duration: 187.11465
+end_of_fade_in: 0.288
+energy: 0.0
+key: 7
+key_confidence: 0.433
+loudness: -7.387
+mode: 1
+mode_confidence: 0.351
+release: X Christmas
+release_7digitalid: 327022
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (700,)
+segments_loudness_max: shape = (700,)
+segments_loudness_max_time: shape = (700,)
+segments_loudness_start: shape = (700,)
+segments_pitches: shape = (700, 12)
+segments_start: shape = (700,)
+segments_timbre: shape = (700, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.569505198905
+song_id: SOXVXGO12AB0180137
+start_of_fade_out: 187.115
+tatums_confidence: shape = (1014,)
+tatums_start: shape = (1014,)
+tempo: 163.975
+time_signature: 4
+time_signature_confidence: 1.0
+title: Little Drummer Boy
+track_7digitalid: 3678837
+track_id: TRAIMTD128F92E198E
+year: 2008

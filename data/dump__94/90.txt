@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8399
+artist_familiarity: 0.46989530919
+artist_hotttnesss: 0.364817617549
+artist_id: ARTHWIZ1187FB4258D
+artist_latitude: 52.40698
+artist_location: Coventry, England
+artist_longitude: -1.50776
+artist_mbid: 7fb61f7b-2ad3-4d5b-96fd-5c5327456abb
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Frank Ifield
+artist_playmeid: 76621
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 66d537bd7feb197904837097038baeee
+bars_confidence: shape = (66,)
+bars_start: shape = (66,)
+beats_confidence: shape = (267,)
+beats_start: shape = (267,)
+danceability: 0.0
+duration: 151.71873
+end_of_fade_in: 0.322
+energy: 0.0
+key: 0
+key_confidence: 0.569
+loudness: -9.64
+mode: 1
+mode_confidence: 0.565
+release: Remembering The Sixties
+release_7digitalid: 338991
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (438,)
+segments_loudness_max: shape = (438,)
+segments_loudness_max_time: shape = (438,)
+segments_loudness_start: shape = (438,)
+segments_pitches: shape = (438, 12)
+segments_start: shape = (438,)
+segments_timbre: shape = (438, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODGOBW12AB01803D3
+start_of_fade_out: 144.115
+tatums_confidence: shape = (535,)
+tatums_start: shape = (535,)
+tempo: 109.402
+time_signature: 4
+time_signature_confidence: 0.0
+title: I'll Be Around
+track_7digitalid: 3790866
+track_id: TRBGSCJ128F92F6D47
+year: 0

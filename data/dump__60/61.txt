@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 588
+artist_familiarity: 0.929030287441
+artist_hotttnesss: 0.750426551019
+artist_id: ARR3ONV1187B9A2F59
+artist_latitude: 54.31407
+artist_location: UK
+artist_longitude: -2.23001
+artist_mbid: fd857293-5ab8-40de-b29e-55a69d4e4d0f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Muse
+artist_playmeid: -1
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 844661482b9990435db4623704f8dee0
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (417,)
+beats_start: shape = (417,)
+danceability: 0.0
+duration: 209.34485
+end_of_fade_in: 0.089
+energy: 0.0
+key: 7
+key_confidence: 0.034
+loudness: -3.313
+mode: 1
+mode_confidence: 0.503
+release: Supermassive Black Hole
+release_7digitalid: 36469
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (864,)
+segments_loudness_max: shape = (864,)
+segments_loudness_max_time: shape = (864,)
+segments_loudness_start: shape = (864,)
+segments_pitches: shape = (864, 12)
+segments_start: shape = (864,)
+segments_timbre: shape = (864, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.760347780547
+song_id: SOIZLKI12A6D4F7B61
+start_of_fade_out: 206.698
+tatums_confidence: shape = (834,)
+tatums_start: shape = (834,)
+tempo: 120.01
+time_signature: 4
+time_signature_confidence: 1.0
+title: Supermassive Black Hole (Album Version)
+track_7digitalid: 391871
+track_id: TRAURYF128F147805D
+year: 0

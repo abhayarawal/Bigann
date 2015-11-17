@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 182552
+artist_familiarity: 0.340367099925
+artist_hotttnesss: 0.272103089672
+artist_id: ARZOVCV11F4C83D9FA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bamberg Symphony Orchestra and Hans Swarowsky
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: e24388b87ae3ba00d820e11b6968f717
+bars_confidence: shape = (82,)
+bars_start: shape = (82,)
+beats_confidence: shape = (331,)
+beats_start: shape = (331,)
+danceability: 0.0
+duration: 151.01342
+end_of_fade_in: 0.943
+energy: 0.0
+key: 2
+key_confidence: 0.331
+loudness: -22.492
+mode: 0
+mode_confidence: 0.507
+release: Brahms: The Complete Symphonies and Hungarian Dances
+release_7digitalid: 753651
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (381,)
+segments_loudness_max: shape = (381,)
+segments_loudness_max_time: shape = (381,)
+segments_loudness_start: shape = (381,)
+segments_pitches: shape = (381, 12)
+segments_start: shape = (381,)
+segments_timbre: shape = (381, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOOJUT12AB01883B9
+start_of_fade_out: 145.984
+tatums_confidence: shape = (661,)
+tatums_start: shape = (661,)
+tempo: 137.219
+time_signature: 4
+time_signature_confidence: 0.0
+title: Hungarian Dances_ WoO 1: No. 12 in D Minor: Presto
+track_7digitalid: 8342486
+track_id: TRACNZU12903CACFCF
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4715
+artist_familiarity: 0.604820431918
+artist_hotttnesss: 0.383877493634
+artist_id: AR7BMMV1187FB5B2D7
+artist_latitude: 39.15093
+artist_location: Ukiah, CA
+artist_longitude: -123.2079
+artist_mbid: 9c17c956-de06-4463-9a87-234652c306dc
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Robben Ford
+artist_playmeid: -1
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: ad8b2dbedd290cd8bc732ff75dbee2b3
+bars_confidence: shape = (192,)
+bars_start: shape = (192,)
+beats_confidence: shape = (775,)
+beats_start: shape = (775,)
+danceability: 0.0
+duration: 367.98649
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.0
+loudness: -6.626
+mode: 1
+mode_confidence: 0.147
+release: Soul On Ten
+release_7digitalid: 545281
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1280,)
+segments_loudness_max: shape = (1280,)
+segments_loudness_max_time: shape = (1280,)
+segments_loudness_start: shape = (1280,)
+segments_pitches: shape = (1280, 12)
+segments_start: shape = (1280,)
+segments_timbre: shape = (1280, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3759843015
+song_id: SODVGUA12AB017D708
+start_of_fade_out: 361.076
+tatums_confidence: shape = (2324,)
+tatums_start: shape = (2324,)
+tempo: 126.42
+time_signature: 4
+time_signature_confidence: 0.267
+title: Spoonful
+track_7digitalid: 6034972
+track_id: TRAIQVJ128F93235B3
+year: 2009

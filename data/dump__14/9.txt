@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 172632
+artist_familiarity: 0.310776523276
+artist_hotttnesss: 0.22842866681
+artist_id: ARPB4TX1187B98DDEA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8b198672-7752-4b5f-9f7e-383852082581
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Marga Gomez
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: ce893a89f74751117e439461d8834747
+bars_confidence: shape = (27,)
+bars_start: shape = (27,)
+beats_confidence: shape = (129,)
+beats_start: shape = (129,)
+danceability: 0.0
+duration: 95.73832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.171
+loudness: -14.218
+mode: 1
+mode_confidence: 0.203
+release: Hung Like A Fly
+release_7digitalid: 225440
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (406,)
+segments_loudness_max: shape = (406,)
+segments_loudness_max_time: shape = (406,)
+segments_loudness_start: shape = (406,)
+segments_pitches: shape = (406, 12)
+segments_start: shape = (406,)
+segments_timbre: shape = (406, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.340922755864
+song_id: SOPJEXC12A6D4FB529
+start_of_fade_out: 95.738
+tatums_confidence: shape = (386,)
+tatums_start: shape = (386,)
+tempo: 78.139
+time_signature: 4
+time_signature_confidence: 0.733
+title: Hot Dental Supplies
+track_7digitalid: 2466155
+track_id: TRAESVN128F4213033
+year: 0

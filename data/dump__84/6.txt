@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 134199
+artist_familiarity: 0.590959002053
+artist_hotttnesss: 0.356984153626
+artist_id: AR3L4P91187FB42189
+artist_latitude: 36.16778
+artist_location: Nashville
+artist_longitude: -86.77836
+artist_mbid: 0039cd9c-ea95-4553-86c4-4f729984cc2f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dann Huff
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: cc4fe7189ce74a330629518c47f531d1
+bars_confidence: shape = (79,)
+bars_start: shape = (79,)
+beats_confidence: shape = (319,)
+beats_start: shape = (319,)
+danceability: 0.0
+duration: 160.73098
+end_of_fade_in: 0.264
+energy: 0.0
+key: 0
+key_confidence: 0.107
+loudness: -13.716
+mode: 1
+mode_confidence: 0.575
+release: Solos
+release_7digitalid: 177238
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (521,)
+segments_loudness_max: shape = (521,)
+segments_loudness_max_time: shape = (521,)
+segments_loudness_start: shape = (521,)
+segments_pitches: shape = (521, 12)
+segments_start: shape = (521,)
+segments_timbre: shape = (521, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZWVZN12A6D4FB762
+start_of_fade_out: 150.843
+tatums_confidence: shape = (957,)
+tatums_start: shape = (957,)
+tempo: 120.366
+time_signature: 4
+time_signature_confidence: 1.0
+title: Light
+track_7digitalid: 1911065
+track_id: TRBCVQL128F422572E
+year: 0

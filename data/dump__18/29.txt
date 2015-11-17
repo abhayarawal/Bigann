@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 598
+artist_familiarity: 0.889613554744
+artist_hotttnesss: 0.593808365175
+artist_id: ARSE5NP1187B9B98AB
+artist_latitude: nan
+artist_location: Chicago, IL
+artist_longitude: nan
+artist_mbid: 0bc858a1-3573-4216-9423-c96dd8c72919
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Twista
+artist_playmeid: 1634
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: ecb11d890535362cace3f668666b8677
+bars_confidence: shape = (73,)
+bars_start: shape = (73,)
+beats_confidence: shape = (303,)
+beats_start: shape = (303,)
+danceability: 0.0
+duration: 200.98567
+end_of_fade_in: 0.125
+energy: 0.0
+key: 7
+key_confidence: 0.003
+loudness: -8.273
+mode: 1
+mode_confidence: 0.384
+release: The Day After
+release_7digitalid: 138186
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (839,)
+segments_loudness_max: shape = (839,)
+segments_loudness_max_time: shape = (839,)
+segments_loudness_start: shape = (839,)
+segments_pitches: shape = (839, 12)
+segments_start: shape = (839,)
+segments_timbre: shape = (839, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJEEKG12A8AE48C77
+start_of_fade_out: 200.986
+tatums_confidence: shape = (910,)
+tatums_start: shape = (910,)
+tempo: 90.158
+time_signature: 4
+time_signature_confidence: 0.685
+title: The Day After (featuring Syleena Johnson) (Explicit Chopped & Screwed Version)
+track_7digitalid: 1434269
+track_id: TRAGFQG128F42418D5
+year: 2005

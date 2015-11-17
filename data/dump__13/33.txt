@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 124036
+artist_familiarity: 0.362800141681
+artist_hotttnesss: 0.282286405633
+artist_id: ARW4AGO1187FB4F107
+artist_latitude: 33.45081
+artist_location: Indianola, MS
+artist_longitude: -90.645
+artist_mbid: a32c74a4-4774-4b60-be49-341665450d46
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jazz Gillum
+artist_playmeid: 54945
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: cea03553c454bedb3f762b3225500d7b
+bars_confidence: shape = (301,)
+bars_start: shape = (301,)
+beats_confidence: shape = (301,)
+beats_start: shape = (301,)
+danceability: 0.0
+duration: 183.09179
+end_of_fade_in: 0.415
+energy: 0.0
+key: 7
+key_confidence: 0.519
+loudness: -14.663
+mode: 1
+mode_confidence: 0.5
+release: Jazz Gillum Vol. 2 1938-1941
+release_7digitalid: 174688
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (680,)
+segments_loudness_max: shape = (680,)
+segments_loudness_max_time: shape = (680,)
+segments_loudness_start: shape = (680,)
+segments_pitches: shape = (680, 12)
+segments_start: shape = (680,)
+segments_timbre: shape = (680, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGDDBQ12A8C140740
+start_of_fade_out: 176.982
+tatums_confidence: shape = (904,)
+tatums_start: shape = (904,)
+tempo: 101.713
+time_signature: 1
+time_signature_confidence: 0.0
+title: Little Woman
+track_7digitalid: 1873068
+track_id: TRAEMXB128F429FA26
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1246
+artist_familiarity: 0.845768866449
+artist_hotttnesss: 0.788805935162
+artist_id: ARF2EHS1187B994F4E
+artist_latitude: 36.16778
+artist_location: Nashville, Tennessee
+artist_longitude: -86.77836
+artist_mbid: 6ffb8ea9-2370-44d8-b678-e9237bbd347b
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Kings Of Leon
+artist_playmeid: 1858
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 607521c751a7592752926bd5cfa248c3
+bars_confidence: shape = (118,)
+bars_start: shape = (118,)
+beats_confidence: shape = (474,)
+beats_start: shape = (474,)
+danceability: 0.0
+duration: 225.27955
+end_of_fade_in: 3.077
+energy: 0.0
+key: 11
+key_confidence: 0.682
+loudness: -6.205
+mode: 0
+mode_confidence: 0.449
+release: Charmer
+release_7digitalid: 280211
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1011,)
+segments_loudness_max: shape = (1011,)
+segments_loudness_max_time: shape = (1011,)
+segments_loudness_start: shape = (1011,)
+segments_pitches: shape = (1011, 12)
+segments_start: shape = (1011,)
+segments_timbre: shape = (1011, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.565666582199
+song_id: SOOCPDS12A8AE469F0
+start_of_fade_out: 219.852
+tatums_confidence: shape = (948,)
+tatums_start: shape = (948,)
+tempo: 127.006
+time_signature: 4
+time_signature_confidence: 0.589
+title: My Party (Kenna Remix)
+track_7digitalid: 3123852
+track_id: TRAIBXQ128F425E6A5
+year: 2007

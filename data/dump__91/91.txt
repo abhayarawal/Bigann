@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 72638
+artist_familiarity: 0.664690938937
+artist_hotttnesss: 0.429261029065
+artist_id: ARIF3EV1187B9B8522
+artist_latitude: 43.00029
+artist_location: Wyoming
+artist_longitude: -107.55405
+artist_mbid: f3c61305-2b53-4d29-991b-1af1556e191a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Paul Taylor
+artist_playmeid: 50010
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: c178823911e45728fc4341fc0d646ca6
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (412,)
+beats_start: shape = (412,)
+danceability: 0.0
+duration: 249.83465
+end_of_fade_in: 0.165
+energy: 0.0
+key: 5
+key_confidence: 0.269
+loudness: -4.73
+mode: 1
+mode_confidence: 0.042
+release: Nightlife
+release_7digitalid: 337856
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (943,)
+segments_loudness_max: shape = (943,)
+segments_loudness_max_time: shape = (943,)
+segments_loudness_start: shape = (943,)
+segments_pitches: shape = (943, 12)
+segments_start: shape = (943,)
+segments_timbre: shape = (943, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.640684030349
+song_id: SOAQKKK12A58A7859A
+start_of_fade_out: 234.963
+tatums_confidence: shape = (825,)
+tatums_start: shape = (825,)
+tempo: 100.058
+time_signature: 4
+time_signature_confidence: 0.683
+title: East Bay Bounce
+track_7digitalid: 3780031
+track_id: TRBFSAI128F92F4AC0
+year: 0

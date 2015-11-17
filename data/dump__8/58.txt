@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 750
+artist_familiarity: 0.749860753246
+artist_hotttnesss: 0.516535179673
+artist_id: AR3Q48J1187FB55278
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3697647f-1839-479e-98a1-9ad39004d923
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Rapture
+artist_playmeid: -1
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 0af2d92c571730258bfd69225a437912
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (435,)
+beats_start: shape = (435,)
+danceability: 0.0
+duration: 218.22649
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.061
+loudness: -7.693
+mode: 0
+mode_confidence: 0.466
+release: Echoes
+release_7digitalid: 8470
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1324,)
+segments_loudness_max: shape = (1324,)
+segments_loudness_max_time: shape = (1324,)
+segments_loudness_start: shape = (1324,)
+segments_pitches: shape = (1324, 12)
+segments_start: shape = (1324,)
+segments_timbre: shape = (1324, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.626464240185
+song_id: SOITFPA12A670201C6
+start_of_fade_out: 211.075
+tatums_confidence: shape = (1741,)
+tatums_start: shape = (1741,)
+tempo: 120.006
+time_signature: 4
+time_signature_confidence: 1.0
+title: Killing
+track_7digitalid: 85367
+track_id: TRACUXJ128E0785F2B
+year: 2003

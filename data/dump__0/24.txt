@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 82239
+artist_familiarity: 0.839962768151
+artist_hotttnesss: 0.541888972034
+artist_id: ARMAC4T1187FB3FA4C
+artist_latitude: 40.82624
+artist_location: Morris Plains, NJ
+artist_longitude: -74.47995
+artist_mbid: 1bc41dff-5397-4c53-bb50-469d2c277197
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: The Dillinger Escape Plan
+artist_playmeid: 11414
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 8c987e191b479de914ece0ece1f8fb9e
+bars_confidence: shape = (142,)
+bars_start: shape = (142,)
+beats_confidence: shape = (572,)
+beats_start: shape = (572,)
+danceability: 0.0
+duration: 207.77751
+end_of_fade_in: 0.061
+energy: 0.0
+key: 7
+key_confidence: 0.381
+loudness: -4.264
+mode: 1
+mode_confidence: 0.453
+release: Miss Machine
+release_7digitalid: 223365
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (719,)
+segments_loudness_max: shape = (719,)
+segments_loudness_max_time: shape = (719,)
+segments_loudness_start: shape = (719,)
+segments_pitches: shape = (719, 12)
+segments_start: shape = (719,)
+segments_timbre: shape = (719, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.66652784623
+song_id: SOBBUGU12A8C13E95D
+start_of_fade_out: 204.696
+tatums_confidence: shape = (1144,)
+tatums_start: shape = (1144,)
+tempo: 166.862
+time_signature: 4
+time_signature_confidence: 0.0
+title: Setting Fire to Sleeping Giants
+track_7digitalid: 2439720
+track_id: TRAACER128F4290F96
+year: 2004

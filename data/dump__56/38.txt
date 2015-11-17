@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 70487
+artist_familiarity: 0.674633734277
+artist_hotttnesss: 0.421120111525
+artist_id: AR1LG7D1187B99BAFF
+artist_latitude: nan
+artist_location: Wilmington NC
+artist_longitude: nan
+artist_mbid: 700f0813-e644-4d2a-873d-62fb113d1e5d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Weedeater
+artist_playmeid: 79578
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 78dd9c98d90388ad4d7dcfd02bee7fd3
+bars_confidence: shape = (213,)
+bars_start: shape = (213,)
+beats_confidence: shape = (654,)
+beats_start: shape = (654,)
+danceability: 0.0
+duration: 269.00853
+end_of_fade_in: 0.148
+energy: 0.0
+key: 7
+key_confidence: 0.392
+loudness: -9.036
+mode: 1
+mode_confidence: 0.592
+release: And Justice for Y'all
+release_7digitalid: 89841
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (530,)
+segments_loudness_max: shape = (530,)
+segments_loudness_max_time: shape = (530,)
+segments_loudness_start: shape = (530,)
+segments_pitches: shape = (530, 12)
+segments_start: shape = (530,)
+segments_timbre: shape = (530, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.581317745056
+song_id: SOQBOUQ12A8C1372F4
+start_of_fade_out: 265.932
+tatums_confidence: shape = (654,)
+tatums_start: shape = (654,)
+tempo: 142.639
+time_signature: 3
+time_signature_confidence: 0.0
+title: Monkey Junction
+track_7digitalid: 948877
+track_id: TRATGDS128F426A2E8
+year: 2001

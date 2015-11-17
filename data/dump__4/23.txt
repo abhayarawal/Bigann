@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 103932
+artist_familiarity: 0.668020248723
+artist_hotttnesss: 0.516963730738
+artist_id: ARYF20K1187B9B76BD
+artist_latitude: nan
+artist_location: ORANGE, California
+artist_longitude: nan
+artist_mbid: 4a41c200-153b-4158-87b3-db0fea627e2c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: George Lopez
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 5e9808e93ff2bb9f9905ca23a253f96f
+bars_confidence: shape = (71,)
+bars_start: shape = (71,)
+beats_confidence: shape = (436,)
+beats_start: shape = (436,)
+danceability: 0.0
+duration: 345.23383
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.604
+loudness: -8.832
+mode: 1
+mode_confidence: 0.383
+release: Tall_ Dark & Chicano
+release_7digitalid: 679314
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1143,)
+segments_loudness_max: shape = (1143,)
+segments_loudness_max_time: shape = (1143,)
+segments_loudness_start: shape = (1143,)
+segments_pitches: shape = (1143, 12)
+segments_start: shape = (1143,)
+segments_timbre: shape = (1143, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOWWPQ12AB018E4B7
+start_of_fade_out: 341.455
+tatums_confidence: shape = (1308,)
+tatums_start: shape = (1308,)
+tempo: 75.467
+time_signature: 5
+time_signature_confidence: 0.724
+title: Only For The Young
+track_7digitalid: 7537011
+track_id: TRABJOT12903CD66AA
+year: 2009

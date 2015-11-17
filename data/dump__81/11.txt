@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4024
+artist_familiarity: 0.643544997241
+artist_hotttnesss: 0.670106172837
+artist_id: ARVNGA71187FB3C107
+artist_latitude: nan
+artist_location: Jackson, MS
+artist_longitude: nan
+artist_mbid: 406552d4-5ba1-4226-b7c0-367bc50fc767
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Faith Hill
+artist_playmeid: 593
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 79e2b19c8738be0a125c2378ea10db73
+bars_confidence: shape = (121,)
+bars_start: shape = (121,)
+beats_confidence: shape = (490,)
+beats_start: shape = (490,)
+danceability: 0.0
+duration: 207.80363
+end_of_fade_in: 0.084
+energy: 0.0
+key: 0
+key_confidence: 0.441
+loudness: -7.132
+mode: 1
+mode_confidence: 0.5
+release: Faith
+release_7digitalid: 597519
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (620,)
+segments_loudness_max: shape = (620,)
+segments_loudness_max_time: shape = (620,)
+segments_loudness_start: shape = (620,)
+segments_pitches: shape = (620, 12)
+segments_start: shape = (620,)
+segments_timbre: shape = (620, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.517789044025
+song_id: SOQAUIF12AC46861CF
+start_of_fade_out: 186.805
+tatums_confidence: shape = (981,)
+tatums_start: shape = (981,)
+tempo: 141.705
+time_signature: 4
+time_signature_confidence: 0.472
+title: Better Days (Album Version)
+track_7digitalid: 6631959
+track_id: TRBBTZW12903CE7495
+year: 1998

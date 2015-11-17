@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15403
+artist_familiarity: 0.556750823055
+artist_hotttnesss: 0.361587941532
+artist_id: ARAMIDF1187FB3D8D4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: aae1ec8e-ecd9-44ef-aca8-b5f44579ecce
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Alejandro Lerner
+artist_playmeid: -1
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: dc26c483020288638f25776296ffc6d9
+bars_confidence: shape = (115,)
+bars_start: shape = (115,)
+beats_confidence: shape = (463,)
+beats_start: shape = (463,)
+danceability: 0.0
+duration: 199.54893
+end_of_fade_in: 0.229
+energy: 0.0
+key: 9
+key_confidence: 0.446
+loudness: -5.585
+mode: 1
+mode_confidence: 0.372
+release: 20 Años
+release_7digitalid: 346208
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (727,)
+segments_loudness_max: shape = (727,)
+segments_loudness_max_time: shape = (727,)
+segments_loudness_start: shape = (727,)
+segments_pitches: shape = (727, 12)
+segments_start: shape = (727,)
+segments_timbre: shape = (727, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGNRMY12AB01856F8
+start_of_fade_out: 195.965
+tatums_confidence: shape = (927,)
+tatums_start: shape = (927,)
+tempo: 140.186
+time_signature: 4
+time_signature_confidence: 0.0
+title: Nena Neurótica
+track_7digitalid: 3879411
+track_id: TRAIAIH128F9308AC7
+year: 0

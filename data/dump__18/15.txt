@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 362991
+artist_familiarity: 0.360054622648
+artist_hotttnesss: 0.276445883493
+artist_id: ARWWDSC1269FCD4D06
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ministère des Affaires Populaires
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 119a80687016418b1796f7ef3e394177
+bars_confidence: shape = (155,)
+bars_start: shape = (155,)
+beats_confidence: shape = (155,)
+beats_start: shape = (155,)
+danceability: 0.0
+duration: 140.12036
+end_of_fade_in: 0.432
+energy: 0.0
+key: 2
+key_confidence: 0.686
+loudness: -16.165
+mode: 1
+mode_confidence: 0.664
+release: Debout là d'dans
+release_7digitalid: 490203
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (406,)
+segments_loudness_max: shape = (406,)
+segments_loudness_max_time: shape = (406,)
+segments_loudness_start: shape = (406,)
+segments_pitches: shape = (406, 12)
+segments_start: shape = (406,)
+segments_timbre: shape = (406, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTURND12AB0183FF9
+start_of_fade_out: 137.741
+tatums_confidence: shape = (464,)
+tatums_start: shape = (464,)
+tempo: 66.963
+time_signature: 1
+time_signature_confidence: 0.47
+title: Bagdad by night
+track_7digitalid: 5431500
+track_id: TRAGEMO128F9306A84
+year: 0

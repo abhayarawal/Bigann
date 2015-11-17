@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 88247
+artist_familiarity: 0.592797346267
+artist_hotttnesss: 0.453629718069
+artist_id: AR20BO61187B9B880E
+artist_latitude: 36.83264
+artist_location: Portsmouth, VA
+artist_longitude: -76.29771
+artist_mbid: d9562589-942d-4971-a030-77df0503366d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Patton Oswalt
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 9f311bbb391ed4b563feb6d7b6ca5269
+bars_confidence: shape = (405,)
+bars_start: shape = (405,)
+beats_confidence: shape = (405,)
+beats_start: shape = (405,)
+danceability: 0.0
+duration: 338.05016
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.356
+loudness: -12.769
+mode: 1
+mode_confidence: 0.346
+release: Werewolves and Lollipops
+release_7digitalid: 112261
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1344,)
+segments_loudness_max: shape = (1344,)
+segments_loudness_max_time: shape = (1344,)
+segments_loudness_start: shape = (1344,)
+segments_pitches: shape = (1344, 12)
+segments_start: shape = (1344,)
+segments_timbre: shape = (1344, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.618047725797
+song_id: SOGQWZF12A8C13DDDD
+start_of_fade_out: 333.369
+tatums_confidence: shape = (1214,)
+tatums_start: shape = (1214,)
+tempo: 71.031
+time_signature: 1
+time_signature_confidence: 0.476
+title: You Are Allowed 20 Birthday Parties (Album)
+track_7digitalid: 1159569
+track_id: TRAVNVI128F4298D23
+year: 2007

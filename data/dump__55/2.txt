@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 32650
+artist_familiarity: 0.642870713337
+artist_hotttnesss: 0.463391452012
+artist_id: AR0N8D61187FB3D0D6
+artist_latitude: nan
+artist_location: Bergen, Norway
+artist_longitude: nan
+artist_mbid: 2c3bac0a-5158-442f-b50b-056aae52138c
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Kaizers Orchestra
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: b44fa055f11b412f2430be0603ba82ae
+bars_confidence: shape = (79,)
+bars_start: shape = (79,)
+beats_confidence: shape = (320,)
+beats_start: shape = (320,)
+danceability: 0.0
+duration: 139.88526
+end_of_fade_in: 0.281
+energy: 0.0
+key: 11
+key_confidence: 0.127
+loudness: -4.894
+mode: 1
+mode_confidence: 0.33
+release: Evig Pint
+release_7digitalid: 651359
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (435,)
+segments_loudness_max: shape = (435,)
+segments_loudness_max_time: shape = (435,)
+segments_loudness_start: shape = (435,)
+segments_pitches: shape = (435, 12)
+segments_start: shape = (435,)
+segments_timbre: shape = (435, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYDXZM12AB0186736
+start_of_fade_out: 130.45
+tatums_confidence: shape = (640,)
+tatums_start: shape = (640,)
+tempo: 137.766
+time_signature: 4
+time_signature_confidence: 0.085
+title: Container
+track_7digitalid: 7215804
+track_id: TRASUTG128F935A445
+year: 2003

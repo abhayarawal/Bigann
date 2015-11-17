@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15244
+artist_familiarity: 0.62682132694
+artist_hotttnesss: 0.388752603404
+artist_id: ARZ4Y2H1187FB3C36F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 49fc7e46-5441-4b7e-996a-12dddf22a632
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Estopa
+artist_playmeid: 1804
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 98d7c9253773f3178dc3866a4a6c768b
+bars_confidence: shape = (207,)
+bars_start: shape = (207,)
+beats_confidence: shape = (623,)
+beats_start: shape = (623,)
+danceability: 0.0
+duration: 226.5073
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.402
+loudness: -4.872
+mode: 1
+mode_confidence: 0.453
+release: X Anniversarivm
+release_7digitalid: 636902
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (822,)
+segments_loudness_max: shape = (822,)
+segments_loudness_max_time: shape = (822,)
+segments_loudness_start: shape = (822,)
+segments_pitches: shape = (822, 12)
+segments_start: shape = (822,)
+segments_timbre: shape = (822, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOARFDK12AB01826E6
+start_of_fade_out: 220.532
+tatums_confidence: shape = (1246,)
+tatums_start: shape = (1246,)
+tempo: 170.739
+time_signature: 3
+time_signature_confidence: 0.86
+title: Me Falta El Aliento
+track_7digitalid: 7067502
+track_id: TRASRVD128F933624A
+year: 1999

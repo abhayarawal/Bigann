@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8860
+artist_familiarity: 0.937964750397
+artist_hotttnesss: 0.566622887558
+artist_id: ARSG7NQ1187FB57482
+artist_latitude: nan
+artist_location: Wilmette, IL
+artist_longitude: nan
+artist_mbid: 516cef4d-0718-4007-9939-f9b38af3f784
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Fall Out Boy
+artist_playmeid: 2598
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: a8a855d025d4ab2ce65e48078443a490
+bars_confidence: shape = (109,)
+bars_start: shape = (109,)
+beats_confidence: shape = (440,)
+beats_start: shape = (440,)
+danceability: 0.0
+duration: 203.91138
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.045
+loudness: -3.237
+mode: 0
+mode_confidence: 0.27
+release: Infinity On High
+release_7digitalid: 57000
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (538,)
+segments_loudness_max: shape = (538,)
+segments_loudness_max_time: shape = (538,)
+segments_loudness_start: shape = (538,)
+segments_pitches: shape = (538, 12)
+segments_start: shape = (538,)
+segments_timbre: shape = (538, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.720431538474
+song_id: SOYVCJU12A67AD8617
+start_of_fade_out: 191.216
+tatums_confidence: shape = (879,)
+tatums_start: shape = (879,)
+tempo: 140.878
+time_signature: 4
+time_signature_confidence: 0.93
+title: The Carpal Tunnel Of Love
+track_7digitalid: 592430
+track_id: TRAGNBQ128F149CB93
+year: 2007

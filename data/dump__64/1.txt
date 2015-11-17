@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19076
+artist_familiarity: 0.416147176425
+artist_hotttnesss: 0.28744675323
+artist_id: ARI945I1187FB4CC22
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f5014b80-cded-427a-bac8-0ad161949df2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The King Sisters
+artist_playmeid: 66797
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: a3caef8069e5208647e33c0fcb67dc6f
+bars_confidence: shape = (187,)
+bars_start: shape = (187,)
+beats_confidence: shape = (187,)
+beats_start: shape = (187,)
+danceability: 0.0
+duration: 195.89179
+end_of_fade_in: 0.107
+energy: 0.0
+key: 5
+key_confidence: 0.478
+loudness: -27.863
+mode: 1
+mode_confidence: 0.517
+release: Aloha
+release_7digitalid: 576258
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (320,)
+segments_loudness_max: shape = (320,)
+segments_loudness_max_time: shape = (320,)
+segments_loudness_start: shape = (320,)
+segments_pitches: shape = (320, 12)
+segments_start: shape = (320,)
+segments_timbre: shape = (320, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOWEVAT12AB0187AE7
+start_of_fade_out: 183.507
+tatums_confidence: shape = (374,)
+tatums_start: shape = (374,)
+tempo: 58.294
+time_signature: 1
+time_signature_confidence: 0.0
+title: Hawaiian Wedding Song
+track_7digitalid: 6387793
+track_id: TRAVXUN12903CAC564
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23773
+artist_familiarity: 0.368134444886
+artist_hotttnesss: 0.313665816994
+artist_id: ARKA2YS1187B9A4060
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9e4bf2a9-1971-42d2-8742-f9edb00501c2
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Michèle Arnaud
+artist_playmeid: -1
+artist_terms: shape = (7,)
+artist_terms_freq: shape = (7,)
+artist_terms_weight: shape = (7,)
+audio_md5: 4188da48276f93fbbcc082201112d5d7
+bars_confidence: shape = (16,)
+bars_start: shape = (16,)
+beats_confidence: shape = (142,)
+beats_start: shape = (142,)
+danceability: 0.0
+duration: 176.27383
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.0
+loudness: -13.366
+mode: 1
+mode_confidence: 0.0
+release: Disque Pathé
+release_7digitalid: 34505
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (505,)
+segments_loudness_max: shape = (505,)
+segments_loudness_max_time: shape = (505,)
+segments_loudness_start: shape = (505,)
+segments_pitches: shape = (505, 12)
+segments_start: shape = (505,)
+segments_timbre: shape = (505, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEGTAN12A6D4F8726
+start_of_fade_out: 168.856
+tatums_confidence: shape = (568,)
+tatums_start: shape = (568,)
+tempo: 49.262
+time_signature: 4
+time_signature_confidence: 0.0
+title: Marie D'Aquitaine
+track_7digitalid: 369327
+track_id: TRAAYVL128F1473727
+year: 0

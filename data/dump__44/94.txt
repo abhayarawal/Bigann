@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13447
+artist_familiarity: 0.686988954629
+artist_hotttnesss: 0.606630151729
+artist_id: ARX9YIP1187B98A656
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5ecc3f72-20a6-47a0-8dc5-fb0b3dadeea0
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: RUN-DMC
+artist_playmeid: 1373
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 104b1b9c619f36e7641e720aa10c7483
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (382,)
+beats_start: shape = (382,)
+danceability: 0.0
+duration: 185.23383
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.163
+loudness: -4.92
+mode: 1
+mode_confidence: 0.572
+release: Tougher Than Leather
+release_7digitalid: 307454
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (721,)
+segments_loudness_max: shape = (721,)
+segments_loudness_max_time: shape = (721,)
+segments_loudness_start: shape = (721,)
+segments_pitches: shape = (721, 12)
+segments_start: shape = (721,)
+segments_timbre: shape = (721, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVGAZH12A8C140274
+start_of_fade_out: 185.234
+tatums_confidence: shape = (764,)
+tatums_start: shape = (764,)
+tempo: 124.993
+time_signature: 4
+time_signature_confidence: 0.299
+title: Miss Elaine
+track_7digitalid: 3474945
+track_id: TRAPIIR128F42AEE95
+year: 1988

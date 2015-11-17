@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 233361
+artist_familiarity: 0.483703807104
+artist_hotttnesss: 0.351624468897
+artist_id: ARTEGHH1187FB435C8
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5bc7b413-22ba-429f-9b1e-9082b19a9def
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Bebo & Cigala
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 812ba7f18ccefccf2d5fb1f2c7ff1001
+bars_confidence: shape = (430,)
+bars_start: shape = (430,)
+beats_confidence: shape = (430,)
+beats_start: shape = (430,)
+danceability: 0.0
+duration: 198.26893
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.414
+loudness: -14.509
+mode: 0
+mode_confidence: 0.485
+release: Lagrimas Negras
+release_7digitalid: 296995
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (674,)
+segments_loudness_max: shape = (674,)
+segments_loudness_max_time: shape = (674,)
+segments_loudness_start: shape = (674,)
+segments_pitches: shape = (674, 12)
+segments_start: shape = (674,)
+segments_timbre: shape = (674, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.676548905601
+song_id: SOKEXTF12A8C13AE7E
+start_of_fade_out: 193.782
+tatums_confidence: shape = (860,)
+tatums_start: shape = (860,)
+tempo: 132.967
+time_signature: 1
+time_signature_confidence: 0.405
+title: Inolvidable
+track_7digitalid: 3340959
+track_id: TRAAQLJ128F428E870
+year: 2003

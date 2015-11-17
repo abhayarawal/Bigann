@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 323330
+artist_familiarity: 0.420717258746
+artist_hotttnesss: 0.135143959133
+artist_id: ARAKX8D1187B98CCE2
+artist_latitude: 35.83073
+artist_location: Tennessee
+artist_longitude: -85.97874
+artist_mbid: 6f4e74c9-c3fa-4eef-a97b-80a1026361b8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bob Cheevers
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 36d47cc42a3024be94bbb51bb603dff4
+bars_confidence: shape = (97,)
+bars_start: shape = (97,)
+beats_confidence: shape = (392,)
+beats_start: shape = (392,)
+danceability: 0.0
+duration: 204.38159
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.644
+loudness: -9.816
+mode: 1
+mode_confidence: 0.818
+release: Texas To Tennessee
+release_7digitalid: 713125
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (586,)
+segments_loudness_max: shape = (586,)
+segments_loudness_max_time: shape = (586,)
+segments_loudness_start: shape = (586,)
+segments_pitches: shape = (586, 12)
+segments_start: shape = (586,)
+segments_timbre: shape = (586, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPESJQ12AB0189D07
+start_of_fade_out: 194.531
+tatums_confidence: shape = (784,)
+tatums_start: shape = (784,)
+tempo: 116.729
+time_signature: 4
+time_signature_confidence: 0.84
+title: Under The Bayou Moon
+track_7digitalid: 7910825
+track_id: TRAMFEW12903CBAA97
+year: 0

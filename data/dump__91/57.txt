@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1363
+artist_familiarity: 0.755566397734
+artist_hotttnesss: 0.464186401696
+artist_id: AR4BDNG1187FB44870
+artist_latitude: nan
+artist_location: Batley, England
+artist_longitude: nan
+artist_mbid: 96b1d906-0fda-406d-beb6-19c6758998df
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Robert Palmer
+artist_playmeid: 1355
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 41371d5df8eacd4f72c949f66966b4c0
+bars_confidence: shape = (118,)
+bars_start: shape = (118,)
+beats_confidence: shape = (475,)
+beats_start: shape = (475,)
+danceability: 0.0
+duration: 181.73342
+end_of_fade_in: 0.178
+energy: 0.0
+key: 7
+key_confidence: 0.555
+loudness: -11.472
+mode: 1
+mode_confidence: 0.757
+release: Gold
+release_7digitalid: 41905
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (716,)
+segments_loudness_max: shape = (716,)
+segments_loudness_max_time: shape = (716,)
+segments_loudness_start: shape = (716,)
+segments_pitches: shape = (716, 12)
+segments_start: shape = (716,)
+segments_timbre: shape = (716, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCMLII12A6D4FAB7F
+start_of_fade_out: 171.404
+tatums_confidence: shape = (950,)
+tatums_start: shape = (950,)
+tempo: 157.788
+time_signature: 4
+time_signature_confidence: 0.678
+title: Man Smart Woman Smarter
+track_7digitalid: 445541
+track_id: TRBFPCL128F1481F2A
+year: 0

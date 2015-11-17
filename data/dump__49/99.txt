@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 179318
+artist_familiarity: 0.338014663607
+artist_hotttnesss: 0.328237664153
+artist_id: ARUIRHK1187FB55534
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Frank Chacksfield & His Orchestra
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: e1b4bdf8161d7c6cbe54d8e6bd406ef6
+bars_confidence: shape = (128,)
+bars_start: shape = (128,)
+beats_confidence: shape = (387,)
+beats_start: shape = (387,)
+danceability: 0.0
+duration: 155.37587
+end_of_fade_in: 3.274
+energy: 0.0
+key: 0
+key_confidence: 0.406
+loudness: -19.61
+mode: 1
+mode_confidence: 0.482
+release: Velvet And Lovely Lady
+release_7digitalid: 756130
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (270,)
+segments_loudness_max: shape = (270,)
+segments_loudness_max_time: shape = (270,)
+segments_loudness_start: shape = (270,)
+segments_pitches: shape = (270, 12)
+segments_start: shape = (270,)
+segments_timbre: shape = (270, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKQLLS12AB0188EC1
+start_of_fade_out: 144.155
+tatums_confidence: shape = (387,)
+tatums_start: shape = (387,)
+tempo: 151.195
+time_signature: 3
+time_signature_confidence: 0.722
+title: Misty Valley
+track_7digitalid: 8369700
+track_id: TRARAEU12903CB396C
+year: 2001

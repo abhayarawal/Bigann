@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 368
+artist_familiarity: 0.743129776148
+artist_hotttnesss: 0.493566842697
+artist_id: ARXWAQQ1187B9AE954
+artist_latitude: nan
+artist_location: Newark, NJ
+artist_longitude: nan
+artist_mbid: 1f1f6737-b930-46fc-8d25-110bb99f7490
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Redman
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 55eb2be5bf2f2296d2f01701b8a4525b
+bars_confidence: shape = (76,)
+bars_start: shape = (76,)
+beats_confidence: shape = (312,)
+beats_start: shape = (312,)
+danceability: 0.0
+duration: 199.81016
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.097
+loudness: -3.58
+mode: 0
+mode_confidence: 0.351
+release: Malpractice
+release_7digitalid: 8552
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1002,)
+segments_loudness_max: shape = (1002,)
+segments_loudness_max_time: shape = (1002,)
+segments_loudness_start: shape = (1002,)
+segments_pitches: shape = (1002, 12)
+segments_start: shape = (1002,)
+segments_timbre: shape = (1002, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.35897652644
+song_id: SOATEEN12A67020394
+start_of_fade_out: 192.081
+tatums_confidence: shape = (625,)
+tatums_start: shape = (625,)
+tempo: 92.8
+time_signature: 4
+time_signature_confidence: 1.0
+title: Muh- F***a
+track_7digitalid: 86278
+track_id: TRAPEPB128E07861CC
+year: 2001

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2090
+artist_familiarity: 0.6357570221
+artist_hotttnesss: 0.37943697224
+artist_id: AR0X3JJ1187FB3A9A7
+artist_latitude: nan
+artist_location: McLellan, FL
+artist_longitude: nan
+artist_mbid: c8d0d74b-80eb-4746-8cea-f5df78b4b90c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Hank Locklin
+artist_playmeid: 16411
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: d4ae0ef7517ad72c406ed530e14146c1
+bars_confidence: shape = (86,)
+bars_start: shape = (86,)
+beats_confidence: shape = (262,)
+beats_start: shape = (262,)
+danceability: 0.0
+duration: 149.2371
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.662
+loudness: -15.995
+mode: 1
+mode_confidence: 0.611
+release: A Year Of Time
+release_7digitalid: 320414
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (335,)
+segments_loudness_max: shape = (335,)
+segments_loudness_max_time: shape = (335,)
+segments_loudness_start: shape = (335,)
+segments_pitches: shape = (335, 12)
+segments_start: shape = (335,)
+segments_timbre: shape = (335, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORKSWH12A8C1452B4
+start_of_fade_out: 144.446
+tatums_confidence: shape = (524,)
+tatums_start: shape = (524,)
+tempo: 106.941
+time_signature: 3
+time_signature_confidence: 0.68
+title: Rio Grande Waltz
+track_7digitalid: 3611065
+track_id: TRACLMN128F92D2B6E
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10249
+artist_familiarity: 0.749317800961
+artist_hotttnesss: 0.481655862412
+artist_id: ARUI8651187B9ACF52
+artist_latitude: nan
+artist_location: Garnant, Wales
+artist_longitude: nan
+artist_mbid: 72c090b6-a68e-4cb9-b330-85278681a714
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: John Cale
+artist_playmeid: 17190
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 74ed67e6df2c9fe19542a2bdd901757d
+bars_confidence: shape = (166,)
+bars_start: shape = (166,)
+beats_confidence: shape = (668,)
+beats_start: shape = (668,)
+danceability: 0.0
+duration: 307.22567
+end_of_fade_in: 0.45
+energy: 0.0
+key: 7
+key_confidence: 0.827
+loudness: -14.399
+mode: 1
+mode_confidence: 0.404
+release: Artificial Intelligence
+release_7digitalid: 105865
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1144,)
+segments_loudness_max: shape = (1144,)
+segments_loudness_max_time: shape = (1144,)
+segments_loudness_start: shape = (1144,)
+segments_pitches: shape = (1144, 12)
+segments_start: shape = (1144,)
+segments_timbre: shape = (1144, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.376279502183
+song_id: SOKRMXG12A8C13AB54
+start_of_fade_out: 291.033
+tatums_confidence: shape = (1337,)
+tatums_start: shape = (1337,)
+tempo: 134.258
+time_signature: 4
+time_signature_confidence: 0.938
+title: Song Of The Valley
+track_7digitalid: 1096906
+track_id: TRBCEVJ128F428E090
+year: 1985

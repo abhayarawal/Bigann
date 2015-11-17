@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 455790
+artist_familiarity: 0.518442304051
+artist_hotttnesss: 0.422033835578
+artist_id: ARZCNRW11F50C4A630
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e7cab571-1fa7-4ccc-8fb5-b4f1093df973
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Groundhogs
+artist_playmeid: -1
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: bbdd76c795441f0f03d6eed29a008984
+bars_confidence: shape = (725,)
+bars_start: shape = (725,)
+beats_confidence: shape = (2190,)
+beats_start: shape = (2190,)
+danceability: 0.0
+duration: 1023.86893
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.327
+loudness: -13.806
+mode: 1
+mode_confidence: 0.274
+release: U.S. Tour '72
+release_7digitalid: 613074
+sections_confidence: shape = (36,)
+sections_start: shape = (36,)
+segments_confidence: shape = (3035,)
+segments_loudness_max: shape = (3035,)
+segments_loudness_max_time: shape = (3035,)
+segments_loudness_start: shape = (3035,)
+segments_pitches: shape = (3035, 12)
+segments_start: shape = (3035,)
+segments_timbre: shape = (3035, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.558022089172
+song_id: SOWRXNC12A8C1443EA
+start_of_fade_out: 1017.353
+tatums_confidence: shape = (4379,)
+tatums_start: shape = (4379,)
+tempo: 126.57
+time_signature: 3
+time_signature_confidence: 0.555
+title: Still a Fool
+track_7digitalid: 6813097
+track_id: TRBGSJX128F92F863D
+year: 1968

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40777
+artist_familiarity: 0.51326447604
+artist_hotttnesss: 0.334072668817
+artist_id: AR32PK91187FB4D6E2
+artist_latitude: nan
+artist_location: Denver, CO
+artist_longitude: nan
+artist_mbid: f4b25300-be93-49bc-9d44-15f9de480f50
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Philip Bailey
+artist_playmeid: 8836
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 2b99a84b68712325573aa32f2811727a
+bars_confidence: shape = (137,)
+bars_start: shape = (137,)
+beats_confidence: shape = (551,)
+beats_start: shape = (551,)
+danceability: 0.0
+duration: 210.93832
+end_of_fade_in: 0.252
+energy: 0.0
+key: 7
+key_confidence: 0.871
+loudness: -14.064
+mode: 1
+mode_confidence: 0.665
+release: The Colours Of Christmas
+release_7digitalid: 293523
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (638,)
+segments_loudness_max: shape = (638,)
+segments_loudness_max_time: shape = (638,)
+segments_loudness_start: shape = (638,)
+segments_pitches: shape = (638, 12)
+segments_start: shape = (638,)
+segments_timbre: shape = (638, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOILVGP12A8C1367CE
+start_of_fade_out: 204.359
+tatums_confidence: shape = (1101,)
+tatums_start: shape = (1101,)
+tempo: 160.313
+time_signature: 4
+time_signature_confidence: 0.915
+title: Silent Night
+track_7digitalid: 3296565
+track_id: TRAQVLJ128F4283F4D
+year: 1998

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 618
+artist_familiarity: 0.786427083379
+artist_hotttnesss: 0.512226738318
+artist_id: AR035N21187FB3938E
+artist_latitude: 34.23294
+artist_location: Earth
+artist_longitude: -102.4102
+artist_mbid: 88e2147d-0332-46f6-85b2-b5f463ba957b
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: BT
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: f413205a75bce1e691e163e15269710a
+bars_confidence: shape = (141,)
+bars_start: shape = (141,)
+beats_confidence: shape = (569,)
+beats_start: shape = (569,)
+danceability: 0.0
+duration: 311.90159
+end_of_fade_in: 0.373
+energy: 0.0
+key: 8
+key_confidence: 0.879
+loudness: -17.729
+mode: 1
+mode_confidence: 0.634
+release: Tiger Woods PGA Tour 2005
+release_7digitalid: 627641
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1224,)
+segments_loudness_max: shape = (1224,)
+segments_loudness_max_time: shape = (1224,)
+segments_loudness_start: shape = (1224,)
+segments_pitches: shape = (1224, 12)
+segments_start: shape = (1224,)
+segments_timbre: shape = (1224, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.457447167085
+song_id: SOFQHNI12AB018345A
+start_of_fade_out: 278.744
+tatums_confidence: shape = (1139,)
+tatums_start: shape = (1139,)
+tempo: 110.002
+time_signature: 4
+time_signature_confidence: 0.69
+title: Ver de Feliz
+track_7digitalid: 6966960
+track_id: TRAKXNZ128F931DC2B
+year: 2006

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 144800
+artist_familiarity: 0.667849508394
+artist_hotttnesss: 0.462537498241
+artist_id: ARQIAEA1187FB4F9F9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 281e12a2-ad6e-46e8-b813-bdcbbea5e35e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Laidback Luke & Diplo
+artist_playmeid: 176118
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 86193e8696ca1648086c3f450835537b
+bars_confidence: shape = (223,)
+bars_start: shape = (223,)
+beats_confidence: shape = (896,)
+beats_start: shape = (896,)
+danceability: 0.0
+duration: 431.51628
+end_of_fade_in: 0.131
+energy: 0.0
+key: 10
+key_confidence: 0.448
+loudness: -6.268
+mode: 0
+mode_confidence: 0.531
+release: Hey!
+release_7digitalid: 513770
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (2263,)
+segments_loudness_max: shape = (2263,)
+segments_loudness_max_time: shape = (2263,)
+segments_loudness_start: shape = (2263,)
+segments_pitches: shape = (2263, 12)
+segments_start: shape = (2263,)
+segments_timbre: shape = (2263, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.239629097774
+song_id: SOFOCIL12AB01842E9
+start_of_fade_out: 421.878
+tatums_confidence: shape = (1792,)
+tatums_start: shape = (1792,)
+tempo: 126.958
+time_signature: 4
+time_signature_confidence: 1.0
+title: Hey!
+track_7digitalid: 5688183
+track_id: TRAYBQF128F9344F59
+year: 0

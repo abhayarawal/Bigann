@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19976
+artist_familiarity: 0.496630085467
+artist_hotttnesss: 0.232437776687
+artist_id: ARI6WJS1187B9B2D7B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8670821c-a539-460f-96cc-ab7b4203c363
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Deepface
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: ccc0a3805e3015c9ba02a1f9972a878a
+bars_confidence: shape = (180,)
+bars_start: shape = (180,)
+beats_confidence: shape = (729,)
+beats_start: shape = (729,)
+danceability: 0.0
+duration: 362.68363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.791
+loudness: -4.577
+mode: 0
+mode_confidence: 0.61
+release: I Want To Live
+release_7digitalid: 117405
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1362,)
+segments_loudness_max: shape = (1362,)
+segments_loudness_max_time: shape = (1362,)
+segments_loudness_start: shape = (1362,)
+segments_pitches: shape = (1362, 12)
+segments_start: shape = (1362,)
+segments_timbre: shape = (1362, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.203915013168
+song_id: SOSRFJO12A8C13DD88
+start_of_fade_out: 351.66
+tatums_confidence: shape = (1459,)
+tatums_start: shape = (1459,)
+tempo: 124.05
+time_signature: 4
+time_signature_confidence: 0.296
+title: I Want To Live (Smash Club Mix)
+track_7digitalid: 1208974
+track_id: TRBCJTN128F42A23C2
+year: 0

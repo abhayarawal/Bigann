@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 285519
+artist_familiarity: 0.313851151598
+artist_hotttnesss: 0.14519082979
+artist_id: ARYDFJA1241B9CBFF2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jacques Douai
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 75045c1a008f01a02557c2d7ebe76230
+bars_confidence: shape = (30,)
+bars_start: shape = (30,)
+beats_confidence: shape = (172,)
+beats_start: shape = (172,)
+danceability: 0.0
+duration: 143.43791
+end_of_fade_in: 0.444
+energy: 0.0
+key: 2
+key_confidence: 0.511
+loudness: -16.243
+mode: 0
+mode_confidence: 0.631
+release: Heritage - Maintenant Que La Jeunesse... - BAM (1968-1971)
+release_7digitalid: 368964
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (408,)
+segments_loudness_max: shape = (408,)
+segments_loudness_max_time: shape = (408,)
+segments_loudness_start: shape = (408,)
+segments_pitches: shape = (408, 12)
+segments_start: shape = (408,)
+segments_timbre: shape = (408, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGBVJQ12AB01834A1
+start_of_fade_out: 137.996
+tatums_confidence: shape = (517,)
+tatums_start: shape = (517,)
+tempo: 73.716
+time_signature: 5
+time_signature_confidence: 0.649
+title: Le Roi A Fait Battre Tambour
+track_7digitalid: 4109060
+track_id: TRAUMRB128F93377DB
+year: 0

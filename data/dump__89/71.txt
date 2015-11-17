@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 14504
+artist_familiarity: 0.459797128838
+artist_hotttnesss: 0.349912611675
+artist_id: ARDNS031187B9924F0
+artist_latitude: 32.67828
+artist_location: Georgia
+artist_longitude: -83.22295
+artist_mbid: e29641cc-3658-4886-89d7-3a146d2d3d75
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tim Wilson
+artist_playmeid: 7570
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 51f26c9fe9ed24182d456140b545532e
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (336,)
+beats_start: shape = (336,)
+danceability: 0.0
+duration: 166.84363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.161
+loudness: -4.97
+mode: 0
+mode_confidence: 0.388
+release: The Real Twang Thang
+release_7digitalid: 160881
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (557,)
+segments_loudness_max: shape = (557,)
+segments_loudness_max_time: shape = (557,)
+segments_loudness_start: shape = (557,)
+segments_pitches: shape = (557, 12)
+segments_start: shape = (557,)
+segments_timbre: shape = (557, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQPAQK12A8C13B2DB
+start_of_fade_out: 158.041
+tatums_confidence: shape = (673,)
+tatums_start: shape = (673,)
+tempo: 122.061
+time_signature: 4
+time_signature_confidence: 0.842
+title: The Michael Vick Song
+track_7digitalid: 1699839
+track_id: TRBEYXK128F427E125
+year: 2005

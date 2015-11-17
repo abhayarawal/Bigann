@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 105
+artist_familiarity: 0.833893807853
+artist_hotttnesss: 0.602115454667
+artist_id: ARNXNH81187FB52EB5
+artist_latitude: nan
+artist_location: Houston, TX
+artist_longitude: nan
+artist_mbid: 1fe6717a-73b5-4e70-82c5-6b83a08c997d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Baby Bash
+artist_playmeid: 2499
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 71983a836ccc41a08eb6ce37aa2e186c
+bars_confidence: shape = (200,)
+bars_start: shape = (200,)
+beats_confidence: shape = (803,)
+beats_start: shape = (803,)
+danceability: 0.0
+duration: 309.4722
+end_of_fade_in: 0.165
+energy: 0.0
+key: 10
+key_confidence: 0.294
+loudness: -4.754
+mode: 1
+mode_confidence: 0.367
+release: Menage a trois
+release_7digitalid: 759082
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1316,)
+segments_loudness_max: shape = (1316,)
+segments_loudness_max_time: shape = (1316,)
+segments_loudness_start: shape = (1316,)
+segments_pitches: shape = (1316, 12)
+segments_start: shape = (1316,)
+segments_timbre: shape = (1316, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODANIA12AF729BC28
+start_of_fade_out: 307.264
+tatums_confidence: shape = (1606,)
+tatums_start: shape = (1606,)
+tempo: 155.979
+time_signature: 4
+time_signature_confidence: 0.542
+title: If Your Na Na Get Wet
+track_7digitalid: 8403400
+track_id: TRAISYN12903CBBCEE
+year: 0

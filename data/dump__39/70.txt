@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21223
+artist_familiarity: 0.7309590855
+artist_hotttnesss: 0.481426936478
+artist_id: AR2FSX31187B98E3EF
+artist_latitude: nan
+artist_location: San Juan, Puerto Rico
+artist_longitude: nan
+artist_mbid: 70ea63ea-70dc-4b63-951a-2c249d2b3b0a
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Ricky Martin Feat. La Mari de "Chambao
+artist_playmeid: 1339
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: ed6ace28e30b4f975f12691983202f25
+bars_confidence: shape = (82,)
+bars_start: shape = (82,)
+beats_confidence: shape = (347,)
+beats_start: shape = (347,)
+danceability: 0.0
+duration: 247.87546
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.505
+loudness: -6.41
+mode: 0
+mode_confidence: 0.696
+release: Ricky Martin MTV Unplugged
+release_7digitalid: 387350
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (843,)
+segments_loudness_max: shape = (843,)
+segments_loudness_max_time: shape = (843,)
+segments_loudness_start: shape = (843,)
+segments_pitches: shape = (843, 12)
+segments_start: shape = (843,)
+segments_timbre: shape = (843, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.601154787131
+song_id: SOEHBCX12AB0181B89
+start_of_fade_out: 247.875
+tatums_confidence: shape = (1387,)
+tatums_start: shape = (1387,)
+tempo: 83.891
+time_signature: 4
+time_signature_confidence: 0.305
+title: Tu Recuerdo
+track_7digitalid: 4301548
+track_id: TRANONM128F92EAF7A
+year: 2008

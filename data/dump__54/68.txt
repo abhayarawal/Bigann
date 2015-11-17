@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8318
+artist_familiarity: 0.816596710223
+artist_hotttnesss: 0.57707587455
+artist_id: ARM0P6Z1187FB4D466
+artist_latitude: nan
+artist_location: Sheffield, South Yorkshire, Engla
+artist_longitude: nan
+artist_mbid: ada7a83c-e3e1-40f1-93f9-3e73dbc9298a
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Arctic Monkeys
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 0862db8401d89ef6c0a0bb9ce6e14710
+bars_confidence: shape = (92,)
+bars_start: shape = (92,)
+beats_confidence: shape = (372,)
+beats_start: shape = (372,)
+danceability: 0.0
+duration: 177.94567
+end_of_fade_in: 0.072
+energy: 0.0
+key: 7
+key_confidence: 0.01
+loudness: -4.385
+mode: 1
+mode_confidence: 0.327
+release: Whatever People Say I Am_ That's What I'm Not
+release_7digitalid: 443784
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (598,)
+segments_loudness_max: shape = (598,)
+segments_loudness_max_time: shape = (598,)
+segments_loudness_start: shape = (598,)
+segments_pitches: shape = (598, 12)
+segments_start: shape = (598,)
+segments_timbre: shape = (598, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.790786932151
+song_id: SOCGOZK12A8151BD5D
+start_of_fade_out: 173.186
+tatums_confidence: shape = (743,)
+tatums_start: shape = (743,)
+tempo: 127.294
+time_signature: 4
+time_signature_confidence: 0.427
+title: Fake Tales Of San Francisco
+track_7digitalid: 5024295
+track_id: TRASRXK128F9311176
+year: 2004

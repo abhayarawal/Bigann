@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 179046
+artist_familiarity: 0.450361260877
+artist_hotttnesss: 0.375941201417
+artist_id: ARMSW7X1187FB5B504
+artist_latitude: 34.05349
+artist_location: California - LA
+artist_longitude: -118.24532
+artist_mbid: fe44e194-1933-4ee8-a54a-5b92b21dc7a2
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Dave Eggar
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: cef00c54fe71c9b1899abb36b4a1119a
+bars_confidence: shape = (91,)
+bars_start: shape = (91,)
+beats_confidence: shape = (372,)
+beats_start: shape = (372,)
+danceability: 0.0
+duration: 240.09098
+end_of_fade_in: 0.304
+energy: 0.0
+key: 8
+key_confidence: 0.317
+loudness: -27.845
+mode: 1
+mode_confidence: 0.638
+release: Music For The Spirit Volume 3
+release_7digitalid: 236601
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (318,)
+segments_loudness_max: shape = (318,)
+segments_loudness_max_time: shape = (318,)
+segments_loudness_start: shape = (318,)
+segments_pitches: shape = (318, 12)
+segments_start: shape = (318,)
+segments_timbre: shape = (318, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.253834736132
+song_id: SOUSXRA12A8AE490AC
+start_of_fade_out: 223.829
+tatums_confidence: shape = (745,)
+tatums_start: shape = (745,)
+tempo: 97.243
+time_signature: 4
+time_signature_confidence: 0.054
+title: Sorrow's Call
+track_7digitalid: 2596953
+track_id: TRANXZZ128F4230613
+year: 1998

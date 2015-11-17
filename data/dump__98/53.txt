@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10889
+artist_familiarity: 0.510288292721
+artist_hotttnesss: 0.337858763989
+artist_id: ARU81FP1187B98C71E
+artist_latitude: 35.6139
+artist_location: Jackson, TN
+artist_longitude: -88.8194
+artist_mbid: 55a434d9-d3d3-462f-9aa9-749938dcf172
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Big Maybelle
+artist_playmeid: 12759
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 4bf59c1ebd50313d8c3b1177bb453684
+bars_confidence: shape = (373,)
+bars_start: shape = (373,)
+beats_confidence: shape = (373,)
+beats_start: shape = (373,)
+danceability: 0.0
+duration: 156.96934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.411
+loudness: -8.052
+mode: 1
+mode_confidence: 0.447
+release: Maybelle's Blues
+release_7digitalid: 478576
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (530,)
+segments_loudness_max: shape = (530,)
+segments_loudness_max_time: shape = (530,)
+segments_loudness_start: shape = (530,)
+segments_pitches: shape = (530, 12)
+segments_start: shape = (530,)
+segments_timbre: shape = (530, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFHMOJ12A8C142DB0
+start_of_fade_out: 146.733
+tatums_confidence: shape = (746,)
+tatums_start: shape = (746,)
+tempo: 145.105
+time_signature: 1
+time_signature_confidence: 0.011
+title: New Kind Of Mambo
+track_7digitalid: 5312312
+track_id: TRBHWTF128F92EA841
+year: 0

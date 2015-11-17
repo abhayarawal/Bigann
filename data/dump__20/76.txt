@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 31581
+artist_familiarity: 0.687483205157
+artist_hotttnesss: 0.514206403185
+artist_id: AR3TITY1187B99E790
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c70a1a51-caf3-4667-b956-11e27a00fe37
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Gyptian
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 2085d450871c81fa141a4236c98501dc
+bars_confidence: shape = (182,)
+bars_start: shape = (182,)
+beats_confidence: shape = (732,)
+beats_start: shape = (732,)
+danceability: 0.0
+duration: 253.70077
+end_of_fade_in: 0.189
+energy: 0.0
+key: 9
+key_confidence: 0.276
+loudness: -5.863
+mode: 0
+mode_confidence: 0.346
+release: System's Riddim
+release_7digitalid: 624865
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1050,)
+segments_loudness_max: shape = (1050,)
+segments_loudness_max_time: shape = (1050,)
+segments_loudness_start: shape = (1050,)
+segments_pitches: shape = (1050, 12)
+segments_start: shape = (1050,)
+segments_timbre: shape = (1050, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOYRCSM12AB0181154
+start_of_fade_out: 225.953
+tatums_confidence: shape = (1464,)
+tatums_start: shape = (1464,)
+tempo: 186.285
+time_signature: 4
+time_signature_confidence: 0.978
+title: Lonely
+track_7digitalid: 6937087
+track_id: TRAHBMA128F93167AE
+year: 0

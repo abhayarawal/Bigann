@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6190
+artist_familiarity: 0.683455700764
+artist_hotttnesss: 0.427122969886
+artist_id: ARRM70G1187B9A7F64
+artist_latitude: nan
+artist_location: Hudsonville, MS
+artist_longitude: nan
+artist_mbid: 7032cf8a-ca2e-48c4-bffe-a9a77e223bbb
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Junior Kimbrough
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: f921558b3e4c35022825513fd856431c
+bars_confidence: shape = (133,)
+bars_start: shape = (133,)
+beats_confidence: shape = (535,)
+beats_start: shape = (535,)
+danceability: 0.0
+duration: 384.57424
+end_of_fade_in: 0.386
+energy: 0.0
+key: 8
+key_confidence: 0.699
+loudness: -9.841
+mode: 1
+mode_confidence: 0.535
+release: God Knows I Tried
+release_7digitalid: 815232
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (1316,)
+segments_loudness_max: shape = (1316,)
+segments_loudness_max_time: shape = (1316,)
+segments_loudness_start: shape = (1316,)
+segments_pitches: shape = (1316, 12)
+segments_start: shape = (1316,)
+segments_timbre: shape = (1316, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVYDFP12AB018CAD3
+start_of_fade_out: 373.83
+tatums_confidence: shape = (1070,)
+tatums_start: shape = (1070,)
+tempo: 83.706
+time_signature: 4
+time_signature_confidence: 0.0
+title: All Night Long (Instumental)
+track_7digitalid: 9007562
+track_id: TRASBVS12903CDB231
+year: 1998

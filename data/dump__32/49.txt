@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 43490
+artist_familiarity: 0.589314501735
+artist_hotttnesss: 0.398883010857
+artist_id: ARIT9Y51187FB364AE
+artist_latitude: 54.49857
+artist_location: Alberta, Canada
+artist_longitude: -114.99993
+artist_mbid: 500d2b10-b0fb-4615-a1a6-fa226a620d32
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Irish Rovers
+artist_playmeid: 14204
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 493f4fd0a914ad3eb1598f7039e562bb
+bars_confidence: shape = (211,)
+bars_start: shape = (211,)
+beats_confidence: shape = (637,)
+beats_start: shape = (637,)
+danceability: 0.0
+duration: 240.32608
+end_of_fade_in: 0.357
+energy: 0.0
+key: 7
+key_confidence: 1.0
+loudness: -11.518
+mode: 1
+mode_confidence: 0.818
+release: Come Fill Up Your Glasses
+release_7digitalid: 453232
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (851,)
+segments_loudness_max: shape = (851,)
+segments_loudness_max_time: shape = (851,)
+segments_loudness_start: shape = (851,)
+segments_pitches: shape = (851, 12)
+segments_start: shape = (851,)
+segments_timbre: shape = (851, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.485722716047
+song_id: SOSLDZO12AB0186A26
+start_of_fade_out: 231.3
+tatums_confidence: shape = (1275,)
+tatums_start: shape = (1275,)
+tempo: 165.53
+time_signature: 3
+time_signature_confidence: 0.559
+title: Green Grows the Laurel
+track_7digitalid: 5031448
+track_id: TRALARH128F9312D62
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1619
+artist_familiarity: 0.582238343665
+artist_hotttnesss: 0.449052575154
+artist_id: AROCBZZ11E2835D652
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Small Faces
+artist_playmeid: 3153
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 8e1aa631bd669ecf3a822451136c1e4a
+bars_confidence: shape = (79,)
+bars_start: shape = (79,)
+beats_confidence: shape = (321,)
+beats_start: shape = (321,)
+danceability: 0.0
+duration: 157.46567
+end_of_fade_in: 0.323
+energy: 0.0
+key: 9
+key_confidence: 0.899
+loudness: -5.074
+mode: 1
+mode_confidence: 0.48
+release: Ultimate Collection
+release_7digitalid: 340376
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (486,)
+segments_loudness_max: shape = (486,)
+segments_loudness_max_time: shape = (486,)
+segments_loudness_start: shape = (486,)
+segments_pitches: shape = (486, 12)
+segments_start: shape = (486,)
+segments_timbre: shape = (486, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSKOHU12AB0184001
+start_of_fade_out: 146.628
+tatums_confidence: shape = (643,)
+tatums_start: shape = (643,)
+tempo: 125.295
+time_signature: 4
+time_signature_confidence: 0.355
+title: It's Too Late
+track_7digitalid: 3806687
+track_id: TRAJSCE128F92F9AC6
+year: 1966

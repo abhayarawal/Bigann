@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 83845
+artist_familiarity: 0.483278657332
+artist_hotttnesss: 0.360628716136
+artist_id: AR8QHU51187B9A3341
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 066d5379-eb60-4f46-be4d-ebd40495baea
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Leo Ku
+artist_playmeid: 61240
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 1f77a6ec0892d9d69383ca0e744eef86
+bars_confidence: shape = (154,)
+bars_start: shape = (154,)
+beats_confidence: shape = (466,)
+beats_start: shape = (466,)
+danceability: 0.0
+duration: 245.55057
+end_of_fade_in: 2.438
+energy: 0.0
+key: 2
+key_confidence: 0.782
+loudness: -5.315
+mode: 1
+mode_confidence: 0.732
+release: Steel Box Collection - Leo Ku
+release_7digitalid: 545975
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (715,)
+segments_loudness_max: shape = (715,)
+segments_loudness_max_time: shape = (715,)
+segments_loudness_start: shape = (715,)
+segments_pitches: shape = (715, 12)
+segments_start: shape = (715,)
+segments_timbre: shape = (715, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHFMQW12AB0180091
+start_of_fade_out: 237.883
+tatums_confidence: shape = (932,)
+tatums_start: shape = (932,)
+tempo: 117.181
+time_signature: 3
+time_signature_confidence: 1.0
+title: Xiao Shuo Xiang
+track_7digitalid: 6041169
+track_id: TRAGKAK128F9324CE4
+year: 0

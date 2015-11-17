@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 507172
+artist_familiarity: 0.42562724003
+artist_hotttnesss: 0.0
+artist_id: ARWXHRS1241B9C7A1E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Thomas Battenstein
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: b8a0bfbcc1ab46fda934cb7a66cd0bf5
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (314,)
+beats_start: shape = (314,)
+danceability: 0.0
+duration: 123.11465
+end_of_fade_in: 0.626
+energy: 0.0
+key: 7
+key_confidence: 0.617
+loudness: -20.446
+mode: 1
+mode_confidence: 0.685
+release: Stille Nacht
+release_7digitalid: 683558
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (282,)
+segments_loudness_max: shape = (282,)
+segments_loudness_max_time: shape = (282,)
+segments_loudness_start: shape = (282,)
+segments_pitches: shape = (282, 12)
+segments_start: shape = (282,)
+segments_timbre: shape = (282, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEQKKP12AC3DFA097
+start_of_fade_out: 116.448
+tatums_confidence: shape = (314,)
+tatums_start: shape = (314,)
+tempo: 162.103
+time_signature: 3
+time_signature_confidence: 0.992
+title: Nun singet und seid froh
+track_7digitalid: 7588135
+track_id: TRACTWH12903CE2E46
+year: 0

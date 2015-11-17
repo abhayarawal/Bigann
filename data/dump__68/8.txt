@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2851
+artist_familiarity: 0.59142365907
+artist_hotttnesss: 0.385344913733
+artist_id: ARRU9GR1187FB43F56
+artist_latitude: 33.46797
+artist_location: Thomson, GA
+artist_longitude: -82.50293
+artist_mbid: 81e02e29-e46a-49cb-bf13-d204cbe86daa
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Blind Willie McTell
+artist_playmeid: 12744
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 23042cb2e4976c3a3a1c2cf6bf54d408
+bars_confidence: shape = (68,)
+bars_start: shape = (68,)
+beats_confidence: shape = (345,)
+beats_start: shape = (345,)
+danceability: 0.0
+duration: 173.08689
+end_of_fade_in: 0.252
+energy: 0.0
+key: 6
+key_confidence: 0.832
+loudness: -14.544
+mode: 1
+mode_confidence: 0.581
+release: Blind Willie McTell -Statesboro Blues - The Early Years 1927-1935
+release_7digitalid: 175116
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (555,)
+segments_loudness_max: shape = (555,)
+segments_loudness_max_time: shape = (555,)
+segments_loudness_start: shape = (555,)
+segments_pitches: shape = (555, 12)
+segments_start: shape = (555,)
+segments_timbre: shape = (555, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEENNQ12A6D4FA8C7
+start_of_fade_out: 163.77
+tatums_confidence: shape = (690,)
+tatums_start: shape = (690,)
+tempo: 123.745
+time_signature: 5
+time_signature_confidence: 0.372
+title: Love Makin' Mama (Take 2)
+track_7digitalid: 1882237
+track_id: TRAXGFM128F421EE47
+year: 0

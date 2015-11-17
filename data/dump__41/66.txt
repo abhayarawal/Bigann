@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5483
+artist_familiarity: 0.477946575143
+artist_hotttnesss: 0.348215007834
+artist_id: ARTWWNA1187B9B3BD7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 78e5c8ea-e9c1-4eb3-a410-7001712290c6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Frederik
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 90eda7c909b00a75c413a1c7fa1587ec
+bars_confidence: shape = (97,)
+bars_start: shape = (97,)
+beats_confidence: shape = (292,)
+beats_start: shape = (292,)
+danceability: 0.0
+duration: 113.99791
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.082
+loudness: -6.465
+mode: 1
+mode_confidence: 0.479
+release: Kinderlieder Vol.2
+release_7digitalid: 444039
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (360,)
+segments_loudness_max: shape = (360,)
+segments_loudness_max_time: shape = (360,)
+segments_loudness_start: shape = (360,)
+segments_pitches: shape = (360, 12)
+segments_start: shape = (360,)
+segments_timbre: shape = (360, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQKIOE12AB017C818
+start_of_fade_out: 108.989
+tatums_confidence: shape = (292,)
+tatums_start: shape = (292,)
+tempo: 160.114
+time_signature: 3
+time_signature_confidence: 0.698
+title: Es klappert die Mühle
+track_7digitalid: 4933824
+track_id: TRAOCSX128F92FDD48
+year: 0

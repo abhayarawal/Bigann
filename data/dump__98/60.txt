@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 54973
+artist_familiarity: 0.687619666235
+artist_hotttnesss: 0.417068912495
+artist_id: ARXK4YK1187FB4D0C4
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: 5483e1c0-14ca-4ec4-9b03-c4e987420e4e
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Dub Pistols feat. Rodney P & Terry Hall
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: d03f4136390ad7988288290e08b6a207
+bars_confidence: shape = (160,)
+bars_start: shape = (160,)
+beats_confidence: shape = (645,)
+beats_start: shape = (645,)
+danceability: 0.0
+duration: 323.57832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.236
+loudness: -6.139
+mode: 0
+mode_confidence: 0.222
+release: Peaches
+release_7digitalid: 120361
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1498,)
+segments_loudness_max: shape = (1498,)
+segments_loudness_max_time: shape = (1498,)
+segments_loudness_start: shape = (1498,)
+segments_pitches: shape = (1498, 12)
+segments_start: shape = (1498,)
+segments_timbre: shape = (1498, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCYWHV12A8C13CE5F
+start_of_fade_out: 314.015
+tatums_confidence: shape = (1289,)
+tatums_start: shape = (1289,)
+tempo: 121.983
+time_signature: 4
+time_signature_confidence: 0.805
+title: Peaches (Fear of Theydon remix)
+track_7digitalid: 1244663
+track_id: TRBHXRQ128F42A713F
+year: 0

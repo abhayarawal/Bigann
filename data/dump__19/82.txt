@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15817
+artist_familiarity: 0.368308139657
+artist_hotttnesss: 0.39764783017
+artist_id: ARU35NK1187FB46CFD
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a5f8887e-e178-4969-ba9a-18a64156c42f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Methods Of Mayhem / Scott Kirkland
+artist_playmeid: -1
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 6f479b0731f6117acca25206be9b2359
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (383,)
+beats_start: shape = (383,)
+danceability: 0.0
+duration: 199.31383
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.222
+loudness: -3.246
+mode: 1
+mode_confidence: 0.275
+release: Methods Of Mayhem
+release_7digitalid: 22379
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1037,)
+segments_loudness_max: shape = (1037,)
+segments_loudness_max_time: shape = (1037,)
+segments_loudness_start: shape = (1037,)
+segments_pitches: shape = (1037, 12)
+segments_start: shape = (1037,)
+segments_timbre: shape = (1037, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.605855031379
+song_id: SOIIZIX12A6D4F799D
+start_of_fade_out: 196.4
+tatums_confidence: shape = (767,)
+tatums_start: shape = (767,)
+tempo: 116.04
+time_signature: 4
+time_signature_confidence: 0.899
+title: Narcotic
+track_7digitalid: 231046
+track_id: TRAGSQU128F145693D
+year: 1999

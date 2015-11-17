@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 147800
+artist_familiarity: 0.429349278184
+artist_hotttnesss: 0.277789967207
+artist_id: AROVSYC119B3403921
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d5c4d5fe-f8c0-41f5-aed5-48a3760cddbb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gus Viseur
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 1e93ddc271aa7873e72ef1071ce64b17
+bars_confidence: shape = (224,)
+bars_start: shape = (224,)
+beats_confidence: shape = (675,)
+beats_start: shape = (675,)
+danceability: 0.0
+duration: 193.38404
+end_of_fade_in: 0.565
+energy: 0.0
+key: 6
+key_confidence: 0.359
+loudness: -14.669
+mode: 0
+mode_confidence: 0.379
+release: Accordéon vol.3 - Paris 1944-1954
+release_7digitalid: 384879
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (950,)
+segments_loudness_max: shape = (950,)
+segments_loudness_max_time: shape = (950,)
+segments_loudness_start: shape = (950,)
+segments_pitches: shape = (950, 12)
+segments_start: shape = (950,)
+segments_timbre: shape = (950, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORLELP12AB017F1F9
+start_of_fade_out: 189.968
+tatums_confidence: shape = (1350,)
+tatums_start: shape = (1350,)
+tempo: 211.974
+time_signature: 3
+time_signature_confidence: 0.75
+title: Quinze mai
+track_7digitalid: 4271904
+track_id: TRAZMNR128F92E3BED
+year: 0

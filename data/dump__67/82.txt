@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4783
+artist_familiarity: 0.625762202039
+artist_hotttnesss: 0.449493482722
+artist_id: ARWDEEB11E2835E73C
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: 8c7a8406-f15a-408d-b0f6-23be813bdddc
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Faces
+artist_playmeid: -1
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: a040469d9f33b86b963e84fc6125e772
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (361,)
+beats_start: shape = (361,)
+danceability: 0.0
+duration: 187.42812
+end_of_fade_in: 0.212
+energy: 0.0
+key: 2
+key_confidence: 0.0
+loudness: -9.363
+mode: 1
+mode_confidence: 0.0
+release: Ooh La La
+release_7digitalid: 512814
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (684,)
+segments_loudness_max: shape = (684,)
+segments_loudness_max_time: shape = (684,)
+segments_loudness_start: shape = (684,)
+segments_pitches: shape = (684, 12)
+segments_start: shape = (684,)
+segments_timbre: shape = (684, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.490808487631
+song_id: SOEZDAP12AB0184409
+start_of_fade_out: 175.543
+tatums_confidence: shape = (722,)
+tatums_start: shape = (722,)
+tempo: 119.028
+time_signature: 4
+time_signature_confidence: 0.0
+title: My Fault (LP Version)
+track_7digitalid: 5675198
+track_id: TRAXDNU128F9341CDE
+year: 1973

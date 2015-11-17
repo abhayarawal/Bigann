@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 52612
+artist_familiarity: 0.780309850685
+artist_hotttnesss: 0.485682369161
+artist_id: ARKAL321187B9AD4BE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5f5e87f9-9eca-44b9-97c6-34694b44a9a1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Gathering
+artist_playmeid: 45122
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 5d8216853e4ad66b58f177a559251636
+bars_confidence: shape = (93,)
+bars_start: shape = (93,)
+beats_confidence: shape = (379,)
+beats_start: shape = (379,)
+danceability: 0.0
+duration: 215.71873
+end_of_fade_in: 0.282
+energy: 0.0
+key: 0
+key_confidence: 0.719
+loudness: -13.91
+mode: 1
+mode_confidence: 0.659
+release: Sleepy Buildings - A Semi Acoustic Evening
+release_7digitalid: 734682
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (555,)
+segments_loudness_max: shape = (555,)
+segments_loudness_max_time: shape = (555,)
+segments_loudness_start: shape = (555,)
+segments_pitches: shape = (555, 12)
+segments_start: shape = (555,)
+segments_timbre: shape = (555, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOFVHDU12A67ADE7AA
+start_of_fade_out: 215.719
+tatums_confidence: shape = (1139,)
+tatums_start: shape = (1139,)
+tempo: 105.937
+time_signature: 4
+time_signature_confidence: 0.501
+title: Locked Away
+track_7digitalid: 8138237
+track_id: TRAXXWU12903CF2094
+year: 0

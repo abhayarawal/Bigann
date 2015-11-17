@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 163511
+artist_familiarity: 0.649677890784
+artist_hotttnesss: 0.527368162815
+artist_id: AR1N3PB1187B9B25C1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5a092e7c-faa9-45d0-88c6-052205804e6c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Andres Calamaro
+artist_playmeid: 1742
+artist_terms: shape = (8,)
+artist_terms_freq: shape = (8,)
+artist_terms_weight: shape = (8,)
+audio_md5: 2426eae4fdc09b1b8c455e35409ce98d
+bars_confidence: shape = (44,)
+bars_start: shape = (44,)
+beats_confidence: shape = (350,)
+beats_start: shape = (350,)
+danceability: 0.0
+duration: 271.59465
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.681
+loudness: -10.747
+mode: 1
+mode_confidence: 0.637
+release: Andres CD6
+release_7digitalid: 422711
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (667,)
+segments_loudness_max: shape = (667,)
+segments_loudness_max_time: shape = (667,)
+segments_loudness_start: shape = (667,)
+segments_pitches: shape = (667, 12)
+segments_start: shape = (667,)
+segments_timbre: shape = (667, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.327736683178
+song_id: SOOQCSS12AB0182A99
+start_of_fade_out: 267.401
+tatums_confidence: shape = (699,)
+tatums_start: shape = (699,)
+tempo: 76.908
+time_signature: 7
+time_signature_confidence: 0.485
+title: Un vestido y un amor (en vivo)
+track_7digitalid: 4711933
+track_id: TRALDGU128F933DE63
+year: 0

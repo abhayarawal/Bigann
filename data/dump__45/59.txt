@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7037
+artist_familiarity: 0.804838888827
+artist_hotttnesss: 0.457841156094
+artist_id: AR0CANF1187B9AF35F
+artist_latitude: 34.05349
+artist_location: Los Angeles, California
+artist_longitude: -118.24532
+artist_mbid: c71abd83-9d66-4c7b-9f0d-c9c36e85a955
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Dilated Peoples
+artist_playmeid: 457
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: eb102ee6e6136bf90fd1287ae1356421
+bars_confidence: shape = (86,)
+bars_start: shape = (86,)
+beats_confidence: shape = (348,)
+beats_start: shape = (348,)
+danceability: 0.0
+duration: 236.59057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.662
+loudness: -8.695
+mode: 1
+mode_confidence: 0.571
+release: Neighborhood Watch
+release_7digitalid: 10168
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1103,)
+segments_loudness_max: shape = (1103,)
+segments_loudness_max_time: shape = (1103,)
+segments_loudness_start: shape = (1103,)
+segments_pitches: shape = (1103, 12)
+segments_start: shape = (1103,)
+segments_timbre: shape = (1103, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.585452851776
+song_id: SOCRYER12A6701CD40
+start_of_fade_out: 233.349
+tatums_confidence: shape = (696,)
+tatums_start: shape = (696,)
+tempo: 88.176
+time_signature: 4
+time_signature_confidence: 0.622
+title: World On Wheels
+track_7digitalid: 104158
+track_id: TRAPOAD128E0788A38
+year: 2004

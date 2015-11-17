@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 49211
+artist_familiarity: 0.585514006971
+artist_hotttnesss: 0.364914034535
+artist_id: AR32ETX1187B9A792F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0244ceb5-57dc-4831-aa9c-6a5e5a1c4938
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Vaughan Brothers
+artist_playmeid: 11639
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: ac1cfd307a408b9266c59664cf286325
+bars_confidence: shape = (154,)
+bars_start: shape = (154,)
+beats_confidence: shape = (620,)
+beats_start: shape = (620,)
+danceability: 0.0
+duration: 262.29506
+end_of_fade_in: 0.079
+energy: 0.0
+key: 9
+key_confidence: 0.087
+loudness: -9.759
+mode: 1
+mode_confidence: 0.578
+release: Family Style
+release_7digitalid: 282026
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1097,)
+segments_loudness_max: shape = (1097,)
+segments_loudness_max_time: shape = (1097,)
+segments_loudness_start: shape = (1097,)
+segments_pitches: shape = (1097, 12)
+segments_start: shape = (1097,)
+segments_timbre: shape = (1097, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.75606801081
+song_id: SOSXAMA12A8C133298
+start_of_fade_out: 249.812
+tatums_confidence: shape = (1861,)
+tatums_start: shape = (1861,)
+tempo: 142.372
+time_signature: 4
+time_signature_confidence: 0.203
+title: Good Texan
+track_7digitalid: 3156547
+track_id: TRAUYOD128F42647FE
+year: 1990

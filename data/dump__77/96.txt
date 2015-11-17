@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21255
+artist_familiarity: 0.877119424278
+artist_hotttnesss: 0.56091265733
+artist_id: AR7C6G11187B9B4C1E
+artist_latitude: nan
+artist_location: The Bronx, New York
+artist_longitude: nan
+artist_mbid: f0602f55-1770-483d-89bd-4bae0d0ac086
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Jennifer Lopez
+artist_playmeid: 798
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 40d96a2d223c1a0dd9e523e8f86f2fc7
+bars_confidence: shape = (86,)
+bars_start: shape = (86,)
+beats_confidence: shape = (349,)
+beats_start: shape = (349,)
+danceability: 0.0
+duration: 220.55138
+end_of_fade_in: 0.311
+energy: 0.0
+key: 11
+key_confidence: 0.716
+loudness: -5.046
+mode: 1
+mode_confidence: 0.674
+release: This Is Me...Then
+release_7digitalid: 546964
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (787,)
+segments_loudness_max: shape = (787,)
+segments_loudness_max_time: shape = (787,)
+segments_loudness_start: shape = (787,)
+segments_pitches: shape = (787, 12)
+segments_start: shape = (787,)
+segments_timbre: shape = (787, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.684223878853
+song_id: SOKHNJM12AF72A0187
+start_of_fade_out: 205.827
+tatums_confidence: shape = (1398,)
+tatums_start: shape = (1398,)
+tempo: 95.648
+time_signature: 4
+time_signature_confidence: 1.0
+title: Still
+track_7digitalid: 6052893
+track_id: TRBAOTY128F9327A9C
+year: 2002

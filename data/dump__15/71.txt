@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 983
+artist_familiarity: 0.741518130043
+artist_hotttnesss: 0.520412110054
+artist_id: AR1ZKBE1187FB53629
+artist_latitude: nan
+artist_location: D�orf, Germany
+artist_longitude: nan
+artist_mbid: 5700dcd4-c139-4f31-aa3e-6382b9af9032
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Kraftwerk
+artist_playmeid: 881
+artist_terms: shape = (62,)
+artist_terms_freq: shape = (62,)
+artist_terms_weight: shape = (62,)
+audio_md5: d9dc494f5602d5475e4585faab76286e
+bars_confidence: shape = (145,)
+bars_start: shape = (145,)
+beats_confidence: shape = (585,)
+beats_start: shape = (585,)
+danceability: 0.0
+duration: 283.24526
+end_of_fade_in: 2.601
+energy: 0.0
+key: 0
+key_confidence: 0.568
+loudness: -9.805
+mode: 1
+mode_confidence: 0.477
+release: Minimum - Maximum
+release_7digitalid: 13862
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1040,)
+segments_loudness_max: shape = (1040,)
+segments_loudness_max_time: shape = (1040,)
+segments_loudness_start: shape = (1040,)
+segments_pitches: shape = (1040, 12)
+segments_start: shape = (1040,)
+segments_timbre: shape = (1040, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQAQJG12A67020725
+start_of_fade_out: 275.934
+tatums_confidence: shape = (1170,)
+tatums_start: shape = (1170,)
+tempo: 126.007
+time_signature: 4
+time_signature_confidence: 0.45
+title: Elektro Kardiogramm (Live)
+track_7digitalid: 144183
+track_id: TRAFJJJ128E078E0B8
+year: 0

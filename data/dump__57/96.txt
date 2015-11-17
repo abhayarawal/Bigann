@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 88
+artist_familiarity: 0.866519754051
+artist_hotttnesss: 0.766545450757
+artist_id: ARXPPEY1187FB51DF4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f27ec8db-af05-4f36-916e-3d57f91ecf5e
+artist_mbtags: shape = (20,)
+artist_mbtags_count: shape = (20,)
+artist_name: Michael Jackson
+artist_playmeid: 1081
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: f19d25df48b14db78200e5c0202b21b6
+bars_confidence: shape = (157,)
+bars_start: shape = (157,)
+beats_confidence: shape = (632,)
+beats_start: shape = (632,)
+danceability: 0.0
+duration: 251.66322
+end_of_fade_in: 3.373
+energy: 0.0
+key: 1
+key_confidence: 0.265
+loudness: -11.881
+mode: 1
+mode_confidence: 0.434
+release: Love Songs
+release_7digitalid: 50798
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (875,)
+segments_loudness_max: shape = (875,)
+segments_loudness_max_time: shape = (875,)
+segments_loudness_start: shape = (875,)
+segments_pitches: shape = (875, 12)
+segments_start: shape = (875,)
+segments_timbre: shape = (875, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBFLPE12A6D4F8687
+start_of_fade_out: 243.873
+tatums_confidence: shape = (1265,)
+tatums_start: shape = (1265,)
+tempo: 152.448
+time_signature: 4
+time_signature_confidence: 0.0
+title: Ain't No Sunshine
+track_7digitalid: 532252
+track_id: TRATTMT128F149167B
+year: 1972

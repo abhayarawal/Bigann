@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11062
+artist_familiarity: 0.553194233521
+artist_hotttnesss: 0.359807225003
+artist_id: ARPVFV91187B98BB94
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 95927574-d2b9-4756-b7d6-09b3c248c311
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cinder
+artist_playmeid: 42106
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 0b77c9a34f4ef0eeb3bd709a7c287f67
+bars_confidence: shape = (76,)
+bars_start: shape = (76,)
+beats_confidence: shape = (306,)
+beats_start: shape = (306,)
+danceability: 0.0
+duration: 167.18322
+end_of_fade_in: 0.148
+energy: 0.0
+key: 3
+key_confidence: 0.139
+loudness: -4.183
+mode: 0
+mode_confidence: 0.28
+release: House Full Of No Trust
+release_7digitalid: 46067
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (493,)
+segments_loudness_max: shape = (493,)
+segments_loudness_max_time: shape = (493,)
+segments_loudness_start: shape = (493,)
+segments_pitches: shape = (493, 12)
+segments_start: shape = (493,)
+segments_timbre: shape = (493, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOJYARC12A6D4F9961
+start_of_fade_out: 157.936
+tatums_confidence: shape = (613,)
+tatums_start: shape = (613,)
+tempo: 116.064
+time_signature: 4
+time_signature_confidence: 0.901
+title: Seven (Album)
+track_7digitalid: 492042
+track_id: TRASPDG128F1489FAF
+year: 2006

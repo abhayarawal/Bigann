@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 247656
+artist_familiarity: 0.394768270653
+artist_hotttnesss: 0.175411181094
+artist_id: AR137UW1187B98CCBA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5d84e905-4bbb-4dc1-8380-a796d2d62907
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Charlie Byrd Trio
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 6bba5b7024859839d58853d32aa7dc4b
+bars_confidence: shape = (679,)
+bars_start: shape = (679,)
+beats_confidence: shape = (679,)
+beats_start: shape = (679,)
+danceability: 0.0
+duration: 267.4673
+end_of_fade_in: 0.571
+energy: 0.0
+key: 7
+key_confidence: 0.403
+loudness: -21.115
+mode: 1
+mode_confidence: 0.506
+release: I've Got the World On a String
+release_7digitalid: 556943
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1038,)
+segments_loudness_max: shape = (1038,)
+segments_loudness_max_time: shape = (1038,)
+segments_loudness_start: shape = (1038,)
+segments_pitches: shape = (1038, 12)
+segments_start: shape = (1038,)
+segments_timbre: shape = (1038, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAOXXE12AB0182517
+start_of_fade_out: 252.703
+tatums_confidence: shape = (1358,)
+tatums_start: shape = (1358,)
+tempo: 161.694
+time_signature: 1
+time_signature_confidence: 0.0
+title: Travellin' On
+track_7digitalid: 6159510
+track_id: TRAMSLB128F9341812
+year: 0

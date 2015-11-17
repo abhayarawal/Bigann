@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 61219
+artist_familiarity: 0.710203377403
+artist_hotttnesss: 0.514849879573
+artist_id: ARUWB5W1187B98D7A1
+artist_latitude: nan
+artist_location: Helsinki, Finland
+artist_longitude: nan
+artist_mbid: 6e64cbfa-1a60-450e-81f4-c044c868ab24
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Ensiferum
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 42aa3aaf044cb64dfa51d92c7cc3a92c
+bars_confidence: shape = (179,)
+bars_start: shape = (179,)
+beats_confidence: shape = (720,)
+beats_start: shape = (720,)
+danceability: 0.0
+duration: 218.61832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.336
+loudness: -2.599
+mode: 0
+mode_confidence: 0.323
+release: Ensiferum
+release_7digitalid: 411428
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (788,)
+segments_loudness_max: shape = (788,)
+segments_loudness_max_time: shape = (788,)
+segments_loudness_start: shape = (788,)
+segments_pitches: shape = (788, 12)
+segments_start: shape = (788,)
+segments_timbre: shape = (788, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.691042545586
+song_id: SOZSSJQ12AB01852D1
+start_of_fade_out: 215.208
+tatums_confidence: shape = (1440,)
+tatums_start: shape = (1440,)
+tempo: 200.061
+time_signature: 4
+time_signature_confidence: 0.423
+title: Hero In A Dream
+track_7digitalid: 4573890
+track_id: TRACMHD128F931FB14
+year: 1999

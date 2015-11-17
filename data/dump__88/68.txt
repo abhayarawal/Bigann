@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 34924
+artist_familiarity: 0.453120083487
+artist_hotttnesss: 0.368455090652
+artist_id: ARE1DU51187B99BB83
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 13b97071-47b4-4543-8db3-e2aea3355651
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: The Hollywood Brats
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 08f5e2abde5540c0b555cde971837238
+bars_confidence: shape = (20,)
+bars_start: shape = (20,)
+beats_confidence: shape = (61,)
+beats_start: shape = (61,)
+danceability: 0.0
+duration: 41.16853
+end_of_fade_in: 0.328
+energy: 0.0
+key: 4
+key_confidence: 0.956
+loudness: -20.678
+mode: 1
+mode_confidence: 0.655
+release: Hollywood Brats
+release_7digitalid: 656517
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (87,)
+segments_loudness_max: shape = (87,)
+segments_loudness_max_time: shape = (87,)
+segments_loudness_start: shape = (87,)
+segments_pitches: shape = (87, 12)
+segments_start: shape = (87,)
+segments_timbre: shape = (87, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SOZMKQQ12A8C142021
+start_of_fade_out: 39.027
+tatums_confidence: shape = (122,)
+tatums_start: shape = (122,)
+tempo: 89.483
+time_signature: 3
+time_signature_confidence: 0.972
+title: Empty Bottles
+track_7digitalid: 7272683
+track_id: TRBENIG128F92F281E
+year: 0

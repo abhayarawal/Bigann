@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 597406
+artist_familiarity: 0.445763639703
+artist_hotttnesss: 0.0
+artist_id: ARPZPET1252CCF9386
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Plagia
+artist_playmeid: -1
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: 5a5ae0b914afa9526a1e923229435756
+bars_confidence: shape = (193,)
+bars_start: shape = (193,)
+beats_confidence: shape = (775,)
+beats_start: shape = (775,)
+danceability: 0.0
+duration: 354.11546
+end_of_fade_in: 0.171
+energy: 0.0
+key: 3
+key_confidence: 0.0
+loudness: -12.611
+mode: 0
+mode_confidence: 0.063
+release: Pinkboy Presents TPC
+release_7digitalid: 800483
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1861,)
+segments_loudness_max: shape = (1861,)
+segments_loudness_max_time: shape = (1861,)
+segments_loudness_start: shape = (1861,)
+segments_pitches: shape = (1861, 12)
+segments_start: shape = (1861,)
+segments_timbre: shape = (1861, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SONGLFT12AB0189B1E
+start_of_fade_out: 348.508
+tatums_confidence: shape = (1549,)
+tatums_start: shape = (1549,)
+tempo: 132.002
+time_signature: 4
+time_signature_confidence: 0.868
+title: Floripa
+track_7digitalid: 8855406
+track_id: TRAEUPF12903CB6277
+year: 0

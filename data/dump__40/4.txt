@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 423536
+artist_familiarity: 0.637494392096
+artist_hotttnesss: 0.465489009895
+artist_id: ARRBTUP1242077FA75
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5398d761-d75e-4fbf-ba73-013347eb1a17
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Taking Dawn
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 5ceb56f70f7fc1bccd44077366392c42
+bars_confidence: shape = (138,)
+bars_start: shape = (138,)
+beats_confidence: shape = (554,)
+beats_start: shape = (554,)
+danceability: 0.0
+duration: 236.79955
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.656
+loudness: -4.361
+mode: 0
+mode_confidence: 0.605
+release: Time To Burn SE
+release_7digitalid: 704331
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (655,)
+segments_loudness_max: shape = (655,)
+segments_loudness_max_time: shape = (655,)
+segments_loudness_start: shape = (655,)
+segments_pitches: shape = (655, 12)
+segments_start: shape = (655,)
+segments_timbre: shape = (655, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.447135796286
+song_id: SOCJYJY12AB018A3A3
+start_of_fade_out: 230.226
+tatums_confidence: shape = (1108,)
+tatums_start: shape = (1108,)
+tempo: 144.777
+time_signature: 4
+time_signature_confidence: 0.0
+title: Black Diamond
+track_7digitalid: 7812255
+track_id: TRANQYI12903CA2BA9
+year: 2010

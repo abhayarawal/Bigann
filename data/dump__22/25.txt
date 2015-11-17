@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 172558
+artist_familiarity: 0.370429861995
+artist_hotttnesss: 0.266269757193
+artist_id: ARENLSD1241B9C71B9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mack and Jamie
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: a5e5685671f98e5c0e9bc76f49f3e528
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (83,)
+beats_start: shape = (83,)
+danceability: 0.0
+duration: 65.95873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.359
+loudness: -21.685
+mode: 1
+mode_confidence: 0.062
+release: Extreme Channel Surfing
+release_7digitalid: 225374
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (305,)
+segments_loudness_max: shape = (305,)
+segments_loudness_max_time: shape = (305,)
+segments_loudness_start: shape = (305,)
+segments_pitches: shape = (305, 12)
+segments_start: shape = (305,)
+segments_timbre: shape = (305, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOJFIH12A8C142FF5
+start_of_fade_out: 65.959
+tatums_confidence: shape = (248,)
+tatums_start: shape = (248,)
+tempo: 76.125
+time_signature: 1
+time_signature_confidence: 1.0
+title: Goofy Golf
+track_7digitalid: 2465497
+track_id: TRAHOVC128F4297419
+year: 0

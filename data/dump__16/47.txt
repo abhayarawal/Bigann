@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7063
+artist_familiarity: 0.61180147146
+artist_hotttnesss: 0.399042081432
+artist_id: AR9ILJF1187B9B80ED
+artist_latitude: 33.89275
+artist_location: Beirut, Lebanon
+artist_longitude: 35.48527
+artist_mbid: a2dc0b52-1057-447f-89db-818acab15299
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Gabriel Yared
+artist_playmeid: 14082
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 87ad127bd06cc7386e0f843399b23b98
+bars_confidence: shape = (16,)
+bars_start: shape = (16,)
+beats_confidence: shape = (69,)
+beats_start: shape = (69,)
+danceability: 0.0
+duration: 53.31546
+end_of_fade_in: 2.026
+energy: 0.0
+key: 6
+key_confidence: 0.21
+loudness: -23.155
+mode: 0
+mode_confidence: 0.433
+release: Azur et Asmar
+release_7digitalid: 592680
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (128,)
+segments_loudness_max: shape = (128,)
+segments_loudness_max_time: shape = (128,)
+segments_loudness_start: shape = (128,)
+segments_pitches: shape = (128, 12)
+segments_start: shape = (128,)
+segments_timbre: shape = (128, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SOBBSEY12A67ADB9AA
+start_of_fade_out: 53.315
+tatums_confidence: shape = (208,)
+tatums_start: shape = (208,)
+tempo: 79.685
+time_signature: 4
+time_signature_confidence: 0.618
+title: La clé parfumée
+track_7digitalid: 6572001
+track_id: TRAFPLF12903CD8AE1
+year: 2006

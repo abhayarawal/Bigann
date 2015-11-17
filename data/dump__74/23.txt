@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 289
+artist_familiarity: 0.839297677568
+artist_hotttnesss: 0.776303263519
+artist_id: ARDVZTE1187FB5A0A1
+artist_latitude: nan
+artist_location: Sayreville, NJ
+artist_longitude: nan
+artist_mbid: 5dcdb5eb-cb72-4e6e-9e63-b7bace604965
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Bon Jovi
+artist_playmeid: 827
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 78354b3682a562c2192de0d505388ef3
+bars_confidence: shape = (126,)
+bars_start: shape = (126,)
+beats_confidence: shape = (508,)
+beats_start: shape = (508,)
+danceability: 0.0
+duration: 345.96526
+end_of_fade_in: 2.601
+energy: 0.0
+key: 6
+key_confidence: 0.649
+loudness: -5.125
+mode: 1
+mode_confidence: 0.594
+release: Bounce - Special Edition
+release_7digitalid: 814905
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (918,)
+segments_loudness_max: shape = (918,)
+segments_loudness_max_time: shape = (918,)
+segments_loudness_start: shape = (918,)
+segments_pitches: shape = (918, 12)
+segments_start: shape = (918,)
+segments_timbre: shape = (918, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOESGZE12AB018994E
+start_of_fade_out: 337.102
+tatums_confidence: shape = (2032,)
+tatums_start: shape = (2032,)
+tempo: 89.008
+time_signature: 4
+time_signature_confidence: 0.756
+title: The Distance
+track_7digitalid: 9004216
+track_id: TRAZJOI12903CDA550
+year: 2002

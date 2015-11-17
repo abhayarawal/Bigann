@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10923
+artist_familiarity: 0.909247283467
+artist_hotttnesss: 0.554938522475
+artist_id: AR2FAMK1187FB4CF60
+artist_latitude: nan
+artist_location: Ukiah, CA
+artist_longitude: nan
+artist_mbid: 1c3919b2-43ca-4a4a-935d-9d50135ec0ef
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: AFI
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: e1f6d285b0ab6b8ae75573834524df07
+bars_confidence: shape = (125,)
+bars_start: shape = (125,)
+beats_confidence: shape = (634,)
+beats_start: shape = (634,)
+danceability: 0.0
+duration: 328.72444
+end_of_fade_in: 0.136
+energy: 0.0
+key: 4
+key_confidence: 0.093
+loudness: -5.711
+mode: 1
+mode_confidence: 0.332
+release: DECEMBERUNDERGROUND
+release_7digitalid: 37491
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (952,)
+segments_loudness_max: shape = (952,)
+segments_loudness_max_time: shape = (952,)
+segments_loudness_start: shape = (952,)
+segments_pitches: shape = (952, 12)
+segments_start: shape = (952,)
+segments_timbre: shape = (952, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.836930121956
+song_id: SOISFRK12A6D4F573D
+start_of_fade_out: 318.996
+tatums_confidence: shape = (1902,)
+tatums_start: shape = (1902,)
+tempo: 113.471
+time_signature: 5
+time_signature_confidence: 0.576
+title: Affliction
+track_7digitalid: 401848
+track_id: TRAPHZT128F147A02B
+year: 2006

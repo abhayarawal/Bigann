@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21862
+artist_familiarity: 0.519969697662
+artist_hotttnesss: 0.41977664523
+artist_id: AR0A30G1187B9B183B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7e93517b-897f-43f7-bee9-8bdb7bd1c9b1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: M.A. Numminen
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: f2d69c9476123a2924bba04f32405a2b
+bars_confidence: shape = (53,)
+bars_start: shape = (53,)
+beats_confidence: shape = (214,)
+beats_start: shape = (214,)
+danceability: 0.0
+duration: 118.30812
+end_of_fade_in: 2.862
+energy: 0.0
+key: 7
+key_confidence: 0.379
+loudness: -9.169
+mode: 1
+mode_confidence: 0.455
+release: Gommin ja Pommin metsäkarnevaali
+release_7digitalid: 217877
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (590,)
+segments_loudness_max: shape = (590,)
+segments_loudness_max_time: shape = (590,)
+segments_loudness_start: shape = (590,)
+segments_pitches: shape = (590, 12)
+segments_start: shape = (590,)
+segments_timbre: shape = (590, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSPCEK12A8C13E372
+start_of_fade_out: 109.314
+tatums_confidence: shape = (854,)
+tatums_start: shape = (854,)
+tempo: 110.589
+time_signature: 4
+time_signature_confidence: 1.0
+title: Suti-suti
+track_7digitalid: 2375666
+track_id: TRBAFQZ128F4282B20
+year: 2002

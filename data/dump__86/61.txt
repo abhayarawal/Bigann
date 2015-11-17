@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 456656
+artist_familiarity: 0.505099139056
+artist_hotttnesss: 0.380917170625
+artist_id: ARGF5QG1187B9AC84F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4ee38720-c979-4a68-8969-968300508eea
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Geiom
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 172b3a23c03c48f7140c227abe62b307
+bars_confidence: shape = (180,)
+bars_start: shape = (180,)
+beats_confidence: shape = (721,)
+beats_start: shape = (721,)
+danceability: 0.0
+duration: 365.60934
+end_of_fade_in: 2.02
+energy: 0.0
+key: 1
+key_confidence: 0.014
+loudness: -16.691
+mode: 1
+mode_confidence: 0.309
+release: Sellotape Flowers
+release_7digitalid: 783141
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1702,)
+segments_loudness_max: shape = (1702,)
+segments_loudness_max_time: shape = (1702,)
+segments_loudness_start: shape = (1702,)
+segments_pitches: shape = (1702, 12)
+segments_start: shape = (1702,)
+segments_timbre: shape = (1702, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.270775998946
+song_id: SONIPXL12AC4688938
+start_of_fade_out: 343.33
+tatums_confidence: shape = (1443,)
+tatums_start: shape = (1443,)
+tempo: 119.901
+time_signature: 4
+time_signature_confidence: 0.835
+title: Sellotape Flowers
+track_7digitalid: 8661084
+track_id: TRBDSPX12903CFA94C
+year: 2001

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6678
+artist_familiarity: 0.696816891791
+artist_hotttnesss: 0.48210001892
+artist_id: ARD8JVH1187FB4DA04
+artist_latitude: nan
+artist_location: England
+artist_longitude: nan
+artist_mbid: 0053dbd9-bfbc-4e38-9f08-66a27d914c38
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Bad Company
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 7e8f1769f37b637f844af43ab3b78e85
+bars_confidence: shape = (96,)
+bars_start: shape = (96,)
+beats_confidence: shape = (673,)
+beats_start: shape = (673,)
+danceability: 0.0
+duration: 211.1473
+end_of_fade_in: 0.194
+energy: 0.0
+key: 0
+key_confidence: 0.614
+loudness: -8.958
+mode: 1
+mode_confidence: 0.634
+release: Desolation Angels
+release_7digitalid: 503069
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (809,)
+segments_loudness_max: shape = (809,)
+segments_loudness_max_time: shape = (809,)
+segments_loudness_start: shape = (809,)
+segments_pitches: shape = (809, 12)
+segments_start: shape = (809,)
+segments_timbre: shape = (809, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.552547694435
+song_id: SOOCZWD12AB0185147
+start_of_fade_out: 204.487
+tatums_confidence: shape = (1345,)
+tatums_start: shape = (1345,)
+tempo: 194.283
+time_signature: 7
+time_signature_confidence: 0.47
+title: Crazy Circles
+track_7digitalid: 5567593
+track_id: TRBIBAQ128F93279F5
+year: 1979

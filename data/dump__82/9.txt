@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 485375
+artist_familiarity: 0.480401970296
+artist_hotttnesss: 0.392325282528
+artist_id: AR93K7R1187B9AC92A
+artist_latitude: 59.91228
+artist_location: Oslo, Norway
+artist_longitude: 10.74998
+artist_mbid: 8e4685ea-5d37-459e-9a69-5c6e043b4369
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Black Debbath
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: c60e9e4b23e81626ea597db594e17ed5
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (392,)
+beats_start: shape = (392,)
+danceability: 0.0
+duration: 276.21832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.342
+loudness: -5.812
+mode: 1
+mode_confidence: 0.298
+release: Naar Vi Døde Rocker
+release_7digitalid: 732480
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (663,)
+segments_loudness_max: shape = (663,)
+segments_loudness_max_time: shape = (663,)
+segments_loudness_start: shape = (663,)
+segments_pitches: shape = (663, 12)
+segments_start: shape = (663,)
+segments_timbre: shape = (663, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPOJSW12AC468C5D5
+start_of_fade_out: 262.745
+tatums_confidence: shape = (784,)
+tatums_start: shape = (784,)
+tempo: 84.157
+time_signature: 4
+time_signature_confidence: 0.063
+title: Ville Eyolf
+track_7digitalid: 8114143
+track_id: TRBCCYW12903CEC282
+year: 2006

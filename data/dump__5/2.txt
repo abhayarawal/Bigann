@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 142898
+artist_familiarity: 0.65393782097
+artist_hotttnesss: 0.396855869325
+artist_id: ARMD0G81187B99A519
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 378125ec-fd93-4920-87f0-0ab145c2db88
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Vickie Winans
+artist_playmeid: 8019
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: b648709889fc0a771d3feb9854dcbd96
+bars_confidence: shape = (98,)
+bars_start: shape = (98,)
+beats_confidence: shape = (740,)
+beats_start: shape = (740,)
+danceability: 0.0
+duration: 358.71302
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.374
+loudness: -20.284
+mode: 0
+mode_confidence: 0.407
+release: Share the Laughter
+release_7digitalid: 688578
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1426,)
+segments_loudness_max: shape = (1426,)
+segments_loudness_max_time: shape = (1426,)
+segments_loudness_start: shape = (1426,)
+segments_pitches: shape = (1426, 12)
+segments_start: shape = (1426,)
+segments_timbre: shape = (1426, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVYOMR12AC468ABB9
+start_of_fade_out: 353.593
+tatums_confidence: shape = (1480,)
+tatums_start: shape = (1480,)
+tempo: 124.194
+time_signature: 7
+time_signature_confidence: 0.956
+title: Little Timmy
+track_7digitalid: 7643083
+track_id: TRABQIR12903CF04AD
+year: 0

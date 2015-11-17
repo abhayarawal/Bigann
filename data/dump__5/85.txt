@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4715
+artist_familiarity: 0.604820431918
+artist_hotttnesss: 0.383877493634
+artist_id: AR7BMMV1187FB5B2D7
+artist_latitude: 39.15093
+artist_location: Ukiah, CA
+artist_longitude: -123.2079
+artist_mbid: 9c17c956-de06-4463-9a87-234652c306dc
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Robben Ford
+artist_playmeid: -1
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: c78016914a72817035b876236c9b5fbf
+bars_confidence: shape = (137,)
+bars_start: shape = (137,)
+beats_confidence: shape = (553,)
+beats_start: shape = (553,)
+danceability: 0.0
+duration: 298.37016
+end_of_fade_in: 0.255
+energy: 0.0
+key: 9
+key_confidence: 0.678
+loudness: -6.311
+mode: 0
+mode_confidence: 0.494
+release: Blue Moon
+release_7digitalid: 409364
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (957,)
+segments_loudness_max: shape = (957,)
+segments_loudness_max_time: shape = (957,)
+segments_loudness_start: shape = (957,)
+segments_pitches: shape = (957, 12)
+segments_start: shape = (957,)
+segments_timbre: shape = (957, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.503381236206
+song_id: SOVKUOE12A58A8066E
+start_of_fade_out: 281.141
+tatums_confidence: shape = (1106,)
+tatums_start: shape = (1106,)
+tempo: 111.903
+time_signature: 4
+time_signature_confidence: 1.0
+title: Something For The Pain
+track_7digitalid: 4554189
+track_id: TRABYAR128F931B1A4
+year: 2002

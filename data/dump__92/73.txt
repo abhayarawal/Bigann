@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 131684
+artist_familiarity: 0.317391380089
+artist_hotttnesss: 0.345284772988
+artist_id: ARGAWJY11F50C50904
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jane Winther
+artist_playmeid: 50989
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 73d3cd02752e0b3e85409c72559457a1
+bars_confidence: shape = (126,)
+bars_start: shape = (126,)
+beats_confidence: shape = (396,)
+beats_start: shape = (396,)
+danceability: 0.0
+duration: 329.42975
+end_of_fade_in: 21.792
+energy: 0.0
+key: 2
+key_confidence: 0.486
+loudness: -21.207
+mode: 0
+mode_confidence: 0.581
+release: Bardo
+release_7digitalid: 218110
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (558,)
+segments_loudness_max: shape = (558,)
+segments_loudness_max_time: shape = (558,)
+segments_loudness_start: shape = (558,)
+segments_pitches: shape = (558, 12)
+segments_start: shape = (558,)
+segments_timbre: shape = (558, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLGLIH12A8C13E35E
+start_of_fade_out: 299.183
+tatums_confidence: shape = (793,)
+tatums_start: shape = (793,)
+tempo: 76.009
+time_signature: 3
+time_signature_confidence: 0.761
+title: Singing  Bowls_Saxophone & Voice
+track_7digitalid: 2378855
+track_id: TRBGAUG128F428378E
+year: 0

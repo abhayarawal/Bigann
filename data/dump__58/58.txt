@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 65
+artist_familiarity: 0.701260700538
+artist_hotttnesss: 0.418894704702
+artist_id: AR8B1WY1187FB38366
+artist_latitude: nan
+artist_location: Long Island, NY
+artist_longitude: nan
+artist_mbid: 2792b097-0b1d-4c50-97f6-f7f097f86438
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Rakim
+artist_playmeid: 83198
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: fd6455da109121a4b014b2bbec047297
+bars_confidence: shape = (13,)
+bars_start: shape = (13,)
+beats_confidence: shape = (13,)
+beats_start: shape = (13,)
+danceability: 0.0
+duration: 19.12118
+end_of_fade_in: 0.299
+energy: 0.0
+key: 5
+key_confidence: 0.0
+loudness: -18.83
+mode: 1
+mode_confidence: 0.0
+release: The 18th Letter
+release_7digitalid: 309106
+sections_confidence: shape = (0,)
+sections_start: shape = (0,)
+segments_confidence: shape = (67,)
+segments_loudness_max: shape = (67,)
+segments_loudness_max_time: shape = (67,)
+segments_loudness_start: shape = (67,)
+segments_pitches: shape = (67, 12)
+segments_start: shape = (67,)
+segments_timbre: shape = (67, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOKUTVW12A6310D81B
+start_of_fade_out: 19.121
+tatums_confidence: shape = (64,)
+tatums_start: shape = (64,)
+tempo: 45.554
+time_signature: 1
+time_signature_confidence: 0.0
+title: Skit
+track_7digitalid: 3495584
+track_id: TRATZRV128F42B3F1B
+year: 1997

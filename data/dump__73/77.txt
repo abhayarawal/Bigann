@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19334
+artist_familiarity: 0.470212295689
+artist_hotttnesss: 0.320086926752
+artist_id: ARJIE2Y1187B994AB7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8910064e-1810-42dc-90ba-bdab48cd9326
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Line Renaud
+artist_playmeid: 26581
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 4e7d9457c9bbe9cbab34f897b43d3c48
+bars_confidence: shape = (190,)
+bars_start: shape = (190,)
+beats_confidence: shape = (190,)
+beats_start: shape = (190,)
+danceability: 0.0
+duration: 171.96363
+end_of_fade_in: 2.316
+energy: 0.0
+key: 6
+key_confidence: 0.743
+loudness: -8.546
+mode: 1
+mode_confidence: 0.546
+release: Platinum Line Renaud
+release_7digitalid: 272703
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (441,)
+segments_loudness_max: shape = (441,)
+segments_loudness_max_time: shape = (441,)
+segments_loudness_start: shape = (441,)
+segments_pitches: shape = (441, 12)
+segments_start: shape = (441,)
+segments_timbre: shape = (441, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAKPEL12A6D4FC126
+start_of_fade_out: 167.41
+tatums_confidence: shape = (571,)
+tatums_start: shape = (571,)
+tempo: 66.974
+time_signature: 1
+time_signature_confidence: 0.944
+title: En Écoutant Mon Coeur Chanter
+track_7digitalid: 3040460
+track_id: TRAZEMT128F424C939
+year: 0

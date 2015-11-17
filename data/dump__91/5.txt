@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1555
+artist_familiarity: 0.558916244027
+artist_hotttnesss: 0.392579877755
+artist_id: ARZH0R61187FB422AE
+artist_latitude: 38.62774
+artist_location: St. Louis, MO
+artist_longitude: -90.19951
+artist_mbid: 77c1d20a-2374-42f0-8059-61d1f453d5de
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Fontella Bass
+artist_playmeid: -1
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 37bf1fcf0321b23a0ea5e75991907cbe
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (361,)
+beats_start: shape = (361,)
+danceability: 0.0
+duration: 175.38567
+end_of_fade_in: 2.316
+energy: 0.0
+key: 7
+key_confidence: 0.517
+loudness: -6.754
+mode: 1
+mode_confidence: 0.542
+release: Rescued : The Best Of Fontella Bass
+release_7digitalid: 14582
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (619,)
+segments_loudness_max: shape = (619,)
+segments_loudness_max_time: shape = (619,)
+segments_loudness_start: shape = (619,)
+segments_pitches: shape = (619, 12)
+segments_start: shape = (619,)
+segments_timbre: shape = (619, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.54795294198
+song_id: SOQBJNU12A6701DFF5
+start_of_fade_out: 160.723
+tatums_confidence: shape = (723,)
+tatums_start: shape = (723,)
+tempo: 124.826
+time_signature: 4
+time_signature_confidence: 0.518
+title: I Can't Rest
+track_7digitalid: 151580
+track_id: TRBFLOA128E078FA6A
+year: 2006

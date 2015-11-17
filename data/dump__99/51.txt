@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9995
+artist_familiarity: 0.467235916095
+artist_hotttnesss: 0.422587660736
+artist_id: ARNLHY61187FB3A0C0
+artist_latitude: nan
+artist_location: United States
+artist_longitude: nan
+artist_mbid: a6ee239c-c52d-4ddc-91e7-d7bf4917f04e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Organ Donors
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 6f262120cbd6d761490ea4df8e8408a9
+bars_confidence: shape = (248,)
+bars_start: shape = (248,)
+beats_confidence: shape = (994,)
+beats_start: shape = (994,)
+danceability: 0.0
+duration: 455.44444
+end_of_fade_in: 0.485
+energy: 0.0
+key: 8
+key_confidence: 0.459
+loudness: -3.277
+mode: 0
+mode_confidence: 0.473
+release: Lange Presents Intercity Spring 2010
+release_7digitalid: 789783
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (2534,)
+segments_loudness_max: shape = (2534,)
+segments_loudness_max_time: shape = (2534,)
+segments_loudness_start: shape = (2534,)
+segments_pitches: shape = (2534, 12)
+segments_start: shape = (2534,)
+segments_timbre: shape = (2534, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOEBFHP12AC468DA37
+start_of_fade_out: 442.032
+tatums_confidence: shape = (1989,)
+tatums_start: shape = (1989,)
+tempo: 134.07
+time_signature: 4
+time_signature_confidence: 0.542
+title: Dr Kaotica
+track_7digitalid: 8734670
+track_id: TRBIFGL12903D0C8BE
+year: 0

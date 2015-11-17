@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 14520
+artist_familiarity: 0.556083172771
+artist_hotttnesss: 0.421448617933
+artist_id: ARKJHKX1187FB5AEE5
+artist_latitude: nan
+artist_location: Lafayette, LA
+artist_longitude: nan
+artist_mbid: ca2b920b-702a-4c4a-9e22-a07e052b4fd8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Buckwheat Zydeco
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 3475c2bdcb6dae0244bd0266a3f7e429
+bars_confidence: shape = (134,)
+bars_start: shape = (134,)
+beats_confidence: shape = (538,)
+beats_start: shape = (538,)
+danceability: 0.0
+duration: 246.49098
+end_of_fade_in: 0.307
+energy: 0.0
+key: 6
+key_confidence: 0.125
+loudness: -7.822
+mode: 1
+mode_confidence: 0.374
+release: Best Of/20th Century
+release_7digitalid: 481828
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1596,)
+segments_loudness_max: shape = (1596,)
+segments_loudness_max_time: shape = (1596,)
+segments_loudness_start: shape = (1596,)
+segments_pitches: shape = (1596, 12)
+segments_start: shape = (1596,)
+segments_timbre: shape = (1596, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.496175335673
+song_id: SOVCZBS12A8C1354F1
+start_of_fade_out: 244.204
+tatums_confidence: shape = (1614,)
+tatums_start: shape = (1614,)
+tempo: 124.577
+time_signature: 4
+time_signature_confidence: 0.863
+title: Hot Tamale Baby
+track_7digitalid: 5341282
+track_id: TRAIFZX128F92F193C
+year: 1987

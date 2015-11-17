@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30031
+artist_familiarity: 0.710445622387
+artist_hotttnesss: 0.540630686225
+artist_id: AR2UQQ51187B9AC816
+artist_latitude: nan
+artist_location: Arles, France
+artist_longitude: nan
+artist_mbid: 44a7f7d5-79df-4f44-8f5e-02dfc0626904
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Gipsy Kings
+artist_playmeid: 5223
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 99a4f753a75b6e6dd1e79d9db93d5506
+bars_confidence: shape = (113,)
+bars_start: shape = (113,)
+beats_confidence: shape = (457,)
+beats_start: shape = (457,)
+danceability: 0.0
+duration: 303.09832
+end_of_fade_in: 0.148
+energy: 0.0
+key: 2
+key_confidence: 0.693
+loudness: -11.273
+mode: 0
+mode_confidence: 0.729
+release: Gipsy Kings / Mosaique / Este mundo
+release_7digitalid: 674246
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1514,)
+segments_loudness_max: shape = (1514,)
+segments_loudness_max_time: shape = (1514,)
+segments_loudness_start: shape = (1514,)
+segments_pitches: shape = (1514, 12)
+segments_start: shape = (1514,)
+segments_timbre: shape = (1514, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.675546728026
+song_id: SOITOFS12A81C21D00
+start_of_fade_out: 298.411
+tatums_confidence: shape = (1829,)
+tatums_start: shape = (1829,)
+tempo: 91.846
+time_signature: 4
+time_signature_confidence: 0.15
+title: Camino
+track_7digitalid: 7477496
+track_id: TRAYIUG12903CC7E3C
+year: 1989

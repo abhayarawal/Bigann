@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 66151
+artist_familiarity: 0.581082685024
+artist_hotttnesss: 0.390023846582
+artist_id: AR53RLV1187FB39AA5
+artist_latitude: nan
+artist_location: Waltham, MA
+artist_longitude: nan
+artist_mbid: fbbad867-cff9-4974-9702-18bd252b04e7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Damone
+artist_playmeid: 4754
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 5e27d60a8afe9d9278d0e56a38788580
+bars_confidence: shape = (133,)
+bars_start: shape = (133,)
+beats_confidence: shape = (535,)
+beats_start: shape = (535,)
+danceability: 0.0
+duration: 217.20771
+end_of_fade_in: 0.305
+energy: 0.0
+key: 6
+key_confidence: 0.289
+loudness: -4.272
+mode: 0
+mode_confidence: 0.48
+release: Out Here All Night
+release_7digitalid: 105100
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (608,)
+segments_loudness_max: shape = (608,)
+segments_loudness_max_time: shape = (608,)
+segments_loudness_start: shape = (608,)
+segments_pitches: shape = (608, 12)
+segments_start: shape = (608,)
+segments_timbre: shape = (608, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SORTYID12A8C139D86
+start_of_fade_out: 208.887
+tatums_confidence: shape = (1071,)
+tatums_start: shape = (1071,)
+tempo: 154.093
+time_signature: 4
+time_signature_confidence: 0.453
+title: Child Of The Night
+track_7digitalid: 1086295
+track_id: TRADZZP128F428BCE6
+year: 2006

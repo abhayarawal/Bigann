@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15815
+artist_familiarity: 0.588827100502
+artist_hotttnesss: 0.37967112475
+artist_id: AROUOZZ1187B9ABE51
+artist_latitude: 40.79195
+artist_location: New York, NY [Spanish Harlem]
+artist_longitude: -73.94512
+artist_mbid: dadec058-023e-498a-b1c7-776d03cc88ce
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Willie Bobo
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 784d7f50a1179d0fad2e771d125fc749
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (355,)
+beats_start: shape = (355,)
+danceability: 0.0
+duration: 168.25424
+end_of_fade_in: 0.2
+energy: 0.0
+key: 8
+key_confidence: 0.812
+loudness: -9.616
+mode: 1
+mode_confidence: 0.736
+release: Willie Bobo's Finest Hour
+release_7digitalid: 59744
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (552,)
+segments_loudness_max: shape = (552,)
+segments_loudness_max_time: shape = (552,)
+segments_loudness_start: shape = (552,)
+segments_pitches: shape = (552, 12)
+segments_start: shape = (552,)
+segments_timbre: shape = (552, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBZBAZ12A6D4F8742
+start_of_fade_out: 161.89
+tatums_confidence: shape = (709,)
+tatums_start: shape = (709,)
+tempo: 127.025
+time_signature: 4
+time_signature_confidence: 0.792
+title: Spanish Grease
+track_7digitalid: 618725
+track_id: TRAACNS128F14A2DF5
+year: 1997

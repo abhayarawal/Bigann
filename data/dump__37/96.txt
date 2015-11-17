@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 460404
+artist_familiarity: 0.200729608077
+artist_hotttnesss: 0.0
+artist_id: ARXICPY122CC3B292D
+artist_latitude: 37.27188
+artist_location: California
+artist_longitude: -119.27023
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tanika Turner
+artist_playmeid: -1
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: 36a65aebb434314b63655bc4a2e7fcbe
+bars_confidence: shape = (92,)
+bars_start: shape = (92,)
+beats_confidence: shape = (370,)
+beats_start: shape = (370,)
+danceability: 0.0
+duration: 232.72444
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.225
+loudness: -8.073
+mode: 0
+mode_confidence: 0.405
+release: Tanika Turner
+release_7digitalid: 618828
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (969,)
+segments_loudness_max: shape = (969,)
+segments_loudness_max_time: shape = (969,)
+segments_loudness_start: shape = (969,)
+segments_pitches: shape = (969, 12)
+segments_start: shape = (969,)
+segments_timbre: shape = (969, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCDQCT12AAFF429B6
+start_of_fade_out: 232.724
+tatums_confidence: shape = (740,)
+tatums_start: shape = (740,)
+tempo: 95.039
+time_signature: 4
+time_signature_confidence: 1.0
+title: Compatible
+track_7digitalid: 6872946
+track_id: TRAMXOD128F9306E6D
+year: 0

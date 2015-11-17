@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 345479
+artist_familiarity: 0.509363726508
+artist_hotttnesss: 0.290403491356
+artist_id: ARATH401187B98A7DE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d75b8331-de43-45b0-a281-548b70a540a8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: YZ
+artist_playmeid: 146074
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 7f657caee116d4cd58fe34b85ef20b6d
+bars_confidence: shape = (62,)
+bars_start: shape = (62,)
+beats_confidence: shape = (301,)
+beats_start: shape = (301,)
+danceability: 0.0
+duration: 247.82322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.608
+loudness: -11.51
+mode: 0
+mode_confidence: 0.585
+release: Muad'Dib
+release_7digitalid: 800541
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1101,)
+segments_loudness_max: shape = (1101,)
+segments_loudness_max_time: shape = (1101,)
+segments_loudness_start: shape = (1101,)
+segments_pitches: shape = (1101, 12)
+segments_start: shape = (1101,)
+segments_timbre: shape = (1101, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOGCKGR12AB0184479
+start_of_fade_out: 244.309
+tatums_confidence: shape = (902,)
+tatums_start: shape = (902,)
+tempo: 74.413
+time_signature: 4
+time_signature_confidence: 1.0
+title: More than War
+track_7digitalid: 8855950
+track_id: TRAWTHB12903CB6497
+year: 0

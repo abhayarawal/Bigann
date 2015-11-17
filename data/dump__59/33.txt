@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19769
+artist_familiarity: 0.015557880683
+artist_hotttnesss: 0.344246580364
+artist_id: ARHO1WI1187B98CB84
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d1de79d5-3ca3-42f5-8d82-fbc71a76ec93
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Michael Card
+artist_playmeid: 98377
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 42593da385553c26f8b332bc21c7138b
+bars_confidence: shape = (79,)
+bars_start: shape = (79,)
+beats_confidence: shape = (320,)
+beats_start: shape = (320,)
+danceability: 0.0
+duration: 208.50893
+end_of_fade_in: 0.363
+energy: 0.0
+key: 9
+key_confidence: 0.558
+loudness: -21.716
+mode: 1
+mode_confidence: 0.669
+release: The Way Of Wisdom
+release_7digitalid: 64552
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (649,)
+segments_loudness_max: shape = (649,)
+segments_loudness_max_time: shape = (649,)
+segments_loudness_start: shape = (649,)
+segments_pitches: shape = (649, 12)
+segments_start: shape = (649,)
+segments_timbre: shape = (649, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOXDBMM12A6D4F9C58
+start_of_fade_out: 199.192
+tatums_confidence: shape = (640,)
+tatums_start: shape = (640,)
+tempo: 93.542
+time_signature: 4
+time_signature_confidence: 0.363
+title: Arise_ My Love (Song Of Solomon)
+track_7digitalid: 671166
+track_id: TRAUGLZ128F14AE500
+year: 0

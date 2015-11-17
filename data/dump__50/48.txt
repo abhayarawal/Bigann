@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 269
+artist_familiarity: 0.818319359139
+artist_hotttnesss: 0.667294595643
+artist_id: ARVN9FZ1187FB393F1
+artist_latitude: nan
+artist_location: Dundee, Scotland
+artist_longitude: nan
+artist_mbid: a66999a7-ae5c-460e-ba94-1a01143ae847
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Snow Patrol
+artist_playmeid: 1468
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: e09975dc5aa57386e5023fef636a4ba4
+bars_confidence: shape = (400,)
+bars_start: shape = (400,)
+beats_confidence: shape = (400,)
+beats_start: shape = (400,)
+danceability: 0.0
+duration: 214.5171
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.627
+loudness: -14.309
+mode: 1
+mode_confidence: 0.355
+release: Snow Patrol Late Night Tales
+release_7digitalid: 613236
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (813,)
+segments_loudness_max: shape = (813,)
+segments_loudness_max_time: shape = (813,)
+segments_loudness_start: shape = (813,)
+segments_pitches: shape = (813, 12)
+segments_start: shape = (813,)
+segments_timbre: shape = (813, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.482535378797
+song_id: SOQQXBH12A8C145D71
+start_of_fade_out: 205.607
+tatums_confidence: shape = (800,)
+tatums_start: shape = (800,)
+tempo: 114.954
+time_signature: 1
+time_signature_confidence: 0.0
+title: New Sensation
+track_7digitalid: 6815105
+track_id: TRAREHS128F92F8E13
+year: 2009

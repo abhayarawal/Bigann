@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 193376
+artist_familiarity: 0.480752276169
+artist_hotttnesss: 0.417593317281
+artist_id: AROGWRA122988FEE45
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Christos Dantis
+artist_playmeid: 28246
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 8ef6a5b50de189c16ccd9ae1f4ebd40f
+bars_confidence: shape = (86,)
+bars_start: shape = (86,)
+beats_confidence: shape = (348,)
+beats_start: shape = (348,)
+danceability: 0.0
+duration: 128.83546
+end_of_fade_in: 0.246
+energy: 0.0
+key: 11
+key_confidence: 0.445
+loudness: -7.604
+mode: 0
+mode_confidence: 0.64
+release: Christos Dantis Best
+release_7digitalid: 308132
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (515,)
+segments_loudness_max: shape = (515,)
+segments_loudness_max_time: shape = (515,)
+segments_loudness_start: shape = (515,)
+segments_pitches: shape = (515, 12)
+segments_start: shape = (515,)
+segments_timbre: shape = (515, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQLWTW12A8C13EA1F
+start_of_fade_out: 125.103
+tatums_confidence: shape = (695,)
+tatums_start: shape = (695,)
+tempo: 166.138
+time_signature: 4
+time_signature_confidence: 0.315
+title: 24.000 Baci
+track_7digitalid: 3476513
+track_id: TRAZYJO128F42AF4B5
+year: 0

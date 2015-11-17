@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 51286
+artist_familiarity: 0.0360436167291
+artist_hotttnesss: 0.0
+artist_id: ARXWBYG1241B9CE962
+artist_latitude: 59.33217
+artist_location: Stockholm
+artist_longitude: 18.06243
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jenney
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 3992d3de106fc336ff38afa524d12076
+bars_confidence: shape = (161,)
+bars_start: shape = (161,)
+beats_confidence: shape = (648,)
+beats_start: shape = (648,)
+danceability: 0.0
+duration: 228.80608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.08
+loudness: -3.823
+mode: 1
+mode_confidence: 0.498
+release: Wohin dich die Sehnsucht führt
+release_7digitalid: 178219
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (869,)
+segments_loudness_max: shape = (869,)
+segments_loudness_max_time: shape = (869,)
+segments_loudness_start: shape = (869,)
+segments_pitches: shape = (869, 12)
+segments_start: shape = (869,)
+segments_timbre: shape = (869, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBGYQD12A67ADC8F9
+start_of_fade_out: 225.57
+tatums_confidence: shape = (1295,)
+tatums_start: shape = (1295,)
+tempo: 170.017
+time_signature: 4
+time_signature_confidence: 0.513
+title: Ich vermiss dich (Radio Mix)
+track_7digitalid: 1922597
+track_id: TRAVNKA128F42282D4
+year: 0

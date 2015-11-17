@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 33154
+artist_familiarity: 0.780815618518
+artist_hotttnesss: 0.572664689635
+artist_id: AR1XA631187FB57662
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: 63011a8d-0117-4f7e-9991-1ef1f337ff70
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Ruben Cossani
+artist_playmeid: 152751
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: e60535cc9033c70ce53319363822e0e8
+bars_confidence: shape = (12,)
+bars_start: shape = (12,)
+beats_confidence: shape = (12,)
+beats_start: shape = (12,)
+danceability: 0.0
+duration: 10.68363
+end_of_fade_in: 0.136
+energy: 0.0
+key: 5
+key_confidence: 0.109
+loudness: -25.471
+mode: 1
+mode_confidence: 0.534
+release: Tägliche Landschaft
+release_7digitalid: 381814
+sections_confidence: shape = (0,)
+sections_start: shape = (0,)
+segments_confidence: shape = (19,)
+segments_loudness_max: shape = (19,)
+segments_loudness_max_time: shape = (19,)
+segments_loudness_start: shape = (19,)
+segments_pitches: shape = (19, 12)
+segments_start: shape = (19,)
+segments_timbre: shape = (19, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVHCTD12AC9E154F7
+start_of_fade_out: 10.684
+tatums_confidence: shape = (23,)
+tatums_start: shape = (23,)
+tempo: 68.798
+time_signature: 1
+time_signature_confidence: 0.0
+title: Piroschka
+track_7digitalid: 4241627
+track_id: TRAYMHX128F92DDC9E
+year: 0

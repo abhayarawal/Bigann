@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 61234
+artist_familiarity: 0.664924362444
+artist_hotttnesss: 0.496381145682
+artist_id: ARN0DMU1187FB5B63A
+artist_latitude: nan
+artist_location: Philadelphia, Pennsylvania
+artist_longitude: nan
+artist_mbid: debabff3-2559-46e5-862d-ef2a906d7010
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Hall & Oates
+artist_playmeid: 2724
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 9fcb04af84153b26ed3b7149be809ff0
+bars_confidence: shape = (272,)
+bars_start: shape = (272,)
+beats_confidence: shape = (272,)
+beats_start: shape = (272,)
+danceability: 0.0
+duration: 158.40608
+end_of_fade_in: 0.125
+energy: 0.0
+key: 3
+key_confidence: 0.619
+loudness: -9.926
+mode: 0
+mode_confidence: 0.634
+release: Angelina & Other Favorites (Digitally Remastered)
+release_7digitalid: 729776
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (541,)
+segments_loudness_max: shape = (541,)
+segments_loudness_max_time: shape = (541,)
+segments_loudness_start: shape = (541,)
+segments_pitches: shape = (541, 12)
+segments_start: shape = (541,)
+segments_timbre: shape = (541, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQPBEV12AC3DF66EF
+start_of_fade_out: 154.877
+tatums_confidence: shape = (543,)
+tatums_start: shape = (543,)
+tempo: 105.314
+time_signature: 1
+time_signature_confidence: 0.0
+title: Perkiomen
+track_7digitalid: 8084296
+track_id: TRANOBE12903CE4DF3
+year: 1993

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 182084
+artist_familiarity: 0.600486542701
+artist_hotttnesss: 0.453270236306
+artist_id: ARPHH7Z1187B9B6A3A
+artist_latitude: nan
+artist_location: Sona-Bata, Zaire
+artist_longitude: nan
+artist_mbid: 891004ce-89a3-4512-9141-d0098d376cfc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Franco
+artist_playmeid: -1
+artist_terms: shape = (50,)
+artist_terms_freq: shape = (50,)
+artist_terms_weight: shape = (50,)
+audio_md5: 68f33516fae493e4574634527b5086e1
+bars_confidence: shape = (123,)
+bars_start: shape = (123,)
+beats_confidence: shape = (374,)
+beats_start: shape = (374,)
+danceability: 0.0
+duration: 251.61098
+end_of_fade_in: 5.23
+energy: 0.0
+key: 1
+key_confidence: 0.569
+loudness: -9.387
+mode: 0
+mode_confidence: 0.67
+release: Retro Years
+release_7digitalid: 818106
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (781,)
+segments_loudness_max: shape = (781,)
+segments_loudness_max_time: shape = (781,)
+segments_loudness_start: shape = (781,)
+segments_pitches: shape = (781, 12)
+segments_start: shape = (781,)
+segments_timbre: shape = (781, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHOPYC12AB0188EFC
+start_of_fade_out: 233.709
+tatums_confidence: shape = (1123,)
+tatums_start: shape = (1123,)
+tempo: 89.984
+time_signature: 3
+time_signature_confidence: 0.731
+title: Forever
+track_7digitalid: 9038415
+track_id: TRARSLP12903CE2AA6
+year: 0

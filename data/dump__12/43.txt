@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6795
+artist_familiarity: 0.821718693377
+artist_hotttnesss: 0.696161109836
+artist_id: ARZWK2R1187B98F09F
+artist_latitude: nan
+artist_location: Chicago
+artist_longitude: nan
+artist_mbid: 606bf117-494f-4864-891f-09d63ff6aa4b
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Rise Against
+artist_playmeid: 4579
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 3522b9e1a967ddb5c586bea52518a775
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (288,)
+beats_start: shape = (288,)
+danceability: 0.0
+duration: 139.17995
+end_of_fade_in: 0.351
+energy: 0.0
+key: 10
+key_confidence: 0.505
+loudness: -3.619
+mode: 0
+mode_confidence: 0.555
+release: Siren Song Of The Counter-Culture
+release_7digitalid: 9844
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (435,)
+segments_loudness_max: shape = (435,)
+segments_loudness_max_time: shape = (435,)
+segments_loudness_start: shape = (435,)
+segments_pitches: shape = (435, 12)
+segments_start: shape = (435,)
+segments_timbre: shape = (435, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZVTQM12CF5F88285
+start_of_fade_out: 131.326
+tatums_confidence: shape = (576,)
+tatums_start: shape = (576,)
+tempo: 132.045
+time_signature: 3
+time_signature_confidence: 0.426
+title: State Of The Union
+track_7digitalid: 101146
+track_id: TRAECVW128E078884D
+year: 2004

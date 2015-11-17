@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 37005
+artist_familiarity: 0.510928702636
+artist_hotttnesss: 0.389553387568
+artist_id: ARGDLJR1187B98D048
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: de5cc0b2-e97f-440e-b280-d112d0c09ff5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bob Crosby
+artist_playmeid: 17838
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: aa9ba14d22a7d793114acbf5bc1b9e83
+bars_confidence: shape = (70,)
+bars_start: shape = (70,)
+beats_confidence: shape = (287,)
+beats_start: shape = (287,)
+danceability: 0.0
+duration: 171.85914
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.513
+loudness: -14.946
+mode: 0
+mode_confidence: 0.574
+release: 1937/40 Broadcasts
+release_7digitalid: 446325
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (681,)
+segments_loudness_max: shape = (681,)
+segments_loudness_max_time: shape = (681,)
+segments_loudness_start: shape = (681,)
+segments_pitches: shape = (681, 12)
+segments_start: shape = (681,)
+segments_timbre: shape = (681, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOYYAKA12A58A7D409
+start_of_fade_out: 171.859
+tatums_confidence: shape = (574,)
+tatums_start: shape = (574,)
+tempo: 100.317
+time_signature: 4
+time_signature_confidence: 1.0
+title: Wolverine Blues (Slight Flaw In Master) (1940 Blackhawk Restaurant Chicago)
+track_7digitalid: 4952398
+track_id: TRAIXHM128F9302149
+year: 0

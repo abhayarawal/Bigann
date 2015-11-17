@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12874
+artist_familiarity: 0.639158707883
+artist_hotttnesss: 0.497544085149
+artist_id: ARLE1JH1187B9B630B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d229ee11-fc4e-4a1c-8e0a-1e8f84950532
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Zbigniew Preisner
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: a35b3663ac40a1eba82613eee2bab0bc
+bars_confidence: shape = (33,)
+bars_start: shape = (33,)
+beats_confidence: shape = (33,)
+beats_start: shape = (33,)
+danceability: 0.0
+duration: 63.63383
+end_of_fade_in: 3.582
+energy: 0.0
+key: 0
+key_confidence: 0.403
+loudness: -31.708
+mode: 1
+mode_confidence: 0.443
+release: 3 Couleurs : Blanc
+release_7digitalid: 422111
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (109,)
+segments_loudness_max: shape = (109,)
+segments_loudness_max_time: shape = (109,)
+segments_loudness_start: shape = (109,)
+segments_pitches: shape = (109, 12)
+segments_start: shape = (109,)
+segments_timbre: shape = (109, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.437036204112
+song_id: SOUVFZK12AB0182A35
+start_of_fade_out: 63.634
+tatums_confidence: shape = (69,)
+tatums_start: shape = (69,)
+tempo: 35.351
+time_signature: 1
+time_signature_confidence: 0.0
+title: The Court
+track_7digitalid: 4705181
+track_id: TRBGQWH128F933C413
+year: 1994

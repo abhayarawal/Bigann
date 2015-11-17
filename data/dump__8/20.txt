@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 165269
+artist_familiarity: 0.649157388233
+artist_hotttnesss: 0.469177429437
+artist_id: ARWHM281187FB3D381
+artist_latitude: 37.80506
+artist_location: Oakland, CA
+artist_longitude: -122.27302
+artist_mbid: 7b61cf8f-c042-4bd4-b64a-25cb40f3dd50
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Souls Of Mischief
+artist_playmeid: 8348
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: d99c7a06cc385a9c1b5875c443d6b7f1
+bars_confidence: shape = (86,)
+bars_start: shape = (86,)
+beats_confidence: shape = (365,)
+beats_start: shape = (365,)
+danceability: 0.0
+duration: 220.96934
+end_of_fade_in: 0.113
+energy: 0.0
+key: 4
+key_confidence: 0.374
+loudness: -5.911
+mode: 0
+mode_confidence: 0.339
+release: Urban Renewal Program
+release_7digitalid: 808024
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1028,)
+segments_loudness_max: shape = (1028,)
+segments_loudness_max_time: shape = (1028,)
+segments_loudness_start: shape = (1028,)
+segments_pitches: shape = (1028, 12)
+segments_start: shape = (1028,)
+segments_timbre: shape = (1028, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.602119989906
+song_id: SONCPQC12A58A7D3A7
+start_of_fade_out: 210.338
+tatums_confidence: shape = (729,)
+tatums_start: shape = (729,)
+tempo: 96.287
+time_signature: 4
+time_signature_confidence: 1.0
+title: Spark
+track_7digitalid: 8935088
+track_id: TRACRQV12903CC995F
+year: 2002

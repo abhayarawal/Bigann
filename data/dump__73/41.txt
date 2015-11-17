@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3919
+artist_familiarity: 0.774037142161
+artist_hotttnesss: 0.521726647791
+artist_id: ARL3VGT1187FB40E8E
+artist_latitude: -34.60852
+artist_location: Buenos Aires.
+artist_longitude: -58.37354
+artist_mbid: cfe85625-10af-46c1-99fb-765ed3a4f1ad
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Los Fabulosos Cadillacs
+artist_playmeid: 15034
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 8fce3121bbee56db180b382276cb32e4
+bars_confidence: shape = (118,)
+bars_start: shape = (118,)
+beats_confidence: shape = (358,)
+beats_start: shape = (358,)
+danceability: 0.0
+duration: 189.88363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.0
+loudness: -6.393
+mode: 0
+mode_confidence: 0.0
+release: La Marcha Del Golazo Solitario
+release_7digitalid: 508116
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (993,)
+segments_loudness_max: shape = (993,)
+segments_loudness_max_time: shape = (993,)
+segments_loudness_start: shape = (993,)
+segments_pitches: shape = (993, 12)
+segments_start: shape = (993,)
+segments_timbre: shape = (993, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.59842854888
+song_id: SOIGZOE12AB017F37D
+start_of_fade_out: 181.621
+tatums_confidence: shape = (716,)
+tatums_start: shape = (716,)
+tempo: 114.72
+time_signature: 3
+time_signature_confidence: 0.847
+title: Vos Sabes
+track_7digitalid: 5623171
+track_id: TRAZBYT128F93351CF
+year: 1999

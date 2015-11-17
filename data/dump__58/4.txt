@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 443520
+artist_familiarity: 0.380230188431
+artist_hotttnesss: 0.223983698921
+artist_id: AR8365R1187FB5997B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: dd5621f7-6d55-4c8e-af2c-ea19b2b91e7f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jean Carnigan
+artist_playmeid: 54879
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: eef77e8113cc9cbab0465c066d32d6b8
+bars_confidence: shape = (133,)
+bars_start: shape = (133,)
+beats_confidence: shape = (537,)
+beats_start: shape = (537,)
+danceability: 0.0
+duration: 177.47546
+end_of_fade_in: 0.338
+energy: 0.0
+key: 2
+key_confidence: 0.545
+loudness: -9.874
+mode: 1
+mode_confidence: 0.568
+release: French Canadian Irish And Scottish Fiddle Music
+release_7digitalid: 232116
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (869,)
+segments_loudness_max: shape = (869,)
+segments_loudness_max_time: shape = (869,)
+segments_loudness_start: shape = (869,)
+segments_pitches: shape = (869, 12)
+segments_start: shape = (869,)
+segments_timbre: shape = (869, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVAHWF12A81C23457
+start_of_fade_out: 170.731
+tatums_confidence: shape = (1073,)
+tatums_start: shape = (1073,)
+tempo: 185.598
+time_signature: 4
+time_signature_confidence: 0.0
+title: Irish Medley - Jigs
+track_7digitalid: 2548954
+track_id: TRATUIK128F4225A26
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 189121
+artist_familiarity: 0.421209146573
+artist_hotttnesss: 0.294607892786
+artist_id: AR199MY1187B9B731E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 83f58e18-23d1-40df-818c-5d5d8c536df7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Madilu System
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: b843e541883dfe4a25c463765446725a
+bars_confidence: shape = (194,)
+bars_start: shape = (194,)
+beats_confidence: shape = (979,)
+beats_start: shape = (979,)
+danceability: 0.0
+duration: 451.44771
+end_of_fade_in: 0.235
+energy: 0.0
+key: 9
+key_confidence: 0.0
+loudness: -3.871
+mode: 1
+mode_confidence: 0.108
+release: La Bonne Humeur
+release_7digitalid: 244370
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (2019,)
+segments_loudness_max: shape = (2019,)
+segments_loudness_max_time: shape = (2019,)
+segments_loudness_start: shape = (2019,)
+segments_pitches: shape = (2019, 12)
+segments_start: shape = (2019,)
+segments_timbre: shape = (2019, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.349166902125
+song_id: SOMKRRH12A8C13C411
+start_of_fade_out: 440.668
+tatums_confidence: shape = (1957,)
+tatums_start: shape = (1957,)
+tempo: 130.126
+time_signature: 5
+time_signature_confidence: 0.777
+title: Vincent
+track_7digitalid: 2809287
+track_id: TRADGWP128F42618E4
+year: 0

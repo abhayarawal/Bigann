@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 92339
+artist_familiarity: 0.842193350021
+artist_hotttnesss: 0.550422824859
+artist_id: AR1OBRC1187FB59AD4
+artist_latitude: nan
+artist_location: POLAND
+artist_longitude: nan
+artist_mbid: 69632f9c-31eb-43d5-a864-e73ac72efc66
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Behemoth
+artist_playmeid: 54446
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 4cb6d68cc5492a8d1c3dd0b47ee9d582
+bars_confidence: shape = (72,)
+bars_start: shape = (72,)
+beats_confidence: shape = (291,)
+beats_start: shape = (291,)
+danceability: 0.0
+duration: 146.46812
+end_of_fade_in: 0.326
+energy: 0.0
+key: 2
+key_confidence: 0.0
+loudness: -5.497
+mode: 1
+mode_confidence: 0.0
+release: Thelema 6
+release_7digitalid: 163978
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (390,)
+segments_loudness_max: shape = (390,)
+segments_loudness_max_time: shape = (390,)
+segments_loudness_start: shape = (390,)
+segments_pitches: shape = (390, 12)
+segments_start: shape = (390,)
+segments_timbre: shape = (390, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.558441746921
+song_id: SOWMVSQ12A8C13E1DC
+start_of_fade_out: 139.517
+tatums_confidence: shape = (583,)
+tatums_start: shape = (583,)
+tempo: 126.154
+time_signature: 4
+time_signature_confidence: 0.0
+title: Malice
+track_7digitalid: 1737585
+track_id: TRBFKMN128F4286D1B
+year: 2000

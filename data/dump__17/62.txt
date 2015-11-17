@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 407965
+artist_familiarity: 0.49244072825
+artist_hotttnesss: 0.338946969158
+artist_id: ARY1K701187B9A43A9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a9f0fc9f-13a0-47aa-a7c3-f2d78013f7b6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Joe McBride
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 9d8b35976dbbec2ca77c60fec24d91f0
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (450,)
+beats_start: shape = (450,)
+danceability: 0.0
+duration: 291.13424
+end_of_fade_in: 0.108
+energy: 0.0
+key: 3
+key_confidence: 0.338
+loudness: -12.446
+mode: 1
+mode_confidence: 0.427
+release: Lookin' For A Change
+release_7digitalid: 637620
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1183,)
+segments_loudness_max: shape = (1183,)
+segments_loudness_max_time: shape = (1183,)
+segments_loudness_start: shape = (1183,)
+segments_pitches: shape = (1183, 12)
+segments_start: shape = (1183,)
+segments_timbre: shape = (1183, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3759843015
+song_id: SOFUWDG12A8C142F6D
+start_of_fade_out: 287.794
+tatums_confidence: shape = (1349,)
+tatums_start: shape = (1349,)
+tempo: 93.331
+time_signature: 5
+time_signature_confidence: 0.626
+title: This Is How A Heart Breaks
+track_7digitalid: 7077455
+track_id: TRAGAAF128F9338911
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17457
+artist_familiarity: 0.546346469458
+artist_hotttnesss: 0.413772173138
+artist_id: ARN3X4T1187B99EA39
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a2cab261-63cc-4ccf-8023-6b6e8588bb62
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Jacky Cheung
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 406fec904af3faed9bd1371680cd4140
+bars_confidence: shape = (464,)
+bars_start: shape = (464,)
+beats_confidence: shape = (464,)
+beats_start: shape = (464,)
+danceability: 0.0
+duration: 283.71546
+end_of_fade_in: 0.481
+energy: 0.0
+key: 6
+key_confidence: 0.179
+loudness: -10.305
+mode: 0
+mode_confidence: 0.275
+release: Wang Ji Ni Wo Zuo Bu Dao
+release_7digitalid: 46630
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (760,)
+segments_loudness_max: shape = (760,)
+segments_loudness_max_time: shape = (760,)
+segments_loudness_start: shape = (760,)
+segments_pitches: shape = (760, 12)
+segments_start: shape = (760,)
+segments_timbre: shape = (760, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSKQYI12A6D4F95E2
+start_of_fade_out: 259.007
+tatums_confidence: shape = (928,)
+tatums_start: shape = (928,)
+tempo: 99.144
+time_signature: 1
+time_signature_confidence: 1.0
+title: Man Man
+track_7digitalid: 498303
+track_id: TRAMGBE128F148B476
+year: 0

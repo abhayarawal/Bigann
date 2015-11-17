@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 288933
+artist_familiarity: 0.641963523486
+artist_hotttnesss: 0.53720953902
+artist_id: AR58JT11187B9AF4CC
+artist_latitude: 41.30711
+artist_location: New Haven, CT
+artist_longitude: -72.92496
+artist_mbid: 4580d83b-093e-4241-91fb-2dd71f5f1f3f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Carpenters
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 928a99a7791cb693c394ce8428a96187
+bars_confidence: shape = (43,)
+bars_start: shape = (43,)
+beats_confidence: shape = (177,)
+beats_start: shape = (177,)
+danceability: 0.0
+duration: 134.60853
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.771
+loudness: -17.001
+mode: 1
+mode_confidence: 0.663
+release: Christmas Collection
+release_7digitalid: 51445
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (281,)
+segments_loudness_max: shape = (281,)
+segments_loudness_max_time: shape = (281,)
+segments_loudness_start: shape = (281,)
+segments_pitches: shape = (281, 12)
+segments_start: shape = (281,)
+segments_timbre: shape = (281, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.382935090075
+song_id: SOGDOEZ12A6D4F9FBF
+start_of_fade_out: 127.472
+tatums_confidence: shape = (354,)
+tatums_start: shape = (354,)
+tempo: 80.182
+time_signature: 4
+time_signature_confidence: 0.459
+title: An Old Fashioned Christmas
+track_7digitalid: 538913
+track_id: TRAXIPO128F14923B2
+year: 1992

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18252
+artist_familiarity: 0.674839435823
+artist_hotttnesss: 0.425450613864
+artist_id: AR0WGXC1187B9AAC99
+artist_latitude: nan
+artist_location: Detroit MI
+artist_longitude: nan
+artist_mbid: c0c1183e-6940-48ca-8f96-98250fcb3ef1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Slum Village
+artist_playmeid: 61553
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 09cdadd0ad73bef9f045940a8dc90595
+bars_confidence: shape = (57,)
+bars_start: shape = (57,)
+beats_confidence: shape = (229,)
+beats_start: shape = (229,)
+danceability: 0.0
+duration: 152.86812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.05
+loudness: -5.216
+mode: 0
+mode_confidence: 0.484
+release: J-88
+release_7digitalid: 463544
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (639,)
+segments_loudness_max: shape = (639,)
+segments_loudness_max_time: shape = (639,)
+segments_loudness_start: shape = (639,)
+segments_pitches: shape = (639, 12)
+segments_start: shape = (639,)
+segments_timbre: shape = (639, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIPFDV12A58A7C1CE
+start_of_fade_out: 136.417
+tatums_confidence: shape = (458,)
+tatums_start: shape = (458,)
+tempo: 89.957
+time_signature: 4
+time_signature_confidence: 0.218
+title: The Things You Do
+track_7digitalid: 5159158
+track_id: TRBHDSI128F9331867
+year: 0

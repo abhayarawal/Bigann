@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19206
+artist_familiarity: 0.7394548739
+artist_hotttnesss: 0.513339195848
+artist_id: AREKO1L1187B997EFE
+artist_latitude: 55.70622
+artist_location: Lund, Sweden
+artist_longitude: 13.1876
+artist_mbid: e664d1cd-23ab-48d5-b8fa-e98485daa5be
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Radio Department
+artist_playmeid: 194060
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 0e8c84ee5ce2a6f9d0dfeef28711f009
+bars_confidence: shape = (147,)
+bars_start: shape = (147,)
+beats_confidence: shape = (590,)
+beats_start: shape = (590,)
+danceability: 0.0
+duration: 248.24118
+end_of_fade_in: 0.339
+energy: 0.0
+key: 7
+key_confidence: 0.853
+loudness: -9.024
+mode: 1
+mode_confidence: 0.747
+release: Marie Antoinette (Original Motion Picture Soundtrack)
+release_7digitalid: 47311
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (802,)
+segments_loudness_max: shape = (802,)
+segments_loudness_max_time: shape = (802,)
+segments_loudness_start: shape = (802,)
+segments_pitches: shape = (802, 12)
+segments_start: shape = (802,)
+segments_timbre: shape = (802, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.788210711202
+song_id: SOMQPCE12AF729A73F
+start_of_fade_out: 234.783
+tatums_confidence: shape = (1180,)
+tatums_start: shape = (1180,)
+tempo: 142.953
+time_signature: 4
+time_signature_confidence: 0.666
+title: I Don't Like It Like This
+track_7digitalid: 507110
+track_id: TRBAMEV128F148C814
+year: 2005

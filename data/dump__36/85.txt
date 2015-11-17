@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 110345
+artist_familiarity: 0.545866608602
+artist_hotttnesss: 0.375362434357
+artist_id: ARH0Z131187B9B69E9
+artist_latitude: 40.8079
+artist_location: Harlem, New York, NY
+artist_longitude: -73.9454
+artist_mbid: 94ff7d3c-27e1-4628-9b81-477f911295cd
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Kool Moe Dee
+artist_playmeid: 7994
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 763f2a3fe0d62932b1c2db42c3666e47
+bars_confidence: shape = (145,)
+bars_start: shape = (145,)
+beats_confidence: shape = (583,)
+beats_start: shape = (583,)
+danceability: 0.0
+duration: 336.43057
+end_of_fade_in: 0.141
+energy: 0.0
+key: 6
+key_confidence: 0.579
+loudness: -7.0
+mode: 1
+mode_confidence: 0.608
+release: The Masters Series: Hip Hop
+release_7digitalid: 453478
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1619,)
+segments_loudness_max: shape = (1619,)
+segments_loudness_max_time: shape = (1619,)
+segments_loudness_start: shape = (1619,)
+segments_pitches: shape = (1619, 12)
+segments_start: shape = (1619,)
+segments_timbre: shape = (1619, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLZRNM12AB0182048
+start_of_fade_out: 334.251
+tatums_confidence: shape = (1167,)
+tatums_start: shape = (1167,)
+tempo: 104.171
+time_signature: 4
+time_signature_confidence: 1.0
+title: How Ya Like Me Now
+track_7digitalid: 5046481
+track_id: TRAMNFT128F9316759
+year: 1987

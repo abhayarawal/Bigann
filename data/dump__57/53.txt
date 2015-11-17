@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21862
+artist_familiarity: 0.519969697662
+artist_hotttnesss: 0.41977664523
+artist_id: AR0A30G1187B9B183B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7e93517b-897f-43f7-bee9-8bdb7bd1c9b1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: M.A. Numminen
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: fd15cd183aa0e437f242cd64fafdbcfb
+bars_confidence: shape = (57,)
+bars_start: shape = (57,)
+beats_confidence: shape = (232,)
+beats_start: shape = (232,)
+danceability: 0.0
+duration: 102.79138
+end_of_fade_in: 0.398
+energy: 0.0
+key: 8
+key_confidence: 0.804
+loudness: -10.745
+mode: 1
+mode_confidence: 0.537
+release: Ollaan Elaimia
+release_7digitalid: 32701
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (443,)
+segments_loudness_max: shape = (443,)
+segments_loudness_max_time: shape = (443,)
+segments_loudness_start: shape = (443,)
+segments_pitches: shape = (443, 12)
+segments_start: shape = (443,)
+segments_timbre: shape = (443, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.260338242567
+song_id: SOCCBQJ12A6D4F9F65
+start_of_fade_out: 98.725
+tatums_confidence: shape = (464,)
+tatums_start: shape = (464,)
+tempo: 141.358
+time_signature: 4
+time_signature_confidence: 0.0
+title: LAIVAMATKA WC:SSÄ
+track_7digitalid: 351677
+track_id: TRATPGP128F14700F8
+year: 0

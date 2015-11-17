@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40983
+artist_familiarity: 0.662298709656
+artist_hotttnesss: 0.379137555625
+artist_id: ARALP6I1187B989E27
+artist_latitude: 40.86034
+artist_location: Passaic, NJ
+artist_longitude: -74.12374
+artist_mbid: a8540ea0-1a74-4c22-8b70-1348a77a74a0
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: The Shirelles
+artist_playmeid: 2984
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: ceffcdc908d72c8396ef2c7e420cf2ff
+bars_confidence: shape = (40,)
+bars_start: shape = (40,)
+beats_confidence: shape = (181,)
+beats_start: shape = (181,)
+danceability: 0.0
+duration: 159.76444
+end_of_fade_in: 0.229
+energy: 0.0
+key: 0
+key_confidence: 0.603
+loudness: -9.79
+mode: 1
+mode_confidence: 0.134
+release: Dreamboats & Petticoats 2
+release_7digitalid: 332859
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (428,)
+segments_loudness_max: shape = (428,)
+segments_loudness_max_time: shape = (428,)
+segments_loudness_start: shape = (428,)
+segments_pitches: shape = (428, 12)
+segments_start: shape = (428,)
+segments_timbre: shape = (428, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEMLQO12AB01808B6
+start_of_fade_out: 155.527
+tatums_confidence: shape = (362,)
+tatums_start: shape = (362,)
+tempo: 68.283
+time_signature: 4
+time_signature_confidence: 0.692
+title: Will You Love Me Tomorrow
+track_7digitalid: 3730111
+track_id: TRAAYGH128F92ECD16
+year: 1960

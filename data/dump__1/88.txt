@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 198307
+artist_familiarity: 0.385143351089
+artist_hotttnesss: 0.272190152059
+artist_id: ARFS01P1187B9A395A
+artist_latitude: 42.17963
+artist_location: Blandford, MA
+artist_longitude: -72.92483
+artist_mbid: 42f892c2-4f32-4380-8c14-dad3e926d840
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Leland Martin
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 677f09670959f31c0c3207a688e205b7
+bars_confidence: shape = (111,)
+bars_start: shape = (111,)
+beats_confidence: shape = (447,)
+beats_start: shape = (447,)
+danceability: 0.0
+duration: 175.62077
+end_of_fade_in: 0.148
+energy: 0.0
+key: 4
+key_confidence: 0.852
+loudness: -10.647
+mode: 1
+mode_confidence: 0.743
+release: Leland Martin
+release_7digitalid: 259476
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (606,)
+segments_loudness_max: shape = (606,)
+segments_loudness_max_time: shape = (606,)
+segments_loudness_start: shape = (606,)
+segments_pitches: shape = (606, 12)
+segments_start: shape = (606,)
+segments_timbre: shape = (606, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQZHMH12A8C13A393
+start_of_fade_out: 167.358
+tatums_confidence: shape = (894,)
+tatums_start: shape = (894,)
+tempo: 159.968
+time_signature: 4
+time_signature_confidence: 0.415
+title: Stone Cold Fingers (Bonus Track)
+track_7digitalid: 2848238
+track_id: TRAAOEH128F426A82F
+year: 0

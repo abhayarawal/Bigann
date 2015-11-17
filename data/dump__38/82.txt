@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 301039
+artist_familiarity: 0.618284730251
+artist_hotttnesss: 0.414275681641
+artist_id: ARDDWUI1187FB379F7
+artist_latitude: 60.17116
+artist_location: Helsinki, Finland
+artist_longitude: 24.93258
+artist_mbid: d3ff3c70-c897-433d-899c-b838670fcb12
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Amoral
+artist_playmeid: -1
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 42c0ee44c439ca1a2474077bd6f883df
+bars_confidence: shape = (163,)
+bars_start: shape = (163,)
+beats_confidence: shape = (656,)
+beats_start: shape = (656,)
+danceability: 0.0
+duration: 306.38975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.0
+loudness: -5.306
+mode: 1
+mode_confidence: 0.37
+release: Wound Creations
+release_7digitalid: 550937
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1186,)
+segments_loudness_max: shape = (1186,)
+segments_loudness_max_time: shape = (1186,)
+segments_loudness_start: shape = (1186,)
+segments_pitches: shape = (1186, 12)
+segments_start: shape = (1186,)
+segments_timbre: shape = (1186, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.457447167085
+song_id: SOAEHWD12A58A7E36C
+start_of_fade_out: 302.08
+tatums_confidence: shape = (1967,)
+tatums_start: shape = (1967,)
+tempo: 129.962
+time_signature: 4
+time_signature_confidence: 0.0
+title: Metamorphosis
+track_7digitalid: 6090550
+track_id: TRANHMJ128F9330B50
+year: 2001

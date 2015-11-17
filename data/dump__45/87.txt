@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 165320
+artist_familiarity: 0.338383263148
+artist_hotttnesss: 0.277753672346
+artist_id: ARPMJGA11F4C83BDFE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: US Coast Guard Band
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 6561d0f3c2848e786c91caf0c1710f9b
+bars_confidence: shape = (68,)
+bars_start: shape = (68,)
+beats_confidence: shape = (221,)
+beats_start: shape = (221,)
+danceability: 0.0
+duration: 200.41098
+end_of_fade_in: 3.959
+energy: 0.0
+key: 8
+key_confidence: 0.162
+loudness: -18.636
+mode: 1
+mode_confidence: 0.382
+release: Patriotic Pride
+release_7digitalid: 225873
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (336,)
+segments_loudness_max: shape = (336,)
+segments_loudness_max_time: shape = (336,)
+segments_loudness_start: shape = (336,)
+segments_pitches: shape = (336, 12)
+segments_start: shape = (336,)
+segments_timbre: shape = (336, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOMTHWO12A58A78109
+start_of_fade_out: 193.649
+tatums_confidence: shape = (442,)
+tatums_start: shape = (442,)
+tempo: 67.126
+time_signature: 3
+time_signature_confidence: 0.794
+title: America The Beautiful
+track_7digitalid: 2471046
+track_id: TRAPQQP128F42142F6
+year: 0

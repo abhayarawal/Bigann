@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 31591
+artist_familiarity: 0.411693375361
+artist_hotttnesss: 0.316143519729
+artist_id: AR83XLX1187B991E33
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 881cc87d-600f-4819-8c5f-00f59344d4ef
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Chris Rodriguez
+artist_playmeid: 22906
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 03e01398b355e076fe081f2dff3ec0ba
+bars_confidence: shape = (105,)
+bars_start: shape = (105,)
+beats_confidence: shape = (426,)
+beats_start: shape = (426,)
+danceability: 0.0
+duration: 209.52771
+end_of_fade_in: 0.264
+energy: 0.0
+key: 4
+key_confidence: 0.871
+loudness: -5.439
+mode: 1
+mode_confidence: 0.44
+release: Beggar's Paradise
+release_7digitalid: 185940
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (516,)
+segments_loudness_max: shape = (516,)
+segments_loudness_max_time: shape = (516,)
+segments_loudness_start: shape = (516,)
+segments_pitches: shape = (516, 12)
+segments_start: shape = (516,)
+segments_timbre: shape = (516, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOETZNT12A8AE46467
+start_of_fade_out: 198.891
+tatums_confidence: shape = (852,)
+tatums_start: shape = (852,)
+tempo: 121.101
+time_signature: 4
+time_signature_confidence: 1.0
+title: Turn Around (LP Version)
+track_7digitalid: 2014848
+track_id: TRAHIBI128F42390D0
+year: 0

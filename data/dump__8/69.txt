@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 35098
+artist_familiarity: 0.555787460558
+artist_hotttnesss: 0.354454708478
+artist_id: ARVSDB11187FB4270B
+artist_latitude: 51.55615
+artist_location: Middlesex, England
+artist_longitude: -0.25969
+artist_mbid: 1d5d9b06-1b0b-4c40-8481-bad62e03b4ab
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Creation
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 8379f57b4a13cbcbd355958e3d6cb873
+bars_confidence: shape = (353,)
+bars_start: shape = (353,)
+beats_confidence: shape = (353,)
+beats_start: shape = (353,)
+danceability: 0.0
+duration: 250.27873
+end_of_fade_in: 0.165
+energy: 0.0
+key: 9
+key_confidence: 0.886
+loudness: -10.612
+mode: 1
+mode_confidence: 0.531
+release: Our Music Is Red  - With Purple Flashes
+release_7digitalid: 416757
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (733,)
+segments_loudness_max: shape = (733,)
+segments_loudness_max_time: shape = (733,)
+segments_loudness_start: shape = (733,)
+segments_pitches: shape = (733, 12)
+segments_start: shape = (733,)
+segments_timbre: shape = (733, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.433005077275
+song_id: SODHSPZ12AB0185645
+start_of_fade_out: 244.071
+tatums_confidence: shape = (706,)
+tatums_start: shape = (706,)
+tempo: 85.453
+time_signature: 1
+time_signature_confidence: 0.134
+title: Hey Joe
+track_7digitalid: 4635502
+track_id: TRACWBS128F932C993
+year: 1967

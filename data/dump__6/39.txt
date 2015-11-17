@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11301
+artist_familiarity: 0.645192338747
+artist_hotttnesss: 0.471224329919
+artist_id: AR3THYK1187B999F1F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 286ec4c2-b5ca-4f85-b331-280a6d73dd14
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: João Gilberto
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 60d56ccbced3db74f86bddc21bb4c92f
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (403,)
+beats_start: shape = (403,)
+danceability: 0.0
+duration: 197.19791
+end_of_fade_in: 0.276
+energy: 0.0
+key: 4
+key_confidence: 0.665
+loudness: -29.75
+mode: 1
+mode_confidence: 0.582
+release: Joao Voz E Violato
+release_7digitalid: 55934
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (616,)
+segments_loudness_max: shape = (616,)
+segments_loudness_max_time: shape = (616,)
+segments_loudness_start: shape = (616,)
+segments_pitches: shape = (616, 12)
+segments_start: shape = (616,)
+segments_timbre: shape = (616, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.631600818089
+song_id: SODPNJR12A6D4FA52D
+start_of_fade_out: 187.582
+tatums_confidence: shape = (806,)
+tatums_start: shape = (806,)
+tempo: 127.782
+time_signature: 4
+time_signature_confidence: 0.226
+title: Segredo
+track_7digitalid: 581259
+track_id: TRACCJA128F149A144
+year: 2000

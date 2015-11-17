@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 31569
+artist_familiarity: 0.756063870843
+artist_hotttnesss: 0.491468881637
+artist_id: AR82DJK1187B991107
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: d7134426-a937-43bf-bc54-f10ad8102ed9
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: The Pharcyde
+artist_playmeid: 7931
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 8a3141682d8373fc85bf29d54f37e666
+bars_confidence: shape = (0,)
+bars_start: shape = (0,)
+beats_confidence: shape = (7,)
+beats_start: shape = (7,)
+danceability: 0.0
+duration: 11.59791
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.114
+loudness: -19.461
+mode: 1
+mode_confidence: 0.357
+release: Humboldt Beginnings
+release_7digitalid: 519747
+sections_confidence: shape = (0,)
+sections_start: shape = (0,)
+segments_confidence: shape = (41,)
+segments_loudness_max: shape = (41,)
+segments_loudness_max_time: shape = (41,)
+segments_loudness_start: shape = (41,)
+segments_pitches: shape = (41, 12)
+segments_start: shape = (41,)
+segments_timbre: shape = (41, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLZTXD12AB0189AEB
+start_of_fade_out: 11.598
+tatums_confidence: shape = (29,)
+tatums_start: shape = (29,)
+tempo: 38.233
+time_signature: 4
+time_signature_confidence: 0.0
+title: Italian For Goodbye (skit)
+track_7digitalid: 5750046
+track_id: TRABJGY128F93539F9
+year: 2004

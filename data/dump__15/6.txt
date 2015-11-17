@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 213780
+artist_familiarity: 0.62737583407
+artist_hotttnesss: 0.364629908022
+artist_id: ARSTXTP1187B99BD43
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f61cb5d3-795e-40fe-bb50-984d25c04e6a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Beto Cuevas
+artist_playmeid: -1
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 8d88a4c77c554b8b0cb7e6e13eadaccc
+bars_confidence: shape = (196,)
+bars_start: shape = (196,)
+beats_confidence: shape = (589,)
+beats_start: shape = (589,)
+danceability: 0.0
+duration: 259.52608
+end_of_fade_in: 0.096
+energy: 0.0
+key: 4
+key_confidence: 0.418
+loudness: -16.765
+mode: 0
+mode_confidence: 0.491
+release: La Mujer De Mi Hermano: Music Inspired by the Film
+release_7digitalid: 240748
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (907,)
+segments_loudness_max: shape = (907,)
+segments_loudness_max_time: shape = (907,)
+segments_loudness_start: shape = (907,)
+segments_pitches: shape = (907, 12)
+segments_start: shape = (907,)
+segments_timbre: shape = (907, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.572920147947
+song_id: SOIKXDG12A8C13E7E1
+start_of_fade_out: 244.233
+tatums_confidence: shape = (1178,)
+tatums_start: shape = (1178,)
+tempo: 140.056
+time_signature: 3
+time_signature_confidence: 0.775
+title: Mentira
+track_7digitalid: 2994270
+track_id: TRAFBPN128F428B8CF
+year: 0

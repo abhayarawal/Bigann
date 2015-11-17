@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8860
+artist_familiarity: 0.937964750397
+artist_hotttnesss: 0.566622887558
+artist_id: ARSG7NQ1187FB57482
+artist_latitude: nan
+artist_location: Wilmette, IL
+artist_longitude: nan
+artist_mbid: 516cef4d-0718-4007-9939-f9b38af3f784
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Fall Out Boy
+artist_playmeid: 2598
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 4f906b1801a5beb318cc19334169caf5
+bars_confidence: shape = (149,)
+bars_start: shape = (149,)
+beats_confidence: shape = (598,)
+beats_start: shape = (598,)
+danceability: 0.0
+duration: 203.54567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.299
+loudness: -1.217
+mode: 1
+mode_confidence: 0.693
+release: The Take Over_ The Break's Over
+release_7digitalid: 143071
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (500,)
+segments_loudness_max: shape = (500,)
+segments_loudness_max_time: shape = (500,)
+segments_loudness_start: shape = (500,)
+segments_pitches: shape = (500, 12)
+segments_start: shape = (500,)
+segments_timbre: shape = (500, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFQRSV12A8C1358A9
+start_of_fade_out: 203.546
+tatums_confidence: shape = (1195,)
+tatums_start: shape = (1195,)
+tempo: 178.518
+time_signature: 4
+time_signature_confidence: 0.0
+title: Thriller
+track_7digitalid: 1492253
+track_id: TRBEEDK128F424D995
+year: 2007

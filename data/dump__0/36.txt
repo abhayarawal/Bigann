@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 107468
+artist_familiarity: 0.501544777104
+artist_hotttnesss: 0.392733675547
+artist_id: ARGUVEV1187B98BA17
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 017f5df4-c30c-4799-95f7-997bd5b88df7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sierra Maestra
+artist_playmeid: 185183
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 26b62d8f58664a9fce20a58c9c296fc9
+bars_confidence: shape = (332,)
+bars_start: shape = (332,)
+beats_confidence: shape = (1000,)
+beats_start: shape = (1000,)
+danceability: 0.0
+duration: 313.12934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.724
+loudness: -9.512
+mode: 1
+mode_confidence: 0.364
+release: Tibiri Tabara
+release_7digitalid: 270281
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1469,)
+segments_loudness_max: shape = (1469,)
+segments_loudness_max_time: shape = (1469,)
+segments_loudness_start: shape = (1469,)
+segments_pitches: shape = (1469, 12)
+segments_start: shape = (1469,)
+segments_timbre: shape = (1469, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGOSOV12AF72A285E
+start_of_fade_out: 307.688
+tatums_confidence: shape = (2000,)
+tatums_start: shape = (2000,)
+tempo: 189.646
+time_signature: 3
+time_signature_confidence: 0.674
+title: ¿Dónde va Chichi?
+track_7digitalid: 3003122
+track_id: TRAACZK128F4243829
+year: 1997

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 167083
+artist_familiarity: 0.507784205169
+artist_hotttnesss: 0.459629607587
+artist_id: ARIKE5O1187B997E73
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 59505426-4b66-467f-bcd5-ce0b0f3ef4d8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mississippi Mass Choir
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 3fa7b4b1f4a8e7ef5c814c83f98ee4bb
+bars_confidence: shape = (140,)
+bars_start: shape = (140,)
+beats_confidence: shape = (422,)
+beats_start: shape = (422,)
+danceability: 0.0
+duration: 221.90975
+end_of_fade_in: 0.258
+energy: 0.0
+key: 1
+key_confidence: 0.622
+loudness: -13.448
+mode: 1
+mode_confidence: 0.519
+release: God Gets The Glory
+release_7digitalid: 247408
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (749,)
+segments_loudness_max: shape = (749,)
+segments_loudness_max_time: shape = (749,)
+segments_loudness_start: shape = (749,)
+segments_pitches: shape = (749, 12)
+segments_start: shape = (749,)
+segments_timbre: shape = (749, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.505751037611
+song_id: SODYJJO12A58A7C861
+start_of_fade_out: 210.733
+tatums_confidence: shape = (844,)
+tatums_start: shape = (844,)
+tempo: 116.49
+time_signature: 3
+time_signature_confidence: 1.0
+title: It's Good To Know Jesus
+track_7digitalid: 2688537
+track_id: TRAUOAA128F4245ECF
+year: 2003

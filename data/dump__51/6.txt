@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17998
+artist_familiarity: 0.569860089237
+artist_hotttnesss: 0.41466736806
+artist_id: ARQPT7O1187B9AAF4F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b304dc15-a567-47f7-9db0-8e9a1aeeba1e
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Sensational Alex Harvey Band
+artist_playmeid: -1
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: d3daa56fad6f901c3ac97f0f83875af8
+bars_confidence: shape = (158,)
+bars_start: shape = (158,)
+beats_confidence: shape = (480,)
+beats_start: shape = (480,)
+danceability: 0.0
+duration: 316.81261
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.456
+loudness: -12.936
+mode: 1
+mode_confidence: 0.531
+release: Live / The Penthouse Tapes
+release_7digitalid: 26846
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (958,)
+segments_loudness_max: shape = (958,)
+segments_loudness_max_time: shape = (958,)
+segments_loudness_start: shape = (958,)
+segments_pitches: shape = (958, 12)
+segments_start: shape = (958,)
+segments_timbre: shape = (958, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.570105930058
+song_id: SOHMLNS12A58A7DA68
+start_of_fade_out: 300.141
+tatums_confidence: shape = (960,)
+tatums_start: shape = (960,)
+tempo: 90.689
+time_signature: 3
+time_signature_confidence: 0.615
+title: Delilah
+track_7digitalid: 291222
+track_id: TRARKEH128F1463CB2
+year: 1975

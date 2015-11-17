@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4117
+artist_familiarity: 0.741132801808
+artist_hotttnesss: 0.542533993163
+artist_id: ARG3UX61187B9AC05A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4c01333f-e8e8-43bd-9923-8de83ef6f63d
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: D.O.W.N.
+artist_playmeid: 30553
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 579494e78fee471b4eba55bd65d24dce
+bars_confidence: shape = (159,)
+bars_start: shape = (159,)
+beats_confidence: shape = (641,)
+beats_start: shape = (641,)
+danceability: 0.0
+duration: 350.11873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.69
+loudness: -7.063
+mode: 1
+mode_confidence: 0.481
+release: Southern Slang (Chopped & Screwed)
+release_7digitalid: 207670
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (1315,)
+segments_loudness_max: shape = (1315,)
+segments_loudness_max_time: shape = (1315,)
+segments_loudness_start: shape = (1315,)
+segments_pitches: shape = (1315, 12)
+segments_start: shape = (1315,)
+segments_timbre: shape = (1315, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOLWGUJ12A8C13908A
+start_of_fade_out: 350.119
+tatums_confidence: shape = (1281,)
+tatums_start: shape = (1281,)
+tempo: 109.791
+time_signature: 4
+time_signature_confidence: 0.468
+title: Freeword
+track_7digitalid: 2252341
+track_id: TRAOLVO128F42685EF
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 317186
+artist_familiarity: 0.408850474781
+artist_hotttnesss: 0.338992802604
+artist_id: ARIXB7T1187B9AB215
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 37d131d3-1639-4ae3-b642-eb786a15f16a
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Intars Busulis
+artist_playmeid: 162320
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: f4b6f5b360cf6b7f97d39e84d8b585db
+bars_confidence: shape = (149,)
+bars_start: shape = (149,)
+beats_confidence: shape = (599,)
+beats_start: shape = (599,)
+danceability: 0.0
+duration: 229.11955
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.601
+loudness: -4.952
+mode: 1
+mode_confidence: 0.585
+release: Kino
+release_7digitalid: 423728
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (771,)
+segments_loudness_max: shape = (771,)
+segments_loudness_max_time: shape = (771,)
+segments_loudness_start: shape = (771,)
+segments_pitches: shape = (771, 12)
+segments_start: shape = (771,)
+segments_timbre: shape = (771, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOCYXEO12AB01821FA
+start_of_fade_out: 211.313
+tatums_confidence: shape = (1199,)
+tatums_start: shape = (1199,)
+tempo: 160.275
+time_signature: 4
+time_signature_confidence: 1.0
+title: ?o???? DJ
+track_7digitalid: 4723626
+track_id: TRAXNKN128F9340C11
+year: 0

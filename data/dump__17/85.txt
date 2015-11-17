@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 199657
+artist_familiarity: 0.693200053541
+artist_hotttnesss: 0.321237233791
+artist_id: ARKN6D91187B9B09A2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f7e61de8-f400-4900-a741-7a0c79191c34
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Speaker
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 3b86a396c15e2506e1bc40f38ce97c85
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (413,)
+beats_start: shape = (413,)
+danceability: 0.0
+duration: 188.29016
+end_of_fade_in: 0.611
+energy: 0.0
+key: 9
+key_confidence: 0.438
+loudness: -4.63
+mode: 0
+mode_confidence: 0.477
+release: Trace My Track
+release_7digitalid: 520602
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (596,)
+segments_loudness_max: shape = (596,)
+segments_loudness_max_time: shape = (596,)
+segments_loudness_start: shape = (596,)
+segments_pitches: shape = (596, 12)
+segments_start: shape = (596,)
+segments_timbre: shape = (596, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJKLCP12AB0183BA1
+start_of_fade_out: 188.29
+tatums_confidence: shape = (826,)
+tatums_start: shape = (826,)
+tempo: 131.968
+time_signature: 4
+time_signature_confidence: 0.565
+title: Joking
+track_7digitalid: 5758011
+track_id: TRAGCED128F9355912
+year: 1999

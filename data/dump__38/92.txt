@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4074
+artist_familiarity: 0.555904122513
+artist_hotttnesss: 0.39547886116
+artist_id: ARHWVGW1187FB41479
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 20dcf3aa-c313-4f24-acd4-461327a76a73
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Paul Butterfield Blues Band
+artist_playmeid: 39205
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: bb8c5c7fde2584e73c3079134f7082d3
+bars_confidence: shape = (232,)
+bars_start: shape = (232,)
+beats_confidence: shape = (1631,)
+beats_start: shape = (1631,)
+danceability: 0.0
+duration: 490.84036
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.021
+loudness: -9.839
+mode: 0
+mode_confidence: 0.284
+release: The Paul Butterfield Blues Band Live
+release_7digitalid: 111300
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (2034,)
+segments_loudness_max: shape = (2034,)
+segments_loudness_max_time: shape = (2034,)
+segments_loudness_start: shape = (2034,)
+segments_pitches: shape = (2034, 12)
+segments_start: shape = (2034,)
+segments_timbre: shape = (2034, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.254463665643
+song_id: SOIDKSM12A8C13C275
+start_of_fade_out: 483.677
+tatums_confidence: shape = (3262,)
+tatums_start: shape = (3262,)
+tempo: 200.105
+time_signature: 7
+time_signature_confidence: 0.488
+title: All In A Day (Live @ The Troubadour_ LosAngeles)
+track_7digitalid: 1150741
+track_id: TRANIHL128F42970BD
+year: 0

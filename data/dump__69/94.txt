@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41172
+artist_familiarity: 0.370848871496
+artist_hotttnesss: 0.326810122919
+artist_id: AR0LPDJ1187B9919F1
+artist_latitude: 54.5958
+artist_location: Belfast, Northern Ireland
+artist_longitude: -5.93494
+artist_mbid: 294eadc8-56a0-4a49-aa47-16786003adc9
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Derek Bell
+artist_playmeid: 23421
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 62d5266e444c4eb7e597caa7cabf968a
+bars_confidence: shape = (96,)
+bars_start: shape = (96,)
+beats_confidence: shape = (398,)
+beats_start: shape = (398,)
+danceability: 0.0
+duration: 268.32934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.148
+loudness: -10.507
+mode: 1
+mode_confidence: 0.347
+release: Tears Of Stone
+release_7digitalid: 296703
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (880,)
+segments_loudness_max: shape = (880,)
+segments_loudness_max_time: shape = (880,)
+segments_loudness_start: shape = (880,)
+segments_pitches: shape = (880, 12)
+segments_start: shape = (880,)
+segments_timbre: shape = (880, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOQDIQK12A8C13CB23
+start_of_fade_out: 261.66
+tatums_confidence: shape = (795,)
+tatums_start: shape = (795,)
+tempo: 89.158
+time_signature: 4
+time_signature_confidence: 0.704
+title: Sake In The Jar
+track_7digitalid: 3359593
+track_id: TRAXXEI128F4293139
+year: 0

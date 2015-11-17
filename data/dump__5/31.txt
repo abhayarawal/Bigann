@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 70129
+artist_familiarity: 0.485792919341
+artist_hotttnesss: 0.332870566937
+artist_id: ARFZNR41187B990AF7
+artist_latitude: nan
+artist_location: Vance, MS
+artist_longitude: nan
+artist_mbid: 25854cde-8c11-477b-8242-a86de1a4a003
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sunnyland Slim
+artist_playmeid: 21253
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 98d6b810878f71bf9af15d33854ae6fa
+bars_confidence: shape = (71,)
+bars_start: shape = (71,)
+beats_confidence: shape = (362,)
+beats_start: shape = (362,)
+danceability: 0.0
+duration: 147.77424
+end_of_fade_in: 0.681
+energy: 0.0
+key: 9
+key_confidence: 0.168
+loudness: -12.389
+mode: 1
+mode_confidence: 0.233
+release: Chicago Blues Festival 1974 With Jimmy Dawkins
+release_7digitalid: 324688
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (601,)
+segments_loudness_max: shape = (601,)
+segments_loudness_max_time: shape = (601,)
+segments_loudness_start: shape = (601,)
+segments_pitches: shape = (601, 12)
+segments_start: shape = (601,)
+segments_timbre: shape = (601, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKKRTJ12AB0182F77
+start_of_fade_out: 142.896
+tatums_confidence: shape = (724,)
+tatums_start: shape = (724,)
+tempo: 150.867
+time_signature: 5
+time_signature_confidence: 0.86
+title: I Got To Quit My Baby
+track_7digitalid: 3656394
+track_id: TRABTNM128F92DCC68
+year: 0

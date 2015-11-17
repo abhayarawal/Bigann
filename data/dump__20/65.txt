@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 464
+artist_familiarity: 0.605109701915
+artist_hotttnesss: 0.398547535381
+artist_id: AR9AM2N1187B9AD2F1
+artist_latitude: 53.4796
+artist_location: Manchester, England
+artist_longitude: -2.24881
+artist_mbid: 03c2e506-e8bb-4bd6-9693-5aa97c8eea1c
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Inspiral Carpets
+artist_playmeid: 62569
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 039c9e0ca59d28655f5b4f3718258dea
+bars_confidence: shape = (177,)
+bars_start: shape = (177,)
+beats_confidence: shape = (713,)
+beats_start: shape = (713,)
+danceability: 0.0
+duration: 232.12363
+end_of_fade_in: 0.253
+energy: 0.0
+key: 7
+key_confidence: 0.135
+loudness: -11.319
+mode: 1
+mode_confidence: 0.338
+release: Devil Hopping
+release_7digitalid: 770
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (742,)
+segments_loudness_max: shape = (742,)
+segments_loudness_max_time: shape = (742,)
+segments_loudness_start: shape = (742,)
+segments_pitches: shape = (742, 12)
+segments_start: shape = (742,)
+segments_timbre: shape = (742, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.531722098421
+song_id: SOCGCVT12A6D4FAF6F
+start_of_fade_out: 227.405
+tatums_confidence: shape = (1425,)
+tatums_start: shape = (1425,)
+tempo: 187.66
+time_signature: 4
+time_signature_confidence: 0.353
+title: Party In The Sky
+track_7digitalid: 6410
+track_id: TRAGZRF128E0781872
+year: 1994

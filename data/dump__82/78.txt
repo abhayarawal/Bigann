@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3295
+artist_familiarity: 0.695422285359
+artist_hotttnesss: 0.437494806886
+artist_id: ARZWPWP1241B9CA793
+artist_latitude: nan
+artist_location: Cleveland, OH
+artist_longitude: nan
+artist_mbid: 83e71a21-caf7-4e48-8ff7-6512d51e88a3
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Henry Mancini
+artist_playmeid: 3280
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 605d3e31f0c32135ec98f45808c62afb
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (359,)
+beats_start: shape = (359,)
+danceability: 0.0
+duration: 187.74159
+end_of_fade_in: 0.165
+energy: 0.0
+key: 5
+key_confidence: 0.029
+loudness: -11.088
+mode: 1
+mode_confidence: 0.345
+release: Sousa In Hi-Fi
+release_7digitalid: 774097
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (534,)
+segments_loudness_max: shape = (534,)
+segments_loudness_max_time: shape = (534,)
+segments_loudness_start: shape = (534,)
+segments_pitches: shape = (534, 12)
+segments_start: shape = (534,)
+segments_timbre: shape = (534, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOEDEOK12AB0187B66
+start_of_fade_out: 181.243
+tatums_confidence: shape = (719,)
+tatums_start: shape = (719,)
+tempo: 118.719
+time_signature: 4
+time_signature_confidence: 0.541
+title: National Fencibles March
+track_7digitalid: 8566938
+track_id: TRBCJKE12903CE3A8B
+year: 0

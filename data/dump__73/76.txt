@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7063
+artist_familiarity: 0.61180147146
+artist_hotttnesss: 0.399042081432
+artist_id: AR9ILJF1187B9B80ED
+artist_latitude: 33.89275
+artist_location: Beirut, Lebanon
+artist_longitude: 35.48527
+artist_mbid: a2dc0b52-1057-447f-89db-818acab15299
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Gabriel Yared
+artist_playmeid: 14082
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 3070d657cac3e81f767ac49bd150cdef
+bars_confidence: shape = (70,)
+bars_start: shape = (70,)
+beats_confidence: shape = (282,)
+beats_start: shape = (282,)
+danceability: 0.0
+duration: 194.82077
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.521
+loudness: -21.032
+mode: 1
+mode_confidence: 0.481
+release: 37°2 Le Matin
+release_7digitalid: 585602
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1003,)
+segments_loudness_max: shape = (1003,)
+segments_loudness_max_time: shape = (1003,)
+segments_loudness_start: shape = (1003,)
+segments_pitches: shape = (1003, 12)
+segments_start: shape = (1003,)
+segments_timbre: shape = (1003, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.407901717218
+song_id: SOCQBOB12A67AE23D8
+start_of_fade_out: 179.995
+tatums_confidence: shape = (1127,)
+tatums_start: shape = (1127,)
+tempo: 89.871
+time_signature: 4
+time_signature_confidence: 0.42
+title: Chile con carne
+track_7digitalid: 6494555
+track_id: TRAZEJN12903CC5E4A
+year: 1986

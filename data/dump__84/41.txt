@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 66541
+artist_familiarity: 0.420545849523
+artist_hotttnesss: 0.313569342684
+artist_id: ARHFEBO11F50C4825A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Flor Silvestre
+artist_playmeid: 54513
+artist_terms: shape = (8,)
+artist_terms_freq: shape = (8,)
+artist_terms_weight: shape = (8,)
+audio_md5: 11470d9c491ee86679328e76e8fcea3e
+bars_confidence: shape = (13,)
+bars_start: shape = (13,)
+beats_confidence: shape = (89,)
+beats_start: shape = (89,)
+danceability: 0.0
+duration: 122.06975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.598
+loudness: -9.15
+mode: 0
+mode_confidence: 0.656
+release: La Voz Que Acaricia
+release_7digitalid: 83312
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (432,)
+segments_loudness_max: shape = (432,)
+segments_loudness_max_time: shape = (432,)
+segments_loudness_start: shape = (432,)
+segments_pitches: shape = (432, 12)
+segments_start: shape = (432,)
+segments_timbre: shape = (432, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZONTS12A6D4F746E
+start_of_fade_out: 117.075
+tatums_confidence: shape = (357,)
+tatums_start: shape = (357,)
+tempo: 45.683
+time_signature: 4
+time_signature_confidence: 1.0
+title: Que Viva El Amor
+track_7digitalid: 874437
+track_id: TRBCYHR128EF36208A
+year: 0

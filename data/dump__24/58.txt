@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 58211
+artist_familiarity: 0.487066036837
+artist_hotttnesss: 0.366389370705
+artist_id: ARJ0FG21187B99F7C4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 468569a5-0b41-4864-901a-cf101b6f5a29
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Crazy Girl
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: a997500cac4b5c99b5156faf8c18938d
+bars_confidence: shape = (485,)
+bars_start: shape = (485,)
+beats_confidence: shape = (485,)
+beats_start: shape = (485,)
+danceability: 0.0
+duration: 323.00363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.536
+loudness: -5.533
+mode: 1
+mode_confidence: 0.515
+release: Get Picked Up
+release_7digitalid: 635170
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1234,)
+segments_loudness_max: shape = (1234,)
+segments_loudness_max_time: shape = (1234,)
+segments_loudness_start: shape = (1234,)
+segments_pitches: shape = (1234, 12)
+segments_start: shape = (1234,)
+segments_timbre: shape = (1234, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOJGNFC12AB017DAB8
+start_of_fade_out: 308.373
+tatums_confidence: shape = (1457,)
+tatums_start: shape = (1457,)
+tempo: 91.997
+time_signature: 1
+time_signature_confidence: 1.0
+title: Get Picked Up
+track_7digitalid: 7051371
+track_id: TRAIGRF128F9332355
+year: 0

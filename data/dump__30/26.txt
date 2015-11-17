@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 186879
+artist_familiarity: 0.493193932975
+artist_hotttnesss: 0.366628415471
+artist_id: AR7XK9K1187B9B1864
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8ed78ccf-7a3f-4717-b84c-1606627124bd
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Hey Colossus
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: cb3d3bba7d993180240605cb789849df
+bars_confidence: shape = (105,)
+bars_start: shape = (105,)
+beats_confidence: shape = (436,)
+beats_start: shape = (436,)
+danceability: 0.0
+duration: 251.81995
+end_of_fade_in: 6.769
+energy: 0.0
+key: 5
+key_confidence: 0.09
+loudness: -9.711
+mode: 1
+mode_confidence: 0.463
+release: Project: Death
+release_7digitalid: 244917
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (461,)
+segments_loudness_max: shape = (461,)
+segments_loudness_max_time: shape = (461,)
+segments_loudness_start: shape = (461,)
+segments_pitches: shape = (461, 12)
+segments_start: shape = (461,)
+segments_timbre: shape = (461, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHDWVO12A8C13E740
+start_of_fade_out: 242.242
+tatums_confidence: shape = (872,)
+tatums_start: shape = (872,)
+tempo: 104.819
+time_signature: 4
+time_signature_confidence: 1.0
+title: 45 Pounds
+track_7digitalid: 2905875
+track_id: TRAKFLO128F42775B4
+year: 2007

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 216
+artist_familiarity: 0.831240276991
+artist_hotttnesss: 0.737884133178
+artist_id: AR0S7TA1187FB4D024
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b202beb7-99bd-47e7-8b72-195c8d72ebdd
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Christina Aguilera
+artist_playmeid: 331
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 2f22aec8c62b024f61b00eb9239142a0
+bars_confidence: shape = (129,)
+bars_start: shape = (129,)
+beats_confidence: shape = (522,)
+beats_start: shape = (522,)
+danceability: 0.0
+duration: 266.73587
+end_of_fade_in: 2.566
+energy: 0.0
+key: 6
+key_confidence: 0.434
+loudness: -7.834
+mode: 1
+mode_confidence: 0.443
+release: Mi Reflejo
+release_7digitalid: 299146
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (898,)
+segments_loudness_max: shape = (898,)
+segments_loudness_max_time: shape = (898,)
+segments_loudness_start: shape = (898,)
+segments_pitches: shape = (898, 12)
+segments_start: shape = (898,)
+segments_timbre: shape = (898, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.622435137292
+song_id: SOBCKIM12A8C13936C
+start_of_fade_out: 252.54
+tatums_confidence: shape = (1044,)
+tatums_start: shape = (1044,)
+tempo: 117.984
+time_signature: 4
+time_signature_confidence: 1.0
+title: Pero Me Acuerdo De Tí
+track_7digitalid: 3356277
+track_id: TRABKUJ128F4292445
+year: 2000

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 50767
+artist_familiarity: 0.687023631105
+artist_hotttnesss: 0.475085634411
+artist_id: ARO3SS31187FB3729C
+artist_latitude: nan
+artist_location: Antarctica
+artist_longitude: nan
+artist_mbid: f7ccd53a-234c-4800-8d1b-21b201bad1de
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: GWAR
+artist_playmeid: 149211
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 69c0173fe9ae7c808c8485195641dc55
+bars_confidence: shape = (132,)
+bars_start: shape = (132,)
+beats_confidence: shape = (531,)
+beats_start: shape = (531,)
+danceability: 0.0
+duration: 189.57016
+end_of_fade_in: 0.496
+energy: 0.0
+key: 1
+key_confidence: 0.431
+loudness: -3.492
+mode: 1
+mode_confidence: 0.322
+release: Carnival Of Chaos
+release_7digitalid: 559863
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (744,)
+segments_loudness_max: shape = (744,)
+segments_loudness_max_time: shape = (744,)
+segments_loudness_start: shape = (744,)
+segments_pitches: shape = (744, 12)
+segments_start: shape = (744,)
+segments_timbre: shape = (744, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.474054830931
+song_id: SOCAEYG12AB01849C0
+start_of_fade_out: 189.57
+tatums_confidence: shape = (1063,)
+tatums_start: shape = (1063,)
+tempo: 169.237
+time_signature: 4
+time_signature_confidence: 0.0
+title: Let's Blame The Lightman
+track_7digitalid: 6197616
+track_id: TRAEOOH128F934ACD4
+year: 1997

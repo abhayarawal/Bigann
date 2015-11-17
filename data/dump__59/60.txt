@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11300
+artist_familiarity: 0.624200327635
+artist_hotttnesss: 0.369076870549
+artist_id: AR9ST641187B99B4DE
+artist_latitude: 38.62774
+artist_location: St. Louis, MO
+artist_longitude: -90.19951
+artist_mbid: 1015b5e3-8e3d-4d78-806a-c530cf742e66
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Cal Tjader
+artist_playmeid: 6446
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 112836cf581841fff913fef4be7ccb1d
+bars_confidence: shape = (377,)
+bars_start: shape = (377,)
+beats_confidence: shape = (377,)
+beats_start: shape = (377,)
+danceability: 0.0
+duration: 200.12363
+end_of_fade_in: 0.376
+energy: 0.0
+key: 10
+key_confidence: 0.576
+loudness: -18.896
+mode: 1
+mode_confidence: 0.5
+release: Sounds Out Burt Bacharach
+release_7digitalid: 190923
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (537,)
+segments_loudness_max: shape = (537,)
+segments_loudness_max_time: shape = (537,)
+segments_loudness_start: shape = (537,)
+segments_pitches: shape = (537, 12)
+segments_start: shape = (537,)
+segments_timbre: shape = (537, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODWIDL12A6D4FA5F2
+start_of_fade_out: 185.481
+tatums_confidence: shape = (753,)
+tatums_start: shape = (753,)
+tempo: 118.596
+time_signature: 1
+time_signature_confidence: 0.0
+title: Anyone Who Had A Heart
+track_7digitalid: 2081715
+track_id: TRAUJEB128F4240FD4
+year: 2003

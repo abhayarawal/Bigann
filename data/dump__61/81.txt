@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 325781
+artist_familiarity: 0.424223134569
+artist_hotttnesss: 0.344959866429
+artist_id: ARGK3QC1187B9B351A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 44c48a1b-defd-4222-bee6-03f9ee9a7be9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Creedence Clearwater Revisited
+artist_playmeid: -1
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 460ea246fc0a2144b2362e0b3ff95226
+bars_confidence: shape = (104,)
+bars_start: shape = (104,)
+beats_confidence: shape = (420,)
+beats_start: shape = (420,)
+danceability: 0.0
+duration: 203.7024
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.038
+loudness: -6.548
+mode: 1
+mode_confidence: 0.435
+release: Recollection/Live
+release_7digitalid: 437125
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (713,)
+segments_loudness_max: shape = (713,)
+segments_loudness_max_time: shape = (713,)
+segments_loudness_start: shape = (713,)
+segments_pitches: shape = (713, 12)
+segments_start: shape = (713,)
+segments_timbre: shape = (713, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.400039656955
+song_id: SOHJEIX12AB017F997
+start_of_fade_out: 203.702
+tatums_confidence: shape = (839,)
+tatums_start: shape = (839,)
+tempo: 123.522
+time_signature: 4
+time_signature_confidence: 1.0
+title: Proud mary
+track_7digitalid: 4871961
+track_id: TRAVDDJ128F92EF09C
+year: 1998

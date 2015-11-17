@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 188694
+artist_familiarity: 0.564710159052
+artist_hotttnesss: 0.415937640828
+artist_id: ARYZV2X1187B997BE7
+artist_latitude: nan
+artist_location: California - LA
+artist_longitude: nan
+artist_mbid: b6f93b66-30e7-4b9b-a70b-4fb82f8cb24c
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Chris Standring
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: ef4ca16aa425acb7feea9e0ab5cfe706
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (471,)
+beats_start: shape = (471,)
+danceability: 0.0
+duration: 256.49587
+end_of_fade_in: 0.235
+energy: 0.0
+key: 0
+key_confidence: 0.847
+loudness: -9.339
+mode: 1
+mode_confidence: 0.744
+release: Groovalicious
+release_7digitalid: 819293
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1176,)
+segments_loudness_max: shape = (1176,)
+segments_loudness_max_time: shape = (1176,)
+segments_loudness_start: shape = (1176,)
+segments_pitches: shape = (1176, 12)
+segments_start: shape = (1176,)
+segments_timbre: shape = (1176, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.642091037638
+song_id: SODPMBU12A58A7B076
+start_of_fade_out: 243.345
+tatums_confidence: shape = (942,)
+tatums_start: shape = (942,)
+tempo: 111.039
+time_signature: 4
+time_signature_confidence: 0.63
+title: Fat Tuesday
+track_7digitalid: 9048972
+track_id: TRAJJCI12903CE53D7
+year: 2003

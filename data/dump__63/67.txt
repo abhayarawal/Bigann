@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10889
+artist_familiarity: 0.510288292721
+artist_hotttnesss: 0.337858763989
+artist_id: ARU81FP1187B98C71E
+artist_latitude: 35.6139
+artist_location: Jackson, TN
+artist_longitude: -88.8194
+artist_mbid: 55a434d9-d3d3-462f-9aa9-749938dcf172
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Big Maybelle
+artist_playmeid: 12759
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: c6ffd736789bacaccbf23c63a4814243
+bars_confidence: shape = (92,)
+bars_start: shape = (92,)
+beats_confidence: shape = (372,)
+beats_start: shape = (372,)
+danceability: 0.0
+duration: 130.87302
+end_of_fade_in: 0.45
+energy: 0.0
+key: 5
+key_confidence: 0.392
+loudness: -5.723
+mode: 1
+mode_confidence: 0.431
+release: I've Got A Feelin' - Okeh & Savoy Recordings 1952-56
+release_7digitalid: 241672
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (451,)
+segments_loudness_max: shape = (451,)
+segments_loudness_max_time: shape = (451,)
+segments_loudness_start: shape = (451,)
+segments_pitches: shape = (451, 12)
+segments_start: shape = (451,)
+segments_timbre: shape = (451, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZCOAI12A8C1332A9
+start_of_fade_out: 125.8
+tatums_confidence: shape = (743,)
+tatums_start: shape = (743,)
+tempo: 173.071
+time_signature: 4
+time_signature_confidence: 0.153
+title: Tell Me Who
+track_7digitalid: 2635759
+track_id: TRAVUYV128F4239504
+year: 1995

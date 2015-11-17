@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 69944
+artist_familiarity: 0.524834598856
+artist_hotttnesss: 0.380004667155
+artist_id: ARSYHZ21187B99F5F5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4eb33eb6-a027-4705-ab89-4723b1255d08
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tina Ann
+artist_playmeid: 114363
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: e1b599dd26d1d3d15d136c9112c4fe85
+bars_confidence: shape = (131,)
+bars_start: shape = (131,)
+beats_confidence: shape = (529,)
+beats_start: shape = (529,)
+danceability: 0.0
+duration: 251.76771
+end_of_fade_in: 0.063
+energy: 0.0
+key: 9
+key_confidence: 0.634
+loudness: -2.62
+mode: 1
+mode_confidence: 0.472
+release: Situations
+release_7digitalid: 90302
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1001,)
+segments_loudness_max: shape = (1001,)
+segments_loudness_max_time: shape = (1001,)
+segments_loudness_start: shape = (1001,)
+segments_pitches: shape = (1001, 12)
+segments_start: shape = (1001,)
+segments_timbre: shape = (1001, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSOPKK12A8C133DC9
+start_of_fade_out: 246.352
+tatums_confidence: shape = (1058,)
+tatums_start: shape = (1058,)
+tempo: 127.926
+time_signature: 4
+time_signature_confidence: 0.347
+title: Rules of Attraction (Chris Cox)
+track_7digitalid: 954178
+track_id: TRBAADN128F426B7A4
+year: 2003

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30302
+artist_familiarity: 0.448111563804
+artist_hotttnesss: 0.297180944388
+artist_id: ARI88U61187FB41C60
+artist_latitude: 33.67466
+artist_location: Ralls, TX
+artist_longitude: -101.3878
+artist_mbid: 044df3e9-9b40-450c-b347-9ef6c964b313
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Billy Walker
+artist_playmeid: 12831
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 1dda8ebaeec3c9c7adddb70fded89753
+bars_confidence: shape = (54,)
+bars_start: shape = (54,)
+beats_confidence: shape = (170,)
+beats_start: shape = (170,)
+danceability: 0.0
+duration: 133.56363
+end_of_fade_in: 0.221
+energy: 0.0
+key: 0
+key_confidence: 0.41
+loudness: -32.887
+mode: 1
+mode_confidence: 0.57
+release: 20 Greatest Hits
+release_7digitalid: 663692
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (272,)
+segments_loudness_max: shape = (272,)
+segments_loudness_max_time: shape = (272,)
+segments_loudness_start: shape = (272,)
+segments_pitches: shape = (272, 12)
+segments_start: shape = (272,)
+segments_timbre: shape = (272, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEHEZS12AB018CB02
+start_of_fade_out: 130.868
+tatums_confidence: shape = (340,)
+tatums_start: shape = (340,)
+tempo: 78.902
+time_signature: 3
+time_signature_confidence: 1.0
+title: Thank You For Calling
+track_7digitalid: 7356641
+track_id: TRBDHZE12903CAACBF
+year: 0

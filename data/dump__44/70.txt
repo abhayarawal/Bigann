@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11139
+artist_familiarity: 0.698969925264
+artist_hotttnesss: 0.486783024923
+artist_id: ARBHBE91187B9A1F58
+artist_latitude: nan
+artist_location: Fargo, ND
+artist_longitude: nan
+artist_mbid: 6a60adeb-c68a-4efd-b16f-04da75a866a5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jonny Lang
+artist_playmeid: 143990
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 5a805cfb2d13db15cbcce53c274d8df2
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (334,)
+beats_start: shape = (334,)
+danceability: 0.0
+duration: 182.80444
+end_of_fade_in: 4.661
+energy: 0.0
+key: 7
+key_confidence: 0.729
+loudness: -6.825
+mode: 1
+mode_confidence: 0.454
+release: Turn Around
+release_7digitalid: 246493
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (645,)
+segments_loudness_max: shape = (645,)
+segments_loudness_max_time: shape = (645,)
+segments_loudness_start: shape = (645,)
+segments_pitches: shape = (645, 12)
+segments_start: shape = (645,)
+segments_timbre: shape = (645, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.636381565007
+song_id: SOLASJA12AB01896B8
+start_of_fade_out: 172.089
+tatums_confidence: shape = (1002,)
+tatums_start: shape = (1002,)
+tempo: 111.266
+time_signature: 4
+time_signature_confidence: 0.766
+title: One Person At A Time
+track_7digitalid: 4128645
+track_id: TRAPGOZ128F933A945
+year: 2006

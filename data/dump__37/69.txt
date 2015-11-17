@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5172
+artist_familiarity: 0.672680592884
+artist_hotttnesss: 0.476389108826
+artist_id: ARGBR4I1187B99D073
+artist_latitude: 47.60356
+artist_location: Seattle, WA
+artist_longitude: -122.32944
+artist_mbid: e675295a-1efe-4247-aa3b-53b78d0cdffc
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Mudhoney
+artist_playmeid: 11301
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 199fd1214e6115a77f2fdde668998152
+bars_confidence: shape = (55,)
+bars_start: shape = (55,)
+beats_confidence: shape = (222,)
+beats_start: shape = (222,)
+danceability: 0.0
+duration: 159.58159
+end_of_fade_in: 10.908
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -15.959
+mode: 0
+mode_confidence: 0.0
+release: S/T
+release_7digitalid: 138191
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (416,)
+segments_loudness_max: shape = (416,)
+segments_loudness_max_time: shape = (416,)
+segments_loudness_start: shape = (416,)
+segments_pitches: shape = (416, 12)
+segments_start: shape = (416,)
+segments_timbre: shape = (416, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.544514001879
+song_id: SOCJDLS12A8AE468B4
+start_of_fade_out: 159.582
+tatums_confidence: shape = (443,)
+tatums_start: shape = (443,)
+tempo: 83.122
+time_signature: 4
+time_signature_confidence: 0.924
+title: When Tomorrow Hits (Album)
+track_7digitalid: 1434347
+track_id: TRAMVMU128F4241923
+year: 0

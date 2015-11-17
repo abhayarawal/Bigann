@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16470
+artist_familiarity: 0.632130913015
+artist_hotttnesss: 0.472281210651
+artist_id: ARO0QD41187FB3AB0A
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 280ddd36-ac7d-4446-8689-a548d6f3458e
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Keb' Mo'
+artist_playmeid: 13085
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: b23f15e540e60e30b600080e3e89214a
+bars_confidence: shape = (279,)
+bars_start: shape = (279,)
+beats_confidence: shape = (279,)
+beats_start: shape = (279,)
+danceability: 0.0
+duration: 194.48118
+end_of_fade_in: 0.154
+energy: 0.0
+key: 7
+key_confidence: 0.511
+loudness: -10.981
+mode: 1
+mode_confidence: 0.684
+release: Keep It Simple
+release_7digitalid: 292133
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (608,)
+segments_loudness_max: shape = (608,)
+segments_loudness_max_time: shape = (608,)
+segments_loudness_start: shape = (608,)
+segments_pitches: shape = (608, 12)
+segments_start: shape = (608,)
+segments_timbre: shape = (608, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.536032111708
+song_id: SOHSNYO12A8C134B6C
+start_of_fade_out: 181.005
+tatums_confidence: shape = (558,)
+tatums_start: shape = (558,)
+tempo: 88.746
+time_signature: 1
+time_signature_confidence: 0.0
+title: I'm Amazing
+track_7digitalid: 3280498
+track_id: TRAHUWM128F42801C0
+year: 2004

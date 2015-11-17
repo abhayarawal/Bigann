@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2179
+artist_familiarity: 0.586607818406
+artist_hotttnesss: 0.414578836544
+artist_id: AR3DYAD1187FB3964E
+artist_latitude: 36.20201
+artist_location: Luttrell, TN
+artist_longitude: -83.74416
+artist_mbid: 5810667a-9db6-4fd0-abac-667cdac5d415
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Chet Atkins
+artist_playmeid: 10168
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 041792804d23af0162be248dfcbc5214
+bars_confidence: shape = (126,)
+bars_start: shape = (126,)
+beats_confidence: shape = (507,)
+beats_start: shape = (507,)
+danceability: 0.0
+duration: 319.4771
+end_of_fade_in: 0.237
+energy: 0.0
+key: 4
+key_confidence: 0.666
+loudness: -11.519
+mode: 1
+mode_confidence: 0.531
+release: Chet Atkins_ C.G.P.
+release_7digitalid: 282890
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1449,)
+segments_loudness_max: shape = (1449,)
+segments_loudness_max_time: shape = (1449,)
+segments_loudness_start: shape = (1449,)
+segments_pitches: shape = (1449, 12)
+segments_start: shape = (1449,)
+segments_timbre: shape = (1449, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCUCXZ12A8C130EAE
+start_of_fade_out: 305.447
+tatums_confidence: shape = (1015,)
+tatums_start: shape = (1015,)
+tempo: 96.031
+time_signature: 4
+time_signature_confidence: 0.0
+title: Knucklebuster
+track_7digitalid: 3153149
+track_id: TRBAAEJ128F4263AB7
+year: 0

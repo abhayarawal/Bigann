@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 162922
+artist_familiarity: 0.786212059154
+artist_hotttnesss: 0.547609033098
+artist_id: ARO2U2Q119B86692A8
+artist_latitude: nan
+artist_location: PHILADELPHIA, Pennsylvania
+artist_longitude: nan
+artist_mbid: fa97dd36-1b82-43d7-a6e4-2adeafd59cef
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Fleet Foxes
+artist_playmeid: -1
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 7c898a28837bbeb893dc6c7d7a087835
+bars_confidence: shape = (226,)
+bars_start: shape = (226,)
+beats_confidence: shape = (907,)
+beats_start: shape = (907,)
+danceability: 0.0
+duration: 281.18159
+end_of_fade_in: 0.072
+energy: 0.0
+key: 8
+key_confidence: 0.408
+loudness: -10.67
+mode: 1
+mode_confidence: 0.376
+release: Sun Giant
+release_7digitalid: 265343
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (839,)
+segments_loudness_max: shape = (839,)
+segments_loudness_max_time: shape = (839,)
+segments_loudness_start: shape = (839,)
+segments_pitches: shape = (839, 12)
+segments_start: shape = (839,)
+segments_timbre: shape = (839, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONMNZJ12CF5F892EE
+start_of_fade_out: 259.738
+tatums_confidence: shape = (1815,)
+tatums_start: shape = (1815,)
+tempo: 196.022
+time_signature: 4
+time_signature_confidence: 0.574
+title: English House
+track_7digitalid: 2854232
+track_id: TRBDDKF128F426BF7B
+year: 2008

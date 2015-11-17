@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6997
+artist_familiarity: 0.390760839853
+artist_hotttnesss: 0.2076758378
+artist_id: ARLLANI1187FB5116F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: be0363b0-35ca-41c7-9770-17f73deb77e7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Simon Harris
+artist_playmeid: 53213
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: e880d8ebaecc0a37f70961cd5fd1a192
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (310,)
+beats_start: shape = (310,)
+danceability: 0.0
+duration: 185.62567
+end_of_fade_in: 0.525
+energy: 0.0
+key: 1
+key_confidence: 0.119
+loudness: -15.686
+mode: 1
+mode_confidence: 0.494
+release: Street Breaks & Beats
+release_7digitalid: 462641
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (849,)
+segments_loudness_max: shape = (849,)
+segments_loudness_max_time: shape = (849,)
+segments_loudness_start: shape = (849,)
+segments_pitches: shape = (849, 12)
+segments_start: shape = (849,)
+segments_timbre: shape = (849, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPAHSW12AB0186F88
+start_of_fade_out: 174.208
+tatums_confidence: shape = (620,)
+tatums_start: shape = (620,)
+tempo: 102.976
+time_signature: 3
+time_signature_confidence: 1.0
+title: Sample Track 18
+track_7digitalid: 5150136
+track_id: TRAYGKQ128F932F520
+year: 0

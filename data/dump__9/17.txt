@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1822
+artist_familiarity: 0.750479817142
+artist_hotttnesss: 0.538491127504
+artist_id: ARLUAK21187B9B785A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7c09d8af-895a-4337-bb46-b4b6dcabff10
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ziggy Marley And The Melody Makers
+artist_playmeid: 3069
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: c6674a20f202569ad4f16078fec7060a
+bars_confidence: shape = (201,)
+bars_start: shape = (201,)
+beats_confidence: shape = (805,)
+beats_start: shape = (805,)
+danceability: 0.0
+duration: 335.90812
+end_of_fade_in: 0.101
+energy: 0.0
+key: 10
+key_confidence: 0.186
+loudness: -15.889
+mode: 0
+mode_confidence: 0.398
+release: Hey World
+release_7digitalid: 303803
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1191,)
+segments_loudness_max: shape = (1191,)
+segments_loudness_max_time: shape = (1191,)
+segments_loudness_start: shape = (1191,)
+segments_pitches: shape = (1191, 12)
+segments_start: shape = (1191,)
+segments_timbre: shape = (1191, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVOWRW12A8C13B93D
+start_of_fade_out: 322.961
+tatums_confidence: shape = (1609,)
+tatums_start: shape = (1609,)
+tempo: 145.222
+time_signature: 4
+time_signature_confidence: 0.683
+title: 6 6 6
+track_7digitalid: 3416784
+track_id: TRADAIV128F42A0FB9
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7516
+artist_familiarity: 0.831197177107
+artist_hotttnesss: 0.776167742324
+artist_id: AR633SY1187B9AC3B9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6fe07aa5-fec0-4eca-a456-f29bff451b04
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Weezer
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 51054496d4ad7f60b26e68ce8545e302
+bars_confidence: shape = (70,)
+bars_start: shape = (70,)
+beats_confidence: shape = (285,)
+beats_start: shape = (285,)
+danceability: 0.0
+duration: 137.37751
+end_of_fade_in: 0.162
+energy: 0.0
+key: 10
+key_confidence: 0.018
+loudness: -5.477
+mode: 0
+mode_confidence: 0.345
+release: Maladroit
+release_7digitalid: 143091
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (349,)
+segments_loudness_max: shape = (349,)
+segments_loudness_max_time: shape = (349,)
+segments_loudness_start: shape = (349,)
+segments_pitches: shape = (349, 12)
+segments_start: shape = (349,)
+segments_timbre: shape = (349, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.817227559743
+song_id: SOHJIWJ12AB0184EF9
+start_of_fade_out: 134.194
+tatums_confidence: shape = (570,)
+tatums_start: shape = (570,)
+tempo: 127.407
+time_signature: 4
+time_signature_confidence: 0.877
+title: Dope Nose
+track_7digitalid: 1492384
+track_id: TRAUMIT128F424DA18
+year: 2002

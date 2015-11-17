@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 37511
+artist_familiarity: 0.679519207793
+artist_hotttnesss: 0.491828704353
+artist_id: ARBM57Q1187B9AF97C
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 679ec43c-bc04-4bb0-b619-2da702a214ba
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: James Horner
+artist_playmeid: 11212
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 3fe09941841f2784b138d5b5065b2a83
+bars_confidence: shape = (104,)
+bars_start: shape = (104,)
+beats_confidence: shape = (419,)
+beats_start: shape = (419,)
+danceability: 0.0
+duration: 197.38077
+end_of_fade_in: 7.454
+energy: 0.0
+key: 0
+key_confidence: 0.596
+loudness: -29.407
+mode: 1
+mode_confidence: 0.555
+release: Cocoon: The Return
+release_7digitalid: 314742
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (451,)
+segments_loudness_max: shape = (451,)
+segments_loudness_max_time: shape = (451,)
+segments_loudness_start: shape = (451,)
+segments_pitches: shape = (451, 12)
+segments_start: shape = (451,)
+segments_timbre: shape = (451, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZCBCO12A8C142714
+start_of_fade_out: 190.868
+tatums_confidence: shape = (837,)
+tatums_start: shape = (837,)
+tempo: 129.237
+time_signature: 4
+time_signature_confidence: 0.297
+title: Good Friend
+track_7digitalid: 3560848
+track_id: TRBHGWF128F92C8358
+year: 2000

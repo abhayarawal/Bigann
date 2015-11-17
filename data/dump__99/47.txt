@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3361
+artist_familiarity: 0.647769063102
+artist_hotttnesss: 0.408861719526
+artist_id: ARY8LJ11187FB4019B
+artist_latitude: 37.59791
+artist_location: Samti, LA
+artist_longitude: 69.86799
+artist_mbid: a7921b29-671a-4378-8a61-539cf73d7588
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Floyd Cramer
+artist_playmeid: 14601
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: edaab02df63bef0b3c83aa871aa4636f
+bars_confidence: shape = (39,)
+bars_start: shape = (39,)
+beats_confidence: shape = (161,)
+beats_start: shape = (161,)
+danceability: 0.0
+duration: 117.4722
+end_of_fade_in: 0.293
+energy: 0.0
+key: 2
+key_confidence: 0.186
+loudness: -16.438
+mode: 1
+mode_confidence: 0.293
+release: Piano Masterpieces
+release_7digitalid: 296910
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (391,)
+segments_loudness_max: shape = (391,)
+segments_loudness_max_time: shape = (391,)
+segments_loudness_start: shape = (391,)
+segments_pitches: shape = (391, 12)
+segments_start: shape = (391,)
+segments_timbre: shape = (391, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOQLKYX12A8C13A7AB
+start_of_fade_out: 114.596
+tatums_confidence: shape = (642,)
+tatums_start: shape = (642,)
+tempo: 83.724
+time_signature: 4
+time_signature_confidence: 0.0
+title: Near You
+track_7digitalid: 3356013
+track_id: TRBIEXO128F429233D
+year: 1964

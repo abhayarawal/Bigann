@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15749
+artist_familiarity: 0.493926144686
+artist_hotttnesss: 0.319626775917
+artist_id: ARKC83D1187B9AB367
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c55b50e3-5f4e-461d-bf29-79d2c2c364c5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mark Lowry
+artist_playmeid: 62535
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 840333349dbb287cbc381b5a26019dac
+bars_confidence: shape = (150,)
+bars_start: shape = (150,)
+beats_confidence: shape = (456,)
+beats_start: shape = (456,)
+danceability: 0.0
+duration: 261.82485
+end_of_fade_in: 0.248
+energy: 0.0
+key: 0
+key_confidence: 0.394
+loudness: -6.124
+mode: 1
+mode_confidence: 0.306
+release: I Love To Tell The Story
+release_7digitalid: 112768
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (623,)
+segments_loudness_max: shape = (623,)
+segments_loudness_max_time: shape = (623,)
+segments_loudness_start: shape = (623,)
+segments_pitches: shape = (623, 12)
+segments_start: shape = (623,)
+segments_timbre: shape = (623, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOKEHTJ12A8C13DFB0
+start_of_fade_out: 252.825
+tatums_confidence: shape = (913,)
+tatums_start: shape = (913,)
+tempo: 106.549
+time_signature: 3
+time_signature_confidence: 0.069
+title: Blessed Assurance (I Love To Tell The Story Album Version)
+track_7digitalid: 1163637
+track_id: TRBBJJI128F4299711
+year: 0

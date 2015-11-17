@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 84236
+artist_familiarity: 0.477151293287
+artist_hotttnesss: 0.334080824236
+artist_id: AR1RKB91187B9A56CB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 10a7fa20-6731-425f-a7c2-707dc664cfc6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lambda
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 828edd3f2748aae647d2d906ae562b10
+bars_confidence: shape = (128,)
+bars_start: shape = (128,)
+beats_confidence: shape = (386,)
+beats_start: shape = (386,)
+danceability: 0.0
+duration: 180.79302
+end_of_fade_in: 0.061
+energy: 0.0
+key: 1
+key_confidence: 0.159
+loudness: -7.944
+mode: 0
+mode_confidence: 0.352
+release: Hold On Tight
+release_7digitalid: 574947
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (913,)
+segments_loudness_max: shape = (913,)
+segments_loudness_max_time: shape = (913,)
+segments_loudness_start: shape = (913,)
+segments_pitches: shape = (913, 12)
+segments_start: shape = (913,)
+segments_timbre: shape = (913, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODYJEQ12AB0180054
+start_of_fade_out: 180.793
+tatums_confidence: shape = (771,)
+tatums_start: shape = (771,)
+tempo: 128.07
+time_signature: 3
+time_signature_confidence: 0.075
+title: Hold On Tight
+track_7digitalid: 6370446
+track_id: TRANLMB12903CA8250
+year: 1996

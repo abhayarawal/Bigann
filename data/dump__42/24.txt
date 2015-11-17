@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 33381
+artist_familiarity: 0.692979339609
+artist_hotttnesss: 0.536862273632
+artist_id: ARJCOPY1187FB5C315
+artist_latitude: nan
+artist_location: Mogadishu, Somalia
+artist_longitude: nan
+artist_mbid: ee421ee4-f861-405d-8730-29cb512dfdbd
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: K'Naan
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 988d1088ddce30aae4f33457bbd5b1b0
+bars_confidence: shape = (113,)
+bars_start: shape = (113,)
+beats_confidence: shape = (355,)
+beats_start: shape = (355,)
+danceability: 0.0
+duration: 213.13261
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.0
+loudness: -14.254
+mode: 1
+mode_confidence: 0.0
+release: The Dusty Foot On The Road
+release_7digitalid: 110009
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (567,)
+segments_loudness_max: shape = (567,)
+segments_loudness_max_time: shape = (567,)
+segments_loudness_start: shape = (567,)
+segments_pitches: shape = (567, 12)
+segments_start: shape = (567,)
+segments_timbre: shape = (567, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.4830645596
+song_id: SOJYWZM12A8C13D52A
+start_of_fade_out: 208.922
+tatums_confidence: shape = (711,)
+tatums_start: shape = (711,)
+tempo: 100.567
+time_signature: 3
+time_signature_confidence: 0.082
+title: Is It A Myth?
+track_7digitalid: 1138009
+track_id: TRAOJEW128F4294CBD
+year: 2007

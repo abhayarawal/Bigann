@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 125952
+artist_familiarity: 0.514521896928
+artist_hotttnesss: 0.315019313194
+artist_id: ARKAOAD1241B9CD30A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Royal Bubble Orchestra
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: d29f6eaea0c76f8dcbd11cbacd59ea76
+bars_confidence: shape = (90,)
+bars_start: shape = (90,)
+beats_confidence: shape = (277,)
+beats_start: shape = (277,)
+danceability: 0.0
+duration: 184.81587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.0
+loudness: -6.215
+mode: 1
+mode_confidence: 0.173
+release: Royal Bubble Orchestra
+release_7digitalid: 164964
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (502,)
+segments_loudness_max: shape = (502,)
+segments_loudness_max_time: shape = (502,)
+segments_loudness_start: shape = (502,)
+segments_pitches: shape = (502, 12)
+segments_start: shape = (502,)
+segments_timbre: shape = (502, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOPQGHM12A58A792A6
+start_of_fade_out: 176.193
+tatums_confidence: shape = (554,)
+tatums_start: shape = (554,)
+tempo: 94.055
+time_signature: 3
+time_signature_confidence: 0.494
+title: Too Bad
+track_7digitalid: 1747819
+track_id: TRAOFCL128F4289318
+year: 0

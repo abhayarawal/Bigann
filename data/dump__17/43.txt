@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21453
+artist_familiarity: 0.889460725348
+artist_hotttnesss: 0.612067268298
+artist_id: AR65K7A1187FB4DAA4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 183105b5-3e68-4748-9086-2c1c11bf7a3d
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Beyoncé
+artist_playmeid: 193
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 7e991c7b78795957726ce06d4ce57874
+bars_confidence: shape = (162,)
+bars_start: shape = (162,)
+beats_confidence: shape = (649,)
+beats_start: shape = (649,)
+danceability: 0.0
+duration: 260.20526
+end_of_fade_in: 0.375
+energy: 0.0
+key: 5
+key_confidence: 0.041
+loudness: -6.259
+mode: 0
+mode_confidence: 0.415
+release: Dangerously In Love
+release_7digitalid: 287352
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1015,)
+segments_loudness_max: shape = (1015,)
+segments_loudness_max_time: shape = (1015,)
+segments_loudness_start: shape = (1015,)
+segments_pitches: shape = (1015, 12)
+segments_start: shape = (1015,)
+segments_timbre: shape = (1015, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.667279494157
+song_id: SORLLRN12A58A7F1EE
+start_of_fade_out: 249.388
+tatums_confidence: shape = (649,)
+tatums_start: shape = (649,)
+tempo: 149.913
+time_signature: 4
+time_signature_confidence: 1.0
+title: Be With You
+track_7digitalid: 3223665
+track_id: TRAFYGO128F42727E7
+year: 2003

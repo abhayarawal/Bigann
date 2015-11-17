@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 31591
+artist_familiarity: 0.411693375361
+artist_hotttnesss: 0.316143519729
+artist_id: AR83XLX1187B991E33
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 881cc87d-600f-4819-8c5f-00f59344d4ef
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Chris Rodriguez
+artist_playmeid: 22906
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: d5c68ae57d1887474dc6a64ee6340d08
+bars_confidence: shape = (116,)
+bars_start: shape = (116,)
+beats_confidence: shape = (583,)
+beats_start: shape = (583,)
+danceability: 0.0
+duration: 263.18322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.682
+loudness: -6.212
+mode: 1
+mode_confidence: 0.506
+release: Beggar's Paradise
+release_7digitalid: 185940
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (911,)
+segments_loudness_max: shape = (911,)
+segments_loudness_max_time: shape = (911,)
+segments_loudness_start: shape = (911,)
+segments_pitches: shape = (911, 12)
+segments_start: shape = (911,)
+segments_timbre: shape = (911, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQFSIQ12A8AE4645D
+start_of_fade_out: 252.743
+tatums_confidence: shape = (1749,)
+tatums_start: shape = (1749,)
+tempo: 135.984
+time_signature: 5
+time_signature_confidence: 0.601
+title: Saved (LP Version)
+track_7digitalid: 2014842
+track_id: TRASGLV128F42390CA
+year: 0

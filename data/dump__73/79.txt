@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 39812
+artist_familiarity: 0.749711707474
+artist_hotttnesss: 0.452380503907
+artist_id: ARAOBIZ1187FB38574
+artist_latitude: nan
+artist_location: Beaumont, Texas
+artist_longitude: nan
+artist_mbid: 8300d0fa-d120-47f6-a84e-91f140c74767
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Johnny Winter
+artist_playmeid: 11671
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 91cbfafe008c54fa0b9d65d69c9fc85f
+bars_confidence: shape = (82,)
+bars_start: shape = (82,)
+beats_confidence: shape = (250,)
+beats_start: shape = (250,)
+danceability: 0.0
+duration: 135.99302
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.672
+loudness: -15.086
+mode: 1
+mode_confidence: 0.672
+release: Gangster Of Love & Other Favorites (Digitally Remastered)
+release_7digitalid: 570600
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (403,)
+segments_loudness_max: shape = (403,)
+segments_loudness_max_time: shape = (403,)
+segments_loudness_start: shape = (403,)
+segments_pitches: shape = (403, 12)
+segments_start: shape = (403,)
+segments_timbre: shape = (403, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGMQYW12AB018C302
+start_of_fade_out: 131.053
+tatums_confidence: shape = (501,)
+tatums_start: shape = (501,)
+tempo: 111.716
+time_signature: 3
+time_signature_confidence: 1.0
+title: Shed So Many Tears
+track_7digitalid: 6324120
+track_id: TRAZEYQ12903C9D099
+year: 1984

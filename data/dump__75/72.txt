@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5150
+artist_familiarity: 0.54602936508
+artist_hotttnesss: 0.408790006011
+artist_id: ARPU5CQ1187FB4469F
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: c4c8a72e-a518-48ba-bd59-c27ea6f8d932
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Art Ensemble Of Chicago
+artist_playmeid: 3185
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 3ece9341aa7cb2ee7b80adf59e282d7a
+bars_confidence: shape = (64,)
+bars_start: shape = (64,)
+beats_confidence: shape = (326,)
+beats_start: shape = (326,)
+danceability: 0.0
+duration: 164.77995
+end_of_fade_in: 0.646
+energy: 0.0
+key: 0
+key_confidence: 0.442
+loudness: -15.339
+mode: 1
+mode_confidence: 0.355
+release: With Fontenella Bass
+release_7digitalid: 43200
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (632,)
+segments_loudness_max: shape = (632,)
+segments_loudness_max_time: shape = (632,)
+segments_loudness_start: shape = (632,)
+segments_pitches: shape = (632, 12)
+segments_start: shape = (632,)
+segments_timbre: shape = (632, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJQLDK12AC468E6C5
+start_of_fade_out: 161.071
+tatums_confidence: shape = (651,)
+tatums_start: shape = (651,)
+tempo: 121.611
+time_signature: 5
+time_signature_confidence: 0.867
+title: Horn Webb
+track_7digitalid: 8150058
+track_id: TRAZVSQ12903CF4EBE
+year: 0

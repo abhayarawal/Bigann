@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 106
+artist_familiarity: 0.843526543333
+artist_hotttnesss: 0.750311503248
+artist_id: ARUJ5A41187FB3F5F1
+artist_latitude: nan
+artist_location: Dublin, Ireland
+artist_longitude: nan
+artist_mbid: a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: U2
+artist_playmeid: 1636
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 7614ff25aba4cf70960fe91114664e71
+bars_confidence: shape = (178,)
+bars_start: shape = (178,)
+beats_confidence: shape = (714,)
+beats_start: shape = (714,)
+danceability: 0.0
+duration: 343.27465
+end_of_fade_in: 4.046
+energy: 0.0
+key: 11
+key_confidence: 0.169
+loudness: -7.165
+mode: 0
+mode_confidence: 0.534
+release: Electrical Storm
+release_7digitalid: 225
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1282,)
+segments_loudness_max: shape = (1282,)
+segments_loudness_max_time: shape = (1282,)
+segments_loudness_start: shape = (1282,)
+segments_pitches: shape = (1282, 12)
+segments_start: shape = (1282,)
+segments_timbre: shape = (1282, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAATRN12A6310E897
+start_of_fade_out: 317.922
+tatums_confidence: shape = (1429,)
+tatums_start: shape = (1429,)
+tempo: 125.088
+time_signature: 4
+time_signature_confidence: 0.893
+title: New York
+track_7digitalid: 2338
+track_id: TRADSUA128C7196C7C
+year: 2000

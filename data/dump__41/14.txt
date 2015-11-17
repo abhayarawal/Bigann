@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1015
+artist_familiarity: 0.655921417588
+artist_hotttnesss: 0.578301633597
+artist_id: AR9W3X91187FB3994C
+artist_latitude: nan
+artist_location: Chiswick, London, England
+artist_longitude: nan
+artist_mbid: 401c3991-b76b-499d-8082-9f2df958ef78
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Phil Collins
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: a68904a8e22c6cdcc6273056831d1837
+bars_confidence: shape = (139,)
+bars_start: shape = (139,)
+beats_confidence: shape = (558,)
+beats_start: shape = (558,)
+danceability: 0.0
+duration: 260.96281
+end_of_fade_in: 0.143
+energy: 0.0
+key: 8
+key_confidence: 0.619
+loudness: -6.68
+mode: 1
+mode_confidence: 0.51
+release: Dance Into The Light
+release_7digitalid: 19068
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (889,)
+segments_loudness_max: shape = (889,)
+segments_loudness_max_time: shape = (889,)
+segments_loudness_start: shape = (889,)
+segments_pitches: shape = (889, 12)
+segments_start: shape = (889,)
+segments_timbre: shape = (889, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.518310319321
+song_id: SOPXSEX12A670204A0
+start_of_fade_out: 246.544
+tatums_confidence: shape = (1115,)
+tatums_start: shape = (1115,)
+tempo: 129.729
+time_signature: 4
+time_signature_confidence: 0.761
+title: That's What You Said  (LP Version)
+track_7digitalid: 201258
+track_id: TRANZFP128E07995A9
+year: 1996

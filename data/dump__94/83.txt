@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 31569
+artist_familiarity: 0.756063870843
+artist_hotttnesss: 0.491468881637
+artist_id: AR82DJK1187B991107
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: d7134426-a937-43bf-bc54-f10ad8102ed9
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: The Pharcyde
+artist_playmeid: 7931
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: a41c211d4b2a5be53b3a680c591dcbaf
+bars_confidence: shape = (165,)
+bars_start: shape = (165,)
+beats_confidence: shape = (665,)
+beats_start: shape = (665,)
+danceability: 0.0
+duration: 247.11791
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.491
+loudness: -5.178
+mode: 0
+mode_confidence: 0.41
+release: Humboldt Beginnings
+release_7digitalid: 519747
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (929,)
+segments_loudness_max: shape = (929,)
+segments_loudness_max_time: shape = (929,)
+segments_loudness_start: shape = (929,)
+segments_pitches: shape = (929, 12)
+segments_start: shape = (929,)
+segments_timbre: shape = (929, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.407233014901
+song_id: SONHFAB12AB018B767
+start_of_fade_out: 244.791
+tatums_confidence: shape = (665,)
+tatums_start: shape = (665,)
+tempo: 161.853
+time_signature: 4
+time_signature_confidence: 0.628
+title: The Climb/Paranoia
+track_7digitalid: 5750094
+track_id: TRBGRQE128F9353A29
+year: 2004

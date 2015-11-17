@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 88409
+artist_familiarity: 0.601395113088
+artist_hotttnesss: 0.436730221089
+artist_id: AR05NQH1187B98E875
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0efa01aa-2725-48af-a7df-273faa718ed6
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Kassav'
+artist_playmeid: 10761
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 77536508468971254ced4c10122365d9
+bars_confidence: shape = (365,)
+bars_start: shape = (365,)
+beats_confidence: shape = (1475,)
+beats_start: shape = (1475,)
+danceability: 0.0
+duration: 655.67302
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.404
+loudness: -8.294
+mode: 1
+mode_confidence: 0.348
+release: Se Nou Manm (Live Au Zenith)
+release_7digitalid: 288001
+sections_confidence: shape = (22,)
+sections_start: shape = (22,)
+segments_confidence: shape = (2913,)
+segments_loudness_max: shape = (2913,)
+segments_loudness_max_time: shape = (2913,)
+segments_loudness_start: shape = (2913,)
+segments_pitches: shape = (2913, 12)
+segments_start: shape = (2913,)
+segments_timbre: shape = (2913, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEPZJJ12A58A7C130
+start_of_fade_out: 642.409
+tatums_confidence: shape = (2950,)
+tatums_start: shape = (2950,)
+tempo: 134.086
+time_signature: 4
+time_signature_confidence: 0.0
+title: Medley Final
+track_7digitalid: 3231698
+track_id: TRAIPPV128F4274748
+year: 0

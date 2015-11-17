@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20131
+artist_familiarity: 0.688003348837
+artist_hotttnesss: 0.469340374259
+artist_id: ARSL3N21187B98DFC5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 74ba575f-3420-4d62-8e48-ac473d3c4282
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Klaus Badelt
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: e858ffce83d2fecc443d1928c0978a88
+bars_confidence: shape = (98,)
+bars_start: shape = (98,)
+beats_confidence: shape = (295,)
+beats_start: shape = (295,)
+danceability: 0.0
+duration: 128.62649
+end_of_fade_in: 2.345
+energy: 0.0
+key: 9
+key_confidence: 0.376
+loudness: -10.297
+mode: 0
+mode_confidence: 0.475
+release: Pirates Of The Caribbean Original Soundtrack
+release_7digitalid: 29803
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (357,)
+segments_loudness_max: shape = (357,)
+segments_loudness_max_time: shape = (357,)
+segments_loudness_start: shape = (357,)
+segments_pitches: shape = (357, 12)
+segments_start: shape = (357,)
+segments_timbre: shape = (357, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.703341784134
+song_id: SOUACBM12A6D4F9664
+start_of_fade_out: 128.626
+tatums_confidence: shape = (590,)
+tatums_start: shape = (590,)
+tempo: 138.54
+time_signature: 3
+time_signature_confidence: 0.156
+title: Moonlight Serenade
+track_7digitalid: 328052
+track_id: TRBEQFT128F146BD6D
+year: 2003

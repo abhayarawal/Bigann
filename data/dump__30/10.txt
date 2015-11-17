@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 509823
+artist_familiarity: 0.510192176585
+artist_hotttnesss: 0.324097702984
+artist_id: ARO89GU1187B98ADA2
+artist_latitude: 53.4796
+artist_location: Manchester, England
+artist_longitude: -2.24881
+artist_mbid: 3cc5d43f-4d2d-4eb5-9d60-52a1ab60715d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Reni
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: bc50fea3c647b1fe719520092d8a8e29
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (409,)
+beats_start: shape = (409,)
+danceability: 0.0
+duration: 191.52934
+end_of_fade_in: 0.531
+energy: 0.0
+key: 5
+key_confidence: 0.277
+loudness: -2.785
+mode: 0
+mode_confidence: 0.382
+release: Reni 2003
+release_7digitalid: 685888
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (802,)
+segments_loudness_max: shape = (802,)
+segments_loudness_max_time: shape = (802,)
+segments_loudness_start: shape = (802,)
+segments_pitches: shape = (802, 12)
+segments_start: shape = (802,)
+segments_timbre: shape = (802, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXLNHY12AC4688B63
+start_of_fade_out: 188.134
+tatums_confidence: shape = (817,)
+tatums_start: shape = (817,)
+tempo: 130.027
+time_signature: 4
+time_signature_confidence: 0.479
+title: Nema Dana Ni Meseca
+track_7digitalid: 7611163
+track_id: TRAKDRN12903CE8855
+year: 0

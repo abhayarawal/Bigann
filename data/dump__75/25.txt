@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21563
+artist_familiarity: 0.733637824827
+artist_hotttnesss: 0.526549034691
+artist_id: ARDZQ5U1187B9ADEAE
+artist_latitude: 37.8695
+artist_location: Berkeley, CA
+artist_longitude: -122.2705
+artist_mbid: c3649208-0ebe-449b-b1d7-4bd6c560f109
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: John Fogerty
+artist_playmeid: 7532
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: d02318d95551d1f71044fe0744fedc2d
+bars_confidence: shape = (128,)
+bars_start: shape = (128,)
+beats_confidence: shape = (518,)
+beats_start: shape = (518,)
+danceability: 0.0
+duration: 250.95791
+end_of_fade_in: 0.938
+energy: 0.0
+key: 4
+key_confidence: 0.836
+loudness: -5.187
+mode: 1
+mode_confidence: 0.592
+release: Revival
+release_7digitalid: 146588
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (885,)
+segments_loudness_max: shape = (885,)
+segments_loudness_max_time: shape = (885,)
+segments_loudness_start: shape = (885,)
+segments_pitches: shape = (885, 12)
+segments_start: shape = (885,)
+segments_timbre: shape = (885, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.629476732675
+song_id: SOHLXPY12A8C1319B6
+start_of_fade_out: 237.401
+tatums_confidence: shape = (1036,)
+tatums_start: shape = (1036,)
+tempo: 124.505
+time_signature: 4
+time_signature_confidence: 0.885
+title: Don't You Wish It Was True
+track_7digitalid: 1528214
+track_id: TRAZSCZ128F42554F4
+year: 2007

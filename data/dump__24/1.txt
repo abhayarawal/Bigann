@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2161
+artist_familiarity: 0.770040694516
+artist_hotttnesss: 0.543681106661
+artist_id: AR4WHYC1187B9896E7
+artist_latitude: nan
+artist_location: Queens, NY
+artist_longitude: nan
+artist_mbid: 9689aa5a-4471-4fb4-9721-07cecda0fa9f
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: A Tribe Called Quest
+artist_playmeid: 4096
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: c0112878cc8fc5ffe0296a31d36945b8
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (444,)
+beats_start: shape = (444,)
+danceability: 0.0
+duration: 251.14077
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.161
+loudness: -10.086
+mode: 1
+mode_confidence: 0.384
+release: The Best Of
+release_7digitalid: 280531
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (1135,)
+segments_loudness_max: shape = (1135,)
+segments_loudness_max_time: shape = (1135,)
+segments_loudness_start: shape = (1135,)
+segments_pitches: shape = (1135, 12)
+segments_start: shape = (1135,)
+segments_timbre: shape = (1135, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.704098839005
+song_id: SOIBEXL12A8AE46975
+start_of_fade_out: 248.581
+tatums_confidence: shape = (888,)
+tatums_start: shape = (888,)
+tempo: 102.829
+time_signature: 4
+time_signature_confidence: 1.0
+title: Scenario
+track_7digitalid: 3132283
+track_id: TRAIBXJ128F4260700
+year: 1991

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1396
+artist_familiarity: 0.707199763838
+artist_hotttnesss: 0.513463289702
+artist_id: ARYKCQI1187FB3B18F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: eeacb319-8d4c-48e0-80a0-944e71c375bf
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tesla
+artist_playmeid: 7536
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 576f521f52b609ff29a6559971e9452c
+bars_confidence: shape = (262,)
+bars_start: shape = (262,)
+beats_confidence: shape = (1051,)
+beats_start: shape = (1051,)
+danceability: 0.0
+duration: 390.66077
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.851
+loudness: -10.478
+mode: 1
+mode_confidence: 0.739
+release: Five Man Acoustical Jam
+release_7digitalid: 46614
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (1112,)
+segments_loudness_max: shape = (1112,)
+segments_loudness_max_time: shape = (1112,)
+segments_loudness_start: shape = (1112,)
+segments_pitches: shape = (1112, 12)
+segments_start: shape = (1112,)
+segments_timbre: shape = (1112, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.799023519942
+song_id: SOBHZOV12AF729E943
+start_of_fade_out: 390.661
+tatums_confidence: shape = (2102,)
+tatums_start: shape = (2102,)
+tempo: 161.47
+time_signature: 4
+time_signature_confidence: 0.261
+title: The Way It Is
+track_7digitalid: 498111
+track_id: TRAFXYN128F148B3B4
+year: 1989

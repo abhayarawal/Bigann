@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 107364
+artist_familiarity: 0.769687317772
+artist_hotttnesss: 0.518399161656
+artist_id: ARW9LQ31187FB4336D
+artist_latitude: 41.52493
+artist_location: Denver, Colorado
+artist_longitude: -88.08459
+artist_mbid: d1115ccf-3c6b-440b-9005-73224ecff98e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Drop Dead_ Gorgeous
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: c6f994fe4781dc26736144aa33c1cbf4
+bars_confidence: shape = (323,)
+bars_start: shape = (323,)
+beats_confidence: shape = (323,)
+beats_start: shape = (323,)
+danceability: 0.0
+duration: 96.10404
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 1.0
+loudness: -3.973
+mode: 0
+mode_confidence: 0.802
+release: In Vogue
+release_7digitalid: 264107
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (226,)
+segments_loudness_max: shape = (226,)
+segments_loudness_max_time: shape = (226,)
+segments_loudness_start: shape = (226,)
+segments_pitches: shape = (226, 12)
+segments_start: shape = (226,)
+segments_timbre: shape = (226, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBPQVV12A8C13BE51
+start_of_fade_out: 92.34
+tatums_confidence: shape = (323,)
+tatums_start: shape = (323,)
+tempo: 200.289
+time_signature: 1
+time_signature_confidence: 0.936
+title: Are You Happy (Album Version)
+track_7digitalid: 2814848
+track_id: TRBIBVM128F4262E9D
+year: 2006

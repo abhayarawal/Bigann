@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15535
+artist_familiarity: 0.47046686593
+artist_hotttnesss: 0.378398546485
+artist_id: AR6MIU31187B994603
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a18b2895-1dbe-4b55-bba0-fae4c02a9a1a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Stefon Harris
+artist_playmeid: 61828
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 73849619f330d559a86e78b881aca967
+bars_confidence: shape = (211,)
+bars_start: shape = (211,)
+beats_confidence: shape = (648,)
+beats_start: shape = (648,)
+danceability: 0.0
+duration: 374.17751
+end_of_fade_in: 0.301
+energy: 0.0
+key: 2
+key_confidence: 0.225
+loudness: -16.322
+mode: 0
+mode_confidence: 0.489
+release: A Cloud Of Red Dust
+release_7digitalid: 111868
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (1705,)
+segments_loudness_max: shape = (1705,)
+segments_loudness_max_time: shape = (1705,)
+segments_loudness_start: shape = (1705,)
+segments_pitches: shape = (1705, 12)
+segments_start: shape = (1705,)
+segments_timbre: shape = (1705, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.377819205995
+song_id: SOHCDBQ12A8C13D2FF
+start_of_fade_out: 350.575
+tatums_confidence: shape = (1296,)
+tatums_start: shape = (1296,)
+tempo: 103.719
+time_signature: 3
+time_signature_confidence: 0.591
+title: For You Mom & Dad
+track_7digitalid: 1156622
+track_id: TRAXYUW128F42981D3
+year: 0

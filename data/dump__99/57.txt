@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7040
+artist_familiarity: 0.652860465746
+artist_hotttnesss: 0.383557469777
+artist_id: ARR2BHS1187B9B8FA7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e842abf7-8a63-4602-8879-75958c2884a1
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Minnie Riperton
+artist_playmeid: 12715
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 3e4952f890d846a3cbc0f9173f6d4e84
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (455,)
+beats_start: shape = (455,)
+danceability: 0.0
+duration: 224.67873
+end_of_fade_in: 0.402
+energy: 0.0
+key: 9
+key_confidence: 0.296
+loudness: -13.895
+mode: 1
+mode_confidence: 0.471
+release: Love To Love
+release_7digitalid: 696912
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (795,)
+segments_loudness_max: shape = (795,)
+segments_loudness_max_time: shape = (795,)
+segments_loudness_start: shape = (795,)
+segments_pitches: shape = (795, 12)
+segments_start: shape = (795,)
+segments_timbre: shape = (795, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSJSMZ12AB0187EB3
+start_of_fade_out: 215.522
+tatums_confidence: shape = (911,)
+tatums_start: shape = (911,)
+tempo: 122.832
+time_signature: 5
+time_signature_confidence: 1.0
+title: Lovin' You
+track_7digitalid: 7737253
+track_id: TRBIFUV12903D07374
+year: 1974

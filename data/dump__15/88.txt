@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 97773
+artist_familiarity: 0.526077280017
+artist_hotttnesss: 0.374560252927
+artist_id: AR4MCB01187B98BF5C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: be4aed5d-28d5-423a-a229-cb812cbe0167
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Atman
+artist_playmeid: 75062
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 7377cf74071eb1b78054dd9d9648e8fb
+bars_confidence: shape = (399,)
+bars_start: shape = (399,)
+beats_confidence: shape = (399,)
+beats_start: shape = (399,)
+danceability: 0.0
+duration: 264.25424
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.173
+loudness: -9.109
+mode: 0
+mode_confidence: 0.236
+release: 97 | 07
+release_7digitalid: 553001
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (2002,)
+segments_loudness_max: shape = (2002,)
+segments_loudness_max_time: shape = (2002,)
+segments_loudness_start: shape = (2002,)
+segments_pitches: shape = (2002, 12)
+segments_start: shape = (2002,)
+segments_timbre: shape = (2002, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSXZIN12AB0183785
+start_of_fade_out: 255.681
+tatums_confidence: shape = (797,)
+tatums_start: shape = (797,)
+tempo: 90.055
+time_signature: 1
+time_signature_confidence: 0.379
+title: Dancing With the Goddess (ttt rmx)
+track_7digitalid: 6113933
+track_id: TRAFKFP128F93366A1
+year: 2007

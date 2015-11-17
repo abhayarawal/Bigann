@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2022
+artist_familiarity: 0.679748141444
+artist_hotttnesss: 0.458595402877
+artist_id: AR1ZYLH1187B98C159
+artist_latitude: nan
+artist_location: East Orange, NJ
+artist_longitude: nan
+artist_mbid: 3bdcd49d-212e-4f4f-877a-eac1e4a2bddc
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Naughty By Nature
+artist_playmeid: 7556
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 10c4124798f751154cab64c627f3c919
+bars_confidence: shape = (128,)
+bars_start: shape = (128,)
+beats_confidence: shape = (520,)
+beats_start: shape = (520,)
+danceability: 0.0
+duration: 330.08281
+end_of_fade_in: 0.253
+energy: 0.0
+key: 11
+key_confidence: 0.108
+loudness: -3.831
+mode: 0
+mode_confidence: 0.386
+release: Icons
+release_7digitalid: 14578
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1481,)
+segments_loudness_max: shape = (1481,)
+segments_loudness_max_time: shape = (1481,)
+segments_loudness_start: shape = (1481,)
+segments_pitches: shape = (1481, 12)
+segments_start: shape = (1481,)
+segments_timbre: shape = (1481, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONLWDJ12AF72A2C9C
+start_of_fade_out: 325.045
+tatums_confidence: shape = (1039,)
+tatums_start: shape = (1039,)
+tempo: 93.502
+time_signature: 4
+time_signature_confidence: 1.0
+title: Family Tree
+track_7digitalid: 151535
+track_id: TRAVWIP128E078FA3D
+year: 2002

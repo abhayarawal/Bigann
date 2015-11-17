@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1555
+artist_familiarity: 0.558916244027
+artist_hotttnesss: 0.392579877755
+artist_id: ARZH0R61187FB422AE
+artist_latitude: 38.62774
+artist_location: St. Louis, MO
+artist_longitude: -90.19951
+artist_mbid: 77c1d20a-2374-42f0-8059-61d1f453d5de
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Fontella Bass
+artist_playmeid: -1
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 777624aa78757b413e376cdcfd588d9e
+bars_confidence: shape = (342,)
+bars_start: shape = (342,)
+beats_confidence: shape = (342,)
+beats_start: shape = (342,)
+danceability: 0.0
+duration: 165.72036
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.0
+loudness: -9.155
+mode: 0
+mode_confidence: 0.049
+release: Brothers In Blues & Sisters In Soul
+release_7digitalid: 499778
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (624,)
+segments_loudness_max: shape = (624,)
+segments_loudness_max_time: shape = (624,)
+segments_loudness_start: shape = (624,)
+segments_pitches: shape = (624, 12)
+segments_start: shape = (624,)
+segments_timbre: shape = (624, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOCYBE12A58A7928D
+start_of_fade_out: 153.13
+tatums_confidence: shape = (685,)
+tatums_start: shape = (685,)
+tempo: 124.369
+time_signature: 1
+time_signature_confidence: 0.0
+title: Rescue Me
+track_7digitalid: 5535875
+track_id: TRAXULE128F9320132
+year: 1965

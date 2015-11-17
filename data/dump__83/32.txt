@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1734
+artist_familiarity: 0.609742242844
+artist_hotttnesss: 0.478532200457
+artist_id: AR62MPO1187FB46421
+artist_latitude: nan
+artist_location: Bakersfield, CA
+artist_longitude: nan
+artist_mbid: 34832720-12d3-44b4-bb80-8f06bcfb09ba
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: David Benoit
+artist_playmeid: 13333
+artist_terms: shape = (51,)
+artist_terms_freq: shape = (51,)
+artist_terms_weight: shape = (51,)
+audio_md5: 5a55703102c3b208291f7b4ed850e924
+bars_confidence: shape = (135,)
+bars_start: shape = (135,)
+beats_confidence: shape = (684,)
+beats_start: shape = (684,)
+danceability: 0.0
+duration: 274.1024
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.413
+loudness: -10.03
+mode: 1
+mode_confidence: 0.465
+release: Here's To You Charlie Brown - 50 Great Years!
+release_7digitalid: 162987
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (975,)
+segments_loudness_max: shape = (975,)
+segments_loudness_max_time: shape = (975,)
+segments_loudness_start: shape = (975,)
+segments_pitches: shape = (975, 12)
+segments_start: shape = (975,)
+segments_timbre: shape = (975, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.544577102394
+song_id: SOJKYRI12A58A7D06C
+start_of_fade_out: 263.68
+tatums_confidence: shape = (1368,)
+tatums_start: shape = (1368,)
+tempo: 152.077
+time_signature: 5
+time_signature_confidence: 0.57
+title: Frieda
+track_7digitalid: 3452659
+track_id: TRBCPKL128F42A97A4
+year: 2000

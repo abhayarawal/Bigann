@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 203519
+artist_familiarity: 0.153605548145
+artist_hotttnesss: 0.381467814824
+artist_id: AR72Q9R1187B98A664
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2f929d46-5246-4cc8-b117-ed899907fad6
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Hatiras & Slarta John
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 74858fd3b62b5cfe781ece95b1ddc77c
+bars_confidence: shape = (202,)
+bars_start: shape = (202,)
+beats_confidence: shape = (810,)
+beats_start: shape = (810,)
+danceability: 0.0
+duration: 383.58159
+end_of_fade_in: 0.271
+energy: 0.0
+key: 10
+key_confidence: 0.891
+loudness: -5.378
+mode: 0
+mode_confidence: 0.704
+release: Spaced Invader
+release_7digitalid: 323213
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1908,)
+segments_loudness_max: shape = (1908,)
+segments_loudness_max_time: shape = (1908,)
+segments_loudness_start: shape = (1908,)
+segments_pitches: shape = (1908, 12)
+segments_start: shape = (1908,)
+segments_timbre: shape = (1908, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.25686615594
+song_id: SOIKYFC12A6D4F9864
+start_of_fade_out: 376.163
+tatums_confidence: shape = (1620,)
+tatums_start: shape = (1620,)
+tempo: 128.022
+time_signature: 4
+time_signature_confidence: 0.0
+title: Spaced Invader (Ian Pooley Club Mix)
+track_7digitalid: 3639294
+track_id: TRADPMU128F92D8DBB
+year: 2000

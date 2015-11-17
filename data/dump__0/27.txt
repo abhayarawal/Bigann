@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 242273
+artist_familiarity: 0.550513697848
+artist_hotttnesss: 0.422705641029
+artist_id: ARNTLGG11E2835DDB9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4d96f7d0-2f0e-4e92-ba70-a405f96f8cec
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Clp
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: bbf8a75f1dbb47d62a9938b2c686a7c3
+bars_confidence: shape = (175,)
+bars_start: shape = (175,)
+beats_confidence: shape = (704,)
+beats_start: shape = (704,)
+danceability: 0.0
+duration: 338.31138
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.687
+loudness: -6.486
+mode: 0
+mode_confidence: 0.486
+release: Strictly Confidential
+release_7digitalid: 672016
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1815,)
+segments_loudness_max: shape = (1815,)
+segments_loudness_max_time: shape = (1815,)
+segments_loudness_start: shape = (1815,)
+segments_pitches: shape = (1815, 12)
+segments_start: shape = (1815,)
+segments_timbre: shape = (1815, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZQDIU12A58A7BCF6
+start_of_fade_out: 338.311
+tatums_confidence: shape = (1409,)
+tatums_start: shape = (1409,)
+tempo: 125.006
+time_signature: 4
+time_signature_confidence: 1.0
+title: Superconfidential
+track_7digitalid: 7448953
+track_id: TRAACIW12903CC0F6D
+year: 0

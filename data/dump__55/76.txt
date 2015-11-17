@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 384669
+artist_familiarity: 0.547079111069
+artist_hotttnesss: 0.415493349537
+artist_id: AR07CRG1187FB594FA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 773fa4e0-2764-435f-96c1-e37db750cd6c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Seventh Star
+artist_playmeid: 21761
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: c321db42008a803b1e1e67699ea39a5e
+bars_confidence: shape = (85,)
+bars_start: shape = (85,)
+beats_confidence: shape = (347,)
+beats_start: shape = (347,)
+danceability: 0.0
+duration: 184.842
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.29
+loudness: -4.684
+mode: 1
+mode_confidence: 0.575
+release: The Undisputed Truth
+release_7digitalid: 771288
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (590,)
+segments_loudness_max: shape = (590,)
+segments_loudness_max_time: shape = (590,)
+segments_loudness_start: shape = (590,)
+segments_pitches: shape = (590, 12)
+segments_start: shape = (590,)
+segments_timbre: shape = (590, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.383934684279
+song_id: SOMNBNO12A8C1430D2
+start_of_fade_out: 184.842
+tatums_confidence: shape = (693,)
+tatums_start: shape = (693,)
+tempo: 114.594
+time_signature: 4
+time_signature_confidence: 0.997
+title: I Versus I
+track_7digitalid: 8539159
+track_id: TRATAGC12903CDCE67
+year: 2007

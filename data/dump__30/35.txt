@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11930
+artist_familiarity: 0.604454946233
+artist_hotttnesss: 0.418774726608
+artist_id: ARC1E3F1187B9B9902
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a0e7007b-6fb9-4db1-a8ec-31191bc9c310
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: El Poder del Norte
+artist_playmeid: 46749
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: c38afb8f4f86660e5fdca21e73e6656c
+bars_confidence: shape = (156,)
+bars_start: shape = (156,)
+beats_confidence: shape = (628,)
+beats_start: shape = (628,)
+danceability: 0.0
+duration: 223.05914
+end_of_fade_in: 0.29
+energy: 0.0
+key: 0
+key_confidence: 0.619
+loudness: -10.566
+mode: 0
+mode_confidence: 0.745
+release: Mano A Mano
+release_7digitalid: 24684
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (870,)
+segments_loudness_max: shape = (870,)
+segments_loudness_max_time: shape = (870,)
+segments_loudness_start: shape = (870,)
+segments_pitches: shape = (870, 12)
+segments_start: shape = (870,)
+segments_timbre: shape = (870, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODYZLC12A6D4F7BD3
+start_of_fade_out: 218.865
+tatums_confidence: shape = (1256,)
+tatums_start: shape = (1256,)
+tempo: 171.849
+time_signature: 4
+time_signature_confidence: 0.707
+title: Negocio Prohibido
+track_7digitalid: 261345
+track_id: TRAKGCJ128F145D675
+year: 0

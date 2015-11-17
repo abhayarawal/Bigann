@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15061
+artist_familiarity: 0.510660236281
+artist_hotttnesss: 0.333770845165
+artist_id: ARTK5LU1187B9A654C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d83529bf-6d3a-4c85-9c5f-e7c991c19956
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Michael Gettel
+artist_playmeid: 61197
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 48cf097484ed826e44d400f517e6c07a
+bars_confidence: shape = (105,)
+bars_start: shape = (105,)
+beats_confidence: shape = (422,)
+beats_start: shape = (422,)
+danceability: 0.0
+duration: 272.22159
+end_of_fade_in: 0.095
+energy: 0.0
+key: 5
+key_confidence: 0.943
+loudness: -16.229
+mode: 1
+mode_confidence: 0.676
+release: The Key
+release_7digitalid: 149772
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1162,)
+segments_loudness_max: shape = (1162,)
+segments_loudness_max_time: shape = (1162,)
+segments_loudness_start: shape = (1162,)
+segments_pitches: shape = (1162, 12)
+segments_start: shape = (1162,)
+segments_timbre: shape = (1162, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOTFEMQ12A8C13713C
+start_of_fade_out: 256.313
+tatums_confidence: shape = (844,)
+tatums_start: shape = (844,)
+tempo: 95.046
+time_signature: 4
+time_signature_confidence: 0.648
+title: Turning Of A Key
+track_7digitalid: 1558385
+track_id: TRAZKTZ128F425C690
+year: 1993

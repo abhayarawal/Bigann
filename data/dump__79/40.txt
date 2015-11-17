@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 50493
+artist_familiarity: 0.620392055893
+artist_hotttnesss: 0.390660522723
+artist_id: ARLDW2Y1187B9B544F
+artist_latitude: 39.75911
+artist_location: Dayton, OH
+artist_longitude: -84.19444
+artist_mbid: a13c01e2-7739-4b25-af65-38e2fcb560e2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tommy James And The Shondells
+artist_playmeid: -1
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 258d7a73c41db3c830d90c57a1172fb7
+bars_confidence: shape = (77,)
+bars_start: shape = (77,)
+beats_confidence: shape = (314,)
+beats_start: shape = (314,)
+danceability: 0.0
+duration: 136.12363
+end_of_fade_in: 0.34
+energy: 0.0
+key: 10
+key_confidence: 0.095
+loudness: -11.298
+mode: 0
+mode_confidence: 0.505
+release: Anthology
+release_7digitalid: 60341
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (536,)
+segments_loudness_max: shape = (536,)
+segments_loudness_max_time: shape = (536,)
+segments_loudness_start: shape = (536,)
+segments_pitches: shape = (536, 12)
+segments_start: shape = (536,)
+segments_timbre: shape = (536, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.657161336388
+song_id: SODKOLK12A6D4FB6B1
+start_of_fade_out: 125.463
+tatums_confidence: shape = (628,)
+tatums_start: shape = (628,)
+tempo: 142.963
+time_signature: 4
+time_signature_confidence: 0.0
+title: Gettin' Together
+track_7digitalid: 625484
+track_id: TRBBDXO128F14A4737
+year: 1989

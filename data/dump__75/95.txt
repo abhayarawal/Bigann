@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9021
+artist_familiarity: 0.41200019139
+artist_hotttnesss: 0.318436890242
+artist_id: ARX7R5Q1187FB5C6B3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c634211d-329a-402f-a53a-c50b95d43082
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Johann Köhnich
+artist_playmeid: -1
+artist_terms: shape = (8,)
+artist_terms_freq: shape = (8,)
+artist_terms_weight: shape = (8,)
+audio_md5: 7e010cf07bad17397670277ac1e91683
+bars_confidence: shape = (786,)
+bars_start: shape = (786,)
+beats_confidence: shape = (786,)
+beats_start: shape = (786,)
+danceability: 0.0
+duration: 376.05832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.278
+loudness: -15.972
+mode: 1
+mode_confidence: 0.308
+release: ...Liest_ Singt Und Macht
+release_7digitalid: 157013
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1687,)
+segments_loudness_max: shape = (1687,)
+segments_loudness_max_time: shape = (1687,)
+segments_loudness_start: shape = (1687,)
+segments_pitches: shape = (1687, 12)
+segments_start: shape = (1687,)
+segments_timbre: shape = (1687, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBMUGA12A8C13A751
+start_of_fade_out: 368.982
+tatums_confidence: shape = (1573,)
+tatums_start: shape = (1573,)
+tempo: 124.015
+time_signature: 1
+time_signature_confidence: 0.798
+title: Die Gesellschaft
+track_7digitalid: 1649669
+track_id: TRAZXVB128F4271EF9
+year: 0

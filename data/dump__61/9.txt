@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1008
+artist_familiarity: 0.872933783073
+artist_hotttnesss: 0.627467258563
+artist_id: AR048JZ1187B9AEB85
+artist_latitude: 30.33138
+artist_location: Jacksonville, FL
+artist_longitude: -81.6558
+artist_mbid: 3630fff3-52fc-4e97-ab01-d68fd88e4135
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Yellowcard
+artist_playmeid: 1713
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: cdfda3cc108865f19e815a0ff96e96f3
+bars_confidence: shape = (75,)
+bars_start: shape = (75,)
+beats_confidence: shape = (304,)
+beats_start: shape = (304,)
+danceability: 0.0
+duration: 208.79628
+end_of_fade_in: 0.346
+energy: 0.0
+key: 7
+key_confidence: 0.456
+loudness: -7.063
+mode: 1
+mode_confidence: 0.515
+release: Ocean Avenue
+release_7digitalid: 26414
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (705,)
+segments_loudness_max: shape = (705,)
+segments_loudness_max_time: shape = (705,)
+segments_loudness_start: shape = (705,)
+segments_pitches: shape = (705, 12)
+segments_start: shape = (705,)
+segments_timbre: shape = (705, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.732428072817
+song_id: SOJDXQI12AF72A580E
+start_of_fade_out: 202.524
+tatums_confidence: shape = (1214,)
+tatums_start: shape = (1214,)
+tempo: 89.896
+time_signature: 4
+time_signature_confidence: 0.352
+title: One Year_ Six Months
+track_7digitalid: 285614
+track_id: TRAUWFN128F1462E09
+year: 2003

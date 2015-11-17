@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 484
+artist_familiarity: 0.596895543228
+artist_hotttnesss: 0.365951047654
+artist_id: ARX5XTP1187FB3D8CC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7217d3fb-a04b-429d-abcf-a74265a93c73
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Freddie McGregor
+artist_playmeid: 10710
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: a8ac1f860c50d8b8da80e77f8885953c
+bars_confidence: shape = (128,)
+bars_start: shape = (128,)
+beats_confidence: shape = (517,)
+beats_start: shape = (517,)
+danceability: 0.0
+duration: 185.83465
+end_of_fade_in: 0.334
+energy: 0.0
+key: 5
+key_confidence: 0.07
+loudness: -9.742
+mode: 0
+mode_confidence: 0.361
+release: Mr. McGregor
+release_7digitalid: 360241
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (868,)
+segments_loudness_max: shape = (868,)
+segments_loudness_max_time: shape = (868,)
+segments_loudness_start: shape = (868,)
+segments_pitches: shape = (868, 12)
+segments_start: shape = (868,)
+segments_timbre: shape = (868, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.450992311636
+song_id: SOAMIZZ12AB0182A28
+start_of_fade_out: 176.704
+tatums_confidence: shape = (1034,)
+tatums_start: shape = (1034,)
+tempo: 167.48
+time_signature: 4
+time_signature_confidence: 0.201
+title: Zion Chant (Album Version)
+track_7digitalid: 4014018
+track_id: TRAWYIM128F9324305
+year: 0

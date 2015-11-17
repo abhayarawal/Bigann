@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 405885
+artist_familiarity: 0.615740353062
+artist_hotttnesss: 0.423608912639
+artist_id: ARBFCK11187FB4C89B
+artist_latitude: 36.17191
+artist_location: LAS VEGAS, Nevada
+artist_longitude: -115.13997
+artist_mbid: bf6e1d7a-511e-4131-b3c6-de49dcbb4ba2
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Brian Eno And David Byrne
+artist_playmeid: -1
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: cc7e3037345c583e003a764f81e4d694
+bars_confidence: shape = (144,)
+bars_start: shape = (144,)
+beats_confidence: shape = (581,)
+beats_start: shape = (581,)
+danceability: 0.0
+duration: 296.33261
+end_of_fade_in: 0.334
+energy: 0.0
+key: 1
+key_confidence: 0.379
+loudness: -8.209
+mode: 1
+mode_confidence: 0.428
+release: New Romantics
+release_7digitalid: 647942
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1668,)
+segments_loudness_max: shape = (1668,)
+segments_loudness_max_time: shape = (1668,)
+segments_loudness_start: shape = (1668,)
+segments_pitches: shape = (1668, 12)
+segments_start: shape = (1668,)
+segments_timbre: shape = (1668, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAGYNF12AB0187EEE
+start_of_fade_out: 287.277
+tatums_confidence: shape = (2326,)
+tatums_start: shape = (2326,)
+tempo: 118.203
+time_signature: 4
+time_signature_confidence: 0.373
+title: The Jezebel Spirit
+track_7digitalid: 7178082
+track_id: TRAGQLG128F9351109
+year: 1981

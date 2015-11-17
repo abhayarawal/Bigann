@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 56020
+artist_familiarity: 0.651772658526
+artist_hotttnesss: 0.524477183577
+artist_id: ARYBGMF1187FB4D82C
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: c7cb9a2e-ff57-4bb8-bd2c-83524e18e369
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Berlin
+artist_playmeid: 188
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 5b8acc93dfc15ebca5e58445199e3129
+bars_confidence: shape = (124,)
+bars_start: shape = (124,)
+beats_confidence: shape = (497,)
+beats_start: shape = (497,)
+danceability: 0.0
+duration: 231.18322
+end_of_fade_in: 0.328
+energy: 0.0
+key: 11
+key_confidence: 0.082
+loudness: -9.424
+mode: 1
+mode_confidence: 0.393
+release: Metro: Greatest Hits
+release_7digitalid: 200895
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1080,)
+segments_loudness_max: shape = (1080,)
+segments_loudness_max_time: shape = (1080,)
+segments_loudness_start: shape = (1080,)
+segments_pitches: shape = (1080, 12)
+segments_start: shape = (1080,)
+segments_timbre: shape = (1080, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOLQWHJ12A8C135A13
+start_of_fade_out: 225.669
+tatums_confidence: shape = (993,)
+tatums_start: shape = (993,)
+tempo: 131.989
+time_signature: 4
+time_signature_confidence: 0.0
+title: Now It's My Turn (Aqualite Mix)
+track_7digitalid: 2188216
+track_id: TRAWIFJ128F4259E47
+year: 2004

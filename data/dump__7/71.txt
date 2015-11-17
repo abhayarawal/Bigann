@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4996
+artist_familiarity: 0.779838091767
+artist_hotttnesss: 0.568350503202
+artist_id: ARBEBBY1187B9B43DB
+artist_latitude: nan
+artist_location: Gainesville, FL
+artist_longitude: nan
+artist_mbid: 5ca3f318-d028-4151-ac73-78e2b2d6cdcc
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Tom Petty And The Heartbreakers
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 294e711081992302bd8d9a286c280c12
+bars_confidence: shape = (189,)
+bars_start: shape = (189,)
+beats_confidence: shape = (759,)
+beats_start: shape = (759,)
+danceability: 0.0
+duration: 274.20689
+end_of_fade_in: 2.746
+energy: 0.0
+key: 7
+key_confidence: 0.45
+loudness: -8.962
+mode: 0
+mode_confidence: 0.479
+release: Greatest Hits
+release_7digitalid: 22353
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (785,)
+segments_loudness_max: shape = (785,)
+segments_loudness_max_time: shape = (785,)
+segments_loudness_start: shape = (785,)
+segments_pitches: shape = (785, 12)
+segments_start: shape = (785,)
+segments_timbre: shape = (785, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLFDCM12A6D4F7A7C
+start_of_fade_out: 262.774
+tatums_confidence: shape = (1518,)
+tatums_start: shape = (1518,)
+tempo: 168.946
+time_signature: 4
+time_signature_confidence: 1.0
+title: Mary Jane's Last Dance
+track_7digitalid: 230674
+track_id: TRACNAS128F14567C6
+year: 0

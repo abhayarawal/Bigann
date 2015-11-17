@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 363294
+artist_familiarity: 0.54753840169
+artist_hotttnesss: 0.473544908619
+artist_id: ARVY1W51187B9AF4F7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 459a9ea9-9d80-42d8-9d77-d80dc61705f2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: 99 Posse
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 4e990e2a39c843fd235521b1ec33cd93
+bars_confidence: shape = (147,)
+bars_start: shape = (147,)
+beats_confidence: shape = (591,)
+beats_start: shape = (591,)
+danceability: 0.0
+duration: 351.34649
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.467
+loudness: -12.492
+mode: 1
+mode_confidence: 0.34
+release: Rafaniello / Salario Garantito
+release_7digitalid: 490624
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (1902,)
+segments_loudness_max: shape = (1902,)
+segments_loudness_max_time: shape = (1902,)
+segments_loudness_start: shape = (1902,)
+segments_pitches: shape = (1902, 12)
+segments_start: shape = (1902,)
+segments_timbre: shape = (1902, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVWWUP12AB017FDB1
+start_of_fade_out: 332.632
+tatums_confidence: shape = (2361,)
+tatums_start: shape = (2361,)
+tempo: 101.849
+time_signature: 4
+time_signature_confidence: 0.612
+title: Rafaniello
+track_7digitalid: 5435548
+track_id: TRAMEEC128F9307A54
+year: 1992

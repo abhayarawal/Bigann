@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4730
+artist_familiarity: 0.787877770106
+artist_hotttnesss: 0.543225521045
+artist_id: ARAPH9U1187B9B34F0
+artist_latitude: nan
+artist_location: Marshville, NC
+artist_longitude: nan
+artist_mbid: 09b697e3-a849-4670-ae49-e0b821a6271a
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Randy Travis
+artist_playmeid: 10849
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: b68fcca67d75aa0088ddf6fadf776183
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (324,)
+beats_start: shape = (324,)
+danceability: 0.0
+duration: 176.43057
+end_of_fade_in: 0.688
+energy: 0.0
+key: 10
+key_confidence: 0.185
+loudness: -8.504
+mode: 0
+mode_confidence: 0.326
+release: Full Circle
+release_7digitalid: 602106
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (587,)
+segments_loudness_max: shape = (587,)
+segments_loudness_max_time: shape = (587,)
+segments_loudness_start: shape = (587,)
+segments_pitches: shape = (587, 12)
+segments_start: shape = (587,)
+segments_timbre: shape = (587, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOJTZQO12AC960DB2A
+start_of_fade_out: 164.711
+tatums_confidence: shape = (649,)
+tatums_start: shape = (649,)
+tempo: 112.613
+time_signature: 4
+time_signature_confidence: 0.0
+title: Don't Take Your Love Away From Me (Album Version)
+track_7digitalid: 6685298
+track_id: TRBEIAM12903CF4476
+year: 1996

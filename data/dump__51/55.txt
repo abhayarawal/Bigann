@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 96053
+artist_familiarity: 0.448013836362
+artist_hotttnesss: 0.348295196786
+artist_id: ARIMW0M1187B99EC59
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 245a7f6a-1100-4a2d-a67f-df8d9e7b7b9d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: TEN MADISON
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: d68d5a261e04b977eba659111fe54e84
+bars_confidence: shape = (272,)
+bars_start: shape = (272,)
+beats_confidence: shape = (1091,)
+beats_start: shape = (1091,)
+danceability: 0.0
+duration: 344.68526
+end_of_fade_in: 11.418
+energy: 0.0
+key: 5
+key_confidence: 0.514
+loudness: -8.627
+mode: 0
+mode_confidence: 0.483
+release: Grounded
+release_7digitalid: 121334
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1921,)
+segments_loudness_max: shape = (1921,)
+segments_loudness_max_time: shape = (1921,)
+segments_loudness_start: shape = (1921,)
+segments_pitches: shape = (1921, 12)
+segments_start: shape = (1921,)
+segments_timbre: shape = (1921, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.360370582712
+song_id: SODXUGT12A58A78B78
+start_of_fade_out: 333.752
+tatums_confidence: shape = (2182,)
+tatums_start: shape = (2182,)
+tempo: 190.038
+time_signature: 4
+time_signature_confidence: 0.0
+title: Cup Horn
+track_7digitalid: 1251108
+track_id: TRAROPZ128F42A8AB2
+year: 2006

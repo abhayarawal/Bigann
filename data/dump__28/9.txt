@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 14716
+artist_familiarity: 0.822843254772
+artist_hotttnesss: 0.531436736543
+artist_id: ARZXTEY1187B9997A7
+artist_latitude: nan
+artist_location: New York, NY [Harlem]
+artist_longitude: nan
+artist_mbid: bea235a0-db63-44b1-881e-264d25791f5a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Juelz Santana / Bezel
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 0846cb46ad28a9947a5b70769c522e24
+bars_confidence: shape = (146,)
+bars_start: shape = (146,)
+beats_confidence: shape = (442,)
+beats_start: shape = (442,)
+danceability: 0.0
+duration: 254.51057
+end_of_fade_in: 2.81
+energy: 0.0
+key: 10
+key_confidence: 0.347
+loudness: -3.858
+mode: 0
+mode_confidence: 0.567
+release: What The Game's Been Missing!
+release_7digitalid: 20903
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1197,)
+segments_loudness_max: shape = (1197,)
+segments_loudness_max_time: shape = (1197,)
+segments_loudness_start: shape = (1197,)
+segments_pitches: shape = (1197, 12)
+segments_start: shape = (1197,)
+segments_timbre: shape = (1197, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.476435219643
+song_id: SOQDEXL12A6D4F7004
+start_of_fade_out: 250.973
+tatums_confidence: shape = (1769,)
+tatums_start: shape = (1769,)
+tempo: 104.99
+time_signature: 3
+time_signature_confidence: 0.792
+title: Violence
+track_7digitalid: 217513
+track_id: TRAJKTV128F1453E3C
+year: 2005

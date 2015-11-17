@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16974
+artist_familiarity: 0.64028755688
+artist_hotttnesss: 0.432172564147
+artist_id: ARNBV1X1187B996249
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: dd4586a0-ee49-4616-8a69-1916cd6d5923
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Alex
+artist_playmeid: 28115
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 5bd3648ce0a6de64d841309e938511dd
+bars_confidence: shape = (150,)
+bars_start: shape = (150,)
+beats_confidence: shape = (606,)
+beats_start: shape = (606,)
+danceability: 0.0
+duration: 250.69669
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.264
+loudness: -7.41
+mode: 1
+mode_confidence: 0.387
+release: Thirteen
+release_7digitalid: 43847
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (931,)
+segments_loudness_max: shape = (931,)
+segments_loudness_max_time: shape = (931,)
+segments_loudness_start: shape = (931,)
+segments_pitches: shape = (931, 12)
+segments_start: shape = (931,)
+segments_timbre: shape = (931, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOCVDDL12A6D4F9A6C
+start_of_fade_out: 228.368
+tatums_confidence: shape = (1212,)
+tatums_start: shape = (1212,)
+tempo: 147.871
+time_signature: 4
+time_signature_confidence: 0.807
+title: What If
+track_7digitalid: 468283
+track_id: TRANXKN128F1485A3F
+year: 0

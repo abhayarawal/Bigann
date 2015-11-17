@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 229621
+artist_familiarity: 0.351182453883
+artist_hotttnesss: 0.0801669386642
+artist_id: AR051KA1187B98B2FF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9db08847-f7a8-4cd2-a425-3ab4adc5b4d3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Wilks
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 363482b8b1b2ad769cfa45a9ab887097
+bars_confidence: shape = (58,)
+bars_start: shape = (58,)
+beats_confidence: shape = (234,)
+beats_start: shape = (234,)
+danceability: 0.0
+duration: 163.99628
+end_of_fade_in: 0.421
+energy: 0.0
+key: 4
+key_confidence: 0.129
+loudness: -6.496
+mode: 0
+mode_confidence: 0.345
+release: U gotta believe
+release_7digitalid: 288459
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (676,)
+segments_loudness_max: shape = (676,)
+segments_loudness_max_time: shape = (676,)
+segments_loudness_start: shape = (676,)
+segments_pitches: shape = (676, 12)
+segments_start: shape = (676,)
+segments_timbre: shape = (676, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUCJNL12A8C134287
+start_of_fade_out: 158.801
+tatums_confidence: shape = (468,)
+tatums_start: shape = (468,)
+tempo: 85.981
+time_signature: 4
+time_signature_confidence: 1.0
+title: Psalm 27
+track_7digitalid: 3237719
+track_id: TRBGWJB128F4275C7B
+year: 0

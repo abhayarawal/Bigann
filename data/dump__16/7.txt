@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5907
+artist_familiarity: 0.538084829204
+artist_hotttnesss: 0.31350075537
+artist_id: AR8ACFK1187B9B4063
+artist_latitude: nan
+artist_location: New Orleans, LA
+artist_longitude: nan
+artist_mbid: 5849fa32-0283-4204-9d1b-507cfaf9d4a2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Champion Jack Dupree
+artist_playmeid: 19460
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 0c667c7f45bb0179cbbb52bef60932bb
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (335,)
+beats_start: shape = (335,)
+danceability: 0.0
+duration: 165.25016
+end_of_fade_in: 0.479
+energy: 0.0
+key: 11
+key_confidence: 0.137
+loudness: -12.325
+mode: 1
+mode_confidence: 0.443
+release: Champion Of The Blues
+release_7digitalid: 36379
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (581,)
+segments_loudness_max: shape = (581,)
+segments_loudness_max_time: shape = (581,)
+segments_loudness_start: shape = (581,)
+segments_pitches: shape = (581, 12)
+segments_start: shape = (581,)
+segments_timbre: shape = (581, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJOMNL12A6D4F872E
+start_of_fade_out: 161.321
+tatums_confidence: shape = (669,)
+tatums_start: shape = (669,)
+tempo: 121.375
+time_signature: 4
+time_signature_confidence: 1.0
+title: Snaps Drinking Woman (LP Version)
+track_7digitalid: 389946
+track_id: TRAFLYF128F1477D12
+year: 0

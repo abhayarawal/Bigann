@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15849
+artist_familiarity: 0.608018105915
+artist_hotttnesss: 0.28552323045
+artist_id: ARNQESK11F4C83FD6F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Beatnuts with Lil' Donny
+artist_playmeid: -1
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: f6df8b7731825bd4632517b48b6b0ba6
+bars_confidence: shape = (37,)
+bars_start: shape = (37,)
+beats_confidence: shape = (152,)
+beats_start: shape = (152,)
+danceability: 0.0
+duration: 78.65424
+end_of_fade_in: 0.2
+energy: 0.0
+key: 10
+key_confidence: 0.46
+loudness: -10.152
+mode: 0
+mode_confidence: 0.604
+release: A Musical Massacre (Explicit)
+release_7digitalid: 284078
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (370,)
+segments_loudness_max: shape = (370,)
+segments_loudness_max_time: shape = (370,)
+segments_loudness_start: shape = (370,)
+segments_pitches: shape = (370, 12)
+segments_start: shape = (370,)
+segments_timbre: shape = (370, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUCZVQ12A8C131FF0
+start_of_fade_out: 78.654
+tatums_confidence: shape = (304,)
+tatums_start: shape = (304,)
+tempo: 117.298
+time_signature: 4
+time_signature_confidence: 0.141
+title: Spelling Beatnuts with Lil' Donny
+track_7digitalid: 3187849
+track_id: TRBAHED128F426A1C2
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 35339
+artist_familiarity: 0.657826293473
+artist_hotttnesss: 0.446170543172
+artist_id: ARC7C241187B990F7F
+artist_latitude: 33.74831
+artist_location: Atlanta, GA
+artist_longitude: -84.39111
+artist_mbid: 66d8362f-4e4f-42be-a2ae-8b81eaa62ab9
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Becoming The Archetype
+artist_playmeid: 61398
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: a3f732d6b944c37de07679a3898cf190
+bars_confidence: shape = (136,)
+bars_start: shape = (136,)
+beats_confidence: shape = (547,)
+beats_start: shape = (547,)
+danceability: 0.0
+duration: 389.95546
+end_of_fade_in: 2.583
+energy: 0.0
+key: 2
+key_confidence: 0.391
+loudness: -4.757
+mode: 0
+mode_confidence: 0.449
+release: Dichotomy
+release_7digitalid: 343203
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1191,)
+segments_loudness_max: shape = (1191,)
+segments_loudness_max_time: shape = (1191,)
+segments_loudness_start: shape = (1191,)
+segments_pitches: shape = (1191, 12)
+segments_start: shape = (1191,)
+segments_timbre: shape = (1191, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.696230192727
+song_id: SOBREKP12AB017DD9B
+start_of_fade_out: 371.032
+tatums_confidence: shape = (2188,)
+tatums_start: shape = (2188,)
+tempo: 85.061
+time_signature: 4
+time_signature_confidence: 0.616
+title: End Of The Age
+track_7digitalid: 3843657
+track_id: TRAPDQG128F93018C0
+year: 2008

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7167
+artist_familiarity: 0.631741801713
+artist_hotttnesss: 0.464525450671
+artist_id: ARO3XZQ1187FB39351
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6f9cd8ed-7b45-4ad8-9844-8b3249165156
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cobra Killer
+artist_playmeid: -1
+artist_terms: shape = (50,)
+artist_terms_freq: shape = (50,)
+artist_terms_weight: shape = (50,)
+audio_md5: 41ce630d445314c8e2add263f9010bf6
+bars_confidence: shape = (50,)
+bars_start: shape = (50,)
+beats_confidence: shape = (159,)
+beats_start: shape = (159,)
+danceability: 0.0
+duration: 112.19546
+end_of_fade_in: 0.949
+energy: 0.0
+key: 3
+key_confidence: 0.461
+loudness: -10.672
+mode: 0
+mode_confidence: 0.416
+release: Cobra Killer
+release_7digitalid: 505423
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (354,)
+segments_loudness_max: shape = (354,)
+segments_loudness_max_time: shape = (354,)
+segments_loudness_start: shape = (354,)
+segments_pitches: shape = (354, 12)
+segments_start: shape = (354,)
+segments_timbre: shape = (354, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.340922755864
+song_id: SOVBLDE12AB017F8AF
+start_of_fade_out: 109.128
+tatums_confidence: shape = (478,)
+tatums_start: shape = (478,)
+tempo: 86.96
+time_signature: 3
+time_signature_confidence: 0.3
+title: Kick Jump - Part Jump
+track_7digitalid: 5592312
+track_id: TRAICBC128F932D9F6
+year: 1998

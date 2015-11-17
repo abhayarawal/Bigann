@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 143609
+artist_familiarity: 0.453085250099
+artist_hotttnesss: 0.382668086372
+artist_id: ARUHX3U1187FB57A44
+artist_latitude: 45.49919
+artist_location: South Whitney, IN
+artist_longitude: -78.24499
+artist_mbid: fd2a2e7a-c2fe-4046-963d-a1a5d863015b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Janie Fricke
+artist_playmeid: 16009
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 41d80b32fdf1a2782553015f60f1ab13
+bars_confidence: shape = (104,)
+bars_start: shape = (104,)
+beats_confidence: shape = (418,)
+beats_start: shape = (418,)
+danceability: 0.0
+duration: 194.5073
+end_of_fade_in: 0.549
+energy: 0.0
+key: 4
+key_confidence: 0.404
+loudness: -12.061
+mode: 1
+mode_confidence: 0.428
+release: American Legend
+release_7digitalid: 616346
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (705,)
+segments_loudness_max: shape = (705,)
+segments_loudness_max_time: shape = (705,)
+segments_loudness_start: shape = (705,)
+segments_pitches: shape = (705, 12)
+segments_start: shape = (705,)
+segments_timbre: shape = (705, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPFSDI12AAF3B4929
+start_of_fade_out: 188.947
+tatums_confidence: shape = (836,)
+tatums_start: shape = (836,)
+tempo: 130.02
+time_signature: 4
+time_signature_confidence: 0.881
+title: Let's Stop Talkin' About It
+track_7digitalid: 6850670
+track_id: TRAXXQA128F9301855
+year: 1999

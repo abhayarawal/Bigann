@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 245653
+artist_familiarity: 0.652508643707
+artist_hotttnesss: 0.493814429696
+artist_id: AR557N41187FB3E67F
+artist_latitude: 62.24049
+artist_location: Jyväskylä, Finland
+artist_longitude: 25.75129
+artist_mbid: 0f6df3f2-01f5-4d9a-a047-a76c907d7b66
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Swallow The Sun
+artist_playmeid: 160543
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: e8a17513742175ea385558ebdfa221bc
+bars_confidence: shape = (106,)
+bars_start: shape = (106,)
+beats_confidence: shape = (438,)
+beats_start: shape = (438,)
+danceability: 0.0
+duration: 377.75628
+end_of_fade_in: 0.136
+energy: 0.0
+key: 0
+key_confidence: 0.495
+loudness: -6.317
+mode: 0
+mode_confidence: 0.524
+release: New Moon
+release_7digitalid: 606388
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (648,)
+segments_loudness_max: shape = (648,)
+segments_loudness_max_time: shape = (648,)
+segments_loudness_start: shape = (648,)
+segments_pitches: shape = (648, 12)
+segments_start: shape = (648,)
+segments_timbre: shape = (648, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.649398113037
+song_id: SOPNFYY12AB01828D4
+start_of_fade_out: 337.711
+tatums_confidence: shape = (877,)
+tatums_start: shape = (877,)
+tempo: 71.758
+time_signature: 4
+time_signature_confidence: 0.85
+title: ...and Heavens Cried Blood
+track_7digitalid: 6737279
+track_id: TRANIUS12903D00EC7
+year: 2009

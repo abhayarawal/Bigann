@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8564
+artist_familiarity: 0.682268534551
+artist_hotttnesss: 0.458377718515
+artist_id: ARPYIBX1187B9B113E
+artist_latitude: 57.70133
+artist_location: Gothenburg
+artist_longitude: 11.96689
+artist_mbid: 35f92c4a-69d0-4ed1-ab9e-05259db89d14
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: At The Gates
+artist_playmeid: 51706
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: ca50ce39890747c1697adf574ac3dee4
+bars_confidence: shape = (824,)
+bars_start: shape = (824,)
+beats_confidence: shape = (824,)
+beats_start: shape = (824,)
+danceability: 0.0
+duration: 286.04036
+end_of_fade_in: 0.195
+energy: 0.0
+key: 7
+key_confidence: 0.144
+loudness: -8.068
+mode: 1
+mode_confidence: 0.439
+release: Gardens Of Grief
+release_7digitalid: 20473
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (826,)
+segments_loudness_max: shape = (826,)
+segments_loudness_max_time: shape = (826,)
+segments_loudness_start: shape = (826,)
+segments_pitches: shape = (826, 12)
+segments_start: shape = (826,)
+segments_timbre: shape = (826, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJEQCC12A6D4F7B01
+start_of_fade_out: 283.777
+tatums_confidence: shape = (1648,)
+tatums_start: shape = (1648,)
+tempo: 171.613
+time_signature: 1
+time_signature_confidence: 0.0
+title: City Of Screaming Statues
+track_7digitalid: 212595
+track_id: TRATGRG128F145310B
+year: 1991

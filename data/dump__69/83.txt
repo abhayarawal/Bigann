@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 414237
+artist_familiarity: 0.551680422049
+artist_hotttnesss: 0.394375719947
+artist_id: AR8LC1V1187B999F9B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 123001cb-840f-4038-8fe6-b08189c1fa97
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Greis
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 51160fb96f84f96c0070817a3d64e723
+bars_confidence: shape = (141,)
+bars_start: shape = (141,)
+beats_confidence: shape = (710,)
+beats_start: shape = (710,)
+danceability: 0.0
+duration: 275.30404
+end_of_fade_in: 0.113
+energy: 0.0
+key: 11
+key_confidence: 0.366
+loudness: -5.652
+mode: 0
+mode_confidence: 0.263
+release: 2
+release_7digitalid: 559500
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1116,)
+segments_loudness_max: shape = (1116,)
+segments_loudness_max_time: shape = (1116,)
+segments_loudness_start: shape = (1116,)
+segments_pitches: shape = (1116, 12)
+segments_start: shape = (1116,)
+segments_timbre: shape = (1116, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLQCJJ12AB0188587
+start_of_fade_out: 271.772
+tatums_confidence: shape = (1421,)
+tatums_start: shape = (1421,)
+tempo: 156.833
+time_signature: 5
+time_signature_confidence: 0.079
+title: Le Choix
+track_7digitalid: 6193586
+track_id: TRAXWFZ128F9349D17
+year: 0

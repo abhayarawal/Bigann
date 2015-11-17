@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6186
+artist_familiarity: 0.701180873608
+artist_hotttnesss: 0.466628888902
+artist_id: AR7TTS41187B9B42D3
+artist_latitude: 34.36401
+artist_location: Oxford, MS
+artist_longitude: -89.51877
+artist_mbid: 355eed00-6c40-4d33-940a-600b2597407a
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: R.L. Burnside
+artist_playmeid: 26588
+artist_terms: shape = (50,)
+artist_terms_freq: shape = (50,)
+artist_terms_weight: shape = (50,)
+audio_md5: f170c271b0583dda93bc2c0746cef673
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (409,)
+beats_start: shape = (409,)
+danceability: 0.0
+duration: 257.35791
+end_of_fade_in: 0.334
+energy: 0.0
+key: 11
+key_confidence: 0.0
+loudness: -9.584
+mode: 1
+mode_confidence: 0.0
+release: Mr. Wizard
+release_7digitalid: 815189
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (710,)
+segments_loudness_max: shape = (710,)
+segments_loudness_max_time: shape = (710,)
+segments_loudness_start: shape = (710,)
+segments_pitches: shape = (710, 12)
+segments_start: shape = (710,)
+segments_timbre: shape = (710, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.386477291255
+song_id: SOKLUBB12AB0182FDA
+start_of_fade_out: 257.358
+tatums_confidence: shape = (819,)
+tatums_start: shape = (819,)
+tempo: 95.56
+time_signature: 4
+time_signature_confidence: 0.0
+title: Over The Hill
+track_7digitalid: 9007155
+track_id: TRAJNTJ12903CDB09A
+year: 1997

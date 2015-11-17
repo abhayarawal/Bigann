@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4342
+artist_familiarity: 0.759912526334
+artist_hotttnesss: 0.673207274956
+artist_id: AR20CFC1187B98A25D
+artist_latitude: nan
+artist_location: Washington
+artist_longitude: nan
+artist_mbid: 8518b7af-5e33-498a-90c9-9fd772f4c422
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ray Charles
+artist_playmeid: 2093
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 46e59df28c844805b312264a3280817d
+bars_confidence: shape = (110,)
+bars_start: shape = (110,)
+beats_confidence: shape = (446,)
+beats_start: shape = (446,)
+danceability: 0.0
+duration: 170.00444
+end_of_fade_in: 0.084
+energy: 0.0
+key: 1
+key_confidence: 0.623
+loudness: -8.733
+mode: 1
+mode_confidence: 0.532
+release: When Jazz Was King
+release_7digitalid: 568216
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (596,)
+segments_loudness_max: shape = (596,)
+segments_loudness_max_time: shape = (596,)
+segments_loudness_start: shape = (596,)
+segments_pitches: shape = (596, 12)
+segments_start: shape = (596,)
+segments_timbre: shape = (596, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOHXAA12AB018A1D2
+start_of_fade_out: 163.254
+tatums_confidence: shape = (446,)
+tatums_start: shape = (446,)
+tempo: 154.332
+time_signature: 4
+time_signature_confidence: 0.968
+title: Heartbreaker
+track_7digitalid: 6291509
+track_id: TRALWNE12903C95228
+year: 0

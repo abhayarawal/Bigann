@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16269
+artist_familiarity: 0.700679841774
+artist_hotttnesss: 0.503362447997
+artist_id: ARML8X41187B990644
+artist_latitude: nan
+artist_location: Glasgow, Scotland
+artist_longitude: nan
+artist_mbid: f41490ce-fe39-435d-86c0-ab5ce098b423
+artist_mbtags: shape = (14,)
+artist_mbtags_count: shape = (14,)
+artist_name: Simple Minds
+artist_playmeid: 1445
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: fd41a43fac724f4355a16a7d79a50144
+bars_confidence: shape = (154,)
+bars_start: shape = (154,)
+beats_confidence: shape = (620,)
+beats_start: shape = (620,)
+danceability: 0.0
+duration: 352.44363
+end_of_fade_in: 0.194
+energy: 0.0
+key: 8
+key_confidence: 0.317
+loudness: -8.013
+mode: 1
+mode_confidence: 0.476
+release: Silver Box
+release_7digitalid: 533915
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1364,)
+segments_loudness_max: shape = (1364,)
+segments_loudness_max_time: shape = (1364,)
+segments_loudness_start: shape = (1364,)
+segments_pitches: shape = (1364, 12)
+segments_start: shape = (1364,)
+segments_timbre: shape = (1364, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHQASI12A58A78CDC
+start_of_fade_out: 329.979
+tatums_confidence: shape = (1240,)
+tatums_start: shape = (1240,)
+tempo: 106.136
+time_signature: 4
+time_signature_confidence: 0.295
+title: Hunter And The Hunted (Live)
+track_7digitalid: 5901002
+track_id: TRAQOOL128F93030A4
+year: 1983

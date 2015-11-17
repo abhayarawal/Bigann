@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 130660
+artist_familiarity: 0.60726012883
+artist_hotttnesss: 0.403000799032
+artist_id: ARUEYGC1187FB3D94B
+artist_latitude: 41.88415
+artist_location: Chicago, IL
+artist_longitude: -87.63241
+artist_mbid: daf21090-1c0f-46e6-bd76-9cd4d6ef7128
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Chi-Lites
+artist_playmeid: 71071
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: cb71c540ee4e84b305ed76eeb45b9551
+bars_confidence: shape = (96,)
+bars_start: shape = (96,)
+beats_confidence: shape = (388,)
+beats_start: shape = (388,)
+danceability: 0.0
+duration: 260.98893
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.556
+loudness: -9.588
+mode: 0
+mode_confidence: 0.533
+release: The Chi-Lites Selected Hits
+release_7digitalid: 465307
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1343,)
+segments_loudness_max: shape = (1343,)
+segments_loudness_max_time: shape = (1343,)
+segments_loudness_start: shape = (1343,)
+segments_pitches: shape = (1343, 12)
+segments_start: shape = (1343,)
+segments_timbre: shape = (1343, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPLOFR12AB01819B3
+start_of_fade_out: 250.717
+tatums_confidence: shape = (776,)
+tatums_start: shape = (776,)
+tempo: 90.101
+time_signature: 4
+time_signature_confidence: 0.319
+title: Love Of My Life
+track_7digitalid: 5177364
+track_id: TRAJSCW128F9335F78
+year: 0

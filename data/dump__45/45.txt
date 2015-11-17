@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 52280
+artist_familiarity: 0.803810767747
+artist_hotttnesss: 0.559925868569
+artist_id: ARS86AJ1187B9B4225
+artist_latitude: nan
+artist_location: Port Arthur, TX
+artist_longitude: nan
+artist_mbid: 76c9a186-75bd-436a-85c0-823e3efddb7f
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Janis Joplin
+artist_playmeid: 776
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 591f72f75723a69ec27f3d7fb3d9e504
+bars_confidence: shape = (60,)
+bars_start: shape = (60,)
+beats_confidence: shape = (258,)
+beats_start: shape = (258,)
+danceability: 0.0
+duration: 205.53098
+end_of_fade_in: 2.641
+energy: 0.0
+key: 0
+key_confidence: 0.589
+loudness: -10.514
+mode: 1
+mode_confidence: 0.616
+release: Cheap Thrills/Kozmic Blues/Pearl
+release_7digitalid: 290135
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (596,)
+segments_loudness_max: shape = (596,)
+segments_loudness_max_time: shape = (596,)
+segments_loudness_start: shape = (596,)
+segments_pitches: shape = (596, 12)
+segments_start: shape = (596,)
+segments_timbre: shape = (596, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVQOXC12CF546326C
+start_of_fade_out: 196.522
+tatums_confidence: shape = (515,)
+tatums_start: shape = (515,)
+tempo: 74.961
+time_signature: 4
+time_signature_confidence: 0.036
+title: Get It While You Can
+track_7digitalid: 3258212
+track_id: TRAPNDJ128F427AB8A
+year: 1971

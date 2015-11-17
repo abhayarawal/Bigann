@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18036
+artist_familiarity: 0.529788041081
+artist_hotttnesss: 0.420114180265
+artist_id: ARI0AB01187B9B7D94
+artist_latitude: nan
+artist_location: Reinerton, PA
+artist_longitude: nan
+artist_mbid: 3ffc8b31-cfe8-44c9-aa2e-e82d3355e9b3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Les Brown
+artist_playmeid: 17700
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 53060593755bf9775958a2024702ec97
+bars_confidence: shape = (69,)
+bars_start: shape = (69,)
+beats_confidence: shape = (280,)
+beats_start: shape = (280,)
+danceability: 0.0
+duration: 183.87546
+end_of_fade_in: 0.141
+energy: 0.0
+key: 10
+key_confidence: 0.032
+loudness: -17.087
+mode: 0
+mode_confidence: 0.114
+release: Classic Years of Les Brown
+release_7digitalid: 809177
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (687,)
+segments_loudness_max: shape = (687,)
+segments_loudness_max_time: shape = (687,)
+segments_loudness_start: shape = (687,)
+segments_pitches: shape = (687, 12)
+segments_start: shape = (687,)
+segments_timbre: shape = (687, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOZOHUQ12AB0187790
+start_of_fade_out: 176.327
+tatums_confidence: shape = (560,)
+tatums_start: shape = (560,)
+tempo: 95.073
+time_signature: 4
+time_signature_confidence: 1.0
+title: Dance of the Blue Devils
+track_7digitalid: 8947220
+track_id: TRBGEZL12903CCC7E2
+year: 0

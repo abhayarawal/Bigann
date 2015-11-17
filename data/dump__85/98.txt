@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 27798
+artist_familiarity: 0.520810395873
+artist_hotttnesss: 0.403490279552
+artist_id: AR81BPV1187B9AED0E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cb8b0935-af9d-4d26-8ceb-dbfeeaf75aad
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Fire Theft
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 6c47df8ac842834bcaab7578b24373e6
+bars_confidence: shape = (159,)
+bars_start: shape = (159,)
+beats_confidence: shape = (482,)
+beats_start: shape = (482,)
+danceability: 0.0
+duration: 223.37261
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.096
+loudness: -6.137
+mode: 1
+mode_confidence: 0.291
+release: The Fire Theft
+release_7digitalid: 38725
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (401,)
+segments_loudness_max: shape = (401,)
+segments_loudness_max_time: shape = (401,)
+segments_loudness_start: shape = (401,)
+segments_pitches: shape = (401, 12)
+segments_start: shape = (401,)
+segments_timbre: shape = (401, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.643470577243
+song_id: SOQIVUY12A6D4F8F74
+start_of_fade_out: 208.736
+tatums_confidence: shape = (964,)
+tatums_start: shape = (964,)
+tempo: 137.614
+time_signature: 3
+time_signature_confidence: 0.907
+title: Chain (Album Version)
+track_7digitalid: 414377
+track_id: TRBDNNY128F147C34C
+year: 2003

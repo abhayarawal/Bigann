@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 555616
+artist_familiarity: 0.428642712774
+artist_hotttnesss: 0.307570734733
+artist_id: ARW8K3V1187B9A4A14
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 180f38c5-7cbf-4510-b6fd-49a46bce6473
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Swans Of Avon
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 343e41d1ec4cca215ce23ff0db609108
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (409,)
+beats_start: shape = (409,)
+danceability: 0.0
+duration: 228.41424
+end_of_fade_in: 2.287
+energy: 0.0
+key: 2
+key_confidence: 0.644
+loudness: -5.996
+mode: 1
+mode_confidence: 0.525
+release: Alive
+release_7digitalid: 801715
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (729,)
+segments_loudness_max: shape = (729,)
+segments_loudness_max_time: shape = (729,)
+segments_loudness_start: shape = (729,)
+segments_pitches: shape = (729, 12)
+segments_start: shape = (729,)
+segments_timbre: shape = (729, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODAFAC12AB0184738
+start_of_fade_out: 218.918
+tatums_confidence: shape = (818,)
+tatums_start: shape = (818,)
+tempo: 109.994
+time_signature: 4
+time_signature_confidence: 0.857
+title: Shining
+track_7digitalid: 8866786
+track_id: TRBGERR12903CB8EE9
+year: 0

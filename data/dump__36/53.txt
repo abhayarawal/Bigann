@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11301
+artist_familiarity: 0.645192338747
+artist_hotttnesss: 0.471224329919
+artist_id: AR3THYK1187B999F1F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 286ec4c2-b5ca-4f85-b331-280a6d73dd14
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: João Gilberto
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 2890c7467513423c04e23791ed184421
+bars_confidence: shape = (76,)
+bars_start: shape = (76,)
+beats_confidence: shape = (423,)
+beats_start: shape = (423,)
+danceability: 0.0
+duration: 333.89669
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.0
+loudness: -32.331
+mode: 0
+mode_confidence: 0.161
+release: Live In Tokyo
+release_7digitalid: 55862
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (986,)
+segments_loudness_max: shape = (986,)
+segments_loudness_max_time: shape = (986,)
+segments_loudness_start: shape = (986,)
+segments_pitches: shape = (986, 12)
+segments_start: shape = (986,)
+segments_timbre: shape = (986, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOOVQIU12A6D4FB6C9
+start_of_fade_out: 325.114
+tatums_confidence: shape = (1271,)
+tatums_start: shape = (1271,)
+tempo: 76.953
+time_signature: 5
+time_signature_confidence: 0.361
+title: Meditacao
+track_7digitalid: 580263
+track_id: TRAMKQJ128F1499D81
+year: 0

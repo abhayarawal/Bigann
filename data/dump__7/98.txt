@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 14091
+artist_familiarity: 0.795402549275
+artist_hotttnesss: 0.544414589708
+artist_id: ARHU9211187B9B7E0E
+artist_latitude: nan
+artist_location: LA California
+artist_longitude: nan
+artist_mbid: e1564e98-978b-4947-8698-f6fd6f8b0181
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Fort Minor (Featuring Mr. Hahn)
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 9d3edbc6a6dafa34224e2b46bf289db4
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (352,)
+beats_start: shape = (352,)
+danceability: 0.0
+duration: 236.66893
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.58
+loudness: -6.475
+mode: 1
+mode_confidence: 0.548
+release: The Rising Tied
+release_7digitalid: 20797
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1060,)
+segments_loudness_max: shape = (1060,)
+segments_loudness_max_time: shape = (1060,)
+segments_loudness_start: shape = (1060,)
+segments_pitches: shape = (1060, 12)
+segments_start: shape = (1060,)
+segments_timbre: shape = (1060, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKWIDU12CF5F87DA3
+start_of_fade_out: 236.669
+tatums_confidence: shape = (1405,)
+tatums_start: shape = (1405,)
+tempo: 90.009
+time_signature: 4
+time_signature_confidence: 0.074
+title: Slip Out The Back (Album Version)
+track_7digitalid: 216233
+track_id: TRACPKD128F14539CD
+year: 2005

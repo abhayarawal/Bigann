@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 39330
+artist_familiarity: 0.524878486541
+artist_hotttnesss: 0.36741233742
+artist_id: ARHUIGM1187B9A5932
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 46a9a9f4-1c18-41ca-9440-a05e4f09f474
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Hot Boys
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 90c531d950933a1eefd82e5aa3ef0f5f
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (355,)
+beats_start: shape = (355,)
+danceability: 0.0
+duration: 227.94404
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.096
+loudness: -6.221
+mode: 0
+mode_confidence: 0.238
+release: Let Em' Burn
+release_7digitalid: 53676
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1199,)
+segments_loudness_max: shape = (1199,)
+segments_loudness_max_time: shape = (1199,)
+segments_loudness_start: shape = (1199,)
+segments_pitches: shape = (1199, 12)
+segments_start: shape = (1199,)
+segments_timbre: shape = (1199, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.405115721691
+song_id: SOIDEZW12A6D4F9655
+start_of_fade_out: 213.879
+tatums_confidence: shape = (1421,)
+tatums_start: shape = (1421,)
+tempo: 93.859
+time_signature: 4
+time_signature_confidence: 0.917
+title: Young Riders
+track_7digitalid: 559688
+track_id: TRBIFUD128F1495AE2
+year: 0

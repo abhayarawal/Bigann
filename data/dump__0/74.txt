@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4741
+artist_familiarity: 0.744641245933
+artist_hotttnesss: 0.579988982429
+artist_id: ARNLO5S1187B9B80CC
+artist_latitude: nan
+artist_location: Pasadena, CA
+artist_longitude: nan
+artist_mbid: b665b768-0d83-4363-950c-31ed39317c15
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Van Halen
+artist_playmeid: 54598
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 7dfecc8c2cb0171084e499f3f553c7cf
+bars_confidence: shape = (487,)
+bars_start: shape = (487,)
+beats_confidence: shape = (487,)
+beats_start: shape = (487,)
+danceability: 0.0
+duration: 209.29261
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.455
+loudness: -4.865
+mode: 1
+mode_confidence: 0.48
+release: The Best Of Both Worlds
+release_7digitalid: 7133
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (723,)
+segments_loudness_max: shape = (723,)
+segments_loudness_max_time: shape = (723,)
+segments_loudness_start: shape = (723,)
+segments_pitches: shape = (723, 12)
+segments_start: shape = (723,)
+segments_timbre: shape = (723, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.824482129682
+song_id: SOLRYQR12A670215BF
+start_of_fade_out: 206.623
+tatums_confidence: shape = (975,)
+tatums_start: shape = (975,)
+tempo: 140.995
+time_signature: 1
+time_signature_confidence: 0.41
+title: Panama (Remastered Album Version)
+track_7digitalid: 72173
+track_id: TRAAFYL128E07856A7
+year: 0

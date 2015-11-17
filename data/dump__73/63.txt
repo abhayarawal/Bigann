@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 431755
+artist_familiarity: 0.47135797835
+artist_hotttnesss: 0.283027088623
+artist_id: ARJMGMP124BAE72D46
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 795071f0-f110-41c8-aaee-f5ea7f460a4d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gerald Clayton
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 92b03eab4e4f73d5d81e97dcbfbfed07
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (491,)
+beats_start: shape = (491,)
+danceability: 0.0
+duration: 393.63873
+end_of_fade_in: 0.299
+energy: 0.0
+key: 4
+key_confidence: 0.339
+loudness: -14.232
+mode: 0
+mode_confidence: 0.38
+release: Two-Shade
+release_7digitalid: 580521
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1562,)
+segments_loudness_max: shape = (1562,)
+segments_loudness_max_time: shape = (1562,)
+segments_loudness_start: shape = (1562,)
+segments_pitches: shape = (1562, 12)
+segments_start: shape = (1562,)
+segments_timbre: shape = (1562, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.319565986883
+song_id: SOOIAPQ12AB018E44A
+start_of_fade_out: 381.933
+tatums_confidence: shape = (1473,)
+tatums_start: shape = (1473,)
+tempo: 76.425
+time_signature: 4
+time_signature_confidence: 0.541
+title: Scrimmage
+track_7digitalid: 6433617
+track_id: TRAZDHN12903CB7532
+year: 2009

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 102330
+artist_familiarity: 0.498676830397
+artist_hotttnesss: 0.354168954829
+artist_id: AR0QS8F1187B9ADC96
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 280697d2-164d-4477-971d-06b91e57c6a5
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Sandy Lam
+artist_playmeid: 39158
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 667a393c7d26c81e2b46780056d141f4
+bars_confidence: shape = (125,)
+bars_start: shape = (125,)
+beats_confidence: shape = (503,)
+beats_start: shape = (503,)
+danceability: 0.0
+duration: 220.15955
+end_of_fade_in: 0.247
+energy: 0.0
+key: 11
+key_confidence: 0.424
+loudness: -10.782
+mode: 1
+mode_confidence: 0.557
+release: Ben Se
+release_7digitalid: 165481
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (620,)
+segments_loudness_max: shape = (620,)
+segments_loudness_max_time: shape = (620,)
+segments_loudness_start: shape = (620,)
+segments_pitches: shape = (620, 12)
+segments_start: shape = (620,)
+segments_timbre: shape = (620, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJOICW12A8C13B533
+start_of_fade_out: 211.168
+tatums_confidence: shape = (503,)
+tatums_start: shape = (503,)
+tempo: 139.213
+time_signature: 4
+time_signature_confidence: 0.861
+title: Shi Guang Ben Shi Wu Zui
+track_7digitalid: 1752162
+track_id: TRAZFPJ128F428A40F
+year: 0

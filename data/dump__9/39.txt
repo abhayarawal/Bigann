@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7606
+artist_familiarity: 0.791465542177
+artist_hotttnesss: 0.477889303916
+artist_id: ARRJ3UC1187FB579D7
+artist_latitude: nan
+artist_location: Croix-des-Bouquets,  Haiti
+artist_longitude: nan
+artist_mbid: 4f29ecd7-21a5-4c03-b9ba-d0cfe9488f8c
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Wyclef Jean featuring Butch Cassidy and Sharissa
+artist_playmeid: 1706
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 281f06eff191459c894f177cdf98dc7d
+bars_confidence: shape = (727,)
+bars_start: shape = (727,)
+beats_confidence: shape = (727,)
+beats_start: shape = (727,)
+danceability: 0.0
+duration: 238.47138
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.668
+loudness: -3.947
+mode: 1
+mode_confidence: 0.509
+release: Masquerade
+release_7digitalid: 290113
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1037,)
+segments_loudness_max: shape = (1037,)
+segments_loudness_max_time: shape = (1037,)
+segments_loudness_start: shape = (1037,)
+segments_pitches: shape = (1037, 12)
+segments_start: shape = (1037,)
+segments_timbre: shape = (1037, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.400039656955
+song_id: SOPSDCQ12A8C135CB6
+start_of_fade_out: 227.097
+tatums_confidence: shape = (1454,)
+tatums_start: shape = (1454,)
+tempo: 183.58
+time_signature: 1
+time_signature_confidence: 0.795
+title: You Say Keep It Gangsta
+track_7digitalid: 3256093
+track_id: TRADCIM128F427A3A1
+year: 2002

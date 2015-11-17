@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15829
+artist_familiarity: 0.508421718375
+artist_hotttnesss: 0.335811920382
+artist_id: AR5T4YC1187FB5915E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 739bc995-11b9-4e39-94f9-f75b429da8fe
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Darwin's Waiting Room
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 251ed1999e89a1aee0bacef5f4779699
+bars_confidence: shape = (82,)
+bars_start: shape = (82,)
+beats_confidence: shape = (332,)
+beats_start: shape = (332,)
+danceability: 0.0
+duration: 197.51138
+end_of_fade_in: 0.469
+energy: 0.0
+key: 6
+key_confidence: 0.064
+loudness: -5.173
+mode: 1
+mode_confidence: 0.31
+release: Orphan
+release_7digitalid: 22404
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (640,)
+segments_loudness_max: shape = (640,)
+segments_loudness_max_time: shape = (640,)
+segments_loudness_start: shape = (640,)
+segments_pitches: shape = (640, 12)
+segments_start: shape = (640,)
+segments_timbre: shape = (640, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.617365617572
+song_id: SOJDYWJ12A6D4F3E34
+start_of_fade_out: 197.511
+tatums_confidence: shape = (1330,)
+tatums_start: shape = (1330,)
+tempo: 101.923
+time_signature: 4
+time_signature_confidence: 0.84
+title: Feel So Stupid (Table 9)
+track_7digitalid: 231510
+track_id: TRAEIKW128F1456B1A
+year: 2001

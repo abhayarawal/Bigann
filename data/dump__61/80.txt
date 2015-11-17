@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3117
+artist_familiarity: 0.856448923652
+artist_hotttnesss: 0.854637828218
+artist_id: ARPDVPJ1187B9ADBE9
+artist_latitude: nan
+artist_location: Atlanta, GA
+artist_longitude: nan
+artist_mbid: 3414d446-735a-443c-931f-10634f57e5b9
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Usher featuring Jermaine Dupri
+artist_playmeid: 1646
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: a1ed0251c534bfac796ec4efb3aa972b
+bars_confidence: shape = (129,)
+bars_start: shape = (129,)
+beats_confidence: shape = (519,)
+beats_start: shape = (519,)
+danceability: 0.0
+duration: 246.09914
+end_of_fade_in: 0.074
+energy: 0.0
+key: 6
+key_confidence: 0.752
+loudness: -6.708
+mode: 0
+mode_confidence: 0.797
+release: Here I Stand (Deluxe Version)
+release_7digitalid: 545913
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1013,)
+segments_loudness_max: shape = (1013,)
+segments_loudness_max_time: shape = (1013,)
+segments_loudness_start: shape = (1013,)
+segments_pitches: shape = (1013, 12)
+segments_start: shape = (1013,)
+segments_timbre: shape = (1013, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYEDIE12A8C142C36
+start_of_fade_out: 231.59
+tatums_confidence: shape = (1038,)
+tatums_start: shape = (1038,)
+tempo: 127.911
+time_signature: 4
+time_signature_confidence: 0.445
+title: Chivalry
+track_7digitalid: 6040521
+track_id: TRAVDCO128F9324A1D
+year: 0

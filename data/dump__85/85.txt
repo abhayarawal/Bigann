@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4260
+artist_familiarity: 0.84297210826
+artist_hotttnesss: 0.755334784437
+artist_id: ARML3X41187FB35F2E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 82eb8936-7bf6-4577-8320-a2639465206d
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Jason Mraz
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 879f3c5c51c00c8c864230874c403fac
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (480,)
+beats_start: shape = (480,)
+danceability: 0.0
+duration: 218.22649
+end_of_fade_in: 0.467
+energy: 0.0
+key: 5
+key_confidence: 0.75
+loudness: -8.485
+mode: 0
+mode_confidence: 0.744
+release: We Sing.  We Dance.  We Steal Things.
+release_7digitalid: 241960
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (959,)
+segments_loudness_max: shape = (959,)
+segments_loudness_max_time: shape = (959,)
+segments_loudness_start: shape = (959,)
+segments_pitches: shape = (959, 12)
+segments_start: shape = (959,)
+segments_timbre: shape = (959, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.356201915923
+song_id: SOXPJDT12A8C131F4D
+start_of_fade_out: 209.374
+tatums_confidence: shape = (1441,)
+tatums_start: shape = (1441,)
+tempo: 133.3
+time_signature: 5
+time_signature_confidence: 0.906
+title: Coyotes (Album Version)
+track_7digitalid: 2638604
+track_id: TRBDMWS128F423A021
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 107468
+artist_familiarity: 0.501544777104
+artist_hotttnesss: 0.392733675547
+artist_id: ARGUVEV1187B98BA17
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 017f5df4-c30c-4799-95f7-997bd5b88df7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sierra Maestra
+artist_playmeid: 185183
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 6fa01cec2b6d49a6c5ad6e2a7bd879e2
+bars_confidence: shape = (610,)
+bars_start: shape = (610,)
+beats_confidence: shape = (610,)
+beats_start: shape = (610,)
+danceability: 0.0
+duration: 318.56281
+end_of_fade_in: 0.223
+energy: 0.0
+key: 2
+key_confidence: 0.792
+loudness: -10.11
+mode: 0
+mode_confidence: 0.793
+release: ¡Dundunbanza!
+release_7digitalid: 270297
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1249,)
+segments_loudness_max: shape = (1249,)
+segments_loudness_max_time: shape = (1249,)
+segments_loudness_start: shape = (1249,)
+segments_pitches: shape = (1249, 12)
+segments_start: shape = (1249,)
+segments_timbre: shape = (1249, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOTRCOC12A6D4F868C
+start_of_fade_out: 313.162
+tatums_confidence: shape = (1221,)
+tatums_start: shape = (1221,)
+tempo: 117.766
+time_signature: 1
+time_signature_confidence: 0.0
+title: No Me Llores Más
+track_7digitalid: 3003393
+track_id: TRALERB128F4243938
+year: 1994

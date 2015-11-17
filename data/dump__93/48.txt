@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 240125
+artist_familiarity: 0.588932085853
+artist_hotttnesss: 0.349366361109
+artist_id: ARWV0Q11187FB4CDCE
+artist_latitude: nan
+artist_location: Austin, TX
+artist_longitude: nan
+artist_mbid: 0bccb6e4-b43b-4b3c-ac1c-1f4b065f6edc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Arc Angels
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 6f7969fbe39bdd9330bbf72c918f38ef
+bars_confidence: shape = (257,)
+bars_start: shape = (257,)
+beats_confidence: shape = (780,)
+beats_start: shape = (780,)
+danceability: 0.0
+duration: 386.79465
+end_of_fade_in: 0.173
+energy: 0.0
+key: 8
+key_confidence: 0.37
+loudness: -10.118
+mode: 1
+mode_confidence: 0.363
+release: Arc Angels
+release_7digitalid: 309890
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (905,)
+segments_loudness_max: shape = (905,)
+segments_loudness_max_time: shape = (905,)
+segments_loudness_start: shape = (905,)
+segments_pitches: shape = (905, 12)
+segments_start: shape = (905,)
+segments_timbre: shape = (905, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.473346541109
+song_id: SOAPTWU12A8C1409CB
+start_of_fade_out: 374.015
+tatums_confidence: shape = (1561,)
+tatums_start: shape = (1561,)
+tempo: 125.787
+time_signature: 3
+time_signature_confidence: 0.988
+title: See What Tomorrow Brings
+track_7digitalid: 3505055
+track_id: TRBGGYE128F42B63AB
+year: 1992

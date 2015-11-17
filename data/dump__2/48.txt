@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 438878
+artist_familiarity: 0.599019958752
+artist_hotttnesss: 0.374862616363
+artist_id: AREW1KO1187B98E42E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c2545eb8-62c0-477d-aba8-4b7c404be478
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Irish Tenors
+artist_playmeid: 181513
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 9f08fa14a35a0f0a1adf045d9b593cf8
+bars_confidence: shape = (61,)
+bars_start: shape = (61,)
+beats_confidence: shape = (248,)
+beats_start: shape = (248,)
+danceability: 0.0
+duration: 100.85832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.045
+loudness: -19.794
+mode: 1
+mode_confidence: 0.344
+release: Live From Dublin
+release_7digitalid: 785416
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (287,)
+segments_loudness_max: shape = (287,)
+segments_loudness_max_time: shape = (287,)
+segments_loudness_start: shape = (287,)
+segments_pitches: shape = (287, 12)
+segments_start: shape = (287,)
+segments_timbre: shape = (287, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOBMHTY12AC9097B7C
+start_of_fade_out: 100.858
+tatums_confidence: shape = (248,)
+tatums_start: shape = (248,)
+tempo: 152.258
+time_signature: 4
+time_signature_confidence: 0.487
+title: Mountains Of Mourne
+track_7digitalid: 8689170
+track_id: TRAATLC12903D0172B
+year: 0

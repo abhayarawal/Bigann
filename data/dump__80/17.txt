@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 338633
+artist_familiarity: 0.315307851432
+artist_hotttnesss: 0.229738498266
+artist_id: ARLV03V1187B9A33A9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 38a2f32e-0304-4851-9807-9d7f84b12851
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Djelimady Tounkara
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: e08761472d373dd203e2d78c0aabbf1f
+bars_confidence: shape = (293,)
+bars_start: shape = (293,)
+beats_confidence: shape = (1176,)
+beats_start: shape = (1176,)
+danceability: 0.0
+duration: 487.33995
+end_of_fade_in: 0.392
+energy: 0.0
+key: 0
+key_confidence: 0.654
+loudness: -9.777
+mode: 1
+mode_confidence: 0.617
+release: Solon kôno
+release_7digitalid: 321338
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (2112,)
+segments_loudness_max: shape = (2112,)
+segments_loudness_max_time: shape = (2112,)
+segments_loudness_start: shape = (2112,)
+segments_pitches: shape = (2112, 12)
+segments_start: shape = (2112,)
+segments_timbre: shape = (2112, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.229144103717
+song_id: SOHUHHZ12AAA15E72E
+start_of_fade_out: 476.746
+tatums_confidence: shape = (2352,)
+tatums_start: shape = (2352,)
+tempo: 145.93
+time_signature: 4
+time_signature_confidence: 0.652
+title: Sarankégni
+track_7digitalid: 3619285
+track_id: TRBBLGX128F92D46B8
+year: 2005

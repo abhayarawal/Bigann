@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 54843
+artist_familiarity: 0.477295628581
+artist_hotttnesss: 0.350349276721
+artist_id: ARSPUHE1187B99DB8A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 625e171a-6bca-4f91-9b78-7078ef52ab25
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Frank Marino & Mahogany Rush
+artist_playmeid: 15871
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 733e235cf5e746b81bd47dbf21a93feb
+bars_confidence: shape = (193,)
+bars_start: shape = (193,)
+beats_confidence: shape = (776,)
+beats_start: shape = (776,)
+danceability: 0.0
+duration: 336.79628
+end_of_fade_in: 2.763
+energy: 0.0
+key: 2
+key_confidence: 0.684
+loudness: -8.978
+mode: 1
+mode_confidence: 0.504
+release: Tales Of The Unexpected
+release_7digitalid: 283653
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1156,)
+segments_loudness_max: shape = (1156,)
+segments_loudness_max_time: shape = (1156,)
+segments_loudness_start: shape = (1156,)
+segments_pitches: shape = (1156, 12)
+segments_start: shape = (1156,)
+segments_timbre: shape = (1156, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLCFZV12A8C131BB7
+start_of_fade_out: 336.796
+tatums_confidence: shape = (2329,)
+tatums_start: shape = (2329,)
+tempo: 139.499
+time_signature: 4
+time_signature_confidence: 0.0
+title: Down_ Down_ Down
+track_7digitalid: 3173547
+track_id: TRAJGGH128F42679C1
+year: 0

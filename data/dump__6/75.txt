@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7962
+artist_familiarity: 0.595811746777
+artist_hotttnesss: 0.387113765389
+artist_id: AR9RTS51187B996CC8
+artist_latitude: 19.59009
+artist_location: Hawaii
+artist_longitude: -155.43414
+artist_mbid: 73aaebf1-c6a4-4211-9089-62e65f9e199a
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: John Legend [feat. Buju Banton]
+artist_playmeid: 146844
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 98fc525985949d99a242e71589bc8f21
+bars_confidence: shape = (124,)
+bars_start: shape = (124,)
+beats_confidence: shape = (499,)
+beats_start: shape = (499,)
+danceability: 0.0
+duration: 184.73751
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.578
+loudness: -7.397
+mode: 1
+mode_confidence: 0.363
+release: Strictly The Best Vol. 40
+release_7digitalid: 646216
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (679,)
+segments_loudness_max: shape = (679,)
+segments_loudness_max_time: shape = (679,)
+segments_loudness_start: shape = (679,)
+segments_pitches: shape = (679, 12)
+segments_start: shape = (679,)
+segments_timbre: shape = (679, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONIVCV12AB017FEED
+start_of_fade_out: 177.325
+tatums_confidence: shape = (999,)
+tatums_start: shape = (999,)
+tempo: 162.876
+time_signature: 4
+time_signature_confidence: 0.043
+title: Fall In Love [Rub A Dub Mix]
+track_7digitalid: 7159571
+track_id: TRACFJE128F934C8D5
+year: 0

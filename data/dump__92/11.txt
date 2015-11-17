@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3099
+artist_familiarity: 0.676755655323
+artist_hotttnesss: 0.543706050517
+artist_id: ARVZDOM1187B9B49C9
+artist_latitude: nan
+artist_location: Brooklyn, NY
+artist_longitude: nan
+artist_mbid: 7bb60591-46f3-4147-b692-1814a87e832e
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Barry Manilow
+artist_playmeid: 2158
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: e15bf6860daa72c6f68c45cabd9e1b8a
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (483,)
+beats_start: shape = (483,)
+danceability: 0.0
+duration: 247.24853
+end_of_fade_in: 0.177
+energy: 0.0
+key: 4
+key_confidence: 0.345
+loudness: -7.518
+mode: 0
+mode_confidence: 0.439
+release: Here At The Mayflower
+release_7digitalid: 318959
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (820,)
+segments_loudness_max: shape = (820,)
+segments_loudness_max_time: shape = (820,)
+segments_loudness_start: shape = (820,)
+segments_pitches: shape = (820, 12)
+segments_start: shape = (820,)
+segments_timbre: shape = (820, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.239629097774
+song_id: SOUXUOP12A8C14318F
+start_of_fade_out: 234.899
+tatums_confidence: shape = (966,)
+tatums_start: shape = (966,)
+tempo: 120.08
+time_signature: 4
+time_signature_confidence: 1.0
+title: Say Goodbye
+track_7digitalid: 3598753
+track_id: TRBFUSW128F92D0357
+year: 0

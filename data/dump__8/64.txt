@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 125847
+artist_familiarity: 0.611933956413
+artist_hotttnesss: 0.372350869597
+artist_id: AR9788H1187B9A05D1
+artist_latitude: 39.95227
+artist_location: Philadelphia, PA
+artist_longitude: -75.16237
+artist_mbid: 62cc0dfc-52b8-4434-ba8c-937c47ef7ada
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Outerspace
+artist_playmeid: 69958
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 43f688bd6db4a50923d8e1d179d04782
+bars_confidence: shape = (149,)
+bars_start: shape = (149,)
+beats_confidence: shape = (601,)
+beats_start: shape = (601,)
+danceability: 0.0
+duration: 200.9073
+end_of_fade_in: 0.36
+energy: 0.0
+key: 10
+key_confidence: 0.476
+loudness: -4.982
+mode: 0
+mode_confidence: 0.474
+release: Blood Brothers
+release_7digitalid: 164678
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (887,)
+segments_loudness_max: shape = (887,)
+segments_loudness_max_time: shape = (887,)
+segments_loudness_start: shape = (887,)
+segments_pitches: shape = (887, 12)
+segments_start: shape = (887,)
+segments_timbre: shape = (887, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.440826440499
+song_id: SORCPSR12A8C13E228
+start_of_fade_out: 194.171
+tatums_confidence: shape = (1202,)
+tatums_start: shape = (1202,)
+tempo: 181.889
+time_signature: 4
+time_signature_confidence: 0.577
+title: Drive By Music
+track_7digitalid: 1745335
+track_id: TRACVTK128F4288966
+year: 2006

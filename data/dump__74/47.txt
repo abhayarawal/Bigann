@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7694
+artist_familiarity: 0.498414133308
+artist_hotttnesss: 0.326008873279
+artist_id: ARHINI31187B995C1D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: da3df0b1-1945-455b-beb7-701cf76a4da4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Singing Melody
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 8d99f040af65d89662e2d67d6a2cdd4c
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (392,)
+beats_start: shape = (392,)
+danceability: 0.0
+duration: 224.02567
+end_of_fade_in: 1.548
+energy: 0.0
+key: 7
+key_confidence: 0.541
+loudness: -6.007
+mode: 1
+mode_confidence: 0.581
+release: Candy Cane Riddim
+release_7digitalid: 809851
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (849,)
+segments_loudness_max: shape = (849,)
+segments_loudness_max_time: shape = (849,)
+segments_loudness_start: shape = (849,)
+segments_pitches: shape = (849, 12)
+segments_start: shape = (849,)
+segments_timbre: shape = (849, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYGZPA12AB0188EF2
+start_of_fade_out: 210.175
+tatums_confidence: shape = (784,)
+tatums_start: shape = (784,)
+tempo: 109.045
+time_signature: 4
+time_signature_confidence: 1.0
+title: You're All I Need
+track_7digitalid: 8955385
+track_id: TRAZLFL12903CCE70E
+year: 0

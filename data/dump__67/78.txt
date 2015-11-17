@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 361787
+artist_familiarity: 0.68012382912
+artist_hotttnesss: 0.39871394817
+artist_id: ARZDQ3N1187FB5978B
+artist_latitude: nan
+artist_location: Beverly, Massachusetts
+artist_longitude: nan
+artist_mbid: f8a5d80c-a6b7-414c-9482-c5d710171622
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Caspian
+artist_playmeid: -1
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: b105031abb12d746c46bf28838e351a5
+bars_confidence: shape = (273,)
+bars_start: shape = (273,)
+beats_confidence: shape = (273,)
+beats_start: shape = (273,)
+danceability: 0.0
+duration: 125.07383
+end_of_fade_in: 2.659
+energy: 0.0
+key: 7
+key_confidence: 0.228
+loudness: -23.246
+mode: 1
+mode_confidence: 0.322
+release: The Four Trees
+release_7digitalid: 496974
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (219,)
+segments_loudness_max: shape = (219,)
+segments_loudness_max_time: shape = (219,)
+segments_loudness_start: shape = (219,)
+segments_pitches: shape = (219, 12)
+segments_start: shape = (219,)
+segments_timbre: shape = (219, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.690815802764
+song_id: SOXSYXR12AB017D599
+start_of_fade_out: 108.437
+tatums_confidence: shape = (547,)
+tatums_start: shape = (547,)
+tempo: 131.648
+time_signature: 1
+time_signature_confidence: 0.0
+title: The Dropsonde
+track_7digitalid: 5502924
+track_id: TRAXDFV128F93180C0
+year: 2007

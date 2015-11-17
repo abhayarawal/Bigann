@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 88802
+artist_familiarity: 0.697887822017
+artist_hotttnesss: 0.435144671678
+artist_id: AR6GJDZ1187B991E46
+artist_latitude: 19.4319
+artist_location: Mexico City, Mexico
+artist_longitude: -99.13285
+artist_mbid: 018886d9-0519-483b-8020-c8b11cd7308c
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: KALIMBA
+artist_playmeid: 10126
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 575f5f6df3a2aa2fddfee4157a9b0920
+bars_confidence: shape = (64,)
+bars_start: shape = (64,)
+beats_confidence: shape = (325,)
+beats_start: shape = (325,)
+danceability: 0.0
+duration: 297.63873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.328
+loudness: -5.985
+mode: 1
+mode_confidence: 0.378
+release: Amar y Querer (Homenaje a Las Grandes Canciones)
+release_7digitalid: 662932
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (951,)
+segments_loudness_max: shape = (951,)
+segments_loudness_max_time: shape = (951,)
+segments_loudness_start: shape = (951,)
+segments_pitches: shape = (951, 12)
+segments_start: shape = (951,)
+segments_timbre: shape = (951, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.450762241641
+song_id: SOCFLRU12AB018B0E2
+start_of_fade_out: 297.639
+tatums_confidence: shape = (974,)
+tatums_start: shape = (974,)
+tempo: 65.246
+time_signature: 4
+time_signature_confidence: 0.59
+title: Al Final
+track_7digitalid: 7353093
+track_id: TRAYIFW12903CA9F1B
+year: 2009

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 29168
+artist_familiarity: 0.490586401871
+artist_hotttnesss: 0.351022620795
+artist_id: ARQMYTM1187FB4678C
+artist_latitude: 36.06899
+artist_location: Greensboro, NC
+artist_longitude: -79.7947
+artist_mbid: f0b3af36-a38b-4e5e-bf9a-d25ae11ca741
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Josh White
+artist_playmeid: 7521
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: b5d8db7d07f58654b6faa4e3500b1bb5
+bars_confidence: shape = (388,)
+bars_start: shape = (388,)
+beats_confidence: shape = (388,)
+beats_start: shape = (388,)
+danceability: 0.0
+duration: 181.49832
+end_of_fade_in: 0.386
+energy: 0.0
+key: 8
+key_confidence: 0.785
+loudness: -18.449
+mode: 1
+mode_confidence: 0.698
+release: Josh White Vol. 3 1935-1940
+release_7digitalid: 174698
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (574,)
+segments_loudness_max: shape = (574,)
+segments_loudness_max_time: shape = (574,)
+segments_loudness_start: shape = (574,)
+segments_pitches: shape = (574, 12)
+segments_start: shape = (574,)
+segments_timbre: shape = (574, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCKHZY12A8C142F79
+start_of_fade_out: 175.09
+tatums_confidence: shape = (776,)
+tatums_start: shape = (776,)
+tempo: 133.972
+time_signature: 1
+time_signature_confidence: 0.0
+title: My Soul Is Gonna Live With God
+track_7digitalid: 1873289
+track_id: TRANBWB128F429FB03
+year: 0

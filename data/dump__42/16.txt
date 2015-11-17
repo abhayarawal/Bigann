@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 252034
+artist_familiarity: 0.448025345538
+artist_hotttnesss: 0.393622171732
+artist_id: AR7CCS31187B98C531
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b680492b-1c40-4a57-845e-4d1e57f2f0f5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tom Barabas
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: ffd17229ad87624bf2a11ace370446aa
+bars_confidence: shape = (185,)
+bars_start: shape = (185,)
+beats_confidence: shape = (744,)
+beats_start: shape = (744,)
+danceability: 0.0
+duration: 455.02649
+end_of_fade_in: 0.438
+energy: 0.0
+key: 2
+key_confidence: 0.684
+loudness: -17.604
+mode: 1
+mode_confidence: 0.964
+release: Classical Healing - Tom Barabas
+release_7digitalid: 536681
+sections_confidence: shape = (29,)
+sections_start: shape = (29,)
+segments_confidence: shape = (1088,)
+segments_loudness_max: shape = (1088,)
+segments_loudness_max_time: shape = (1088,)
+segments_loudness_start: shape = (1088,)
+segments_pitches: shape = (1088, 12)
+segments_start: shape = (1088,)
+segments_timbre: shape = (1088, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.239629097774
+song_id: SOSXSIN12AB0180963
+start_of_fade_out: 443.71
+tatums_confidence: shape = (1489,)
+tatums_start: shape = (1489,)
+tempo: 100.148
+time_signature: 4
+time_signature_confidence: 1.0
+title: Canon In D
+track_7digitalid: 5936326
+track_id: TRAOIDA128F930B9F9
+year: 0

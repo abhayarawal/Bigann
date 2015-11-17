@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17442
+artist_familiarity: 0.42288755669
+artist_hotttnesss: 0.29624881058
+artist_id: AR9E43L1187FB566FA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 27c24ef3-a0c6-41d3-b704-21bbe769e744
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Steve Chou
+artist_playmeid: 128703
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: d8c850fd6825b6d2e4369245a469d0af
+bars_confidence: shape = (53,)
+bars_start: shape = (53,)
+beats_confidence: shape = (231,)
+beats_start: shape = (231,)
+danceability: 0.0
+duration: 214.93506
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.599
+loudness: -12.626
+mode: 1
+mode_confidence: 0.646
+release: Lian Ren Chuang Shi Ji
+release_7digitalid: 746875
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (543,)
+segments_loudness_max: shape = (543,)
+segments_loudness_max_time: shape = (543,)
+segments_loudness_start: shape = (543,)
+segments_pitches: shape = (543, 12)
+segments_start: shape = (543,)
+segments_timbre: shape = (543, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTZYEK12AC468911E
+start_of_fade_out: 205.769
+tatums_confidence: shape = (462,)
+tatums_start: shape = (462,)
+tempo: 66.931
+time_signature: 4
+time_signature_confidence: 0.457
+title: Wo Men De Fei Leng Cui
+track_7digitalid: 8266050
+track_id: TRAFURE12903D1135B
+year: 0

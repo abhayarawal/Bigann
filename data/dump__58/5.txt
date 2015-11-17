@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 109333
+artist_familiarity: 0.379734511746
+artist_hotttnesss: 0.31386609958
+artist_id: ARY1P2B1187B9B78F5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d4a76953-f4fa-4a49-a0ea-b05eac61f8e8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mariano Yanani
+artist_playmeid: 53027
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: 8ae8697554ed6ecdfb0deddb6dfd55b0
+bars_confidence: shape = (55,)
+bars_start: shape = (55,)
+beats_confidence: shape = (236,)
+beats_start: shape = (236,)
+danceability: 0.0
+duration: 180.71465
+end_of_fade_in: 2.432
+energy: 0.0
+key: 8
+key_confidence: 0.758
+loudness: -18.018
+mode: 1
+mode_confidence: 0.761
+release: Babies Go Sting
+release_7digitalid: 154488
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (615,)
+segments_loudness_max: shape = (615,)
+segments_loudness_max_time: shape = (615,)
+segments_loudness_start: shape = (615,)
+segments_pitches: shape = (615, 12)
+segments_start: shape = (615,)
+segments_timbre: shape = (615, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SODOYEJ12A8C136B43
+start_of_fade_out: 169.244
+tatums_confidence: shape = (472,)
+tatums_start: shape = (472,)
+tempo: 80.008
+time_signature: 4
+time_signature_confidence: 0.0
+title: Why Should I Cry For You
+track_7digitalid: 1614222
+track_id: TRATUJR128F42693E6
+year: 2005

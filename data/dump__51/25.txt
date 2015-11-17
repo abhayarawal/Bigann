@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 127905
+artist_familiarity: 0.473486936345
+artist_hotttnesss: 0.219369574912
+artist_id: ARWENXU12454A2DE56
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: CoCo Lee
+artist_playmeid: 12972
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 321f2db25921d64590b434ce81310956
+bars_confidence: shape = (127,)
+bars_start: shape = (127,)
+beats_confidence: shape = (525,)
+beats_start: shape = (525,)
+danceability: 0.0
+duration: 310.54322
+end_of_fade_in: 0.537
+energy: 0.0
+key: 4
+key_confidence: 0.19
+loudness: -8.933
+mode: 0
+mode_confidence: 0.36
+release: Everyone Love The Live Concert Of Ms. Charming CoCo
+release_7digitalid: 550727
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1078,)
+segments_loudness_max: shape = (1078,)
+segments_loudness_max_time: shape = (1078,)
+segments_loudness_start: shape = (1078,)
+segments_pitches: shape = (1078, 12)
+segments_start: shape = (1078,)
+segments_timbre: shape = (1078, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHVQGL12AB01810AD
+start_of_fade_out: 303.839
+tatums_confidence: shape = (1050,)
+tatums_start: shape = (1050,)
+tempo: 100.82
+time_signature: 4
+time_signature_confidence: 0.697
+title: Killing Me Softly With His Song
+track_7digitalid: 6089322
+track_id: TRARMLZ128F9330684
+year: 0

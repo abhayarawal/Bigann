@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1613
+artist_familiarity: 0.832011769132
+artist_hotttnesss: 0.694128502959
+artist_id: ARC8CQZ1187B98DECA
+artist_latitude: nan
+artist_location: Galveston, TX
+artist_longitude: nan
+artist_mbid: ff6e677f-91dd-4986-a174-8db0474b1799
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Jack Johnson
+artist_playmeid: 759
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 66e0ed7a99c06061c3ed1b3c6e283fe5
+bars_confidence: shape = (125,)
+bars_start: shape = (125,)
+beats_confidence: shape = (503,)
+beats_start: shape = (503,)
+danceability: 0.0
+duration: 207.09832
+end_of_fade_in: 3.193
+energy: 0.0
+key: 11
+key_confidence: 0.559
+loudness: -15.218
+mode: 0
+mode_confidence: 0.251
+release: Brushfire Fairytales
+release_7digitalid: 14580
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (752,)
+segments_loudness_max: shape = (752,)
+segments_loudness_max_time: shape = (752,)
+segments_loudness_start: shape = (752,)
+segments_pitches: shape = (752, 12)
+segments_start: shape = (752,)
+segments_timbre: shape = (752, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONJNMA12A6701DFDE
+start_of_fade_out: 203.627
+tatums_confidence: shape = (1006,)
+tatums_start: shape = (1006,)
+tempo: 147.602
+time_signature: 4
+time_signature_confidence: 0.0
+title: Inaudible Melodies
+track_7digitalid: 151554
+track_id: TRBBCUA128E078FA50
+year: 2000

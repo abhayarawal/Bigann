@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10152
+artist_familiarity: 0.589259678209
+artist_hotttnesss: 0.389589781113
+artist_id: AR8XG9J1187FB418C1
+artist_latitude: 33.54243
+artist_location: Sunflower, MS
+artist_longitude: -90.53727
+artist_mbid: fec55784-ff5c-4992-83dd-1f7c4b10c6bf
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jerry Butler
+artist_playmeid: 12640
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 84139a197bb23182e560686589cd86ff
+bars_confidence: shape = (242,)
+bars_start: shape = (242,)
+beats_confidence: shape = (242,)
+beats_start: shape = (242,)
+danceability: 0.0
+duration: 167.18322
+end_of_fade_in: 1.019
+energy: 0.0
+key: 11
+key_confidence: 0.204
+loudness: -18.341
+mode: 1
+mode_confidence: 0.305
+release: Spotlight On Jerry Butler
+release_7digitalid: 342182
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (560,)
+segments_loudness_max: shape = (560,)
+segments_loudness_max_time: shape = (560,)
+segments_loudness_start: shape = (560,)
+segments_pitches: shape = (560, 12)
+segments_start: shape = (560,)
+segments_timbre: shape = (560, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCTKFG12AB017D983
+start_of_fade_out: 160.705
+tatums_confidence: shape = (726,)
+tatums_start: shape = (726,)
+tempo: 87.758
+time_signature: 1
+time_signature_confidence: 1.0
+title: He Will Break Your Heart
+track_7digitalid: 3831218
+track_id: TRAGVTG128F92FE9E2
+year: 1960

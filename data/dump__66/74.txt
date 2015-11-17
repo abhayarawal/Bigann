@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 374845
+artist_familiarity: 0.52059980066
+artist_hotttnesss: 0.338074486151
+artist_id: ARA8X3M1187B9A13CA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ed3a4c09-ccd0-45cf-830d-7553689f0824
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Aphasia
+artist_playmeid: -1
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 34b4e40b291cb6a6a31048a55ffa3e41
+bars_confidence: shape = (189,)
+bars_start: shape = (189,)
+beats_confidence: shape = (1094,)
+beats_start: shape = (1094,)
+danceability: 0.0
+duration: 984.55465
+end_of_fade_in: 0.467
+energy: 0.0
+key: 1
+key_confidence: 0.571
+loudness: -4.177
+mode: 1
+mode_confidence: 0.553
+release: Brain Patch Error
+release_7digitalid: 517480
+sections_confidence: shape = (31,)
+sections_start: shape = (31,)
+segments_confidence: shape = (3844,)
+segments_loudness_max: shape = (3844,)
+segments_loudness_max_time: shape = (3844,)
+segments_loudness_start: shape = (3844,)
+segments_pitches: shape = (3844, 12)
+segments_start: shape = (3844,)
+segments_timbre: shape = (3844, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORXUZT12AB018AC61
+start_of_fade_out: 979.952
+tatums_confidence: shape = (3281,)
+tatums_start: shape = (3281,)
+tempo: 65.009
+time_signature: 4
+time_signature_confidence: 0.699
+title: mixture of noize (part two: "walter sobchak" - live extract)
+track_7digitalid: 5728443
+track_id: TRAWTLE128F934E648
+year: 2001

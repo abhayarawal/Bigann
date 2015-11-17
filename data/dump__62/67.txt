@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22081
+artist_familiarity: 0.520757634637
+artist_hotttnesss: 0.404566537526
+artist_id: ARG4KW31187FB51B7C
+artist_latitude: nan
+artist_location: United Kingdom
+artist_longitude: nan
+artist_mbid: 5cf54b1a-831f-4cfc-b946-41131c463fc1
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Atomic Rooster
+artist_playmeid: 109185
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: e05d64741efd1d2e3719753551208eac
+bars_confidence: shape = (72,)
+bars_start: shape = (72,)
+beats_confidence: shape = (291,)
+beats_start: shape = (291,)
+danceability: 0.0
+duration: 158.77179
+end_of_fade_in: 0.119
+energy: 0.0
+key: 5
+key_confidence: 0.755
+loudness: -9.217
+mode: 1
+mode_confidence: 0.636
+release: Made In England
+release_7digitalid: 787727
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (561,)
+segments_loudness_max: shape = (561,)
+segments_loudness_max_time: shape = (561,)
+segments_loudness_start: shape = (561,)
+segments_pitches: shape = (561, 12)
+segments_start: shape = (561,)
+segments_timbre: shape = (561, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOONBLX12AC468AA6B
+start_of_fade_out: 154.982
+tatums_confidence: shape = (582,)
+tatums_start: shape = (582,)
+tempo: 111.261
+time_signature: 4
+time_signature_confidence: 0.759
+title: Close Your Eyes
+track_7digitalid: 8716867
+track_id: TRAVMQE12903D08335
+year: 1972

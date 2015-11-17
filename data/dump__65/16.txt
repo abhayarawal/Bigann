@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1195
+artist_familiarity: 0.66678743077
+artist_hotttnesss: 0.437590979678
+artist_id: ARLCQZN1187B9AF634
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 26638df8-ef34-40d1-8d93-616836b72878
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Patti Smith Group
+artist_playmeid: 16725
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: c24f07253139b10690b9291d0fe6226b
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (354,)
+beats_start: shape = (354,)
+danceability: 0.0
+duration: 284.21179
+end_of_fade_in: 6.502
+energy: 0.0
+key: 9
+key_confidence: 0.001
+loudness: -20.058
+mode: 1
+mode_confidence: 0.208
+release: Original Album Classics
+release_7digitalid: 302123
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (681,)
+segments_loudness_max: shape = (681,)
+segments_loudness_max_time: shape = (681,)
+segments_loudness_start: shape = (681,)
+segments_pitches: shape = (681, 12)
+segments_start: shape = (681,)
+segments_timbre: shape = (681, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKMQOO12A8C136C82
+start_of_fade_out: 268.579
+tatums_confidence: shape = (707,)
+tatums_start: shape = (707,)
+tempo: 76.814
+time_signature: 3
+time_signature_confidence: 0.682
+title: Wave
+track_7digitalid: 3544154
+track_id: TRAWGYZ128F92C494B
+year: 1979

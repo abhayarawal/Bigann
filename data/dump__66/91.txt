@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4845
+artist_familiarity: 0.669371501935
+artist_hotttnesss: 0.566912407282
+artist_id: ARGKD4W1187B990E04
+artist_latitude: 33.71197
+artist_location: Lithonia, GA
+artist_longitude: -84.10599
+artist_mbid: 6ca4886a-8f77-4133-b404-46fb3908e24a
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Brenda Lee
+artist_playmeid: 3007
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 5fcac53eb94a09cf83819903526aeb20
+bars_confidence: shape = (66,)
+bars_start: shape = (66,)
+beats_confidence: shape = (269,)
+beats_start: shape = (269,)
+danceability: 0.0
+duration: 188.26404
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.658
+loudness: -10.002
+mode: 1
+mode_confidence: 0.26
+release: Brenda Lee
+release_7digitalid: 176456
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (686,)
+segments_loudness_max: shape = (686,)
+segments_loudness_max_time: shape = (686,)
+segments_loudness_start: shape = (686,)
+segments_pitches: shape = (686, 12)
+segments_start: shape = (686,)
+segments_timbre: shape = (686, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.244099685793
+song_id: SOSWCXN12A6D4FAE3C
+start_of_fade_out: 180.471
+tatums_confidence: shape = (1074,)
+tatums_start: shape = (1074,)
+tempo: 89.13
+time_signature: 4
+time_signature_confidence: 0.241
+title: Your One And Only (LP Version)
+track_7digitalid: 1898679
+track_id: TRAWUMN128F4222D88
+year: 1960

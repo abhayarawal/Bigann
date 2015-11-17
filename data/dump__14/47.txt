@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1538
+artist_familiarity: 0.621414328404
+artist_hotttnesss: 0.443930192726
+artist_id: ARMIMHT1187B98F038
+artist_latitude: nan
+artist_location: Santa Monica, CA
+artist_longitude: nan
+artist_mbid: 98cb2d05-0b47-4bc6-b345-792eecbe8449
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Teena Marie
+artist_playmeid: 7535
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 5b5c90d95558dc65a78a7f0dd4229b02
+bars_confidence: shape = (72,)
+bars_start: shape = (72,)
+beats_confidence: shape = (72,)
+beats_start: shape = (72,)
+danceability: 0.0
+duration: 78.96771
+end_of_fade_in: 2.218
+energy: 0.0
+key: 10
+key_confidence: 0.791
+loudness: -21.997
+mode: 1
+mode_confidence: 0.627
+release: Starchild
+release_7digitalid: 282364
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (167,)
+segments_loudness_max: shape = (167,)
+segments_loudness_max_time: shape = (167,)
+segments_loudness_start: shape = (167,)
+segments_pitches: shape = (167, 12)
+segments_start: shape = (167,)
+segments_timbre: shape = (167, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXFAJU12A8C131CEC
+start_of_fade_out: 71.21
+tatums_confidence: shape = (144,)
+tatums_start: shape = (144,)
+tempo: 59.253
+time_signature: 1
+time_signature_confidence: 0.0
+title: Light
+track_7digitalid: 3151226
+track_id: TRAEVRU128F4263351
+year: 1984

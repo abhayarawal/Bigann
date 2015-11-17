@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15824
+artist_familiarity: 0.627185249161
+artist_hotttnesss: 0.393015730045
+artist_id: ARSQW3I1187B9ACD14
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: f66b685d-9abe-4be6-8e59-9a7486be1964
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Leona Naess
+artist_playmeid: -1
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 4d161fea4329f2c28e482e5c96a279eb
+bars_confidence: shape = (153,)
+bars_start: shape = (153,)
+beats_confidence: shape = (618,)
+beats_start: shape = (618,)
+danceability: 0.0
+duration: 292.88444
+end_of_fade_in: 0.108
+energy: 0.0
+key: 4
+key_confidence: 0.807
+loudness: -14.507
+mode: 1
+mode_confidence: 0.833
+release: Leona Naess
+release_7digitalid: 23385
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (753,)
+segments_loudness_max: shape = (753,)
+segments_loudness_max_time: shape = (753,)
+segments_loudness_start: shape = (753,)
+segments_pitches: shape = (753, 12)
+segments_start: shape = (753,)
+segments_timbre: shape = (753, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.685849656345
+song_id: SONUSLF12A6D4F7769
+start_of_fade_out: 270.431
+tatums_confidence: shape = (1236,)
+tatums_start: shape = (1236,)
+tempo: 129.887
+time_signature: 4
+time_signature_confidence: 0.312
+title: Star Signs
+track_7digitalid: 244632
+track_id: TRAZVYP128F1459AD9
+year: 2003

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 253382
+artist_familiarity: 0.449740839577
+artist_hotttnesss: 0.374375168216
+artist_id: ARNJCYH11C8A42AC5F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b3f0219d-5631-4e5c-8f09-9b943d1ebf10
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ciaran Byrne
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 83e61b058bbe63056b2010bd66bd1806
+bars_confidence: shape = (25,)
+bars_start: shape = (25,)
+beats_confidence: shape = (184,)
+beats_start: shape = (184,)
+danceability: 0.0
+duration: 150.282
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.334
+loudness: -14.305
+mode: 1
+mode_confidence: 0.473
+release: Galtrim
+release_7digitalid: 648611
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (619,)
+segments_loudness_max: shape = (619,)
+segments_loudness_max_time: shape = (619,)
+segments_loudness_start: shape = (619,)
+segments_pitches: shape = (619, 12)
+segments_start: shape = (619,)
+segments_timbre: shape = (619, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOFKRNR12AB01861AE
+start_of_fade_out: 142.414
+tatums_confidence: shape = (551,)
+tatums_start: shape = (551,)
+tempo: 73.314
+time_signature: 7
+time_signature_confidence: 0.991
+title: Signs Can Hear All
+track_7digitalid: 7186332
+track_id: TRBFAPA128F9353136
+year: 2006

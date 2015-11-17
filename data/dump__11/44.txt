@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 457243
+artist_familiarity: 0.455371855032
+artist_hotttnesss: 0.313866600157
+artist_id: AROLMXS1241B9C6915
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: An Cafe
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 5be6907a215acbec9c8b09fc79befddc
+bars_confidence: shape = (188,)
+bars_start: shape = (188,)
+beats_confidence: shape = (756,)
+beats_start: shape = (756,)
+danceability: 0.0
+duration: 267.31057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.86
+loudness: -3.545
+mode: 1
+mode_confidence: 0.652
+release: Goku Tama Rock Cafe
+release_7digitalid: 359463
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (883,)
+segments_loudness_max: shape = (883,)
+segments_loudness_max_time: shape = (883,)
+segments_loudness_start: shape = (883,)
+segments_pitches: shape = (883, 12)
+segments_start: shape = (883,)
+segments_timbre: shape = (883, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SOGCJUJ12A8C13D4FE
+start_of_fade_out: 267.311
+tatums_confidence: shape = (1512,)
+tatums_start: shape = (1512,)
+tempo: 170.003
+time_signature: 4
+time_signature_confidence: 0.751
+title: KORITSU HOSPITAL
+track_7digitalid: 4007615
+track_id: TRADUCE128F9322F5A
+year: 0

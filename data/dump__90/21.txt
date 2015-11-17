@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 612841
+artist_familiarity: 0.335452133899
+artist_hotttnesss: 0.0
+artist_id: ARA2GMZ1187B98CB13
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f91df6a2-9975-47e6-b16e-4ab74c8e4d46
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Wilburns
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: da3d5beffd794386ca8522c3b275f159
+bars_confidence: shape = (112,)
+bars_start: shape = (112,)
+beats_confidence: shape = (451,)
+beats_start: shape = (451,)
+danceability: 0.0
+duration: 182.22975
+end_of_fade_in: 0.345
+energy: 0.0
+key: 7
+key_confidence: 0.694
+loudness: -9.156
+mode: 1
+mode_confidence: 0.596
+release: More Than Religion
+release_7digitalid: 823358
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (605,)
+segments_loudness_max: shape = (605,)
+segments_loudness_max_time: shape = (605,)
+segments_loudness_start: shape = (605,)
+segments_pitches: shape = (605, 12)
+segments_start: shape = (605,)
+segments_timbre: shape = (605, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SONCCNP12AC3DF5716
+start_of_fade_out: 182.23
+tatums_confidence: shape = (451,)
+tatums_start: shape = (451,)
+tempo: 148.024
+time_signature: 4
+time_signature_confidence: 0.149
+title: Keep Walking
+track_7digitalid: 9087795
+track_id: TRBFCPS12903CEEB26
+year: 0

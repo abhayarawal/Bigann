@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4561
+artist_familiarity: 0.638640405742
+artist_hotttnesss: 0.46084348259
+artist_id: ARW071B1187B9A603C
+artist_latitude: nan
+artist_location: California
+artist_longitude: nan
+artist_mbid: 846cdb90-81a6-4c05-a7dc-9dd075f0db9e
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Unwritten Law
+artist_playmeid: 17305
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 0d97e3cbd8d12677c85514dde91f052a
+bars_confidence: shape = (180,)
+bars_start: shape = (180,)
+beats_confidence: shape = (723,)
+beats_start: shape = (723,)
+danceability: 0.0
+duration: 216.81587
+end_of_fade_in: 0.334
+energy: 0.0
+key: 2
+key_confidence: 0.606
+loudness: -5.243
+mode: 1
+mode_confidence: 0.483
+release: Oz Factor
+release_7digitalid: 282977
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (813,)
+segments_loudness_max: shape = (813,)
+segments_loudness_max_time: shape = (813,)
+segments_loudness_start: shape = (813,)
+segments_pitches: shape = (813, 12)
+segments_start: shape = (813,)
+segments_timbre: shape = (813, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJPMDU12A8C133C68
+start_of_fade_out: 216.816
+tatums_confidence: shape = (1446,)
+tatums_start: shape = (1446,)
+tempo: 201.269
+time_signature: 4
+time_signature_confidence: 0.0
+title: Superman
+track_7digitalid: 3157397
+track_id: TRBAEJD128F4264B50
+year: 1996

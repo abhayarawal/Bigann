@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 190803
+artist_familiarity: 0.620501924916
+artist_hotttnesss: 0.301847094811
+artist_id: AR8U8G41187B9A833B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 110500b0-78a7-41cb-8535-9f37ab35a902
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Tim Exile
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 42a9582a7c487bdccb703c62792438fa
+bars_confidence: shape = (144,)
+bars_start: shape = (144,)
+beats_confidence: shape = (577,)
+beats_start: shape = (577,)
+danceability: 0.0
+duration: 305.55383
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.255
+loudness: -6.628
+mode: 0
+mode_confidence: 0.285
+release: Listening Tree
+release_7digitalid: 532011
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1194,)
+segments_loudness_max: shape = (1194,)
+segments_loudness_max_time: shape = (1194,)
+segments_loudness_start: shape = (1194,)
+segments_pitches: shape = (1194, 12)
+segments_start: shape = (1194,)
+segments_timbre: shape = (1194, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.550008360119
+song_id: SOBNYPF12AB0179B22
+start_of_fade_out: 293.03
+tatums_confidence: shape = (1155,)
+tatums_start: shape = (1155,)
+tempo: 116.795
+time_signature: 4
+time_signature_confidence: 0.772
+title: Family Galaxy
+track_7digitalid: 5879444
+track_id: TRAMSSK128F92FDC80
+year: 2009

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4741
+artist_familiarity: 0.744641245933
+artist_hotttnesss: 0.579988982429
+artist_id: ARNLO5S1187B9B80CC
+artist_latitude: nan
+artist_location: Pasadena, CA
+artist_longitude: nan
+artist_mbid: b665b768-0d83-4363-950c-31ed39317c15
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Van Halen
+artist_playmeid: 54598
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 850506ce7310cd6e025dbe9be63f9883
+bars_confidence: shape = (161,)
+bars_start: shape = (161,)
+beats_confidence: shape = (649,)
+beats_start: shape = (649,)
+danceability: 0.0
+duration: 199.10485
+end_of_fade_in: 0.329
+energy: 0.0
+key: 4
+key_confidence: 0.743
+loudness: -12.063
+mode: 1
+mode_confidence: 0.538
+release: Jump / House Of Pain [Digital 45]
+release_7digitalid: 528810
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (739,)
+segments_loudness_max: shape = (739,)
+segments_loudness_max_time: shape = (739,)
+segments_loudness_start: shape = (739,)
+segments_pitches: shape = (739, 12)
+segments_start: shape = (739,)
+segments_timbre: shape = (739, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.811463830042
+song_id: SOEZXGQ12AAA8C65E3
+start_of_fade_out: 181.876
+tatums_confidence: shape = (1298,)
+tatums_start: shape = (1298,)
+tempo: 200.52
+time_signature: 4
+time_signature_confidence: 0.0
+title: House Of Pain
+track_7digitalid: 5840180
+track_id: TRBAOVA128F92F4355
+year: 1983

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 63864
+artist_familiarity: 0.508124533736
+artist_hotttnesss: 0.360425106483
+artist_id: ARSZVAK1187FB4A9F0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b6278732-68a4-4bda-b009-26d76bf3b454
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Richie Ray & Bobby Cruz
+artist_playmeid: 54027
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 1b0a45ba1093d602fbf4dae83bf038ef
+bars_confidence: shape = (90,)
+bars_start: shape = (90,)
+beats_confidence: shape = (372,)
+beats_start: shape = (372,)
+danceability: 0.0
+duration: 209.162
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.069
+loudness: -2.348
+mode: 1
+mode_confidence: 0.417
+release: Que Vuelva La Musica
+release_7digitalid: 185809
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (16,)
+segments_loudness_max: shape = (16,)
+segments_loudness_max_time: shape = (16,)
+segments_loudness_start: shape = (16,)
+segments_pitches: shape = (16, 12)
+segments_start: shape = (16,)
+segments_timbre: shape = (16, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWWQST12A8AE4675B
+start_of_fade_out: 205.845
+tatums_confidence: shape = (1117,)
+tatums_start: shape = (1117,)
+tempo: 109.505
+time_signature: 4
+time_signature_confidence: 0.575
+title: El Gallo Y La Vaca
+track_7digitalid: 2013380
+track_id: TRAMSBQ128F4238B2D
+year: 2005

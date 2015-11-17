@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 143112
+artist_familiarity: 0.456304668727
+artist_hotttnesss: 0.313019135753
+artist_id: ARLTW641187B9B6D3C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 98af25f6-6470-4925-87fc-48011aafa68b
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Paul Buckmaster
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 98385da88796bc6a005211d63f8c8aad
+bars_confidence: shape = (84,)
+bars_start: shape = (84,)
+beats_confidence: shape = (268,)
+beats_start: shape = (268,)
+danceability: 0.0
+duration: 123.76771
+end_of_fade_in: 4.011
+energy: 0.0
+key: 10
+key_confidence: 0.407
+loudness: -32.586
+mode: 0
+mode_confidence: 0.452
+release: Most Wanted
+release_7digitalid: 188215
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (212,)
+segments_loudness_max: shape = (212,)
+segments_loudness_max_time: shape = (212,)
+segments_loudness_start: shape = (212,)
+segments_pitches: shape = (212, 12)
+segments_start: shape = (212,)
+segments_timbre: shape = (212, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOLWFYL12A8AE47B48
+start_of_fade_out: 118.567
+tatums_confidence: shape = (537,)
+tatums_start: shape = (537,)
+tempo: 134.56
+time_signature: 3
+time_signature_confidence: 0.267
+title: Dunn's Revenge
+track_7digitalid: 2042824
+track_id: TRAUQOF128F423CD1F
+year: 0

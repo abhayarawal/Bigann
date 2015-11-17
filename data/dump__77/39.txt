@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4695
+artist_familiarity: 0.573605491317
+artist_hotttnesss: 0.37225120793
+artist_id: AR11NP91187B9901B4
+artist_latitude: nan
+artist_location: New York City
+artist_longitude: nan
+artist_mbid: 4ee9f5ed-5f20-41a7-b467-72c79549a67d
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: The Roches
+artist_playmeid: -1
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: a26f5e4705b99f60c262f0ebc8af4437
+bars_confidence: shape = (183,)
+bars_start: shape = (183,)
+beats_confidence: shape = (735,)
+beats_start: shape = (735,)
+danceability: 0.0
+duration: 329.45587
+end_of_fade_in: 0.705
+energy: 0.0
+key: 2
+key_confidence: 0.538
+loudness: -13.209
+mode: 0
+mode_confidence: 0.563
+release: We Three Kings
+release_7digitalid: 53561
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (1004,)
+segments_loudness_max: shape = (1004,)
+segments_loudness_max_time: shape = (1004,)
+segments_loudness_start: shape = (1004,)
+segments_pitches: shape = (1004, 12)
+segments_start: shape = (1004,)
+segments_timbre: shape = (1004, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.542898743291
+song_id: SODYKTT12A58A7BB18
+start_of_fade_out: 314.706
+tatums_confidence: shape = (1471,)
+tatums_start: shape = (1471,)
+tempo: 135.011
+time_signature: 4
+time_signature_confidence: 1.0
+title: We Three Kings
+track_7digitalid: 558430
+track_id: TRBAKER128F1495617
+year: 1990

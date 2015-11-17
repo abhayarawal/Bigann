@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 194107
+artist_familiarity: 0.589190725288
+artist_hotttnesss: 0.439438995527
+artist_id: ARVVLMQ11F4C8456E4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Knack
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 6d4b3b6b87e76e63a540cde58bbfef81
+bars_confidence: shape = (140,)
+bars_start: shape = (140,)
+beats_confidence: shape = (562,)
+beats_start: shape = (562,)
+danceability: 0.0
+duration: 230.71302
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.581
+loudness: -6.467
+mode: 1
+mode_confidence: 0.937
+release: Re-zoom
+release_7digitalid: 253395
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (598,)
+segments_loudness_max: shape = (598,)
+segments_loudness_max_time: shape = (598,)
+segments_loudness_start: shape = (598,)
+segments_pitches: shape = (598, 12)
+segments_start: shape = (598,)
+segments_timbre: shape = (598, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFVXXK12A8C135404
+start_of_fade_out: 203.552
+tatums_confidence: shape = (1124,)
+tatums_start: shape = (1124,)
+tempo: 150.08
+time_signature: 4
+time_signature_confidence: 0.0
+title: Everything I Do
+track_7digitalid: 2700187
+track_id: TRALAHF128F4248198
+year: 0

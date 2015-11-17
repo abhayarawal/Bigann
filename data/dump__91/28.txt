@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5827
+artist_familiarity: 0.797420740747
+artist_hotttnesss: 0.536400010793
+artist_id: ARUKN9H1187B9B71C8
+artist_latitude: nan
+artist_location: Atlanta, GA
+artist_longitude: nan
+artist_mbid: 02ceff75-7363-493e-a78d-912dc86c7460
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: The Black Crowes
+artist_playmeid: 6981
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 77bf20575a56e7a749f1e5d0090ba9e2
+bars_confidence: shape = (442,)
+bars_start: shape = (442,)
+beats_confidence: shape = (442,)
+beats_start: shape = (442,)
+danceability: 0.0
+duration: 202.91873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.661
+loudness: -12.024
+mode: 1
+mode_confidence: 0.604
+release: Before the Frost... Until the Freeze
+release_7digitalid: 575230
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (649,)
+segments_loudness_max: shape = (649,)
+segments_loudness_max_time: shape = (649,)
+segments_loudness_start: shape = (649,)
+segments_pitches: shape = (649, 12)
+segments_start: shape = (649,)
+segments_timbre: shape = (649, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.585116487167
+song_id: SOPTODT12AB018CE5C
+start_of_fade_out: 199.872
+tatums_confidence: shape = (883,)
+tatums_start: shape = (883,)
+tempo: 130.692
+time_signature: 1
+time_signature_confidence: 0.0
+title: Good Morning Captain
+track_7digitalid: 6376065
+track_id: TRBFNBC12903CA9800
+year: 2009

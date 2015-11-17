@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7380
+artist_familiarity: 0.605947229905
+artist_hotttnesss: 0.384290228082
+artist_id: AR37K6O1187B9AD049
+artist_latitude: 54.31407
+artist_location: United Kingdom
+artist_longitude: -2.23001
+artist_mbid: f0167ca4-f151-4194-813f-021bca2ecf7b
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Savoy Brown
+artist_playmeid: 83369
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: fc11979e4e13d80d658112f29860069d
+bars_confidence: shape = (104,)
+bars_start: shape = (104,)
+beats_confidence: shape = (421,)
+beats_start: shape = (421,)
+danceability: 0.0
+duration: 171.62404
+end_of_fade_in: 0.511
+energy: 0.0
+key: 7
+key_confidence: 0.101
+loudness: -11.212
+mode: 1
+mode_confidence: 0.439
+release: Kings of Boogie
+release_7digitalid: 86266
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (601,)
+segments_loudness_max: shape = (601,)
+segments_loudness_max_time: shape = (601,)
+segments_loudness_start: shape = (601,)
+segments_pitches: shape = (601, 12)
+segments_start: shape = (601,)
+segments_timbre: shape = (601, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3759843015
+song_id: SOYEFJG12A58A7B690
+start_of_fade_out: 168.246
+tatums_confidence: shape = (843,)
+tatums_start: shape = (843,)
+tempo: 150.95
+time_signature: 4
+time_signature_confidence: 0.0
+title: All Burned Out
+track_7digitalid: 904169
+track_id: TRBEDRW128F425F424
+year: 1989

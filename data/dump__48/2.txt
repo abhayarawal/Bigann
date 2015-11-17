@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 598
+artist_familiarity: 0.889613554744
+artist_hotttnesss: 0.593808365175
+artist_id: ARSE5NP1187B9B98AB
+artist_latitude: nan
+artist_location: Chicago, IL
+artist_longitude: nan
+artist_mbid: 0bc858a1-3573-4216-9423-c96dd8c72919
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Twista Featuring Cee-Lo
+artist_playmeid: 1634
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: ceaf1c7854dab6f0ec3cfaee6af06c84
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (485,)
+beats_start: shape = (485,)
+danceability: 0.0
+duration: 272.50893
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.334
+loudness: -5.126
+mode: 1
+mode_confidence: 0.451
+release: Kamikaze
+release_7digitalid: 129253
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1302,)
+segments_loudness_max: shape = (1302,)
+segments_loudness_max_time: shape = (1302,)
+segments_loudness_start: shape = (1302,)
+segments_pitches: shape = (1302, 12)
+segments_start: shape = (1302,)
+segments_timbre: shape = (1302, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.327736683178
+song_id: SOQKAFW12A67ADA4C6
+start_of_fade_out: 259.349
+tatums_confidence: shape = (1940,)
+tatums_start: shape = (1940,)
+tempo: 106.967
+time_signature: 4
+time_signature_confidence: 0.643
+title: Hope  (Edited Album Version)
+track_7digitalid: 177633
+track_id: TRAQIQP128E079505F
+year: 2004

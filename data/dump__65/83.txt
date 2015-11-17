@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 293676
+artist_familiarity: 0.453600538864
+artist_hotttnesss: 0.350803574069
+artist_id: ARN4IYF1187FB49D76
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 733fd871-62b7-4fa3-9c70-6e7aa6cdfe0e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pagan Wanderer Lu
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: a8f3ebb628c1c4ff56133bda67518b3c
+bars_confidence: shape = (106,)
+bars_start: shape = (106,)
+beats_confidence: shape = (431,)
+beats_start: shape = (431,)
+danceability: 0.0
+duration: 297.66485
+end_of_fade_in: 0.084
+energy: 0.0
+key: 4
+key_confidence: 0.874
+loudness: -6.066
+mode: 0
+mode_confidence: 0.61
+release: Fight My Battle For Me
+release_7digitalid: 409333
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (873,)
+segments_loudness_max: shape = (873,)
+segments_loudness_max_time: shape = (873,)
+segments_loudness_start: shape = (873,)
+segments_pitches: shape = (873, 12)
+segments_start: shape = (873,)
+segments_timbre: shape = (873, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SOQDNNN12AB018414A
+start_of_fade_out: 293.744
+tatums_confidence: shape = (1727,)
+tatums_start: shape = (1727,)
+tempo: 87.999
+time_signature: 4
+time_signature_confidence: 1.0
+title: Ten Cities Is Not A European Tour
+track_7digitalid: 4553857
+track_id: TRAWLXR128F931B059
+year: 0

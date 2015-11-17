@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4081
+artist_familiarity: 0.731590592457
+artist_hotttnesss: 0.498563611268
+artist_id: AR198711187B9AD09F
+artist_latitude: nan
+artist_location: İngiltere
+artist_longitude: nan
+artist_mbid: a9100753-f539-43cf-bcc9-579566fb512e
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Simply Red
+artist_playmeid: 1447
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: cd4585227fb9bc284f3f0bc0fdca7429
+bars_confidence: shape = (111,)
+bars_start: shape = (111,)
+beats_confidence: shape = (457,)
+beats_start: shape = (457,)
+danceability: 0.0
+duration: 305.162
+end_of_fade_in: 0.932
+energy: 0.0
+key: 1
+key_confidence: 0.462
+loudness: -6.569
+mode: 0
+mode_confidence: 0.542
+release: Stay (Bonus Version)
+release_7digitalid: 474283
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1289,)
+segments_loudness_max: shape = (1289,)
+segments_loudness_max_time: shape = (1289,)
+segments_loudness_start: shape = (1289,)
+segments_pitches: shape = (1289, 12)
+segments_start: shape = (1289,)
+segments_timbre: shape = (1289, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGOQKY12A8C142CBD
+start_of_fade_out: 297.494
+tatums_confidence: shape = (914,)
+tatums_start: shape = (914,)
+tempo: 90.031
+time_signature: 4
+time_signature_confidence: 0.801
+title: Good Times Have Done Me Wrong (live) - exclusive version
+track_7digitalid: 5267726
+track_id: TRAQBRP128F92DFCEF
+year: 0

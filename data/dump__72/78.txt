@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15530
+artist_familiarity: 0.502453176521
+artist_hotttnesss: 0.391585329026
+artist_id: AR1X2H01187B98CCF2
+artist_latitude: nan
+artist_location: Menilmontant, France
+artist_longitude: nan
+artist_mbid: e0371cd0-a5f8-420e-be17-bd980adc7393
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Maurice Chevalier
+artist_playmeid: 10433
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 1f48e831477a34e15bc3de1bccd5d1a5
+bars_confidence: shape = (35,)
+bars_start: shape = (35,)
+beats_confidence: shape = (255,)
+beats_start: shape = (255,)
+danceability: 0.0
+duration: 178.99057
+end_of_fade_in: 0.24
+energy: 0.0
+key: 4
+key_confidence: 0.699
+loudness: -17.321
+mode: 1
+mode_confidence: 0.59
+release: D'Hollywood A La drôle De Guerre
+release_7digitalid: 23060
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (612,)
+segments_loudness_max: shape = (612,)
+segments_loudness_max_time: shape = (612,)
+segments_loudness_start: shape = (612,)
+segments_pitches: shape = (612, 12)
+segments_start: shape = (612,)
+segments_timbre: shape = (612, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCZJFC12A6D4F7C3F
+start_of_fade_out: 173.378
+tatums_confidence: shape = (511,)
+tatums_start: shape = (511,)
+tempo: 86.762
+time_signature: 7
+time_signature_confidence: 0.704
+title: Je Vous Revois_ Madame (Flm ''Le Vagabond Bien Aimé'')
+track_7digitalid: 240251
+track_id: TRAYXGR128F1458AD8
+year: 0

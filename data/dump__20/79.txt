@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 173858
+artist_familiarity: 0.441049960184
+artist_hotttnesss: 0.353000688284
+artist_id: ARSF4161187B9B449F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 52781c26-6a8c-4326-a825-64f7b2898bb0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Gone Jackals
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: f5d7a189ccac82906f12c6fa0fea342d
+bars_confidence: shape = (222,)
+bars_start: shape = (222,)
+beats_confidence: shape = (668,)
+beats_start: shape = (668,)
+danceability: 0.0
+duration: 228.93669
+end_of_fade_in: 0.34
+energy: 0.0
+key: 2
+key_confidence: 0.482
+loudness: -5.376
+mode: 1
+mode_confidence: 0.497
+release: Blue Pyramid
+release_7digitalid: 457876
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (601,)
+segments_loudness_max: shape = (601,)
+segments_loudness_max_time: shape = (601,)
+segments_loudness_start: shape = (601,)
+segments_pitches: shape = (601, 12)
+segments_start: shape = (601,)
+segments_timbre: shape = (601, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.386790177139
+song_id: SOAEPLE12AB0186815
+start_of_fade_out: 212.753
+tatums_confidence: shape = (1335,)
+tatums_start: shape = (1335,)
+tempo: 177.563
+time_signature: 3
+time_signature_confidence: 0.907
+title: That Blows My Mind (Slammin' and Way Out There!)
+track_7digitalid: 5096733
+track_id: TRAHBOC128F9322A62
+year: 1998

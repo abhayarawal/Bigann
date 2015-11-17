@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41002
+artist_familiarity: 0.645720023336
+artist_hotttnesss: 0.543954417056
+artist_id: AROY6XW1187B991121
+artist_latitude: nan
+artist_location: Carle Place, New York
+artist_longitude: nan
+artist_mbid: 5e7ccd92-6277-451a-aab9-1efd587c50f3
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Steve Vai
+artist_playmeid: 8613
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 357199748fa0f239391845e69acb430b
+bars_confidence: shape = (1331,)
+bars_start: shape = (1331,)
+beats_confidence: shape = (1331,)
+beats_start: shape = (1331,)
+danceability: 0.0
+duration: 693.57669
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.412
+loudness: -5.185
+mode: 1
+mode_confidence: 0.476
+release: Live In London
+release_7digitalid: 292250
+sections_confidence: shape = (25,)
+sections_start: shape = (25,)
+segments_confidence: shape = (1752,)
+segments_loudness_max: shape = (1752,)
+segments_loudness_max_time: shape = (1752,)
+segments_loudness_start: shape = (1752,)
+segments_pitches: shape = (1752, 12)
+segments_start: shape = (1752,)
+segments_timbre: shape = (1752, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPWWMT12A8C13811D
+start_of_fade_out: 663.22
+tatums_confidence: shape = (2662,)
+tatums_start: shape = (2662,)
+tempo: 116.055
+time_signature: 1
+time_signature_confidence: 0.566
+title: The Attitude Song
+track_7digitalid: 3282639
+track_id: TRASQHA128F4280A1D
+year: 1984

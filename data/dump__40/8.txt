@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4931
+artist_familiarity: 0.470414613683
+artist_hotttnesss: 0.310298996385
+artist_id: ARU2JAB1187FB50C72
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ea7e2bb8-bfb5-4307-a4c5-68df453de287
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: David Meece
+artist_playmeid: 37004
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: fadeb6787ffbe059a47bdd9fe6b94e43
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (417,)
+beats_start: shape = (417,)
+danceability: 0.0
+duration: 241.76281
+end_of_fade_in: 0.113
+energy: 0.0
+key: 9
+key_confidence: 0.682
+loudness: -11.809
+mode: 1
+mode_confidence: 0.596
+release: LEARNING TO TRUST
+release_7digitalid: 64571
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (832,)
+segments_loudness_max: shape = (832,)
+segments_loudness_max_time: shape = (832,)
+segments_loudness_start: shape = (832,)
+segments_pitches: shape = (832, 12)
+segments_start: shape = (832,)
+segments_timbre: shape = (832, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOGYMWC12A6D4FBAF2
+start_of_fade_out: 228.223
+tatums_confidence: shape = (1666,)
+tatums_start: shape = (1666,)
+tempo: 104.56
+time_signature: 4
+time_signature_confidence: 0.823
+title: This Time (Learning To Trust Album Version)
+track_7digitalid: 671395
+track_id: TRANREH128F14AE5E5
+year: 0

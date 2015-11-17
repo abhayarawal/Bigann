@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 69836
+artist_familiarity: 0.58403786492
+artist_hotttnesss: 0.356406617735
+artist_id: AREP0H61187FB443CF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f2ab6fbd-e2d6-4f14-bc02-5dca733b2ed8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Grayson Capps
+artist_playmeid: 60448
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: dd4f3f6896c0c1f9ae459f647df9074a
+bars_confidence: shape = (173,)
+bars_start: shape = (173,)
+beats_confidence: shape = (521,)
+beats_start: shape = (521,)
+danceability: 0.0
+duration: 236.59057
+end_of_fade_in: 0.223
+energy: 0.0
+key: 9
+key_confidence: 0.578
+loudness: -9.072
+mode: 0
+mode_confidence: 0.626
+release: Wail & Ride
+release_7digitalid: 176769
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (710,)
+segments_loudness_max: shape = (710,)
+segments_loudness_max_time: shape = (710,)
+segments_loudness_start: shape = (710,)
+segments_pitches: shape = (710, 12)
+segments_start: shape = (710,)
+segments_timbre: shape = (710, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORGSDN12A6D4FCA0A
+start_of_fade_out: 226.696
+tatums_confidence: shape = (1043,)
+tatums_start: shape = (1043,)
+tempo: 132.684
+time_signature: 3
+time_signature_confidence: 0.0
+title: Mermaid
+track_7digitalid: 1903851
+track_id: TRAMKVB128F4223DAE
+year: 2006

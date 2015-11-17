@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 32215
+artist_familiarity: 0.612953154239
+artist_hotttnesss: 0.454541929151
+artist_id: AR3QRJ91187B98E4C2
+artist_latitude: 48.85692
+artist_location: Paris, France
+artist_longitude: 2.34121
+artist_mbid: a65f4f19-9f4c-4a44-906f-87aa4ceee900
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Jacques Dutronc
+artist_playmeid: -1
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 5b7f54efbccc43570962b409615a1e84
+bars_confidence: shape = (383,)
+bars_start: shape = (383,)
+beats_confidence: shape = (383,)
+beats_start: shape = (383,)
+danceability: 0.0
+duration: 189.85751
+end_of_fade_in: 0.119
+energy: 0.0
+key: 2
+key_confidence: 0.155
+loudness: -8.669
+mode: 1
+mode_confidence: 0.323
+release: Intégrale Les Cactus
+release_7digitalid: 280528
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (580,)
+segments_loudness_max: shape = (580,)
+segments_loudness_max_time: shape = (580,)
+segments_loudness_start: shape = (580,)
+segments_pitches: shape = (580, 12)
+segments_start: shape = (580,)
+segments_timbre: shape = (580, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOZHGBF12A8AE49137
+start_of_fade_out: 186.845
+tatums_confidence: shape = (765,)
+tatums_start: shape = (765,)
+tempo: 122.826
+time_signature: 1
+time_signature_confidence: 0.0
+title: Les Femmes Des Autres
+track_7digitalid: 3721405
+track_id: TRBCVVB128F92EB308
+year: 1969

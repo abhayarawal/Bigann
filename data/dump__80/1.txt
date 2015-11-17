@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 516
+artist_familiarity: 0.674970293048
+artist_hotttnesss: 0.424953084113
+artist_id: ARZS5VW1187FB567E8
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a7412cd0-e0b8-4fa1-8d24-75bb92a84946
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: William Orbit
+artist_playmeid: 1695
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 4c747e34a9a0518327bef834e19ae876
+bars_confidence: shape = (275,)
+bars_start: shape = (275,)
+beats_confidence: shape = (827,)
+beats_start: shape = (827,)
+danceability: 0.0
+duration: 339.80036
+end_of_fade_in: 0.102
+energy: 0.0
+key: 8
+key_confidence: 0.565
+loudness: -35.277
+mode: 0
+mode_confidence: 0.413
+release: Strange Cargo III
+release_7digitalid: 1224
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (712,)
+segments_loudness_max: shape = (712,)
+segments_loudness_max_time: shape = (712,)
+segments_loudness_start: shape = (712,)
+segments_pitches: shape = (712, 12)
+segments_start: shape = (712,)
+segments_timbre: shape = (712, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.450762241641
+song_id: SOWNKOB12A6310E331
+start_of_fade_out: 328.829
+tatums_confidence: shape = (1655,)
+tatums_start: shape = (1655,)
+tempo: 152.084
+time_signature: 3
+time_signature_confidence: 0.292
+title: Deus Ex Machina
+track_7digitalid: 11249
+track_id: TRBBJVD128E07826F3
+year: 1993

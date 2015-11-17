@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4074
+artist_familiarity: 0.555904122513
+artist_hotttnesss: 0.39547886116
+artist_id: ARHWVGW1187FB41479
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 20dcf3aa-c313-4f24-acd4-461327a76a73
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Paul Butterfield Blues Band
+artist_playmeid: 39205
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 5e6d5ec24797da58fff011c66428ab56
+bars_confidence: shape = (158,)
+bars_start: shape = (158,)
+beats_confidence: shape = (634,)
+beats_start: shape = (634,)
+danceability: 0.0
+duration: 246.12526
+end_of_fade_in: 0.136
+energy: 0.0
+key: 2
+key_confidence: 0.526
+loudness: -15.693
+mode: 1
+mode_confidence: 0.626
+release: An Anthology: The Elektra Years
+release_7digitalid: 62337
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1095,)
+segments_loudness_max: shape = (1095,)
+segments_loudness_max_time: shape = (1095,)
+segments_loudness_start: shape = (1095,)
+segments_pitches: shape = (1095, 12)
+segments_start: shape = (1095,)
+segments_timbre: shape = (1095, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.63602238628
+song_id: SOZZQBH12A6D4FAFD8
+start_of_fade_out: 241.099
+tatums_confidence: shape = (1268,)
+tatums_start: shape = (1268,)
+tempo: 158.12
+time_signature: 4
+time_signature_confidence: 0.0
+title: Thank You Mr. Poobah ( Remastered 97' Version )
+track_7digitalid: 646260
+track_id: TRAQHHW128F14A8FF9
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1642
+artist_familiarity: 0.858270677796
+artist_hotttnesss: 0.515325300572
+artist_id: ARMB95F1187B9B5B93
+artist_latitude: 40.8079
+artist_location: Harlem, NY
+artist_longitude: -73.9454
+artist_mbid: ea6b7199-901d-4c0e-8242-6d7bc2bf62b7
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Cam'Ron
+artist_playmeid: 138754
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 9010968852206a2a50d5db0a6df80901
+bars_confidence: shape = (156,)
+bars_start: shape = (156,)
+beats_confidence: shape = (629,)
+beats_start: shape = (629,)
+danceability: 0.0
+duration: 231.94077
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.091
+loudness: -3.387
+mode: 0
+mode_confidence: 0.168
+release: Purple Haze
+release_7digitalid: 93013
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (965,)
+segments_loudness_max: shape = (965,)
+segments_loudness_max_time: shape = (965,)
+segments_loudness_start: shape = (965,)
+segments_pitches: shape = (965, 12)
+segments_start: shape = (965,)
+segments_timbre: shape = (965, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.51596363072
+song_id: SOLNWPG12A8C13B98E
+start_of_fade_out: 224.641
+tatums_confidence: shape = (1258,)
+tatums_start: shape = (1258,)
+tempo: 161.739
+time_signature: 4
+time_signature_confidence: 0.342
+title: Bubble Music
+track_7digitalid: 3441426
+track_id: TRBHNHZ128F42A6BEF
+year: 2004

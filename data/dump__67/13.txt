@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1633
+artist_familiarity: 0.626803106327
+artist_hotttnesss: 0.405234690787
+artist_id: ARJ9DSA1187B990E00
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4756395c-57ed-4a63-afb2-01117f14dff6
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: John Mayall & The Bluesbreakers
+artist_playmeid: 19569
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: e1247138fed87a7f259bd2e52d358bf6
+bars_confidence: shape = (77,)
+bars_start: shape = (77,)
+beats_confidence: shape = (312,)
+beats_start: shape = (312,)
+danceability: 0.0
+duration: 156.9171
+end_of_fade_in: 0.465
+energy: 0.0
+key: 0
+key_confidence: 0.263
+loudness: -7.17
+mode: 0
+mode_confidence: 0.228
+release: Out Of Sight: More Sounds From The In Crowd
+release_7digitalid: 41943
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (481,)
+segments_loudness_max: shape = (481,)
+segments_loudness_max_time: shape = (481,)
+segments_loudness_start: shape = (481,)
+segments_pitches: shape = (481, 12)
+segments_start: shape = (481,)
+segments_timbre: shape = (481, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODOQYK12A6D4F77FF
+start_of_fade_out: 151.429
+tatums_confidence: shape = (624,)
+tatums_start: shape = (624,)
+tempo: 120.736
+time_signature: 4
+time_signature_confidence: 0.212
+title: Looking Back
+track_7digitalid: 445915
+track_id: TRAWWVS128F1482068
+year: 1997

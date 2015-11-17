@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 36259
+artist_familiarity: 0.571833795936
+artist_hotttnesss: 0.414985282439
+artist_id: AR508LN1187B996F4E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 863de8b5-4283-48f4-84fa-330cd073f84a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lole y Manuel
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 7919c61584046d63964c375a4a569e47
+bars_confidence: shape = (45,)
+bars_start: shape = (45,)
+beats_confidence: shape = (195,)
+beats_start: shape = (195,)
+danceability: 0.0
+duration: 141.66159
+end_of_fade_in: 0.602
+energy: 0.0
+key: 6
+key_confidence: 0.267
+loudness: -16.465
+mode: 1
+mode_confidence: 0.493
+release: Aljarafe
+release_7digitalid: 405723
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (546,)
+segments_loudness_max: shape = (546,)
+segments_loudness_max_time: shape = (546,)
+segments_loudness_start: shape = (546,)
+segments_pitches: shape = (546, 12)
+segments_start: shape = (546,)
+segments_timbre: shape = (546, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKIWRW12AB017FAD7
+start_of_fade_out: 133.654
+tatums_confidence: shape = (584,)
+tatums_start: shape = (584,)
+tempo: 85.472
+time_signature: 4
+time_signature_confidence: 0.069
+title: Aljarafe
+track_7digitalid: 4517685
+track_id: TRBCQDO128F9314C76
+year: 1992

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11032
+artist_familiarity: 0.645316973618
+artist_hotttnesss: 0.401090253662
+artist_id: ARW9SN11187FB52D0D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3fd61726-7d1c-4bdd-92c9-ac82c3a7aab3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: City High
+artist_playmeid: -1
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 3253e75e2a766e61852ed12a18908ea1
+bars_confidence: shape = (136,)
+bars_start: shape = (136,)
+beats_confidence: shape = (546,)
+beats_start: shape = (546,)
+danceability: 0.0
+duration: 174.91546
+end_of_fade_in: 0.243
+energy: 0.0
+key: 7
+key_confidence: 0.572
+loudness: -6.567
+mode: 1
+mode_confidence: 0.219
+release: Ultimate R&B
+release_7digitalid: 228346
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (843,)
+segments_loudness_max: shape = (843,)
+segments_loudness_max_time: shape = (843,)
+segments_loudness_start: shape = (843,)
+segments_pitches: shape = (843, 12)
+segments_start: shape = (843,)
+segments_timbre: shape = (843, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOGOQH12A8C1415D7
+start_of_fade_out: 172.159
+tatums_confidence: shape = (1093,)
+tatums_start: shape = (1093,)
+tempo: 191.548
+time_signature: 4
+time_signature_confidence: 0.163
+title: What Would You Do?
+track_7digitalid: 5781822
+track_id: TRBBDAH128F92E625E
+year: 2001

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 60919
+artist_familiarity: 0.691133728644
+artist_hotttnesss: 0.53105019318
+artist_id: AR9I1L41187FB37F0E
+artist_latitude: nan
+artist_location: New Orleans, LA
+artist_longitude: nan
+artist_mbid: fd23e684-270f-4507-9cb0-a0e0d7854d16
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Harry Connick_ Jr.
+artist_playmeid: 8507
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 9f479f289b1ea1bab1783accf2bcc406
+bars_confidence: shape = (572,)
+bars_start: shape = (572,)
+beats_confidence: shape = (572,)
+beats_start: shape = (572,)
+danceability: 0.0
+duration: 251.76771
+end_of_fade_in: 0.142
+energy: 0.0
+key: 0
+key_confidence: 0.466
+loudness: -6.131
+mode: 1
+mode_confidence: 0.314
+release: She
+release_7digitalid: 281442
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1042,)
+segments_loudness_max: shape = (1042,)
+segments_loudness_max_time: shape = (1042,)
+segments_loudness_start: shape = (1042,)
+segments_pitches: shape = (1042, 12)
+segments_start: shape = (1042,)
+segments_timbre: shape = (1042, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.502211220551
+song_id: SOPKIWR12AF72AAB2F
+start_of_fade_out: 248.053
+tatums_confidence: shape = (1143,)
+tatums_start: shape = (1143,)
+tempo: 138.408
+time_signature: 1
+time_signature_confidence: 0.025
+title: Here Comes The Big Parade
+track_7digitalid: 3136889
+track_id: TRAOSFC128F42618F6
+year: 1994

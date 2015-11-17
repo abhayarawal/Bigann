@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 148923
+artist_familiarity: 0.772958317107
+artist_hotttnesss: 0.46451800505
+artist_id: ARJ45SE1187FB44AD1
+artist_latitude: nan
+artist_location: City of Angels
+artist_longitude: nan
+artist_mbid: 37661f69-2801-409e-847d-3c8b58d2ad0a
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Winds Of Plague
+artist_playmeid: 140382
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: e134fe4d6a25a28afcb16f08594c0b27
+bars_confidence: shape = (184,)
+bars_start: shape = (184,)
+beats_confidence: shape = (563,)
+beats_start: shape = (563,)
+danceability: 0.0
+duration: 270.13179
+end_of_fade_in: 6.177
+energy: 0.0
+key: 11
+key_confidence: 0.189
+loudness: -3.225
+mode: 0
+mode_confidence: 0.089
+release: Decimate The Weak
+release_7digitalid: 739252
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (697,)
+segments_loudness_max: shape = (697,)
+segments_loudness_max_time: shape = (697,)
+segments_loudness_start: shape = (697,)
+segments_pitches: shape = (697, 12)
+segments_start: shape = (697,)
+segments_timbre: shape = (697, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.67799795754
+song_id: SOATIOL12A8C13604E
+start_of_fade_out: 265.747
+tatums_confidence: shape = (1126,)
+tatums_start: shape = (1126,)
+tempo: 126.182
+time_signature: 3
+time_signature_confidence: 0.979
+title: Origins And Endings
+track_7digitalid: 8190193
+track_id: TRBFIUJ12903CFEB7C
+year: 2008

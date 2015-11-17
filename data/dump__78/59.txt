@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15556
+artist_familiarity: 0.629186017122
+artist_hotttnesss: 0.361483732792
+artist_id: AREAEX91187B98DC01
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ad8648f9-95ca-4fc1-bc19-9cee86e468d3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gaither Vocal Band
+artist_playmeid: 61337
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: e218a99dcc04da71a20fc2e64f42fc1e
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (388,)
+beats_start: shape = (388,)
+danceability: 0.0
+duration: 276.74077
+end_of_fade_in: 0.264
+energy: 0.0
+key: 6
+key_confidence: 1.0
+loudness: -9.889
+mode: 1
+mode_confidence: 0.875
+release: The Best Of The Gaither Vocal Band
+release_7digitalid: 106244
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (697,)
+segments_loudness_max: shape = (697,)
+segments_loudness_max_time: shape = (697,)
+segments_loudness_start: shape = (697,)
+segments_pitches: shape = (697, 12)
+segments_start: shape = (697,)
+segments_timbre: shape = (697, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.521313818854
+song_id: SOEYHXW12A8C13C677
+start_of_fade_out: 264.516
+tatums_confidence: shape = (775,)
+tatums_start: shape = (775,)
+tempo: 85.103
+time_signature: 4
+time_signature_confidence: 0.676
+title: Knowing You'll Be There
+track_7digitalid: 1101294
+track_id: TRBAVLT128F428F147
+year: 2003

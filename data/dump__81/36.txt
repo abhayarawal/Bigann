@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 68006
+artist_familiarity: 0.28422040368
+artist_hotttnesss: 0.305849744336
+artist_id: ARQXGWX11F50C49BC7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5e814d09-9d00-4e43-9a0d-61c73b4ed380
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Vincent Bruley
+artist_playmeid: 51224
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: 14f1a57abd454caec1403ecd1da3bf3b
+bars_confidence: shape = (659,)
+bars_start: shape = (659,)
+beats_confidence: shape = (1988,)
+beats_start: shape = (1988,)
+danceability: 0.0
+duration: 920.76363
+end_of_fade_in: 5.416
+energy: 0.0
+key: 6
+key_confidence: 0.608
+loudness: -16.676
+mode: 0
+mode_confidence: 0.683
+release: Oxygène 5: Le Vent
+release_7digitalid: 196895
+sections_confidence: shape = (41,)
+sections_start: shape = (41,)
+segments_confidence: shape = (1630,)
+segments_loudness_max: shape = (1630,)
+segments_loudness_max_time: shape = (1630,)
+segments_loudness_start: shape = (1630,)
+segments_pitches: shape = (1630, 12)
+segments_start: shape = (1630,)
+segments_timbre: shape = (1630, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPNUVB12A8C13627D
+start_of_fade_out: 854.361
+tatums_confidence: shape = (3976,)
+tatums_start: shape = (3976,)
+tempo: 134.028
+time_signature: 3
+time_signature_confidence: 0.345
+title: Souffle 2
+track_7digitalid: 2139729
+track_id: TRBBWKS128F424E84A
+year: 0

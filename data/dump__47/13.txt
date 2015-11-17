@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 422635
+artist_familiarity: 0.558481252978
+artist_hotttnesss: 0.376325960229
+artist_id: ARC1CJB1187B99FCA4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ca91d4fa-d532-426d-933a-14f26d83ab1b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Laurie Berkner
+artist_playmeid: 177796
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 5f0e7e3fbb8925da788153fdd0b45edf
+bars_confidence: shape = (92,)
+bars_start: shape = (92,)
+beats_confidence: shape = (374,)
+beats_start: shape = (374,)
+danceability: 0.0
+duration: 182.22975
+end_of_fade_in: 0.432
+energy: 0.0
+key: 7
+key_confidence: 0.62
+loudness: -11.498
+mode: 1
+mode_confidence: 0.729
+release: Whaddaya Think of That?
+release_7digitalid: 633245
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (529,)
+segments_loudness_max: shape = (529,)
+segments_loudness_max_time: shape = (529,)
+segments_loudness_start: shape = (529,)
+segments_pitches: shape = (529, 12)
+segments_start: shape = (529,)
+segments_timbre: shape = (529, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.460484844986
+song_id: SODXFCU12A58A78087
+start_of_fade_out: 175.299
+tatums_confidence: shape = (748,)
+tatums_start: shape = (748,)
+tempo: 128.43
+time_signature: 4
+time_signature_confidence: 0.241
+title: ABCD Medley
+track_7digitalid: 7029345
+track_id: TRAQBGZ128F932CD62
+year: 0

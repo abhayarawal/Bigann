@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3423
+artist_familiarity: 0.466897960145
+artist_hotttnesss: 0.320165416046
+artist_id: AR1JGQT1187FB56878
+artist_latitude: 30.23513
+artist_location: Rayne, LA
+artist_longitude: -92.26831
+artist_mbid: cae92fc4-ebf8-4940-badf-d54cc6b8e6d3
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Jo-El Sonnier
+artist_playmeid: 68654
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: e702fbb03a7a60893c29e5c361d10a3c
+bars_confidence: shape = (53,)
+bars_start: shape = (53,)
+beats_confidence: shape = (266,)
+beats_start: shape = (266,)
+danceability: 0.0
+duration: 180.61016
+end_of_fade_in: 0.201
+energy: 0.0
+key: 9
+key_confidence: 0.567
+loudness: -8.529
+mode: 1
+mode_confidence: 0.53
+release: Cajun Mardi Gras
+release_7digitalid: 106297
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (681,)
+segments_loudness_max: shape = (681,)
+segments_loudness_max_time: shape = (681,)
+segments_loudness_start: shape = (681,)
+segments_pitches: shape = (681, 12)
+segments_start: shape = (681,)
+segments_timbre: shape = (681, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOGCPID12A8C139F54
+start_of_fade_out: 176.994
+tatums_confidence: shape = (798,)
+tatums_start: shape = (798,)
+tempo: 90.017
+time_signature: 5
+time_signature_confidence: 0.462
+title: Mardi Gras Mambo (Cajun Mardi Gras Album Version)
+track_7digitalid: 1101975
+track_id: TRAYZUM128F428F3F1
+year: 0

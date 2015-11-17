@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 108
+artist_familiarity: 0.840432466617
+artist_hotttnesss: 0.642982219877
+artist_id: ARW1MUW1187FB4D5A1
+artist_latitude: nan
+artist_location: Escatawpa, MS
+artist_longitude: nan
+artist_mbid: 2386cd66-e923-4e8e-bf14-2eebe2e9b973
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: 3 Doors Down
+artist_playmeid: 10
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 4c868a30d683e056d82491ef15d756f4
+bars_confidence: shape = (115,)
+bars_start: shape = (115,)
+beats_confidence: shape = (464,)
+beats_start: shape = (464,)
+danceability: 0.0
+duration: 188.65587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.531
+loudness: -4.706
+mode: 0
+mode_confidence: 0.406
+release: 3 Doors Down
+release_7digitalid: 274648
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (529,)
+segments_loudness_max: shape = (529,)
+segments_loudness_max_time: shape = (529,)
+segments_loudness_start: shape = (529,)
+segments_pitches: shape = (529, 12)
+segments_start: shape = (529,)
+segments_timbre: shape = (529, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.574693297085
+song_id: SOSHGBG12A8151BD89
+start_of_fade_out: 185.469
+tatums_confidence: shape = (928,)
+tatums_start: shape = (928,)
+tempo: 150.077
+time_signature: 4
+time_signature_confidence: 1.0
+title: Who Are You
+track_7digitalid: 3049166
+track_id: TRAVPHL128F424EAE1
+year: 2008

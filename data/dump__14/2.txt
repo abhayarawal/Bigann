@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 192619
+artist_familiarity: 0.442769650057
+artist_hotttnesss: 0.294986616555
+artist_id: ARI648V1187B9B5379
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4e744ffc-767a-4b18-b485-47d4b123ff4a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Michael Stanley Band
+artist_playmeid: 15835
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: f122a511d103cbec712b5ded92b43499
+bars_confidence: shape = (99,)
+bars_start: shape = (99,)
+beats_confidence: shape = (401,)
+beats_start: shape = (401,)
+danceability: 0.0
+duration: 232.12363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.664
+loudness: -15.161
+mode: 0
+mode_confidence: 0.61
+release: Stagepass
+release_7digitalid: 283635
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (602,)
+segments_loudness_max: shape = (602,)
+segments_loudness_max_time: shape = (602,)
+segments_loudness_start: shape = (602,)
+segments_pitches: shape = (602, 12)
+segments_start: shape = (602,)
+segments_timbre: shape = (602, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJRGAN12A8C1339B6
+start_of_fade_out: 227.846
+tatums_confidence: shape = (801,)
+tatums_start: shape = (801,)
+tempo: 103.731
+time_signature: 4
+time_signature_confidence: 1.0
+title: Waste A Little Time On Me
+track_7digitalid: 3176578
+track_id: TRAERST128F4267A39
+year: 1975

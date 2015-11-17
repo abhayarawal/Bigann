@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 616
+artist_familiarity: 0.918451788889
+artist_hotttnesss: 0.82890630154
+artist_id: ARVG4OK1187B9B6BD3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 95e1ead9-4d31-4808-a7ac-32c3614c116b
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: The Killers
+artist_playmeid: 1573
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 9b136aea03e1bb6b032182083ec34b3a
+bars_confidence: shape = (497,)
+bars_start: shape = (497,)
+beats_confidence: shape = (497,)
+beats_start: shape = (497,)
+danceability: 0.0
+duration: 225.12281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.116
+loudness: -4.808
+mode: 0
+mode_confidence: 0.379
+release: Day & Age
+release_7digitalid: 336537
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (658,)
+segments_loudness_max: shape = (658,)
+segments_loudness_max_time: shape = (658,)
+segments_loudness_start: shape = (658,)
+segments_pitches: shape = (658, 12)
+segments_start: shape = (658,)
+segments_timbre: shape = (658, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.760343237417
+song_id: SOTEFFR12A8C144765
+start_of_fade_out: 207.697
+tatums_confidence: shape = (995,)
+tatums_start: shape = (995,)
+tempo: 134.734
+time_signature: 1
+time_signature_confidence: 0.0
+title: A Dustland Fairytale
+track_7digitalid: 3766441
+track_id: TRBIFGK128F92F23A2
+year: 2008

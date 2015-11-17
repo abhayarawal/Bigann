@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1244
+artist_familiarity: 0.814448110417
+artist_hotttnesss: 0.607971809563
+artist_id: ARFVYJI1187B9B8E13
+artist_latitude: 47.60356
+artist_location: Seattle, WA
+artist_longitude: -122.32944
+artist_mbid: 83b9cbe7-9857-49e2-ab8e-b57b01038103
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Pearl Jam
+artist_playmeid: 1252
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 8a45e57e7de179def87adcd3f6c87876
+bars_confidence: shape = (250,)
+bars_start: shape = (250,)
+beats_confidence: shape = (766,)
+beats_start: shape = (766,)
+danceability: 0.0
+duration: 428.56444
+end_of_fade_in: 4.267
+energy: 0.0
+key: 4
+key_confidence: 0.743
+loudness: -8.403
+mode: 0
+mode_confidence: 0.727
+release: Pearl Jam
+release_7digitalid: 307651
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1097,)
+segments_loudness_max: shape = (1097,)
+segments_loudness_max_time: shape = (1097,)
+segments_loudness_start: shape = (1097,)
+segments_pitches: shape = (1097, 12)
+segments_start: shape = (1097,)
+segments_timbre: shape = (1097, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.659304669164
+song_id: SOHTWLT12A8C13CFE1
+start_of_fade_out: 414.697
+tatums_confidence: shape = (1531,)
+tatums_start: shape = (1531,)
+tempo: 105.994
+time_signature: 3
+time_signature_confidence: 1.0
+title: Inside Job
+track_7digitalid: 3475412
+track_id: TRAAMES128F42AF068
+year: 2006

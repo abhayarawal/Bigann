@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 276544
+artist_familiarity: 0.537532967491
+artist_hotttnesss: 0.369870107031
+artist_id: ARID1TK1187FB4CFB8
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2aca01cc-256e-4a0d-b337-2be263ef9302
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: All Girl Summer Fun Band
+artist_playmeid: -1
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 878a0f151fad125464b4f294ed978499
+bars_confidence: shape = (469,)
+bars_start: shape = (469,)
+beats_confidence: shape = (469,)
+beats_start: shape = (469,)
+danceability: 0.0
+duration: 212.84526
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.723
+loudness: -10.187
+mode: 1
+mode_confidence: 0.587
+release: Looking Into It
+release_7digitalid: 357852
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (778,)
+segments_loudness_max: shape = (778,)
+segments_loudness_max_time: shape = (778,)
+segments_loudness_start: shape = (778,)
+segments_pitches: shape = (778, 12)
+segments_start: shape = (778,)
+segments_timbre: shape = (778, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.450762241641
+song_id: SOKUPZU12AB018379B
+start_of_fade_out: 197.474
+tatums_confidence: shape = (938,)
+tatums_start: shape = (938,)
+tempo: 139.967
+time_signature: 1
+time_signature_confidence: 0.0
+title: Everything I Need
+track_7digitalid: 3992804
+track_id: TRAQQZN128F931FA31
+year: 2008

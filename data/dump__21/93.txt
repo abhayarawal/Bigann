@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5897
+artist_familiarity: 0.643982591493
+artist_hotttnesss: 0.406626217422
+artist_id: ARM4J201187B9B8B3B
+artist_latitude: -34.60852
+artist_location: Buenos Aires, Argentina
+artist_longitude: -58.37354
+artist_mbid: 3abc3eb1-7318-41d2-a52b-cbe14a14d8a0
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Gustavo Santaolalla
+artist_playmeid: 6012
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: e9592972b205c6b56a1080151fe477fb
+bars_confidence: shape = (77,)
+bars_start: shape = (77,)
+beats_confidence: shape = (236,)
+beats_start: shape = (236,)
+danceability: 0.0
+duration: 95.58159
+end_of_fade_in: 2.659
+energy: 0.0
+key: 11
+key_confidence: 0.744
+loudness: -17.746
+mode: 0
+mode_confidence: 0.73
+release: Nanga Parbat (Original Soundtrack)
+release_7digitalid: 705848
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (293,)
+segments_loudness_max: shape = (293,)
+segments_loudness_max_time: shape = (293,)
+segments_loudness_start: shape = (293,)
+segments_pitches: shape = (293, 12)
+segments_start: shape = (293,)
+segments_timbre: shape = (293, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.518759897997
+song_id: SOGBUZX12AB0188569
+start_of_fade_out: 87.917
+tatums_confidence: shape = (472,)
+tatums_start: shape = (472,)
+tempo: 150.028
+time_signature: 3
+time_signature_confidence: 0.791
+title: Moving Up
+track_7digitalid: 7828985
+track_id: TRAHMAJ12903CA6CCB
+year: 0

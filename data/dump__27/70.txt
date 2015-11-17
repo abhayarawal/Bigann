@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 192722
+artist_familiarity: 0.327675437351
+artist_hotttnesss: 0.269693550384
+artist_id: ARW1BRR1187B996332
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9e643ff3-c2ea-4530-9fe2-630f96c42548
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Voyager Series
+artist_playmeid: -1
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: 2e6add5d2963599d431f722c322784a3
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (117,)
+beats_start: shape = (117,)
+danceability: 0.0
+duration: 103.73179
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.537
+loudness: -24.327
+mode: 1
+mode_confidence: 0.678
+release: Celtic Harp
+release_7digitalid: 240472
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (260,)
+segments_loudness_max: shape = (260,)
+segments_loudness_max_time: shape = (260,)
+segments_loudness_start: shape = (260,)
+segments_pitches: shape = (260, 12)
+segments_start: shape = (260,)
+segments_timbre: shape = (260, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMUQUB12A8C132AD9
+start_of_fade_out: 96.212
+tatums_confidence: shape = (234,)
+tatums_start: shape = (234,)
+tempo: 71.308
+time_signature: 1
+time_signature_confidence: 0.592
+title: The Harp That Once Through Tara's Halls
+track_7digitalid: 2624921
+track_id: TRAJGTJ128F4236AC2
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6884
+artist_familiarity: 0.755041349999
+artist_hotttnesss: 0.458592024908
+artist_id: ARE0OLY1187B9AD19F
+artist_latitude: 40.79263
+artist_location: Whitestone, Queens, NY
+artist_longitude: -73.80817
+artist_mbid: db0fc330-1fa1-43f8-a33f-33eaf6a97d78
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Jesse Malin
+artist_playmeid: -1
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 47e785c2370e155e1be7c25874ab1504
+bars_confidence: shape = (85,)
+bars_start: shape = (85,)
+beats_confidence: shape = (345,)
+beats_start: shape = (345,)
+danceability: 0.0
+duration: 238.52363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.006
+loudness: -8.14
+mode: 1
+mode_confidence: 0.346
+release: On Your Sleeve
+release_7digitalid: 312553
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1004,)
+segments_loudness_max: shape = (1004,)
+segments_loudness_max_time: shape = (1004,)
+segments_loudness_start: shape = (1004,)
+segments_pitches: shape = (1004, 12)
+segments_start: shape = (1004,)
+segments_timbre: shape = (1004, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.496175335673
+song_id: SOFVUCF12A8C141ABB
+start_of_fade_out: 233.506
+tatums_confidence: shape = (1379,)
+tatums_start: shape = (1379,)
+tempo: 88.011
+time_signature: 4
+time_signature_confidence: 0.26
+title: Walk On The Wild Side
+track_7digitalid: 3524367
+track_id: TRBGQFF128F42BAE97
+year: 2008

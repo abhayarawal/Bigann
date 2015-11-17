@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15556
+artist_familiarity: 0.629186017122
+artist_hotttnesss: 0.361483732792
+artist_id: AREAEX91187B98DC01
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ad8648f9-95ca-4fc1-bc19-9cee86e468d3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gaither Vocal Band
+artist_playmeid: 61337
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 2b0ad5b4fc4ebc87ff6cb316835a6a3a
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (443,)
+beats_start: shape = (443,)
+danceability: 0.0
+duration: 257.09669
+end_of_fade_in: 2.45
+energy: 0.0
+key: 7
+key_confidence: 0.816
+loudness: -15.926
+mode: 1
+mode_confidence: 0.752
+release: South African Homecoming
+release_7digitalid: 69346
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (509,)
+segments_loudness_max: shape = (509,)
+segments_loudness_max_time: shape = (509,)
+segments_loudness_start: shape = (509,)
+segments_pitches: shape = (509, 12)
+segments_start: shape = (509,)
+segments_timbre: shape = (509, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOULASI12A67ADC8DC
+start_of_fade_out: 247.507
+tatums_confidence: shape = (443,)
+tatums_start: shape = (443,)
+tempo: 103.979
+time_signature: 5
+time_signature_confidence: 0.972
+title: Little Is Much When God Is In It (South African Homecoming Album Version)
+track_7digitalid: 725491
+track_id: TRBGEGX128EF344507
+year: 0

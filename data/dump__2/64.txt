@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 291580
+artist_familiarity: 0.711165786578
+artist_hotttnesss: 0.466826992527
+artist_id: ARBJSO81187B9BA09B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3f8a5e5b-c24b-4068-9f1c-afad8829e06b
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Soda Stereo
+artist_playmeid: 2146
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: b080a0665c514436252126391a5d11b2
+bars_confidence: shape = (127,)
+bars_start: shape = (127,)
+beats_confidence: shape = (513,)
+beats_start: shape = (513,)
+danceability: 0.0
+duration: 340.29669
+end_of_fade_in: 0.374
+energy: 0.0
+key: 7
+key_confidence: 0.403
+loudness: -11.356
+mode: 1
+mode_confidence: 0.196
+release: De Musica Ligera
+release_7digitalid: 509726
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1121,)
+segments_loudness_max: shape = (1121,)
+segments_loudness_max_time: shape = (1121,)
+segments_loudness_start: shape = (1121,)
+segments_pitches: shape = (1121, 12)
+segments_start: shape = (1121,)
+segments_timbre: shape = (1121, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.547324832034
+song_id: SOVRJYX12AB01844E1
+start_of_fade_out: 327.396
+tatums_confidence: shape = (2053,)
+tatums_start: shape = (2053,)
+tempo: 91.328
+time_signature: 4
+time_signature_confidence: 0.884
+title: Terapia De Amor Intensiva
+track_7digitalid: 5644849
+track_id: TRAAUKK128F933A680
+year: 1988

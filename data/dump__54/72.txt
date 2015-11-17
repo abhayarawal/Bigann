@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 487453
+artist_familiarity: 0.439094456474
+artist_hotttnesss: 0.333557158681
+artist_id: AR64N1H1187B996199
+artist_latitude: 45.51228
+artist_location: Montreal
+artist_longitude: -73.55439
+artist_mbid: fcc9bec9-2210-4407-9a5c-3dc2eb7bd699
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Edgar Bori
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 7795e5e4377a34f4fb075089a220394e
+bars_confidence: shape = (145,)
+bars_start: shape = (145,)
+beats_confidence: shape = (587,)
+beats_start: shape = (587,)
+danceability: 0.0
+duration: 309.002
+end_of_fade_in: 0.39
+energy: 0.0
+key: 5
+key_confidence: 0.397
+loudness: -14.606
+mode: 0
+mode_confidence: 0.415
+release: Bori
+release_7digitalid: 653939
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1016,)
+segments_loudness_max: shape = (1016,)
+segments_loudness_max_time: shape = (1016,)
+segments_loudness_start: shape = (1016,)
+segments_pitches: shape = (1016, 12)
+segments_start: shape = (1016,)
+segments_timbre: shape = (1016, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJHJKZ12AB0182AA2
+start_of_fade_out: 304.425
+tatums_confidence: shape = (1174,)
+tatums_start: shape = (1174,)
+tempo: 116.139
+time_signature: 4
+time_signature_confidence: 0.165
+title: Les choses
+track_7digitalid: 7245174
+track_id: TRASSHI128F93616CB
+year: 0

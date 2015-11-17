@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 54581
+artist_familiarity: 0.473963333208
+artist_hotttnesss: 0.3507066599
+artist_id: AR08GQF1187B98E316
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9661a587-fdb1-461d-abde-f6280acbde6b
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Daath
+artist_playmeid: 7382
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 2ef6fa753b93daafc4e37a4745f9dc31
+bars_confidence: shape = (135,)
+bars_start: shape = (135,)
+beats_confidence: shape = (544,)
+beats_start: shape = (544,)
+danceability: 0.0
+duration: 267.78077
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.65
+loudness: -2.818
+mode: 1
+mode_confidence: 0.619
+release: The Hinderers
+release_7digitalid: 138009
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (864,)
+segments_loudness_max: shape = (864,)
+segments_loudness_max_time: shape = (864,)
+segments_loudness_start: shape = (864,)
+segments_pitches: shape = (864, 12)
+segments_start: shape = (864,)
+segments_timbre: shape = (864, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONOKKL12A8AE496C3
+start_of_fade_out: 255.152
+tatums_confidence: shape = (1088,)
+tatums_start: shape = (1088,)
+tempo: 123.033
+time_signature: 4
+time_signature_confidence: 1.0
+title: Cosmic Forge (LP Version)
+track_7digitalid: 1432639
+track_id: TRBDRIR128F4241358
+year: 2006

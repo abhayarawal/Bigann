@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8133
+artist_familiarity: 0.631151242449
+artist_hotttnesss: 0.432754336766
+artist_id: ARGDSO91187B9AAB35
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bbd476fe-2987-4e5a-a278-ce5d5f3a6b9c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Patrick Bruel
+artist_playmeid: 5587
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: c57db8cf0d54c57df63fccd805463533
+bars_confidence: shape = (111,)
+bars_start: shape = (111,)
+beats_confidence: shape = (449,)
+beats_start: shape = (449,)
+danceability: 0.0
+duration: 257.2273
+end_of_fade_in: 0.247
+energy: 0.0
+key: 7
+key_confidence: 0.631
+loudness: -8.086
+mode: 1
+mode_confidence: 0.506
+release: Juste Avant
+release_7digitalid: 293740
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1011,)
+segments_loudness_max: shape = (1011,)
+segments_loudness_max_time: shape = (1011,)
+segments_loudness_start: shape = (1011,)
+segments_pitches: shape = (1011, 12)
+segments_start: shape = (1011,)
+segments_timbre: shape = (1011, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.400039656955
+song_id: SORIWFK12A8C137A62
+start_of_fade_out: 238.782
+tatums_confidence: shape = (1793,)
+tatums_start: shape = (1793,)
+tempo: 105.994
+time_signature: 4
+time_signature_confidence: 0.933
+title: Au Bout De La Marelle
+track_7digitalid: 3302475
+track_id: TRAGLFE128F428566B
+year: 1999

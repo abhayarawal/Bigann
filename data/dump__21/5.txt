@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 49852
+artist_familiarity: 0.481180211778
+artist_hotttnesss: 0.379495650569
+artist_id: ARUUXNF1187B98FB36
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c1686436-e675-4487-a001-c8405c11090a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Charlie Peacock
+artist_playmeid: 51778
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 48365a67ff2ed79039ecde23a332db7a
+bars_confidence: shape = (98,)
+bars_start: shape = (98,)
+beats_confidence: shape = (397,)
+beats_start: shape = (397,)
+danceability: 0.0
+duration: 202.34404
+end_of_fade_in: 0.136
+energy: 0.0
+key: 4
+key_confidence: 0.1
+loudness: -9.535
+mode: 1
+mode_confidence: 0.427
+release: West Coast Diaries Vol.1-cass.
+release_7digitalid: 152528
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (679,)
+segments_loudness_max: shape = (679,)
+segments_loudness_max_time: shape = (679,)
+segments_loudness_start: shape = (679,)
+segments_pitches: shape = (679, 12)
+segments_start: shape = (679,)
+segments_timbre: shape = (679, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.288481642656
+song_id: SOHSILH12A58A7CA6B
+start_of_fade_out: 190.409
+tatums_confidence: shape = (795,)
+tatums_start: shape = (795,)
+tempo: 118.155
+time_signature: 4
+time_signature_confidence: 1.0
+title: Hot Night Downtown
+track_7digitalid: 1594596
+track_id: TRAHDXD128F4264AA2
+year: 1988

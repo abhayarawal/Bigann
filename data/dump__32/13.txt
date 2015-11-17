@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 258216
+artist_familiarity: 0.406166634914
+artist_hotttnesss: 0.272385459553
+artist_id: ARWAPYC1187FB3FCAF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3b0db373-57d5-4d4f-b009-2cbfd7b7aa0d
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: S.U.P
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: e24e4c2123333c634a1870ea80dc16e5
+bars_confidence: shape = (195,)
+bars_start: shape = (195,)
+beats_confidence: shape = (785,)
+beats_start: shape = (785,)
+danceability: 0.0
+duration: 320.02567
+end_of_fade_in: 0.247
+energy: 0.0
+key: 0
+key_confidence: 0.706
+loudness: -10.849
+mode: 1
+mode_confidence: 0.62
+release: To Live Alone
+release_7digitalid: 333103
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (907,)
+segments_loudness_max: shape = (907,)
+segments_loudness_max_time: shape = (907,)
+segments_loudness_start: shape = (907,)
+segments_pitches: shape = (907, 12)
+segments_start: shape = (907,)
+segments_timbre: shape = (907, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCOPFT12AB017FC06
+start_of_fade_out: 291.236
+tatums_confidence: shape = (1569,)
+tatums_start: shape = (1569,)
+tempo: 147.983
+time_signature: 4
+time_signature_confidence: 0.056
+title: Back From The Garden (Live)
+track_7digitalid: 3732920
+track_id: TRAKXLI128F92ED809
+year: 2001

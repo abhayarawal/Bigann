@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8587
+artist_familiarity: 0.625067009004
+artist_hotttnesss: 0.40109846477
+artist_id: ARHNCQ31187B9915DC
+artist_latitude: nan
+artist_location: Teoc, MS
+artist_longitude: nan
+artist_mbid: 802484e0-90de-4611-9fa4-f5ef0c7727b6
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Mississippi John Hurt
+artist_playmeid: 12776
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 9388cc84472b6a141075649b5428aea1
+bars_confidence: shape = (70,)
+bars_start: shape = (70,)
+beats_confidence: shape = (368,)
+beats_start: shape = (368,)
+danceability: 0.0
+duration: 198.76526
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.082
+loudness: -12.818
+mode: 0
+mode_confidence: 0.654
+release: Blues Routes Mississippi John Hurt
+release_7digitalid: 651236
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (770,)
+segments_loudness_max: shape = (770,)
+segments_loudness_max_time: shape = (770,)
+segments_loudness_start: shape = (770,)
+segments_pitches: shape = (770, 12)
+segments_start: shape = (770,)
+segments_timbre: shape = (770, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUQADA12AB0184E60
+start_of_fade_out: 194.241
+tatums_confidence: shape = (736,)
+tatums_start: shape = (736,)
+tempo: 111.722
+time_signature: 5
+time_signature_confidence: 1.0
+title: Coffee Blues
+track_7digitalid: 7214405
+track_id: TRBFNDW128F9359ECE
+year: 1966

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 140450
+artist_familiarity: 0.495066660974
+artist_hotttnesss: 0.347511764516
+artist_id: AR0569B1187B9A4036
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1be2e508-905c-4d90-9bf2-7ab55f78b3e6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mike Bloomfield
+artist_playmeid: 17179
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 71797ed778dfa3567256e269eb897e3b
+bars_confidence: shape = (194,)
+bars_start: shape = (194,)
+beats_confidence: shape = (781,)
+beats_start: shape = (781,)
+danceability: 0.0
+duration: 284.1073
+end_of_fade_in: 0.293
+energy: 0.0
+key: 3
+key_confidence: 0.42
+loudness: -12.727
+mode: 1
+mode_confidence: 0.41
+release: Diamond Master Series - Mike Bloomfield
+release_7digitalid: 761602
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1163,)
+segments_loudness_max: shape = (1163,)
+segments_loudness_max_time: shape = (1163,)
+segments_loudness_start: shape = (1163,)
+segments_pitches: shape = (1163, 12)
+segments_start: shape = (1163,)
+segments_timbre: shape = (1163, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFUXYZ12AB018C902
+start_of_fade_out: 274.582
+tatums_confidence: shape = (1562,)
+tatums_start: shape = (1562,)
+tempo: 167.553
+time_signature: 4
+time_signature_confidence: 0.435
+title: Junko partner
+track_7digitalid: 8430775
+track_id: TRBCNUH12903CC27A5
+year: 1996

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 506817
+artist_familiarity: 0.311851336763
+artist_hotttnesss: 0.156920309238
+artist_id: ARMEGHI11E2835C3C3
+artist_latitude: nan
+artist_location: Madrid, Spain
+artist_longitude: nan
+artist_mbid: 87d0c089-3641-436e-bceb-737b9f506f65
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Barrabas
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 77a99fce5a58763ff58192fc7d99bc42
+bars_confidence: shape = (129,)
+bars_start: shape = (129,)
+beats_confidence: shape = (519,)
+beats_start: shape = (519,)
+danceability: 0.0
+duration: 241.3971
+end_of_fade_in: 0.136
+energy: 0.0
+key: 9
+key_confidence: 0.516
+loudness: -13.115
+mode: 1
+mode_confidence: 0.299
+release: Desperately
+release_7digitalid: 682247
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1159,)
+segments_loudness_max: shape = (1159,)
+segments_loudness_max_time: shape = (1159,)
+segments_loudness_start: shape = (1159,)
+segments_pitches: shape = (1159, 12)
+segments_start: shape = (1159,)
+segments_timbre: shape = (1159, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUXSFR12AB018D1A4
+start_of_fade_out: 229.924
+tatums_confidence: shape = (1038,)
+tatums_start: shape = (1038,)
+tempo: 131.729
+time_signature: 4
+time_signature_confidence: 0.0
+title: Broadway Star
+track_7digitalid: 7571163
+track_id: TRADVAR12903CDEBF3
+year: 0

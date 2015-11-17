@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 60541
+artist_familiarity: 0.4767476814
+artist_hotttnesss: 0.294053193399
+artist_id: ARP6N5A1187B99D1A3
+artist_latitude: nan
+artist_location: Hamtramck, MI
+artist_longitude: nan
+artist_mbid: b1d8fd63-45b2-4f13-a369-78b0a91eb7d3
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Mitch Ryder
+artist_playmeid: 2673
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 1d70367c6a471b02b7048f0f4fde9a48
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (335,)
+beats_start: shape = (335,)
+danceability: 0.0
+duration: 207.43791
+end_of_fade_in: 0.537
+energy: 0.0
+key: 9
+key_confidence: 0.674
+loudness: -11.255
+mode: 1
+mode_confidence: 0.559
+release: American Legend
+release_7digitalid: 615284
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (765,)
+segments_loudness_max: shape = (765,)
+segments_loudness_max_time: shape = (765,)
+segments_loudness_start: shape = (765,)
+segments_pitches: shape = (765, 12)
+segments_start: shape = (765,)
+segments_timbre: shape = (765, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.419125892959
+song_id: SOXILUQ12A58A7C72A
+start_of_fade_out: 198.159
+tatums_confidence: shape = (1342,)
+tatums_start: shape = (1342,)
+tempo: 97.538
+time_signature: 4
+time_signature_confidence: 0.727
+title: Jenny Take a Ride
+track_7digitalid: 6840091
+track_id: TRABBXU128F92FEF48
+year: 2004

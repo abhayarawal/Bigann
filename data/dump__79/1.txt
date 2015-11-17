@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 135817
+artist_familiarity: 0.509380155077
+artist_hotttnesss: 0.355667956383
+artist_id: AR5IDI61187FB43E75
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: eff1c3f0-854b-45ca-a2c1-1b57a0612caf
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bloomfield
+artist_playmeid: 154093
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 0c32ab279dc75605be63a2abe7123d51
+bars_confidence: shape = (263,)
+bars_start: shape = (263,)
+beats_confidence: shape = (1057,)
+beats_start: shape = (1057,)
+danceability: 0.0
+duration: 353.69751
+end_of_fade_in: 0.258
+energy: 0.0
+key: 1
+key_confidence: 0.287
+loudness: -6.718
+mode: 1
+mode_confidence: 0.251
+release: Café Solaire 11-Download Edition
+release_7digitalid: 778229
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1706,)
+segments_loudness_max: shape = (1706,)
+segments_loudness_max_time: shape = (1706,)
+segments_loudness_start: shape = (1706,)
+segments_pitches: shape = (1706, 12)
+segments_start: shape = (1706,)
+segments_timbre: shape = (1706, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.660381132712
+song_id: SOFQOAR12AC4688316
+start_of_fade_out: 335.267
+tatums_confidence: shape = (2113,)
+tatums_start: shape = (2113,)
+tempo: 179.976
+time_signature: 4
+time_signature_confidence: 0.0
+title: Boulevard St. Germain
+track_7digitalid: 8611529
+track_id: TRBBADO12903CEE832
+year: 2006

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2981
+artist_familiarity: 0.705287678078
+artist_hotttnesss: 0.517298018026
+artist_id: AR039B11187B9B30D0
+artist_latitude: nan
+artist_location: NEW YORK, New York
+artist_longitude: nan
+artist_mbid: fb9719bf-c477-4223-b319-986eb4168a91
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: John Williams
+artist_playmeid: 5226
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: b98f29e1b44c1f5359b4eb90d7571b89
+bars_confidence: shape = (110,)
+bars_start: shape = (110,)
+beats_confidence: shape = (554,)
+beats_start: shape = (554,)
+danceability: 0.0
+duration: 229.69424
+end_of_fade_in: 8.528
+energy: 0.0
+key: 7
+key_confidence: 0.885
+loudness: -20.958
+mode: 1
+mode_confidence: 0.672
+release: War of the Worlds
+release_7digitalid: 12682
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (610,)
+segments_loudness_max: shape = (610,)
+segments_loudness_max_time: shape = (610,)
+segments_loudness_start: shape = (610,)
+segments_pitches: shape = (610, 12)
+segments_start: shape = (610,)
+segments_timbre: shape = (610, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCSLFL12A6701C69A
+start_of_fade_out: 205.543
+tatums_confidence: shape = (1107,)
+tatums_start: shape = (1107,)
+tempo: 151.444
+time_signature: 5
+time_signature_confidence: 0.885
+title: Escape From The City
+track_7digitalid: 131121
+track_id: TRAISNF128E078B72C
+year: 0

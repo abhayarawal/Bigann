@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 378950
+artist_familiarity: 0.54611688438
+artist_hotttnesss: 0.398407519976
+artist_id: ARDAXCG1187B9942B1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 71ca4179-71a4-4b01-a30f-d9597a947ab1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Leonardo Favio
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 3b3d52989673ea6ffaa4a4483eb16788
+bars_confidence: shape = (125,)
+bars_start: shape = (125,)
+beats_confidence: shape = (384,)
+beats_start: shape = (384,)
+danceability: 0.0
+duration: 229.25016
+end_of_fade_in: 0.392
+energy: 0.0
+key: 11
+key_confidence: 0.538
+loudness: -13.879
+mode: 0
+mode_confidence: 0.616
+release: 15 Grandes Exitos
+release_7digitalid: 823052
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (726,)
+segments_loudness_max: shape = (726,)
+segments_loudness_max_time: shape = (726,)
+segments_loudness_start: shape = (726,)
+segments_pitches: shape = (726, 12)
+segments_start: shape = (726,)
+segments_timbre: shape = (726, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQYRAY12AC3DFAFB0
+start_of_fade_out: 219.057
+tatums_confidence: shape = (768,)
+tatums_start: shape = (768,)
+tempo: 102.392
+time_signature: 3
+time_signature_confidence: 1.0
+title: Sera Cuestion De Conversar
+track_7digitalid: 9084483
+track_id: TRAMGUT12903CEDE40
+year: 0

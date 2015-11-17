@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 131598
+artist_familiarity: 0.499680423013
+artist_hotttnesss: 0.323462286674
+artist_id: ARC8S7S1187B98D50B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f3b6a499-aea9-4ca2-b87a-1f5de64d369f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Marc Dorsey
+artist_playmeid: 18475
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: c865ee13d24bb2a94f48d0af80b38388
+bars_confidence: shape = (170,)
+bars_start: shape = (170,)
+beats_confidence: shape = (683,)
+beats_start: shape = (683,)
+danceability: 0.0
+duration: 301.50485
+end_of_fade_in: 5.172
+energy: 0.0
+key: 7
+key_confidence: 0.682
+loudness: -7.006
+mode: 1
+mode_confidence: 0.699
+release: Crave
+release_7digitalid: 535173
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1058,)
+segments_loudness_max: shape = (1058,)
+segments_loudness_max_time: shape = (1058,)
+segments_loudness_start: shape = (1058,)
+segments_pitches: shape = (1058, 12)
+segments_start: shape = (1058,)
+segments_timbre: shape = (1058, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOWIAWZ12AB017C92A
+start_of_fade_out: 285.826
+tatums_confidence: shape = (1367,)
+tatums_start: shape = (1367,)
+tempo: 137.953
+time_signature: 4
+time_signature_confidence: 0.25
+title: Love You Again
+track_7digitalid: 5927087
+track_id: TRBEYTH128F9309622
+year: 1999

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12983
+artist_familiarity: 0.439907658143
+artist_hotttnesss: 0.311559175647
+artist_id: ARQVLQJ1187B98F11F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 36be323a-edfd-49a3-ac25-a02ef6a2c351
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mau Mau
+artist_playmeid: 68721
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 5924a34ee31809a8f6d0a6cb7345b3a1
+bars_confidence: shape = (342,)
+bars_start: shape = (342,)
+beats_confidence: shape = (342,)
+beats_start: shape = (342,)
+danceability: 0.0
+duration: 232.12363
+end_of_fade_in: 0.253
+energy: 0.0
+key: 2
+key_confidence: 0.46
+loudness: -8.714
+mode: 1
+mode_confidence: 0.511
+release: Safari Beach (Tucasa Micasa)
+release_7digitalid: 54099
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (897,)
+segments_loudness_max: shape = (897,)
+segments_loudness_max_time: shape = (897,)
+segments_loudness_start: shape = (897,)
+segments_pitches: shape = (897, 12)
+segments_start: shape = (897,)
+segments_timbre: shape = (897, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SORVMCT12A6D4FA8F7
+start_of_fade_out: 221.362
+tatums_confidence: shape = (1026,)
+tatums_start: shape = (1026,)
+tempo: 89.672
+time_signature: 1
+time_signature_confidence: 0.976
+title: Gamble Calypso
+track_7digitalid: 564612
+track_id: TRBBDIU128F1496C52
+year: 2000

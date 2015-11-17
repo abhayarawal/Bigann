@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8908
+artist_familiarity: 0.686812987091
+artist_hotttnesss: 0.684478823309
+artist_id: ARJGIOD1187B9AE920
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d339efbb-77b9-4147-ba9e-59f2f24550b2
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Kelly Clarkson
+artist_playmeid: 857
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 33d5b40bb0d9f21d33c89bdffca323f3
+bars_confidence: shape = (124,)
+bars_start: shape = (124,)
+beats_confidence: shape = (501,)
+beats_start: shape = (501,)
+danceability: 0.0
+duration: 230.63465
+end_of_fade_in: 0.259
+energy: 0.0
+key: 9
+key_confidence: 0.019
+loudness: -5.953
+mode: 1
+mode_confidence: 0.138
+release: My Life Would Suck Without You
+release_7digitalid: 426506
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (773,)
+segments_loudness_max: shape = (773,)
+segments_loudness_max_time: shape = (773,)
+segments_loudness_start: shape = (773,)
+segments_pitches: shape = (773, 12)
+segments_start: shape = (773,)
+segments_timbre: shape = (773, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYMPFK12A8C141D1A
+start_of_fade_out: 218.273
+tatums_confidence: shape = (1003,)
+tatums_start: shape = (1003,)
+tempo: 135.914
+time_signature: 4
+time_signature_confidence: 0.394
+title: My Life Would Suck Without You
+track_7digitalid: 4765934
+track_id: TRACAKD128F92D5D38
+year: 2009

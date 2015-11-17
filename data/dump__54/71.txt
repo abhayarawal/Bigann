@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1413
+artist_familiarity: 0.709967526114
+artist_hotttnesss: 0.514513276947
+artist_id: ARLWEID1187B98DE3C
+artist_latitude: nan
+artist_location: Chicago, IL
+artist_longitude: nan
+artist_mbid: 5803c81e-739a-4057-9a5c-cf84e55db630
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Quincy Jones
+artist_playmeid: 5307
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 6d58e02b4cd6e73b99cbb838f07e23b6
+bars_confidence: shape = (70,)
+bars_start: shape = (70,)
+beats_confidence: shape = (230,)
+beats_start: shape = (230,)
+danceability: 0.0
+duration: 196.04853
+end_of_fade_in: 0.224
+energy: 0.0
+key: 8
+key_confidence: 0.764
+loudness: -12.182
+mode: 1
+mode_confidence: 0.563
+release: Take Five
+release_7digitalid: 475476
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (515,)
+segments_loudness_max: shape = (515,)
+segments_loudness_max_time: shape = (515,)
+segments_loudness_start: shape = (515,)
+segments_pitches: shape = (515, 12)
+segments_start: shape = (515,)
+segments_timbre: shape = (515, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBPMZI12A8C140B04
+start_of_fade_out: 188.958
+tatums_confidence: shape = (460,)
+tatums_start: shape = (460,)
+tempo: 72.117
+time_signature: 3
+time_signature_confidence: 1.0
+title: Stormy Weather
+track_7digitalid: 5278615
+track_id: TRASSFI128F92E2743
+year: 1988

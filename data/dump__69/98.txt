@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 81100
+artist_familiarity: 0.631630608053
+artist_hotttnesss: 0.373621212395
+artist_id: ARI3W3K1187FB49E6F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c9073012-4547-4a72-8963-738d9f8503cc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Nacho Chapado feat. Stephen Massa
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: f8df72d430f5ca94a988f474a42e86a3
+bars_confidence: shape = (779,)
+bars_start: shape = (779,)
+beats_confidence: shape = (779,)
+beats_start: shape = (779,)
+danceability: 0.0
+duration: 371.1473
+end_of_fade_in: 2.392
+energy: 0.0
+key: 6
+key_confidence: 0.818
+loudness: -8.122
+mode: 0
+mode_confidence: 0.61
+release: B Somebody
+release_7digitalid: 486108
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1648,)
+segments_loudness_max: shape = (1648,)
+segments_loudness_max_time: shape = (1648,)
+segments_loudness_start: shape = (1648,)
+segments_pitches: shape = (1648, 12)
+segments_start: shape = (1648,)
+segments_timbre: shape = (1648, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSEPVE12AB017F984
+start_of_fade_out: 363.578
+tatums_confidence: shape = (1559,)
+tatums_start: shape = (1559,)
+tempo: 128.003
+time_signature: 1
+time_signature_confidence: 0.0
+title: B Somebody
+track_7digitalid: 5392418
+track_id: TRAXXKJ128F92FDCD2
+year: 0

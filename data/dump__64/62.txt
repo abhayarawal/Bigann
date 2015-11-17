@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10043
+artist_familiarity: 0.566508225954
+artist_hotttnesss: 0.386426749143
+artist_id: AROQWIB11F4C83E5DC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mario Piu
+artist_playmeid: 1019
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: c2d76900e0bf3dda181dd51cdaf8434e
+bars_confidence: shape = (244,)
+bars_start: shape = (244,)
+beats_confidence: shape = (980,)
+beats_start: shape = (980,)
+danceability: 0.0
+duration: 430.54975
+end_of_fade_in: 0.251
+energy: 0.0
+key: 7
+key_confidence: 0.774
+loudness: -9.152
+mode: 1
+mode_confidence: 0.934
+release: Communication
+release_7digitalid: 215919
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (2228,)
+segments_loudness_max: shape = (2228,)
+segments_loudness_max_time: shape = (2228,)
+segments_loudness_start: shape = (2228,)
+segments_pitches: shape = (2228, 12)
+segments_start: shape = (2228,)
+segments_timbre: shape = (2228, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBWYCD12A8C13B45D
+start_of_fade_out: 423.654
+tatums_confidence: shape = (1960,)
+tatums_start: shape = (1960,)
+tempo: 137.981
+time_signature: 4
+time_signature_confidence: 0.0
+title: Communication
+track_7digitalid: 2350077
+track_id: TRAWCRK128F427CA9F
+year: 0

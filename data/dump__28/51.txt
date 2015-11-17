@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 340479
+artist_familiarity: 0.705205403329
+artist_hotttnesss: 0.653512932947
+artist_id: ARNLE621187B98ECB5
+artist_latitude: 41.26069
+artist_location: Omaha, NE
+artist_longitude: -95.93995
+artist_mbid: 922a18b1-0aba-4868-8f38-2aa4f324fe16
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mannheim Steamroller
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: b42df93fa52e809ff6afe9c8d5667c35
+bars_confidence: shape = (91,)
+bars_start: shape = (91,)
+beats_confidence: shape = (369,)
+beats_start: shape = (369,)
+danceability: 0.0
+duration: 149.89016
+end_of_fade_in: 0.141
+energy: 0.0
+key: 7
+key_confidence: 0.639
+loudness: -6.894
+mode: 1
+mode_confidence: 0.687
+release: Christmasville
+release_7digitalid: 685053
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (510,)
+segments_loudness_max: shape = (510,)
+segments_loudness_max_time: shape = (510,)
+segments_loudness_start: shape = (510,)
+segments_pitches: shape = (510, 12)
+segments_start: shape = (510,)
+segments_timbre: shape = (510, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQHYAX12CF530D50C
+start_of_fade_out: 143.366
+tatums_confidence: shape = (738,)
+tatums_start: shape = (738,)
+tempo: 154.695
+time_signature: 4
+time_signature_confidence: 0.297
+title: (Everybody's Waiting For) The Man With the Bag
+track_7digitalid: 7602679
+track_id: TRAJOPH12903CE6732
+year: 2008

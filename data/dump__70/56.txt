@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5444
+artist_familiarity: 0.674023156176
+artist_hotttnesss: 0.441537878477
+artist_id: AR41ESB1187FB360B1
+artist_latitude: 42.7316
+artist_location: BG
+artist_longitude: 25.48312
+artist_mbid: f38cd4b8-5701-4f0c-ade1-1f056ec13f11
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gloria
+artist_playmeid: 39374
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: e2e2f754336075720432db05e13fb3ad
+bars_confidence: shape = (473,)
+bars_start: shape = (473,)
+beats_confidence: shape = (473,)
+beats_start: shape = (473,)
+danceability: 0.0
+duration: 219.24526
+end_of_fade_in: 0.261
+energy: 0.0
+key: 1
+key_confidence: 0.224
+loudness: -7.714
+mode: 0
+mode_confidence: 0.446
+release: People like you and me
+release_7digitalid: 136111
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (832,)
+segments_loudness_max: shape = (832,)
+segments_loudness_max_time: shape = (832,)
+segments_loudness_start: shape = (832,)
+segments_pitches: shape = (832, 12)
+segments_start: shape = (832,)
+segments_timbre: shape = (832, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKJPZX12A8AE45D50
+start_of_fade_out: 207.743
+tatums_confidence: shape = (947,)
+tatums_start: shape = (947,)
+tempo: 132.834
+time_signature: 1
+time_signature_confidence: 0.0
+title: All the Way
+track_7digitalid: 1411719
+track_id: TRAYDSS128F423CE63
+year: 0

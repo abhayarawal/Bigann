@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 54762
+artist_familiarity: 0.370703603519
+artist_hotttnesss: 0.274631116761
+artist_id: ARPJNT81187B98AD36
+artist_latitude: 38.25486
+artist_location: Louisville, KY
+artist_longitude: -85.7664
+artist_mbid: 1e1fa4a5-3bd6-4a1c-9b1d-5c613a741500
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sylvester Weaver
+artist_playmeid: 16300
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: da4a1c931260e505f9c856f711e0aef3
+bars_confidence: shape = (65,)
+bars_start: shape = (65,)
+beats_confidence: shape = (265,)
+beats_start: shape = (265,)
+danceability: 0.0
+duration: 182.77832
+end_of_fade_in: 0.329
+energy: 0.0
+key: 4
+key_confidence: 0.706
+loudness: -14.695
+mode: 1
+mode_confidence: 0.528
+release: Sylvester Weaver Vol. 2 (1927)
+release_7digitalid: 174629
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (469,)
+segments_loudness_max: shape = (469,)
+segments_loudness_max_time: shape = (469,)
+segments_loudness_start: shape = (469,)
+segments_pitches: shape = (469, 12)
+segments_start: shape = (469,)
+segments_timbre: shape = (469, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXKUPF12A8C13FA8B
+start_of_fade_out: 170.109
+tatums_confidence: shape = (530,)
+tatums_start: shape = (530,)
+tempo: 88.887
+time_signature: 4
+time_signature_confidence: 0.0
+title: Alligator Blues
+track_7digitalid: 1871687
+track_id: TRAPUOJ128F429F4C1
+year: 0

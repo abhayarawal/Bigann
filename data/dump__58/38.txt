@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 318
+artist_familiarity: 0.742548134638
+artist_hotttnesss: 0.625428356113
+artist_id: ARO4WQR1187B9B9825
+artist_latitude: nan
+artist_location: Houston, TX
+artist_longitude: nan
+artist_mbid: c3d14b41-a48d-488f-bfed-ce0597bb0b1f
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Kenny Rogers
+artist_playmeid: 2167
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 6cb626163e41bc4117a31f4da8c12541
+bars_confidence: shape = (338,)
+bars_start: shape = (338,)
+beats_confidence: shape = (338,)
+beats_start: shape = (338,)
+danceability: 0.0
+duration: 135.36608
+end_of_fade_in: 0.201
+energy: 0.0
+key: 5
+key_confidence: 0.531
+loudness: -12.965
+mode: 1
+mode_confidence: 0.516
+release: The Legendary Kenny Rogers
+release_7digitalid: 777599
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (502,)
+segments_loudness_max: shape = (502,)
+segments_loudness_max_time: shape = (502,)
+segments_loudness_start: shape = (502,)
+segments_pitches: shape = (502, 12)
+segments_start: shape = (502,)
+segments_timbre: shape = (502, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGHNAC12CF5663C17
+start_of_fade_out: 123.635
+tatums_confidence: shape = (676,)
+tatums_start: shape = (676,)
+tempo: 154.783
+time_signature: 1
+time_signature_confidence: 0.0
+title: Where Does Rosie Go?
+track_7digitalid: 8603926
+track_id: TRATYCL12903CECAAC
+year: 2003

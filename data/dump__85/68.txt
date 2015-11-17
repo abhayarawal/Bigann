@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 24221
+artist_familiarity: 0.705491779875
+artist_hotttnesss: 0.393457111376
+artist_id: ARB0WNP1187B9AC4AB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 14aa9e32-c377-4dc6-9162-2e6c67a8eaf4
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Samy Deluxe
+artist_playmeid: 2345
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 161dcf10bb0f14d6006cdaa87045e90c
+bars_confidence: shape = (93,)
+bars_start: shape = (93,)
+beats_confidence: shape = (470,)
+beats_start: shape = (470,)
+danceability: 0.0
+duration: 247.01342
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.05
+loudness: -6.08
+mode: 0
+mode_confidence: 0.195
+release: So Deluxe So Glorious
+release_7digitalid: 114401
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1195,)
+segments_loudness_max: shape = (1195,)
+segments_loudness_max_time: shape = (1195,)
+segments_loudness_start: shape = (1195,)
+segments_pitches: shape = (1195, 12)
+segments_start: shape = (1195,)
+segments_timbre: shape = (1195, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.430160637018
+song_id: SOAANKE12A8C13CF5C
+start_of_fade_out: 247.013
+tatums_confidence: shape = (1411,)
+tatums_start: shape = (1411,)
+tempo: 114.072
+time_signature: 5
+time_signature_confidence: 0.583
+title: Sam und Bo_ N.E.O.
+track_7digitalid: 1179886
+track_id: TRBDLDS128F429C171
+year: 2005

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 27921
+artist_familiarity: 0.492669502562
+artist_hotttnesss: 0.331373169899
+artist_id: ARTJJZZ1187B9BA5E7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9b52b90b-9858-4463-b20d-7e00480c4714
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Rishi Rich
+artist_playmeid: 1931
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 74a3312ddb5fe53ba2bb937780641525
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (352,)
+beats_start: shape = (352,)
+danceability: 0.0
+duration: 201.92608
+end_of_fade_in: 0.195
+energy: 0.0
+key: 4
+key_confidence: 0.558
+loudness: -4.736
+mode: 0
+mode_confidence: 0.448
+release: The Project
+release_7digitalid: 38957
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (951,)
+segments_loudness_max: shape = (951,)
+segments_loudness_max_time: shape = (951,)
+segments_loudness_start: shape = (951,)
+segments_pitches: shape = (951, 12)
+segments_start: shape = (951,)
+segments_timbre: shape = (951, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.217726201606
+song_id: SOSUVKW12A6D4F58BE
+start_of_fade_out: 196.917
+tatums_confidence: shape = (704,)
+tatums_start: shape = (704,)
+tempo: 107.011
+time_signature: 4
+time_signature_confidence: 1.0
+title: Come Here Feat. Jay Sean
+track_7digitalid: 417019
+track_id: TRADMRP128F147CBF6
+year: 2006

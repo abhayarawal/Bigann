@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 740906
+artist_familiarity: 0.54003774898
+artist_hotttnesss: 0.360053306539
+artist_id: AR1N6N61187FB4E25E
+artist_latitude: 23.0833
+artist_location: Havana, Cuba [Jesus Maria]
+artist_longitude: -82.4167
+artist_mbid: 915f84de-eac2-4e78-99ad-9ab6e2c50af6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mongo Santamaria
+artist_playmeid: 6530
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 5a68a95d375c78dc7b06c4045dfd34c2
+bars_confidence: shape = (1051,)
+bars_start: shape = (1051,)
+beats_confidence: shape = (1051,)
+beats_start: shape = (1051,)
+danceability: 0.0
+duration: 366.70649
+end_of_fade_in: 2.148
+energy: 0.0
+key: 5
+key_confidence: 0.445
+loudness: -11.257
+mode: 0
+mode_confidence: 0.396
+release: Mongo Returns!
+release_7digitalid: 411802
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1845,)
+segments_loudness_max: shape = (1845,)
+segments_loudness_max_time: shape = (1845,)
+segments_loudness_start: shape = (1845,)
+segments_pitches: shape = (1845, 12)
+segments_start: shape = (1845,)
+segments_timbre: shape = (1845, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCNCAD12AB0187375
+start_of_fade_out: 361.221
+tatums_confidence: shape = (2102,)
+tatums_start: shape = (2102,)
+tempo: 175.613
+time_signature: 1
+time_signature_confidence: 0.0
+title: Hush
+track_7digitalid: 4580954
+track_id: TRAFUWS128F9320678
+year: 1995

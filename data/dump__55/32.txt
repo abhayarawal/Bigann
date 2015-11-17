@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18232
+artist_familiarity: 0.699262055776
+artist_hotttnesss: 0.475941289598
+artist_id: AR2SMD91187B9B0582
+artist_latitude: nan
+artist_location: Boston, MA
+artist_longitude: nan
+artist_mbid: 779353f3-6401-4cda-a8a2-6fd3ec9bc11b
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Mighty Mighty Bosstones
+artist_playmeid: 176106
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 3ca4ab95947db87715e6658cd0704f98
+bars_confidence: shape = (716,)
+bars_start: shape = (716,)
+beats_confidence: shape = (716,)
+beats_start: shape = (716,)
+danceability: 0.0
+duration: 211.33016
+end_of_fade_in: 0.351
+energy: 0.0
+key: 9
+key_confidence: 0.721
+loudness: -9.944
+mode: 1
+mode_confidence: 0.65
+release: More Noise And Other Disturbances
+release_7digitalid: 511275
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (795,)
+segments_loudness_max: shape = (795,)
+segments_loudness_max_time: shape = (795,)
+segments_loudness_start: shape = (795,)
+segments_pitches: shape = (795, 12)
+segments_start: shape = (795,)
+segments_timbre: shape = (795, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.487112194863
+song_id: SOPQZOX12AB01849EA
+start_of_fade_out: 200.371
+tatums_confidence: shape = (1432,)
+tatums_start: shape = (1432,)
+tempo: 205.559
+time_signature: 1
+time_signature_confidence: 0.0
+title: They Came To Boston
+track_7digitalid: 5656439
+track_id: TRASXHB128F933D3BD
+year: 1992

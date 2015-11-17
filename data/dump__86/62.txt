@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10859
+artist_familiarity: 0.559263502188
+artist_hotttnesss: 0.36217449082
+artist_id: AR4YY6D1187B9AEC44
+artist_latitude: nan
+artist_location: Great Britain / UK
+artist_longitude: nan
+artist_mbid: c8f8f706-2176-4fde-9f50-4e243dd096c8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Spooky Tooth / Mike Harrison
+artist_playmeid: 100400
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: d8bd6829e9c4619bdb49cedbbc136e04
+bars_confidence: shape = (856,)
+bars_start: shape = (856,)
+beats_confidence: shape = (856,)
+beats_start: shape = (856,)
+danceability: 0.0
+duration: 384.7571
+end_of_fade_in: 2.717
+energy: 0.0
+key: 2
+key_confidence: 0.407
+loudness: -9.947
+mode: 1
+mode_confidence: 0.446
+release: That Was Only Yesterday - An Introduction To
+release_7digitalid: 15791
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1255,)
+segments_loudness_max: shape = (1255,)
+segments_loudness_max_time: shape = (1255,)
+segments_loudness_start: shape = (1255,)
+segments_pitches: shape = (1255, 12)
+segments_start: shape = (1255,)
+segments_timbre: shape = (1255, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.807174434417
+song_id: SOOHPYN12A67020C87
+start_of_fade_out: 380.54
+tatums_confidence: shape = (1712,)
+tatums_start: shape = (1712,)
+tempo: 134.804
+time_signature: 1
+time_signature_confidence: 0.0
+title: I Am The Walrus
+track_7digitalid: 166977
+track_id: TRBDSQE128E079325F
+year: 1970

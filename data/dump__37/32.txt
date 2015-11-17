@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9878
+artist_familiarity: 0.807779927796
+artist_hotttnesss: 0.486825413499
+artist_id: ARR6MOS1187B994C51
+artist_latitude: nan
+artist_location: Borlänge
+artist_longitude: nan
+artist_mbid: ea854cc1-13fc-4fd0-86a5-d2c7dba06764
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Mando Diao
+artist_playmeid: 24471
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 28d490e4322a2c0d7a6fd2cfaec11102
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (433,)
+beats_start: shape = (433,)
+danceability: 0.0
+duration: 182.282
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.384
+loudness: -4.8
+mode: 1
+mode_confidence: 0.467
+release: Hurricane Bar
+release_7digitalid: 153947
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (635,)
+segments_loudness_max: shape = (635,)
+segments_loudness_max_time: shape = (635,)
+segments_loudness_start: shape = (635,)
+segments_pitches: shape = (635, 12)
+segments_start: shape = (635,)
+segments_timbre: shape = (635, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.644220077682
+song_id: SOYDZUT12A8C13677D
+start_of_fade_out: 174.022
+tatums_confidence: shape = (867,)
+tatums_start: shape = (867,)
+tempo: 150.276
+time_signature: 4
+time_signature_confidence: 0.719
+title: Annie's Angle
+track_7digitalid: 1608629
+track_id: TRAMRFE128F4267DF3
+year: 2004

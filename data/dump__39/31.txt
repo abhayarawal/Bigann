@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2199
+artist_familiarity: 0.765254692052
+artist_hotttnesss: 0.603876486918
+artist_id: ARYJSY01187B9B7C65
+artist_latitude: nan
+artist_location: Locust Ridge, TN
+artist_longitude: nan
+artist_mbid: 1d543e07-d0d2-4834-a8db-d65c50c2a856
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Dolly Parton
+artist_playmeid: 493
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: e05c2e49a20c0765f6642c7c91db203a
+bars_confidence: shape = (112,)
+bars_start: shape = (112,)
+beats_confidence: shape = (451,)
+beats_start: shape = (451,)
+danceability: 0.0
+duration: 193.54077
+end_of_fade_in: 0.288
+energy: 0.0
+key: 7
+key_confidence: 0.825
+loudness: -10.691
+mode: 1
+mode_confidence: 0.71
+release: Legends
+release_7digitalid: 304007
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (495,)
+segments_loudness_max: shape = (495,)
+segments_loudness_max_time: shape = (495,)
+segments_loudness_start: shape = (495,)
+segments_pitches: shape = (495, 12)
+segments_start: shape = (495,)
+segments_timbre: shape = (495, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIOOWC12CF530D524
+start_of_fade_out: 175.502
+tatums_confidence: shape = (901,)
+tatums_start: shape = (901,)
+tempo: 143.804
+time_signature: 4
+time_signature_confidence: 0.0
+title: It's All Wrong_ But It's All Right
+track_7digitalid: 3435125
+track_id: TRANLJA128F42A5379
+year: 0

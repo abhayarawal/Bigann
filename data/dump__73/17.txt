@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 116223
+artist_familiarity: 0.559366582247
+artist_hotttnesss: 0.41453432074
+artist_id: ARQ4E5R1187B9B3A3E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2a74f0ec-e478-423e-970c-317829bd503f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: QBO
+artist_playmeid: 101553
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: ba4591c53cd1df3d8afafe5d57a9890e
+bars_confidence: shape = (161,)
+bars_start: shape = (161,)
+beats_confidence: shape = (647,)
+beats_start: shape = (647,)
+danceability: 0.0
+duration: 189.6224
+end_of_fade_in: 0.148
+energy: 0.0
+key: 11
+key_confidence: 0.381
+loudness: -4.867
+mode: 0
+mode_confidence: 0.451
+release: QBO
+release_7digitalid: 283507
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (665,)
+segments_loudness_max: shape = (665,)
+segments_loudness_max_time: shape = (665,)
+segments_loudness_start: shape = (665,)
+segments_pitches: shape = (665, 12)
+segments_start: shape = (665,)
+segments_timbre: shape = (665, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.473346541109
+song_id: SODTZIR12A8C13025B
+start_of_fade_out: 181.197
+tatums_confidence: shape = (1294,)
+tatums_start: shape = (1294,)
+tempo: 205.739
+time_signature: 4
+time_signature_confidence: 0.684
+title: Magico
+track_7digitalid: 3158774
+track_id: TRAYZXT128F42650B1
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16470
+artist_familiarity: 0.632130913015
+artist_hotttnesss: 0.472281210651
+artist_id: ARO0QD41187FB3AB0A
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 280ddd36-ac7d-4446-8689-a548d6f3458e
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Keb' Mo'
+artist_playmeid: 13085
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 64b0c17d9e2d26433d9a4544f7812c4e
+bars_confidence: shape = (396,)
+bars_start: shape = (396,)
+beats_confidence: shape = (396,)
+beats_start: shape = (396,)
+danceability: 0.0
+duration: 236.48608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.73
+loudness: -11.0
+mode: 1
+mode_confidence: 0.492
+release: The Door
+release_7digitalid: 287939
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (773,)
+segments_loudness_max: shape = (773,)
+segments_loudness_max_time: shape = (773,)
+segments_loudness_start: shape = (773,)
+segments_pitches: shape = (773, 12)
+segments_start: shape = (773,)
+segments_timbre: shape = (773, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYULQG12AF729C1AB
+start_of_fade_out: 221.768
+tatums_confidence: shape = (793,)
+tatums_start: shape = (793,)
+tempo: 104.204
+time_signature: 1
+time_signature_confidence: 0.0
+title: The Door
+track_7digitalid: 3230771
+track_id: TRBAWQK128F42743A9
+year: 2000

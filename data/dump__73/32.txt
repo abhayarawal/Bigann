@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 325470
+artist_familiarity: 0.631482179199
+artist_hotttnesss: 0.0
+artist_id: ARKSB7X1187B99BA5C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1c344ce8-714f-45c0-b656-0f91904fa18d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Nouvelle
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: a28e62ea03d1630da662a8fe3b586367
+bars_confidence: shape = (119,)
+bars_start: shape = (119,)
+beats_confidence: shape = (841,)
+beats_start: shape = (841,)
+danceability: 0.0
+duration: 229.51138
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.121
+loudness: -14.659
+mode: 1
+mode_confidence: 0.374
+release: Free Bossa
+release_7digitalid: 508703
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (930,)
+segments_loudness_max: shape = (930,)
+segments_loudness_max_time: shape = (930,)
+segments_loudness_start: shape = (930,)
+segments_pitches: shape = (930, 12)
+segments_start: shape = (930,)
+segments_timbre: shape = (930, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAUCRB12AB0181238
+start_of_fade_out: 229.511
+tatums_confidence: shape = (1681,)
+tatums_start: shape = (1681,)
+tempo: 220.026
+time_signature: 7
+time_signature_confidence: 0.476
+title: Céu do Brasil
+track_7digitalid: 5626573
+track_id: TRAZBBM128F9335F10
+year: 2000

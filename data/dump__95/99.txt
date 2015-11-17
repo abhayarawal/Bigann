@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4945
+artist_familiarity: 0.707925027025
+artist_hotttnesss: 0.499018398415
+artist_id: ARTZ90C1187FB55D81
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5cf7e696-3c52-4021-866c-7ce71ab8671a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jimmy Wayne
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 32ea391d5e2e867f53b9ecd36e3f7556
+bars_confidence: shape = (94,)
+bars_start: shape = (94,)
+beats_confidence: shape = (381,)
+beats_start: shape = (381,)
+danceability: 0.0
+duration: 202.08281
+end_of_fade_in: 0.255
+energy: 0.0
+key: 5
+key_confidence: 0.407
+loudness: -6.424
+mode: 1
+mode_confidence: 0.407
+release: Jimmy Wayne
+release_7digitalid: 57880
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (632,)
+segments_loudness_max: shape = (632,)
+segments_loudness_max_time: shape = (632,)
+segments_loudness_start: shape = (632,)
+segments_pitches: shape = (632, 12)
+segments_start: shape = (632,)
+segments_timbre: shape = (632, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.510962044002
+song_id: SOZWVCA12A6D4F9774
+start_of_fade_out: 187.339
+tatums_confidence: shape = (762,)
+tatums_start: shape = (762,)
+tempo: 117.142
+time_signature: 4
+time_signature_confidence: 1.0
+title: She Runs
+track_7digitalid: 602804
+track_id: TRBHCQA128F149F192
+year: 0

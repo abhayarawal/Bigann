@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 123528
+artist_familiarity: 0.580971509957
+artist_hotttnesss: 0.348735929784
+artist_id: ARELFAE1187FB40D0A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4e01e834-c872-4c76-87ab-c2304efa5e7e
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Bally Sagoo
+artist_playmeid: 65999
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 1bf1244e0fc00878a6fd5f8d11373b9d
+bars_confidence: shape = (206,)
+bars_start: shape = (206,)
+beats_confidence: shape = (827,)
+beats_start: shape = (827,)
+danceability: 0.0
+duration: 433.42322
+end_of_fade_in: 0.171
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -11.462
+mode: 1
+mode_confidence: 0.0
+release: Ragga Muffin Mix 1991
+release_7digitalid: 475840
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (2199,)
+segments_loudness_max: shape = (2199,)
+segments_loudness_max_time: shape = (2199,)
+segments_loudness_start: shape = (2199,)
+segments_pitches: shape = (2199, 12)
+segments_start: shape = (2199,)
+segments_timbre: shape = (2199, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SODXECL12A8C142265
+start_of_fade_out: 427.967
+tatums_confidence: shape = (3307,)
+tatums_start: shape = (3307,)
+tempo: 115.533
+time_signature: 4
+time_signature_confidence: 1.0
+title: Hey Jamalo ((Def Mix))
+track_7digitalid: 5283172
+track_id: TRAVALP128F92E38A1
+year: 0

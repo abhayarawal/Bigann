@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 144534
+artist_familiarity: 0.559278494224
+artist_hotttnesss: 0.432011946858
+artist_id: ARVJ0JK1187B98C9C0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cd07140b-1bbf-4fab-baad-881c1637a9ee
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Brooklyn Tabernacle Choir
+artist_playmeid: 18351
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 31c3ca4c19e8cbf25d04b9c2f4e2906e
+bars_confidence: shape = (150,)
+bars_start: shape = (150,)
+beats_confidence: shape = (602,)
+beats_start: shape = (602,)
+danceability: 0.0
+duration: 226.66404
+end_of_fade_in: 3.796
+energy: 0.0
+key: 8
+key_confidence: 0.718
+loudness: -11.907
+mode: 1
+mode_confidence: 0.688
+release: Praise Him...Live!
+release_7digitalid: 341940
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (734,)
+segments_loudness_max: shape = (734,)
+segments_loudness_max_time: shape = (734,)
+segments_loudness_start: shape = (734,)
+segments_pitches: shape = (734, 12)
+segments_start: shape = (734,)
+segments_timbre: shape = (734, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOKHLYR12AF72A2F91
+start_of_fade_out: 226.664
+tatums_confidence: shape = (1203,)
+tatums_start: shape = (1203,)
+tempo: 162.987
+time_signature: 4
+time_signature_confidence: 1.0
+title: Everything I Desire
+track_7digitalid: 3826835
+track_id: TRAIFSJ128F92FE22F
+year: 1995

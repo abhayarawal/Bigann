@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 69843
+artist_familiarity: 0.44968925864
+artist_hotttnesss: 0.349981053511
+artist_id: ARQQCFZ11F4C84217F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jazz Crusaders
+artist_playmeid: 96863
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: fc2b8a8b5e8e31d65fd9b00f3f969974
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (412,)
+beats_start: shape = (412,)
+danceability: 0.0
+duration: 267.91138
+end_of_fade_in: 0.135
+energy: 0.0
+key: 5
+key_confidence: 0.0
+loudness: -8.945
+mode: 0
+mode_confidence: 0.262
+release: Louisiana Hot Sauce
+release_7digitalid: 88741
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1189,)
+segments_loudness_max: shape = (1189,)
+segments_loudness_max_time: shape = (1189,)
+segments_loudness_start: shape = (1189,)
+segments_pitches: shape = (1189, 12)
+segments_start: shape = (1189,)
+segments_timbre: shape = (1189, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOPLCDD12A8C13599C
+start_of_fade_out: 254.247
+tatums_confidence: shape = (1646,)
+tatums_start: shape = (1646,)
+tempo: 93.368
+time_signature: 4
+time_signature_confidence: 0.652
+title: Soul Etouffe
+track_7digitalid: 936315
+track_id: TRAQUBY128F42671D0
+year: 0

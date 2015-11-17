@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41026
+artist_familiarity: 0.417216442095
+artist_hotttnesss: 0.329432664353
+artist_id: ARIFOQ6119B866970E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 20a8b01a-d82e-4063-8f50-6f0263696dde
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Fontaine Sisters
+artist_playmeid: 22463
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 513439a2ed906d4d858a181904055363
+bars_confidence: shape = (283,)
+bars_start: shape = (283,)
+beats_confidence: shape = (283,)
+beats_start: shape = (283,)
+danceability: 0.0
+duration: 199.00036
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.853
+loudness: -7.35
+mode: 1
+mode_confidence: 0.788
+release: Coccole di Natale
+release_7digitalid: 673950
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (475,)
+segments_loudness_max: shape = (475,)
+segments_loudness_max_time: shape = (475,)
+segments_loudness_start: shape = (475,)
+segments_pitches: shape = (475, 12)
+segments_start: shape = (475,)
+segments_timbre: shape = (475, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.405115721691
+song_id: SOFYNGP12A8C13AB56
+start_of_fade_out: 186.352
+tatums_confidence: shape = (568,)
+tatums_start: shape = (568,)
+tempo: 84.138
+time_signature: 1
+time_signature_confidence: 0.0
+title: Silver Bells
+track_7digitalid: 7472717
+track_id: TRAYKVV12903CC6B9F
+year: 2004

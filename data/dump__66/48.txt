@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 32650
+artist_familiarity: 0.642870713337
+artist_hotttnesss: 0.463391452012
+artist_id: AR0N8D61187FB3D0D6
+artist_latitude: nan
+artist_location: Bergen, Norway
+artist_longitude: nan
+artist_mbid: 2c3bac0a-5158-442f-b50b-056aae52138c
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Kaizers Orchestra
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 1a2411320f3b254e1a64d01ba7c2357a
+bars_confidence: shape = (143,)
+bars_start: shape = (143,)
+beats_confidence: shape = (576,)
+beats_start: shape = (576,)
+danceability: 0.0
+duration: 317.49179
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.472
+loudness: -3.696
+mode: 0
+mode_confidence: 0.428
+release: Live At Vega
+release_7digitalid: 297928
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (850,)
+segments_loudness_max: shape = (850,)
+segments_loudness_max_time: shape = (850,)
+segments_loudness_start: shape = (850,)
+segments_pitches: shape = (850, 12)
+segments_start: shape = (850,)
+segments_timbre: shape = (850, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.702102056957
+song_id: SOXVGNX12A8C13D8A3
+start_of_fade_out: 317.492
+tatums_confidence: shape = (1152,)
+tatums_start: shape = (1152,)
+tempo: 108.377
+time_signature: 4
+time_signature_confidence: 0.904
+title: Ompa Til Du Dör
+track_7digitalid: 3381492
+track_id: TRAWRKQ128F429866C
+year: 0

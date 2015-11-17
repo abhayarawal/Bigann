@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 14833
+artist_familiarity: 0.852638932219
+artist_hotttnesss: 0.53576315772
+artist_id: ARWA8AH1187FB3FC84
+artist_latitude: 51.50632
+artist_location: London
+artist_longitude: -0.12714
+artist_mbid: d8915e13-d67a-4aa0-9c0b-1f126af951af
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Hot Chip
+artist_playmeid: 5202
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 441984f3ad440216538a48f63a28a52f
+bars_confidence: shape = (212,)
+bars_start: shape = (212,)
+beats_confidence: shape = (852,)
+beats_start: shape = (852,)
+danceability: 0.0
+duration: 381.17832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.455
+loudness: -6.36
+mode: 1
+mode_confidence: 0.528
+release: Made In The Dark
+release_7digitalid: 291143
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1901,)
+segments_loudness_max: shape = (1901,)
+segments_loudness_max_time: shape = (1901,)
+segments_loudness_start: shape = (1901,)
+segments_pitches: shape = (1901, 12)
+segments_start: shape = (1901,)
+segments_timbre: shape = (1901, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.693464247535
+song_id: SOFKTPP12A8C1385CA
+start_of_fade_out: 377.295
+tatums_confidence: shape = (1703,)
+tatums_start: shape = (1703,)
+tempo: 134.5
+time_signature: 4
+time_signature_confidence: 0.477
+title: Hold On
+track_7digitalid: 3264309
+track_id: TRAFTDN128F427C29D
+year: 2008

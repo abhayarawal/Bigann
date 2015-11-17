@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10249
+artist_familiarity: 0.749317800961
+artist_hotttnesss: 0.481655862412
+artist_id: ARUI8651187B9ACF52
+artist_latitude: nan
+artist_location: Garnant, Wales
+artist_longitude: nan
+artist_mbid: 72c090b6-a68e-4cb9-b330-85278681a714
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: John Cale
+artist_playmeid: 17190
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: fbf497a6838e179be5b78f9aa3668638
+bars_confidence: shape = (523,)
+bars_start: shape = (523,)
+beats_confidence: shape = (523,)
+beats_start: shape = (523,)
+danceability: 0.0
+duration: 228.46649
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.458
+loudness: -12.412
+mode: 1
+mode_confidence: 0.602
+release: Eat / Kiss: Music For The Films By Andy Warhol
+release_7digitalid: 38599
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (757,)
+segments_loudness_max: shape = (757,)
+segments_loudness_max_time: shape = (757,)
+segments_loudness_start: shape = (757,)
+segments_pitches: shape = (757, 12)
+segments_start: shape = (757,)
+segments_timbre: shape = (757, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.226555313956
+song_id: SOVOLGY12A6D4F822B
+start_of_fade_out: 228.466
+tatums_confidence: shape = (1046,)
+tatums_start: shape = (1046,)
+tempo: 137.004
+time_signature: 1
+time_signature_confidence: 0.0
+title: Movement 4 [from Kiss] (Album Version)
+track_7digitalid: 413033
+track_id: TRAAENP128F147BF32
+year: 1997

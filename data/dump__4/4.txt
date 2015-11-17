@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 217897
+artist_familiarity: 0.309621410888
+artist_hotttnesss: 0.166568298704
+artist_id: ARYHTYH11EBCD7C884
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Hit Factory
+artist_playmeid: 97152
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: d948ede76f8f297bff0e2225e23e7a49
+bars_confidence: shape = (154,)
+bars_start: shape = (154,)
+beats_confidence: shape = (466,)
+beats_start: shape = (466,)
+danceability: 0.0
+duration: 234.70975
+end_of_fade_in: 8.829
+energy: 0.0
+key: 7
+key_confidence: 0.719
+loudness: -8.299
+mode: 1
+mode_confidence: 0.662
+release: The Hit Factory
+release_7digitalid: 273745
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (587,)
+segments_loudness_max: shape = (587,)
+segments_loudness_max_time: shape = (587,)
+segments_loudness_start: shape = (587,)
+segments_pitches: shape = (587, 12)
+segments_start: shape = (587,)
+segments_timbre: shape = (587, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOETFVQ12A8151E8B3
+start_of_fade_out: 212.387
+tatums_confidence: shape = (932,)
+tatums_start: shape = (932,)
+tempo: 126.342
+time_signature: 3
+time_signature_confidence: 0.832
+title: Im Moving On
+track_7digitalid: 3048880
+track_id: TRABHWW128F424E9D2
+year: 0

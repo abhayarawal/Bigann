@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6678
+artist_familiarity: 0.696816891791
+artist_hotttnesss: 0.48210001892
+artist_id: ARD8JVH1187FB4DA04
+artist_latitude: nan
+artist_location: England
+artist_longitude: nan
+artist_mbid: 0053dbd9-bfbc-4e38-9f08-66a27d914c38
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Bad Company
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 5268c6a6f99dd4004948b12aef9cbdcd
+bars_confidence: shape = (97,)
+bars_start: shape = (97,)
+beats_confidence: shape = (396,)
+beats_start: shape = (396,)
+danceability: 0.0
+duration: 229.58975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.598
+loudness: -8.064
+mode: 1
+mode_confidence: 0.624
+release: In Concert: Merchants Of Cool
+release_7digitalid: 781923
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (747,)
+segments_loudness_max: shape = (747,)
+segments_loudness_max_time: shape = (747,)
+segments_loudness_start: shape = (747,)
+segments_pitches: shape = (747, 12)
+segments_start: shape = (747,)
+segments_timbre: shape = (747, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.641020289646
+song_id: SOGQWTX12AB017FD78
+start_of_fade_out: 229.59
+tatums_confidence: shape = (792,)
+tatums_start: shape = (792,)
+tempo: 102.984
+time_signature: 4
+time_signature_confidence: 0.895
+title: Rock Steady
+track_7digitalid: 8649786
+track_id: TRARCZH12903CF7D2F
+year: 1974

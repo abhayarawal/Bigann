@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41720
+artist_familiarity: 0.531829215775
+artist_hotttnesss: 0.345734866164
+artist_id: AR7074B1187FB4C39B
+artist_latitude: nan
+artist_location: United States
+artist_longitude: nan
+artist_mbid: 6e3ed724-c5a3-4bcd-8ebc-89da0c33b6b8
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Ann Lee
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: cfc13a8accffeb18e2888984e34d6067
+bars_confidence: shape = (204,)
+bars_start: shape = (204,)
+beats_confidence: shape = (819,)
+beats_start: shape = (819,)
+danceability: 0.0
+duration: 380.08118
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.714
+loudness: -7.804
+mode: 1
+mode_confidence: 0.675
+release: So Deep
+release_7digitalid: 204837
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1528,)
+segments_loudness_max: shape = (1528,)
+segments_loudness_max_time: shape = (1528,)
+segments_loudness_start: shape = (1528,)
+segments_pitches: shape = (1528, 12)
+segments_start: shape = (1528,)
+segments_timbre: shape = (1528, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLCJWW12A8C137C98
+start_of_fade_out: 363.532
+tatums_confidence: shape = (1637,)
+tatums_start: shape = (1637,)
+tempo: 131.999
+time_signature: 4
+time_signature_confidence: 0.872
+title: So deep
+track_7digitalid: 2220989
+track_id: TRARMYZ128F426150A
+year: 2000

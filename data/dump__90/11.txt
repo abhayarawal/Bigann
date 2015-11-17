@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5790
+artist_familiarity: 0.605115789228
+artist_hotttnesss: 0.446459237917
+artist_id: AR60C3O1187FB46737
+artist_latitude: nan
+artist_location: Harlem, New York, NY
+artist_longitude: nan
+artist_mbid: 72eafbba-ff08-4257-9594-267d4a6fcdca
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kurtis Blow
+artist_playmeid: 3283
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 877382549e997474ecc880f00a01946d
+bars_confidence: shape = (98,)
+bars_start: shape = (98,)
+beats_confidence: shape = (394,)
+beats_start: shape = (394,)
+danceability: 0.0
+duration: 220.83873
+end_of_fade_in: 0.3
+energy: 0.0
+key: 7
+key_confidence: 0.613
+loudness: -12.637
+mode: 1
+mode_confidence: 0.539
+release: The Best Of Kurtis Blow
+release_7digitalid: 47192
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1144,)
+segments_loudness_max: shape = (1144,)
+segments_loudness_max_time: shape = (1144,)
+segments_loudness_start: shape = (1144,)
+segments_pitches: shape = (1144, 12)
+segments_start: shape = (1144,)
+segments_timbre: shape = (1144, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUWJGL12AF72A4ED8
+start_of_fade_out: 207.557
+tatums_confidence: shape = (1577,)
+tatums_start: shape = (1577,)
+tempo: 107.373
+time_signature: 4
+time_signature_confidence: 0.113
+title: I'm Chillin
+track_7digitalid: 505513
+track_id: TRBFBRX128F148C4F1
+year: 1990

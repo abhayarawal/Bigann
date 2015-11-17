@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 188396
+artist_familiarity: 0.528932162172
+artist_hotttnesss: 0.424983928049
+artist_id: ARYTTQW1187B9BA487
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 697a7045-2cdc-4d66-bbf7-04865dba9f9e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Frank Vignola
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 15919735c6278607834ffb65410c1b9b
+bars_confidence: shape = (574,)
+bars_start: shape = (574,)
+beats_confidence: shape = (574,)
+beats_start: shape = (574,)
+danceability: 0.0
+duration: 234.44853
+end_of_fade_in: 0.956
+energy: 0.0
+key: 5
+key_confidence: 0.301
+loudness: -9.878
+mode: 0
+mode_confidence: 0.412
+release: Vignola Plays Gershwin
+release_7digitalid: 243391
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1146,)
+segments_loudness_max: shape = (1146,)
+segments_loudness_max_time: shape = (1146,)
+segments_loudness_start: shape = (1146,)
+segments_pitches: shape = (1146, 12)
+segments_start: shape = (1146,)
+segments_timbre: shape = (1146, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOSDRZY12A58A7D3F2
+start_of_fade_out: 229.471
+tatums_confidence: shape = (1721,)
+tatums_start: shape = (1721,)
+tempo: 149.689
+time_signature: 1
+time_signature_confidence: 0.0
+title: But Not For Me
+track_7digitalid: 2740224
+track_id: TRBEDIR128F4250FBD
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19915
+artist_familiarity: 0.620027189185
+artist_hotttnesss: 0.440370730666
+artist_id: AR7NNKG1187FB4AA1C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: dd999ced-1dd4-44b8-ab67-ee5ec23e52b7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Charly García
+artist_playmeid: 36420
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 257c22e860d65f251f70d02d0f513ee0
+bars_confidence: shape = (109,)
+bars_start: shape = (109,)
+beats_confidence: shape = (438,)
+beats_start: shape = (438,)
+danceability: 0.0
+duration: 300.14649
+end_of_fade_in: 0.328
+energy: 0.0
+key: 4
+key_confidence: 0.194
+loudness: -15.309
+mode: 0
+mode_confidence: 0.48
+release: El Álbum
+release_7digitalid: 346409
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1233,)
+segments_loudness_max: shape = (1233,)
+segments_loudness_max_time: shape = (1233,)
+segments_loudness_start: shape = (1233,)
+segments_pitches: shape = (1233, 12)
+segments_start: shape = (1233,)
+segments_timbre: shape = (1233, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCCUQS12AB017DB87
+start_of_fade_out: 281.182
+tatums_confidence: shape = (1752,)
+tatums_start: shape = (1752,)
+tempo: 89.095
+time_signature: 4
+time_signature_confidence: 0.49
+title: Bancate Ese Defecto
+track_7digitalid: 3884175
+track_id: TRBDROB128F93093CA
+year: 1983

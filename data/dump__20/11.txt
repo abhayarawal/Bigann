@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4911
+artist_familiarity: 0.57930948808
+artist_hotttnesss: 0.370273518966
+artist_id: ARK0VFZ1187FB4309B
+artist_latitude: nan
+artist_location: DURHAM, North Carolina
+artist_longitude: nan
+artist_mbid: 2bb81df0-e9e2-42ee-9708-d30b0c85d946
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Shirley Caesar
+artist_playmeid: 15108
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 7fb5ab31a2dc861a3f1fad36370f5ad3
+bars_confidence: shape = (126,)
+bars_start: shape = (126,)
+beats_confidence: shape = (511,)
+beats_start: shape = (511,)
+danceability: 0.0
+duration: 266.03057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.505
+loudness: -9.116
+mode: 1
+mode_confidence: 0.483
+release: He's Working It Out For You
+release_7digitalid: 128937
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (985,)
+segments_loudness_max: shape = (985,)
+segments_loudness_max_time: shape = (985,)
+segments_loudness_start: shape = (985,)
+segments_pitches: shape = (985, 12)
+segments_start: shape = (985,)
+segments_timbre: shape = (985, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHNAWQ12A6D4FCFF9
+start_of_fade_out: 256.43
+tatums_confidence: shape = (1022,)
+tatums_start: shape = (1022,)
+tempo: 115.508
+time_signature: 4
+time_signature_confidence: 0.573
+title: Healed (LP Version)
+track_7digitalid: 1335220
+track_id: TRAGVGB128F423098D
+year: 0

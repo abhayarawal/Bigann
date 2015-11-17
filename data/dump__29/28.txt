@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 426274
+artist_familiarity: 0.53667904416
+artist_hotttnesss: 0.378056125209
+artist_id: ARAUFKZ1242077FBD1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 01e1c1da-e772-460b-bc62-8dde8cbdd369
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: J Bostron & Beretta
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: ca98bb919987a1a35297b75f1a78a4de
+bars_confidence: shape = (116,)
+bars_start: shape = (116,)
+beats_confidence: shape = (484,)
+beats_start: shape = (484,)
+danceability: 0.0
+duration: 320.93995
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.008
+loudness: -4.962
+mode: 1
+mode_confidence: 0.157
+release: LP of the Dead
+release_7digitalid: 820316
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1265,)
+segments_loudness_max: shape = (1265,)
+segments_loudness_max_time: shape = (1265,)
+segments_loudness_start: shape = (1265,)
+segments_pitches: shape = (1265, 12)
+segments_start: shape = (1265,)
+segments_timbre: shape = (1265, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOEQOD12AB018D7D3
+start_of_fade_out: 307.206
+tatums_confidence: shape = (1452,)
+tatums_start: shape = (1452,)
+tempo: 87.122
+time_signature: 4
+time_signature_confidence: 0.84
+title: Now U Got It
+track_7digitalid: 9059167
+track_id: TRAJWSL12903CE7BA6
+year: 0

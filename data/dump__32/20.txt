@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2981
+artist_familiarity: 0.705287678078
+artist_hotttnesss: 0.517298018026
+artist_id: AR039B11187B9B30D0
+artist_latitude: nan
+artist_location: NEW YORK, New York
+artist_longitude: nan
+artist_mbid: fb9719bf-c477-4223-b319-986eb4168a91
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: John Williams
+artist_playmeid: 5226
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 193779a9fef203be5844c250c6cf6f2e
+bars_confidence: shape = (209,)
+bars_start: shape = (209,)
+beats_confidence: shape = (209,)
+beats_start: shape = (209,)
+danceability: 0.0
+duration: 115.12118
+end_of_fade_in: 0.792
+energy: 0.0
+key: 11
+key_confidence: 0.287
+loudness: -26.589
+mode: 0
+mode_confidence: 0.458
+release: The Art Of The Guitar
+release_7digitalid: 233357
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (371,)
+segments_loudness_max: shape = (371,)
+segments_loudness_max_time: shape = (371,)
+segments_loudness_start: shape = (371,)
+segments_pitches: shape = (371, 12)
+segments_start: shape = (371,)
+segments_timbre: shape = (371, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTUHSG12A8AE474EA
+start_of_fade_out: 105.709
+tatums_confidence: shape = (418,)
+tatums_start: shape = (418,)
+tempo: 117.971
+time_signature: 1
+time_signature_confidence: 0.034
+title: Bach Suite No. 1 In G Major (Gigue)
+track_7digitalid: 2560083
+track_id: TRAKXUY128F4228046
+year: 0

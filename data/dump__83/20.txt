@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1646
+artist_familiarity: 0.641172817621
+artist_hotttnesss: 0.436769069709
+artist_id: ARC0MTS1187FB44C21
+artist_latitude: 50.84838
+artist_location: Brussels, Belgium
+artist_longitude: 4.34968
+artist_mbid: 20404789-b0f3-43de-bbe1-f4fe39e83e87
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Toots Thielemans
+artist_playmeid: 16621
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: dd14ab6aed3b7642f6f2f911337010b4
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (358,)
+beats_start: shape = (358,)
+danceability: 0.0
+duration: 181.55057
+end_of_fade_in: 2.264
+energy: 0.0
+key: 5
+key_confidence: 0.386
+loudness: -18.006
+mode: 1
+mode_confidence: 0.322
+release: Footprints
+release_7digitalid: 57377
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (492,)
+segments_loudness_max: shape = (492,)
+segments_loudness_max_time: shape = (492,)
+segments_loudness_start: shape = (492,)
+segments_pitches: shape = (492, 12)
+segments_start: shape = (492,)
+segments_timbre: shape = (492, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJGPHT12A6D4FA2BF
+start_of_fade_out: 172.669
+tatums_confidence: shape = (715,)
+tatums_start: shape = (715,)
+tempo: 121.971
+time_signature: 3
+time_signature_confidence: 0.625
+title: The Windmills Of Your Mind
+track_7digitalid: 596867
+track_id: TRBCNVH128F149DCC1
+year: 0

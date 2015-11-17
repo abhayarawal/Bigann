@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 262
+artist_familiarity: 0.871010615313
+artist_hotttnesss: 0.879236744738
+artist_id: ARTH9041187FB43E1F
+artist_latitude: nan
+artist_location: St. Joseph, MO
+artist_longitude: nan
+artist_mbid: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Eminem
+artist_playmeid: 549
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: b000114f6b9011ebc3f83e612b14ac8f
+bars_confidence: shape = (8,)
+bars_start: shape = (8,)
+beats_confidence: shape = (27,)
+beats_start: shape = (27,)
+danceability: 0.0
+duration: 13.58322
+end_of_fade_in: 0.218
+energy: 0.0
+key: 3
+key_confidence: 0.01
+loudness: -24.997
+mode: 1
+mode_confidence: 0.201
+release: The Marshall Mathers LP
+release_7digitalid: 47319
+sections_confidence: shape = (0,)
+sections_start: shape = (0,)
+segments_confidence: shape = (35,)
+segments_loudness_max: shape = (35,)
+segments_loudness_max_time: shape = (35,)
+segments_loudness_start: shape = (35,)
+segments_pitches: shape = (35, 12)
+segments_start: shape = (35,)
+segments_timbre: shape = (35, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWOYGM12A6D4FB4C1
+start_of_fade_out: 13.583
+tatums_confidence: shape = (54,)
+tatums_start: shape = (54,)
+tempo: 120.765
+time_signature: 3
+time_signature_confidence: 0.889
+title: Paul
+track_7digitalid: 507190
+track_id: TRANRIK128F148C860
+year: 1999

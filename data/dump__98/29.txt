@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20297
+artist_familiarity: 0.797024817349
+artist_hotttnesss: 0.416610107223
+artist_id: ARSCJQW1187B9B3523
+artist_latitude: nan
+artist_location: Vrsac
+artist_longitude: nan
+artist_mbid: 334cff4b-7a07-47d4-ba27-b5426e58c719
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Hoods
+artist_playmeid: 44928
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 3d07ee35844e165ebee1583924a7a0f8
+bars_confidence: shape = (70,)
+bars_start: shape = (70,)
+beats_confidence: shape = (214,)
+beats_start: shape = (214,)
+danceability: 0.0
+duration: 81.6322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.239
+loudness: -6.103
+mode: 1
+mode_confidence: 0.59
+release: The King Is Dead
+release_7digitalid: 709510
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (308,)
+segments_loudness_max: shape = (308,)
+segments_loudness_max_time: shape = (308,)
+segments_loudness_start: shape = (308,)
+segments_pitches: shape = (308, 12)
+segments_start: shape = (308,)
+segments_timbre: shape = (308, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.678221626894
+song_id: SOQKLRU12AB018A995
+start_of_fade_out: 81.632
+tatums_confidence: shape = (427,)
+tatums_start: shape = (427,)
+tempo: 158.016
+time_signature: 3
+time_signature_confidence: 0.383
+title: Coward
+track_7digitalid: 7867899
+track_id: TRBHUEU12903CB049A
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12826
+artist_familiarity: 0.696450939342
+artist_hotttnesss: 0.489149816628
+artist_id: AR261YW1187FB374B3
+artist_latitude: nan
+artist_location: GERMANY
+artist_longitude: nan
+artist_mbid: a00df488-9c2c-494a-a46c-840cb153302a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Warrant
+artist_playmeid: 3079
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: ee9116040d5fab6a81edc26448340af8
+bars_confidence: shape = (62,)
+bars_start: shape = (62,)
+beats_confidence: shape = (250,)
+beats_start: shape = (250,)
+danceability: 0.0
+duration: 161.54077
+end_of_fade_in: 0.316
+energy: 0.0
+key: 1
+key_confidence: 0.838
+loudness: -5.244
+mode: 1
+mode_confidence: 0.658
+release: Dirty Rotten Filthy Stinking Rich
+release_7digitalid: 391348
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (516,)
+segments_loudness_max: shape = (516,)
+segments_loudness_max_time: shape = (516,)
+segments_loudness_start: shape = (516,)
+segments_pitches: shape = (516, 12)
+segments_start: shape = (516,)
+segments_timbre: shape = (516, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQZDKB12A58A78F4A
+start_of_fade_out: 158.697
+tatums_confidence: shape = (1000,)
+tatums_start: shape = (1000,)
+tempo: 94.401
+time_signature: 4
+time_signature_confidence: 0.39
+title: All Night Long
+track_7digitalid: 4346125
+track_id: TRAYVTC128F92F29D5
+year: 0

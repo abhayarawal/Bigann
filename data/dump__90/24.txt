@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30299
+artist_familiarity: 0.356990698223
+artist_hotttnesss: 0.226718364337
+artist_id: ARZSFIJ1187B98B8BC
+artist_latitude: 36.16778
+artist_location: Nashville, TN
+artist_longitude: -86.77836
+artist_mbid: 5577aaf6-90b0-4793-a575-618514eda127
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Warner mack
+artist_playmeid: 53275
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 45b61b8e5e354762e5fd1888361b3718
+bars_confidence: shape = (64,)
+bars_start: shape = (64,)
+beats_confidence: shape = (258,)
+beats_start: shape = (258,)
+danceability: 0.0
+duration: 160.20853
+end_of_fade_in: 0.264
+energy: 0.0
+key: 9
+key_confidence: 0.828
+loudness: -10.261
+mode: 1
+mode_confidence: 0.753
+release: True Country
+release_7digitalid: 43521
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (504,)
+segments_loudness_max: shape = (504,)
+segments_loudness_max_time: shape = (504,)
+segments_loudness_start: shape = (504,)
+segments_pitches: shape = (504, 12)
+segments_start: shape = (504,)
+segments_timbre: shape = (504, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOORIJA12A6D4F9A02
+start_of_fade_out: 155.045
+tatums_confidence: shape = (774,)
+tatums_start: shape = (774,)
+tempo: 98.612
+time_signature: 4
+time_signature_confidence: 0.0
+title: Is It Wrong
+track_7digitalid: 464487
+track_id: TRBFCWC128F1484CF0
+year: 0

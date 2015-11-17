@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19856
+artist_familiarity: 0.515044056409
+artist_hotttnesss: 0.316692161547
+artist_id: ARGNGRI11E2835D567
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 98024747-6524-4cbe-8802-5dd4f86d68fa
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Tam Tam Go!
+artist_playmeid: 81756
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: be99eb14140776094720fbdb739a87d6
+bars_confidence: shape = (219,)
+bars_start: shape = (219,)
+beats_confidence: shape = (877,)
+beats_start: shape = (877,)
+danceability: 0.0
+duration: 405.41995
+end_of_fade_in: 0.16
+energy: 0.0
+key: 6
+key_confidence: 0.628
+loudness: -4.811
+mode: 0
+mode_confidence: 0.622
+release: Cruzando El Río
+release_7digitalid: 29398
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1712,)
+segments_loudness_max: shape = (1712,)
+segments_loudness_max_time: shape = (1712,)
+segments_loudness_start: shape = (1712,)
+segments_pitches: shape = (1712, 12)
+segments_start: shape = (1712,)
+segments_timbre: shape = (1712, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKJUPL12A6D4F8383
+start_of_fade_out: 398.292
+tatums_confidence: shape = (1755,)
+tatums_start: shape = (1755,)
+tempo: 130.402
+time_signature: 4
+time_signature_confidence: 0.222
+title: Atrapados En La Red
+track_7digitalid: 324424
+track_id: TRBBMAL128F146B288
+year: 1999

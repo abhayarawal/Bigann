@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2183
+artist_familiarity: 0.61487093392
+artist_hotttnesss: 0.628246419191
+artist_id: ARF3GX71187FB3EB66
+artist_latitude: nan
+artist_location: Medicine Lodge, KS
+artist_longitude: nan
+artist_mbid: b0a55bd8-60c7-45c1-b78e-f20e4c8adba1
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Martina McBride
+artist_playmeid: 7085
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: d1fc7379c6e6a7bfb4aa13b4fbca37ba
+bars_confidence: shape = (104,)
+bars_start: shape = (104,)
+beats_confidence: shape = (418,)
+beats_start: shape = (418,)
+danceability: 0.0
+duration: 155.97669
+end_of_fade_in: 0.125
+energy: 0.0
+key: 7
+key_confidence: 0.735
+loudness: -7.711
+mode: 1
+mode_confidence: 0.74
+release: Timeless
+release_7digitalid: 307618
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (619,)
+segments_loudness_max: shape = (619,)
+segments_loudness_max_time: shape = (619,)
+segments_loudness_start: shape = (619,)
+segments_pitches: shape = (619, 12)
+segments_start: shape = (619,)
+segments_timbre: shape = (619, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.41373983586
+song_id: SOALEHA12A8C13ECB3
+start_of_fade_out: 149.101
+tatums_confidence: shape = (418,)
+tatums_start: shape = (418,)
+tempo: 168.08
+time_signature: 4
+time_signature_confidence: 0.0
+title: Thanks A Lot
+track_7digitalid: 3464353
+track_id: TRAXJVO128F42AC534
+year: 2005

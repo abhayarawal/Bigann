@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 391814
+artist_familiarity: 0.690257596259
+artist_hotttnesss: 0.419028046409
+artist_id: ARJGRNY11F4C847277
+artist_latitude: nan
+artist_location: Glasgow UK-SCOTLAND
+artist_longitude: nan
+artist_mbid: 98a819b7-2634-4987-815b-bc66182dc97f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Twin Atlantic
+artist_playmeid: 173101
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: a734d5425ddcae1d16cf5068067929f5
+bars_confidence: shape = (136,)
+bars_start: shape = (136,)
+beats_confidence: shape = (547,)
+beats_start: shape = (547,)
+danceability: 0.0
+duration: 240.19546
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.621
+loudness: -5.632
+mode: 1
+mode_confidence: 0.64
+release: What Is Light? Where Is Laughter?
+release_7digitalid: 662522
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (733,)
+segments_loudness_max: shape = (733,)
+segments_loudness_max_time: shape = (733,)
+segments_loudness_start: shape = (733,)
+segments_pitches: shape = (733, 12)
+segments_start: shape = (733,)
+segments_timbre: shape = (733, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.439202489315
+song_id: SOCJBTL12AB0188831
+start_of_fade_out: 230.847
+tatums_confidence: shape = (1095,)
+tatums_start: shape = (1095,)
+tempo: 141.925
+time_signature: 4
+time_signature_confidence: 0.822
+title: What Is Light? Where Is Laughter? (Acoustic Version)
+track_7digitalid: 7341485
+track_id: TRAWNSM12903CA71FC
+year: 2008

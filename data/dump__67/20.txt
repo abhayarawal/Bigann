@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 372116
+artist_familiarity: 0.342440144332
+artist_hotttnesss: 0.281284215549
+artist_id: ARTHEAP122BCFCD0B2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e40f8007-07cd-439f-b3cf-27104f146420
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ X-Change
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: cd4da021da00ae85b6433866db6745a1
+bars_confidence: shape = (136,)
+bars_start: shape = (136,)
+beats_confidence: shape = (549,)
+beats_start: shape = (549,)
+danceability: 0.0
+duration: 244.08771
+end_of_fade_in: 0.345
+energy: 0.0
+key: 1
+key_confidence: 0.494
+loudness: -6.072
+mode: 1
+mode_confidence: 0.586
+release: The X-Files 5.0
+release_7digitalid: 648911
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1054,)
+segments_loudness_max: shape = (1054,)
+segments_loudness_max_time: shape = (1054,)
+segments_loudness_start: shape = (1054,)
+segments_pitches: shape = (1054, 12)
+segments_start: shape = (1054,)
+segments_timbre: shape = (1054, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLUUHL12AB0181698
+start_of_fade_out: 240.071
+tatums_confidence: shape = (1098,)
+tatums_start: shape = (1098,)
+tempo: 136.993
+time_signature: 4
+time_signature_confidence: 0.973
+title: 3
+track_7digitalid: 7189322
+track_id: TRAWXSL128F9353CE4
+year: 0

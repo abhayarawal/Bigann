@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 95
+artist_familiarity: 0.672199944412
+artist_hotttnesss: 0.466784211628
+artist_id: ARNE16X1187B9B2DEE
+artist_latitude: 18.04552
+artist_location: St. Catherine, Jamaica
+artist_longitude: -77.02659
+artist_mbid: 2caa54a7-b08c-41da-b892-3a41abe778be
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Jimmy Cliff
+artist_playmeid: 3331
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: c7d221ad7c55672ebe632894b0b1904b
+bars_confidence: shape = (42,)
+bars_start: shape = (42,)
+beats_confidence: shape = (300,)
+beats_start: shape = (300,)
+danceability: 0.0
+duration: 216.45016
+end_of_fade_in: 0.188
+energy: 0.0
+key: 5
+key_confidence: 0.461
+loudness: -11.675
+mode: 1
+mode_confidence: 0.453
+release: The EMI Years 1973-'75
+release_7digitalid: 16762
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1013,)
+segments_loudness_max: shape = (1013,)
+segments_loudness_max_time: shape = (1013,)
+segments_loudness_start: shape = (1013,)
+segments_pitches: shape = (1013, 12)
+segments_start: shape = (1013,)
+segments_timbre: shape = (1013, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.270775998946
+song_id: SOEOMWI12A67ADB831
+start_of_fade_out: 205.578
+tatums_confidence: shape = (1504,)
+tatums_start: shape = (1504,)
+tempo: 83.712
+time_signature: 7
+time_signature_confidence: 0.141
+title: Million Teardrops
+track_7digitalid: 179127
+track_id: TRBCSLF128E0795524
+year: 0

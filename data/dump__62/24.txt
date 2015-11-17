@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 60411
+artist_familiarity: 0.557094504715
+artist_hotttnesss: 0.415303642581
+artist_id: ARUTP601187FB388AC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8d05c917-cae7-43f1-9357-7a66c52a1921
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Elders
+artist_playmeid: 50278
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: a2350f8a8d4059d536f32dda62f0ee1d
+bars_confidence: shape = (136,)
+bars_start: shape = (136,)
+beats_confidence: shape = (546,)
+beats_start: shape = (546,)
+danceability: 0.0
+duration: 294.86975
+end_of_fade_in: 0.073
+energy: 0.0
+key: 0
+key_confidence: 0.386
+loudness: -7.028
+mode: 1
+mode_confidence: 0.547
+release: Racing the Tide
+release_7digitalid: 468713
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1180,)
+segments_loudness_max: shape = (1180,)
+segments_loudness_max_time: shape = (1180,)
+segments_loudness_start: shape = (1180,)
+segments_pitches: shape = (1180, 12)
+segments_start: shape = (1180,)
+segments_timbre: shape = (1180, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3759843015
+song_id: SOFNXKP12AB0188C0D
+start_of_fade_out: 286.134
+tatums_confidence: shape = (1093,)
+tatums_start: shape = (1093,)
+tempo: 111.408
+time_signature: 4
+time_signature_confidence: 1.0
+title: Send a Prayer
+track_7digitalid: 5212727
+track_id: TRAVHPV128F933E986
+year: 0

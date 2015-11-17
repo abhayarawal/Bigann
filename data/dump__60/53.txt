@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30473
+artist_familiarity: 0.74400791471
+artist_hotttnesss: 0.520049688179
+artist_id: ARL635X1187B990092
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6efa29c6-9995-48e0-9eaf-3809464a39a7
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Charlotte Gainsbourg
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 64ad9bf7da8fc4b1bf55e983b938419b
+bars_confidence: shape = (150,)
+bars_start: shape = (150,)
+beats_confidence: shape = (601,)
+beats_start: shape = (601,)
+danceability: 0.0
+duration: 241.65832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.655
+loudness: -9.838
+mode: 0
+mode_confidence: 0.62
+release: IRM
+release_7digitalid: 705593
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (744,)
+segments_loudness_max: shape = (744,)
+segments_loudness_max_time: shape = (744,)
+segments_loudness_start: shape = (744,)
+segments_pitches: shape = (744, 12)
+segments_start: shape = (744,)
+segments_timbre: shape = (744, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.859634683695
+song_id: SOSYGHA12AB0186AEC
+start_of_fade_out: 228.264
+tatums_confidence: shape = (1203,)
+tatums_start: shape = (1203,)
+tempo: 150.256
+time_signature: 4
+time_signature_confidence: 0.0
+title: Le Chat du Café des Artistes
+track_7digitalid: 7825958
+track_id: TRAURHK12903CA60F8
+year: 2009

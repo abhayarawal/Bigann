@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10554
+artist_familiarity: 0.637772159418
+artist_hotttnesss: 0.540832551952
+artist_id: AR2O3B51187B98CD94
+artist_latitude: 35.2225
+artist_location: Charlotte, NC
+artist_longitude: -80.83754
+artist_mbid: 5a5d32e1-f3d2-4fde-8b41-24a78e696b83
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cece Winans
+artist_playmeid: 8496
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: ce0dfb3fceae8fa06df4c2ef580c47fd
+bars_confidence: shape = (145,)
+bars_start: shape = (145,)
+beats_confidence: shape = (583,)
+beats_start: shape = (583,)
+danceability: 0.0
+duration: 288.91383
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.208
+loudness: -8.998
+mode: 1
+mode_confidence: 0.429
+release: Everlasting Love
+release_7digitalid: 514111
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (965,)
+segments_loudness_max: shape = (965,)
+segments_loudness_max_time: shape = (965,)
+segments_loudness_start: shape = (965,)
+segments_pitches: shape = (965, 12)
+segments_start: shape = (965,)
+segments_timbre: shape = (965, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.383934684279
+song_id: SOXIWDR12AF72A5E4E
+start_of_fade_out: 277.304
+tatums_confidence: shape = (1166,)
+tatums_start: shape = (1166,)
+tempo: 124.766
+time_signature: 4
+time_signature_confidence: 0.918
+title: The Wind (Tears For You)
+track_7digitalid: 5691376
+track_id: TRANADU128F9345BC8
+year: 1998

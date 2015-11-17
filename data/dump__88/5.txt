@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 82979
+artist_familiarity: 0.557875168422
+artist_hotttnesss: 0.359324726504
+artist_id: AREENKN1187B98F35D
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 3fec8b00-4142-4129-96f5-1c9bf65e8e8f
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: The Plasmatics
+artist_playmeid: 102992
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: d466bf0966bc5e27c1e72807d4533599
+bars_confidence: shape = (60,)
+bars_start: shape = (60,)
+beats_confidence: shape = (252,)
+beats_start: shape = (252,)
+danceability: 0.0
+duration: 121.73016
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.094
+loudness: -13.399
+mode: 1
+mode_confidence: 0.091
+release: Maggots: The Record
+release_7digitalid: 255583
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (507,)
+segments_loudness_max: shape = (507,)
+segments_loudness_max_time: shape = (507,)
+segments_loudness_start: shape = (507,)
+segments_pitches: shape = (507, 12)
+segments_start: shape = (507,)
+segments_timbre: shape = (507, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOKPHRH12A8C13C0FC
+start_of_fade_out: 121.73
+tatums_confidence: shape = (504,)
+tatums_start: shape = (504,)
+tempo: 121.47
+time_signature: 4
+time_signature_confidence: 1.0
+title: The White's Bedroom - Fire Escape
+track_7digitalid: 2899853
+track_id: TRBEGJR128F4275E2E
+year: 2000

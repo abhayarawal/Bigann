@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 833
+artist_familiarity: 0.740250721103
+artist_hotttnesss: 0.516771087457
+artist_id: ARYVGP31187B9A531A
+artist_latitude: nan
+artist_location: Seymour, IN
+artist_longitude: nan
+artist_mbid: 0aad6b52-fd93-4ea4-9c5d-1f66e1bc9f0a
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: John Mellencamp
+artist_playmeid: 2260
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 4bc49888595544d40d354d9b0932eec8
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (485,)
+beats_start: shape = (485,)
+danceability: 0.0
+duration: 216.86812
+end_of_fade_in: 0.066
+energy: 0.0
+key: 11
+key_confidence: 0.335
+loudness: -8.698
+mode: 0
+mode_confidence: 0.437
+release: The Lonesome Jubilee
+release_7digitalid: 23778
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (856,)
+segments_loudness_max: shape = (856,)
+segments_loudness_max_time: shape = (856,)
+segments_loudness_start: shape = (856,)
+segments_pitches: shape = (856, 12)
+segments_start: shape = (856,)
+segments_timbre: shape = (856, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.450762241641
+song_id: SOTPQTD12A58A7E19B
+start_of_fade_out: 205.659
+tatums_confidence: shape = (971,)
+tatums_start: shape = (971,)
+tempo: 134.929
+time_signature: 4
+time_signature_confidence: 0.219
+title: Down And Out In Paradise
+track_7digitalid: 248264
+track_id: TRBBHPQ128F145A7F8
+year: 1987

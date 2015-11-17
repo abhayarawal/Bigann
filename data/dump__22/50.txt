@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 530455
+artist_familiarity: 0.500528353444
+artist_hotttnesss: 0.401354215123
+artist_id: AR6PMJQ1187B9B9655
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ef943908-5368-4e2c-8a3f-a0987308241e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: 3 Steps Ahead
+artist_playmeid: -1
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: d5fa7fe284171e4bb495acf72f53b672
+bars_confidence: shape = (53,)
+bars_start: shape = (53,)
+beats_confidence: shape = (53,)
+beats_start: shape = (53,)
+danceability: 0.0
+duration: 45.50485
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.523
+loudness: -16.459
+mode: 0
+mode_confidence: 0.497
+release: Most Wanted & Mad
+release_7digitalid: 713439
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (126,)
+segments_loudness_max: shape = (126,)
+segments_loudness_max_time: shape = (126,)
+segments_loudness_start: shape = (126,)
+segments_pitches: shape = (126, 12)
+segments_start: shape = (126,)
+segments_timbre: shape = (126, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONHYZF12AB0186F67
+start_of_fade_out: 45.505
+tatums_confidence: shape = (107,)
+tatums_start: shape = (107,)
+tempo: 74.551
+time_signature: 1
+time_signature_confidence: 0.0
+title: My Mind Is Gone
+track_7digitalid: 7914477
+track_id: TRAHRGA12903CBB8AA
+year: 1997

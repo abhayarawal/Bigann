@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 78095
+artist_familiarity: 0.588117649664
+artist_hotttnesss: 0.378106965104
+artist_id: ARS26BQ1187B99466D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a03c336b-5295-4ad8-baa9-0309b47603c4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Vilma Palma e Vampiros
+artist_playmeid: 113977
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 7c0c0334edf078acfdc40c6c9fa48db7
+bars_confidence: shape = (278,)
+bars_start: shape = (278,)
+beats_confidence: shape = (1118,)
+beats_start: shape = (1118,)
+danceability: 0.0
+duration: 344.86812
+end_of_fade_in: 0.235
+energy: 0.0
+key: 6
+key_confidence: 0.71
+loudness: -7.088
+mode: 1
+mode_confidence: 0.573
+release: Vilma Palma e Vampiros_ grandes exitos
+release_7digitalid: 97822
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1516,)
+segments_loudness_max: shape = (1516,)
+segments_loudness_max_time: shape = (1516,)
+segments_loudness_start: shape = (1516,)
+segments_pitches: shape = (1516, 12)
+segments_start: shape = (1516,)
+segments_timbre: shape = (1516, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPPWWP12A8C138DD8
+start_of_fade_out: 339.946
+tatums_confidence: shape = (2235,)
+tatums_start: shape = (2235,)
+tempo: 197.232
+time_signature: 4
+time_signature_confidence: 1.0
+title: Bye Bye
+track_7digitalid: 1014883
+track_id: TRAYNJN128F427A1AF
+year: 1992

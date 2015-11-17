@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 220934
+artist_familiarity: 0.56057860827
+artist_hotttnesss: 0.222794124981
+artist_id: ARAZ59E1187B98BF6D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a02b61f6-ee38-4e4a-9824-22ba83fe8a03
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Webb Wilder
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 17a774d45a77aeaa36d04044ee8eaec9
+bars_confidence: shape = (133,)
+bars_start: shape = (133,)
+beats_confidence: shape = (536,)
+beats_start: shape = (536,)
+danceability: 0.0
+duration: 277.10649
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.565
+loudness: -7.077
+mode: 1
+mode_confidence: 0.528
+release: More Like Me
+release_7digitalid: 576048
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (793,)
+segments_loudness_max: shape = (793,)
+segments_loudness_max_time: shape = (793,)
+segments_loudness_start: shape = (793,)
+segments_pitches: shape = (793, 12)
+segments_start: shape = (793,)
+segments_timbre: shape = (793, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.245284295672
+song_id: SOSCTQW12AB0184E46
+start_of_fade_out: 267.703
+tatums_confidence: shape = (1071,)
+tatums_start: shape = (1071,)
+tempo: 116.992
+time_signature: 4
+time_signature_confidence: 0.0
+title: Too Cool for Love
+track_7digitalid: 6384396
+track_id: TRAFKDG12903CAB85C
+year: 2009

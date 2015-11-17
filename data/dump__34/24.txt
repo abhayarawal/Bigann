@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 287806
+artist_familiarity: 0.450585595863
+artist_hotttnesss: 0.336820368674
+artist_id: ARJZQ321187FB5AAA1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 29e24d21-a213-4cfc-8115-54be1c43174e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Hound Dog Taylor and The Houserockers
+artist_playmeid: 144050
+artist_terms: shape = (51,)
+artist_terms_freq: shape = (51,)
+artist_terms_weight: shape = (51,)
+audio_md5: 03ee41589b52b5937b1bfd1f3e5de33b
+bars_confidence: shape = (530,)
+bars_start: shape = (530,)
+beats_confidence: shape = (530,)
+beats_start: shape = (530,)
+danceability: 0.0
+duration: 335.28118
+end_of_fade_in: 0.136
+energy: 0.0
+key: 4
+key_confidence: 0.796
+loudness: -12.02
+mode: 1
+mode_confidence: 0.519
+release: Live In Boston
+release_7digitalid: 372663
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1164,)
+segments_loudness_max: shape = (1164,)
+segments_loudness_max_time: shape = (1164,)
+segments_loudness_start: shape = (1164,)
+segments_pitches: shape = (1164, 12)
+segments_start: shape = (1164,)
+segments_timbre: shape = (1164, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBIOBC12A8C14074B
+start_of_fade_out: 327.895
+tatums_confidence: shape = (1060,)
+tatums_start: shape = (1060,)
+tempo: 95.48
+time_signature: 1
+time_signature_confidence: 0.0
+title: Rock Me Baby - Live
+track_7digitalid: 4147646
+track_id: TRALQTL128F92CB318
+year: 0

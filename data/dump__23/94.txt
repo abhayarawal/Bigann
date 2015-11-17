@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19
+artist_familiarity: 0.778835827402
+artist_hotttnesss: 0.570106511951
+artist_id: ARAZCWP129462A97F1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ed2ac1e9-d51d-4eff-a2c2-85e81abd6360
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Bob Marley
+artist_playmeid: 237
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 00c4f3ecdf524eb1c89f5f807bbcc5f8
+bars_confidence: shape = (371,)
+bars_start: shape = (371,)
+beats_confidence: shape = (371,)
+beats_start: shape = (371,)
+danceability: 0.0
+duration: 224.96608
+end_of_fade_in: 0.345
+energy: 0.0
+key: 11
+key_confidence: 0.769
+loudness: -9.715
+mode: 1
+mode_confidence: 0.613
+release: Lively Up Yourself
+release_7digitalid: 772499
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (918,)
+segments_loudness_max: shape = (918,)
+segments_loudness_max_time: shape = (918,)
+segments_loudness_start: shape = (918,)
+segments_pitches: shape = (918, 12)
+segments_start: shape = (918,)
+segments_timbre: shape = (918, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLTAVH12AB0181CA9
+start_of_fade_out: 215.284
+tatums_confidence: shape = (743,)
+tatums_start: shape = (743,)
+tempo: 101.121
+time_signature: 1
+time_signature_confidence: 0.084
+title: Small Axe
+track_7digitalid: 8550642
+track_id: TRAIAUB12903CDFB3D
+year: 1999

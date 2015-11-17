@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40287
+artist_familiarity: 0.576645316367
+artist_hotttnesss: 0.393945814097
+artist_id: ARYXELS1187B9A5991
+artist_latitude: 41.50471
+artist_location: Cleveland, OH
+artist_longitude: -81.69074
+artist_mbid: b2dcc67a-45f9-4b9f-8221-3da4e0d32491
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Albert Ayler
+artist_playmeid: -1
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: a7e654ed90a72d5f35b75b4fb6608a6a
+bars_confidence: shape = (123,)
+bars_start: shape = (123,)
+beats_confidence: shape = (765,)
+beats_start: shape = (765,)
+danceability: 0.0
+duration: 632.34567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.531
+loudness: -9.8
+mode: 0
+mode_confidence: 0.469
+release: Nuits De La Fondation Maeght 1970
+release_7digitalid: 595767
+sections_confidence: shape = (27,)
+sections_start: shape = (27,)
+segments_confidence: shape = (2089,)
+segments_loudness_max: shape = (2089,)
+segments_loudness_max_time: shape = (2089,)
+segments_loudness_start: shape = (2089,)
+segments_pitches: shape = (2089, 12)
+segments_start: shape = (2089,)
+segments_timbre: shape = (2089, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONGCRV12AC468AE46
+start_of_fade_out: 623.618
+tatums_confidence: shape = (2297,)
+tatums_start: shape = (2297,)
+tempo: 71.642
+time_signature: 5
+time_signature_confidence: 0.864
+title: Music Is The Healing Force Of The Universe
+track_7digitalid: 6610577
+track_id: TRAPARR12903CE2125
+year: 1969

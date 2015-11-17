@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7247
+artist_familiarity: 0.511663445372
+artist_hotttnesss: 0.409778997763
+artist_id: AR9JLBU1187B9AAEC4
+artist_latitude: -33.96243
+artist_location: Port Elizabeth, South Africa
+artist_longitude: 25.62326
+artist_mbid: aab7a1d7-5461-4874-8162-bc127b91da59
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Danny Williams
+artist_playmeid: 24400
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: fef20dab7cb3cd500a53363522e6934b
+bars_confidence: shape = (72,)
+bars_start: shape = (72,)
+beats_confidence: shape = (292,)
+beats_start: shape = (292,)
+danceability: 0.0
+duration: 190.27546
+end_of_fade_in: 2.136
+energy: 0.0
+key: 7
+key_confidence: 0.638
+loudness: -10.908
+mode: 1
+mode_confidence: 0.434
+release: Moon River/Swinging For You
+release_7digitalid: 340416
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (471,)
+segments_loudness_max: shape = (471,)
+segments_loudness_max_time: shape = (471,)
+segments_loudness_start: shape = (471,)
+segments_pitches: shape = (471, 12)
+segments_start: shape = (471,)
+segments_timbre: shape = (471, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGHZWU12AB017C49D
+start_of_fade_out: 182.915
+tatums_confidence: shape = (584,)
+tatums_start: shape = (584,)
+tempo: 96.112
+time_signature: 4
+time_signature_confidence: 0.842
+title: I Talk To The Trees
+track_7digitalid: 3807125
+track_id: TRBHWQX128F92F9C79
+year: 0

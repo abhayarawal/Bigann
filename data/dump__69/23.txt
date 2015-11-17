@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 173933
+artist_familiarity: 0.238300722062
+artist_hotttnesss: 0.0
+artist_id: ARTDMPY11F50C4BB18
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dave Graney & Clare Moore
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: f0d679c32803a476041f156c0d7c4849
+bars_confidence: shape = (121,)
+bars_start: shape = (121,)
+beats_confidence: shape = (372,)
+beats_start: shape = (372,)
+danceability: 0.0
+duration: 248.11057
+end_of_fade_in: 3.14
+energy: 0.0
+key: 7
+key_confidence: 0.671
+loudness: -8.448
+mode: 1
+mode_confidence: 0.651
+release: Keepin' It Unreal
+release_7digitalid: 226792
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (730,)
+segments_loudness_max: shape = (730,)
+segments_loudness_max_time: shape = (730,)
+segments_loudness_start: shape = (730,)
+segments_pitches: shape = (730, 12)
+segments_start: shape = (730,)
+segments_timbre: shape = (730, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBKPYQ12A6D4FBE96
+start_of_fade_out: 236.066
+tatums_confidence: shape = (1116,)
+tatums_start: shape = (1116,)
+tempo: 93.982
+time_signature: 3
+time_signature_confidence: 0.764
+title: You Put a Spell on Me
+track_7digitalid: 2483203
+track_id: TRAXQII128F42171C3
+year: 0

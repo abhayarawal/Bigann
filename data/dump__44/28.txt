@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 129713
+artist_familiarity: 0.492199331334
+artist_hotttnesss: 0.34497245609
+artist_id: AR0PUK71187B9AC3C0
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: fd9f268a-89ef-4577-81f4-efebc9517a07
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Marvin Hamlisch
+artist_playmeid: 128443
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 77b6debf65e8c7d9bac48f570e95425a
+bars_confidence: shape = (79,)
+bars_start: shape = (79,)
+beats_confidence: shape = (319,)
+beats_start: shape = (319,)
+danceability: 0.0
+duration: 209.34485
+end_of_fade_in: 0.421
+energy: 0.0
+key: 6
+key_confidence: 0.499
+loudness: -16.43
+mode: 1
+mode_confidence: 0.462
+release: The Spy Who Loved Me (Soundtrack)
+release_7digitalid: 406415
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (594,)
+segments_loudness_max: shape = (594,)
+segments_loudness_max_time: shape = (594,)
+segments_loudness_start: shape = (594,)
+segments_pitches: shape = (594, 12)
+segments_start: shape = (594,)
+segments_timbre: shape = (594, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.582756026261
+song_id: SOBTTGX12AB017EEE8
+start_of_fade_out: 201.195
+tatums_confidence: shape = (637,)
+tatums_start: shape = (637,)
+tempo: 92.87
+time_signature: 4
+time_signature_confidence: 0.579
+title: Ride To Atlantis
+track_7digitalid: 4514949
+track_id: TRAPCRV128F931425C
+year: 1977

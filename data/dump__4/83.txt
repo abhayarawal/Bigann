@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 179019
+artist_familiarity: 0.579440349906
+artist_hotttnesss: 0.390981123526
+artist_id: ARDK5LC1187B9AB681
+artist_latitude: 35.36302
+artist_location: Rosemark, TN
+artist_longitude: -89.77895
+artist_mbid: 66ebc271-6a26-4fe7-848b-f217da119d92
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bobby Bland
+artist_playmeid: -1
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 1dce1f41c79ca7714941dc1d08ce4691
+bars_confidence: shape = (104,)
+bars_start: shape = (104,)
+beats_confidence: shape = (319,)
+beats_start: shape = (319,)
+danceability: 0.0
+duration: 181.49832
+end_of_fade_in: 0.316
+energy: 0.0
+key: 2
+key_confidence: 0.592
+loudness: -10.269
+mode: 0
+mode_confidence: 0.43
+release: The Original Memphis Blues Brothers
+release_7digitalid: 384736
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (621,)
+segments_loudness_max: shape = (621,)
+segments_loudness_max_time: shape = (621,)
+segments_loudness_start: shape = (621,)
+segments_pitches: shape = (621, 12)
+segments_start: shape = (621,)
+segments_timbre: shape = (621, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SODPTKR12AAFF43568
+start_of_fade_out: 176.152
+tatums_confidence: shape = (638,)
+tatums_start: shape = (638,)
+tempo: 105.927
+time_signature: 3
+time_signature_confidence: 1.0
+title: Drifting From Town To Town
+track_7digitalid: 4268197
+track_id: TRABPAG128F92E2D80
+year: 2006

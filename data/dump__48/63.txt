@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 93558
+artist_familiarity: 0.330992397715
+artist_hotttnesss: 0.157267430413
+artist_id: ARQ4OZM1187B991229
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 68ecbc62-19c6-49f7-80ec-d521caced0a1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jean Segurel
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 280ed1ee3c1ad4cc21c86a0c07418386
+bars_confidence: shape = (168,)
+bars_start: shape = (168,)
+beats_confidence: shape = (507,)
+beats_start: shape = (507,)
+danceability: 0.0
+duration: 144.97914
+end_of_fade_in: 1.419
+energy: 0.0
+key: 7
+key_confidence: 0.71
+loudness: -8.819
+mode: 1
+mode_confidence: 0.321
+release: Les Fiances D'Auvergne
+release_7digitalid: 291038
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (681,)
+segments_loudness_max: shape = (681,)
+segments_loudness_max_time: shape = (681,)
+segments_loudness_start: shape = (681,)
+segments_pitches: shape = (681, 12)
+segments_start: shape = (681,)
+segments_timbre: shape = (681, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBQKAH12A8C1362DF
+start_of_fade_out: 142.164
+tatums_confidence: shape = (1014,)
+tatums_start: shape = (1014,)
+tempo: 214.324
+time_signature: 3
+time_signature_confidence: 0.846
+title: Sous les chataigniers
+track_7digitalid: 3266425
+track_id: TRAQNMX128F427CAFB
+year: 0

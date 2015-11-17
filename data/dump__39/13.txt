@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 51753
+artist_familiarity: 0.504565761875
+artist_hotttnesss: 0.349488482362
+artist_id: ARZEA421187FB5B5BA
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 5c601227-87b5-4c65-ad99-84f0eb9008ca
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Lee Michaels
+artist_playmeid: 14877
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 92b39e7f0caea12b31aa7083424d3c9f
+bars_confidence: shape = (191,)
+bars_start: shape = (191,)
+beats_confidence: shape = (191,)
+beats_start: shape = (191,)
+danceability: 0.0
+duration: 118.88281
+end_of_fade_in: 0.473
+energy: 0.0
+key: 7
+key_confidence: 0.722
+loudness: -11.723
+mode: 1
+mode_confidence: 0.753
+release: Recital
+release_7digitalid: 88553
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (371,)
+segments_loudness_max: shape = (371,)
+segments_loudness_max_time: shape = (371,)
+segments_loudness_start: shape = (371,)
+segments_pitches: shape = (371, 12)
+segments_start: shape = (371,)
+segments_timbre: shape = (371, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOETWIB12A58A7A90D
+start_of_fade_out: 108.263
+tatums_confidence: shape = (381,)
+tatums_start: shape = (381,)
+tempo: 101.015
+time_signature: 1
+time_signature_confidence: 0.0
+title: Fell In Love Today
+track_7digitalid: 933996
+track_id: TRANKDX128F42668C0
+year: 1968

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 180187
+artist_familiarity: 0.62268416734
+artist_hotttnesss: 0.362238746702
+artist_id: AR0GGKI1187FB391D5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f930ba6a-a87f-44d6-abe5-0c172772d9e4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Eddie
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 8527fc9b9e8d869fddf68f46da91c183
+bars_confidence: shape = (199,)
+bars_start: shape = (199,)
+beats_confidence: shape = (800,)
+beats_start: shape = (800,)
+danceability: 0.0
+duration: 317.962
+end_of_fade_in: 0.122
+energy: 0.0
+key: 7
+key_confidence: 0.382
+loudness: -10.558
+mode: 1
+mode_confidence: 0.59
+release: No Control
+release_7digitalid: 789426
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1001,)
+segments_loudness_max: shape = (1001,)
+segments_loudness_max_time: shape = (1001,)
+segments_loudness_start: shape = (1001,)
+segments_pitches: shape = (1001, 12)
+segments_start: shape = (1001,)
+segments_timbre: shape = (1001, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWKNZT12AC4688FC9
+start_of_fade_out: 309.267
+tatums_confidence: shape = (1601,)
+tatums_start: shape = (1601,)
+tempo: 153.942
+time_signature: 4
+time_signature_confidence: 0.0
+title: Beautiful Lies
+track_7digitalid: 8731771
+track_id: TRAUTBP12903D0BD6B
+year: 0

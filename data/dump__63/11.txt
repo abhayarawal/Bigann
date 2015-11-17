@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 72184
+artist_familiarity: 0.577228502778
+artist_hotttnesss: 0.373552391014
+artist_id: ARYFXQ21187FB4DAEF
+artist_latitude: 27.53092
+artist_location: Laredo, TX
+artist_longitude: -99.502
+artist_mbid: 62da2ead-f055-4ad0-b939-3274bb2c54b2
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Poncho Sanchez
+artist_playmeid: -1
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 3d29900b17b7ee584745f24276b5ac9b
+bars_confidence: shape = (176,)
+bars_start: shape = (176,)
+beats_confidence: shape = (708,)
+beats_start: shape = (708,)
+danceability: 0.0
+duration: 339.80036
+end_of_fade_in: 0.496
+energy: 0.0
+key: 0
+key_confidence: 0.222
+loudness: -13.462
+mode: 1
+mode_confidence: 0.564
+release: El Mejor
+release_7digitalid: 323429
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1440,)
+segments_loudness_max: shape = (1440,)
+segments_loudness_max_time: shape = (1440,)
+segments_loudness_start: shape = (1440,)
+segments_pitches: shape = (1440, 12)
+segments_start: shape = (1440,)
+segments_timbre: shape = (1440, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJNQGL12AAF3B27B2
+start_of_fade_out: 336.231
+tatums_confidence: shape = (1416,)
+tatums_start: shape = (1416,)
+tempo: 125.648
+time_signature: 4
+time_signature_confidence: 0.689
+title: El Jamaiquino
+track_7digitalid: 3642012
+track_id: TRAVPYA128F92D944F
+year: 0

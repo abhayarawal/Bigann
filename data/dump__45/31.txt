@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 28162
+artist_familiarity: 0.610427725145
+artist_hotttnesss: 0.438168226182
+artist_id: ARTBFV61187FB3C250
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 8736f41f-365e-42c7-a733-36c22e74c97e
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Johnny Horton
+artist_playmeid: 2993
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 582574c3f39e6af7ccd978865ca0e20f
+bars_confidence: shape = (385,)
+bars_start: shape = (385,)
+beats_confidence: shape = (385,)
+beats_start: shape = (385,)
+danceability: 0.0
+duration: 132.23138
+end_of_fade_in: 0.138
+energy: 0.0
+key: 7
+key_confidence: 0.623
+loudness: -11.806
+mode: 1
+mode_confidence: 0.403
+release: Honky Tonk Man:  The Essential Johnny Horton 1956-1960
+release_7digitalid: 477767
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (596,)
+segments_loudness_max: shape = (596,)
+segments_loudness_max_time: shape = (596,)
+segments_loudness_start: shape = (596,)
+segments_pitches: shape = (596, 12)
+segments_start: shape = (596,)
+segments_timbre: shape = (596, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.439202489315
+song_id: SOYRTWG12A8C142BC1
+start_of_fade_out: 127.507
+tatums_confidence: shape = (771,)
+tatums_start: shape = (771,)
+tempo: 179.49
+time_signature: 1
+time_signature_confidence: 0.0
+title: The Woman I Need (Honky Tonk Mind)
+track_7digitalid: 5304242
+track_id: TRAPMCS128F92E88C5
+year: 2000

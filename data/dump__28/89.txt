@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 58476
+artist_familiarity: 0.474829406893
+artist_hotttnesss: 0.2969556818
+artist_id: ARV21JS1187B99E516
+artist_latitude: 40.73197
+artist_location: Newark, NJ
+artist_longitude: -74.17418
+artist_mbid: 0b696251-6f12-42e1-9302-926581ea5e08
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jerry Lewis
+artist_playmeid: 108212
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 040c7149f7f42bcf9d8a45ae17daed28
+bars_confidence: shape = (70,)
+bars_start: shape = (70,)
+beats_confidence: shape = (283,)
+beats_start: shape = (283,)
+danceability: 0.0
+duration: 142.73261
+end_of_fade_in: 0.369
+energy: 0.0
+key: 7
+key_confidence: 0.485
+loudness: -9.865
+mode: 1
+mode_confidence: 0.4
+release: Very Best Of
+release_7digitalid: 210460
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (390,)
+segments_loudness_max: shape = (390,)
+segments_loudness_max_time: shape = (390,)
+segments_loudness_start: shape = (390,)
+segments_pitches: shape = (390, 12)
+segments_start: shape = (390,)
+segments_timbre: shape = (390, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFLOGZ12A8C13C69F
+start_of_fade_out: 135.459
+tatums_confidence: shape = (565,)
+tatums_start: shape = (565,)
+tempo: 124.877
+time_signature: 4
+time_signature_confidence: 1.0
+title: It All Depends On You
+track_7digitalid: 2287313
+track_id: TRAJSFB128F4270AED
+year: 1995

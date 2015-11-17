@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20032
+artist_familiarity: 0.542232717105
+artist_hotttnesss: 0.34154441252
+artist_id: AR78WG01187B98E404
+artist_latitude: 19.45565
+artist_location: Santiago de los Caballeros, Domin
+artist_longitude: -70.70719
+artist_mbid: 13f53407-3b0f-426b-8ca9-935456362412
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Johnny Pacheco
+artist_playmeid: 93695
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: dcc109abda29f15b9dc60a7da512681b
+bars_confidence: shape = (146,)
+bars_start: shape = (146,)
+beats_confidence: shape = (585,)
+beats_start: shape = (585,)
+danceability: 0.0
+duration: 334.52363
+end_of_fade_in: 0.172
+energy: 0.0
+key: 5
+key_confidence: 0.017
+loudness: -10.401
+mode: 1
+mode_confidence: 0.107
+release: A Man And His Music
+release_7digitalid: 725674
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1673,)
+segments_loudness_max: shape = (1673,)
+segments_loudness_max_time: shape = (1673,)
+segments_loudness_start: shape = (1673,)
+segments_pitches: shape = (1673, 12)
+segments_start: shape = (1673,)
+segments_timbre: shape = (1673, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.338886720011
+song_id: SOMRLQO12A6D4FD322
+start_of_fade_out: 327.982
+tatums_confidence: shape = (2337,)
+tatums_start: shape = (2337,)
+tempo: 107.329
+time_signature: 4
+time_signature_confidence: 0.694
+title: Viralo Al Reves
+track_7digitalid: 8041909
+track_id: TRBGSVD12903CDA8B8
+year: 0

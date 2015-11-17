@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 379
+artist_familiarity: 0.700446614386
+artist_hotttnesss: 0.528795206131
+artist_id: AR0XSOO1187B9B9E88
+artist_latitude: 51.50632
+artist_location: London / Ex-Manchester
+artist_longitude: -0.12714
+artist_mbid: 31e9c35b-2675-4632-8596-f9bd9286f6c8
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Buzzcocks
+artist_playmeid: 38956
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 050b7a70bbcb9c28c3c6cdcd1d5e697b
+bars_confidence: shape = (158,)
+bars_start: shape = (158,)
+beats_confidence: shape = (636,)
+beats_start: shape = (636,)
+danceability: 0.0
+duration: 219.19302
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.776
+loudness: -7.736
+mode: 1
+mode_confidence: 0.577
+release: French
+release_7digitalid: 235138
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (678,)
+segments_loudness_max: shape = (678,)
+segments_loudness_max_time: shape = (678,)
+segments_loudness_start: shape = (678,)
+segments_pitches: shape = (678, 12)
+segments_start: shape = (678,)
+segments_timbre: shape = (678, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.550647153374
+song_id: SONPVKR12A58A7BA4A
+start_of_fade_out: 212.41
+tatums_confidence: shape = (1273,)
+tatums_start: shape = (1273,)
+tempo: 176.153
+time_signature: 4
+time_signature_confidence: 0.0
+title: Strange Thing
+track_7digitalid: 2580803
+track_id: TRACBOR128F422CFE4
+year: 1980

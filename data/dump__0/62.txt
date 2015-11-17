@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 142898
+artist_familiarity: 0.65393782097
+artist_hotttnesss: 0.396855869325
+artist_id: ARMD0G81187B99A519
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 378125ec-fd93-4920-87f0-0ab145c2db88
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Vickie Winans
+artist_playmeid: 8019
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 15884580537397d60dc2250fe163451f
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (407,)
+beats_start: shape = (407,)
+danceability: 0.0
+duration: 228.93669
+end_of_fade_in: 0.338
+energy: 0.0
+key: 11
+key_confidence: 0.172
+loudness: -8.686
+mode: 0
+mode_confidence: 0.369
+release: Classic Gold: Best of All
+release_7digitalid: 618615
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (838,)
+segments_loudness_max: shape = (838,)
+segments_loudness_max_time: shape = (838,)
+segments_loudness_start: shape = (838,)
+segments_pitches: shape = (838, 12)
+segments_start: shape = (838,)
+segments_timbre: shape = (838, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONXJBL12AAF3B2C0C
+start_of_fade_out: 219.574
+tatums_confidence: shape = (815,)
+tatums_start: shape = (815,)
+tempo: 107.961
+time_signature: 4
+time_signature_confidence: 1.0
+title: Make Me Over
+track_7digitalid: 6871078
+track_id: TRAAERU128F930674F
+year: 0

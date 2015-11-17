@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8807
+artist_familiarity: 0.758537438514
+artist_hotttnesss: 0.55141512027
+artist_id: ARM7YQQ1187B9A84E7
+artist_latitude: nan
+artist_location: New York, NY
+artist_longitude: nan
+artist_mbid: 4d2956d1-a3f7-44bb-9a41-67563e1a0c94
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Blondie
+artist_playmeid: 222
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 092098aa9702403d51e8b5f82a2189d9
+bars_confidence: shape = (385,)
+bars_start: shape = (385,)
+beats_confidence: shape = (1542,)
+beats_start: shape = (1542,)
+danceability: 0.0
+duration: 431.75138
+end_of_fade_in: 0.398
+energy: 0.0
+key: 0
+key_confidence: 0.077
+loudness: -10.448
+mode: 1
+mode_confidence: 0.303
+release: Atomic/Atomix
+release_7digitalid: 24773
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1814,)
+segments_loudness_max: shape = (1814,)
+segments_loudness_max_time: shape = (1814,)
+segments_loudness_start: shape = (1814,)
+segments_pitches: shape = (1814, 12)
+segments_start: shape = (1814,)
+segments_timbre: shape = (1814, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOANXLR12A6D4F82BF
+start_of_fade_out: 422.893
+tatums_confidence: shape = (3085,)
+tatums_start: shape = (3085,)
+tempo: 215.006
+time_signature: 4
+time_signature_confidence: 0.336
+title: Rapture (Us Disco Version) (1999 Digital Remaster)
+track_7digitalid: 262886
+track_id: TRAMWJH128F145DBE9
+year: 0

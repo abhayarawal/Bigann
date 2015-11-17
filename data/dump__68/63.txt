@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 360173
+artist_familiarity: 0.544862769333
+artist_hotttnesss: 0.387692819979
+artist_id: ARQN3MO1187B98A811
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 87d20af6-c551-4f85-ac2f-7579d2e2f3db
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Channel Live
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 965b3d3ca8766fc7daca511f811d8fd0
+bars_confidence: shape = (185,)
+bars_start: shape = (185,)
+beats_confidence: shape = (746,)
+beats_start: shape = (746,)
+danceability: 0.0
+duration: 238.81098
+end_of_fade_in: 0.189
+energy: 0.0
+key: 7
+key_confidence: 0.194
+loudness: -6.338
+mode: 1
+mode_confidence: 0.223
+release: Armaghetto
+release_7digitalid: 662590
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1190,)
+segments_loudness_max: shape = (1190,)
+segments_loudness_max_time: shape = (1190,)
+segments_loudness_start: shape = (1190,)
+segments_pitches: shape = (1190, 12)
+segments_start: shape = (1190,)
+segments_timbre: shape = (1190, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.239629097774
+song_id: SOSHGJM12AB0184FFC
+start_of_fade_out: 226.708
+tatums_confidence: shape = (1492,)
+tatums_start: shape = (1492,)
+tempo: 187.835
+time_signature: 4
+time_signature_confidence: 0.149
+title: Turn It Up
+track_7digitalid: 7341788
+track_id: TRAXKMU12903CA7328
+year: 0

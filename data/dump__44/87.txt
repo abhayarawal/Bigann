@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41173
+artist_familiarity: 0.460574212042
+artist_hotttnesss: 0.300128252649
+artist_id: ARKNICM1187B9B9CE5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d179fe22-0c20-410f-bfa5-5903f1953e9c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mick Moloney
+artist_playmeid: 155540
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 8d78eca43af0459bef7ba2245c8e0ee5
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (100,)
+beats_start: shape = (100,)
+danceability: 0.0
+duration: 32.91383
+end_of_fade_in: 0.2
+energy: 0.0
+key: 7
+key_confidence: 0.047
+loudness: -23.419
+mode: 1
+mode_confidence: 0.323
+release: Irish Folk Favourites
+release_7digitalid: 340648
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (181,)
+segments_loudness_max: shape = (181,)
+segments_loudness_max_time: shape = (181,)
+segments_loudness_start: shape = (181,)
+segments_pitches: shape = (181, 12)
+segments_start: shape = (181,)
+segments_timbre: shape = (181, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOWIHGX12AB017D6EA
+start_of_fade_out: 28.81
+tatums_confidence: shape = (199,)
+tatums_start: shape = (199,)
+tempo: 195.44
+time_signature: 1
+time_signature_confidence: 0.0
+title: Bodhrán Solo
+track_7digitalid: 3808962
+track_id: TRAPHQB128F92FA32A
+year: 0

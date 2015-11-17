@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 140531
+artist_familiarity: 0.638864203353
+artist_hotttnesss: 0.332809831723
+artist_id: ARPZBNS1187B98E279
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b0c6024b-54bb-4214-bd73-16dcb508f055
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Huey Dunbar
+artist_playmeid: 5569
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 38bb136bf8916daa8d4e455b0e54092f
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (409,)
+beats_start: shape = (409,)
+danceability: 0.0
+duration: 249.52118
+end_of_fade_in: 0.061
+energy: 0.0
+key: 3
+key_confidence: 0.369
+loudness: -5.951
+mode: 1
+mode_confidence: 0.421
+release: Music For My Peoples
+release_7digitalid: 395976
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1165,)
+segments_loudness_max: shape = (1165,)
+segments_loudness_max_time: shape = (1165,)
+segments_loudness_start: shape = (1165,)
+segments_pitches: shape = (1165, 12)
+segments_start: shape = (1165,)
+segments_timbre: shape = (1165, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3759843015
+song_id: SONDYJW12AB017FD61
+start_of_fade_out: 244.402
+tatums_confidence: shape = (818,)
+tatums_start: shape = (818,)
+tempo: 98.998
+time_signature: 4
+time_signature_confidence: 0.256
+title: Llegaste Tú
+track_7digitalid: 4401239
+track_id: TRBFVZZ128F92FD7B5
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 35233
+artist_familiarity: 0.615504102642
+artist_hotttnesss: 0.439836358888
+artist_id: AR02YGA1187B9B8AC4
+artist_latitude: -34.60852
+artist_location: Buenos Aires
+artist_longitude: -58.37354
+artist_mbid: e90428f4-29ef-47b4-a081-75e415f51037
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bersuit Vergarabat
+artist_playmeid: -1
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: c8b46162099cb423b3f11253d2dd902f
+bars_confidence: shape = (135,)
+bars_start: shape = (135,)
+beats_confidence: shape = (544,)
+beats_start: shape = (544,)
+danceability: 0.0
+duration: 220.29016
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.334
+loudness: -3.935
+mode: 1
+mode_confidence: 0.592
+release: De La Cabeza Con Bersuit Vergarabat
+release_7digitalid: 508635
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (778,)
+segments_loudness_max: shape = (778,)
+segments_loudness_max_time: shape = (778,)
+segments_loudness_start: shape = (778,)
+segments_pitches: shape = (778, 12)
+segments_start: shape = (778,)
+segments_timbre: shape = (778, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBVPQV12AB018353C
+start_of_fade_out: 220.29
+tatums_confidence: shape = (1088,)
+tatums_start: shape = (1088,)
+tempo: 148.412
+time_signature: 4
+time_signature_confidence: 0.234
+title: Se Viene
+track_7digitalid: 5625655
+track_id: TRAYVLL128F9335B7A
+year: 1998

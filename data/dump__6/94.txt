@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 796501
+artist_familiarity: 0.453531639315
+artist_hotttnesss: 0.274360733412
+artist_id: ARMEUT11187B9BA155
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 92c1cbb9-84a0-414d-a88c-8a518a7c7ef0
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Steve Riley & The Mamou Playboys
+artist_playmeid: -1
+artist_terms: shape = (64,)
+artist_terms_freq: shape = (64,)
+artist_terms_weight: shape = (64,)
+audio_md5: 764b4d2fffa9dbd33b415412d4a5e1c2
+bars_confidence: shape = (663,)
+bars_start: shape = (663,)
+beats_confidence: shape = (663,)
+beats_start: shape = (663,)
+danceability: 0.0
+duration: 182.22975
+end_of_fade_in: 0.374
+energy: 0.0
+key: 0
+key_confidence: 0.85
+loudness: -3.959
+mode: 1
+mode_confidence: 0.689
+release: La Toussaint
+release_7digitalid: 396810
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1173,)
+segments_loudness_max: shape = (1173,)
+segments_loudness_max_time: shape = (1173,)
+segments_loudness_start: shape = (1173,)
+segments_pitches: shape = (1173, 12)
+segments_start: shape = (1173,)
+segments_timbre: shape = (1173, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQBETA12CF5702399
+start_of_fade_out: 172.263
+tatums_confidence: shape = (1327,)
+tatums_start: shape = (1327,)
+tempo: 225.669
+time_signature: 1
+time_signature_confidence: 0.0
+title: Between Eunice & Opelousas
+track_7digitalid: 4405267
+track_id: TRACGOI128F92FE771
+year: 1995

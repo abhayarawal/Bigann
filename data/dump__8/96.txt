@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 471418
+artist_familiarity: 0.689559690171
+artist_hotttnesss: 0.529039572377
+artist_id: ARH8B5X1187FB3B6C0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 99b3468f-ade6-45b9-b3b8-edbcfd9d553a
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Skeletonwitch
+artist_playmeid: 184728
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: d31721116f70f28b2f68443a4124a2fe
+bars_confidence: shape = (145,)
+bars_start: shape = (145,)
+beats_confidence: shape = (581,)
+beats_start: shape = (581,)
+danceability: 0.0
+duration: 173.37424
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.468
+loudness: -5.516
+mode: 1
+mode_confidence: 0.429
+release: Beyond the Permafrost
+release_7digitalid: 632807
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (663,)
+segments_loudness_max: shape = (663,)
+segments_loudness_max_time: shape = (663,)
+segments_loudness_start: shape = (663,)
+segments_pitches: shape = (663, 12)
+segments_start: shape = (663,)
+segments_timbre: shape = (663, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.58090087381
+song_id: SOVBYLF12AB017EBAC
+start_of_fade_out: 169.059
+tatums_confidence: shape = (1162,)
+tatums_start: shape = (1162,)
+tempo: 201.333
+time_signature: 4
+time_signature_confidence: 0.0
+title: Sacrifice for the Slaughtergod
+track_7digitalid: 7025025
+track_id: TRACYDP128F932BC8E
+year: 2007

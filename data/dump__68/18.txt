@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4031
+artist_familiarity: 0.725974866336
+artist_hotttnesss: 0.463979513898
+artist_id: AR1CD5Z1187B98F2C2
+artist_latitude: 38.91391
+artist_location: Lee's Summit, MO
+artist_longitude: -94.37517
+artist_mbid: 7daac7f9-8fcc-485f-a14f-f8091d98cf25
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Pat Metheny
+artist_playmeid: -1
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: df87d8c8c8c0aa411d117a20904fcbaa
+bars_confidence: shape = (238,)
+bars_start: shape = (238,)
+beats_confidence: shape = (238,)
+beats_start: shape = (238,)
+danceability: 0.0
+duration: 166.26893
+end_of_fade_in: 0.293
+energy: 0.0
+key: 5
+key_confidence: 0.302
+loudness: -27.754
+mode: 0
+mode_confidence: 0.324
+release: Upojenie
+release_7digitalid: 320355
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (330,)
+segments_loudness_max: shape = (330,)
+segments_loudness_max_time: shape = (330,)
+segments_loudness_start: shape = (330,)
+segments_pitches: shape = (330, 12)
+segments_start: shape = (330,)
+segments_timbre: shape = (330, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.693001428011
+song_id: SOHGOUQ12A8C145269
+start_of_fade_out: 146.338
+tatums_confidence: shape = (477,)
+tatums_start: shape = (477,)
+tempo: 87.559
+time_signature: 1
+time_signature_confidence: 1.0
+title: Letter from Home
+track_7digitalid: 3610395
+track_id: TRAXHEX128F92D28D4
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30291
+artist_familiarity: 0.580910693233
+artist_hotttnesss: 0.295117193892
+artist_id: ARNMHWR11F4C83B384
+artist_latitude: 37.44466
+artist_location: Palo Alto, CA
+artist_longitude: -122.16079
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kingston Trio
+artist_playmeid: 147174
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: dfb49bcfee20f703fde3ac485ecd458e
+bars_confidence: shape = (377,)
+bars_start: shape = (377,)
+beats_confidence: shape = (377,)
+beats_start: shape = (377,)
+danceability: 0.0
+duration: 165.48526
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.0
+loudness: -13.196
+mode: 0
+mode_confidence: 0.185
+release: The M.T.A.
+release_7digitalid: 809196
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (551,)
+segments_loudness_max: shape = (551,)
+segments_loudness_max_time: shape = (551,)
+segments_loudness_start: shape = (551,)
+segments_pitches: shape = (551, 12)
+segments_start: shape = (551,)
+segments_timbre: shape = (551, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPSOHL12AB0185A0C
+start_of_fade_out: 158.813
+tatums_confidence: shape = (755,)
+tatums_start: shape = (755,)
+tempo: 142.763
+time_signature: 1
+time_signature_confidence: 0.0
+title: Goodnight Irene
+track_7digitalid: 8947504
+track_id: TRBFTHM12903CCC8FD
+year: 0

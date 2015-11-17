@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 175702
+artist_familiarity: 0.509952450538
+artist_hotttnesss: 0.363132403523
+artist_id: ARI28VJ1187FB4EAD7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 828fcd83-03c0-48d8-9d88-ac1567eef07e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Slackbaba
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 63ee87f25ace6e33351d37f56c6aeec4
+bars_confidence: shape = (536,)
+bars_start: shape = (536,)
+beats_confidence: shape = (536,)
+beats_start: shape = (536,)
+danceability: 0.0
+duration: 488.25424
+end_of_fade_in: 0.688
+energy: 0.0
+key: 0
+key_confidence: 0.326
+loudness: -7.319
+mode: 0
+mode_confidence: 0.353
+release: And The Beat Goes Om
+release_7digitalid: 727695
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1902,)
+segments_loudness_max: shape = (1902,)
+segments_loudness_max_time: shape = (1902,)
+segments_loudness_start: shape = (1902,)
+segments_pitches: shape = (1902, 12)
+segments_start: shape = (1902,)
+segments_timbre: shape = (1902, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKCQWQ12AB0189111
+start_of_fade_out: 456.644
+tatums_confidence: shape = (2681,)
+tatums_start: shape = (2681,)
+tempo: 68.0
+time_signature: 1
+time_signature_confidence: 0.0
+title: And The Beat Goes Om
+track_7digitalid: 8063487
+track_id: TRAXFBO12903CDFCFC
+year: 2006

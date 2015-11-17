@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11084
+artist_familiarity: 0.599133769097
+artist_hotttnesss: 0.392994622588
+artist_id: ARZVEF91187B9AC770
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 2c16f7ca-e331-47fc-af91-4f236cba4c6d
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Elliot Goldenthal
+artist_playmeid: 20271
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 32f84d9c350ae053560c5243fbbaf3d2
+bars_confidence: shape = (9,)
+bars_start: shape = (9,)
+beats_confidence: shape = (121,)
+beats_start: shape = (121,)
+danceability: 0.0
+duration: 92.86485
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.025
+loudness: -23.519
+mode: 1
+mode_confidence: 0.428
+release: Titus - Original Motion Picture Soundtrack
+release_7digitalid: 289872
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (147,)
+segments_loudness_max: shape = (147,)
+segments_loudness_max_time: shape = (147,)
+segments_loudness_start: shape = (147,)
+segments_pitches: shape = (147, 12)
+segments_start: shape = (147,)
+segments_timbre: shape = (147, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.323112120895
+song_id: SOOJHOT12A8C137024
+start_of_fade_out: 92.865
+tatums_confidence: shape = (362,)
+tatums_start: shape = (362,)
+tempo: 79.35
+time_signature: 7
+time_signature_confidence: 0.465
+title: Vortex
+track_7digitalid: 3249203
+track_id: TRADKYH128F42788EA
+year: 2000

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40983
+artist_familiarity: 0.662298709656
+artist_hotttnesss: 0.379137555625
+artist_id: ARALP6I1187B989E27
+artist_latitude: 40.86034
+artist_location: Passaic, NJ
+artist_longitude: -74.12374
+artist_mbid: a8540ea0-1a74-4c22-8b70-1348a77a74a0
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: The Shirelles
+artist_playmeid: 2984
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 2423ec515d8c882e79cbab4d68412148
+bars_confidence: shape = (34,)
+bars_start: shape = (34,)
+beats_confidence: shape = (144,)
+beats_start: shape = (144,)
+danceability: 0.0
+duration: 127.29424
+end_of_fade_in: 0.177
+energy: 0.0
+key: 10
+key_confidence: 0.044
+loudness: -11.539
+mode: 1
+mode_confidence: 0.325
+release: Where Or When
+release_7digitalid: 644803
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (314,)
+segments_loudness_max: shape = (314,)
+segments_loudness_max_time: shape = (314,)
+segments_loudness_start: shape = (314,)
+segments_pitches: shape = (314, 12)
+segments_start: shape = (314,)
+segments_timbre: shape = (314, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOMXUAV12AB0188A0E
+start_of_fade_out: 113.627
+tatums_confidence: shape = (288,)
+tatums_start: shape = (288,)
+tempo: 71.597
+time_signature: 4
+time_signature_confidence: 0.444
+title: Dedicated To The One I Love
+track_7digitalid: 7145538
+track_id: TRAHBWE128F9349247
+year: 1960

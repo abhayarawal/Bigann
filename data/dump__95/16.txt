@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 79228
+artist_familiarity: 0.48324306732
+artist_hotttnesss: 0.324430891993
+artist_id: ARH4N0N1187FB3E1F1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9a81b764-c59a-42c6-a273-9015bae6c366
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Malkit Singh
+artist_playmeid: 66601
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 1b94359dc165820b4a788b9b44fbd46c
+bars_confidence: shape = (405,)
+bars_start: shape = (405,)
+beats_confidence: shape = (405,)
+beats_start: shape = (405,)
+danceability: 0.0
+duration: 430.94159
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.536
+loudness: -10.743
+mode: 1
+mode_confidence: 0.419
+release: Best Of Golden Star
+release_7digitalid: 540372
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (2173,)
+segments_loudness_max: shape = (2173,)
+segments_loudness_max_time: shape = (2173,)
+segments_loudness_start: shape = (2173,)
+segments_pitches: shape = (2173, 12)
+segments_start: shape = (2173,)
+segments_timbre: shape = (2173, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEBQYQ12AB0183F46
+start_of_fade_out: 419.161
+tatums_confidence: shape = (2430,)
+tatums_start: shape = (2430,)
+tempo: 56.886
+time_signature: 1
+time_signature_confidence: 0.0
+title: Holli Holi Nach Kuriye
+track_7digitalid: 5983596
+track_id: TRBGURA128F9316E7E
+year: 2007

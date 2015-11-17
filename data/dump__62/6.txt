@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9917
+artist_familiarity: 0.589694605247
+artist_hotttnesss: 0.383863704328
+artist_id: AR21YNH1187FB49649
+artist_latitude: 51.50632
+artist_location: London
+artist_longitude: -0.12714
+artist_mbid: c0c5e158-d61d-4043-a0eb-dc6cc1e0a539
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Ms. Dynamite / Kymani Marley
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 46c62dea6e1cec077a250b90be1e1e0f
+bars_confidence: shape = (75,)
+bars_start: shape = (75,)
+beats_confidence: shape = (302,)
+beats_start: shape = (302,)
+danceability: 0.0
+duration: 202.21342
+end_of_fade_in: 0.178
+energy: 0.0
+key: 7
+key_confidence: 0.756
+loudness: -11.224
+mode: 1
+mode_confidence: 0.525
+release: A Little Deeper
+release_7digitalid: 13924
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (967,)
+segments_loudness_max: shape = (967,)
+segments_loudness_max_time: shape = (967,)
+segments_loudness_start: shape = (967,)
+segments_pitches: shape = (967, 12)
+segments_start: shape = (967,)
+segments_timbre: shape = (967, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.585979766109
+song_id: SOAOXTG12A67021AA7
+start_of_fade_out: 195.286
+tatums_confidence: shape = (1205,)
+tatums_start: shape = (1205,)
+tempo: 89.996
+time_signature: 4
+time_signature_confidence: 0.743
+title: Seed Will Grow
+track_7digitalid: 144603
+track_id: TRAVFSL128E078E22A
+year: 2002

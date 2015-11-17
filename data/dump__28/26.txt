@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1633
+artist_familiarity: 0.626803106327
+artist_hotttnesss: 0.405234690787
+artist_id: ARJ9DSA1187B990E00
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4756395c-57ed-4a63-afb2-01117f14dff6
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: John Mayall & The Bluesbreakers
+artist_playmeid: 19569
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 160962ea9735d51495bc473de4193f35
+bars_confidence: shape = (301,)
+bars_start: shape = (301,)
+beats_confidence: shape = (301,)
+beats_start: shape = (301,)
+danceability: 0.0
+duration: 142.15791
+end_of_fade_in: 0.49
+energy: 0.0
+key: 4
+key_confidence: 1.0
+loudness: -5.063
+mode: 1
+mode_confidence: 0.901
+release: Plays John Mayall (Live At Klooks Kleek)
+release_7digitalid: 45795
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (500,)
+segments_loudness_max: shape = (500,)
+segments_loudness_max_time: shape = (500,)
+segments_loudness_start: shape = (500,)
+segments_pitches: shape = (500, 12)
+segments_start: shape = (500,)
+segments_timbre: shape = (500, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGPDBF12A6D4F7FAB
+start_of_fade_out: 136.243
+tatums_confidence: shape = (601,)
+tatums_start: shape = (601,)
+tempo: 133.072
+time_signature: 1
+time_signature_confidence: 0.0
+title: Blues City Shake Down
+track_7digitalid: 488735
+track_id: TRAJMDE128F14898B2
+year: 2010

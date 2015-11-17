@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 108
+artist_familiarity: 0.840432466617
+artist_hotttnesss: 0.642982219877
+artist_id: ARW1MUW1187FB4D5A1
+artist_latitude: nan
+artist_location: Escatawpa, MS
+artist_longitude: nan
+artist_mbid: 2386cd66-e923-4e8e-bf14-2eebe2e9b973
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: 3 Doors Down
+artist_playmeid: 10
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: f3b5389944fc442c293346a12f121bb9
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (513,)
+beats_start: shape = (513,)
+danceability: 0.0
+duration: 203.2322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.0
+loudness: -4.995
+mode: 0
+mode_confidence: 0.106
+release: The Better Life - Deluxe Edition
+release_7digitalid: 216616
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (485,)
+segments_loudness_max: shape = (485,)
+segments_loudness_max_time: shape = (485,)
+segments_loudness_start: shape = (485,)
+segments_pitches: shape = (485, 12)
+segments_start: shape = (485,)
+segments_timbre: shape = (485, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHGPEC12A8C13BBE8
+start_of_fade_out: 203.232
+tatums_confidence: shape = (1025,)
+tatums_start: shape = (1025,)
+tempo: 151.8
+time_signature: 5
+time_signature_confidence: 0.676
+title: Better Life
+track_7digitalid: 2358569
+track_id: TRBHKKK128F427E9FF
+year: 2007

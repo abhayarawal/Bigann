@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4779
+artist_familiarity: 0.58695062173
+artist_hotttnesss: 0.43205407899
+artist_id: ARGJ0911187FB4613F
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 3aeb9e89-4fc3-46f4-a5a8-cf6c1b7e66a0
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Maria Muldaur
+artist_playmeid: 41489
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 0695ac036aac7a585aa17eb69d6da5db
+bars_confidence: shape = (404,)
+bars_start: shape = (404,)
+beats_confidence: shape = (404,)
+beats_start: shape = (404,)
+danceability: 0.0
+duration: 180.87138
+end_of_fade_in: 0.492
+energy: 0.0
+key: 11
+key_confidence: 0.382
+loudness: -5.959
+mode: 1
+mode_confidence: 0.436
+release: The L Word: Season 3
+release_7digitalid: 776016
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (599,)
+segments_loudness_max: shape = (599,)
+segments_loudness_max_time: shape = (599,)
+segments_loudness_start: shape = (599,)
+segments_pitches: shape = (599, 12)
+segments_start: shape = (599,)
+segments_timbre: shape = (599, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.636287224427
+song_id: SOVZDMI12AB0188DA6
+start_of_fade_out: 175.224
+tatums_confidence: shape = (809,)
+tatums_start: shape = (809,)
+tempo: 137.549
+time_signature: 1
+time_signature_confidence: 0.064
+title: It Ain't The Meat It's The Motion
+track_7digitalid: 8585903
+track_id: TRBCXIX12903CE8449
+year: 1974

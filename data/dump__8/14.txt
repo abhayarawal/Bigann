@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1374
+artist_familiarity: 0.675771369617
+artist_hotttnesss: 0.435468898816
+artist_id: AR93D4D1187FB3ACAD
+artist_latitude: 35.472
+artist_location: Oklahoma City, OK
+artist_longitude: -97.52033
+artist_mbid: 4b0be624-6b87-47e8-bbf0-588a2c6c0439
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: J.J. Cale
+artist_playmeid: 5826
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 7cac2b7e4ae4d42cca43f596d7e70009
+bars_confidence: shape = (485,)
+bars_start: shape = (485,)
+beats_confidence: shape = (485,)
+beats_start: shape = (485,)
+danceability: 0.0
+duration: 263.94077
+end_of_fade_in: 0.13
+energy: 0.0
+key: 0
+key_confidence: 0.951
+loudness: -14.293
+mode: 1
+mode_confidence: 0.683
+release: The Very Best Of J.J. Cale
+release_7digitalid: 94209
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1052,)
+segments_loudness_max: shape = (1052,)
+segments_loudness_max_time: shape = (1052,)
+segments_loudness_start: shape = (1052,)
+segments_pitches: shape = (1052, 12)
+segments_start: shape = (1052,)
+segments_timbre: shape = (1052, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.557313136388
+song_id: SOICEAK12A6D4F4819
+start_of_fade_out: 260.882
+tatums_confidence: shape = (1455,)
+tatums_start: shape = (1455,)
+tempo: 111.492
+time_signature: 1
+time_signature_confidence: 0.0
+title: Midnight In Memphis
+track_7digitalid: 2232365
+track_id: TRACRBQ128F4263964
+year: 1997

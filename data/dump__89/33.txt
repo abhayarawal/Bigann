@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 177996
+artist_familiarity: 0.625443262044
+artist_hotttnesss: 0.431526919215
+artist_id: ARSE6YI1187B9B9CD2
+artist_latitude: 30.2676
+artist_location: Austin
+artist_longitude: -97.74298
+artist_mbid: 9e082466-2390-40d1-891e-4803531f43fd
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: James Hunter
+artist_playmeid: -1
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: d36f23463b94c7b63fdaa7141600d6e2
+bars_confidence: shape = (73,)
+bars_start: shape = (73,)
+beats_confidence: shape = (297,)
+beats_start: shape = (297,)
+danceability: 0.0
+duration: 180.89751
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.011
+loudness: -7.279
+mode: 0
+mode_confidence: 0.249
+release: The Hard Way
+release_7digitalid: 231080
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (649,)
+segments_loudness_max: shape = (649,)
+segments_loudness_max_time: shape = (649,)
+segments_loudness_start: shape = (649,)
+segments_pitches: shape = (649, 12)
+segments_start: shape = (649,)
+segments_timbre: shape = (649, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.454192988218
+song_id: SOYJZTG12A81C23239
+start_of_fade_out: 173.25
+tatums_confidence: shape = (890,)
+tatums_start: shape = (890,)
+tempo: 101.664
+time_signature: 4
+time_signature_confidence: 0.0
+title: Class Act
+track_7digitalid: 2532387
+track_id: TRBEUMG128F422305C
+year: 2008

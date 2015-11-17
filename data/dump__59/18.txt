@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 48409
+artist_familiarity: 0.665322161906
+artist_hotttnesss: 0.394217198901
+artist_id: ARRJNTE1187FB44E12
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 73d882c7-1146-4012-a61b-a3b2c11fce2f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Casiotone For The Painfully Alone
+artist_playmeid: -1
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: de2c4779da4b0bdc622bb8dce66c497f
+bars_confidence: shape = (141,)
+bars_start: shape = (141,)
+beats_confidence: shape = (567,)
+beats_start: shape = (567,)
+danceability: 0.0
+duration: 197.25016
+end_of_fade_in: 0.084
+energy: 0.0
+key: 1
+key_confidence: 0.548
+loudness: -9.31
+mode: 1
+mode_confidence: 0.291
+release: Vs. Children
+release_7digitalid: 416628
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (904,)
+segments_loudness_max: shape = (904,)
+segments_loudness_max_time: shape = (904,)
+segments_loudness_start: shape = (904,)
+segments_pitches: shape = (904, 12)
+segments_start: shape = (904,)
+segments_timbre: shape = (904, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.705629188657
+song_id: SOMWLTZ12AB0182E86
+start_of_fade_out: 197.25
+tatums_confidence: shape = (1135,)
+tatums_start: shape = (1135,)
+tempo: 180.094
+time_signature: 4
+time_signature_confidence: 0.576
+title: White Jetta
+track_7digitalid: 4633861
+track_id: TRAUEWN128F932C32C
+year: 2009

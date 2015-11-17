@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 684
+artist_familiarity: 0.631702561609
+artist_hotttnesss: 0.458210741502
+artist_id: AREMOC71187B996C2F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7a1daf7f-b972-4808-bc03-2e1e3a79dce0
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Lara Fabian
+artist_playmeid: 2680
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 0ab1e9ecb4eca0a2ab3cdcf46336e6d0
+bars_confidence: shape = (123,)
+bars_start: shape = (123,)
+beats_confidence: shape = (498,)
+beats_start: shape = (498,)
+danceability: 0.0
+duration: 273.13587
+end_of_fade_in: 0.206
+energy: 0.0
+key: 2
+key_confidence: 0.67
+loudness: -7.387
+mode: 1
+mode_confidence: 0.662
+release: Carpe Diem
+release_7digitalid: 226414
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (856,)
+segments_loudness_max: shape = (856,)
+segments_loudness_max_time: shape = (856,)
+segments_loudness_start: shape = (856,)
+segments_pitches: shape = (856, 12)
+segments_start: shape = (856,)
+segments_timbre: shape = (856, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.386477291255
+song_id: SORWASK12A6D4FA5ED
+start_of_fade_out: 258.485
+tatums_confidence: shape = (995,)
+tatums_start: shape = (995,)
+tempo: 109.965
+time_signature: 4
+time_signature_confidence: 1.0
+title: Ramène Moi
+track_7digitalid: 2477752
+track_id: TRBBKXZ128F4215C88
+year: 1994

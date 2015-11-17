@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 148697
+artist_familiarity: 0.749077779157
+artist_hotttnesss: 0.447330487172
+artist_id: ARHKQGH1187B9A4DB4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8ebd161e-f45e-41b9-8019-fcbd094c327f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: In Extremo
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: c3851e97b0c5097fd41873902d92dca6
+bars_confidence: shape = (126,)
+bars_start: shape = (126,)
+beats_confidence: shape = (505,)
+beats_start: shape = (505,)
+danceability: 0.0
+duration: 186.06975
+end_of_fade_in: 0.369
+energy: 0.0
+key: 9
+key_confidence: 0.492
+loudness: -2.136
+mode: 0
+mode_confidence: 0.439
+release: Frei zu sein
+release_7digitalid: 228846
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (473,)
+segments_loudness_max: shape = (473,)
+segments_loudness_max_time: shape = (473,)
+segments_loudness_start: shape = (473,)
+segments_pitches: shape = (473, 12)
+segments_start: shape = (473,)
+segments_timbre: shape = (473, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUYYZV12A6D4FBE40
+start_of_fade_out: 176.495
+tatums_confidence: shape = (1011,)
+tatums_start: shape = (1011,)
+tempo: 170.095
+time_signature: 4
+time_signature_confidence: 0.0
+title: Frei zu sein
+track_7digitalid: 2504150
+track_id: TRAQCKG128F421C277
+year: 2008

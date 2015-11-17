@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2728
+artist_familiarity: 0.40743039975
+artist_hotttnesss: 0.318536029936
+artist_id: ARI2JSK1187FB496EF
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: 32111fcd-2338-472a-892b-4b329549e3ba
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Nick Ingman
+artist_playmeid: 20077
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 86d8481a2fd79281930fc7b58e4626a1
+bars_confidence: shape = (57,)
+bars_start: shape = (57,)
+beats_confidence: shape = (232,)
+beats_start: shape = (232,)
+danceability: 0.0
+duration: 110.15791
+end_of_fade_in: 3.419
+energy: 0.0
+key: 2
+key_confidence: 0.753
+loudness: -20.678
+mode: 0
+mode_confidence: 0.789
+release: Two Brothers
+release_7digitalid: 53832
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (227,)
+segments_loudness_max: shape = (227,)
+segments_loudness_max_time: shape = (227,)
+segments_loudness_start: shape = (227,)
+segments_pitches: shape = (227, 12)
+segments_start: shape = (227,)
+segments_timbre: shape = (227, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.233601928581
+song_id: SOWYBEG12A6D4F9142
+start_of_fade_out: 101.93
+tatums_confidence: shape = (232,)
+tatums_start: shape = (232,)
+tempo: 133.369
+time_signature: 4
+time_signature_confidence: 0.497
+title: Kumal & Sangha
+track_7digitalid: 561678
+track_id: TRBCRIM128F1496280
+year: 0

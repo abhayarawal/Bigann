@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 63392
+artist_familiarity: 0.480377152741
+artist_hotttnesss: 0.355022011393
+artist_id: AR9VI9M1187FB410CC
+artist_latitude: 41.58979
+artist_location: Des Moines, Iowa
+artist_longitude: -93.61566
+artist_mbid: c78fec7d-5be0-45ee-89bc-5c4e2f3ebd9b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: To My Surprise
+artist_playmeid: -1
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 755fef46bd8c4de9351ec5e19c3248b1
+bars_confidence: shape = (106,)
+bars_start: shape = (106,)
+beats_confidence: shape = (430,)
+beats_start: shape = (430,)
+danceability: 0.0
+duration: 175.22893
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.707
+loudness: -2.17
+mode: 1
+mode_confidence: 0.553
+release: To My Surprise
+release_7digitalid: 620533
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (625,)
+segments_loudness_max: shape = (625,)
+segments_loudness_max_time: shape = (625,)
+segments_loudness_start: shape = (625,)
+segments_pitches: shape = (625, 12)
+segments_start: shape = (625,)
+segments_timbre: shape = (625, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSLODI12AB0179DD7
+start_of_fade_out: 169.918
+tatums_confidence: shape = (861,)
+tatums_start: shape = (861,)
+tempo: 149.654
+time_signature: 4
+time_signature_confidence: 0.442
+title: Easy or Not (Album Version)
+track_7digitalid: 6893037
+track_id: TRAQYZO128F930BC98
+year: 2003

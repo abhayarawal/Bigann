@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 362449
+artist_familiarity: 0.568427347298
+artist_hotttnesss: 0.335041777037
+artist_id: ARCRSUM1187FB52AB0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 870447e1-6f80-454d-8f3d-4ff7a2085168
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Frequency
+artist_playmeid: 149742
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 2d3da2161ca1b9478493f1ed6332dad6
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (383,)
+beats_start: shape = (383,)
+danceability: 0.0
+duration: 195.21261
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.258
+loudness: -9.334
+mode: 1
+mode_confidence: 0.509
+release: THE FREQUENCY
+release_7digitalid: 489422
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (1193,)
+segments_loudness_max: shape = (1193,)
+segments_loudness_max_time: shape = (1193,)
+segments_loudness_start: shape = (1193,)
+segments_pitches: shape = (1193, 12)
+segments_start: shape = (1193,)
+segments_timbre: shape = (1193, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSCHBV12AB017F968
+start_of_fade_out: 190.131
+tatums_confidence: shape = (1534,)
+tatums_start: shape = (1534,)
+tempo: 118.008
+time_signature: 4
+time_signature_confidence: 1.0
+title: Stop It
+track_7digitalid: 5424602
+track_id: TRAOCIR128F9304F92
+year: 2004

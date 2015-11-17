@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 222
+artist_familiarity: 0.905477001362
+artist_hotttnesss: 0.84338027443
+artist_id: ARF5M7Q1187FB501E8
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: 0ab49580-c84f-44d4-875f-d83760ea2cfe
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Maroon 5
+artist_playmeid: 1030
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 8cd29548015a6f098b34a913277d14e7
+bars_confidence: shape = (107,)
+bars_start: shape = (107,)
+beats_confidence: shape = (430,)
+beats_start: shape = (430,)
+danceability: 0.0
+duration: 173.66159
+end_of_fade_in: 2.949
+energy: 0.0
+key: 1
+key_confidence: 0.65
+loudness: -4.757
+mode: 0
+mode_confidence: 0.575
+release: Songs About Jane
+release_7digitalid: 81735
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (734,)
+segments_loudness_max: shape = (734,)
+segments_loudness_max_time: shape = (734,)
+segments_loudness_start: shape = (734,)
+segments_pitches: shape = (734, 12)
+segments_start: shape = (734,)
+segments_timbre: shape = (734, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.979837196456
+song_id: SOOXLKF12A6D4F594A
+start_of_fade_out: 171.607
+tatums_confidence: shape = (859,)
+tatums_start: shape = (859,)
+tempo: 149.917
+time_signature: 4
+time_signature_confidence: 0.791
+title: Harder To Breathe
+track_7digitalid: 864398
+track_id: TRATKVY128EF35F97A
+year: 2002

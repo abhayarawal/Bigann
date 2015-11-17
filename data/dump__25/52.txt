@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 481461
+artist_familiarity: 0.474860262475
+artist_hotttnesss: 0.328722969492
+artist_id: ARCDSI81187B989BAA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 356606f6-2a91-4366-bc68-713524ac6861
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Moonface
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 3e404f7d29fc355921c5d1bb9349e6fb
+bars_confidence: shape = (282,)
+bars_start: shape = (282,)
+beats_confidence: shape = (1130,)
+beats_start: shape = (1130,)
+danceability: 0.0
+duration: 508.60363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.736
+loudness: -11.516
+mode: 1
+mode_confidence: 0.585
+release: Discoteca Ep 2
+release_7digitalid: 811230
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (3337,)
+segments_loudness_max: shape = (3337,)
+segments_loudness_max_time: shape = (3337,)
+segments_loudness_start: shape = (3337,)
+segments_pitches: shape = (3337, 12)
+segments_start: shape = (3337,)
+segments_timbre: shape = (3337, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTUNNV12AB01854CD
+start_of_fade_out: 484.113
+tatums_confidence: shape = (2261,)
+tatums_start: shape = (2261,)
+tempo: 130.07
+time_signature: 4
+time_signature_confidence: 0.496
+title: G G Kah
+track_7digitalid: 8967756
+track_id: TRAIOUL12903CD172D
+year: 0

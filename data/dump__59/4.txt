@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5899
+artist_familiarity: 0.599935171947
+artist_hotttnesss: 0.356795543167
+artist_id: ARAG1DX1187B98BB10
+artist_latitude: 41.88415
+artist_location: Chicago, IL
+artist_longitude: -87.63241
+artist_mbid: 2f84b66f-06c5-4f45-b19a-b8947ca5b0ba
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ben Sidran
+artist_playmeid: 18348
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 76f7cd195cc2a4e15319967cf21b4764
+bars_confidence: shape = (61,)
+bars_start: shape = (61,)
+beats_confidence: shape = (347,)
+beats_start: shape = (347,)
+danceability: 0.0
+duration: 307.80036
+end_of_fade_in: 2.932
+energy: 0.0
+key: 5
+key_confidence: 1.0
+loudness: -17.336
+mode: 1
+mode_confidence: 0.878
+release: Dylan Different
+release_7digitalid: 638138
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (715,)
+segments_loudness_max: shape = (715,)
+segments_loudness_max_time: shape = (715,)
+segments_loudness_start: shape = (715,)
+segments_pitches: shape = (715, 12)
+segments_start: shape = (715,)
+segments_timbre: shape = (715, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.221548659914
+song_id: SOCJHAZ12AB0181CE2
+start_of_fade_out: 291.933
+tatums_confidence: shape = (694,)
+tatums_start: shape = (694,)
+tempo: 68.479
+time_signature: 5
+time_signature_confidence: 0.875
+title: Blowin' In the Wind
+track_7digitalid: 7086793
+track_id: TRAUDIU128F933AD92
+year: 2009

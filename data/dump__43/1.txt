@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 109963
+artist_familiarity: 0.565993938979
+artist_hotttnesss: 0.353215200691
+artist_id: ARXENBZ11F50C47691
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Johnny Kidd And The Pirates
+artist_playmeid: 176187
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 2229e73786ab087b1937a97f5c8b85cf
+bars_confidence: shape = (72,)
+bars_start: shape = (72,)
+beats_confidence: shape = (218,)
+beats_start: shape = (218,)
+danceability: 0.0
+duration: 150.07302
+end_of_fade_in: 3.332
+energy: 0.0
+key: 7
+key_confidence: 0.205
+loudness: -17.914
+mode: 1
+mode_confidence: 0.601
+release: Heros Of Rock And Roll
+release_7digitalid: 140777
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (557,)
+segments_loudness_max: shape = (557,)
+segments_loudness_max_time: shape = (557,)
+segments_loudness_start: shape = (557,)
+segments_pitches: shape = (557, 12)
+segments_start: shape = (557,)
+segments_timbre: shape = (557, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOJCCCM12A8C130021
+start_of_fade_out: 142.942
+tatums_confidence: shape = (653,)
+tatums_start: shape = (653,)
+tempo: 88.521
+time_signature: 3
+time_signature_confidence: 0.938
+title: Watermelon Man
+track_7digitalid: 1461919
+track_id: TRAOQBN128F4247C83
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 24313
+artist_familiarity: 0.717670524729
+artist_hotttnesss: 0.479308459338
+artist_id: ARS1OWB1187B99EEAD
+artist_latitude: nan
+artist_location: New York, NY
+artist_longitude: nan
+artist_mbid: 1b96b9c9-0832-40cb-9f8d-7274de3733fc
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: The New York Dolls
+artist_playmeid: 5379
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 1ac2b80b4449852212ebef2eb5ed6974
+bars_confidence: shape = (70,)
+bars_start: shape = (70,)
+beats_confidence: shape = (327,)
+beats_start: shape = (327,)
+danceability: 0.0
+duration: 234.84036
+end_of_fade_in: 3.123
+energy: 0.0
+key: 0
+key_confidence: 0.413
+loudness: -5.771
+mode: 1
+mode_confidence: 0.515
+release: Morrissey Presents The Return Of The New York Dolls - Live From Royal Festival Hall 2004
+release_7digitalid: 767858
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (701,)
+segments_loudness_max: shape = (701,)
+segments_loudness_max_time: shape = (701,)
+segments_loudness_start: shape = (701,)
+segments_pitches: shape = (701, 12)
+segments_start: shape = (701,)
+segments_timbre: shape = (701, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVZKIS12AF72A0A93
+start_of_fade_out: 224.258
+tatums_confidence: shape = (983,)
+tatums_start: shape = (983,)
+tempo: 84.058
+time_signature: 4
+time_signature_confidence: 0.009
+title: Vietnamese Baby
+track_7digitalid: 8501817
+track_id: TRAUXEU12903CD3CD7
+year: 1973

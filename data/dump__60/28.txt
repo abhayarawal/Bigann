@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10247
+artist_familiarity: 0.696030300715
+artist_hotttnesss: 0.529453452514
+artist_id: AR0D6EL1187B9AF46B
+artist_latitude: nan
+artist_location: Compton, California
+artist_longitude: nan
+artist_mbid: c3009d7a-51ac-4c9c-888a-04f5c3c4be0c
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Eazy-E
+artist_playmeid: 44883
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: bae7f5349999e1ff011ca634aa15194c
+bars_confidence: shape = (98,)
+bars_start: shape = (98,)
+beats_confidence: shape = (398,)
+beats_start: shape = (398,)
+danceability: 0.0
+duration: 208.32608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.33
+loudness: -8.078
+mode: 0
+mode_confidence: 0.495
+release: Eazy Duz It
+release_7digitalid: 14549
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1092,)
+segments_loudness_max: shape = (1092,)
+segments_loudness_max_time: shape = (1092,)
+segments_loudness_start: shape = (1092,)
+segments_pitches: shape = (1092, 12)
+segments_start: shape = (1092,)
+segments_timbre: shape = (1092, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONPYGH12A6701F6CF
+start_of_fade_out: 198.978
+tatums_confidence: shape = (795,)
+tatums_start: shape = (795,)
+tempo: 115.692
+time_signature: 4
+time_signature_confidence: 1.0
+title: I'mma Break It Down
+track_7digitalid: 151153
+track_id: TRAUOUZ128E078F8BB
+year: 1988

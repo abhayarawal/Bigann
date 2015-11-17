@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 180555
+artist_familiarity: 0.694119246762
+artist_hotttnesss: 0.456029753701
+artist_id: ARLNMEP11C8A41519E
+artist_latitude: 34.05349
+artist_location: Los Angeles
+artist_longitude: -118.24532
+artist_mbid: 5a045b09-af06-4348-9ce6-d51b6a370770
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Rockabye Baby!
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: b3da769366d4ac55c7c01c9f0a97e15e
+bars_confidence: shape = (250,)
+bars_start: shape = (250,)
+beats_confidence: shape = (250,)
+beats_start: shape = (250,)
+danceability: 0.0
+duration: 203.54567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.926
+loudness: -10.348
+mode: 1
+mode_confidence: 0.826
+release: Lullaby Renditions of The Beach Boys
+release_7digitalid: 259066
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (471,)
+segments_loudness_max: shape = (471,)
+segments_loudness_max_time: shape = (471,)
+segments_loudness_start: shape = (471,)
+segments_pitches: shape = (471, 12)
+segments_start: shape = (471,)
+segments_timbre: shape = (471, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.355285536423
+song_id: SOCBGSL12A8C13747D
+start_of_fade_out: 190.526
+tatums_confidence: shape = (500,)
+tatums_start: shape = (500,)
+tempo: 74.619
+time_signature: 1
+time_signature_confidence: 0.0
+title: You Still Believe in Me
+track_7digitalid: 2752856
+track_id: TRBCQQC128F4253DCD
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 28162
+artist_familiarity: 0.610427725145
+artist_hotttnesss: 0.438168226182
+artist_id: ARTBFV61187FB3C250
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 8736f41f-365e-42c7-a733-36c22e74c97e
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Johnny Horton
+artist_playmeid: 2993
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: ba9d392af665340a15ca6274fbb6dc44
+bars_confidence: shape = (59,)
+bars_start: shape = (59,)
+beats_confidence: shape = (238,)
+beats_start: shape = (238,)
+danceability: 0.0
+duration: 138.86649
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.481
+loudness: -16.059
+mode: 1
+mode_confidence: 0.509
+release: Country Legend
+release_7digitalid: 653183
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (565,)
+segments_loudness_max: shape = (565,)
+segments_loudness_max_time: shape = (565,)
+segments_loudness_start: shape = (565,)
+segments_pitches: shape = (565, 12)
+segments_start: shape = (565,)
+segments_timbre: shape = (565, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGMTCP12A58A81E46
+start_of_fade_out: 138.866
+tatums_confidence: shape = (475,)
+tatums_start: shape = (475,)
+tempo: 104.284
+time_signature: 4
+time_signature_confidence: 0.0
+title: Go And Wash (Those Dirty Feet)
+track_7digitalid: 7236958
+track_id: TRBBWCP128F935F6DB
+year: 2005

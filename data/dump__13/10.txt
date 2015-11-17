@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 69802
+artist_familiarity: 0.577773337292
+artist_hotttnesss: 0.298448311438
+artist_id: ARELVCU1187B98F3E5
+artist_latitude: 46.8132
+artist_location: Switzerland
+artist_longitude: 8.22395
+artist_mbid: 032b4d5a-8549-48cf-a0b5-b65c62699f47
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Serpentine
+artist_playmeid: 114323
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 8348ebbad9ea3659c0ca5eb156b4afcc
+bars_confidence: shape = (144,)
+bars_start: shape = (144,)
+beats_confidence: shape = (581,)
+beats_start: shape = (581,)
+danceability: 0.0
+duration: 285.70077
+end_of_fade_in: 0.113
+energy: 0.0
+key: 4
+key_confidence: 1.0
+loudness: -8.712
+mode: 1
+mode_confidence: 0.685
+release: Honest
+release_7digitalid: 723056
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (907,)
+segments_loudness_max: shape = (907,)
+segments_loudness_max_time: shape = (907,)
+segments_loudness_start: shape = (907,)
+segments_pitches: shape = (907, 12)
+segments_start: shape = (907,)
+segments_timbre: shape = (907, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMHUTQ12AB018DEF1
+start_of_fade_out: 285.701
+tatums_confidence: shape = (1162,)
+tatums_start: shape = (1162,)
+tempo: 122.004
+time_signature: 4
+time_signature_confidence: 0.738
+title: Rainbow Ride
+track_7digitalid: 8015568
+track_id: TRAEJPC12903CD420E
+year: 0

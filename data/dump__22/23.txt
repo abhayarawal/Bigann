@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 308227
+artist_familiarity: 0.59541445909
+artist_hotttnesss: 0.417098859814
+artist_id: ARL62M311C8A4213F2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7700b801-de15-4c91-a641-387839e371e2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Katie Armiger
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 6d5097c7d8a5821560f73067f1afc3b4
+bars_confidence: shape = (184,)
+bars_start: shape = (184,)
+beats_confidence: shape = (741,)
+beats_start: shape = (741,)
+danceability: 0.0
+duration: 288.28689
+end_of_fade_in: 0.189
+energy: 0.0
+key: 4
+key_confidence: 0.845
+loudness: -6.156
+mode: 1
+mode_confidence: 0.683
+release: Katie Armiger
+release_7digitalid: 573824
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (937,)
+segments_loudness_max: shape = (937,)
+segments_loudness_max_time: shape = (937,)
+segments_loudness_start: shape = (937,)
+segments_pitches: shape = (937, 12)
+segments_start: shape = (937,)
+segments_timbre: shape = (937, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOJLTEX12AB0184688
+start_of_fade_out: 277.815
+tatums_confidence: shape = (1482,)
+tatums_start: shape = (1482,)
+tempo: 155.926
+time_signature: 4
+time_signature_confidence: 0.896
+title: Love Without Fear
+track_7digitalid: 6359721
+track_id: TRAHOSZ12903CA58F1
+year: 0

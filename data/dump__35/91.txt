@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 301063
+artist_familiarity: 0.543393231433
+artist_hotttnesss: 0.338575026457
+artist_id: ARTXS851187FB411C7
+artist_latitude: nan
+artist_location: Essex, England
+artist_longitude: nan
+artist_mbid: 6bb0bcaa-f96f-4c1a-b51d-c766db2af8ae
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Chris Farlowe
+artist_playmeid: 100509
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 8a1133fbbd5f6cc06d81e3ca4609a425
+bars_confidence: shape = (75,)
+bars_start: shape = (75,)
+beats_confidence: shape = (302,)
+beats_start: shape = (302,)
+danceability: 0.0
+duration: 181.36771
+end_of_fade_in: 0.067
+energy: 0.0
+key: 11
+key_confidence: 0.378
+loudness: -9.917
+mode: 0
+mode_confidence: 0.429
+release: The R&B Years
+release_7digitalid: 468243
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (640,)
+segments_loudness_max: shape = (640,)
+segments_loudness_max_time: shape = (640,)
+segments_loudness_start: shape = (640,)
+segments_pitches: shape = (640, 12)
+segments_start: shape = (640,)
+segments_timbre: shape = (640, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFDDGP12AB0186E80
+start_of_fade_out: 174.945
+tatums_confidence: shape = (905,)
+tatums_start: shape = (905,)
+tempo: 103.342
+time_signature: 4
+time_signature_confidence: 0.0
+title: What You Gonna Do - Original
+track_7digitalid: 5207298
+track_id: TRAMFEX128F933D454
+year: 0

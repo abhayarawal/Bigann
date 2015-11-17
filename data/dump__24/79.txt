@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12255
+artist_familiarity: 0.612858654108
+artist_hotttnesss: 0.360344685914
+artist_id: ARK7ZPW1187B99C170
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 9dee40b2-25ad-404c-9c9a-139feffd4b57
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Orchestra e Coro del Palacio de Bellas Artes Di Cittá del Messico_ Oliviero De Fabritiis_ Maria Call
+artist_playmeid: 10820
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: f411537105f9146311783e6714f2659a
+bars_confidence: shape = (135,)
+bars_start: shape = (135,)
+beats_confidence: shape = (712,)
+beats_start: shape = (712,)
+danceability: 0.0
+duration: 370.99057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.423
+loudness: -21.08
+mode: 1
+mode_confidence: 0.355
+release: Verdi: Aida
+release_7digitalid: 198389
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1030,)
+segments_loudness_max: shape = (1030,)
+segments_loudness_max_time: shape = (1030,)
+segments_loudness_start: shape = (1030,)
+segments_pitches: shape = (1030, 12)
+segments_start: shape = (1030,)
+segments_timbre: shape = (1030, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBOFKI12A8C134832
+start_of_fade_out: 370.991
+tatums_confidence: shape = (712,)
+tatums_start: shape = (712,)
+tempo: 114.407
+time_signature: 5
+time_signature_confidence: 0.783
+title: Atto Quarto: 'La Fatal Pietra Sovra Me Si Chiuse...' (Radames) (Verdi)
+track_7digitalid: 2158524
+track_id: TRAIIBP128F4252D20
+year: 0

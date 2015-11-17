@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 370173
+artist_familiarity: 0.268210004648
+artist_hotttnesss: 0.366502174186
+artist_id: ARMTTWG11F4C83E6AE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Antripodean Collective
+artist_playmeid: -1
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: ed89a5a54957116e54614f47a8474c48
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (726,)
+beats_start: shape = (726,)
+danceability: 0.0
+duration: 720.53506
+end_of_fade_in: 0.2
+energy: 0.0
+key: 0
+key_confidence: 0.533
+loudness: -12.044
+mode: 1
+mode_confidence: 0.46
+release: The Massacre of the Egos
+release_7digitalid: 530717
+sections_confidence: shape = (25,)
+sections_start: shape = (25,)
+segments_confidence: shape = (2416,)
+segments_loudness_max: shape = (2416,)
+segments_loudness_max_time: shape = (2416,)
+segments_loudness_start: shape = (2416,)
+segments_pitches: shape = (2416, 12)
+segments_start: shape = (2416,)
+segments_timbre: shape = (2416, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOKZIXZ12AAF3B2CEC
+start_of_fade_out: 710.171
+tatums_confidence: shape = (2179,)
+tatums_start: shape = (2179,)
+tempo: 60.641
+time_signature: 5
+time_signature_confidence: 0.652
+title: The Very Conscious
+track_7digitalid: 5864289
+track_id: TRAUOLH128F92FA158
+year: 0

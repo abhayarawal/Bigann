@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 368
+artist_familiarity: 0.743129776148
+artist_hotttnesss: 0.493566842697
+artist_id: ARXWAQQ1187B9AE954
+artist_latitude: nan
+artist_location: Newark, NJ
+artist_longitude: nan
+artist_mbid: 1f1f6737-b930-46fc-8d25-110bb99f7490
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Redman / Saukrates / Icadon
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 27bd30fc90f8f8ed2ca2c8ac5bf50450
+bars_confidence: shape = (113,)
+bars_start: shape = (113,)
+beats_confidence: shape = (794,)
+beats_start: shape = (794,)
+danceability: 0.0
+duration: 204.19873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.704
+loudness: -13.57
+mode: 0
+mode_confidence: 0.485
+release: Red Gone Wild
+release_7digitalid: 68737
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1028,)
+segments_loudness_max: shape = (1028,)
+segments_loudness_max_time: shape = (1028,)
+segments_loudness_start: shape = (1028,)
+segments_pitches: shape = (1028, 12)
+segments_start: shape = (1028,)
+segments_timbre: shape = (1028, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.536032111708
+song_id: SOWNKBE12A67FFB39F
+start_of_fade_out: 199.001
+tatums_confidence: shape = (794,)
+tatums_start: shape = (794,)
+tempo: 231.264
+time_signature: 7
+time_signature_confidence: 1.0
+title: Get 'em
+track_7digitalid: 718661
+track_id: TRAUCCU128EF342E18
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 198378
+artist_familiarity: 0.505237310664
+artist_hotttnesss: 0.313119744436
+artist_id: ARN2M4711C8A423BD6
+artist_latitude: nan
+artist_location: Mascouche, Qc
+artist_longitude: nan
+artist_mbid: c11dfc05-f5ab-4d09-afda-1f3e83cd1ad7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: David Jalbert
+artist_playmeid: -1
+artist_terms: shape = (9,)
+artist_terms_freq: shape = (9,)
+artist_terms_weight: shape = (9,)
+audio_md5: 48ffcd1f3ec0f048bc6caa358356ed7d
+bars_confidence: shape = (746,)
+bars_start: shape = (746,)
+beats_confidence: shape = (746,)
+beats_start: shape = (746,)
+danceability: 0.0
+duration: 508.02893
+end_of_fade_in: 0.148
+energy: 0.0
+key: 3
+key_confidence: 0.118
+loudness: -25.698
+mode: 1
+mode_confidence: 0.336
+release: Faure: Complete Nocturnes - David Jalbert
+release_7digitalid: 259768
+sections_confidence: shape = (22,)
+sections_start: shape = (22,)
+segments_confidence: shape = (1045,)
+segments_loudness_max: shape = (1045,)
+segments_loudness_max_time: shape = (1045,)
+segments_loudness_start: shape = (1045,)
+segments_pitches: shape = (1045, 12)
+segments_start: shape = (1045,)
+segments_timbre: shape = (1045, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODXQQY12A8C13850E
+start_of_fade_out: 470.285
+tatums_confidence: shape = (1493,)
+tatums_start: shape = (1493,)
+tempo: 90.19
+time_signature: 1
+time_signature_confidence: 0.337
+title: Nocturne For Piano No. 5 In B Flat Major_ Op. 37
+track_7digitalid: 2796036
+track_id: TRBFRYD128F425E521
+year: 0

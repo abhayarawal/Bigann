@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 90220
+artist_familiarity: 0.572482617778
+artist_hotttnesss: 0.372229882276
+artist_id: ARWNJYQ1187FB56F25
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 01367a60-bc1b-4b75-b111-1946ae289aa0
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Vincent Baguian
+artist_playmeid: -1
+artist_terms: shape = (9,)
+artist_terms_freq: shape = (9,)
+artist_terms_weight: shape = (9,)
+audio_md5: b78afec205cf7578a5a03fa5cf105665
+bars_confidence: shape = (60,)
+bars_start: shape = (60,)
+beats_confidence: shape = (247,)
+beats_start: shape = (247,)
+danceability: 0.0
+duration: 167.65342
+end_of_fade_in: 0.313
+energy: 0.0
+key: 9
+key_confidence: 0.355
+loudness: -8.131
+mode: 1
+mode_confidence: 0.336
+release: Claude François_ Autrement Dit
+release_7digitalid: 369498
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (711,)
+segments_loudness_max: shape = (711,)
+segments_loudness_max_time: shape = (711,)
+segments_loudness_start: shape = (711,)
+segments_pitches: shape = (711, 12)
+segments_start: shape = (711,)
+segments_timbre: shape = (711, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVEWXM12AB0181FEC
+start_of_fade_out: 164.78
+tatums_confidence: shape = (494,)
+tatums_start: shape = (494,)
+tempo: 88.24
+time_signature: 4
+time_signature_confidence: 0.895
+title: Chanson Populaire
+track_7digitalid: 4115389
+track_id: TRBGAUU128F93382E0
+year: 0

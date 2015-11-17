@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 177578
+artist_familiarity: 0.332194383141
+artist_hotttnesss: 0.23232848937
+artist_id: ARV4BPJ1187B99C978
+artist_latitude: 34.02791
+artist_location: Broken Bow, OK
+artist_longitude: -94.73954
+artist_mbid: 82a39760-7501-4093-8679-8c533c3f9261
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Gail Davies
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: df5e8d830bd059bd7929e2bca3d833c9
+bars_confidence: shape = (99,)
+bars_start: shape = (99,)
+beats_confidence: shape = (399,)
+beats_start: shape = (399,)
+danceability: 0.0
+duration: 192.96608
+end_of_fade_in: 0.183
+energy: 0.0
+key: 9
+key_confidence: 0.094
+loudness: -16.308
+mode: 0
+mode_confidence: 0.012
+release: What Can I Say
+release_7digitalid: 513353
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (771,)
+segments_loudness_max: shape = (771,)
+segments_loudness_max_time: shape = (771,)
+segments_loudness_start: shape = (771,)
+segments_pitches: shape = (771, 12)
+segments_start: shape = (771,)
+segments_timbre: shape = (771, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLIBHA12AB018800D
+start_of_fade_out: 177.58
+tatums_confidence: shape = (1197,)
+tatums_start: shape = (1197,)
+tempo: 127.494
+time_signature: 4
+time_signature_confidence: 0.0
+title: Following You Around (Album Version)
+track_7digitalid: 5684344
+track_id: TRAVDNM128F9344090
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9897
+artist_familiarity: 0.654594982443
+artist_hotttnesss: 0.396356236945
+artist_id: AR62SOJ1187FB47BB5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 82e454e2-38ee-4e69-89a6-cc65167753d1
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Chase & Status
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 83f82acff5ff0e8a512ab3b552d068f8
+bars_confidence: shape = (142,)
+bars_start: shape = (142,)
+beats_confidence: shape = (571,)
+beats_start: shape = (571,)
+danceability: 0.0
+duration: 398.54975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.195
+loudness: -6.492
+mode: 0
+mode_confidence: 0.226
+release: Ten Tonne EP
+release_7digitalid: 546323
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (2071,)
+segments_loudness_max: shape = (2071,)
+segments_loudness_max_time: shape = (2071,)
+segments_loudness_start: shape = (2071,)
+segments_pitches: shape = (2071, 12)
+segments_start: shape = (2071,)
+segments_timbre: shape = (2071, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.529730607229
+song_id: SOMNPJX12AB0183CCC
+start_of_fade_out: 389.532
+tatums_confidence: shape = (2282,)
+tatums_start: shape = (2282,)
+tempo: 87.527
+time_signature: 4
+time_signature_confidence: 0.494
+title: Trapdoor
+track_7digitalid: 6043106
+track_id: TRBEGMU128F9325473
+year: 2005

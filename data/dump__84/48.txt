@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 505
+artist_familiarity: 0.853124523276
+artist_hotttnesss: 0.591628024008
+artist_id: ARLHO5Z1187FB4C861
+artist_latitude: nan
+artist_location: New York, NY
+artist_longitude: nan
+artist_mbid: 9beb62b2-88db-4cea-801e-162cd344ee53
+artist_mbtags: shape = (12,)
+artist_mbtags_count: shape = (12,)
+artist_name: Beastie Boys
+artist_playmeid: 173
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 30514d14ff7c066e935940138adec810
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (317,)
+beats_start: shape = (317,)
+danceability: 0.0
+duration: 173.60934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.5
+loudness: -6.601
+mode: 1
+mode_confidence: 0.452
+release: To The 5 Boroughs
+release_7digitalid: 21631
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (864,)
+segments_loudness_max: shape = (864,)
+segments_loudness_max_time: shape = (864,)
+segments_loudness_start: shape = (864,)
+segments_pitches: shape = (864, 12)
+segments_start: shape = (864,)
+segments_timbre: shape = (864, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHDZDZ12A6D4F7238
+start_of_fade_out: 161.64
+tatums_confidence: shape = (634,)
+tatums_start: shape = (634,)
+tempo: 108.013
+time_signature: 4
+time_signature_confidence: 1.0
+title: Crawlspace
+track_7digitalid: 224327
+track_id: TRBCYOI128F1455566
+year: 2004

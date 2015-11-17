@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 61091
+artist_familiarity: 0.430538907417
+artist_hotttnesss: 0.316354000822
+artist_id: AR3C3C01187B98E800
+artist_latitude: 56.153
+artist_location: Aarhus, Denmark
+artist_longitude: 10.20452
+artist_mbid: d9566c72-7ad1-410f-9f26-f42ad7cebf1e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kai Winding
+artist_playmeid: 82556
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: f8ff6096af87971c5057f6b1c5651b33
+bars_confidence: shape = (394,)
+bars_start: shape = (394,)
+beats_confidence: shape = (394,)
+beats_start: shape = (394,)
+danceability: 0.0
+duration: 212.92363
+end_of_fade_in: 0.241
+energy: 0.0
+key: 5
+key_confidence: 0.533
+loudness: -15.237
+mode: 1
+mode_confidence: 0.635
+release: The Incredible Kai Winding Trombones
+release_7digitalid: 495041
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (675,)
+segments_loudness_max: shape = (675,)
+segments_loudness_max_time: shape = (675,)
+segments_loudness_start: shape = (675,)
+segments_pitches: shape = (675, 12)
+segments_start: shape = (675,)
+segments_timbre: shape = (675, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOLQAII12AB018312B
+start_of_fade_out: 206.849
+tatums_confidence: shape = (787,)
+tatums_start: shape = (787,)
+tempo: 112.222
+time_signature: 1
+time_signature_confidence: 0.179
+title: Doodlin'
+track_7digitalid: 5481092
+track_id: TRBGDND128F9312B81
+year: 1961

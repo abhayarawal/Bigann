@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23909
+artist_familiarity: 0.598636433949
+artist_hotttnesss: 0.454848368764
+artist_id: ARNNHLN1187FB42912
+artist_latitude: 29.07904
+artist_location: Hermosillo Sonora, Mexico
+artist_longitude: -110.94695
+artist_mbid: 4eccbfad-11fc-4d5b-9e74-e3f1f0b422a6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Yahir
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 31590d43704d97e6b1edd94f7bc18ea2
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (589,)
+beats_start: shape = (589,)
+danceability: 0.0
+duration: 239.67302
+end_of_fade_in: 2.873
+energy: 0.0
+key: 9
+key_confidence: 0.53
+loudness: -7.345
+mode: 1
+mode_confidence: 0.489
+release: El Amor
+release_7digitalid: 131734
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1001,)
+segments_loudness_max: shape = (1001,)
+segments_loudness_max_time: shape = (1001,)
+segments_loudness_start: shape = (1001,)
+segments_pitches: shape = (1001, 12)
+segments_start: shape = (1001,)
+segments_timbre: shape = (1001, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXFNMQ12A81C203E0
+start_of_fade_out: 229.593
+tatums_confidence: shape = (1179,)
+tatums_start: shape = (1179,)
+tempo: 151.869
+time_signature: 5
+time_signature_confidence: 0.054
+title: El Amor (Version Nortena)
+track_7digitalid: 1364254
+track_id: TRAFJVT128F4235E2B
+year: 0

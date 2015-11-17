@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 559821
+artist_familiarity: 0.487077751135
+artist_hotttnesss: 0.315690276816
+artist_id: AR4QYVC1187B99985B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c3b1105d-b40c-47c7-b489-e9b3f7b1e8c1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ Harry
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: cf8d6277c47fe09a21f828e3aea7825c
+bars_confidence: shape = (275,)
+bars_start: shape = (275,)
+beats_confidence: shape = (1103,)
+beats_start: shape = (1103,)
+danceability: 0.0
+duration: 495.90812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.411
+loudness: -9.706
+mode: 0
+mode_confidence: 0.0
+release: The String Cheese Remix Project
+release_7digitalid: 754107
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (2982,)
+segments_loudness_max: shape = (2982,)
+segments_loudness_max_time: shape = (2982,)
+segments_loudness_start: shape = (2982,)
+segments_pitches: shape = (2982, 12)
+segments_start: shape = (2982,)
+segments_timbre: shape = (2982, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.249065794854
+song_id: SOIYUEY12AB0184151
+start_of_fade_out: 495.908
+tatums_confidence: shape = (2206,)
+tatums_start: shape = (2206,)
+tempo: 133.529
+time_signature: 4
+time_signature_confidence: 0.919
+title: 'Round the Wheel
+track_7digitalid: 8347750
+track_id: TRATFYD12903CAE45A
+year: 2001

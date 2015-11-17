@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 98241
+artist_familiarity: 0.636109170872
+artist_hotttnesss: 0.371573624485
+artist_id: ARC4HSQ1187FB55940
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e30ba451-00f0-44a5-8518-85a08fbf290f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: RyanDan
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: bf44291c3ee26fe8406811018e8c8a49
+bars_confidence: shape = (144,)
+bars_start: shape = (144,)
+beats_confidence: shape = (581,)
+beats_start: shape = (581,)
+danceability: 0.0
+duration: 255.76444
+end_of_fade_in: 0.334
+energy: 0.0
+key: 8
+key_confidence: 0.708
+loudness: -9.81
+mode: 1
+mode_confidence: 0.756
+release: Ryan Dan
+release_7digitalid: 126786
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (649,)
+segments_loudness_max: shape = (649,)
+segments_loudness_max_time: shape = (649,)
+segments_loudness_start: shape = (649,)
+segments_pitches: shape = (649, 12)
+segments_start: shape = (649,)
+segments_timbre: shape = (649, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.710631125447
+song_id: SOVCDEV12A6D4FCD04
+start_of_fade_out: 245.104
+tatums_confidence: shape = (1162,)
+tatums_start: shape = (1162,)
+tempo: 142.196
+time_signature: 4
+time_signature_confidence: 0.0
+title: Wind Beneath My Wings
+track_7digitalid: 1308652
+track_id: TRATCLI128F422BCF8
+year: 2007

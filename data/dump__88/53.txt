@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 70716
+artist_familiarity: 0.389179333327
+artist_hotttnesss: 0.0
+artist_id: AROP6331187FB398F7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d3bd50e3-177c-4719-a407-20b780d104db
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Parallel Sound
+artist_playmeid: 59932
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 9f62330c4fd0a274828fd794a2d1c8b0
+bars_confidence: shape = (297,)
+bars_start: shape = (297,)
+beats_confidence: shape = (1190,)
+beats_start: shape = (1190,)
+danceability: 0.0
+duration: 556.69506
+end_of_fade_in: 3.158
+energy: 0.0
+key: 10
+key_confidence: 0.044
+loudness: -10.252
+mode: 1
+mode_confidence: 0.172
+release: Break Loose
+release_7digitalid: 459210
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (2960,)
+segments_loudness_max: shape = (2960,)
+segments_loudness_max_time: shape = (2960,)
+segments_loudness_start: shape = (2960,)
+segments_pitches: shape = (2960, 12)
+segments_start: shape = (2960,)
+segments_timbre: shape = (2960, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVJCHE12A8C146318
+start_of_fade_out: 548.484
+tatums_confidence: shape = (2380,)
+tatums_start: shape = (2380,)
+tempo: 130.011
+time_signature: 4
+time_signature_confidence: 0.749
+title: Around The World
+track_7digitalid: 5111412
+track_id: TRBELVP128F93263B8
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 582
+artist_familiarity: 0.85107300895
+artist_hotttnesss: 0.590449276812
+artist_id: AROBHK51187B9AD82B
+artist_latitude: nan
+artist_location: Wales
+artist_longitude: nan
+artist_mbid: 199d0ab3-22c0-4c00-b99d-257f591dda1f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Funeral For A Friend
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: a04ea259e00001aaffa0447b9f1de08c
+bars_confidence: shape = (112,)
+bars_start: shape = (112,)
+beats_confidence: shape = (450,)
+beats_start: shape = (450,)
+danceability: 0.0
+duration: 205.16526
+end_of_fade_in: 0.108
+energy: 0.0
+key: 2
+key_confidence: 0.719
+loudness: -3.862
+mode: 1
+mode_confidence: 0.865
+release: Memory And Humanity
+release_7digitalid: 322341
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (579,)
+segments_loudness_max: shape = (579,)
+segments_loudness_max_time: shape = (579,)
+segments_loudness_start: shape = (579,)
+segments_pitches: shape = (579, 12)
+segments_start: shape = (579,)
+segments_timbre: shape = (579, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.345802233965
+song_id: SOYJMKO12A8C142B82
+start_of_fade_out: 199.918
+tatums_confidence: shape = (900,)
+tatums_start: shape = (900,)
+tempo: 134.009
+time_signature: 4
+time_signature_confidence: 0.175
+title: Kicking And Screaming
+track_7digitalid: 3632697
+track_id: TRBGMOG128F92D75BD
+year: 2008

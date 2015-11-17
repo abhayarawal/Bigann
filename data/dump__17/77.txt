@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 52287
+artist_familiarity: 0.705876401914
+artist_hotttnesss: 0.622208960129
+artist_id: ARNZ70R1187B9A4824
+artist_latitude: nan
+artist_location: Westbury, Long Island, NY
+artist_longitude: nan
+artist_mbid: 29762c82-bb92-4acd-b1fb-09cc4da250d2
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Joe Satriani
+artist_playmeid: 8426
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 5f9b7d5f89c10b6589ad7feb96002fdd
+bars_confidence: shape = (259,)
+bars_start: shape = (259,)
+beats_confidence: shape = (780,)
+beats_start: shape = (780,)
+danceability: 0.0
+duration: 469.60281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.467
+loudness: -10.256
+mode: 0
+mode_confidence: 0.397
+release: Time Machine
+release_7digitalid: 281447
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1782,)
+segments_loudness_max: shape = (1782,)
+segments_loudness_max_time: shape = (1782,)
+segments_loudness_start: shape = (1782,)
+segments_pitches: shape = (1782, 12)
+segments_start: shape = (1782,)
+segments_timbre: shape = (1782, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMCIIM12A8AE49622
+start_of_fade_out: 459.169
+tatums_confidence: shape = (2338,)
+tatums_start: shape = (2338,)
+tempo: 100.171
+time_signature: 3
+time_signature_confidence: 0.499
+title: Echo
+track_7digitalid: 3136683
+track_id: TRAGBBI128F4261828
+year: 1987

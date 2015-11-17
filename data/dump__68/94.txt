@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 27818
+artist_familiarity: 0.690080123787
+artist_hotttnesss: 0.466775621926
+artist_id: ARQXR6R1187FB46FD6
+artist_latitude: nan
+artist_location: Minneapolis, MN
+artist_longitude: nan
+artist_mbid: b10db9ad-b4c3-47f3-a7a4-37864b134f65
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Soul Asylum
+artist_playmeid: 8610
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 0c3e08f2077576d7f8f29dea5dcda2de
+bars_confidence: shape = (145,)
+bars_start: shape = (145,)
+beats_confidence: shape = (583,)
+beats_start: shape = (583,)
+danceability: 0.0
+duration: 235.20608
+end_of_fade_in: 2.81
+energy: 0.0
+key: 7
+key_confidence: 0.479
+loudness: -5.225
+mode: 1
+mode_confidence: 0.49
+release: The Silver Lining
+release_7digitalid: 308432
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (740,)
+segments_loudness_max: shape = (740,)
+segments_loudness_max_time: shape = (740,)
+segments_loudness_start: shape = (740,)
+segments_pitches: shape = (740, 12)
+segments_start: shape = (740,)
+segments_timbre: shape = (740, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.372530039366
+song_id: SOQTFNI12A8C140C91
+start_of_fade_out: 219.103
+tatums_confidence: shape = (1166,)
+tatums_start: shape = (1166,)
+tempo: 151.941
+time_signature: 4
+time_signature_confidence: 0.863
+title: Slowly Rising
+track_7digitalid: 3478796
+track_id: TRAXNKL128F42AFD92
+year: 2006

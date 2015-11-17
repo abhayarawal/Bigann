@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3631
+artist_familiarity: 0.577973752903
+artist_hotttnesss: 0.368336782246
+artist_id: AROLNOH1187FB39845
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7fdb6168-64a8-4b5a-9a6a-e39803e4aec1
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Erick Sermon
+artist_playmeid: 4285
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 42fc411bf19e360b64a0daa7dd70517b
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (327,)
+beats_start: shape = (327,)
+danceability: 0.0
+duration: 198.63465
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.874
+loudness: -9.384
+mode: 1
+mode_confidence: 0.617
+release: No Pressure
+release_7digitalid: 47201
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (819,)
+segments_loudness_max: shape = (819,)
+segments_loudness_max_time: shape = (819,)
+segments_loudness_start: shape = (819,)
+segments_pitches: shape = (819, 12)
+segments_start: shape = (819,)
+segments_timbre: shape = (819, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.405115721691
+song_id: SOFULXE12A6D4F972B
+start_of_fade_out: 194.943
+tatums_confidence: shape = (654,)
+tatums_start: shape = (654,)
+tempo: 97.812
+time_signature: 4
+time_signature_confidence: 1.0
+title: Erick Sermon
+track_7digitalid: 505627
+track_id: TRBEYDS128F148C563
+year: 1993

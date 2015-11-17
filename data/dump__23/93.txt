@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3117
+artist_familiarity: 0.856448923652
+artist_hotttnesss: 0.854637828218
+artist_id: ARPDVPJ1187B9ADBE9
+artist_latitude: nan
+artist_location: Atlanta, GA
+artist_longitude: nan
+artist_mbid: 3414d446-735a-443c-931f-10634f57e5b9
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Usher
+artist_playmeid: 1646
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: dc8bca919adaab8782394c67784d4c86
+bars_confidence: shape = (105,)
+bars_start: shape = (105,)
+beats_confidence: shape = (423,)
+beats_start: shape = (423,)
+danceability: 0.0
+duration: 283.89832
+end_of_fade_in: 0.142
+energy: 0.0
+key: 1
+key_confidence: 0.066
+loudness: -7.275
+mode: 0
+mode_confidence: 0.177
+release: Usher
+release_7digitalid: 418240
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (1114,)
+segments_loudness_max: shape = (1114,)
+segments_loudness_max_time: shape = (1114,)
+segments_loudness_start: shape = (1114,)
+segments_pitches: shape = (1114, 12)
+segments_start: shape = (1114,)
+segments_timbre: shape = (1114, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.419125892959
+song_id: SOKUBQW12AF72AC4E2
+start_of_fade_out: 265.184
+tatums_confidence: shape = (846,)
+tatums_start: shape = (846,)
+tempo: 90.199
+time_signature: 4
+time_signature_confidence: 1.0
+title: I'll Show You Love
+track_7digitalid: 4661794
+track_id: TRAIATD128F9331CD6
+year: 1994

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 304
+artist_familiarity: 0.899934952232
+artist_hotttnesss: 0.604666876351
+artist_id: ARH6W4X1187B99274F
+artist_latitude: nan
+artist_location: Oxford, UK
+artist_longitude: nan
+artist_mbid: a74b1b7f-71a5-4011-9441-d0b5e4122711
+artist_mbtags: shape = (14,)
+artist_mbtags_count: shape = (14,)
+artist_name: Radiohead
+artist_playmeid: 1307
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: c0a5c14fe99bea3e3ffe1f96db198ee4
+bars_confidence: shape = (121,)
+bars_start: shape = (121,)
+beats_confidence: shape = (365,)
+beats_start: shape = (365,)
+danceability: 0.0
+duration: 204.06812
+end_of_fade_in: 2.496
+energy: 0.0
+key: 4
+key_confidence: 0.234
+loudness: -13.708
+mode: 0
+mode_confidence: 0.303
+release: Pablo Honey (Collector's Edition)
+release_7digitalid: 404997
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (643,)
+segments_loudness_max: shape = (643,)
+segments_loudness_max_time: shape = (643,)
+segments_loudness_start: shape = (643,)
+segments_pitches: shape = (643, 12)
+segments_start: shape = (643,)
+segments_timbre: shape = (643, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.545937381331
+song_id: SOKIZGL12AB018342D
+start_of_fade_out: 194.206
+tatums_confidence: shape = (730,)
+tatums_start: shape = (730,)
+tempo: 111.629
+time_signature: 3
+time_signature_confidence: 1.0
+title: You (Demo)
+track_7digitalid: 4501142
+track_id: TRBBGQN128F9310CBE
+year: 2009

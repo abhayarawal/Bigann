@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 73160
+artist_familiarity: 0.359638285706
+artist_hotttnesss: 0.0
+artist_id: ARJSPWK12454A4CB28
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: SANSHIRO
+artist_playmeid: 85247
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: 924978696f262b2e60dcc64f3bd8ea1f
+bars_confidence: shape = (159,)
+bars_start: shape = (159,)
+beats_confidence: shape = (641,)
+beats_start: shape = (641,)
+danceability: 0.0
+duration: 272.95302
+end_of_fade_in: 0.395
+energy: 0.0
+key: 5
+key_confidence: 0.314
+loudness: -10.267
+mode: 1
+mode_confidence: 0.443
+release: Chansons pour qui?
+release_7digitalid: 92906
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (963,)
+segments_loudness_max: shape = (963,)
+segments_loudness_max_time: shape = (963,)
+segments_loudness_start: shape = (963,)
+segments_pitches: shape = (963, 12)
+segments_start: shape = (963,)
+segments_timbre: shape = (963, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOCPZM12A8C1379F0
+start_of_fade_out: 264.748
+tatums_confidence: shape = (1282,)
+tatums_start: shape = (1282,)
+tempo: 147.395
+time_signature: 4
+time_signature_confidence: 0.0
+title: Morgane regarde le ciel
+track_7digitalid: 983648
+track_id: TRALEWK128F4272A4E
+year: 0

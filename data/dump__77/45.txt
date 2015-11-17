@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 94432
+artist_familiarity: 0.3812326115
+artist_hotttnesss: 0.301570181792
+artist_id: ARHXWB01187B9A205C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 477597d4-c13d-4d8c-854b-e97d73ea87df
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gloria Lasso
+artist_playmeid: 98286
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 794f8020165672012b029764ef5f61a4
+bars_confidence: shape = (74,)
+bars_start: shape = (74,)
+beats_confidence: shape = (308,)
+beats_start: shape = (308,)
+danceability: 0.0
+duration: 200.64608
+end_of_fade_in: 0.386
+energy: 0.0
+key: 11
+key_confidence: 0.745
+loudness: -10.589
+mode: 1
+mode_confidence: 0.329
+release: Bon Voyage
+release_7digitalid: 154812
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (748,)
+segments_loudness_max: shape = (748,)
+segments_loudness_max_time: shape = (748,)
+segments_loudness_start: shape = (748,)
+segments_pitches: shape = (748, 12)
+segments_start: shape = (748,)
+segments_timbre: shape = (748, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWRCJX12A8C139161
+start_of_fade_out: 196.063
+tatums_confidence: shape = (923,)
+tatums_start: shape = (923,)
+tempo: 94.351
+time_signature: 4
+time_signature_confidence: 0.077
+title: Magali
+track_7digitalid: 1619194
+track_id: TRBALAF128F426A779
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 269
+artist_familiarity: 0.818319359139
+artist_hotttnesss: 0.667294595643
+artist_id: ARVN9FZ1187FB393F1
+artist_latitude: nan
+artist_location: Dundee, Scotland
+artist_longitude: nan
+artist_mbid: a66999a7-ae5c-460e-ba94-1a01143ae847
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Snow Patrol
+artist_playmeid: 1468
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 6f0da3d3b77d070cdb82ccc1cd8956fb
+bars_confidence: shape = (144,)
+bars_start: shape = (144,)
+beats_confidence: shape = (577,)
+beats_start: shape = (577,)
+danceability: 0.0
+duration: 242.05016
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.588
+loudness: -5.694
+mode: 1
+mode_confidence: 0.488
+release: Final Straw
+release_7digitalid: 15520
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (767,)
+segments_loudness_max: shape = (767,)
+segments_loudness_max_time: shape = (767,)
+segments_loudness_start: shape = (767,)
+segments_pitches: shape = (767, 12)
+segments_start: shape = (767,)
+segments_timbre: shape = (767, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.771473923505
+song_id: SOZQVTJ12A6701D96B
+start_of_fade_out: 233.953
+tatums_confidence: shape = (1154,)
+tatums_start: shape = (1154,)
+tempo: 143.038
+time_signature: 4
+time_signature_confidence: 0.0
+title: Wow
+track_7digitalid: 162824
+track_id: TRANQQZ128E079224E
+year: 2003

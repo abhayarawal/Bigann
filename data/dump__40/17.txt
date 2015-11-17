@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 111429
+artist_familiarity: 0.687694457228
+artist_hotttnesss: 0.44164340482
+artist_id: ARGYHUI1187B9AC2A5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fca2e3b9-d29c-4b41-bde9-0ea5fd279843
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Hanoi Rocks
+artist_playmeid: 17045
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 238ad1232fe8ee3be4d42593c1fb3ee9
+bars_confidence: shape = (99,)
+bars_start: shape = (99,)
+beats_confidence: shape = (399,)
+beats_start: shape = (399,)
+danceability: 0.0
+duration: 236.35546
+end_of_fade_in: 0.078
+energy: 0.0
+key: 11
+key_confidence: 0.018
+loudness: -5.628
+mode: 0
+mode_confidence: 0.3
+release: Street Poetry
+release_7digitalid: 346689
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (640,)
+segments_loudness_max: shape = (640,)
+segments_loudness_max_time: shape = (640,)
+segments_loudness_start: shape = (640,)
+segments_pitches: shape = (640, 12)
+segments_start: shape = (640,)
+segments_timbre: shape = (640, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.550326336193
+song_id: SOILZTW12A8C1438A1
+start_of_fade_out: 226.151
+tatums_confidence: shape = (798,)
+tatums_start: shape = (798,)
+tempo: 102.99
+time_signature: 4
+time_signature_confidence: 0.434
+title: Walkin' Away
+track_7digitalid: 3928178
+track_id: TRANRKN128F93127BB
+year: 2007

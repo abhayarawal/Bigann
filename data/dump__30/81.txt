@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 191898
+artist_familiarity: 0.503002305754
+artist_hotttnesss: 0.0
+artist_id: ARZIKR01187B98DF08
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ce48dd78-903e-4737-aee7-5e70bba7e15d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Joe Grushecky
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: af86941e0f2094ce0788670bc25fcb27
+bars_confidence: shape = (113,)
+bars_start: shape = (113,)
+beats_confidence: shape = (454,)
+beats_start: shape = (454,)
+danceability: 0.0
+duration: 253.04771
+end_of_fade_in: 0.061
+energy: 0.0
+key: 11
+key_confidence: 0.614
+loudness: -13.54
+mode: 0
+mode_confidence: 0.674
+release: Outtakes and Demos 1975 -  2003
+release_7digitalid: 603118
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (726,)
+segments_loudness_max: shape = (726,)
+segments_loudness_max_time: shape = (726,)
+segments_loudness_start: shape = (726,)
+segments_pitches: shape = (726, 12)
+segments_start: shape = (726,)
+segments_timbre: shape = (726, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONRFCO12AC3DF6AFB
+start_of_fade_out: 245.69
+tatums_confidence: shape = (909,)
+tatums_start: shape = (909,)
+tempo: 109.997
+time_signature: 4
+time_signature_confidence: 0.822
+title: A Fool's Advice
+track_7digitalid: 6699617
+track_id: TRAKKPN12903CF7C4D
+year: 0

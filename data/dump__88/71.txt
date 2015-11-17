@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 447
+artist_familiarity: 0.818042044373
+artist_hotttnesss: 0.638906376718
+artist_id: ARD4C1I1187FB4B0C3
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: 83d91898-7763-47d7-b03b-b92132375c47
+artist_mbtags: shape = (12,)
+artist_mbtags_count: shape = (12,)
+artist_name: Pink Floyd
+artist_playmeid: 1271
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 227071e5ef5bea11b8e70a8ed824455c
+bars_confidence: shape = (85,)
+bars_start: shape = (85,)
+beats_confidence: shape = (344,)
+beats_start: shape = (344,)
+danceability: 0.0
+duration: 188.1073
+end_of_fade_in: 0.73
+energy: 0.0
+key: 9
+key_confidence: 0.378
+loudness: -9.992
+mode: 1
+mode_confidence: 0.262
+release: Obscured By Clouds
+release_7digitalid: 856
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (607,)
+segments_loudness_max: shape = (607,)
+segments_loudness_max_time: shape = (607,)
+segments_loudness_start: shape = (607,)
+segments_pitches: shape = (607, 12)
+segments_start: shape = (607,)
+segments_timbre: shape = (607, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.793471188269
+song_id: SOEDPQL12AF72AB07B
+start_of_fade_out: 188.107
+tatums_confidence: shape = (688,)
+tatums_start: shape = (688,)
+tempo: 117.634
+time_signature: 4
+time_signature_confidence: 0.525
+title: The Gold It's In The ... (1996 Digital Remaster)
+track_7digitalid: 7517
+track_id: TRBENTT128E0781C26
+year: 1972

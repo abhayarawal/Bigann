@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 145957
+artist_familiarity: 0.556549465729
+artist_hotttnesss: 0.362153991437
+artist_id: AREDW1C1187B9ACAC2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b8ecf204-6be8-4041-ab11-6d9971ea2711
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Gaetano Donizetti
+artist_playmeid: -1
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: bf277073629e1e605087d895c02c4155
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (333,)
+beats_start: shape = (333,)
+danceability: 0.0
+duration: 164.362
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.766
+loudness: -18.524
+mode: 1
+mode_confidence: 0.613
+release: Roberto Devereux
+release_7digitalid: 609943
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (615,)
+segments_loudness_max: shape = (615,)
+segments_loudness_max_time: shape = (615,)
+segments_loudness_start: shape = (615,)
+segments_pitches: shape = (615, 12)
+segments_start: shape = (615,)
+segments_timbre: shape = (615, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQANLU12A8C142FEF
+start_of_fade_out: 157.698
+tatums_confidence: shape = (333,)
+tatums_start: shape = (333,)
+tempo: 122.423
+time_signature: 4
+time_signature_confidence: 1.0
+title: Donizetti: Roberto Devereux: Ah! Ritorna qual ti spero....
+track_7digitalid: 6779161
+track_id: TRAKPHK128F92F0268
+year: 0

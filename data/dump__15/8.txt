@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18460
+artist_familiarity: 0.826075466699
+artist_hotttnesss: 0.59960264265
+artist_id: ARLSF8H1187B9A76B0
+artist_latitude: nan
+artist_location: Oslo, Norway
+artist_longitude: nan
+artist_mbid: 17167af8-c1da-45cc-bba2-9d23f068b7a3
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Dimmu Borgir
+artist_playmeid: 7454
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 14d76e63f74c3b10d2670ec594b4ca40
+bars_confidence: shape = (146,)
+bars_start: shape = (146,)
+beats_confidence: shape = (588,)
+beats_start: shape = (588,)
+danceability: 0.0
+duration: 317.36118
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.035
+loudness: -4.061
+mode: 1
+mode_confidence: 0.162
+release: In Sorte Diaboli (Deluxe)
+release_7digitalid: 265245
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (800,)
+segments_loudness_max: shape = (800,)
+segments_loudness_max_time: shape = (800,)
+segments_loudness_start: shape = (800,)
+segments_pitches: shape = (800, 12)
+segments_start: shape = (800,)
+segments_timbre: shape = (800, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.656280958239
+song_id: SOHTGJW12A58A7D7D3
+start_of_fade_out: 299.508
+tatums_confidence: shape = (2352,)
+tatums_start: shape = (2352,)
+tempo: 112.277
+time_signature: 4
+time_signature_confidence: 0.02
+title: The Fundamental Alienation
+track_7digitalid: 2851254
+track_id: TRAFBVU128F426B3F6
+year: 2007

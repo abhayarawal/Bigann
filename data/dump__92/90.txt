@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 298524
+artist_familiarity: 0.499308966696
+artist_hotttnesss: 0.442968188735
+artist_id: ARNDFTA125FEF32B22
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bee5be2b-0c22-45ee-817d-b744ea6aa6d3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Noemí
+artist_playmeid: 211373
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: d5cc3cd8ac1030625a30a90d701dc6b0
+bars_confidence: shape = (63,)
+bars_start: shape = (63,)
+beats_confidence: shape = (257,)
+beats_start: shape = (257,)
+danceability: 0.0
+duration: 178.23302
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.759
+loudness: -10.984
+mode: 1
+mode_confidence: 0.69
+release: Tributo a José Antonio Méndez
+release_7digitalid: 751041
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (507,)
+segments_loudness_max: shape = (507,)
+segments_loudness_max_time: shape = (507,)
+segments_loudness_start: shape = (507,)
+segments_pitches: shape = (507, 12)
+segments_start: shape = (507,)
+segments_timbre: shape = (507, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVRQHI12AB018A018
+start_of_fade_out: 173.935
+tatums_confidence: shape = (514,)
+tatums_start: shape = (514,)
+tempo: 88.304
+time_signature: 4
+time_signature_confidence: 0.827
+title: Será cuando regreses
+track_7digitalid: 8315391
+track_id: TRBGBTM12903CA6613
+year: 0

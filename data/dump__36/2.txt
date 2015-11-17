@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1374
+artist_familiarity: 0.675771367414
+artist_hotttnesss: 0.435468898816
+artist_id: AR93D4D1187FB3ACAD
+artist_latitude: 35.472
+artist_location: Oklahoma City, OK
+artist_longitude: -97.52033
+artist_mbid: 4b0be624-6b87-47e8-bbf0-588a2c6c0439
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: J.J. Cale & Eric Clapton
+artist_playmeid: 5826
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: a16079c1353ed1397dd167460cea4f0e
+bars_confidence: shape = (128,)
+bars_start: shape = (128,)
+beats_confidence: shape = (389,)
+beats_start: shape = (389,)
+danceability: 0.0
+duration: 211.17342
+end_of_fade_in: 2.508
+energy: 0.0
+key: 5
+key_confidence: 0.27
+loudness: -14.259
+mode: 1
+mode_confidence: 0.319
+release: The Road To Escondido
+release_7digitalid: 47666
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (597,)
+segments_loudness_max: shape = (597,)
+segments_loudness_max_time: shape = (597,)
+segments_loudness_start: shape = (597,)
+segments_pitches: shape = (597, 12)
+segments_start: shape = (597,)
+segments_timbre: shape = (597, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.436751762682
+song_id: SOJKFQE12A58A7CA77
+start_of_fade_out: 204.312
+tatums_confidence: shape = (778,)
+tatums_start: shape = (778,)
+tempo: 113.151
+time_signature: 3
+time_signature_confidence: 1.0
+title: Sporting Life Blues (Album Version)
+track_7digitalid: 510861
+track_id: TRAMGAZ128F148D4C3
+year: 0

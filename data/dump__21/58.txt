@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 809205
+artist_familiarity: 0.320855383197
+artist_hotttnesss: 0.300765786126
+artist_id: ARTML781187B9AF080
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8a1d9496-603f-40b1-a38d-2e8985834940
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Neeme Jarvi
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: d1a9eb60a497b58d189c5431e8ef6c5a
+bars_confidence: shape = (401,)
+bars_start: shape = (401,)
+beats_confidence: shape = (401,)
+beats_start: shape = (401,)
+danceability: 0.0
+duration: 194.48118
+end_of_fade_in: 2.456
+energy: 0.0
+key: 8
+key_confidence: 0.641
+loudness: -17.382
+mode: 1
+mode_confidence: 0.644
+release: KODALY: Dances of Galanta / Hary Janos Suite / Peacock Variations
+release_7digitalid: 671794
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (520,)
+segments_loudness_max: shape = (520,)
+segments_loudness_max_time: shape = (520,)
+segments_loudness_start: shape = (520,)
+segments_pitches: shape = (520, 12)
+segments_start: shape = (520,)
+segments_timbre: shape = (520, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOILAOQ12AB01894C9
+start_of_fade_out: 180.733
+tatums_confidence: shape = (801,)
+tatums_start: shape = (801,)
+tempo: 131.118
+time_signature: 1
+time_signature_confidence: 0.0
+title: Hary Janos Suite : VI. A csaszari udvar bevonulasa (Entrance of the Emperor and his Court)
+track_7digitalid: 7446195
+track_id: TRAHIGT12903CC04A8
+year: 0

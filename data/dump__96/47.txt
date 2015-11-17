@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8589
+artist_familiarity: 0.507110848511
+artist_hotttnesss: 0.38556752316
+artist_id: ARWQ2DR1187B98FF28
+artist_latitude: 32.46292
+artist_location: Columbus, GA
+artist_longitude: -84.98763
+artist_mbid: e1deae56-c8f0-4e73-8264-f4b02dfc051c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ma Rainey
+artist_playmeid: 57536
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: f77ff8983b28c0b12a2c45926d8be0ed
+bars_confidence: shape = (56,)
+bars_start: shape = (56,)
+beats_confidence: shape = (255,)
+beats_start: shape = (255,)
+danceability: 0.0
+duration: 179.61751
+end_of_fade_in: 0.403
+energy: 0.0
+key: 10
+key_confidence: 0.794
+loudness: -16.358
+mode: 1
+mode_confidence: 0.788
+release: Night Shift Blues
+release_7digitalid: 750556
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (592,)
+segments_loudness_max: shape = (592,)
+segments_loudness_max_time: shape = (592,)
+segments_loudness_start: shape = (592,)
+segments_pitches: shape = (592, 12)
+segments_start: shape = (592,)
+segments_timbre: shape = (592, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODPFQN12AB0182AE2
+start_of_fade_out: 175.914
+tatums_confidence: shape = (510,)
+tatums_start: shape = (510,)
+tempo: 85.506
+time_signature: 4
+time_signature_confidence: 0.405
+title: Night Time Blues
+track_7digitalid: 8309437
+track_id: TRBHFUS12903CA4F1C
+year: 2005

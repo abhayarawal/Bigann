@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 33863
+artist_familiarity: 0.731208047166
+artist_hotttnesss: 0.547506775318
+artist_id: ARQ76LG1187B9ACD84
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 9941a936-196a-4a62-ae53-a69cbc33f20e
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Black Flag
+artist_playmeid: 6593
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: f5e096dc50c8b9a091800f0ef30af6f7
+bars_confidence: shape = (176,)
+bars_start: shape = (176,)
+beats_confidence: shape = (176,)
+beats_start: shape = (176,)
+danceability: 0.0
+duration: 92.36853
+end_of_fade_in: 0.196
+energy: 0.0
+key: 2
+key_confidence: 0.629
+loudness: -12.206
+mode: 0
+mode_confidence: 0.536
+release: Everything Went Black
+release_7digitalid: 150242
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (383,)
+segments_loudness_max: shape = (383,)
+segments_loudness_max_time: shape = (383,)
+segments_loudness_start: shape = (383,)
+segments_pitches: shape = (383, 12)
+segments_start: shape = (383,)
+segments_timbre: shape = (383, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.678633788632
+song_id: SOMTRKO12A8C134D55
+start_of_fade_out: 87.481
+tatums_confidence: shape = (352,)
+tatums_start: shape = (352,)
+tempo: 114.378
+time_signature: 1
+time_signature_confidence: 0.0
+title: Police Story
+track_7digitalid: 1566499
+track_id: TRAULZG128F425E06C
+year: 1981

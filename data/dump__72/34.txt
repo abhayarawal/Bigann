@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 191182
+artist_familiarity: 0.468449345331
+artist_hotttnesss: 0.307195017828
+artist_id: ARMZ4SJ1187FB4657B
+artist_latitude: nan
+artist_location: Finglas, Ireland
+artist_longitude: nan
+artist_mbid: f18ee68b-19b0-4b18-8a91-e7c98ee4fab1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Séamus Ennis
+artist_playmeid: 201345
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: a011e40e34a45857b0720a9743b7fa94
+bars_confidence: shape = (77,)
+bars_start: shape = (77,)
+beats_confidence: shape = (316,)
+beats_start: shape = (316,)
+danceability: 0.0
+duration: 150.56934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.594
+loudness: -17.17
+mode: 1
+mode_confidence: 0.632
+release: The Wandering Minstrel
+release_7digitalid: 648542
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (457,)
+segments_loudness_max: shape = (457,)
+segments_loudness_max_time: shape = (457,)
+segments_loudness_start: shape = (457,)
+segments_pitches: shape = (457, 12)
+segments_start: shape = (457,)
+segments_timbre: shape = (457, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOGNYW12AB0184EB6
+start_of_fade_out: 145.856
+tatums_confidence: shape = (316,)
+tatums_start: shape = (316,)
+tempo: 130.402
+time_signature: 4
+time_signature_confidence: 1.0
+title: Happy To Meet & Sorry To Part
+track_7digitalid: 7185607
+track_id: TRAYTRC128F9352E61
+year: 0

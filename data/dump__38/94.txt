@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2254
+artist_familiarity: 0.519939685321
+artist_hotttnesss: 0.350218160302
+artist_id: ARGP3GD1187B999801
+artist_latitude: 37.80506
+artist_location: Oakland, CA
+artist_longitude: -122.27302
+artist_mbid: 948b0451-cdcd-4037-897f-8f6130765b6b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tony Martin
+artist_playmeid: 27905
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 6382e2cfb9681e5dbf5029bf07713f2d
+bars_confidence: shape = (63,)
+bars_start: shape = (63,)
+beats_confidence: shape = (213,)
+beats_start: shape = (213,)
+danceability: 0.0
+duration: 192.54812
+end_of_fade_in: 0.247
+energy: 0.0
+key: 3
+key_confidence: 0.699
+loudness: -16.643
+mode: 0
+mode_confidence: 0.597
+release: How Can it Be Told
+release_7digitalid: 609844
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (508,)
+segments_loudness_max: shape = (508,)
+segments_loudness_max_time: shape = (508,)
+segments_loudness_start: shape = (508,)
+segments_pitches: shape = (508, 12)
+segments_start: shape = (508,)
+segments_timbre: shape = (508, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOMMAMA12A8C13F9E7
+start_of_fade_out: 185.185
+tatums_confidence: shape = (424,)
+tatums_start: shape = (424,)
+tempo: 66.568
+time_signature: 3
+time_signature_confidence: 0.724
+title: Where in the World
+track_7digitalid: 6777674
+track_id: TRANIJG128F92EFC9B
+year: 0

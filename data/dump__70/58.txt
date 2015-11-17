@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 88647
+artist_familiarity: 0.592494980056
+artist_hotttnesss: 0.350628946897
+artist_id: AR1VCLT1187FB4C8AC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 30e1fa3d-f70f-434e-9ad0-110d077fce02
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tum Tum / Double T / LiL Ronnie
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: bc93d0d3a69d8ed0d6d53f069bf9528f
+bars_confidence: shape = (135,)
+bars_start: shape = (135,)
+beats_confidence: shape = (546,)
+beats_start: shape = (546,)
+danceability: 0.0
+duration: 214.02077
+end_of_fade_in: 0.107
+energy: 0.0
+key: 7
+key_confidence: 0.783
+loudness: -5.239
+mode: 1
+mode_confidence: 0.73
+release: Eat Or Get Ate
+release_7digitalid: 113008
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (963,)
+segments_loudness_max: shape = (963,)
+segments_loudness_max_time: shape = (963,)
+segments_loudness_start: shape = (963,)
+segments_pitches: shape = (963, 12)
+segments_start: shape = (963,)
+segments_timbre: shape = (963, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORFIYS12A8C13C750
+start_of_fade_out: 209.966
+tatums_confidence: shape = (1091,)
+tatums_start: shape = (1091,)
+tempo: 155.389
+time_signature: 4
+time_signature_confidence: 0.874
+title: She's A Go
+track_7digitalid: 1166009
+track_id: TRAYDWI128F429A0B0
+year: 2007

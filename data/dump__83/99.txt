@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5401
+artist_familiarity: 0.588278825525
+artist_hotttnesss: 0.403602007956
+artist_id: ARXHWL31187FB476F4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a79e35b4-4b82-4e6d-9689-63cb92d558e9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: unloco
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 962800d9b09119a6e07f78e3cc965759
+bars_confidence: shape = (213,)
+bars_start: shape = (213,)
+beats_confidence: shape = (856,)
+beats_start: shape = (856,)
+danceability: 0.0
+duration: 362.34404
+end_of_fade_in: 0.206
+energy: 0.0
+key: 8
+key_confidence: 0.006
+loudness: -7.015
+mode: 1
+mode_confidence: 0.229
+release: Healing
+release_7digitalid: 176415
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1216,)
+segments_loudness_max: shape = (1216,)
+segments_loudness_max_time: shape = (1216,)
+segments_loudness_start: shape = (1216,)
+segments_pitches: shape = (1216, 12)
+segments_start: shape = (1216,)
+segments_timbre: shape = (1216, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.697480929478
+song_id: SODIOXW12A6D4FD0D3
+start_of_fade_out: 340.283
+tatums_confidence: shape = (2568,)
+tatums_start: shape = (2568,)
+tempo: 145.717
+time_signature: 4
+time_signature_confidence: 0.986
+title: Bystander (Album Version)
+track_7digitalid: 1898270
+track_id: TRBCVFF128F4222C3C
+year: 2001

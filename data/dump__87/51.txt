@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 104787
+artist_familiarity: 0.460701982757
+artist_hotttnesss: 0.404392640155
+artist_id: AR8W8DN1187FB35ED0
+artist_latitude: 31.75916
+artist_location: El Paso, TX
+artist_longitude: -106.48749
+artist_mbid: 42c4b58d-2e28-41d4-bfe5-4edee68386cf
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: The Germs
+artist_playmeid: -1
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: aa111169a2e9ee64da69da1b47986d5d
+bars_confidence: shape = (50,)
+bars_start: shape = (50,)
+beats_confidence: shape = (203,)
+beats_start: shape = (203,)
+danceability: 0.0
+duration: 111.49016
+end_of_fade_in: 0.148
+energy: 0.0
+key: 9
+key_confidence: 0.396
+loudness: -8.889
+mode: 1
+mode_confidence: 0.312
+release: M.I.A.: The Complete Germs
+release_7digitalid: 132829
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (440,)
+segments_loudness_max: shape = (440,)
+segments_loudness_max_time: shape = (440,)
+segments_loudness_start: shape = (440,)
+segments_pitches: shape = (440, 12)
+segments_start: shape = (440,)
+segments_timbre: shape = (440, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3759843015
+song_id: SONVCGW12A81C23489
+start_of_fade_out: 111.49
+tatums_confidence: shape = (406,)
+tatums_start: shape = (406,)
+tempo: 115.763
+time_signature: 4
+time_signature_confidence: 0.0
+title: Going Down
+track_7digitalid: 1378160
+track_id: TRBEBNV128F423783D
+year: 1993

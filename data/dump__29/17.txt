@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 99106
+artist_familiarity: 0.689494764993
+artist_hotttnesss: 0.355905629781
+artist_id: ARI6CSW1187B9AF09A
+artist_latitude: nan
+artist_location: M�engladbach, Germany
+artist_longitude: nan
+artist_mbid: 3db42aef-5961-4c75-8f0f-432c9db2a894
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Eko Fresh
+artist_playmeid: 28340
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 84b3844b4580356ed5fe6fd5876f87ec
+bars_confidence: shape = (161,)
+bars_start: shape = (161,)
+beats_confidence: shape = (647,)
+beats_start: shape = (647,)
+danceability: 0.0
+duration: 234.60526
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.474
+loudness: -5.172
+mode: 1
+mode_confidence: 0.293
+release: Ekaveli
+release_7digitalid: 385499
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (993,)
+segments_loudness_max: shape = (993,)
+segments_loudness_max_time: shape = (993,)
+segments_loudness_start: shape = (993,)
+segments_pitches: shape = (993, 12)
+segments_start: shape = (993,)
+segments_timbre: shape = (993, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.41373983586
+song_id: SOSFYFN12AB017AB81
+start_of_fade_out: 227.95
+tatums_confidence: shape = (1295,)
+tatums_start: shape = (1295,)
+tempo: 167.59
+time_signature: 4
+time_signature_confidence: 0.353
+title: Et kütt wie et kütt
+track_7digitalid: 4279970
+track_id: TRAJUWA128F92E5B59
+year: 2007

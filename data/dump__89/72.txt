@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 909
+artist_familiarity: 0.441799755451
+artist_hotttnesss: 0.755149913058
+artist_id: ARGVJPK1187B9909EA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 12be5b16-915f-44bc-978a-8ddfab235b79
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Josh Groban
+artist_playmeid: 115101
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: e295362fcc3c64878e64cd1f26aabb2c
+bars_confidence: shape = (85,)
+bars_start: shape = (85,)
+beats_confidence: shape = (362,)
+beats_start: shape = (362,)
+danceability: 0.0
+duration: 258.40281
+end_of_fade_in: 2.078
+energy: 0.0
+key: 4
+key_confidence: 0.814
+loudness: -8.647
+mode: 1
+mode_confidence: 0.714
+release: The Polar Express - Original Motion Picture Soundtrack
+release_7digitalid: 52787
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (714,)
+segments_loudness_max: shape = (714,)
+segments_loudness_max_time: shape = (714,)
+segments_loudness_start: shape = (714,)
+segments_pitches: shape = (714, 12)
+segments_start: shape = (714,)
+segments_timbre: shape = (714, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.270775998946
+song_id: SOKMZQL12A58A76B19
+start_of_fade_out: 244.175
+tatums_confidence: shape = (724,)
+tatums_start: shape = (724,)
+tempo: 83.195
+time_signature: 4
+time_signature_confidence: 0.601
+title: Believe (Album Version)
+track_7digitalid: 551046
+track_id: TRBEYYM128F1493C56
+year: 0

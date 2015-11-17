@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 269
+artist_familiarity: 0.818319359139
+artist_hotttnesss: 0.667294595643
+artist_id: ARVN9FZ1187FB393F1
+artist_latitude: nan
+artist_location: Dundee, Scotland
+artist_longitude: nan
+artist_mbid: a66999a7-ae5c-460e-ba94-1a01143ae847
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Snow Patrol
+artist_playmeid: 1468
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: e481f890113d64f3fedb1b8cdd3a93dc
+bars_confidence: shape = (124,)
+bars_start: shape = (124,)
+beats_confidence: shape = (498,)
+beats_start: shape = (498,)
+danceability: 0.0
+duration: 284.1073
+end_of_fade_in: 3.419
+energy: 0.0
+key: 9
+key_confidence: 0.597
+loudness: -5.519
+mode: 1
+mode_confidence: 0.574
+release: Just Say Yes
+release_7digitalid: 623494
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1253,)
+segments_loudness_max: shape = (1253,)
+segments_loudness_max_time: shape = (1253,)
+segments_loudness_start: shape = (1253,)
+segments_pitches: shape = (1253, 12)
+segments_start: shape = (1253,)
+segments_timbre: shape = (1253, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.945994679822
+song_id: SOOPVJI12AB0183957
+start_of_fade_out: 268.945
+tatums_confidence: shape = (1993,)
+tatums_start: shape = (1993,)
+tempo: 107.998
+time_signature: 4
+time_signature_confidence: 0.384
+title: Just Say Yes
+track_7digitalid: 6921542
+track_id: TRALDUE128F9312AF2
+year: 2009

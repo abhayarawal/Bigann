@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20088
+artist_familiarity: 0.372221926549
+artist_hotttnesss: 0.352563985297
+artist_id: ARNNC731187FB55D14
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5fc5872b-9e4f-4bc5-9bcb-fc6152f4dfda
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Kary Ng
+artist_playmeid: 71182
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 0e9cb933f23c8c6f2cb8a88687cfe932
+bars_confidence: shape = (55,)
+bars_start: shape = (55,)
+beats_confidence: shape = (278,)
+beats_start: shape = (278,)
+danceability: 0.0
+duration: 188.36853
+end_of_fade_in: 0.446
+energy: 0.0
+key: 6
+key_confidence: 0.57
+loudness: -3.616
+mode: 0
+mode_confidence: 0.685
+release: Lian Ai Tian Cai
+release_7digitalid: 165397
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (650,)
+segments_loudness_max: shape = (650,)
+segments_loudness_max_time: shape = (650,)
+segments_loudness_start: shape = (650,)
+segments_pitches: shape = (650, 12)
+segments_start: shape = (650,)
+segments_timbre: shape = (650, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKFNSF12A8C13C425
+start_of_fade_out: 185.353
+tatums_confidence: shape = (835,)
+tatums_start: shape = (835,)
+tempo: 90.139
+time_signature: 5
+time_signature_confidence: 0.976
+title: Lian Ai Tian Chi
+track_7digitalid: 1751728
+track_id: TRAIDFK128F428A25D
+year: 0

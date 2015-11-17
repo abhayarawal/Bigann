@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 192658
+artist_familiarity: 0.63589871018
+artist_hotttnesss: 0.530262813427
+artist_id: ARZKUQF11F4C8456E8
+artist_latitude: 52.47859
+artist_location: Birmingham
+artist_longitude: -1.9086
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Moody Blues
+artist_playmeid: -1
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: be8486be208466ef45bd0bc3ec4a622d
+bars_confidence: shape = (138,)
+bars_start: shape = (138,)
+beats_confidence: shape = (560,)
+beats_start: shape = (560,)
+danceability: 0.0
+duration: 291.29098
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.321
+loudness: -12.065
+mode: 0
+mode_confidence: 0.413
+release: Caught Live + 5
+release_7digitalid: 22126
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (765,)
+segments_loudness_max: shape = (765,)
+segments_loudness_max_time: shape = (765,)
+segments_loudness_start: shape = (765,)
+segments_pitches: shape = (765, 12)
+segments_start: shape = (765,)
+segments_timbre: shape = (765, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQFZBX12A6D4F5B4D
+start_of_fade_out: 284.729
+tatums_confidence: shape = (1119,)
+tatums_start: shape = (1119,)
+tempo: 115.514
+time_signature: 4
+time_signature_confidence: 0.132
+title: Tuesday Afternoon
+track_7digitalid: 228893
+track_id: TRARYCL128F1456224
+year: 1968

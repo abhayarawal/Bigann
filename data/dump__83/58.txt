@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 356599
+artist_familiarity: 0.52482139287
+artist_hotttnesss: 0.362162159002
+artist_id: AR19JS91187B98CB66
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 524ccca7-a2bf-4ac5-abfa-f0fe5572ecf5
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Captain Hollywood Project
+artist_playmeid: -1
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: d99777cd6e29cb2d1dc321f76b9cf387
+bars_confidence: shape = (208,)
+bars_start: shape = (208,)
+beats_confidence: shape = (836,)
+beats_start: shape = (836,)
+danceability: 0.0
+duration: 338.36363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.462
+loudness: -8.67
+mode: 1
+mode_confidence: 0.549
+release: Animals or Human
+release_7digitalid: 621397
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1592,)
+segments_loudness_max: shape = (1592,)
+segments_loudness_max_time: shape = (1592,)
+segments_loudness_start: shape = (1592,)
+segments_pitches: shape = (1592, 12)
+segments_start: shape = (1592,)
+segments_timbre: shape = (1592, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOETRAW12AB0180F0E
+start_of_fade_out: 333.142
+tatums_confidence: shape = (1673,)
+tatums_start: shape = (1673,)
+tempo: 150.014
+time_signature: 4
+time_signature_confidence: 0.0
+title: The Way Love Is
+track_7digitalid: 6900971
+track_id: TRBCRUH128F930DB67
+year: 1995

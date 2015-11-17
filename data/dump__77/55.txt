@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 445035
+artist_familiarity: 0.394321895901
+artist_hotttnesss: 0.252838291648
+artist_id: ARCZGEP122988F4890
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Starski and Clutch
+artist_playmeid: -1
+artist_terms: shape = (8,)
+artist_terms_freq: shape = (8,)
+artist_terms_weight: shape = (8,)
+audio_md5: bc3fb5ed132a16292ad4598d1c094de5
+bars_confidence: shape = (183,)
+bars_start: shape = (183,)
+beats_confidence: shape = (737,)
+beats_start: shape = (737,)
+danceability: 0.0
+duration: 290.95138
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.225
+loudness: -6.397
+mode: 0
+mode_confidence: 0.13
+release: Triple Gold
+release_7digitalid: 648766
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1630,)
+segments_loudness_max: shape = (1630,)
+segments_loudness_max_time: shape = (1630,)
+segments_loudness_start: shape = (1630,)
+segments_pitches: shape = (1630, 12)
+segments_start: shape = (1630,)
+segments_timbre: shape = (1630, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.261990090148
+song_id: SOBFXXF12AB0182007
+start_of_fade_out: 285.925
+tatums_confidence: shape = (1473,)
+tatums_start: shape = (1473,)
+tempo: 151.864
+time_signature: 4
+time_signature_confidence: 0.097
+title: East to West
+track_7digitalid: 7188045
+track_id: TRBALYE128F93537E7
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 54798
+artist_familiarity: 0.566796474833
+artist_hotttnesss: 0.388112773806
+artist_id: ARFTMGO1187B9A777A
+artist_latitude: 43.64856
+artist_location: Toronto, Ontario, Canada
+artist_longitude: -79.38533
+artist_mbid: 291dcfb8-b31c-496a-905b-9955509d75b6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Percy Faith
+artist_playmeid: 12855
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 3dc4471afeab17757504746e2f86d9a2
+bars_confidence: shape = (318,)
+bars_start: shape = (318,)
+beats_confidence: shape = (318,)
+beats_start: shape = (318,)
+danceability: 0.0
+duration: 151.09179
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.806
+loudness: -12.898
+mode: 1
+mode_confidence: 0.7
+release: The Sound Of Music
+release_7digitalid: 708323
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (473,)
+segments_loudness_max: shape = (473,)
+segments_loudness_max_time: shape = (473,)
+segments_loudness_start: shape = (473,)
+segments_pitches: shape = (473, 12)
+segments_start: shape = (473,)
+segments_timbre: shape = (473, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUHWIX12AB0189BB8
+start_of_fade_out: 144.73
+tatums_confidence: shape = (636,)
+tatums_start: shape = (636,)
+tempo: 127.853
+time_signature: 1
+time_signature_confidence: 0.0
+title: Do Re Mi
+track_7digitalid: 7856049
+track_id: TRAVZQD12903CAD658
+year: 0

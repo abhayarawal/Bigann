@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 65
+artist_familiarity: 0.701260700538
+artist_hotttnesss: 0.418894704702
+artist_id: AR8B1WY1187FB38366
+artist_latitude: nan
+artist_location: Long Island, NY
+artist_longitude: nan
+artist_mbid: 2792b097-0b1d-4c50-97f6-f7f097f86438
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Rakim feat. Tracey Horton
+artist_playmeid: 83198
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 9c731c9f1ad770c022fc96c6d7e934a2
+bars_confidence: shape = (201,)
+bars_start: shape = (201,)
+beats_confidence: shape = (808,)
+beats_start: shape = (808,)
+danceability: 0.0
+duration: 291.97016
+end_of_fade_in: 0.082
+energy: 0.0
+key: 10
+key_confidence: 0.019
+loudness: -6.342
+mode: 0
+mode_confidence: 0.41
+release: The Seventh Seal
+release_7digitalid: 760553
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1331,)
+segments_loudness_max: shape = (1331,)
+segments_loudness_max_time: shape = (1331,)
+segments_loudness_start: shape = (1331,)
+segments_pitches: shape = (1331, 12)
+segments_start: shape = (1331,)
+segments_timbre: shape = (1331, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.53922150995
+song_id: SOXPCET12AB018D580
+start_of_fade_out: 278.198
+tatums_confidence: shape = (1616,)
+tatums_start: shape = (1616,)
+tempo: 168.0
+time_signature: 4
+time_signature_confidence: 0.132
+title: Won't Be Long
+track_7digitalid: 8420740
+track_id: TRBDZVP12903CC0089
+year: 2009

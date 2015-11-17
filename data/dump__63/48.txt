@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 82549
+artist_familiarity: 0.460250922106
+artist_hotttnesss: 0.0
+artist_id: AR6896B1187B98FADA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b99522ac-a4ff-4ec5-8a18-98695687a414
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Paso Doble
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 4dfea2312e408be9898b6fa7730732be
+bars_confidence: shape = (160,)
+bars_start: shape = (160,)
+beats_confidence: shape = (642,)
+beats_start: shape = (642,)
+danceability: 0.0
+duration: 247.53587
+end_of_fade_in: 2.194
+energy: 0.0
+key: 6
+key_confidence: 0.384
+loudness: -7.872
+mode: 0
+mode_confidence: 0.503
+release: Versunkener Schatz
+release_7digitalid: 105408
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1080,)
+segments_loudness_max: shape = (1080,)
+segments_loudness_max_time: shape = (1080,)
+segments_loudness_start: shape = (1080,)
+segments_pitches: shape = (1080, 12)
+segments_start: shape = (1080,)
+segments_timbre: shape = (1080, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORYKRN12A8C13CFC5
+start_of_fade_out: 238.504
+tatums_confidence: shape = (1285,)
+tatums_start: shape = (1285,)
+tempo: 156.26
+time_signature: 4
+time_signature_confidence: 0.0
+title: König und Königin
+track_7digitalid: 1089896
+track_id: TRAVTNF128F428C4EA
+year: 0

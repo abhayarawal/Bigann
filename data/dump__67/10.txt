@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 298
+artist_familiarity: 0.773075676414
+artist_hotttnesss: 0.586729913278
+artist_id: ARMI8BW1187FB57B2E
+artist_latitude: nan
+artist_location: New York, NY
+artist_longitude: nan
+artist_mbid: 98b67ebc-5606-4cdb-9787-47b12cceb101
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kiss
+artist_playmeid: 872
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 7558e682937ab15575174872cffb1276
+bars_confidence: shape = (175,)
+bars_start: shape = (175,)
+beats_confidence: shape = (703,)
+beats_start: shape = (703,)
+danceability: 0.0
+duration: 283.84608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.936
+loudness: -7.0
+mode: 1
+mode_confidence: 0.886
+release: MTV Unplugged
+release_7digitalid: 47240
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (814,)
+segments_loudness_max: shape = (814,)
+segments_loudness_max_time: shape = (814,)
+segments_loudness_start: shape = (814,)
+segments_pitches: shape = (814, 12)
+segments_start: shape = (814,)
+segments_timbre: shape = (814, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHWDNK12A6D4F9837
+start_of_fade_out: 283.846
+tatums_confidence: shape = (1405,)
+tatums_start: shape = (1405,)
+tempo: 149.012
+time_signature: 4
+time_signature_confidence: 0.0
+title: Every Time I Look At You
+track_7digitalid: 506190
+track_id: TRAWWQM128F148C796
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 227835
+artist_familiarity: 0.64909505047
+artist_hotttnesss: 0.417601488248
+artist_id: ARODFDS1187FB57348
+artist_latitude: nan
+artist_location: Niteroi, Brazil
+artist_longitude: nan
+artist_mbid: 6bf591c4-b050-478e-9d9f-167394d66c90
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Sergio Mendes / Black Eyed Peas
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 24e54144193504bc7a03e8269ace4703
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (438,)
+beats_start: shape = (438,)
+danceability: 0.0
+duration: 267.20608
+end_of_fade_in: 0.874
+energy: 0.0
+key: 6
+key_confidence: 0.553
+loudness: -6.069
+mode: 1
+mode_confidence: 0.309
+release: Mas Que Nada - Full Phatt Remix
+release_7digitalid: 309435
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1185,)
+segments_loudness_max: shape = (1185,)
+segments_loudness_max_time: shape = (1185,)
+segments_loudness_start: shape = (1185,)
+segments_pitches: shape = (1185, 12)
+segments_start: shape = (1185,)
+segments_timbre: shape = (1185, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKLRFB12A8C141932
+start_of_fade_out: 258.264
+tatums_confidence: shape = (1753,)
+tatums_start: shape = (1753,)
+tempo: 101.059
+time_signature: 4
+time_signature_confidence: 0.961
+title: Mas Que Nada
+track_7digitalid: 3499445
+track_id: TRADXNV128F42B4DFE
+year: 1985

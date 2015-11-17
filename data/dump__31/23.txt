@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 61234
+artist_familiarity: 0.664924362444
+artist_hotttnesss: 0.496381145682
+artist_id: ARN0DMU1187FB5B63A
+artist_latitude: nan
+artist_location: Philadelphia, Pennsylvania
+artist_longitude: nan
+artist_mbid: debabff3-2559-46e5-862d-ef2a906d7010
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Daryl Hall & John Oates
+artist_playmeid: 2724
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 8368787e3d806cebb122243aa85da191
+bars_confidence: shape = (123,)
+bars_start: shape = (123,)
+beats_confidence: shape = (496,)
+beats_start: shape = (496,)
+danceability: 0.0
+duration: 299.49342
+end_of_fade_in: 3.454
+energy: 0.0
+key: 5
+key_confidence: 0.082
+loudness: -7.414
+mode: 0
+mode_confidence: 0.351
+release: Love Songs
+release_7digitalid: 299613
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1147,)
+segments_loudness_max: shape = (1147,)
+segments_loudness_max_time: shape = (1147,)
+segments_loudness_start: shape = (1147,)
+segments_pitches: shape = (1147, 12)
+segments_start: shape = (1147,)
+segments_timbre: shape = (1147, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.544750913183
+song_id: SOBTGBJ12A8C1393AB
+start_of_fade_out: 290.714
+tatums_confidence: shape = (1981,)
+tatums_start: shape = (1981,)
+tempo: 99.973
+time_signature: 4
+time_signature_confidence: 0.397
+title: Everything Your Heart Desires
+track_7digitalid: 3382155
+track_id: TRAKOWP128F42988F8
+year: 1988

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3356
+artist_familiarity: 0.564128950147
+artist_hotttnesss: 0.397775654323
+artist_id: AR14CJ91187FB3A994
+artist_latitude: 35.52069
+artist_location: Madisonville, TN
+artist_longitude: -84.36354
+artist_mbid: 1c4c789d-06af-42ef-b86c-7d6bf49c652c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Eddy Arnold
+artist_playmeid: 14170
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 5d1f7368b74213b5406748121defabf3
+bars_confidence: shape = (106,)
+bars_start: shape = (106,)
+beats_confidence: shape = (428,)
+beats_start: shape = (428,)
+danceability: 0.0
+duration: 166.16444
+end_of_fade_in: 0.99
+energy: 0.0
+key: 11
+key_confidence: 0.292
+loudness: -14.014
+mode: 1
+mode_confidence: 0.401
+release: Number Ones
+release_7digitalid: 691036
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (541,)
+segments_loudness_max: shape = (541,)
+segments_loudness_max_time: shape = (541,)
+segments_loudness_start: shape = (541,)
+segments_pitches: shape = (541, 12)
+segments_start: shape = (541,)
+segments_timbre: shape = (541, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMGTTY12AB0185986
+start_of_fade_out: 160.403
+tatums_confidence: shape = (855,)
+tatums_start: shape = (855,)
+tempo: 157.779
+time_signature: 4
+time_signature_confidence: 0.483
+title: Just A Little Lovin' (Will Go A Long Way)
+track_7digitalid: 7669164
+track_id: TRABFGJ12903CF6A75
+year: 1967

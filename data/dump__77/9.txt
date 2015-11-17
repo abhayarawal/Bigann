@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1619
+artist_familiarity: 0.582238343665
+artist_hotttnesss: 0.449052575154
+artist_id: AROCBZZ11E2835D652
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Small Faces
+artist_playmeid: 3153
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 443dc24daaa4ee204e71469decaf27e2
+bars_confidence: shape = (85,)
+bars_start: shape = (85,)
+beats_confidence: shape = (342,)
+beats_start: shape = (342,)
+danceability: 0.0
+duration: 129.90649
+end_of_fade_in: 6.763
+energy: 0.0
+key: 2
+key_confidence: 0.108
+loudness: -5.84
+mode: 0
+mode_confidence: 0.524
+release: Small Faces
+release_7digitalid: 51894
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (449,)
+segments_loudness_max: shape = (449,)
+segments_loudness_max_time: shape = (449,)
+segments_loudness_start: shape = (449,)
+segments_pitches: shape = (449, 12)
+segments_start: shape = (449,)
+segments_timbre: shape = (449, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBULMA12A6D4F8EA0
+start_of_fade_out: 122.746
+tatums_confidence: shape = (342,)
+tatums_start: shape = (342,)
+tempo: 159.418
+time_signature: 4
+time_signature_confidence: 0.91
+title: What'Cha Gonna Do About It
+track_7digitalid: 542105
+track_id: TRBAHSQ128F1492A8F
+year: 1965

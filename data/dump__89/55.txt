@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3310
+artist_familiarity: 0.736440740676
+artist_hotttnesss: 0.526846925184
+artist_id: ART3KT21187FB450DC
+artist_latitude: nan
+artist_location: Rome, Italy
+artist_longitude: nan
+artist_mbid: a16e47f5-aa54-47fe-87e4-bb8af91a9fdd
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Ennio Morricone
+artist_playmeid: 553
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 1ea0e56423e2bae233d19834309dec66
+bars_confidence: shape = (77,)
+bars_start: shape = (77,)
+beats_confidence: shape = (311,)
+beats_start: shape = (311,)
+danceability: 0.0
+duration: 134.37342
+end_of_fade_in: 0.206
+energy: 0.0
+key: 5
+key_confidence: 0.569
+loudness: -13.491
+mode: 1
+mode_confidence: 0.38
+release: The Legend of 1900 - Original Motion Picture Soundtrack
+release_7digitalid: 283787
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (550,)
+segments_loudness_max: shape = (550,)
+segments_loudness_max_time: shape = (550,)
+segments_loudness_start: shape = (550,)
+segments_pitches: shape = (550, 12)
+segments_start: shape = (550,)
+segments_timbre: shape = (550, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODEDSI12A8C13225F
+start_of_fade_out: 131.181
+tatums_confidence: shape = (621,)
+tatums_start: shape = (621,)
+tempo: 140.148
+time_signature: 4
+time_signature_confidence: 0.857
+title: 1900's Madness #1
+track_7digitalid: 3187313
+track_id: TRBEXRS128F4269FAA
+year: 0

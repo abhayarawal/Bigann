@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 300361
+artist_familiarity: 0.501565375185
+artist_hotttnesss: 0.315795679708
+artist_id: ARW1DRV1187FB40261
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ad0a0af5-be4d-4302-84af-4e69bf91b201
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Rocio Jurado
+artist_playmeid: 4567
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 9b86b61d74c3d8ae7ab91c7e6bdc7e5d
+bars_confidence: shape = (599,)
+bars_start: shape = (599,)
+beats_confidence: shape = (599,)
+beats_start: shape = (599,)
+danceability: 0.0
+duration: 359.65342
+end_of_fade_in: 0.375
+energy: 0.0
+key: 0
+key_confidence: 0.0
+loudness: -4.523
+mode: 1
+mode_confidence: 0.209
+release: La Copla
+release_7digitalid: 543138
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1018,)
+segments_loudness_max: shape = (1018,)
+segments_loudness_max_time: shape = (1018,)
+segments_loudness_start: shape = (1018,)
+segments_pitches: shape = (1018, 12)
+segments_start: shape = (1018,)
+segments_timbre: shape = (1018, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SODCQJH12AB017DDF6
+start_of_fade_out: 356.02
+tatums_confidence: shape = (1199,)
+tatums_start: shape = (1199,)
+tempo: 99.882
+time_signature: 1
+time_signature_confidence: 0.463
+title: Va Por Usted
+track_7digitalid: 6012699
+track_id: TRBFFSW128F931DF21
+year: 0

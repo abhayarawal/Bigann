@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1302
+artist_familiarity: 0.80982809184
+artist_hotttnesss: 0.539644312424
+artist_id: ARBCUNV1187B98A9FB
+artist_latitude: nan
+artist_location: East Flatbush, Brooklyn, NY
+artist_longitude: nan
+artist_mbid: 10a9ff92-9637-4498-afea-7044b2ab0dc0
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Busta Rhymes feat. Linkin Park
+artist_playmeid: 282
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 7dc870d8ef639956efcbbff367a3e045
+bars_confidence: shape = (71,)
+bars_start: shape = (71,)
+beats_confidence: shape = (361,)
+beats_start: shape = (361,)
+danceability: 0.0
+duration: 238.21016
+end_of_fade_in: 0.136
+energy: 0.0
+key: 1
+key_confidence: 0.018
+loudness: -6.892
+mode: 0
+mode_confidence: 0.366
+release: We Made It
+release_7digitalid: 267845
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (939,)
+segments_loudness_max: shape = (939,)
+segments_loudness_max_time: shape = (939,)
+segments_loudness_start: shape = (939,)
+segments_pitches: shape = (939, 12)
+segments_start: shape = (939,)
+segments_timbre: shape = (939, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.382935090075
+song_id: SOACFRH12A8C13E183
+start_of_fade_out: 214.384
+tatums_confidence: shape = (1081,)
+tatums_start: shape = (1081,)
+tempo: 92.344
+time_signature: 5
+time_signature_confidence: 0.851
+title: We Made It [Instrumental]
+track_7digitalid: 2946318
+track_id: TRBANCJ128F42812AE
+year: 0

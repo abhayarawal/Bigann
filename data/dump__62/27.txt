@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 29388
+artist_familiarity: 0.285210316421
+artist_hotttnesss: 0.25614864548
+artist_id: ARN76SM1187FB386BA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 52af8ebe-3af5-45e0-b4a3-87c43854026f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Walter Wanderley Trio
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 94f5d10dd93cf5e5adc96a68ff028a8d
+bars_confidence: shape = (165,)
+bars_start: shape = (165,)
+beats_confidence: shape = (663,)
+beats_start: shape = (663,)
+danceability: 0.0
+duration: 196.64934
+end_of_fade_in: 0.574
+energy: 0.0
+key: 7
+key_confidence: 0.528
+loudness: -16.862
+mode: 0
+mode_confidence: 0.532
+release: Hammond Bossa From Brasil (Jazz Club)
+release_7digitalid: 92506
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1008,)
+segments_loudness_max: shape = (1008,)
+segments_loudness_max_time: shape = (1008,)
+segments_loudness_start: shape = (1008,)
+segments_pitches: shape = (1008, 12)
+segments_start: shape = (1008,)
+segments_timbre: shape = (1008, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.194632647463
+song_id: SOJLDSP12A8C1350D8
+start_of_fade_out: 183.339
+tatums_confidence: shape = (1325,)
+tatums_start: shape = (1325,)
+tempo: 205.323
+time_signature: 4
+time_signature_confidence: 0.0
+title: O Menino Desce O Morro
+track_7digitalid: 980699
+track_id: TRAVHTY128F4271F2D
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 38471
+artist_familiarity: 0.452697587129
+artist_hotttnesss: 0.292906768906
+artist_id: ARPAH7U1187B9A308F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2e3b8f85-3c9c-45ed-94c4-72afe1f88588
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Fred Locks
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 3e771d1a4c559c52f1f31a046fb61a23
+bars_confidence: shape = (151,)
+bars_start: shape = (151,)
+beats_confidence: shape = (608,)
+beats_start: shape = (608,)
+danceability: 0.0
+duration: 242.38975
+end_of_fade_in: 0.154
+energy: 0.0
+key: 0
+key_confidence: 0.451
+loudness: -6.924
+mode: 1
+mode_confidence: 0.566
+release: Never Give Up
+release_7digitalid: 700191
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (938,)
+segments_loudness_max: shape = (938,)
+segments_loudness_max_time: shape = (938,)
+segments_loudness_start: shape = (938,)
+segments_pitches: shape = (938, 12)
+segments_start: shape = (938,)
+segments_timbre: shape = (938, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUWRJF12AC46862F7
+start_of_fade_out: 231.602
+tatums_confidence: shape = (1215,)
+tatums_start: shape = (1215,)
+tempo: 151.537
+time_signature: 4
+time_signature_confidence: 0.143
+title: Mama Don't Know Love
+track_7digitalid: 7768741
+track_id: TRAGTGA12903D0EE38
+year: 0

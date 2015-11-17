@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 53
+artist_familiarity: 0.681598553146
+artist_hotttnesss: 0.537537201305
+artist_id: ARVML631187B99E90D
+artist_latitude: nan
+artist_location: Athens, GA
+artist_longitude: nan
+artist_mbid: 127f591a-7e27-4435-92db-0780f219f3a1
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: The B-52's
+artist_playmeid: 147
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 9de7dfd460c6eb5f0dcc4a60a757dc1b
+bars_confidence: shape = (134,)
+bars_start: shape = (134,)
+beats_confidence: shape = (538,)
+beats_start: shape = (538,)
+danceability: 0.0
+duration: 261.74649
+end_of_fade_in: 3.489
+energy: 0.0
+key: 0
+key_confidence: 0.427
+loudness: -9.628
+mode: 1
+mode_confidence: 0.398
+release: The B52's
+release_7digitalid: 53826
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1199,)
+segments_loudness_max: shape = (1199,)
+segments_loudness_max_time: shape = (1199,)
+segments_loudness_start: shape = (1199,)
+segments_pitches: shape = (1199, 12)
+segments_start: shape = (1199,)
+segments_timbre: shape = (1199, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.714046552772
+song_id: SONRSQW12A6D4F6D1C
+start_of_fade_out: 250.921
+tatums_confidence: shape = (1076,)
+tatums_start: shape = (1076,)
+tempo: 124.086
+time_signature: 4
+time_signature_confidence: 0.366
+title: Wig
+track_7digitalid: 561525
+track_id: TRAAPPQ128F14961F5
+year: 1986

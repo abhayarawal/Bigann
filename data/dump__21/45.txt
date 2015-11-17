@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 512324
+artist_familiarity: 0.0633918240773
+artist_hotttnesss: 0.289191234594
+artist_id: ARSIECN1257509EBB0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3c79da1c-d23a-4331-b825-1fde78775c42
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kapelle Herrenweide
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 1468fbd467cf2b074f3930916e3f4f44
+bars_confidence: shape = (383,)
+bars_start: shape = (383,)
+beats_confidence: shape = (383,)
+beats_start: shape = (383,)
+danceability: 0.0
+duration: 214.36036
+end_of_fade_in: 0.061
+energy: 0.0
+key: 2
+key_confidence: 0.568
+loudness: -12.246
+mode: 0
+mode_confidence: 0.585
+release: Kavalierstart
+release_7digitalid: 688967
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (826,)
+segments_loudness_max: shape = (826,)
+segments_loudness_max_time: shape = (826,)
+segments_loudness_start: shape = (826,)
+segments_pitches: shape = (826, 12)
+segments_start: shape = (826,)
+segments_timbre: shape = (826, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGVPUQ12AC468BCA8
+start_of_fade_out: 207.499
+tatums_confidence: shape = (766,)
+tatums_start: shape = (766,)
+tempo: 109.293
+time_signature: 1
+time_signature_confidence: 0.0
+title: Humppa
+track_7digitalid: 7647369
+track_id: TRAHGXT12903CF1566
+year: 2009

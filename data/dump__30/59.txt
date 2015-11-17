@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 31247
+artist_familiarity: 0.494902079229
+artist_hotttnesss: 0.334143883291
+artist_id: ARRHVVL1187B991E41
+artist_latitude: nan
+artist_location: Vallejo, CA
+artist_longitude: nan
+artist_mbid: 8ca2e10a-7a93-4065-aa77-8f277bfb1c84
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Johnny Otis
+artist_playmeid: 21516
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 3609d81f9b3066ea4ada97fa68ace173
+bars_confidence: shape = (46,)
+bars_start: shape = (46,)
+beats_confidence: shape = (247,)
+beats_start: shape = (247,)
+danceability: 0.0
+duration: 160.60036
+end_of_fade_in: 0.194
+energy: 0.0
+key: 8
+key_confidence: 0.625
+loudness: -15.506
+mode: 1
+mode_confidence: 0.574
+release: Lovers Lane Boogie
+release_7digitalid: 379530
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (445,)
+segments_loudness_max: shape = (445,)
+segments_loudness_max_time: shape = (445,)
+segments_loudness_start: shape = (445,)
+segments_pitches: shape = (445, 12)
+segments_start: shape = (445,)
+segments_timbre: shape = (445, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLCIRZ12AB0182DA4
+start_of_fade_out: 151.423
+tatums_confidence: shape = (493,)
+tatums_start: shape = (493,)
+tempo: 94.961
+time_signature: 5
+time_signature_confidence: 0.797
+title: Lovers Lane Boogie
+track_7digitalid: 5662703
+track_id: TRAKILC128F933EC35
+year: 0

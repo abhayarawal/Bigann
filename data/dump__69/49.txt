@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5775
+artist_familiarity: 0.710901465884
+artist_hotttnesss: 0.51799022136
+artist_id: ARANIJI11F4C83EFD2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 29730ee3-e1c7-4e28-9ccd-3a0e6b0e8103
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Toots & The Maytals
+artist_playmeid: 4097
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: f03fe9ac8b43edd8edc744879142e55f
+bars_confidence: shape = (59,)
+bars_start: shape = (59,)
+beats_confidence: shape = (240,)
+beats_start: shape = (240,)
+danceability: 0.0
+duration: 128.33914
+end_of_fade_in: 0.27
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -13.276
+mode: 1
+mode_confidence: 0.0
+release: Time Tough: The Anthology
+release_7digitalid: 15683
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (486,)
+segments_loudness_max: shape = (486,)
+segments_loudness_max_time: shape = (486,)
+segments_loudness_start: shape = (486,)
+segments_pitches: shape = (486, 12)
+segments_start: shape = (486,)
+segments_timbre: shape = (486, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIVYLE12A67020ED4
+start_of_fade_out: 117.806
+tatums_confidence: shape = (479,)
+tatums_start: shape = (479,)
+tempo: 115.365
+time_signature: 4
+time_signature_confidence: 1.0
+title: It's You
+track_7digitalid: 165297
+track_id: TRAXSWX128E0792BEF
+year: 1996

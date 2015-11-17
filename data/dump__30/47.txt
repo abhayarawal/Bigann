@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1302
+artist_familiarity: 0.80982809184
+artist_hotttnesss: 0.539644312424
+artist_id: ARBCUNV1187B98A9FB
+artist_latitude: nan
+artist_location: East Flatbush, Brooklyn, NY
+artist_longitude: nan
+artist_mbid: 10a9ff92-9637-4498-afea-7044b2ab0dc0
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Busta Rhymes
+artist_playmeid: 282
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 0644605a89716776e44d0c0dbffddbcb
+bars_confidence: shape = (109,)
+bars_start: shape = (109,)
+beats_confidence: shape = (551,)
+beats_start: shape = (551,)
+danceability: 0.0
+duration: 226.32444
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.268
+loudness: -7.958
+mode: 0
+mode_confidence: 0.374
+release: It Ain't Safe No More
+release_7digitalid: 298933
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1148,)
+segments_loudness_max: shape = (1148,)
+segments_loudness_max_time: shape = (1148,)
+segments_loudness_start: shape = (1148,)
+segments_pitches: shape = (1148, 12)
+segments_start: shape = (1148,)
+segments_timbre: shape = (1148, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYZFQG12AB0180D6F
+start_of_fade_out: 226.324
+tatums_confidence: shape = (1103,)
+tatums_start: shape = (1103,)
+tempo: 146.971
+time_signature: 5
+time_signature_confidence: 0.7
+title: Taste It
+track_7digitalid: 3357156
+track_id: TRAKHAU128F42927B4
+year: 2002

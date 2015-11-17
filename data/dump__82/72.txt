@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 485375
+artist_familiarity: 0.480401970296
+artist_hotttnesss: 0.392325282528
+artist_id: AR93K7R1187B9AC92A
+artist_latitude: 59.91228
+artist_location: Oslo, Norway
+artist_longitude: 10.74998
+artist_mbid: 8e4685ea-5d37-459e-9a69-5c6e043b4369
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Black Debbath
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: ccd78a1df5154f5cc67a6b949cd8276b
+bars_confidence: shape = (107,)
+bars_start: shape = (107,)
+beats_confidence: shape = (538,)
+beats_start: shape = (538,)
+danceability: 0.0
+duration: 257.82812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.0
+loudness: -6.979
+mode: 1
+mode_confidence: 0.145
+release: Den Femte Statsmakt
+release_7digitalid: 737288
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (709,)
+segments_loudness_max: shape = (709,)
+segments_loudness_max_time: shape = (709,)
+segments_loudness_start: shape = (709,)
+segments_pitches: shape = (709, 12)
+segments_start: shape = (709,)
+segments_timbre: shape = (709, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAXXOK12AC9072660
+start_of_fade_out: 253.498
+tatums_confidence: shape = (1075,)
+tatums_start: shape = (1075,)
+tempo: 128.646
+time_signature: 5
+time_signature_confidence: 0.786
+title: Tredveårsfurua På Askøy
+track_7digitalid: 8168436
+track_id: TRBCIVP12903CF9688
+year: 0

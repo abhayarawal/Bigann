@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1283
+artist_familiarity: 0.833967972053
+artist_hotttnesss: 0.576903815588
+artist_id: ARE8GLF1187FB52532
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8bfac288-ccc5-448d-9573-c33ea2aa5c30
+artist_mbtags: shape = (15,)
+artist_mbtags_count: shape = (15,)
+artist_name: Red Hot Chili Peppers
+artist_playmeid: 1320
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 2be8a56b5e8356ab7ef4872eba4814cd
+bars_confidence: shape = (581,)
+bars_start: shape = (581,)
+beats_confidence: shape = (581,)
+beats_start: shape = (581,)
+danceability: 0.0
+duration: 269.34812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.648
+loudness: -2.976
+mode: 0
+mode_confidence: 0.643
+release: Californication
+release_7digitalid: 9152
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (938,)
+segments_loudness_max: shape = (938,)
+segments_loudness_max_time: shape = (938,)
+segments_loudness_start: shape = (938,)
+segments_pitches: shape = (938, 12)
+segments_start: shape = (938,)
+segments_timbre: shape = (938, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.773292762211
+song_id: SOCOZST12A67020452
+start_of_fade_out: 262.931
+tatums_confidence: shape = (1161,)
+tatums_start: shape = (1161,)
+tempo: 124.915
+time_signature: 1
+time_signature_confidence: 0.0
+title: Parallel Universe (Album Version)
+track_7digitalid: 93284
+track_id: TRBGQAB128E07877E4
+year: 1999

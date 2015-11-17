@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 34924
+artist_familiarity: 0.453120083487
+artist_hotttnesss: 0.368455090652
+artist_id: ARE1DU51187B99BB83
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 13b97071-47b4-4543-8db3-e2aea3355651
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: The Hollywood Brats
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 7ef8db1194c43c0b55345fdb38f5e34c
+bars_confidence: shape = (1000,)
+bars_start: shape = (1000,)
+beats_confidence: shape = (1000,)
+beats_start: shape = (1000,)
+danceability: 0.0
+duration: 367.49016
+end_of_fade_in: 0.322
+energy: 0.0
+key: 7
+key_confidence: 0.115
+loudness: -9.102
+mode: 1
+mode_confidence: 0.237
+release: The Wonderful World Of Casino Steel
+release_7digitalid: 628402
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1506,)
+segments_loudness_max: shape = (1506,)
+segments_loudness_max_time: shape = (1506,)
+segments_loudness_start: shape = (1506,)
+segments_pitches: shape = (1506, 12)
+segments_start: shape = (1506,)
+segments_timbre: shape = (1506, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.270775998946
+song_id: SOKRSWC12AB017D0E2
+start_of_fade_out: 356.333
+tatums_confidence: shape = (2000,)
+tatums_start: shape = (2000,)
+tempo: 164.026
+time_signature: 1
+time_signature_confidence: 0.0
+title: Suckin' On Suzie
+track_7digitalid: 6974800
+track_id: TRAOGTM128F931FABE
+year: 0

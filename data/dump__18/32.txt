@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8329
+artist_familiarity: 0.834564098277
+artist_hotttnesss: 0.540216450465
+artist_id: ARBUOOR1187B997391
+artist_latitude: nan
+artist_location: Manchester, England
+artist_longitude: nan
+artist_mbid: ecf9f3a3-35e9-4c58-acaa-e707fba45060
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Oasis
+artist_playmeid: 1196
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 18ebb57650ef82abd260de002b76d7a9
+bars_confidence: shape = (194,)
+bars_start: shape = (194,)
+beats_confidence: shape = (778,)
+beats_start: shape = (778,)
+danceability: 0.0
+duration: 289.2273
+end_of_fade_in: 3.512
+energy: 0.0
+key: 0
+key_confidence: 0.446
+loudness: -5.676
+mode: 1
+mode_confidence: 0.546
+release: Kuschelrock 19
+release_7digitalid: 436396
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (809,)
+segments_loudness_max: shape = (809,)
+segments_loudness_max_time: shape = (809,)
+segments_loudness_start: shape = (809,)
+segments_pitches: shape = (809, 12)
+segments_start: shape = (809,)
+segments_timbre: shape = (809, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.733549593663
+song_id: SONWVYC12A58A7DB0C
+start_of_fade_out: 278.558
+tatums_confidence: shape = (1556,)
+tatums_start: shape = (1556,)
+tempo: 162.069
+time_signature: 4
+time_signature_confidence: 0.732
+title: Don't Go Away
+track_7digitalid: 4862429
+track_id: TRAGFVT128F92ECB5D
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 365068
+artist_familiarity: 0.436894717698
+artist_hotttnesss: 0.363466886479
+artist_id: ARSFWGS1269FB35F84
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a720df30-d6ce-4c64-af7b-b4cb4646c341
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Eclier
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 47f9e4ff67008597dce2b7cf43a6a2fe
+bars_confidence: shape = (449,)
+bars_start: shape = (449,)
+beats_confidence: shape = (449,)
+beats_start: shape = (449,)
+danceability: 0.0
+duration: 322.19383
+end_of_fade_in: 0.389
+energy: 0.0
+key: 3
+key_confidence: 0.56
+loudness: -5.815
+mode: 0
+mode_confidence: 0.428
+release: Alpha River - EP
+release_7digitalid: 493116
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1052,)
+segments_loudness_max: shape = (1052,)
+segments_loudness_max_time: shape = (1052,)
+segments_loudness_start: shape = (1052,)
+segments_pitches: shape = (1052, 12)
+segments_start: shape = (1052,)
+segments_timbre: shape = (1052, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.367273415809
+song_id: SOTJWZO12AB0185329
+start_of_fade_out: 316.923
+tatums_confidence: shape = (1348,)
+tatums_start: shape = (1348,)
+tempo: 84.639
+time_signature: 1
+time_signature_confidence: 1.0
+title: Alpha River
+track_7digitalid: 5459521
+track_id: TRBEHDI128F930D7C2
+year: 0

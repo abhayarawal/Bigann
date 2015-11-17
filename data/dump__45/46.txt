@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1482
+artist_familiarity: 0.67979355595
+artist_hotttnesss: 0.489458258471
+artist_id: AR8CT8U1187FB4D803
+artist_latitude: 52.47859
+artist_location: Birmingham, England
+artist_longitude: -1.9086
+artist_mbid: ccce2053-7007-4c36-b1e7-f8fcf5023a12
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Dexys Midnight Runners
+artist_playmeid: 450
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: d24107cbef7bf71df60631b534bf6685
+bars_confidence: shape = (386,)
+bars_start: shape = (386,)
+beats_confidence: shape = (386,)
+beats_start: shape = (386,)
+danceability: 0.0
+duration: 202.39628
+end_of_fade_in: 0.554
+energy: 0.0
+key: 4
+key_confidence: 0.212
+loudness: -8.211
+mode: 0
+mode_confidence: 0.195
+release: The Projected Passion Revue
+release_7digitalid: 56996
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (872,)
+segments_loudness_max: shape = (872,)
+segments_loudness_max_time: shape = (872,)
+segments_loudness_start: shape = (872,)
+segments_pitches: shape = (872, 12)
+segments_start: shape = (872,)
+segments_timbre: shape = (872, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWEHVB12A6D4F8F0B
+start_of_fade_out: 193.881
+tatums_confidence: shape = (771,)
+tatums_start: shape = (771,)
+tempo: 119.448
+time_signature: 1
+time_signature_confidence: 0.387
+title: Spiritual Passion (aka Dubious)
+track_7digitalid: 592353
+track_id: TRAPNHG128F149CB35
+year: 2007

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3254
+artist_familiarity: 0.325219143048
+artist_hotttnesss: 0.270099982469
+artist_id: ARQVTCN11E2835DFFD
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f4847b22-6278-4963-aae6-43f6958ec261
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Marcel Mouloudji
+artist_playmeid: 27517
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: 9b4f9cf9abbcf8548b5696ab6af88b5d
+bars_confidence: shape = (21,)
+bars_start: shape = (21,)
+beats_confidence: shape = (139,)
+beats_start: shape = (139,)
+danceability: 0.0
+duration: 110.34077
+end_of_fade_in: 2.856
+energy: 0.0
+key: 0
+key_confidence: 0.364
+loudness: -14.711
+mode: 0
+mode_confidence: 0.403
+release: 36 Grands Succès
+release_7digitalid: 299377
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (349,)
+segments_loudness_max: shape = (349,)
+segments_loudness_max_time: shape = (349,)
+segments_loudness_start: shape = (349,)
+segments_pitches: shape = (349, 12)
+segments_start: shape = (349,)
+segments_timbre: shape = (349, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORRQLD12A8C139E8D
+start_of_fade_out: 104.13
+tatums_confidence: shape = (416,)
+tatums_start: shape = (416,)
+tempo: 77.5
+time_signature: 5
+time_signature_confidence: 0.432
+title: Qui Donc A Changé ?
+track_7digitalid: 3374877
+track_id: TRACIOB128F4296D0F
+year: 0

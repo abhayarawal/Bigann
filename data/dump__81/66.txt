@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 35
+artist_familiarity: 0.817635146361
+artist_hotttnesss: 0.564005985821
+artist_id: AR40GSU1187FB3AA01
+artist_latitude: nan
+artist_location: Brooklyn, NY
+artist_longitude: nan
+artist_mbid: a42d3fd5-55de-4206-86c3-4fbb5404018f
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Neil Diamond
+artist_playmeid: 2589
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: b163f8dd7117ca362419947590f77db9
+bars_confidence: shape = (132,)
+bars_start: shape = (132,)
+beats_confidence: shape = (533,)
+beats_start: shape = (533,)
+danceability: 0.0
+duration: 194.40281
+end_of_fade_in: 2.276
+energy: 0.0
+key: 0
+key_confidence: 0.958
+loudness: -8.351
+mode: 1
+mode_confidence: 0.761
+release: Play Me: The Complete Uni Studio Recordings...Plus!
+release_7digitalid: 22419
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (644,)
+segments_loudness_max: shape = (644,)
+segments_loudness_max_time: shape = (644,)
+segments_loudness_start: shape = (644,)
+segments_pitches: shape = (644, 12)
+segments_start: shape = (644,)
+segments_timbre: shape = (644, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.738191737472
+song_id: SOCVTCQ12AB01848FC
+start_of_fade_out: 183.948
+tatums_confidence: shape = (1065,)
+tatums_start: shape = (1065,)
+tempo: 164.359
+time_signature: 4
+time_signature_confidence: 0.136
+title: Song Sung Blue
+track_7digitalid: 5512302
+track_id: TRBBZQM128F931A529
+year: 1972

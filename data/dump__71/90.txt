@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 473242
+artist_familiarity: 0.522008232507
+artist_hotttnesss: 0.347098105121
+artist_id: AR280881187B98BA28
+artist_latitude: 55.70622
+artist_location: Lund, Sweden
+artist_longitude: 13.1876
+artist_mbid: f3167bb9-225b-49fe-b2e7-02a44107dbd1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: YGGDRASIL
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 54070e89cc40337fd7d40f409ab79b8a
+bars_confidence: shape = (411,)
+bars_start: shape = (411,)
+beats_confidence: shape = (411,)
+beats_start: shape = (411,)
+danceability: 0.0
+duration: 190.69342
+end_of_fade_in: 0.345
+energy: 0.0
+key: 11
+key_confidence: 0.281
+loudness: -14.636
+mode: 1
+mode_confidence: 0.475
+release: Herrelaus
+release_7digitalid: 730657
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (720,)
+segments_loudness_max: shape = (720,)
+segments_loudness_max_time: shape = (720,)
+segments_loudness_start: shape = (720,)
+segments_pitches: shape = (720, 12)
+segments_start: shape = (720,)
+segments_timbre: shape = (720, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORFQCM12AC3DF9530
+start_of_fade_out: 182.462
+tatums_confidence: shape = (1235,)
+tatums_start: shape = (1235,)
+tempo: 132.261
+time_signature: 1
+time_signature_confidence: 0.295
+title: Nordfjorloftet
+track_7digitalid: 8094616
+track_id: TRAYPZB12903CE763B
+year: 1998

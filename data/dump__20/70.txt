@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21842
+artist_familiarity: 0.595524311585
+artist_hotttnesss: 0.402594332283
+artist_id: ARJ3DXR1187FB4F879
+artist_latitude: 38.8991
+artist_location: Washington
+artist_longitude: -77.029
+artist_mbid: 994ea2e4-6aa5-4d1f-89db-227257d1ef53
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dirty Harry
+artist_playmeid: -1
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: daeca3db4d01dc9da1a89a83ccff62b4
+bars_confidence: shape = (289,)
+bars_start: shape = (289,)
+beats_confidence: shape = (1161,)
+beats_start: shape = (1161,)
+danceability: 0.0
+duration: 559.75138
+end_of_fade_in: 1.15
+energy: 0.0
+key: 11
+key_confidence: 0.036
+loudness: -15.303
+mode: 0
+mode_confidence: 0.366
+release: Henry Street Music Volume 11
+release_7digitalid: 436856
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (2400,)
+segments_loudness_max: shape = (2400,)
+segments_loudness_max_time: shape = (2400,)
+segments_loudness_start: shape = (2400,)
+segments_pitches: shape = (2400, 12)
+segments_start: shape = (2400,)
+segments_timbre: shape = (2400, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSZPZP12A58A7E624
+start_of_fade_out: 525.253
+tatums_confidence: shape = (2322,)
+tatums_start: shape = (2322,)
+tempo: 126.412
+time_signature: 4
+time_signature_confidence: 0.054
+title: The Fortway
+track_7digitalid: 4868175
+track_id: TRAHAGF128F92EE1D5
+year: 0

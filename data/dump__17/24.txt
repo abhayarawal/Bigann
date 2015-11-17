@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 346172
+artist_familiarity: 0.510794577033
+artist_hotttnesss: 0.394127576608
+artist_id: ARETCTY1187FB4C033
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b275c531-fa38-4ecb-a0a7-fb4a30ea3613
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: LORE
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: ecc0c98c87bfb294e8c455de1000467c
+bars_confidence: shape = (323,)
+bars_start: shape = (323,)
+beats_confidence: shape = (976,)
+beats_start: shape = (976,)
+danceability: 0.0
+duration: 423.07873
+end_of_fade_in: 4.725
+energy: 0.0
+key: 0
+key_confidence: 0.515
+loudness: -13.818
+mode: 1
+mode_confidence: 0.691
+release: The Exponential Truth
+release_7digitalid: 761443
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (1096,)
+segments_loudness_max: shape = (1096,)
+segments_loudness_max_time: shape = (1096,)
+segments_loudness_start: shape = (1096,)
+segments_pitches: shape = (1096, 12)
+segments_start: shape = (1096,)
+segments_timbre: shape = (1096, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SORMDIB12AB018C316
+start_of_fade_out: 381.463
+tatums_confidence: shape = (1953,)
+tatums_start: shape = (1953,)
+tempo: 135.599
+time_signature: 3
+time_signature_confidence: 0.559
+title: Pluvialus
+track_7digitalid: 8428730
+track_id: TRAFWOX12903CC1FA8
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16825
+artist_familiarity: 0.528736353332
+artist_hotttnesss: 0.321366996762
+artist_id: AR2BBHS1187FB4AE06
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 43988f1b-d49c-4959-a80f-83ded3a321d6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jeff Beck Group
+artist_playmeid: 12660
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 50befc737191815212c08e61c2c51f50
+bars_confidence: shape = (109,)
+bars_start: shape = (109,)
+beats_confidence: shape = (552,)
+beats_start: shape = (552,)
+danceability: 0.0
+duration: 340.34893
+end_of_fade_in: 2.305
+energy: 0.0
+key: 2
+key_confidence: 0.815
+loudness: -13.637
+mode: 1
+mode_confidence: 0.57
+release: Original Album Classics
+release_7digitalid: 280787
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1280,)
+segments_loudness_max: shape = (1280,)
+segments_loudness_max_time: shape = (1280,)
+segments_loudness_start: shape = (1280,)
+segments_pitches: shape = (1280, 12)
+segments_start: shape = (1280,)
+segments_timbre: shape = (1280, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.347592850775
+song_id: SOCONYN12A8AE48117
+start_of_fade_out: 330.002
+tatums_confidence: shape = (1657,)
+tatums_start: shape = (1657,)
+tempo: 98.087
+time_signature: 5
+time_signature_confidence: 0.545
+title: Ice Cream Cakes
+track_7digitalid: 3134234
+track_id: TRAIDGE128F4260E9F
+year: 1972

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15403
+artist_familiarity: 0.556750823055
+artist_hotttnesss: 0.361587941532
+artist_id: ARAMIDF1187FB3D8D4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: aae1ec8e-ecd9-44ef-aca8-b5f44579ecce
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Alejandro Lerner
+artist_playmeid: -1
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 674d48326865ad646fad028f13b94869
+bars_confidence: shape = (144,)
+bars_start: shape = (144,)
+beats_confidence: shape = (580,)
+beats_start: shape = (580,)
+danceability: 0.0
+duration: 263.6273
+end_of_fade_in: 2.188
+energy: 0.0
+key: 10
+key_confidence: 0.096
+loudness: -15.182
+mode: 1
+mode_confidence: 0.358
+release: Lernertres
+release_7digitalid: 346205
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (644,)
+segments_loudness_max: shape = (644,)
+segments_loudness_max_time: shape = (644,)
+segments_loudness_start: shape = (644,)
+segments_pitches: shape = (644, 12)
+segments_start: shape = (644,)
+segments_timbre: shape = (644, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUZQFG12AB017F6B1
+start_of_fade_out: 254.729
+tatums_confidence: shape = (1159,)
+tatums_start: shape = (1159,)
+tempo: 137.486
+time_signature: 4
+time_signature_confidence: 0.676
+title: No Hace Falta Que Lo Digas
+track_7digitalid: 3879346
+track_id: TRAPVBP128F9308A86
+year: 1984

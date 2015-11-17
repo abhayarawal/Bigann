@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16280
+artist_familiarity: 0.423065328443
+artist_hotttnesss: 0.27343951066
+artist_id: ARXTUHV1187B99268F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f644d496-87f8-42d4-aeff-71c5708e8a01
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Remmy Ongala
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 51a636405f9b1a7cd04e68e24cc83626
+bars_confidence: shape = (402,)
+bars_start: shape = (402,)
+beats_confidence: shape = (1609,)
+beats_start: shape = (1609,)
+danceability: 0.0
+duration: 489.482
+end_of_fade_in: 0.177
+energy: 0.0
+key: 0
+key_confidence: 0.29
+loudness: -17.958
+mode: 1
+mode_confidence: 0.429
+release: Mambo
+release_7digitalid: 22942
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (2563,)
+segments_loudness_max: shape = (2563,)
+segments_loudness_max_time: shape = (2563,)
+segments_loudness_start: shape = (2563,)
+segments_pitches: shape = (2563, 12)
+segments_start: shape = (2563,)
+segments_timbre: shape = (2563, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODOGGH12A6D4F7916
+start_of_fade_out: 468.294
+tatums_confidence: shape = (3217,)
+tatums_start: shape = (3217,)
+tempo: 197.038
+time_signature: 4
+time_signature_confidence: 0.449
+title: I Want To Go Home
+track_7digitalid: 238944
+track_id: TRAENOR128F14585F8
+year: 0

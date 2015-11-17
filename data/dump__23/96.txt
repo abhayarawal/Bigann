@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 42826
+artist_familiarity: 0.553283911289
+artist_hotttnesss: 0.346135667325
+artist_id: AR7AA2D1187B98B415
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: 3c5eed42-c846-4c57-82d0-47b9ba9ccd14
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Shade Sheist / DJ Vice / DJ Echo / Damizza
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 52235e6c87bc0134a0255275b5801935
+bars_confidence: shape = (51,)
+bars_start: shape = (51,)
+beats_confidence: shape = (263,)
+beats_start: shape = (263,)
+danceability: 0.0
+duration: 88.39791
+end_of_fade_in: 0.143
+energy: 0.0
+key: 6
+key_confidence: 0.018
+loudness: -6.016
+mode: 0
+mode_confidence: 0.254
+release: Informal Introduction
+release_7digitalid: 56789
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (338,)
+segments_loudness_max: shape = (338,)
+segments_loudness_max_time: shape = (338,)
+segments_loudness_start: shape = (338,)
+segments_pitches: shape = (338, 12)
+segments_start: shape = (338,)
+segments_timbre: shape = (338, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOLIQZK12A6D4FB91D
+start_of_fade_out: 78.721
+tatums_confidence: shape = (525,)
+tatums_start: shape = (525,)
+tempo: 180.005
+time_signature: 5
+time_signature_confidence: 0.934
+title: Holla Boyz Outro
+track_7digitalid: 590107
+track_id: TRAIBHP128F149C2ED
+year: 0

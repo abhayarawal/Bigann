@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 418860
+artist_familiarity: 0.589512634141
+artist_hotttnesss: 0.384902249589
+artist_id: AR828WL1187FB47E81
+artist_latitude: nan
+artist_location: NY - New York City
+artist_longitude: nan
+artist_mbid: eeb78f0d-c8a2-449f-83f7-84c811976e47
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: M
+artist_playmeid: 65361
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 5c58170ad10f747ba319be731ff65774
+bars_confidence: shape = (97,)
+bars_start: shape = (97,)
+beats_confidence: shape = (490,)
+beats_start: shape = (490,)
+danceability: 0.0
+duration: 238.41914
+end_of_fade_in: 0.183
+energy: 0.0
+key: 5
+key_confidence: 0.503
+loudness: -7.404
+mode: 1
+mode_confidence: 0.424
+release: Je Dis Aime
+release_7digitalid: 154986
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1163,)
+segments_loudness_max: shape = (1163,)
+segments_loudness_max_time: shape = (1163,)
+segments_loudness_start: shape = (1163,)
+segments_pitches: shape = (1163, 12)
+segments_start: shape = (1163,)
+segments_timbre: shape = (1163, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.619305881115
+song_id: SOUHKHB12A8C138A58
+start_of_fade_out: 229.198
+tatums_confidence: shape = (1471,)
+tatums_start: shape = (1471,)
+tempo: 123.81
+time_signature: 5
+time_signature_confidence: 0.62
+title: Close To Me
+track_7digitalid: 1621947
+track_id: TRADXCO128F426B26D
+year: 0

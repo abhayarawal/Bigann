@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 35339
+artist_familiarity: 0.657826293473
+artist_hotttnesss: 0.446170543172
+artist_id: ARC7C241187B990F7F
+artist_latitude: 33.74831
+artist_location: Atlanta, GA
+artist_longitude: -84.39111
+artist_mbid: 66d8362f-4e4f-42be-a2ae-8b81eaa62ab9
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Becoming The Archetype
+artist_playmeid: 61398
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: c4168196ad4ad16cb521a59ac674ef01
+bars_confidence: shape = (247,)
+bars_start: shape = (247,)
+beats_confidence: shape = (991,)
+beats_start: shape = (991,)
+danceability: 0.0
+duration: 308.74077
+end_of_fade_in: 0.16
+energy: 0.0
+key: 8
+key_confidence: 0.326
+loudness: -3.217
+mode: 1
+mode_confidence: 0.458
+release: Terminate Damnation
+release_7digitalid: 64495
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1036,)
+segments_loudness_max: shape = (1036,)
+segments_loudness_max_time: shape = (1036,)
+segments_loudness_start: shape = (1036,)
+segments_pitches: shape = (1036, 12)
+segments_start: shape = (1036,)
+segments_timbre: shape = (1036, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.65243665506
+song_id: SOEGWFT12A6D4F89FD
+start_of_fade_out: 308.741
+tatums_confidence: shape = (1982,)
+tatums_start: shape = (1982,)
+tempo: 198.464
+time_signature: 4
+time_signature_confidence: 0.074
+title: Ex Nihilo
+track_7digitalid: 670187
+track_id: TRAWOUA128F14AE2E7
+year: 2005

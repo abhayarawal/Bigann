@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6051
+artist_familiarity: 0.915823253033
+artist_hotttnesss: 0.665576619159
+artist_id: ARBEOHF1187B9B044D
+artist_latitude: nan
+artist_location: Bay City, MI
+artist_longitude: nan
+artist_mbid: 79239441-bfd5-4981-a70c-55c3f15c1287
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Madonna
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 75cd30c60923ed286a042313fed4647f
+bars_confidence: shape = (171,)
+bars_start: shape = (171,)
+beats_confidence: shape = (689,)
+beats_start: shape = (689,)
+danceability: 0.0
+duration: 320.1824
+end_of_fade_in: 2.781
+energy: 0.0
+key: 7
+key_confidence: 0.604
+loudness: -7.288
+mode: 1
+mode_confidence: 0.568
+release: Jump
+release_7digitalid: 79577
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1316,)
+segments_loudness_max: shape = (1316,)
+segments_loudness_max_time: shape = (1316,)
+segments_loudness_start: shape = (1316,)
+segments_pitches: shape = (1316, 12)
+segments_start: shape = (1316,)
+segments_timbre: shape = (1316, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.460541281359
+song_id: SOVDYER12A6D4F7E1B
+start_of_fade_out: 313.017
+tatums_confidence: shape = (1377,)
+tatums_start: shape = (1377,)
+tempo: 130.003
+time_signature: 4
+time_signature_confidence: 0.0
+title: Jump [Jacques Lu Cont Edit]
+track_7digitalid: 840151
+track_id: TRALONM128EF35A199
+year: 2006

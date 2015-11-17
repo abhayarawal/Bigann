@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7591
+artist_familiarity: 0.606975737219
+artist_hotttnesss: 0.386289651246
+artist_id: ARIRD6J1187FB5A98C
+artist_latitude: 18.01571
+artist_location: Kingston, Jamaica
+artist_longitude: -76.79731
+artist_mbid: 01d336ae-7f79-496d-94f9-211b57517b17
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sugar Minott
+artist_playmeid: 85496
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: e503ccedf138e23a15d3c18e71753cb7
+bars_confidence: shape = (506,)
+bars_start: shape = (506,)
+beats_confidence: shape = (506,)
+beats_start: shape = (506,)
+danceability: 0.0
+duration: 207.90812
+end_of_fade_in: 0.276
+energy: 0.0
+key: 0
+key_confidence: 0.526
+loudness: -12.692
+mode: 1
+mode_confidence: 0.478
+release: Good Thing Going
+release_7digitalid: 14869
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (744,)
+segments_loudness_max: shape = (744,)
+segments_loudness_max_time: shape = (744,)
+segments_loudness_start: shape = (744,)
+segments_pitches: shape = (744, 12)
+segments_start: shape = (744,)
+segments_timbre: shape = (744, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBTIQL12A6701FD2D
+start_of_fade_out: 201.143
+tatums_confidence: shape = (1011,)
+tatums_start: shape = (1011,)
+tempo: 148.382
+time_signature: 1
+time_signature_confidence: 0.0
+title: Make It With You
+track_7digitalid: 155380
+track_id: TRAMDCX128E07908F1
+year: 2007

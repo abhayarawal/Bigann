@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10588
+artist_familiarity: 0.474329019699
+artist_hotttnesss: 0.347134882688
+artist_id: AR4R84C1187FB3EC16
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 94e4af5f-73a3-43da-96bc-49b759bfabdc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Shelly Manne
+artist_playmeid: 23510
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 3c92b0bc2e4a4f2f44a5dfe8b250d2fa
+bars_confidence: shape = (165,)
+bars_start: shape = (165,)
+beats_confidence: shape = (498,)
+beats_start: shape = (498,)
+danceability: 0.0
+duration: 255.39873
+end_of_fade_in: 1.576
+energy: 0.0
+key: 7
+key_confidence: 0.748
+loudness: -18.623
+mode: 1
+mode_confidence: 0.62
+release: 1954-56 Combinations
+release_7digitalid: 146240
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1067,)
+segments_loudness_max: shape = (1067,)
+segments_loudness_max_time: shape = (1067,)
+segments_loudness_start: shape = (1067,)
+segments_pitches: shape = (1067, 12)
+segments_start: shape = (1067,)
+segments_timbre: shape = (1067, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFLBQJ12A8C1334BF
+start_of_fade_out: 247.293
+tatums_confidence: shape = (997,)
+tatums_start: shape = (997,)
+tempo: 121.871
+time_signature: 3
+time_signature_confidence: 0.677
+title: Get Me To The Church On Time
+track_7digitalid: 1525358
+track_id: TRALCPV128F4254A68
+year: 1996

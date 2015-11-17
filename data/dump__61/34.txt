@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 98196
+artist_familiarity: 0.670642843514
+artist_hotttnesss: 0.426777820116
+artist_id: ARXHFWE1187FB410A9
+artist_latitude: 34.20034
+artist_location: Oxnard, CA
+artist_longitude: -119.18044
+artist_mbid: f7cee9ef-7616-4071-85ea-9753799d32a5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Oh No
+artist_playmeid: -1
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 52a9ca8ddb4f2f165945c22c8e1fc87f
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (243,)
+beats_start: shape = (243,)
+danceability: 0.0
+duration: 110.57587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.582
+loudness: -7.1
+mode: 1
+mode_confidence: 0.471
+release: Dr. Nos Ethiopium
+release_7digitalid: 674068
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (422,)
+segments_loudness_max: shape = (422,)
+segments_loudness_max_time: shape = (422,)
+segments_loudness_start: shape = (422,)
+segments_pitches: shape = (422, 12)
+segments_start: shape = (422,)
+segments_timbre: shape = (422, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.505487343149
+song_id: SOEAASN12A58A7932D
+start_of_fade_out: 105.471
+tatums_confidence: shape = (485,)
+tatums_start: shape = (485,)
+tempo: 128.116
+time_signature: 3
+time_signature_confidence: 1.0
+title: Soul of Ethiopia
+track_7digitalid: 7474691
+track_id: TRAUYXI12903CC7355
+year: 2009

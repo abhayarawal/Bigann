@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 257856
+artist_familiarity: 0.384143259769
+artist_hotttnesss: 0.309061217369
+artist_id: AR54KC51187B9A2B97
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2b313401-01c4-4ca9-a8d0-334ce19f4468
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Harry Diboula
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: f2615c5ed83e8070d6a4a786dea22b60
+bars_confidence: shape = (227,)
+bars_start: shape = (227,)
+beats_confidence: shape = (684,)
+beats_start: shape = (684,)
+danceability: 0.0
+duration: 249.88689
+end_of_fade_in: 0.322
+energy: 0.0
+key: 9
+key_confidence: 0.005
+loudness: -9.522
+mode: 0
+mode_confidence: 0.199
+release: Dis-moi Pourquoi
+release_7digitalid: 414142
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (988,)
+segments_loudness_max: shape = (988,)
+segments_loudness_max_time: shape = (988,)
+segments_loudness_start: shape = (988,)
+segments_pitches: shape = (988, 12)
+segments_start: shape = (988,)
+segments_timbre: shape = (988, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTKEPE12AB0188847
+start_of_fade_out: 240.82
+tatums_confidence: shape = (1368,)
+tatums_start: shape = (1368,)
+tempo: 167.952
+time_signature: 3
+time_signature_confidence: 0.0
+title: Rendez-Vous
+track_7digitalid: 4611660
+track_id: TRANQCI128F9327BD7
+year: 0

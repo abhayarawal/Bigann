@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 42450
+artist_familiarity: 0.374763103346
+artist_hotttnesss: 0.256977993692
+artist_id: ARECPYG11C8A42B5BF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2fc659fa-293f-4288-bff5-29447f31f628
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: 1. Futurologischer Congress
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 26e5988325405ea4fd0bd1ad8a06c98b
+bars_confidence: shape = (121,)
+bars_start: shape = (121,)
+beats_confidence: shape = (489,)
+beats_start: shape = (489,)
+danceability: 0.0
+duration: 204.93016
+end_of_fade_in: 0.072
+energy: 0.0
+key: 0
+key_confidence: 0.725
+loudness: -10.644
+mode: 1
+mode_confidence: 0.673
+release: Schützt die Verliebten
+release_7digitalid: 65217
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (931,)
+segments_loudness_max: shape = (931,)
+segments_loudness_max_time: shape = (931,)
+segments_loudness_start: shape = (931,)
+segments_pitches: shape = (931, 12)
+segments_start: shape = (931,)
+segments_timbre: shape = (931, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCVNKY12A6D4FBC5E
+start_of_fade_out: 197.114
+tatums_confidence: shape = (978,)
+tatums_start: shape = (978,)
+tempo: 146.036
+time_signature: 4
+time_signature_confidence: 0.509
+title: Machinenfunk
+track_7digitalid: 678991
+track_id: TRBCMFZ128F14AFD69
+year: 1982

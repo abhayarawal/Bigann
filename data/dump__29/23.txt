@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1561
+artist_familiarity: 0.570016702885
+artist_hotttnesss: 0.393762698987
+artist_id: ARYBUAO1187FB3F4EB
+artist_latitude: 41.88415
+artist_location: Chicago, IL
+artist_longitude: -87.63241
+artist_mbid: 89ac1a98-98f0-473c-96ef-e6f7cb0944ae
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Gene Chandler
+artist_playmeid: 19681
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: c7ab9eb71813b831eb83532118b40d26
+bars_confidence: shape = (153,)
+bars_start: shape = (153,)
+beats_confidence: shape = (464,)
+beats_start: shape = (464,)
+danceability: 0.0
+duration: 163.29098
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.483
+loudness: -14.89
+mode: 1
+mode_confidence: 0.448
+release: Duke Of Earl - The Very Best Of The Vee-Jay Years
+release_7digitalid: 453576
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (576,)
+segments_loudness_max: shape = (576,)
+segments_loudness_max_time: shape = (576,)
+segments_loudness_start: shape = (576,)
+segments_pitches: shape = (576, 12)
+segments_start: shape = (576,)
+segments_timbre: shape = (576, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQDBNE12AB01852A7
+start_of_fade_out: 157.536
+tatums_confidence: shape = (929,)
+tatums_start: shape = (929,)
+tempo: 175.028
+time_signature: 3
+time_signature_confidence: 0.943
+title: Rainbow '65 (part 2) - Live
+track_7digitalid: 5033628
+track_id: TRAJVOJ128F93135D3
+year: 0

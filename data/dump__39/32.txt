@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 98608
+artist_familiarity: 0.373329913145
+artist_hotttnesss: 0.0
+artist_id: ARTR6RX1187FB381C8
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 60786f40-1c96-4584-91d8-7984e72fe1b3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Frederic Galliano
+artist_playmeid: -1
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: f6ba802a54b3c0e654ad9ae2da8f4d15
+bars_confidence: shape = (463,)
+bars_start: shape = (463,)
+beats_confidence: shape = (1875,)
+beats_start: shape = (1875,)
+danceability: 0.0
+duration: 1394.75546
+end_of_fade_in: 11.267
+energy: 0.0
+key: 10
+key_confidence: 0.313
+loudness: -20.282
+mode: 0
+mode_confidence: 0.407
+release: Espaces Baroques
+release_7digitalid: 123603
+sections_confidence: shape = (41,)
+sections_start: shape = (41,)
+segments_confidence: shape = (5165,)
+segments_loudness_max: shape = (5165,)
+segments_loudness_max_time: shape = (5165,)
+segments_loudness_start: shape = (5165,)
+segments_pitches: shape = (5165, 12)
+segments_start: shape = (5165,)
+segments_timbre: shape = (5165, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODWIDI12A6D4FA683
+start_of_fade_out: 1375.184
+tatums_confidence: shape = (7502,)
+tatums_start: shape = (7502,)
+tempo: 81.983
+time_signature: 4
+time_signature_confidence: 0.772
+title: Nomades Monades
+track_7digitalid: 1276476
+track_id: TRANLLL128F42268D9
+year: 1997

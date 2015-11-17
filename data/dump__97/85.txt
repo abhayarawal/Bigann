@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 338467
+artist_familiarity: 0.51829164607
+artist_hotttnesss: 0.37567692935
+artist_id: AR0S0EO1187FB490BE
+artist_latitude: 38.62774
+artist_location: St. Louis, MO
+artist_longitude: -90.19951
+artist_mbid: df4b8783-5fed-499d-804b-aced4cfd4dfc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Disco D
+artist_playmeid: -1
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 598fa2113f4606013873e937f14756ac
+bars_confidence: shape = (128,)
+bars_start: shape = (128,)
+beats_confidence: shape = (515,)
+beats_start: shape = (515,)
+danceability: 0.0
+duration: 235.07546
+end_of_fade_in: 1.112
+energy: 0.0
+key: 7
+key_confidence: 0.084
+loudness: -8.253
+mode: 1
+mode_confidence: 0.487
+release: Ghettotech For Slow People
+release_7digitalid: 456939
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (892,)
+segments_loudness_max: shape = (892,)
+segments_loudness_max_time: shape = (892,)
+segments_loudness_start: shape = (892,)
+segments_pitches: shape = (892, 12)
+segments_start: shape = (892,)
+segments_timbre: shape = (892, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONKMKL12AB018643C
+start_of_fade_out: 227.718
+tatums_confidence: shape = (1029,)
+tatums_start: shape = (1029,)
+tempo: 135.426
+time_signature: 4
+time_signature_confidence: 0.701
+title: 6 A.M. Funk
+track_7digitalid: 5084517
+track_id: TRBHQJJ128F931FAC1
+year: 0

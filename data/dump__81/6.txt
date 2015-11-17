@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 183689
+artist_familiarity: 0.0749594927429
+artist_hotttnesss: 0.0
+artist_id: ARXGVSB11F4C842CF3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Opals
+artist_playmeid: -1
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: 94d9ce5ec79b79845b22cb628a4b7b88
+bars_confidence: shape = (115,)
+bars_start: shape = (115,)
+beats_confidence: shape = (347,)
+beats_start: shape = (347,)
+danceability: 0.0
+duration: 136.77669
+end_of_fade_in: 0.473
+energy: 0.0
+key: 5
+key_confidence: 0.754
+loudness: -9.271
+mode: 1
+mode_confidence: 0.532
+release: Doo-Wop Classics Vol. 9 [Beltone Records]
+release_7digitalid: 236680
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (303,)
+segments_loudness_max: shape = (303,)
+segments_loudness_max_time: shape = (303,)
+segments_loudness_start: shape = (303,)
+segments_pitches: shape = (303, 12)
+segments_start: shape = (303,)
+segments_timbre: shape = (303, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAQRFQ12A8AE46466
+start_of_fade_out: 124.099
+tatums_confidence: shape = (347,)
+tatums_start: shape = (347,)
+tempo: 155.611
+time_signature: 3
+time_signature_confidence: 1.0
+title: Love
+track_7digitalid: 2599193
+track_id: TRBBTOM128F42309C2
+year: 0

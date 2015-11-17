@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10549
+artist_familiarity: 0.704411406668
+artist_hotttnesss: 0.469425907976
+artist_id: ARD0FN11187B9B25CD
+artist_latitude: 40.85715
+artist_location: New York, NY [The Bronx]
+artist_longitude: -73.85678
+artist_mbid: 1f223eed-aa38-49da-9e76-62ab3adc2e04
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Bobby Darin
+artist_playmeid: 7529
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 242ab0b0cf939247b494bb41c757357c
+bars_confidence: shape = (68,)
+bars_start: shape = (68,)
+beats_confidence: shape = (217,)
+beats_start: shape = (217,)
+danceability: 0.0
+duration: 203.57179
+end_of_fade_in: 0.421
+energy: 0.0
+key: 1
+key_confidence: 0.621
+loudness: -23.112
+mode: 1
+mode_confidence: 0.576
+release: Bobby Darin Sings Ray Charles
+release_7digitalid: 131071
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (423,)
+segments_loudness_max: shape = (423,)
+segments_loudness_max_time: shape = (423,)
+segments_loudness_start: shape = (423,)
+segments_pitches: shape = (423, 12)
+segments_start: shape = (423,)
+segments_timbre: shape = (423, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SONPVFL12A81C22ADA
+start_of_fade_out: 190.758
+tatums_confidence: shape = (434,)
+tatums_start: shape = (434,)
+tempo: 66.232
+time_signature: 3
+time_signature_confidence: 0.864
+title: Drown In My Own Tears (LP Version)
+track_7digitalid: 1356814
+track_id: TRAPYGN128F42345D8
+year: 0

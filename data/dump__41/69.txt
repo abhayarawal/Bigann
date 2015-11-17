@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 62745
+artist_familiarity: 0.561821510779
+artist_hotttnesss: 0.349776345456
+artist_id: ARA3O2C1187B989063
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 60f4a8da-9595-4ef2-8c1d-5c7a271963cd
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Hinge
+artist_playmeid: 74859
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: db05f4064fa9967f16ed6de025a5b96d
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (351,)
+beats_start: shape = (351,)
+danceability: 0.0
+duration: 247.48363
+end_of_fade_in: 0.256
+energy: 0.0
+key: 7
+key_confidence: 0.163
+loudness: -5.154
+mode: 1
+mode_confidence: 0.303
+release: Elemental Evil
+release_7digitalid: 102054
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (807,)
+segments_loudness_max: shape = (807,)
+segments_loudness_max_time: shape = (807,)
+segments_loudness_start: shape = (807,)
+segments_pitches: shape = (807, 12)
+segments_start: shape = (807,)
+segments_timbre: shape = (807, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOSWAAA12A58A7CE6B
+start_of_fade_out: 243.293
+tatums_confidence: shape = (1405,)
+tatums_start: shape = (1405,)
+tempo: 86.061
+time_signature: 4
+time_signature_confidence: 0.915
+title: Pork Chop Sandwich
+track_7digitalid: 1048782
+track_id: TRAOCXV128F42823FA
+year: 0

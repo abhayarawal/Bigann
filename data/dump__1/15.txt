@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 144425
+artist_familiarity: 0.432386477298
+artist_hotttnesss: 0.284047409901
+artist_id: AR4ABL21187FB3913A
+artist_latitude: 40.99471
+artist_location: Pennsylvania
+artist_longitude: -77.60454
+artist_mbid: c51fafd3-08cb-4085-ad2c-d1fb53d0d6df
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Richard Burton
+artist_playmeid: 13700
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 2c8fb55ebc2f101a3137c84f07045ecf
+bars_confidence: shape = (99,)
+bars_start: shape = (99,)
+beats_confidence: shape = (313,)
+beats_start: shape = (313,)
+danceability: 0.0
+duration: 171.49342
+end_of_fade_in: 0.085
+energy: 0.0
+key: 2
+key_confidence: 0.45
+loudness: -37.398
+mode: 1
+mode_confidence: 0.685
+release: Fifteen Poems By Dylan Thomas
+release_7digitalid: 577023
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (604,)
+segments_loudness_max: shape = (604,)
+segments_loudness_max_time: shape = (604,)
+segments_loudness_start: shape = (604,)
+segments_pitches: shape = (604, 12)
+segments_start: shape = (604,)
+segments_timbre: shape = (604, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOJDYQY12AB0188C97
+start_of_fade_out: 165.216
+tatums_confidence: shape = (627,)
+tatums_start: shape = (627,)
+tempo: 109.823
+time_signature: 3
+time_signature_confidence: 0.659
+title: I See The Boys Of Summer
+track_7digitalid: 6406022
+track_id: TRAAIFG12903CB0BCB
+year: 0

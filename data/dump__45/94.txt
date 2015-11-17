@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 139885
+artist_familiarity: 0.376419610856
+artist_hotttnesss: 0.208578173781
+artist_id: ARJO8W91187B9AB734
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 217e2df6-61be-4ff5-b62c-4c8642d396c5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mystic Revelation of Rastafari
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: f90262ee543bf093033646e1a3d454a6
+bars_confidence: shape = (160,)
+bars_start: shape = (160,)
+beats_confidence: shape = (160,)
+beats_start: shape = (160,)
+danceability: 0.0
+duration: 118.282
+end_of_fade_in: 0.125
+energy: 0.0
+key: 9
+key_confidence: 0.322
+loudness: -27.815
+mode: 0
+mode_confidence: 0.423
+release: Grounation
+release_7digitalid: 811461
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (344,)
+segments_loudness_max: shape = (344,)
+segments_loudness_max_time: shape = (344,)
+segments_loudness_start: shape = (344,)
+segments_pitches: shape = (344, 12)
+segments_start: shape = (344,)
+segments_timbre: shape = (344, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCTDQP12AB018C367
+start_of_fade_out: 106.51
+tatums_confidence: shape = (320,)
+tatums_start: shape = (320,)
+tempo: 84.895
+time_signature: 1
+time_signature_confidence: 0.522
+title: Song
+track_7digitalid: 8969529
+track_id: TRAPQYJ12903CD1E1A
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 153342
+artist_familiarity: 0.508440336158
+artist_hotttnesss: 0.40514344687
+artist_id: ARWRS4D1187FB3FCD4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 09c8218d-454a-489f-b500-80b305f79917
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Elakelaiset
+artist_playmeid: 70156
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 41f3c8da4507657b5aec416f1d2d3dd3
+bars_confidence: shape = (130,)
+bars_start: shape = (130,)
+beats_confidence: shape = (130,)
+beats_start: shape = (130,)
+danceability: 0.0
+duration: 67.3171
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.768
+loudness: -2.421
+mode: 0
+mode_confidence: 0.594
+release: Humppakonsertto
+release_7digitalid: 179978
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (228,)
+segments_loudness_max: shape = (228,)
+segments_loudness_max_time: shape = (228,)
+segments_loudness_start: shape = (228,)
+segments_pitches: shape = (228, 12)
+segments_start: shape = (228,)
+segments_timbre: shape = (228, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVBLUQ12A81C20920
+start_of_fade_out: 67.317
+tatums_confidence: shape = (261,)
+tatums_start: shape = (261,)
+tempo: 116.338
+time_signature: 1
+time_signature_confidence: 0.0
+title: Laakista humppa
+track_7digitalid: 1945322
+track_id: TRBGGRK128F422CA7F
+year: 1995

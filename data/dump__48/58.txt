@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 94613
+artist_familiarity: 0.802925395452
+artist_hotttnesss: 0.528614974324
+artist_id: ART62WC1187FB47E80
+artist_latitude: nan
+artist_location: New Mexico
+artist_longitude: nan
+artist_mbid: 81148ae0-47e9-4830-ac97-8e69b6c71706
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Game feat. Jim Jones Camron & Bezell
+artist_playmeid: 6349
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: b9bf2a230986401fa00a3537d800d0d9
+bars_confidence: shape = (33,)
+bars_start: shape = (33,)
+beats_confidence: shape = (243,)
+beats_start: shape = (243,)
+danceability: 0.0
+duration: 210.23302
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.723
+loudness: -6.647
+mode: 1
+mode_confidence: 0.272
+release: Westside Story Remix feat. Snoop Dogg & 50 Cent
+release_7digitalid: 76216
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (961,)
+segments_loudness_max: shape = (961,)
+segments_loudness_max_time: shape = (961,)
+segments_loudness_start: shape = (961,)
+segments_pitches: shape = (961, 12)
+segments_start: shape = (961,)
+segments_timbre: shape = (961, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.407233014901
+song_id: SOAEQKJ12A58A761EA
+start_of_fade_out: 210.233
+tatums_confidence: shape = (1213,)
+tatums_start: shape = (1213,)
+tempo: 69.555
+time_signature: 7
+time_signature_confidence: 0.324
+title: Certified Gangstas (featuring Jim Jones Camron & Bezell)
+track_7digitalid: 793980
+track_id: TRAQMZB128EF351A09
+year: 0

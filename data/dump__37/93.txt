@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 82979
+artist_familiarity: 0.557875168422
+artist_hotttnesss: 0.359324726504
+artist_id: AREENKN1187B98F35D
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 3fec8b00-4142-4129-96f5-1c9bf65e8e8f
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Plasmatics
+artist_playmeid: 102992
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: c15396e01b36d19997e376a5df7f2d98
+bars_confidence: shape = (106,)
+bars_start: shape = (106,)
+beats_confidence: shape = (425,)
+beats_start: shape = (425,)
+danceability: 0.0
+duration: 230.66077
+end_of_fade_in: 0.363
+energy: 0.0
+key: 2
+key_confidence: 0.413
+loudness: -11.425
+mode: 1
+mode_confidence: 0.509
+release: New Hope For The Wretched
+release_7digitalid: 106026
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (729,)
+segments_loudness_max: shape = (729,)
+segments_loudness_max_time: shape = (729,)
+segments_loudness_start: shape = (729,)
+segments_pitches: shape = (729, 12)
+segments_start: shape = (729,)
+segments_timbre: shape = (729, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.494489517502
+song_id: SOGUVEM12A58A7E90C
+start_of_fade_out: 223.37
+tatums_confidence: shape = (851,)
+tatums_start: shape = (851,)
+tempo: 113.11
+time_signature: 4
+time_signature_confidence: 0.539
+title: Sometimes I
+track_7digitalid: 1098556
+track_id: TRAMXJC128F428E68F
+year: 1979

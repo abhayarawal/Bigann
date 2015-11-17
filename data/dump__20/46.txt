@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4837
+artist_familiarity: 0.749796959401
+artist_hotttnesss: 0.551552455156
+artist_id: AR9YWMS1187FB43A34
+artist_latitude: nan
+artist_location: Amherst, MA
+artist_longitude: nan
+artist_mbid: 77c167d2-4965-4421-830a-9815e4956475
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Dinosaur Jr.
+artist_playmeid: 31682
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: bb0c97f91ff0ee2c259fc28325ae2d02
+bars_confidence: shape = (229,)
+bars_start: shape = (229,)
+beats_confidence: shape = (920,)
+beats_start: shape = (920,)
+danceability: 0.0
+duration: 220.70812
+end_of_fade_in: 0.136
+energy: 0.0
+key: 2
+key_confidence: 0.191
+loudness: -3.868
+mode: 1
+mode_confidence: 0.309
+release: Been There All The Time
+release_7digitalid: 70297
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (530,)
+segments_loudness_max: shape = (530,)
+segments_loudness_max_time: shape = (530,)
+segments_loudness_start: shape = (530,)
+segments_pitches: shape = (530, 12)
+segments_start: shape = (530,)
+segments_timbre: shape = (530, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.629212710065
+song_id: SOZRIFJ12A67ADA4BE
+start_of_fade_out: 212.579
+tatums_confidence: shape = (920,)
+tatums_start: shape = (920,)
+tempo: 253.357
+time_signature: 4
+time_signature_confidence: 0.506
+title: Been There All The Time
+track_7digitalid: 736240
+track_id: TRAGYJM128EF3466D2
+year: 2007

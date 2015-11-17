@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 222660
+artist_familiarity: 0.636436672421
+artist_hotttnesss: 0.429097811994
+artist_id: ARB5TJM1187B9A71FD
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 14962b84-c46a-490b-b6a0-ee69c78b2291
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Finntroll
+artist_playmeid: 210655
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: b8b634cc60a54d47ce881132e80fea97
+bars_confidence: shape = (205,)
+bars_start: shape = (205,)
+beats_confidence: shape = (825,)
+beats_start: shape = (825,)
+danceability: 0.0
+duration: 278.93506
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.431
+loudness: -5.73
+mode: 1
+mode_confidence: 0.235
+release: Ur Jordens Djup
+release_7digitalid: 335541
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (839,)
+segments_loudness_max: shape = (839,)
+segments_loudness_max_time: shape = (839,)
+segments_loudness_start: shape = (839,)
+segments_pitches: shape = (839, 12)
+segments_start: shape = (839,)
+segments_timbre: shape = (839, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.619267701983
+song_id: SOVXVKR12AB017F9C6
+start_of_fade_out: 273.862
+tatums_confidence: shape = (1651,)
+tatums_start: shape = (1651,)
+tempo: 180.06
+time_signature: 4
+time_signature_confidence: 0.238
+title: Ormhäxan
+track_7digitalid: 3752776
+track_id: TRAULEG128F92F035B
+year: 2007

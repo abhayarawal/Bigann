@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 66280
+artist_familiarity: 0.842431482081
+artist_hotttnesss: 0.526458223464
+artist_id: ARJV0U41187B9AB715
+artist_latitude: nan
+artist_location: Baltimore, MD
+artist_longitude: nan
+artist_mbid: 62162215-b023-4f0e-84bd-1e9412d5b32c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: All Time Low
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: e8cc4114445e961f21451b14ccba868d
+bars_confidence: shape = (81,)
+bars_start: shape = (81,)
+beats_confidence: shape = (328,)
+beats_start: shape = (328,)
+danceability: 0.0
+duration: 227.70893
+end_of_fade_in: 2.519
+energy: 0.0
+key: 1
+key_confidence: 0.366
+loudness: -8.901
+mode: 1
+mode_confidence: 0.595
+release: Umbrella
+release_7digitalid: 628505
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (634,)
+segments_loudness_max: shape = (634,)
+segments_loudness_max_time: shape = (634,)
+segments_loudness_start: shape = (634,)
+segments_pitches: shape = (634, 12)
+segments_start: shape = (634,)
+segments_timbre: shape = (634, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.927112121976
+song_id: SOPOPLW12A8C13A905
+start_of_fade_out: 223.266
+tatums_confidence: shape = (656,)
+tatums_start: shape = (656,)
+tempo: 87.953
+time_signature: 4
+time_signature_confidence: 0.806
+title: Umbrella
+track_7digitalid: 6976189
+track_id: TRAFKRE128F932002B
+year: 2008

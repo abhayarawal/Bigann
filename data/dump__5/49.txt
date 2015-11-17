@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10549
+artist_familiarity: 0.704411406668
+artist_hotttnesss: 0.469425907976
+artist_id: ARD0FN11187B9B25CD
+artist_latitude: 40.85715
+artist_location: New York, NY [The Bronx]
+artist_longitude: -73.85678
+artist_mbid: 1f223eed-aa38-49da-9e76-62ab3adc2e04
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Bobby Darin
+artist_playmeid: 7529
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 603afdee34810c1cc85e8323584e6293
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (240,)
+beats_start: shape = (240,)
+danceability: 0.0
+duration: 163.52608
+end_of_fade_in: 0.637
+energy: 0.0
+key: 5
+key_confidence: 0.206
+loudness: -13.876
+mode: 1
+mode_confidence: 0.491
+release: The Capitol Years
+release_7digitalid: 24673
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (434,)
+segments_loudness_max: shape = (434,)
+segments_loudness_max_time: shape = (434,)
+segments_loudness_start: shape = (434,)
+segments_pitches: shape = (434, 12)
+segments_start: shape = (434,)
+segments_timbre: shape = (434, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOWOHNT12A6D4F60EA
+start_of_fade_out: 153.269
+tatums_confidence: shape = (480,)
+tatums_start: shape = (480,)
+tempo: 90.18
+time_signature: 3
+time_signature_confidence: 0.307
+title: (I Heard That) Lonesome Whistle
+track_7digitalid: 261180
+track_id: TRABURP128F145D5DC
+year: 1995

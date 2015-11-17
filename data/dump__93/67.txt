@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 407789
+artist_familiarity: 0.633401189672
+artist_hotttnesss: 0.458549175939
+artist_id: ARODHHS1187FB37814
+artist_latitude: nan
+artist_location: Normal, IL
+artist_longitude: nan
+artist_mbid: 384c5d6e-32ef-4e69-9370-8b3c83e4e10e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Last Vegas
+artist_playmeid: 124863
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 52ce2393d4965217e86e92dfc9137891
+bars_confidence: shape = (175,)
+bars_start: shape = (175,)
+beats_confidence: shape = (704,)
+beats_start: shape = (704,)
+danceability: 0.0
+duration: 237.11302
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.342
+loudness: -3.492
+mode: 1
+mode_confidence: 0.502
+release: Whatever Gets You Off
+release_7digitalid: 641616
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (637,)
+segments_loudness_max: shape = (637,)
+segments_loudness_max_time: shape = (637,)
+segments_loudness_start: shape = (637,)
+segments_pitches: shape = (637, 12)
+segments_start: shape = (637,)
+segments_timbre: shape = (637, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.557187767519
+song_id: SOXYAJK12AB0182B59
+start_of_fade_out: 233.355
+tatums_confidence: shape = (1409,)
+tatums_start: shape = (1409,)
+tempo: 179.001
+time_signature: 4
+time_signature_confidence: 0.349
+title: Another Lover
+track_7digitalid: 7116289
+track_id: TRBGISL128F9342049
+year: 2009

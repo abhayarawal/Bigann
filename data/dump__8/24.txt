@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12221
+artist_familiarity: 0.72486448152
+artist_hotttnesss: 0.524449470713
+artist_id: ARX2DLI1187FB4DD03
+artist_latitude: nan
+artist_location: Sydney, Australia
+artist_longitude: nan
+artist_mbid: f5b8ea5f-c269-45dd-9936-1fedf3c56851
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: The Presets
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: c899ab78853107c8d818ce9e75b1e43e
+bars_confidence: shape = (134,)
+bars_start: shape = (134,)
+beats_confidence: shape = (540,)
+beats_start: shape = (540,)
+danceability: 0.0
+duration: 271.85587
+end_of_fade_in: 0.078
+energy: 0.0
+key: 4
+key_confidence: 0.243
+loudness: -4.002
+mode: 1
+mode_confidence: 0.179
+release: Apocalypso
+release_7digitalid: 271517
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1354,)
+segments_loudness_max: shape = (1354,)
+segments_loudness_max_time: shape = (1354,)
+segments_loudness_start: shape = (1354,)
+segments_pitches: shape = (1354, 12)
+segments_start: shape = (1354,)
+segments_timbre: shape = (1354, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.663124801396
+song_id: SOAECHX12A6D4FC3D9
+start_of_fade_out: 267.685
+tatums_confidence: shape = (1081,)
+tatums_start: shape = (1081,)
+tempo: 120.119
+time_signature: 4
+time_signature_confidence: 1.0
+title: Yippiyo-Ay
+track_7digitalid: 3021745
+track_id: TRACSBL128F42480E8
+year: 2008

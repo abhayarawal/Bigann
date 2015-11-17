@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4411
+artist_familiarity: 0.641197514984
+artist_hotttnesss: 0.44865347113
+artist_id: AR4TLW81187B99683D
+artist_latitude: nan
+artist_location: Syracuse, NY
+artist_longitude: nan
+artist_mbid: 0685ac4a-5cfc-408a-b391-903ea20e00bf
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Martin Sexton
+artist_playmeid: 53504
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 8caa6a63b7a9118e8db615b4b7d12b99
+bars_confidence: shape = (345,)
+bars_start: shape = (345,)
+beats_confidence: shape = (345,)
+beats_start: shape = (345,)
+danceability: 0.0
+duration: 244.4273
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.76
+loudness: -10.218
+mode: 1
+mode_confidence: 0.851
+release: The American
+release_7digitalid: 266901
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (616,)
+segments_loudness_max: shape = (616,)
+segments_loudness_max_time: shape = (616,)
+segments_loudness_start: shape = (616,)
+segments_pitches: shape = (616, 12)
+segments_start: shape = (616,)
+segments_timbre: shape = (616, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.466304830757
+song_id: SOFGXQV12A8C13C842
+start_of_fade_out: 233.128
+tatums_confidence: shape = (691,)
+tatums_start: shape = (691,)
+tempo: 86.805
+time_signature: 1
+time_signature_confidence: 0.307
+title: My Maria (LP Version)
+track_7digitalid: 2930261
+track_id: TRBBGDK128F427D450
+year: 1998

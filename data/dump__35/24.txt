@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5633
+artist_familiarity: 0.764287182498
+artist_hotttnesss: 0.57629465114
+artist_id: ARKZXSQ1187B9AC9F3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9a58fda3-f4ed-4080-a3a5-f457aac9fcdd
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Joy Division
+artist_playmeid: 831
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 84d57198b2c7ce7e71b8eeb71680fdda
+bars_confidence: shape = (143,)
+bars_start: shape = (143,)
+beats_confidence: shape = (576,)
+beats_start: shape = (576,)
+danceability: 0.0
+duration: 218.56608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.656
+loudness: -12.941
+mode: 1
+mode_confidence: 0.597
+release: Still [Collector's Edition]
+release_7digitalid: 343322
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (825,)
+segments_loudness_max: shape = (825,)
+segments_loudness_max_time: shape = (825,)
+segments_loudness_start: shape = (825,)
+segments_pitches: shape = (825, 12)
+segments_start: shape = (825,)
+segments_timbre: shape = (825, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.447135796286
+song_id: SONRCXL12A8C13ABE3
+start_of_fade_out: 200.632
+tatums_confidence: shape = (1152,)
+tatums_start: shape = (1152,)
+tempo: 162.394
+time_signature: 4
+time_signature_confidence: 0.0
+title: Digital [Live at Birmingham University] [2007 Re-mastered]
+track_7digitalid: 3845230
+track_id: TRAMAKK128F9301EE4
+year: 0

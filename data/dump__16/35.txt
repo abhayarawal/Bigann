@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4364
+artist_familiarity: 0.601047540225
+artist_hotttnesss: 0.364556676267
+artist_id: ARSMRIN1187B9AB35A
+artist_latitude: nan
+artist_location: Middlesbrough, England
+artist_longitude: nan
+artist_mbid: 723f72bc-b000-42cb-a20d-9f43fee17456
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Paul Rodgers
+artist_playmeid: 5303
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 711394f4e137c9bff90b3a958e02657c
+bars_confidence: shape = (133,)
+bars_start: shape = (133,)
+beats_confidence: shape = (538,)
+beats_start: shape = (538,)
+danceability: 0.0
+duration: 269.81832
+end_of_fade_in: 0.17
+energy: 0.0
+key: 11
+key_confidence: 0.385
+loudness: -8.525
+mode: 0
+mode_confidence: 0.478
+release: Alright Now
+release_7digitalid: 203675
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (866,)
+segments_loudness_max: shape = (866,)
+segments_loudness_max_time: shape = (866,)
+segments_loudness_start: shape = (866,)
+segments_pitches: shape = (866, 12)
+segments_start: shape = (866,)
+segments_timbre: shape = (866, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.323161269623
+song_id: SOGFFYV12A8C138D74
+start_of_fade_out: 263.964
+tatums_confidence: shape = (1075,)
+tatums_start: shape = (1075,)
+tempo: 120.859
+time_signature: 4
+time_signature_confidence: 0.484
+title: Alright Now
+track_7digitalid: 2211552
+track_id: TRAFOHK128F425F232
+year: 0

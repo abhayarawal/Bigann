@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23350
+artist_familiarity: 0.648692286301
+artist_hotttnesss: 0.393369406146
+artist_id: ARLBNAC1187FB47151
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ee1a6d4a-b1ff-46a8-acf2-af575424bda5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Alex Gopher
+artist_playmeid: -1
+artist_terms: shape = (50,)
+artist_terms_freq: shape = (50,)
+artist_terms_weight: shape = (50,)
+audio_md5: 833bf44c49752d8cfa34feee37c517d1
+bars_confidence: shape = (499,)
+bars_start: shape = (499,)
+beats_confidence: shape = (1500,)
+beats_start: shape = (1500,)
+danceability: 0.0
+duration: 684.79955
+end_of_fade_in: 2.113
+energy: 0.0
+key: 7
+key_confidence: 0.365
+loudness: -12.114
+mode: 1
+mode_confidence: 0.441
+release: Wuz
+release_7digitalid: 422324
+sections_confidence: shape = (22,)
+sections_start: shape = (22,)
+segments_confidence: shape = (3841,)
+segments_loudness_max: shape = (3841,)
+segments_loudness_max_time: shape = (3841,)
+segments_loudness_start: shape = (3841,)
+segments_pitches: shape = (3841, 12)
+segments_start: shape = (3841,)
+segments_timbre: shape = (3841, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUAOPT12AB0182B82
+start_of_fade_out: 663.841
+tatums_confidence: shape = (3000,)
+tatums_start: shape = (3000,)
+tempo: 125.147
+time_signature: 3
+time_signature_confidence: 1.0
+title: Keep on dancin' (Last man standin')
+track_7digitalid: 4707851
+track_id: TRAMOGP128F933CE78
+year: 0

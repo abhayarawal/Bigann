@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8862
+artist_familiarity: 0.90898429564
+artist_hotttnesss: 0.562506672289
+artist_id: ARBNXYA1187FB51C50
+artist_latitude: 18.22328
+artist_location: Puerto Rico
+artist_longitude: -66.42889
+artist_mbid: 2f522f5c-111c-4ce8-8bd0-d82e97c227ad
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Daddy Yankee
+artist_playmeid: 2007
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 1f68cdd18d2153eaed733027c82efaf4
+bars_confidence: shape = (73,)
+bars_start: shape = (73,)
+beats_confidence: shape = (295,)
+beats_start: shape = (295,)
+danceability: 0.0
+duration: 181.34159
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.055
+loudness: -7.421
+mode: 1
+mode_confidence: 0.231
+release: Los Homerun-es
+release_7digitalid: 221256
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (960,)
+segments_loudness_max: shape = (960,)
+segments_loudness_max_time: shape = (960,)
+segments_loudness_start: shape = (960,)
+segments_pitches: shape = (960, 12)
+segments_start: shape = (960,)
+segments_timbre: shape = (960, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.301681756732
+song_id: SONRULN12A8C1404A0
+start_of_fade_out: 181.342
+tatums_confidence: shape = (1181,)
+tatums_start: shape = (1181,)
+tempo: 97.982
+time_signature: 4
+time_signature_confidence: 1.0
+title: Baila Girl_ Todo Hombre Llorando Por Ti
+track_7digitalid: 2418062
+track_id: TRATRJV128F428D077
+year: 2003

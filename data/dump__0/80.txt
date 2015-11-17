@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 201255
+artist_familiarity: 0.56246378358
+artist_hotttnesss: 0.322485105661
+artist_id: AR6Y22S1187B99906F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 331cddd9-fb6d-4fa8-957b-d130b282e4c4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Smartbomb
+artist_playmeid: 181528
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 35122600160118386f40e1c6008582b1
+bars_confidence: shape = (127,)
+bars_start: shape = (127,)
+beats_confidence: shape = (510,)
+beats_start: shape = (510,)
+danceability: 0.0
+duration: 233.27302
+end_of_fade_in: 0.386
+energy: 0.0
+key: 0
+key_confidence: 0.53
+loudness: -2.658
+mode: 1
+mode_confidence: 0.501
+release: Yeah.  Well_ Anyway....
+release_7digitalid: 633532
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (775,)
+segments_loudness_max: shape = (775,)
+segments_loudness_max_time: shape = (775,)
+segments_loudness_start: shape = (775,)
+segments_pitches: shape = (775, 12)
+segments_start: shape = (775,)
+segments_timbre: shape = (775, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SONSPZE12AB01819CE
+start_of_fade_out: 231.178
+tatums_confidence: shape = (1020,)
+tatums_start: shape = (1020,)
+tempo: 132.022
+time_signature: 4
+time_signature_confidence: 0.782
+title: Complicate It
+track_7digitalid: 7031468
+track_id: TRAAGKF128F932D5A2
+year: 2001

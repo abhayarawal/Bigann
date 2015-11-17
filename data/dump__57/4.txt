@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 169662
+artist_familiarity: 0.0824059229436
+artist_hotttnesss: 0.0
+artist_id: ARXYQYW122988F2066
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Clarisse Lavanant
+artist_playmeid: -1
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: 91972b34b0c917a258cc36d4cd552e6b
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (385,)
+beats_start: shape = (385,)
+danceability: 0.0
+duration: 182.59546
+end_of_fade_in: 0.364
+energy: 0.0
+key: 0
+key_confidence: 0.129
+loudness: -8.339
+mode: 1
+mode_confidence: 0.536
+release: Vers l'imaginaire
+release_7digitalid: 345513
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (675,)
+segments_loudness_max: shape = (675,)
+segments_loudness_max_time: shape = (675,)
+segments_loudness_start: shape = (675,)
+segments_pitches: shape = (675, 12)
+segments_start: shape = (675,)
+segments_timbre: shape = (675, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORHNZF12AB0182AD4
+start_of_fade_out: 175.171
+tatums_confidence: shape = (770,)
+tatums_start: shape = (770,)
+tempo: 130.164
+time_signature: 4
+time_signature_confidence: 1.0
+title: Electron libre
+track_7digitalid: 3872657
+track_id: TRATLDL128F930735D
+year: 0

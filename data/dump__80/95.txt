@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3363
+artist_familiarity: 0.540750151436
+artist_hotttnesss: 0.379651219002
+artist_id: AR7CCCC1187FB578FF
+artist_latitude: nan
+artist_location: Shelby, North Carolina
+artist_longitude: nan
+artist_mbid: 870ab832-904b-4b49-ab72-7e6b0e0da65f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Don Gibson
+artist_playmeid: 15188
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 80fb9d00903368a324211583271d283b
+bars_confidence: shape = (63,)
+bars_start: shape = (63,)
+beats_confidence: shape = (205,)
+beats_start: shape = (205,)
+danceability: 0.0
+duration: 151.09179
+end_of_fade_in: 0.177
+energy: 0.0
+key: 9
+key_confidence: 0.624
+loudness: -15.854
+mode: 1
+mode_confidence: 0.58
+release: I Can't Stop Loving You
+release_7digitalid: 348099
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (377,)
+segments_loudness_max: shape = (377,)
+segments_loudness_max_time: shape = (377,)
+segments_loudness_start: shape = (377,)
+segments_pitches: shape = (377, 12)
+segments_start: shape = (377,)
+segments_timbre: shape = (377, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPFIWM12AB0186A0D
+start_of_fade_out: 145.99
+tatums_confidence: shape = (410,)
+tatums_start: shape = (410,)
+tempo: 81.832
+time_signature: 3
+time_signature_confidence: 0.898
+title: (Prayer Is The Key To Heaven) Faith Unlocks The Door
+track_7digitalid: 3954298
+track_id: TRBBSFL128F931798C
+year: 1959

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 25491
+artist_familiarity: 0.451784405954
+artist_hotttnesss: 0.360916230015
+artist_id: AR3EABF1187B98AD35
+artist_latitude: 59.46148
+artist_location: Russia
+artist_longitude: 108.83178
+artist_mbid: 1404fcf2-5c92-434b-8d37-7f9b0c8f986f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sophie Tucker
+artist_playmeid: 20252
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 8c734f983d1ce2b2e46e21335e756cb6
+bars_confidence: shape = (32,)
+bars_start: shape = (32,)
+beats_confidence: shape = (106,)
+beats_start: shape = (106,)
+danceability: 0.0
+duration: 72.01914
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.702
+loudness: -14.57
+mode: 1
+mode_confidence: 0.516
+release: The Golden Jubilee Album
+release_7digitalid: 301426
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (193,)
+segments_loudness_max: shape = (193,)
+segments_loudness_max_time: shape = (193,)
+segments_loudness_start: shape = (193,)
+segments_pitches: shape = (193, 12)
+segments_start: shape = (193,)
+segments_timbre: shape = (193, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAGASM12A8C13DEBF
+start_of_fade_out: 72.019
+tatums_confidence: shape = (213,)
+tatums_start: shape = (213,)
+tempo: 89.898
+time_signature: 3
+time_signature_confidence: 0.779
+title: In The Good Old Summertime
+track_7digitalid: 3392130
+track_id: TRAYEQN128F429AF81
+year: 0

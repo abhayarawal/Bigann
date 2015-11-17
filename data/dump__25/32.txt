@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 154331
+artist_familiarity: 0.401479592832
+artist_hotttnesss: 0.268744755076
+artist_id: ARBKEA91187B98CE1F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 249e776b-d821-46d3-a5a3-5e68ef02da8d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Claw Hammer
+artist_playmeid: 36985
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: d03d12eec49ee3060a539135b32d701b
+bars_confidence: shape = (194,)
+bars_start: shape = (194,)
+beats_confidence: shape = (779,)
+beats_start: shape = (779,)
+danceability: 0.0
+duration: 231.28771
+end_of_fade_in: 0.261
+energy: 0.0
+key: 7
+key_confidence: 0.513
+loudness: -6.914
+mode: 1
+mode_confidence: 0.579
+release: Claw Hammer
+release_7digitalid: 691789
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (876,)
+segments_loudness_max: shape = (876,)
+segments_loudness_max_time: shape = (876,)
+segments_loudness_start: shape = (876,)
+segments_pitches: shape = (876, 12)
+segments_start: shape = (876,)
+segments_timbre: shape = (876, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKGDCA12AC9097667
+start_of_fade_out: 231.288
+tatums_confidence: shape = (1559,)
+tatums_start: shape = (1559,)
+tempo: 204.066
+time_signature: 4
+time_signature_confidence: 0.0
+title: Brother Brick Says
+track_7digitalid: 7677302
+track_id: TRAIMKP12903CF8A22
+year: 0

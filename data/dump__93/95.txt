@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 111291
+artist_familiarity: 0.609819761152
+artist_hotttnesss: 0.419967935771
+artist_id: AR8FMEN1187FB4A657
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 8b6a46d9-d1a4-43af-8322-6d04457e0bd5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lizzy Borden
+artist_playmeid: 58103
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 72d45169e7151462201669affa958665
+bars_confidence: shape = (345,)
+bars_start: shape = (345,)
+beats_confidence: shape = (345,)
+beats_start: shape = (345,)
+danceability: 0.0
+duration: 232.98567
+end_of_fade_in: 0.156
+energy: 0.0
+key: 7
+key_confidence: 0.43
+loudness: -4.118
+mode: 1
+mode_confidence: 0.557
+release: Love You To Pieces
+release_7digitalid: 559844
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (833,)
+segments_loudness_max: shape = (833,)
+segments_loudness_max_time: shape = (833,)
+segments_loudness_start: shape = (833,)
+segments_pitches: shape = (833, 12)
+segments_start: shape = (833,)
+segments_timbre: shape = (833, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.579728748614
+song_id: SOZOULB12AB0184EBB
+start_of_fade_out: 227.614
+tatums_confidence: shape = (690,)
+tatums_start: shape = (690,)
+tempo: 90.131
+time_signature: 1
+time_signature_confidence: 0.0
+title: Love You to Pieces
+track_7digitalid: 6197414
+track_id: TRBGKRS128F934AC0A
+year: 1985

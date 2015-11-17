@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 160048
+artist_familiarity: 0.631979085469
+artist_hotttnesss: 0.399579658168
+artist_id: AR3J4WZ1187B9B17ED
+artist_latitude: 48.85692
+artist_location: Paris, France
+artist_longitude: 2.34121
+artist_mbid: 385966f0-b912-4755-bad6-4780ebf3f4cd
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Gall_ France
+artist_playmeid: -1
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: e778b618bbf7b8bcd9252ae30728d138
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (351,)
+beats_start: shape = (351,)
+danceability: 0.0
+duration: 162.79465
+end_of_fade_in: 2.577
+energy: 0.0
+key: 4
+key_confidence: 0.566
+loudness: -9.18
+mode: 1
+mode_confidence: 0.176
+release: En Allemand - Das Beste Auf Deutsch
+release_7digitalid: 211868
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (611,)
+segments_loudness_max: shape = (611,)
+segments_loudness_max_time: shape = (611,)
+segments_loudness_start: shape = (611,)
+segments_pitches: shape = (611, 12)
+segments_start: shape = (611,)
+segments_timbre: shape = (611, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.392008771471
+song_id: SOGIMLG12A8C13A2C8
+start_of_fade_out: 152.253
+tatums_confidence: shape = (702,)
+tatums_start: shape = (702,)
+tempo: 131.612
+time_signature: 4
+time_signature_confidence: 0.0
+title: Mein Herz kann man nicht kaufen
+track_7digitalid: 2305171
+track_id: TRBHSDN128F4274E9F
+year: 2006

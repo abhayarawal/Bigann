@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 258659
+artist_familiarity: 0.432640532039
+artist_hotttnesss: 0.489812619563
+artist_id: ARD44H211C8A422686
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 22a8383a-3100-466f-894a-6f5b733ad8cc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: This Or The Apocalypse
+artist_playmeid: 144704
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: a757095fbea4de06bab1939362c4ae44
+bars_confidence: shape = (263,)
+bars_start: shape = (263,)
+beats_confidence: shape = (794,)
+beats_start: shape = (794,)
+danceability: 0.0
+duration: 293.66812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.725
+loudness: -4.256
+mode: 0
+mode_confidence: 0.621
+release: Monuments
+release_7digitalid: 331432
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (629,)
+segments_loudness_max: shape = (629,)
+segments_loudness_max_time: shape = (629,)
+segments_loudness_start: shape = (629,)
+segments_pitches: shape = (629, 12)
+segments_start: shape = (629,)
+segments_timbre: shape = (629, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.543788272501
+song_id: SOWODCW12A58A7AB81
+start_of_fade_out: 280.091
+tatums_confidence: shape = (794,)
+tatums_start: shape = (794,)
+tempo: 163.935
+time_signature: 3
+time_signature_confidence: 0.399
+title: Two Wars
+track_7digitalid: 3820565
+track_id: TRAOBNW128F92FCCC0
+year: 2008

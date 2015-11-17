@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 382
+artist_familiarity: 0.775086058383
+artist_hotttnesss: 0.605191152965
+artist_id: ARAXU5Z1187B98FECD
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e21857d5-3256-4547-afb3-4b6ded592596
+artist_mbtags: shape = (17,)
+artist_mbtags_count: shape = (17,)
+artist_name: Gorillaz
+artist_playmeid: 705
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 537c3cdd24489ce51b17986153b95807
+bars_confidence: shape = (129,)
+bars_start: shape = (129,)
+beats_confidence: shape = (522,)
+beats_start: shape = (522,)
+danceability: 0.0
+duration: 219.37587
+end_of_fade_in: 2.27
+energy: 0.0
+key: 7
+key_confidence: 0.512
+loudness: -7.36
+mode: 1
+mode_confidence: 0.581
+release: Dirty Harry
+release_7digitalid: 20699
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (776,)
+segments_loudness_max: shape = (776,)
+segments_loudness_max_time: shape = (776,)
+segments_loudness_start: shape = (776,)
+segments_pitches: shape = (776, 12)
+segments_start: shape = (776,)
+segments_timbre: shape = (776, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.516121856032
+song_id: SOWWSFI12A6D4F8B25
+start_of_fade_out: 209.874
+tatums_confidence: shape = (1044,)
+tatums_start: shape = (1044,)
+tempo: 148.0
+time_signature: 4
+time_signature_confidence: 0.463
+title: All Alone (Live)
+track_7digitalid: 215516
+track_id: TRBFVMO128F14537D3
+year: 2005

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 144509
+artist_familiarity: 0.578808327419
+artist_hotttnesss: 0.386266836843
+artist_id: ARQ0TN01187FB4A19E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f6058dd9-1ec9-48df-b0e1-d490b489bfcc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Future Leaders of the World
+artist_playmeid: 8825
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 38ab3982420c3c543944f78d081cd31a
+bars_confidence: shape = (122,)
+bars_start: shape = (122,)
+beats_confidence: shape = (492,)
+beats_start: shape = (492,)
+danceability: 0.0
+duration: 249.67791
+end_of_fade_in: 0.311
+energy: 0.0
+key: 8
+key_confidence: 0.625
+loudness: -4.177
+mode: 1
+mode_confidence: 0.472
+release: LVL IV
+release_7digitalid: 292290
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (609,)
+segments_loudness_max: shape = (609,)
+segments_loudness_max_time: shape = (609,)
+segments_loudness_start: shape = (609,)
+segments_pitches: shape = (609, 12)
+segments_start: shape = (609,)
+segments_timbre: shape = (609, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXTICT12A8C136043
+start_of_fade_out: 238.986
+tatums_confidence: shape = (984,)
+tatums_start: shape = (984,)
+tempo: 120.638
+time_signature: 4
+time_signature_confidence: 0.848
+title: Spotlight
+track_7digitalid: 3283142
+track_id: TRAVRTO128F4280C14
+year: 2004

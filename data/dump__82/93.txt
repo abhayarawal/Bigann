@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40054
+artist_familiarity: 0.621201748405
+artist_hotttnesss: 0.374365680245
+artist_id: ARJW7KB1187FB47C36
+artist_latitude: 43.21183
+artist_location: Carcassonne, France
+artist_longitude: 2.3584
+artist_mbid: 5083e4bf-3246-4ab9-a6d3-23be8db8db2c
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Olivia Ruiz
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 4dbe2cd4993720cd5122fa31c7421ae5
+bars_confidence: shape = (99,)
+bars_start: shape = (99,)
+beats_confidence: shape = (397,)
+beats_start: shape = (397,)
+danceability: 0.0
+duration: 230.24281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.701
+loudness: -5.106
+mode: 1
+mode_confidence: 0.591
+release: J'Aime Pas L'Amour
+release_7digitalid: 358221
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (811,)
+segments_loudness_max: shape = (811,)
+segments_loudness_max_time: shape = (811,)
+segments_loudness_start: shape = (811,)
+segments_pitches: shape = (811, 12)
+segments_start: shape = (811,)
+segments_timbre: shape = (811, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.471578247701
+song_id: SORIHQQ12AB0181B67
+start_of_fade_out: 226.975
+tatums_confidence: shape = (794,)
+tatums_start: shape = (794,)
+tempo: 104.0
+time_signature: 4
+time_signature_confidence: 0.953
+title: Enervé
+track_7digitalid: 3997027
+track_id: TRBCKRF128F9320920
+year: 2004

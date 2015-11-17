@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 295533
+artist_familiarity: 0.360241801208
+artist_hotttnesss: 0.279642625277
+artist_id: AR6W9T51187B9A8B8E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e39cebbc-be71-42ba-a60c-2d6ffc57a4f1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Maurice Larcange
+artist_playmeid: 65578
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 73d43ccc9c27c20ab2cc3e9e8b3ff9da
+bars_confidence: shape = (116,)
+bars_start: shape = (116,)
+beats_confidence: shape = (468,)
+beats_start: shape = (468,)
+danceability: 0.0
+duration: 215.37914
+end_of_fade_in: 0.334
+energy: 0.0
+key: 1
+key_confidence: 0.771
+loudness: -10.398
+mode: 1
+mode_confidence: 0.649
+release: Joue Legrand & Becaud
+release_7digitalid: 386702
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (750,)
+segments_loudness_max: shape = (750,)
+segments_loudness_max_time: shape = (750,)
+segments_loudness_start: shape = (750,)
+segments_pitches: shape = (750, 12)
+segments_start: shape = (750,)
+segments_timbre: shape = (750, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXXFEW12AB017F2A8
+start_of_fade_out: 211.453
+tatums_confidence: shape = (937,)
+tatums_start: shape = (937,)
+tempo: 133.553
+time_signature: 4
+time_signature_confidence: 0.22
+title: Un Peu D'Amour Et D'Amitié
+track_7digitalid: 4289270
+track_id: TRABEAZ128F92E7FA9
+year: 0

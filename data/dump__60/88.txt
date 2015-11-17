@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16480
+artist_familiarity: 0.437599071864
+artist_hotttnesss: 0.33641973758
+artist_id: ARK0TRD1187FB3BDE5
+artist_latitude: 51.45102
+artist_location: Eltham, England
+artist_longitude: 0.05102
+artist_mbid: 48901e22-cc02-4fa0-8c7f-1fe2930dd45e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bob Hope
+artist_playmeid: 86588
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 1a337d4ceef022489bfe7b4e47e89da1
+bars_confidence: shape = (325,)
+bars_start: shape = (325,)
+beats_confidence: shape = (325,)
+beats_start: shape = (325,)
+danceability: 0.0
+duration: 147.722
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.237
+loudness: -13.21
+mode: 1
+mode_confidence: 0.492
+release: Thanks For The Memory
+release_7digitalid: 378613
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (428,)
+segments_loudness_max: shape = (428,)
+segments_loudness_max_time: shape = (428,)
+segments_loudness_start: shape = (428,)
+segments_pitches: shape = (428, 12)
+segments_start: shape = (428,)
+segments_timbre: shape = (428, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGUTKT12A8C1442E4
+start_of_fade_out: 147.722
+tatums_confidence: shape = (650,)
+tatums_start: shape = (650,)
+tempo: 133.325
+time_signature: 1
+time_signature_confidence: 0.817
+title: Merry-Go-Runaround
+track_7digitalid: 4216205
+track_id: TRAUUQI128F92D8620
+year: 2003

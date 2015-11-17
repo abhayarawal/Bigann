@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22405
+artist_familiarity: 0.440904743307
+artist_hotttnesss: 0.361472786586
+artist_id: ARVX3V41187FB59E0F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2c08026e-c7dc-4bca-b9f3-74bb3621b586
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Spade Cooley
+artist_playmeid: 15948
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 79349540c3bdcc7b86ad3e4bbc749510
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (252,)
+beats_start: shape = (252,)
+danceability: 0.0
+duration: 167.33995
+end_of_fade_in: 2.334
+energy: 0.0
+key: 2
+key_confidence: 0.247
+loudness: -21.585
+mode: 1
+mode_confidence: 0.376
+release: King Of Western Swing_ Vol. 3
+release_7digitalid: 176774
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (492,)
+segments_loudness_max: shape = (492,)
+segments_loudness_max_time: shape = (492,)
+segments_loudness_start: shape = (492,)
+segments_pitches: shape = (492, 12)
+segments_start: shape = (492,)
+segments_timbre: shape = (492, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOMRISS12A6D4FE3D0
+start_of_fade_out: 130.276
+tatums_confidence: shape = (503,)
+tatums_start: shape = (503,)
+tempo: 115.386
+time_signature: 3
+time_signature_confidence: 0.491
+title: Its Dark Outside
+track_7digitalid: 1904076
+track_id: TRAXSQC128F4223E30
+year: 0

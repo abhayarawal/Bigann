@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16967
+artist_familiarity: 0.712662163367
+artist_hotttnesss: 0.430697046289
+artist_id: ARCF06I1187B995398
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3dfb71a2-2e06-4a69-8839-3e1fc07e92ea
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: K-OS
+artist_playmeid: 7897
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 362e48236b2f386f1eeb4ec49e26b9fb
+bars_confidence: shape = (86,)
+bars_start: shape = (86,)
+beats_confidence: shape = (364,)
+beats_start: shape = (364,)
+danceability: 0.0
+duration: 235.04934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.402
+loudness: -9.642
+mode: 0
+mode_confidence: 0.538
+release: Exit
+release_7digitalid: 25586
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (980,)
+segments_loudness_max: shape = (980,)
+segments_loudness_max_time: shape = (980,)
+segments_loudness_start: shape = (980,)
+segments_pitches: shape = (980, 12)
+segments_start: shape = (980,)
+segments_timbre: shape = (980, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.542307526169
+song_id: SOAXBAE12A6D4F79C3
+start_of_fade_out: 230.284
+tatums_confidence: shape = (728,)
+tatums_start: shape = (728,)
+tempo: 90.507
+time_signature: 4
+time_signature_confidence: 1.0
+title: Heaven Only Knows
+track_7digitalid: 272703
+track_id: TRAGLSU128F145FFB2
+year: 2002

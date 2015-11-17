@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1563
+artist_familiarity: 0.63322062391
+artist_hotttnesss: 0.410247407476
+artist_id: ARCT5P61187FB3D950
+artist_latitude: nan
+artist_location: United States
+artist_longitude: nan
+artist_mbid: 8af64037-6d26-4d24-afd8-7e085abb01b1
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Impressions
+artist_playmeid: 5858
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: c11701630bd5fc7afcd2549b953ea144
+bars_confidence: shape = (34,)
+bars_start: shape = (34,)
+beats_confidence: shape = (213,)
+beats_start: shape = (213,)
+danceability: 0.0
+duration: 159.29424
+end_of_fade_in: 0.347
+energy: 0.0
+key: 1
+key_confidence: 0.489
+loudness: -10.453
+mode: 1
+mode_confidence: 0.513
+release: The Young Mods' Forgotten Story
+release_7digitalid: 57678
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (502,)
+segments_loudness_max: shape = (502,)
+segments_loudness_max_time: shape = (502,)
+segments_loudness_start: shape = (502,)
+segments_pitches: shape = (502, 12)
+segments_start: shape = (502,)
+segments_timbre: shape = (502, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.392008771471
+song_id: SOJCFUI12A6D4FC28C
+start_of_fade_out: 151.684
+tatums_confidence: shape = (425,)
+tatums_start: shape = (425,)
+tempo: 81.586
+time_signature: 5
+time_signature_confidence: 0.826
+title: The Girl I Find (LP Version)
+track_7digitalid: 600592
+track_id: TRABOUV128F149E919
+year: 0

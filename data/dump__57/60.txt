@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 121400
+artist_familiarity: 0.545165441138
+artist_hotttnesss: 0.348630142159
+artist_id: ARX14WH1187FB50649
+artist_latitude: 51.76102
+artist_location: Hatfield, Hertfordshire, England
+artist_longitude: -0.23396
+artist_mbid: 4735caf5-711e-4042-bb63-a2991420239a
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Babe Ruth
+artist_playmeid: 98989
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 008866c2947bf4ff72aa75fde3e8be21
+bars_confidence: shape = (374,)
+bars_start: shape = (374,)
+beats_confidence: shape = (374,)
+beats_start: shape = (374,)
+danceability: 0.0
+duration: 159.00689
+end_of_fade_in: 0.45
+energy: 0.0
+key: 11
+key_confidence: 0.08
+loudness: -11.024
+mode: 0
+mode_confidence: 0.539
+release: Grand Slam - The Best Of Babe Ruth
+release_7digitalid: 156663
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (714,)
+segments_loudness_max: shape = (714,)
+segments_loudness_max_time: shape = (714,)
+segments_loudness_start: shape = (714,)
+segments_pitches: shape = (714, 12)
+segments_start: shape = (714,)
+segments_timbre: shape = (714, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODHRKU12A8C139009
+start_of_fade_out: 155.185
+tatums_confidence: shape = (749,)
+tatums_start: shape = (749,)
+tempo: 144.474
+time_signature: 1
+time_signature_confidence: 0.0
+title: A Fistful Of Dollars (1994 Digital Remaster)
+track_7digitalid: 1646451
+track_id: TRATPUS128F4271260
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 32440
+artist_familiarity: 0.621121051286
+artist_hotttnesss: 0.435684070209
+artist_id: ARS0W831187B9AF0B7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 256f09e5-43f4-4b3d-836c-2cc9283d22c0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Maximilian Hecker
+artist_playmeid: 157463
+artist_terms: shape = (50,)
+artist_terms_freq: shape = (50,)
+artist_terms_weight: shape = (50,)
+audio_md5: b65ba26b67656f24ae75df83fc3d448e
+bars_confidence: shape = (136,)
+bars_start: shape = (136,)
+beats_confidence: shape = (546,)
+beats_start: shape = (546,)
+danceability: 0.0
+duration: 228.80608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.216
+loudness: -10.688
+mode: 0
+mode_confidence: 0.479
+release: Infinite Love Songs
+release_7digitalid: 420743
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (631,)
+segments_loudness_max: shape = (631,)
+segments_loudness_max_time: shape = (631,)
+segments_loudness_start: shape = (631,)
+segments_pitches: shape = (631, 12)
+segments_start: shape = (631,)
+segments_timbre: shape = (631, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZANDJ12A8C138EAD
+start_of_fade_out: 228.806
+tatums_confidence: shape = (1091,)
+tatums_start: shape = (1091,)
+tempo: 146.184
+time_signature: 4
+time_signature_confidence: 0.496
+title: Polyester
+track_7digitalid: 4694121
+track_id: TRBAHXJ128F9339A02
+year: 2001

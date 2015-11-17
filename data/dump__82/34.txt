@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 522
+artist_familiarity: 0.814829656133
+artist_hotttnesss: 0.735765692951
+artist_id: ARFCUN31187B9AD578
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: b071f9fa-14b0-4217-8e97-eb41da73f598
+artist_mbtags: shape = (13,)
+artist_mbtags_count: shape = (13,)
+artist_name: The Rolling Stones
+artist_playmeid: 10490
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: abeb5e2a337386736d3639a2f4a43bb2
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (472,)
+beats_start: shape = (472,)
+danceability: 0.0
+duration: 274.18077
+end_of_fade_in: 2.821
+energy: 0.0
+key: 9
+key_confidence: 0.917
+loudness: -8.899
+mode: 1
+mode_confidence: 0.636
+release: Exile On Main St
+release_7digitalid: 884
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1001,)
+segments_loudness_max: shape = (1001,)
+segments_loudness_max_time: shape = (1001,)
+segments_loudness_start: shape = (1001,)
+segments_pitches: shape = (1001, 12)
+segments_start: shape = (1001,)
+segments_timbre: shape = (1001, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFKEIK12A6310D86A
+start_of_fade_out: 269.932
+tatums_confidence: shape = (944,)
+tatums_start: shape = (944,)
+tempo: 104.503
+time_signature: 4
+time_signature_confidence: 0.0
+title: Stop Breaking Down (1994 Digital Remaster)
+track_7digitalid: 7861
+track_id: TRBCFPP128E0781D6F
+year: 0

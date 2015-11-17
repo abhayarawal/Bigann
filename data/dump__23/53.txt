@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1283
+artist_familiarity: 0.833967972053
+artist_hotttnesss: 0.57620196628
+artist_id: ARE8GLF1187FB52532
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8bfac288-ccc5-448d-9573-c33ea2aa5c30
+artist_mbtags: shape = (15,)
+artist_mbtags_count: shape = (15,)
+artist_name: Red Hot Chili Peppers
+artist_playmeid: 1320
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 7db594fdb3d1c9e082b1f6e20ddc8b6c
+bars_confidence: shape = (131,)
+bars_start: shape = (131,)
+beats_confidence: shape = (529,)
+beats_start: shape = (529,)
+danceability: 0.0
+duration: 367.01995
+end_of_fade_in: 0.192
+energy: 0.0
+key: 0
+key_confidence: 0.262
+loudness: -5.278
+mode: 1
+mode_confidence: 0.44
+release: By The Way
+release_7digitalid: 9153
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1177,)
+segments_loudness_max: shape = (1177,)
+segments_loudness_max_time: shape = (1177,)
+segments_loudness_start: shape = (1177,)
+segments_pitches: shape = (1177, 12)
+segments_start: shape = (1177,)
+segments_timbre: shape = (1177, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.911733498231
+song_id: SOAZIRE12A6702046F
+start_of_fade_out: 357.953
+tatums_confidence: shape = (2115,)
+tatums_start: shape = (2115,)
+tempo: 88.57
+time_signature: 4
+time_signature_confidence: 0.602
+title: Venice Queen (Album Version)
+track_7digitalid: 93313
+track_id: TRAHYMJ128E0787801
+year: 2002

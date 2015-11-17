@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 612841
+artist_familiarity: 0.335452133899
+artist_hotttnesss: 0.0
+artist_id: ARA2GMZ1187B98CB13
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f91df6a2-9975-47e6-b16e-4ab74c8e4d46
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Wilburns
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: ed9c8241fe68cb2f97b45459a6c63d21
+bars_confidence: shape = (146,)
+bars_start: shape = (146,)
+beats_confidence: shape = (441,)
+beats_start: shape = (441,)
+danceability: 0.0
+duration: 232.28036
+end_of_fade_in: 0.357
+energy: 0.0
+key: 7
+key_confidence: 0.702
+loudness: -12.256
+mode: 1
+mode_confidence: 0.782
+release: More Than Religion
+release_7digitalid: 823358
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (584,)
+segments_loudness_max: shape = (584,)
+segments_loudness_max_time: shape = (584,)
+segments_loudness_start: shape = (584,)
+segments_pitches: shape = (584, 12)
+segments_start: shape = (584,)
+segments_timbre: shape = (584, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOQBPJS12AC3DF56FC
+start_of_fade_out: 225.094
+tatums_confidence: shape = (882,)
+tatums_start: shape = (882,)
+tempo: 117.492
+time_signature: 3
+time_signature_confidence: 0.525
+title: One Little Baby
+track_7digitalid: 9087788
+track_id: TRBCVPA12903CEEB1F
+year: 0

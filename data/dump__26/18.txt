@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 66541
+artist_familiarity: 0.420545849523
+artist_hotttnesss: 0.313569342684
+artist_id: ARHFEBO11F50C4825A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Flor Silvestre
+artist_playmeid: 54513
+artist_terms: shape = (8,)
+artist_terms_freq: shape = (8,)
+artist_terms_weight: shape = (8,)
+audio_md5: bbee51ec29badef891b7a2b7793ffff6
+bars_confidence: shape = (448,)
+bars_start: shape = (448,)
+beats_confidence: shape = (448,)
+beats_start: shape = (448,)
+danceability: 0.0
+duration: 207.75138
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.829
+loudness: -10.19
+mode: 1
+mode_confidence: 0.673
+release: 15 Exitos Vol. 2 Flor Silvestre
+release_7digitalid: 82932
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (656,)
+segments_loudness_max: shape = (656,)
+segments_loudness_max_time: shape = (656,)
+segments_loudness_start: shape = (656,)
+segments_pitches: shape = (656, 12)
+segments_start: shape = (656,)
+segments_timbre: shape = (656, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHKOMM12A6D4F7114
+start_of_fade_out: 204.434
+tatums_confidence: shape = (448,)
+tatums_start: shape = (448,)
+tempo: 130.818
+time_signature: 1
+time_signature_confidence: 1.0
+title: Aquel Amor
+track_7digitalid: 870029
+track_id: TRAIUGS128EF360F52
+year: 0

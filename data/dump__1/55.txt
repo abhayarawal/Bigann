@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 95400
+artist_familiarity: 0.480047819371
+artist_hotttnesss: 0.306603641297
+artist_id: ARTB56G11C8A41569D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 85e9f066-26f8-4e75-9894-b549a9880255
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sven Tasnadi
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 2988e576daa543599dcb67483077cb1c
+bars_confidence: shape = (292,)
+bars_start: shape = (292,)
+beats_confidence: shape = (1173,)
+beats_start: shape = (1173,)
+danceability: 0.0
+duration: 570.90567
+end_of_fade_in: 0.15
+energy: 0.0
+key: 7
+key_confidence: 0.792
+loudness: -12.28
+mode: 1
+mode_confidence: 0.646
+release: El Fuego De Dentro
+release_7digitalid: 120640
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (2756,)
+segments_loudness_max: shape = (2756,)
+segments_loudness_max_time: shape = (2756,)
+segments_loudness_start: shape = (2756,)
+segments_pitches: shape = (2756, 12)
+segments_start: shape = (2756,)
+segments_timbre: shape = (2756, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLGRUN12A8C140543
+start_of_fade_out: 538.372
+tatums_confidence: shape = (2346,)
+tatums_start: shape = (2346,)
+tempo: 122.967
+time_signature: 4
+time_signature_confidence: 1.0
+title: 2190 Dias Contigo
+track_7digitalid: 1247108
+track_id: TRAALEO128F42A7AEA
+year: 0

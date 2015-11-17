@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2022
+artist_familiarity: 0.679748141444
+artist_hotttnesss: 0.458595402877
+artist_id: AR1ZYLH1187B98C159
+artist_latitude: nan
+artist_location: East Orange, NJ
+artist_longitude: nan
+artist_mbid: 3bdcd49d-212e-4f4f-877a-eac1e4a2bddc
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Naughty By Nature
+artist_playmeid: 7556
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: f5d2c17d22652b65bbec0a0804f411a3
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (438,)
+beats_start: shape = (438,)
+danceability: 0.0
+duration: 279.90159
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.658
+loudness: -7.805
+mode: 1
+mode_confidence: 0.603
+release: Greatest Hits: Naughty's Nicest
+release_7digitalid: 13395
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1442,)
+segments_loudness_max: shape = (1442,)
+segments_loudness_max_time: shape = (1442,)
+segments_loudness_start: shape = (1442,)
+segments_pitches: shape = (1442, 12)
+segments_start: shape = (1442,)
+segments_timbre: shape = (1442, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPGSBP12A6701F741
+start_of_fade_out: 268.144
+tatums_confidence: shape = (1751,)
+tatums_start: shape = (1751,)
+tempo: 93.925
+time_signature: 4
+time_signature_confidence: 1.0
+title: Guard Your Grill (LP Version)
+track_7digitalid: 139670
+track_id: TRALXLX128E078D1B4
+year: 0

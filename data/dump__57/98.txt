@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12329
+artist_familiarity: 0.641525136191
+artist_hotttnesss: 0.387181941622
+artist_id: ARA0YAE1187B9B1D16
+artist_latitude: 35.21962
+artist_location: North Carolina
+artist_longitude: -80.01955
+artist_mbid: 56ad0acd-c2aa-4293-a71a-eede69bd08f0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: John Brown
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 18b96ccb9b5f83ab15ec2d49b25655a8
+bars_confidence: shape = (104,)
+bars_start: shape = (104,)
+beats_confidence: shape = (421,)
+beats_start: shape = (421,)
+danceability: 0.0
+duration: 196.57098
+end_of_fade_in: 0.125
+energy: 0.0
+key: 0
+key_confidence: 0.72
+loudness: -5.881
+mode: 1
+mode_confidence: 0.556
+release: John Brown Or Die: A Revival You Can Believe In
+release_7digitalid: 665465
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (784,)
+segments_loudness_max: shape = (784,)
+segments_loudness_max_time: shape = (784,)
+segments_loudness_start: shape = (784,)
+segments_pitches: shape = (784, 12)
+segments_start: shape = (784,)
+segments_timbre: shape = (784, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBFTYI12AB01849FC
+start_of_fade_out: 193.875
+tatums_confidence: shape = (842,)
+tatums_start: shape = (842,)
+tempo: 130.119
+time_signature: 4
+time_signature_confidence: 0.75
+title: Sarah Palin {I Wanna Lay Pipe} [Remix]
+track_7digitalid: 7376660
+track_id: TRATTRI12903CAF946
+year: 0

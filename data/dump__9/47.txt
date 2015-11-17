@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 52203
+artist_familiarity: 0.783746917558
+artist_hotttnesss: 0.465542671772
+artist_id: ARXX9J41187B9AE4D0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 02808ac2-15ad-4997-a33c-00ae94203e89
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: King Diamond
+artist_playmeid: 6022
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 820a8cfa52cf538177e66af1f66b4eb3
+bars_confidence: shape = (289,)
+bars_start: shape = (289,)
+beats_confidence: shape = (1160,)
+beats_start: shape = (1160,)
+danceability: 0.0
+duration: 286.56281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.071
+loudness: -5.575
+mode: 1
+mode_confidence: 0.038
+release: In Concert 1987 - Abigail
+release_7digitalid: 135279
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (762,)
+segments_loudness_max: shape = (762,)
+segments_loudness_max_time: shape = (762,)
+segments_loudness_start: shape = (762,)
+segments_pitches: shape = (762, 12)
+segments_start: shape = (762,)
+segments_timbre: shape = (762, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORHELV12A8AE44B4E
+start_of_fade_out: 286.563
+tatums_confidence: shape = (1160,)
+tatums_start: shape = (1160,)
+tempo: 240.761
+time_signature: 4
+time_signature_confidence: 0.0
+title: The Portrait (Live) (Reissue) (Album Version)
+track_7digitalid: 1401329
+track_id: TRADDCV128F423BAB0
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1362
+artist_familiarity: 0.778142723055
+artist_hotttnesss: 0.547746274612
+artist_id: ARJG2ID1187B9A767E
+artist_latitude: 51.31476
+artist_location: Woking, Surrey, England
+artist_longitude: -0.56623
+artist_mbid: 23228f18-01d5-493e-94ce-cfcde82a8db2
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: The Jam
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: c6390b985bcf34210a9d00bc5bec9e7a
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (350,)
+beats_start: shape = (350,)
+danceability: 0.0
+duration: 147.64363
+end_of_fade_in: 3.413
+energy: 0.0
+key: 7
+key_confidence: 0.75
+loudness: -12.793
+mode: 1
+mode_confidence: 0.754
+release: Dig The New Breed
+release_7digitalid: 14224
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (473,)
+segments_loudness_max: shape = (473,)
+segments_loudness_max_time: shape = (473,)
+segments_loudness_start: shape = (473,)
+segments_pitches: shape = (473, 12)
+segments_start: shape = (473,)
+segments_timbre: shape = (473, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQAFSW12A67021430
+start_of_fade_out: 147.644
+tatums_confidence: shape = (701,)
+tatums_start: shape = (701,)
+tempo: 144.424
+time_signature: 4
+time_signature_confidence: 0.797
+title: Start!
+track_7digitalid: 146941
+track_id: TRBIBTE128E078E882
+year: 1980

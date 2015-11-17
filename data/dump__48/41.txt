@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 29956
+artist_familiarity: 0.501785968274
+artist_hotttnesss: 0.382426584202
+artist_id: ARGR98V1187FB3A1B9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d3281dc6-1484-4627-a344-3715347952e0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Andreas Dorau
+artist_playmeid: -1
+artist_terms: shape = (50,)
+artist_terms_freq: shape = (50,)
+artist_terms_weight: shape = (50,)
+audio_md5: a7dad899e7afe2df9b5a07eea79c600b
+bars_confidence: shape = (131,)
+bars_start: shape = (131,)
+beats_confidence: shape = (534,)
+beats_start: shape = (534,)
+danceability: 0.0
+duration: 267.36281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.002
+loudness: -9.752
+mode: 1
+mode_confidence: 0.243
+release: 40 Frauen / Im September
+release_7digitalid: 159601
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1189,)
+segments_loudness_max: shape = (1189,)
+segments_loudness_max_time: shape = (1189,)
+segments_loudness_start: shape = (1189,)
+segments_pitches: shape = (1189, 12)
+segments_start: shape = (1189,)
+segments_timbre: shape = (1189, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAWEQT12A8C13AC84
+start_of_fade_out: 254.949
+tatums_confidence: shape = (1069,)
+tatums_start: shape = (1069,)
+tempo: 118.975
+time_signature: 4
+time_signature_confidence: 0.924
+title: Du Verstehst Mich Nicht
+track_7digitalid: 1676211
+track_id: TRAQLXW128F4278459
+year: 2005

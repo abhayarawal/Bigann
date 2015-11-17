@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 495269
+artist_familiarity: 0.287697337585
+artist_hotttnesss: 0.161360673311
+artist_id: AROETEJ122988EFAC7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Midnight Fish
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: df98e4530cf85e6d0e5a2896547c85b6
+bars_confidence: shape = (93,)
+bars_start: shape = (93,)
+beats_confidence: shape = (474,)
+beats_start: shape = (474,)
+danceability: 0.0
+duration: 300.82567
+end_of_fade_in: 0.096
+energy: 0.0
+key: 9
+key_confidence: 0.458
+loudness: -7.681
+mode: 1
+mode_confidence: 0.516
+release: Midnight Fish
+release_7digitalid: 315785
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1214,)
+segments_loudness_max: shape = (1214,)
+segments_loudness_max_time: shape = (1214,)
+segments_loudness_start: shape = (1214,)
+segments_pitches: shape = (1214, 12)
+segments_start: shape = (1214,)
+segments_timbre: shape = (1214, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOEGXRQ12A8C141170
+start_of_fade_out: 285.809
+tatums_confidence: shape = (1423,)
+tatums_start: shape = (1423,)
+tempo: 96.679
+time_signature: 5
+time_signature_confidence: 0.516
+title: Baby Here I Am
+track_7digitalid: 3569372
+track_id: TRAPALM128F92CA44B
+year: 0

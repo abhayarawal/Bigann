@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 170420
+artist_familiarity: 0.466262209646
+artist_hotttnesss: 0.369609834555
+artist_id: AR0B6VD1187B99C293
+artist_latitude: 34.47326
+artist_location: Ventura County, CA
+artist_longitude: -119.05505
+artist_mbid: ba65d1ee-bcf9-45b0-8dbf-5032d6c1cad0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Uphill Battle
+artist_playmeid: -1
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: d614d44f0d88b75a673ce5c88a39c05f
+bars_confidence: shape = (42,)
+bars_start: shape = (42,)
+beats_confidence: shape = (300,)
+beats_start: shape = (300,)
+danceability: 0.0
+duration: 166.37342
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.235
+loudness: -1.545
+mode: 1
+mode_confidence: 0.509
+release: Wreck of Nerves
+release_7digitalid: 223470
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (467,)
+segments_loudness_max: shape = (467,)
+segments_loudness_max_time: shape = (467,)
+segments_loudness_start: shape = (467,)
+segments_pitches: shape = (467, 12)
+segments_start: shape = (467,)
+segments_timbre: shape = (467, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.260338242567
+song_id: SOPYPCN12A58A7A856
+start_of_fade_out: 161.28
+tatums_confidence: shape = (1199,)
+tatums_start: shape = (1199,)
+tempo: 108.252
+time_signature: 7
+time_signature_confidence: 0.57
+title: Thresh Hold
+track_7digitalid: 2441372
+track_id: TRAIKBM128F429160A
+year: 2004

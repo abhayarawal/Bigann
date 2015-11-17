@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 163827
+artist_familiarity: 0.605424289925
+artist_hotttnesss: 0.409292116931
+artist_id: ARR2TI31187FB380FE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7a86ff6f-cdfc-4ac3-97ca-6a48b8d1b8cd
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Field Mice
+artist_playmeid: -1
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: da135a28e07ddb2e0a49c6a0b6e0ee7d
+bars_confidence: shape = (92,)
+bars_start: shape = (92,)
+beats_confidence: shape = (390,)
+beats_start: shape = (390,)
+danceability: 0.0
+duration: 335.46404
+end_of_fade_in: 0.16
+energy: 0.0
+key: 7
+key_confidence: 1.0
+loudness: -14.064
+mode: 1
+mode_confidence: 0.909
+release: Coastal
+release_7digitalid: 216819
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (853,)
+segments_loudness_max: shape = (853,)
+segments_loudness_max_time: shape = (853,)
+segments_loudness_start: shape = (853,)
+segments_pitches: shape = (853, 12)
+segments_start: shape = (853,)
+segments_timbre: shape = (853, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.52670665927
+song_id: SOQPENF12A8C13D7D8
+start_of_fade_out: 328.893
+tatums_confidence: shape = (780,)
+tatums_start: shape = (780,)
+tempo: 70.09
+time_signature: 4
+time_signature_confidence: 0.442
+title: Below The Stars
+track_7digitalid: 2360486
+track_id: TRAKBAS128F427F12A
+year: 1990

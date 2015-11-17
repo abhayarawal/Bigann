@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23024
+artist_familiarity: 0.588811880817
+artist_hotttnesss: 0.382545794601
+artist_id: AR8TCLH1187B9A85E4
+artist_latitude: nan
+artist_location: Firenze, Italy
+artist_longitude: nan
+artist_mbid: 806b793c-fb2c-401e-be44-f753c0ea2f15
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Piero Umiliani
+artist_playmeid: 4657
+artist_terms: shape = (50,)
+artist_terms_freq: shape = (50,)
+artist_terms_weight: shape = (50,)
+audio_md5: 6bffa24bbec5457849429843f75c9031
+bars_confidence: shape = (25,)
+bars_start: shape = (25,)
+beats_confidence: shape = (166,)
+beats_start: shape = (166,)
+danceability: 0.0
+duration: 234.57914
+end_of_fade_in: 0.223
+energy: 0.0
+key: 5
+key_confidence: 0.002
+loudness: -14.206
+mode: 1
+mode_confidence: 0.285
+release: La legge dei gangsters
+release_7digitalid: 686666
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (603,)
+segments_loudness_max: shape = (603,)
+segments_loudness_max_time: shape = (603,)
+segments_loudness_start: shape = (603,)
+segments_pitches: shape = (603, 12)
+segments_start: shape = (603,)
+segments_timbre: shape = (603, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SOBJIKU12A8C13ECD6
+start_of_fade_out: 220.77
+tatums_confidence: shape = (663,)
+tatums_start: shape = (663,)
+tempo: 42.106
+time_signature: 4
+time_signature_confidence: 0.0
+title: Apertura in jazz
+track_7digitalid: 7620385
+track_id: TRADXEB12903CEAC5B
+year: 1998

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 466
+artist_familiarity: 0.902840760111
+artist_hotttnesss: 1.02125558749
+artist_id: ARF8HTQ1187B9AE693
+artist_latitude: nan
+artist_location: Paris, France
+artist_longitude: nan
+artist_mbid: 056e4f3e-d505-4dad-8ec1-d04f521cbb56
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Daft Punk
+artist_playmeid: 387
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: da01ff978a94dec0a54d64c572abdd6e
+bars_confidence: shape = (151,)
+bars_start: shape = (151,)
+beats_confidence: shape = (606,)
+beats_start: shape = (606,)
+danceability: 0.0
+duration: 329.53424
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.055
+loudness: -5.019
+mode: 0
+mode_confidence: 0.419
+release: Homework
+release_7digitalid: 28815
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1483,)
+segments_loudness_max: shape = (1483,)
+segments_loudness_max_time: shape = (1483,)
+segments_loudness_start: shape = (1483,)
+segments_pitches: shape = (1483, 12)
+segments_start: shape = (1483,)
+segments_timbre: shape = (1483, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.862254500132
+song_id: SONJBQX12A6D4F8382
+start_of_fade_out: 311.025
+tatums_confidence: shape = (2426,)
+tatums_start: shape = (2426,)
+tempo: 111.201
+time_signature: 4
+time_signature_confidence: 1.0
+title: Da Funk
+track_7digitalid: 316549
+track_id: TRAQVTO128F14696A6
+year: 1995

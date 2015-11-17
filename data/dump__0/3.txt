@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 290021
+artist_familiarity: 0.487356790928
+artist_hotttnesss: 0.343428378297
+artist_id: ARKRRTF1187B9984DA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7a273984-edd9-4451-9c4d-39b38f05ebcd
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sonora Santanera
+artist_playmeid: 13951
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: fa329738005ca53715d9f7381a0d1fe3
+bars_confidence: shape = (291,)
+bars_start: shape = (291,)
+beats_confidence: shape = (291,)
+beats_start: shape = (291,)
+danceability: 0.0
+duration: 177.47546
+end_of_fade_in: 0.282
+energy: 0.0
+key: 8
+key_confidence: 0.643
+loudness: -9.689
+mode: 1
+mode_confidence: 0.565
+release: Las Numero 1 De La Sonora Santanera
+release_7digitalid: 514953
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (562,)
+segments_loudness_max: shape = (562,)
+segments_loudness_max_time: shape = (562,)
+segments_loudness_start: shape = (562,)
+segments_pitches: shape = (562, 12)
+segments_start: shape = (562,)
+segments_timbre: shape = (562, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXVLOJ12AB0189215
+start_of_fade_out: 172.304
+tatums_confidence: shape = (582,)
+tatums_start: shape = (582,)
+tempo: 100.07
+time_signature: 1
+time_signature_confidence: 0.0
+title: Amor De Cabaret
+track_7digitalid: 5703798
+track_id: TRAAADZ128F9348C2E
+year: 0

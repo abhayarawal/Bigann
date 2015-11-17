@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 38432
+artist_familiarity: 0.588370653419
+artist_hotttnesss: 0.413237883925
+artist_id: ARN5W1B1187B98BE10
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 03586e0c-6a3f-4cb1-b039-2d4406f1a053
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Warrior King
+artist_playmeid: -1
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 21ae75e2bd80a6843cd6325c714aa4cf
+bars_confidence: shape = (226,)
+bars_start: shape = (226,)
+beats_confidence: shape = (907,)
+beats_start: shape = (907,)
+danceability: 0.0
+duration: 224.28689
+end_of_fade_in: 2.409
+energy: 0.0
+key: 10
+key_confidence: 0.693
+loudness: -4.779
+mode: 1
+mode_confidence: 0.501
+release: Virtuous Woman
+release_7digitalid: 146292
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1006,)
+segments_loudness_max: shape = (1006,)
+segments_loudness_max_time: shape = (1006,)
+segments_loudness_start: shape = (1006,)
+segments_pitches: shape = (1006, 12)
+segments_start: shape = (1006,)
+segments_timbre: shape = (1006, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.537503904192
+song_id: SOXSUNF12A8C134195
+start_of_fade_out: 217.623
+tatums_confidence: shape = (907,)
+tatums_start: shape = (907,)
+tempo: 241.877
+time_signature: 4
+time_signature_confidence: 0.947
+title: Empress So Divine
+track_7digitalid: 1525925
+track_id: TRAAUIH128F4254C9D
+year: 2002

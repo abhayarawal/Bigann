@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 459996
+artist_familiarity: 0.0260887368288
+artist_hotttnesss: 0.0
+artist_id: ARBJFXO122C8677DF0
+artist_latitude: nan
+artist_location: CANADA - Ontario
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dave Rave_ Mark McCarron
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: e0aa34bc1312a5cc91d9e8b18a6cc21c
+bars_confidence: shape = (31,)
+bars_start: shape = (31,)
+beats_confidence: shape = (131,)
+beats_start: shape = (131,)
+danceability: 0.0
+duration: 90.38322
+end_of_fade_in: 0.339
+energy: 0.0
+key: 2
+key_confidence: 0.009
+loudness: -19.661
+mode: 1
+mode_confidence: 0.049
+release: In the Blue of My Dreams
+release_7digitalid: 689685
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (167,)
+segments_loudness_max: shape = (167,)
+segments_loudness_max_time: shape = (167,)
+segments_loudness_start: shape = (167,)
+segments_pitches: shape = (167, 12)
+segments_start: shape = (167,)
+segments_timbre: shape = (167, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEZWYI12AC4686705
+start_of_fade_out: 84.196
+tatums_confidence: shape = (263,)
+tatums_start: shape = (263,)
+tempo: 92.005
+time_signature: 4
+time_signature_confidence: 0.533
+title: Face
+track_7digitalid: 7653286
+track_id: TRAOMYU12903CF2C83
+year: 0

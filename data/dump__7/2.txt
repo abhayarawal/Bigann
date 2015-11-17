@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30269
+artist_familiarity: 0.498834975258
+artist_hotttnesss: 0.379960766975
+artist_id: AR9OLFX1187B9A5762
+artist_latitude: 31.30757
+artist_location: Kosse, TX
+artist_longitude: -96.63166
+artist_mbid: c727f585-54e0-4e0d-b8ad-05f216f99244
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bob Wills
+artist_playmeid: 4912
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: b9921836d878dee78e60f03120918d17
+bars_confidence: shape = (314,)
+bars_start: shape = (314,)
+beats_confidence: shape = (314,)
+beats_start: shape = (314,)
+danceability: 0.0
+duration: 201.76934
+end_of_fade_in: 0.276
+energy: 0.0
+key: 7
+key_confidence: 1.0
+loudness: -15.653
+mode: 1
+mode_confidence: 0.848
+release: Bob Wills and His Texas Playboys 1932-1947
+release_7digitalid: 686979
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (600,)
+segments_loudness_max: shape = (600,)
+segments_loudness_max_time: shape = (600,)
+segments_loudness_start: shape = (600,)
+segments_pitches: shape = (600, 12)
+segments_start: shape = (600,)
+segments_timbre: shape = (600, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCXXWR12AC468929B
+start_of_fade_out: 193.271
+tatums_confidence: shape = (627,)
+tatums_start: shape = (627,)
+tempo: 95.655
+time_signature: 1
+time_signature_confidence: 0.053
+title: Sittin' On Top of the Wolrd
+track_7digitalid: 7624434
+track_id: TRACHSH12903CEBC2C
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19206
+artist_familiarity: 0.7394548739
+artist_hotttnesss: 0.513339195848
+artist_id: AREKO1L1187B997EFE
+artist_latitude: 55.70622
+artist_location: Lund, Sweden
+artist_longitude: 13.1876
+artist_mbid: e664d1cd-23ab-48d5-b8fa-e98485daa5be
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Radio Dept.
+artist_playmeid: 194060
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: a033a5ae2eb8f1e679f9ed39b26d658b
+bars_confidence: shape = (368,)
+bars_start: shape = (368,)
+beats_confidence: shape = (368,)
+beats_start: shape = (368,)
+danceability: 0.0
+duration: 256.02567
+end_of_fade_in: 0.067
+energy: 0.0
+key: 9
+key_confidence: 0.578
+loudness: -5.648
+mode: 0
+mode_confidence: 0.7
+release: Freddie And The Trojan Horse
+release_7digitalid: 757061
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1047,)
+segments_loudness_max: shape = (1047,)
+segments_loudness_max_time: shape = (1047,)
+segments_loudness_start: shape = (1047,)
+segments_pitches: shape = (1047, 12)
+segments_start: shape = (1047,)
+segments_timbre: shape = (1047, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.68257464833
+song_id: SOVBTZQ12AB0184DC0
+start_of_fade_out: 244.825
+tatums_confidence: shape = (1104,)
+tatums_start: shape = (1104,)
+tempo: 88.02
+time_signature: 1
+time_signature_confidence: 0.439
+title: Closing Scene
+track_7digitalid: 8380674
+track_id: TRABVVN12903CB6445
+year: 2007

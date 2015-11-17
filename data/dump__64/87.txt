@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13912
+artist_familiarity: 0.806762595659
+artist_hotttnesss: 0.580095045199
+artist_id: ARF6ZTO1187FB3684F
+artist_latitude: nan
+artist_location: LONG BEACH, California
+artist_longitude: nan
+artist_mbid: e2c3c508-f0ab-49af-92c9-a81d66d67405
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Story Of The Year
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: b6120f248df44ac3aeb25854bc79922f
+bars_confidence: shape = (122,)
+bars_start: shape = (122,)
+beats_confidence: shape = (492,)
+beats_start: shape = (492,)
+danceability: 0.0
+duration: 145.3971
+end_of_fade_in: 0.115
+energy: 0.0
+key: 10
+key_confidence: 0.059
+loudness: -4.219
+mode: 1
+mode_confidence: 0.415
+release: In The Wake Of Determination
+release_7digitalid: 138515
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (473,)
+segments_loudness_max: shape = (473,)
+segments_loudness_max_time: shape = (473,)
+segments_loudness_start: shape = (473,)
+segments_pitches: shape = (473, 12)
+segments_start: shape = (473,)
+segments_timbre: shape = (473, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.624180158811
+song_id: SOMMXAD12A58A76FBF
+start_of_fade_out: 140.614
+tatums_confidence: shape = (983,)
+tatums_start: shape = (983,)
+tempo: 209.695
+time_signature: 4
+time_signature_confidence: 0.493
+title: Meathead (Album Version) (Non-PA)
+track_7digitalid: 1438203
+track_id: TRAWEST128F4242614
+year: 2005

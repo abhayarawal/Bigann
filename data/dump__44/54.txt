@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 505851
+artist_familiarity: 0.427987491653
+artist_hotttnesss: 0.273365751429
+artist_id: AR7LN7G1187FB395BB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f6f3efdb-2c1c-4f42-81b2-f92979e42308
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Les Bantous De La Capitale
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: c1954d820d3768fc3c350264dd656942
+bars_confidence: shape = (114,)
+bars_start: shape = (114,)
+beats_confidence: shape = (805,)
+beats_start: shape = (805,)
+danceability: 0.0
+duration: 341.05424
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.567
+loudness: -7.958
+mode: 1
+mode_confidence: 0.429
+release: Bakolo Mboka
+release_7digitalid: 681008
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1574,)
+segments_loudness_max: shape = (1574,)
+segments_loudness_max_time: shape = (1574,)
+segments_loudness_start: shape = (1574,)
+segments_pitches: shape = (1574, 12)
+segments_start: shape = (1574,)
+segments_timbre: shape = (1574, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.313562114248
+song_id: SOHWGUM12AB0186B87
+start_of_fade_out: 331.134
+tatums_confidence: shape = (1610,)
+tatums_start: shape = (1610,)
+tempo: 144.142
+time_signature: 7
+time_signature_confidence: 0.66
+title: Masuwa
+track_7digitalid: 7556263
+track_id: TRAPFFR12903CDB202
+year: 0

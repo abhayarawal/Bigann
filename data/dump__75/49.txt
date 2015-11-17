@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 192619
+artist_familiarity: 0.442769650057
+artist_hotttnesss: 0.294986616555
+artist_id: ARI648V1187B9B5379
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4e744ffc-767a-4b18-b485-47d4b123ff4a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Michael Stanley Band
+artist_playmeid: 15835
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 7d8f03a51fc730024e04635d5362703b
+bars_confidence: shape = (132,)
+bars_start: shape = (132,)
+beats_confidence: shape = (533,)
+beats_start: shape = (533,)
+danceability: 0.0
+duration: 216.34567
+end_of_fade_in: 0.357
+energy: 0.0
+key: 0
+key_confidence: 0.663
+loudness: -10.922
+mode: 1
+mode_confidence: 0.604
+release: Right Back at Ya (1971-1983)
+release_7digitalid: 249439
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (797,)
+segments_loudness_max: shape = (797,)
+segments_loudness_max_time: shape = (797,)
+segments_loudness_start: shape = (797,)
+segments_pitches: shape = (797, 12)
+segments_start: shape = (797,)
+segments_timbre: shape = (797, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.503381236206
+song_id: SOSXSPA12A58A7C152
+start_of_fade_out: 199.831
+tatums_confidence: shape = (1065,)
+tatums_start: shape = (1065,)
+tempo: 151.716
+time_signature: 4
+time_signature_confidence: 0.509
+title: He Can't Love you
+track_7digitalid: 2723766
+track_id: TRAZTWI128F424CF73
+year: 1980

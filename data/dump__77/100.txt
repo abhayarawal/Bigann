@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 362418
+artist_familiarity: 0.726299713385
+artist_hotttnesss: 0.466946703147
+artist_id: ARKMIBT11F4C8430D9
+artist_latitude: 40.71455
+artist_location: Brooklyn, NY
+artist_longitude: -74.00712
+artist_mbid: ff0d20a7-a69e-4207-a18f-ca808759499d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Antlers
+artist_playmeid: 172449
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: d85663c91b2f69490c934370b47668bf
+bars_confidence: shape = (271,)
+bars_start: shape = (271,)
+beats_confidence: shape = (271,)
+beats_start: shape = (271,)
+danceability: 0.0
+duration: 107.98975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.873
+loudness: -17.624
+mode: 1
+mode_confidence: 0.778
+release: In the Attic of the Universe
+release_7digitalid: 489387
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (467,)
+segments_loudness_max: shape = (467,)
+segments_loudness_max_time: shape = (467,)
+segments_loudness_start: shape = (467,)
+segments_pitches: shape = (467, 12)
+segments_start: shape = (467,)
+segments_timbre: shape = (467, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.613234800557
+song_id: SOZCYOO12AB017D77B
+start_of_fade_out: 100.153
+tatums_confidence: shape = (541,)
+tatums_start: shape = (541,)
+tempo: 150.314
+time_signature: 1
+time_signature_confidence: 0.057
+title: The Carrying Arms
+track_7digitalid: 5424227
+track_id: TRBAPBU128F9304E1B
+year: 2007

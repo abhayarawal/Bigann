@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22747
+artist_familiarity: 0.623696863116
+artist_hotttnesss: 0.400211297918
+artist_id: AR07VS41187FB37944
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d99a6247-94ab-4685-87df-572ba6ef44b7
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Mungo Jerry
+artist_playmeid: 3288
+artist_terms: shape = (50,)
+artist_terms_freq: shape = (50,)
+artist_terms_weight: shape = (50,)
+audio_md5: 0cc55d2b77b500a29d3c6fc5985a238c
+bars_confidence: shape = (70,)
+bars_start: shape = (70,)
+beats_confidence: shape = (281,)
+beats_start: shape = (281,)
+danceability: 0.0
+duration: 193.90649
+end_of_fade_in: 0.421
+energy: 0.0
+key: 7
+key_confidence: 0.005
+loudness: -9.984
+mode: 1
+mode_confidence: 0.23
+release: The Best Of In The Summertime
+release_7digitalid: 428130
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (661,)
+segments_loudness_max: shape = (661,)
+segments_loudness_max_time: shape = (661,)
+segments_loudness_start: shape = (661,)
+segments_pitches: shape = (661, 12)
+segments_start: shape = (661,)
+segments_timbre: shape = (661, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.427446571488
+song_id: SOGWIQR12A8C144C22
+start_of_fade_out: 181.255
+tatums_confidence: shape = (563,)
+tatums_start: shape = (563,)
+tempo: 88.58
+time_signature: 4
+time_signature_confidence: 0.0
+title: It's A Secret
+track_7digitalid: 4779913
+track_id: TRBBNTP128F92D934C
+year: 1995

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10872
+artist_familiarity: 0.612543003669
+artist_hotttnesss: 0.459660463222
+artist_id: ARXP7MQ1187FB3AC5F
+artist_latitude: nan
+artist_location: LOWELL
+artist_longitude: nan
+artist_mbid: 2b0d81ce-1d0e-4097-91b3-c1f0cb045a2c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dave Hollister
+artist_playmeid: 19881
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 92853de62cfacfe51aac732fc9582e6e
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (410,)
+beats_start: shape = (410,)
+danceability: 0.0
+duration: 271.62077
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.33
+loudness: -7.493
+mode: 1
+mode_confidence: 0.372
+release: Chicago '85...The Movie
+release_7digitalid: 15450
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (981,)
+segments_loudness_max: shape = (981,)
+segments_loudness_max_time: shape = (981,)
+segments_loudness_start: shape = (981,)
+segments_pitches: shape = (981, 12)
+segments_start: shape = (981,)
+segments_timbre: shape = (981, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.790566802358
+song_id: SOWCLTO12A67021CEC
+start_of_fade_out: 253.678
+tatums_confidence: shape = (821,)
+tatums_start: shape = (821,)
+tempo: 91.003
+time_signature: 4
+time_signature_confidence: 0.796
+title: One Woman Man
+track_7digitalid: 161844
+track_id: TRASHZB128E0791E81
+year: 2001

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 251526
+artist_familiarity: 0.621616921718
+artist_hotttnesss: 0.448459767905
+artist_id: ARW2DG51187B9A170F
+artist_latitude: 44.81187
+artist_location: Belgrade, Yugoslavia
+artist_longitude: 20.46414
+artist_mbid: c736d2e3-b1d2-4ae7-8f83-63af4e1c1de1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ana Popovic
+artist_playmeid: 147187
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 4f57d058263d209ec01fb32b1eefd33e
+bars_confidence: shape = (186,)
+bars_start: shape = (186,)
+beats_confidence: shape = (748,)
+beats_start: shape = (748,)
+danceability: 0.0
+duration: 263.83628
+end_of_fade_in: 0.212
+energy: 0.0
+key: 8
+key_confidence: 0.34
+loudness: -5.212
+mode: 1
+mode_confidence: 0.461
+release: Still Making History
+release_7digitalid: 323348
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (812,)
+segments_loudness_max: shape = (812,)
+segments_loudness_max_time: shape = (812,)
+segments_loudness_start: shape = (812,)
+segments_pitches: shape = (812, 12)
+segments_start: shape = (812,)
+segments_timbre: shape = (812, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUKJOM12AF72A5F91
+start_of_fade_out: 249.115
+tatums_confidence: shape = (1497,)
+tatums_start: shape = (1497,)
+tempo: 177.362
+time_signature: 4
+time_signature_confidence: 0.565
+title: Shadow After Dark
+track_7digitalid: 3640454
+track_id: TRBCFFD128F92D912E
+year: 2007

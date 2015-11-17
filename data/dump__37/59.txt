@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 192258
+artist_familiarity: 0.632367593971
+artist_hotttnesss: 0.384327716288
+artist_id: ARA7WV51187FB532B0
+artist_latitude: 44.48721
+artist_location: Lancaster, NH
+artist_longitude: -71.56889
+artist_mbid: 0c624637-4a2c-4df0-ba80-b4ddb25bb5e5
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: GG Allin
+artist_playmeid: -1
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 7a47c6bd570a066ebb5111e56993588d
+bars_confidence: shape = (334,)
+bars_start: shape = (334,)
+beats_confidence: shape = (334,)
+beats_start: shape = (334,)
+danceability: 0.0
+duration: 143.59465
+end_of_fade_in: 0.363
+energy: 0.0
+key: 10
+key_confidence: 0.502
+loudness: -12.186
+mode: 0
+mode_confidence: 0.429
+release: You Give Love a Bad Name
+release_7digitalid: 259464
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (379,)
+segments_loudness_max: shape = (379,)
+segments_loudness_max_time: shape = (379,)
+segments_loudness_start: shape = (379,)
+segments_pitches: shape = (379, 12)
+segments_start: shape = (379,)
+segments_timbre: shape = (379, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.382935090075
+song_id: SOPDUIV12A8C1367B5
+start_of_fade_out: 133.834
+tatums_confidence: shape = (668,)
+tatums_start: shape = (668,)
+tempo: 140.97
+time_signature: 1
+time_signature_confidence: 0.371
+title: Garbage Dump
+track_7digitalid: 2756655
+track_id: TRAMUCQ128F4254CA3
+year: 1999

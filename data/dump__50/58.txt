@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 70835
+artist_familiarity: 0.702677511224
+artist_hotttnesss: 0.516658580755
+artist_id: ARSZX2G1187B98FCCF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 50eec634-7c42-41ee-9b1f-b41d9ca28b26
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Korpiklaani
+artist_playmeid: 93233
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: e3d6d28630c2046d2cff12bdf61d743d
+bars_confidence: shape = (410,)
+bars_start: shape = (410,)
+beats_confidence: shape = (410,)
+beats_start: shape = (410,)
+danceability: 0.0
+duration: 250.8273
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.819
+loudness: -4.535
+mode: 1
+mode_confidence: 0.585
+release: Karkelo
+release_7digitalid: 472541
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (734,)
+segments_loudness_max: shape = (734,)
+segments_loudness_max_time: shape = (734,)
+segments_loudness_start: shape = (734,)
+segments_pitches: shape = (734, 12)
+segments_start: shape = (734,)
+segments_timbre: shape = (734, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.637828866182
+song_id: SOAHPOW12A8C142E38
+start_of_fade_out: 243.635
+tatums_confidence: shape = (819,)
+tatums_start: shape = (819,)
+tempo: 99.995
+time_signature: 1
+time_signature_confidence: 0.0
+title: Isku Pitkästä Ilosta
+track_7digitalid: 5251766
+track_id: TRARFAZ128F93481AD
+year: 2009

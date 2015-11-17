@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4579
+artist_familiarity: 0.767768809032
+artist_hotttnesss: 0.536219992815
+artist_id: ARIH5GU1187FB4C958
+artist_latitude: nan
+artist_location: Newcastle
+artist_longitude: nan
+artist_mbid: b0799818-22cb-4564-8e68-3c410d0722ee
+artist_mbtags: shape = (12,)
+artist_mbtags_count: shape = (12,)
+artist_name: Silverchair
+artist_playmeid: 1441
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 547bc9da96d660c8831f7037e22612ad
+bars_confidence: shape = (77,)
+bars_start: shape = (77,)
+beats_confidence: shape = (313,)
+beats_start: shape = (313,)
+danceability: 0.0
+duration: 191.9473
+end_of_fade_in: 0.189
+energy: 0.0
+key: 7
+key_confidence: 0.395
+loudness: -7.711
+mode: 1
+mode_confidence: 0.535
+release: Frogstomp
+release_7digitalid: 286427
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (512,)
+segments_loudness_max: shape = (512,)
+segments_loudness_max_time: shape = (512,)
+segments_loudness_start: shape = (512,)
+segments_pitches: shape = (512, 12)
+segments_start: shape = (512,)
+segments_timbre: shape = (512, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.664286934327
+song_id: SOKWVAH12A8C1332B0
+start_of_fade_out: 191.947
+tatums_confidence: shape = (627,)
+tatums_start: shape = (627,)
+tempo: 97.643
+time_signature: 4
+time_signature_confidence: 0.297
+title: Suicidal Dream
+track_7digitalid: 3215457
+track_id: TRADSQZ128F42707D7
+year: 1995

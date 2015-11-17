@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 340479
+artist_familiarity: 0.705205403329
+artist_hotttnesss: 0.653512932947
+artist_id: ARNLE621187B98ECB5
+artist_latitude: 41.26069
+artist_location: Omaha, NE
+artist_longitude: -95.93995
+artist_mbid: 922a18b1-0aba-4868-8f38-2aa4f324fe16
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mannheim Steamroller
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: d56f67aec7e5618a0f58459b3ebad8e8
+bars_confidence: shape = (76,)
+bars_start: shape = (76,)
+beats_confidence: shape = (307,)
+beats_start: shape = (307,)
+danceability: 0.0
+duration: 199.83628
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.191
+loudness: -11.949
+mode: 1
+mode_confidence: 0.365
+release: Christmas Song
+release_7digitalid: 675941
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (549,)
+segments_loudness_max: shape = (549,)
+segments_loudness_max_time: shape = (549,)
+segments_loudness_start: shape = (549,)
+segments_pitches: shape = (549, 12)
+segments_start: shape = (549,)
+segments_timbre: shape = (549, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODVVZT12CF58273DB
+start_of_fade_out: 187.751
+tatums_confidence: shape = (613,)
+tatums_start: shape = (613,)
+tempo: 96.002
+time_signature: 4
+time_signature_confidence: 0.731
+title: The Christmas Song
+track_7digitalid: 7496493
+track_id: TRBBXGU12903CCC870
+year: 2009

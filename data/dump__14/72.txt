@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 356
+artist_familiarity: 0.63560611742
+artist_hotttnesss: 0.371777228405
+artist_id: AR7V0DI1187FB524DE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a278331c-1b22-4ebd-b93f-4408bd96f9b8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Frankee
+artist_playmeid: 640
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 991eb5bb45f4f3a11a822a2ecc916106
+bars_confidence: shape = (56,)
+bars_start: shape = (56,)
+beats_confidence: shape = (267,)
+beats_start: shape = (267,)
+danceability: 0.0
+duration: 149.99465
+end_of_fade_in: 0.223
+energy: 0.0
+key: 5
+key_confidence: 0.0
+loudness: -9.035
+mode: 1
+mode_confidence: 0.0
+release: The Good_ The Bad_ The Ugly
+release_7digitalid: 559
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (650,)
+segments_loudness_max: shape = (650,)
+segments_loudness_max_time: shape = (650,)
+segments_loudness_start: shape = (650,)
+segments_pitches: shape = (650, 12)
+segments_start: shape = (650,)
+segments_timbre: shape = (650, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOLPZLH12A6D4F9D12
+start_of_fade_out: 147.18
+tatums_confidence: shape = (803,)
+tatums_start: shape = (803,)
+tempo: 110.768
+time_signature: 4
+time_signature_confidence: 1.0
+title: Gotta Man
+track_7digitalid: 4611
+track_id: TRAEXTM128E07811E1
+year: 2004

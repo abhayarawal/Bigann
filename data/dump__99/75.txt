@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 414
+artist_familiarity: 0.731184230413
+artist_hotttnesss: 0.549204383877
+artist_id: ARD3LXU1187B9ABFC5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e5db18cb-4b1f-496d-a308-548b611090d3
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: The Sex Pistols
+artist_playmeid: 1418
+artist_terms: shape = (9,)
+artist_terms_freq: shape = (9,)
+artist_terms_weight: shape = (9,)
+audio_md5: a96537aa9bbc101bbdecd7d5e10ed0fc
+bars_confidence: shape = (254,)
+bars_start: shape = (254,)
+beats_confidence: shape = (254,)
+beats_start: shape = (254,)
+danceability: 0.0
+duration: 176.5873
+end_of_fade_in: 0.165
+energy: 0.0
+key: 11
+key_confidence: 0.48
+loudness: -8.016
+mode: 1
+mode_confidence: 0.558
+release: Sex_ Anarchy & Rock N' Roll Swindle
+release_7digitalid: 619734
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (454,)
+segments_loudness_max: shape = (454,)
+segments_loudness_max_time: shape = (454,)
+segments_loudness_start: shape = (454,)
+segments_pitches: shape = (454, 12)
+segments_start: shape = (454,)
+segments_timbre: shape = (454, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLQETH12AB0181E42
+start_of_fade_out: 168.443
+tatums_confidence: shape = (508,)
+tatums_start: shape = (508,)
+tempo: 89.607
+time_signature: 1
+time_signature_confidence: 0.0
+title: My Way (Alternate Studio Version)
+track_7digitalid: 6882960
+track_id: TRBIHKE128F9309555
+year: 0

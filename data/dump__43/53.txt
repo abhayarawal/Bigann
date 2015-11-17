@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 60919
+artist_familiarity: 0.691133728644
+artist_hotttnesss: 0.53105019318
+artist_id: AR9I1L41187FB37F0E
+artist_latitude: nan
+artist_location: New Orleans, LA
+artist_longitude: nan
+artist_mbid: fd23e684-270f-4507-9cb0-a0e0d7854d16
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Harry Connick_ Jr
+artist_playmeid: 8507
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: de1ca85473bcd39d0d723615e5ef1896
+bars_confidence: shape = (143,)
+bars_start: shape = (143,)
+beats_confidence: shape = (574,)
+beats_start: shape = (574,)
+danceability: 0.0
+duration: 192.07791
+end_of_fade_in: 3.849
+energy: 0.0
+key: 0
+key_confidence: 0.22
+loudness: -10.7
+mode: 1
+mode_confidence: 0.499
+release: Eleven
+release_7digitalid: 281438
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (756,)
+segments_loudness_max: shape = (756,)
+segments_loudness_max_time: shape = (756,)
+segments_loudness_start: shape = (756,)
+segments_pitches: shape = (756, 12)
+segments_start: shape = (756,)
+segments_timbre: shape = (756, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOQDVVL12A8C134181
+start_of_fade_out: 189.678
+tatums_confidence: shape = (1149,)
+tatums_start: shape = (1149,)
+tempo: 181.469
+time_signature: 4
+time_signature_confidence: 0.174
+title: Joe Avery's Piece
+track_7digitalid: 3137171
+track_id: TRAOWFX128F4261A00
+year: 1979

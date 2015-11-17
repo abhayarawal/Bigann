@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13982
+artist_familiarity: 0.67290413393
+artist_hotttnesss: 0.524063332776
+artist_id: AR3SPD91187B9B63E3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4bb712d6-8be9-4c09-810a-eb3bed2be345
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Héroes del Silencio
+artist_playmeid: 3664
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: ec08e7621c81d1d6a96d376522077b42
+bars_confidence: shape = (128,)
+bars_start: shape = (128,)
+beats_confidence: shape = (515,)
+beats_start: shape = (515,)
+danceability: 0.0
+duration: 198.89587
+end_of_fade_in: 5.346
+energy: 0.0
+key: 4
+key_confidence: 0.654
+loudness: -8.85
+mode: 0
+mode_confidence: 0.535
+release: Senda '91
+release_7digitalid: 159226
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (695,)
+segments_loudness_max: shape = (695,)
+segments_loudness_max_time: shape = (695,)
+segments_loudness_start: shape = (695,)
+segments_pitches: shape = (695, 12)
+segments_start: shape = (695,)
+segments_timbre: shape = (695, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.493887575856
+song_id: SORNYFV12AF729F4A0
+start_of_fade_out: 198.896
+tatums_confidence: shape = (1031,)
+tatums_start: shape = (1031,)
+tempo: 159.483
+time_signature: 4
+time_signature_confidence: 0.0
+title: El Mar No Cesa (Live)
+track_7digitalid: 455536
+track_id: TRAUVGO128F14836DB
+year: 1991

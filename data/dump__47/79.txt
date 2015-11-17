@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 38471
+artist_familiarity: 0.595645308494
+artist_hotttnesss: 0.292906768906
+artist_id: ARPAH7U1187B9A308F
+artist_latitude: nan
+artist_location: Kingston, Jamaica
+artist_longitude: nan
+artist_mbid: 2e3b8f85-3c9c-45ed-94c4-72afe1f88588
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cocoa Tea
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 927cc4f66aa9774790df7eb5d8ac7a73
+bars_confidence: shape = (160,)
+bars_start: shape = (160,)
+beats_confidence: shape = (646,)
+beats_start: shape = (646,)
+danceability: 0.0
+duration: 237.89669
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.586
+loudness: -7.441
+mode: 0
+mode_confidence: 0.633
+release: One Way
+release_7digitalid: 186231
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1019,)
+segments_loudness_max: shape = (1019,)
+segments_loudness_max_time: shape = (1019,)
+segments_loudness_start: shape = (1019,)
+segments_pitches: shape = (1019, 12)
+segments_start: shape = (1019,)
+segments_timbre: shape = (1019, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.249065794854
+song_id: SOEMIKT12A8AE4884B
+start_of_fade_out: 229.988
+tatums_confidence: shape = (1291,)
+tatums_start: shape = (1291,)
+tempo: 163.664
+time_signature: 4
+time_signature_confidence: 0.0
+title: I Can't Help
+track_7digitalid: 2018046
+track_id: TRAQGXT128F4239CE0
+year: 0

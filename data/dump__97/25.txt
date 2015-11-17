@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 154612
+artist_familiarity: 0.500848691739
+artist_hotttnesss: 0.324624481574
+artist_id: ARTVBNL1187FB52DF3
+artist_latitude: -14.24292
+artist_location: Brazil
+artist_longitude: -54.38783
+artist_mbid: d1440efb-87fb-486e-bfed-d667c9f3e4ef
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Grupo Batuque
+artist_playmeid: 212228
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 5d5efc831499f73dcb00275e37bb1d71
+bars_confidence: shape = (240,)
+bars_start: shape = (240,)
+beats_confidence: shape = (964,)
+beats_start: shape = (964,)
+danceability: 0.0
+duration: 388.96281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.52
+loudness: -11.403
+mode: 1
+mode_confidence: 0.259
+release: Samba De Rua
+release_7digitalid: 594916
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1845,)
+segments_loudness_max: shape = (1845,)
+segments_loudness_max_time: shape = (1845,)
+segments_loudness_start: shape = (1845,)
+segments_pitches: shape = (1845, 12)
+segments_start: shape = (1845,)
+segments_timbre: shape = (1845, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMSKXY12AC3DF61C1
+start_of_fade_out: 385.939
+tatums_confidence: shape = (1928,)
+tatums_start: shape = (1928,)
+tempo: 148.975
+time_signature: 4
+time_signature_confidence: 0.45
+title: Percussio Livre
+track_7digitalid: 6600809
+track_id: TRBHLDJ12903CDFB0E
+year: 0

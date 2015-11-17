@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 115382
+artist_familiarity: 0.421675559582
+artist_hotttnesss: 0.340332520988
+artist_id: AR9HNKW1187FB57EC6
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4a5bad45-7d62-4a3c-9dc7-b77aafe3634f
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Mei Chi Chiang
+artist_playmeid: -1
+artist_terms: shape = (9,)
+artist_terms_freq: shape = (9,)
+artist_terms_weight: shape = (9,)
+audio_md5: d271beb10564f0fbc7ac78afd83c1840
+bars_confidence: shape = (58,)
+bars_start: shape = (58,)
+beats_confidence: shape = (176,)
+beats_start: shape = (176,)
+danceability: 0.0
+duration: 73.03791
+end_of_fade_in: 5.166
+energy: 0.0
+key: 10
+key_confidence: 0.489
+loudness: -21.585
+mode: 1
+mode_confidence: 0.363
+release: Lover's Poem
+release_7digitalid: 163506
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (226,)
+segments_loudness_max: shape = (226,)
+segments_loudness_max_time: shape = (226,)
+segments_loudness_start: shape = (226,)
+segments_pitches: shape = (226, 12)
+segments_start: shape = (226,)
+segments_timbre: shape = (226, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBYREB12A8C13CF88
+start_of_fade_out: 67.791
+tatums_confidence: shape = (176,)
+tatums_start: shape = (176,)
+tempo: 150.933
+time_signature: 3
+time_signature_confidence: 0.795
+title: Chagall(OS)
+track_7digitalid: 1733568
+track_id: TRAHEPA128F4285D9E
+year: 0

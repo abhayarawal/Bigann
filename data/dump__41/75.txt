@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 244705
+artist_familiarity: 0.0440346812129
+artist_hotttnesss: 0.0
+artist_id: ARHEBZJ1187FB37C3A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2dbe7eb0-2308-42a0-905f-43cbbdb43211
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Samba Enredo
+artist_playmeid: -1
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: 2ab88984246cb56dddce541dbece6908
+bars_confidence: shape = (114,)
+bars_start: shape = (114,)
+beats_confidence: shape = (460,)
+beats_start: shape = (460,)
+danceability: 0.0
+duration: 202.05669
+end_of_fade_in: 0.589
+energy: 0.0
+key: 9
+key_confidence: 0.241
+loudness: -10.415
+mode: 1
+mode_confidence: 0.411
+release: Samba Enredo Du Carnaval De Rio
+release_7digitalid: 795650
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (951,)
+segments_loudness_max: shape = (951,)
+segments_loudness_max_time: shape = (951,)
+segments_loudness_start: shape = (951,)
+segments_pitches: shape = (951, 12)
+segments_start: shape = (951,)
+segments_timbre: shape = (951, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOHGVW12A8C1449BB
+start_of_fade_out: 194.02
+tatums_confidence: shape = (919,)
+tatums_start: shape = (919,)
+tempo: 139.344
+time_signature: 4
+time_signature_confidence: 0.0
+title: Estacao Primeira Da Mangueira_ Viva Do Samba
+track_7digitalid: 8800729
+track_id: TRAODMW12903CA8CFD
+year: 0

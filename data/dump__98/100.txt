@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 298353
+artist_familiarity: 0.616312990662
+artist_hotttnesss: 0.308787656304
+artist_id: ARKJ8Y91187B9B551E
+artist_latitude: nan
+artist_location: FRANCE
+artist_longitude: nan
+artist_mbid: ff66cbbc-a438-431e-ac54-eed694a0ebe9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Nichols
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 6e0a68707efcdfecd024c29892a81e70
+bars_confidence: shape = (149,)
+bars_start: shape = (149,)
+beats_confidence: shape = (599,)
+beats_start: shape = (599,)
+danceability: 0.0
+duration: 214.46485
+end_of_fade_in: 0.101
+energy: 0.0
+key: 0
+key_confidence: 0.723
+loudness: -5.609
+mode: 0
+mode_confidence: 0.507
+release: Ladies Night
+release_7digitalid: 632887
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (883,)
+segments_loudness_max: shape = (883,)
+segments_loudness_max_time: shape = (883,)
+segments_loudness_start: shape = (883,)
+segments_pitches: shape = (883, 12)
+segments_start: shape = (883,)
+segments_timbre: shape = (883, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVQYSC12AB017D1C5
+start_of_fade_out: 199.605
+tatums_confidence: shape = (1198,)
+tatums_start: shape = (1198,)
+tempo: 167.941
+time_signature: 4
+time_signature_confidence: 0.595
+title: Fica ma mi
+track_7digitalid: 7026134
+track_id: TRBIBFY128F932C0E3
+year: 0

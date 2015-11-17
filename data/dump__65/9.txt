@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 101641
+artist_familiarity: 0.622999463223
+artist_hotttnesss: 0.458935570522
+artist_id: ARJS05S1187FB58F3A
+artist_latitude: nan
+artist_location: LOS ANGELES, California
+artist_longitude: nan
+artist_mbid: 0eb58fc2-a70b-4e02-a503-115e42da9b4e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Spongebob Squarepants
+artist_playmeid: 31165
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: bdd8ce457d6210f4129f8cbfd51babd8
+bars_confidence: shape = (36,)
+bars_start: shape = (36,)
+beats_confidence: shape = (146,)
+beats_start: shape = (146,)
+danceability: 0.0
+duration: 76.82567
+end_of_fade_in: 0.2
+energy: 0.0
+key: 9
+key_confidence: 0.673
+loudness: -8.892
+mode: 0
+mode_confidence: 0.542
+release: Spongebob Squarepants - The Yellow Album
+release_7digitalid: 430097
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (220,)
+segments_loudness_max: shape = (220,)
+segments_loudness_max_time: shape = (220,)
+segments_loudness_start: shape = (220,)
+segments_pitches: shape = (220, 12)
+segments_start: shape = (220,)
+segments_timbre: shape = (220, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.615614233846
+song_id: SOLGKUS12A8C1436EE
+start_of_fade_out: 70.798
+tatums_confidence: shape = (293,)
+tatums_start: shape = (293,)
+tempo: 122.887
+time_signature: 4
+time_signature_confidence: 0.973
+title: Ripped Pants
+track_7digitalid: 4802168
+track_id: TRAWGLP128F92DE5AD
+year: 2005

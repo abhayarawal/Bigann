@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1999
+artist_familiarity: 0.640151544466
+artist_hotttnesss: 0.442992869385
+artist_id: ARS94L01187B9AD297
+artist_latitude: 34.41925
+artist_location: Santa Barbara, CA
+artist_longitude: -119.69887
+artist_mbid: da66103a-1307-400d-8261-89d856126867
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Nerf Herder
+artist_playmeid: 3363
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 1944443068419882d93bb2540f725f90
+bars_confidence: shape = (119,)
+bars_start: shape = (119,)
+beats_confidence: shape = (480,)
+beats_start: shape = (480,)
+danceability: 0.0
+duration: 167.44444
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.623
+loudness: -2.885
+mode: 1
+mode_confidence: 0.664
+release: American Cheese
+release_7digitalid: 558050
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (462,)
+segments_loudness_max: shape = (462,)
+segments_loudness_max_time: shape = (462,)
+segments_loudness_start: shape = (462,)
+segments_pitches: shape = (462, 12)
+segments_start: shape = (462,)
+segments_timbre: shape = (462, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.485122364102
+song_id: SOGQFXS12AB01865FB
+start_of_fade_out: 150.419
+tatums_confidence: shape = (961,)
+tatums_start: shape = (961,)
+tempo: 189.995
+time_signature: 4
+time_signature_confidence: 0.0
+title: Nervous Breakdown
+track_7digitalid: 6173008
+track_id: TRANPHV128F9344CC3
+year: 2002

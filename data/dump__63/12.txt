@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 110086
+artist_familiarity: 0.683771102049
+artist_hotttnesss: 0.513300123275
+artist_id: AR3USQW1187FB4A90D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0f7159a9-9029-4011-863e-6e2b81015ae8
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Bebo Norman
+artist_playmeid: 7106
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 846f70e411343f0b5288d69fdfc37357
+bars_confidence: shape = (81,)
+bars_start: shape = (81,)
+beats_confidence: shape = (326,)
+beats_start: shape = (326,)
+danceability: 0.0
+duration: 213.4722
+end_of_fade_in: 0.241
+energy: 0.0
+key: 5
+key_confidence: 0.574
+loudness: -6.291
+mode: 1
+mode_confidence: 0.536
+release: Bebo Norman
+release_7digitalid: 316619
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (704,)
+segments_loudness_max: shape = (704,)
+segments_loudness_max_time: shape = (704,)
+segments_loudness_start: shape = (704,)
+segments_pitches: shape = (704, 12)
+segments_start: shape = (704,)
+segments_timbre: shape = (704, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAVNNL12A8C145B33
+start_of_fade_out: 201.654
+tatums_confidence: shape = (652,)
+tatums_start: shape = (652,)
+tempo: 96.091
+time_signature: 4
+time_signature_confidence: 0.252
+title: Britney
+track_7digitalid: 3590576
+track_id: TRAVPYY128F92CEBAB
+year: 2008

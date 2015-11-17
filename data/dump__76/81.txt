@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3300
+artist_familiarity: 0.806580411327
+artist_hotttnesss: 0.621085212055
+artist_id: ARW9FP41187B98C2A7
+artist_latitude: 57.15382
+artist_location: Aberdeen
+artist_longitude: -2.10679
+artist_mbid: 3e30aebd-0557-4cfd-8fb9-3945afa5d72b
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Annie Lennox
+artist_playmeid: 2023
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 282e5594b3dee718c5f1d0e92b97746c
+bars_confidence: shape = (198,)
+bars_start: shape = (198,)
+beats_confidence: shape = (797,)
+beats_start: shape = (797,)
+danceability: 0.0
+duration: 385.01832
+end_of_fade_in: 2.705
+energy: 0.0
+key: 4
+key_confidence: 0.734
+loudness: -9.027
+mode: 1
+mode_confidence: 0.593
+release: Dance Vault Mixes - Little Bird (1st Set of Mixes)
+release_7digitalid: 278865
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (1605,)
+segments_loudness_max: shape = (1605,)
+segments_loudness_max_time: shape = (1605,)
+segments_loudness_start: shape = (1605,)
+segments_pitches: shape = (1605, 12)
+segments_start: shape = (1605,)
+segments_timbre: shape = (1605, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUEBEX12A8AE47BBC
+start_of_fade_out: 375.275
+tatums_confidence: shape = (1594,)
+tatums_start: shape = (1594,)
+tempo: 125.03
+time_signature: 4
+time_signature_confidence: 0.703
+title: Little Bird
+track_7digitalid: 3105579
+track_id: TRBAFJQ128F4259FB5
+year: 1992

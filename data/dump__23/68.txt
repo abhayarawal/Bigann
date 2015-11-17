@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 128851
+artist_familiarity: 0.65782688564
+artist_hotttnesss: 0.458730806359
+artist_id: ARS4KT21187B9B9438
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 54bd120a-6bac-4d7c-8b10-ba167bc7e26c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Fito Paez
+artist_playmeid: 11377
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: ada24370a94c9f71ead0ee4fe686e34f
+bars_confidence: shape = (140,)
+bars_start: shape = (140,)
+beats_confidence: shape = (565,)
+beats_start: shape = (565,)
+danceability: 0.0
+duration: 273.03138
+end_of_fade_in: 0.165
+energy: 0.0
+key: 4
+key_confidence: 0.127
+loudness: -6.116
+mode: 0
+mode_confidence: 0.156
+release: Confiá
+release_7digitalid: 759590
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (960,)
+segments_loudness_max: shape = (960,)
+segments_loudness_max_time: shape = (960,)
+segments_loudness_start: shape = (960,)
+segments_pitches: shape = (960, 12)
+segments_start: shape = (960,)
+segments_timbre: shape = (960, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.496175335673
+song_id: SOXFCPM12AB01896CC
+start_of_fade_out: 265.41
+tatums_confidence: shape = (1130,)
+tatums_start: shape = (1130,)
+tempo: 124.989
+time_signature: 4
+time_signature_confidence: 0.0
+title: La Ley De La Vida
+track_7digitalid: 8416044
+track_id: TRAHZLT12903CBEE31
+year: 2010

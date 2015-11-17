@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 39786
+artist_familiarity: 0.760270106029
+artist_hotttnesss: 0.496071346624
+artist_id: ARGXIE31187FB55B48
+artist_latitude: nan
+artist_location: BAKERSFIELD, California
+artist_longitude: nan
+artist_mbid: dde3d9b1-0e44-48bc-b0c9-d739b3570000
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tech N9ne
+artist_playmeid: 7405
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: cfec0c410ebcbb98ecf5d3b217f9d203
+bars_confidence: shape = (201,)
+bars_start: shape = (201,)
+beats_confidence: shape = (807,)
+beats_start: shape = (807,)
+danceability: 0.0
+duration: 274.85995
+end_of_fade_in: 0.14
+energy: 0.0
+key: 1
+key_confidence: 0.178
+loudness: -6.696
+mode: 1
+mode_confidence: 0.256
+release: Alpha Dog
+release_7digitalid: 54436
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1216,)
+segments_loudness_max: shape = (1216,)
+segments_loudness_max_time: shape = (1216,)
+segments_loudness_start: shape = (1216,)
+segments_pitches: shape = (1216, 12)
+segments_start: shape = (1216,)
+segments_timbre: shape = (1216, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.706000516797
+song_id: SOELGKJ12A58A7CD11
+start_of_fade_out: 267.952
+tatums_confidence: shape = (1615,)
+tatums_start: shape = (1615,)
+tempo: 177.942
+time_signature: 4
+time_signature_confidence: 0.81
+title: Caribou Lou
+track_7digitalid: 567300
+track_id: TRARVZG128F1497359
+year: 2006

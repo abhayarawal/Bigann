@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 182315
+artist_familiarity: 0.334283434823
+artist_hotttnesss: 0.249320347234
+artist_id: ARWLUAI11F4C840637
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jeanne Robertson
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 713b226ea023ca8aee8904111f79ac6a
+bars_confidence: shape = (63,)
+bars_start: shape = (63,)
+beats_confidence: shape = (479,)
+beats_start: shape = (479,)
+danceability: 0.0
+duration: 486.42567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.342
+loudness: -12.33
+mode: 1
+mode_confidence: 0.425
+release: Flat Out Funny - at the Paramount
+release_7digitalid: 608534
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (1934,)
+segments_loudness_max: shape = (1934,)
+segments_loudness_max_time: shape = (1934,)
+segments_loudness_start: shape = (1934,)
+segments_pitches: shape = (1934, 12)
+segments_start: shape = (1934,)
+segments_timbre: shape = (1934, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODFJJC12AC468C3F3
+start_of_fade_out: 486.426
+tatums_confidence: shape = (1914,)
+tatums_start: shape = (1914,)
+tempo: 58.47
+time_signature: 4
+time_signature_confidence: 0.633
+title: Perk trip - sleeping in "tubes
+track_7digitalid: 6761543
+track_id: TRBDOOA12903D06D87
+year: 0

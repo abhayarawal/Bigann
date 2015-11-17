@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16367
+artist_familiarity: 0.635087811262
+artist_hotttnesss: 0.40650824852
+artist_id: ARMR44C1187FB433D2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4dfadf48-e15b-4fc2-a800-2b68702a72d5
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Penguin Café Orchestra
+artist_playmeid: 92268
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 02b27bf5075f7301a9a44f8d7b0e8c17
+bars_confidence: shape = (202,)
+bars_start: shape = (202,)
+beats_confidence: shape = (609,)
+beats_start: shape = (609,)
+danceability: 0.0
+duration: 293.72036
+end_of_fade_in: 0.247
+energy: 0.0
+key: 2
+key_confidence: 0.396
+loudness: -17.448
+mode: 1
+mode_confidence: 0.554
+release: A History
+release_7digitalid: 60420
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (611,)
+segments_loudness_max: shape = (611,)
+segments_loudness_max_time: shape = (611,)
+segments_loudness_start: shape = (611,)
+segments_pitches: shape = (611, 12)
+segments_start: shape = (611,)
+segments_timbre: shape = (611, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOLISXB12A6D4FB3B6
+start_of_fade_out: 279.963
+tatums_confidence: shape = (1219,)
+tatums_start: shape = (1219,)
+tempo: 124.513
+time_signature: 3
+time_signature_confidence: 0.793
+title: Southern Jukebox Music (Live) (2001 Digital Remaster)
+track_7digitalid: 627496
+track_id: TRBHBJS128F14A4E42
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 53731
+artist_familiarity: 0.621825361751
+artist_hotttnesss: 0.434930157918
+artist_id: ARXGWNG1187FB503A5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ce29fa89-8aed-4f7b-8b3e-a34d0c9ed0c6
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Ini Kamoze
+artist_playmeid: 20709
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 861d1c70b2151e9dd4e3053c53ede8cd
+bars_confidence: shape = (162,)
+bars_start: shape = (162,)
+beats_confidence: shape = (651,)
+beats_start: shape = (651,)
+danceability: 0.0
+duration: 236.56444
+end_of_fade_in: 0.421
+energy: 0.0
+key: 0
+key_confidence: 0.108
+loudness: -9.881
+mode: 1
+mode_confidence: 0.317
+release: Fatis Presents Ini Kamoze
+release_7digitalid: 664421
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (960,)
+segments_loudness_max: shape = (960,)
+segments_loudness_max_time: shape = (960,)
+segments_loudness_start: shape = (960,)
+segments_pitches: shape = (960, 12)
+segments_start: shape = (960,)
+segments_timbre: shape = (960, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.240374588846
+song_id: SODGZCH12AB0183AE6
+start_of_fade_out: 236.564
+tatums_confidence: shape = (1301,)
+tatums_start: shape = (1301,)
+tempo: 165.111
+time_signature: 4
+time_signature_confidence: 0.052
+title: Goodness & Mercy
+track_7digitalid: 7367411
+track_id: TRAELHY12903CAD56C
+year: 0

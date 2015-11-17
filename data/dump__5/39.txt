@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 610
+artist_familiarity: 0.859513992879
+artist_hotttnesss: 0.812307796139
+artist_id: ARV3CRH1187B9A1B21
+artist_latitude: nan
+artist_location: Berkeley, CA
+artist_longitude: nan
+artist_mbid: 084308bd-1654-436f-ba03-df6697104e19
+artist_mbtags: shape = (14,)
+artist_mbtags_count: shape = (14,)
+artist_name: Green Day
+artist_playmeid: 708
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 4209b7591ae5fa2efec900973d5e2714
+bars_confidence: shape = (139,)
+bars_start: shape = (139,)
+beats_confidence: shape = (563,)
+beats_start: shape = (563,)
+danceability: 0.0
+duration: 340.79302
+end_of_fade_in: 3.93
+energy: 0.0
+key: 7
+key_confidence: 0.801
+loudness: -5.66
+mode: 1
+mode_confidence: 0.711
+release: Wake Me Up When September Ends
+release_7digitalid: 138100
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (550,)
+segments_loudness_max: shape = (550,)
+segments_loudness_max_time: shape = (550,)
+segments_loudness_start: shape = (550,)
+segments_pitches: shape = (550, 12)
+segments_start: shape = (550,)
+segments_timbre: shape = (550, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.437909888727
+song_id: SOWQROJ12A8AE47400
+start_of_fade_out: 331.952
+tatums_confidence: shape = (1126,)
+tatums_start: shape = (1126,)
+tempo: 101.08
+time_signature: 4
+time_signature_confidence: 0.88
+title: Wake Me Up When September Ends (Live at Foxboro_ MA 9/3/05)
+track_7digitalid: 1433443
+track_id: TRABUCZ128F424163A
+year: 2005

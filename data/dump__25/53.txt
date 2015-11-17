@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11565
+artist_familiarity: 0.909324833658
+artist_hotttnesss: 0.677087546712
+artist_id: ARRBF3M1187FB4D59F
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: d8354b38-e942-4c89-ba93-29323432abc3
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: 30 Seconds To Mars
+artist_playmeid: 5561
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 0cfcd779324577912e90d1576b2d8d44
+bars_confidence: shape = (192,)
+bars_start: shape = (192,)
+beats_confidence: shape = (769,)
+beats_start: shape = (769,)
+danceability: 0.0
+duration: 245.02812
+end_of_fade_in: 0.224
+energy: 0.0
+key: 8
+key_confidence: 0.616
+loudness: -4.675
+mode: 1
+mode_confidence: 0.52
+release: 30 Seconds To Mars
+release_7digitalid: 35166
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (653,)
+segments_loudness_max: shape = (653,)
+segments_loudness_max_time: shape = (653,)
+segments_loudness_start: shape = (653,)
+segments_pitches: shape = (653, 12)
+segments_start: shape = (653,)
+segments_timbre: shape = (653, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.79361366761
+song_id: SOWTBTR12A6D4F7881
+start_of_fade_out: 224.81
+tatums_confidence: shape = (1539,)
+tatums_start: shape = (1539,)
+tempo: 190.102
+time_signature: 4
+time_signature_confidence: 0.04
+title: The Mission
+track_7digitalid: 376951
+track_id: TRAIOWX128F14750E5
+year: 2002

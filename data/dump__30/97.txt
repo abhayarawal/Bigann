@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 67638
+artist_familiarity: 0.387891458461
+artist_hotttnesss: 0.277323648009
+artist_id: ARMTIIX1187B9A1896
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b0c4d346-d93c-41b4-a35f-401f4d3b58e8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: XLNC
+artist_playmeid: 53343
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 6f9983819b1b3240a11c636e61fc8336
+bars_confidence: shape = (247,)
+bars_start: shape = (247,)
+beats_confidence: shape = (744,)
+beats_start: shape = (744,)
+danceability: 0.0
+duration: 241.42322
+end_of_fade_in: 0.162
+energy: 0.0
+key: 2
+key_confidence: 0.484
+loudness: -14.803
+mode: 1
+mode_confidence: 0.642
+release: Against The Wall
+release_7digitalid: 85094
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1422,)
+segments_loudness_max: shape = (1422,)
+segments_loudness_max_time: shape = (1422,)
+segments_loudness_start: shape = (1422,)
+segments_pitches: shape = (1422, 12)
+segments_start: shape = (1422,)
+segments_timbre: shape = (1422, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHTPZM12A6D4F8716
+start_of_fade_out: 229.343
+tatums_confidence: shape = (1488,)
+tatums_start: shape = (1488,)
+tempo: 187.926
+time_signature: 3
+time_signature_confidence: 0.057
+title: Vaisakhi Wala Mela
+track_7digitalid: 891642
+track_id: TRAKMNY128EF3662A0
+year: 0

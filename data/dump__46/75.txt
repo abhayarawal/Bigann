@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 171244
+artist_familiarity: 0.66808729556
+artist_hotttnesss: 0.459387424613
+artist_id: AR6AGJV1187FB504BA
+artist_latitude: nan
+artist_location: Toyohashi, Japan
+artist_longitude: nan
+artist_mbid: f3d8c154-208d-4efa-b52d-7e9f16adcdae
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Kitaro
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: a57a792ee8ce149697b317008d8b1b7e
+bars_confidence: shape = (215,)
+bars_start: shape = (215,)
+beats_confidence: shape = (863,)
+beats_start: shape = (863,)
+danceability: 0.0
+duration: 410.06975
+end_of_fade_in: 4.232
+energy: 0.0
+key: 7
+key_confidence: 0.03
+loudness: -10.282
+mode: 1
+mode_confidence: 0.358
+release: Spiritual Garden
+release_7digitalid: 236595
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1604,)
+segments_loudness_max: shape = (1604,)
+segments_loudness_max_time: shape = (1604,)
+segments_loudness_start: shape = (1604,)
+segments_pitches: shape = (1604, 12)
+segments_start: shape = (1604,)
+segments_timbre: shape = (1604, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.392008771471
+song_id: SODDIDB12A8AE463BD
+start_of_fade_out: 410.07
+tatums_confidence: shape = (2587,)
+tatums_start: shape = (2587,)
+tempo: 126.339
+time_signature: 4
+time_signature_confidence: 0.329
+title: Quasar
+track_7digitalid: 2596788
+track_id: TRAPXSL128F42305D6
+year: 2006

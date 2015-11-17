@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 89680
+artist_familiarity: 0.827853769867
+artist_hotttnesss: 0.517328583566
+artist_id: ARPKK761187FB4D53C
+artist_latitude: 40.10216
+artist_location: Anderson, IN
+artist_longitude: -85.67869
+artist_mbid: 57805d77-f947-4851-b7fb-78baad154451
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: The Ataris
+artist_playmeid: 13002
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 6e81ae3528f17ee2adb7d79ec0145c07
+bars_confidence: shape = (131,)
+bars_start: shape = (131,)
+beats_confidence: shape = (527,)
+beats_start: shape = (527,)
+danceability: 0.0
+duration: 212.89751
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.112
+loudness: -5.038
+mode: 0
+mode_confidence: 0.455
+release: Welcome The Night
+release_7digitalid: 340651
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (476,)
+segments_loudness_max: shape = (476,)
+segments_loudness_max_time: shape = (476,)
+segments_loudness_start: shape = (476,)
+segments_pitches: shape = (476, 12)
+segments_start: shape = (476,)
+segments_timbre: shape = (476, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.548678055568
+song_id: SOYCFVX12A8AE45C63
+start_of_fade_out: 203.413
+tatums_confidence: shape = (1053,)
+tatums_start: shape = (1053,)
+tempo: 151.949
+time_signature: 4
+time_signature_confidence: 0.843
+title: Whatever Lies Will Help You Rest
+track_7digitalid: 3808983
+track_id: TRASKII128F92FA33E
+year: 2006

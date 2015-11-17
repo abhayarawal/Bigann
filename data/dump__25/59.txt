@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 29574
+artist_familiarity: 0.70409394652
+artist_hotttnesss: 0.410743577532
+artist_id: ARS2KW51187B9B556E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f5abf27f-4785-4777-9ea6-234a1d143ee7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: X
+artist_playmeid: 47105
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 5d7896b277154ff84b0290bb79ad76af
+bars_confidence: shape = (134,)
+bars_start: shape = (134,)
+beats_confidence: shape = (541,)
+beats_start: shape = (541,)
+danceability: 0.0
+duration: 233.22077
+end_of_fade_in: 0.16
+energy: 0.0
+key: 9
+key_confidence: 0.711
+loudness: -6.898
+mode: 0
+mode_confidence: 0.506
+release: At Home With You
+release_7digitalid: 200559
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (673,)
+segments_loudness_max: shape = (673,)
+segments_loudness_max_time: shape = (673,)
+segments_loudness_start: shape = (673,)
+segments_pitches: shape = (673, 12)
+segments_start: shape = (673,)
+segments_timbre: shape = (673, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOCPSMO12A58A7C691
+start_of_fade_out: 225.669
+tatums_confidence: shape = (1081,)
+tatums_start: shape = (1081,)
+tempo: 141.846
+time_signature: 4
+time_signature_confidence: 0.0
+title: All Over Now
+track_7digitalid: 2183470
+track_id: TRAIPQD128F4258D24
+year: 0

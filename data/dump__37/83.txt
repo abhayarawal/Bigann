@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 483186
+artist_familiarity: 0.479735239207
+artist_hotttnesss: 0.352459615918
+artist_id: ARO762K1187FB46BCD
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4179a944-8e24-4dd9-9739-d889c636d22b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Annie Blanchard
+artist_playmeid: -1
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: 93d75e97c88261367e6f1a485afc5aba
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (472,)
+beats_start: shape = (472,)
+danceability: 0.0
+duration: 252.44689
+end_of_fade_in: 0.123
+energy: 0.0
+key: 5
+key_confidence: 0.622
+loudness: -10.021
+mode: 1
+mode_confidence: 0.584
+release: Sur l'autre rive
+release_7digitalid: 648890
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (848,)
+segments_loudness_max: shape = (848,)
+segments_loudness_max_time: shape = (848,)
+segments_loudness_start: shape = (848,)
+segments_pitches: shape = (848, 12)
+segments_start: shape = (848,)
+segments_timbre: shape = (848, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOCNYGS12AB01832B8
+start_of_fade_out: 240.379
+tatums_confidence: shape = (1414,)
+tatums_start: shape = (1414,)
+tempo: 113.287
+time_signature: 4
+time_signature_confidence: 0.73
+title: La vérité
+track_7digitalid: 7189162
+track_id: TRAMWLJ128F9353C44
+year: 2007

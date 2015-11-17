@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11846
+artist_familiarity: 0.801989215969
+artist_hotttnesss: 0.580345271378
+artist_id: AR74Q3R1187B9B24C3
+artist_latitude: nan
+artist_location: Kitee, Finland
+artist_longitude: nan
+artist_mbid: 00a9f935-ba93-4fc8-a33a-993abe9c936b
+artist_mbtags: shape = (14,)
+artist_mbtags_count: shape = (14,)
+artist_name: Nightwish
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: e38a87f710230938d403bfd69b2fe926
+bars_confidence: shape = (334,)
+bars_start: shape = (334,)
+beats_confidence: shape = (1338,)
+beats_start: shape = (1338,)
+danceability: 0.0
+duration: 834.66404
+end_of_fade_in: 0.328
+energy: 0.0
+key: 7
+key_confidence: 0.671
+loudness: -6.003
+mode: 0
+mode_confidence: 0.689
+release: Dark Passion Play
+release_7digitalid: 265249
+sections_confidence: shape = (26,)
+sections_start: shape = (26,)
+segments_confidence: shape = (1962,)
+segments_loudness_max: shape = (1962,)
+segments_loudness_max_time: shape = (1962,)
+segments_loudness_start: shape = (1962,)
+segments_pitches: shape = (1962, 12)
+segments_start: shape = (1962,)
+segments_timbre: shape = (1962, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.717851349065
+song_id: SOJELTQ12A8C1301E2
+start_of_fade_out: 822.538
+tatums_confidence: shape = (4013,)
+tatums_start: shape = (4013,)
+tempo: 96.711
+time_signature: 4
+time_signature_confidence: 0.815
+title: The Poet And The Pendulum
+track_7digitalid: 2851298
+track_id: TRATIAH128F426B422
+year: 2007

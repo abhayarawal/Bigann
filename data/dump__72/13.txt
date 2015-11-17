@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 135942
+artist_familiarity: 0.0921250734123
+artist_hotttnesss: 0.0
+artist_id: ARKGWMO11F50C4813F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lynette Schultz
+artist_playmeid: 83651
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: 781175829f07158a374820379b36ba26
+bars_confidence: shape = (629,)
+bars_start: shape = (629,)
+beats_confidence: shape = (629,)
+beats_start: shape = (629,)
+danceability: 0.0
+duration: 250.98404
+end_of_fade_in: 0.374
+energy: 0.0
+key: 9
+key_confidence: 0.636
+loudness: -7.911
+mode: 1
+mode_confidence: 0.619
+release: It's Only Natural
+release_7digitalid: 179296
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1024,)
+segments_loudness_max: shape = (1024,)
+segments_loudness_max_time: shape = (1024,)
+segments_loudness_start: shape = (1024,)
+segments_pitches: shape = (1024, 12)
+segments_start: shape = (1024,)
+segments_timbre: shape = (1024, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOAPICM12A81C228EB
+start_of_fade_out: 241.65
+tatums_confidence: shape = (1257,)
+tatums_start: shape = (1257,)
+tempo: 154.734
+time_signature: 1
+time_signature_confidence: 0.0
+title: Take Me Down To LA
+track_7digitalid: 1938266
+track_id: TRAYSAO128F422AF64
+year: 0

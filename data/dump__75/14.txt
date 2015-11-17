@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 451
+artist_familiarity: 0.681581305435
+artist_hotttnesss: 0.479407675575
+artist_id: ARODBRG1187FB3FD99
+artist_latitude: -36.35484
+artist_location: Wangaratta, Victoria, Australia
+artist_longitude: 146.32611
+artist_mbid: 172e1f1a-504d-4488-b053-6344ba63e6d0
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Nick Cave & The Bad Seeds
+artist_playmeid: 10506
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 52c3ed8c5438e096ee9925cebaeb1a74
+bars_confidence: shape = (227,)
+bars_start: shape = (227,)
+beats_confidence: shape = (683,)
+beats_start: shape = (683,)
+danceability: 0.0
+duration: 345.75628
+end_of_fade_in: 0.403
+energy: 0.0
+key: 7
+key_confidence: 0.353
+loudness: -18.942
+mode: 0
+mode_confidence: 0.558
+release: The Boatmans Call
+release_7digitalid: 1280
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (863,)
+segments_loudness_max: shape = (863,)
+segments_loudness_max_time: shape = (863,)
+segments_loudness_start: shape = (863,)
+segments_pitches: shape = (863, 12)
+segments_start: shape = (863,)
+segments_timbre: shape = (863, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.635905866874
+song_id: SONSQLD12A6310D960
+start_of_fade_out: 318.096
+tatums_confidence: shape = (1366,)
+tatums_start: shape = (1366,)
+tempo: 122.002
+time_signature: 3
+time_signature_confidence: 1.0
+title: Where Do We Go Now But Nowhere
+track_7digitalid: 12044
+track_id: TRAZRBR128E0782989
+year: 2006

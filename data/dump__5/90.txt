@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 232213
+artist_familiarity: 0.383294226336
+artist_hotttnesss: 0.255564868159
+artist_id: ARYSHL01187B9AAEC7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b4f70f9c-c3ff-4a1b-b30e-7671ab786553
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Hysterie
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: ee64e5982f4688d7f660c0c1e57bd226
+bars_confidence: shape = (207,)
+bars_start: shape = (207,)
+beats_confidence: shape = (840,)
+beats_start: shape = (840,)
+danceability: 0.0
+duration: 389.642
+end_of_fade_in: 0.438
+energy: 0.0
+key: 0
+key_confidence: 0.466
+loudness: -10.976
+mode: 1
+mode_confidence: 0.344
+release: San Francisco Love House Volume 2
+release_7digitalid: 604938
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (2081,)
+segments_loudness_max: shape = (2081,)
+segments_loudness_max_time: shape = (2081,)
+segments_loudness_start: shape = (2081,)
+segments_pitches: shape = (2081, 12)
+segments_start: shape = (2081,)
+segments_timbre: shape = (2081, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOSVTQX12A8C136D74
+start_of_fade_out: 384.255
+tatums_confidence: shape = (1681,)
+tatums_start: shape = (1681,)
+tempo: 130.032
+time_signature: 4
+time_signature_confidence: 0.929
+title: Imagination
+track_7digitalid: 6719641
+track_id: TRABYSX12903CFC9E4
+year: 2005

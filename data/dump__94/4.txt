@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1633
+artist_familiarity: 0.626803106327
+artist_hotttnesss: 0.405234690787
+artist_id: ARJ9DSA1187B990E00
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4756395c-57ed-4a63-afb2-01117f14dff6
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: John Mayall
+artist_playmeid: 19569
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 1c8d7ecd69c6d145f7f8d9258c934c7d
+bars_confidence: shape = (186,)
+bars_start: shape = (186,)
+beats_confidence: shape = (750,)
+beats_start: shape = (750,)
+danceability: 0.0
+duration: 262.79138
+end_of_fade_in: 0.171
+energy: 0.0
+key: 5
+key_confidence: 0.161
+loudness: -5.549
+mode: 0
+mode_confidence: 0.423
+release: STORIES
+release_7digitalid: 521596
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (1013,)
+segments_loudness_max: shape = (1013,)
+segments_loudness_max_time: shape = (1013,)
+segments_loudness_start: shape = (1013,)
+segments_pitches: shape = (1013, 12)
+segments_start: shape = (1013,)
+segments_timbre: shape = (1013, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOZLAER12A58A7CA05
+start_of_fade_out: 250.032
+tatums_confidence: shape = (1499,)
+tatums_start: shape = (1499,)
+tempo: 172.909
+time_signature: 4
+time_signature_confidence: 0.785
+title: The Witching Hour
+track_7digitalid: 5766383
+track_id: TRBGLQN128F92E2637
+year: 2002

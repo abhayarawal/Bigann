@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 133293
+artist_familiarity: 0.360187293726
+artist_hotttnesss: 0.243064542342
+artist_id: AR41B9G1187B990D63
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 59516822-d21d-4534-b990-b6468b23d3ba
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sam Fan Thomas
+artist_playmeid: 154537
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 87ca87f118c818ed78b7d5bf1b7b78e4
+bars_confidence: shape = (237,)
+bars_start: shape = (237,)
+beats_confidence: shape = (967,)
+beats_start: shape = (967,)
+danceability: 0.0
+duration: 433.42322
+end_of_fade_in: 2.368
+energy: 0.0
+key: 7
+key_confidence: 0.634
+loudness: -12.398
+mode: 1
+mode_confidence: 0.572
+release: Makassi
+release_7digitalid: 175301
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (2015,)
+segments_loudness_max: shape = (2015,)
+segments_loudness_max_time: shape = (2015,)
+segments_loudness_start: shape = (2015,)
+segments_pitches: shape = (2015, 12)
+segments_start: shape = (2015,)
+segments_timbre: shape = (2015, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWTLWU12A6D4FC350
+start_of_fade_out: 428.013
+tatums_confidence: shape = (1935,)
+tatums_start: shape = (1935,)
+tempo: 135.458
+time_signature: 4
+time_signature_confidence: 1.0
+title: Sabina
+track_7digitalid: 1884262
+track_id: TRAHQDQ128F421F629
+year: 0

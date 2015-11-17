@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 83503
+artist_familiarity: 0.556721481227
+artist_hotttnesss: 0.415824885704
+artist_id: ARGUNFT1187FB3B140
+artist_latitude: nan
+artist_location: Downey, CA
+artist_longitude: nan
+artist_mbid: 3b061fda-3298-4cb2-bf36-8362c77faf20
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dave Alvin
+artist_playmeid: 18955
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 12461bc1a9fab3cdc1ca47428172ae45
+bars_confidence: shape = (176,)
+bars_start: shape = (176,)
+beats_confidence: shape = (707,)
+beats_start: shape = (707,)
+danceability: 0.0
+duration: 354.19383
+end_of_fade_in: 0.258
+energy: 0.0
+key: 0
+key_confidence: 1.0
+loudness: -15.241
+mode: 1
+mode_confidence: 1.0
+release: Ashgrove
+release_7digitalid: 539621
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1119,)
+segments_loudness_max: shape = (1119,)
+segments_loudness_max_time: shape = (1119,)
+segments_loudness_start: shape = (1119,)
+segments_pitches: shape = (1119, 12)
+segments_start: shape = (1119,)
+segments_timbre: shape = (1119, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3759843015
+song_id: SONUMRQ12AB017E917
+start_of_fade_out: 338.977
+tatums_confidence: shape = (1413,)
+tatums_start: shape = (1413,)
+tempo: 121.171
+time_signature: 4
+time_signature_confidence: 0.415
+title: Somewhere In Time
+track_7digitalid: 5970931
+track_id: TRAPZQV128F9313F84
+year: 0

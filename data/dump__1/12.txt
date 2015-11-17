@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 391974
+artist_familiarity: 0.494681416996
+artist_hotttnesss: 0.384146444305
+artist_id: ARYWCFZ11E2835CFDD
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Nazz
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 3c94818896967603dde172caf97b1c3f
+bars_confidence: shape = (107,)
+bars_start: shape = (107,)
+beats_confidence: shape = (434,)
+beats_start: shape = (434,)
+danceability: 0.0
+duration: 220.89098
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.606
+loudness: -6.302
+mode: 1
+mode_confidence: 0.475
+release: 13th And Pine
+release_7digitalid: 534470
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (600,)
+segments_loudness_max: shape = (600,)
+segments_loudness_max_time: shape = (600,)
+segments_loudness_start: shape = (600,)
+segments_pitches: shape = (600, 12)
+segments_start: shape = (600,)
+segments_timbre: shape = (600, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYPBCY12AB0181EF3
+start_of_fade_out: 213.107
+tatums_confidence: shape = (868,)
+tatums_start: shape = (868,)
+tempo: 119.691
+time_signature: 4
+time_signature_confidence: 0.491
+title: How Can You Call That Beautiful (Stewkey Vocal)
+track_7digitalid: 5909826
+track_id: TRAAIAX128F930531B
+year: 0

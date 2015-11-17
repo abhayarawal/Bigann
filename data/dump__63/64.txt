@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4074
+artist_familiarity: 0.555904122513
+artist_hotttnesss: 0.39547886116
+artist_id: ARHWVGW1187FB41479
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 20dcf3aa-c313-4f24-acd4-461327a76a73
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Paul Butterfield Blues Band
+artist_playmeid: 39205
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 0434c72f287b6e932fcb67d6b843d963
+bars_confidence: shape = (94,)
+bars_start: shape = (94,)
+beats_confidence: shape = (411,)
+beats_start: shape = (411,)
+danceability: 0.0
+duration: 289.61914
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.309
+loudness: -9.353
+mode: 1
+mode_confidence: 0.176
+release: In My Own Dreams
+release_7digitalid: 40313
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (985,)
+segments_loudness_max: shape = (985,)
+segments_loudness_max_time: shape = (985,)
+segments_loudness_start: shape = (985,)
+segments_pitches: shape = (985, 12)
+segments_start: shape = (985,)
+segments_timbre: shape = (985, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.582234289786
+song_id: SOIBRVU12A6D4F98A4
+start_of_fade_out: 279.626
+tatums_confidence: shape = (823,)
+tatums_start: shape = (823,)
+tempo: 86.278
+time_signature: 4
+time_signature_confidence: 1.0
+title: Last Hope's Gone (LP Version )
+track_7digitalid: 429795
+track_id: TRAVUXN128F147ED0F
+year: 0

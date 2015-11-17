@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 56020
+artist_familiarity: 0.651772658526
+artist_hotttnesss: 0.524477183577
+artist_id: ARYBGMF1187FB4D82C
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: c7cb9a2e-ff57-4bb8-bd2c-83524e18e369
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Berlin
+artist_playmeid: 188
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 4f2aa945cd3140032c55903daa9f17f1
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (435,)
+beats_start: shape = (435,)
+danceability: 0.0
+duration: 255.32036
+end_of_fade_in: 2.316
+energy: 0.0
+key: 11
+key_confidence: 0.741
+loudness: -4.521
+mode: 1
+mode_confidence: 0.628
+release: Voyeur
+release_7digitalid: 525626
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (907,)
+segments_loudness_max: shape = (907,)
+segments_loudness_max_time: shape = (907,)
+segments_loudness_start: shape = (907,)
+segments_pitches: shape = (907, 12)
+segments_start: shape = (907,)
+segments_timbre: shape = (907, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.270775998946
+song_id: SOAEGMV12A8C1455F2
+start_of_fade_out: 238.782
+tatums_confidence: shape = (871,)
+tatums_start: shape = (871,)
+tempo: 104.04
+time_signature: 4
+time_signature_confidence: 1.0
+title: Blink Of An Eye (Alternative)
+track_7digitalid: 5806681
+track_id: TRAVZWX128F92EC110
+year: 2002

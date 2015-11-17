@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 332491
+artist_familiarity: 0.488206851047
+artist_hotttnesss: 0.271250596262
+artist_id: ARYB42B1187FB37B01
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e32f569d-bcd8-4c29-95a1-b13bff72f9d5
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Les Malpolis
+artist_playmeid: -1
+artist_terms: shape = (9,)
+artist_terms_freq: shape = (9,)
+artist_terms_weight: shape = (9,)
+audio_md5: 080dfd6bae2ea43abb1ae43955c82a19
+bars_confidence: shape = (502,)
+bars_start: shape = (502,)
+beats_confidence: shape = (502,)
+beats_start: shape = (502,)
+danceability: 0.0
+duration: 298.89261
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.645
+loudness: -4.03
+mode: 0
+mode_confidence: 0.648
+release: This Machine Kills Fingers (Live)
+release_7digitalid: 648379
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1157,)
+segments_loudness_max: shape = (1157,)
+segments_loudness_max_time: shape = (1157,)
+segments_loudness_start: shape = (1157,)
+segments_pitches: shape = (1157, 12)
+segments_start: shape = (1157,)
+segments_timbre: shape = (1157, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFTZZW12AB0184ED6
+start_of_fade_out: 290.783
+tatums_confidence: shape = (1004,)
+tatums_start: shape = (1004,)
+tempo: 96.521
+time_signature: 1
+time_signature_confidence: 0.218
+title: Plus chère la vie
+track_7digitalid: 7184007
+track_id: TRAQBXG128F9352821
+year: 2009

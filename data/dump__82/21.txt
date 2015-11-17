@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16551
+artist_familiarity: 0.842368943943
+artist_hotttnesss: 0.604655128135
+artist_id: ARL6FF81187FB5A916
+artist_latitude: nan
+artist_location: Las Vegas, NV
+artist_longitude: nan
+artist_mbid: b9472588-93f3-4922-a1a2-74082cdf9ce8
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Panic! At The Disco
+artist_playmeid: 181013
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 6078324cd93ac1b75a7cb4890827872e
+bars_confidence: shape = (144,)
+bars_start: shape = (144,)
+beats_confidence: shape = (580,)
+beats_start: shape = (580,)
+danceability: 0.0
+duration: 210.25914
+end_of_fade_in: 0.125
+energy: 0.0
+key: 7
+key_confidence: 0.692
+loudness: -5.72
+mode: 0
+mode_confidence: 0.58
+release: A Fever You Can't Sweat Out
+release_7digitalid: 30216
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (845,)
+segments_loudness_max: shape = (845,)
+segments_loudness_max_time: shape = (845,)
+segments_loudness_start: shape = (845,)
+segments_pitches: shape = (845, 12)
+segments_start: shape = (845,)
+segments_timbre: shape = (845, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.727889462818
+song_id: SOLLXZJ12A6D4F96B0
+start_of_fade_out: 208.242
+tatums_confidence: shape = (1160,)
+tatums_start: shape = (1160,)
+tempo: 167.011
+time_signature: 4
+time_signature_confidence: 0.0
+title: I Constantly Thank God For Esteban (Album Version)
+track_7digitalid: 331103
+track_id: TRBCENO128F146C85B
+year: 2005

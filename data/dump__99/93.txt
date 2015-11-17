@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 960
+artist_familiarity: 0.639396479557
+artist_hotttnesss: 0.430942043436
+artist_id: ARI4S0E1187B9B06C0
+artist_latitude: 35.83073
+artist_location: Tennessee
+artist_longitude: -85.97874
+artist_mbid: 50a45c3d-b54b-4fd5-bb83-5046e4ff6813
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: David Arkenstone
+artist_playmeid: 16633
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: b71bc411ce282440cc6c207bd5260a38
+bars_confidence: shape = (182,)
+bars_start: shape = (182,)
+beats_confidence: shape = (731,)
+beats_start: shape = (731,)
+danceability: 0.0
+duration: 314.5922
+end_of_fade_in: 3.895
+energy: 0.0
+key: 9
+key_confidence: 0.658
+loudness: -14.881
+mode: 1
+mode_confidence: 0.648
+release: Return Of The Guardians
+release_7digitalid: 149791
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1029,)
+segments_loudness_max: shape = (1029,)
+segments_loudness_max_time: shape = (1029,)
+segments_loudness_start: shape = (1029,)
+segments_pitches: shape = (1029, 12)
+segments_start: shape = (1029,)
+segments_timbre: shape = (1029, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.360370582712
+song_id: SOBUUYV12A58A7DA27
+start_of_fade_out: 296.153
+tatums_confidence: shape = (1462,)
+tatums_start: shape = (1462,)
+tempo: 141.975
+time_signature: 4
+time_signature_confidence: 0.659
+title: The Forgotten Lands
+track_7digitalid: 1572055
+track_id: TRBIJIA128F425F57D
+year: 1996

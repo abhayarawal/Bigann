@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41090
+artist_familiarity: 0.477387133728
+artist_hotttnesss: 0.363610864647
+artist_id: AR5R7791187FB3A8C3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 07c766d0-7734-4574-ad5a-0798ae57ff5d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Alfredo Kraus - Orquesta de Conciertos de Madrid - Pablo Sorozábal
+artist_playmeid: 58792
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 4f58dd112eea8066268b5acc0ef1e215
+bars_confidence: shape = (118,)
+bars_start: shape = (118,)
+beats_confidence: shape = (383,)
+beats_start: shape = (383,)
+danceability: 0.0
+duration: 243.48689
+end_of_fade_in: 0.091
+energy: 0.0
+key: 4
+key_confidence: 0.658
+loudness: -13.608
+mode: 1
+mode_confidence: 0.506
+release: Romanzas de Zarzuela
+release_7digitalid: 560332
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (735,)
+segments_loudness_max: shape = (735,)
+segments_loudness_max_time: shape = (735,)
+segments_loudness_start: shape = (735,)
+segments_pitches: shape = (735, 12)
+segments_start: shape = (735,)
+segments_timbre: shape = (735, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJDQMV12AB0182752
+start_of_fade_out: 243.487
+tatums_confidence: shape = (766,)
+tatums_start: shape = (766,)
+tempo: 92.475
+time_signature: 3
+time_signature_confidence: 0.835
+title: El último romántico: romanza de tenor
+track_7digitalid: 6201726
+track_id: TRAZBZW128F934BCE0
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 31247
+artist_familiarity: 0.494902079229
+artist_hotttnesss: 0.334143883291
+artist_id: ARRHVVL1187B991E41
+artist_latitude: nan
+artist_location: Vallejo, CA
+artist_longitude: nan
+artist_mbid: 8ca2e10a-7a93-4065-aa77-8f277bfb1c84
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Johnny Otis Orchestra
+artist_playmeid: 21516
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: f5922baf05d7bf85bfc9284404bba21f
+bars_confidence: shape = (104,)
+bars_start: shape = (104,)
+beats_confidence: shape = (319,)
+beats_start: shape = (319,)
+danceability: 0.0
+duration: 182.15138
+end_of_fade_in: 0.166
+energy: 0.0
+key: 5
+key_confidence: 0.858
+loudness: -20.842
+mode: 1
+mode_confidence: 0.592
+release: Jukebox Hits 1946-1954
+release_7digitalid: 161790
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (556,)
+segments_loudness_max: shape = (556,)
+segments_loudness_max_time: shape = (556,)
+segments_loudness_start: shape = (556,)
+segments_pitches: shape = (556, 12)
+segments_start: shape = (556,)
+segments_timbre: shape = (556, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUIYTT12A8C137D45
+start_of_fade_out: 173.447
+tatums_confidence: shape = (637,)
+tatums_start: shape = (637,)
+tempo: 105.268
+time_signature: 3
+time_signature_confidence: 0.861
+title: Cry Baby
+track_7digitalid: 1712865
+track_id: TRABLTX128F42813FD
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4387
+artist_familiarity: 0.713322146547
+artist_hotttnesss: 0.473613189375
+artist_id: AR6CLFP1187B9ACB94
+artist_latitude: nan
+artist_location: Sacramento, CA
+artist_longitude: nan
+artist_mbid: 8a7ca8b0-d23c-4eff-8fe9-6220ba5c9c76
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Daniel Johnston
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 0e4b26322a479e7e0a206ab49e64eacf
+bars_confidence: shape = (70,)
+bars_start: shape = (70,)
+beats_confidence: shape = (284,)
+beats_start: shape = (284,)
+danceability: 0.0
+duration: 130.55955
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.557
+loudness: -7.324
+mode: 1
+mode_confidence: 0.434
+release: Lost And Found
+release_7digitalid: 479746
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (385,)
+segments_loudness_max: shape = (385,)
+segments_loudness_max_time: shape = (385,)
+segments_loudness_start: shape = (385,)
+segments_pitches: shape = (385, 12)
+segments_start: shape = (385,)
+segments_timbre: shape = (385, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.460484844986
+song_id: SOFIBPT12A6D4F65E1
+start_of_fade_out: 125.544
+tatums_confidence: shape = (568,)
+tatums_start: shape = (568,)
+tempo: 133.142
+time_signature: 4
+time_signature_confidence: 0.807
+title: Rock Around The Christmas Tree
+track_7digitalid: 5325166
+track_id: TRAZVEJ128F92EDA77
+year: 2006

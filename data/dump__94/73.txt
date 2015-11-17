@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 194107
+artist_familiarity: 0.589190725288
+artist_hotttnesss: 0.439438995527
+artist_id: ARVVLMQ11F4C8456E4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Knack
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 17b205009090dd2126826b1c532ab74e
+bars_confidence: shape = (97,)
+bars_start: shape = (97,)
+beats_confidence: shape = (392,)
+beats_start: shape = (392,)
+danceability: 0.0
+duration: 215.64036
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.609
+loudness: -7.742
+mode: 1
+mode_confidence: 0.584
+release: Normal as the Next Guy
+release_7digitalid: 252899
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (669,)
+segments_loudness_max: shape = (669,)
+segments_loudness_max_time: shape = (669,)
+segments_loudness_start: shape = (669,)
+segments_pitches: shape = (669, 12)
+segments_start: shape = (669,)
+segments_timbre: shape = (669, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.262308997212
+song_id: SOFMHGN12A8C136BCB
+start_of_fade_out: 206.118
+tatums_confidence: shape = (1176,)
+tatums_start: shape = (1176,)
+tempo: 110.462
+time_signature: 4
+time_signature_confidence: 0.052
+title: Dance Of Romance
+track_7digitalid: 2700028
+track_id: TRBGRAL128F42480F9
+year: 0

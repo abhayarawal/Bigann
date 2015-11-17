@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19057
+artist_familiarity: 0.568171928616
+artist_hotttnesss: 0.387496801179
+artist_id: ARONRBJ11F50C49E81
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 61f62beb-56e6-4206-b06c-8e1168931007
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Captain Beefheart & The Magic Band
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: f8baa4b512dfb28317b2c8762d41b546
+bars_confidence: shape = (158,)
+bars_start: shape = (158,)
+beats_confidence: shape = (637,)
+beats_start: shape = (637,)
+danceability: 0.0
+duration: 206.57587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.289
+loudness: -15.794
+mode: 0
+mode_confidence: 0.312
+release: Strictly Personal
+release_7digitalid: 27755
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (820,)
+segments_loudness_max: shape = (820,)
+segments_loudness_max_time: shape = (820,)
+segments_loudness_start: shape = (820,)
+segments_pitches: shape = (820, 12)
+segments_start: shape = (820,)
+segments_timbre: shape = (820, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.70109712705
+song_id: SOLEPCJ12A6D4F7404
+start_of_fade_out: 206.576
+tatums_confidence: shape = (1274,)
+tatums_start: shape = (1274,)
+tempo: 186.23
+time_signature: 4
+time_signature_confidence: 0.857
+title: On Tomorrow
+track_7digitalid: 303769
+track_id: TRBBMLR128F1466822
+year: 0

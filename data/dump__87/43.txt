@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 48409
+artist_familiarity: 0.665322161906
+artist_hotttnesss: 0.394217198901
+artist_id: ARRJNTE1187FB44E12
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 73d882c7-1146-4012-a61b-a3b2c11fce2f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Casiotone For The Painfully Alone
+artist_playmeid: -1
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: d40022176636657bd58a076f3b2010bb
+bars_confidence: shape = (8,)
+bars_start: shape = (8,)
+beats_confidence: shape = (53,)
+beats_start: shape = (53,)
+danceability: 0.0
+duration: 47.46404
+end_of_fade_in: 0.595
+energy: 0.0
+key: 0
+key_confidence: 0.0
+loudness: -11.088
+mode: 1
+mode_confidence: 0.0
+release: Etiquette
+release_7digitalid: 234425
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (129,)
+segments_loudness_max: shape = (129,)
+segments_loudness_max_time: shape = (129,)
+segments_loudness_start: shape = (129,)
+segments_pitches: shape = (129, 12)
+segments_start: shape = (129,)
+segments_timbre: shape = (129, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.7545622959
+song_id: SOQXTLG12A6D4FA3E8
+start_of_fade_out: 43.752
+tatums_confidence: shape = (161,)
+tatums_start: shape = (161,)
+tempo: 72.685
+time_signature: 5
+time_signature_confidence: 0.586
+title: Happy Mother's Day
+track_7digitalid: 2573761
+track_id: TRBEAWP128F422B4D1
+year: 2006

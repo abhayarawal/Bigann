@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17528
+artist_familiarity: 0.492253132435
+artist_hotttnesss: 0.256803368795
+artist_id: ARGGEGH11F4C83C076
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Miriam Yeung
+artist_playmeid: 59132
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 49785015727df502da27bed703a26ad1
+bars_confidence: shape = (94,)
+bars_start: shape = (94,)
+beats_confidence: shape = (379,)
+beats_start: shape = (379,)
+danceability: 0.0
+duration: 258.5073
+end_of_fade_in: 0.16
+energy: 0.0
+key: 0
+key_confidence: 0.763
+loudness: -7.963
+mode: 1
+mode_confidence: 0.677
+release: Miriam
+release_7digitalid: 25170
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (873,)
+segments_loudness_max: shape = (873,)
+segments_loudness_max_time: shape = (873,)
+segments_loudness_start: shape = (873,)
+segments_pitches: shape = (873, 12)
+segments_start: shape = (873,)
+segments_timbre: shape = (873, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOINYEU12A6D4F834F
+start_of_fade_out: 249.208
+tatums_confidence: shape = (757,)
+tatums_start: shape = (757,)
+tempo: 90.027
+time_signature: 4
+time_signature_confidence: 0.528
+title: Quan Tou Tang
+track_7digitalid: 267120
+track_id: TRBFZPR128F145EAB9
+year: 0

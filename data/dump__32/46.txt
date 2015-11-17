@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 172406
+artist_familiarity: 0.507126310044
+artist_hotttnesss: 0.357985697733
+artist_id: AROGN2E1187B98D292
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1c4570ee-36bc-432f-8065-ef4e273a6b4d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Deep Puddle Dynamics
+artist_playmeid: -1
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 87c48e2797f7eb7772e09dbe8b1893f5
+bars_confidence: shape = (260,)
+bars_start: shape = (260,)
+beats_confidence: shape = (1043,)
+beats_start: shape = (1043,)
+danceability: 0.0
+duration: 353.07057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.355
+loudness: -5.756
+mode: 1
+mode_confidence: 0.276
+release: The Taste Of Rain... Why Kneel
+release_7digitalid: 225448
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1510,)
+segments_loudness_max: shape = (1510,)
+segments_loudness_max_time: shape = (1510,)
+segments_loudness_start: shape = (1510,)
+segments_pitches: shape = (1510, 12)
+segments_start: shape = (1510,)
+segments_timbre: shape = (1510, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.458482812244
+song_id: SOAWAPM12A6D4FB56A
+start_of_fade_out: 353.071
+tatums_confidence: shape = (2086,)
+tatums_start: shape = (2086,)
+tempo: 177.876
+time_signature: 4
+time_signature_confidence: 0.0
+title: June 26th_ 1999 - Slight
+track_7digitalid: 2466232
+track_id: TRALAJG128F4213080
+year: 1999

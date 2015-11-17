@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 170417
+artist_familiarity: 0.574400788692
+artist_hotttnesss: 0.446071584412
+artist_id: ARRH2S81187B98C8AA
+artist_latitude: 43.07295
+artist_location: Madison, Wisconsin
+artist_longitude: -89.38669
+artist_mbid: fb7659b2-5ceb-45ac-be95-b0c1f832caec
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Bongzilla
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: b3503883aca3739536c65f94fd0212b2
+bars_confidence: shape = (208,)
+bars_start: shape = (208,)
+beats_confidence: shape = (637,)
+beats_start: shape = (637,)
+danceability: 0.0
+duration: 419.68281
+end_of_fade_in: 0.142
+energy: 0.0
+key: 11
+key_confidence: 0.109
+loudness: -6.407
+mode: 1
+mode_confidence: 0.446
+release: Amerijuanican
+release_7digitalid: 223456
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (988,)
+segments_loudness_max: shape = (988,)
+segments_loudness_max_time: shape = (988,)
+segments_loudness_start: shape = (988,)
+segments_pitches: shape = (988, 12)
+segments_start: shape = (988,)
+segments_timbre: shape = (988, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.548678055568
+song_id: SOZGZSN12A8C1407E3
+start_of_fade_out: 412.758
+tatums_confidence: shape = (1274,)
+tatums_start: shape = (1274,)
+tempo: 91.498
+time_signature: 3
+time_signature_confidence: 1.0
+title: Cutdown
+track_7digitalid: 2441183
+track_id: TRAGEQI128F429154D
+year: 2005

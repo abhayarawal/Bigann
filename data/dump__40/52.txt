@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41417
+artist_familiarity: 0.510367932469
+artist_hotttnesss: 0.405080353325
+artist_id: ARHK7A51187FB411D8
+artist_latitude: 40.58751
+artist_location: Redding, CA
+artist_longitude: -122.39293
+artist_mbid: 90dcf7e4-4df5-44cb-a120-3765db263418
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Roy Rogers
+artist_playmeid: 118077
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 213b1b391bddcd951677e31d505e7ddb
+bars_confidence: shape = (73,)
+bars_start: shape = (73,)
+beats_confidence: shape = (297,)
+beats_start: shape = (297,)
+danceability: 0.0
+duration: 158.01424
+end_of_fade_in: 0.281
+energy: 0.0
+key: 10
+key_confidence: 0.412
+loudness: -18.519
+mode: 1
+mode_confidence: 0.45
+release: King Of The Cowboys
+release_7digitalid: 563784
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (387,)
+segments_loudness_max: shape = (387,)
+segments_loudness_max_time: shape = (387,)
+segments_loudness_start: shape = (387,)
+segments_pitches: shape = (387, 12)
+segments_start: shape = (387,)
+segments_timbre: shape = (387, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUUKDE12AB018956E
+start_of_fade_out: 152.845
+tatums_confidence: shape = (594,)
+tatums_start: shape = (594,)
+tempo: 115.319
+time_signature: 4
+time_signature_confidence: 0.0
+title: Ride Ranger Ride
+track_7digitalid: 6240235
+track_id: TRANTRC128F9355329
+year: 0

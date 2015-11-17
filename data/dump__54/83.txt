@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21191
+artist_familiarity: 0.738995906455
+artist_hotttnesss: 0.563366896149
+artist_id: ARDT9VH1187B999C0B
+artist_latitude: nan
+artist_location: South Carolina
+artist_longitude: nan
+artist_mbid: 6b22de04-fb48-44aa-bd02-c1427f635477
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Emery
+artist_playmeid: 10889
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 34fb2e18a9c3fd31c1e913a8c1556099
+bars_confidence: shape = (126,)
+bars_start: shape = (126,)
+beats_confidence: shape = (509,)
+beats_start: shape = (509,)
+danceability: 0.0
+duration: 186.51383
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.439
+loudness: -3.122
+mode: 1
+mode_confidence: 0.55
+release: In Shallow Seas We Sail
+release_7digitalid: 440698
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (460,)
+segments_loudness_max: shape = (460,)
+segments_loudness_max_time: shape = (460,)
+segments_loudness_start: shape = (460,)
+segments_pitches: shape = (460, 12)
+segments_start: shape = (460,)
+segments_timbre: shape = (460, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.626165759669
+song_id: SOFKGNK12AB018079D
+start_of_fade_out: 171.706
+tatums_confidence: shape = (1018,)
+tatums_start: shape = (1018,)
+tempo: 175.911
+time_signature: 4
+time_signature_confidence: 1.0
+title: Dear Death Part 2
+track_7digitalid: 4904514
+track_id: TRASTKB128F92F6AE7
+year: 0

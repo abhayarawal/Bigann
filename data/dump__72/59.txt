@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 54973
+artist_familiarity: 0.687619666235
+artist_hotttnesss: 0.417068912495
+artist_id: ARXK4YK1187FB4D0C4
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: 5483e1c0-14ca-4ec4-9b03-c4e987420e4e
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Dub Pistols feat. TK & JMS
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 547261a917025fff9559c062c852839f
+bars_confidence: shape = (105,)
+bars_start: shape = (105,)
+beats_confidence: shape = (424,)
+beats_start: shape = (424,)
+danceability: 0.0
+duration: 238.18404
+end_of_fade_in: 0.237
+energy: 0.0
+key: 1
+key_confidence: 0.624
+loudness: -6.357
+mode: 0
+mode_confidence: 0.514
+release: Open
+release_7digitalid: 112016
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1007,)
+segments_loudness_max: shape = (1007,)
+segments_loudness_max_time: shape = (1007,)
+segments_loudness_start: shape = (1007,)
+segments_pitches: shape = (1007, 12)
+segments_start: shape = (1007,)
+segments_timbre: shape = (1007, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHWAHE12A8C13DDD1
+start_of_fade_out: 232.676
+tatums_confidence: shape = (848,)
+tatums_start: shape = (848,)
+tempo: 108.998
+time_signature: 4
+time_signature_confidence: 1.0
+title: Open (Koobas Koobatronmix)
+track_7digitalid: 1157935
+track_id: TRAYVNF128F42986EC
+year: 0

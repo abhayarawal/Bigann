@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11299
+artist_familiarity: 0.527339183499
+artist_hotttnesss: 0.31055608318
+artist_id: ARUP17W1187B98CAB9
+artist_latitude: nan
+artist_location: Chuckatuck, VA
+artist_longitude: nan
+artist_mbid: 9d99c378-247c-47a3-94ea-753efa330023
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Charlie Byrd
+artist_playmeid: 16084
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 02209d3182fe53fa00799407e0b72cb0
+bars_confidence: shape = (418,)
+bars_start: shape = (418,)
+beats_confidence: shape = (418,)
+beats_start: shape = (418,)
+danceability: 0.0
+duration: 229.32853
+end_of_fade_in: 0.148
+energy: 0.0
+key: 0
+key_confidence: 0.675
+loudness: -14.048
+mode: 1
+mode_confidence: 0.472
+release: Byrd By The Sea
+release_7digitalid: 188444
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (1040,)
+segments_loudness_max: shape = (1040,)
+segments_loudness_max_time: shape = (1040,)
+segments_loudness_start: shape = (1040,)
+segments_pitches: shape = (1040, 12)
+segments_start: shape = (1040,)
+segments_timbre: shape = (1040, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIRSKB12A8C13365C
+start_of_fade_out: 218.43
+tatums_confidence: shape = (835,)
+tatums_start: shape = (835,)
+tempo: 109.542
+time_signature: 1
+time_signature_confidence: 0.015
+title: It Don't Mean A Thing (If It Ain't Got That Swing)
+track_7digitalid: 2045775
+track_id: TRAOUEB128F423D59E
+year: 1991

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 71053
+artist_familiarity: 0.708368203707
+artist_hotttnesss: 0.442924543506
+artist_id: ARORFTD1187B99F7D4
+artist_latitude: nan
+artist_location: 台北, Taiwan
+artist_longitude: nan
+artist_mbid: aeba6cc0-8f63-454e-b15b-92195ad4ee6d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Epitaph
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: cb0776d36d3bfb8e6b26c4936e109d07
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (334,)
+beats_start: shape = (334,)
+danceability: 0.0
+duration: 247.14404
+end_of_fade_in: 0.313
+energy: 0.0
+key: 4
+key_confidence: 0.86
+loudness: -5.67
+mode: 0
+mode_confidence: 0.856
+release: Dancing With Ghosts
+release_7digitalid: 538761
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (652,)
+segments_loudness_max: shape = (652,)
+segments_loudness_max_time: shape = (652,)
+segments_loudness_start: shape = (652,)
+segments_pitches: shape = (652, 12)
+segments_start: shape = (652,)
+segments_timbre: shape = (652, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.227975203635
+song_id: SOOVRAK12AB017CB42
+start_of_fade_out: 241.447
+tatums_confidence: shape = (669,)
+tatums_start: shape = (669,)
+tempo: 81.887
+time_signature: 4
+time_signature_confidence: 0.628
+title: Ride The Storm
+track_7digitalid: 5965214
+track_id: TRAYUOU128F9312994
+year: 0

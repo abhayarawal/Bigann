@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19767
+artist_familiarity: 0.539380590211
+artist_hotttnesss: 0.360583582152
+artist_id: ARRA2F91187B9B4061
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7463fbd2-60fb-471a-a5cd-d42b75d72dad
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bare Jr.
+artist_playmeid: 23520
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: ab0d99e24684e8c59ec14eff82b07bc4
+bars_confidence: shape = (152,)
+bars_start: shape = (152,)
+beats_confidence: shape = (459,)
+beats_start: shape = (459,)
+danceability: 0.0
+duration: 254.79791
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.647
+loudness: -7.309
+mode: 1
+mode_confidence: 0.54
+release: Boo-Tay
+release_7digitalid: 282150
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (772,)
+segments_loudness_max: shape = (772,)
+segments_loudness_max_time: shape = (772,)
+segments_loudness_start: shape = (772,)
+segments_pitches: shape = (772, 12)
+segments_start: shape = (772,)
+segments_timbre: shape = (772, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SODJUNF12A8C13337F
+start_of_fade_out: 236.141
+tatums_confidence: shape = (917,)
+tatums_start: shape = (917,)
+tempo: 107.529
+time_signature: 3
+time_signature_confidence: 1.0
+title: Naked Albino
+track_7digitalid: 3158447
+track_id: TRAAMXP128F4264F6A
+year: 1998

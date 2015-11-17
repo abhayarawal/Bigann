@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7546
+artist_familiarity: 0.595645308494
+artist_hotttnesss: 0.426009300484
+artist_id: AR6EVQA1187B9AA1DF
+artist_latitude: nan
+artist_location: Kingston, Jamaica
+artist_longitude: nan
+artist_mbid: bd67db55-a85f-4c2b-b5cd-4c8f9ceb50d4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cocoa Tea
+artist_playmeid: 34176
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: f835f70da154d6d4b6f12fbc197af05e
+bars_confidence: shape = (86,)
+bars_start: shape = (86,)
+beats_confidence: shape = (437,)
+beats_start: shape = (437,)
+danceability: 0.0
+duration: 228.96281
+end_of_fade_in: 0.106
+energy: 0.0
+key: 0
+key_confidence: 0.453
+loudness: -11.627
+mode: 1
+mode_confidence: 0.437
+release: Kingston Hot
+release_7digitalid: 263360
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1050,)
+segments_loudness_max: shape = (1050,)
+segments_loudness_max_time: shape = (1050,)
+segments_loudness_start: shape = (1050,)
+segments_pitches: shape = (1050, 12)
+segments_start: shape = (1050,)
+segments_timbre: shape = (1050, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOJKRUL12A8C137034
+start_of_fade_out: 219.04
+tatums_confidence: shape = (1310,)
+tatums_start: shape = (1310,)
+tempo: 115.862
+time_signature: 5
+time_signature_confidence: 0.889
+title: 100%
+track_7digitalid: 2767455
+track_id: TRAQOSE128F42575EF
+year: 1992

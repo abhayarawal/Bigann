@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 598
+artist_familiarity: 0.889613554744
+artist_hotttnesss: 0.593808365175
+artist_id: ARSE5NP1187B9B98AB
+artist_latitude: nan
+artist_location: Chicago, IL
+artist_longitude: nan
+artist_mbid: 0bc858a1-3573-4216-9423-c96dd8c72919
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Twista
+artist_playmeid: 1634
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: b7c8d255ae1ad3e313b9535314c5be12
+bars_confidence: shape = (188,)
+bars_start: shape = (188,)
+beats_confidence: shape = (754,)
+beats_start: shape = (754,)
+danceability: 0.0
+duration: 368.03873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.847
+loudness: -6.828
+mode: 0
+mode_confidence: 0.728
+release: Adrenaline Rush
+release_7digitalid: 138239
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1725,)
+segments_loudness_max: shape = (1725,)
+segments_loudness_max_time: shape = (1725,)
+segments_loudness_start: shape = (1725,)
+segments_pitches: shape = (1725, 12)
+segments_start: shape = (1725,)
+segments_timbre: shape = (1725, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.460541281359
+song_id: SOLPNHG12A8AE47934
+start_of_fade_out: 368.039
+tatums_confidence: shape = (1509,)
+tatums_start: shape = (1509,)
+tempo: 120.389
+time_signature: 4
+time_signature_confidence: 0.62
+title: It Feels So Good (Album Version)
+track_7digitalid: 1434834
+track_id: TRALPZN128F4241A2F
+year: 1997

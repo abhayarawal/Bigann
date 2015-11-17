@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 204883
+artist_familiarity: 0.5593586309
+artist_hotttnesss: 0.399639490172
+artist_id: ARCZ42S1187B98C0D7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5791156a-75e9-454d-9a23-fbc2896f9151
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ Slugo
+artist_playmeid: -1
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: a36e7173c08ed55aeff9d3b581e77b43
+bars_confidence: shape = (126,)
+bars_start: shape = (126,)
+beats_confidence: shape = (508,)
+beats_start: shape = (508,)
+danceability: 0.0
+duration: 199.20934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -9.699
+mode: 1
+mode_confidence: 0.0
+release: DJ Slugo Juke Chronicles Vol. 10
+release_7digitalid: 329922
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (1129,)
+segments_loudness_max: shape = (1129,)
+segments_loudness_max_time: shape = (1129,)
+segments_loudness_start: shape = (1129,)
+segments_pitches: shape = (1129, 12)
+segments_start: shape = (1129,)
+segments_timbre: shape = (1129, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SONGTGF12AB017EC2C
+start_of_fade_out: 199.209
+tatums_confidence: shape = (1015,)
+tatums_start: shape = (1015,)
+tempo: 150.056
+time_signature: 4
+time_signature_confidence: 0.0
+title: Whip It
+track_7digitalid: 3707122
+track_id: TRABXSN128F92E7B93
+year: 0

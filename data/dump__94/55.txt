@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10173
+artist_familiarity: 0.87253659867
+artist_hotttnesss: 0.610731462904
+artist_id: AR12F2S1187FB56EEF
+artist_latitude: nan
+artist_location: Boston, MA
+artist_longitude: nan
+artist_mbid: 3d2b98e5-556f-4451-a3ff-c50ea18d57cb
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Aerosmith
+artist_playmeid: 39
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 676b652bfd0ad1108e8e176c23885017
+bars_confidence: shape = (411,)
+bars_start: shape = (411,)
+beats_confidence: shape = (1238,)
+beats_start: shape = (1238,)
+danceability: 0.0
+duration: 318.61506
+end_of_fade_in: 0.287
+energy: 0.0
+key: 6
+key_confidence: 0.0
+loudness: -4.43
+mode: 0
+mode_confidence: 0.352
+release: Young Lust: The Aerosmith Anthology
+release_7digitalid: 14312
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (843,)
+segments_loudness_max: shape = (843,)
+segments_loudness_max_time: shape = (843,)
+segments_loudness_start: shape = (843,)
+segments_pitches: shape = (843, 12)
+segments_start: shape = (843,)
+segments_timbre: shape = (843, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOOWIC12A6701C7E5
+start_of_fade_out: 301.238
+tatums_confidence: shape = (1238,)
+tatums_start: shape = (1238,)
+tempo: 232.709
+time_signature: 3
+time_signature_confidence: 1.0
+title: Crazy
+track_7digitalid: 148141
+track_id: TRBGPJP128E078ED20
+year: 1993

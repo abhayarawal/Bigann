@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 293676
+artist_familiarity: 0.453600538864
+artist_hotttnesss: 0.350803574069
+artist_id: ARN4IYF1187FB49D76
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 733fd871-62b7-4fa3-9c70-6e7aa6cdfe0e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pagan Wanderer Lu
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: dbe9496fef95599252e78b3ab6af0f92
+bars_confidence: shape = (40,)
+bars_start: shape = (40,)
+beats_confidence: shape = (238,)
+beats_start: shape = (238,)
+danceability: 0.0
+duration: 131.44771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.553
+loudness: -9.771
+mode: 1
+mode_confidence: 0.555
+release: Perfection R.I.P.
+release_7digitalid: 383446
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (400,)
+segments_loudness_max: shape = (400,)
+segments_loudness_max_time: shape = (400,)
+segments_loudness_start: shape = (400,)
+segments_pitches: shape = (400, 12)
+segments_start: shape = (400,)
+segments_timbre: shape = (400, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOWEEDF12A58A765D9
+start_of_fade_out: 127.431
+tatums_confidence: shape = (475,)
+tatums_start: shape = (475,)
+tempo: 108.829
+time_signature: 5
+time_signature_confidence: 0.052
+title: (eskomolto)
+track_7digitalid: 4253314
+track_id: TRBHRNN128F92DFCE7
+year: 0

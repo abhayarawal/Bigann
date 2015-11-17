@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10627
+artist_familiarity: 0.359129965901
+artist_hotttnesss: 0.274197771089
+artist_id: ARODP5P1187FB40142
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0ef41d78-6a69-44fa-b355-23581a88990a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Eddie Cano
+artist_playmeid: 47311
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 918ec39a5fd89c54c0de3cbffc7bd364
+bars_confidence: shape = (53,)
+bars_start: shape = (53,)
+beats_confidence: shape = (213,)
+beats_start: shape = (213,)
+danceability: 0.0
+duration: 123.66322
+end_of_fade_in: 0.281
+energy: 0.0
+key: 2
+key_confidence: 0.103
+loudness: -26.062
+mode: 0
+mode_confidence: 0.357
+release: Cano Plays Mancini
+release_7digitalid: 461031
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (365,)
+segments_loudness_max: shape = (365,)
+segments_loudness_max_time: shape = (365,)
+segments_loudness_start: shape = (365,)
+segments_pitches: shape = (365, 12)
+segments_start: shape = (365,)
+segments_timbre: shape = (365, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBBJRO12AB01892B8
+start_of_fade_out: 111.45
+tatums_confidence: shape = (426,)
+tatums_start: shape = (426,)
+tempo: 107.023
+time_signature: 4
+time_signature_confidence: 0.0
+title: Blue Satin (Album Version)
+track_7digitalid: 5133235
+track_id: TRAXXTG128F932B324
+year: 0

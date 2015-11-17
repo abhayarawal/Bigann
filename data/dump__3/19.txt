@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2752
+artist_familiarity: 0.685503630432
+artist_hotttnesss: 0.44673296759
+artist_id: ARDW5AW1187FB55708
+artist_latitude: 42.78668
+artist_location: Vermillion, SD
+artist_longitude: -96.92803
+artist_mbid: 42222090-c5e5-4243-8582-c29bc8b63ec6
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Shawn Colvin
+artist_playmeid: 1431
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: a3c9ea98d4f6041db90e71a07c2a9cc8
+bars_confidence: shape = (192,)
+bars_start: shape = (192,)
+beats_confidence: shape = (772,)
+beats_start: shape = (772,)
+danceability: 0.0
+duration: 224.60036
+end_of_fade_in: 0.085
+energy: 0.0
+key: 8
+key_confidence: 0.719
+loudness: -13.256
+mode: 1
+mode_confidence: 0.565
+release: Steady On
+release_7digitalid: 424081
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (824,)
+segments_loudness_max: shape = (824,)
+segments_loudness_max_time: shape = (824,)
+segments_loudness_start: shape = (824,)
+segments_pitches: shape = (824, 12)
+segments_start: shape = (824,)
+segments_timbre: shape = (824, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.425124658313
+song_id: SOTTXNS12AB0187861
+start_of_fade_out: 219.214
+tatums_confidence: shape = (1543,)
+tatums_start: shape = (1543,)
+tempo: 210.871
+time_signature: 4
+time_signature_confidence: 1.0
+title: Another Long One
+track_7digitalid: 4733059
+track_id: TRAAZQW128F93430DC
+year: 1989

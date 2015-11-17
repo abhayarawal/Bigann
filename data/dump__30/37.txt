@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13912
+artist_familiarity: 0.806762595659
+artist_hotttnesss: 0.580095045199
+artist_id: ARF6ZTO1187FB3684F
+artist_latitude: nan
+artist_location: LONG BEACH, California
+artist_longitude: nan
+artist_mbid: e2c3c508-f0ab-49af-92c9-a81d66d67405
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Story Of The Year
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 3bd0b527be08deae990ea46f15b924f9
+bars_confidence: shape = (75,)
+bars_start: shape = (75,)
+beats_confidence: shape = (528,)
+beats_start: shape = (528,)
+danceability: 0.0
+duration: 224.41751
+end_of_fade_in: 2.241
+energy: 0.0
+key: 7
+key_confidence: 0.197
+loudness: -3.487
+mode: 0
+mode_confidence: 0.456
+release: The Constant [Deluxe Edition]
+release_7digitalid: 729628
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (609,)
+segments_loudness_max: shape = (609,)
+segments_loudness_max_time: shape = (609,)
+segments_loudness_start: shape = (609,)
+segments_pitches: shape = (609, 12)
+segments_start: shape = (609,)
+segments_timbre: shape = (609, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.628217964579
+song_id: SOJYPGP12AC960DE2A
+start_of_fade_out: 220.555
+tatums_confidence: shape = (1056,)
+tatums_start: shape = (1056,)
+tempo: 143.837
+time_signature: 7
+time_signature_confidence: 1.0
+title: Won Threw Ate
+track_7digitalid: 8082876
+track_id: TRAKGDZ12903CE4867
+year: 2010

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4705
+artist_familiarity: 0.707839968442
+artist_hotttnesss: 0.532445870959
+artist_id: ARYML1P1187B9AF39B
+artist_latitude: nan
+artist_location: Georgia
+artist_longitude: nan
+artist_mbid: d2db1078-c170-4e22-b261-14f3ad60a690
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Devo
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 68ea7dd527ea52d9bca20978048754b9
+bars_confidence: shape = (57,)
+bars_start: shape = (57,)
+beats_confidence: shape = (231,)
+beats_start: shape = (231,)
+danceability: 0.0
+duration: 159.89506
+end_of_fade_in: 0.102
+energy: 0.0
+key: 4
+key_confidence: 0.352
+loudness: -11.704
+mode: 0
+mode_confidence: 0.421
+release: Q: Are We Not Men?  A: We Are Devo / Devo Live
+release_7digitalid: 28253
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (502,)
+segments_loudness_max: shape = (502,)
+segments_loudness_max_time: shape = (502,)
+segments_loudness_start: shape = (502,)
+segments_pitches: shape = (502, 12)
+segments_start: shape = (502,)
+segments_timbre: shape = (502, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.614576981682
+song_id: SOKUUOE12A6D4F80EB
+start_of_fade_out: 153.652
+tatums_confidence: shape = (463,)
+tatums_start: shape = (463,)
+tempo: 88.841
+time_signature: 4
+time_signature_confidence: 0.452
+title: Sloppy (I Saw My Baby Gettin')
+track_7digitalid: 309578
+track_id: TRAUNEL128F1467D5C
+year: 1978

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 237975
+artist_familiarity: 0.939227164591
+artist_hotttnesss: 0.838447767795
+artist_id: ARX6TAQ11C8A415850
+artist_latitude: 40.71455
+artist_location: New York City
+artist_longitude: -74.00712
+artist_mbid: 650e7db6-b795-4eb5-a702-5ea2fc46c848
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Lady GaGa
+artist_playmeid: 24269
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 7e8fb6e91b74fcbf47cf4885947db1c5
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (345,)
+beats_start: shape = (345,)
+danceability: 0.0
+duration: 243.33016
+end_of_fade_in: 0.967
+energy: 0.0
+key: 3
+key_confidence: 0.72
+loudness: -11.323
+mode: 1
+mode_confidence: 0.538
+release: Live Lounge 4
+release_7digitalid: 623979
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (687,)
+segments_loudness_max: shape = (687,)
+segments_loudness_max_time: shape = (687,)
+segments_loudness_start: shape = (687,)
+segments_pitches: shape = (687, 12)
+segments_start: shape = (687,)
+segments_timbre: shape = (687, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTKNLA12AB01826E7
+start_of_fade_out: 238.91
+tatums_confidence: shape = (692,)
+tatums_start: shape = (692,)
+tempo: 86.499
+time_signature: 4
+time_signature_confidence: 0.147
+title: Poker Face
+track_7digitalid: 6927414
+track_id: TRAZWGK128F93141E3
+year: 2008

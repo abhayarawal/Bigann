@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19066
+artist_familiarity: 0.489360046492
+artist_hotttnesss: 0.362113477639
+artist_id: AR0NKFJ1187B9AF1FF
+artist_latitude: 51.77045
+artist_location: Essex, England
+artist_longitude: 0.64255
+artist_mbid: 888b9014-96eb-4794-8e7c-04385ff923ae
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Neil Innes
+artist_playmeid: 59139
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 25dc18cf192555d3ca5cb8ce3aed5e97
+bars_confidence: shape = (504,)
+bars_start: shape = (504,)
+beats_confidence: shape = (504,)
+beats_start: shape = (504,)
+danceability: 0.0
+duration: 222.87628
+end_of_fade_in: 0.444
+energy: 0.0
+key: 2
+key_confidence: 0.611
+loudness: -9.85
+mode: 1
+mode_confidence: 0.504
+release: Re-Cycled Vinyl Blues
+release_7digitalid: 27782
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (875,)
+segments_loudness_max: shape = (875,)
+segments_loudness_max_time: shape = (875,)
+segments_loudness_start: shape = (875,)
+segments_pitches: shape = (875, 12)
+segments_start: shape = (875,)
+segments_timbre: shape = (875, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOFJAI12A6D4F6F24
+start_of_fade_out: 215.203
+tatums_confidence: shape = (1007,)
+tatums_start: shape = (1007,)
+tempo: 140.069
+time_signature: 1
+time_signature_confidence: 0.0
+title: Come Out Into The Open
+track_7digitalid: 304186
+track_id: TRAMKXD128F146697F
+year: 1995

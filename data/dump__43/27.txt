@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 94766
+artist_familiarity: 0.474581232341
+artist_hotttnesss: 0.32121572592
+artist_id: ARIBE791187FB3FFA5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a837db0d-fbeb-4a68-a1e0-7803ab259085
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Mick Hucknall
+artist_playmeid: -1
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 05ae5e2217827cd7b404931b2ad0b55a
+bars_confidence: shape = (724,)
+bars_start: shape = (724,)
+beats_confidence: shape = (724,)
+beats_start: shape = (724,)
+danceability: 0.0
+duration: 406.93506
+end_of_fade_in: 0.09
+energy: 0.0
+key: 1
+key_confidence: 0.21
+loudness: -10.452
+mode: 0
+mode_confidence: 0.388
+release: A Tribute To A Legend
+release_7digitalid: 608617
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (1209,)
+segments_loudness_max: shape = (1209,)
+segments_loudness_max_time: shape = (1209,)
+segments_loudness_start: shape = (1209,)
+segments_pitches: shape = (1209, 12)
+segments_start: shape = (1209,)
+segments_timbre: shape = (1209, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHZPTV12AC4686D44
+start_of_fade_out: 382.264
+tatums_confidence: shape = (1448,)
+tatums_start: shape = (1448,)
+tempo: 107.398
+time_signature: 1
+time_signature_confidence: 0.872
+title: I Love You More Than You'll Ever Know
+track_7digitalid: 6762220
+track_id: TRAOTHS12903D07021
+year: 0

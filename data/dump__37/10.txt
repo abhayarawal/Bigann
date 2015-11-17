@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15556
+artist_familiarity: 0.629186017122
+artist_hotttnesss: 0.361483732792
+artist_id: AREAEX91187B98DC01
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ad8648f9-95ca-4fc1-bc19-9cee86e468d3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gaither Vocal Band
+artist_playmeid: 61337
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 11e0a049378e8f52bb65855e2ab432e4
+bars_confidence: shape = (62,)
+bars_start: shape = (62,)
+beats_confidence: shape = (253,)
+beats_start: shape = (253,)
+danceability: 0.0
+duration: 180.92363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.816
+loudness: -9.324
+mode: 1
+mode_confidence: 0.714
+release: Passin' The Faith Along
+release_7digitalid: 201649
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (633,)
+segments_loudness_max: shape = (633,)
+segments_loudness_max_time: shape = (633,)
+segments_loudness_start: shape = (633,)
+segments_pitches: shape = (633, 12)
+segments_start: shape = (633,)
+segments_timbre: shape = (633, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.438545028561
+song_id: SOQFVNY12A58A7F001
+start_of_fade_out: 171.491
+tatums_confidence: shape = (1012,)
+tatums_start: shape = (1012,)
+tempo: 86.249
+time_signature: 4
+time_signature_confidence: 0.701
+title: Passin' The Faith Along
+track_7digitalid: 2195209
+track_id: TRAMOZP128F425B7BC
+year: 0

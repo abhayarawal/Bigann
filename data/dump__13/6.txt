@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40247
+artist_familiarity: 0.632008012811
+artist_hotttnesss: 0.14468466091
+artist_id: AR0BV7E1187FB386C1
+artist_latitude: nan
+artist_location: Hollywood, CA
+artist_longitude: nan
+artist_mbid: 0c361ea5-98c6-4947-900b-201833f2dd84
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lee Ritenour
+artist_playmeid: 5194
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 00502d50580b8a0fbdef50b0c1eb7717
+bars_confidence: shape = (237,)
+bars_start: shape = (237,)
+beats_confidence: shape = (956,)
+beats_start: shape = (956,)
+danceability: 0.0
+duration: 444.81261
+end_of_fade_in: 6.194
+energy: 0.0
+key: 5
+key_confidence: 0.39
+loudness: -8.424
+mode: 0
+mode_confidence: 0.465
+release: OverTime
+release_7digitalid: 319809
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (1754,)
+segments_loudness_max: shape = (1754,)
+segments_loudness_max_time: shape = (1754,)
+segments_loudness_start: shape = (1754,)
+segments_pitches: shape = (1754, 12)
+segments_start: shape = (1754,)
+segments_timbre: shape = (1754, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBQWPU12A8C144A5E
+start_of_fade_out: 433.824
+tatums_confidence: shape = (1913,)
+tatums_start: shape = (1913,)
+tempo: 128.972
+time_signature: 4
+time_signature_confidence: 0.165
+title: Captain Fingers
+track_7digitalid: 3605700
+track_id: TRAEJDC128F92D1684
+year: 1977

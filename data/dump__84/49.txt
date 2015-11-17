@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 423330
+artist_familiarity: 0.528197685682
+artist_hotttnesss: 0.334555145561
+artist_id: AR0NS5Z1187B99AF79
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e8dab86e-63e3-44a5-b657-26bf8642179f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Zuma
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: f03438b4c794709d385c05eb939a3d79
+bars_confidence: shape = (284,)
+bars_start: shape = (284,)
+beats_confidence: shape = (1994,)
+beats_start: shape = (1994,)
+danceability: 0.0
+duration: 735.60771
+end_of_fade_in: 11.633
+energy: 0.0
+key: 9
+key_confidence: 0.703
+loudness: -7.662
+mode: 1
+mode_confidence: 0.405
+release: Juno
+release_7digitalid: 718276
+sections_confidence: shape = (31,)
+sections_start: shape = (31,)
+segments_confidence: shape = (2338,)
+segments_loudness_max: shape = (2338,)
+segments_loudness_max_time: shape = (2338,)
+segments_loudness_start: shape = (2338,)
+segments_pitches: shape = (2338, 12)
+segments_start: shape = (2338,)
+segments_timbre: shape = (2338, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLFRPO12AB018C705
+start_of_fade_out: 725.589
+tatums_confidence: shape = (3987,)
+tatums_start: shape = (3987,)
+tempo: 161.919
+time_signature: 7
+time_signature_confidence: 0.418
+title: Juno
+track_7digitalid: 7963047
+track_id: TRBCYXD12903CC7609
+year: 2001

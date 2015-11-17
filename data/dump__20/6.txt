@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 51753
+artist_familiarity: 0.504565761875
+artist_hotttnesss: 0.349488482362
+artist_id: ARZEA421187FB5B5BA
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 5c601227-87b5-4c65-ad99-84f0eb9008ca
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Lee Michaels
+artist_playmeid: 14877
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 9e244b35536b3f1782e4b7cf43a667f2
+bars_confidence: shape = (169,)
+bars_start: shape = (169,)
+beats_confidence: shape = (511,)
+beats_start: shape = (511,)
+danceability: 0.0
+duration: 249.80853
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.9
+loudness: -15.069
+mode: 1
+mode_confidence: 0.767
+release: Live
+release_7digitalid: 88561
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (677,)
+segments_loudness_max: shape = (677,)
+segments_loudness_max_time: shape = (677,)
+segments_loudness_start: shape = (677,)
+segments_pitches: shape = (677, 12)
+segments_start: shape = (677,)
+segments_timbre: shape = (677, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.248617723643
+song_id: SOAVVDB12A8C136842
+start_of_fade_out: 244.669
+tatums_confidence: shape = (1021,)
+tatums_start: shape = (1021,)
+tempo: 123.474
+time_signature: 3
+time_signature_confidence: 0.534
+title: My Lady
+track_7digitalid: 934057
+track_id: TRAGUSI128F42668FD
+year: 0

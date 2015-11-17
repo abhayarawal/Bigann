@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 176599
+artist_familiarity: 0.505847110537
+artist_hotttnesss: 0.383010327837
+artist_id: AR4W9EZ1187B99282A
+artist_latitude: 29.95369
+artist_location: New Orleans, LA
+artist_longitude: -90.07771
+artist_mbid: adf3d1c6-6a7d-446c-b191-28bac7a2ee4a
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Kenny Neal
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 731d094ec5f41d2f3444492c317bdf34
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (412,)
+beats_start: shape = (412,)
+danceability: 0.0
+duration: 295.1571
+end_of_fade_in: 0.351
+energy: 0.0
+key: 5
+key_confidence: 0.841
+loudness: -11.777
+mode: 1
+mode_confidence: 0.664
+release: Let Life Flow
+release_7digitalid: 534155
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1076,)
+segments_loudness_max: shape = (1076,)
+segments_loudness_max_time: shape = (1076,)
+segments_loudness_start: shape = (1076,)
+segments_pitches: shape = (1076, 12)
+segments_start: shape = (1076,)
+segments_timbre: shape = (1076, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONWYRE12AB0181366
+start_of_fade_out: 281.931
+tatums_confidence: shape = (1237,)
+tatums_start: shape = (1237,)
+tempo: 85.006
+time_signature: 4
+time_signature_confidence: 0.485
+title: Since I Met You Baby
+track_7digitalid: 5904769
+track_id: TRAFAXI128F9303F5B
+year: 0

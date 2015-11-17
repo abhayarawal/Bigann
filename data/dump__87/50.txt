@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4073
+artist_familiarity: 0.87682987775
+artist_hotttnesss: 0.584116573124
+artist_id: ARUGU0E1187B9B30F6
+artist_latitude: 34.05349
+artist_location: Los Angeles, California, United States
+artist_longitude: -118.24532
+artist_mbid: 9efff43b-3b29-4082-824e-bc82f646f93d
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: The Doors
+artist_playmeid: 500
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 686f8001e2f817309c53e9afb5881fda
+bars_confidence: shape = (219,)
+bars_start: shape = (219,)
+beats_confidence: shape = (881,)
+beats_start: shape = (881,)
+danceability: 0.0
+duration: 403.61751
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.4
+loudness: -9.053
+mode: 0
+mode_confidence: 0.432
+release: Set The Night On Fire: The Doors Bright Midnight Archives Concerts [w/Bonus Album]
+release_7digitalid: 54414
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1393,)
+segments_loudness_max: shape = (1393,)
+segments_loudness_max_time: shape = (1393,)
+segments_loudness_start: shape = (1393,)
+segments_pitches: shape = (1393, 12)
+segments_start: shape = (1393,)
+segments_timbre: shape = (1393, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORPYHC12A6D4F9F58
+start_of_fade_out: 376.738
+tatums_confidence: shape = (1763,)
+tatums_start: shape = (1763,)
+tempo: 131.013
+time_signature: 4
+time_signature_confidence: 0.496
+title: Roadhouse Blues (Live In Detroit) (LP Version)
+track_7digitalid: 566883
+track_id: TRBEBFU128F14971BD
+year: 0

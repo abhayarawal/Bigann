@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13038
+artist_familiarity: 0.58547953975
+artist_hotttnesss: 0.364384924468
+artist_id: ARW63KF1187B98AC48
+artist_latitude: 46.71067
+artist_location: FR
+artist_longitude: 1.71819
+artist_mbid: 8b74c6be-1f8d-4893-8526-1be4a3686f7a
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Julien Clerc
+artist_playmeid: 61961
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: bd051e847a1937ddf527d398e942e55e
+bars_confidence: shape = (139,)
+bars_start: shape = (139,)
+beats_confidence: shape = (560,)
+beats_start: shape = (560,)
+danceability: 0.0
+duration: 264.93342
+end_of_fade_in: 2.479
+energy: 0.0
+key: 6
+key_confidence: 0.731
+loudness: -8.648
+mode: 1
+mode_confidence: 0.774
+release: Si J'étais Elle
+release_7digitalid: 29212
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (808,)
+segments_loudness_max: shape = (808,)
+segments_loudness_max_time: shape = (808,)
+segments_loudness_start: shape = (808,)
+segments_pitches: shape = (808, 12)
+segments_start: shape = (808,)
+segments_timbre: shape = (808, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBTTKT12A6D4F8314
+start_of_fade_out: 252.053
+tatums_confidence: shape = (1121,)
+tatums_start: shape = (1121,)
+tempo: 128.549
+time_signature: 4
+time_signature_confidence: 0.445
+title: L'horizon Chimérique
+track_7digitalid: 321784
+track_id: TRAIOBB128F146A944
+year: 2000

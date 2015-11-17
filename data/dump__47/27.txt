@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 58282
+artist_familiarity: 0.0
+artist_hotttnesss: 0.370703169225
+artist_id: ARGDENL1250940EE3B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Christoper Titus
+artist_playmeid: -1
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: c3f5d66978199a80aba39edcf49d463c
+bars_confidence: shape = (37,)
+bars_start: shape = (37,)
+beats_confidence: shape = (163,)
+beats_start: shape = (163,)
+danceability: 0.0
+duration: 119.66649
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.482
+loudness: -9.322
+mode: 1
+mode_confidence: 0.418
+release: The 5th Annual End Of The World Tour
+release_7digitalid: 72447
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (515,)
+segments_loudness_max: shape = (515,)
+segments_loudness_max_time: shape = (515,)
+segments_loudness_start: shape = (515,)
+segments_pitches: shape = (515, 12)
+segments_start: shape = (515,)
+segments_timbre: shape = (515, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.520564622443
+song_id: SOCCUAU12A6BD56BE7
+start_of_fade_out: 119.666
+tatums_confidence: shape = (489,)
+tatums_start: shape = (489,)
+tempo: 80.8
+time_signature: 4
+time_signature_confidence: 0.64
+title: The Impala Incident (The Fifth Annual End Of The World Tour)
+track_7digitalid: 761320
+track_id: TRAQCIO128EF34C3F7
+year: 0

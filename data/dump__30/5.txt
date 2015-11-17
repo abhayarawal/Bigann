@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 126733
+artist_familiarity: 0.362997346826
+artist_hotttnesss: 0.291688059789
+artist_id: AR5NDDL1187B9A4EDB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 683aed33-85a4-48a0-a48d-17c8fa48cffd
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Big John Greer
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: bf4174f76ffa6a266e5dada6f069399e
+bars_confidence: shape = (381,)
+bars_start: shape = (381,)
+beats_confidence: shape = (381,)
+beats_start: shape = (381,)
+danceability: 0.0
+duration: 145.73669
+end_of_fade_in: 0.189
+energy: 0.0
+key: 7
+key_confidence: 0.715
+loudness: -7.265
+mode: 1
+mode_confidence: 0.592
+release: I'm The Fat Man
+release_7digitalid: 258482
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (563,)
+segments_loudness_max: shape = (563,)
+segments_loudness_max_time: shape = (563,)
+segments_loudness_start: shape = (563,)
+segments_pitches: shape = (563, 12)
+segments_start: shape = (563,)
+segments_timbre: shape = (563, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHLICT12A8C13C8C7
+start_of_fade_out: 143.203
+tatums_confidence: shape = (763,)
+tatums_start: shape = (763,)
+tempo: 159.939
+time_signature: 1
+time_signature_confidence: 0.0
+title: Bottle It Up And Go
+track_7digitalid: 2908827
+track_id: TRAKDDH128F427813C
+year: 1992

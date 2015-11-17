@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 464306
+artist_familiarity: 0.342558954068
+artist_hotttnesss: 0.292656453509
+artist_id: ARP8TSJ1187FB54852
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4ab4cf73-8bed-4364-a4e8-31b4f893bd34
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Carl Doy with NZSO
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: eb3b0808c4312ad4690fc183dfaf5f67
+bars_confidence: shape = (76,)
+bars_start: shape = (76,)
+beats_confidence: shape = (239,)
+beats_start: shape = (239,)
+danceability: 0.0
+duration: 158.56281
+end_of_fade_in: 0.223
+energy: 0.0
+key: 2
+key_confidence: 0.954
+loudness: -16.527
+mode: 1
+mode_confidence: 0.647
+release: Music For Christmas Lovers
+release_7digitalid: 662561
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (335,)
+segments_loudness_max: shape = (335,)
+segments_loudness_max_time: shape = (335,)
+segments_loudness_start: shape = (335,)
+segments_pitches: shape = (335, 12)
+segments_start: shape = (335,)
+segments_timbre: shape = (335, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SODAEVD12AB01886BB
+start_of_fade_out: 153.211
+tatums_confidence: shape = (478,)
+tatums_start: shape = (478,)
+tempo: 94.658
+time_signature: 3
+time_signature_confidence: 0.653
+title: The First Noel
+track_7digitalid: 7351211
+track_id: TRAAUMZ12903CA97DC
+year: 0

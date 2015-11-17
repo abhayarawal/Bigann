@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 262036
+artist_familiarity: 0.394805823659
+artist_hotttnesss: 0.239174796361
+artist_id: ARIBJIS11C8A414F70
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 76c131b2-8d57-4f98-b2bb-1c9630a84f78
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: NO-TONE ft.Inusa
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 79b2c494d3db8335e7051559bfdfcb3a
+bars_confidence: shape = (204,)
+bars_start: shape = (204,)
+beats_confidence: shape = (820,)
+beats_start: shape = (820,)
+danceability: 0.0
+duration: 396.7473
+end_of_fade_in: 0.509
+energy: 0.0
+key: 2
+key_confidence: 0.16
+loudness: -5.208
+mode: 1
+mode_confidence: 0.489
+release: Life is Love
+release_7digitalid: 120908
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1835,)
+segments_loudness_max: shape = (1835,)
+segments_loudness_max_time: shape = (1835,)
+segments_loudness_start: shape = (1835,)
+segments_pitches: shape = (1835, 12)
+segments_start: shape = (1835,)
+segments_timbre: shape = (1835, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.462643182592
+song_id: SOWOMMS12A8AE499EB
+start_of_fade_out: 388.47
+tatums_confidence: shape = (1641,)
+tatums_start: shape = (1641,)
+tempo: 126.012
+time_signature: 4
+time_signature_confidence: 0.0
+title: Life is Love
+track_7digitalid: 1250153
+track_id: TRAUXYC128F42A86E8
+year: 0

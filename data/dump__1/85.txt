@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 288930
+artist_familiarity: 0.515611095937
+artist_hotttnesss: 0.0
+artist_id: ARKE8PP1187B997DD4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: dd7d3072-332a-4bad-bd0e-5f038cc3b269
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Brixx
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 93fff8cf7d303af7df6eaf9c5b5fbea5
+bars_confidence: shape = (198,)
+bars_start: shape = (198,)
+beats_confidence: shape = (797,)
+beats_start: shape = (797,)
+danceability: 0.0
+duration: 349.12608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.7
+loudness: -11.708
+mode: 0
+mode_confidence: 0.319
+release: 7 Miles
+release_7digitalid: 545429
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (2085,)
+segments_loudness_max: shape = (2085,)
+segments_loudness_max_time: shape = (2085,)
+segments_loudness_start: shape = (2085,)
+segments_pitches: shape = (2085, 12)
+segments_start: shape = (2085,)
+segments_timbre: shape = (2085, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYNEII12AB0181DB6
+start_of_fade_out: 338.506
+tatums_confidence: shape = (1594,)
+tatums_start: shape = (1594,)
+tempo: 138.003
+time_signature: 4
+time_signature_confidence: 0.0
+title: 7 Miles
+track_7digitalid: 6036365
+track_id: TRAANTD128F9323B23
+year: 0

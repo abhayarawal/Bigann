@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5308
+artist_familiarity: 0.487851536889
+artist_hotttnesss: 0.301196064627
+artist_id: ARO9IJB1187B9939D0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4f4bfd84-8c67-4a27-a14c-bcec35c102fe
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Deckard
+artist_playmeid: -1
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 128db9d522089368607a003d5dfdc265
+bars_confidence: shape = (61,)
+bars_start: shape = (61,)
+beats_confidence: shape = (255,)
+beats_start: shape = (255,)
+danceability: 0.0
+duration: 175.90812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.238
+loudness: -5.973
+mode: 1
+mode_confidence: 0.356
+release: The Now Factor
+release_7digitalid: 721687
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (646,)
+segments_loudness_max: shape = (646,)
+segments_loudness_max_time: shape = (646,)
+segments_loudness_start: shape = (646,)
+segments_pitches: shape = (646, 12)
+segments_start: shape = (646,)
+segments_timbre: shape = (646, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONVMQR12AB018688B
+start_of_fade_out: 169.361
+tatums_confidence: shape = (510,)
+tatums_start: shape = (510,)
+tempo: 90.964
+time_signature: 4
+time_signature_confidence: 1.0
+title: Deckard
+track_7digitalid: 7999876
+track_id: TRAGNFZ12903CD04C2
+year: 0

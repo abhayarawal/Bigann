@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1613
+artist_familiarity: 0.832011770647
+artist_hotttnesss: 0.694128502959
+artist_id: ARC8CQZ1187B98DECA
+artist_latitude: nan
+artist_location: Galveston, TX
+artist_longitude: nan
+artist_mbid: ff6e677f-91dd-4986-a174-8db0474b1799
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Jack Johnson
+artist_playmeid: 759
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 5b6b751bb6e817c2205b27ed9d24912e
+bars_confidence: shape = (91,)
+bars_start: shape = (91,)
+beats_confidence: shape = (370,)
+beats_start: shape = (370,)
+danceability: 0.0
+duration: 157.07383
+end_of_fade_in: 3.634
+energy: 0.0
+key: 9
+key_confidence: 0.649
+loudness: -9.514
+mode: 1
+mode_confidence: 0.655
+release: Music For Relief Download To Donate For Haiti
+release_7digitalid: 752698
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (415,)
+segments_loudness_max: shape = (415,)
+segments_loudness_max_time: shape = (415,)
+segments_loudness_start: shape = (415,)
+segments_pitches: shape = (415, 12)
+segments_start: shape = (415,)
+segments_timbre: shape = (415, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.510192731484
+song_id: SONBEKD12AB01894DC
+start_of_fade_out: 147.876
+tatums_confidence: shape = (739,)
+tatums_start: shape = (739,)
+tempo: 141.257
+time_signature: 4
+time_signature_confidence: 0.363
+title: Times Like These [Live From Red Rocks]
+track_7digitalid: 8331357
+track_id: TRBHHUF12903CAA46B
+year: 0

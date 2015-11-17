@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6309
+artist_familiarity: 0.77287327384
+artist_hotttnesss: 0.473700501297
+artist_id: ARMPRI31187FB4F7D9
+artist_latitude: 39.37413
+artist_location: Volos, Greece
+artist_longitude: 22.95775
+artist_mbid: 57fca0e2-f9ad-4ae6-af9d-6a6f50cbcd5f
+artist_mbtags: shape = (15,)
+artist_mbtags_count: shape = (15,)
+artist_name: Vangelis
+artist_playmeid: 1655
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 5bcc408a7cd930a5ec07284809d47744
+bars_confidence: shape = (211,)
+bars_start: shape = (211,)
+beats_confidence: shape = (847,)
+beats_start: shape = (847,)
+danceability: 0.0
+duration: 297.76934
+end_of_fade_in: 3.541
+energy: 0.0
+key: 4
+key_confidence: 0.139
+loudness: -15.235
+mode: 0
+mode_confidence: 0.32
+release: Mythodea - Music for the NASA Mission: 2001 Mars Odyssey
+release_7digitalid: 283032
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (468,)
+segments_loudness_max: shape = (468,)
+segments_loudness_max_time: shape = (468,)
+segments_loudness_start: shape = (468,)
+segments_pitches: shape = (468, 12)
+segments_start: shape = (468,)
+segments_timbre: shape = (468, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEFBHK12A8C1350A0
+start_of_fade_out: 294.859
+tatums_confidence: shape = (847,)
+tatums_start: shape = (847,)
+tempo: 173.712
+time_signature: 4
+time_signature_confidence: 0.217
+title: Mythodea - Music for the NASA Mission: 2001 Mars Odyssey/Movement 7
+track_7digitalid: 3166379
+track_id: TRAVIZG128F4266E68
+year: 0

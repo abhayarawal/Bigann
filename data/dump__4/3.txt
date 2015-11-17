@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16617
+artist_familiarity: 0.815437802879
+artist_hotttnesss: 0.613443198243
+artist_id: ARM7C1Q1187FB471C8
+artist_latitude: nan
+artist_location: Bridgend, South Wales, UK
+artist_longitude: nan
+artist_mbid: d530dbf9-69b1-404f-98f2-0431104f5a1e
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Bullet For My Valentine
+artist_playmeid: 3680
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: addf1f9bbda95be0696c8f506842e7cc
+bars_confidence: shape = (167,)
+bars_start: shape = (167,)
+beats_confidence: shape = (671,)
+beats_start: shape = (671,)
+danceability: 0.0
+duration: 215.53587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.806
+loudness: -2.315
+mode: 1
+mode_confidence: 0.696
+release: The Poison
+release_7digitalid: 389989
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (803,)
+segments_loudness_max: shape = (803,)
+segments_loudness_max_time: shape = (803,)
+segments_loudness_start: shape = (803,)
+segments_pitches: shape = (803, 12)
+segments_start: shape = (803,)
+segments_timbre: shape = (803, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHXSRS12CF530E601
+start_of_fade_out: 213.008
+tatums_confidence: shape = (1342,)
+tatums_start: shape = (1342,)
+tempo: 188.924
+time_signature: 4
+time_signature_confidence: 0.0
+title: Suffocating Under Words Of Sorrow (What Can I Do)
+track_7digitalid: 4327529
+track_id: TRABHVL128F92EFB0E
+year: 2005

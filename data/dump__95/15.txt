@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40744
+artist_familiarity: 0.53570252813
+artist_hotttnesss: 0.384986116578
+artist_id: ARCID1N1187FB51DA0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3d9ba6f0-c4ed-450b-a150-37e2ebf13e77
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Carlos Nuñez
+artist_playmeid: 28223
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 38681153d5084c812de150249d9a9e1c
+bars_confidence: shape = (142,)
+bars_start: shape = (142,)
+beats_confidence: shape = (570,)
+beats_start: shape = (570,)
+danceability: 0.0
+duration: 213.89016
+end_of_fade_in: 3.233
+energy: 0.0
+key: 7
+key_confidence: 0.584
+loudness: -8.295
+mode: 0
+mode_confidence: 0.357
+release: Un Galicien En Bretagne
+release_7digitalid: 290201
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (696,)
+segments_loudness_max: shape = (696,)
+segments_loudness_max_time: shape = (696,)
+segments_loudness_start: shape = (696,)
+segments_pitches: shape = (696, 12)
+segments_start: shape = (696,)
+segments_timbre: shape = (696, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUBXDE12A8C136133
+start_of_fade_out: 207.192
+tatums_confidence: shape = (1140,)
+tatums_start: shape = (1140,)
+tempo: 162.442
+time_signature: 4
+time_signature_confidence: 0.709
+title: St Patrick's An Dro
+track_7digitalid: 3262802
+track_id: TRBGUPV128F427BCBA
+year: 2003

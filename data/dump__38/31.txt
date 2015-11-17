@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 202912
+artist_familiarity: 0.8650215115
+artist_hotttnesss: 0.916053228284
+artist_id: ARJ7KF01187B98D717
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cc197bad-dc9c-440d-a5b5-d52ba2e14234
+artist_mbtags: shape = (12,)
+artist_mbtags_count: shape = (12,)
+artist_name: Coldplay
+artist_playmeid: 353
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: c998145a9cc1016324e5dde82beb9221
+bars_confidence: shape = (67,)
+bars_start: shape = (67,)
+beats_confidence: shape = (270,)
+beats_start: shape = (270,)
+danceability: 0.0
+duration: 139.12771
+end_of_fade_in: 2.247
+energy: 0.0
+key: 0
+key_confidence: 0.428
+loudness: -8.501
+mode: 1
+mode_confidence: 0.445
+release: Don't Panic
+release_7digitalid: 555120
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (481,)
+segments_loudness_max: shape = (481,)
+segments_loudness_max_time: shape = (481,)
+segments_loudness_start: shape = (481,)
+segments_pitches: shape = (481, 12)
+segments_start: shape = (481,)
+segments_timbre: shape = (481, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.781932170582
+song_id: SOUCKDH12A8C138FF5
+start_of_fade_out: 130.026
+tatums_confidence: shape = (540,)
+tatums_start: shape = (540,)
+tempo: 122.291
+time_signature: 4
+time_signature_confidence: 1.0
+title: Don't Panic
+track_7digitalid: 6138489
+track_id: TRANBUW128F933C645
+year: 1999

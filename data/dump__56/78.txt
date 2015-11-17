@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40757
+artist_familiarity: 0.453346220179
+artist_hotttnesss: 0.372897266929
+artist_id: AR62YZW1187B9A22D7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9d22502f-c768-4918-a68d-5080981d4ae9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Fred Simon
+artist_playmeid: 20241
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 40b22af2be1facba85b99624e44c1c7b
+bars_confidence: shape = (257,)
+bars_start: shape = (257,)
+beats_confidence: shape = (257,)
+beats_start: shape = (257,)
+danceability: 0.0
+duration: 228.70159
+end_of_fade_in: 0.086
+energy: 0.0
+key: 3
+key_confidence: 0.549
+loudness: -21.392
+mode: 1
+mode_confidence: 0.571
+release: A Jazzy Wonderland
+release_7digitalid: 287067
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (419,)
+segments_loudness_max: shape = (419,)
+segments_loudness_max_time: shape = (419,)
+segments_loudness_start: shape = (419,)
+segments_pitches: shape = (419, 12)
+segments_start: shape = (419,)
+segments_timbre: shape = (419, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.60243485581
+song_id: SONBAWZ12A8C135A8B
+start_of_fade_out: 203.163
+tatums_confidence: shape = (513,)
+tatums_start: shape = (513,)
+tempo: 70.891
+time_signature: 1
+time_signature_confidence: 0.0
+title: The Christmas Song (Chestnuts Roasting On An Open Fire)
+track_7digitalid: 3219248
+track_id: TRATIWY128F42716A6
+year: 0

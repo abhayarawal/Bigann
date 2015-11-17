@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30067
+artist_familiarity: 0.442818538003
+artist_hotttnesss: 0.320520135114
+artist_id: ARTP2PK1187B98FECA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 23c07df4-b3bb-42e8-8bea-098c0b09fb90
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Quinteto Violado
+artist_playmeid: 56151
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: a1b0261daf1827bcf332b6a5139af969
+bars_confidence: shape = (75,)
+bars_start: shape = (75,)
+beats_confidence: shape = (305,)
+beats_start: shape = (305,)
+danceability: 0.0
+duration: 173.29587
+end_of_fade_in: 0.253
+energy: 0.0
+key: 7
+key_confidence: 0.321
+loudness: -10.541
+mode: 1
+mode_confidence: 0.381
+release: Canta Geraldo Vandré
+release_7digitalid: 141894
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (681,)
+segments_loudness_max: shape = (681,)
+segments_loudness_max_time: shape = (681,)
+segments_loudness_start: shape = (681,)
+segments_pitches: shape = (681, 12)
+segments_start: shape = (681,)
+segments_timbre: shape = (681, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCALOE12A8C134F6A
+start_of_fade_out: 164.856
+tatums_confidence: shape = (1223,)
+tatums_start: shape = (1223,)
+tempo: 108.919
+time_signature: 4
+time_signature_confidence: 0.799
+title: Vem_ Vem
+track_7digitalid: 1477527
+track_id: TRAVBAS128F424A0BD
+year: 0

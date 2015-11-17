@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 214948
+artist_familiarity: 0.537844156334
+artist_hotttnesss: 0.367243766155
+artist_id: ARZ8IPU1187FB38846
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: aeacef89-e4f3-415e-ac9b-0864f438e6a3
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: A-Mei
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 31387e5ed3a0472b2ca5eb54f17360ba
+bars_confidence: shape = (35,)
+bars_start: shape = (35,)
+beats_confidence: shape = (145,)
+beats_start: shape = (145,)
+danceability: 0.0
+duration: 71.88853
+end_of_fade_in: 0.154
+energy: 0.0
+key: 1
+key_confidence: 0.089
+loudness: -12.015
+mode: 1
+mode_confidence: 0.439
+release: Star Live Concert
+release_7digitalid: 291456
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (317,)
+segments_loudness_max: shape = (317,)
+segments_loudness_max_time: shape = (317,)
+segments_loudness_start: shape = (317,)
+segments_pitches: shape = (317, 12)
+segments_start: shape = (317,)
+segments_timbre: shape = (317, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTIBYV12A8C135CF7
+start_of_fade_out: 71.889
+tatums_confidence: shape = (291,)
+tatums_start: shape = (291,)
+tempo: 120.232
+time_signature: 4
+time_signature_confidence: 0.782
+title: Intro
+track_7digitalid: 3265779
+track_id: TRBDVCW128F427C875
+year: 2008

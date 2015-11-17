@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 264969
+artist_familiarity: 0.439362956993
+artist_hotttnesss: 0.273923338636
+artist_id: ARWHWYH1241B9CCA16
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mario Garcia
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 107a6d3782bf126ff089c8e429faba73
+bars_confidence: shape = (299,)
+bars_start: shape = (299,)
+beats_confidence: shape = (1202,)
+beats_start: shape = (1202,)
+danceability: 0.0
+duration: 558.28853
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.697
+loudness: -8.078
+mode: 1
+mode_confidence: 0.463
+release: Mis Sueños feat Norma Castro
+release_7digitalid: 639750
+sections_confidence: shape = (21,)
+sections_start: shape = (21,)
+segments_confidence: shape = (2556,)
+segments_loudness_max: shape = (2556,)
+segments_loudness_max_time: shape = (2556,)
+segments_loudness_start: shape = (2556,)
+segments_pitches: shape = (2556, 12)
+segments_start: shape = (2556,)
+segments_timbre: shape = (2556, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWXIQN12AB01862EE
+start_of_fade_out: 553.233
+tatums_confidence: shape = (2405,)
+tatums_start: shape = (2405,)
+tempo: 130.019
+time_signature: 4
+time_signature_confidence: 0.0
+title: Mis Sueños feat Norma Castro
+track_7digitalid: 7100704
+track_id: TRAFQOF128F933E3BA
+year: 0

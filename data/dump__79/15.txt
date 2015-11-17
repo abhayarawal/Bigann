@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 175702
+artist_familiarity: 0.509952450538
+artist_hotttnesss: 0.363132403523
+artist_id: ARI28VJ1187FB4EAD7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 828fcd83-03c0-48d8-9d88-ac1567eef07e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Slackbaba
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 6c10f47bb2142cf9dfa471ec88dffae6
+bars_confidence: shape = (133,)
+bars_start: shape = (133,)
+beats_confidence: shape = (681,)
+beats_start: shape = (681,)
+danceability: 0.0
+duration: 465.6322
+end_of_fade_in: 0.554
+energy: 0.0
+key: 0
+key_confidence: 0.67
+loudness: -7.016
+mode: 1
+mode_confidence: 0.459
+release: And The Beat Goes Om
+release_7digitalid: 727695
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (2051,)
+segments_loudness_max: shape = (2051,)
+segments_loudness_max_time: shape = (2051,)
+segments_loudness_start: shape = (2051,)
+segments_pitches: shape = (2051, 12)
+segments_start: shape = (2051,)
+segments_timbre: shape = (2051, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.552457009008
+song_id: SOCWFVT12AB01890F8
+start_of_fade_out: 454.072
+tatums_confidence: shape = (2045,)
+tatums_start: shape = (2045,)
+tempo: 88.644
+time_signature: 5
+time_signature_confidence: 0.607
+title: Sea of Green
+track_7digitalid: 8063479
+track_id: TRBBBKS12903CDFCF4
+year: 2006

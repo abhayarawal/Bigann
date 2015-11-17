@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 189696
+artist_familiarity: 0.191373661371
+artist_hotttnesss: 0.257949737451
+artist_id: ARMCYCP11F4C83ED97
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kuijken Kwartet
+artist_playmeid: -1
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: 838d19723fca8034ea422b2a94b787e0
+bars_confidence: shape = (194,)
+bars_start: shape = (194,)
+beats_confidence: shape = (194,)
+beats_start: shape = (194,)
+danceability: 0.0
+duration: 184.86812
+end_of_fade_in: 1.052
+energy: 0.0
+key: 0
+key_confidence: 0.439
+loudness: -27.564
+mode: 1
+mode_confidence: 0.602
+release: Mozart: Requiem KV 626 - Version For String Quartet by Peter Lichtenthal
+release_7digitalid: 245319
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (328,)
+segments_loudness_max: shape = (328,)
+segments_loudness_max_time: shape = (328,)
+segments_loudness_start: shape = (328,)
+segments_pitches: shape = (328, 12)
+segments_start: shape = (328,)
+segments_timbre: shape = (328, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.323112120895
+song_id: SOCVJTJ12A58A80CFA
+start_of_fade_out: 179.798
+tatums_confidence: shape = (194,)
+tatums_start: shape = (194,)
+tempo: 64.905
+time_signature: 1
+time_signature_confidence: 1.0
+title: Introitus: Requiem: Agnus Dei
+track_7digitalid: 2660760
+track_id: TRAWGUR128F423F668
+year: 0

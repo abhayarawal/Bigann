@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 144252
+artist_familiarity: 0.598643695858
+artist_hotttnesss: 0.310920962645
+artist_id: ARANDRM1187B98B446
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 34db20e0-bb6e-4a45-b067-f51464cd6ee2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Wild Horses
+artist_playmeid: 13638
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 7609bfe60768c85abfc4256d19807d8b
+bars_confidence: shape = (154,)
+bars_start: shape = (154,)
+beats_confidence: shape = (619,)
+beats_start: shape = (619,)
+danceability: 0.0
+duration: 338.28526
+end_of_fade_in: 0.52
+energy: 0.0
+key: 0
+key_confidence: 1.0
+loudness: -8.527
+mode: 1
+mode_confidence: 0.86
+release: Rolling Stones Instrumental Renditions
+release_7digitalid: 372988
+sections_confidence: shape = (21,)
+sections_start: shape = (21,)
+segments_confidence: shape = (1181,)
+segments_loudness_max: shape = (1181,)
+segments_loudness_max_time: shape = (1181,)
+segments_loudness_start: shape = (1181,)
+segments_pitches: shape = (1181, 12)
+segments_start: shape = (1181,)
+segments_timbre: shape = (1181, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.23216679145
+song_id: SOVDTAP12A8C13FE3D
+start_of_fade_out: 329.776
+tatums_confidence: shape = (1238,)
+tatums_start: shape = (1238,)
+tempo: 111.989
+time_signature: 4
+time_signature_confidence: 0.92
+title: Let It Bleed
+track_7digitalid: 4152978
+track_id: TRAJHEN128F92CC43E
+year: 0

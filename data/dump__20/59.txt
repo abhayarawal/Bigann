@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 43334
+artist_familiarity: 0.629751605102
+artist_hotttnesss: 0.53141175199
+artist_id: AR7ZI7Z1187B98BF55
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fa3b825f-7c85-4377-b393-d28a2016e293
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mägo de Oz
+artist_playmeid: -1
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 3bc40dfa5325181d107a491de3684f45
+bars_confidence: shape = (148,)
+bars_start: shape = (148,)
+beats_confidence: shape = (597,)
+beats_start: shape = (597,)
+danceability: 0.0
+duration: 295.31383
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.279
+loudness: -4.638
+mode: 1
+mode_confidence: 0.551
+release: Bajo La Corteza (26 Canciones De Leño)
+release_7digitalid: 754327
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (982,)
+segments_loudness_max: shape = (982,)
+segments_loudness_max_time: shape = (982,)
+segments_loudness_start: shape = (982,)
+segments_pitches: shape = (982, 12)
+segments_start: shape = (982,)
+segments_timbre: shape = (982, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.439654659707
+song_id: SOVTEUT12AB0185D22
+start_of_fade_out: 293.071
+tatums_confidence: shape = (1194,)
+tatums_start: shape = (1194,)
+tempo: 121.955
+time_signature: 4
+time_signature_confidence: 0.571
+title: Qué Desilusión
+track_7digitalid: 8350539
+track_id: TRAGZHM12903CAEF3A
+year: 2010

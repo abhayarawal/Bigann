@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 494930
+artist_familiarity: 0.0752828839762
+artist_hotttnesss: 0.0
+artist_id: ARFFFFY122988EDE49
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Carlos Embales - Cutumba
+artist_playmeid: -1
+artist_terms: shape = (7,)
+artist_terms_freq: shape = (7,)
+artist_terms_weight: shape = (7,)
+audio_md5: c75892ebccd7c07a224af61e9316290c
+bars_confidence: shape = (221,)
+bars_start: shape = (221,)
+beats_confidence: shape = (688,)
+beats_start: shape = (688,)
+danceability: 0.0
+duration: 418.2722
+end_of_fade_in: 2.479
+energy: 0.0
+key: 1
+key_confidence: 0.279
+loudness: -16.292
+mode: 1
+mode_confidence: 0.152
+release: ¡La Rumba está buena!
+release_7digitalid: 663989
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (2274,)
+segments_loudness_max: shape = (2274,)
+segments_loudness_max_time: shape = (2274,)
+segments_loudness_start: shape = (2274,)
+segments_pitches: shape = (2274, 12)
+segments_start: shape = (2274,)
+segments_timbre: shape = (2274, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGHJQO12AB0185566
+start_of_fade_out: 414.871
+tatums_confidence: shape = (2065,)
+tatums_start: shape = (2065,)
+tempo: 98.377
+time_signature: 3
+time_signature_confidence: 1.0
+title: A una mamita
+track_7digitalid: 7359419
+track_id: TRAYRPF12903CAB6FB
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 14043
+artist_familiarity: 0.606925358532
+artist_hotttnesss: 0.38910077628
+artist_id: ARWY7I71187FB36C3D
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 7f565c58-cf5d-441b-821f-c314ddf60c99
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Lesley Gore
+artist_playmeid: -1
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 67ca96689f499db63352c7cb15a82b44
+bars_confidence: shape = (292,)
+bars_start: shape = (292,)
+beats_confidence: shape = (292,)
+beats_start: shape = (292,)
+danceability: 0.0
+duration: 136.48934
+end_of_fade_in: 0.229
+energy: 0.0
+key: 9
+key_confidence: 0.386
+loudness: -9.091
+mode: 1
+mode_confidence: 0.632
+release: 60's Triple set
+release_7digitalid: 26902
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (477,)
+segments_loudness_max: shape = (477,)
+segments_loudness_max_time: shape = (477,)
+segments_loudness_start: shape = (477,)
+segments_pitches: shape = (477, 12)
+segments_start: shape = (477,)
+segments_timbre: shape = (477, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOOROX12A6D4F8400
+start_of_fade_out: 130.026
+tatums_confidence: shape = (584,)
+tatums_start: shape = (584,)
+tempo: 129.122
+time_signature: 1
+time_signature_confidence: 0.0
+title: It's My Party
+track_7digitalid: 292256
+track_id: TRAAGJV128F1464090
+year: 1963

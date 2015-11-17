@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 208047
+artist_familiarity: 0.584998277599
+artist_hotttnesss: 0.402044105636
+artist_id: AR9XZPA1187B9AC7D4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 11d0f9fe-3a5f-448d-85a0-f9f4e01cdfdd
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Spectra Soul
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: b4e66e689bd6dbbb6093557f345ee1f9
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (416,)
+beats_start: shape = (416,)
+danceability: 0.0
+duration: 303.51628
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.391
+loudness: -7.751
+mode: 1
+mode_confidence: 0.412
+release: Shogun Assassins EP Vol. 3
+release_7digitalid: 263655
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1462,)
+segments_loudness_max: shape = (1462,)
+segments_loudness_max_time: shape = (1462,)
+segments_loudness_start: shape = (1462,)
+segments_pitches: shape = (1462, 12)
+segments_start: shape = (1462,)
+segments_timbre: shape = (1462, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.460541281359
+song_id: SOQUEQP12A8C1397DE
+start_of_fade_out: 289.977
+tatums_confidence: shape = (1663,)
+tatums_start: shape = (1663,)
+tempo: 85.006
+time_signature: 4
+time_signature_confidence: 0.52
+title: The Tube
+track_7digitalid: 2771600
+track_id: TRAQJAU128F42585AD
+year: 2008

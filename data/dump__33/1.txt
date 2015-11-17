@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 505616
+artist_familiarity: 0.380317055716
+artist_hotttnesss: 0.300918428617
+artist_id: ARWNTXK11EBCD7BBFB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Alain-François
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 515134ad909d77027472c38293001318
+bars_confidence: shape = (187,)
+bars_start: shape = (187,)
+beats_confidence: shape = (564,)
+beats_start: shape = (564,)
+danceability: 0.0
+duration: 213.99465
+end_of_fade_in: 0.148
+energy: 0.0
+key: 5
+key_confidence: 1.0
+loudness: -6.523
+mode: 1
+mode_confidence: 0.844
+release: Alain-François
+release_7digitalid: 680677
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (659,)
+segments_loudness_max: shape = (659,)
+segments_loudness_max_time: shape = (659,)
+segments_loudness_start: shape = (659,)
+segments_pitches: shape = (659, 12)
+segments_start: shape = (659,)
+segments_timbre: shape = (659, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEYQZU12AB018DDB3
+start_of_fade_out: 207.209
+tatums_confidence: shape = (1128,)
+tatums_start: shape = (1128,)
+tempo: 160.046
+time_signature: 3
+time_signature_confidence: 0.653
+title: En silence
+track_7digitalid: 7552788
+track_id: TRALFYI12903CDA478
+year: 0

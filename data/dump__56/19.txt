@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9549
+artist_familiarity: 0.605278303318
+artist_hotttnesss: 0.395273631551
+artist_id: AR6HAZT1187FB4A3AA
+artist_latitude: 35.48703
+artist_location: Ozark, AR
+artist_longitude: -93.8277
+artist_mbid: 82ad256f-8036-4318-98cb-e9b1e36c39e6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Roy Buchanan
+artist_playmeid: 6490
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 6f4765c6587947e4b67dff5f30e29617
+bars_confidence: shape = (213,)
+bars_start: shape = (213,)
+beats_confidence: shape = (651,)
+beats_start: shape = (651,)
+danceability: 0.0
+duration: 329.66485
+end_of_fade_in: 0.275
+energy: 0.0
+key: 9
+key_confidence: 0.952
+loudness: -8.88
+mode: 1
+mode_confidence: 0.628
+release: 20th Century Masters: The Millennium Collection: Best Of Roy Buchanan
+release_7digitalid: 94278
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1048,)
+segments_loudness_max: shape = (1048,)
+segments_loudness_max_time: shape = (1048,)
+segments_loudness_start: shape = (1048,)
+segments_pitches: shape = (1048, 12)
+segments_start: shape = (1048,)
+segments_timbre: shape = (1048, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHMODT12A8C13735C
+start_of_fade_out: 316.894
+tatums_confidence: shape = (1302,)
+tatums_start: shape = (1302,)
+tempo: 119.089
+time_signature: 3
+time_signature_confidence: 0.731
+title: Hey Joe
+track_7digitalid: 2232695
+track_id: TRATDTH128F4263AAD
+year: 1974

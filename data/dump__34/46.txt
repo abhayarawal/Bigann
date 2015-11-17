@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 69836
+artist_familiarity: 0.58403786492
+artist_hotttnesss: 0.356406617735
+artist_id: AREP0H61187FB443CF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f2ab6fbd-e2d6-4f14-bc02-5dca733b2ed8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Grayson Capps
+artist_playmeid: 60448
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 2c80e2cfd369038fa3b1e4bf3f30c8ef
+bars_confidence: shape = (50,)
+bars_start: shape = (50,)
+beats_confidence: shape = (206,)
+beats_start: shape = (206,)
+danceability: 0.0
+duration: 124.18567
+end_of_fade_in: 0.229
+energy: 0.0
+key: 2
+key_confidence: 0.011
+loudness: -7.109
+mode: 1
+mode_confidence: 0.343
+release: Wail & Ride
+release_7digitalid: 176769
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (471,)
+segments_loudness_max: shape = (471,)
+segments_loudness_max_time: shape = (471,)
+segments_loudness_start: shape = (471,)
+segments_pitches: shape = (471, 12)
+segments_start: shape = (471,)
+segments_timbre: shape = (471, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.497705809537
+song_id: SOSJYAJ12A6D4FCA04
+start_of_fade_out: 120.094
+tatums_confidence: shape = (412,)
+tatums_start: shape = (412,)
+tempo: 101.076
+time_signature: 4
+time_signature_confidence: 0.484
+title: Give It To Me
+track_7digitalid: 1903847
+track_id: TRALSIS128F4223DAC
+year: 2006

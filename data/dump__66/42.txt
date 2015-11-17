@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15229
+artist_familiarity: 0.731065755711
+artist_hotttnesss: 0.509878707853
+artist_id: AREPD8D1187FB3F5BC
+artist_latitude: nan
+artist_location: Gainesville, FL
+artist_longitude: nan
+artist_mbid: 3b141e34-8c02-4074-b68a-7d64e3212acd
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sister Hazel
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 890d3e88a8885378dc0727b7b70aadd5
+bars_confidence: shape = (203,)
+bars_start: shape = (203,)
+beats_confidence: shape = (815,)
+beats_start: shape = (815,)
+danceability: 0.0
+duration: 235.72853
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.799
+loudness: -5.09
+mode: 1
+mode_confidence: 0.569
+release: Chasing Daylight
+release_7digitalid: 21648
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (709,)
+segments_loudness_max: shape = (709,)
+segments_loudness_max_time: shape = (709,)
+segments_loudness_start: shape = (709,)
+segments_pitches: shape = (709, 12)
+segments_start: shape = (709,)
+segments_timbre: shape = (709, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.627363447576
+song_id: SOBAORS12A6D4F6820
+start_of_fade_out: 223.016
+tatums_confidence: shape = (1630,)
+tatums_start: shape = (1630,)
+tempo: 217.13
+time_signature: 4
+time_signature_confidence: 0.326
+title: Come Around (LP Version)
+track_7digitalid: 224426
+track_id: TRAWQXV128F14555B1
+year: 2003

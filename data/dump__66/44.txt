@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 83845
+artist_familiarity: 0.483278657332
+artist_hotttnesss: 0.360628716136
+artist_id: AR8QHU51187B9A3341
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 066d5379-eb60-4f46-be4d-ebd40495baea
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Leo Ku
+artist_playmeid: 61240
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 6860aa70a7c19be7d94676c45b0c955a
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (392,)
+beats_start: shape = (392,)
+danceability: 0.0
+duration: 203.57179
+end_of_fade_in: 1.367
+energy: 0.0
+key: 6
+key_confidence: 0.639
+loudness: -12.53
+mode: 1
+mode_confidence: 0.581
+release: Tian Cai Yu Bai Chi Zhi Tian Cai Bai Chi Meng
+release_7digitalid: 165392
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (651,)
+segments_loudness_max: shape = (651,)
+segments_loudness_max_time: shape = (651,)
+segments_loudness_start: shape = (651,)
+segments_pitches: shape = (651, 12)
+segments_start: shape = (651,)
+segments_timbre: shape = (651, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOERZVM12A8C13C5A4
+start_of_fade_out: 184.378
+tatums_confidence: shape = (784,)
+tatums_start: shape = (784,)
+tempo: 118.062
+time_signature: 4
+time_signature_confidence: 0.988
+title: Tian Cai Yu Bai Chi Zhi Tian Cai Bai Chi Meng
+track_7digitalid: 1751699
+track_id: TRAWRDY128F428A240
+year: 0

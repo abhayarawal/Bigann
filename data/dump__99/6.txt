@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7037
+artist_familiarity: 0.804838888827
+artist_hotttnesss: 0.457841156094
+artist_id: AR0CANF1187B9AF35F
+artist_latitude: 34.05349
+artist_location: Los Angeles, California
+artist_longitude: -118.24532
+artist_mbid: c71abd83-9d66-4c7b-9f0d-c9c36e85a955
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Dilated Peoples Featuring Black Thought
+artist_playmeid: 457
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 99c46505c6cadfff4a2a528bd0eafafb
+bars_confidence: shape = (82,)
+bars_start: shape = (82,)
+beats_confidence: shape = (351,)
+beats_start: shape = (351,)
+danceability: 0.0
+duration: 236.72118
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.714
+loudness: -5.265
+mode: 1
+mode_confidence: 0.565
+release: Expansion Team
+release_7digitalid: 26034
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1049,)
+segments_loudness_max: shape = (1049,)
+segments_loudness_max_time: shape = (1049,)
+segments_loudness_start: shape = (1049,)
+segments_pitches: shape = (1049, 12)
+segments_start: shape = (1049,)
+segments_timbre: shape = (1049, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWWOFM12A6D4F82F0
+start_of_fade_out: 222.801
+tatums_confidence: shape = (702,)
+tatums_start: shape = (702,)
+tempo: 87.326
+time_signature: 4
+time_signature_confidence: 1.0
+title: Hard Hitters
+track_7digitalid: 279841
+track_id: TRBIBOJ128F14618D4
+year: 2001

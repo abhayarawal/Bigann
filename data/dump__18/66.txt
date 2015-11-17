@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2851
+artist_familiarity: 0.59142365907
+artist_hotttnesss: 0.385344913733
+artist_id: ARRU9GR1187FB43F56
+artist_latitude: 33.46797
+artist_location: Thomson, GA
+artist_longitude: -82.50293
+artist_mbid: 81e02e29-e46a-49cb-bf13-d204cbe86daa
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Blind Willie McTell
+artist_playmeid: 12744
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 9c54dcf1c52137c7faca5a143e2fecd1
+bars_confidence: shape = (133,)
+bars_start: shape = (133,)
+beats_confidence: shape = (411,)
+beats_start: shape = (411,)
+danceability: 0.0
+duration: 191.73832
+end_of_fade_in: 0.224
+energy: 0.0
+key: 3
+key_confidence: 0.623
+loudness: -11.383
+mode: 1
+mode_confidence: 0.502
+release: Blind Willie McTell -Statesboro Blues - The Early Years 1927-1935
+release_7digitalid: 175116
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (548,)
+segments_loudness_max: shape = (548,)
+segments_loudness_max_time: shape = (548,)
+segments_loudness_start: shape = (548,)
+segments_pitches: shape = (548, 12)
+segments_start: shape = (548,)
+segments_timbre: shape = (548, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODVIWU12A6D4FCDA6
+start_of_fade_out: 185.179
+tatums_confidence: shape = (821,)
+tatums_start: shape = (821,)
+tempo: 131.624
+time_signature: 3
+time_signature_confidence: 0.293
+title: Writing Paper Blues
+track_7digitalid: 1882191
+track_id: TRAGJGZ128F421EE19
+year: 1927

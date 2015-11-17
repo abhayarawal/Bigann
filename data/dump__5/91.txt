@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23041
+artist_familiarity: 0.83453858559
+artist_hotttnesss: 0.477310881067
+artist_id: AR6F6I21187FB5A3AA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: aba64937-3334-4c65-90a1-4e6b9d4d7ada
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Aesop Rock
+artist_playmeid: 7929
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: b226d2449044bb0ba503b9b4d8c5754b
+bars_confidence: shape = (160,)
+bars_start: shape = (160,)
+beats_confidence: shape = (645,)
+beats_start: shape = (645,)
+danceability: 0.0
+duration: 234.52689
+end_of_fade_in: 0.16
+energy: 0.0
+key: 4
+key_confidence: 0.442
+loudness: -6.022
+mode: 1
+mode_confidence: 0.328
+release: Labor Days
+release_7digitalid: 174343
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1048,)
+segments_loudness_max: shape = (1048,)
+segments_loudness_max_time: shape = (1048,)
+segments_loudness_start: shape = (1048,)
+segments_pitches: shape = (1048, 12)
+segments_start: shape = (1048,)
+segments_timbre: shape = (1048, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.638297906423
+song_id: SOEDCOB12A8C142CBA
+start_of_fade_out: 229.825
+tatums_confidence: shape = (1290,)
+tatums_start: shape = (1290,)
+tempo: 167.909
+time_signature: 4
+time_signature_confidence: 0.01
+title: Flashflood
+track_7digitalid: 1867141
+track_id: TRABYVN128F429E5CF
+year: 2001

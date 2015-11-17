@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1555
+artist_familiarity: 0.558916244027
+artist_hotttnesss: 0.392579877755
+artist_id: ARZH0R61187FB422AE
+artist_latitude: 38.62774
+artist_location: St. Louis, MO
+artist_longitude: -90.19951
+artist_mbid: 77c1d20a-2374-42f0-8059-61d1f453d5de
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Fontella Bass
+artist_playmeid: -1
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 2850f79259a416c7728875a7e0de76af
+bars_confidence: shape = (85,)
+bars_start: shape = (85,)
+beats_confidence: shape = (344,)
+beats_start: shape = (344,)
+danceability: 0.0
+duration: 204.35546
+end_of_fade_in: 0.33
+energy: 0.0
+key: 5
+key_confidence: 0.947
+loudness: -10.269
+mode: 1
+mode_confidence: 0.725
+release: Very Best Of
+release_7digitalid: 35171
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (622,)
+segments_loudness_max: shape = (622,)
+segments_loudness_max_time: shape = (622,)
+segments_loudness_start: shape = (622,)
+segments_pitches: shape = (622, 12)
+segments_start: shape = (622,)
+segments_timbre: shape = (622, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.427446571488
+song_id: SOWKNGW12A6D4F78BD
+start_of_fade_out: 200.353
+tatums_confidence: shape = (689,)
+tatums_start: shape = (689,)
+tempo: 101.469
+time_signature: 4
+time_signature_confidence: 0.529
+title: You've Lost That Lovin' Feelin'
+track_7digitalid: 377029
+track_id: TRAKHFI128F1475133
+year: 1992

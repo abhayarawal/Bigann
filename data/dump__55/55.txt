@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5913
+artist_familiarity: 0.657566887241
+artist_hotttnesss: 0.507625007837
+artist_id: ARTBQTE1187B9B8A0F
+artist_latitude: nan
+artist_location: Seattle, WA
+artist_longitude: nan
+artist_mbid: 8e9516ba-f417-47dd-a8a5-8998b94553f8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Candlebox
+artist_playmeid: -1
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 96b039e69696bcf784cf2d83bf33e1c5
+bars_confidence: shape = (169,)
+bars_start: shape = (169,)
+beats_confidence: shape = (687,)
+beats_start: shape = (687,)
+danceability: 0.0
+duration: 312.842
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.479
+loudness: -5.968
+mode: 0
+mode_confidence: 0.603
+release: Into The Sun [Explicit]
+release_7digitalid: 743807
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (901,)
+segments_loudness_max: shape = (901,)
+segments_loudness_max_time: shape = (901,)
+segments_loudness_start: shape = (901,)
+segments_pitches: shape = (901, 12)
+segments_start: shape = (901,)
+segments_timbre: shape = (901, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOQDSE12AC468B61B
+start_of_fade_out: 301.97
+tatums_confidence: shape = (1375,)
+tatums_start: shape = (1375,)
+tempo: 130.35
+time_signature: 4
+time_signature_confidence: 0.757
+title: Breathe Me In
+track_7digitalid: 8233808
+track_id: TRASYVP12903D09590
+year: 2008

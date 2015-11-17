@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10545
+artist_familiarity: 0.578211188549
+artist_hotttnesss: 0.371573090072
+artist_id: ARDROT11187B9AD5AE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ca2b5bce-01cb-4847-bea6-52a9fee31033
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Room 5
+artist_playmeid: -1
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: a84bc5f65f23189f1e2b8031c9f5c00a
+bars_confidence: shape = (210,)
+bars_start: shape = (210,)
+beats_confidence: shape = (846,)
+beats_start: shape = (846,)
+danceability: 0.0
+duration: 403.01669
+end_of_fade_in: 0.293
+energy: 0.0
+key: 4
+key_confidence: 0.276
+loudness: -7.611
+mode: 0
+mode_confidence: 0.32
+release: Music & You
+release_7digitalid: 123657
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (2026,)
+segments_loudness_max: shape = (2026,)
+segments_loudness_max_time: shape = (2026,)
+segments_loudness_start: shape = (2026,)
+segments_pitches: shape = (2026, 12)
+segments_start: shape = (2026,)
+segments_timbre: shape = (2026, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SONMZEM12A6D4FD284
+start_of_fade_out: 389.619
+tatums_confidence: shape = (1691,)
+tatums_start: shape = (1691,)
+tempo: 127.99
+time_signature: 4
+time_signature_confidence: 1.0
+title: Hidden Sun
+track_7digitalid: 1276877
+track_id: TRANLLT128F4226A66
+year: 2003

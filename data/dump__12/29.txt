@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10239
+artist_familiarity: 0.573039790503
+artist_hotttnesss: 0.437866012408
+artist_id: ARX9L381187B9B7265
+artist_latitude: nan
+artist_location: Belmont, MS
+artist_longitude: nan
+artist_mbid: 48e32ea6-e282-44ee-96a6-1ed5aeaa4023
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mac McAnally
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 1aae913255bf62976ff67d13960dcc7f
+bars_confidence: shape = (128,)
+bars_start: shape = (128,)
+beats_confidence: shape = (517,)
+beats_start: shape = (517,)
+danceability: 0.0
+duration: 183.53587
+end_of_fade_in: 0.296
+energy: 0.0
+key: 0
+key_confidence: 0.952
+loudness: -6.601
+mode: 1
+mode_confidence: 0.89
+release: Down By The River
+release_7digitalid: 606364
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (638,)
+segments_loudness_max: shape = (638,)
+segments_loudness_max_time: shape = (638,)
+segments_loudness_start: shape = (638,)
+segments_pitches: shape = (638, 12)
+segments_start: shape = (638,)
+segments_timbre: shape = (638, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.494489517502
+song_id: SOYIZYC12AB01833BF
+start_of_fade_out: 175.984
+tatums_confidence: shape = (1034,)
+tatums_start: shape = (1034,)
+tempo: 174.268
+time_signature: 4
+time_signature_confidence: 0.021
+title: If You Hang Around Long Enough
+track_7digitalid: 6736916
+track_id: TRAEBKD12903D00D5C
+year: 0

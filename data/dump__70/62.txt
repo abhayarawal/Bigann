@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 98
+artist_familiarity: 0.891853779689
+artist_hotttnesss: 0.548228209192
+artist_id: ARH9HS41187FB5BC6F
+artist_latitude: nan
+artist_location: Coral Spring, FL
+artist_longitude: nan
+artist_mbid: 6acb932e-840d-47ac-8e0d-725ad8a6e52c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: New Found Glory
+artist_playmeid: 1906
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 0c8185e642a65c1aecc638a972b76f99
+bars_confidence: shape = (94,)
+bars_start: shape = (94,)
+beats_confidence: shape = (377,)
+beats_start: shape = (377,)
+danceability: 0.0
+duration: 172.22485
+end_of_fade_in: 0.235
+energy: 0.0
+key: 6
+key_confidence: 0.056
+loudness: -5.072
+mode: 1
+mode_confidence: 0.305
+release: New Found Glory
+release_7digitalid: 92
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (541,)
+segments_loudness_max: shape = (541,)
+segments_loudness_max_time: shape = (541,)
+segments_loudness_start: shape = (541,)
+segments_pitches: shape = (541, 12)
+segments_start: shape = (541,)
+segments_timbre: shape = (541, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.646536360532
+song_id: SOGFEYF12A6310DF58
+start_of_fade_out: 169.61
+tatums_confidence: shape = (754,)
+tatums_start: shape = (754,)
+tempo: 125.307
+time_signature: 4
+time_signature_confidence: 1.0
+title: Sucker
+track_7digitalid: 1305
+track_id: TRAYDZH128C71967BC
+year: 2000

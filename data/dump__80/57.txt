@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5104
+artist_familiarity: 0.786921231369
+artist_hotttnesss: 0.495306693411
+artist_id: ARNMWP51187FB3E963
+artist_latitude: 41.88415
+artist_location: Chicago, IL
+artist_longitude: -87.63241
+artist_mbid: 4dca4bb2-23ba-4103-97e6-5810311db33a
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Curtis Mayfield
+artist_playmeid: 2041
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: e1e1eaf00bbf2afcfdcd2a2e9566bf92
+bars_confidence: shape = (403,)
+bars_start: shape = (403,)
+beats_confidence: shape = (1618,)
+beats_start: shape = (1618,)
+danceability: 0.0
+duration: 411.92444
+end_of_fade_in: 0.402
+energy: 0.0
+key: 8
+key_confidence: 0.381
+loudness: -9.633
+mode: 1
+mode_confidence: 0.396
+release: Heartbeat
+release_7digitalid: 59669
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1982,)
+segments_loudness_max: shape = (1982,)
+segments_loudness_max_time: shape = (1982,)
+segments_loudness_start: shape = (1982,)
+segments_pitches: shape = (1982, 12)
+segments_start: shape = (1982,)
+segments_timbre: shape = (1982, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SOSTESB12A6D4F9A66
+start_of_fade_out: 402.93
+tatums_confidence: shape = (3236,)
+tatums_start: shape = (3236,)
+tempo: 237.466
+time_signature: 4
+time_signature_confidence: 0.352
+title: You Better Stop
+track_7digitalid: 617775
+track_id: TRBBOFH128F14A2A46
+year: 1979

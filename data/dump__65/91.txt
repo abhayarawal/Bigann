@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 94432
+artist_familiarity: 0.3812326115
+artist_hotttnesss: 0.301570181792
+artist_id: ARHXWB01187B9A205C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 477597d4-c13d-4d8c-854b-e97d73ea87df
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gloria Lasso
+artist_playmeid: 98286
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 981ea08a375ed6ad6bf3dfc8b3e8e89b
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (325,)
+beats_start: shape = (325,)
+danceability: 0.0
+duration: 185.49506
+end_of_fade_in: 0.398
+energy: 0.0
+key: 9
+key_confidence: 0.598
+loudness: -16.961
+mode: 1
+mode_confidence: 0.603
+release: Gloria Lasso Sus 20 Grandes Éxitos (The Best Of Gloria Lasso)
+release_7digitalid: 751145
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (487,)
+segments_loudness_max: shape = (487,)
+segments_loudness_max_time: shape = (487,)
+segments_loudness_start: shape = (487,)
+segments_pitches: shape = (487, 12)
+segments_start: shape = (487,)
+segments_timbre: shape = (487, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJFBBU12AB0185532
+start_of_fade_out: 179.775
+tatums_confidence: shape = (649,)
+tatums_start: shape = (649,)
+tempo: 108.584
+time_signature: 4
+time_signature_confidence: 0.315
+title: Gitana
+track_7digitalid: 8316541
+track_id: TRAWMIN12903CA6A8F
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 373578
+artist_familiarity: 0.668370611552
+artist_hotttnesss: 0.457553909836
+artist_id: AR0VZWC1187B99BA57
+artist_latitude: -37.81753
+artist_location: Melbourne, Australia
+artist_longitude: 144.96715
+artist_mbid: c064d097-4a1e-4e81-bd6f-22ba86ee2904
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Berzerker
+artist_playmeid: 160708
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: fc1ec28144da5e38fce0de2919f3eb48
+bars_confidence: shape = (163,)
+bars_start: shape = (163,)
+beats_confidence: shape = (492,)
+beats_start: shape = (492,)
+danceability: 0.0
+duration: 165.61587
+end_of_fade_in: 2.171
+energy: 0.0
+key: 1
+key_confidence: 0.108
+loudness: -6.222
+mode: 1
+mode_confidence: 0.256
+release: The Berzerker
+release_7digitalid: 681639
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (642,)
+segments_loudness_max: shape = (642,)
+segments_loudness_max_time: shape = (642,)
+segments_loudness_start: shape = (642,)
+segments_pitches: shape = (642, 12)
+segments_start: shape = (642,)
+segments_timbre: shape = (642, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOYWZTU12AB0180E26
+start_of_fade_out: 165.616
+tatums_confidence: shape = (985,)
+tatums_start: shape = (985,)
+tempo: 174.287
+time_signature: 3
+time_signature_confidence: 0.132
+title: Deform (live)
+track_7digitalid: 7565003
+track_id: TRAAEUB12903CDD3EA
+year: 2000

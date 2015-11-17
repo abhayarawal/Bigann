@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 399590
+artist_familiarity: 0.469535165255
+artist_hotttnesss: 0.0
+artist_id: ARGESWU11F4C83BA07
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lauren Wagner & Fred Weldy
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: c14dafa0ace0f077ba27105c9a653af5
+bars_confidence: shape = (9,)
+bars_start: shape = (9,)
+beats_confidence: shape = (54,)
+beats_start: shape = (54,)
+danceability: 0.0
+duration: 51.12118
+end_of_fade_in: 0.43
+energy: 0.0
+key: 2
+key_confidence: 0.178
+loudness: -26.356
+mode: 0
+mode_confidence: 0.529
+release: American Song Recital: Works of Bernstein_ Hundley_ Bowles...
+release_7digitalid: 235295
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (139,)
+segments_loudness_max: shape = (139,)
+segments_loudness_max_time: shape = (139,)
+segments_loudness_start: shape = (139,)
+segments_pitches: shape = (139, 12)
+segments_start: shape = (139,)
+segments_timbre: shape = (139, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODXIIY12A8AE4677E
+start_of_fade_out: 51.121
+tatums_confidence: shape = (160,)
+tatums_start: shape = (160,)
+tempo: 72.724
+time_signature: 4
+time_signature_confidence: 0.592
+title: Social Note
+track_7digitalid: 2582843
+track_id: TRAGTPT128F422D7DC
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 103923
+artist_familiarity: 0.590818773039
+artist_hotttnesss: 0.420945486034
+artist_id: ARRW6DJ1187FB50A67
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 6221313c-ac91-4277-b26e-e0c40be1b81b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pacha Massive
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: c548e42823d86ebde3d8c1ebe951d2e3
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (361,)
+beats_start: shape = (361,)
+danceability: 0.0
+duration: 205.89669
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.013
+loudness: -4.493
+mode: 0
+mode_confidence: 0.315
+release: Hôtel Costes 11 by Stéphane Pompougnac
+release_7digitalid: 800001
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (868,)
+segments_loudness_max: shape = (868,)
+segments_loudness_max_time: shape = (868,)
+segments_loudness_start: shape = (868,)
+segments_pitches: shape = (868, 12)
+segments_start: shape = (868,)
+segments_timbre: shape = (868, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUECYK12AAF3B3AC7
+start_of_fade_out: 200.94
+tatums_confidence: shape = (722,)
+tatums_start: shape = (722,)
+tempo: 105.991
+time_signature: 4
+time_signature_confidence: 0.143
+title: Don't let go
+track_7digitalid: 8851189
+track_id: TRAXMNY12903CB5207
+year: 2006

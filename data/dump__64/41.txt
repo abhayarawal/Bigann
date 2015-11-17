@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3501
+artist_familiarity: 0.842636333464
+artist_hotttnesss: 0.583530838294
+artist_id: ARWK5QH1187B9A9B7F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 596ffa74-3d08-44ef-b113-765d43d12738
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Justin Timberlake
+artist_playmeid: 837
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: cd0545efedf2964457c01bd09c125f33
+bars_confidence: shape = (97,)
+bars_start: shape = (97,)
+beats_confidence: shape = (392,)
+beats_start: shape = (392,)
+danceability: 0.0
+duration: 238.602
+end_of_fade_in: 0.073
+energy: 0.0
+key: 9
+key_confidence: 0.0
+loudness: -5.044
+mode: 0
+mode_confidence: 0.0
+release: FutureSex/LoveSounds
+release_7digitalid: 310448
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (835,)
+segments_loudness_max: shape = (835,)
+segments_loudness_max_time: shape = (835,)
+segments_loudness_start: shape = (835,)
+segments_pitches: shape = (835, 12)
+segments_start: shape = (835,)
+segments_timbre: shape = (835, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTSCLM12AF72A097D
+start_of_fade_out: 232.38
+tatums_confidence: shape = (392,)
+tatums_start: shape = (392,)
+tempo: 100.012
+time_signature: 4
+time_signature_confidence: 1.0
+title: Sexy Ladies
+track_7digitalid: 3522427
+track_id: TRAWBNP128F42BA71A
+year: 2006

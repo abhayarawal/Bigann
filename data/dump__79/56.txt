@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8585
+artist_familiarity: 0.574300068277
+artist_hotttnesss: 0.401144741478
+artist_id: ARDK0551187FB5AC48
+artist_latitude: 32.33112
+artist_location: Edwards, MS
+artist_longitude: -90.60536
+artist_mbid: 8a14c00b-4779-44e4-9b2e-4cc9dcd92e9b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Blind Willie Johnson
+artist_playmeid: 12775
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 312dc6e4e9dd89a86a0d5e8923a1f37a
+bars_confidence: shape = (61,)
+bars_start: shape = (61,)
+beats_confidence: shape = (248,)
+beats_start: shape = (248,)
+danceability: 0.0
+duration: 187.16689
+end_of_fade_in: 3.094
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -17.389
+mode: 1
+mode_confidence: 0.0
+release: The Complete Blind Willie Johnson
+release_7digitalid: 285639
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (597,)
+segments_loudness_max: shape = (597,)
+segments_loudness_max_time: shape = (597,)
+segments_loudness_start: shape = (597,)
+segments_pitches: shape = (597, 12)
+segments_start: shape = (597,)
+segments_timbre: shape = (597, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIQVDP12A8C13510A
+start_of_fade_out: 178.91
+tatums_confidence: shape = (496,)
+tatums_start: shape = (496,)
+tempo: 80.16
+time_signature: 4
+time_signature_confidence: 0.018
+title: You'll Need Somebody On Your Bond
+track_7digitalid: 3199069
+track_id: TRBBFRR128F426CD17
+year: 1991

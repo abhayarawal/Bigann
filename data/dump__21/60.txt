@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40925
+artist_familiarity: 0.640757317218
+artist_hotttnesss: 0.451219236891
+artist_id: ARMSL551187FB3F4B0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9bd1e632-b17b-4842-b520-ddfce3b538b9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: K's Choice
+artist_playmeid: 8077
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: c4adc1cac08d1f433e2eaeaded0ec5e5
+bars_confidence: shape = (145,)
+bars_start: shape = (145,)
+beats_confidence: shape = (583,)
+beats_start: shape = (583,)
+danceability: 0.0
+duration: 207.56853
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.326
+loudness: -11.622
+mode: 1
+mode_confidence: 0.481
+release: Live
+release_7digitalid: 290001
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (670,)
+segments_loudness_max: shape = (670,)
+segments_loudness_max_time: shape = (670,)
+segments_loudness_start: shape = (670,)
+segments_pitches: shape = (670, 12)
+segments_start: shape = (670,)
+segments_timbre: shape = (670, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIXENX12A8C134CE1
+start_of_fade_out: 207.569
+tatums_confidence: shape = (1167,)
+tatums_start: shape = (1167,)
+tempo: 171.648
+time_signature: 4
+time_signature_confidence: 0.437
+title: Another Year
+track_7digitalid: 3252877
+track_id: TRAHIPA128F4279744
+year: 2000

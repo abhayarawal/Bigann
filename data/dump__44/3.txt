@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20912
+artist_familiarity: 0.844039532227
+artist_hotttnesss: 0.524378987515
+artist_id: ARUSOMY1187FB4D3B4
+artist_latitude: nan
+artist_location: Pittsburgh, PA
+artist_longitude: nan
+artist_mbid: b88f21a7-a1b9-48fd-bbc4-ae758026f17f
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Anti-Flag
+artist_playmeid: 8398
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 7bbc91b6a2629bb69e0e9b56ae1f31d2
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (360,)
+beats_start: shape = (360,)
+danceability: 0.0
+duration: 115.53914
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.629
+loudness: -3.116
+mode: 1
+mode_confidence: 0.603
+release: The Terror State
+release_7digitalid: 237924
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (407,)
+segments_loudness_max: shape = (407,)
+segments_loudness_max_time: shape = (407,)
+segments_loudness_start: shape = (407,)
+segments_pitches: shape = (407, 12)
+segments_start: shape = (407,)
+segments_timbre: shape = (407, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.630325326733
+song_id: SOFTBIU12A8C130B7E
+start_of_fade_out: 109.389
+tatums_confidence: shape = (720,)
+tatums_start: shape = (720,)
+tempo: 189.134
+time_signature: 4
+time_signature_confidence: 0.0
+title: Death Of A Nation
+track_7digitalid: 2610731
+track_id: TRAPAZE128F4233355
+year: 2003

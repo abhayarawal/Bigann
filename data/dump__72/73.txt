@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22338
+artist_familiarity: 0.437634718072
+artist_hotttnesss: 0.361340210432
+artist_id: ARKXLIJ1187B9A4C54
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: dd38ac8c-9fb0-466c-b011-5de671f5978b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Percy Faith & His Orchestra
+artist_playmeid: 8527
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 90d87c2b995d01c36a94878496672cca
+bars_confidence: shape = (340,)
+bars_start: shape = (340,)
+beats_confidence: shape = (340,)
+beats_start: shape = (340,)
+danceability: 0.0
+duration: 168.07138
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.356
+loudness: -9.965
+mode: 0
+mode_confidence: 0.496
+release: The Most Happy Fella
+release_7digitalid: 480272
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (508,)
+segments_loudness_max: shape = (508,)
+segments_loudness_max_time: shape = (508,)
+segments_loudness_start: shape = (508,)
+segments_pitches: shape = (508, 12)
+segments_start: shape = (508,)
+segments_timbre: shape = (508, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SODERUM12AAA15D6D3
+start_of_fade_out: 163.759
+tatums_confidence: shape = (681,)
+tatums_start: shape = (681,)
+tempo: 124.246
+time_signature: 1
+time_signature_confidence: 0.0
+title: Standing On The Corner
+track_7digitalid: 5330376
+track_id: TRAYWWX128F92EEECF
+year: 0

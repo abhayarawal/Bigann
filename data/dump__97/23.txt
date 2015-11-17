@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 586449
+artist_familiarity: 0.340925898882
+artist_hotttnesss: 0.0899987243463
+artist_id: AR9696A1187FB550A1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 57cf8730-91a5-460c-941a-b5c2c9c6e703
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Nicolas Bacchus
+artist_playmeid: -1
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: 616127a18e349c400a970eb1cd40e36f
+bars_confidence: shape = (158,)
+bars_start: shape = (158,)
+beats_confidence: shape = (479,)
+beats_start: shape = (479,)
+danceability: 0.0
+duration: 215.01342
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.636
+loudness: -8.121
+mode: 0
+mode_confidence: 0.869
+release: Balades pour enfants louches
+release_7digitalid: 785327
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (872,)
+segments_loudness_max: shape = (872,)
+segments_loudness_max_time: shape = (872,)
+segments_loudness_start: shape = (872,)
+segments_pitches: shape = (872, 12)
+segments_start: shape = (872,)
+segments_timbre: shape = (872, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAFHKH12AC90757B7
+start_of_fade_out: 215.013
+tatums_confidence: shape = (958,)
+tatums_start: shape = (958,)
+tempo: 133.812
+time_signature: 3
+time_signature_confidence: 0.657
+title: Josy
+track_7digitalid: 8688227
+track_id: TRBHLBL12903D0137C
+year: 2002

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 28581
+artist_familiarity: 0.582837273291
+artist_hotttnesss: 0.426513686653
+artist_id: ARY5TFK1187B9BA2BD
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 09cb2f95-0cde-4fb6-a318-556ef3cf8deb
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: John Ottman
+artist_playmeid: -1
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: ac137309769715a273a8c2c34613fe97
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (83,)
+beats_start: shape = (83,)
+danceability: 0.0
+duration: 79.77751
+end_of_fade_in: 4.441
+energy: 0.0
+key: 4
+key_confidence: 0.448
+loudness: -13.501
+mode: 0
+mode_confidence: 0.549
+release: Fantastic Four
+release_7digitalid: 64186
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (130,)
+segments_loudness_max: shape = (130,)
+segments_loudness_max_time: shape = (130,)
+segments_loudness_start: shape = (130,)
+segments_pitches: shape = (130, 12)
+segments_start: shape = (130,)
+segments_timbre: shape = (130, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCPGYO12A6D4FBE11
+start_of_fade_out: 69.393
+tatums_confidence: shape = (166,)
+tatums_start: shape = (166,)
+tempo: 69.234
+time_signature: 1
+time_signature_confidence: 0.254
+title: Entanglement
+track_7digitalid: 665656
+track_id: TRAQCCG128F14AD361
+year: 2005

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1380
+artist_familiarity: 0.761362238446
+artist_hotttnesss: 0.467110648585
+artist_id: AR56P361187B9AC4DB
+artist_latitude: 54.5958
+artist_location: Belfast, Northern Ireland
+artist_longitude: -5.93494
+artist_mbid: a8806b5c-3ee0-4277-94d3-1a5427a7707c
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Gary Moore
+artist_playmeid: 2590
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 9f4044b57e0466e904db102ff6bce499
+bars_confidence: shape = (81,)
+bars_start: shape = (81,)
+beats_confidence: shape = (327,)
+beats_start: shape = (327,)
+danceability: 0.0
+duration: 198.79138
+end_of_fade_in: 4.917
+energy: 0.0
+key: 7
+key_confidence: 0.0
+loudness: -11.105
+mode: 1
+mode_confidence: 0.125
+release: Rockin' Every Night (Gary Moore Live In Japan)
+release_7digitalid: 22901
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (609,)
+segments_loudness_max: shape = (609,)
+segments_loudness_max_time: shape = (609,)
+segments_loudness_start: shape = (609,)
+segments_pitches: shape = (609, 12)
+segments_start: shape = (609,)
+segments_timbre: shape = (609, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.270775998946
+song_id: SORFAAB12A6D4F7EAC
+start_of_fade_out: 195.158
+tatums_confidence: shape = (1308,)
+tatums_start: shape = (1308,)
+tempo: 100.081
+time_signature: 4
+time_signature_confidence: 0.318
+title: Rockin' Every Night (Live)
+track_7digitalid: 238474
+track_id: TRACKAK128F1458461
+year: 2005

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 328
+artist_familiarity: 0.597281477904
+artist_hotttnesss: 0.398469959909
+artist_id: AR5GMAV1187FB3A8F5
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 9e302028-e8aa-49de-8ac6-6e055f3c3600
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Chris Clark
+artist_playmeid: -1
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: edbf66864851c154ead5e8538b1ed3b6
+bars_confidence: shape = (126,)
+bars_start: shape = (126,)
+beats_confidence: shape = (505,)
+beats_start: shape = (505,)
+danceability: 0.0
+duration: 192.65261
+end_of_fade_in: 0.212
+energy: 0.0
+key: 10
+key_confidence: 0.253
+loudness: -13.781
+mode: 0
+mode_confidence: 0.397
+release: The Motown Anthology
+release_7digitalid: 8476
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (668,)
+segments_loudness_max: shape = (668,)
+segments_loudness_max_time: shape = (668,)
+segments_loudness_start: shape = (668,)
+segments_pitches: shape = (668, 12)
+segments_start: shape = (668,)
+segments_timbre: shape = (668, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.239629097774
+song_id: SOAIGNB12A67020200
+start_of_fade_out: 188.726
+tatums_confidence: shape = (1009,)
+tatums_start: shape = (1009,)
+tempo: 160.011
+time_signature: 4
+time_signature_confidence: 0.656
+title: If You Should Walk Away
+track_7digitalid: 85449
+track_id: TRAVMXQ128E0785F82
+year: 1967

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5136
+artist_familiarity: 0.663231984801
+artist_hotttnesss: 0.493711076643
+artist_id: AR26X1C1187B9B0A1B
+artist_latitude: nan
+artist_location: Friars Point, MS
+artist_longitude: nan
+artist_mbid: a3c60d26-90d6-4788-ba9b-a89693fc396d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Conway Twitty
+artist_playmeid: 2998
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 0a342586a9f741c59a30fc314128996b
+bars_confidence: shape = (146,)
+bars_start: shape = (146,)
+beats_confidence: shape = (146,)
+beats_start: shape = (146,)
+danceability: 0.0
+duration: 140.7473
+end_of_fade_in: 0.156
+energy: 0.0
+key: 7
+key_confidence: 0.293
+loudness: -19.602
+mode: 1
+mode_confidence: 0.3
+release: Conway Twitty's Big Train
+release_7digitalid: 477262
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (599,)
+segments_loudness_max: shape = (599,)
+segments_loudness_max_time: shape = (599,)
+segments_loudness_start: shape = (599,)
+segments_pitches: shape = (599, 12)
+segments_start: shape = (599,)
+segments_timbre: shape = (599, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORGJUM12A8C142CFB
+start_of_fade_out: 134.206
+tatums_confidence: shape = (877,)
+tatums_start: shape = (877,)
+tempo: 64.141
+time_signature: 1
+time_signature_confidence: 0.747
+title: Big Train
+track_7digitalid: 5298254
+track_id: TRADCBA128F92E7161
+year: 2009

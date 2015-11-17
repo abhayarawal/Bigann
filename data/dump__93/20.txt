@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 445025
+artist_familiarity: 0.562179017898
+artist_hotttnesss: 0.328377305085
+artist_id: ARTKOGW1241B9CD42B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ Omega
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 2bcdd5cd4b97f2b1d1ff51470e4a4b3d
+bars_confidence: shape = (164,)
+bars_start: shape = (164,)
+beats_confidence: shape = (659,)
+beats_start: shape = (659,)
+danceability: 0.0
+duration: 260.80608
+end_of_fade_in: 2.049
+energy: 0.0
+key: 10
+key_confidence: 0.235
+loudness: -10.873
+mode: 0
+mode_confidence: 0.31
+release: DJ Omega Classics Part 1
+release_7digitalid: 598132
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1073,)
+segments_loudness_max: shape = (1073,)
+segments_loudness_max_time: shape = (1073,)
+segments_loudness_start: shape = (1073,)
+segments_pitches: shape = (1073, 12)
+segments_start: shape = (1073,)
+segments_timbre: shape = (1073, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXWGTU12AC4686266
+start_of_fade_out: 254.601
+tatums_confidence: shape = (1318,)
+tatums_start: shape = (1318,)
+tempo: 155.01
+time_signature: 4
+time_signature_confidence: 0.0
+title: E. Warren
+track_7digitalid: 6637075
+track_id: TRBGEIP12903CE8853
+year: 0

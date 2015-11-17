@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7561
+artist_familiarity: 0.710374812691
+artist_hotttnesss: 0.505883168684
+artist_id: ARCNOK81187B98CA3F
+artist_latitude: nan
+artist_location: Kingston, Jamaica
+artist_longitude: nan
+artist_mbid: 9f525d0b-3911-4c83-b0d1-e90aa1fd2d14
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Buju Banton
+artist_playmeid: 6979
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 7e4b0070a7cf3207e2f0ca6f10ab5694
+bars_confidence: shape = (19,)
+bars_start: shape = (19,)
+beats_confidence: shape = (99,)
+beats_start: shape = (99,)
+danceability: 0.0
+duration: 56.842
+end_of_fade_in: 0.154
+energy: 0.0
+key: 1
+key_confidence: 0.191
+loudness: -21.569
+mode: 1
+mode_confidence: 0.451
+release: Friends For Life
+release_7digitalid: 773380
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (228,)
+segments_loudness_max: shape = (228,)
+segments_loudness_max_time: shape = (228,)
+segments_loudness_start: shape = (228,)
+segments_pitches: shape = (228, 12)
+segments_start: shape = (228,)
+segments_timbre: shape = (228, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQACBY12AB0187937
+start_of_fade_out: 53.545
+tatums_confidence: shape = (199,)
+tatums_start: shape = (199,)
+tempo: 104.775
+time_signature: 5
+time_signature_confidence: 0.835
+title: Excerpt Of A Speech By Marcus Mosiah Garvey
+track_7digitalid: 8559834
+track_id: TRAYVCS12903CE1ED8
+year: 2003

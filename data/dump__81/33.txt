@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 106
+artist_familiarity: 0.843526543333
+artist_hotttnesss: 0.825639110796
+artist_id: ARUJ5A41187FB3F5F1
+artist_latitude: nan
+artist_location: Dublin, Ireland
+artist_longitude: nan
+artist_mbid: a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: U2
+artist_playmeid: 1636
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: bb7d8ce2a25ccdb3fc02ca011277eaf1
+bars_confidence: shape = (53,)
+bars_start: shape = (53,)
+beats_confidence: shape = (216,)
+beats_start: shape = (216,)
+danceability: 0.0
+duration: 142.23628
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.756
+loudness: -14.05
+mode: 0
+mode_confidence: 0.659
+release: October
+release_7digitalid: 278645
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (290,)
+segments_loudness_max: shape = (290,)
+segments_loudness_max_time: shape = (290,)
+segments_loudness_start: shape = (290,)
+segments_pitches: shape = (290, 12)
+segments_start: shape = (290,)
+segments_timbre: shape = (290, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIFMVY12A8AE467B1
+start_of_fade_out: 133.596
+tatums_confidence: shape = (433,)
+tatums_start: shape = (433,)
+tempo: 94.838
+time_signature: 4
+time_signature_confidence: 0.536
+title: October
+track_7digitalid: 3103042
+track_id: TRBBWDJ128F42595D5
+year: 1981

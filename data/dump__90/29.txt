@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12237
+artist_familiarity: 0.647834840006
+artist_hotttnesss: 0.472451771871
+artist_id: ARXI7WU1187FB4D75E
+artist_latitude: 17.57975
+artist_location: Mali, Africa
+artist_longitude: -3.99883
+artist_mbid: 5c98fc12-be83-4246-ae5b-2184192913b9
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Tinariwen
+artist_playmeid: -1
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: d27e6c1caab7bf0fd2cdda12dfaddd85
+bars_confidence: shape = (144,)
+bars_start: shape = (144,)
+beats_confidence: shape = (580,)
+beats_start: shape = (580,)
+danceability: 0.0
+duration: 336.32608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.048
+loudness: -12.328
+mode: 1
+mode_confidence: 0.033
+release: Amassakoul
+release_7digitalid: 368997
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1440,)
+segments_loudness_max: shape = (1440,)
+segments_loudness_max_time: shape = (1440,)
+segments_loudness_start: shape = (1440,)
+segments_pitches: shape = (1440, 12)
+segments_start: shape = (1440,)
+segments_timbre: shape = (1440, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.563755208391
+song_id: SOBIIYZ12A8C13ED05
+start_of_fade_out: 326.502
+tatums_confidence: shape = (2320,)
+tatums_start: shape = (2320,)
+tempo: 105.981
+time_signature: 4
+time_signature_confidence: 1.0
+title: Chatma
+track_7digitalid: 4109480
+track_id: TRBFDOH128F933797E
+year: 2003

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 295533
+artist_familiarity: 0.360241801208
+artist_hotttnesss: 0.279642625277
+artist_id: AR6W9T51187B9A8B8E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e39cebbc-be71-42ba-a60c-2d6ffc57a4f1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Maurice Larcange
+artist_playmeid: 65578
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: b8bd2a63a5663c9c4145de27a346d439
+bars_confidence: shape = (175,)
+bars_start: shape = (175,)
+beats_confidence: shape = (706,)
+beats_start: shape = (706,)
+danceability: 0.0
+duration: 181.81179
+end_of_fade_in: 0.304
+energy: 0.0
+key: 7
+key_confidence: 0.801
+loudness: -9.606
+mode: 1
+mode_confidence: 0.873
+release: Maurice Larcange Au Zenith
+release_7digitalid: 686335
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1030,)
+segments_loudness_max: shape = (1030,)
+segments_loudness_max_time: shape = (1030,)
+segments_loudness_start: shape = (1030,)
+segments_pitches: shape = (1030, 12)
+segments_start: shape = (1030,)
+segments_timbre: shape = (1030, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUGQQJ12AC46884C2
+start_of_fade_out: 174.73
+tatums_confidence: shape = (1412,)
+tatums_start: shape = (1412,)
+tempo: 242.393
+time_signature: 4
+time_signature_confidence: 0.0
+title: La feria de San Cristobal (Live)
+track_7digitalid: 7616096
+track_id: TRAFYGI12903CE9B9A
+year: 0

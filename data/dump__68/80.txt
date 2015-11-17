@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3204
+artist_familiarity: 0.754917645451
+artist_hotttnesss: 0.507464243115
+artist_id: ARWPYQI1187FB4D55A
+artist_latitude: 53.45644
+artist_location: Newton-le-Willows, Merseyside, England
+artist_longitude: -2.63265
+artist_mbid: db92a151-1ac2-438b-bc43-b82e149ddd50
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Rick Astley
+artist_playmeid: 1338
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: bf53f8113508a466cd2d3fda18b06368
+bars_confidence: shape = (99,)
+bars_start: shape = (99,)
+beats_confidence: shape = (397,)
+beats_start: shape = (397,)
+danceability: 0.0
+duration: 211.69587
+end_of_fade_in: 0.139
+energy: 0.0
+key: 1
+key_confidence: 0.324
+loudness: -7.75
+mode: 1
+mode_confidence: 0.434
+release: Big Tunes - Back 2 The 80s
+release_7digitalid: 786795
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (935,)
+segments_loudness_max: shape = (935,)
+segments_loudness_max_time: shape = (935,)
+segments_loudness_start: shape = (935,)
+segments_pitches: shape = (935, 12)
+segments_start: shape = (935,)
+segments_timbre: shape = (935, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.864248830588
+song_id: SOCWJDB12A58A776AF
+start_of_fade_out: 198.536
+tatums_confidence: shape = (794,)
+tatums_start: shape = (794,)
+tempo: 113.359
+time_signature: 4
+time_signature_confidence: 0.634
+title: Never Gonna Give You Up
+track_7digitalid: 8707738
+track_id: TRAXLZU12903D05F94
+year: 1987

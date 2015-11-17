@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4741
+artist_familiarity: 0.744641245933
+artist_hotttnesss: 0.579988982429
+artist_id: ARNLO5S1187B9B80CC
+artist_latitude: nan
+artist_location: Pasadena, CA
+artist_longitude: nan
+artist_mbid: b665b768-0d83-4363-950c-31ed39317c15
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Van Halen
+artist_playmeid: 54598
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 40a07ab1821d0690a2853dc736897427
+bars_confidence: shape = (496,)
+bars_start: shape = (496,)
+beats_confidence: shape = (496,)
+beats_start: shape = (496,)
+danceability: 0.0
+duration: 212.63628
+end_of_fade_in: 2.101
+energy: 0.0
+key: 8
+key_confidence: 0.411
+loudness: -5.338
+mode: 1
+mode_confidence: 0.464
+release: Best Of Volume 1
+release_7digitalid: 600546
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (736,)
+segments_loudness_max: shape = (736,)
+segments_loudness_max_time: shape = (736,)
+segments_loudness_start: shape = (736,)
+segments_pitches: shape = (736, 12)
+segments_start: shape = (736,)
+segments_timbre: shape = (736, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZERJS12AC9070FF3
+start_of_fade_out: 209.653
+tatums_confidence: shape = (992,)
+tatums_start: shape = (992,)
+tempo: 141.325
+time_signature: 1
+time_signature_confidence: 0.319
+title: Panama (Album Version)
+track_7digitalid: 6665615
+track_id: TRAMGDX12903CEF79F
+year: 0

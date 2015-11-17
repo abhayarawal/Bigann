@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4887
+artist_familiarity: 0.673325231272
+artist_hotttnesss: 0.53710628392
+artist_id: ARGNLJL1187B9AB503
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0b68034d-215d-48db-b671-edf76739d637
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Point Of Grace
+artist_playmeid: 10094
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 92baf8b75f975907ad542785ad6e2bb0
+bars_confidence: shape = (151,)
+bars_start: shape = (151,)
+beats_confidence: shape = (605,)
+beats_start: shape = (605,)
+danceability: 0.0
+duration: 294.08608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.535
+loudness: -6.477
+mode: 0
+mode_confidence: 0.647
+release: Steady On
+release_7digitalid: 327478
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (852,)
+segments_loudness_max: shape = (852,)
+segments_loudness_max_time: shape = (852,)
+segments_loudness_start: shape = (852,)
+segments_pitches: shape = (852, 12)
+segments_start: shape = (852,)
+segments_timbre: shape = (852, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.327736683178
+song_id: SOTESSB12AB017F56D
+start_of_fade_out: 285.838
+tatums_confidence: shape = (1209,)
+tatums_start: shape = (1209,)
+tempo: 125.95
+time_signature: 4
+time_signature_confidence: 0.681
+title: Amazing (LP Version)
+track_7digitalid: 3683725
+track_id: TRAEUHN128F92E2C7F
+year: 1998

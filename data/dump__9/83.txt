@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9878
+artist_familiarity: 0.807779927796
+artist_hotttnesss: 0.486825413499
+artist_id: ARR6MOS1187B994C51
+artist_latitude: nan
+artist_location: Borlänge
+artist_longitude: nan
+artist_mbid: ea854cc1-13fc-4fd0-86a5-d2c7dba06764
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Mando Diao
+artist_playmeid: 24471
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 1a211d6de58b41603d12d86cf7668848
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (352,)
+beats_start: shape = (352,)
+danceability: 0.0
+duration: 144.03873
+end_of_fade_in: 0.206
+energy: 0.0
+key: 7
+key_confidence: 0.367
+loudness: -3.942
+mode: 1
+mode_confidence: 0.301
+release: Never Seen The Light Of Day -Deluxe Version
+release_7digitalid: 271142
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (531,)
+segments_loudness_max: shape = (531,)
+segments_loudness_max_time: shape = (531,)
+segments_loudness_start: shape = (531,)
+segments_pitches: shape = (531, 12)
+segments_start: shape = (531,)
+segments_timbre: shape = (531, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.616433817983
+song_id: SOYXFLF12A6D4FBF4E
+start_of_fade_out: 133.863
+tatums_confidence: shape = (703,)
+tatums_start: shape = (703,)
+tempo: 152.041
+time_signature: 4
+time_signature_confidence: 0.362
+title: Misty Mountains
+track_7digitalid: 3015706
+track_id: TRADFXD128F424694C
+year: 2007

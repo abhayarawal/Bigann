@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22060
+artist_familiarity: 0.546648693634
+artist_hotttnesss: 0.382934592518
+artist_id: ARH8VT91187FB49CA2
+artist_latitude: 45.7594
+artist_location: Lyon, FR
+artist_longitude: 4.82897
+artist_mbid: 40a58741-1683-478c-8018-321dbd565919
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Exciters
+artist_playmeid: 13197
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: a9d74ad803e6e12a1a4a9ccd1e5d0d6a
+bars_confidence: shape = (51,)
+bars_start: shape = (51,)
+beats_confidence: shape = (208,)
+beats_start: shape = (208,)
+danceability: 0.0
+duration: 142.21016
+end_of_fade_in: 0.235
+energy: 0.0
+key: 6
+key_confidence: 0.258
+loudness: -8.813
+mode: 1
+mode_confidence: 0.435
+release: Girls of the 60's
+release_7digitalid: 609792
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (535,)
+segments_loudness_max: shape = (535,)
+segments_loudness_max_time: shape = (535,)
+segments_loudness_start: shape = (535,)
+segments_pitches: shape = (535, 12)
+segments_start: shape = (535,)
+segments_timbre: shape = (535, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFDYYA12A58A78E73
+start_of_fade_out: 134.014
+tatums_confidence: shape = (830,)
+tatums_start: shape = (830,)
+tempo: 89.342
+time_signature: 4
+time_signature_confidence: 0.976
+title: Tell Him
+track_7digitalid: 6776910
+track_id: TRAWOPG128F92EF9A1
+year: 1962

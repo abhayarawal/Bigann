@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2124
+artist_familiarity: 0.632592419749
+artist_hotttnesss: 0.497690506998
+artist_id: ARGIABO1187FB4B3B5
+artist_latitude: 35.32689
+artist_location: Robbinsville, NC
+artist_longitude: -83.80489
+artist_mbid: f5d7d748-256e-4875-a065-78cf2f1e3d39
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ronnie Milsap
+artist_playmeid: 2939
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 982855fd7a3b3fa43de9a754bffca8ec
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (471,)
+beats_start: shape = (471,)
+danceability: 0.0
+duration: 251.27138
+end_of_fade_in: 0.257
+energy: 0.0
+key: 2
+key_confidence: 1.0
+loudness: -10.415
+mode: 1
+mode_confidence: 0.91
+release: The Essential Ronnie Milsap
+release_7digitalid: 390157
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (817,)
+segments_loudness_max: shape = (817,)
+segments_loudness_max_time: shape = (817,)
+segments_loudness_start: shape = (817,)
+segments_pitches: shape = (817, 12)
+segments_start: shape = (817,)
+segments_timbre: shape = (817, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYUONX12A58A7A821
+start_of_fade_out: 231.741
+tatums_confidence: shape = (942,)
+tatums_start: shape = (942,)
+tempo: 113.86
+time_signature: 4
+time_signature_confidence: 0.265
+title: Why Don't You Spend The Night
+track_7digitalid: 4341044
+track_id: TRAHVRW128F92F15FE
+year: 1980

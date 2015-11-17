@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21239
+artist_familiarity: 0.83317856089
+artist_hotttnesss: 0.804219797447
+artist_id: AR6PJ8R1187FB5AD70
+artist_latitude: nan
+artist_location: Barranquilla, Colombia
+artist_longitude: nan
+artist_mbid: bf24ca37-25f4-4e34-9aec-460b94364cfc
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Shakira
+artist_playmeid: 1424
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 0ea3e335d930b414c2fddc4d33703dc4
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (471,)
+beats_start: shape = (471,)
+danceability: 0.0
+duration: 222.37995
+end_of_fade_in: 0.27
+energy: 0.0
+key: 7
+key_confidence: 0.432
+loudness: -5.16
+mode: 1
+mode_confidence: 0.557
+release: Loba
+release_7digitalid: 554310
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1063,)
+segments_loudness_max: shape = (1063,)
+segments_loudness_max_time: shape = (1063,)
+segments_loudness_start: shape = (1063,)
+segments_pitches: shape = (1063, 12)
+segments_start: shape = (1063,)
+segments_timbre: shape = (1063, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWIZXE12AB0184B34
+start_of_fade_out: 214.924
+tatums_confidence: shape = (471,)
+tatums_start: shape = (471,)
+tempo: 128.217
+time_signature: 4
+time_signature_confidence: 0.784
+title: Loba
+track_7digitalid: 6130617
+track_id: TRADBSW128F933A7A8
+year: 2009

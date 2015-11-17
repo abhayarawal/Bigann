@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1998
+artist_familiarity: 0.63063003759
+artist_hotttnesss: 0.417499644971
+artist_id: ARMJAGH1187FB546F3
+artist_latitude: 35.14968
+artist_location: Memphis, TN
+artist_longitude: -90.04892
+artist_mbid: 1c78ab62-db33-4433-8d0b-7c8dcf1849c2
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Box Tops
+artist_playmeid: 22066
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 8464039edfc0a567c590ebd8aae3ee32
+bars_confidence: shape = (86,)
+bars_start: shape = (86,)
+beats_confidence: shape = (346,)
+beats_start: shape = (346,)
+danceability: 0.0
+duration: 177.3971
+end_of_fade_in: 0.171
+energy: 0.0
+key: 0
+key_confidence: 0.552
+loudness: -10.393
+mode: 1
+mode_confidence: 0.871
+release: The Letter/Neon Rainbow
+release_7digitalid: 300821
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (547,)
+segments_loudness_max: shape = (547,)
+segments_loudness_max_time: shape = (547,)
+segments_loudness_start: shape = (547,)
+segments_pitches: shape = (547, 12)
+segments_start: shape = (547,)
+segments_timbre: shape = (547, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOETFQZ12A8C13C7DA
+start_of_fade_out: 171.746
+tatums_confidence: shape = (692,)
+tatums_start: shape = (692,)
+tempo: 117.381
+time_signature: 4
+time_signature_confidence: 0.0
+title: Neon Rainbow
+track_7digitalid: 3400861
+track_id: TRACWCV128F429D196
+year: 1967

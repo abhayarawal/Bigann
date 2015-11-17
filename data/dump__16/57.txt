@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 262
+artist_familiarity: 0.871010615313
+artist_hotttnesss: 0.804830427831
+artist_id: ARTH9041187FB43E1F
+artist_latitude: nan
+artist_location: St. Joseph, MO
+artist_longitude: nan
+artist_mbid: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Eminem
+artist_playmeid: 549
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 8712547bb5dd220714bbf3dbeda7b57a
+bars_confidence: shape = (210,)
+bars_start: shape = (210,)
+beats_confidence: shape = (842,)
+beats_start: shape = (842,)
+danceability: 0.0
+duration: 289.30567
+end_of_fade_in: 2.02
+energy: 0.0
+key: 7
+key_confidence: 0.507
+loudness: -2.973
+mode: 1
+mode_confidence: 0.507
+release: The Marshall Mathers LP
+release_7digitalid: 14305
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1510,)
+segments_loudness_max: shape = (1510,)
+segments_loudness_max_time: shape = (1510,)
+segments_loudness_start: shape = (1510,)
+segments_pitches: shape = (1510, 12)
+segments_start: shape = (1510,)
+segments_timbre: shape = (1510, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.813003555784
+song_id: SOWNZHB12A6701C776
+start_of_fade_out: 277.211
+tatums_confidence: shape = (1683,)
+tatums_start: shape = (1683,)
+tempo: 174.69
+time_signature: 4
+time_signature_confidence: 0.849
+title: The Way I Am
+track_7digitalid: 148017
+track_id: TRAFQFM128E078EC97
+year: 2000

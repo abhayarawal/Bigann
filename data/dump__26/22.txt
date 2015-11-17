@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 300024
+artist_familiarity: 0.506168491079
+artist_hotttnesss: 0.384244951714
+artist_id: ARFW0QN11C8A4216B7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2134eadf-5055-4b7e-9ff8-f946504ca19a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dark Party
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: dc665534906237ac6d0f3966b18eea0c
+bars_confidence: shape = (185,)
+bars_start: shape = (185,)
+beats_confidence: shape = (742,)
+beats_start: shape = (742,)
+danceability: 0.0
+duration: 261.58975
+end_of_fade_in: 2.026
+energy: 0.0
+key: 1
+key_confidence: 0.582
+loudness: -3.542
+mode: 0
+mode_confidence: 0.384
+release: Ghostly Swim
+release_7digitalid: 394826
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1116,)
+segments_loudness_max: shape = (1116,)
+segments_loudness_max_time: shape = (1116,)
+segments_loudness_start: shape = (1116,)
+segments_pitches: shape = (1116, 12)
+segments_start: shape = (1116,)
+segments_timbre: shape = (1116, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.73147335705
+song_id: SOUPNLN12A58A7CDDF
+start_of_fade_out: 250.311
+tatums_confidence: shape = (1485,)
+tatums_start: shape = (1485,)
+tempo: 175.948
+time_signature: 4
+time_signature_confidence: 0.455
+title: Active
+track_7digitalid: 4378678
+track_id: TRAIUTE128F92F96F3
+year: 2008

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1480
+artist_familiarity: 0.790367908794
+artist_hotttnesss: 0.615454461554
+artist_id: ARIPLUN1187B99B9F9
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: 9e0e2b01-41db-4008-bd8b-988977d6019a
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: The Police
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: c073f6d2e63ee2da97305c02f3f1ff3e
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (351,)
+beats_start: shape = (351,)
+danceability: 0.0
+duration: 137.45587
+end_of_fade_in: 0.293
+energy: 0.0
+key: 10
+key_confidence: 0.624
+loudness: -11.636
+mode: 0
+mode_confidence: 0.528
+release: Message In A Box
+release_7digitalid: 16027
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (483,)
+segments_loudness_max: shape = (483,)
+segments_loudness_max_time: shape = (483,)
+segments_loudness_start: shape = (483,)
+segments_pitches: shape = (483, 12)
+segments_start: shape = (483,)
+segments_timbre: shape = (483, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJDROX12A58A7E969
+start_of_fade_out: 131.454
+tatums_confidence: shape = (702,)
+tatums_start: shape = (702,)
+tempo: 159.106
+time_signature: 4
+time_signature_confidence: 0.574
+title: Man In A Suitcase
+track_7digitalid: 169651
+track_id: TRAOLIX128E0793AFA
+year: 1980

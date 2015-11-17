@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 136839
+artist_familiarity: 0.484893131196
+artist_hotttnesss: 0.344871922171
+artist_id: AR3752L1187FB4B67E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 76f18c18-58df-47f9-9274-d3368d25129a
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: The Real Kids
+artist_playmeid: 144545
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 07ef128b96536fad6fe1fc3e53419a17
+bars_confidence: shape = (135,)
+bars_start: shape = (135,)
+beats_confidence: shape = (543,)
+beats_start: shape = (543,)
+danceability: 0.0
+duration: 192.15628
+end_of_fade_in: 0.078
+energy: 0.0
+key: 0
+key_confidence: 0.008
+loudness: -7.046
+mode: 0
+mode_confidence: 0.177
+release: No Place Fast
+release_7digitalid: 192891
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (739,)
+segments_loudness_max: shape = (739,)
+segments_loudness_max_time: shape = (739,)
+segments_loudness_start: shape = (739,)
+segments_pitches: shape = (739, 12)
+segments_start: shape = (739,)
+segments_timbre: shape = (739, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUYDOZ12A8C131C66
+start_of_fade_out: 185.673
+tatums_confidence: shape = (1086,)
+tatums_start: shape = (1086,)
+tempo: 175.626
+time_signature: 4
+time_signature_confidence: 0.0
+title: Happens All The Time
+track_7digitalid: 2097164
+track_id: TRALRYB128F4244311
+year: 0

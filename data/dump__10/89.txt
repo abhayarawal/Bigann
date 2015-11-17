@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4730
+artist_familiarity: 0.787877691086
+artist_hotttnesss: 0.543225521045
+artist_id: ARAPH9U1187B9B34F0
+artist_latitude: nan
+artist_location: Marshville, NC
+artist_longitude: nan
+artist_mbid: 09b697e3-a849-4670-ae49-e0b821a6271a
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Randy Travis
+artist_playmeid: 10849
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: e9d2928c1edd9b37be25395a2bf8601c
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (336,)
+beats_start: shape = (336,)
+danceability: 0.0
+duration: 198.76526
+end_of_fade_in: 0.119
+energy: 0.0
+key: 10
+key_confidence: 0.529
+loudness: -11.611
+mode: 1
+mode_confidence: 0.578
+release: Wind In The Wire
+release_7digitalid: 12539
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (566,)
+segments_loudness_max: shape = (566,)
+segments_loudness_max_time: shape = (566,)
+segments_loudness_start: shape = (566,)
+segments_pitches: shape = (566, 12)
+segments_start: shape = (566,)
+segments_timbre: shape = (566, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEQJUL12A6701D4CE
+start_of_fade_out: 191.042
+tatums_confidence: shape = (1007,)
+tatums_start: shape = (1007,)
+tempo: 104.799
+time_signature: 4
+time_signature_confidence: 0.163
+title: Down At The Old Corral (Album Version)
+track_7digitalid: 129040
+track_id: TRADPPX128E078B0BC
+year: 1993

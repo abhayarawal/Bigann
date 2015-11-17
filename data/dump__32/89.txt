@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8318
+artist_familiarity: 0.816596710223
+artist_hotttnesss: 0.553661233298
+artist_id: ARM0P6Z1187FB4D466
+artist_latitude: nan
+artist_location: Sheffield, South Yorkshire, Engla
+artist_longitude: nan
+artist_mbid: ada7a83c-e3e1-40f1-93f9-3e73dbc9298a
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Arctic Monkeys
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: f024ccf8b473e1d7435e6be8379e9306
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (336,)
+beats_start: shape = (336,)
+danceability: 0.0
+duration: 141.13914
+end_of_fade_in: 0.073
+energy: 0.0
+key: 1
+key_confidence: 0.043
+loudness: -4.526
+mode: 1
+mode_confidence: 0.793
+release: Whatever People Say I Am_ That's What I'm Not
+release_7digitalid: 443784
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (514,)
+segments_loudness_max: shape = (514,)
+segments_loudness_max_time: shape = (514,)
+segments_loudness_start: shape = (514,)
+segments_pitches: shape = (514, 12)
+segments_start: shape = (514,)
+segments_timbre: shape = (514, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQLNEY12B0B8062FA
+start_of_fade_out: 138.797
+tatums_confidence: shape = (673,)
+tatums_start: shape = (673,)
+tempo: 144.955
+time_signature: 4
+time_signature_confidence: 0.619
+title: Dancing Shoes
+track_7digitalid: 5024298
+track_id: TRALEPN128F9311179
+year: 2004

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7724
+artist_familiarity: 0.39681784431
+artist_hotttnesss: 0.297404802871
+artist_id: AR009211187B989185
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9dfe78a6-6d91-454e-9b95-9d7722cbc476
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Carroll Thompson
+artist_playmeid: 147337
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 01ec5354f1a4936fb2058942ab772be6
+bars_confidence: shape = (303,)
+bars_start: shape = (303,)
+beats_confidence: shape = (1217,)
+beats_start: shape = (1217,)
+danceability: 0.0
+duration: 425.19465
+end_of_fade_in: 0.299
+energy: 0.0
+key: 7
+key_confidence: 1.0
+loudness: -8.091
+mode: 1
+mode_confidence: 0.876
+release: The Other Side of Love
+release_7digitalid: 330109
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (2017,)
+segments_loudness_max: shape = (2017,)
+segments_loudness_max_time: shape = (2017,)
+segments_loudness_start: shape = (2017,)
+segments_pitches: shape = (2017, 12)
+segments_start: shape = (2017,)
+segments_timbre: shape = (2017, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBTJWY12AB017D2C4
+start_of_fade_out: 421.483
+tatums_confidence: shape = (2434,)
+tatums_start: shape = (2434,)
+tempo: 171.991
+time_signature: 4
+time_signature_confidence: 0.449
+title: Show Some Love Where Is The Love feat. MackaB
+track_7digitalid: 3709185
+track_id: TRBFYQS128F92E83A0
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 103962
+artist_familiarity: 0.548738642273
+artist_hotttnesss: 0.339611731912
+artist_id: AR5OHUU1187FB55B10
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 796481a3-2977-45b6-84b3-eb06bb10a903
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Varios Artistas de Rumba
+artist_playmeid: 33039
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 9eff7121341483056680dbbb0f890226
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (318,)
+beats_start: shape = (318,)
+danceability: 0.0
+duration: 171.88526
+end_of_fade_in: 2.554
+energy: 0.0
+key: 6
+key_confidence: 0.351
+loudness: -5.762
+mode: 1
+mode_confidence: 0.426
+release: 20 Mejores Rumbas Vol.1
+release_7digitalid: 751218
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (750,)
+segments_loudness_max: shape = (750,)
+segments_loudness_max_time: shape = (750,)
+segments_loudness_start: shape = (750,)
+segments_pitches: shape = (750, 12)
+segments_start: shape = (750,)
+segments_timbre: shape = (750, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMFTLI12AB018BC0A
+start_of_fade_out: 167.178
+tatums_confidence: shape = (1272,)
+tatums_start: shape = (1272,)
+tempo: 113.862
+time_signature: 4
+time_signature_confidence: 0.138
+title: Don Toribio
+track_7digitalid: 8317160
+track_id: TRAWBZE12903CA6CFA
+year: 0

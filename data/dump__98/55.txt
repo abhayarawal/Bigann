@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22231
+artist_familiarity: 0.464362590899
+artist_hotttnesss: 0.417846147714
+artist_id: ARW1WST1187FB384DA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fb50177c-d4b7-407e-95dc-40f15274041a
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Jope Ruonansuu
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 8d308d0c267a0dadd73bb268a4cd05af
+bars_confidence: shape = (77,)
+bars_start: shape = (77,)
+beats_confidence: shape = (314,)
+beats_start: shape = (314,)
+danceability: 0.0
+duration: 150.7522
+end_of_fade_in: 0.229
+energy: 0.0
+key: 4
+key_confidence: 0.097
+loudness: -5.062
+mode: 0
+mode_confidence: 0.171
+release: Kaikkien aikojen parhaat -45 klassikkoa - Aattelepa ite
+release_7digitalid: 768012
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (698,)
+segments_loudness_max: shape = (698,)
+segments_loudness_max_time: shape = (698,)
+segments_loudness_start: shape = (698,)
+segments_pitches: shape = (698, 12)
+segments_start: shape = (698,)
+segments_timbre: shape = (698, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHGCAM12AB018B2DB
+start_of_fade_out: 145.438
+tatums_confidence: shape = (628,)
+tatums_start: shape = (628,)
+tempo: 124.985
+time_signature: 4
+time_signature_confidence: 0.889
+title: Aulis Gerlander
+track_7digitalid: 8503477
+track_id: TRBHWVU12903CD4350
+year: 2004

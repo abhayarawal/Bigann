@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 136
+artist_familiarity: 0.708735400038
+artist_hotttnesss: 0.542289933434
+artist_id: AR4GAFY1187B9B639D
+artist_latitude: nan
+artist_location: Memphis, Tennessee
+artist_longitude: nan
+artist_mbid: dcb03ce3-67a5-4eb3-b2d1-2a12d93a38f3
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: B.B. King
+artist_playmeid: 130872
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 99e0f2993ead02223e5bd17f3b30fdd5
+bars_confidence: shape = (288,)
+bars_start: shape = (288,)
+beats_confidence: shape = (288,)
+beats_start: shape = (288,)
+danceability: 0.0
+duration: 170.68363
+end_of_fade_in: 0.415
+energy: 0.0
+key: 3
+key_confidence: 0.269
+loudness: -6.555
+mode: 1
+mode_confidence: 0.235
+release: The Very Best Of The Early Years
+release_7digitalid: 194746
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (513,)
+segments_loudness_max: shape = (513,)
+segments_loudness_max_time: shape = (513,)
+segments_loudness_start: shape = (513,)
+segments_pitches: shape = (513, 12)
+segments_start: shape = (513,)
+segments_timbre: shape = (513, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAXXGD12A8C134182
+start_of_fade_out: 164.612
+tatums_confidence: shape = (862,)
+tatums_start: shape = (862,)
+tempo: 103.859
+time_signature: 1
+time_signature_confidence: 0.373
+title: Please Love Me
+track_7digitalid: 2118769
+track_id: TRBFNLX128F4249752
+year: 1956

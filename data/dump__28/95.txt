@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23001
+artist_familiarity: 0.545364352993
+artist_hotttnesss: 0.4045752264
+artist_id: ARQ30G91187B9B8C12
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 900041e6-03f9-4bc3-a4cd-68452dd1ea2d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Steinski
+artist_playmeid: -1
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 031ec50ae528201ca63e9752ba59b6ce
+bars_confidence: shape = (130,)
+bars_start: shape = (130,)
+beats_confidence: shape = (524,)
+beats_start: shape = (524,)
+danceability: 0.0
+duration: 169.97832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.533
+loudness: -12.738
+mode: 0
+mode_confidence: 0.547
+release: What Does It All Mean? - 1983-2006 Retrospective
+release_7digitalid: 534612
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (855,)
+segments_loudness_max: shape = (855,)
+segments_loudness_max_time: shape = (855,)
+segments_loudness_start: shape = (855,)
+segments_pitches: shape = (855, 12)
+segments_start: shape = (855,)
+segments_timbre: shape = (855, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.433005077275
+song_id: SOUDAHM12A58A7B19A
+start_of_fade_out: 169.978
+tatums_confidence: shape = (1048,)
+tatums_start: shape = (1048,)
+tempo: 185.325
+time_signature: 4
+time_signature_confidence: 0.59
+title: Hot Spot (Terrible Love Mix)
+track_7digitalid: 5912356
+track_id: TRAJSNE128F9305CFD
+year: 2003

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 222660
+artist_familiarity: 0.636436672421
+artist_hotttnesss: 0.429097811994
+artist_id: ARB5TJM1187B9A71FD
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 14962b84-c46a-490b-b6a0-ee69c78b2291
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Finntroll
+artist_playmeid: 210655
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 8e3ef9254d8ba388b0f7c94377f97f46
+bars_confidence: shape = (56,)
+bars_start: shape = (56,)
+beats_confidence: shape = (228,)
+beats_start: shape = (228,)
+danceability: 0.0
+duration: 125.46567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -5.059
+mode: 1
+mode_confidence: 0.0
+release: Jaktens Tid
+release_7digitalid: 277871
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (469,)
+segments_loudness_max: shape = (469,)
+segments_loudness_max_time: shape = (469,)
+segments_loudness_start: shape = (469,)
+segments_pitches: shape = (469, 12)
+segments_start: shape = (469,)
+segments_timbre: shape = (469, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.654734537237
+song_id: SONUMYT12A8AE47DEE
+start_of_fade_out: 119.983
+tatums_confidence: shape = (913,)
+tatums_start: shape = (913,)
+tempo: 110.972
+time_signature: 4
+time_signature_confidence: 0.0
+title: Kitteldags
+track_7digitalid: 3096465
+track_id: TRAKFSV128F4257C10
+year: 2001

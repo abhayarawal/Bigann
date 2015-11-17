@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 163681
+artist_familiarity: 0.500656727945
+artist_hotttnesss: 0.0
+artist_id: AR1Y0N71187FB43209
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e0f1c974-0125-40e1-818b-4a38100fae94
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Anat Ben David
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: e72ffea776b19515dfab7820b4d0006b
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (351,)
+beats_start: shape = (351,)
+danceability: 0.0
+duration: 213.7073
+end_of_fade_in: 0.078
+energy: 0.0
+key: 0
+key_confidence: 0.467
+loudness: -8.913
+mode: 0
+mode_confidence: 0.242
+release: Virtual Leisure
+release_7digitalid: 216702
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (649,)
+segments_loudness_max: shape = (649,)
+segments_loudness_max_time: shape = (649,)
+segments_loudness_start: shape = (649,)
+segments_pitches: shape = (649, 12)
+segments_start: shape = (649,)
+segments_timbre: shape = (649, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOKYSHY12A8C13EA99
+start_of_fade_out: 206.158
+tatums_confidence: shape = (702,)
+tatums_start: shape = (702,)
+tempo: 100.042
+time_signature: 4
+time_signature_confidence: 0.626
+title: Moon Boom
+track_7digitalid: 2359206
+track_id: TRAERMS128F427EC54
+year: 0

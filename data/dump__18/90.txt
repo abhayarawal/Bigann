@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 389248
+artist_familiarity: 0.54818519571
+artist_hotttnesss: 0.361105937537
+artist_id: AR8TLVX1187B9B2D7D
+artist_latitude: nan
+artist_location: Sweden
+artist_longitude: nan
+artist_mbid: bb7ef759-5319-4521-b58f-42333804e8e3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mithotyn
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: b009ef4b2ae1915fb4327129180ad6d5
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (726,)
+beats_start: shape = (726,)
+danceability: 0.0
+duration: 391.02649
+end_of_fade_in: 0.16
+energy: 0.0
+key: 0
+key_confidence: 0.0
+loudness: -7.078
+mode: 1
+mode_confidence: 0.131
+release: Gathered Around The Oaken Table
+release_7digitalid: 528923
+sections_confidence: shape = (22,)
+sections_start: shape = (22,)
+segments_confidence: shape = (949,)
+segments_loudness_max: shape = (949,)
+segments_loudness_max_time: shape = (949,)
+segments_loudness_start: shape = (949,)
+segments_pitches: shape = (949, 12)
+segments_start: shape = (949,)
+segments_timbre: shape = (949, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.514298331265
+song_id: SOIDEHN12AAA8C4B80
+start_of_fade_out: 386.984
+tatums_confidence: shape = (1452,)
+tatums_start: shape = (1452,)
+tempo: 110.897
+time_signature: 7
+time_signature_confidence: 0.553
+title: Guided By History
+track_7digitalid: 5841020
+track_id: TRAGKUI128F92F4698
+year: 1999

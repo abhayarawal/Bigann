@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 447
+artist_familiarity: 0.818042044373
+artist_hotttnesss: 0.638906376718
+artist_id: ARD4C1I1187FB4B0C3
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: 83d91898-7763-47d7-b03b-b92132375c47
+artist_mbtags: shape = (12,)
+artist_mbtags_count: shape = (12,)
+artist_name: Pink Floyd
+artist_playmeid: 1271
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 17b35c2266d0b1b9bf3e29c31fb27310
+bars_confidence: shape = (11,)
+bars_start: shape = (11,)
+beats_confidence: shape = (59,)
+beats_start: shape = (59,)
+danceability: 0.0
+duration: 60.13342
+end_of_fade_in: 0.712
+energy: 0.0
+key: 7
+key_confidence: 0.399
+loudness: -20.11
+mode: 1
+mode_confidence: 0.473
+release: Ummagumma
+release_7digitalid: 839
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (184,)
+segments_loudness_max: shape = (184,)
+segments_loudness_max_time: shape = (184,)
+segments_loudness_start: shape = (184,)
+segments_pitches: shape = (184, 12)
+segments_start: shape = (184,)
+segments_timbre: shape = (184, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGTHVT12A6D4FC435
+start_of_fade_out: 60.133
+tatums_confidence: shape = (295,)
+tatums_start: shape = (295,)
+tempo: 65.61
+time_signature: 4
+time_signature_confidence: 0.75
+title: The Grand Vizier's Garden Party (Entrance) (1994 Digital Remaster)
+track_7digitalid: 1338750
+track_id: TRAQLMY128F42313D6
+year: 0

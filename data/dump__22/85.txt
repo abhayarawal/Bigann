@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 274442
+artist_familiarity: 0.4801936682
+artist_hotttnesss: 0.363943229288
+artist_id: ARP4QQS1187B998E46
+artist_latitude: nan
+artist_location: UK - England - London
+artist_longitude: nan
+artist_mbid: e0b7c070-1a3e-48ce-b41e-742d643c112d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Forensics
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 051573c20a0f0a1a87f4da655691a87f
+bars_confidence: shape = (180,)
+bars_start: shape = (180,)
+beats_confidence: shape = (723,)
+beats_start: shape = (723,)
+danceability: 0.0
+duration: 289.98485
+end_of_fade_in: 0.322
+energy: 0.0
+key: 6
+key_confidence: 0.527
+loudness: -7.992
+mode: 0
+mode_confidence: 0.484
+release: On a Bridge Atop the Heap of Friends Who Jumped
+release_7digitalid: 506618
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (623,)
+segments_loudness_max: shape = (623,)
+segments_loudness_max_time: shape = (623,)
+segments_loudness_start: shape = (623,)
+segments_pitches: shape = (623, 12)
+segments_start: shape = (623,)
+segments_timbre: shape = (623, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTKBLS12AB01818BC
+start_of_fade_out: 282.21
+tatums_confidence: shape = (1446,)
+tatums_start: shape = (1446,)
+tempo: 145.521
+time_signature: 4
+time_signature_confidence: 0.415
+title: Boat Day At the Marina
+track_7digitalid: 5604609
+track_id: TRAHTHN128F93309DB
+year: 0

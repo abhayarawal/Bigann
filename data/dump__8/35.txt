@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 37588
+artist_familiarity: 0.83059250647
+artist_hotttnesss: 0.639798164281
+artist_id: AR6J3X81187FB59A7B
+artist_latitude: 40.65507
+artist_location: Brooklyn, NY
+artist_longitude: -73.94888
+artist_mbid: e8993e9d-9313-4447-ad23-791459a3790d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Matisyahu
+artist_playmeid: 4100
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: cb96f7846c420bad58772cfbe8318b35
+bars_confidence: shape = (315,)
+bars_start: shape = (315,)
+beats_confidence: shape = (1264,)
+beats_start: shape = (1264,)
+danceability: 0.0
+duration: 417.67138
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.386
+loudness: -7.865
+mode: 1
+mode_confidence: 0.289
+release: Live at Stubb's
+release_7digitalid: 304844
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (1820,)
+segments_loudness_max: shape = (1820,)
+segments_loudness_max_time: shape = (1820,)
+segments_loudness_start: shape = (1820,)
+segments_pitches: shape = (1820, 12)
+segments_start: shape = (1820,)
+segments_timbre: shape = (1820, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.653306677871
+song_id: SOWXKLQ12A8C13C221
+start_of_fade_out: 417.671
+tatums_confidence: shape = (2528,)
+tatums_start: shape = (2528,)
+tempo: 181.549
+time_signature: 4
+time_signature_confidence: 0.874
+title: Exaltation
+track_7digitalid: 3434722
+track_id: TRACTLX128F42A51F6
+year: 2004

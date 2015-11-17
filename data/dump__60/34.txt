@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 39031
+artist_familiarity: 0.606267926942
+artist_hotttnesss: 0.397414663377
+artist_id: ARZ3U0K1187B999BF4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0696ab5b-a92b-4190-addc-48d3a4601111
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cabas
+artist_playmeid: 3201
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 87476c380841752e1d460d171c0b6b02
+bars_confidence: shape = (736,)
+bars_start: shape = (736,)
+beats_confidence: shape = (736,)
+beats_start: shape = (736,)
+danceability: 0.0
+duration: 207.82975
+end_of_fade_in: 0.136
+energy: 0.0
+key: 0
+key_confidence: 0.399
+loudness: -6.399
+mode: 1
+mode_confidence: 0.419
+release: Amores Difíciles
+release_7digitalid: 214908
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1056,)
+segments_loudness_max: shape = (1056,)
+segments_loudness_max_time: shape = (1056,)
+segments_loudness_start: shape = (1056,)
+segments_pitches: shape = (1056, 12)
+segments_start: shape = (1056,)
+segments_timbre: shape = (1056, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.623037475551
+song_id: SOXJASM12A8C13BB05
+start_of_fade_out: 202.664
+tatums_confidence: shape = (1471,)
+tatums_start: shape = (1471,)
+tempo: 216.023
+time_signature: 1
+time_signature_confidence: 0.0
+title: Como Nuestro Amor No Hay Dos
+track_7digitalid: 2338346
+track_id: TRAUPSV128F427B621
+year: 2008

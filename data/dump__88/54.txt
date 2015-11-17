@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 93558
+artist_familiarity: 0.330992397715
+artist_hotttnesss: 0.157267430413
+artist_id: ARQ4OZM1187B991229
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 68ecbc62-19c6-49f7-80ec-d521caced0a1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jean Segurel
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 519d50be3c0948f985fafd48dd9b0598
+bars_confidence: shape = (74,)
+bars_start: shape = (74,)
+beats_confidence: shape = (227,)
+beats_start: shape = (227,)
+danceability: 0.0
+duration: 131.36934
+end_of_fade_in: 0.205
+energy: 0.0
+key: 7
+key_confidence: 0.693
+loudness: -9.815
+mode: 1
+mode_confidence: 0.699
+release: Les Fiances D'Auvergne
+release_7digitalid: 291038
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (506,)
+segments_loudness_max: shape = (506,)
+segments_loudness_max_time: shape = (506,)
+segments_loudness_start: shape = (506,)
+segments_pitches: shape = (506, 12)
+segments_start: shape = (506,)
+segments_timbre: shape = (506, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIFGDT12A8C1362DD
+start_of_fade_out: 128.395
+tatums_confidence: shape = (453,)
+tatums_start: shape = (453,)
+tempo: 105.395
+time_signature: 3
+time_signature_confidence: 1.0
+title: La Saint-Jean d'été
+track_7digitalid: 3266424
+track_id: TRBELXO128F427CAFA
+year: 0

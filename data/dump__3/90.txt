@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 29787
+artist_familiarity: 0.851218063853
+artist_hotttnesss: 0.510490080994
+artist_id: AROHMXL1187B9AF4B2
+artist_latitude: nan
+artist_location: College Park, Georgia
+artist_longitude: nan
+artist_mbid: 1f83258f-ee16-4f3b-8570-e9ef3ad6973e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Yung Joc
+artist_playmeid: 142171
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 59ffb5daaef04626c38d7f58d2f740a8
+bars_confidence: shape = (139,)
+bars_start: shape = (139,)
+beats_confidence: shape = (558,)
+beats_start: shape = (558,)
+danceability: 0.0
+duration: 193.64526
+end_of_fade_in: 4.29
+energy: 0.0
+key: 4
+key_confidence: 0.004
+loudness: -5.797
+mode: 0
+mode_confidence: 0.123
+release: Hustlenomics
+release_7digitalid: 124147
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (865,)
+segments_loudness_max: shape = (865,)
+segments_loudness_max_time: shape = (865,)
+segments_loudness_start: shape = (865,)
+segments_pitches: shape = (865, 12)
+segments_start: shape = (865,)
+segments_timbre: shape = (865, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SOOBSJW12A6D4FA2B2
+start_of_fade_out: 184.082
+tatums_confidence: shape = (1116,)
+tatums_start: shape = (1116,)
+tempo: 174.019
+time_signature: 4
+time_signature_confidence: 0.034
+title: BYOB (Explicit Album Version)
+track_7digitalid: 1281518
+track_id: TRABGUU128F4227C0A
+year: 2007

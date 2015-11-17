@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2904
+artist_familiarity: 0.51727459245
+artist_hotttnesss: 0.349431337925
+artist_id: AR6BHP31187FB365E1
+artist_latitude: 36.06899
+artist_location: Greensboro, NC
+artist_longitude: -79.7947
+artist_mbid: 3e07fca6-2c7f-4fc1-a138-ec6cd7e4be8a
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Sonny Terry / Brownie McGhee
+artist_playmeid: 21252
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: d62338baf5c7fb2ac3b25715ae0c67af
+bars_confidence: shape = (192,)
+bars_start: shape = (192,)
+beats_confidence: shape = (582,)
+beats_start: shape = (582,)
+danceability: 0.0
+duration: 343.84934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.672
+loudness: -17.431
+mode: 1
+mode_confidence: 0.457
+release: At The 2nd Fret
+release_7digitalid: 269851
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1182,)
+segments_loudness_max: shape = (1182,)
+segments_loudness_max_time: shape = (1182,)
+segments_loudness_start: shape = (1182,)
+segments_pitches: shape = (1182, 12)
+segments_start: shape = (1182,)
+segments_timbre: shape = (1182, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIAEVG12A8C141B2F
+start_of_fade_out: 336.103
+tatums_confidence: shape = (1165,)
+tatums_start: shape = (1165,)
+tempo: 100.82
+time_signature: 3
+time_signature_confidence: 1.0
+title: I Woke Up One Morning And I Could Hardly See
+track_7digitalid: 2990417
+track_id: TRBICXY128F428A9C8
+year: 0

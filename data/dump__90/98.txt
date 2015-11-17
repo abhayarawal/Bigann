@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 94745
+artist_familiarity: 0.794331284495
+artist_hotttnesss: 0.650665868274
+artist_id: ARQRQRA12131B4B5A8
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fa7b9055-3703-473a-8a09-adf2fe031a24
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Cake
+artist_playmeid: 290
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 23fb9f793ccfe90d0924da9c2663e106
+bars_confidence: shape = (58,)
+bars_start: shape = (58,)
+beats_confidence: shape = (234,)
+beats_start: shape = (234,)
+danceability: 0.0
+duration: 91.32363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.523
+loudness: -9.558
+mode: 0
+mode_confidence: 0.316
+release: Comfort Eagle
+release_7digitalid: 282089
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (357,)
+segments_loudness_max: shape = (357,)
+segments_loudness_max_time: shape = (357,)
+segments_loudness_start: shape = (357,)
+segments_pitches: shape = (357, 12)
+segments_start: shape = (357,)
+segments_timbre: shape = (357, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.764419569331
+song_id: SOCXBQG12AF72A7CBD
+start_of_fade_out: 87.626
+tatums_confidence: shape = (468,)
+tatums_start: shape = (468,)
+tempo: 157.992
+time_signature: 4
+time_signature_confidence: 0.249
+title: Arco Arena
+track_7digitalid: 3140213
+track_id: TRBFKVH128F4262579
+year: 2001

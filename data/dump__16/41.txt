@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 14248
+artist_familiarity: 0.786359136836
+artist_hotttnesss: 0.4204126176
+artist_id: ARVZWQ31187B9B8946
+artist_latitude: 34.05349
+artist_location: LA / NYC
+artist_longitude: -118.24532
+artist_mbid: 03098741-08b3-4dd7-b3f6-1b0bfa2c879c
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Liars
+artist_playmeid: 33463
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 77e41dd26a5fd712b3c17ebe1ff7ef09
+bars_confidence: shape = (135,)
+bars_start: shape = (135,)
+beats_confidence: shape = (546,)
+beats_start: shape = (546,)
+danceability: 0.0
+duration: 259.05587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.202
+loudness: -8.977
+mode: 0
+mode_confidence: 0.533
+release: Drums Not Dead
+release_7digitalid: 29387
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1058,)
+segments_loudness_max: shape = (1058,)
+segments_loudness_max_time: shape = (1058,)
+segments_loudness_start: shape = (1058,)
+segments_pitches: shape = (1058, 12)
+segments_start: shape = (1058,)
+segments_timbre: shape = (1058, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONEAJZ12B0CEB476A
+start_of_fade_out: 259.056
+tatums_confidence: shape = (1093,)
+tatums_start: shape = (1093,)
+tempo: 126.46
+time_signature: 4
+time_signature_confidence: 0.0
+title: A Visit From Drum
+track_7digitalid: 324314
+track_id: TRAFPAY128F146B23B
+year: 2006

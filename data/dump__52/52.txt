@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 167867
+artist_familiarity: 0.561589945857
+artist_hotttnesss: 0.420570307208
+artist_id: AR2PT4M1187FB55B1A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d54ea4a6-0b9c-4e47-bed0-289ae9ff4037
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Los Chichos
+artist_playmeid: 1880
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 076fc782a3547ddb80649e8b4356f8a3
+bars_confidence: shape = (86,)
+bars_start: shape = (86,)
+beats_confidence: shape = (348,)
+beats_start: shape = (348,)
+danceability: 0.0
+duration: 212.53179
+end_of_fade_in: 0.183
+energy: 0.0
+key: 4
+key_confidence: 0.0
+loudness: -6.159
+mode: 0
+mode_confidence: 0.147
+release: Todo Chichos
+release_7digitalid: 223784
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (854,)
+segments_loudness_max: shape = (854,)
+segments_loudness_max_time: shape = (854,)
+segments_loudness_start: shape = (854,)
+segments_pitches: shape = (854, 12)
+segments_start: shape = (854,)
+segments_timbre: shape = (854, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.266955186276
+song_id: SOHYLEY12A8C13F20D
+start_of_fade_out: 209.711
+tatums_confidence: shape = (1044,)
+tatums_start: shape = (1044,)
+tempo: 100.232
+time_signature: 4
+time_signature_confidence: 0.728
+title: Porque Nos Queremos
+track_7digitalid: 2445890
+track_id: TRARXGB128F42927B0
+year: 1987

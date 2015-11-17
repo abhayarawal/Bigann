@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 202912
+artist_familiarity: 0.8650215115
+artist_hotttnesss: 0.916053228284
+artist_id: ARJ7KF01187B98D717
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cc197bad-dc9c-440d-a5b5-d52ba2e14234
+artist_mbtags: shape = (12,)
+artist_mbtags_count: shape = (12,)
+artist_name: Coldplay
+artist_playmeid: 353
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 4c7564d1d8df7dd6ae4fd9c323a8e08d
+bars_confidence: shape = (232,)
+bars_start: shape = (232,)
+beats_confidence: shape = (933,)
+beats_start: shape = (933,)
+danceability: 0.0
+duration: 410.8273
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.463
+loudness: -8.229
+mode: 1
+mode_confidence: 0.553
+release: Live 2003
+release_7digitalid: 316
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1000,)
+segments_loudness_max: shape = (1000,)
+segments_loudness_max_time: shape = (1000,)
+segments_loudness_start: shape = (1000,)
+segments_pitches: shape = (1000, 12)
+segments_start: shape = (1000,)
+segments_timbre: shape = (1000, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.564934172583
+song_id: SOIGKCB12A6310F113
+start_of_fade_out: 408.079
+tatums_confidence: shape = (1865,)
+tatums_start: shape = (1865,)
+tempo: 138.038
+time_signature: 4
+time_signature_confidence: 0.59
+title: A Rush Of Blood To The Head (Live In Sydney)
+track_7digitalid: 3045
+track_id: TRAOHJU128E0780CD2
+year: 2003

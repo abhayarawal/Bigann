@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21797
+artist_familiarity: 0.629732488809
+artist_hotttnesss: 0.341265841356
+artist_id: AR323JD1187FB483D0
+artist_latitude: nan
+artist_location: New York
+artist_longitude: nan
+artist_mbid: efb91519-38e7-47ee-8713-3eb026d09764
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Solomon
+artist_playmeid: 77119
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 1250037ba36d83905ee8190b5537308c
+bars_confidence: shape = (397,)
+bars_start: shape = (397,)
+beats_confidence: shape = (2791,)
+beats_start: shape = (2791,)
+danceability: 0.0
+duration: 834.24608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.221
+loudness: -22.875
+mode: 1
+mode_confidence: 0.402
+release: Piano Concertos; Grieg & Schumann
+release_7digitalid: 815644
+sections_confidence: shape = (42,)
+sections_start: shape = (42,)
+segments_confidence: shape = (2136,)
+segments_loudness_max: shape = (2136,)
+segments_loudness_max_time: shape = (2136,)
+segments_loudness_start: shape = (2136,)
+segments_pitches: shape = (2136, 12)
+segments_start: shape = (2136,)
+segments_timbre: shape = (2136, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFKMMF12AB018CE39
+start_of_fade_out: 834.246
+tatums_confidence: shape = (2791,)
+tatums_start: shape = (2791,)
+tempo: 199.792
+time_signature: 7
+time_signature_confidence: 0.667
+title: Concerto In A Minor_ Op 54: First Movement - Allegro Affettuoso - Andante Espressivo - Tempo I - Cadenza - Allegro Molto
+track_7digitalid: 9012082
+track_id: TRBBFTS12903CDC3D9
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1244
+artist_familiarity: 0.814448110417
+artist_hotttnesss: 0.607971809563
+artist_id: ARFVYJI1187B9B8E13
+artist_latitude: 47.60356
+artist_location: Seattle, WA
+artist_longitude: -122.32944
+artist_mbid: 83b9cbe7-9857-49e2-ab8e-b57b01038103
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Pearl Jam
+artist_playmeid: 1252
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: e2810b4d2a3fb4322a217b0df19183c3
+bars_confidence: shape = (105,)
+bars_start: shape = (105,)
+beats_confidence: shape = (422,)
+beats_start: shape = (422,)
+danceability: 0.0
+duration: 268.69506
+end_of_fade_in: 0.223
+energy: 0.0
+key: 10
+key_confidence: 0.197
+loudness: -8.053
+mode: 1
+mode_confidence: 0.215
+release: Riot Act
+release_7digitalid: 391562
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (943,)
+segments_loudness_max: shape = (943,)
+segments_loudness_max_time: shape = (943,)
+segments_loudness_start: shape = (943,)
+segments_pitches: shape = (943, 12)
+segments_start: shape = (943,)
+segments_timbre: shape = (943, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.758095180686
+song_id: SOQJPYF12AF72AA8E2
+start_of_fade_out: 251.304
+tatums_confidence: shape = (844,)
+tatums_start: shape = (844,)
+tempo: 94.916
+time_signature: 4
+time_signature_confidence: 0.543
+title: You Are
+track_7digitalid: 4347518
+track_id: TRAWBOE128F92F2F46
+year: 2002

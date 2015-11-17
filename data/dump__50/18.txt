@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3310
+artist_familiarity: 0.736440740676
+artist_hotttnesss: 0.526846925184
+artist_id: ART3KT21187FB450DC
+artist_latitude: nan
+artist_location: Rome, Italy
+artist_longitude: nan
+artist_mbid: a16e47f5-aa54-47fe-87e4-bb8af91a9fdd
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Ennio Morricone
+artist_playmeid: 553
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: f08240f8c6d27452878922ec099f324a
+bars_confidence: shape = (163,)
+bars_start: shape = (163,)
+beats_confidence: shape = (163,)
+beats_start: shape = (163,)
+danceability: 0.0
+duration: 118.33424
+end_of_fade_in: 0.386
+energy: 0.0
+key: 9
+key_confidence: 0.444
+loudness: -11.008
+mode: 0
+mode_confidence: 0.527
+release: Le Ruffian (Bande originale du film de José Giovanni (1982))
+release_7digitalid: 312415
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (269,)
+segments_loudness_max: shape = (269,)
+segments_loudness_max_time: shape = (269,)
+segments_loudness_start: shape = (269,)
+segments_pitches: shape = (269, 12)
+segments_start: shape = (269,)
+segments_timbre: shape = (269, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFGEIT12A8C1406F3
+start_of_fade_out: 109.993
+tatums_confidence: shape = (325,)
+tatums_start: shape = (325,)
+tempo: 87.153
+time_signature: 1
+time_signature_confidence: 0.0
+title: Sporco Ma Distinto
+track_7digitalid: 3522757
+track_id: TRARBKD128F42BA84D
+year: 1983

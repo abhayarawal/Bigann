@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 315918
+artist_familiarity: 0.164853301203
+artist_hotttnesss: 0.0
+artist_id: AR8R2KI11C8A415967
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 91d7ecfc-8356-464d-9a3a-280b8a764215
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: André Blot
+artist_playmeid: -1
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: 842e8bbb26fb1535e2dc70c75d2f0ccf
+bars_confidence: shape = (196,)
+bars_start: shape = (196,)
+beats_confidence: shape = (591,)
+beats_start: shape = (591,)
+danceability: 0.0
+duration: 179.85261
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.444
+loudness: -6.031
+mode: 1
+mode_confidence: 0.461
+release: Le tour de France de l'accordéon
+release_7digitalid: 420338
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (705,)
+segments_loudness_max: shape = (705,)
+segments_loudness_max_time: shape = (705,)
+segments_loudness_start: shape = (705,)
+segments_pitches: shape = (705, 12)
+segments_start: shape = (705,)
+segments_timbre: shape = (705, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOORQPU12AB0188E50
+start_of_fade_out: 177.493
+tatums_confidence: shape = (1181,)
+tatums_start: shape = (1181,)
+tempo: 199.483
+time_signature: 3
+time_signature_confidence: 0.695
+title: Breiz Ma bro
+track_7digitalid: 4688528
+track_id: TRAGXDW128F933843F
+year: 0

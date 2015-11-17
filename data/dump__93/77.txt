@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23256
+artist_familiarity: 0.475730977551
+artist_hotttnesss: 0.365841574068
+artist_id: ARDMPZU1187B99A472
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: dcd7a1c6-96a2-4f0b-a3c8-c79433af2cea
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Light Of The World
+artist_playmeid: -1
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: d9081a52a70cd85228a27876b51362cb
+bars_confidence: shape = (122,)
+bars_start: shape = (122,)
+beats_confidence: shape = (493,)
+beats_start: shape = (493,)
+danceability: 0.0
+duration: 247.74485
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.14
+loudness: -13.546
+mode: 1
+mode_confidence: 0.378
+release: The Best Of The Light Of The World
+release_7digitalid: 596889
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1194,)
+segments_loudness_max: shape = (1194,)
+segments_loudness_max_time: shape = (1194,)
+segments_loudness_start: shape = (1194,)
+segments_pitches: shape = (1194, 12)
+segments_start: shape = (1194,)
+segments_timbre: shape = (1194, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQBCSM12AC4687CDE
+start_of_fade_out: 236.466
+tatums_confidence: shape = (985,)
+tatums_start: shape = (985,)
+tempo: 120.444
+time_signature: 4
+time_signature_confidence: 0.609
+title: Pete's Crusade
+track_7digitalid: 6623995
+track_id: TRBGJMS12903CE5583
+year: 1980

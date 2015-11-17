@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6795
+artist_familiarity: 0.847081688244
+artist_hotttnesss: 0.625080480974
+artist_id: ARZWK2R1187B98F09F
+artist_latitude: nan
+artist_location: Chicago
+artist_longitude: nan
+artist_mbid: 606bf117-494f-4864-891f-09d63ff6aa4b
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Rise Against
+artist_playmeid: 4579
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: e7f96cd29542633d751f5b44a97776d5
+bars_confidence: shape = (127,)
+bars_start: shape = (127,)
+beats_confidence: shape = (383,)
+beats_start: shape = (383,)
+danceability: 0.0
+duration: 214.88281
+end_of_fade_in: 0.438
+energy: 0.0
+key: 8
+key_confidence: 0.3
+loudness: -4.504
+mode: 1
+mode_confidence: 0.442
+release: The Sufferer & The Witness
+release_7digitalid: 36714
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (740,)
+segments_loudness_max: shape = (740,)
+segments_loudness_max_time: shape = (740,)
+segments_loudness_start: shape = (740,)
+segments_pitches: shape = (740, 12)
+segments_start: shape = (740,)
+segments_timbre: shape = (740, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.774014062267
+song_id: SOKSSEC12AF72A3D89
+start_of_fade_out: 208.086
+tatums_confidence: shape = (1148,)
+tatums_start: shape = (1148,)
+tempo: 109.45
+time_signature: 3
+time_signature_confidence: 0.756
+title: Intro/Chamber The Cartridge
+track_7digitalid: 394427
+track_id: TRAKOEB128F1478783
+year: 2006

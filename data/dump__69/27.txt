@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 187092
+artist_familiarity: 0.267788614892
+artist_hotttnesss: 0.216974960655
+artist_id: AR9MRSJ1187B99B99F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a3127c09-b109-4df3-81c4-fa620d1d7fc4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: La Charanga Rubalcaba
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 5e0870fafcb2812b194a333be776b590
+bars_confidence: shape = (540,)
+bars_start: shape = (540,)
+beats_confidence: shape = (540,)
+beats_start: shape = (540,)
+danceability: 0.0
+duration: 217.99138
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.645
+loudness: -6.422
+mode: 1
+mode_confidence: 0.453
+release: Con Sello De Calidad
+release_7digitalid: 241771
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (935,)
+segments_loudness_max: shape = (935,)
+segments_loudness_max_time: shape = (935,)
+segments_loudness_start: shape = (935,)
+segments_pitches: shape = (935, 12)
+segments_start: shape = (935,)
+segments_timbre: shape = (935, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKHGKZ12A8C131E06
+start_of_fade_out: 213.275
+tatums_confidence: shape = (1080,)
+tatums_start: shape = (1080,)
+tempo: 152.995
+time_signature: 1
+time_signature_confidence: 0.0
+title: Los Pintores
+track_7digitalid: 2636873
+track_id: TRAXQTH128F423995E
+year: 0

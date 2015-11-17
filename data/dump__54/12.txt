@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20088
+artist_familiarity: 0.372221926549
+artist_hotttnesss: 0.352563985297
+artist_id: ARNNC731187FB55D14
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5fc5872b-9e4f-4bc5-9bcb-fc6152f4dfda
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Kary Ng
+artist_playmeid: 71182
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 742ace4a926588d9adec82676d3b69fd
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (330,)
+beats_start: shape = (330,)
+danceability: 0.0
+duration: 209.47546
+end_of_fade_in: 0.711
+energy: 0.0
+key: 5
+key_confidence: 0.646
+loudness: -8.882
+mode: 1
+mode_confidence: 0.616
+release: Collection of Wo De Zui Ai
+release_7digitalid: 274665
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (624,)
+segments_loudness_max: shape = (624,)
+segments_loudness_max_time: shape = (624,)
+segments_loudness_start: shape = (624,)
+segments_pitches: shape = (624, 12)
+segments_start: shape = (624,)
+segments_timbre: shape = (624, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQYXUX12A8151CA28
+start_of_fade_out: 194.067
+tatums_confidence: shape = (660,)
+tatums_start: shape = (660,)
+tempo: 99.605
+time_signature: 4
+time_signature_confidence: 0.787
+title: Fen Shou Yao Hen
+track_7digitalid: 3049425
+track_id: TRASNOA128F424EBDD
+year: 0

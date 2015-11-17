@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 158538
+artist_familiarity: 0.470828036275
+artist_hotttnesss: 0.350476630839
+artist_id: AR6L0X71187FB49709
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e08b91c0-297e-4245-8ff5-380ffae1d0e6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Paul Cantelon
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 98d2a94fc94e34c8ef81248c01d6ef4e
+bars_confidence: shape = (139,)
+bars_start: shape = (139,)
+beats_confidence: shape = (139,)
+beats_start: shape = (139,)
+danceability: 0.0
+duration: 210.54649
+end_of_fade_in: 0.193
+energy: 0.0
+key: 4
+key_confidence: 0.626
+loudness: -22.788
+mode: 1
+mode_confidence: 0.358
+release: The Other Boleyn Girl
+release_7digitalid: 209378
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (382,)
+segments_loudness_max: shape = (382,)
+segments_loudness_max_time: shape = (382,)
+segments_loudness_start: shape = (382,)
+segments_pitches: shape = (382, 12)
+segments_start: shape = (382,)
+segments_timbre: shape = (382, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHRHJZ12A8C13A6DC
+start_of_fade_out: 199.338
+tatums_confidence: shape = (280,)
+tatums_start: shape = (280,)
+tempo: 41.133
+time_signature: 1
+time_signature_confidence: 0.0
+title: Mary In Labor
+track_7digitalid: 2268564
+track_id: TRAJPNM128F426C3F0
+year: 2008

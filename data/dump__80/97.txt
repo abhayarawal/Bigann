@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12983
+artist_familiarity: 0.439907658143
+artist_hotttnesss: 0.311559175647
+artist_id: ARQVLQJ1187B98F11F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 36be323a-edfd-49a3-ac25-a02ef6a2c351
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mau Mau
+artist_playmeid: 68721
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: d96d58cb60a469d1b2e20800160bde76
+bars_confidence: shape = (332,)
+bars_start: shape = (332,)
+beats_confidence: shape = (1345,)
+beats_start: shape = (1345,)
+danceability: 0.0
+duration: 745.40363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.687
+loudness: -13.297
+mode: 1
+mode_confidence: 0.448
+release: Marasma General
+release_7digitalid: 54098
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (2043,)
+segments_loudness_max: shape = (2043,)
+segments_loudness_max_time: shape = (2043,)
+segments_loudness_start: shape = (2043,)
+segments_pitches: shape = (2043, 12)
+segments_start: shape = (2043,)
+segments_timbre: shape = (2043, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLWGCZ12A6D4FA8F3
+start_of_fade_out: 671.631
+tatums_confidence: shape = (2688,)
+tatums_start: shape = (2688,)
+tempo: 107.983
+time_signature: 4
+time_signature_confidence: 1.0
+title: Finisterre (Live)
+track_7digitalid: 564608
+track_id: TRBBSKC128F1496C4E
+year: 0

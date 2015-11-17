@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 406606
+artist_familiarity: 0.4301558945
+artist_hotttnesss: 0.17819882004
+artist_id: ARIUNKJ12802FDE157
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dine et Déon
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 3f1451ab8d2241ca8a2edd1e9346fdc6
+bars_confidence: shape = (202,)
+bars_start: shape = (202,)
+beats_confidence: shape = (202,)
+beats_start: shape = (202,)
+danceability: 0.0
+duration: 113.57995
+end_of_fade_in: 0.217
+energy: 0.0
+key: 8
+key_confidence: 0.303
+loudness: -6.828
+mode: 1
+mode_confidence: 0.307
+release: Ah...c'qu'on est cons ! - EP
+release_7digitalid: 786773
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (427,)
+segments_loudness_max: shape = (427,)
+segments_loudness_max_time: shape = (427,)
+segments_loudness_start: shape = (427,)
+segments_pitches: shape = (427, 12)
+segments_start: shape = (427,)
+segments_timbre: shape = (427, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIQTTM12AC3DFB614
+start_of_fade_out: 106.597
+tatums_confidence: shape = (404,)
+tatums_start: shape = (404,)
+tempo: 110.5
+time_signature: 1
+time_signature_confidence: 0.669
+title: Géraldine
+track_7digitalid: 8706426
+track_id: TRAEDAH12903D05A77
+year: 0

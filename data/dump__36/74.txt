@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 108554
+artist_familiarity: 0.487445647927
+artist_hotttnesss: 0.383140731021
+artist_id: ARYV1OT1187B9B4C8E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2d67f7f4-1e85-4278-bac6-424e6204a8b9
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Commander Cody And His Lost Planet Airmen
+artist_playmeid: 38963
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 7faaf7bdfa408938896a25d4294eb6bc
+bars_confidence: shape = (92,)
+bars_start: shape = (92,)
+beats_confidence: shape = (371,)
+beats_start: shape = (371,)
+danceability: 0.0
+duration: 185.44281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.449
+loudness: -8.353
+mode: 1
+mode_confidence: 0.296
+release: Commander Cody & His Lost Planet Airmen
+release_7digitalid: 138329
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (587,)
+segments_loudness_max: shape = (587,)
+segments_loudness_max_time: shape = (587,)
+segments_loudness_start: shape = (587,)
+segments_pitches: shape = (587, 12)
+segments_start: shape = (587,)
+segments_timbre: shape = (587, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPBCHO12A8AE4808C
+start_of_fade_out: 176.536
+tatums_confidence: shape = (742,)
+tatums_start: shape = (742,)
+tempo: 123.713
+time_signature: 4
+time_signature_confidence: 0.054
+title: Hawaii Blues (Album Version)
+track_7digitalid: 1436039
+track_id: TRAMMCH128F4241EBD
+year: 0

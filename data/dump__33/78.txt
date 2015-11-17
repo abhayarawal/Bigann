@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 166882
+artist_familiarity: 0.575412600552
+artist_hotttnesss: 0.417351055803
+artist_id: ARDGPFY1187B9A371B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c7a2ba91-4efd-4ac5-b5ae-d2c238dbfb88
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Long Beach Dub Allstars
+artist_playmeid: -1
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 8e573df9aa86af8aa289be2c0a890d33
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (325,)
+beats_start: shape = (325,)
+danceability: 0.0
+duration: 282.61832
+end_of_fade_in: 0.171
+energy: 0.0
+key: 7
+key_confidence: 0.757
+loudness: -3.834
+mode: 0
+mode_confidence: 0.639
+release: Wonders Of The World
+release_7digitalid: 46449
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (941,)
+segments_loudness_max: shape = (941,)
+segments_loudness_max_time: shape = (941,)
+segments_loudness_start: shape = (941,)
+segments_pitches: shape = (941, 12)
+segments_start: shape = (941,)
+segments_timbre: shape = (941, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCXKCF12AF729F898
+start_of_fade_out: 269.108
+tatums_confidence: shape = (650,)
+tatums_start: shape = (650,)
+tempo: 69.737
+time_signature: 4
+time_signature_confidence: 0.0
+title: Kablammin' It
+track_7digitalid: 496495
+track_id: TRALLSP128F148AD75
+year: 2001

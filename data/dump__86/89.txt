@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7041
+artist_familiarity: 0.887920450193
+artist_hotttnesss: 0.64722472378
+artist_id: ARN5NHX1187FB4F755
+artist_latitude: 41.88415
+artist_location: Chicago, IL
+artist_longitude: -87.63241
+artist_mbid: ba0d6274-db14-4ef5-b28d-657ebde1a396
+artist_mbtags: shape = (16,)
+artist_mbtags_count: shape = (16,)
+artist_name: The Smashing Pumpkins
+artist_playmeid: 66483
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: a652d8a8cd54a78af4011ef9c691d04e
+bars_confidence: shape = (104,)
+bars_start: shape = (104,)
+beats_confidence: shape = (438,)
+beats_start: shape = (438,)
+danceability: 0.0
+duration: 399.98649
+end_of_fade_in: 0.14
+energy: 0.0
+key: 7
+key_confidence: 0.737
+loudness: -9.272
+mode: 1
+mode_confidence: 0.682
+release: Rarities & B-Sides
+release_7digitalid: 10149
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (971,)
+segments_loudness_max: shape = (971,)
+segments_loudness_max_time: shape = (971,)
+segments_loudness_start: shape = (971,)
+segments_pitches: shape = (971, 12)
+segments_start: shape = (971,)
+segments_timbre: shape = (971, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.577107923506
+song_id: SOOQDTX12A6701F09A
+start_of_fade_out: 389.555
+tatums_confidence: shape = (875,)
+tatums_start: shape = (875,)
+tempo: 66.41
+time_signature: 4
+time_signature_confidence: 1.0
+title: Soot and Stars
+track_7digitalid: 103900
+track_id: TRBDVJF128E078894B
+year: 2001

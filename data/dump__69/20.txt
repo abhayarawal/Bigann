@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 35805
+artist_familiarity: 0.776885721907
+artist_hotttnesss: 0.58608620676
+artist_id: ARN7POH1187B9B301E
+artist_latitude: nan
+artist_location: Dallas, TX
+artist_longitude: nan
+artist_mbid: fe37acd4-893c-4b2c-8ad2-7fd394280354
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Jessica Simpson
+artist_playmeid: 802
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 4c083399080224438efcc3598a701088
+bars_confidence: shape = (167,)
+bars_start: shape = (167,)
+beats_confidence: shape = (672,)
+beats_start: shape = (672,)
+danceability: 0.0
+duration: 250.04363
+end_of_fade_in: 0.919
+energy: 0.0
+key: 5
+key_confidence: 0.633
+loudness: -6.53
+mode: 1
+mode_confidence: 0.511
+release: In This Skin
+release_7digitalid: 290937
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (818,)
+segments_loudness_max: shape = (818,)
+segments_loudness_max_time: shape = (818,)
+segments_loudness_start: shape = (818,)
+segments_pitches: shape = (818, 12)
+segments_start: shape = (818,)
+segments_timbre: shape = (818, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODANQM12CF5F890BC
+start_of_fade_out: 235.967
+tatums_confidence: shape = (1344,)
+tatums_start: shape = (1344,)
+tempo: 163.848
+time_signature: 4
+time_signature_confidence: 0.384
+title: Be
+track_7digitalid: 3264694
+track_id: TRAXPVO128F427C41E
+year: 2003

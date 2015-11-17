@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 136839
+artist_familiarity: 0.484893131196
+artist_hotttnesss: 0.344871922171
+artist_id: AR3752L1187FB4B67E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 76f18c18-58df-47f9-9274-d3368d25129a
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: The Real Kids
+artist_playmeid: 144545
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 555e16bdb4aa231492270f5b231771a8
+bars_confidence: shape = (237,)
+bars_start: shape = (237,)
+beats_confidence: shape = (237,)
+beats_start: shape = (237,)
+danceability: 0.0
+duration: 182.12526
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.0
+loudness: -8.623
+mode: 1
+mode_confidence: 0.35
+release: The new rose years
+release_7digitalid: 327107
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (541,)
+segments_loudness_max: shape = (541,)
+segments_loudness_max_time: shape = (541,)
+segments_loudness_start: shape = (541,)
+segments_pitches: shape = (541, 12)
+segments_start: shape = (541,)
+segments_timbre: shape = (541, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGRKIL12AB017DECB
+start_of_fade_out: 170.771
+tatums_confidence: shape = (474,)
+tatums_start: shape = (474,)
+tempo: 79.694
+time_signature: 1
+time_signature_confidence: 0.0
+title: Take it slow
+track_7digitalid: 3679743
+track_id: TRAXPCI128F92E1D13
+year: 0

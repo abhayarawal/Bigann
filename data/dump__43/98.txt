@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 109333
+artist_familiarity: 0.379734511746
+artist_hotttnesss: 0.31386609958
+artist_id: ARY1P2B1187B9B78F5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d4a76953-f4fa-4a49-a0ea-b05eac61f8e8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mariano Yanani
+artist_playmeid: 53027
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: e1c45a0bdcd3cdbd0e5d534525f53283
+bars_confidence: shape = (93,)
+bars_start: shape = (93,)
+beats_confidence: shape = (323,)
+beats_start: shape = (323,)
+danceability: 0.0
+duration: 216.68526
+end_of_fade_in: 2.322
+energy: 0.0
+key: 7
+key_confidence: 0.721
+loudness: -16.6
+mode: 0
+mode_confidence: 0.743
+release: Babies Go To Sleep
+release_7digitalid: 172858
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (562,)
+segments_loudness_max: shape = (562,)
+segments_loudness_max_time: shape = (562,)
+segments_loudness_start: shape = (562,)
+segments_pitches: shape = (562, 12)
+segments_start: shape = (562,)
+segments_timbre: shape = (562, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOBWZPF12A8C1414CC
+start_of_fade_out: 213.409
+tatums_confidence: shape = (969,)
+tatums_start: shape = (969,)
+tempo: 89.933
+time_signature: 3
+time_signature_confidence: 0.555
+title: Adagio (Albinoni)
+track_7digitalid: 1848515
+track_id: TRAPAPN128F429B08F
+year: 0

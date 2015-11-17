@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40415
+artist_familiarity: 0.601295441612
+artist_hotttnesss: 0.364450594144
+artist_id: ARNMUMC1187B9A7A38
+artist_latitude: 55.8578
+artist_location: Glasgow
+artist_longitude: -4.24251
+artist_mbid: e2f46f7b-05e3-4b88-b2ad-a2da3df9dd77
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Tigerstyle
+artist_playmeid: 51435
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: f8694e2328e80c7c1aacdb93b4cead21
+bars_confidence: shape = (123,)
+bars_start: shape = (123,)
+beats_confidence: shape = (494,)
+beats_start: shape = (494,)
+danceability: 0.0
+duration: 351.45098
+end_of_fade_in: 0.16
+energy: 0.0
+key: 5
+key_confidence: 0.692
+loudness: -8.025
+mode: 0
+mode_confidence: 0.632
+release: Extended Play
+release_7digitalid: 75107
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (1881,)
+segments_loudness_max: shape = (1881,)
+segments_loudness_max_time: shape = (1881,)
+segments_loudness_start: shape = (1881,)
+segments_pitches: shape = (1881, 12)
+segments_start: shape = (1881,)
+segments_timbre: shape = (1881, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.340922755864
+song_id: SOUALQN12A6D4F98AA
+start_of_fade_out: 344.218
+tatums_confidence: shape = (1977,)
+tatums_start: shape = (1977,)
+tempo: 85.003
+time_signature: 4
+time_signature_confidence: 0.43
+title: Dhol Vajda
+track_7digitalid: 776817
+track_id: TRAVTET128EF34EFB8
+year: 0

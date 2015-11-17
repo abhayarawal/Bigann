@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30269
+artist_familiarity: 0.498834975258
+artist_hotttnesss: 0.379960766975
+artist_id: AR9OLFX1187B9A5762
+artist_latitude: 31.30757
+artist_location: Kosse, TX
+artist_longitude: -96.63166
+artist_mbid: c727f585-54e0-4e0d-b8ad-05f216f99244
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bob Willis
+artist_playmeid: 4912
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: e2463f4c825521ec315af33f80820fe8
+bars_confidence: shape = (296,)
+bars_start: shape = (296,)
+beats_confidence: shape = (296,)
+beats_start: shape = (296,)
+danceability: 0.0
+duration: 146.72934
+end_of_fade_in: 1.106
+energy: 0.0
+key: 9
+key_confidence: 0.537
+loudness: -9.599
+mode: 1
+mode_confidence: 0.368
+release: Texas Swingtime
+release_7digitalid: 341483
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (588,)
+segments_loudness_max: shape = (588,)
+segments_loudness_max_time: shape = (588,)
+segments_loudness_start: shape = (588,)
+segments_pitches: shape = (588, 12)
+segments_start: shape = (588,)
+segments_timbre: shape = (588, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUNVEQ12AB018630C
+start_of_fade_out: 138.739
+tatums_confidence: shape = (593,)
+tatums_start: shape = (593,)
+tempo: 125.309
+time_signature: 1
+time_signature_confidence: 0.0
+title: Ida Red
+track_7digitalid: 3824508
+track_id: TRBHKSA128F92FDBEA
+year: 1993

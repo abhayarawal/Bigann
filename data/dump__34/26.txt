@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 526518
+artist_familiarity: 0.121187298345
+artist_hotttnesss: 0.0
+artist_id: ARVXXQD1257509E117
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: La Billo_ Los Melódicos
+artist_playmeid: -1
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: 513e776d87f6fb538941e1570ae38047
+bars_confidence: shape = (176,)
+bars_start: shape = (176,)
+beats_confidence: shape = (533,)
+beats_start: shape = (533,)
+danceability: 0.0
+duration: 195.29098
+end_of_fade_in: 0.571
+energy: 0.0
+key: 2
+key_confidence: 0.529
+loudness: -9.085
+mode: 1
+mode_confidence: 0.514
+release: Las 2 Grandes Orquestas de Venezuela
+release_7digitalid: 710695
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (550,)
+segments_loudness_max: shape = (550,)
+segments_loudness_max_time: shape = (550,)
+segments_loudness_start: shape = (550,)
+segments_pitches: shape = (550, 12)
+segments_start: shape = (550,)
+segments_timbre: shape = (550, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHYDLL12AB0187493
+start_of_fade_out: 191.332
+tatums_confidence: shape = (533,)
+tatums_start: shape = (533,)
+tempo: 163.566
+time_signature: 3
+time_signature_confidence: 0.794
+title: Para Que Recordar
+track_7digitalid: 7881987
+track_id: TRALQTM12903CB3B80
+year: 0

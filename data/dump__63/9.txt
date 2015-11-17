@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 27512
+artist_familiarity: 0.59660238456
+artist_hotttnesss: 0.399186285296
+artist_id: ARB1CNO1187FB4CE93
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 337027f4-4f29-42f4-bc4d-63e7d4e74e1a
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: 45 Grave
+artist_playmeid: 36893
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 44c4140612c8753e22d9df7526cb5667
+bars_confidence: shape = (93,)
+bars_start: shape = (93,)
+beats_confidence: shape = (282,)
+beats_start: shape = (282,)
+danceability: 0.0
+duration: 130.66404
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.599
+loudness: -7.204
+mode: 0
+mode_confidence: 0.591
+release: Only The Good Die Young
+release_7digitalid: 38588
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (407,)
+segments_loudness_max: shape = (407,)
+segments_loudness_max_time: shape = (407,)
+segments_loudness_start: shape = (407,)
+segments_pitches: shape = (407, 12)
+segments_start: shape = (407,)
+segments_timbre: shape = (407, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.463489662237
+song_id: SOAFTRY12A6D4F81C7
+start_of_fade_out: 118.544
+tatums_confidence: shape = (847,)
+tatums_start: shape = (847,)
+tempo: 130.49
+time_signature: 3
+time_signature_confidence: 0.64
+title: Consumers (Album Version)
+track_7digitalid: 412895
+track_id: TRAVPSC128F147BEA8
+year: 1989

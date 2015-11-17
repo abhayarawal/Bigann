@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 589889
+artist_familiarity: 0.352212816587
+artist_hotttnesss: 0.297949266219
+artist_id: ARGTUWC1187B9904A0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: dcf9547a-8512-48c1-89a1-1c15d231a283
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Susana Seivane
+artist_playmeid: -1
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: f2b1fa30d3b5f0cf61b38f831bf0ac1a
+bars_confidence: shape = (220,)
+bars_start: shape = (220,)
+beats_confidence: shape = (885,)
+beats_start: shape = (885,)
+danceability: 0.0
+duration: 350.71955
+end_of_fade_in: 0.519
+energy: 0.0
+key: 10
+key_confidence: 0.881
+loudness: -13.038
+mode: 1
+mode_confidence: 0.901
+release: Os soños que volven
+release_7digitalid: 789959
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (919,)
+segments_loudness_max: shape = (919,)
+segments_loudness_max_time: shape = (919,)
+segments_loudness_start: shape = (919,)
+segments_pitches: shape = (919, 12)
+segments_start: shape = (919,)
+segments_timbre: shape = (919, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHXKAN12AC46872F1
+start_of_fade_out: 334.17
+tatums_confidence: shape = (1770,)
+tatums_start: shape = (1770,)
+tempo: 152.013
+time_signature: 4
+time_signature_confidence: 1.0
+title: Para Milladoiro
+track_7digitalid: 8736894
+track_id: TRAAODT12903D0D16E
+year: 2010

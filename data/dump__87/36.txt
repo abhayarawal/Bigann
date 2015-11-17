@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8399
+artist_familiarity: 0.46989530919
+artist_hotttnesss: 0.364817617549
+artist_id: ARTHWIZ1187FB4258D
+artist_latitude: 52.40698
+artist_location: Coventry, England
+artist_longitude: -1.50776
+artist_mbid: 7fb61f7b-2ad3-4d5b-96fd-5c5327456abb
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Frank Ifield
+artist_playmeid: 76621
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: e4ed51b86aea4f4fc3d737f79efac8e8
+bars_confidence: shape = (81,)
+bars_start: shape = (81,)
+beats_confidence: shape = (330,)
+beats_start: shape = (330,)
+danceability: 0.0
+duration: 163.60444
+end_of_fade_in: 0.328
+energy: 0.0
+key: 0
+key_confidence: 0.536
+loudness: -11.441
+mode: 1
+mode_confidence: 0.536
+release: Frank Ifield Sings Country & Classics
+release_7digitalid: 22016
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (603,)
+segments_loudness_max: shape = (603,)
+segments_loudness_max_time: shape = (603,)
+segments_loudness_start: shape = (603,)
+segments_pitches: shape = (603, 12)
+segments_start: shape = (603,)
+segments_timbre: shape = (603, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBLXLK12A6D4F746E
+start_of_fade_out: 158.139
+tatums_confidence: shape = (659,)
+tatums_start: shape = (659,)
+tempo: 123.825
+time_signature: 4
+time_signature_confidence: 0.532
+title: Yodelling Mad (2002 Digital Remaster)
+track_7digitalid: 227526
+track_id: TRBEADA128F1455D45
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 495592
+artist_familiarity: 0.351269291183
+artist_hotttnesss: 0.0
+artist_id: AR1PQYO1187B98BEC9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: db315e6a-06c4-43a2-a6bb-8d0e800838ac
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Hélio Ziskind
+artist_playmeid: 84049
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: 3e9e4a990904e167c7cc4565a831eed0
+bars_confidence: shape = (69,)
+bars_start: shape = (69,)
+beats_confidence: shape = (279,)
+beats_start: shape = (279,)
+danceability: 0.0
+duration: 148.50567
+end_of_fade_in: 0.369
+energy: 0.0
+key: 9
+key_confidence: 0.029
+loudness: -12.802
+mode: 0
+mode_confidence: 0.406
+release: Trem Maluco e Outras Cantigas de Roda
+release_7digitalid: 556530
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (548,)
+segments_loudness_max: shape = (548,)
+segments_loudness_max_time: shape = (548,)
+segments_loudness_start: shape = (548,)
+segments_pitches: shape = (548, 12)
+segments_start: shape = (548,)
+segments_timbre: shape = (548, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLRNEX12AB0180BDE
+start_of_fade_out: 133.195
+tatums_confidence: shape = (837,)
+tatums_start: shape = (837,)
+tempo: 118.027
+time_signature: 4
+time_signature_confidence: 0.0
+title: Carre Cutia
+track_7digitalid: 6155084
+track_id: TRBGSJO128F93406CE
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8329
+artist_familiarity: 0.834564098277
+artist_hotttnesss: 0.553393663056
+artist_id: ARBUOOR1187B997391
+artist_latitude: nan
+artist_location: Manchester, England
+artist_longitude: nan
+artist_mbid: ecf9f3a3-35e9-4c58-acaa-e707fba45060
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Oasis
+artist_playmeid: 1196
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: d7f3d11fd562b29435e6c652d2228ab1
+bars_confidence: shape = (156,)
+bars_start: shape = (156,)
+beats_confidence: shape = (629,)
+beats_start: shape = (629,)
+danceability: 0.0
+duration: 376.99873
+end_of_fade_in: 7.506
+energy: 0.0
+key: 7
+key_confidence: 0.013
+loudness: -3.811
+mode: 1
+mode_confidence: 0.298
+release: Definitely Maybe
+release_7digitalid: 579824
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (960,)
+segments_loudness_max: shape = (960,)
+segments_loudness_max_time: shape = (960,)
+segments_loudness_start: shape = (960,)
+segments_pitches: shape = (960, 12)
+segments_start: shape = (960,)
+segments_timbre: shape = (960, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.702112062678
+song_id: SOAGWHY12A679C80A8
+start_of_fade_out: 343.226
+tatums_confidence: shape = (2516,)
+tatums_start: shape = (2516,)
+tempo: 100.382
+time_signature: 4
+time_signature_confidence: 1.0
+title: Columbia
+track_7digitalid: 6423707
+track_id: TRAOLZJ12903CB4FC7
+year: 0

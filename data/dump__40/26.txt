@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 125844
+artist_familiarity: 0.649583107218
+artist_hotttnesss: 0.461345852016
+artist_id: ARA7EEC1187FB4C392
+artist_latitude: 49.01037
+artist_location: Karlsruhe, Germany
+artist_longitude: 8.4092
+artist_mbid: 4c3017e5-16d2-4a59-9bfb-5ceb31dbaece
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Snowgoons
+artist_playmeid: 69937
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 8245e522f957281ed8b37bf937f7f6f7
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (425,)
+beats_start: shape = (425,)
+danceability: 0.0
+duration: 257.25342
+end_of_fade_in: 0.078
+energy: 0.0
+key: 8
+key_confidence: 0.381
+loudness: -5.191
+mode: 1
+mode_confidence: 0.414
+release: A Fist In The Thought
+release_7digitalid: 459483
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1117,)
+segments_loudness_max: shape = (1117,)
+segments_loudness_max_time: shape = (1117,)
+segments_loudness_start: shape = (1117,)
+segments_pitches: shape = (1117, 12)
+segments_start: shape = (1117,)
+segments_timbre: shape = (1117, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGYEFP12AF729F8DF
+start_of_fade_out: 244.007
+tatums_confidence: shape = (849,)
+tatums_start: shape = (849,)
+tempo: 97.454
+time_signature: 4
+time_signature_confidence: 1.0
+title: Platoon Goons
+track_7digitalid: 5113282
+track_id: TRANRYP128F9326AF9
+year: 2009

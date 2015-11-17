@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 60512
+artist_familiarity: 0.575532411691
+artist_hotttnesss: 0.37453002882
+artist_id: ARIRBO11187FB4B219
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a916ce0a-0ab7-4b2f-b169-2166b746e31e
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Donna The Buffalo
+artist_playmeid: 149278
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 667d95ca1a3e972475a66529cd0b07ff
+bars_confidence: shape = (203,)
+bars_start: shape = (203,)
+beats_confidence: shape = (815,)
+beats_start: shape = (815,)
+danceability: 0.0
+duration: 376.29342
+end_of_fade_in: 0.263
+energy: 0.0
+key: 9
+key_confidence: 0.963
+loudness: -6.894
+mode: 1
+mode_confidence: 0.663
+release: Rockin' In The Weary Land
+release_7digitalid: 395497
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1267,)
+segments_loudness_max: shape = (1267,)
+segments_loudness_max_time: shape = (1267,)
+segments_loudness_start: shape = (1267,)
+segments_pitches: shape = (1267, 12)
+segments_start: shape = (1267,)
+segments_timbre: shape = (1267, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.319565986883
+song_id: SOYOMGJ12A58A7A668
+start_of_fade_out: 368.866
+tatums_confidence: shape = (1630,)
+tatums_start: shape = (1630,)
+tempo: 131.671
+time_signature: 4
+time_signature_confidence: 0.439
+title: Each & Every Direction
+track_7digitalid: 4391090
+track_id: TRAYEKM128F92FB049
+year: 0

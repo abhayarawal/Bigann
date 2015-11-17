@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 557515
+artist_familiarity: 0.485307817488
+artist_hotttnesss: 0.494037664999
+artist_id: ARWI92K1187B98A5CC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fd5a2eea-0507-43b1-920a-a980a9ae6986
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jets
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 8063707deca8eca8ca1821291e260fba
+bars_confidence: shape = (67,)
+bars_start: shape = (67,)
+beats_confidence: shape = (481,)
+beats_start: shape = (481,)
+danceability: 0.0
+duration: 260.38812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.678
+loudness: -12.993
+mode: 0
+mode_confidence: 0.561
+release: Pure Cotton
+release_7digitalid: 746053
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (904,)
+segments_loudness_max: shape = (904,)
+segments_loudness_max_time: shape = (904,)
+segments_loudness_start: shape = (904,)
+segments_pitches: shape = (904, 12)
+segments_start: shape = (904,)
+segments_timbre: shape = (904, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFOFCW12AC468DFC5
+start_of_fade_out: 260.388
+tatums_confidence: shape = (962,)
+tatums_start: shape = (962,)
+tempo: 106.68
+time_signature: 7
+time_signature_confidence: 1.0
+title: Alligator Come Across (Live)
+track_7digitalid: 8257286
+track_id: TRAXJUF12903D0F11F
+year: 0

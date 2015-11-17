@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23839
+artist_familiarity: 0.530355667875
+artist_hotttnesss: 0.397179042592
+artist_id: ARVML4B1187FB52324
+artist_latitude: 40.73197
+artist_location: Newark, NJ
+artist_longitude: -74.17418
+artist_mbid: 410b8630-2fd5-4368-8a5b-dbc5e82f6b1c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Leroy Hutson
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: fd819a7080dd9c7d627ebafbce896ff2
+bars_confidence: shape = (119,)
+bars_start: shape = (119,)
+beats_confidence: shape = (479,)
+beats_start: shape = (479,)
+danceability: 0.0
+duration: 324.25751
+end_of_fade_in: 0.148
+energy: 0.0
+key: 11
+key_confidence: 0.359
+loudness: -15.969
+mode: 1
+mode_confidence: 0.289
+release: Leroy Hutson Selected Hits Vol. 2
+release_7digitalid: 467076
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1432,)
+segments_loudness_max: shape = (1432,)
+segments_loudness_max_time: shape = (1432,)
+segments_loudness_start: shape = (1432,)
+segments_pitches: shape = (1432, 12)
+segments_start: shape = (1432,)
+segments_timbre: shape = (1432, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOGAOHJ12AB018660F
+start_of_fade_out: 314.479
+tatums_confidence: shape = (957,)
+tatums_start: shape = (957,)
+tempo: 89.88
+time_signature: 4
+time_signature_confidence: 0.672
+title: So Nice - Original
+track_7digitalid: 5195251
+track_id: TRBEHAS128F933A549
+year: 0

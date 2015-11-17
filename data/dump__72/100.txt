@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16967
+artist_familiarity: 0.712662163367
+artist_hotttnesss: 0.430697046289
+artist_id: ARCF06I1187B995398
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3dfb71a2-2e06-4a69-8839-3e1fc07e92ea
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: K-OS
+artist_playmeid: 7897
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: f2ff0b7868b0cbada613a4b3aefbb8d6
+bars_confidence: shape = (132,)
+bars_start: shape = (132,)
+beats_confidence: shape = (536,)
+beats_start: shape = (536,)
+danceability: 0.0
+duration: 304.16934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.279
+loudness: -8.613
+mode: 0
+mode_confidence: 0.453
+release: Joyful Rebellion
+release_7digitalid: 576851
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1209,)
+segments_loudness_max: shape = (1209,)
+segments_loudness_max_time: shape = (1209,)
+segments_loudness_start: shape = (1209,)
+segments_pitches: shape = (1209, 12)
+segments_start: shape = (1209,)
+segments_timbre: shape = (1209, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.608339006871
+song_id: SORVKAX12A8C1343AA
+start_of_fade_out: 281.995
+tatums_confidence: shape = (1071,)
+tatums_start: shape = (1071,)
+tempo: 104.128
+time_signature: 4
+time_signature_confidence: 0.507
+title: Man I Used To Be
+track_7digitalid: 6392829
+track_id: TRAYYIN12903CAD8C6
+year: 2004

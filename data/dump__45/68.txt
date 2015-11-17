@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 818
+artist_familiarity: 0.77659896783
+artist_hotttnesss: 0.490079584183
+artist_id: AR0IVSA1187FB4F069
+artist_latitude: 40.71455
+artist_location: New York
+artist_longitude: -74.00712
+artist_mbid: 582fee78-d934-4603-9f5c-1729e0ca36b7
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Helmet
+artist_playmeid: 82914
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 1dee836c5166b24706dd91146bb7fa0f
+bars_confidence: shape = (132,)
+bars_start: shape = (132,)
+beats_confidence: shape = (530,)
+beats_start: shape = (530,)
+danceability: 0.0
+duration: 220.31628
+end_of_fade_in: 0.328
+energy: 0.0
+key: 7
+key_confidence: 0.024
+loudness: -10.291
+mode: 0
+mode_confidence: 0.283
+release: Betty
+release_7digitalid: 162827
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (685,)
+segments_loudness_max: shape = (685,)
+segments_loudness_max_time: shape = (685,)
+segments_loudness_start: shape = (685,)
+segments_pitches: shape = (685, 12)
+segments_start: shape = (685,)
+segments_timbre: shape = (685, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.584094133445
+song_id: SOQMDJS12A8C138341
+start_of_fade_out: 198.583
+tatums_confidence: shape = (1061,)
+tatums_start: shape = (1061,)
+tempo: 144.447
+time_signature: 4
+time_signature_confidence: 0.709
+title: Tic
+track_7digitalid: 2235228
+track_id: TRAPOYU128F42644C3
+year: 1994

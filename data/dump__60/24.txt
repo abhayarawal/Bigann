@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17472
+artist_familiarity: 0.565971267271
+artist_hotttnesss: 0.384018128543
+artist_id: ARYCP7D1187B99516B
+artist_latitude: 43.64856
+artist_location: Toronto, Canada
+artist_longitude: -79.38533
+artist_mbid: 71fd1b0d-4f63-4060-95d9-afbc80ddffc2
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Pat Travers
+artist_playmeid: 52143
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: de2b749310d38bd7e0ed7162b372d2a3
+bars_confidence: shape = (513,)
+bars_start: shape = (513,)
+beats_confidence: shape = (513,)
+beats_start: shape = (513,)
+danceability: 0.0
+duration: 225.20118
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.512
+loudness: -7.284
+mode: 0
+mode_confidence: 0.684
+release: Putting It Straight
+release_7digitalid: 611929
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (792,)
+segments_loudness_max: shape = (792,)
+segments_loudness_max_time: shape = (792,)
+segments_loudness_start: shape = (792,)
+segments_pitches: shape = (792, 12)
+segments_start: shape = (792,)
+segments_timbre: shape = (792, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SODOSRS12A8C144552
+start_of_fade_out: 214.332
+tatums_confidence: shape = (1027,)
+tatums_start: shape = (1027,)
+tempo: 138.966
+time_signature: 1
+time_signature_confidence: 0.0
+title: It Ain't What It Seems
+track_7digitalid: 6803005
+track_id: TRAUOPC128F92F5EDE
+year: 0

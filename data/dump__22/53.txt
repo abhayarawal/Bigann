@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 162212
+artist_familiarity: 0.609294155146
+artist_hotttnesss: 0.373060492812
+artist_id: AROGAPH1187B98CF9C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 93942b87-215a-4626-b5ec-bf129d9fa2f6
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Bénabar
+artist_playmeid: 6211
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: bb7c73e09817ff5780f19b49c86e484b
+bars_confidence: shape = (123,)
+bars_start: shape = (123,)
+beats_confidence: shape = (375,)
+beats_start: shape = (375,)
+danceability: 0.0
+duration: 224.9922
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.192
+loudness: -14.658
+mode: 1
+mode_confidence: 0.35
+release: Reprise Des Négociations
+release_7digitalid: 307644
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (790,)
+segments_loudness_max: shape = (790,)
+segments_loudness_max_time: shape = (790,)
+segments_loudness_start: shape = (790,)
+segments_pitches: shape = (790, 12)
+segments_start: shape = (790,)
+segments_timbre: shape = (790, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOLTTJA12A8C13FC12
+start_of_fade_out: 221.658
+tatums_confidence: shape = (750,)
+tatums_start: shape = (750,)
+tempo: 100.312
+time_signature: 3
+time_signature_confidence: 0.659
+title: Christelle Est Une Ordure
+track_7digitalid: 3465725
+track_id: TRAHRJN128F42ACA90
+year: 2005

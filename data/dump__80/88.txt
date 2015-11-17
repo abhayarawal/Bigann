@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 39530
+artist_familiarity: 0.622940427572
+artist_hotttnesss: 0.370962958111
+artist_id: ARB4ROA1187B9ACAEC
+artist_latitude: nan
+artist_location: Jamaica
+artist_longitude: nan
+artist_mbid: 065324d1-12c2-485f-955d-9eef408f92a6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Junior Reid
+artist_playmeid: 147285
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: f25af2807e79047d2952b5259bfbe62a
+bars_confidence: shape = (136,)
+bars_start: shape = (136,)
+beats_confidence: shape = (547,)
+beats_start: shape = (547,)
+danceability: 0.0
+duration: 199.75791
+end_of_fade_in: 0.276
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -8.141
+mode: 0
+mode_confidence: 0.248
+release: Visa
+release_7digitalid: 263238
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (867,)
+segments_loudness_max: shape = (867,)
+segments_loudness_max_time: shape = (867,)
+segments_loudness_start: shape = (867,)
+segments_pitches: shape = (867, 12)
+segments_start: shape = (867,)
+segments_timbre: shape = (867, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOJODCY12A58A7CE98
+start_of_fade_out: 192.644
+tatums_confidence: shape = (1094,)
+tatums_start: shape = (1094,)
+tempo: 165.469
+time_signature: 4
+time_signature_confidence: 0.462
+title: No Loafting
+track_7digitalid: 2765663
+track_id: TRBBRRS128F4256EEF
+year: 1994

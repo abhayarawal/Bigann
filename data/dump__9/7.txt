@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10813
+artist_familiarity: 0.71274489965
+artist_hotttnesss: 0.470700389614
+artist_id: ARP96FM1187B9AEA77
+artist_latitude: 44.97903
+artist_location: Minneapolis, MN
+artist_longitude: -93.26493
+artist_mbid: 3037bd18-0079-4e4b-9ce1-758689e210d8
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Semisonic
+artist_playmeid: -1
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: d81dd7dbec0e925bbcfadb41583954d2
+bars_confidence: shape = (198,)
+bars_start: shape = (198,)
+beats_confidence: shape = (796,)
+beats_start: shape = (796,)
+danceability: 0.0
+duration: 258.92526
+end_of_fade_in: 0.171
+energy: 0.0
+key: 4
+key_confidence: 0.736
+loudness: -5.814
+mode: 1
+mode_confidence: 0.591
+release: 20th Century Masters: The Millennium Collection: Best Of Semisonic
+release_7digitalid: 23369
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (747,)
+segments_loudness_max: shape = (747,)
+segments_loudness_max_time: shape = (747,)
+segments_loudness_start: shape = (747,)
+segments_pitches: shape = (747, 12)
+segments_start: shape = (747,)
+segments_timbre: shape = (747, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.577469082464
+song_id: SOHXASU12A6D4F6B1C
+start_of_fade_out: 248.018
+tatums_confidence: shape = (1592,)
+tatums_start: shape = (1592,)
+tempo: 186.012
+time_signature: 4
+time_signature_confidence: 0.777
+title: If I Run
+track_7digitalid: 244346
+track_id: TRACZDR128F14599BC
+year: 1993

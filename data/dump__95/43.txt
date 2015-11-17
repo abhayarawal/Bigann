@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 141402
+artist_familiarity: 0.525475741913
+artist_hotttnesss: 0.372393096876
+artist_id: AROC6N61187FB40B14
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 37986d18-e8af-4502-8e08-2a87d7e5853f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Steven Halpern
+artist_playmeid: -1
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 1f8004d55cf735f9429837d57d50c8c2
+bars_confidence: shape = (183,)
+bars_start: shape = (183,)
+beats_confidence: shape = (736,)
+beats_start: shape = (736,)
+danceability: 0.0
+duration: 223.73832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.742
+loudness: -20.879
+mode: 1
+mode_confidence: 0.847
+release: Chakra Suite
+release_7digitalid: 600607
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (487,)
+segments_loudness_max: shape = (487,)
+segments_loudness_max_time: shape = (487,)
+segments_loudness_start: shape = (487,)
+segments_pitches: shape = (487, 12)
+segments_start: shape = (487,)
+segments_timbre: shape = (487, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLXXZC12A58A7B02D
+start_of_fade_out: 208.718
+tatums_confidence: shape = (736,)
+tatums_start: shape = (736,)
+tempo: 205.204
+time_signature: 4
+time_signature_confidence: 0.227
+title: 6th Chakra: Keynote A - Chakra Suite (Solo Electric Piano Plus Synths)
+track_7digitalid: 6666452
+track_id: TRBGXCK12903CEFAE3
+year: 2001

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 81878
+artist_familiarity: 0.423018344518
+artist_hotttnesss: 0.309811508434
+artist_id: ARXBM4N1187B98ECA5
+artist_latitude: 21.34765
+artist_location: Waimanalo, HI
+artist_longitude: -157.7197
+artist_mbid: 38d2a1b8-8de3-403f-9aa8-2a16f27ca529
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Cyril Pahinui
+artist_playmeid: 16754
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: c8f56078784c2a3471e4d3133b480499
+bars_confidence: shape = (979,)
+bars_start: shape = (979,)
+beats_confidence: shape = (979,)
+beats_start: shape = (979,)
+danceability: 0.0
+duration: 458.91873
+end_of_fade_in: 0.207
+energy: 0.0
+key: 10
+key_confidence: 1.0
+loudness: -11.688
+mode: 1
+mode_confidence: 0.818
+release: Night Moon - Po Mahina
+release_7digitalid: 818161
+sections_confidence: shape = (26,)
+sections_start: shape = (26,)
+segments_confidence: shape = (1411,)
+segments_loudness_max: shape = (1411,)
+segments_loudness_max_time: shape = (1411,)
+segments_loudness_start: shape = (1411,)
+segments_pitches: shape = (1411, 12)
+segments_start: shape = (1411,)
+segments_timbre: shape = (1411, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOACQYL12AB018B92A
+start_of_fade_out: 449.457
+tatums_confidence: shape = (1957,)
+tatums_start: shape = (1957,)
+tempo: 130.974
+time_signature: 1
+time_signature_confidence: 0.0
+title: Mauna Loa (Vocal)
+track_7digitalid: 9039174
+track_id: TRAYBNB12903CE2D9D
+year: 0

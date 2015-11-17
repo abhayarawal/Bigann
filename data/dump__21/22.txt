@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 73662
+artist_familiarity: 0.446151504891
+artist_hotttnesss: 0.311269884713
+artist_id: AR0TZ7T1187B994E37
+artist_latitude: 42.33168
+artist_location: Detroit, MI
+artist_longitude: -83.04792
+artist_mbid: ed901e86-9ea4-4b44-b1e1-b27513bbd222
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dave "Baby" Cortez
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 5c260dd80e77c8b99b2a1ee525748a83
+bars_confidence: shape = (93,)
+bars_start: shape = (93,)
+beats_confidence: shape = (377,)
+beats_start: shape = (377,)
+danceability: 0.0
+duration: 125.6224
+end_of_fade_in: 0.589
+energy: 0.0
+key: 0
+key_confidence: 0.595
+loudness: -11.19
+mode: 1
+mode_confidence: 0.732
+release: Fill It! - I Love the Fifties
+release_7digitalid: 714006
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (548,)
+segments_loudness_max: shape = (548,)
+segments_loudness_max_time: shape = (548,)
+segments_loudness_start: shape = (548,)
+segments_pitches: shape = (548, 12)
+segments_start: shape = (548,)
+segments_timbre: shape = (548, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSLKBG12AB018D75E
+start_of_fade_out: 116.088
+tatums_confidence: shape = (754,)
+tatums_start: shape = (754,)
+tempo: 185.559
+time_signature: 4
+time_signature_confidence: 0.159
+title: The Happy Organ
+track_7digitalid: 7919760
+track_id: TRAHFAO12903CBCD36
+year: 1976

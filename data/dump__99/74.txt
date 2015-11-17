@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 268793
+artist_familiarity: 0.461272880131
+artist_hotttnesss: 0.265094449024
+artist_id: ARDDYFH11F4C83DD58
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lloyd Spiegel
+artist_playmeid: -1
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: 1931cf6c96174fc681c8ba256b43573c
+bars_confidence: shape = (86,)
+bars_start: shape = (86,)
+beats_confidence: shape = (350,)
+beats_start: shape = (350,)
+danceability: 0.0
+duration: 188.70812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.215
+loudness: -8.635
+mode: 0
+mode_confidence: 0.28
+release: Tall Stories
+release_7digitalid: 345186
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (746,)
+segments_loudness_max: shape = (746,)
+segments_loudness_max_time: shape = (746,)
+segments_loudness_start: shape = (746,)
+segments_pitches: shape = (746, 12)
+segments_start: shape = (746,)
+segments_timbre: shape = (746, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJYYHN12AB0182966
+start_of_fade_out: 184.953
+tatums_confidence: shape = (700,)
+tatums_start: shape = (700,)
+tempo: 113.397
+time_signature: 4
+time_signature_confidence: 0.948
+title: The Storm
+track_7digitalid: 3868509
+track_id: TRBIHHY128F9306343
+year: 0

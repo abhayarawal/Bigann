@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 33918
+artist_familiarity: 0.400284058934
+artist_hotttnesss: 0.289976449278
+artist_id: AR6HA5Z1187B99C04E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: db88cfb9-581b-4857-8c8f-1baa545f88fa
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Seatrain
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 21bd96c5e0de324837f17356f771bc7a
+bars_confidence: shape = (172,)
+bars_start: shape = (172,)
+beats_confidence: shape = (519,)
+beats_start: shape = (519,)
+danceability: 0.0
+duration: 294.47791
+end_of_fade_in: 0.2
+energy: 0.0
+key: 2
+key_confidence: 0.768
+loudness: -6.112
+mode: 1
+mode_confidence: 0.678
+release: Watch
+release_7digitalid: 351207
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (948,)
+segments_loudness_max: shape = (948,)
+segments_loudness_max_time: shape = (948,)
+segments_loudness_start: shape = (948,)
+segments_pitches: shape = (948, 12)
+segments_start: shape = (948,)
+segments_timbre: shape = (948, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.261873513989
+song_id: SONSEWJ12AB0182FBB
+start_of_fade_out: 285.199
+tatums_confidence: shape = (1039,)
+tatums_start: shape = (1039,)
+tempo: 107.836
+time_signature: 3
+time_signature_confidence: 1.0
+title: Abbeville Fair
+track_7digitalid: 3925225
+track_id: TRARPOQ128F9311C86
+year: 1973

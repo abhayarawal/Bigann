@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 124455
+artist_familiarity: 0.599944669856
+artist_hotttnesss: 0.396800218979
+artist_id: ARTE6AQ1187B9B2826
+artist_latitude: 42.33168
+artist_location: Detroit, MI
+artist_longitude: -83.04792
+artist_mbid: 2b418029-92e6-4aa6-8099-f796fffb3023
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The High Strung
+artist_playmeid: 141898
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 9d9e037759b65952936e41fb97216e1f
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (433,)
+beats_start: shape = (433,)
+danceability: 0.0
+duration: 187.27138
+end_of_fade_in: 0.142
+energy: 0.0
+key: 7
+key_confidence: 0.72
+loudness: -3.765
+mode: 1
+mode_confidence: 0.66
+release: Moxie Bravo
+release_7digitalid: 171356
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (526,)
+segments_loudness_max: shape = (526,)
+segments_loudness_max_time: shape = (526,)
+segments_loudness_start: shape = (526,)
+segments_pitches: shape = (526, 12)
+segments_start: shape = (526,)
+segments_timbre: shape = (526, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOKHJSC12A8C14016E
+start_of_fade_out: 182.23
+tatums_confidence: shape = (867,)
+tatums_start: shape = (867,)
+tempo: 139.72
+time_signature: 4
+time_signature_confidence: 0.995
+title: The Luck You Got
+track_7digitalid: 1822412
+track_id: TRAGKMU128F429757E
+year: 2005

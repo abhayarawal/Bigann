@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 106482
+artist_familiarity: 0.554548549782
+artist_hotttnesss: 0.411545813622
+artist_id: AR531IG1187FB59B35
+artist_latitude: nan
+artist_location: CANADA - Ontario
+artist_longitude: nan
+artist_mbid: b7aa3a81-01f7-4603-905f-8de902528ba9
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Back Door Slam
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 68f652b850735c52fa774b5d47aee8d6
+bars_confidence: shape = (122,)
+bars_start: shape = (122,)
+beats_confidence: shape = (496,)
+beats_start: shape = (496,)
+danceability: 0.0
+duration: 319.84281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.515
+loudness: -4.325
+mode: 0
+mode_confidence: 0.573
+release: Roll Away
+release_7digitalid: 555515
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (797,)
+segments_loudness_max: shape = (797,)
+segments_loudness_max_time: shape = (797,)
+segments_loudness_start: shape = (797,)
+segments_pitches: shape = (797, 12)
+segments_start: shape = (797,)
+segments_timbre: shape = (797, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.624833533556
+song_id: SOOQCOC12A8C132A5A
+start_of_fade_out: 312.041
+tatums_confidence: shape = (992,)
+tatums_start: shape = (992,)
+tempo: 92.971
+time_signature: 4
+time_signature_confidence: 0.285
+title: Heavy On My Mind (Album Version)
+track_7digitalid: 6141531
+track_id: TRARIMP128F933D217
+year: 2007

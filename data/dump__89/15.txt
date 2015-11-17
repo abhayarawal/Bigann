@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23700
+artist_familiarity: 0.583841122018
+artist_hotttnesss: 0.371878155243
+artist_id: ARGBG2T1187B9B1670
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1586106b-e8e6-422d-925f-74ff9504d546
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Massive Töne
+artist_playmeid: -1
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 8406bfc1b0391e38e24601a2996cad22
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (355,)
+beats_start: shape = (355,)
+danceability: 0.0
+duration: 220.78649
+end_of_fade_in: 0.345
+energy: 0.0
+key: 1
+key_confidence: 1.0
+loudness: -5.839
+mode: 1
+mode_confidence: 0.67
+release: MT3
+release_7digitalid: 46777
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (960,)
+segments_loudness_max: shape = (960,)
+segments_loudness_max_time: shape = (960,)
+segments_loudness_start: shape = (960,)
+segments_pitches: shape = (960, 12)
+segments_start: shape = (960,)
+segments_timbre: shape = (960, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.360370582712
+song_id: SOKWONZ12A8C13ADFE
+start_of_fade_out: 217.403
+tatums_confidence: shape = (710,)
+tatums_start: shape = (710,)
+tempo: 97.054
+time_signature: 4
+time_signature_confidence: 1.0
+title: Im Club
+track_7digitalid: 2286375
+track_id: TRBEROX128F4270745
+year: 2002

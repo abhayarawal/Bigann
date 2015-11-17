@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 32
+artist_familiarity: 0.840963900935
+artist_hotttnesss: 0.587869152218
+artist_id: ARNDL191187FB51583
+artist_latitude: nan
+artist_location: Seattle, USA
+artist_longitude: nan
+artist_mbid: 06fb1c8b-566e-4cb2-985b-b467c90781d4
+artist_mbtags: shape = (14,)
+artist_mbtags_count: shape = (14,)
+artist_name: Jimi Hendrix
+artist_playmeid: 808
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: ffaf85c449ae97fba5304eb73e76db4b
+bars_confidence: shape = (1100,)
+bars_start: shape = (1100,)
+beats_confidence: shape = (1100,)
+beats_start: shape = (1100,)
+danceability: 0.0
+duration: 449.74975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.912
+loudness: -8.239
+mode: 1
+mode_confidence: 0.667
+release: Valleys Of Neptune
+release_7digitalid: 763905
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1508,)
+segments_loudness_max: shape = (1508,)
+segments_loudness_max_time: shape = (1508,)
+segments_loudness_start: shape = (1508,)
+segments_pitches: shape = (1508, 12)
+segments_start: shape = (1508,)
+segments_timbre: shape = (1508, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.693961617248
+song_id: SOLQLCA12AB0188BBD
+start_of_fade_out: 446.74
+tatums_confidence: shape = (2201,)
+tatums_start: shape = (2201,)
+tempo: 146.77
+time_signature: 1
+time_signature_confidence: 0.0
+title: Hear My Train A Comin'
+track_7digitalid: 8471248
+track_id: TRASCWR12903CCC575
+year: 1989

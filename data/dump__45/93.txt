@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4782
+artist_familiarity: 0.711893809382
+artist_hotttnesss: 0.535163042124
+artist_id: ARQOATR1187B9AE959
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: e3434cc7-d348-491a-9dc8-325af3d9086d
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Jane's Addiction
+artist_playmeid: 6380
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: a73e9990f43cdcbb25fbed8d6f259cec
+bars_confidence: shape = (167,)
+bars_start: shape = (167,)
+beats_confidence: shape = (672,)
+beats_start: shape = (672,)
+danceability: 0.0
+duration: 185.15546
+end_of_fade_in: 0.116
+energy: 0.0
+key: 7
+key_confidence: 0.746
+loudness: -8.794
+mode: 1
+mode_confidence: 0.683
+release: Nothing's Shocking
+release_7digitalid: 65647
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (826,)
+segments_loudness_max: shape = (826,)
+segments_loudness_max_time: shape = (826,)
+segments_loudness_start: shape = (826,)
+segments_pitches: shape = (826, 12)
+segments_start: shape = (826,)
+segments_timbre: shape = (826, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.613040082289
+song_id: SOBOVLS12A58A794F3
+start_of_fade_out: 180.924
+tatums_confidence: shape = (1344,)
+tatums_start: shape = (1344,)
+tempo: 223.387
+time_signature: 4
+time_signature_confidence: 0.0
+title: Standing In The Shower... Thinking ( LP Version )
+track_7digitalid: 684782
+track_id: TRAPQYF128F14B1051
+year: 1988

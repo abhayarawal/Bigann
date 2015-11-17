@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19514
+artist_familiarity: 0.803836825978
+artist_hotttnesss: 0.582575339598
+artist_id: ART4QZC1187FB51612
+artist_latitude: nan
+artist_location: Los Angeles &amp; New York
+artist_longitude: nan
+artist_mbid: 6be2828f-6c0d-4059-99d4-fa18acf1a296
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Janet Jackson
+artist_playmeid: 775
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 78e0c80880b944fa7253753ef2175dae
+bars_confidence: shape = (112,)
+bars_start: shape = (112,)
+beats_confidence: shape = (450,)
+beats_start: shape = (450,)
+danceability: 0.0
+duration: 235.41506
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.31
+loudness: -11.761
+mode: 0
+mode_confidence: 0.443
+release: Control
+release_7digitalid: 80969
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (999,)
+segments_loudness_max: shape = (999,)
+segments_loudness_max_time: shape = (999,)
+segments_loudness_start: shape = (999,)
+segments_pitches: shape = (999, 12)
+segments_start: shape = (999,)
+segments_timbre: shape = (999, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSOMWG12CF530D54E
+start_of_fade_out: 228.635
+tatums_confidence: shape = (900,)
+tatums_start: shape = (900,)
+tempo: 116.195
+time_signature: 4
+time_signature_confidence: 0.944
+title: When I Think Of You
+track_7digitalid: 857434
+track_id: TRAKTWZ128EF35E206
+year: 1986

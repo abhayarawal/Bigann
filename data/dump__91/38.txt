@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3919
+artist_familiarity: 0.774037142161
+artist_hotttnesss: 0.521726647791
+artist_id: ARL3VGT1187FB40E8E
+artist_latitude: -34.60852
+artist_location: Buenos Aires.
+artist_longitude: -58.37354
+artist_mbid: cfe85625-10af-46c1-99fb-765ed3a4f1ad
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Los Fabulosos Cadillacs
+artist_playmeid: 15034
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 57a0b9f4e758b1f296f9fade07961dd1
+bars_confidence: shape = (377,)
+bars_start: shape = (377,)
+beats_confidence: shape = (377,)
+beats_start: shape = (377,)
+danceability: 0.0
+duration: 151.92771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.8
+loudness: -4.468
+mode: 1
+mode_confidence: 0.728
+release: El Ritmo Mundial
+release_7digitalid: 509842
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (658,)
+segments_loudness_max: shape = (658,)
+segments_loudness_max_time: shape = (658,)
+segments_loudness_start: shape = (658,)
+segments_pitches: shape = (658, 12)
+segments_start: shape = (658,)
+segments_timbre: shape = (658, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.467574948219
+song_id: SOFGZBJ12AB01890B0
+start_of_fade_out: 146.019
+tatums_confidence: shape = (754,)
+tatums_start: shape = (754,)
+tempo: 149.767
+time_signature: 1
+time_signature_confidence: 0.0
+title: Twist Y Gritos (Twist & Shout)
+track_7digitalid: 5647527
+track_id: TRBFNOR128F933B0F5
+year: 1988

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 140971
+artist_familiarity: 0.422654618294
+artist_hotttnesss: 0.348058163263
+artist_id: ARVMOTP1187B99720F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 47c97989-6370-4f0f-9007-f948bff6dd5f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Barbara Jones
+artist_playmeid: -1
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: cc2b34979689d3e055cabdc4cf4a1310
+bars_confidence: shape = (174,)
+bars_start: shape = (174,)
+beats_confidence: shape = (701,)
+beats_start: shape = (701,)
+danceability: 0.0
+duration: 242.20689
+end_of_fade_in: 2.688
+energy: 0.0
+key: 6
+key_confidence: 0.0
+loudness: -9.375
+mode: 1
+mode_confidence: 0.0
+release: Blue Side Of Lonesome
+release_7digitalid: 807242
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1369,)
+segments_loudness_max: shape = (1369,)
+segments_loudness_max_time: shape = (1369,)
+segments_loudness_start: shape = (1369,)
+segments_pitches: shape = (1369, 12)
+segments_start: shape = (1369,)
+segments_timbre: shape = (1369, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQTFZH12AB0188264
+start_of_fade_out: 228.09
+tatums_confidence: shape = (1401,)
+tatums_start: shape = (1401,)
+tempo: 176.932
+time_signature: 4
+time_signature_confidence: 0.0
+title: Moonlight Lover
+track_7digitalid: 8926546
+track_id: TRANGFI12903CC7801
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 912
+artist_familiarity: 0.571681626575
+artist_hotttnesss: 0.54000775021
+artist_id: AR3FE581187FB3F90A
+artist_latitude: nan
+artist_location: Brooklyn, NY
+artist_longitude: nan
+artist_mbid: d2299099-e617-46dd-b013-ba0b4c72bc63
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Fabolous
+artist_playmeid: 590
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: e17c6ef64e9a61f86583919be1f2223b
+bars_confidence: shape = (98,)
+bars_start: shape = (98,)
+beats_confidence: shape = (395,)
+beats_start: shape = (395,)
+danceability: 0.0
+duration: 246.33424
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.306
+loudness: -5.268
+mode: 1
+mode_confidence: 0.349
+release: Street Dreams
+release_7digitalid: 6839
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1144,)
+segments_loudness_max: shape = (1144,)
+segments_loudness_max_time: shape = (1144,)
+segments_loudness_start: shape = (1144,)
+segments_pitches: shape = (1144, 12)
+segments_start: shape = (1144,)
+segments_timbre: shape = (1144, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.541105826902
+song_id: SOIMRXV12A58A7F1B5
+start_of_fade_out: 238.748
+tatums_confidence: shape = (1582,)
+tatums_start: shape = (1582,)
+tempo: 96.708
+time_signature: 4
+time_signature_confidence: 0.949
+title: Trade It All PT2  (Early Fade Amended Version- Bonus Track) (featuring P. Diddy & Jagged Edge)
+track_7digitalid: 58215
+track_id: TRAUJLJ128E0784E7C
+year: 2003

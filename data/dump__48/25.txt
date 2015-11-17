@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 108881
+artist_familiarity: 0.571640368052
+artist_hotttnesss: 0.411495406282
+artist_id: ART9GX11187B9B0EDC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7bb1d5d5-4d9c-47c7-a81d-49394700c4d4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Super700
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: c8fed3d4edb2b2114645da664b0aaef0
+bars_confidence: shape = (49,)
+bars_start: shape = (49,)
+beats_confidence: shape = (49,)
+beats_start: shape = (49,)
+danceability: 0.0
+duration: 47.28118
+end_of_fade_in: 0.194
+energy: 0.0
+key: 6
+key_confidence: 0.445
+loudness: -8.878
+mode: 0
+mode_confidence: 0.54
+release: Lovebites
+release_7digitalid: 519314
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (202,)
+segments_loudness_max: shape = (202,)
+segments_loudness_max_time: shape = (202,)
+segments_loudness_start: shape = (202,)
+segments_pitches: shape = (202, 12)
+segments_start: shape = (202,)
+segments_timbre: shape = (202, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAJLLN12AB0184718
+start_of_fade_out: 44.756
+tatums_confidence: shape = (243,)
+tatums_start: shape = (243,)
+tempo: 64.101
+time_signature: 1
+time_signature_confidence: 0.278
+title: The Other Side
+track_7digitalid: 5746003
+track_id: TRAQKCW128F9352A52
+year: 2009

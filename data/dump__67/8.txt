@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4692
+artist_familiarity: 0.54448387732
+artist_hotttnesss: 0.40325046567
+artist_id: AR2MD2P1187FB5B328
+artist_latitude: nan
+artist_location: Detroit
+artist_longitude: nan
+artist_mbid: 3a389027-814a-4f99-8f12-44e5276595cf
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Marshall Crenshaw
+artist_playmeid: 6924
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: dfef45ca22780aa5948416ded740bd38
+bars_confidence: shape = (64,)
+bars_start: shape = (64,)
+beats_confidence: shape = (258,)
+beats_start: shape = (258,)
+danceability: 0.0
+duration: 95.86893
+end_of_fade_in: 3.32
+energy: 0.0
+key: 8
+key_confidence: 0.853
+loudness: -11.026
+mode: 1
+mode_confidence: 0.678
+release: Marshall Crenshaw
+release_7digitalid: 13393
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (338,)
+segments_loudness_max: shape = (338,)
+segments_loudness_max_time: shape = (338,)
+segments_loudness_start: shape = (338,)
+segments_pitches: shape = (338, 12)
+segments_start: shape = (338,)
+segments_timbre: shape = (338, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.270775998946
+song_id: SODDUCR12A58A7756F
+start_of_fade_out: 93.205
+tatums_confidence: shape = (516,)
+tatums_start: shape = (516,)
+tempo: 162.653
+time_signature: 4
+time_signature_confidence: 1.0
+title: Rave On (Live 1982)
+track_7digitalid: 139650
+track_id: TRAWWIK128E078D19C
+year: 2000

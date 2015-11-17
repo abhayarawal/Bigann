@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17763
+artist_familiarity: 0.506933335781
+artist_hotttnesss: 0.334851270474
+artist_id: ARXP9GE1187FB3ED0E
+artist_latitude: 42.68318
+artist_location: Rochester, MI
+artist_longitude: -83.13702
+artist_mbid: ec66996b-ad69-421d-873b-8f79725017e9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Becky Baeling
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 8531d20c4e610bb2860bf3a79db58e58
+bars_confidence: shape = (130,)
+bars_start: shape = (130,)
+beats_confidence: shape = (523,)
+beats_start: shape = (523,)
+danceability: 0.0
+duration: 247.66649
+end_of_fade_in: 0.48
+energy: 0.0
+key: 7
+key_confidence: 0.447
+loudness: -5.963
+mode: 1
+mode_confidence: 0.508
+release: Becstasy
+release_7digitalid: 25826
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1082,)
+segments_loudness_max: shape = (1082,)
+segments_loudness_max_time: shape = (1082,)
+segments_loudness_start: shape = (1082,)
+segments_pitches: shape = (1082, 12)
+segments_start: shape = (1082,)
+segments_timbre: shape = (1082, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQVGKZ12A6D4F8244
+start_of_fade_out: 229.576
+tatums_confidence: shape = (1045,)
+tatums_start: shape = (1045,)
+tempo: 132.892
+time_signature: 4
+time_signature_confidence: 0.398
+title: If You Love Me
+track_7digitalid: 276634
+track_id: TRABWJA128F1460CFC
+year: 2003

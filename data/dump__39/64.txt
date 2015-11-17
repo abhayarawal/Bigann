@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3501
+artist_familiarity: 0.842636333464
+artist_hotttnesss: 0.583530838294
+artist_id: ARWK5QH1187B9A9B7F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 596ffa74-3d08-44ef-b113-765d43d12738
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Justin Timberlake
+artist_playmeid: 837
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 6faa8f73c531082ccaaecd36afd4a838
+bars_confidence: shape = (537,)
+bars_start: shape = (537,)
+beats_confidence: shape = (537,)
+beats_start: shape = (537,)
+danceability: 0.0
+duration: 254.1971
+end_of_fade_in: 0.136
+energy: 0.0
+key: 11
+key_confidence: 0.617
+loudness: -3.773
+mode: 0
+mode_confidence: 0.619
+release: What Goes Around... Comes Around
+release_7digitalid: 310781
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1129,)
+segments_loudness_max: shape = (1129,)
+segments_loudness_max_time: shape = (1129,)
+segments_loudness_start: shape = (1129,)
+segments_pitches: shape = (1129, 12)
+segments_start: shape = (1129,)
+segments_timbre: shape = (1129, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOALBQW12A8C142359
+start_of_fade_out: 246.404
+tatums_confidence: shape = (1073,)
+tatums_start: shape = (1073,)
+tempo: 127.952
+time_signature: 1
+time_signature_confidence: 0.0
+title: What Goes Around...Comes Around
+track_7digitalid: 3534282
+track_id: TRANNZZ128F92C22F7
+year: 2007

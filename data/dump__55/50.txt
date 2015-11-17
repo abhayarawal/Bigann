@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11518
+artist_familiarity: 0.683845006608
+artist_hotttnesss: 0.454785379496
+artist_id: ARKZ68G1187B98B189
+artist_latitude: 53.79449
+artist_location: Leeds, England
+artist_longitude: -1.54658
+artist_mbid: d8661c02-f423-4d72-8044-40ff05daf7a1
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Gang Of Four
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 9f804dbd98e897305465171908c2d25c
+bars_confidence: shape = (132,)
+bars_start: shape = (132,)
+beats_confidence: shape = (532,)
+beats_start: shape = (532,)
+danceability: 0.0
+duration: 273.99791
+end_of_fade_in: 0.402
+energy: 0.0
+key: 1
+key_confidence: 0.51
+loudness: -17.763
+mode: 1
+mode_confidence: 0.522
+release: A Brief History Of The 20th Century
+release_7digitalid: 16298
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1019,)
+segments_loudness_max: shape = (1019,)
+segments_loudness_max_time: shape = (1019,)
+segments_loudness_start: shape = (1019,)
+segments_pitches: shape = (1019, 12)
+segments_start: shape = (1019,)
+segments_timbre: shape = (1019, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.492398352818
+song_id: SOXXMWC12A67AD7296
+start_of_fade_out: 260.383
+tatums_confidence: shape = (1063,)
+tatums_start: shape = (1063,)
+tempo: 117.0
+time_signature: 4
+time_signature_confidence: 0.783
+title: Is It Love
+track_7digitalid: 173611
+track_id: TRASYLV128E0794878
+year: 1983

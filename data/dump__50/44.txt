@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 88682
+artist_familiarity: 0.739834488992
+artist_hotttnesss: 0.496783014755
+artist_id: ARS6KFB1187FB59B12
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 13c9c494-09aa-4518-8572-9f41dbdff461
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: K.I.Z.
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 786b49511f90f3966184e2b4faabdd17
+bars_confidence: shape = (81,)
+bars_start: shape = (81,)
+beats_confidence: shape = (572,)
+beats_start: shape = (572,)
+danceability: 0.0
+duration: 231.18322
+end_of_fade_in: 0.38
+energy: 0.0
+key: 7
+key_confidence: 0.538
+loudness: -4.547
+mode: 1
+mode_confidence: 0.485
+release: Das Rap Deutschland Kettensägen Massaker
+release_7digitalid: 715000
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (929,)
+segments_loudness_max: shape = (929,)
+segments_loudness_max_time: shape = (929,)
+segments_loudness_start: shape = (929,)
+segments_pitches: shape = (929, 12)
+segments_start: shape = (929,)
+segments_timbre: shape = (929, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTNAWQ12AB01870F4
+start_of_fade_out: 215.203
+tatums_confidence: shape = (1144,)
+tatums_start: shape = (1144,)
+tempo: 151.488
+time_signature: 7
+time_signature_confidence: 0.29
+title: Autofokus
+track_7digitalid: 7930420
+track_id: TRARDUI12903CBF6B6
+year: 2005

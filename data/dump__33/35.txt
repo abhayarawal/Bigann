@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 99106
+artist_familiarity: 0.689494764993
+artist_hotttnesss: 0.355905629781
+artist_id: ARI6CSW1187B9AF09A
+artist_latitude: nan
+artist_location: M�engladbach, Germany
+artist_longitude: nan
+artist_mbid: 3db42aef-5961-4c75-8f0f-432c9db2a894
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Eko Fresh
+artist_playmeid: 28340
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 5a6104113f70ff77f744c884a91a798b
+bars_confidence: shape = (84,)
+bars_start: shape = (84,)
+beats_confidence: shape = (343,)
+beats_start: shape = (343,)
+danceability: 0.0
+duration: 238.13179
+end_of_fade_in: 0.171
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -1.714
+mode: 1
+mode_confidence: 0.0
+release: Hart(z) IV
+release_7digitalid: 402946
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (984,)
+segments_loudness_max: shape = (984,)
+segments_loudness_max_time: shape = (984,)
+segments_loudness_start: shape = (984,)
+segments_pitches: shape = (984, 12)
+segments_start: shape = (984,)
+segments_timbre: shape = (984, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.407233014901
+song_id: SOMYIFM12AAF3B5E69
+start_of_fade_out: 228.293
+tatums_confidence: shape = (1374,)
+tatums_start: shape = (1374,)
+tempo: 86.928
+time_signature: 4
+time_signature_confidence: 1.0
+title: Hart(z) IV
+track_7digitalid: 4479290
+track_id: TRALIQF128F930B7B0
+year: 0

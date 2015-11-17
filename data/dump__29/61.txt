@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 63620
+artist_familiarity: 0.545599020029
+artist_hotttnesss: 0.34368004089
+artist_id: ARWBN9B1187B988B95
+artist_latitude: 48.76767
+artist_location: Stuttgart, Germany
+artist_longitude: 9.17192
+artist_mbid: 3b1464ca-c640-4102-b4a4-aaca9ddca442
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Eberhard Weber
+artist_playmeid: -1
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 0c922b9db04874b2f2e6f4c627fac5a1
+bars_confidence: shape = (149,)
+bars_start: shape = (149,)
+beats_confidence: shape = (448,)
+beats_start: shape = (448,)
+danceability: 0.0
+duration: 279.06567
+end_of_fade_in: 1.054
+energy: 0.0
+key: 1
+key_confidence: 0.546
+loudness: -27.016
+mode: 1
+mode_confidence: 0.462
+release: Pendulum
+release_7digitalid: 179771
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (589,)
+segments_loudness_max: shape = (589,)
+segments_loudness_max_time: shape = (589,)
+segments_loudness_start: shape = (589,)
+segments_pitches: shape = (589, 12)
+segments_start: shape = (589,)
+segments_timbre: shape = (589, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.340922755864
+song_id: SOYCYFG12A81C22BA1
+start_of_fade_out: 263.767
+tatums_confidence: shape = (897,)
+tatums_start: shape = (897,)
+tempo: 99.556
+time_signature: 3
+time_signature_confidence: 0.814
+title: Unfinished Self-Portrait
+track_7digitalid: 1943030
+track_id: TRAJZPU128F422C1D2
+year: 1993

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19402
+artist_familiarity: 0.490303980374
+artist_hotttnesss: 0.334415270675
+artist_id: ARRPCKN1187FB5BA2F
+artist_latitude: 33.20271
+artist_location: Naples, TX
+artist_longitude: -94.68121
+artist_mbid: c29fd6f3-56d9-4f3e-bfcd-ad1fea6329a4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Z.Z. Hill
+artist_playmeid: 18188
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: de7d4da928618af31b15e48b243b5618
+bars_confidence: shape = (66,)
+bars_start: shape = (66,)
+beats_confidence: shape = (273,)
+beats_start: shape = (273,)
+danceability: 0.0
+duration: 189.46567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.122
+loudness: -18.22
+mode: 1
+mode_confidence: 0.208
+release: Second Chance
+release_7digitalid: 663521
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (631,)
+segments_loudness_max: shape = (631,)
+segments_loudness_max_time: shape = (631,)
+segments_loudness_start: shape = (631,)
+segments_pitches: shape = (631, 12)
+segments_start: shape = (631,)
+segments_timbre: shape = (631, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORTZRZ12AB0185C09
+start_of_fade_out: 182.01
+tatums_confidence: shape = (818,)
+tatums_start: shape = (818,)
+tempo: 87.009
+time_signature: 4
+time_signature_confidence: 0.0
+title: It Ain't No Use
+track_7digitalid: 7355285
+track_id: TRAYKGV12903CAA787
+year: 1971

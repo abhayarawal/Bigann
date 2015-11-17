@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 571480
+artist_familiarity: 0.291912441212
+artist_hotttnesss: 0.0
+artist_id: ARN5MQ11187B98A12D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1c281608-9d08-402c-a1a3-7242ec3c8c85
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sean Quinn
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: c7248ab63fd5f7eff4836b1c7b447878
+bars_confidence: shape = (97,)
+bars_start: shape = (97,)
+beats_confidence: shape = (392,)
+beats_start: shape = (392,)
+danceability: 0.0
+duration: 217.52118
+end_of_fade_in: 2.653
+energy: 0.0
+key: 2
+key_confidence: 0.601
+loudness: -11.743
+mode: 1
+mode_confidence: 0.709
+release: Skylines
+release_7digitalid: 764939
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (828,)
+segments_loudness_max: shape = (828,)
+segments_loudness_max_time: shape = (828,)
+segments_loudness_start: shape = (828,)
+segments_pitches: shape = (828, 12)
+segments_start: shape = (828,)
+segments_timbre: shape = (828, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCVPCD12AB018E260
+start_of_fade_out: 205.125
+tatums_confidence: shape = (1566,)
+tatums_start: shape = (1566,)
+tempo: 111.442
+time_signature: 4
+time_signature_confidence: 0.444
+title: Skyline
+track_7digitalid: 8469122
+track_id: TRAKYKW12903CCBD27
+year: 0

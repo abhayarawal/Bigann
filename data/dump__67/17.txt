@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 93269
+artist_familiarity: 0.378013152139
+artist_hotttnesss: 0.339408486355
+artist_id: AREYIHC1187B99CE0B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1b37371e-9e55-4a35-b3d8-bfb10cc1f364
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Brasilian Tropical Orchestra
+artist_playmeid: 60290
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 9658aa53210ca170bf42a0f309c1d575
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (410,)
+beats_start: shape = (410,)
+danceability: 0.0
+duration: 160.31302
+end_of_fade_in: 0.258
+energy: 0.0
+key: 5
+key_confidence: 0.513
+loudness: -15.783
+mode: 1
+mode_confidence: 0.576
+release: The Music of The Beatles In Bossa Nova
+release_7digitalid: 33272
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (387,)
+segments_loudness_max: shape = (387,)
+segments_loudness_max_time: shape = (387,)
+segments_loudness_start: shape = (387,)
+segments_pitches: shape = (387, 12)
+segments_start: shape = (387,)
+segments_timbre: shape = (387, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SOAZGWL12A6D4F7AC2
+start_of_fade_out: 151.412
+tatums_confidence: shape = (410,)
+tatums_start: shape = (410,)
+tempo: 159.848
+time_signature: 4
+time_signature_confidence: 0.166
+title: Yesterday
+track_7digitalid: 357584
+track_id: TRAWXON128F1471203
+year: 1999

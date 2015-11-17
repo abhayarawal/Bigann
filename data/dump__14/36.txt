@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 54762
+artist_familiarity: 0.370466464292
+artist_hotttnesss: 0.324370661219
+artist_id: ARPJNT81187B98AD36
+artist_latitude: 38.25486
+artist_location: Louisville, KY
+artist_longitude: -85.7664
+artist_mbid: 1e1fa4a5-3bd6-4a1c-9b1d-5c613a741500
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sylvester Weaver
+artist_playmeid: 16300
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: e3603d243b35a6efa1b05f470ac3a730
+bars_confidence: shape = (81,)
+bars_start: shape = (81,)
+beats_confidence: shape = (325,)
+beats_start: shape = (325,)
+danceability: 0.0
+duration: 181.18485
+end_of_fade_in: 0.549
+energy: 0.0
+key: 2
+key_confidence: 0.963
+loudness: -20.444
+mode: 1
+mode_confidence: 0.731
+release: Slidin' On The Frets: The Hawaiian Steel Guitar Phenomenon
+release_7digitalid: 599190
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (566,)
+segments_loudness_max: shape = (566,)
+segments_loudness_max_time: shape = (566,)
+segments_loudness_start: shape = (566,)
+segments_pitches: shape = (566, 12)
+segments_start: shape = (566,)
+segments_timbre: shape = (566, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOUQMH12A58A7C633
+start_of_fade_out: 175.926
+tatums_confidence: shape = (649,)
+tatums_start: shape = (649,)
+tempo: 110.691
+time_signature: 4
+time_signature_confidence: 0.0
+title: Guitar Rag
+track_7digitalid: 6648358
+track_id: TRAEVEE12903CEB465
+year: 1997

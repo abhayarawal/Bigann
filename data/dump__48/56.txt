@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 382471
+artist_familiarity: 0.445456861007
+artist_hotttnesss: 0.215615950654
+artist_id: AR0Q5531187FB45143
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6e3b2a72-b4c4-45b3-8154-63ee011b2807
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dallas Holm
+artist_playmeid: 64303
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: d823d3d7f3d960d772d0301b6631fd23
+bars_confidence: shape = (104,)
+bars_start: shape = (104,)
+beats_confidence: shape = (424,)
+beats_start: shape = (424,)
+danceability: 0.0
+duration: 273.00526
+end_of_fade_in: 2.351
+energy: 0.0
+key: 7
+key_confidence: 0.686
+loudness: -14.948
+mode: 1
+mode_confidence: 0.688
+release: Early Works
+release_7digitalid: 575324
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (890,)
+segments_loudness_max: shape = (890,)
+segments_loudness_max_time: shape = (890,)
+segments_loudness_start: shape = (890,)
+segments_pitches: shape = (890, 12)
+segments_start: shape = (890,)
+segments_timbre: shape = (890, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBUKEN12AB018CEA2
+start_of_fade_out: 260.899
+tatums_confidence: shape = (848,)
+tatums_start: shape = (848,)
+tempo: 93.553
+time_signature: 4
+time_signature_confidence: 0.676
+title: A Broken Heart
+track_7digitalid: 6386517
+track_id: TRAQMWP12903CAC06F
+year: 0

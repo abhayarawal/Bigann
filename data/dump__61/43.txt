@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 37511
+artist_familiarity: 0.679519207793
+artist_hotttnesss: 0.491828704353
+artist_id: ARBM57Q1187B9AF97C
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 679ec43c-bc04-4bb0-b619-2da702a214ba
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: James Horner
+artist_playmeid: 11212
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 89410c6604409e97f1ade36f2759b1d1
+bars_confidence: shape = (166,)
+bars_start: shape = (166,)
+beats_confidence: shape = (667,)
+beats_start: shape = (667,)
+danceability: 0.0
+duration: 231.57506
+end_of_fade_in: 0.636
+energy: 0.0
+key: 2
+key_confidence: 0.699
+loudness: -30.387
+mode: 0
+mode_confidence: 0.747
+release: The Missing
+release_7digitalid: 291752
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (550,)
+segments_loudness_max: shape = (550,)
+segments_loudness_max_time: shape = (550,)
+segments_loudness_start: shape = (550,)
+segments_pitches: shape = (550, 12)
+segments_start: shape = (550,)
+segments_timbre: shape = (550, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.401502462885
+song_id: SOKGPRX12A8C138268
+start_of_fade_out: 213.188
+tatums_confidence: shape = (1335,)
+tatums_start: shape = (1335,)
+tempo: 186.138
+time_signature: 4
+time_signature_confidence: 1.0
+title: The Stranger
+track_7digitalid: 3274506
+track_id: TRAUZLI128F427EA58
+year: 2003

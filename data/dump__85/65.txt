@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 70607
+artist_familiarity: 0.401327986225
+artist_hotttnesss: 0.288578615725
+artist_id: AR5J8N51187FB54ED9
+artist_latitude: 38.8991
+artist_location: Washington
+artist_longitude: -77.029
+artist_mbid: e63181a2-2d72-4a27-af43-588c388a7e6b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Joe Heaney
+artist_playmeid: 81565
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: d03f6bc58dcfa3268c2fb7bcc9cd1f3a
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (248,)
+beats_start: shape = (248,)
+danceability: 0.0
+duration: 147.43465
+end_of_fade_in: 0.305
+energy: 0.0
+key: 10
+key_confidence: 0.755
+loudness: -18.184
+mode: 1
+mode_confidence: 0.302
+release: From My Tradition: The Best Of Joe Heaney
+release_7digitalid: 620654
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (481,)
+segments_loudness_max: shape = (481,)
+segments_loudness_max_time: shape = (481,)
+segments_loudness_start: shape = (481,)
+segments_pitches: shape = (481, 12)
+segments_start: shape = (481,)
+segments_timbre: shape = (481, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKXOYB12AB0182EEC
+start_of_fade_out: 142.977
+tatums_confidence: shape = (496,)
+tatums_start: shape = (496,)
+tempo: 102.649
+time_signature: 3
+time_signature_confidence: 0.641
+title: Peigin is Peadar
+track_7digitalid: 6894275
+track_id: TRBDKRV128F930C16C
+year: 0

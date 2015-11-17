@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 60706
+artist_familiarity: 0.752058096237
+artist_hotttnesss: 0.486370509746
+artist_id: AR0OQPL1187B9B549A
+artist_latitude: nan
+artist_location: CATHEDRAL CITY, California
+artist_longitude: nan
+artist_mbid: 685332a4-12ed-4c3b-8d0e-04e6a37e28f0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kirk Franklin
+artist_playmeid: 4324
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: cdbf377ffcd50339076763ce6d52fdb6
+bars_confidence: shape = (114,)
+bars_start: shape = (114,)
+beats_confidence: shape = (461,)
+beats_start: shape = (461,)
+danceability: 0.0
+duration: 264.85506
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.563
+loudness: -5.015
+mode: 1
+mode_confidence: 1.0
+release: The Fight Of My Life
+release_7digitalid: 524883
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1127,)
+segments_loudness_max: shape = (1127,)
+segments_loudness_max_time: shape = (1127,)
+segments_loudness_start: shape = (1127,)
+segments_pitches: shape = (1127, 12)
+segments_start: shape = (1127,)
+segments_timbre: shape = (1127, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.563355095977
+song_id: SOIBXGH12A8C143C8B
+start_of_fade_out: 259.164
+tatums_confidence: shape = (922,)
+tatums_start: shape = (922,)
+tempo: 104.048
+time_signature: 4
+time_signature_confidence: 0.548
+title: Declaration (This Is It!)
+track_7digitalid: 5804262
+track_id: TRAYCVB128F92EB7B0
+year: 2007

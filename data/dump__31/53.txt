@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 101102
+artist_familiarity: 0.492020053787
+artist_hotttnesss: 0.323956948267
+artist_id: ARLHEM01187B9AFF5B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5f5696d6-4534-463f-b796-0c57029e4eae
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Conjunto Clasico
+artist_playmeid: 204274
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 922a4422e8b3c87bbd7ba3100c3bb409
+bars_confidence: shape = (90,)
+bars_start: shape = (90,)
+beats_confidence: shape = (364,)
+beats_start: shape = (364,)
+danceability: 0.0
+duration: 244.74077
+end_of_fade_in: 0.201
+energy: 0.0
+key: 0
+key_confidence: 0.509
+loudness: -10.05
+mode: 1
+mode_confidence: 0.829
+release: Clasico "88
+release_7digitalid: 434534
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (960,)
+segments_loudness_max: shape = (960,)
+segments_loudness_max_time: shape = (960,)
+segments_loudness_start: shape = (960,)
+segments_pitches: shape = (960, 12)
+segments_start: shape = (960,)
+segments_timbre: shape = (960, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOXCVHC12AAFF429D7
+start_of_fade_out: 236.954
+tatums_confidence: shape = (1454,)
+tatums_start: shape = (1454,)
+tempo: 91.871
+time_signature: 4
+time_signature_confidence: 0.131
+title: Mi Suegra
+track_7digitalid: 4841722
+track_id: TRAKRHU128F92E7AA6
+year: 0

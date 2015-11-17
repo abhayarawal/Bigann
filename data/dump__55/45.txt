@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41026
+artist_familiarity: 0.417216442095
+artist_hotttnesss: 0.329432664353
+artist_id: ARIFOQ6119B866970E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 20a8b01a-d82e-4063-8f50-6f0263696dde
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Fontane Sisters
+artist_playmeid: 22463
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: dc3ec8d5173208ea51a8a1599b7a58be
+bars_confidence: shape = (52,)
+bars_start: shape = (52,)
+beats_confidence: shape = (209,)
+beats_start: shape = (209,)
+danceability: 0.0
+duration: 149.99465
+end_of_fade_in: 0.984
+energy: 0.0
+key: 6
+key_confidence: 0.527
+loudness: -12.442
+mode: 1
+mode_confidence: 0.604
+release: Best of 40's and 50's_ Vol. 66
+release_7digitalid: 750574
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (377,)
+segments_loudness_max: shape = (377,)
+segments_loudness_max_time: shape = (377,)
+segments_loudness_start: shape = (377,)
+segments_pitches: shape = (377, 12)
+segments_start: shape = (377,)
+segments_timbre: shape = (377, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOSDNTQ12AB018A319
+start_of_fade_out: 139.976
+tatums_confidence: shape = (419,)
+tatums_start: shape = (419,)
+tempo: 86.464
+time_signature: 4
+time_signature_confidence: 0.0
+title: The Tennessee Waltz
+track_7digitalid: 8310349
+track_id: TRASYEF12903CA52A8
+year: 0

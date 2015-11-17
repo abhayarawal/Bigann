@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22678
+artist_familiarity: 0.472247769437
+artist_hotttnesss: 0.316724550698
+artist_id: ARJ3VRY1187B9A3058
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 426bbccf-c6c7-45f2-bf03-5ce0b1e064b1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Memphis La Blusera
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: d5e6dd1f60447d69e108990acfa9e12f
+bars_confidence: shape = (172,)
+bars_start: shape = (172,)
+beats_confidence: shape = (691,)
+beats_start: shape = (691,)
+danceability: 0.0
+duration: 261.642
+end_of_fade_in: 0.212
+energy: 0.0
+key: 1
+key_confidence: 0.424
+loudness: -7.164
+mode: 0
+mode_confidence: 0.507
+release: Cosa de Hombres
+release_7digitalid: 799348
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1044,)
+segments_loudness_max: shape = (1044,)
+segments_loudness_max_time: shape = (1044,)
+segments_loudness_start: shape = (1044,)
+segments_pitches: shape = (1044, 12)
+segments_start: shape = (1044,)
+segments_timbre: shape = (1044, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SOVDKIH12AB0187301
+start_of_fade_out: 252.825
+tatums_confidence: shape = (1382,)
+tatums_start: shape = (1382,)
+tempo: 159.668
+time_signature: 4
+time_signature_confidence: 0.0
+title: La Revolución
+track_7digitalid: 8840449
+track_id: TRAEROM12903CB2814
+year: 1995

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3204
+artist_familiarity: 0.754917645451
+artist_hotttnesss: 0.507464243115
+artist_id: ARWPYQI1187FB4D55A
+artist_latitude: 53.45644
+artist_location: Newton-le-Willows, Merseyside, England
+artist_longitude: -2.63265
+artist_mbid: db92a151-1ac2-438b-bc43-b82e149ddd50
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Rick Astley
+artist_playmeid: 1338
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 89b4f45d8f61530274d490ea62d2980c
+bars_confidence: shape = (220,)
+bars_start: shape = (220,)
+beats_confidence: shape = (885,)
+beats_start: shape = (885,)
+danceability: 0.0
+duration: 317.83138
+end_of_fade_in: 0.784
+energy: 0.0
+key: 0
+key_confidence: 0.468
+loudness: -14.989
+mode: 1
+mode_confidence: 0.575
+release: Free
+release_7digitalid: 279028
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1242,)
+segments_loudness_max: shape = (1242,)
+segments_loudness_max_time: shape = (1242,)
+segments_loudness_start: shape = (1242,)
+segments_pitches: shape = (1242, 12)
+segments_start: shape = (1242,)
+segments_timbre: shape = (1242, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.386790177139
+song_id: SOFCPRQ12A8AE483D1
+start_of_fade_out: 307.949
+tatums_confidence: shape = (1771,)
+tatums_start: shape = (1771,)
+tempo: 174.059
+time_signature: 4
+time_signature_confidence: 0.87
+title: The Bottom Line
+track_7digitalid: 3107286
+track_id: TRBEBVZ128F425A660
+year: 1991

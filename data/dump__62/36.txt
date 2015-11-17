@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 297174
+artist_familiarity: 0.694983409073
+artist_hotttnesss: 0.426642657171
+artist_id: AR189B91187B9B8D9C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 979d01bc-a4da-4c80-8cc1-be40bd35cd5e
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Gustavo Cerati
+artist_playmeid: 14290
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: af919284a4c47e1c532ae2c9f989531a
+bars_confidence: shape = (105,)
+bars_start: shape = (105,)
+beats_confidence: shape = (422,)
+beats_start: shape = (422,)
+danceability: 0.0
+duration: 232.48934
+end_of_fade_in: 0.195
+energy: 0.0
+key: 2
+key_confidence: 0.0
+loudness: -4.286
+mode: 1
+mode_confidence: 0.0
+release: Siempre Es Hoy/Reversiones
+release_7digitalid: 550709
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1322,)
+segments_loudness_max: shape = (1322,)
+segments_loudness_max_time: shape = (1322,)
+segments_loudness_start: shape = (1322,)
+segments_pitches: shape = (1322, 12)
+segments_start: shape = (1322,)
+segments_timbre: shape = (1322, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCQAEO12AB01825BC
+start_of_fade_out: 226.075
+tatums_confidence: shape = (1688,)
+tatums_start: shape = (1688,)
+tempo: 110.016
+time_signature: 4
+time_signature_confidence: 1.0
+title: Tu Cicatriz En Mi
+track_7digitalid: 6089169
+track_id: TRAVJDB128F93305EB
+year: 0

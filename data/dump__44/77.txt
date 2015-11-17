@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 64440
+artist_familiarity: 0.673653885322
+artist_hotttnesss: 0.461679633089
+artist_id: AR4Y1BM1187B99A1EF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5618fee2-7613-4337-8169-6621aff5d6f5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Deitrick Haddon
+artist_playmeid: 7989
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 2a8066002cf1595ffb81d3011ca3e32c
+bars_confidence: shape = (127,)
+bars_start: shape = (127,)
+beats_confidence: shape = (511,)
+beats_start: shape = (511,)
+danceability: 0.0
+duration: 234.47465
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.476
+loudness: -6.814
+mode: 1
+mode_confidence: 0.509
+release: Revealed
+release_7digitalid: 312854
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (924,)
+segments_loudness_max: shape = (924,)
+segments_loudness_max_time: shape = (924,)
+segments_loudness_start: shape = (924,)
+segments_pitches: shape = (924, 12)
+segments_start: shape = (924,)
+segments_timbre: shape = (924, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.561428517629
+song_id: SOLMEXI12A8C140CF9
+start_of_fade_out: 222.198
+tatums_confidence: shape = (1021,)
+tatums_start: shape = (1021,)
+tempo: 131.065
+time_signature: 4
+time_signature_confidence: 1.0
+title: Don't Take Your Spirit Away
+track_7digitalid: 3541961
+track_id: TRAPGYN128F92C40CC
+year: 2008

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 558917
+artist_familiarity: 0.0547088091866
+artist_hotttnesss: 0.0
+artist_id: ARITKAJ122BCFCA169
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f47d5962-864b-4246-8414-ef4aa0ca07a2
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: S. Solis y Orquesta
+artist_playmeid: 160008
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 8e670dc65bb472421afb0717b414481b
+bars_confidence: shape = (186,)
+bars_start: shape = (186,)
+beats_confidence: shape = (186,)
+beats_start: shape = (186,)
+danceability: 0.0
+duration: 182.20363
+end_of_fade_in: 2.426
+energy: 0.0
+key: 0
+key_confidence: 0.671
+loudness: -11.415
+mode: 1
+mode_confidence: 0.748
+release: Instrumental Acordeón (28 Hits in Accordion)
+release_7digitalid: 447727
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (486,)
+segments_loudness_max: shape = (486,)
+segments_loudness_max_time: shape = (486,)
+segments_loudness_start: shape = (486,)
+segments_pitches: shape = (486, 12)
+segments_start: shape = (486,)
+segments_timbre: shape = (486, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.198586715907
+song_id: SOERPNN12A58A7D057
+start_of_fade_out: 172.095
+tatums_confidence: shape = (371,)
+tatums_start: shape = (371,)
+tempo: 63.007
+time_signature: 1
+time_signature_confidence: 0.537
+title: La Vida En Rosa
+track_7digitalid: 4967543
+track_id: TRABXGB128F9305C59
+year: 0

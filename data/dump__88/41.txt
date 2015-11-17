@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10815
+artist_familiarity: 0.745625187742
+artist_hotttnesss: 0.513065654505
+artist_id: AR1Q25M1187B9B0D73
+artist_latitude: 40.67856
+artist_location: Amityville, NY
+artist_longitude: -73.41853
+artist_mbid: a8ebde98-7e91-46c7-992c-90039ba42017
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Orquesta Romantica de La Habana
+artist_playmeid: 2219
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 1d0f74b41955e13daf560739257ef95a
+bars_confidence: shape = (452,)
+bars_start: shape = (452,)
+beats_confidence: shape = (452,)
+beats_start: shape = (452,)
+danceability: 0.0
+duration: 200.75057
+end_of_fade_in: 0.738
+energy: 0.0
+key: 10
+key_confidence: 0.454
+loudness: -15.137
+mode: 1
+mode_confidence: 0.456
+release: 18 Exitos
+release_7digitalid: 616355
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (790,)
+segments_loudness_max: shape = (790,)
+segments_loudness_max_time: shape = (790,)
+segments_loudness_start: shape = (790,)
+segments_pitches: shape = (790, 12)
+segments_start: shape = (790,)
+segments_timbre: shape = (790, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZBUGT12AAF3B51FF
+start_of_fade_out: 195.379
+tatums_confidence: shape = (905,)
+tatums_start: shape = (905,)
+tempo: 137.835
+time_signature: 1
+time_signature_confidence: 0.0
+title: Serenata
+track_7digitalid: 6850761
+track_id: TRBEJYW128F93018AF
+year: 0

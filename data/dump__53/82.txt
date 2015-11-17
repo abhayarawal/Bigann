@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19335
+artist_familiarity: 0.388952378054
+artist_hotttnesss: 0.269951169666
+artist_id: ARS81O81187B993AEC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9b142d73-38a5-4fef-bf01-1128f13b1267
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lou Busch
+artist_playmeid: 173147
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 92a6e5bee19896d346eb61797a816dca
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (334,)
+beats_start: shape = (334,)
+danceability: 0.0
+duration: 147.30404
+end_of_fade_in: 0.392
+energy: 0.0
+key: 0
+key_confidence: 0.405
+loudness: -11.776
+mode: 1
+mode_confidence: 0.401
+release: Ultra-Lounge / The Crime Scene - Volume Seven
+release_7digitalid: 28422
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (475,)
+segments_loudness_max: shape = (475,)
+segments_loudness_max_time: shape = (475,)
+segments_loudness_start: shape = (475,)
+segments_pitches: shape = (475, 12)
+segments_start: shape = (475,)
+segments_timbre: shape = (475, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.408110883511
+song_id: SOFFLXW12A58A7E3B4
+start_of_fade_out: 143.952
+tatums_confidence: shape = (334,)
+tatums_start: shape = (334,)
+tempo: 138.079
+time_signature: 4
+time_signature_confidence: 0.569
+title: The Wild Ones (1996 Digital Remaster)
+track_7digitalid: 311744
+track_id: TRASKIQ128F14684FF
+year: 0

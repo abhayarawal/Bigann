@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 487514
+artist_familiarity: 0.277900040196
+artist_hotttnesss: 0.116156134208
+artist_id: ARRESZG1187B9A3FBF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 46022fdf-856f-4419-8590-44374b715864
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Les Hou-Lops
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 0c52de4c9d5de44a9af89599eb830c1e
+bars_confidence: shape = (67,)
+bars_start: shape = (67,)
+beats_confidence: shape = (274,)
+beats_start: shape = (274,)
+danceability: 0.0
+duration: 150.46485
+end_of_fade_in: 0.357
+energy: 0.0
+key: 2
+key_confidence: 0.668
+loudness: -9.6
+mode: 1
+mode_confidence: 0.778
+release: Collection de chansons rares des groupes des années 60 Volume 1
+release_7digitalid: 696269
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (427,)
+segments_loudness_max: shape = (427,)
+segments_loudness_max_time: shape = (427,)
+segments_loudness_start: shape = (427,)
+segments_pitches: shape = (427, 12)
+segments_start: shape = (427,)
+segments_timbre: shape = (427, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAECMT12AB0183897
+start_of_fade_out: 147.714
+tatums_confidence: shape = (549,)
+tatums_start: shape = (549,)
+tempo: 111.555
+time_signature: 4
+time_signature_confidence: 0.899
+title: Hold me
+track_7digitalid: 7729514
+track_id: TRAHBMV12903D0553D
+year: 0

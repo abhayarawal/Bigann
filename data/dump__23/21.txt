@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7415
+artist_familiarity: 0.541745663759
+artist_hotttnesss: 0.400208057521
+artist_id: ART35UC1187FB4CC25
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a1f22f3f-c753-45e7-ab4d-9cb405518201
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Flies
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 0219ac409ee78886a5c6fba9e9590661
+bars_confidence: shape = (114,)
+bars_start: shape = (114,)
+beats_confidence: shape = (345,)
+beats_start: shape = (345,)
+danceability: 0.0
+duration: 222.40608
+end_of_fade_in: 11.755
+energy: 0.0
+key: 5
+key_confidence: 0.002
+loudness: -11.814
+mode: 0
+mode_confidence: 0.25
+release: The Flies
+release_7digitalid: 94459
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (577,)
+segments_loudness_max: shape = (577,)
+segments_loudness_max_time: shape = (577,)
+segments_loudness_start: shape = (577,)
+segments_pitches: shape = (577, 12)
+segments_start: shape = (577,)
+segments_timbre: shape = (577, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCBIEJ12A8C135CDB
+start_of_fade_out: 217.693
+tatums_confidence: shape = (691,)
+tatums_start: shape = (691,)
+tempo: 95.051
+time_signature: 3
+time_signature_confidence: 0.226
+title: All Too Human
+track_7digitalid: 988171
+track_id: TRAHVVX128F4273BCC
+year: 2007

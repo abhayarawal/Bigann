@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19078
+artist_familiarity: 0.46359371862
+artist_hotttnesss: 0.36773193521
+artist_id: AR6KK741187B98C9E9
+artist_latitude: nan
+artist_location: New Orleans, LA
+artist_longitude: nan
+artist_mbid: d3e79557-c278-40b6-89e6-ab8dc830b392
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Roy Brown
+artist_playmeid: 32286
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 89c647e4f58715351fbc9f8d3a7c01fa
+bars_confidence: shape = (233,)
+bars_start: shape = (233,)
+beats_confidence: shape = (233,)
+beats_start: shape = (233,)
+danceability: 0.0
+duration: 276.97587
+end_of_fade_in: 6.693
+energy: 0.0
+key: 11
+key_confidence: 0.31
+loudness: -13.948
+mode: 0
+mode_confidence: 0.276
+release: Nuyol
+release_7digitalid: 635585
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (994,)
+segments_loudness_max: shape = (994,)
+segments_loudness_max_time: shape = (994,)
+segments_loudness_start: shape = (994,)
+segments_pitches: shape = (994, 12)
+segments_start: shape = (994,)
+segments_timbre: shape = (994, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKYQQO12AB0185083
+start_of_fade_out: 270.698
+tatums_confidence: shape = (1166,)
+tatums_start: shape = (1166,)
+tempo: 51.477
+time_signature: 1
+time_signature_confidence: 0.0
+title: Ohe Nene
+track_7digitalid: 7054990
+track_id: TRAWKJD128F9333178
+year: 0

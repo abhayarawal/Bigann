@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 72184
+artist_familiarity: 0.577228502778
+artist_hotttnesss: 0.373552391014
+artist_id: ARYFXQ21187FB4DAEF
+artist_latitude: 27.53092
+artist_location: Laredo, TX
+artist_longitude: -99.502
+artist_mbid: 62da2ead-f055-4ad0-b939-3274bb2c54b2
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Poncho Sanchez
+artist_playmeid: -1
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: d10feeb50c86c18ba64fbcc352b7d809
+bars_confidence: shape = (131,)
+bars_start: shape = (131,)
+beats_confidence: shape = (925,)
+beats_start: shape = (925,)
+danceability: 0.0
+duration: 282.20036
+end_of_fade_in: 0.119
+energy: 0.0
+key: 2
+key_confidence: 0.389
+loudness: -7.151
+mode: 1
+mode_confidence: 0.403
+release: Latin Spirits
+release_7digitalid: 459869
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (1255,)
+segments_loudness_max: shape = (1255,)
+segments_loudness_max_time: shape = (1255,)
+segments_loudness_start: shape = (1255,)
+segments_pitches: shape = (1255, 12)
+segments_start: shape = (1255,)
+segments_timbre: shape = (1255, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLAEYA12A58A7A5D6
+start_of_fade_out: 278.982
+tatums_confidence: shape = (1850,)
+tatums_start: shape = (1850,)
+tempo: 198.855
+time_signature: 7
+time_signature_confidence: 0.441
+title: Going Back To New Orleans
+track_7digitalid: 5119060
+track_id: TRBDMVQ128F9327FBD
+year: 2001

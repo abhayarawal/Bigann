@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12827
+artist_familiarity: 0.651039380171
+artist_hotttnesss: 0.43497603179
+artist_id: ARMH10M1187FB4184F
+artist_latitude: nan
+artist_location: Wisconsin
+artist_longitude: nan
+artist_mbid: 3ca0ef91-3297-4ef8-a99a-1c1a54dc8ac7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Firehouse
+artist_playmeid: 2948
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 9092259b7204130a9fcb3b181d58edf3
+bars_confidence: shape = (116,)
+bars_start: shape = (116,)
+beats_confidence: shape = (467,)
+beats_start: shape = (467,)
+danceability: 0.0
+duration: 258.2722
+end_of_fade_in: 1.048
+energy: 0.0
+key: 3
+key_confidence: 0.614
+loudness: -7.178
+mode: 1
+mode_confidence: 0.597
+release: Good Acoustics
+release_7digitalid: 282985
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (980,)
+segments_loudness_max: shape = (980,)
+segments_loudness_max_time: shape = (980,)
+segments_loudness_start: shape = (980,)
+segments_pitches: shape = (980, 12)
+segments_start: shape = (980,)
+segments_timbre: shape = (980, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.722289006692
+song_id: SOEMSEL12A8C133A42
+start_of_fade_out: 245.806
+tatums_confidence: shape = (934,)
+tatums_start: shape = (934,)
+tempo: 109.993
+time_signature: 4
+time_signature_confidence: 0.626
+title: Don't Treat Me Bad
+track_7digitalid: 3153702
+track_id: TRBHEVR128F4263CE0
+year: 1990

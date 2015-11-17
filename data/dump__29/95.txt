@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4779
+artist_familiarity: 0.58695062173
+artist_hotttnesss: 0.43205407899
+artist_id: ARGJ0911187FB4613F
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 3aeb9e89-4fc3-46f4-a5a8-cf6c1b7e66a0
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Maria Muldaur
+artist_playmeid: 41489
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 141fe2cb92c4ba07618d8cb3abc230d4
+bars_confidence: shape = (403,)
+bars_start: shape = (403,)
+beats_confidence: shape = (403,)
+beats_start: shape = (403,)
+danceability: 0.0
+duration: 181.73342
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.015
+loudness: -10.034
+mode: 1
+mode_confidence: 0.22
+release: Waitress In A Donut Shop
+release_7digitalid: 615137
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (608,)
+segments_loudness_max: shape = (608,)
+segments_loudness_max_time: shape = (608,)
+segments_loudness_start: shape = (608,)
+segments_pitches: shape = (608, 12)
+segments_start: shape = (608,)
+segments_timbre: shape = (608, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.257011301354
+song_id: SOEIYJP12A8C143639
+start_of_fade_out: 175.404
+tatums_confidence: shape = (806,)
+tatums_start: shape = (806,)
+tempo: 137.272
+time_signature: 1
+time_signature_confidence: 0.0
+title: It Ain't The Meat It's The Motion (LP Version)
+track_7digitalid: 6838546
+track_id: TRAKCJK128F92FE943
+year: 0

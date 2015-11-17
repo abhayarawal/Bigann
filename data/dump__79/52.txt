@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 111336
+artist_familiarity: 0.751040126113
+artist_hotttnesss: 0.418193099976
+artist_id: ARIF6IS1187B98FDEB
+artist_latitude: 53.34376
+artist_location: Dublin, Ireland
+artist_longitude: -6.24953
+artist_mbid: eacf66a8-8ea0-41e4-879e-fcc61bcb03f0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Primordial
+artist_playmeid: 146475
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 652718241a2c9979087394cf636e35b8
+bars_confidence: shape = (519,)
+bars_start: shape = (519,)
+beats_confidence: shape = (1562,)
+beats_start: shape = (1562,)
+danceability: 0.0
+duration: 484.10077
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.507
+loudness: -13.383
+mode: 0
+mode_confidence: 0.441
+release: A Journey's End
+release_7digitalid: 632755
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (1728,)
+segments_loudness_max: shape = (1728,)
+segments_loudness_max_time: shape = (1728,)
+segments_loudness_start: shape = (1728,)
+segments_pitches: shape = (1728, 12)
+segments_start: shape = (1728,)
+segments_timbre: shape = (1728, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIVFAV12AB0183D33
+start_of_fade_out: 484.101
+tatums_confidence: shape = (3124,)
+tatums_start: shape = (3124,)
+tempo: 186.12
+time_signature: 3
+time_signature_confidence: 0.599
+title: Autumn's Ablaze (Live)
+track_7digitalid: 7024329
+track_id: TRBBFHG128F932B9D6
+year: 1998

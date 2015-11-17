@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 149235
+artist_familiarity: 0.668055686858
+artist_hotttnesss: 0.464152439053
+artist_id: ART8F8O1187B9A538D
+artist_latitude: nan
+artist_location: Salzburg, Austria
+artist_longitude: nan
+artist_mbid: d2ced2f1-6b58-47cf-ae87-5943e2ab6d99
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Herbert Von Karajan
+artist_playmeid: 24643
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: fdfdea335872c1f6a1221849ced3cd02
+bars_confidence: shape = (652,)
+bars_start: shape = (652,)
+beats_confidence: shape = (3272,)
+beats_start: shape = (3272,)
+danceability: 0.0
+duration: 1143.03955
+end_of_fade_in: 0.241
+energy: 0.0
+key: 10
+key_confidence: 0.939
+loudness: -20.536
+mode: 1
+mode_confidence: 0.515
+release: Violin Concerto_ Op.77 Etc.
+release_7digitalid: 158386
+sections_confidence: shape = (50,)
+sections_start: shape = (50,)
+segments_confidence: shape = (2289,)
+segments_loudness_max: shape = (2289,)
+segments_loudness_max_time: shape = (2289,)
+segments_loudness_start: shape = (2289,)
+segments_pitches: shape = (2289, 12)
+segments_start: shape = (2289,)
+segments_timbre: shape = (2289, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFNNDS12A8C138268
+start_of_fade_out: 1138.109
+tatums_confidence: shape = (3272,)
+tatums_start: shape = (3272,)
+tempo: 171.78
+time_signature: 5
+time_signature_confidence: 0.685
+title: Variations Sur Un Theme De Haydn Op51
+track_7digitalid: 1667462
+track_id: TRAGQZD128F42761EF
+year: 0

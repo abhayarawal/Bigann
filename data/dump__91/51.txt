@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 559821
+artist_familiarity: 0.487077751135
+artist_hotttnesss: 0.315690276816
+artist_id: AR4QYVC1187B99985B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c3b1105d-b40c-47c7-b489-e9b3f7b1e8c1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ Harry
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: a93feedf6e9bd9cee47d215616f4a693
+bars_confidence: shape = (143,)
+bars_start: shape = (143,)
+beats_confidence: shape = (721,)
+beats_start: shape = (721,)
+danceability: 0.0
+duration: 327.47057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.772
+loudness: -6.152
+mode: 1
+mode_confidence: 0.499
+release: Collision
+release_7digitalid: 748788
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1594,)
+segments_loudness_max: shape = (1594,)
+segments_loudness_max_time: shape = (1594,)
+segments_loudness_start: shape = (1594,)
+segments_pitches: shape = (1594, 12)
+segments_start: shape = (1594,)
+segments_timbre: shape = (1594, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHCEBC12AB018752F
+start_of_fade_out: 314.091
+tatums_confidence: shape = (2163,)
+tatums_start: shape = (2163,)
+tempo: 133.343
+time_signature: 5
+time_signature_confidence: 0.711
+title: Other Side of You
+track_7digitalid: 8290831
+track_id: TRBFOKS12903CA0692
+year: 2004

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 291580
+artist_familiarity: 0.711165786578
+artist_hotttnesss: 0.466826992527
+artist_id: ARBJSO81187B9BA09B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3f8a5e5b-c24b-4068-9f1c-afad8829e06b
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Soda Stereo
+artist_playmeid: 2146
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 2cce7fac89f98f1434746420dead0577
+bars_confidence: shape = (637,)
+bars_start: shape = (637,)
+beats_confidence: shape = (637,)
+beats_start: shape = (637,)
+danceability: 0.0
+duration: 225.12281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.0
+loudness: -3.818
+mode: 0
+mode_confidence: 0.036
+release: Gira Me Verás Volver
+release_7digitalid: 512234
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (702,)
+segments_loudness_max: shape = (702,)
+segments_loudness_max_time: shape = (702,)
+segments_loudness_start: shape = (702,)
+segments_pitches: shape = (702, 12)
+segments_start: shape = (702,)
+segments_timbre: shape = (702, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFBQIA12AB0182219
+start_of_fade_out: 203.593
+tatums_confidence: shape = (1274,)
+tatums_start: shape = (1274,)
+tempo: 175.421
+time_signature: 1
+time_signature_confidence: 0.0
+title: Te Hacen Falta Vitaminas
+track_7digitalid: 5683636
+track_id: TRAAKTK128F9343DCC
+year: 1984

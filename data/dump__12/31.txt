@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23529
+artist_familiarity: 0.398366354333
+artist_hotttnesss: 0.390434973269
+artist_id: ARN9GBH1187FB3FEF9
+artist_latitude: -22.97673
+artist_location: Rio de Janeiro, BR
+artist_longitude: -43.19508
+artist_mbid: 327fd7d2-bb78-4802-bc72-12a2faa87968
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Leo Gandelman
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: ce38144d872cbfc22f88645e3690ef21
+bars_confidence: shape = (144,)
+bars_start: shape = (144,)
+beats_confidence: shape = (578,)
+beats_start: shape = (578,)
+danceability: 0.0
+duration: 222.98077
+end_of_fade_in: 0.188
+energy: 0.0
+key: 5
+key_confidence: 0.524
+loudness: -13.812
+mode: 0
+mode_confidence: 0.471
+release: Lounjazz
+release_7digitalid: 495796
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (914,)
+segments_loudness_max: shape = (914,)
+segments_loudness_max_time: shape = (914,)
+segments_loudness_start: shape = (914,)
+segments_pitches: shape = (914, 12)
+segments_start: shape = (914,)
+segments_timbre: shape = (914, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTALBJ12AB017D609
+start_of_fade_out: 206.292
+tatums_confidence: shape = (1155,)
+tatums_start: shape = (1155,)
+tempo: 157.95
+time_signature: 4
+time_signature_confidence: 0.454
+title: Bari Bossa
+track_7digitalid: 5488767
+track_id: TRAEBOH128F9314977
+year: 2007

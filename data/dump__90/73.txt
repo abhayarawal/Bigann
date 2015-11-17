@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23824
+artist_familiarity: 0.686720833772
+artist_hotttnesss: 0.408091818588
+artist_id: ARSYOWS1187FB41157
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: ca3bea8d-1882-4b26-b8bf-db9916d2686d
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Rascals
+artist_playmeid: 3048
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: b60dc3b6c130caa621696cd96625bff4
+bars_confidence: shape = (139,)
+bars_start: shape = (139,)
+beats_confidence: shape = (423,)
+beats_start: shape = (423,)
+danceability: 0.0
+duration: 231.99302
+end_of_fade_in: 0.177
+energy: 0.0
+key: 10
+key_confidence: 0.189
+loudness: -11.573
+mode: 1
+mode_confidence: 0.48
+release: See
+release_7digitalid: 34575
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (802,)
+segments_loudness_max: shape = (802,)
+segments_loudness_max_time: shape = (802,)
+segments_loudness_start: shape = (802,)
+segments_pitches: shape = (802, 12)
+segments_start: shape = (802,)
+segments_timbre: shape = (802, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOCIJOM12A58A7CBF8
+start_of_fade_out: 220.793
+tatums_confidence: shape = (847,)
+tatums_start: shape = (847,)
+tempo: 111.418
+time_signature: 3
+time_signature_confidence: 1.0
+title: I'm Blue (LP Version)
+track_7digitalid: 370238
+track_id: TRBFISG128F1473A72
+year: 0

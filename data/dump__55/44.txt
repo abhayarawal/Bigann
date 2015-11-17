@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: -1
+artist_familiarity: 0.475457700998
+artist_hotttnesss: 0.309139497485
+artist_id: ARHDHOX122988F500E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Hot Club Of Detroit
+artist_playmeid: -1
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: c9f9e5135f90d5bb31b9ca2697b76643
+bars_confidence: shape = (769,)
+bars_start: shape = (769,)
+beats_confidence: shape = (769,)
+beats_start: shape = (769,)
+danceability: 0.0
+duration: 371.04281
+end_of_fade_in: 0.27
+energy: 0.0
+key: 2
+key_confidence: 0.63
+loudness: -18.226
+mode: 0
+mode_confidence: 0.825
+release: Jazz Yule Love II
+release_7digitalid: 228390
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1094,)
+segments_loudness_max: shape = (1094,)
+segments_loudness_max_time: shape = (1094,)
+segments_loudness_start: shape = (1094,)
+segments_pitches: shape = (1094, 12)
+segments_start: shape = (1094,)
+segments_timbre: shape = (1094, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOJJQO12A6D4FB913
+start_of_fade_out: 357.669
+tatums_confidence: shape = (1537,)
+tatums_start: shape = (1537,)
+tempo: 124.122
+time_signature: 1
+time_signature_confidence: 0.343
+title: God Rest Ye Merry Gentlemen
+track_7digitalid: 2497556
+track_id: TRASYDM128F421A907
+year: 0

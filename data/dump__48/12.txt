@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2199
+artist_familiarity: 0.765254692052
+artist_hotttnesss: 0.603876486918
+artist_id: ARYJSY01187B9B7C65
+artist_latitude: nan
+artist_location: Locust Ridge, TN
+artist_longitude: nan
+artist_mbid: 1d543e07-d0d2-4834-a8db-d65c50c2a856
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Dolly Parton
+artist_playmeid: 493
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 3ccb0a1de9a1c98ac11f837c9e2ee372
+bars_confidence: shape = (50,)
+bars_start: shape = (50,)
+beats_confidence: shape = (204,)
+beats_start: shape = (204,)
+danceability: 0.0
+duration: 125.33506
+end_of_fade_in: 0.42
+energy: 0.0
+key: 10
+key_confidence: 0.728
+loudness: -10.609
+mode: 1
+mode_confidence: 0.709
+release: Just Because I'm A Woman
+release_7digitalid: 293621
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (421,)
+segments_loudness_max: shape = (421,)
+segments_loudness_max_time: shape = (421,)
+segments_loudness_start: shape = (421,)
+segments_pitches: shape = (421, 12)
+segments_start: shape = (421,)
+segments_timbre: shape = (421, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXOKBA12CF54651D5
+start_of_fade_out: 116.5
+tatums_confidence: shape = (408,)
+tatums_start: shape = (408,)
+tempo: 100.06
+time_signature: 4
+time_signature_confidence: 0.681
+title: I'm Running Out Of Love
+track_7digitalid: 3300970
+track_id: TRAQJFK128F428508A
+year: 2008

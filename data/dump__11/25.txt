@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 50458
+artist_familiarity: 0.61869214158
+artist_hotttnesss: 0.422721370117
+artist_id: ARB2M051187FB56FA9
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 336f2e14-b064-45c8-8b2a-01663a0bee64
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Ice-T & Chuck D
+artist_playmeid: -1
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 5605a49a85ea23a9be375c63d3af670b
+bars_confidence: shape = (47,)
+bars_start: shape = (47,)
+beats_confidence: shape = (47,)
+beats_start: shape = (47,)
+danceability: 0.0
+duration: 26.01751
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.065
+loudness: -13.276
+mode: 0
+mode_confidence: 0.39
+release: The Showdown: The Sugarhill Gang Vs. Grandmaster Flash & The Furious Five
+release_7digitalid: 65393
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (90,)
+segments_loudness_max: shape = (90,)
+segments_loudness_max_time: shape = (90,)
+segments_loudness_start: shape = (90,)
+segments_pitches: shape = (90, 12)
+segments_start: shape = (90,)
+segments_timbre: shape = (90, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOZGOKA12A6D4FC7B7
+start_of_fade_out: 26.018
+tatums_confidence: shape = (94,)
+tatums_start: shape = (94,)
+tempo: 109.135
+time_signature: 1
+time_signature_confidence: 0.0
+title: Round Two Wrap-Up
+track_7digitalid: 681569
+track_id: TRADSQX128F14B0418
+year: 0

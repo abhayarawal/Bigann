@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22081
+artist_familiarity: 0.520757634637
+artist_hotttnesss: 0.404566537526
+artist_id: ARG4KW31187FB51B7C
+artist_latitude: nan
+artist_location: United Kingdom
+artist_longitude: nan
+artist_mbid: 5cf54b1a-831f-4cfc-b946-41131c463fc1
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Atomic Rooster
+artist_playmeid: 109185
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: d316b6a6663af4165b27119b0b564418
+bars_confidence: shape = (81,)
+bars_start: shape = (81,)
+beats_confidence: shape = (329,)
+beats_start: shape = (329,)
+danceability: 0.0
+duration: 159.60771
+end_of_fade_in: 0.34
+energy: 0.0
+key: 5
+key_confidence: 0.067
+loudness: -9.079
+mode: 1
+mode_confidence: 0.569
+release: Made In England
+release_7digitalid: 703994
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (546,)
+segments_loudness_max: shape = (546,)
+segments_loudness_max_time: shape = (546,)
+segments_loudness_start: shape = (546,)
+segments_pitches: shape = (546, 12)
+segments_start: shape = (546,)
+segments_timbre: shape = (546, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.619596042102
+song_id: SOFUUNS12AB018A286
+start_of_fade_out: 159.608
+tatums_confidence: shape = (659,)
+tatums_start: shape = (659,)
+tempo: 124.714
+time_signature: 4
+time_signature_confidence: 0.355
+title: Little Bit of Inner Air
+track_7digitalid: 7808917
+track_id: TRBBMIF12903CA1EB0
+year: 1972

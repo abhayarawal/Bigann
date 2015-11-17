@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 678
+artist_familiarity: 0.844085061395
+artist_hotttnesss: 0.71366981958
+artist_id: ARM7EDF1187B9B3FA1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: eeb1195b-f213-4ce1-b28c-8565211f8e43
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Guns N' Roses
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: c293bc0949f7bea2790788704dffdba2
+bars_confidence: shape = (197,)
+bars_start: shape = (197,)
+beats_confidence: shape = (794,)
+beats_start: shape = (794,)
+danceability: 0.0
+duration: 284.99546
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.73
+loudness: -2.246
+mode: 0
+mode_confidence: 0.673
+release: Live Era '87-'93
+release_7digitalid: 15555
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (729,)
+segments_loudness_max: shape = (729,)
+segments_loudness_max_time: shape = (729,)
+segments_loudness_start: shape = (729,)
+segments_pitches: shape = (729, 12)
+segments_start: shape = (729,)
+segments_timbre: shape = (729, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLCYFR12A6701D233
+start_of_fade_out: 278.825
+tatums_confidence: shape = (1588,)
+tatums_start: shape = (1588,)
+tempo: 167.927
+time_signature: 4
+time_signature_confidence: 0.276
+title: You're Crazy
+track_7digitalid: 163359
+track_id: TRAZCOT128E0792471
+year: 1987

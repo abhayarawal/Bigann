@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1237
+artist_familiarity: 0.93391610637
+artist_hotttnesss: 0.778673579184
+artist_id: AR52EZT1187B9900BF
+artist_latitude: 40.8079
+artist_location: Harlem, New York
+artist_longitude: -73.9454
+artist_mbid: 8ef1df30-ae4f-4dbd-9351-1a32b208a01e
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Alicia Keys
+artist_playmeid: 66
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 62c530e99c6bc8a37b5ef632a0225740
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (325,)
+beats_start: shape = (325,)
+danceability: 0.0
+duration: 183.43138
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.477
+loudness: -9.74
+mode: 1
+mode_confidence: 0.354
+release: Unplugged
+release_7digitalid: 505788
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (703,)
+segments_loudness_max: shape = (703,)
+segments_loudness_max_time: shape = (703,)
+segments_loudness_start: shape = (703,)
+segments_pitches: shape = (703, 12)
+segments_start: shape = (703,)
+segments_timbre: shape = (703, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.684472942023
+song_id: SOTTYPP12AB017AC2D
+start_of_fade_out: 173.894
+tatums_confidence: shape = (1300,)
+tatums_start: shape = (1300,)
+tempo: 105.775
+time_signature: 4
+time_signature_confidence: 0.986
+title: Heartburn
+track_7digitalid: 5601146
+track_id: TRAOXXM128F932FC70
+year: 2003

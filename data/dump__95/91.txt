@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 61234
+artist_familiarity: 0.664924362444
+artist_hotttnesss: 0.496381145682
+artist_id: ARN0DMU1187FB5B63A
+artist_latitude: nan
+artist_location: Philadelphia, Pennsylvania
+artist_longitude: nan
+artist_mbid: debabff3-2559-46e5-862d-ef2a906d7010
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Hall & Oates
+artist_playmeid: 2724
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 1990e9d62426e44994d492798c6bc195
+bars_confidence: shape = (421,)
+bars_start: shape = (421,)
+beats_confidence: shape = (421,)
+beats_start: shape = (421,)
+danceability: 0.0
+duration: 170.29179
+end_of_fade_in: 0.252
+energy: 0.0
+key: 8
+key_confidence: 0.541
+loudness: -11.314
+mode: 1
+mode_confidence: 0.58
+release: AM Radio Gold: Hall & Oates (Remastered)
+release_7digitalid: 627878
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (568,)
+segments_loudness_max: shape = (568,)
+segments_loudness_max_time: shape = (568,)
+segments_loudness_start: shape = (568,)
+segments_pitches: shape = (568, 12)
+segments_start: shape = (568,)
+segments_timbre: shape = (568, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOATQEU12AB017BD60
+start_of_fade_out: 162.644
+tatums_confidence: shape = (842,)
+tatums_start: shape = (842,)
+tempo: 153.802
+time_signature: 1
+time_signature_confidence: 0.0
+title: Fall in Philadelphia
+track_7digitalid: 6969172
+track_id: TRBHBGB128F931E4CF
+year: 1972

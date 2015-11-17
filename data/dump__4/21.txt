@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 50696
+artist_familiarity: 0.499302192654
+artist_hotttnesss: 0.387294171694
+artist_id: ARMUC731187B9A172D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b392b9e8-f96b-4b7b-9e02-6dc0e7dff6fc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Azis
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: eba6c9e776c1504de4697260b32cc85d
+bars_confidence: shape = (113,)
+bars_start: shape = (113,)
+beats_confidence: shape = (456,)
+beats_start: shape = (456,)
+danceability: 0.0
+duration: 281.88689
+end_of_fade_in: 0.09
+energy: 0.0
+key: 0
+key_confidence: 0.422
+loudness: -6.608
+mode: 1
+mode_confidence: 0.458
+release: BalkanBeats Volume 2
+release_7digitalid: 65820
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1124,)
+segments_loudness_max: shape = (1124,)
+segments_loudness_max_time: shape = (1124,)
+segments_loudness_start: shape = (1124,)
+segments_pitches: shape = (1124, 12)
+segments_start: shape = (1124,)
+segments_timbre: shape = (1124, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.407901717218
+song_id: SOKBJCQ12A6D4F9DCB
+start_of_fade_out: 272.765
+tatums_confidence: shape = (913,)
+tatums_start: shape = (913,)
+tempo: 98.151
+time_signature: 4
+time_signature_confidence: 0.586
+title: Anti Geroi
+track_7digitalid: 686903
+track_id: TRABJIA128F14B189F
+year: 2006

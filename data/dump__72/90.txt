@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 88802
+artist_familiarity: 0.697887822017
+artist_hotttnesss: 0.435144671678
+artist_id: AR6GJDZ1187B991E46
+artist_latitude: 19.4319
+artist_location: Mexico City, Mexico
+artist_longitude: -99.13285
+artist_mbid: 018886d9-0519-483b-8020-c8b11cd7308c
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: KALIMBA
+artist_playmeid: 10126
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: bd5c1e0f42a7a6664de03d0a17f3703a
+bars_confidence: shape = (71,)
+bars_start: shape = (71,)
+beats_confidence: shape = (285,)
+beats_start: shape = (285,)
+danceability: 0.0
+duration: 229.14567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.787
+loudness: -6.062
+mode: 1
+mode_confidence: 0.563
+release: Negroklaro
+release_7digitalid: 493076
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (712,)
+segments_loudness_max: shape = (712,)
+segments_loudness_max_time: shape = (712,)
+segments_loudness_start: shape = (712,)
+segments_pitches: shape = (712, 12)
+segments_start: shape = (712,)
+segments_timbre: shape = (712, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.494469709267
+song_id: SOQBGKC12AB0184F05
+start_of_fade_out: 219.719
+tatums_confidence: shape = (856,)
+tatums_start: shape = (856,)
+tempo: 77.722
+time_signature: 4
+time_signature_confidence: 0.535
+title: Nunca Sabras
+track_7digitalid: 5465799
+track_id: TRAYXZX128F930F022
+year: 2007

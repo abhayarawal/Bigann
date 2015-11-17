@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 169077
+artist_familiarity: 0.439972781692
+artist_hotttnesss: 0.0
+artist_id: AROYBLU1187B99A255
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5d728401-e78e-4f9b-821f-af961d94eabb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jarvis Church
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 436113cc8ee90e09277b224b90f47907
+bars_confidence: shape = (114,)
+bars_start: shape = (114,)
+beats_confidence: shape = (459,)
+beats_start: shape = (459,)
+danceability: 0.0
+duration: 231.73179
+end_of_fade_in: 0.235
+energy: 0.0
+key: 8
+key_confidence: 0.692
+loudness: -5.659
+mode: 1
+mode_confidence: 0.72
+release: The Long Way Home
+release_7digitalid: 314190
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (941,)
+segments_loudness_max: shape = (941,)
+segments_loudness_max_time: shape = (941,)
+segments_loudness_start: shape = (941,)
+segments_pitches: shape = (941, 12)
+segments_start: shape = (941,)
+segments_timbre: shape = (941, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SODMLAB12A8C1441D2
+start_of_fade_out: 229.262
+tatums_confidence: shape = (918,)
+tatums_start: shape = (918,)
+tempo: 119.976
+time_signature: 4
+time_signature_confidence: 1.0
+title: So Beautiful
+track_7digitalid: 3555015
+track_id: TRAGEFB128F92C6CA9
+year: 0

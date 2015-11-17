@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11859
+artist_familiarity: 0.755077151072
+artist_hotttnesss: 0.563763752282
+artist_id: ARGO67V1187B9968D2
+artist_latitude: nan
+artist_location: California
+artist_longitude: nan
+artist_mbid: 47b8b42a-96e8-46fa-9ea6-70c5136ae971
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Saosin
+artist_playmeid: 73273
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 5af7916153bfa08fe02994bbbc80fab8
+bars_confidence: shape = (129,)
+bars_start: shape = (129,)
+beats_confidence: shape = (520,)
+beats_start: shape = (520,)
+danceability: 0.0
+duration: 254.27546
+end_of_fade_in: 3.825
+energy: 0.0
+key: 6
+key_confidence: 0.517
+loudness: -3.828
+mode: 0
+mode_confidence: 0.726
+release: Saosin EP
+release_7digitalid: 16743
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (674,)
+segments_loudness_max: shape = (674,)
+segments_loudness_max_time: shape = (674,)
+segments_loudness_start: shape = (674,)
+segments_pitches: shape = (674, 12)
+segments_start: shape = (674,)
+segments_timbre: shape = (674, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.596571197666
+song_id: SOXWZRB12A67ADAF43
+start_of_fade_out: 245.429
+tatums_confidence: shape = (1040,)
+tatums_start: shape = (1040,)
+tempo: 125.062
+time_signature: 4
+time_signature_confidence: 0.934
+title: Bury Your Head (Acoustic)
+track_7digitalid: 178816
+track_id: TRAWKPT128E0795428
+year: 2005

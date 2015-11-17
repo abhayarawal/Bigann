@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 39530
+artist_familiarity: 0.622940427572
+artist_hotttnesss: 0.370962958111
+artist_id: ARB4ROA1187B9ACAEC
+artist_latitude: nan
+artist_location: Jamaica
+artist_longitude: nan
+artist_mbid: 065324d1-12c2-485f-955d-9eef408f92a6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Junior Reid
+artist_playmeid: 147285
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 39d71e39fbdcc7def7f41dbe9418e5b6
+bars_confidence: shape = (212,)
+bars_start: shape = (212,)
+beats_confidence: shape = (852,)
+beats_start: shape = (852,)
+danceability: 0.0
+duration: 326.00771
+end_of_fade_in: 0.194
+energy: 0.0
+key: 6
+key_confidence: 0.232
+loudness: -8.28
+mode: 0
+mode_confidence: 0.336
+release: Boom-Shack-A-Lack
+release_7digitalid: 103148
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1365,)
+segments_loudness_max: shape = (1365,)
+segments_loudness_max_time: shape = (1365,)
+segments_loudness_start: shape = (1365,)
+segments_pitches: shape = (1365, 12)
+segments_start: shape = (1365,)
+segments_timbre: shape = (1365, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.274899515043
+song_id: SOQTEHM12A8C1388E6
+start_of_fade_out: 315.408
+tatums_confidence: shape = (1704,)
+tatums_start: shape = (1704,)
+tempo: 158.242
+time_signature: 4
+time_signature_confidence: 0.27
+title: Boom-Shack-A-Lack (12" Mmix / Bonus Tra)
+track_7digitalid: 1064261
+track_id: TRATOMT128F4285D7C
+year: 1998

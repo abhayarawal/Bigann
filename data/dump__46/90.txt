@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15530
+artist_familiarity: 0.502462601646
+artist_hotttnesss: 0.391585329026
+artist_id: AR1X2H01187B98CCF2
+artist_latitude: nan
+artist_location: Menilmontant, France
+artist_longitude: nan
+artist_mbid: e0371cd0-a5f8-420e-be17-bd980adc7393
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Maurice Chevalier
+artist_playmeid: 10433
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 55e3999e37dd5e762140bdf2e122fb29
+bars_confidence: shape = (70,)
+bars_start: shape = (70,)
+beats_confidence: shape = (354,)
+beats_start: shape = (354,)
+danceability: 0.0
+duration: 185.39057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.497
+loudness: -14.263
+mode: 0
+mode_confidence: 0.606
+release: Le plus grandes chansons
+release_7digitalid: 696379
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (671,)
+segments_loudness_max: shape = (671,)
+segments_loudness_max_time: shape = (671,)
+segments_loudness_start: shape = (671,)
+segments_pitches: shape = (671, 12)
+segments_start: shape = (671,)
+segments_timbre: shape = (671, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODTRYX12AC4689826
+start_of_fade_out: 183.084
+tatums_confidence: shape = (708,)
+tatums_start: shape = (708,)
+tempo: 113.689
+time_signature: 5
+time_signature_confidence: 0.907
+title: Ça S'est Passé Un Dimanche
+track_7digitalid: 7731448
+track_id: TRAPZDX12903D05CCB
+year: 0

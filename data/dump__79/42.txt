@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 32534
+artist_familiarity: 0.385417446793
+artist_hotttnesss: 0.312131221496
+artist_id: ARYKF861187B99C74B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 063d505c-cbdc-4db6-b8d1-02046d61a1e1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pery Ribeiro
+artist_playmeid: 60286
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: fe56ac9fc4a5d529c01e32f5f8d341d4
+bars_confidence: shape = (276,)
+bars_start: shape = (276,)
+beats_confidence: shape = (276,)
+beats_start: shape = (276,)
+danceability: 0.0
+duration: 195.68281
+end_of_fade_in: 0.38
+energy: 0.0
+key: 2
+key_confidence: 1.0
+loudness: -11.131
+mode: 1
+mode_confidence: 0.774
+release: Tributo A Taiguara
+release_7digitalid: 174291
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (569,)
+segments_loudness_max: shape = (569,)
+segments_loudness_max_time: shape = (569,)
+segments_loudness_start: shape = (569,)
+segments_pitches: shape = (569, 12)
+segments_start: shape = (569,)
+segments_timbre: shape = (569, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQXARY12A8C13F68C
+start_of_fade_out: 183.954
+tatums_confidence: shape = (552,)
+tatums_start: shape = (552,)
+tempo: 87.61
+time_signature: 1
+time_signature_confidence: 0.86
+title: Piano E Viola
+track_7digitalid: 1866181
+track_id: TRBBEAE128F429E371
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 144538
+artist_familiarity: 0.450821298262
+artist_hotttnesss: 0.31219088719
+artist_id: ARKBTAQ1187B9B4219
+artist_latitude: 40.5725
+artist_location: Staten Island, NY
+artist_longitude: -74.154
+artist_mbid: 3cb2ba2a-81f9-49b6-8e9d-71dcf5fb56cc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: David Johansen
+artist_playmeid: 19315
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 5f4207b052fbcda1f905a635590e52bc
+bars_confidence: shape = (115,)
+bars_start: shape = (115,)
+beats_confidence: shape = (349,)
+beats_start: shape = (349,)
+danceability: 0.0
+duration: 247.97995
+end_of_fade_in: 0.15
+energy: 0.0
+key: 2
+key_confidence: 0.474
+loudness: -7.436
+mode: 1
+mode_confidence: 0.735
+release: In Style (With Bonus Tracks)
+release_7digitalid: 501052
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (844,)
+segments_loudness_max: shape = (844,)
+segments_loudness_max_time: shape = (844,)
+segments_loudness_start: shape = (844,)
+segments_pitches: shape = (844, 12)
+segments_start: shape = (844,)
+segments_timbre: shape = (844, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOXXJWR12AB017F577
+start_of_fade_out: 240.356
+tatums_confidence: shape = (1047,)
+tatums_start: shape = (1047,)
+tempo: 87.373
+time_signature: 3
+time_signature_confidence: 0.155
+title: In Style
+track_7digitalid: 5549715
+track_id: TRARJLC128F9323715
+year: 1979

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 330695
+artist_familiarity: 0.447364227585
+artist_hotttnesss: 0.278016710551
+artist_id: ARZIHDF11F4C847D1C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Caniche Hara-Kiri
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 797f332034b88970b0ed810da50b9449
+bars_confidence: shape = (129,)
+bars_start: shape = (129,)
+beats_confidence: shape = (389,)
+beats_start: shape = (389,)
+danceability: 0.0
+duration: 178.15465
+end_of_fade_in: 0.189
+energy: 0.0
+key: 1
+key_confidence: 0.637
+loudness: -9.729
+mode: 0
+mode_confidence: 0.54
+release: II
+release_7digitalid: 692305
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (498,)
+segments_loudness_max: shape = (498,)
+segments_loudness_max_time: shape = (498,)
+segments_loudness_start: shape = (498,)
+segments_pitches: shape = (498, 12)
+segments_start: shape = (498,)
+segments_timbre: shape = (498, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.263767589869
+song_id: SOLWMEJ12AC961829F
+start_of_fade_out: 174.684
+tatums_confidence: shape = (778,)
+tatums_start: shape = (778,)
+tempo: 131.946
+time_signature: 3
+time_signature_confidence: 0.157
+title: Frigide
+track_7digitalid: 7684155
+track_id: TRAPITR12903CFA4E5
+year: 0

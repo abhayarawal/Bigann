@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 24219
+artist_familiarity: 0.530631076718
+artist_hotttnesss: 0.32623594643
+artist_id: AR5BLB01187FB57E99
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 680355ed-b0be-4181-a758-99c9c0d0674a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Headliners
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 1131dbf2aad1957e314290294fea2099
+bars_confidence: shape = (239,)
+bars_start: shape = (239,)
+beats_confidence: shape = (961,)
+beats_start: shape = (961,)
+danceability: 0.0
+duration: 347.79383
+end_of_fade_in: 0.16
+energy: 0.0
+key: 8
+key_confidence: 0.766
+loudness: -4.281
+mode: 1
+mode_confidence: 0.666
+release: Das Album zum Film
+release_7digitalid: 114406
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1588,)
+segments_loudness_max: shape = (1588,)
+segments_loudness_max_time: shape = (1588,)
+segments_loudness_start: shape = (1588,)
+segments_pitches: shape = (1588, 12)
+segments_start: shape = (1588,)
+segments_timbre: shape = (1588, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOUBMT12A8C13DB6D
+start_of_fade_out: 338.797
+tatums_confidence: shape = (1922,)
+tatums_start: shape = (1922,)
+tempo: 170.041
+time_signature: 4
+time_signature_confidence: 0.572
+title: 90er
+track_7digitalid: 1179958
+track_id: TRBFUDB128F429C1B8
+year: 2006

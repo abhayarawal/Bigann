@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 64070
+artist_familiarity: 0.478770833861
+artist_hotttnesss: 0.327875294793
+artist_id: ARAFRFP1187FB4230B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b39fd057-141c-4a9e-a1e6-266665dbc79d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Williamson
+artist_playmeid: 74542
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: d3c09c388f7902040b4e1bd665c485b0
+bars_confidence: shape = (91,)
+bars_start: shape = (91,)
+beats_confidence: shape = (367,)
+beats_start: shape = (367,)
+danceability: 0.0
+duration: 203.17995
+end_of_fade_in: 2.258
+energy: 0.0
+key: 6
+key_confidence: 0.555
+loudness: -10.132
+mode: 0
+mode_confidence: 0.613
+release: The Trashcan Electric E.P.
+release_7digitalid: 78918
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (677,)
+segments_loudness_max: shape = (677,)
+segments_loudness_max_time: shape = (677,)
+segments_loudness_start: shape = (677,)
+segments_pitches: shape = (677, 12)
+segments_start: shape = (677,)
+segments_timbre: shape = (677, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOAWTJD12A6D4F4BB4
+start_of_fade_out: 189.904
+tatums_confidence: shape = (733,)
+tatums_start: shape = (733,)
+tempo: 110.032
+time_signature: 4
+time_signature_confidence: 1.0
+title: Breathe Easy
+track_7digitalid: 831145
+track_id: TRAPNZR128EF3583E8
+year: 2005

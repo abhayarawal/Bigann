@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 52966
+artist_familiarity: 0.782984211165
+artist_hotttnesss: 0.675117718829
+artist_id: AR190KO1187B9905EC
+artist_latitude: 34.05349
+artist_location: Sydney, Australia
+artist_longitude: -118.24532
+artist_mbid: 86f78011-5087-48d2-8922-c381d2eb0c40
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Sick Puppies
+artist_playmeid: 8849
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 9ff6e1705b22c26175cde29f31ee5eca
+bars_confidence: shape = (184,)
+bars_start: shape = (184,)
+beats_confidence: shape = (740,)
+beats_start: shape = (740,)
+danceability: 0.0
+duration: 212.92363
+end_of_fade_in: 0.27
+energy: 0.0
+key: 2
+key_confidence: 0.552
+loudness: -5.429
+mode: 1
+mode_confidence: 0.514
+release: Tri-polar (Edited)
+release_7digitalid: 497107
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (706,)
+segments_loudness_max: shape = (706,)
+segments_loudness_max_time: shape = (706,)
+segments_loudness_start: shape = (706,)
+segments_pitches: shape = (706, 12)
+segments_start: shape = (706,)
+segments_timbre: shape = (706, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.671756385802
+song_id: SOWMQTJ12AB0184323
+start_of_fade_out: 203.395
+tatums_confidence: shape = (1480,)
+tatums_start: shape = (1480,)
+tempo: 209.739
+time_signature: 4
+time_signature_confidence: 0.486
+title: Master Of The Universe
+track_7digitalid: 5504721
+track_id: TRAEOUE128F93187B9
+year: 2009

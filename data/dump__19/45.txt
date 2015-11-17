@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 368
+artist_familiarity: 0.743129776148
+artist_hotttnesss: 0.493566842697
+artist_id: ARXWAQQ1187B9AE954
+artist_latitude: nan
+artist_location: Newark, NJ
+artist_longitude: nan
+artist_mbid: 1f1f6737-b930-46fc-8d25-110bb99f7490
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Redman / Hurricane G / Melanie Rutherford
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 3c78e3eba90768df40dbf0090b49b5cf
+bars_confidence: shape = (68,)
+bars_start: shape = (68,)
+beats_confidence: shape = (205,)
+beats_start: shape = (205,)
+danceability: 0.0
+duration: 113.65832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.557
+loudness: -10.152
+mode: 1
+mode_confidence: 0.487
+release: Red Gone Wild
+release_7digitalid: 68737
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (453,)
+segments_loudness_max: shape = (453,)
+segments_loudness_max_time: shape = (453,)
+segments_loudness_start: shape = (453,)
+segments_pitches: shape = (453, 12)
+segments_start: shape = (453,)
+segments_timbre: shape = (453, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.386790177139
+song_id: SOMSUOA12A67FFB3A1
+start_of_fade_out: 100.223
+tatums_confidence: shape = (614,)
+tatums_start: shape = (614,)
+tempo: 109.265
+time_signature: 3
+time_signature_confidence: 1.0
+title: Soopman Luva 6 1/2
+track_7digitalid: 718666
+track_id: TRAGPFL128EF342E1D
+year: 0

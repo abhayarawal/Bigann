@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9766
+artist_familiarity: 0.426882762347
+artist_hotttnesss: 0.333303418273
+artist_id: ARBB58Y1187B9B621B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1c701b15-54f5-4de2-8e17-1a9e3b167a6b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bill & Gloria Gaither
+artist_playmeid: 61305
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: ac84a59af85e5993903ce8e009e739da
+bars_confidence: shape = (94,)
+bars_start: shape = (94,)
+beats_confidence: shape = (377,)
+beats_start: shape = (377,)
+danceability: 0.0
+duration: 196.17914
+end_of_fade_in: 0.508
+energy: 0.0
+key: 1
+key_confidence: 0.177
+loudness: -12.493
+mode: 1
+mode_confidence: 0.46
+release: The Best Of Homecoming - Volume One
+release_7digitalid: 155742
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (681,)
+segments_loudness_max: shape = (681,)
+segments_loudness_max_time: shape = (681,)
+segments_loudness_start: shape = (681,)
+segments_pitches: shape = (681, 12)
+segments_start: shape = (681,)
+segments_timbre: shape = (681, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.285175742668
+song_id: SOKFQQD12A8C138826
+start_of_fade_out: 190.978
+tatums_confidence: shape = (755,)
+tatums_start: shape = (755,)
+tempo: 116.903
+time_signature: 4
+time_signature_confidence: 0.0
+title: Jesus Hold My Hand (The Best of Homecoming - Volume 1 Version)
+track_7digitalid: 1633599
+track_id: TRAHBKC128F426E014
+year: 0

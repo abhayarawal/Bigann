@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 278655
+artist_familiarity: 0.367255010757
+artist_hotttnesss: 0.311615544973
+artist_id: AR9HQ6Y1187FB3C2CB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0e6524bd-6641-46a6-bce5-96f06c19aa46
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Orlando Pops Orchestra
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: e8014a9e791fe4ad69a4d4c735ceddd7
+bars_confidence: shape = (112,)
+bars_start: shape = (112,)
+beats_confidence: shape = (450,)
+beats_start: shape = (450,)
+danceability: 0.0
+duration: 265.82159
+end_of_fade_in: 0.177
+energy: 0.0
+key: 10
+key_confidence: 0.893
+loudness: -15.817
+mode: 1
+mode_confidence: 0.792
+release: Classic Western Themes Vol. 1
+release_7digitalid: 360755
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (673,)
+segments_loudness_max: shape = (673,)
+segments_loudness_max_time: shape = (673,)
+segments_loudness_start: shape = (673,)
+segments_pitches: shape = (673, 12)
+segments_start: shape = (673,)
+segments_timbre: shape = (673, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUJNNT12AB018425D
+start_of_fade_out: 261.66
+tatums_confidence: shape = (900,)
+tatums_start: shape = (900,)
+tempo: 102.04
+time_signature: 4
+time_signature_confidence: 1.0
+title: The Yellow Rose Of Texas (From Giants)
+track_7digitalid: 4018987
+track_id: TRASRRW128F9325663
+year: 0

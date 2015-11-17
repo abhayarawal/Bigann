@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6186
+artist_familiarity: 0.701180873608
+artist_hotttnesss: 0.466628888902
+artist_id: AR7TTS41187B9B42D3
+artist_latitude: 34.36401
+artist_location: Oxford, MS
+artist_longitude: -89.51877
+artist_mbid: 355eed00-6c40-4d33-940a-600b2597407a
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: R.L. Burnside
+artist_playmeid: 26588
+artist_terms: shape = (50,)
+artist_terms_freq: shape = (50,)
+artist_terms_weight: shape = (50,)
+audio_md5: ff6a3b61c73903e886d364ac05531d51
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (416,)
+beats_start: shape = (416,)
+danceability: 0.0
+duration: 277.78567
+end_of_fade_in: 0.24
+energy: 0.0
+key: 2
+key_confidence: 0.0
+loudness: -6.944
+mode: 1
+mode_confidence: 0.0
+release: A Bothered Mind
+release_7digitalid: 557761
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1030,)
+segments_loudness_max: shape = (1030,)
+segments_loudness_max_time: shape = (1030,)
+segments_loudness_start: shape = (1030,)
+segments_pitches: shape = (1030, 12)
+segments_start: shape = (1030,)
+segments_timbre: shape = (1030, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.482137585065
+song_id: SOTWVQT12A58A79650
+start_of_fade_out: 267.453
+tatums_confidence: shape = (831,)
+tatums_start: shape = (831,)
+tempo: 89.984
+time_signature: 4
+time_signature_confidence: 0.0
+title: Glory Be
+track_7digitalid: 6169318
+track_id: TRAADMH128F9343E59
+year: 2004

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 170417
+artist_familiarity: 0.574400788692
+artist_hotttnesss: 0.446071584412
+artist_id: ARRH2S81187B98C8AA
+artist_latitude: 43.07295
+artist_location: Madison, Wisconsin
+artist_longitude: -89.38669
+artist_mbid: fb7659b2-5ceb-45ac-be95-b0c1f832caec
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Bongzilla
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 323c0e6bbb31a6619e702cb5013c70b2
+bars_confidence: shape = (230,)
+bars_start: shape = (230,)
+beats_confidence: shape = (744,)
+beats_start: shape = (744,)
+danceability: 0.0
+duration: 422.55628
+end_of_fade_in: 0.101
+energy: 0.0
+key: 0
+key_confidence: 0.016
+loudness: -9.929
+mode: 1
+mode_confidence: 0.25
+release: Live From the Relapse Contamination Festival
+release_7digitalid: 366763
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1153,)
+segments_loudness_max: shape = (1153,)
+segments_loudness_max_time: shape = (1153,)
+segments_loudness_start: shape = (1153,)
+segments_pitches: shape = (1153, 12)
+segments_start: shape = (1153,)
+segments_timbre: shape = (1153, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQCRIP12AB0184DA3
+start_of_fade_out: 411.353
+tatums_confidence: shape = (2234,)
+tatums_start: shape = (2234,)
+tempo: 102.739
+time_signature: 3
+time_signature_confidence: 1.0
+title: Stone a Pig
+track_7digitalid: 4083649
+track_id: TRBHHWQ128F93321AB
+year: 2002

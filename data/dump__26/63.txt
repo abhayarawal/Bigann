@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4911
+artist_familiarity: 0.57930948808
+artist_hotttnesss: 0.370273518966
+artist_id: ARK0VFZ1187FB4309B
+artist_latitude: nan
+artist_location: DURHAM, North Carolina
+artist_longitude: nan
+artist_mbid: 2bb81df0-e9e2-42ee-9708-d30b0c85d946
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Shirley Caesar
+artist_playmeid: 15108
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 9506e71f822c8de61f70cf7c4e97e73e
+bars_confidence: shape = (344,)
+bars_start: shape = (344,)
+beats_confidence: shape = (1036,)
+beats_start: shape = (1036,)
+danceability: 0.0
+duration: 408.05832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.71
+loudness: -12.411
+mode: 1
+mode_confidence: 0.583
+release: He's Working It Out For You
+release_7digitalid: 128937
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (1512,)
+segments_loudness_max: shape = (1512,)
+segments_loudness_max_time: shape = (1512,)
+segments_loudness_start: shape = (1512,)
+segments_pitches: shape = (1512, 12)
+segments_start: shape = (1512,)
+segments_timbre: shape = (1512, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONWBTR12A6D4FCFFE
+start_of_fade_out: 399.743
+tatums_confidence: shape = (2071,)
+tatums_start: shape = (2071,)
+tempo: 154.483
+time_signature: 3
+time_signature_confidence: 0.501
+title: Wait On The Lord  (LP Version)
+track_7digitalid: 1335222
+track_id: TRAIXZQ128F423098F
+year: 0

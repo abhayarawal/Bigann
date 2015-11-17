@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 902
+artist_familiarity: 0.77279440418
+artist_hotttnesss: 0.55101644296
+artist_id: ARM6HLK1187FB427F0
+artist_latitude: nan
+artist_location: Brooklyn, NY
+artist_longitude: nan
+artist_mbid: bb3cbea2-5ad4-4917-bc84-8a1975d40315
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Talib Kweli
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 7b03eb9ea5600631d655dcb3e8d4a836
+bars_confidence: shape = (67,)
+bars_start: shape = (67,)
+beats_confidence: shape = (292,)
+beats_start: shape = (292,)
+danceability: 0.0
+duration: 196.33587
+end_of_fade_in: 0.334
+energy: 0.0
+key: 8
+key_confidence: 0.104
+loudness: -9.577
+mode: 1
+mode_confidence: 0.344
+release: Eardrum
+release_7digitalid: 119822
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (863,)
+segments_loudness_max: shape = (863,)
+segments_loudness_max_time: shape = (863,)
+segments_loudness_start: shape = (863,)
+segments_pitches: shape = (863, 12)
+segments_start: shape = (863,)
+segments_timbre: shape = (863, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCQDVP12A8C1402DC
+start_of_fade_out: 190.769
+tatums_confidence: shape = (877,)
+tatums_start: shape = (877,)
+tempo: 89.658
+time_signature: 4
+time_signature_confidence: 0.476
+title: Everything Man (Album Version)
+track_7digitalid: 1238854
+track_id: TRBHLGE128F42A64E5
+year: 2007

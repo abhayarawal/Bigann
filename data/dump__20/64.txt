@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 82979
+artist_familiarity: 0.557875168422
+artist_hotttnesss: 0.359324726504
+artist_id: AREENKN1187B98F35D
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 3fec8b00-4142-4129-96f5-1c9bf65e8e8f
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Plasmatics
+artist_playmeid: 102992
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: f15621077d6f648e19a0823327922188
+bars_confidence: shape = (176,)
+bars_start: shape = (176,)
+beats_confidence: shape = (715,)
+beats_start: shape = (715,)
+danceability: 0.0
+duration: 344.24118
+end_of_fade_in: 0.09
+energy: 0.0
+key: 0
+key_confidence: 0.671
+loudness: -11.685
+mode: 1
+mode_confidence: 0.355
+release: New Hope For The Wretched
+release_7digitalid: 106026
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1175,)
+segments_loudness_max: shape = (1175,)
+segments_loudness_max_time: shape = (1175,)
+segments_loudness_start: shape = (1175,)
+segments_pitches: shape = (1175, 12)
+segments_start: shape = (1175,)
+segments_timbre: shape = (1175, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.542898743291
+song_id: SOSZHGZ12A8C13B75E
+start_of_fade_out: 340.405
+tatums_confidence: shape = (1430,)
+tatums_start: shape = (1430,)
+tempo: 125.363
+time_signature: 4
+time_signature_confidence: 0.94
+title: Dream Lover
+track_7digitalid: 1098552
+track_id: TRAGZQD128F428E68B
+year: 1980

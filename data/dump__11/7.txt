@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 251641
+artist_familiarity: 0.379173495891
+artist_hotttnesss: 0.29149863156
+artist_id: AR2TT8P1187B9B624D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5282c8d3-856f-45e6-a55a-b33e52eaf76e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: O'2L
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 29d9f43863a5784bff64a6a7e9386a44
+bars_confidence: shape = (206,)
+bars_start: shape = (206,)
+beats_confidence: shape = (622,)
+beats_start: shape = (622,)
+danceability: 0.0
+duration: 290.08934
+end_of_fade_in: 0.272
+energy: 0.0
+key: 5
+key_confidence: 0.834
+loudness: -9.344
+mode: 1
+mode_confidence: 0.767
+release: Doyle's Brunch
+release_7digitalid: 323471
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (905,)
+segments_loudness_max: shape = (905,)
+segments_loudness_max_time: shape = (905,)
+segments_loudness_start: shape = (905,)
+segments_pitches: shape = (905, 12)
+segments_start: shape = (905,)
+segments_timbre: shape = (905, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOWRIBC12AAF3B2725
+start_of_fade_out: 281.391
+tatums_confidence: shape = (1244,)
+tatums_start: shape = (1244,)
+tempo: 130.091
+time_signature: 3
+time_signature_confidence: 0.268
+title: Little Edith
+track_7digitalid: 3642515
+track_id: TRADRIH128F92D9646
+year: 2005

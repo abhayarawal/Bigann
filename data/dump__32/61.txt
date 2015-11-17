@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 94403
+artist_familiarity: 0.737037558042
+artist_hotttnesss: 0.539245418349
+artist_id: AR050VJ1187B9B13A7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 37c78aeb-d196-42b5-b991-6afb4fc9bc2e
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Dead Kennedys
+artist_playmeid: 6004
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 6fdd1cd11c4b3fbb82ac27f0f1f273c7
+bars_confidence: shape = (649,)
+bars_start: shape = (649,)
+beats_confidence: shape = (649,)
+beats_start: shape = (649,)
+danceability: 0.0
+duration: 182.04689
+end_of_fade_in: 0.142
+energy: 0.0
+key: 5
+key_confidence: 0.692
+loudness: -4.058
+mode: 1
+mode_confidence: 0.448
+release: Give Me Convenience or Give Me Death
+release_7digitalid: 144927
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (600,)
+segments_loudness_max: shape = (600,)
+segments_loudness_max_time: shape = (600,)
+segments_loudness_start: shape = (600,)
+segments_pitches: shape = (600, 12)
+segments_start: shape = (600,)
+segments_timbre: shape = (600, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.798895652483
+song_id: SOOBOKE12A8C136227
+start_of_fade_out: 174.533
+tatums_confidence: shape = (1298,)
+tatums_start: shape = (1298,)
+tempo: 223.62
+time_signature: 1
+time_signature_confidence: 0.0
+title: The Man with the Dogs
+track_7digitalid: 1511271
+track_id: TRALBOZ128F4251490
+year: 1979

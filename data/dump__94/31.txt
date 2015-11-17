@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 70129
+artist_familiarity: 0.485792919341
+artist_hotttnesss: 0.332870566937
+artist_id: ARFZNR41187B990AF7
+artist_latitude: nan
+artist_location: Vance, MS
+artist_longitude: nan
+artist_mbid: 25854cde-8c11-477b-8242-a86de1a4a003
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sunnyland Slim
+artist_playmeid: 21253
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 6c2a19727afebfdbc541e18a4a4209c8
+bars_confidence: shape = (188,)
+bars_start: shape = (188,)
+beats_confidence: shape = (757,)
+beats_start: shape = (757,)
+danceability: 0.0
+duration: 246.04689
+end_of_fade_in: 0.519
+energy: 0.0
+key: 7
+key_confidence: 0.566
+loudness: -18.679
+mode: 1
+mode_confidence: 0.531
+release: Be Careful How You Vote
+release_7digitalid: 175615
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1009,)
+segments_loudness_max: shape = (1009,)
+segments_loudness_max_time: shape = (1009,)
+segments_loudness_start: shape = (1009,)
+segments_pitches: shape = (1009, 12)
+segments_start: shape = (1009,)
+segments_timbre: shape = (1009, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOVXEVL12A6D4FBF1D
+start_of_fade_out: 238.51
+tatums_confidence: shape = (1514,)
+tatums_start: shape = (1514,)
+tempo: 186.511
+time_signature: 4
+time_signature_confidence: 0.784
+title: Midnight Jump
+track_7digitalid: 1887910
+track_id: TRBGNHU128F4220469
+year: 1994

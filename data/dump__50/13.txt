@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 414
+artist_familiarity: 0.731184230413
+artist_hotttnesss: 0.549204383877
+artist_id: ARD3LXU1187B9ABFC5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e5db18cb-4b1f-496d-a308-548b611090d3
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Sex Pistols
+artist_playmeid: 1418
+artist_terms: shape = (9,)
+artist_terms_freq: shape = (9,)
+artist_terms_weight: shape = (9,)
+audio_md5: 38522847f4f62fdf91c22501016c8458
+bars_confidence: shape = (119,)
+bars_start: shape = (119,)
+beats_confidence: shape = (480,)
+beats_start: shape = (480,)
+danceability: 0.0
+duration: 189.17832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.057
+loudness: -14.683
+mode: 0
+mode_confidence: 0.382
+release: Submission
+release_7digitalid: 75500
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (409,)
+segments_loudness_max: shape = (409,)
+segments_loudness_max_time: shape = (409,)
+segments_loudness_start: shape = (409,)
+segments_pitches: shape = (409, 12)
+segments_start: shape = (409,)
+segments_timbre: shape = (409, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.313562114248
+song_id: SOTGSMJ12A6D227171
+start_of_fade_out: 189.178
+tatums_confidence: shape = (960,)
+tatums_start: shape = (960,)
+tempo: 152.899
+time_signature: 4
+time_signature_confidence: 0.812
+title: Chatterbox
+track_7digitalid: 781238
+track_id: TRARBFC128EF3500F8
+year: 2004

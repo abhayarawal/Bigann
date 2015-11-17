@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7534
+artist_familiarity: 0.662250483665
+artist_hotttnesss: 0.410053622676
+artist_id: ARNZPLV1187FB3DF5D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 93dda03d-c1d3-42c2-80b0-fa71bc20262b
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Capleton
+artist_playmeid: 34172
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: dace6a8f8564b5f86edf28c2b77f82fc
+bars_confidence: shape = (163,)
+bars_start: shape = (163,)
+beats_confidence: shape = (492,)
+beats_start: shape = (492,)
+danceability: 0.0
+duration: 216.81587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.551
+loudness: -10.336
+mode: 0
+mode_confidence: 0.506
+release: Kings of Zion
+release_7digitalid: 573664
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1005,)
+segments_loudness_max: shape = (1005,)
+segments_loudness_max_time: shape = (1005,)
+segments_loudness_start: shape = (1005,)
+segments_pitches: shape = (1005, 12)
+segments_start: shape = (1005,)
+segments_timbre: shape = (1005, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOSFURN12A58A7AC5F
+start_of_fade_out: 210.826
+tatums_confidence: shape = (983,)
+tatums_start: shape = (983,)
+tempo: 137.425
+time_signature: 3
+time_signature_confidence: 1.0
+title: Cry For Love
+track_7digitalid: 6358162
+track_id: TRARTDG12903CA52DF
+year: 0

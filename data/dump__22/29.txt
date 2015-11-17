@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11305
+artist_familiarity: 0.55699772762
+artist_hotttnesss: 0.391587029133
+artist_id: ARPH0O91187B99706D
+artist_latitude: 53.41961
+artist_location: Ireland
+artist_longitude: -8.24055
+artist_mbid: e48d590f-1352-46a0-9da1-2ce4ec6196b5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Taste
+artist_playmeid: 19269
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 2a9bdf2ec22e570fcb6da5af40aec717
+bars_confidence: shape = (965,)
+bars_start: shape = (965,)
+beats_confidence: shape = (965,)
+beats_start: shape = (965,)
+danceability: 0.0
+duration: 362.03057
+end_of_fade_in: 0.194
+energy: 0.0
+key: 9
+key_confidence: 0.44
+loudness: -13.839
+mode: 0
+mode_confidence: 0.492
+release: On The Boards
+release_7digitalid: 15931
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1217,)
+segments_loudness_max: shape = (1217,)
+segments_loudness_max_time: shape = (1217,)
+segments_loudness_start: shape = (1217,)
+segments_pitches: shape = (1217, 12)
+segments_start: shape = (1217,)
+segments_timbre: shape = (1217, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.698708461673
+song_id: SOFOYJY12A679D30E3
+start_of_fade_out: 354.592
+tatums_confidence: shape = (1931,)
+tatums_start: shape = (1931,)
+tempo: 161.529
+time_signature: 1
+time_signature_confidence: 0.0
+title: On The Boards
+track_7digitalid: 168440
+track_id: TRAHPBP128E079367D
+year: 1970

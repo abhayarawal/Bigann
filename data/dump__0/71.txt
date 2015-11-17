@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 345476
+artist_familiarity: 0.400433513458
+artist_hotttnesss: 0.266275285547
+artist_id: ARNIFX51187FB418EA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 91a75913-4dbf-4496-bed1-7d4206c3ed22
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Xcultures
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 678ee0558c50b3605a878cb1149b8a6c
+bars_confidence: shape = (139,)
+bars_start: shape = (139,)
+beats_confidence: shape = (561,)
+beats_start: shape = (561,)
+danceability: 0.0
+duration: 273.52771
+end_of_fade_in: 2.177
+energy: 0.0
+key: 1
+key_confidence: 0.652
+loudness: -6.305
+mode: 1
+mode_confidence: 0.694
+release: One World One People
+release_7digitalid: 466577
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1287,)
+segments_loudness_max: shape = (1287,)
+segments_loudness_max_time: shape = (1287,)
+segments_loudness_start: shape = (1287,)
+segments_pitches: shape = (1287, 12)
+segments_start: shape = (1287,)
+segments_timbre: shape = (1287, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.199238262001
+song_id: SOHMMMC12AB0181C42
+start_of_fade_out: 268.893
+tatums_confidence: shape = (1121,)
+tatums_start: shape = (1121,)
+tempo: 125.013
+time_signature: 4
+time_signature_confidence: 1.0
+title: Sudanese Dance
+track_7digitalid: 5190145
+track_id: TRAAFRU128F9339158
+year: 2000

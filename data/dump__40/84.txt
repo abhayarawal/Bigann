@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 171649
+artist_familiarity: 0.366537936082
+artist_hotttnesss: 0.332019559538
+artist_id: ARR2NH51187B98CE4C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 82ea9d25-5f64-46db-bce8-95304dc38bb3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kate Clinton
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: ebb944712d61b8b6b9eb1f77dfbf99dd
+bars_confidence: shape = (134,)
+bars_start: shape = (134,)
+beats_confidence: shape = (414,)
+beats_start: shape = (414,)
+danceability: 0.0
+duration: 186.53995
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.528
+loudness: -14.726
+mode: 1
+mode_confidence: 0.47
+release: Comedy You Can Dance To
+release_7digitalid: 226623
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (863,)
+segments_loudness_max: shape = (863,)
+segments_loudness_max_time: shape = (863,)
+segments_loudness_start: shape = (863,)
+segments_pitches: shape = (863, 12)
+segments_start: shape = (863,)
+segments_timbre: shape = (863, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.474147940978
+song_id: SOORKEP12A6D4FBB59
+start_of_fade_out: 186.54
+tatums_confidence: shape = (828,)
+tatums_start: shape = (828,)
+tempo: 132.345
+time_signature: 3
+time_signature_confidence: 0.527
+title: The Urge To Merge
+track_7digitalid: 2480456
+track_id: TRANWVZ128F4216718
+year: 0

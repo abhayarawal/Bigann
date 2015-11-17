@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12873
+artist_familiarity: 0.887386080596
+artist_hotttnesss: 0.779118679138
+artist_id: ARQUMH41187B9AF699
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: f59c5520-5f46-4d2c-b2c4-822eabf53419
+artist_mbtags: shape = (16,)
+artist_mbtags_count: shape = (16,)
+artist_name: Linkin Park
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 0d8d9cfc225cca138ff7345e133ed4b9
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (324,)
+beats_start: shape = (324,)
+danceability: 0.0
+duration: 190.30159
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.212
+loudness: -4.78
+mode: 0
+mode_confidence: 0.345
+release: Hybrid Theory
+release_7digitalid: 43318
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (605,)
+segments_loudness_max: shape = (605,)
+segments_loudness_max_time: shape = (605,)
+segments_loudness_start: shape = (605,)
+segments_pitches: shape = (605, 12)
+segments_start: shape = (605,)
+segments_timbre: shape = (605, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYSVCJ12A6D4F91D2
+start_of_fade_out: 183.472
+tatums_confidence: shape = (1296,)
+tatums_start: shape = (1296,)
+tempo: 103.129
+time_signature: 4
+time_signature_confidence: 0.712
+title: Pushing Me Away (Album Version)
+track_7digitalid: 462128
+track_id: TRAHVGN128F1484412
+year: 2000

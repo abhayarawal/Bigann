@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 395242
+artist_familiarity: 0.487140800946
+artist_hotttnesss: 0.306720975594
+artist_id: ARYORUX11F4C846890
+artist_latitude: 59.85845
+artist_location: Uppsala
+artist_longitude: 17.64405
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Perfection
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: b865e3e53a6f02f2a47f335bc051a731
+bars_confidence: shape = (209,)
+bars_start: shape = (209,)
+beats_confidence: shape = (630,)
+beats_start: shape = (630,)
+danceability: 0.0
+duration: 379.27138
+end_of_fade_in: 0.084
+energy: 0.0
+key: 10
+key_confidence: 0.395
+loudness: -7.264
+mode: 0
+mode_confidence: 0.406
+release: Perfection
+release_7digitalid: 534764
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1117,)
+segments_loudness_max: shape = (1117,)
+segments_loudness_max_time: shape = (1117,)
+segments_loudness_start: shape = (1117,)
+segments_pitches: shape = (1117, 12)
+segments_start: shape = (1117,)
+segments_timbre: shape = (1117, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORSTPO12AB017FE28
+start_of_fade_out: 365.546
+tatums_confidence: shape = (1260,)
+tatums_start: shape = (1260,)
+tempo: 100.168
+time_signature: 3
+time_signature_confidence: 1.0
+title: What Is This
+track_7digitalid: 5913654
+track_id: TRATIUD128F930620F
+year: 0

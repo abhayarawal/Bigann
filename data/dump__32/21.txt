@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 141602
+artist_familiarity: 0.504424856033
+artist_hotttnesss: 0.304310732964
+artist_id: AR3EVEE1187B9994B7
+artist_latitude: 18.11526
+artist_location: Jamaica
+artist_longitude: -77.27348
+artist_mbid: f564b042-1bec-4990-b730-151a0a8fd59a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Abijah
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 133c03b41d63a5472e5e8b05685caf0d
+bars_confidence: shape = (139,)
+bars_start: shape = (139,)
+beats_confidence: shape = (558,)
+beats_start: shape = (558,)
+danceability: 0.0
+duration: 283.68934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.553
+loudness: -9.787
+mode: 1
+mode_confidence: 0.618
+release: Abijah
+release_7digitalid: 186308
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (942,)
+segments_loudness_max: shape = (942,)
+segments_loudness_max_time: shape = (942,)
+segments_loudness_start: shape = (942,)
+segments_pitches: shape = (942, 12)
+segments_start: shape = (942,)
+segments_timbre: shape = (942, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORWSBE12A58A7CA8D
+start_of_fade_out: 272.771
+tatums_confidence: shape = (1116,)
+tatums_start: shape = (1116,)
+tempo: 119.029
+time_signature: 4
+time_signature_confidence: 0.84
+title: The Rock
+track_7digitalid: 2019430
+track_id: TRAKXVA128F423A0EF
+year: 2003

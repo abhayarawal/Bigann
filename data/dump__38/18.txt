@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16982
+artist_familiarity: 0.652801354921
+artist_hotttnesss: 0.443098946532
+artist_id: ARYG6CU1187FB3852B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 67bb73ee-e70c-4bfd-9bf1-e7a09768f9a9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Milk Inc.
+artist_playmeid: -1
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: d3eaa0cb76bee77f06b9246ac9a3c9ee
+bars_confidence: shape = (247,)
+bars_start: shape = (247,)
+beats_confidence: shape = (992,)
+beats_start: shape = (992,)
+danceability: 0.0
+duration: 430.65424
+end_of_fade_in: 0.242
+energy: 0.0
+key: 0
+key_confidence: 0.794
+loudness: -10.674
+mode: 1
+mode_confidence: 0.301
+release: Apocalypse Cow
+release_7digitalid: 31528
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (2224,)
+segments_loudness_max: shape = (2224,)
+segments_loudness_max_time: shape = (2224,)
+segments_loudness_start: shape = (2224,)
+segments_pitches: shape = (2224, 12)
+segments_start: shape = (2224,)
+segments_timbre: shape = (2224, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOMYPEW12A6D4F6C04
+start_of_fade_out: 425.372
+tatums_confidence: shape = (1985,)
+tatums_start: shape = (1985,)
+tempo: 140.023
+time_signature: 4
+time_signature_confidence: 0.129
+title: Losing Love (DJ Wout Remix)
+track_7digitalid: 340931
+track_id: TRANAIE128F146E588
+year: 1999

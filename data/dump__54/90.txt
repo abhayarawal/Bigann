@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2759
+artist_familiarity: 0.60276693426
+artist_hotttnesss: 0.463192852316
+artist_id: ARH1LE01187B98D68D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3df3a779-a7b1-4362-a8b4-9ae6c7eb623d
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: John Debney
+artist_playmeid: -1
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 0e4e6b1d8129c4848a28201230ac2487
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (350,)
+beats_start: shape = (350,)
+danceability: 0.0
+duration: 193.51465
+end_of_fade_in: 0.325
+energy: 0.0
+key: 0
+key_confidence: 0.828
+loudness: -25.671
+mode: 1
+mode_confidence: 0.813
+release: Chicken Little - Himmel Und Huhn Original Soundtrack (German Version)
+release_7digitalid: 460269
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (431,)
+segments_loudness_max: shape = (431,)
+segments_loudness_max_time: shape = (431,)
+segments_loudness_start: shape = (431,)
+segments_pitches: shape = (431, 12)
+segments_start: shape = (431,)
+segments_timbre: shape = (431, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.360370582712
+song_id: SOJXHAS12AB017F81E
+start_of_fade_out: 190.392
+tatums_confidence: shape = (700,)
+tatums_start: shape = (700,)
+tempo: 110.464
+time_signature: 4
+time_signature_confidence: 1.0
+title: Dad Apologizes
+track_7digitalid: 5124202
+track_id: TRASTZG128F9329213
+year: 2005

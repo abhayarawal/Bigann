@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 33328
+artist_familiarity: 0.666652798741
+artist_hotttnesss: 0.554291489013
+artist_id: AR06EB01187FB40150
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: dcaa4f81-bfb7-44eb-8594-4e74f004b6e4
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: NOFX
+artist_playmeid: 11040
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 96fb5c2462c189a2800dbabdf440268e
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (351,)
+beats_start: shape = (351,)
+danceability: 0.0
+duration: 108.12036
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.772
+loudness: -4.926
+mode: 1
+mode_confidence: 0.76
+release: Punk-O-Rama 6
+release_7digitalid: 297570
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (438,)
+segments_loudness_max: shape = (438,)
+segments_loudness_max_time: shape = (438,)
+segments_loudness_start: shape = (438,)
+segments_pitches: shape = (438, 12)
+segments_start: shape = (438,)
+segments_timbre: shape = (438, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.596571197666
+song_id: SOLDKKK12A6D4FD12B
+start_of_fade_out: 105.198
+tatums_confidence: shape = (702,)
+tatums_start: shape = (702,)
+tempo: 198.201
+time_signature: 4
+time_signature_confidence: 0.0
+title: Bath Of Least Resistance
+track_7digitalid: 3328970
+track_id: TRBEWCS128F428BA34
+year: 2001

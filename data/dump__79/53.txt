@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 49597
+artist_familiarity: 0.478083521069
+artist_hotttnesss: 0.378387397783
+artist_id: AR0CWOB1187B99FA08
+artist_latitude: nan
+artist_location: United States
+artist_longitude: nan
+artist_mbid: 0df890e1-f4f2-4b21-a413-cd8af1af32d8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Christophe Beck
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: fe7688be46abea62ca2b2559661b8c37
+bars_confidence: shape = (39,)
+bars_start: shape = (39,)
+beats_confidence: shape = (173,)
+beats_start: shape = (173,)
+danceability: 0.0
+duration: 91.21914
+end_of_fade_in: 0.444
+energy: 0.0
+key: 8
+key_confidence: 0.053
+loudness: -26.631
+mode: 0
+mode_confidence: 0.397
+release: Elektra
+release_7digitalid: 64174
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (88,)
+segments_loudness_max: shape = (88,)
+segments_loudness_max_time: shape = (88,)
+segments_loudness_start: shape = (88,)
+segments_pitches: shape = (88, 12)
+segments_start: shape = (88,)
+segments_timbre: shape = (88, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SOKEGNC12A6D4FB54C
+start_of_fade_out: 78.541
+tatums_confidence: shape = (346,)
+tatums_start: shape = (346,)
+tempo: 131.487
+time_signature: 4
+time_signature_confidence: 0.016
+title: Main Title
+track_7digitalid: 665408
+track_id: TRBBFLM128F14AD269
+year: 2002

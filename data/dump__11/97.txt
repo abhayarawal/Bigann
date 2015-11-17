@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 111885
+artist_familiarity: 0.497942106066
+artist_hotttnesss: 0.341073301047
+artist_id: AR63RWN1187FB3E89A
+artist_latitude: 34.56039
+artist_location: Marvell, AR
+artist_longitude: -90.91387
+artist_mbid: 2b520be3-0bfe-4904-b372-d04b8cc161ec
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Robert Lockwood_ Jr.
+artist_playmeid: 47650
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: b3824cc8d73f284843f44f7ff1e142b3
+bars_confidence: shape = (308,)
+bars_start: shape = (308,)
+beats_confidence: shape = (932,)
+beats_start: shape = (932,)
+danceability: 0.0
+duration: 340.87138
+end_of_fade_in: 0.369
+energy: 0.0
+key: 4
+key_confidence: 0.774
+loudness: -14.188
+mode: 1
+mode_confidence: 0.926
+release: I Got To Find Me A Woman
+release_7digitalid: 369461
+sections_confidence: shape = (21,)
+sections_start: shape = (21,)
+segments_confidence: shape = (866,)
+segments_loudness_max: shape = (866,)
+segments_loudness_max_time: shape = (866,)
+segments_loudness_start: shape = (866,)
+segments_pitches: shape = (866, 12)
+segments_start: shape = (866,)
+segments_timbre: shape = (866, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHASWL12AB018352B
+start_of_fade_out: 330.35
+tatums_confidence: shape = (932,)
+tatums_start: shape = (932,)
+tempo: 164.387
+time_signature: 3
+time_signature_confidence: 1.0
+title: She's Little And She's Low
+track_7digitalid: 4114962
+track_id: TRADYQH128F9338162
+year: 1998

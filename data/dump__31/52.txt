@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19928
+artist_familiarity: 0.52288813193
+artist_hotttnesss: 0.305719059845
+artist_id: AR1LQNB1187B9A6AE5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c9c3157e-35e6-4888-9970-3b9771f13197
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: La Portuaria
+artist_playmeid: 57330
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: ab57bd7cf36448a0bafe60b9295904a4
+bars_confidence: shape = (143,)
+bars_start: shape = (143,)
+beats_confidence: shape = (577,)
+beats_start: shape = (577,)
+danceability: 0.0
+duration: 291.13424
+end_of_fade_in: 0.096
+energy: 0.0
+key: 7
+key_confidence: 0.06
+loudness: -8.853
+mode: 1
+mode_confidence: 0.429
+release: Rio
+release_7digitalid: 177206
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1400,)
+segments_loudness_max: shape = (1400,)
+segments_loudness_max_time: shape = (1400,)
+segments_loudness_start: shape = (1400,)
+segments_pitches: shape = (1400, 12)
+segments_start: shape = (1400,)
+segments_timbre: shape = (1400, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.229144103717
+song_id: SOUZSKM12A6D4FBFD2
+start_of_fade_out: 273.781
+tatums_confidence: shape = (2305,)
+tatums_start: shape = (2305,)
+tempo: 120.006
+time_signature: 4
+time_signature_confidence: 1.0
+title: Explorador
+track_7digitalid: 1910679
+track_id: TRAKRGZ128F42255B1
+year: 2005

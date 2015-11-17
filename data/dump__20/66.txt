@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 235056
+artist_familiarity: 0.524271355423
+artist_hotttnesss: 0.249754085576
+artist_id: ARR40ZV1187B9A10A8
+artist_latitude: 40.99471
+artist_location: Pennsylvania
+artist_longitude: -77.60454
+artist_mbid: 16c09afa-e338-4df4-bbff-5fbb1cf43c68
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Stern
+artist_playmeid: 52260
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: cf60b55dd10e2a9e31eccf2ec835e106
+bars_confidence: shape = (134,)
+bars_start: shape = (134,)
+beats_confidence: shape = (539,)
+beats_start: shape = (539,)
+danceability: 0.0
+duration: 241.13587
+end_of_fade_in: 0.328
+energy: 0.0
+key: 2
+key_confidence: 0.783
+loudness: -8.452
+mode: 0
+mode_confidence: 0.789
+release: Stern
+release_7digitalid: 300419
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (819,)
+segments_loudness_max: shape = (819,)
+segments_loudness_max_time: shape = (819,)
+segments_loudness_start: shape = (819,)
+segments_pitches: shape = (819, 12)
+segments_start: shape = (819,)
+segments_timbre: shape = (819, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOSAVBB12A8C13D255
+start_of_fade_out: 232.194
+tatums_confidence: shape = (1078,)
+tatums_start: shape = (1078,)
+tempo: 139.949
+time_signature: 4
+time_signature_confidence: 0.573
+title: Tüflische Plan
+track_7digitalid: 3371050
+track_id: TRAGZRR128F4295E1C
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2852
+artist_familiarity: 0.506126773892
+artist_hotttnesss: 0.350787890875
+artist_id: AR5GLIU1187FB4638A
+artist_latitude: nan
+artist_location: Memphis, TN
+artist_longitude: nan
+artist_mbid: a147eefb-0e07-432d-bd1f-8edf7679a7da
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Memphis Jug Band
+artist_playmeid: 21159
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 1a1e62be269e5607b2c14e869330004c
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (335,)
+beats_start: shape = (335,)
+danceability: 0.0
+duration: 146.15465
+end_of_fade_in: 0.427
+energy: 0.0
+key: 1
+key_confidence: 0.255
+loudness: -21.852
+mode: 1
+mode_confidence: 0.523
+release: Jug Band Waltz
+release_7digitalid: 477362
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (458,)
+segments_loudness_max: shape = (458,)
+segments_loudness_max_time: shape = (458,)
+segments_loudness_start: shape = (458,)
+segments_pitches: shape = (458, 12)
+segments_start: shape = (458,)
+segments_timbre: shape = (458, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQHIVE12A8C143339
+start_of_fade_out: 138.553
+tatums_confidence: shape = (669,)
+tatums_start: shape = (669,)
+tempo: 143.031
+time_signature: 4
+time_signature_confidence: 0.434
+title: Going Back To Memphis
+track_7digitalid: 5299516
+track_id: TRATTRX128F92E764F
+year: 2001

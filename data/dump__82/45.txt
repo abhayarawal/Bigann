@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12809
+artist_familiarity: 0.684894722924
+artist_hotttnesss: 0.511526435079
+artist_id: ARHPPJK1187B9AC897
+artist_latitude: nan
+artist_location: Glasgow, Scotland
+artist_longitude: nan
+artist_mbid: e6f8912b-7df9-4aae-b551-2cd03dc29588
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Teenage Fanclub
+artist_playmeid: 19870
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 56846bf646340084db353e96c31368e1
+bars_confidence: shape = (109,)
+bars_start: shape = (109,)
+beats_confidence: shape = (439,)
+beats_start: shape = (439,)
+danceability: 0.0
+duration: 221.41342
+end_of_fade_in: 0.51
+energy: 0.0
+key: 5
+key_confidence: 0.915
+loudness: -7.603
+mode: 1
+mode_confidence: 0.737
+release: Man-made
+release_7digitalid: 552550
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (845,)
+segments_loudness_max: shape = (845,)
+segments_loudness_max_time: shape = (845,)
+segments_loudness_start: shape = (845,)
+segments_pitches: shape = (845, 12)
+segments_start: shape = (845,)
+segments_timbre: shape = (845, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.585452851776
+song_id: SOUUNYT12AB0184F40
+start_of_fade_out: 210.75
+tatums_confidence: shape = (878,)
+tatums_start: shape = (878,)
+tempo: 122.002
+time_signature: 4
+time_signature_confidence: 0.909
+title: It's All In My Mind
+track_7digitalid: 6109649
+track_id: TRBCGRI128F93355E9
+year: 2005

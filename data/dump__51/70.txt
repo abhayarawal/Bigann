@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4139
+artist_familiarity: 0.690447549773
+artist_hotttnesss: 0.507781667405
+artist_id: ARBM4TC1187FB5CE98
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: eb45032c-80da-469c-be20-1d09f08ef37f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Natalie Cole
+artist_playmeid: 2221
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: e62c4eb686270c2e7ad3e29fa61eb9be
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (360,)
+beats_start: shape = (360,)
+danceability: 0.0
+duration: 194.53342
+end_of_fade_in: 0.746
+energy: 0.0
+key: 4
+key_confidence: 0.809
+loudness: -15.222
+mode: 1
+mode_confidence: 0.686
+release: Dangerous
+release_7digitalid: 460871
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (524,)
+segments_loudness_max: shape = (524,)
+segments_loudness_max_time: shape = (524,)
+segments_loudness_start: shape = (524,)
+segments_pitches: shape = (524, 12)
+segments_start: shape = (524,)
+segments_timbre: shape = (524, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOTZGNC12AB0184FE8
+start_of_fade_out: 172.013
+tatums_confidence: shape = (720,)
+tatums_start: shape = (720,)
+tempo: 115.45
+time_signature: 4
+time_signature_confidence: 0.675
+title: The Gift
+track_7digitalid: 5131765
+track_id: TRARPZT128F932AD66
+year: 1985

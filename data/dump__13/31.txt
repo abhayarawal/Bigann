@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 68306
+artist_familiarity: 0.330139596904
+artist_hotttnesss: 0.249127455013
+artist_id: ARP90NR1187B990ECA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: afad957d-b11c-435d-90f6-ab54728351cb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Rene Touzet
+artist_playmeid: 50951
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: b1bf79b57eb4e7fdacaad20d0a1ea2a2
+bars_confidence: shape = (133,)
+bars_start: shape = (133,)
+beats_confidence: shape = (537,)
+beats_start: shape = (537,)
+danceability: 0.0
+duration: 288.33914
+end_of_fade_in: 0.368
+energy: 0.0
+key: 10
+key_confidence: 0.531
+loudness: -12.565
+mode: 1
+mode_confidence: 0.456
+release: The Best Of Rene Touzet (His Piano and  Orchestra)
+release_7digitalid: 86249
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1355,)
+segments_loudness_max: shape = (1355,)
+segments_loudness_max_time: shape = (1355,)
+segments_loudness_start: shape = (1355,)
+segments_pitches: shape = (1355, 12)
+segments_start: shape = (1355,)
+segments_timbre: shape = (1355, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHXTED12A8C132856
+start_of_fade_out: 283.202
+tatums_confidence: shape = (1611,)
+tatums_start: shape = (1611,)
+tempo: 112.067
+time_signature: 4
+time_signature_confidence: 1.0
+title: Mi Son Maracaibo
+track_7digitalid: 903938
+track_id: TRAEMRI128F425F33D
+year: 0

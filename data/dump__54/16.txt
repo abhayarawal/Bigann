@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7338
+artist_familiarity: 0.905776888666
+artist_hotttnesss: 0.598458500982
+artist_id: ARK9TRQ1187B99C095
+artist_latitude: 41.50471
+artist_location: Cleveland, OH
+artist_longitude: -81.69074
+artist_mbid: b7ffd2af-418f-4be2-bdd1-22f8b48613da
+artist_mbtags: shape = (12,)
+artist_mbtags_count: shape = (12,)
+artist_name: Nine Inch Nails
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 1efa308ce1167fa362e0746792acc637
+bars_confidence: shape = (113,)
+bars_start: shape = (113,)
+beats_confidence: shape = (342,)
+beats_start: shape = (342,)
+danceability: 0.0
+duration: 242.96444
+end_of_fade_in: 3.733
+energy: 0.0
+key: 11
+key_confidence: 0.719
+loudness: -10.149
+mode: 1
+mode_confidence: 0.42
+release: Pretty Hate Machine
+release_7digitalid: 497885
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (1189,)
+segments_loudness_max: shape = (1189,)
+segments_loudness_max_time: shape = (1189,)
+segments_loudness_start: shape = (1189,)
+segments_pitches: shape = (1189, 12)
+segments_start: shape = (1189,)
+segments_timbre: shape = (1189, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGZAAR12AB01849A4
+start_of_fade_out: 231.474
+tatums_confidence: shape = (1027,)
+tatums_start: shape = (1027,)
+tempo: 85.599
+time_signature: 3
+time_signature_confidence: 1.0
+title: Sin
+track_7digitalid: 5514614
+track_id: TRASNRV128F931AE2E
+year: 1989

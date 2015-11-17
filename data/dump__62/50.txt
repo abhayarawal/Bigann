@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 321378
+artist_familiarity: 0.418255214612
+artist_hotttnesss: 0.333652066527
+artist_id: ARTPDRF1187B9A46DB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f495225d-4e26-4d04-a0c5-8d53f5a40624
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Vic Chou
+artist_playmeid: 145109
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 348c542b9162dc853587e087b66473a8
+bars_confidence: shape = (65,)
+bars_start: shape = (65,)
+beats_confidence: shape = (463,)
+beats_start: shape = (463,)
+danceability: 0.0
+duration: 271.41179
+end_of_fade_in: 0.479
+energy: 0.0
+key: 8
+key_confidence: 0.0
+loudness: -6.114
+mode: 1
+mode_confidence: 0.2
+release: Vic Chou 2001 - 2009 The Best Collection
+release_7digitalid: 475494
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (854,)
+segments_loudness_max: shape = (854,)
+segments_loudness_max_time: shape = (854,)
+segments_loudness_start: shape = (854,)
+segments_pitches: shape = (854, 12)
+segments_start: shape = (854,)
+segments_timbre: shape = (854, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJTWAZ12A8C144E69
+start_of_fade_out: 262.751
+tatums_confidence: shape = (926,)
+tatums_start: shape = (926,)
+tempo: 105.062
+time_signature: 7
+time_signature_confidence: 0.511
+title: Ni De Ti Wen
+track_7digitalid: 5280889
+track_id: TRAVKQF128F92E2FC1
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18353
+artist_familiarity: 0.609123874818
+artist_hotttnesss: 0.462367839987
+artist_id: ARCEEC91187B9AC4FB
+artist_latitude: 44.97903
+artist_location: Minneapolis, MN
+artist_longitude: -93.26493
+artist_mbid: fc4af92a-1aa8-4f35-9aea-29b2ecbe0779
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Alexander O'Neal
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 403a21348f236f533aafb3889c3dc877
+bars_confidence: shape = (149,)
+bars_start: shape = (149,)
+beats_confidence: shape = (601,)
+beats_start: shape = (601,)
+danceability: 0.0
+duration: 301.45261
+end_of_fade_in: 7.036
+energy: 0.0
+key: 9
+key_confidence: 0.0
+loudness: -8.326
+mode: 1
+mode_confidence: 0.339
+release: Alex Loves...
+release_7digitalid: 192588
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1072,)
+segments_loudness_max: shape = (1072,)
+segments_loudness_max_time: shape = (1072,)
+segments_loudness_start: shape = (1072,)
+segments_pitches: shape = (1072, 12)
+segments_start: shape = (1072,)
+segments_timbre: shape = (1072, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.741621753899
+song_id: SOABRXK12A8C130A36
+start_of_fade_out: 297.39
+tatums_confidence: shape = (1202,)
+tatums_start: shape = (1202,)
+tempo: 117.949
+time_signature: 4
+time_signature_confidence: 1.0
+title: Saturday Love
+track_7digitalid: 2094108
+track_id: TRBCWPC128F42438DF
+year: 2008

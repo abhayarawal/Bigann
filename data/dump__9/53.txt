@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 43845
+artist_familiarity: 0.50948102735
+artist_hotttnesss: 0.386292984094
+artist_id: ARS8VY21187B990549
+artist_latitude: 40.19316
+artist_location: MUNCIE, Indiana
+artist_longitude: -85.38173
+artist_mbid: 19b354e5-3036-4923-9db7-b6949123c8b8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ray Boltz & Steve Millikan
+artist_playmeid: 37866
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 93ede3814467317f0dda32917592e221
+bars_confidence: shape = (130,)
+bars_start: shape = (130,)
+beats_confidence: shape = (524,)
+beats_start: shape = (524,)
+danceability: 0.0
+duration: 245.62893
+end_of_fade_in: 0.74
+energy: 0.0
+key: 1
+key_confidence: 0.563
+loudness: -10.551
+mode: 1
+mode_confidence: 0.536
+release: 16 Great Christmas Classics Volume 3
+release_7digitalid: 605642
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (661,)
+segments_loudness_max: shape = (661,)
+segments_loudness_max_time: shape = (661,)
+segments_loudness_start: shape = (661,)
+segments_pitches: shape = (661, 12)
+segments_start: shape = (661,)
+segments_timbre: shape = (661, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOACCCG12AC468C7BC
+start_of_fade_out: 233.883
+tatums_confidence: shape = (1048,)
+tatums_start: shape = (1048,)
+tempo: 133.318
+time_signature: 4
+time_signature_confidence: 0.528
+title: Perfect Tree
+track_7digitalid: 6728766
+track_id: TRADDPM12903CFED88
+year: 0

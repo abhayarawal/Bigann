@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 56379
+artist_familiarity: 0.559317502412
+artist_hotttnesss: 0.437001918653
+artist_id: ARDK87R1187B98D51C
+artist_latitude: nan
+artist_location: San Francisco, CA
+artist_longitude: nan
+artist_mbid: c826bda4-4f4f-4746-81ba-5f66ac9c95e5
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Flamin' Groovies
+artist_playmeid: 40420
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 22e9aabd53e0ca84e465d29c55d16be5
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (318,)
+beats_start: shape = (318,)
+danceability: 0.0
+duration: 207.28118
+end_of_fade_in: 0.386
+energy: 0.0
+key: 1
+key_confidence: 0.358
+loudness: -10.179
+mode: 1
+mode_confidence: 0.296
+release: Kicks
+release_7digitalid: 75273
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (594,)
+segments_loudness_max: shape = (594,)
+segments_loudness_max_time: shape = (594,)
+segments_loudness_start: shape = (594,)
+segments_pitches: shape = (594, 12)
+segments_start: shape = (594,)
+segments_timbre: shape = (594, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.319565986883
+song_id: SOYFPUW12A6D223ADC
+start_of_fade_out: 200.754
+tatums_confidence: shape = (635,)
+tatums_start: shape = (635,)
+tempo: 94.15
+time_signature: 4
+time_signature_confidence: 0.916
+title: Call Me Lightning
+track_7digitalid: 778614
+track_id: TRBHQMU128EF34F6BE
+year: 0

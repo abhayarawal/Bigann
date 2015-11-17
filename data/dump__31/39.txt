@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4691
+artist_familiarity: 0.831928824933
+artist_hotttnesss: 0.594627866944
+artist_id: ARZQ7QA1187B9AD08B
+artist_latitude: nan
+artist_location: Minneapolis, MN
+artist_longitude: nan
+artist_mbid: 070d193a-845c-479f-980e-bef15710653e
+artist_mbtags: shape = (14,)
+artist_mbtags_count: shape = (14,)
+artist_name: Prince
+artist_playmeid: 1290
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 413d95fab8e045ad643311e4472de40f
+bars_confidence: shape = (104,)
+bars_start: shape = (104,)
+beats_confidence: shape = (418,)
+beats_start: shape = (418,)
+danceability: 0.0
+duration: 210.70322
+end_of_fade_in: 4.365
+energy: 0.0
+key: 4
+key_confidence: 0.11
+loudness: -9.754
+mode: 1
+mode_confidence: 0.491
+release: The Hits/The B-Sides 3
+release_7digitalid: 53746
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (818,)
+segments_loudness_max: shape = (818,)
+segments_loudness_max_time: shape = (818,)
+segments_loudness_start: shape = (818,)
+segments_pitches: shape = (818, 12)
+segments_start: shape = (818,)
+segments_timbre: shape = (818, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.492713639573
+song_id: SOIRBSI12A58A7A859
+start_of_fade_out: 203.314
+tatums_confidence: shape = (836,)
+tatums_start: shape = (836,)
+tempo: 119.956
+time_signature: 4
+time_signature_confidence: 0.973
+title: Escape ( LP Version)
+track_7digitalid: 560534
+track_id: TRAKQEA128F1495E21
+year: 0

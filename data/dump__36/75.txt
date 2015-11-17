@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7606
+artist_familiarity: 0.791465542177
+artist_hotttnesss: 0.477889303916
+artist_id: ARRJ3UC1187FB579D7
+artist_latitude: nan
+artist_location: Croix-des-Bouquets,  Haiti
+artist_longitude: nan
+artist_mbid: 4f29ecd7-21a5-4c03-b9ba-d0cfe9488f8c
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Wyclef Jean
+artist_playmeid: 1706
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 626d1cec1a3ac19384254150ef23f1f8
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (410,)
+beats_start: shape = (410,)
+danceability: 0.0
+duration: 287.50322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.945
+loudness: -6.748
+mode: 1
+mode_confidence: 0.574
+release: CARNIVAL VOL. II Memoirs of an Immigrant
+release_7digitalid: 280392
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1219,)
+segments_loudness_max: shape = (1219,)
+segments_loudness_max_time: shape = (1219,)
+segments_loudness_start: shape = (1219,)
+segments_pitches: shape = (1219, 12)
+segments_start: shape = (1219,)
+segments_timbre: shape = (1219, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBGPAH12A58A78C55
+start_of_fade_out: 253.376
+tatums_confidence: shape = (1639,)
+tatums_start: shape = (1639,)
+tempo: 85.964
+time_signature: 4
+time_signature_confidence: 0.845
+title: Heaven's In New York
+track_7digitalid: 3124880
+track_id: TRAMMDM128F425EAA9
+year: 2007

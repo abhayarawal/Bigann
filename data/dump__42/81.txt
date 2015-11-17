@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4779
+artist_familiarity: 0.586948318408
+artist_hotttnesss: 0.43205407899
+artist_id: ARGJ0911187FB4613F
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 3aeb9e89-4fc3-46f4-a5a8-cf6c1b7e66a0
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Maria Muldaur
+artist_playmeid: 41489
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: a36cc20718087631bcfaebb838ad9482
+bars_confidence: shape = (172,)
+bars_start: shape = (172,)
+beats_confidence: shape = (691,)
+beats_start: shape = (691,)
+danceability: 0.0
+duration: 288.41751
+end_of_fade_in: 0.421
+energy: 0.0
+key: 9
+key_confidence: 0.629
+loudness: -10.861
+mode: 1
+mode_confidence: 0.593
+release: Rhino Hi-Five: Maria Muldaur
+release_7digitalid: 46654
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (853,)
+segments_loudness_max: shape = (853,)
+segments_loudness_max_time: shape = (853,)
+segments_loudness_start: shape = (853,)
+segments_pitches: shape = (853, 12)
+segments_start: shape = (853,)
+segments_timbre: shape = (853, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOWQIEL12A6D4FA13E
+start_of_fade_out: 278.46
+tatums_confidence: shape = (1381,)
+tatums_start: shape = (1381,)
+tempo: 146.936
+time_signature: 4
+time_signature_confidence: 0.161
+title: Sweet Harmony (LP Version)
+track_7digitalid: 498547
+track_id: TRAOOQT128F148B557
+year: 0

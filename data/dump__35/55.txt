@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 186580
+artist_familiarity: 0.571046819388
+artist_hotttnesss: 0.41676210035
+artist_id: ARS6L1E1187FB585B6
+artist_latitude: 52.3667
+artist_location: M�th, Germany
+artist_longitude: 9.3667
+artist_mbid: fd09d776-ddfd-4558-afe7-814420d704ed
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Karlheinz Stockhausen
+artist_playmeid: -1
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 4a314a6757b5473d259bcdf91f5976fa
+bars_confidence: shape = (139,)
+bars_start: shape = (139,)
+beats_confidence: shape = (443,)
+beats_start: shape = (443,)
+danceability: 0.0
+duration: 277.18485
+end_of_fade_in: 0.502
+energy: 0.0
+key: 9
+key_confidence: 0.629
+loudness: -31.109
+mode: 0
+mode_confidence: 0.651
+release: Stockhausen - MANTRA
+release_7digitalid: 241204
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (660,)
+segments_loudness_max: shape = (660,)
+segments_loudness_max_time: shape = (660,)
+segments_loudness_start: shape = (660,)
+segments_pitches: shape = (660, 12)
+segments_start: shape = (660,)
+segments_timbre: shape = (660, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHVQUV12A8C131A69
+start_of_fade_out: 269.351
+tatums_confidence: shape = (886,)
+tatums_start: shape = (886,)
+tempo: 95.13
+time_signature: 3
+time_signature_confidence: 0.802
+title: 02'-15'
+track_7digitalid: 2631148
+track_id: TRAMCUA128F4238312
+year: 0

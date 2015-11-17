@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 302902
+artist_familiarity: nan
+artist_hotttnesss: 0.0
+artist_id: ARPWMGF1269FB25878
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Yiannis Tassios
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 46e50575045fc9d8370613cc6d95b3bb
+bars_confidence: shape = (162,)
+bars_start: shape = (162,)
+beats_confidence: shape = (649,)
+beats_start: shape = (649,)
+danceability: 0.0
+duration: 208.1171
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.795
+loudness: -7.399
+mode: 1
+mode_confidence: 0.696
+release: Ena Fili
+release_7digitalid: 527501
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (938,)
+segments_loudness_max: shape = (938,)
+segments_loudness_max_time: shape = (938,)
+segments_loudness_start: shape = (938,)
+segments_pitches: shape = (938, 12)
+segments_start: shape = (938,)
+segments_timbre: shape = (938, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQGYLZ12A8C1445A1
+start_of_fade_out: 203.848
+tatums_confidence: shape = (1299,)
+tatums_start: shape = (1299,)
+tempo: 190.035
+time_signature: 4
+time_signature_confidence: 0.978
+title: Ti Patheno
+track_7digitalid: 5829054
+track_id: TRAMGTG128F92F184A
+year: 0

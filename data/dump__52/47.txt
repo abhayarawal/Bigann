@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 93561
+artist_familiarity: 0.625157654058
+artist_hotttnesss: 0.35975724385
+artist_id: AREHMUC1187B98B91B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: eed40f68-fb41-41c9-81f4-df9db9968146
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Java
+artist_playmeid: 30570
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 3f7f05648855f1098713b538ed98e47f
+bars_confidence: shape = (306,)
+bars_start: shape = (306,)
+beats_confidence: shape = (923,)
+beats_start: shape = (923,)
+danceability: 0.0
+duration: 304.16934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.585
+loudness: -6.997
+mode: 0
+mode_confidence: 0.566
+release: Java Sur Seine
+release_7digitalid: 332618
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1364,)
+segments_loudness_max: shape = (1364,)
+segments_loudness_max_time: shape = (1364,)
+segments_loudness_start: shape = (1364,)
+segments_pitches: shape = (1364, 12)
+segments_start: shape = (1364,)
+segments_timbre: shape = (1364, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUPQHK12AB017CC62
+start_of_fade_out: 304.169
+tatums_confidence: shape = (1847,)
+tatums_start: shape = (1847,)
+tempo: 183.881
+time_signature: 3
+time_signature_confidence: 0.998
+title: Pépètes
+track_7digitalid: 3728346
+track_id: TRARWXU128F92EC637
+year: 0

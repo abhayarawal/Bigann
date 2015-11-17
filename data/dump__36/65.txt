@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 308227
+artist_familiarity: 0.59541445909
+artist_hotttnesss: 0.417098859814
+artist_id: ARL62M311C8A4213F2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7700b801-de15-4c91-a641-387839e371e2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Katie Armiger
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: cef1e2e63fcf2b6dd8d74cfd69988501
+bars_confidence: shape = (122,)
+bars_start: shape = (122,)
+beats_confidence: shape = (491,)
+beats_start: shape = (491,)
+danceability: 0.0
+duration: 204.22485
+end_of_fade_in: 0.142
+energy: 0.0
+key: 9
+key_confidence: 0.388
+loudness: -5.231
+mode: 1
+mode_confidence: 0.517
+release: Believe
+release_7digitalid: 556209
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (656,)
+segments_loudness_max: shape = (656,)
+segments_loudness_max_time: shape = (656,)
+segments_loudness_start: shape = (656,)
+segments_pitches: shape = (656, 12)
+segments_start: shape = (656,)
+segments_timbre: shape = (656, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.427446571488
+song_id: SOMRPXI12AB018788D
+start_of_fade_out: 196.162
+tatums_confidence: shape = (982,)
+tatums_start: shape = (982,)
+tempo: 150.085
+time_signature: 4
+time_signature_confidence: 0.064
+title: Movin On
+track_7digitalid: 6150925
+track_id: TRAMLPB128F933F690
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4370
+artist_familiarity: 0.726959806261
+artist_hotttnesss: 0.45686542035
+artist_id: AROLDZG1187FB50AFB
+artist_latitude: nan
+artist_location: Aberdeen, WA
+artist_longitude: nan
+artist_mbid: 9ccfbc94-a4f4-42f7-b6f5-d903ab77cccb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Melvins
+artist_playmeid: 41517
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 4d7c0da584204c202b975f114974fb2b
+bars_confidence: shape = (97,)
+bars_start: shape = (97,)
+beats_confidence: shape = (393,)
+beats_start: shape = (393,)
+danceability: 0.0
+duration: 217.80853
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.776
+loudness: -7.616
+mode: 1
+mode_confidence: 0.486
+release: Nude With Boots
+release_7digitalid: 373072
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (579,)
+segments_loudness_max: shape = (579,)
+segments_loudness_max_time: shape = (579,)
+segments_loudness_start: shape = (579,)
+segments_pitches: shape = (579, 12)
+segments_start: shape = (579,)
+segments_timbre: shape = (579, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.703966084676
+song_id: SOCYZTH12AF72A6CCF
+start_of_fade_out: 193.173
+tatums_confidence: shape = (787,)
+tatums_start: shape = (787,)
+tempo: 113.386
+time_signature: 4
+time_signature_confidence: 0.0
+title: Nude With Boots
+track_7digitalid: 4153921
+track_id: TRBAIDT128F92CC7ED
+year: 2008

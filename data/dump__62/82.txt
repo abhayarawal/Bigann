@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 258782
+artist_familiarity: 0.596764436831
+artist_hotttnesss: 0.492187900753
+artist_id: ARYRDLN12592CDBB85
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2834bd83-3101-45c0-9ae3-c2d9cea20415
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: V V Brown
+artist_playmeid: 194297
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: f2044a49c90d953422aacd79bb1b3cb9
+bars_confidence: shape = (66,)
+bars_start: shape = (66,)
+beats_confidence: shape = (335,)
+beats_start: shape = (335,)
+danceability: 0.0
+duration: 203.31057
+end_of_fade_in: 0.63
+energy: 0.0
+key: 2
+key_confidence: 0.382
+loudness: -6.452
+mode: 0
+mode_confidence: 0.381
+release: LEAVE!
+release_7digitalid: 391819
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (833,)
+segments_loudness_max: shape = (833,)
+segments_loudness_max_time: shape = (833,)
+segments_loudness_start: shape = (833,)
+segments_pitches: shape = (833, 12)
+segments_start: shape = (833,)
+segments_timbre: shape = (833, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.747654675026
+song_id: SOUWYFC12AB0181DAD
+start_of_fade_out: 199.053
+tatums_confidence: shape = (1004,)
+tatums_start: shape = (1004,)
+tempo: 100.009
+time_signature: 5
+time_signature_confidence: 0.528
+title: LEAVE!
+track_7digitalid: 4345479
+track_id: TRAVNUK128F92F274F
+year: 2009

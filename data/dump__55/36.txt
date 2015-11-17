@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 48634
+artist_familiarity: 0.548672435741
+artist_hotttnesss: 0.35850092274
+artist_id: ARGDY4Y1187B9A334F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: acefd28a-0735-4b1a-827d-bfa355611f55
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pyranja
+artist_playmeid: -1
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 66d1739b745a4f17ca3df690bef89b0c
+bars_confidence: shape = (190,)
+bars_start: shape = (190,)
+beats_confidence: shape = (190,)
+beats_start: shape = (190,)
+danceability: 0.0
+duration: 167.54893
+end_of_fade_in: 0.258
+energy: 0.0
+key: 4
+key_confidence: 0.449
+loudness: -5.907
+mode: 0
+mode_confidence: 0.374
+release: Nie Wieder
+release_7digitalid: 714552
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (664,)
+segments_loudness_max: shape = (664,)
+segments_loudness_max_time: shape = (664,)
+segments_loudness_start: shape = (664,)
+segments_pitches: shape = (664, 12)
+segments_start: shape = (664,)
+segments_timbre: shape = (664, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBHTKX12AB01881B6
+start_of_fade_out: 154.912
+tatums_confidence: shape = (949,)
+tatums_start: shape = (949,)
+tempo: 68.86
+time_signature: 1
+time_signature_confidence: 0.996
+title: Nie Wieder (Live Version)
+track_7digitalid: 7925044
+track_id: TRASXPE12903CBE1D2
+year: 2006

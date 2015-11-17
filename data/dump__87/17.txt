@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 171583
+artist_familiarity: 0.494073815045
+artist_hotttnesss: 0.328073304913
+artist_id: ARUZL121187FB4B42D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 656a129f-fb76-49b6-ad33-2573564f6c22
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: True Believers
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: a3b4dd3dc2f8d26d3c4c769614f2f078
+bars_confidence: shape = (104,)
+bars_start: shape = (104,)
+beats_confidence: shape = (428,)
+beats_start: shape = (428,)
+danceability: 0.0
+duration: 258.0371
+end_of_fade_in: 0.177
+energy: 0.0
+key: 11
+key_confidence: 0.72
+loudness: -5.997
+mode: 1
+mode_confidence: 0.636
+release: In This Place
+release_7digitalid: 235400
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (988,)
+segments_loudness_max: shape = (988,)
+segments_loudness_max_time: shape = (988,)
+segments_loudness_start: shape = (988,)
+segments_pitches: shape = (988, 12)
+segments_start: shape = (988,)
+segments_timbre: shape = (988, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.266381437034
+song_id: SOTEGPD12A8C135FB7
+start_of_fade_out: 253.01
+tatums_confidence: shape = (856,)
+tatums_start: shape = (856,)
+tempo: 97.979
+time_signature: 4
+time_signature_confidence: 0.469
+title: Just Look At the Blessing
+track_7digitalid: 2705241
+track_id: TRBDYAC128F4249498
+year: 0

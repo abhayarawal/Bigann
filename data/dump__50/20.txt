@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 49563
+artist_familiarity: 0.510208283791
+artist_hotttnesss: 0.351652333877
+artist_id: AR812NT1187B9A0355
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e840065f-24f7-4395-8235-e644f5abf9b4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Stephen Warbeck
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 62e9872bf418a0ec29e397e5ef797894
+bars_confidence: shape = (54,)
+bars_start: shape = (54,)
+beats_confidence: shape = (224,)
+beats_start: shape = (224,)
+danceability: 0.0
+duration: 123.68934
+end_of_fade_in: 0.474
+energy: 0.0
+key: 9
+key_confidence: 0.459
+loudness: -16.039
+mode: 0
+mode_confidence: 0.513
+release: Dreamkeeper
+release_7digitalid: 64144
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (244,)
+segments_loudness_max: shape = (244,)
+segments_loudness_max_time: shape = (244,)
+segments_loudness_start: shape = (244,)
+segments_pitches: shape = (244, 12)
+segments_start: shape = (244,)
+segments_timbre: shape = (244, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLCSWD12A6D4FA136
+start_of_fade_out: 111.137
+tatums_confidence: shape = (447,)
+tatums_start: shape = (447,)
+tempo: 116.259
+time_signature: 4
+time_signature_confidence: 0.386
+title: Birth Of The Falls
+track_7digitalid: 664815
+track_id: TRARBLB128F14AD018
+year: 2003

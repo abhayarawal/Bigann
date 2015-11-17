@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 38573
+artist_familiarity: 0.512740226328
+artist_hotttnesss: 0.301246881416
+artist_id: ARHCERP1187B9912A5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2fa7f0b7-2686-4e80-a75a-762f65ba9fe2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Glen Washington
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 8e2f743083ced6027f26262da3ed4962
+bars_confidence: shape = (127,)
+bars_start: shape = (127,)
+beats_confidence: shape = (640,)
+beats_start: shape = (640,)
+danceability: 0.0
+duration: 237.19138
+end_of_fade_in: 0.193
+energy: 0.0
+key: 5
+key_confidence: 0.542
+loudness: -7.485
+mode: 1
+mode_confidence: 0.503
+release: Number One Girl
+release_7digitalid: 420109
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (986,)
+segments_loudness_max: shape = (986,)
+segments_loudness_max_time: shape = (986,)
+segments_loudness_start: shape = (986,)
+segments_pitches: shape = (986, 12)
+segments_start: shape = (986,)
+segments_timbre: shape = (986, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.327736683178
+song_id: SOTLPCJ12AB0189D0C
+start_of_fade_out: 237.191
+tatums_confidence: shape = (1279,)
+tatums_start: shape = (1279,)
+tempo: 161.961
+time_signature: 5
+time_signature_confidence: 0.291
+title: Number One Girl
+track_7digitalid: 4681358
+track_id: TRBHGJL128F93368A7
+year: 0

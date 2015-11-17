@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 983
+artist_familiarity: 0.741518130043
+artist_hotttnesss: 0.520412110054
+artist_id: AR1ZKBE1187FB53629
+artist_latitude: nan
+artist_location: D�orf, Germany
+artist_longitude: nan
+artist_mbid: 5700dcd4-c139-4f31-aa3e-6382b9af9032
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Kraftwerk
+artist_playmeid: 881
+artist_terms: shape = (62,)
+artist_terms_freq: shape = (62,)
+artist_terms_weight: shape = (62,)
+audio_md5: d36f26600740013b043cfcf55028a0d3
+bars_confidence: shape = (147,)
+bars_start: shape = (147,)
+beats_confidence: shape = (603,)
+beats_start: shape = (603,)
+danceability: 0.0
+duration: 272.03873
+end_of_fade_in: 0.311
+energy: 0.0
+key: 3
+key_confidence: 0.482
+loudness: -8.801
+mode: 1
+mode_confidence: 0.52
+release: The Mix (2009 Digital Remaster)
+release_7digitalid: 622906
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1358,)
+segments_loudness_max: shape = (1358,)
+segments_loudness_max_time: shape = (1358,)
+segments_loudness_start: shape = (1358,)
+segments_pitches: shape = (1358, 12)
+segments_start: shape = (1358,)
+segments_timbre: shape = (1358, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.596027887795
+song_id: SOXOUJH12A6D4FC39B
+start_of_fade_out: 272.039
+tatums_confidence: shape = (1206,)
+tatums_start: shape = (1206,)
+tempo: 132.026
+time_signature: 4
+time_signature_confidence: 0.784
+title: Pocket Calculator (2009 Digital Remaster)
+track_7digitalid: 6915600
+track_id: TRAIIRA128F931140A
+year: 0

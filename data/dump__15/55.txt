@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17864
+artist_familiarity: 0.62096398106
+artist_hotttnesss: 0.413254693459
+artist_id: ARLAWDD1187FB48367
+artist_latitude: nan
+artist_location:  
+artist_longitude: nan
+artist_mbid: ac367c2e-7783-41e5-a184-131da6b0c166
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Carlos Vives
+artist_playmeid: 1773
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 426a7df102e8253a0bcbc1f396ba6da1
+bars_confidence: shape = (185,)
+bars_start: shape = (185,)
+beats_confidence: shape = (560,)
+beats_start: shape = (560,)
+danceability: 0.0
+duration: 262.24281
+end_of_fade_in: 0.218
+energy: 0.0
+key: 0
+key_confidence: 0.423
+loudness: -8.285
+mode: 1
+mode_confidence: 0.53
+release: Coleccion de Oro
+release_7digitalid: 507337
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (794,)
+segments_loudness_max: shape = (794,)
+segments_loudness_max_time: shape = (794,)
+segments_loudness_start: shape = (794,)
+segments_pitches: shape = (794, 12)
+segments_start: shape = (794,)
+segments_timbre: shape = (794, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SOZKQVH12AB01802D8
+start_of_fade_out: 255.176
+tatums_confidence: shape = (1120,)
+tatums_start: shape = (1120,)
+tempo: 130.513
+time_signature: 3
+time_signature_confidence: 0.438
+title: Si Es Que Te Vas
+track_7digitalid: 5615325
+track_id: TRAFHWP128F9333343
+year: 2000

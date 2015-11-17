@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9766
+artist_familiarity: 0.426882762347
+artist_hotttnesss: 0.333303418273
+artist_id: ARBB58Y1187B9B621B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1c701b15-54f5-4de2-8e17-1a9e3b167a6b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bill & Gloria Gaither
+artist_playmeid: 61305
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: d251f5ba44e4dc1e06d29fff20f2e5a3
+bars_confidence: shape = (141,)
+bars_start: shape = (141,)
+beats_confidence: shape = (569,)
+beats_start: shape = (569,)
+danceability: 0.0
+duration: 235.78077
+end_of_fade_in: 0.2
+energy: 0.0
+key: 2
+key_confidence: 0.606
+loudness: -9.456
+mode: 1
+mode_confidence: 0.529
+release: Reunion
+release_7digitalid: 550685
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (731,)
+segments_loudness_max: shape = (731,)
+segments_loudness_max_time: shape = (731,)
+segments_loudness_start: shape = (731,)
+segments_pitches: shape = (731, 12)
+segments_start: shape = (731,)
+segments_timbre: shape = (731, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODAABR12A58A7A953
+start_of_fade_out: 226.511
+tatums_confidence: shape = (1139,)
+tatums_start: shape = (1139,)
+tempo: 145.907
+time_signature: 4
+time_signature_confidence: 0.314
+title: I Never Shall Forget That Day (Reunion Album Version)
+track_7digitalid: 6085442
+track_id: TRBCFUZ128F932F797
+year: 0

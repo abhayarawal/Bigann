@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 975
+artist_familiarity: 0.648902582007
+artist_hotttnesss: 0.440835006713
+artist_id: ARP07GD1187B9B9DA4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0ef70a3e-fcd9-4de2-bfc9-a3e5ce99f380
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Los Originales De San Juan
+artist_playmeid: 11015
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 3c304bcaae5febe81cc8a280866c0eca
+bars_confidence: shape = (130,)
+bars_start: shape = (130,)
+beats_confidence: shape = (394,)
+beats_start: shape = (394,)
+danceability: 0.0
+duration: 199.07873
+end_of_fade_in: 0.113
+energy: 0.0
+key: 4
+key_confidence: 0.744
+loudness: -6.641
+mode: 1
+mode_confidence: 0.411
+release: Lo Mejor De Los Originales
+release_7digitalid: 275941
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (920,)
+segments_loudness_max: shape = (920,)
+segments_loudness_max_time: shape = (920,)
+segments_loudness_start: shape = (920,)
+segments_pitches: shape = (920, 12)
+segments_start: shape = (920,)
+segments_timbre: shape = (920, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOPWVGR12A8AE46957
+start_of_fade_out: 192.377
+tatums_confidence: shape = (787,)
+tatums_start: shape = (787,)
+tempo: 123.335
+time_signature: 3
+time_signature_confidence: 0.94
+title: Soy De Oaxaca
+track_7digitalid: 3074013
+track_id: TRBCJQW128F4253E5F
+year: 0

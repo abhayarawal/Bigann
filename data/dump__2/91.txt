@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 79228
+artist_familiarity: 0.48324306732
+artist_hotttnesss: 0.324430891993
+artist_id: ARH4N0N1187FB3E1F1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9a81b764-c59a-42c6-a273-9015bae6c366
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Malkit Singh
+artist_playmeid: 66601
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 3a42c81c771121a3c7dab3f70db9b6d2
+bars_confidence: shape = (280,)
+bars_start: shape = (280,)
+beats_confidence: shape = (1125,)
+beats_start: shape = (1125,)
+danceability: 0.0
+duration: 324.51873
+end_of_fade_in: 0.073
+energy: 0.0
+key: 5
+key_confidence: 0.75
+loudness: -11.273
+mode: 1
+mode_confidence: 0.675
+release: Hai Shava
+release_7digitalid: 99987
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1444,)
+segments_loudness_max: shape = (1444,)
+segments_loudness_max_time: shape = (1444,)
+segments_loudness_start: shape = (1444,)
+segments_pitches: shape = (1444, 12)
+segments_start: shape = (1444,)
+segments_timbre: shape = (1444, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHCENZ12A8C13AC85
+start_of_fade_out: 320.372
+tatums_confidence: shape = (2250,)
+tatums_start: shape = (2250,)
+tempo: 210.305
+time_signature: 4
+time_signature_confidence: 0.561
+title: Hai Shava
+track_7digitalid: 1037718
+track_id: TRAAXCM128F427F97B
+year: 1993

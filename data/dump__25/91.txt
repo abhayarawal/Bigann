@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 66534
+artist_familiarity: 0.435732003605
+artist_hotttnesss: 0.373045953823
+artist_id: ARPPTNG11F50C482A3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mercedes Castro
+artist_playmeid: 53568
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 7ca3dce896b018c05e4ff3ed89b0d2d7
+bars_confidence: shape = (116,)
+bars_start: shape = (116,)
+beats_confidence: shape = (352,)
+beats_start: shape = (352,)
+danceability: 0.0
+duration: 197.09342
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.85
+loudness: -8.593
+mode: 1
+mode_confidence: 0.658
+release: Mercedes Castro Acompañada con Mariachi Y Banda - En vivo
+release_7digitalid: 85340
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (756,)
+segments_loudness_max: shape = (756,)
+segments_loudness_max_time: shape = (756,)
+segments_loudness_start: shape = (756,)
+segments_pitches: shape = (756, 12)
+segments_start: shape = (756,)
+segments_timbre: shape = (756, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEKSLB12A6D4F56FE
+start_of_fade_out: 197.093
+tatums_confidence: shape = (703,)
+tatums_start: shape = (703,)
+tempo: 106.083
+time_signature: 3
+time_signature_confidence: 1.0
+title: El Capiro
+track_7digitalid: 893603
+track_id: TRAIRRP128EF3669DC
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 54273
+artist_familiarity: 0.847754656073
+artist_hotttnesss: 0.494206855302
+artist_id: ARJBWQI1187B9B17D1
+artist_latitude: nan
+artist_location: Orlando, FL
+artist_longitude: nan
+artist_mbid: 1f5ff245-2837-4d4a-a609-e93e544478c3
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Trivium
+artist_playmeid: 5414
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 4c9bd9894445ce93df53f898e1994e76
+bars_confidence: shape = (151,)
+bars_start: shape = (151,)
+beats_confidence: shape = (607,)
+beats_start: shape = (607,)
+danceability: 0.0
+duration: 360.75057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.821
+loudness: -3.134
+mode: 0
+mode_confidence: 0.842
+release: Ember To Inferno
+release_7digitalid: 186124
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (987,)
+segments_loudness_max: shape = (987,)
+segments_loudness_max_time: shape = (987,)
+segments_loudness_start: shape = (987,)
+segments_pitches: shape = (987, 12)
+segments_start: shape = (987,)
+segments_timbre: shape = (987, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEONAT12A8AE48F90
+start_of_fade_out: 343.133
+tatums_confidence: shape = (1213,)
+tatums_start: shape = (1213,)
+tempo: 105.54
+time_signature: 4
+time_signature_confidence: 0.473
+title: The Deceived
+track_7digitalid: 2016786
+track_id: TRAPCHT128F4239830
+year: 2004

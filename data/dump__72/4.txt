@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2130
+artist_familiarity: 0.642907249227
+artist_hotttnesss: 0.355899038459
+artist_id: AR67FTZ1187B9975EC
+artist_latitude: nan
+artist_location: NY - New York City
+artist_longitude: nan
+artist_mbid: b7590fab-4195-4056-aff1-2a3d3f4b7c84
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Maria & Margot Hellwig/Thomas Lehrberger
+artist_playmeid: 1009
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 628e0f6d191978a3f771127e3b6a7605
+bars_confidence: shape = (86,)
+bars_start: shape = (86,)
+beats_confidence: shape = (266,)
+beats_start: shape = (266,)
+danceability: 0.0
+duration: 192.78322
+end_of_fade_in: 0.316
+energy: 0.0
+key: 5
+key_confidence: 0.927
+loudness: -9.252
+mode: 1
+mode_confidence: 0.702
+release: Lieder Meines Lebens - Zum 90. Geburtstag Der Königin Der Volksmusik
+release_7digitalid: 762865
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (494,)
+segments_loudness_max: shape = (494,)
+segments_loudness_max_time: shape = (494,)
+segments_loudness_start: shape = (494,)
+segments_pitches: shape = (494, 12)
+segments_start: shape = (494,)
+segments_timbre: shape = (494, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEOVBX12AB0189E1C
+start_of_fade_out: 186.671
+tatums_confidence: shape = (532,)
+tatums_start: shape = (532,)
+tempo: 84.22
+time_signature: 3
+time_signature_confidence: 0.198
+title: La Montanara
+track_7digitalid: 8446226
+track_id: TRAYRNU12903CC63F4
+year: 0

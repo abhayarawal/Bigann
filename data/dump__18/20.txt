@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17814
+artist_familiarity: 0.656759787817
+artist_hotttnesss: 0.410477200141
+artist_id: ARFKYG51187FB4CE41
+artist_latitude: 44.64616
+artist_location: Halifax, Nova Scotia, Canada
+artist_longitude: -63.57392
+artist_mbid: 78761837-4b00-4935-b7be-601697900e66
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: April Wine
+artist_playmeid: 12976
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: a8e3b9dffa3a24c91c8316de370a9698
+bars_confidence: shape = (483,)
+bars_start: shape = (483,)
+beats_confidence: shape = (483,)
+beats_start: shape = (483,)
+danceability: 0.0
+duration: 179.04281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.983
+loudness: -13.666
+mode: 1
+mode_confidence: 0.822
+release: Harder Faster
+release_7digitalid: 25564
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (698,)
+segments_loudness_max: shape = (698,)
+segments_loudness_max_time: shape = (698,)
+segments_loudness_start: shape = (698,)
+segments_pitches: shape = (698, 12)
+segments_start: shape = (698,)
+segments_timbre: shape = (698, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.754716331597
+song_id: SOXAUYW12A6D4F7DAB
+start_of_fade_out: 171.642
+tatums_confidence: shape = (966,)
+tatums_start: shape = (966,)
+tempo: 166.036
+time_signature: 1
+time_signature_confidence: 0.0
+title: Say Hello
+track_7digitalid: 272378
+track_id: TRAGEVS128F145FEAD
+year: 1979

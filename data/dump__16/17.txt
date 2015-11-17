@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4349
+artist_familiarity: 0.838924310507
+artist_hotttnesss: 0.607792751463
+artist_id: AR1ABAO1187FB531E1
+artist_latitude: 42.33168
+artist_location: Detroit, MI
+artist_longitude: -83.04792
+artist_mbid: 4d7928cd-7ed2-4282-8c29-c0c9f966f1bd
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Alice Cooper
+artist_playmeid: 63
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 5838dc2e890a699b5b30f7f7db843d5d
+bars_confidence: shape = (446,)
+bars_start: shape = (446,)
+beats_confidence: shape = (446,)
+beats_start: shape = (446,)
+danceability: 0.0
+duration: 210.54649
+end_of_fade_in: 7.007
+energy: 0.0
+key: 1
+key_confidence: 0.171
+loudness: -12.26
+mode: 0
+mode_confidence: 0.238
+release: THE EYES OF
+release_7digitalid: 521760
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (539,)
+segments_loudness_max: shape = (539,)
+segments_loudness_max_time: shape = (539,)
+segments_loudness_start: shape = (539,)
+segments_pitches: shape = (539, 12)
+segments_start: shape = (539,)
+segments_timbre: shape = (539, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.535106024898
+song_id: SOMRBBO12A8C13F67B
+start_of_fade_out: 196.545
+tatums_confidence: shape = (446,)
+tatums_start: shape = (446,)
+tempo: 130.325
+time_signature: 1
+time_signature_confidence: 0.33
+title: This House Is Haunted
+track_7digitalid: 5767651
+track_id: TRAFMIA128F92E2B2B
+year: 2003

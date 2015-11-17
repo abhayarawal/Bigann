@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41932
+artist_familiarity: 0.803619261844
+artist_hotttnesss: 0.531213286805
+artist_id: ARFSPOV1187B9B2363
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: 28cbf94d-0700-4095-a188-37e373b069a7
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Basement Jaxx
+artist_playmeid: 169
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 0e93a144e140ab2f508265ad71393ba2
+bars_confidence: shape = (565,)
+bars_start: shape = (565,)
+beats_confidence: shape = (1699,)
+beats_start: shape = (1699,)
+danceability: 0.0
+duration: 521.79546
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.498
+loudness: -4.523
+mode: 0
+mode_confidence: 0.403
+release: Feelings Gone (feat. Sam Sparro)
+release_7digitalid: 554603
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (2561,)
+segments_loudness_max: shape = (2561,)
+segments_loudness_max_time: shape = (2561,)
+segments_loudness_start: shape = (2561,)
+segments_pitches: shape = (2561, 12)
+segments_start: shape = (2561,)
+segments_timbre: shape = (2561, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMRZTC12AB01884CC
+start_of_fade_out: 517.909
+tatums_confidence: shape = (3398,)
+tatums_start: shape = (3398,)
+tempo: 197.011
+time_signature: 3
+time_signature_confidence: 1.0
+title: Feelings Gone (feat. Sam Sparro) (Joachim Garraud Remix)
+track_7digitalid: 6132576
+track_id: TRBHFTL128F933AF4E
+year: 0

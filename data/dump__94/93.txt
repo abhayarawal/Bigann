@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17247
+artist_familiarity: 0.679616957473
+artist_hotttnesss: 0.354472191052
+artist_id: ARB3YS71187FB4E54E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ba713ef2-53b7-4990-92ff-8611dd6cb716
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tomorrow
+artist_playmeid: 99170
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 29d1b717768128aba5c5e36e760f6618
+bars_confidence: shape = (72,)
+bars_start: shape = (72,)
+beats_confidence: shape = (291,)
+beats_start: shape = (291,)
+danceability: 0.0
+duration: 113.26649
+end_of_fade_in: 0.148
+energy: 0.0
+key: 9
+key_confidence: 0.587
+loudness: -10.445
+mode: 1
+mode_confidence: 0.565
+release: Blow-Up
+release_7digitalid: 750470
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (321,)
+segments_loudness_max: shape = (321,)
+segments_loudness_max_time: shape = (321,)
+segments_loudness_start: shape = (321,)
+segments_pitches: shape = (321, 12)
+segments_start: shape = (321,)
+segments_timbre: shape = (321, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSMPOC12AB0188E55
+start_of_fade_out: 109.859
+tatums_confidence: shape = (582,)
+tatums_start: shape = (582,)
+tempo: 156.957
+time_signature: 4
+time_signature_confidence: 0.648
+title: Blow-Up (Outtake)
+track_7digitalid: 8309709
+track_id: TRBGSIG12903CA502C
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 25079
+artist_familiarity: 0.577276089132
+artist_hotttnesss: 0.376939984442
+artist_id: AREJ5K11187B993F5F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3c050ada-9db8-4e87-86fb-11c5294f9711
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: R. Carlos Nakai
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: f1e6406ac179f0b65642a1745d28281a
+bars_confidence: shape = (323,)
+bars_start: shape = (323,)
+beats_confidence: shape = (1295,)
+beats_start: shape = (1295,)
+danceability: 0.0
+duration: 551.81016
+end_of_fade_in: 0.467
+energy: 0.0
+key: 7
+key_confidence: 0.387
+loudness: -24.997
+mode: 0
+mode_confidence: 0.542
+release: Island of Bows
+release_7digitalid: 536083
+sections_confidence: shape = (23,)
+sections_start: shape = (23,)
+segments_confidence: shape = (1686,)
+segments_loudness_max: shape = (1686,)
+segments_loudness_max_time: shape = (1686,)
+segments_loudness_start: shape = (1686,)
+segments_pitches: shape = (1686, 12)
+segments_start: shape = (1686,)
+segments_timbre: shape = (1686, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SODANYE12AB0182941
+start_of_fade_out: 540.508
+tatums_confidence: shape = (2590,)
+tatums_start: shape = (2590,)
+tempo: 142.151
+time_signature: 4
+time_signature_confidence: 0.0
+title: Red Wind (World)
+track_7digitalid: 5930716
+track_id: TRAZNLA128F930A44E
+year: 1994

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 138685
+artist_familiarity: 0.207491247323
+artist_hotttnesss: 0.0
+artist_id: ARDRQOR11F4C844DA4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Nikos Kalaintzis
+artist_playmeid: 94447
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 5bf7332917f1a475fd0289cb61ae489a
+bars_confidence: shape = (126,)
+bars_start: shape = (126,)
+beats_confidence: shape = (510,)
+beats_start: shape = (510,)
+danceability: 0.0
+duration: 314.01751
+end_of_fade_in: 0.456
+energy: 0.0
+key: 0
+key_confidence: 1.0
+loudness: -14.744
+mode: 1
+mode_confidence: 0.691
+release: The Greek Folk Instruments:Santouri
+release_7digitalid: 182924
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1097,)
+segments_loudness_max: shape = (1097,)
+segments_loudness_max_time: shape = (1097,)
+segments_loudness_start: shape = (1097,)
+segments_pitches: shape = (1097, 12)
+segments_start: shape = (1097,)
+segments_timbre: shape = (1097, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZZPMT12A8AE47FF3
+start_of_fade_out: 305.569
+tatums_confidence: shape = (1021,)
+tatums_start: shape = (1021,)
+tempo: 100.441
+time_signature: 4
+time_signature_confidence: 0.802
+title: Chira
+track_7digitalid: 1976488
+track_id: TRBGDYF128F4233ED0
+year: 0

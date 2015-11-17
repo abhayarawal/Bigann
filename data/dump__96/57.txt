@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4340
+artist_familiarity: 0.626567712678
+artist_hotttnesss: 0.443847738792
+artist_id: ARVADXJ1187B99AA96
+artist_latitude: nan
+artist_location: New York, NY [The Bronx]
+artist_longitude: nan
+artist_mbid: 33d700ce-064f-44f6-ab9e-60f9eed0fca1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ace Frehley
+artist_playmeid: 12374
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 19b29d4b39b802882b5fe39bf602b88e
+bars_confidence: shape = (186,)
+bars_start: shape = (186,)
+beats_confidence: shape = (561,)
+beats_start: shape = (561,)
+danceability: 0.0
+duration: 379.32363
+end_of_fade_in: 4.696
+energy: 0.0
+key: 7
+key_confidence: 0.776
+loudness: -10.519
+mode: 1
+mode_confidence: 0.654
+release: Anomaly
+release_7digitalid: 596089
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1219,)
+segments_loudness_max: shape = (1219,)
+segments_loudness_max_time: shape = (1219,)
+segments_loudness_start: shape = (1219,)
+segments_pitches: shape = (1219, 12)
+segments_start: shape = (1219,)
+segments_timbre: shape = (1219, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.606807292841
+song_id: SOGLLEM12AB0188E6E
+start_of_fade_out: 368.141
+tatums_confidence: shape = (1684,)
+tatums_start: shape = (1684,)
+tempo: 89.965
+time_signature: 3
+time_signature_confidence: 0.657
+title: Fractured Quantum
+track_7digitalid: 6613428
+track_id: TRBHGRU12903CE2C48
+year: 2009

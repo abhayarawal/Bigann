@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 110345
+artist_familiarity: 0.545866608602
+artist_hotttnesss: 0.375362434357
+artist_id: ARH0Z131187B9B69E9
+artist_latitude: 40.8079
+artist_location: Harlem, New York, NY
+artist_longitude: -73.9454
+artist_mbid: 94ff7d3c-27e1-4628-9b81-477f911295cd
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Kool Moe Dee
+artist_playmeid: 7994
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 03156d540b2bb7f7335742d03287b2bf
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (485,)
+beats_start: shape = (485,)
+danceability: 0.0
+duration: 272.8224
+end_of_fade_in: 4.447
+energy: 0.0
+key: 1
+key_confidence: 0.341
+loudness: -11.151
+mode: 1
+mode_confidence: 0.32
+release: How Ya Like Me Now
+release_7digitalid: 326817
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1180,)
+segments_loudness_max: shape = (1180,)
+segments_loudness_max_time: shape = (1180,)
+segments_loudness_start: shape = (1180,)
+segments_pitches: shape = (1180, 12)
+segments_start: shape = (1180,)
+segments_timbre: shape = (1180, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.597339042783
+song_id: SOAKFMO12AB017DE84
+start_of_fade_out: 263.065
+tatums_confidence: shape = (1941,)
+tatums_start: shape = (1941,)
+tempo: 110.153
+time_signature: 4
+time_signature_confidence: 1.0
+title: Way Way Back
+track_7digitalid: 3679240
+track_id: TRANHQB128F92E1B21
+year: 1987

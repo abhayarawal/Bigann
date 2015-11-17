@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12853
+artist_familiarity: 0.642358176035
+artist_hotttnesss: 0.409818411456
+artist_id: ARUGX5X1187FB468C4
+artist_latitude: 34.15917
+artist_location: Encino, CA
+artist_longitude: -118.50119
+artist_mbid: eb28e896-59b8-41df-b3c2-148e68ce03eb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dino
+artist_playmeid: 458
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: ba5a69db34417efc2f4c3765efe0dda0
+bars_confidence: shape = (116,)
+bars_start: shape = (116,)
+beats_confidence: shape = (388,)
+beats_start: shape = (388,)
+danceability: 0.0
+duration: 245.39383
+end_of_fade_in: 0.183
+energy: 0.0
+key: 0
+key_confidence: 0.014
+loudness: -20.193
+mode: 1
+mode_confidence: 0.261
+release: Hits Of The 80's
+release_7digitalid: 580860
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (597,)
+segments_loudness_max: shape = (597,)
+segments_loudness_max_time: shape = (597,)
+segments_loudness_start: shape = (597,)
+segments_pitches: shape = (597, 12)
+segments_start: shape = (597,)
+segments_timbre: shape = (597, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKBBBJ12AB018A3BF
+start_of_fade_out: 229.669
+tatums_confidence: shape = (776,)
+tatums_start: shape = (776,)
+tempo: 95.179
+time_signature: 3
+time_signature_confidence: 1.0
+title: Chariots Of Fire
+track_7digitalid: 6443783
+track_id: TRACBBV12903CB9BF8
+year: 0

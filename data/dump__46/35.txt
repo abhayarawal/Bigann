@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 319490
+artist_familiarity: 0.515312738122
+artist_hotttnesss: 0.296905207386
+artist_id: ARHKW8K1187FB4C9A2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ee68644a-4f30-40ce-ac5e-969b5cc1f250
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Orbit
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: c1d939e131748381eb1a70671593ddbc
+bars_confidence: shape = (68,)
+bars_start: shape = (68,)
+beats_confidence: shape = (274,)
+beats_start: shape = (274,)
+danceability: 0.0
+duration: 183.95383
+end_of_fade_in: 0.258
+energy: 0.0
+key: 1
+key_confidence: 1.0
+loudness: -12.958
+mode: 0
+mode_confidence: 0.914
+release: La Mano
+release_7digitalid: 517989
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (581,)
+segments_loudness_max: shape = (581,)
+segments_loudness_max_time: shape = (581,)
+segments_loudness_start: shape = (581,)
+segments_pitches: shape = (581, 12)
+segments_start: shape = (581,)
+segments_timbre: shape = (581, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOVXWKR12AB018B22A
+start_of_fade_out: 177.935
+tatums_confidence: shape = (548,)
+tatums_start: shape = (548,)
+tempo: 91.488
+time_signature: 4
+time_signature_confidence: 0.0
+title: Break
+track_7digitalid: 5734070
+track_id: TRAPTYA128F934FC43
+year: 0

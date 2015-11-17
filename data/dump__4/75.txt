@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 975
+artist_familiarity: 0.648902582007
+artist_hotttnesss: 0.440835006713
+artist_id: ARP07GD1187B9B9DA4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0ef70a3e-fcd9-4de2-bfc9-a3e5ce99f380
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Los Originales De San Juan
+artist_playmeid: 11015
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: f8230ae631f7ed972a57ba3c4592e327
+bars_confidence: shape = (260,)
+bars_start: shape = (260,)
+beats_confidence: shape = (783,)
+beats_start: shape = (783,)
+danceability: 0.0
+duration: 263.6273
+end_of_fade_in: 0.409
+energy: 0.0
+key: 5
+key_confidence: 0.762
+loudness: -7.711
+mode: 1
+mode_confidence: 0.548
+release: Perro Malagradecido
+release_7digitalid: 156712
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1102,)
+segments_loudness_max: shape = (1102,)
+segments_loudness_max_time: shape = (1102,)
+segments_loudness_start: shape = (1102,)
+segments_pitches: shape = (1102, 12)
+segments_start: shape = (1102,)
+segments_timbre: shape = (1102, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCMIYJ12A8C1384E3
+start_of_fade_out: 257.051
+tatums_confidence: shape = (1566,)
+tatums_start: shape = (1566,)
+tempo: 179.502
+time_signature: 3
+time_signature_confidence: 0.685
+title: Librado Maldonado
+track_7digitalid: 1647187
+track_id: TRABNQN128F4271546
+year: 0

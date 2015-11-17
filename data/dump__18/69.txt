@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 106
+artist_familiarity: 0.843526543333
+artist_hotttnesss: 0.825639110796
+artist_id: ARUJ5A41187FB3F5F1
+artist_latitude: nan
+artist_location: Dublin, Ireland
+artist_longitude: nan
+artist_mbid: a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: U2
+artist_playmeid: 1636
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 8830ed9c885ca48f923b5acc8272ff2c
+bars_confidence: shape = (233,)
+bars_start: shape = (233,)
+beats_confidence: shape = (937,)
+beats_start: shape = (937,)
+danceability: 0.0
+duration: 316.96934
+end_of_fade_in: 3.454
+energy: 0.0
+key: 7
+key_confidence: 0.537
+loudness: -7.896
+mode: 1
+mode_confidence: 0.428
+release: No Line On The Horizon
+release_7digitalid: 394700
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1278,)
+segments_loudness_max: shape = (1278,)
+segments_loudness_max_time: shape = (1278,)
+segments_loudness_start: shape = (1278,)
+segments_pitches: shape = (1278, 12)
+segments_start: shape = (1278,)
+segments_timbre: shape = (1278, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.674436803901
+song_id: SOUATDY12AB0185157
+start_of_fade_out: 306.556
+tatums_confidence: shape = (1874,)
+tatums_start: shape = (1874,)
+tempo: 187.844
+time_signature: 4
+time_signature_confidence: 0.543
+title: FEZ-Being Born
+track_7digitalid: 4378536
+track_id: TRAGJPA128F92F9665
+year: 2009

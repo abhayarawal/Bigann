@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 457912
+artist_familiarity: 0.472943181908
+artist_hotttnesss: 0.375679999604
+artist_id: AR87ZMN1187B99689C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 23dbe738-cc98-4a4d-8236-bdf574bf0911
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Diego Verdaguer
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: bc205c6fe59ec7dcf50faf9523e0a80e
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (335,)
+beats_start: shape = (335,)
+danceability: 0.0
+duration: 171.04934
+end_of_fade_in: 0.183
+energy: 0.0
+key: 6
+key_confidence: 0.381
+loudness: -8.368
+mode: 0
+mode_confidence: 0.421
+release: Mexicano Hasta Las Pampas
+release_7digitalid: 615624
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (649,)
+segments_loudness_max: shape = (649,)
+segments_loudness_max_time: shape = (649,)
+segments_loudness_start: shape = (649,)
+segments_pitches: shape = (649, 12)
+segments_start: shape = (649,)
+segments_timbre: shape = (649, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3759843015
+song_id: SOSORMU12AAA15E6F2
+start_of_fade_out: 167.828
+tatums_confidence: shape = (671,)
+tatums_start: shape = (671,)
+tempo: 120.03
+time_signature: 4
+time_signature_confidence: 0.779
+title: Todos mentimos
+track_7digitalid: 6843821
+track_id: TRAKQHM128F92FFDCA
+year: 0

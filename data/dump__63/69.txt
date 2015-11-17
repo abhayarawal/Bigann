@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 353392
+artist_familiarity: 0.329947706739
+artist_hotttnesss: 0.223247499767
+artist_id: ARXPR8A1187FB4CC78
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2c1c5024-5737-404c-81e4-2d1c4496fc74
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bruce Katz Band
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 18c1f8a2a38945678aca8e8900e0fff2
+bars_confidence: shape = (64,)
+bars_start: shape = (64,)
+beats_confidence: shape = (326,)
+beats_start: shape = (326,)
+danceability: 0.0
+duration: 209.05751
+end_of_fade_in: 0.262
+energy: 0.0
+key: 0
+key_confidence: 0.675
+loudness: -17.216
+mode: 0
+mode_confidence: 0.424
+release: Crescent Crawl
+release_7digitalid: 477231
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (795,)
+segments_loudness_max: shape = (795,)
+segments_loudness_max_time: shape = (795,)
+segments_loudness_start: shape = (795,)
+segments_pitches: shape = (795, 12)
+segments_start: shape = (795,)
+segments_timbre: shape = (795, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTBWWI12A8C1426BE
+start_of_fade_out: 189.672
+tatums_confidence: shape = (977,)
+tatums_start: shape = (977,)
+tempo: 96.952
+time_signature: 5
+time_signature_confidence: 0.262
+title: Just An Expression
+track_7digitalid: 5297860
+track_id: TRAVVDF128F92E6FD7
+year: 0

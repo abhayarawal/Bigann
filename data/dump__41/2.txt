@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10561
+artist_familiarity: 0.559901438381
+artist_hotttnesss: 0.401239121707
+artist_id: ARUTS6Y1187FB5BDAB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e22d16ad-cb54-42f1-b67d-e5a15135c106
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Twila Paris
+artist_playmeid: 8791
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 25519b7bbb88de0d3b0fe0862782dd61
+bars_confidence: shape = (125,)
+bars_start: shape = (125,)
+beats_confidence: shape = (504,)
+beats_start: shape = (504,)
+danceability: 0.0
+duration: 290.19383
+end_of_fade_in: 0.572
+energy: 0.0
+key: 7
+key_confidence: 0.554
+loudness: -12.126
+mode: 1
+mode_confidence: 0.602
+release: Cry For The Desert
+release_7digitalid: 156787
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1047,)
+segments_loudness_max: shape = (1047,)
+segments_loudness_max_time: shape = (1047,)
+segments_loudness_start: shape = (1047,)
+segments_pitches: shape = (1047, 12)
+segments_start: shape = (1047,)
+segments_timbre: shape = (1047, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJEBLF12A8C138B50
+start_of_fade_out: 271.186
+tatums_confidence: shape = (2018,)
+tatums_start: shape = (2018,)
+tempo: 105.834
+time_signature: 4
+time_signature_confidence: 0.818
+title: How Beautiful (Cry For The Desert Album Version)
+track_7digitalid: 1648176
+track_id: TRANYLR128F4271924
+year: 1990

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 178702
+artist_familiarity: 0.622383753576
+artist_hotttnesss: 0.368196028137
+artist_id: ARAMCAZ1187B9AB6F5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3a99c1de-010b-4a93-a566-d5891c51914d
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Afrob feat. Sarah
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 02094f0dd57eb8fd8af41dfa24d99740
+bars_confidence: shape = (781,)
+bars_start: shape = (781,)
+beats_confidence: shape = (781,)
+beats_start: shape = (781,)
+danceability: 0.0
+duration: 258.19383
+end_of_fade_in: 0.183
+energy: 0.0
+key: 2
+key_confidence: 0.886
+loudness: -5.319
+mode: 1
+mode_confidence: 0.668
+release: Der Letzte seiner Art
+release_7digitalid: 564121
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1087,)
+segments_loudness_max: shape = (1087,)
+segments_loudness_max_time: shape = (1087,)
+segments_loudness_start: shape = (1087,)
+segments_pitches: shape = (1087, 12)
+segments_start: shape = (1087,)
+segments_timbre: shape = (1087, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.392008771471
+song_id: SORYSKI12AB0184790
+start_of_fade_out: 255.878
+tatums_confidence: shape = (781,)
+tatums_start: shape = (781,)
+tempo: 180.327
+time_signature: 1
+time_signature_confidence: 0.538
+title: Gief Konjunkturpaket VI
+track_7digitalid: 6243953
+track_id: TRAFQEF128F93561A7
+year: 2009

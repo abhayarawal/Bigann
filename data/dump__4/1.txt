@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 189617
+artist_familiarity: 0.338173031795
+artist_hotttnesss: 0.279901462285
+artist_id: ARQ7XJG1187B991CEC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 05e347b2-1805-45c3-be03-8b2a70bdfad3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Charanga Forever
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 6d3c9ac60f6479f61a838ce84cf9bc6e
+bars_confidence: shape = (246,)
+bars_start: shape = (246,)
+beats_confidence: shape = (1234,)
+beats_start: shape = (1234,)
+danceability: 0.0
+duration: 367.43791
+end_of_fade_in: 0.357
+energy: 0.0
+key: 1
+key_confidence: 0.173
+loudness: -6.622
+mode: 1
+mode_confidence: 0.303
+release: La Charanga Soy Yo
+release_7digitalid: 380552
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (1742,)
+segments_loudness_max: shape = (1742,)
+segments_loudness_max_time: shape = (1742,)
+segments_loudness_start: shape = (1742,)
+segments_pitches: shape = (1742, 12)
+segments_start: shape = (1742,)
+segments_timbre: shape = (1742, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SORSTBQ12A8C144986
+start_of_fade_out: 362.458
+tatums_confidence: shape = (2468,)
+tatums_start: shape = (2468,)
+tempo: 203.964
+time_signature: 5
+time_signature_confidence: 0.0
+title: Tumba Tumba
+track_7digitalid: 4226982
+track_id: TRABHTQ128F92DB038
+year: 2000

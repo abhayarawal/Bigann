@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41720
+artist_familiarity: 0.531829215775
+artist_hotttnesss: 0.345734866164
+artist_id: AR7074B1187FB4C39B
+artist_latitude: nan
+artist_location: United States
+artist_longitude: nan
+artist_mbid: 6e3ed724-c5a3-4bcd-8ebc-89da0c33b6b8
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Ann Lee
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: bc4fd384126c2dc7091d2974dcfd4bd1
+bars_confidence: shape = (121,)
+bars_start: shape = (121,)
+beats_confidence: shape = (606,)
+beats_start: shape = (606,)
+danceability: 0.0
+duration: 217.62567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.668
+loudness: -5.625
+mode: 1
+mode_confidence: 0.569
+release: 2 People
+release_7digitalid: 580757
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (960,)
+segments_loudness_max: shape = (960,)
+segments_loudness_max_time: shape = (960,)
+segments_loudness_start: shape = (960,)
+segments_pitches: shape = (960, 12)
+segments_start: shape = (960,)
+segments_timbre: shape = (960, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXFDJD12AB018580A
+start_of_fade_out: 209.763
+tatums_confidence: shape = (606,)
+tatums_start: shape = (606,)
+tempo: 170.373
+time_signature: 5
+time_signature_confidence: 1.0
+title: 2 People
+track_7digitalid: 6434380
+track_id: TRAUNOS12903CB782D
+year: 0

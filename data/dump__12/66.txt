@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 332491
+artist_familiarity: 0.488206851047
+artist_hotttnesss: 0.271250596262
+artist_id: ARYB42B1187FB37B01
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e32f569d-bcd8-4c29-95a1-b13bff72f9d5
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Les Malpolis
+artist_playmeid: -1
+artist_terms: shape = (9,)
+artist_terms_freq: shape = (9,)
+artist_terms_weight: shape = (9,)
+audio_md5: adab735c39fb248968776c841584ec0b
+bars_confidence: shape = (97,)
+bars_start: shape = (97,)
+beats_confidence: shape = (689,)
+beats_start: shape = (689,)
+danceability: 0.0
+duration: 246.69995
+end_of_fade_in: 0.229
+energy: 0.0
+key: 7
+key_confidence: 0.721
+loudness: -9.76
+mode: 1
+mode_confidence: 0.728
+release: Piédenés
+release_7digitalid: 449692
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (889,)
+segments_loudness_max: shape = (889,)
+segments_loudness_max_time: shape = (889,)
+segments_loudness_start: shape = (889,)
+segments_pitches: shape = (889, 12)
+segments_start: shape = (889,)
+segments_timbre: shape = (889, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJWNDG12AB018235E
+start_of_fade_out: 240.878
+tatums_confidence: shape = (1378,)
+tatums_start: shape = (1378,)
+tempo: 172.061
+time_signature: 7
+time_signature_confidence: 0.611
+title: Les Amours de Nathalie
+track_7digitalid: 4992336
+track_id: TRAEFPN128F930BD07
+year: 1998

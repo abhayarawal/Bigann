@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 519617
+artist_familiarity: 0.044595915257
+artist_hotttnesss: 0.0
+artist_id: ARWIHGT1269FCCF034
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Shirrows
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: b396ccf08165b52e4a8c5b58d8d02465
+bars_confidence: shape = (261,)
+bars_start: shape = (261,)
+beats_confidence: shape = (1045,)
+beats_start: shape = (1045,)
+danceability: 0.0
+duration: 361.9522
+end_of_fade_in: 0.485
+energy: 0.0
+key: 4
+key_confidence: 0.535
+loudness: -5.417
+mode: 1
+mode_confidence: 0.508
+release: Shakin' All Over Again
+release_7digitalid: 707690
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (924,)
+segments_loudness_max: shape = (924,)
+segments_loudness_max_time: shape = (924,)
+segments_loudness_start: shape = (924,)
+segments_pitches: shape = (924, 12)
+segments_start: shape = (924,)
+segments_timbre: shape = (924, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVSQTW12AB018C788
+start_of_fade_out: 356.153
+tatums_confidence: shape = (2090,)
+tatums_start: shape = (2090,)
+tempo: 173.776
+time_signature: 4
+time_signature_confidence: 0.0
+title: Jenny Jenny
+track_7digitalid: 7847965
+track_id: TRAQYMX12903CAB6C6
+year: 0

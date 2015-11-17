@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 268125
+artist_familiarity: 0.515034941325
+artist_hotttnesss: 0.412155304308
+artist_id: ARWBZWU1187B98F7FB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b1aa7d83-d9b8-4f1c-9de8-07dde1a5fc8a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jimmy Herring
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: a53611e5acbec6e8342f374e329d53ad
+bars_confidence: shape = (184,)
+bars_start: shape = (184,)
+beats_confidence: shape = (740,)
+beats_start: shape = (740,)
+danceability: 0.0
+duration: 359.8624
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.297
+loudness: -10.004
+mode: 0
+mode_confidence: 0.395
+release: Lifeboat
+release_7digitalid: 344464
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (947,)
+segments_loudness_max: shape = (947,)
+segments_loudness_max_time: shape = (947,)
+segments_loudness_start: shape = (947,)
+segments_pitches: shape = (947, 12)
+segments_start: shape = (947,)
+segments_timbre: shape = (947, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.565889509657
+song_id: SOOSJQN12AB017E4CF
+start_of_fade_out: 341.554
+tatums_confidence: shape = (1481,)
+tatums_start: shape = (1481,)
+tempo: 124.073
+time_signature: 4
+time_signature_confidence: 0.798
+title: Lifeboat Serenade
+track_7digitalid: 3869254
+track_id: TRAJZRG128F930662C
+year: 2008

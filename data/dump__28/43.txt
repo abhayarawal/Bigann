@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10815
+artist_familiarity: 0.745625187742
+artist_hotttnesss: 0.513065654505
+artist_id: AR1Q25M1187B9B0D73
+artist_latitude: 40.67856
+artist_location: Amityville, NY
+artist_longitude: -73.41853
+artist_mbid: a8ebde98-7e91-46c7-992c-90039ba42017
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: De La Soul / MF Doom
+artist_playmeid: 2219
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 13d4c44ca70216a36905d4321bb2833a
+bars_confidence: shape = (66,)
+bars_start: shape = (66,)
+beats_confidence: shape = (271,)
+beats_start: shape = (271,)
+danceability: 0.0
+duration: 185.23383
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.534
+loudness: -3.684
+mode: 0
+mode_confidence: 0.534
+release: The Grind Date
+release_7digitalid: 799238
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (725,)
+segments_loudness_max: shape = (725,)
+segments_loudness_max_time: shape = (725,)
+segments_loudness_start: shape = (725,)
+segments_pitches: shape = (725, 12)
+segments_start: shape = (725,)
+segments_timbre: shape = (725, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.598947038599
+song_id: SOCICGI12AB018AB36
+start_of_fade_out: 185.234
+tatums_confidence: shape = (814,)
+tatums_start: shape = (814,)
+tempo: 86.813
+time_signature: 4
+time_signature_confidence: 0.0
+title: Rock Co.Kane Flow
+track_7digitalid: 8839061
+track_id: TRAJNZF12903CB22A9
+year: 2004

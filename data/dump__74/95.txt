@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 56145
+artist_familiarity: 0.491651052451
+artist_hotttnesss: 0.316486173006
+artist_id: ARQDONM1187B9BA1AD
+artist_latitude: 34.19451
+artist_location: Clarksdale, MS
+artist_longitude: -90.5651
+artist_mbid: 79bd0f86-95f0-4e2b-806f-7d78640cf683
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Little Jr. Parker
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 41020a1553c65ab2c8a20f16dfce311c
+bars_confidence: shape = (84,)
+bars_start: shape = (84,)
+beats_confidence: shape = (255,)
+beats_start: shape = (255,)
+danceability: 0.0
+duration: 154.8273
+end_of_fade_in: 0.072
+energy: 0.0
+key: 4
+key_confidence: 0.939
+loudness: -14.925
+mode: 1
+mode_confidence: 0.696
+release: Blues Consolidated
+release_7digitalid: 579812
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (524,)
+segments_loudness_max: shape = (524,)
+segments_loudness_max_time: shape = (524,)
+segments_loudness_start: shape = (524,)
+segments_pitches: shape = (524, 12)
+segments_start: shape = (524,)
+segments_timbre: shape = (524, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZSRHD12AB0189A2C
+start_of_fade_out: 146.75
+tatums_confidence: shape = (767,)
+tatums_start: shape = (767,)
+tempo: 101.914
+time_signature: 3
+time_signature_confidence: 0.397
+title: Mother-In-Law Blues
+track_7digitalid: 6423418
+track_id: TRAZPJO12903CB4EA6
+year: 1958

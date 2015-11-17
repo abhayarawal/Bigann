@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 386286
+artist_familiarity: 0.64203047682
+artist_hotttnesss: 0.445222197689
+artist_id: AR2O84Q1187FB5BF74
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 93bc4272-a072-49d6-a9e4-5ee32cacd0af
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Salt The Wound
+artist_playmeid: 45050
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 71532d8a81aad1f794e873fe11bbfa8d
+bars_confidence: shape = (161,)
+bars_start: shape = (161,)
+beats_confidence: shape = (649,)
+beats_start: shape = (649,)
+danceability: 0.0
+duration: 218.80118
+end_of_fade_in: 0.432
+energy: 0.0
+key: 10
+key_confidence: 0.461
+loudness: -8.452
+mode: 0
+mode_confidence: 0.538
+release: Carnal Repercussions
+release_7digitalid: 667269
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (769,)
+segments_loudness_max: shape = (769,)
+segments_loudness_max_time: shape = (769,)
+segments_loudness_start: shape = (769,)
+segments_pitches: shape = (769, 12)
+segments_start: shape = (769,)
+segments_timbre: shape = (769, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLTODW12AF72A9E5E
+start_of_fade_out: 218.801
+tatums_confidence: shape = (1299,)
+tatums_start: shape = (1299,)
+tempo: 179.629
+time_signature: 4
+time_signature_confidence: 0.464
+title: I Swear the Visine is for my Allergies
+track_7digitalid: 7396989
+track_id: TRBEWTY12903CB4779
+year: 2008

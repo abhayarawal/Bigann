@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 14520
+artist_familiarity: 0.556083172771
+artist_hotttnesss: 0.421448617933
+artist_id: ARKJHKX1187FB5AEE5
+artist_latitude: nan
+artist_location: Lafayette, LA
+artist_longitude: nan
+artist_mbid: ca2b920b-702a-4c4a-9e22-a07e052b4fd8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Buckwheat Zydeco
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 0c397314608b7d1bcbb9367c3798581a
+bars_confidence: shape = (284,)
+bars_start: shape = (284,)
+beats_confidence: shape = (855,)
+beats_start: shape = (855,)
+danceability: 0.0
+duration: 416.23465
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.024
+loudness: -10.165
+mode: 1
+mode_confidence: 0.331
+release: Jackpot !
+release_7digitalid: 51330
+sections_confidence: shape = (26,)
+sections_start: shape = (26,)
+segments_confidence: shape = (1578,)
+segments_loudness_max: shape = (1578,)
+segments_loudness_max_time: shape = (1578,)
+segments_loudness_start: shape = (1578,)
+segments_pitches: shape = (1578, 12)
+segments_start: shape = (1578,)
+segments_timbre: shape = (1578, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQGFFB12A6D4F9C7F
+start_of_fade_out: 389.822
+tatums_confidence: shape = (1711,)
+tatums_start: shape = (1711,)
+tempo: 124.325
+time_signature: 3
+time_signature_confidence: 1.0
+title: Buck's Going Downtown (Album Version)
+track_7digitalid: 536814
+track_id: TRANLYF128F1491D3B
+year: 0

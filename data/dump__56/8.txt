@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 25
+artist_familiarity: 0.813013088935
+artist_hotttnesss: 0.548533654534
+artist_id: ARXDQJB1187FB57154
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: 23d9d74d-c95e-46a6-be26-a6075c49747a
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Faithless
+artist_playmeid: 594
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 1c127f228e84d17843726ec990f3fc77
+bars_confidence: shape = (115,)
+bars_start: shape = (115,)
+beats_confidence: shape = (469,)
+beats_start: shape = (469,)
+danceability: 0.0
+duration: 221.98812
+end_of_fade_in: 0.067
+energy: 0.0
+key: 5
+key_confidence: 0.354
+loudness: -9.0
+mode: 0
+mode_confidence: 0.488
+release: Ibiza 1991 - 2009
+release_7digitalid: 576089
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1084,)
+segments_loudness_max: shape = (1084,)
+segments_loudness_max_time: shape = (1084,)
+segments_loudness_start: shape = (1084,)
+segments_pitches: shape = (1084, 12)
+segments_start: shape = (1084,)
+segments_timbre: shape = (1084, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOULDME12AB01887C6
+start_of_fade_out: 217.565
+tatums_confidence: shape = (938,)
+tatums_start: shape = (938,)
+tempo: 128.067
+time_signature: 4
+time_signature_confidence: 0.005
+title: Salva Mea
+track_7digitalid: 6385016
+track_id: TRATCMK12903CABAC8
+year: 1995

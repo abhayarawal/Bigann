@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 384400
+artist_familiarity: 0.607327068136
+artist_hotttnesss: 0.500450186296
+artist_id: AR0B9V01187FB55276
+artist_latitude: nan
+artist_location: Vancouver, BC, Canada
+artist_longitude: nan
+artist_mbid: f7f9213c-1569-43d5-86d5-a68da0d174b7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jeremy Fisher
+artist_playmeid: 141512
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: c36ff3e4203e29672af0815e9a9f615a
+bars_confidence: shape = (157,)
+bars_start: shape = (157,)
+beats_confidence: shape = (472,)
+beats_start: shape = (472,)
+danceability: 0.0
+duration: 257.64526
+end_of_fade_in: 0.102
+energy: 0.0
+key: 0
+key_confidence: 0.744
+loudness: -6.843
+mode: 1
+mode_confidence: 0.861
+release: Goodbye Blue Monday
+release_7digitalid: 666410
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (680,)
+segments_loudness_max: shape = (680,)
+segments_loudness_max_time: shape = (680,)
+segments_loudness_start: shape = (680,)
+segments_pitches: shape = (680, 12)
+segments_start: shape = (680,)
+segments_timbre: shape = (680, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORCHVK12AB018B3C1
+start_of_fade_out: 243.293
+tatums_confidence: shape = (944,)
+tatums_start: shape = (944,)
+tempo: 111.915
+time_signature: 3
+time_signature_confidence: 0.487
+title: 16 MM Dream
+track_7digitalid: 7385498
+track_id: TRASNDA12903CB1B4B
+year: 0

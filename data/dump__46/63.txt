@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 156929
+artist_familiarity: 0.636119207143
+artist_hotttnesss: 0.363499577136
+artist_id: ARL6UP41187FB5C604
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a2196d4e-4566-4540-bcb4-f6507ec5bfde
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Facto Delafe y las flores azules
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: ff51bf913a801a8b1f115816b0af462e
+bars_confidence: shape = (39,)
+bars_start: shape = (39,)
+beats_confidence: shape = (160,)
+beats_start: shape = (160,)
+danceability: 0.0
+duration: 100.362
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.038
+loudness: -7.221
+mode: 0
+mode_confidence: 0.368
+release: La luz de la mañana
+release_7digitalid: 211944
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (351,)
+segments_loudness_max: shape = (351,)
+segments_loudness_max_time: shape = (351,)
+segments_loudness_start: shape = (351,)
+segments_pitches: shape = (351, 12)
+segments_start: shape = (351,)
+segments_timbre: shape = (351, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.518418706598
+song_id: SONYFHJ12A8C13CAB8
+start_of_fade_out: 100.362
+tatums_confidence: shape = (320,)
+tatums_start: shape = (320,)
+tempo: 96.007
+time_signature: 4
+time_signature_confidence: 1.0
+title: Desde el este
+track_7digitalid: 2306169
+track_id: TRAPWMY128F4275285
+year: 2007

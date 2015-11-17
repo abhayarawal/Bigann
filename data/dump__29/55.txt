@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2998
+artist_familiarity: 0.543290242866
+artist_hotttnesss: 0.35199833791
+artist_id: ARZEBW31187FB586EA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0b0bd0c0-3723-4715-87d7-9d57f0eb240f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Anne Dudley
+artist_playmeid: 6842
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 0310bb7829b2310f828e3659722df2b7
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (483,)
+beats_start: shape = (483,)
+danceability: 0.0
+duration: 177.44934
+end_of_fade_in: 2.061
+energy: 0.0
+key: 5
+key_confidence: 0.126
+loudness: -19.597
+mode: 1
+mode_confidence: 0.349
+release: The 10th Kingdom
+release_7digitalid: 188828
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (290,)
+segments_loudness_max: shape = (290,)
+segments_loudness_max_time: shape = (290,)
+segments_loudness_start: shape = (290,)
+segments_pitches: shape = (290, 12)
+segments_start: shape = (290,)
+segments_timbre: shape = (290, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.268851450104
+song_id: SOZOIKO12A8C133726
+start_of_fade_out: 168.211
+tatums_confidence: shape = (483,)
+tatums_start: shape = (483,)
+tempo: 172.223
+time_signature: 4
+time_signature_confidence: 0.776
+title: Still Lost in the Forest
+track_7digitalid: 2049911
+track_id: TRAJZGG128F423DA86
+year: 2000

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12874
+artist_familiarity: 0.639158707883
+artist_hotttnesss: 0.497544085149
+artist_id: ARLE1JH1187B9B630B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d229ee11-fc4e-4a1c-8e0a-1e8f84950532
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Zbigniew Preisner
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 799a1b241777afcb84260303e5d6305f
+bars_confidence: shape = (43,)
+bars_start: shape = (43,)
+beats_confidence: shape = (175,)
+beats_start: shape = (175,)
+danceability: 0.0
+duration: 87.45751
+end_of_fade_in: 0.797
+energy: 0.0
+key: 4
+key_confidence: 0.768
+loudness: -25.221
+mode: 0
+mode_confidence: 0.704
+release: The Secret Garden
+release_7digitalid: 275719
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (171,)
+segments_loudness_max: shape = (171,)
+segments_loudness_max_time: shape = (171,)
+segments_loudness_start: shape = (171,)
+segments_pitches: shape = (171, 12)
+segments_start: shape = (171,)
+segments_timbre: shape = (171, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.482137585065
+song_id: SOGPGIO12A81C21C22
+start_of_fade_out: 87.458
+tatums_confidence: shape = (350,)
+tatums_start: shape = (350,)
+tempo: 120.234
+time_signature: 4
+time_signature_confidence: 0.326
+title: Leaving The Docks
+track_7digitalid: 3070718
+track_id: TRBGNAF128F4253180
+year: 1993

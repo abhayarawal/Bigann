@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 46300
+artist_familiarity: 0.489280178632
+artist_hotttnesss: 0.343605382626
+artist_id: AR9YQN31187FB45B34
+artist_latitude: 39.95227
+artist_location: Philadelphia, PA
+artist_longitude: -75.16237
+artist_mbid: dc296d4e-5bc5-482e-92b2-7eb2ad8804c7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: James Darren
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 72788a46e4285c8fbd40ddd0780aae13
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (474,)
+beats_start: shape = (474,)
+danceability: 0.0
+duration: 155.6371
+end_of_fade_in: 0.311
+energy: 0.0
+key: 10
+key_confidence: 0.162
+loudness: -11.828
+mode: 1
+mode_confidence: 0.29
+release: Sings The Movies
+release_7digitalid: 60519
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (377,)
+segments_loudness_max: shape = (377,)
+segments_loudness_max_time: shape = (377,)
+segments_loudness_start: shape = (377,)
+segments_pitches: shape = (377, 12)
+segments_start: shape = (377,)
+segments_timbre: shape = (377, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWKEFC12A6D4FB2BE
+start_of_fade_out: 146.86
+tatums_confidence: shape = (474,)
+tatums_start: shape = (474,)
+tempo: 192.114
+time_signature: 4
+time_signature_confidence: 0.0
+title: Your Smile (LP Version)
+track_7digitalid: 629193
+track_id: TRAZGVI128F14A5400
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4268
+artist_familiarity: 0.575986600525
+artist_hotttnesss: 0.406367592935
+artist_id: ARBX0VO1187B98A412
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a8ad585a-2776-4531-a1cc-93b9a3c9d43b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Zebra
+artist_playmeid: 12899
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 2bfd26895fc07b6edcd8a0db1a31fe31
+bars_confidence: shape = (148,)
+bars_start: shape = (148,)
+beats_confidence: shape = (598,)
+beats_start: shape = (598,)
+danceability: 0.0
+duration: 299.93751
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.493
+loudness: -9.557
+mode: 1
+mode_confidence: 0.336
+release: Zebra Live
+release_7digitalid: 760259
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (784,)
+segments_loudness_max: shape = (784,)
+segments_loudness_max_time: shape = (784,)
+segments_loudness_start: shape = (784,)
+segments_pitches: shape = (784, 12)
+segments_start: shape = (784,)
+segments_timbre: shape = (784, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOFJVQM12AB018D52A
+start_of_fade_out: 288.177
+tatums_confidence: shape = (1197,)
+tatums_start: shape = (1197,)
+tempo: 120.599
+time_signature: 4
+time_signature_confidence: 0.0
+title: The Ocean (Live Version)
+track_7digitalid: 8419068
+track_id: TRAYFDY12903CBFA01
+year: 1990

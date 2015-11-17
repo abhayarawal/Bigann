@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15565
+artist_familiarity: 0.382546666624
+artist_hotttnesss: 0.3351380645
+artist_id: ARKYI5T1187B99334F
+artist_latitude: 35.21962
+artist_location: North Carolina
+artist_longitude: -80.01955
+artist_mbid: 87d3faff-4543-4055-8068-a1116d500f65
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Janet Paschal/Charlotte Ritchie/David Phelps
+artist_playmeid: 44061
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: d642c74855dcb92fa6f5f34f7d61b767
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (343,)
+beats_start: shape = (343,)
+danceability: 0.0
+duration: 202.4224
+end_of_fade_in: 0.554
+energy: 0.0
+key: 4
+key_confidence: 0.756
+loudness: -24.057
+mode: 1
+mode_confidence: 0.799
+release: Bill Gaither's Best Of Homecoming 2002
+release_7digitalid: 171597
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (499,)
+segments_loudness_max: shape = (499,)
+segments_loudness_max_time: shape = (499,)
+segments_loudness_start: shape = (499,)
+segments_pitches: shape = (499, 12)
+segments_start: shape = (499,)
+segments_timbre: shape = (499, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMYIML12A8C140E3F
+start_of_fade_out: 193.544
+tatums_confidence: shape = (687,)
+tatums_start: shape = (687,)
+tempo: 103.47
+time_signature: 4
+time_signature_confidence: 1.0
+title: It Won't Rain Always
+track_7digitalid: 1825497
+track_id: TRAYSRH128F4297FAA
+year: 2003

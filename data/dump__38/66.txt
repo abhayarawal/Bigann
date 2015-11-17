@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 90217
+artist_familiarity: 0.561272322612
+artist_hotttnesss: 0.377852557035
+artist_id: AR5IHI31187B998618
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2db6e9c3-5aa1-4876-9ec6-8f18c75d5210
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Pascal Obispo
+artist_playmeid: 6630
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 31c9cca3f3cef1d4a1cb39f0a22a9bf9
+bars_confidence: shape = (130,)
+bars_start: shape = (130,)
+beats_confidence: shape = (526,)
+beats_start: shape = (526,)
+danceability: 0.0
+duration: 246.56934
+end_of_fade_in: 2.543
+energy: 0.0
+key: 6
+key_confidence: 0.435
+loudness: -8.909
+mode: 0
+mode_confidence: 0.241
+release: Les Fleurs Du Bien
+release_7digitalid: 280475
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (870,)
+segments_loudness_max: shape = (870,)
+segments_loudness_max_time: shape = (870,)
+segments_loudness_start: shape = (870,)
+segments_pitches: shape = (870, 12)
+segments_start: shape = (870,)
+segments_timbre: shape = (870, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.340922755864
+song_id: SOCLLWU12A8AE47C66
+start_of_fade_out: 238.016
+tatums_confidence: shape = (1052,)
+tatums_start: shape = (1052,)
+tempo: 130.057
+time_signature: 4
+time_signature_confidence: 0.177
+title: La Machine
+track_7digitalid: 3126034
+track_id: TRANFNQ128F425EF2B
+year: 2006

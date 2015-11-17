@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 44535
+artist_familiarity: 0.457120796602
+artist_hotttnesss: 0.380154464588
+artist_id: ARN0NCG1187B9911A9
+artist_latitude: 43.29368
+artist_location: Marseille
+artist_longitude: 5.37249
+artist_mbid: fba73ef3-fd4c-4a4e-ae5a-d5fb2b95d16e
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Vincenzo
+artist_playmeid: -1
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: adba8c442c67f740f6b773c3e03d6e75
+bars_confidence: shape = (224,)
+bars_start: shape = (224,)
+beats_confidence: shape = (899,)
+beats_start: shape = (899,)
+danceability: 0.0
+duration: 439.17016
+end_of_fade_in: 0.107
+energy: 0.0
+key: 0
+key_confidence: 0.0
+loudness: -15.037
+mode: 1
+mode_confidence: 0.0
+release: Liebe*Detail 03
+release_7digitalid: 125616
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (3075,)
+segments_loudness_max: shape = (3075,)
+segments_loudness_max_time: shape = (3075,)
+segments_loudness_start: shape = (3075,)
+segments_pitches: shape = (3075, 12)
+segments_start: shape = (3075,)
+segments_timbre: shape = (3075, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOVKTXA12A6D4FAC36
+start_of_fade_out: 432.843
+tatums_confidence: shape = (1798,)
+tatums_start: shape = (1798,)
+tempo: 124.05
+time_signature: 4
+time_signature_confidence: 1.0
+title: Valium
+track_7digitalid: 1296091
+track_id: TRBEARH128F422A535
+year: 0

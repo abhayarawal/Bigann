@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4301
+artist_familiarity: 0.711380095973
+artist_hotttnesss: 0.466224300345
+artist_id: ARLIIVS1187FB5583B
+artist_latitude: 39.29055
+artist_location: Baltimore, MD
+artist_longitude: -76.6096
+artist_mbid: 5ae54dee-4dba-49c0-802a-a3b3b3adfe9b
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Philip Glass
+artist_playmeid: 6913
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 1e13586e4157ad2b98dbec673762c0b4
+bars_confidence: shape = (656,)
+bars_start: shape = (656,)
+beats_confidence: shape = (656,)
+beats_start: shape = (656,)
+danceability: 0.0
+duration: 231.10485
+end_of_fade_in: 0.532
+energy: 0.0
+key: 0
+key_confidence: 0.622
+loudness: -14.383
+mode: 0
+mode_confidence: 0.676
+release: Philip Glass: Saxophone
+release_7digitalid: 246677
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (970,)
+segments_loudness_max: shape = (970,)
+segments_loudness_max_time: shape = (970,)
+segments_loudness_start: shape = (970,)
+segments_pitches: shape = (970, 12)
+segments_start: shape = (970,)
+segments_timbre: shape = (970, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBJTHI12A8C133758
+start_of_fade_out: 222.679
+tatums_confidence: shape = (1312,)
+tatums_start: shape = (1312,)
+tempo: 176.122
+time_signature: 1
+time_signature_confidence: 0.0
+title: Concerto For Saxophone (Quartet Version): Movement IV
+track_7digitalid: 2678591
+track_id: TRARAAG128F42437FB
+year: 0

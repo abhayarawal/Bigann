@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10180
+artist_familiarity: 0.74987636719
+artist_hotttnesss: 0.528302262284
+artist_id: AREHK7O1187B9ADDD7
+artist_latitude: nan
+artist_location: J�ping, Sweden
+artist_longitude: nan
+artist_mbid: 3e55d51d-687f-4a9d-af96-2fabccf802e5
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: The Cardigans
+artist_playmeid: 83087
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 5f0b6e30cac44aaf32db529175c39fd6
+bars_confidence: shape = (147,)
+bars_start: shape = (147,)
+beats_confidence: shape = (592,)
+beats_start: shape = (592,)
+danceability: 0.0
+duration: 259.76118
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.485
+loudness: -10.175
+mode: 1
+mode_confidence: 0.439
+release: First Band On The Moon
+release_7digitalid: 14367
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (808,)
+segments_loudness_max: shape = (808,)
+segments_loudness_max_time: shape = (808,)
+segments_loudness_start: shape = (808,)
+segments_pitches: shape = (808, 12)
+segments_start: shape = (808,)
+segments_timbre: shape = (808, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.649675061783
+song_id: SOPFURM12A67020D2A
+start_of_fade_out: 253.806
+tatums_confidence: shape = (1185,)
+tatums_start: shape = (1185,)
+tempo: 137.342
+time_signature: 4
+time_signature_confidence: 0.526
+title: Iron Man
+track_7digitalid: 148882
+track_id: TRADRJK128E078F041
+year: 1996

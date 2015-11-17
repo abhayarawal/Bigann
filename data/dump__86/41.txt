@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 46444
+artist_familiarity: 0.481983113359
+artist_hotttnesss: 0.405748956421
+artist_id: ARMZSTW1187B99DC0D
+artist_latitude: 43.64856
+artist_location: Toronto, Ontario, Canada
+artist_longitude: -79.38533
+artist_mbid: d65df1f3-baee-4d09-898d-c5ef1ee34820
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jericho
+artist_playmeid: -1
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 34a74fab22c2f64c6c3c73dbfe747bfd
+bars_confidence: shape = (49,)
+bars_start: shape = (49,)
+beats_confidence: shape = (349,)
+beats_start: shape = (349,)
+danceability: 0.0
+duration: 223.92118
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.766
+loudness: -12.532
+mode: 1
+mode_confidence: 0.688
+release: Jericho
+release_7digitalid: 457614
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (803,)
+segments_loudness_max: shape = (803,)
+segments_loudness_max_time: shape = (803,)
+segments_loudness_start: shape = (803,)
+segments_pitches: shape = (803, 12)
+segments_start: shape = (803,)
+segments_timbre: shape = (803, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.237360624072
+song_id: SOBRWML12AB017FB53
+start_of_fade_out: 212.143
+tatums_confidence: shape = (697,)
+tatums_start: shape = (697,)
+tempo: 96.261
+time_signature: 7
+time_signature_confidence: 0.811
+title: Simon
+track_7digitalid: 5093523
+track_id: TRBDRCA128F9321DD9
+year: 0

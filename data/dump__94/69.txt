@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 405275
+artist_familiarity: 0.354424650232
+artist_hotttnesss: 0.383914994714
+artist_id: ARZVJ641187FB36FA4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4f9e785b-99ab-4f81-aeb3-4838479745b9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Alexander Zonjic
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 01d10a0b5e5e041191565caa88374fe6
+bars_confidence: shape = (96,)
+bars_start: shape = (96,)
+beats_confidence: shape = (485,)
+beats_start: shape = (485,)
+danceability: 0.0
+duration: 259.21261
+end_of_fade_in: 0.147
+energy: 0.0
+key: 2
+key_confidence: 0.062
+loudness: -7.742
+mode: 1
+mode_confidence: 0.376
+release: Doin' The D
+release_7digitalid: 647068
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1124,)
+segments_loudness_max: shape = (1124,)
+segments_loudness_max_time: shape = (1124,)
+segments_loudness_start: shape = (1124,)
+segments_pitches: shape = (1124, 12)
+segments_start: shape = (1124,)
+segments_timbre: shape = (1124, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.495359005935
+song_id: SOSESNX12A58A77DE9
+start_of_fade_out: 248.094
+tatums_confidence: shape = (1455,)
+tatums_start: shape = (1455,)
+tempo: 113.41
+time_signature: 5
+time_signature_confidence: 0.613
+title: Little Sunflower
+track_7digitalid: 7167558
+track_id: TRBGQIX128F934E7F4
+year: 0

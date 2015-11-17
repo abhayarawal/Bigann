@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 289
+artist_familiarity: 0.839297677568
+artist_hotttnesss: 0.71889145567
+artist_id: ARDVZTE1187FB5A0A1
+artist_latitude: nan
+artist_location: Sayreville, NJ
+artist_longitude: nan
+artist_mbid: 5dcdb5eb-cb72-4e6e-9e63-b7bace604965
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Bon Jovi / Ray Davies
+artist_playmeid: 827
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: e5a167730f2e50f45a04f4d291fe5516
+bars_confidence: shape = (181,)
+bars_start: shape = (181,)
+beats_confidence: shape = (730,)
+beats_start: shape = (730,)
+danceability: 0.0
+duration: 336.84853
+end_of_fade_in: 4.377
+energy: 0.0
+key: 6
+key_confidence: 0.896
+loudness: -5.158
+mode: 1
+mode_confidence: 0.688
+release: Misunderstood
+release_7digitalid: 343181
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (874,)
+segments_loudness_max: shape = (874,)
+segments_loudness_max_time: shape = (874,)
+segments_loudness_start: shape = (874,)
+segments_pitches: shape = (874, 12)
+segments_start: shape = (874,)
+segments_timbre: shape = (874, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCMIGC12A6702090E
+start_of_fade_out: 323.715
+tatums_confidence: shape = (1460,)
+tatums_start: shape = (1460,)
+tempo: 130.281
+time_signature: 4
+time_signature_confidence: 0.283
+title: Celluloid Heroes
+track_7digitalid: 3843419
+track_id: TRBFWCC128F93017D3
+year: 2002

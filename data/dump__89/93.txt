@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 179046
+artist_familiarity: 0.450361260877
+artist_hotttnesss: 0.267757495381
+artist_id: ARMSW7X1187FB5B504
+artist_latitude: 34.05349
+artist_location: California - LA
+artist_longitude: -118.24532
+artist_mbid: fe44e194-1933-4ee8-a54a-5b92b21dc7a2
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Dave Eggar
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 01dd7a60a61c7ac4d0d3cebc5baab9a1
+bars_confidence: shape = (137,)
+bars_start: shape = (137,)
+beats_confidence: shape = (550,)
+beats_start: shape = (550,)
+danceability: 0.0
+duration: 225.25342
+end_of_fade_in: 0.252
+energy: 0.0
+key: 2
+key_confidence: 0.007
+loudness: -27.019
+mode: 1
+mode_confidence: 0.368
+release: Left Of Blue
+release_7digitalid: 240382
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (372,)
+segments_loudness_max: shape = (372,)
+segments_loudness_max_time: shape = (372,)
+segments_loudness_start: shape = (372,)
+segments_pitches: shape = (372, 12)
+segments_start: shape = (372,)
+segments_timbre: shape = (372, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.262308997212
+song_id: SOHQECR12A8C133DDA
+start_of_fade_out: 214.674
+tatums_confidence: shape = (550,)
+tatums_start: shape = (550,)
+tempo: 149.895
+time_signature: 4
+time_signature_confidence: 0.74
+title: Deep Blue
+track_7digitalid: 2624140
+track_id: TRBFAMN128F42367B5
+year: 2005

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 414
+artist_familiarity: 0.731184230413
+artist_hotttnesss: 0.549204383877
+artist_id: ARD3LXU1187B9ABFC5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e5db18cb-4b1f-496d-a308-548b611090d3
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Sex Pistols
+artist_playmeid: 1418
+artist_terms: shape = (9,)
+artist_terms_freq: shape = (9,)
+artist_terms_weight: shape = (9,)
+audio_md5: dd59a8c185fbf2de34de11bed741f557
+bars_confidence: shape = (129,)
+bars_start: shape = (129,)
+beats_confidence: shape = (520,)
+beats_start: shape = (520,)
+danceability: 0.0
+duration: 216.60689
+end_of_fade_in: 0.177
+energy: 0.0
+key: 9
+key_confidence: 0.558
+loudness: -3.736
+mode: 1
+mode_confidence: 0.533
+release: Punk International
+release_7digitalid: 754188
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (690,)
+segments_loudness_max: shape = (690,)
+segments_loudness_max_time: shape = (690,)
+segments_loudness_start: shape = (690,)
+segments_pitches: shape = (690, 12)
+segments_start: shape = (690,)
+segments_timbre: shape = (690, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.41373983586
+song_id: SOMKMPB12A8C1447D0
+start_of_fade_out: 214.192
+tatums_confidence: shape = (1040,)
+tatums_start: shape = (1040,)
+tempo: 145.518
+time_signature: 4
+time_signature_confidence: 0.675
+title: God Save the Queen (Live)
+track_7digitalid: 8348795
+track_id: TRAAPSQ12903CAE86A
+year: 1988

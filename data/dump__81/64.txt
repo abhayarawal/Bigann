@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 126841
+artist_familiarity: 0.703229577373
+artist_hotttnesss: 0.43392783827
+artist_id: AROZNFA1187B99D367
+artist_latitude: nan
+artist_location: Hastings, England
+artist_longitude: nan
+artist_mbid: 68cac857-3147-43d0-879e-c63dc9c82014
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: John Digweed
+artist_playmeid: -1
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 6b72e789d31325fee7ec8e8d70e56671
+bars_confidence: shape = (218,)
+bars_start: shape = (218,)
+beats_confidence: shape = (875,)
+beats_start: shape = (875,)
+danceability: 0.0
+duration: 405.10649
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.822
+loudness: -5.988
+mode: 1
+mode_confidence: 0.606
+release: Warung Beach
+release_7digitalid: 691205
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1375,)
+segments_loudness_max: shape = (1375,)
+segments_loudness_max_time: shape = (1375,)
+segments_loudness_start: shape = (1375,)
+segments_pitches: shape = (1375, 12)
+segments_start: shape = (1375,)
+segments_timbre: shape = (1375, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUEDBC12AC90972E5
+start_of_fade_out: 405.106
+tatums_confidence: shape = (1750,)
+tatums_start: shape = (1750,)
+tempo: 127.995
+time_signature: 4
+time_signature_confidence: 0.761
+title: Warung Beach
+track_7digitalid: 7671005
+track_id: TRBBZJW12903CF71A6
+year: 2006

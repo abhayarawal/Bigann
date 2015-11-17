@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19206
+artist_familiarity: 0.7394548739
+artist_hotttnesss: 0.513339195848
+artist_id: AREKO1L1187B997EFE
+artist_latitude: 55.70622
+artist_location: Lund, Sweden
+artist_longitude: 13.1876
+artist_mbid: e664d1cd-23ab-48d5-b8fa-e98485daa5be
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Radio Dept
+artist_playmeid: 194060
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 418f7b721cee5a0a230912b959cbda99
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (409,)
+beats_start: shape = (409,)
+danceability: 0.0
+duration: 207.20281
+end_of_fade_in: 0.479
+energy: 0.0
+key: 2
+key_confidence: 0.0
+loudness: -11.953
+mode: 1
+mode_confidence: 0.0
+release: Are You Scared To Get Happy?
+release_7digitalid: 767185
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (776,)
+segments_loudness_max: shape = (776,)
+segments_loudness_max_time: shape = (776,)
+segments_loudness_start: shape = (776,)
+segments_pitches: shape = (776, 12)
+segments_start: shape = (776,)
+segments_timbre: shape = (776, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.60455448492
+song_id: SOJBYZE12AB018EB1E
+start_of_fade_out: 194.525
+tatums_confidence: shape = (819,)
+tatums_start: shape = (819,)
+tempo: 124.968
+time_signature: 4
+time_signature_confidence: 0.803
+title: Mad About the Boy
+track_7digitalid: 8494893
+track_id: TRAYKKU12903CD21CB
+year: 2006

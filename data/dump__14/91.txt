@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16322
+artist_familiarity: 0.630928607679
+artist_hotttnesss: 0.46155845196
+artist_id: AR5MK521187B98E0B8
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: 0796f847-09ca-4526-b17e-44390dd536ba
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Heaven 17
+artist_playmeid: 6680
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: e1fc76a1240b85bb09ba4f6f8fa93406
+bars_confidence: shape = (151,)
+bars_start: shape = (151,)
+beats_confidence: shape = (608,)
+beats_start: shape = (608,)
+danceability: 0.0
+duration: 242.28526
+end_of_fade_in: 0.16
+energy: 0.0
+key: 6
+key_confidence: 0.112
+loudness: -10.481
+mode: 0
+mode_confidence: 0.204
+release: Bigger Than America
+release_7digitalid: 139188
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1036,)
+segments_loudness_max: shape = (1036,)
+segments_loudness_max_time: shape = (1036,)
+segments_loudness_start: shape = (1036,)
+segments_pitches: shape = (1036, 12)
+segments_start: shape = (1036,)
+segments_timbre: shape = (1036, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOICNXT12A8BEE958B
+start_of_fade_out: 230.284
+tatums_confidence: shape = (1216,)
+tatums_start: shape = (1216,)
+tempo: 152.02
+time_signature: 4
+time_signature_confidence: 0.965
+title: Resurrection Man
+track_7digitalid: 1445065
+track_id: TRAFAID128F4243DAF
+year: 1996

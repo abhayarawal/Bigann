@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 194107
+artist_familiarity: 0.589190725288
+artist_hotttnesss: 0.439438995527
+artist_id: ARVVLMQ11F4C8456E4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Knack
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: aae93eabb264adde2ca74d1af06e987c
+bars_confidence: shape = (166,)
+bars_start: shape = (166,)
+beats_confidence: shape = (669,)
+beats_start: shape = (669,)
+danceability: 0.0
+duration: 285.51791
+end_of_fade_in: 0.184
+energy: 0.0
+key: 7
+key_confidence: 0.707
+loudness: -5.227
+mode: 1
+mode_confidence: 0.704
+release: Normal as the Next Guy
+release_7digitalid: 252899
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (972,)
+segments_loudness_max: shape = (972,)
+segments_loudness_max_time: shape = (972,)
+segments_loudness_start: shape = (972,)
+segments_pitches: shape = (972, 12)
+segments_start: shape = (972,)
+segments_timbre: shape = (972, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.330234682769
+song_id: SORPCNQ12A8C136BB9
+start_of_fade_out: 268.597
+tatums_confidence: shape = (1337,)
+tatums_start: shape = (1337,)
+tempo: 142.432
+time_signature: 4
+time_signature_confidence: 0.0
+title: Seven Days Of Heaven
+track_7digitalid: 2700024
+track_id: TRAGOVH128F42480F5
+year: 0

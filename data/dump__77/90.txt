@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 309423
+artist_familiarity: 0.596184926664
+artist_hotttnesss: 0.427479241459
+artist_id: AREBWEH1187B99EA9A
+artist_latitude: nan
+artist_location: Helsinki
+artist_longitude: nan
+artist_mbid: 65a8ee1c-20ef-4e2d-bf55-33a35bd7e644
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Beherit
+artist_playmeid: -1
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: abc2a815deacf6a2d682813e9f359b53
+bars_confidence: shape = (276,)
+bars_start: shape = (276,)
+beats_confidence: shape = (1116,)
+beats_start: shape = (1116,)
+danceability: 0.0
+duration: 625.57995
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.127
+loudness: -20.665
+mode: 1
+mode_confidence: 0.584
+release: Electric Doom Synthesis
+release_7digitalid: 628980
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (1734,)
+segments_loudness_max: shape = (1734,)
+segments_loudness_max_time: shape = (1734,)
+segments_loudness_start: shape = (1734,)
+segments_pitches: shape = (1734, 12)
+segments_start: shape = (1734,)
+segments_timbre: shape = (1734, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.471578247701
+song_id: SOOKXRZ12AB01821D4
+start_of_fade_out: 606.65
+tatums_confidence: shape = (2231,)
+tatums_start: shape = (2231,)
+tempo: 111.125
+time_signature: 4
+time_signature_confidence: 0.901
+title: Sense
+track_7digitalid: 6982641
+track_id: TRBAOIA128F932195E
+year: 1995

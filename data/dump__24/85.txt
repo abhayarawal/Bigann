@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19856
+artist_familiarity: 0.515044056409
+artist_hotttnesss: 0.316692161547
+artist_id: ARGNGRI11E2835D567
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 98024747-6524-4cbe-8802-5dd4f86d68fa
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Tam Tam Go!
+artist_playmeid: 81756
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 80c7e0d2b9166ada636156f6ad4060fa
+bars_confidence: shape = (118,)
+bars_start: shape = (118,)
+beats_confidence: shape = (474,)
+beats_start: shape = (474,)
+danceability: 0.0
+duration: 216.63302
+end_of_fade_in: 0.165
+energy: 0.0
+key: 6
+key_confidence: 0.69
+loudness: -6.55
+mode: 1
+mode_confidence: 0.563
+release: The Platinum Collection
+release_7digitalid: 286010
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (733,)
+segments_loudness_max: shape = (733,)
+segments_loudness_max_time: shape = (733,)
+segments_loudness_start: shape = (733,)
+segments_pitches: shape = (733, 12)
+segments_start: shape = (733,)
+segments_timbre: shape = (733, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJISLN12A8C135408
+start_of_fade_out: 209.682
+tatums_confidence: shape = (947,)
+tatums_start: shape = (947,)
+tempo: 133.45
+time_signature: 4
+time_signature_confidence: 0.357
+title: Hypnotise The Cat
+track_7digitalid: 3197987
+track_id: TRAIINI128F426C8DD
+year: 0

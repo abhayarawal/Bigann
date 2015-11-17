@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10173
+artist_familiarity: 0.87253659867
+artist_hotttnesss: 0.611117503433
+artist_id: AR12F2S1187FB56EEF
+artist_latitude: nan
+artist_location: Boston, MA
+artist_longitude: nan
+artist_mbid: 3d2b98e5-556f-4451-a3ff-c50ea18d57cb
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Aerosmith
+artist_playmeid: 39
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: d1110e08cc5c65276229bebab6eade73
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (365,)
+beats_start: shape = (365,)
+danceability: 0.0
+duration: 314.27873
+end_of_fade_in: 1.386
+energy: 0.0
+key: 5
+key_confidence: 0.4
+loudness: -4.82
+mode: 1
+mode_confidence: 0.371
+release: Aerosmith - Universal Masters Collection
+release_7digitalid: 14320
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (945,)
+segments_loudness_max: shape = (945,)
+segments_loudness_max_time: shape = (945,)
+segments_loudness_start: shape = (945,)
+segments_pitches: shape = (945, 12)
+segments_start: shape = (945,)
+segments_timbre: shape = (945, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXNERI12A6701E92E
+start_of_fade_out: 300.362
+tatums_confidence: shape = (1097,)
+tatums_start: shape = (1097,)
+tempo: 70.876
+time_signature: 4
+time_signature_confidence: 0.0
+title: What It Takes
+track_7digitalid: 148267
+track_id: TRAVUAJ128E078EDA2
+year: 1988

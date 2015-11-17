@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 493710
+artist_familiarity: 0.4157846077
+artist_hotttnesss: 0.307902093869
+artist_id: ARDQO721187FB3C6D9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2ba29f11-6321-451f-934d-3f63b3930ce3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Rodney O & Joe Cooley
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 2d5a21b124edb09947fb314b00bafb58
+bars_confidence: shape = (123,)
+bars_start: shape = (123,)
+beats_confidence: shape = (496,)
+beats_start: shape = (496,)
+danceability: 0.0
+duration: 172.01587
+end_of_fade_in: 0.331
+energy: 0.0
+key: 1
+key_confidence: 0.035
+loudness: -9.745
+mode: 0
+mode_confidence: 0.607
+release: Get Ready To Roll
+release_7digitalid: 662558
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (783,)
+segments_loudness_max: shape = (783,)
+segments_loudness_max_time: shape = (783,)
+segments_loudness_start: shape = (783,)
+segments_pitches: shape = (783, 12)
+segments_start: shape = (783,)
+segments_timbre: shape = (783, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOIKVVS12AB0184063
+start_of_fade_out: 167.869
+tatums_confidence: shape = (992,)
+tatums_start: shape = (992,)
+tempo: 175.393
+time_signature: 4
+time_signature_confidence: 0.751
+title: Nutty Block
+track_7digitalid: 7341573
+track_id: TRAAXEJ12903CA7253
+year: 1991

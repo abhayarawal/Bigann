@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 28697
+artist_familiarity: 0.831163941109
+artist_hotttnesss: 0.578933540317
+artist_id: AR040QX1187FB4CFE1
+artist_latitude: nan
+artist_location: St. Catharines, ON, Canada
+artist_longitude: nan
+artist_mbid: bc1c8f3f-6f36-4086-a470-87ed813dd429
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Alexisonfire
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 3f2c6bbe581a702cc613e1a446ef4aa2
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (312,)
+beats_start: shape = (312,)
+danceability: 0.0
+duration: 212.11383
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.308
+loudness: -4.829
+mode: 1
+mode_confidence: 0.479
+release: Crisis
+release_7digitalid: 225353
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (618,)
+segments_loudness_max: shape = (618,)
+segments_loudness_max_time: shape = (618,)
+segments_loudness_start: shape = (618,)
+segments_pitches: shape = (618, 12)
+segments_start: shape = (618,)
+segments_timbre: shape = (618, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZGQLE12AB018672C
+start_of_fade_out: 208.44
+tatums_confidence: shape = (1249,)
+tatums_start: shape = (1249,)
+tempo: 89.89
+time_signature: 3
+time_signature_confidence: 0.575
+title: Mailbox Arson
+track_7digitalid: 2465129
+track_id: TRAPGKY128F42972A9
+year: 2005

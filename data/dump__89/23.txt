@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 29233
+artist_familiarity: 0.608824805464
+artist_hotttnesss: 0.42865098879
+artist_id: ARONPP01187B995FB5
+artist_latitude: 52.88356
+artist_location: England
+artist_longitude: -1.97406
+artist_mbid: 9a4c746f-8ae7-47a1-8292-937ec6792e7a
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Cockney Rejects
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: be570198a37d38085c1119f4481741aa
+bars_confidence: shape = (161,)
+bars_start: shape = (161,)
+beats_confidence: shape = (649,)
+beats_start: shape = (649,)
+danceability: 0.0
+duration: 241.50159
+end_of_fade_in: 0.345
+energy: 0.0
+key: 2
+key_confidence: 0.734
+loudness: -2.818
+mode: 1
+mode_confidence: 0.561
+release: Unforgiven
+release_7digitalid: 612184
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (595,)
+segments_loudness_max: shape = (595,)
+segments_loudness_max_time: shape = (595,)
+segments_loudness_start: shape = (595,)
+segments_pitches: shape = (595, 12)
+segments_start: shape = (595,)
+segments_timbre: shape = (595, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.323112120895
+song_id: SOVDQMC12A8C142C99
+start_of_fade_out: 220.259
+tatums_confidence: shape = (1298,)
+tatums_start: shape = (1298,)
+tempo: 163.393
+time_signature: 4
+time_signature_confidence: 0.0
+title: It's Alright Bruv
+track_7digitalid: 6805695
+track_id: TRBESVW128F92F6960
+year: 2007

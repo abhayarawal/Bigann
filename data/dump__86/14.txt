@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 152906
+artist_familiarity: 0.327233191416
+artist_hotttnesss: 0.0637249864633
+artist_id: ARYUHNV1187FB482AF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: acf836d7-c773-40ee-860b-5f4024e8e97f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Megadrums
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: a3731a7f12d487ebbefd0ed18dbfb733
+bars_confidence: shape = (48,)
+bars_start: shape = (48,)
+beats_confidence: shape = (243,)
+beats_start: shape = (243,)
+danceability: 0.0
+duration: 136.30649
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.536
+loudness: -26.514
+mode: 0
+mode_confidence: 0.508
+release: Coreana
+release_7digitalid: 202999
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (267,)
+segments_loudness_max: shape = (267,)
+segments_loudness_max_time: shape = (267,)
+segments_loudness_start: shape = (267,)
+segments_pitches: shape = (267, 12)
+segments_start: shape = (267,)
+segments_timbre: shape = (267, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOVRDDO12A8C137FDA
+start_of_fade_out: 118.201
+tatums_confidence: shape = (486,)
+tatums_start: shape = (486,)
+tempo: 122.148
+time_signature: 5
+time_signature_confidence: 1.0
+title: Dasotmori Live
+track_7digitalid: 2209473
+track_id: TRBDOPG128F425EA69
+year: 0

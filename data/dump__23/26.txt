@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 52701
+artist_familiarity: 0.633932725779
+artist_hotttnesss: 0.416529399637
+artist_id: ARB4ZRM1187B993147
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5074ddf4-3d57-49d9-a0b8-c36afe60a475
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Dark Fortress
+artist_playmeid: 136029
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 918cfc962dd5fdb49f200f033c33a94e
+bars_confidence: shape = (173,)
+bars_start: shape = (173,)
+beats_confidence: shape = (698,)
+beats_start: shape = (698,)
+danceability: 0.0
+duration: 336.16934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.0
+loudness: -3.832
+mode: 1
+mode_confidence: 0.0
+release: Ylem
+release_7digitalid: 708849
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (640,)
+segments_loudness_max: shape = (640,)
+segments_loudness_max_time: shape = (640,)
+segments_loudness_start: shape = (640,)
+segments_pitches: shape = (640, 12)
+segments_start: shape = (640,)
+segments_timbre: shape = (640, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.754404410786
+song_id: SOLCWWS12AB0188F42
+start_of_fade_out: 307.542
+tatums_confidence: shape = (1395,)
+tatums_start: shape = (1395,)
+tempo: 127.817
+time_signature: 4
+time_signature_confidence: 1.0
+title: Evenfall
+track_7digitalid: 7861591
+track_id: TRAHWBP12903CAEBFC
+year: 2010

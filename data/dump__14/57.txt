@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5104
+artist_familiarity: 0.786921231369
+artist_hotttnesss: 0.495306693411
+artist_id: ARNMWP51187FB3E963
+artist_latitude: 41.88415
+artist_location: Chicago, IL
+artist_longitude: -87.63241
+artist_mbid: 4dca4bb2-23ba-4103-97e6-5810311db33a
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Curtis Mayfield
+artist_playmeid: 2041
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 4f8568da0b935777d4eb201198e497f9
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (351,)
+beats_start: shape = (351,)
+danceability: 0.0
+duration: 225.67138
+end_of_fade_in: 5.526
+energy: 0.0
+key: 2
+key_confidence: 0.261
+loudness: -15.314
+mode: 1
+mode_confidence: 0.311
+release: Future Shock
+release_7digitalid: 219093
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (873,)
+segments_loudness_max: shape = (873,)
+segments_loudness_max_time: shape = (873,)
+segments_loudness_start: shape = (873,)
+segments_pitches: shape = (873, 12)
+segments_start: shape = (873,)
+segments_timbre: shape = (873, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXGJST12A8C1406F6
+start_of_fade_out: 215.696
+tatums_confidence: shape = (1403,)
+tatums_start: shape = (1403,)
+tempo: 94.672
+time_signature: 4
+time_signature_confidence: 0.81
+title: This Year (ReMastered)
+track_7digitalid: 2389972
+track_id: TRAEWQN128F4286306
+year: 2006

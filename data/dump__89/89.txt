@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 66541
+artist_familiarity: 0.420545849523
+artist_hotttnesss: 0.313569342684
+artist_id: ARHFEBO11F50C4825A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Flor Silvestre
+artist_playmeid: 54513
+artist_terms: shape = (8,)
+artist_terms_freq: shape = (8,)
+artist_terms_weight: shape = (8,)
+audio_md5: 6e2da0574002a6fbb64f6ca32c0502ce
+bars_confidence: shape = (62,)
+bars_start: shape = (62,)
+beats_confidence: shape = (256,)
+beats_start: shape = (256,)
+danceability: 0.0
+duration: 161.93261
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.904
+loudness: -7.8
+mode: 1
+mode_confidence: 0.839
+release: 15 Grandes Exitos-Flor Silvestre
+release_7digitalid: 161580
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (565,)
+segments_loudness_max: shape = (565,)
+segments_loudness_max_time: shape = (565,)
+segments_loudness_start: shape = (565,)
+segments_pitches: shape = (565, 12)
+segments_start: shape = (565,)
+segments_timbre: shape = (565, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSAZLT12A8C13B90F
+start_of_fade_out: 156.357
+tatums_confidence: shape = (513,)
+tatums_start: shape = (513,)
+tempo: 98.713
+time_signature: 4
+time_signature_confidence: 0.613
+title: Llorando Por Amor
+track_7digitalid: 1708986
+track_id: TRBFAHS128F42804D6
+year: 0

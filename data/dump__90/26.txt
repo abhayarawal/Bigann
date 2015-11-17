@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 170418
+artist_familiarity: 0.622030971925
+artist_hotttnesss: 0.409518728402
+artist_id: ARAA88L1187B9A29C1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3ce60596-6c26-46e4-8e57-4a5e3f492d76
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bodies In the Gears of the Apparatus
+artist_playmeid: 51736
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 4a658f6e01edc3a965351d75f7d4dfd1
+bars_confidence: shape = (43,)
+bars_start: shape = (43,)
+beats_confidence: shape = (181,)
+beats_start: shape = (181,)
+danceability: 0.0
+duration: 126.17098
+end_of_fade_in: 0.282
+energy: 0.0
+key: 6
+key_confidence: 0.22
+loudness: -6.551
+mode: 1
+mode_confidence: 0.258
+release: Split CD
+release_7digitalid: 223464
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (319,)
+segments_loudness_max: shape = (319,)
+segments_loudness_max_time: shape = (319,)
+segments_loudness_start: shape = (319,)
+segments_pitches: shape = (319, 12)
+segments_start: shape = (319,)
+segments_timbre: shape = (319, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.443919913471
+song_id: SOVHTXW12A8C141298
+start_of_fade_out: 119.211
+tatums_confidence: shape = (541,)
+tatums_start: shape = (541,)
+tempo: 88.053
+time_signature: 4
+time_signature_confidence: 0.678
+title: Xenophobic Hate Machine
+track_7digitalid: 2441282
+track_id: TRBFCZL128F42915B0
+year: 2005

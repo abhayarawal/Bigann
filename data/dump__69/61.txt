@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 206
+artist_familiarity: 0.766958300021
+artist_hotttnesss: 0.411295232392
+artist_id: ARHAEXZ1187FB54F3C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3fb49f5a-fdc0-4789-9c84-22b38b3f3cb5
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: N.E.R.D.
+artist_playmeid: 33544
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: dbf41715643fb51c3ab7c776c3736561
+bars_confidence: shape = (224,)
+bars_start: shape = (224,)
+beats_confidence: shape = (224,)
+beats_start: shape = (224,)
+danceability: 0.0
+duration: 221.54404
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.725
+loudness: -5.005
+mode: 1
+mode_confidence: 0.581
+release: Fly Or Die
+release_7digitalid: 10598
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (769,)
+segments_loudness_max: shape = (769,)
+segments_loudness_max_time: shape = (769,)
+segments_loudness_start: shape = (769,)
+segments_pitches: shape = (769, 12)
+segments_start: shape = (769,)
+segments_timbre: shape = (769, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.27893839017
+song_id: SORCKJU12A67021859
+start_of_fade_out: 218.5
+tatums_confidence: shape = (673,)
+tatums_start: shape = (673,)
+tempo: 61.303
+time_signature: 1
+time_signature_confidence: 1.0
+title: Don't Worry About It (Edited)
+track_7digitalid: 108765
+track_id: TRAXUHM128E078900C
+year: 2004

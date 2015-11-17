@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1169
+artist_familiarity: 0.796419804371
+artist_hotttnesss: 0.574497025958
+artist_id: AR3MSAN1187B98F06B
+artist_latitude: 33.74831
+artist_location: Atlanta, GA
+artist_longitude: -84.39111
+artist_mbid: 73fdb566-a9b1-494c-9f32-51768ec9fd27
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: OutKast
+artist_playmeid: 1214
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: e5f4e21e15c0916aa2be743206e03fbc
+bars_confidence: shape = (45,)
+bars_start: shape = (45,)
+beats_confidence: shape = (188,)
+beats_start: shape = (188,)
+danceability: 0.0
+duration: 118.9873
+end_of_fade_in: 0.386
+energy: 0.0
+key: 1
+key_confidence: 0.792
+loudness: -10.817
+mode: 1
+mode_confidence: 0.638
+release: ATLiens
+release_7digitalid: 294860
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (568,)
+segments_loudness_max: shape = (568,)
+segments_loudness_max_time: shape = (568,)
+segments_loudness_start: shape = (568,)
+segments_pitches: shape = (568, 12)
+segments_start: shape = (568,)
+segments_timbre: shape = (568, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.769733162276
+song_id: SOARSSE12A58A7BA9A
+start_of_fade_out: 113.505
+tatums_confidence: shape = (377,)
+tatums_start: shape = (377,)
+tempo: 95.381
+time_signature: 4
+time_signature_confidence: 1.0
+title: Wailin'
+track_7digitalid: 3333831
+track_id: TRAOZEJ128F428CCEA
+year: 1996

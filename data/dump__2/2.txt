@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 565099
+artist_familiarity: 0.464481281541
+artist_hotttnesss: 0.0
+artist_id: ARDDHGI126E2B3AA76
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8a2c0c47-14de-44c0-9d81-a12a59cf5808
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pascal Sangla
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: eb9d638918738e878a9f81576fa37bbf
+bars_confidence: shape = (91,)
+bars_start: shape = (91,)
+beats_confidence: shape = (373,)
+beats_start: shape = (373,)
+danceability: 0.0
+duration: 243.1473
+end_of_fade_in: 0.525
+energy: 0.0
+key: 9
+key_confidence: 0.847
+loudness: -14.737
+mode: 1
+mode_confidence: 0.639
+release: Une petite pause
+release_7digitalid: 755756
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (665,)
+segments_loudness_max: shape = (665,)
+segments_loudness_max_time: shape = (665,)
+segments_loudness_start: shape = (665,)
+segments_pitches: shape = (665, 12)
+segments_start: shape = (665,)
+segments_timbre: shape = (665, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOJVWBA12AB018C326
+start_of_fade_out: 235.886
+tatums_confidence: shape = (746,)
+tatums_start: shape = (746,)
+tempo: 93.238
+time_signature: 4
+time_signature_confidence: 0.521
+title: Une petite pause
+track_7digitalid: 8366584
+track_id: TRAAPLS12903CB2D40
+year: 2010

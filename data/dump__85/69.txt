@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 111885
+artist_familiarity: 0.497942106066
+artist_hotttnesss: 0.341073301047
+artist_id: AR63RWN1187FB3E89A
+artist_latitude: 34.56039
+artist_location: Marvell, AR
+artist_longitude: -90.91387
+artist_mbid: 2b520be3-0bfe-4904-b372-d04b8cc161ec
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Robert Lockwood_ Jr.
+artist_playmeid: 47650
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 9ceb016fe87e7e97b48515e33d7b5b10
+bars_confidence: shape = (258,)
+bars_start: shape = (258,)
+beats_confidence: shape = (258,)
+beats_start: shape = (258,)
+danceability: 0.0
+duration: 162.45506
+end_of_fade_in: 0.374
+energy: 0.0
+key: 2
+key_confidence: 0.491
+loudness: -13.158
+mode: 1
+mode_confidence: 0.569
+release: I Got To Find Me A Woman
+release_7digitalid: 369461
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (520,)
+segments_loudness_max: shape = (520,)
+segments_loudness_max_time: shape = (520,)
+segments_loudness_start: shape = (520,)
+segments_pitches: shape = (520, 12)
+segments_start: shape = (520,)
+segments_timbre: shape = (520, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOYWVRO12AB018353B
+start_of_fade_out: 150.013
+tatums_confidence: shape = (517,)
+tatums_start: shape = (517,)
+tempo: 99.701
+time_signature: 1
+time_signature_confidence: 0.089
+title: Kindhearted Woman Blues
+track_7digitalid: 4114967
+track_id: TRBDLIB128F9338167
+year: 1998

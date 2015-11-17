@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 142205
+artist_familiarity: 0.601245988381
+artist_hotttnesss: 0.461026520548
+artist_id: AR2S4CA1187B99632E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 652ce480-5f04-4601-9e2d-9b41b42a5ce6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: FFH
+artist_playmeid: 8354
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: f8bcc7e17e828df0a197bb1f55925884
+bars_confidence: shape = (145,)
+bars_start: shape = (145,)
+beats_confidence: shape = (586,)
+beats_start: shape = (586,)
+danceability: 0.0
+duration: 263.83628
+end_of_fade_in: 4.772
+energy: 0.0
+key: 3
+key_confidence: 0.775
+loudness: -6.315
+mode: 1
+mode_confidence: 0.765
+release: Ready To Fly
+release_7digitalid: 487835
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (627,)
+segments_loudness_max: shape = (627,)
+segments_loudness_max_time: shape = (627,)
+segments_loudness_start: shape = (627,)
+segments_pitches: shape = (627, 12)
+segments_start: shape = (627,)
+segments_timbre: shape = (627, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3759843015
+song_id: SOTZUHM12A58A7E054
+start_of_fade_out: 250.915
+tatums_confidence: shape = (1173,)
+tatums_start: shape = (1173,)
+tempo: 138.504
+time_signature: 4
+time_signature_confidence: 0.73
+title: Here I Am
+track_7digitalid: 5414180
+track_id: TRBBHLO128F9302EA4
+year: 2003

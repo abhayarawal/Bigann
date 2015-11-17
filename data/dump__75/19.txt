@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2862
+artist_familiarity: 0.407904961115
+artist_hotttnesss: 0.298600679929
+artist_id: ARP5P651187FB5397F
+artist_latitude: 32.34922
+artist_location: Quitman, LA
+artist_longitude: -92.72139
+artist_mbid: 06ed4e1e-4416-4a7c-b14b-bc68dfd252aa
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jimmie Davis
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: d835313990b2c266c442b519689fde30
+bars_confidence: shape = (115,)
+bars_start: shape = (115,)
+beats_confidence: shape = (356,)
+beats_start: shape = (356,)
+danceability: 0.0
+duration: 183.87546
+end_of_fade_in: 0.49
+energy: 0.0
+key: 4
+key_confidence: 0.839
+loudness: -17.33
+mode: 1
+mode_confidence: 0.751
+release: You Are My Sunshine
+release_7digitalid: 699228
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (471,)
+segments_loudness_max: shape = (471,)
+segments_loudness_max_time: shape = (471,)
+segments_loudness_start: shape = (471,)
+segments_pitches: shape = (471, 12)
+segments_start: shape = (471,)
+segments_timbre: shape = (471, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWYWXS12AC468889C
+start_of_fade_out: 177.151
+tatums_confidence: shape = (356,)
+tatums_start: shape = (356,)
+tempo: 118.977
+time_signature: 3
+time_signature_confidence: 0.957
+title: It Makes No Difference
+track_7digitalid: 7758143
+track_id: TRAZRKX12903D0C4DB
+year: 0

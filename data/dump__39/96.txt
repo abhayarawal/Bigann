@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4854
+artist_familiarity: 0.488741865857
+artist_hotttnesss: 0.3506573345
+artist_id: ARV38M11187B99424D
+artist_latitude: 37.27188
+artist_location: California
+artist_longitude: -119.27023
+artist_mbid: 25b83e80-5056-4741-8558-6f45551b078c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Graham Central Station
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 311e3b8691b6b1b9362b5b33223cca6f
+bars_confidence: shape = (113,)
+bars_start: shape = (113,)
+beats_confidence: shape = (455,)
+beats_start: shape = (455,)
+danceability: 0.0
+duration: 229.27628
+end_of_fade_in: 0.479
+energy: 0.0
+key: 8
+key_confidence: 0.367
+loudness: -9.783
+mode: 0
+mode_confidence: 0.375
+release: Ain't No 'Bout-A-Doubt It
+release_7digitalid: 774167
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (947,)
+segments_loudness_max: shape = (947,)
+segments_loudness_max_time: shape = (947,)
+segments_loudness_start: shape = (947,)
+segments_pitches: shape = (947, 12)
+segments_start: shape = (947,)
+segments_timbre: shape = (947, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.488289876037
+song_id: SOITXNB12A8C144ECD
+start_of_fade_out: 226.133
+tatums_confidence: shape = (910,)
+tatums_start: shape = (910,)
+tempo: 119.633
+time_signature: 4
+time_signature_confidence: 1.0
+title: It's Alright
+track_7digitalid: 8567852
+track_id: TRANQDS12903CE3E1D
+year: 1975

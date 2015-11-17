@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 74
+artist_familiarity: 0.642280769426
+artist_hotttnesss: 0.411195687878
+artist_id: AR35YUO1187B9AD83E
+artist_latitude: 55.8578
+artist_location: Glasgow, Scotland
+artist_longitude: -4.24251
+artist_mbid: 45bbfc68-2523-49e4-96f7-d7d1c3d41aac
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Wet Wet Wet
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: ab8eada573788e9fed2df9637d172024
+bars_confidence: shape = (93,)
+bars_start: shape = (93,)
+beats_confidence: shape = (376,)
+beats_start: shape = (376,)
+danceability: 0.0
+duration: 222.69342
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.763
+loudness: -8.209
+mode: 0
+mode_confidence: 0.724
+release: Weightless
+release_7digitalid: 198441
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (655,)
+segments_loudness_max: shape = (655,)
+segments_loudness_max_time: shape = (655,)
+segments_loudness_start: shape = (655,)
+segments_pitches: shape = (655, 12)
+segments_start: shape = (655,)
+segments_timbre: shape = (655, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORGAWM12A8C135D4C
+start_of_fade_out: 213.113
+tatums_confidence: shape = (752,)
+tatums_start: shape = (752,)
+tempo: 105.95
+time_signature: 4
+time_signature_confidence: 0.85
+title: Weightless (Demo)
+track_7digitalid: 2159060
+track_id: TRAJDVT128F4252F37
+year: 0

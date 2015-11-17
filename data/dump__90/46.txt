@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40751
+artist_familiarity: 0.548882424281
+artist_hotttnesss: 0.386243700521
+artist_id: ARNUIBF1187FB4A28F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 352749d3-93dd-422c-90b0-90f46dd725eb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ray Lynch
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 69941d63f03c4edd8fe3d3502eb6b72c
+bars_confidence: shape = (142,)
+bars_start: shape = (142,)
+beats_confidence: shape = (571,)
+beats_start: shape = (571,)
+danceability: 0.0
+duration: 283.74159
+end_of_fade_in: 8.94
+energy: 0.0
+key: 6
+key_confidence: 0.538
+loudness: -16.715
+mode: 1
+mode_confidence: 0.568
+release: The Best Of Ray Lynch
+release_7digitalid: 462656
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1334,)
+segments_loudness_max: shape = (1334,)
+segments_loudness_max_time: shape = (1334,)
+segments_loudness_start: shape = (1334,)
+segments_pitches: shape = (1334, 12)
+segments_start: shape = (1334,)
+segments_timbre: shape = (1334, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.54795294198
+song_id: SOWPYIK12AB0184395
+start_of_fade_out: 274.338
+tatums_confidence: shape = (1143,)
+tatums_start: shape = (1143,)
+tempo: 122.895
+time_signature: 4
+time_signature_confidence: 0.784
+title: Ralph's Rhapsody
+track_7digitalid: 5150316
+track_id: TRBFFSS128F932F5D4
+year: 1998

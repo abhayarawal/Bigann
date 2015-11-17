@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 294223
+artist_familiarity: 0.570825322641
+artist_hotttnesss: 0.40358823765
+artist_id: ARZFRQM1187B9A9772
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 17be2a06-5295-43ca-a363-c683b562df72
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Vanessa Daou
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: dc06127a6e6a2706d103aa445df5f268
+bars_confidence: shape = (82,)
+bars_start: shape = (82,)
+beats_confidence: shape = (334,)
+beats_start: shape = (334,)
+danceability: 0.0
+duration: 167.6273
+end_of_fade_in: 0.189
+energy: 0.0
+key: 6
+key_confidence: 0.018
+loudness: -14.904
+mode: 0
+mode_confidence: 0.407
+release: Zipless (Deluxe)
+release_7digitalid: 609053
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (662,)
+segments_loudness_max: shape = (662,)
+segments_loudness_max_time: shape = (662,)
+segments_loudness_start: shape = (662,)
+segments_pitches: shape = (662, 12)
+segments_start: shape = (662,)
+segments_timbre: shape = (662, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.52549711888
+song_id: SOSFJWB12AB018906D
+start_of_fade_out: 156.497
+tatums_confidence: shape = (668,)
+tatums_start: shape = (668,)
+tempo: 123.094
+time_signature: 4
+time_signature_confidence: 0.0
+title: Smoke
+track_7digitalid: 6767773
+track_id: TRAFDXV12903D085CF
+year: 1994

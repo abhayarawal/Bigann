@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7033
+artist_familiarity: 0.920959645383
+artist_hotttnesss: 0.752794435289
+artist_id: ARVXU2X1187B9AE6D8
+artist_latitude: nan
+artist_location: New York, NY
+artist_longitude: nan
+artist_mbid: f4a31f0a-51dd-4fa7-986d-3095c40c5ed9
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Evanescence
+artist_playmeid: 578
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 1bb23804de00cd1c3fe47ed0e5ae325a
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (367,)
+beats_start: shape = (367,)
+danceability: 0.0
+duration: 255.13751
+end_of_fade_in: 0.34
+energy: 0.0
+key: 2
+key_confidence: 0.61
+loudness: -8.061
+mode: 0
+mode_confidence: 0.577
+release: Anywhere But Home (Live)
+release_7digitalid: 588222
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (736,)
+segments_loudness_max: shape = (736,)
+segments_loudness_max_time: shape = (736,)
+segments_loudness_start: shape = (736,)
+segments_pitches: shape = (736, 12)
+segments_start: shape = (736,)
+segments_timbre: shape = (736, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.732895805586
+song_id: SOLLOSO12AB0184A7A
+start_of_fade_out: 250.712
+tatums_confidence: shape = (735,)
+tatums_start: shape = (735,)
+tempo: 87.522
+time_signature: 4
+time_signature_confidence: 1.0
+title: Missing (Live in Europe)
+track_7digitalid: 6521468
+track_id: TRAWIQY12903CCC64A
+year: 0

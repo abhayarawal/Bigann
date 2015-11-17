@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 586449
+artist_familiarity: 0.340925898882
+artist_hotttnesss: 0.0899987243463
+artist_id: AR9696A1187FB550A1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 57cf8730-91a5-460c-941a-b5c2c9c6e703
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Nicolas Bacchus
+artist_playmeid: -1
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: 035a78a91df94026d785d569ff2bb6f0
+bars_confidence: shape = (9,)
+bars_start: shape = (9,)
+beats_confidence: shape = (90,)
+beats_start: shape = (90,)
+danceability: 0.0
+duration: 65.61914
+end_of_fade_in: 0.09
+energy: 0.0
+key: 0
+key_confidence: 0.295
+loudness: -18.463
+mode: 1
+mode_confidence: 0.532
+release: Balades pour enfants louches
+release_7digitalid: 785327
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (264,)
+segments_loudness_max: shape = (264,)
+segments_loudness_max_time: shape = (264,)
+segments_loudness_start: shape = (264,)
+segments_pitches: shape = (264, 12)
+segments_start: shape = (264,)
+segments_timbre: shape = (264, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWTJRG12AC9075799
+start_of_fade_out: 65.619
+tatums_confidence: shape = (272,)
+tatums_start: shape = (272,)
+tempo: 83.574
+time_signature: 7
+time_signature_confidence: 0.846
+title: Préliminaires_ par Philippe Pagès (feat. Philippe Pagès)
+track_7digitalid: 8688214
+track_id: TRBCOJM12903D0136F
+year: 2002

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1015
+artist_familiarity: 0.655921417588
+artist_hotttnesss: 0.578301633597
+artist_id: AR9W3X91187FB3994C
+artist_latitude: nan
+artist_location: Chiswick, London, England
+artist_longitude: nan
+artist_mbid: 401c3991-b76b-499d-8082-9f2df958ef78
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Phil Collins
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 5dd04848431326c082cdd428b2fdcb0d
+bars_confidence: shape = (156,)
+bars_start: shape = (156,)
+beats_confidence: shape = (628,)
+beats_start: shape = (628,)
+danceability: 0.0
+duration: 316.39465
+end_of_fade_in: 0.193
+energy: 0.0
+key: 5
+key_confidence: 0.0
+loudness: -11.763
+mode: 0
+mode_confidence: 0.19
+release: Hello_ I Must Be Going
+release_7digitalid: 40837
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1413,)
+segments_loudness_max: shape = (1413,)
+segments_loudness_max_time: shape = (1413,)
+segments_loudness_start: shape = (1413,)
+segments_pitches: shape = (1413, 12)
+segments_start: shape = (1413,)
+segments_timbre: shape = (1413, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.551921514942
+song_id: SOJRFYT12A6D4F9972
+start_of_fade_out: 299.259
+tatums_confidence: shape = (1256,)
+tatums_start: shape = (1256,)
+tempo: 121.044
+time_signature: 4
+time_signature_confidence: 1.0
+title: I Cannot Believe It's True
+track_7digitalid: 435057
+track_id: TRAOATJ128F147FC9B
+year: 1982

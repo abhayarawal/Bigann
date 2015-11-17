@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 61234
+artist_familiarity: 0.664924362444
+artist_hotttnesss: 0.496381145682
+artist_id: ARN0DMU1187FB5B63A
+artist_latitude: nan
+artist_location: Philadelphia, Pennsylvania
+artist_longitude: nan
+artist_mbid: debabff3-2559-46e5-862d-ef2a906d7010
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Daryl Hall & John Oates
+artist_playmeid: 2724
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 637906175cb578999ee1dcbf5d54f16a
+bars_confidence: shape = (158,)
+bars_start: shape = (158,)
+beats_confidence: shape = (633,)
+beats_start: shape = (633,)
+danceability: 0.0
+duration: 216.34567
+end_of_fade_in: 3.901
+energy: 0.0
+key: 10
+key_confidence: 0.0
+loudness: -5.745
+mode: 1
+mode_confidence: 0.0
+release: Livetime
+release_7digitalid: 305508
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (723,)
+segments_loudness_max: shape = (723,)
+segments_loudness_max_time: shape = (723,)
+segments_loudness_start: shape = (723,)
+segments_pitches: shape = (723, 12)
+segments_start: shape = (723,)
+segments_timbre: shape = (723, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOTBSZ12A8C140223
+start_of_fade_out: 216.346
+tatums_confidence: shape = (1266,)
+tatums_start: shape = (1266,)
+tempo: 178.825
+time_signature: 4
+time_signature_confidence: 0.244
+title: Rich Girl
+track_7digitalid: 3448851
+track_id: TRBGGWQ128F42A88CF
+year: 1976

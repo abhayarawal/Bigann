@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4854
+artist_familiarity: 0.480282622975
+artist_hotttnesss: 0.3506573345
+artist_id: ARV38M11187B99424D
+artist_latitude: 37.27188
+artist_location: California
+artist_longitude: -119.27023
+artist_mbid: 25b83e80-5056-4741-8558-6f45551b078c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Larry Graham & Graham Central Station
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: fbbfbe8b0739a7c2eabd241900dd99c6
+bars_confidence: shape = (111,)
+bars_start: shape = (111,)
+beats_confidence: shape = (448,)
+beats_start: shape = (448,)
+danceability: 0.0
+duration: 277.62893
+end_of_fade_in: 0.479
+energy: 0.0
+key: 6
+key_confidence: 0.713
+loudness: -12.546
+mode: 0
+mode_confidence: 0.8
+release: My Radio Sure Sounds Good To Me
+release_7digitalid: 786540
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1215,)
+segments_loudness_max: shape = (1215,)
+segments_loudness_max_time: shape = (1215,)
+segments_loudness_start: shape = (1215,)
+segments_pitches: shape = (1215, 12)
+segments_start: shape = (1215,)
+segments_timbre: shape = (1215, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHCRES12AC3DF6BD1
+start_of_fade_out: 266.867
+tatums_confidence: shape = (1791,)
+tatums_start: shape = (1791,)
+tempo: 97.103
+time_signature: 4
+time_signature_confidence: 0.116
+title: Turn It Out
+track_7digitalid: 8704138
+track_id: TRAGKHQ12903D0518B
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15380
+artist_familiarity: 0.448318719434
+artist_hotttnesss: 0.356612934017
+artist_id: ARYTJPJ1187FB4ABCC
+artist_latitude: 45.51228
+artist_location: Montreal, Quebec, Canada
+artist_longitude: -73.55439
+artist_mbid: 13c554b5-e1c1-4de9-8432-f4c66f7949f1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cliff Edwards/Disney Studio Chorus
+artist_playmeid: 21125
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: ab310e0622fb29fc4ee16df854a3e742
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (318,)
+beats_start: shape = (318,)
+danceability: 0.0
+duration: 193.67138
+end_of_fade_in: 2.844
+energy: 0.0
+key: 4
+key_confidence: 0.631
+loudness: -8.615
+mode: 1
+mode_confidence: 0.562
+release: Julie Andrews Selects Her Favourite Disney Songs
+release_7digitalid: 151155
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (433,)
+segments_loudness_max: shape = (433,)
+segments_loudness_max_time: shape = (433,)
+segments_loudness_start: shape = (433,)
+segments_pitches: shape = (433, 12)
+segments_start: shape = (433,)
+segments_timbre: shape = (433, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEKGLO12A8C1363DE
+start_of_fade_out: 188.488
+tatums_confidence: shape = (318,)
+tatums_start: shape = (318,)
+tempo: 98.752
+time_signature: 3
+time_signature_confidence: 0.949
+title: When You Wish Upon A Star
+track_7digitalid: 1579259
+track_id: TRAVGZF128F4260E6F
+year: 1991

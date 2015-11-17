@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 154506
+artist_familiarity: 0.496905061044
+artist_hotttnesss: 0.361928798159
+artist_id: ARYR56R1187FB3DEEE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b3620030-fdea-4cf4-b9b0-cb5121451e53
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Pepe Romero
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: ca856425ab24b2e74db050a023a07f57
+bars_confidence: shape = (282,)
+bars_start: shape = (282,)
+beats_confidence: shape = (854,)
+beats_start: shape = (854,)
+danceability: 0.0
+duration: 397.06077
+end_of_fade_in: 5.625
+energy: 0.0
+key: 2
+key_confidence: 0.626
+loudness: -30.478
+mode: 1
+mode_confidence: 0.558
+release: Albéniz / Granados / Romero / Sor: Guitar Solos
+release_7digitalid: 144485
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1127,)
+segments_loudness_max: shape = (1127,)
+segments_loudness_max_time: shape = (1127,)
+segments_loudness_start: shape = (1127,)
+segments_pitches: shape = (1127, 12)
+segments_start: shape = (1127,)
+segments_timbre: shape = (1127, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKWHFT12A8C13780E
+start_of_fade_out: 382.816
+tatums_confidence: shape = (1707,)
+tatums_start: shape = (1707,)
+tempo: 132.053
+time_signature: 3
+time_signature_confidence: 0.363
+title: Mallorca_ Op.202 - transcr. Marc Switzer
+track_7digitalid: 2237685
+track_id: TRBCRVT128F4264E2A
+year: 0

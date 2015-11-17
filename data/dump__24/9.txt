@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 333304
+artist_familiarity: 0.245370722972
+artist_hotttnesss: 0.0
+artist_id: ARFEU2G1187FB54B2F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 425cec98-c712-4975-9915-b23dfa75b85d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tel Basta
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: f23556de8e5f8fb67f5a71d7967c8d6c
+bars_confidence: shape = (143,)
+bars_start: shape = (143,)
+beats_confidence: shape = (431,)
+beats_start: shape = (431,)
+danceability: 0.0
+duration: 220.36853
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.421
+loudness: -12.383
+mode: 0
+mode_confidence: 0.457
+release: Lickerish
+release_7digitalid: 450834
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (609,)
+segments_loudness_max: shape = (609,)
+segments_loudness_max_time: shape = (609,)
+segments_loudness_start: shape = (609,)
+segments_pitches: shape = (609, 12)
+segments_start: shape = (609,)
+segments_timbre: shape = (609, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLZCDF12AB017DF6B
+start_of_fade_out: 209.31
+tatums_confidence: shape = (861,)
+tatums_start: shape = (861,)
+tempo: 120.349
+time_signature: 3
+time_signature_confidence: 0.598
+title: I'm Poured Out Like Water
+track_7digitalid: 5007049
+track_id: TRAICGE128F930DFDE
+year: 1996

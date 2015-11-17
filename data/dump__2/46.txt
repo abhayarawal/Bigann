@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 29785
+artist_familiarity: 0.780461748777
+artist_hotttnesss: 0.574274730517
+artist_id: ARMQHX71187B9890D3
+artist_latitude: nan
+artist_location: Atlanta, GA
+artist_longitude: nan
+artist_mbid: bc5e2ad6-0a4a-4d90-b911-e9a7e6861727
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Mastodon
+artist_playmeid: -1
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 2e81d69bfb798492f4f70ba694728a74
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (358,)
+beats_start: shape = (358,)
+danceability: 0.0
+duration: 233.58649
+end_of_fade_in: 0.229
+energy: 0.0
+key: 2
+key_confidence: 0.604
+loudness: -3.937
+mode: 1
+mode_confidence: 0.402
+release: Call of the Mastodon
+release_7digitalid: 223563
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (860,)
+segments_loudness_max: shape = (860,)
+segments_loudness_max_time: shape = (860,)
+segments_loudness_start: shape = (860,)
+segments_pitches: shape = (860, 12)
+segments_start: shape = (860,)
+segments_timbre: shape = (860, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.784194615956
+song_id: SODYZIU12A8C13FBD9
+start_of_fade_out: 233.586
+tatums_confidence: shape = (1073,)
+tatums_start: shape = (1073,)
+tempo: 89.78
+time_signature: 4
+time_signature_confidence: 0.0
+title: Shadows That Move
+track_7digitalid: 2442518
+track_id: TRAATIU128F4291A84
+year: 2001

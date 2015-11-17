@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15464
+artist_familiarity: 0.334542783657
+artist_hotttnesss: 0.0490343808485
+artist_id: AROIHOI122988FEB8E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mario Rosenstock
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 9a79dd741477d68b428afc3895d69a51
+bars_confidence: shape = (12,)
+bars_start: shape = (12,)
+beats_confidence: shape = (61,)
+beats_start: shape = (61,)
+danceability: 0.0
+duration: 29.49179
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.0
+loudness: -11.043
+mode: 1
+mode_confidence: 0.0
+release: Gift Grub 7
+release_7digitalid: 49859
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (81,)
+segments_loudness_max: shape = (81,)
+segments_loudness_max_time: shape = (81,)
+segments_loudness_start: shape = (81,)
+segments_pitches: shape = (81, 12)
+segments_start: shape = (81,)
+segments_timbre: shape = (81, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBHBII12A6D4F9FFA
+start_of_fade_out: 26.906
+tatums_confidence: shape = (121,)
+tatums_start: shape = (121,)
+tempo: 126.476
+time_signature: 5
+time_signature_confidence: 1.0
+title: HUM
+track_7digitalid: 525869
+track_id: TRANQZI128F14901EE
+year: 0

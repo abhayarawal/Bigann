@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 229621
+artist_familiarity: 0.351182453883
+artist_hotttnesss: 0.0801669386642
+artist_id: AR051KA1187B98B2FF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9db08847-f7a8-4cd2-a425-3ab4adc5b4d3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Wilks featuring doniki
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: bc24a6675c2be63ea6d19e2e0cb7736a
+bars_confidence: shape = (175,)
+bars_start: shape = (175,)
+beats_confidence: shape = (706,)
+beats_start: shape = (706,)
+danceability: 0.0
+duration: 255.00689
+end_of_fade_in: 0.299
+energy: 0.0
+key: 7
+key_confidence: 0.627
+loudness: -10.791
+mode: 1
+mode_confidence: 0.639
+release: Smiling
+release_7digitalid: 288453
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1061,)
+segments_loudness_max: shape = (1061,)
+segments_loudness_max_time: shape = (1061,)
+segments_loudness_start: shape = (1061,)
+segments_pitches: shape = (1061, 12)
+segments_start: shape = (1061,)
+segments_timbre: shape = (1061, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMWNSA12A8C1343F1
+start_of_fade_out: 240.756
+tatums_confidence: shape = (1413,)
+tatums_start: shape = (1413,)
+tempo: 170.702
+time_signature: 4
+time_signature_confidence: 0.203
+title: Fly to zion
+track_7digitalid: 3237608
+track_id: TRAFIDH128F4275C0D
+year: 0

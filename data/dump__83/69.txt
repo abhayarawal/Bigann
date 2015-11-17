@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 34024
+artist_familiarity: 0.565482350696
+artist_hotttnesss: 0.391242506015
+artist_id: ARV38Z81187B98E608
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9fd77a47-5432-4aed-948b-4a10fb3de52b
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: The Jets
+artist_playmeid: 89779
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: caa54de0359fac7d0d3fb7328e5e410e
+bars_confidence: shape = (65,)
+bars_start: shape = (65,)
+beats_confidence: shape = (262,)
+beats_start: shape = (262,)
+danceability: 0.0
+duration: 164.54485
+end_of_fade_in: 0.113
+energy: 0.0
+key: 11
+key_confidence: 0.172
+loudness: -14.022
+mode: 1
+mode_confidence: 0.289
+release: The Early Years
+release_7digitalid: 424048
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (777,)
+segments_loudness_max: shape = (777,)
+segments_loudness_max_time: shape = (777,)
+segments_loudness_start: shape = (777,)
+segments_pitches: shape = (777, 12)
+segments_start: shape = (777,)
+segments_timbre: shape = (777, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTARLM12AB0189263
+start_of_fade_out: 154.424
+tatums_confidence: shape = (1048,)
+tatums_start: shape = (1048,)
+tempo: 97.243
+time_signature: 4
+time_signature_confidence: 0.719
+title: Steppin' Out Tonight
+track_7digitalid: 4731585
+track_id: TRBCSMO128F9342B20
+year: 0

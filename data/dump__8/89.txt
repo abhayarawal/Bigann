@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 95538
+artist_familiarity: 0.324128628318
+artist_hotttnesss: 0.191193993486
+artist_id: ARDGBFI1269FCD6AA6
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1b5001de-400a-406f-be12-160cf503854f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Grease Band
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 2fb67b93d495daea8da11e8fdf8c91e8
+bars_confidence: shape = (165,)
+bars_start: shape = (165,)
+beats_confidence: shape = (664,)
+beats_start: shape = (664,)
+danceability: 0.0
+duration: 325.25016
+end_of_fade_in: 2.728
+energy: 0.0
+key: 6
+key_confidence: 0.009
+loudness: -16.021
+mode: 1
+mode_confidence: 0.319
+release: Grease Band & Amazing Grease
+release_7digitalid: 120715
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1225,)
+segments_loudness_max: shape = (1225,)
+segments_loudness_max_time: shape = (1225,)
+segments_loudness_start: shape = (1225,)
+segments_pitches: shape = (1225, 12)
+segments_start: shape = (1225,)
+segments_timbre: shape = (1225, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.219482171717
+song_id: SODYMWS12A8C141577
+start_of_fade_out: 309.29
+tatums_confidence: shape = (1328,)
+tatums_start: shape = (1328,)
+tempo: 123.891
+time_signature: 4
+time_signature_confidence: 0.491
+title: Laughed At The Judge
+track_7digitalid: 1248312
+track_id: TRACXQB128F42A7FA1
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41167
+artist_familiarity: 0.597113362831
+artist_hotttnesss: 0.376556981046
+artist_id: AR82GTS1187FB5662F
+artist_latitude: 53.41961
+artist_location: Ireland
+artist_longitude: -8.24055
+artist_mbid: dcc0e816-31d2-4501-93c6-b5b64fcda39f
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Mary Black
+artist_playmeid: -1
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 72fbeb7e6687ff4009e6b7dc343d0214
+bars_confidence: shape = (34,)
+bars_start: shape = (34,)
+beats_confidence: shape = (219,)
+beats_start: shape = (219,)
+danceability: 0.0
+duration: 310.20363
+end_of_fade_in: 0.089
+energy: 0.0
+key: 2
+key_confidence: 0.035
+loudness: -12.67
+mode: 0
+mode_confidence: 0.374
+release: 25 Years/25 Songs
+release_7digitalid: 218508
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (827,)
+segments_loudness_max: shape = (827,)
+segments_loudness_max_time: shape = (827,)
+segments_loudness_start: shape = (827,)
+segments_pitches: shape = (827, 12)
+segments_start: shape = (827,)
+segments_timbre: shape = (827, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOXNVHD12A8C13CD75
+start_of_fade_out: 294.121
+tatums_confidence: shape = (877,)
+tatums_start: shape = (877,)
+tempo: 42.75
+time_signature: 4
+time_signature_confidence: 0.0
+title: Sweet Love
+track_7digitalid: 2383465
+track_id: TRATCAZ128F4284985
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 87883
+artist_familiarity: 0.547938241204
+artist_hotttnesss: 0.374791219264
+artist_id: AR37ILI1187B98E27B
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: 748161b8-ec62-4423-b6f1-3a8026190ebb
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Shriekback
+artist_playmeid: -1
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: a2fb620e288699749145cd02a863e371
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (268,)
+beats_start: shape = (268,)
+danceability: 0.0
+duration: 234.68363
+end_of_fade_in: 0.305
+energy: 0.0
+key: 8
+key_confidence: 0.54
+loudness: -5.968
+mode: 1
+mode_confidence: 0.525
+release: Glory Bumps
+release_7digitalid: 220006
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (990,)
+segments_loudness_max: shape = (990,)
+segments_loudness_max_time: shape = (990,)
+segments_loudness_start: shape = (990,)
+segments_pitches: shape = (990, 12)
+segments_start: shape = (990,)
+segments_timbre: shape = (990, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.249296920098
+song_id: SOOGPJF12A8C13F9EF
+start_of_fade_out: 228.554
+tatums_confidence: shape = (1340,)
+tatums_start: shape = (1340,)
+tempo: 70.074
+time_signature: 3
+time_signature_confidence: 0.863
+title: Squanderer
+track_7digitalid: 2401288
+track_id: TRAZKCX128F4288F26
+year: 2007

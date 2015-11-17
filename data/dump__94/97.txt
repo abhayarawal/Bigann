@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 328794
+artist_familiarity: 0.291433259678
+artist_hotttnesss: 0.150857762445
+artist_id: AR502DZ1187B98F8E1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bc73bbad-ebd9-45c0-8581-260304b9c008
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Brian Dullaghan
+artist_playmeid: -1
+artist_terms: shape = (9,)
+artist_terms_freq: shape = (9,)
+artist_terms_weight: shape = (9,)
+audio_md5: be9bc7004df4fdc67a03b5c387454a8d
+bars_confidence: shape = (77,)
+bars_start: shape = (77,)
+beats_confidence: shape = (235,)
+beats_start: shape = (235,)
+danceability: 0.0
+duration: 147.80036
+end_of_fade_in: 0.502
+energy: 0.0
+key: 8
+key_confidence: 0.725
+loudness: -14.908
+mode: 1
+mode_confidence: 0.694
+release: Songs For A Wedding - 18 Songs For That Special Day
+release_7digitalid: 678270
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (415,)
+segments_loudness_max: shape = (415,)
+segments_loudness_max_time: shape = (415,)
+segments_loudness_start: shape = (415,)
+segments_pitches: shape = (415, 12)
+segments_start: shape = (415,)
+segments_timbre: shape = (415, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZUHVM12AB0186FAD
+start_of_fade_out: 140.817
+tatums_confidence: shape = (470,)
+tatums_start: shape = (470,)
+tempo: 99.863
+time_signature: 3
+time_signature_confidence: 1.0
+title: The Wedding
+track_7digitalid: 7524326
+track_id: TRBGSTS12903CD3528
+year: 0

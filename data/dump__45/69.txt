@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 86718
+artist_familiarity: 0.633402342202
+artist_hotttnesss: 0.414834940743
+artist_id: ARRHVGT1187B98D603
+artist_latitude: 51.16418
+artist_location: Germany
+artist_longitude: 10.45415
+artist_mbid: a4da9933-1e43-483b-98d9-8b1a32a698ad
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Dynamite Deluxe
+artist_playmeid: 66387
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 4e16c85f555b95481b5973018f339b11
+bars_confidence: shape = (42,)
+bars_start: shape = (42,)
+beats_confidence: shape = (131,)
+beats_start: shape = (131,)
+danceability: 0.0
+duration: 86.67383
+end_of_fade_in: 0.396
+energy: 0.0
+key: 9
+key_confidence: 0.424
+loudness: -10.182
+mode: 0
+mode_confidence: 0.272
+release: Deluxe Soundsystem
+release_7digitalid: 109829
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (371,)
+segments_loudness_max: shape = (371,)
+segments_loudness_max_time: shape = (371,)
+segments_loudness_start: shape = (371,)
+segments_pitches: shape = (371, 12)
+segments_start: shape = (371,)
+segments_timbre: shape = (371, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.577848620608
+song_id: SOQJIWF12A8C13D2F0
+start_of_fade_out: 81.612
+tatums_confidence: shape = (262,)
+tatums_start: shape = (262,)
+tempo: 93.298
+time_signature: 3
+time_signature_confidence: 0.693
+title: Zap Zap
+track_7digitalid: 1136619
+track_id: TRAPPEH128F4294772
+year: 2000

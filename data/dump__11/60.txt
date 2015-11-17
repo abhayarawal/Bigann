@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7534
+artist_familiarity: 0.662250483665
+artist_hotttnesss: 0.410053622676
+artist_id: ARNZPLV1187FB3DF5D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 93dda03d-c1d3-42c2-80b0-fa71bc20262b
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Capleton
+artist_playmeid: 34172
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 8778b9e2fc24ea54f9e46ca8498ccca4
+bars_confidence: shape = (81,)
+bars_start: shape = (81,)
+beats_confidence: shape = (81,)
+beats_start: shape = (81,)
+danceability: 0.0
+duration: 29.41342
+end_of_fade_in: 0.194
+energy: 0.0
+key: 3
+key_confidence: 0.189
+loudness: -15.0
+mode: 0
+mode_confidence: 0.27
+release: More Fire
+release_7digitalid: 146284
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (133,)
+segments_loudness_max: shape = (133,)
+segments_loudness_max_time: shape = (133,)
+segments_loudness_start: shape = (133,)
+segments_pitches: shape = (133, 12)
+segments_start: shape = (133,)
+segments_timbre: shape = (133, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOEHJSW12A8C135F66
+start_of_fade_out: 29.413
+tatums_confidence: shape = (161,)
+tatums_start: shape = (161,)
+tempo: 170.781
+time_signature: 1
+time_signature_confidence: 0.0
+title: Conscience Ah Heng Dem (interlude)
+track_7digitalid: 1525779
+track_id: TRADVEH128F4254C0B
+year: 2000

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8955
+artist_familiarity: 0.84065157906
+artist_hotttnesss: 0.582205564163
+artist_id: ARR1R5V1187FB4D234
+artist_latitude: nan
+artist_location: Stillwater, OK
+artist_longitude: nan
+artist_mbid: 09885b8e-f235-4b80-a02a-055539493173
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The All American Rejects
+artist_playmeid: 72
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: c8e295eebfc255bea2c5d67408555c7b
+bars_confidence: shape = (109,)
+bars_start: shape = (109,)
+beats_confidence: shape = (440,)
+beats_start: shape = (440,)
+danceability: 0.0
+duration: 185.99138
+end_of_fade_in: 0.241
+energy: 0.0
+key: 9
+key_confidence: 0.69
+loudness: -9.168
+mode: 1
+mode_confidence: 0.61
+release: Meet The Robinsons Original Soundtrack (French Version)
+release_7digitalid: 143872
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (647,)
+segments_loudness_max: shape = (647,)
+segments_loudness_max_time: shape = (647,)
+segments_loudness_start: shape = (647,)
+segments_pitches: shape = (647, 12)
+segments_start: shape = (647,)
+segments_timbre: shape = (647, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.572593044816
+song_id: SODRQHM12A8C1343AD
+start_of_fade_out: 180.599
+tatums_confidence: shape = (880,)
+tatums_start: shape = (880,)
+tempo: 146.053
+time_signature: 4
+time_signature_confidence: 0.035
+title: The Future Has Arrived
+track_7digitalid: 1501446
+track_id: TRAVLWL128F424EF6A
+year: 2007

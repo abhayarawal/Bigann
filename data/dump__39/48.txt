@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9572
+artist_familiarity: 0.663400927384
+artist_hotttnesss: 0.389157892113
+artist_id: AR80BY41187B98DECF
+artist_latitude: 33.45081
+artist_location: Indianola, MS
+artist_longitude: -90.645
+artist_mbid: 10f89195-3af1-46f5-aa36-504aa3309f5a
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Albert King
+artist_playmeid: 9899
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 960ac5055bcac2937bee0c142ab87a1e
+bars_confidence: shape = (246,)
+bars_start: shape = (246,)
+beats_confidence: shape = (740,)
+beats_start: shape = (740,)
+danceability: 0.0
+duration: 454.84363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.42
+loudness: -13.004
+mode: 1
+mode_confidence: 0.412
+release: Live In Canada
+release_7digitalid: 372628
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (1568,)
+segments_loudness_max: shape = (1568,)
+segments_loudness_max_time: shape = (1568,)
+segments_loudness_start: shape = (1568,)
+segments_pitches: shape = (1568, 12)
+segments_start: shape = (1568,)
+segments_timbre: shape = (1568, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODPBUM12A8C142299
+start_of_fade_out: 454.844
+tatums_confidence: shape = (1480,)
+tatums_start: shape = (1480,)
+tempo: 96.804
+time_signature: 3
+time_signature_confidence: 0.817
+title: I'm Gonna Move To The Outskirts Of Town - Live
+track_7digitalid: 4146827
+track_id: TRANMSI128F92CB1A0
+year: 0

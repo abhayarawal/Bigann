@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 445070
+artist_familiarity: 0.388546283708
+artist_hotttnesss: 0.251895538548
+artist_id: ARLOIDN1187B9B060D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 31ce7e61-ff53-487e-a4dd-fce4b375f628
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ Guy
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: a7a9994fd4c2c470960bdf3e4dc4102e
+bars_confidence: shape = (143,)
+bars_start: shape = (143,)
+beats_confidence: shape = (575,)
+beats_start: shape = (575,)
+danceability: 0.0
+duration: 237.08689
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.016
+loudness: -8.202
+mode: 1
+mode_confidence: 0.252
+release: Freak it all Night
+release_7digitalid: 598642
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1191,)
+segments_loudness_max: shape = (1191,)
+segments_loudness_max_time: shape = (1191,)
+segments_loudness_start: shape = (1191,)
+segments_pitches: shape = (1191, 12)
+segments_start: shape = (1191,)
+segments_timbre: shape = (1191, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZQQIZ12AC4687EAC
+start_of_fade_out: 233.79
+tatums_confidence: shape = (1151,)
+tatums_start: shape = (1151,)
+tempo: 146.976
+time_signature: 4
+time_signature_confidence: 0.226
+title: Freak it all Night
+track_7digitalid: 6642663
+track_id: TRBDNDV12903CE9E28
+year: 2009

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3367
+artist_familiarity: 0.580798777682
+artist_hotttnesss: 0.38934175191
+artist_id: ARMWZF41187FB387F9
+artist_latitude: nan
+artist_location: Sledge, MS
+artist_longitude: nan
+artist_mbid: 1c1de177-984d-4208-9177-ca94f8776a39
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Charley Pride
+artist_playmeid: 13330
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 21f5d81757020ed799746212e17775e0
+bars_confidence: shape = (265,)
+bars_start: shape = (265,)
+beats_confidence: shape = (265,)
+beats_start: shape = (265,)
+danceability: 0.0
+duration: 163.52608
+end_of_fade_in: 1.061
+energy: 0.0
+key: 0
+key_confidence: 0.698
+loudness: -11.943
+mode: 1
+mode_confidence: 0.631
+release: Super Hits
+release_7digitalid: 295070
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (418,)
+segments_loudness_max: shape = (418,)
+segments_loudness_max_time: shape = (418,)
+segments_loudness_start: shape = (418,)
+segments_pitches: shape = (418, 12)
+segments_start: shape = (418,)
+segments_timbre: shape = (418, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.55809476314
+song_id: SOVQONJ12A8C139C4B
+start_of_fade_out: 158.848
+tatums_confidence: shape = (530,)
+tatums_start: shape = (530,)
+tempo: 100.893
+time_signature: 1
+time_signature_confidence: 0.0
+title: Let The Chips Fall
+track_7digitalid: 3331202
+track_id: TRAIGCZ128F428C2D9
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 254962
+artist_familiarity: 0.482733228099
+artist_hotttnesss: 0.356950956425
+artist_id: ARE54I01187FB3AE3D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 19a93c4a-04d3-40e6-b0e2-c13eb0b85913
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Flink
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 8dd99fdfa051e2d3692b9a356ad8246d
+bars_confidence: shape = (146,)
+bars_start: shape = (146,)
+beats_confidence: shape = (590,)
+beats_start: shape = (590,)
+danceability: 0.0
+duration: 273.10975
+end_of_fade_in: 0.177
+energy: 0.0
+key: 2
+key_confidence: 0.282
+loudness: -4.258
+mode: 1
+mode_confidence: 0.481
+release: Moog
+release_7digitalid: 326227
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (846,)
+segments_loudness_max: shape = (846,)
+segments_loudness_max_time: shape = (846,)
+segments_loudness_start: shape = (846,)
+segments_pitches: shape = (846, 12)
+segments_start: shape = (846,)
+segments_timbre: shape = (846, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIILNW12AB017DBD6
+start_of_fade_out: 256.923
+tatums_confidence: shape = (1180,)
+tatums_start: shape = (1180,)
+tempo: 131.955
+time_signature: 4
+time_signature_confidence: 0.685
+title: Russian Doll
+track_7digitalid: 3669510
+track_id: TRAUPTJ128F92DFDF8
+year: 0

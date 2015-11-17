@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12237
+artist_familiarity: 0.647834840006
+artist_hotttnesss: 0.472451771871
+artist_id: ARXI7WU1187FB4D75E
+artist_latitude: 17.57975
+artist_location: Mali, Africa
+artist_longitude: -3.99883
+artist_mbid: 5c98fc12-be83-4246-ae5b-2184192913b9
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Tinariwen
+artist_playmeid: -1
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 924adfb32ca9cc087685a940c73a45e5
+bars_confidence: shape = (165,)
+bars_start: shape = (165,)
+beats_confidence: shape = (498,)
+beats_start: shape = (498,)
+danceability: 0.0
+duration: 328.85506
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.02
+loudness: -7.155
+mode: 1
+mode_confidence: 0.312
+release: Imidiwan: Companions
+release_7digitalid: 484128
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1164,)
+segments_loudness_max: shape = (1164,)
+segments_loudness_max_time: shape = (1164,)
+segments_loudness_start: shape = (1164,)
+segments_pitches: shape = (1164, 12)
+segments_start: shape = (1164,)
+segments_timbre: shape = (1164, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIPEHH12AB0189DFC
+start_of_fade_out: 320.726
+tatums_confidence: shape = (1496,)
+tatums_start: shape = (1496,)
+tempo: 93.325
+time_signature: 3
+time_signature_confidence: 0.736
+title: Tenhert
+track_7digitalid: 5372591
+track_id: TRAOFJZ128F92F8F65
+year: 2009

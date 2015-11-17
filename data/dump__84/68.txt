@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4387
+artist_familiarity: 0.713322146547
+artist_hotttnesss: 0.473613189375
+artist_id: AR6CLFP1187B9ACB94
+artist_latitude: nan
+artist_location: Sacramento, CA
+artist_longitude: nan
+artist_mbid: 8a7ca8b0-d23c-4eff-8fe9-6220ba5c9c76
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Daniel Johnston
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 89a3cd2d71a2d3bc32f8cb9be3bbc539
+bars_confidence: shape = (337,)
+bars_start: shape = (337,)
+beats_confidence: shape = (337,)
+beats_start: shape = (337,)
+danceability: 0.0
+duration: 214.49098
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.281
+loudness: -14.966
+mode: 0
+mode_confidence: 0.427
+release: Welcome to my World
+release_7digitalid: 546441
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (981,)
+segments_loudness_max: shape = (981,)
+segments_loudness_max_time: shape = (981,)
+segments_loudness_start: shape = (981,)
+segments_pitches: shape = (981, 12)
+segments_start: shape = (981,)
+segments_timbre: shape = (981, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIASWH12AB017F44C
+start_of_fade_out: 211.383
+tatums_confidence: shape = (1010,)
+tatums_start: shape = (1010,)
+tempo: 95.385
+time_signature: 1
+time_signature_confidence: 0.0
+title: Walking The Cow (Hi How Are You)
+track_7digitalid: 6043954
+track_id: TRBDBJY128F93257C3
+year: 0

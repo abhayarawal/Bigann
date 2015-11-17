@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 146913
+artist_familiarity: 0.560658456502
+artist_hotttnesss: 0.273667970028
+artist_id: ARFG9M11187FB3BBCB
+artist_latitude: nan
+artist_location: Nashua USA
+artist_longitude: nan
+artist_mbid: 105cb876-cf7e-4b67-a485-61c0cfe7011b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: C-Side & Petit Mal
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 027620a909fab8a97bd80b428e99e0d5
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (474,)
+beats_start: shape = (474,)
+danceability: 0.0
+duration: 212.47955
+end_of_fade_in: 3.019
+energy: 0.0
+key: 4
+key_confidence: 0.236
+loudness: -11.828
+mode: 0
+mode_confidence: 0.33
+release: Swarm Warnings
+release_7digitalid: 91448
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1060,)
+segments_loudness_max: shape = (1060,)
+segments_loudness_max_time: shape = (1060,)
+segments_loudness_start: shape = (1060,)
+segments_pitches: shape = (1060, 12)
+segments_start: shape = (1060,)
+segments_timbre: shape = (1060, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUYGWL12A58A7A474
+start_of_fade_out: 205.357
+tatums_confidence: shape = (947,)
+tatums_start: shape = (947,)
+tempo: 135.087
+time_signature: 4
+time_signature_confidence: 0.931
+title: Mudhump
+track_7digitalid: 969872
+track_id: TRACFEG128F426F4F3
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 260860
+artist_familiarity: 0.683066099167
+artist_hotttnesss: 0.44596943444
+artist_id: AR1K7TQ11C8A414EC8
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: de67cb81-4de5-4c8d-a27b-1f653a463850
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Knux
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: f67a8f8e13dd97688615c452601c97d4
+bars_confidence: shape = (116,)
+bars_start: shape = (116,)
+beats_confidence: shape = (466,)
+beats_start: shape = (466,)
+danceability: 0.0
+duration: 200.25424
+end_of_fade_in: 0.299
+energy: 0.0
+key: 1
+key_confidence: 0.014
+loudness: -4.825
+mode: 1
+mode_confidence: 0.285
+release: Bang! Bang!
+release_7digitalid: 344897
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (862,)
+segments_loudness_max: shape = (862,)
+segments_loudness_max_time: shape = (862,)
+segments_loudness_start: shape = (862,)
+segments_pitches: shape = (862, 12)
+segments_start: shape = (862,)
+segments_timbre: shape = (862, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.576860140605
+song_id: SOGPESA12AB0180D65
+start_of_fade_out: 198.153
+tatums_confidence: shape = (931,)
+tatums_start: shape = (931,)
+tempo: 140.119
+time_signature: 4
+time_signature_confidence: 0.582
+title: Bang! Bang!
+track_7digitalid: 3863500
+track_id: TRATUPO128F9305A5C
+year: 2008

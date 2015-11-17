@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 35758
+artist_familiarity: 0.423401377256
+artist_hotttnesss: 0.375652824002
+artist_id: ARCII0J1187FB3A1B4
+artist_latitude: 40.71455
+artist_location: New York City, New York
+artist_longitude: -74.00712
+artist_mbid: 36f93472-e1c2-45bc-b141-801e79b7de14
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Marx Brothers
+artist_playmeid: 86080
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 5b776901892818a25bb5c7438ae80cda
+bars_confidence: shape = (21,)
+bars_start: shape = (21,)
+beats_confidence: shape = (112,)
+beats_start: shape = (112,)
+danceability: 0.0
+duration: 116.37506
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.071
+loudness: -14.639
+mode: 1
+mode_confidence: 0.473
+release: Horse Feathers / Animal Crackers
+release_7digitalid: 237206
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (381,)
+segments_loudness_max: shape = (381,)
+segments_loudness_max_time: shape = (381,)
+segments_loudness_start: shape = (381,)
+segments_pitches: shape = (381, 12)
+segments_start: shape = (381,)
+segments_timbre: shape = (381, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOJVAAE12A8BED74B1
+start_of_fade_out: 108.501
+tatums_confidence: shape = (336,)
+tatums_start: shape = (336,)
+tempo: 60.778
+time_signature: 4
+time_signature_confidence: 0.078
+title: You Must Do Your Best Tonight / I Represent/Animal Crackers
+track_7digitalid: 2602588
+track_id: TRARMFD128F4231386
+year: 0

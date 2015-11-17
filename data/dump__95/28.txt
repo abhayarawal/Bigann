@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 51701
+artist_familiarity: 0.631442224258
+artist_hotttnesss: 0.448840337604
+artist_id: ARS03Y81187B98E6ED
+artist_latitude: nan
+artist_location: Manchester, CT
+artist_longitude: nan
+artist_mbid: 5bb916d8-ee9e-4dee-84df-08d6f07a418c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Life In Your Way
+artist_playmeid: 118185
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 57744d6533237cfa0bdfcd2b4540be8c
+bars_confidence: shape = (39,)
+bars_start: shape = (39,)
+beats_confidence: shape = (281,)
+beats_start: shape = (281,)
+danceability: 0.0
+duration: 198.05995
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.818
+loudness: -4.62
+mode: 1
+mode_confidence: 0.698
+release: Ignite And Rebuild
+release_7digitalid: 246006
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (596,)
+segments_loudness_max: shape = (596,)
+segments_loudness_max_time: shape = (596,)
+segments_loudness_start: shape = (596,)
+segments_pitches: shape = (596, 12)
+segments_start: shape = (596,)
+segments_timbre: shape = (596, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.457447167085
+song_id: SOCRCJB12A8C1340CD
+start_of_fade_out: 198.06
+tatums_confidence: shape = (1123,)
+tatums_start: shape = (1123,)
+tempo: 90.356
+time_signature: 7
+time_signature_confidence: 0.764
+title: When Rules Change
+track_7digitalid: 2670562
+track_id: TRBGWGD128F42418B2
+year: 2005

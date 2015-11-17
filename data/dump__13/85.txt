@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 256653
+artist_familiarity: 0.544979447587
+artist_hotttnesss: 0.366713431626
+artist_id: AR4EVIX1187B993DE9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7a08d4fb-e5c1-4c39-a99b-1908ca2e83b4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Alceu Valença
+artist_playmeid: 71417
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 7ce935db6b511c7a268c66dbaa86c0e6
+bars_confidence: shape = (162,)
+bars_start: shape = (162,)
+beats_confidence: shape = (489,)
+beats_start: shape = (489,)
+danceability: 0.0
+duration: 205.87057
+end_of_fade_in: 0.168
+energy: 0.0
+key: 2
+key_confidence: 1.0
+loudness: -9.813
+mode: 1
+mode_confidence: 0.617
+release: 2 Em 1
+release_7digitalid: 35149
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (951,)
+segments_loudness_max: shape = (951,)
+segments_loudness_max_time: shape = (951,)
+segments_loudness_start: shape = (951,)
+segments_pitches: shape = (951, 12)
+segments_start: shape = (951,)
+segments_timbre: shape = (951, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.479116089261
+song_id: SODTDTD12A6D4F7D7B
+start_of_fade_out: 196.487
+tatums_confidence: shape = (1467,)
+tatums_start: shape = (1467,)
+tempo: 144.162
+time_signature: 3
+time_signature_confidence: 0.678
+title: Sete Desejos
+track_7digitalid: 376730
+track_id: TRAEQPB128F1475024
+year: 1992

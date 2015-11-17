@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11518
+artist_familiarity: 0.683845006608
+artist_hotttnesss: 0.454785379496
+artist_id: ARKZ68G1187B98B189
+artist_latitude: 53.79449
+artist_location: Leeds, England
+artist_longitude: -1.54658
+artist_mbid: d8661c02-f423-4d72-8044-40ff05daf7a1
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Gang Of Four
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: b0fb642ad29851008e4ebe5a030d7d4f
+bars_confidence: shape = (115,)
+bars_start: shape = (115,)
+beats_confidence: shape = (465,)
+beats_start: shape = (465,)
+danceability: 0.0
+duration: 196.49261
+end_of_fade_in: 0.433
+energy: 0.0
+key: 9
+key_confidence: 0.172
+loudness: -11.796
+mode: 1
+mode_confidence: 0.202
+release: Hard
+release_7digitalid: 303719
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (725,)
+segments_loudness_max: shape = (725,)
+segments_loudness_max_time: shape = (725,)
+segments_loudness_start: shape = (725,)
+segments_pitches: shape = (725, 12)
+segments_start: shape = (725,)
+segments_timbre: shape = (725, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.382935090075
+song_id: SOYLJYK12A8C13D18D
+start_of_fade_out: 183.89
+tatums_confidence: shape = (930,)
+tatums_start: shape = (930,)
+tempo: 143.606
+time_signature: 4
+time_signature_confidence: 1.0
+title: A Piece Of My Heart
+track_7digitalid: 3416657
+track_id: TRBFLSD128F42A0F4C
+year: 1983

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18460
+artist_familiarity: 0.826075466699
+artist_hotttnesss: 0.59960264265
+artist_id: ARLSF8H1187B9A76B0
+artist_latitude: nan
+artist_location: Oslo, Norway
+artist_longitude: nan
+artist_mbid: 17167af8-c1da-45cc-bba2-9d23f068b7a3
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Dimmu Borgir
+artist_playmeid: 7454
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 6c63e3d241ddef33aafac5eba6bf13b1
+bars_confidence: shape = (242,)
+bars_start: shape = (242,)
+beats_confidence: shape = (977,)
+beats_start: shape = (977,)
+danceability: 0.0
+duration: 313.88689
+end_of_fade_in: 0.38
+energy: 0.0
+key: 1
+key_confidence: 0.684
+loudness: -2.307
+mode: 1
+mode_confidence: 0.53
+release: Puritanical Euphoric Misanthropia
+release_7digitalid: 133624
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (773,)
+segments_loudness_max: shape = (773,)
+segments_loudness_max_time: shape = (773,)
+segments_loudness_start: shape = (773,)
+segments_pitches: shape = (773, 12)
+segments_start: shape = (773,)
+segments_timbre: shape = (773, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYWMGK12A8C13D279
+start_of_fade_out: 307.542
+tatums_confidence: shape = (1954,)
+tatums_start: shape = (1954,)
+tempo: 186.848
+time_signature: 4
+time_signature_confidence: 0.0
+title: Sympozium
+track_7digitalid: 1118276
+track_id: TRAWFVE128F42912CA
+year: 2001

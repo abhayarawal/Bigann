@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 454693
+artist_familiarity: 0.256241161289
+artist_hotttnesss: 0.0
+artist_id: ARBEZ581187B9A4B4B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d9c88ccd-34e3-4df8-bd16-493c6af8bcc7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jay Randall
+artist_playmeid: -1
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: 2c3a7f6e2f3461f1ea959bda93f238e3
+bars_confidence: shape = (59,)
+bars_start: shape = (59,)
+beats_confidence: shape = (242,)
+beats_start: shape = (242,)
+danceability: 0.0
+duration: 222.24934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.36
+loudness: -19.547
+mode: 0
+mode_confidence: 0.401
+release: Cajun Jay
+release_7digitalid: 651082
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (867,)
+segments_loudness_max: shape = (867,)
+segments_loudness_max_time: shape = (867,)
+segments_loudness_start: shape = (867,)
+segments_pitches: shape = (867, 12)
+segments_start: shape = (867,)
+segments_timbre: shape = (867, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.210588544224
+song_id: SOCFAPK12AB018A10D
+start_of_fade_out: 222.249
+tatums_confidence: shape = (970,)
+tatums_start: shape = (970,)
+tempo: 65.64
+time_signature: 4
+time_signature_confidence: 0.0
+title: Mathilda
+track_7digitalid: 7212715
+track_id: TRATNDJ128F9359840
+year: 0

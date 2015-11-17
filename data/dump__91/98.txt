@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 546932
+artist_familiarity: 0.386115944252
+artist_hotttnesss: 0.270408647226
+artist_id: ARBGVEC1272BA8350B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Josh Mullins
+artist_playmeid: -1
+artist_terms: shape = (8,)
+artist_terms_freq: shape = (8,)
+artist_terms_weight: shape = (8,)
+audio_md5: dc2a932045cf9b793f630b83881c4ce5
+bars_confidence: shape = (226,)
+bars_start: shape = (226,)
+beats_confidence: shape = (226,)
+beats_start: shape = (226,)
+danceability: 0.0
+duration: 162.01098
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.0
+loudness: -13.675
+mode: 0
+mode_confidence: 0.085
+release: I Wouldn't Buy This Either
+release_7digitalid: 733120
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (615,)
+segments_loudness_max: shape = (615,)
+segments_loudness_max_time: shape = (615,)
+segments_loudness_start: shape = (615,)
+segments_pitches: shape = (615, 12)
+segments_start: shape = (615,)
+segments_timbre: shape = (615, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMOUFN12AC4688186
+start_of_fade_out: 157.524
+tatums_confidence: shape = (453,)
+tatums_start: shape = (453,)
+tempo: 81.827
+time_signature: 1
+time_signature_confidence: 0.715
+title: Mom
+track_7digitalid: 8120463
+track_id: TRBFTFY12903CEDB2F
+year: 0

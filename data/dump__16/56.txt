@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 89684
+artist_familiarity: 0.567814264001
+artist_hotttnesss: 0.376688631022
+artist_id: AR1GYND1187B9A9CD3
+artist_latitude: 38.43773
+artist_location: Santa Rosa, California
+artist_longitude: -122.71242
+artist_mbid: 044cb251-d596-40e2-a4a8-6b2943af05c9
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Diesel Boy
+artist_playmeid: 38194
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 22cf413cda500e0a4bdc95bbd6b5db0d
+bars_confidence: shape = (451,)
+bars_start: shape = (451,)
+beats_confidence: shape = (451,)
+beats_start: shape = (451,)
+danceability: 0.0
+duration: 152.65914
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.508
+loudness: -3.478
+mode: 1
+mode_confidence: 0.563
+release: Rode Hard and Put Away Wet
+release_7digitalid: 557621
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (506,)
+segments_loudness_max: shape = (506,)
+segments_loudness_max_time: shape = (506,)
+segments_loudness_start: shape = (506,)
+segments_pitches: shape = (506, 12)
+segments_start: shape = (506,)
+segments_timbre: shape = (506, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.299877488274
+song_id: SOEHEYS12AB0181F19
+start_of_fade_out: 143.755
+tatums_confidence: shape = (902,)
+tatums_start: shape = (902,)
+tempo: 181.748
+time_signature: 1
+time_signature_confidence: 0.0
+title: Pocket Full Of Stars
+track_7digitalid: 6167443
+track_id: TRAFQFD128F9343706
+year: 2001

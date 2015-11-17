@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 60411
+artist_familiarity: 0.557094504715
+artist_hotttnesss: 0.415303642581
+artist_id: ARUTP601187FB388AC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8d05c917-cae7-43f1-9357-7a66c52a1921
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Elders
+artist_playmeid: 50278
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 08eaaf08d201995273eeb36eea6ab296
+bars_confidence: shape = (172,)
+bars_start: shape = (172,)
+beats_confidence: shape = (693,)
+beats_start: shape = (693,)
+danceability: 0.0
+duration: 274.46812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.123
+loudness: -8.545
+mode: 1
+mode_confidence: 0.24
+release: The Best Crowd We Ever Had
+release_7digitalid: 196469
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (884,)
+segments_loudness_max: shape = (884,)
+segments_loudness_max_time: shape = (884,)
+segments_loudness_start: shape = (884,)
+segments_pitches: shape = (884, 12)
+segments_start: shape = (884,)
+segments_timbre: shape = (884, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOISSJU12A8C135C04
+start_of_fade_out: 263.129
+tatums_confidence: shape = (1385,)
+tatums_start: shape = (1385,)
+tempo: 151.726
+time_signature: 4
+time_signature_confidence: 0.49
+title: Fire in the Hole
+track_7digitalid: 2135405
+track_id: TRARWYG128F424D766
+year: 0

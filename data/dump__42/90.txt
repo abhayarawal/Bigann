@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 513339
+artist_familiarity: 0.508188067491
+artist_hotttnesss: 0.0
+artist_id: AR8T56O1187FB51C41
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a2b33ca3-35a3-46b8-8e41-bd793fce2d13
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bruford
+artist_playmeid: 203279
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 4df1ea85f288c5ea258a7f35acaff589
+bars_confidence: shape = (140,)
+bars_start: shape = (140,)
+beats_confidence: shape = (448,)
+beats_start: shape = (448,)
+danceability: 0.0
+duration: 351.42485
+end_of_fade_in: 4.859
+energy: 0.0
+key: 6
+key_confidence: 0.381
+loudness: -14.857
+mode: 0
+mode_confidence: 0.385
+release: One Of A Kind
+release_7digitalid: 690506
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1072,)
+segments_loudness_max: shape = (1072,)
+segments_loudness_max_time: shape = (1072,)
+segments_loudness_start: shape = (1072,)
+segments_pitches: shape = (1072, 12)
+segments_start: shape = (1072,)
+segments_timbre: shape = (1072, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQZALM12AC468BFEE
+start_of_fade_out: 341.769
+tatums_confidence: shape = (1345,)
+tatums_start: shape = (1345,)
+tempo: 78.136
+time_signature: 3
+time_signature_confidence: 1.0
+title: Forever Until Sunday
+track_7digitalid: 7663405
+track_id: TRAOPGC12903CF53F8
+year: 1979

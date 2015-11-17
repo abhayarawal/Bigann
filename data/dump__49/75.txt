@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 36514
+artist_familiarity: 0.6898005928
+artist_hotttnesss: 0.533842727049
+artist_id: ARVBP9K1187FB48254
+artist_latitude: 43.64856
+artist_location: Toronto, Ontario, Canada
+artist_longitude: -79.38533
+artist_mbid: 00b952be-6c97-4880-84f9-06de584b491b
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Cancer Bats
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 2c60c8628530f9e1c1969146fe83fcc1
+bars_confidence: shape = (71,)
+bars_start: shape = (71,)
+beats_confidence: shape = (289,)
+beats_start: shape = (289,)
+danceability: 0.0
+duration: 159.29424
+end_of_fade_in: 0.136
+energy: 0.0
+key: 5
+key_confidence: 0.412
+loudness: -3.276
+mode: 1
+mode_confidence: 0.402
+release: Kerrang! The Album '09
+release_7digitalid: 538716
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (446,)
+segments_loudness_max: shape = (446,)
+segments_loudness_max_time: shape = (446,)
+segments_loudness_start: shape = (446,)
+segments_pitches: shape = (446, 12)
+segments_start: shape = (446,)
+segments_timbre: shape = (446, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.51596363072
+song_id: SOCYIJP12AB018135F
+start_of_fade_out: 156.45
+tatums_confidence: shape = (578,)
+tatums_start: shape = (578,)
+tempo: 110.096
+time_signature: 4
+time_signature_confidence: 0.0
+title: Engine Skull
+track_7digitalid: 5964841
+track_id: TRAQYWJ128F931282C
+year: 2009

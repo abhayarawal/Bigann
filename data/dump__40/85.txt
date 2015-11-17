@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 169
+artist_familiarity: 0.825805386192
+artist_hotttnesss: 0.661382924338
+artist_id: ARH3S5S1187FB4F76B
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: 9282c8b4-ca0b-4c6b-b7e3-4f7762dfc4d6
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Nirvana
+artist_playmeid: 188210
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 9db49f390a40de5f9d9f6cf82b913214
+bars_confidence: shape = (112,)
+bars_start: shape = (112,)
+beats_confidence: shape = (451,)
+beats_start: shape = (451,)
+danceability: 0.0
+duration: 160.33914
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.526
+loudness: -5.864
+mode: 0
+mode_confidence: 0.501
+release: From The Muddy Banks Of The Wishkah
+release_7digitalid: 14329
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (397,)
+segments_loudness_max: shape = (397,)
+segments_loudness_max_time: shape = (397,)
+segments_loudness_start: shape = (397,)
+segments_pitches: shape = (397, 12)
+segments_start: shape = (397,)
+segments_timbre: shape = (397, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.807705235662
+song_id: SOLWTDG12A6701E978
+start_of_fade_out: 156.259
+tatums_confidence: shape = (903,)
+tatums_start: shape = (903,)
+tempo: 170.069
+time_signature: 4
+time_signature_confidence: 0.401
+title: School
+track_7digitalid: 148350
+track_id: TRANWZE128E078EE09
+year: 0

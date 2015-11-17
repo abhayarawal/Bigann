@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4782
+artist_familiarity: 0.71189384129
+artist_hotttnesss: 0.535163042124
+artist_id: ARQOATR1187B9AE959
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: e3434cc7-d348-491a-9dc8-325af3d9086d
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Jane's Addiction
+artist_playmeid: 6380
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 95700eef0aaa320818ce469cba4b6565
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (337,)
+beats_start: shape = (337,)
+danceability: 0.0
+duration: 229.61587
+end_of_fade_in: 0.316
+energy: 0.0
+key: 7
+key_confidence: 0.034
+loudness: -3.782
+mode: 0
+mode_confidence: 0.455
+release: Strays
+release_7digitalid: 150174
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (594,)
+segments_loudness_max: shape = (594,)
+segments_loudness_max_time: shape = (594,)
+segments_loudness_start: shape = (594,)
+segments_pitches: shape = (594, 12)
+segments_start: shape = (594,)
+segments_timbre: shape = (594, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.6301876272
+song_id: SOWCTVQ12A8C134C64
+start_of_fade_out: 218.825
+tatums_confidence: shape = (1346,)
+tatums_start: shape = (1346,)
+tempo: 92.099
+time_signature: 4
+time_signature_confidence: 0.855
+title: True Nature
+track_7digitalid: 1564919
+track_id: TRBBJAJ128F425DA40
+year: 2003

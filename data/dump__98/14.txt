@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: -1
+artist_familiarity: 0.291673534994
+artist_hotttnesss: 0.447199722004
+artist_id: ARXUCPO12086C169A4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 334d914a-b3a8-4b97-ab1c-f6258116881f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Frank Sinatra
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 463dab6c2b7a7c40479c7b77156fd920
+bars_confidence: shape = (72,)
+bars_start: shape = (72,)
+beats_confidence: shape = (289,)
+beats_start: shape = (289,)
+danceability: 0.0
+duration: 166.05995
+end_of_fade_in: 0.442
+energy: 0.0
+key: 9
+key_confidence: 0.481
+loudness: -18.197
+mode: 0
+mode_confidence: 0.562
+release: Francis Albert Sinatra & Antonio Carlos Jobim
+release_7digitalid: 360271
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (533,)
+segments_loudness_max: shape = (533,)
+segments_loudness_max_time: shape = (533,)
+segments_loudness_start: shape = (533,)
+segments_pitches: shape = (533, 12)
+segments_start: shape = (533,)
+segments_timbre: shape = (533, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXRFSL12A58A78723
+start_of_fade_out: 155.881
+tatums_confidence: shape = (578,)
+tatums_start: shape = (578,)
+tempo: 107.597
+time_signature: 4
+time_signature_confidence: 0.0
+title: Quiet Nights Of Quiet Stars [Corcovado] [The Frank Sinatra Collection]
+track_7digitalid: 4014427
+track_id: TRBHSVR128F9324499
+year: 1967

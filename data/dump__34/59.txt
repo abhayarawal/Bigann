@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 44333
+artist_familiarity: 0.616453999652
+artist_hotttnesss: 0.458400493994
+artist_id: AR41O131187FB51448
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e6e600e1-1597-4301-9f0f-158ecab5bf43
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ Isaac
+artist_playmeid: 89161
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: a3c5949f705a4490ef72560fabe13470
+bars_confidence: shape = (767,)
+bars_start: shape = (767,)
+beats_confidence: shape = (767,)
+beats_start: shape = (767,)
+danceability: 0.0
+duration: 274.18077
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.551
+loudness: -6.282
+mode: 0
+mode_confidence: 0.65
+release: Best Of DJ Isaac
+release_7digitalid: 438975
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1322,)
+segments_loudness_max: shape = (1322,)
+segments_loudness_max_time: shape = (1322,)
+segments_loudness_start: shape = (1322,)
+segments_pitches: shape = (1322, 12)
+segments_start: shape = (1322,)
+segments_timbre: shape = (1322, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHFBGI12AB01831E1
+start_of_fade_out: 266.815
+tatums_confidence: shape = (1534,)
+tatums_start: shape = (1534,)
+tempo: 172.133
+time_signature: 1
+time_signature_confidence: 0.0
+title: The Hardway
+track_7digitalid: 4886866
+track_id: TRALTLC128F92F2974
+year: 0

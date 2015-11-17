@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16929
+artist_familiarity: 0.705881776978
+artist_hotttnesss: 0.491178953749
+artist_id: ARDSWIE1187FB39056
+artist_latitude: nan
+artist_location: Boston, Massachusettes
+artist_longitude: nan
+artist_mbid: 9ef8042a-2528-4f5c-b7c1-5e72b1efe170
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Gang Starr
+artist_playmeid: 2938
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: d8be204d80806fe751ccaaac48e4665f
+bars_confidence: shape = (81,)
+bars_start: shape = (81,)
+beats_confidence: shape = (337,)
+beats_start: shape = (337,)
+danceability: 0.0
+duration: 218.38322
+end_of_fade_in: 0.334
+energy: 0.0
+key: 2
+key_confidence: 0.161
+loudness: -10.112
+mode: 1
+mode_confidence: 0.325
+release: Hard To Earn
+release_7digitalid: 27698
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1049,)
+segments_loudness_max: shape = (1049,)
+segments_loudness_max_time: shape = (1049,)
+segments_loudness_start: shape = (1049,)
+segments_pitches: shape = (1049, 12)
+segments_start: shape = (1049,)
+segments_timbre: shape = (1049, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.585116487167
+song_id: SOTELUQ12A6D4F7CFD
+start_of_fade_out: 207.459
+tatums_confidence: shape = (675,)
+tatums_start: shape = (675,)
+tempo: 91.399
+time_signature: 4
+time_signature_confidence: 1.0
+title: Mostly Tha Voice (Explicit)
+track_7digitalid: 306504
+track_id: TRAPISC128F14671D3
+year: 1994

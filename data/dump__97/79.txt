@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 129497
+artist_familiarity: 0.469948212228
+artist_hotttnesss: 0.338104616266
+artist_id: ARQX3GF1187FB4F18B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 48d9d8ca-5b12-4611-ac57-8df56792d2a1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Insects
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: dcc3e16bfe3ad5b12eb3cfe76892df58
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (344,)
+beats_start: shape = (344,)
+danceability: 0.0
+duration: 226.40281
+end_of_fade_in: 10.617
+energy: 0.0
+key: 0
+key_confidence: 0.071
+loudness: -7.332
+mode: 1
+mode_confidence: 0.512
+release: Free the Hard Way
+release_7digitalid: 632530
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (877,)
+segments_loudness_max: shape = (877,)
+segments_loudness_max_time: shape = (877,)
+segments_loudness_start: shape = (877,)
+segments_pitches: shape = (877, 12)
+segments_start: shape = (877,)
+segments_timbre: shape = (877, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SORDEXW12AB01844BE
+start_of_fade_out: 221.112
+tatums_confidence: shape = (687,)
+tatums_start: shape = (687,)
+tempo: 90.217
+time_signature: 4
+time_signature_confidence: 0.459
+title: Winds of Change
+track_7digitalid: 7021728
+track_id: TRBHQBT128F932AFAD
+year: 0

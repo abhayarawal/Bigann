@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 107743
+artist_familiarity: 0.444926412883
+artist_hotttnesss: 0.344814468704
+artist_id: ARQDYV0119B866800F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 77e2ffd8-1c3a-4f55-a93e-1b1bd0c342aa
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gertrudis
+artist_playmeid: 24454
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 5f87c78f695d0c2cf2a59aa45b72da97
+bars_confidence: shape = (97,)
+bars_start: shape = (97,)
+beats_confidence: shape = (392,)
+beats_start: shape = (392,)
+danceability: 0.0
+duration: 215.562
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.567
+loudness: -6.433
+mode: 1
+mode_confidence: 0.483
+release: Teta
+release_7digitalid: 137257
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1009,)
+segments_loudness_max: shape = (1009,)
+segments_loudness_max_time: shape = (1009,)
+segments_loudness_start: shape = (1009,)
+segments_pitches: shape = (1009, 12)
+segments_start: shape = (1009,)
+segments_timbre: shape = (1009, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTKPYP12A8AE46BBE
+start_of_fade_out: 210.112
+tatums_confidence: shape = (1565,)
+tatums_start: shape = (1565,)
+tempo: 111.953
+time_signature: 4
+time_signature_confidence: 1.0
+title: La Nit De Reis
+track_7digitalid: 1421960
+track_id: TRAJKNA128F423EA49
+year: 2003

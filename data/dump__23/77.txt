@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6822
+artist_familiarity: 0.639614201178
+artist_hotttnesss: 0.464550280679
+artist_id: ARTL6FB1187FB4EAA7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4939695e-1f38-496f-978f-4ebf9ef13e9d
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Kool Keith
+artist_playmeid: 147085
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 23507da1de45ad2696e643ee67ea7259
+bars_confidence: shape = (167,)
+bars_start: shape = (167,)
+beats_confidence: shape = (671,)
+beats_start: shape = (671,)
+danceability: 0.0
+duration: 222.30159
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.459
+loudness: -4.224
+mode: 0
+mode_confidence: 0.451
+release: Official Space Tape
+release_7digitalid: 347392
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1106,)
+segments_loudness_max: shape = (1106,)
+segments_loudness_max_time: shape = (1106,)
+segments_loudness_start: shape = (1106,)
+segments_pitches: shape = (1106, 12)
+segments_start: shape = (1106,)
+segments_timbre: shape = (1106, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.323112120895
+song_id: SONYMCA12AB0184228
+start_of_fade_out: 222.302
+tatums_confidence: shape = (1342,)
+tatums_start: shape = (1342,)
+tempo: 181.208
+time_signature: 4
+time_signature_confidence: 0.0
+title: Wanna Be A Star
+track_7digitalid: 3887475
+track_id: TRAHZXY128F930A09A
+year: 1996

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 516
+artist_familiarity: 0.674970293048
+artist_hotttnesss: 0.424953084113
+artist_id: ARZS5VW1187FB567E8
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a7412cd0-e0b8-4fa1-8d24-75bb92a84946
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: William Orbit
+artist_playmeid: 1695
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 0e499d4f8644ce03c4545d43abaf9812
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (417,)
+beats_start: shape = (417,)
+danceability: 0.0
+duration: 199.8624
+end_of_fade_in: 0.287
+energy: 0.0
+key: 5
+key_confidence: 0.64
+loudness: -21.82
+mode: 1
+mode_confidence: 0.705
+release: Pieces In A Modern Style
+release_7digitalid: 768978
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (634,)
+segments_loudness_max: shape = (634,)
+segments_loudness_max_time: shape = (634,)
+segments_loudness_start: shape = (634,)
+segments_pitches: shape = (634, 12)
+segments_start: shape = (634,)
+segments_timbre: shape = (634, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.504034340805
+song_id: SOQKFHB12AB0186B13
+start_of_fade_out: 187.96
+tatums_confidence: shape = (835,)
+tatums_start: shape = (835,)
+tempo: 131.281
+time_signature: 4
+time_signature_confidence: 0.887
+title: Cavalleria Rusticana
+track_7digitalid: 8515140
+track_id: TRARZBX12903CD70DA
+year: 2000

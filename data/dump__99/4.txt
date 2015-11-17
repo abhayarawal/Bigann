@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6051
+artist_familiarity: 0.915823253033
+artist_hotttnesss: 0.655283798415
+artist_id: ARBEOHF1187B9B044D
+artist_latitude: nan
+artist_location: Bay City, MI
+artist_longitude: nan
+artist_mbid: 79239441-bfd5-4981-a70c-55c3f15c1287
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Madonna
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: ab1dcede80835d3b653d9d1ef6231ec5
+bars_confidence: shape = (135,)
+bars_start: shape = (135,)
+beats_confidence: shape = (545,)
+beats_start: shape = (545,)
+danceability: 0.0
+duration: 269.58322
+end_of_fade_in: 0.198
+energy: 0.0
+key: 5
+key_confidence: 0.153
+loudness: -3.579
+mode: 0
+mode_confidence: 0.38
+release: Celebration
+release_7digitalid: 589241
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1038,)
+segments_loudness_max: shape = (1038,)
+segments_loudness_max_time: shape = (1038,)
+segments_loudness_start: shape = (1038,)
+segments_pitches: shape = (1038, 12)
+segments_start: shape = (1038,)
+segments_timbre: shape = (1038, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.725984187468
+song_id: SOMNXCC12AB0187BE7
+start_of_fade_out: 259.802
+tatums_confidence: shape = (1090,)
+tatums_start: shape = (1090,)
+tempo: 121.948
+time_signature: 4
+time_signature_confidence: 0.303
+title: Papa Don't Preach
+track_7digitalid: 6533305
+track_id: TRBIBLJ12903CCF436
+year: 1986

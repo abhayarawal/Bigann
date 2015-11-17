@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 149235
+artist_familiarity: 0.668055686858
+artist_hotttnesss: 0.464152439053
+artist_id: ART8F8O1187B9A538D
+artist_latitude: nan
+artist_location: Salzburg, Austria
+artist_longitude: nan
+artist_mbid: d2ced2f1-6b58-47cf-ae87-5943e2ab6d99
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Herbert  von Karajan
+artist_playmeid: 24643
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 57eeb19fe174fbfa30afd5670bdcbd4e
+bars_confidence: shape = (31,)
+bars_start: shape = (31,)
+beats_confidence: shape = (249,)
+beats_start: shape = (249,)
+danceability: 0.0
+duration: 198.45179
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.345
+loudness: -20.731
+mode: 0
+mode_confidence: 0.342
+release: Karajan: Stravinsky - Oedipus Rex; Bruckner - Te Deum
+release_7digitalid: 198162
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (460,)
+segments_loudness_max: shape = (460,)
+segments_loudness_max_time: shape = (460,)
+segments_loudness_start: shape = (460,)
+segments_pitches: shape = (460, 12)
+segments_start: shape = (460,)
+segments_timbre: shape = (460, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJBWKS12A8C135255
+start_of_fade_out: 195.744
+tatums_confidence: shape = (498,)
+tatums_start: shape = (498,)
+tempo: 75.377
+time_signature: 7
+time_signature_confidence: 0.433
+title: Oedipus Rex_ Atto Primo: Liberi_ Vos Liberabo (Oedipus) (Stravinsky)
+track_7digitalid: 2155234
+track_id: TRATFJI128F4252046
+year: 0

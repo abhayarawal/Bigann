@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 34150
+artist_familiarity: 0.62797075309
+artist_hotttnesss: 0.455884678552
+artist_id: ARMDBW21187FB37126
+artist_latitude: 16.85576
+artist_location: Barbados, West Indies
+artist_longitude: -69.46854
+artist_mbid: 7db590cd-d7e6-4b36-b4e7-e8209426b02d
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Grandmaster Flash
+artist_playmeid: 7170
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 3b9f41b6dab30ff66a891881771fbc80
+bars_confidence: shape = (75,)
+bars_start: shape = (75,)
+beats_confidence: shape = (303,)
+beats_start: shape = (303,)
+danceability: 0.0
+duration: 197.79873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.11
+loudness: -16.323
+mode: 1
+mode_confidence: 0.308
+release: On The Strength
+release_7digitalid: 774158
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (875,)
+segments_loudness_max: shape = (875,)
+segments_loudness_max_time: shape = (875,)
+segments_loudness_start: shape = (875,)
+segments_pitches: shape = (875, 12)
+segments_start: shape = (875,)
+segments_timbre: shape = (875, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOAYSDV12AB0186EE0
+start_of_fade_out: 185.458
+tatums_confidence: shape = (1212,)
+tatums_start: shape = (1212,)
+tempo: 93.856
+time_signature: 4
+time_signature_confidence: 1.0
+title: The King
+track_7digitalid: 8567676
+track_id: TRAZLCH12903CE3D6D
+year: 0

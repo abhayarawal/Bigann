@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 411129
+artist_familiarity: 0.58600005828
+artist_hotttnesss: 0.409550595364
+artist_id: AR02PUA1187FB52574
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a58debc2-2ce8-4cad-8db9-619466a025be
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Hoodfellas
+artist_playmeid: 150433
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: fbf686aaa83c932e3c06cbde3d7711fa
+bars_confidence: shape = (96,)
+bars_start: shape = (96,)
+beats_confidence: shape = (487,)
+beats_start: shape = (487,)
+danceability: 0.0
+duration: 227.082
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.038
+loudness: -4.872
+mode: 0
+mode_confidence: 0.0
+release: Game Over
+release_7digitalid: 555336
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1111,)
+segments_loudness_max: shape = (1111,)
+segments_loudness_max_time: shape = (1111,)
+segments_loudness_start: shape = (1111,)
+segments_pitches: shape = (1111, 12)
+segments_start: shape = (1111,)
+segments_timbre: shape = (1111, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.289362697824
+song_id: SOXNASC12AB01874DF
+start_of_fade_out: 224.253
+tatums_confidence: shape = (974,)
+tatums_start: shape = (974,)
+tempo: 130.011
+time_signature: 5
+time_signature_confidence: 1.0
+title: If you Seek Amy
+track_7digitalid: 6140177
+track_id: TRBBREF128F933CCDD
+year: 0

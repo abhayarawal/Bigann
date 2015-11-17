@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2087
+artist_familiarity: 0.632779015937
+artist_hotttnesss: 0.447206656844
+artist_id: ARR5CEB1187FB5A3FF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f4c639bd-5f03-45ac-9d32-4937a4384723
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Restless Heart
+artist_playmeid: 2988
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 702e3d2b865dce248df13d14346b8a34
+bars_confidence: shape = (98,)
+bars_start: shape = (98,)
+beats_confidence: shape = (395,)
+beats_start: shape = (395,)
+danceability: 0.0
+duration: 210.46812
+end_of_fade_in: 0.421
+energy: 0.0
+key: 9
+key_confidence: 0.568
+loudness: -13.644
+mode: 1
+mode_confidence: 0.53
+release: Greatest Hits
+release_7digitalid: 297013
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (709,)
+segments_loudness_max: shape = (709,)
+segments_loudness_max_time: shape = (709,)
+segments_loudness_start: shape = (709,)
+segments_pitches: shape = (709, 12)
+segments_start: shape = (709,)
+segments_timbre: shape = (709, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXAOIN12A8C138D34
+start_of_fade_out: 191.402
+tatums_confidence: shape = (789,)
+tatums_start: shape = (789,)
+tempo: 114.382
+time_signature: 4
+time_signature_confidence: 0.0
+title: That Rock Won't Roll
+track_7digitalid: 3349412
+track_id: TRAGCTZ128F4290974
+year: 1986

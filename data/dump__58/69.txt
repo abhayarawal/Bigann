@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 507172
+artist_familiarity: 0.42562724003
+artist_hotttnesss: 0.0
+artist_id: ARWXHRS1241B9C7A1E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Thomas Battenstein
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: e50880cbdf4c84d7c596c45ffc1d657a
+bars_confidence: shape = (151,)
+bars_start: shape = (151,)
+beats_confidence: shape = (758,)
+beats_start: shape = (758,)
+danceability: 0.0
+duration: 342.20363
+end_of_fade_in: 0.264
+energy: 0.0
+key: 5
+key_confidence: 0.0
+loudness: -13.774
+mode: 1
+mode_confidence: 0.075
+release: Light & Colours
+release_7digitalid: 683398
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1473,)
+segments_loudness_max: shape = (1473,)
+segments_loudness_max_time: shape = (1473,)
+segments_loudness_start: shape = (1473,)
+segments_pitches: shape = (1473, 12)
+segments_start: shape = (1473,)
+segments_timbre: shape = (1473, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKWBGF12AC3DFB033
+start_of_fade_out: 334.373
+tatums_confidence: shape = (2272,)
+tatums_start: shape = (2272,)
+tempo: 134.132
+time_signature: 5
+time_signature_confidence: 0.903
+title: East West
+track_7digitalid: 7586505
+track_id: TRAUAZA12903CE27E8
+year: 0

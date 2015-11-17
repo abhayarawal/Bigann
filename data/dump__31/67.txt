@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40054
+artist_familiarity: 0.621201748405
+artist_hotttnesss: 0.374365680245
+artist_id: ARJW7KB1187FB47C36
+artist_latitude: 43.21183
+artist_location: Carcassonne, France
+artist_longitude: 2.3584
+artist_mbid: 5083e4bf-3246-4ab9-a6d3-23be8db8db2c
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Olivia Ruiz
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 436abda1a247ea7a0f49538d3b067a45
+bars_confidence: shape = (330,)
+bars_start: shape = (330,)
+beats_confidence: shape = (993,)
+beats_start: shape = (993,)
+danceability: 0.0
+duration: 252.86485
+end_of_fade_in: 0.357
+energy: 0.0
+key: 5
+key_confidence: 0.625
+loudness: -8.328
+mode: 0
+mode_confidence: 0.659
+release: La Femme Chocolat
+release_7digitalid: 371451
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (833,)
+segments_loudness_max: shape = (833,)
+segments_loudness_max_time: shape = (833,)
+segments_loudness_start: shape = (833,)
+segments_pitches: shape = (833, 12)
+segments_start: shape = (833,)
+segments_timbre: shape = (833, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.535953801666
+song_id: SORMLXW12A58A76039
+start_of_fade_out: 243.908
+tatums_confidence: shape = (993,)
+tatums_start: shape = (993,)
+tempo: 241.892
+time_signature: 3
+time_signature_confidence: 0.663
+title: Vitrier
+track_7digitalid: 4133325
+track_id: TRAKSPS128F933B3D9
+year: 2005

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 206256
+artist_familiarity: 0.490073499587
+artist_hotttnesss: 0.334782293473
+artist_id: ARJEPNS1187FB3DEF4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8f867e44-d3fb-4ae1-9177-5b186a64afce
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Angel Romero / The Academy of St. Martin in the Fields / Iona Brown
+artist_playmeid: 17404
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: daa7cfb344236ee0ac3ef15cb272e7c6
+bars_confidence: shape = (60,)
+bars_start: shape = (60,)
+beats_confidence: shape = (242,)
+beats_start: shape = (242,)
+danceability: 0.0
+duration: 141.322
+end_of_fade_in: 1.1
+energy: 0.0
+key: 2
+key_confidence: 0.708
+loudness: -29.128
+mode: 0
+mode_confidence: 0.66
+release: Baroque at Bathtime
+release_7digitalid: 348243
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (276,)
+segments_loudness_max: shape = (276,)
+segments_loudness_max_time: shape = (276,)
+segments_loudness_start: shape = (276,)
+segments_pitches: shape = (276, 12)
+segments_start: shape = (276,)
+segments_timbre: shape = (276, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOBRRQI12AB017E0A0
+start_of_fade_out: 131.286
+tatums_confidence: shape = (484,)
+tatums_start: shape = (484,)
+tempo: 106.98
+time_signature: 4
+time_signature_confidence: 0.141
+title: Largo
+track_7digitalid: 3895166
+track_id: TRAOQVC128F930B50A
+year: 0

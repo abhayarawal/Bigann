@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15205
+artist_familiarity: 0.671596269848
+artist_hotttnesss: 0.481024239212
+artist_id: AR8H87D1187FB3A841
+artist_latitude: 34.03142
+artist_location: Delight, AR
+artist_longitude: -93.50243
+artist_mbid: 57976431-1a5c-4968-a422-b92c5e9b0d4f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Glen Campbell
+artist_playmeid: 3137
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 2904e2599ec8c200b30b44b86d9b70e0
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (316,)
+beats_start: shape = (316,)
+danceability: 0.0
+duration: 142.75873
+end_of_fade_in: 0.218
+energy: 0.0
+key: 1
+key_confidence: 0.62
+loudness: -11.335
+mode: 0
+mode_confidence: 0.814
+release: Unconditional Love
+release_7digitalid: 112851
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (624,)
+segments_loudness_max: shape = (624,)
+segments_loudness_max_time: shape = (624,)
+segments_loudness_start: shape = (624,)
+segments_pitches: shape = (624, 12)
+segments_start: shape = (624,)
+segments_timbre: shape = (624, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQGFVO12A8C13C8C3
+start_of_fade_out: 135.546
+tatums_confidence: shape = (632,)
+tatums_start: shape = (632,)
+tempo: 137.29
+time_signature: 4
+time_signature_confidence: 0.0
+title: I'm Gone This Time
+track_7digitalid: 1164868
+track_id: TRAAGNL128F4299BF1
+year: 0

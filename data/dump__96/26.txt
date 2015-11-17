@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 275426
+artist_familiarity: 0.259632927295
+artist_hotttnesss: 0.347104737833
+artist_id: ARGAHPJ11F4C83E988
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 61ae5e61-646a-44bd-9b04-d2760e5e8c7b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tilman Sillescu
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: ba43e834e7b3ff2c83d1448f7eac6e57
+bars_confidence: shape = (58,)
+bars_start: shape = (58,)
+beats_confidence: shape = (236,)
+beats_start: shape = (236,)
+danceability: 0.0
+duration: 123.24526
+end_of_fade_in: 0.206
+energy: 0.0
+key: 3
+key_confidence: 0.542
+loudness: -10.844
+mode: 0
+mode_confidence: 0.522
+release: Battleforge
+release_7digitalid: 601529
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (332,)
+segments_loudness_max: shape = (332,)
+segments_loudness_max_time: shape = (332,)
+segments_loudness_start: shape = (332,)
+segments_pitches: shape = (332, 12)
+segments_start: shape = (332,)
+segments_timbre: shape = (332, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.409876612307
+song_id: SOJDEBD12AB018512D
+start_of_fade_out: 109.912
+tatums_confidence: shape = (471,)
+tatums_start: shape = (471,)
+tempo: 120.381
+time_signature: 4
+time_signature_confidence: 0.854
+title: Escape From The Underrealm
+track_7digitalid: 6678878
+track_id: TRBHEKQ12903CF2B6A
+year: 2008

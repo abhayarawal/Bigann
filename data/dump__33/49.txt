@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 47959
+artist_familiarity: 0.767020210404
+artist_hotttnesss: 0.681987760426
+artist_id: AR16GSC1187B9A6291
+artist_latitude: nan
+artist_location: Los Angeles, California
+artist_longitude: nan
+artist_mbid: f46bd570-5768-462e-b84c-c7c993bbf47e
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Eagles
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 393b5a82ab52eefa9923c53b060877bf
+bars_confidence: shape = (98,)
+bars_start: shape = (98,)
+beats_confidence: shape = (394,)
+beats_start: shape = (394,)
+danceability: 0.0
+duration: 261.17179
+end_of_fade_in: 0.183
+energy: 0.0
+key: 5
+key_confidence: 0.449
+loudness: -6.182
+mode: 1
+mode_confidence: 0.359
+release: Long Road Out Of Eden
+release_7digitalid: 166629
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (814,)
+segments_loudness_max: shape = (814,)
+segments_loudness_max_time: shape = (814,)
+segments_loudness_start: shape = (814,)
+segments_pitches: shape = (814, 12)
+segments_start: shape = (814,)
+segments_timbre: shape = (814, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.567656586768
+song_id: SOBFTEV12A8C13B4A4
+start_of_fade_out: 251.826
+tatums_confidence: shape = (789,)
+tatums_start: shape = (789,)
+tempo: 92.186
+time_signature: 4
+time_signature_confidence: 0.468
+title: I Don't Want To Hear Any More
+track_7digitalid: 1761429
+track_id: TRALJVQ128F428C764
+year: 2007

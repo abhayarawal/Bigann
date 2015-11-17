@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 97840
+artist_familiarity: 0.495066660974
+artist_hotttnesss: 0.372179877857
+artist_id: ARFONSP11F50C4D175
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Michael Bloomfield
+artist_playmeid: 14546
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 53d319e4e88fcc4c17adccbbc6ce22ec
+bars_confidence: shape = (49,)
+bars_start: shape = (49,)
+beats_confidence: shape = (207,)
+beats_start: shape = (207,)
+danceability: 0.0
+duration: 148.24444
+end_of_fade_in: 0.316
+energy: 0.0
+key: 4
+key_confidence: 0.247
+loudness: -13.4
+mode: 1
+mode_confidence: 0.669
+release: If You Love These Blues_ Play'em As You Please
+release_7digitalid: 455287
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (487,)
+segments_loudness_max: shape = (487,)
+segments_loudness_max_time: shape = (487,)
+segments_loudness_start: shape = (487,)
+segments_pitches: shape = (487, 12)
+segments_start: shape = (487,)
+segments_timbre: shape = (487, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.229144103717
+song_id: SOYNMUG12AB017FB36
+start_of_fade_out: 140.655
+tatums_confidence: shape = (415,)
+tatums_start: shape = (415,)
+tempo: 87.644
+time_signature: 4
+time_signature_confidence: 0.91
+title: I Am A Pilgrim
+track_7digitalid: 5062351
+track_id: TRAWJGE128F931A468
+year: 0

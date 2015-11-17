@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 35233
+artist_familiarity: 0.615504102642
+artist_hotttnesss: 0.439836358888
+artist_id: AR02YGA1187B9B8AC4
+artist_latitude: -34.60852
+artist_location: Buenos Aires
+artist_longitude: -58.37354
+artist_mbid: e90428f4-29ef-47b4-a081-75e415f51037
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bersuit Vergarabat
+artist_playmeid: -1
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 773458f7a015c8b7686fdfbdf959e100
+bars_confidence: shape = (171,)
+bars_start: shape = (171,)
+beats_confidence: shape = (688,)
+beats_start: shape = (688,)
+danceability: 0.0
+duration: 307.35628
+end_of_fade_in: 0.288
+energy: 0.0
+key: 6
+key_confidence: 0.376
+loudness: -7.769
+mode: 0
+mode_confidence: 0.49
+release: Testosterona
+release_7digitalid: 347917
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1193,)
+segments_loudness_max: shape = (1193,)
+segments_loudness_max_time: shape = (1193,)
+segments_loudness_start: shape = (1193,)
+segments_pitches: shape = (1193, 12)
+segments_start: shape = (1193,)
+segments_timbre: shape = (1193, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.514753324338
+song_id: SONTEWC12AB0186E51
+start_of_fade_out: 295.753
+tatums_confidence: shape = (1376,)
+tatums_start: shape = (1376,)
+tempo: 135.982
+time_signature: 4
+time_signature_confidence: 0.865
+title: Sencillamente
+track_7digitalid: 3894523
+track_id: TRACFXL128F930B28B
+year: 2005

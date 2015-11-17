@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 172607
+artist_familiarity: 0.573268061254
+artist_hotttnesss: 0.407189856262
+artist_id: ARGRMG41187B99AB1E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ae5c5f8e-65dd-4079-a03f-57b7ad145c6e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Toby Emerson
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: d334bd264d26006ce5ff567244517e3b
+bars_confidence: shape = (216,)
+bars_start: shape = (216,)
+beats_confidence: shape = (868,)
+beats_start: shape = (868,)
+danceability: 0.0
+duration: 397.42649
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.106
+loudness: -5.045
+mode: 1
+mode_confidence: 0.21
+release: Shock To The System
+release_7digitalid: 253831
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1866,)
+segments_loudness_max: shape = (1866,)
+segments_loudness_max_time: shape = (1866,)
+segments_loudness_start: shape = (1866,)
+segments_pitches: shape = (1866, 12)
+segments_start: shape = (1866,)
+segments_timbre: shape = (1866, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORYCLC12A582A293D
+start_of_fade_out: 397.426
+tatums_confidence: shape = (1737,)
+tatums_start: shape = (1737,)
+tempo: 131.045
+time_signature: 4
+time_signature_confidence: 0.0
+title: Rapture (Toby Emerson Dub) (Toby Emerson Dub)
+track_7digitalid: 2695473
+track_id: TRAFYUL128F4247173
+year: 0

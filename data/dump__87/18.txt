@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 193376
+artist_familiarity: 0.480752276169
+artist_hotttnesss: 0.417593317281
+artist_id: AROGWRA122988FEE45
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Christos Dantis
+artist_playmeid: 28246
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 4495593037b8147f31922aa2580900d2
+bars_confidence: shape = (65,)
+bars_start: shape = (65,)
+beats_confidence: shape = (264,)
+beats_start: shape = (264,)
+danceability: 0.0
+duration: 168.51546
+end_of_fade_in: 0.749
+energy: 0.0
+key: 11
+key_confidence: 0.478
+loudness: -12.908
+mode: 0
+mode_confidence: 0.542
+release: Ala
+release_7digitalid: 383169
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (622,)
+segments_loudness_max: shape = (622,)
+segments_loudness_max_time: shape = (622,)
+segments_loudness_start: shape = (622,)
+segments_pitches: shape = (622, 12)
+segments_start: shape = (622,)
+segments_timbre: shape = (622, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZPOFB12AAF3B252D
+start_of_fade_out: 161.698
+tatums_confidence: shape = (792,)
+tatums_start: shape = (792,)
+tempo: 98.063
+time_signature: 4
+time_signature_confidence: 0.0
+title: Apisti
+track_7digitalid: 4252557
+track_id: TRBDYDF128F92DF9F2
+year: 0

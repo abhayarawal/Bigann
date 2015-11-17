@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9789
+artist_familiarity: 0.682045691634
+artist_hotttnesss: 0.373464227764
+artist_id: ARGWIHH1187B9A79B0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f1ce0a98-fed9-4337-b817-398720ff6bd8
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Test Icicles
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 6f5252a3b7c382bdcf61d681b5432afb
+bars_confidence: shape = (51,)
+bars_start: shape = (51,)
+beats_confidence: shape = (235,)
+beats_start: shape = (235,)
+danceability: 0.0
+duration: 190.24934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.441
+loudness: -4.172
+mode: 0
+mode_confidence: 0.326
+release: For Screening Purposes Only
+release_7digitalid: 534031
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (573,)
+segments_loudness_max: shape = (573,)
+segments_loudness_max_time: shape = (573,)
+segments_loudness_start: shape = (573,)
+segments_pitches: shape = (573, 12)
+segments_start: shape = (573,)
+segments_timbre: shape = (573, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.543052864199
+song_id: SOLEYPL12A6D4F83CE
+start_of_fade_out: 185.289
+tatums_confidence: shape = (469,)
+tatums_start: shape = (469,)
+tempo: 75.031
+time_signature: 4
+time_signature_confidence: 1.0
+title: Snowball
+track_7digitalid: 5902774
+track_id: TRAAOIN128F9303790
+year: 2005

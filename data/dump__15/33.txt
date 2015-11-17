@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 380662
+artist_familiarity: 0.437889503073
+artist_hotttnesss: 0.309901682843
+artist_id: ARP2TO91187B9913EA
+artist_latitude: 29.95369
+artist_location: New Orleans, LA
+artist_longitude: -90.07771
+artist_mbid: bdc4daaf-b379-4520-8223-cc9649bddb21
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Angélica María
+artist_playmeid: 20649
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 3686d91d23ceff6e8770e20e242dfdc7
+bars_confidence: shape = (64,)
+bars_start: shape = (64,)
+beats_confidence: shape = (324,)
+beats_start: shape = (324,)
+danceability: 0.0
+duration: 171.2322
+end_of_fade_in: 0.16
+energy: 0.0
+key: 0
+key_confidence: 0.762
+loudness: -11.101
+mode: 1
+mode_confidence: 0.662
+release: Las Numero 1 De Angelica Maria
+release_7digitalid: 514965
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (776,)
+segments_loudness_max: shape = (776,)
+segments_loudness_max_time: shape = (776,)
+segments_loudness_start: shape = (776,)
+segments_pitches: shape = (776, 12)
+segments_start: shape = (776,)
+segments_timbre: shape = (776, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCMBTX12AB0181E7E
+start_of_fade_out: 168.275
+tatums_confidence: shape = (649,)
+tatums_start: shape = (649,)
+tempo: 114.045
+time_signature: 5
+time_signature_confidence: 0.623
+title: Una Sopita De Tu Propio Chocolate
+track_7digitalid: 5704021
+track_id: TRAFFCC128F9348D0D
+year: 1997

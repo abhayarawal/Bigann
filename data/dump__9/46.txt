@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 414156
+artist_familiarity: 0.36951673978
+artist_hotttnesss: 0.315628274421
+artist_id: ARIXPDI11E90579CD5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Los Gaiteros de San Jacinto
+artist_playmeid: 68426
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: a4b1479ed221c46b3f104804e0d4230b
+bars_confidence: shape = (161,)
+bars_start: shape = (161,)
+beats_confidence: shape = (648,)
+beats_start: shape = (648,)
+danceability: 0.0
+duration: 234.52689
+end_of_fade_in: 0.374
+energy: 0.0
+key: 2
+key_confidence: 0.812
+loudness: -21.854
+mode: 0
+mode_confidence: 0.779
+release: Un Fuego De Sangre Pura:  Los Gaiteros de San Jacinto from Colombia
+release_7digitalid: 559373
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (1057,)
+segments_loudness_max: shape = (1057,)
+segments_loudness_max_time: shape = (1057,)
+segments_loudness_start: shape = (1057,)
+segments_pitches: shape = (1057, 12)
+segments_start: shape = (1057,)
+segments_timbre: shape = (1057, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.192264381639
+song_id: SOQKGQF12AB0184865
+start_of_fade_out: 224.589
+tatums_confidence: shape = (1295,)
+tatums_start: shape = (1295,)
+tempo: 171.123
+time_signature: 4
+time_signature_confidence: 0.0
+title: El Corcovado (The Wood-Quail)
+track_7digitalid: 6192253
+track_id: TRADDBX128F93497E9
+year: 0

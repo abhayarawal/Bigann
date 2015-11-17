@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8593
+artist_familiarity: 0.517126315036
+artist_hotttnesss: 0.360145056506
+artist_id: ARKJVHY11E2835E76B
+artist_latitude: nan
+artist_location: Massachusetts
+artist_longitude: nan
+artist_mbid: b95e98f2-5511-4dc9-a089-444af424d74d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sonny Terry & Brownie McGhee
+artist_playmeid: 69238
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: bf95b2e89fe76a9c10f77c8a1360bdf4
+bars_confidence: shape = (320,)
+bars_start: shape = (320,)
+beats_confidence: shape = (320,)
+beats_start: shape = (320,)
+danceability: 0.0
+duration: 182.69995
+end_of_fade_in: 0.235
+energy: 0.0
+key: 10
+key_confidence: 0.788
+loudness: -18.526
+mode: 1
+mode_confidence: 0.531
+release: Sonny Terry & Brownie McGhee_ Vol. B (1941)
+release_7digitalid: 91292
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (692,)
+segments_loudness_max: shape = (692,)
+segments_loudness_max_time: shape = (692,)
+segments_loudness_start: shape = (692,)
+segments_pitches: shape = (692, 12)
+segments_start: shape = (692,)
+segments_timbre: shape = (692, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOUESGM12A8C136D78
+start_of_fade_out: 177.197
+tatums_confidence: shape = (639,)
+tatums_start: shape = (639,)
+tempo: 108.188
+time_signature: 1
+time_signature_confidence: 0.0
+title: Try Me One More Time
+track_7digitalid: 967373
+track_id: TRAJJON128F426EB30
+year: 0

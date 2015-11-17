@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20037
+artist_familiarity: 0.330520762509
+artist_hotttnesss: 0.228821848283
+artist_id: ARYZQIU1187FB4BBF8
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 66c769b2-5e93-4ece-a99a-ee24c8777010
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Louie Ramirez
+artist_playmeid: 203316
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 27b69587b24860a054c661ee1e5b6cab
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (361,)
+beats_start: shape = (361,)
+danceability: 0.0
+duration: 174.10567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.504
+loudness: -8.192
+mode: 1
+mode_confidence: 0.408
+release: Ali Baba
+release_7digitalid: 725661
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (622,)
+segments_loudness_max: shape = (622,)
+segments_loudness_max_time: shape = (622,)
+segments_loudness_start: shape = (622,)
+segments_pitches: shape = (622, 12)
+segments_start: shape = (622,)
+segments_timbre: shape = (622, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXBPJO12A8C1401AC
+start_of_fade_out: 174.106
+tatums_confidence: shape = (721,)
+tatums_start: shape = (721,)
+tempo: 125.028
+time_signature: 4
+time_signature_confidence: 0.0
+title: It's Not What You Say
+track_7digitalid: 8041705
+track_id: TRBCQWN12903CDA7EC
+year: 1968

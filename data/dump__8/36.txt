@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 201735
+artist_familiarity: 0.566532653818
+artist_hotttnesss: 0.272364626326
+artist_id: ARJXULI11F4C83C865
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Béla Fleck
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: e8cde105f9e1e27521f957c37c9cf649
+bars_confidence: shape = (351,)
+bars_start: shape = (351,)
+beats_confidence: shape = (351,)
+beats_start: shape = (351,)
+danceability: 0.0
+duration: 158.98077
+end_of_fade_in: 0.322
+energy: 0.0
+key: 2
+key_confidence: 0.761
+loudness: -9.89
+mode: 1
+mode_confidence: 0.735
+release: Natural Bridge
+release_7digitalid: 409433
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (770,)
+segments_loudness_max: shape = (770,)
+segments_loudness_max_time: shape = (770,)
+segments_loudness_start: shape = (770,)
+segments_pitches: shape = (770, 12)
+segments_start: shape = (770,)
+segments_timbre: shape = (770, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.575406580369
+song_id: SOUKQWD12AB017F89D
+start_of_fade_out: 148.915
+tatums_confidence: shape = (703,)
+tatums_start: shape = (703,)
+tempo: 140.659
+time_signature: 1
+time_signature_confidence: 0.0
+title: Punchdrunk
+track_7digitalid: 4554812
+track_id: TRACTMI128F931B412
+year: 1982

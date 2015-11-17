@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 108554
+artist_familiarity: 0.487445647927
+artist_hotttnesss: 0.177893845369
+artist_id: ARYV1OT1187B9B4C8E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2d67f7f4-1e85-4278-bac6-424e6204a8b9
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Commander Cody And His Lost Planet Airmen
+artist_playmeid: 38963
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 69fafdba78093ffda5736e501de8b241
+bars_confidence: shape = (90,)
+bars_start: shape = (90,)
+beats_confidence: shape = (367,)
+beats_start: shape = (367,)
+danceability: 0.0
+duration: 205.71383
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.51
+loudness: -12.484
+mode: 1
+mode_confidence: 0.434
+release: Live From Deep In The Heart Of Texas
+release_7digitalid: 275315
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (864,)
+segments_loudness_max: shape = (864,)
+segments_loudness_max_time: shape = (864,)
+segments_loudness_start: shape = (864,)
+segments_pitches: shape = (864, 12)
+segments_start: shape = (864,)
+segments_timbre: shape = (864, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOWRHSP12A58A77A73
+start_of_fade_out: 205.714
+tatums_confidence: shape = (735,)
+tatums_start: shape = (735,)
+tempo: 106.925
+time_signature: 4
+time_signature_confidence: 1.0
+title: Too Much Fun
+track_7digitalid: 3061283
+track_id: TRAZFKN128F4250CD4
+year: 1974

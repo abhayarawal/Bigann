@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15244
+artist_familiarity: 0.62682132694
+artist_hotttnesss: 0.388752603404
+artist_id: ARZ4Y2H1187FB3C36F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 49fc7e46-5441-4b7e-996a-12dddf22a632
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Estopa
+artist_playmeid: 1804
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 4331ad8c9690f1a84708616a23ea92b2
+bars_confidence: shape = (113,)
+bars_start: shape = (113,)
+beats_confidence: shape = (456,)
+beats_start: shape = (456,)
+danceability: 0.0
+duration: 185.83465
+end_of_fade_in: 0.063
+energy: 0.0
+key: 2
+key_confidence: 0.834
+loudness: -7.541
+mode: 1
+mode_confidence: 0.582
+release: La Calle Es Tuya?
+release_7digitalid: 293906
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (891,)
+segments_loudness_max: shape = (891,)
+segments_loudness_max_time: shape = (891,)
+segments_loudness_start: shape = (891,)
+segments_pitches: shape = (891, 12)
+segments_start: shape = (891,)
+segments_timbre: shape = (891, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.530663030144
+song_id: SOOIPTF12A8C139366
+start_of_fade_out: 180.024
+tatums_confidence: shape = (911,)
+tatums_start: shape = (911,)
+tempo: 146.051
+time_signature: 4
+time_signature_confidence: 0.564
+title: Apagon
+track_7digitalid: 3301093
+track_id: TRBGPZX128F4285105
+year: 0

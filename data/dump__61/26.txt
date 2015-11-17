@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4579
+artist_familiarity: 0.767768809032
+artist_hotttnesss: 0.536219992815
+artist_id: ARIH5GU1187FB4C958
+artist_latitude: nan
+artist_location: Newcastle
+artist_longitude: nan
+artist_mbid: b0799818-22cb-4564-8e68-3c410d0722ee
+artist_mbtags: shape = (12,)
+artist_mbtags_count: shape = (12,)
+artist_name: Silverchair
+artist_playmeid: 1441
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 64ef76d43d5848c5e88495b8f23733a9
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (509,)
+beats_start: shape = (509,)
+danceability: 0.0
+duration: 207.56853
+end_of_fade_in: 0.062
+energy: 0.0
+key: 1
+key_confidence: 1.0
+loudness: -6.336
+mode: 1
+mode_confidence: 0.604
+release: Freak Show/Neon Ballroom
+release_7digitalid: 310269
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (639,)
+segments_loudness_max: shape = (639,)
+segments_loudness_max_time: shape = (639,)
+segments_loudness_start: shape = (639,)
+segments_pitches: shape = (639, 12)
+segments_start: shape = (639,)
+segments_timbre: shape = (639, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.41967427881
+song_id: SOXLEKB12A8C1338EE
+start_of_fade_out: 201.3
+tatums_confidence: shape = (1018,)
+tatums_start: shape = (1018,)
+tempo: 138.385
+time_signature: 5
+time_signature_confidence: 0.25
+title: Spawn (Again)
+track_7digitalid: 3513920
+track_id: TRAUXSO128F42B863C
+year: 0

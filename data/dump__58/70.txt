@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 24087
+artist_familiarity: 0.821844255124
+artist_hotttnesss: 0.592439485528
+artist_id: ARMOHN71187FB3959F
+artist_latitude: 33.6671
+artist_location: Orange County, CA
+artist_longitude: -117.76505
+artist_mbid: 17e137fb-59e5-4fd7-af48-afc34995396c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Atreyu
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 99c48a088a059860c762d03c8b8611ef
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (479,)
+beats_start: shape = (479,)
+danceability: 0.0
+duration: 208.66567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.118
+loudness: -3.639
+mode: 0
+mode_confidence: 0.256
+release: Congregation of the Damned
+release_7digitalid: 626340
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (504,)
+segments_loudness_max: shape = (504,)
+segments_loudness_max_time: shape = (504,)
+segments_loudness_start: shape = (504,)
+segments_pitches: shape = (504, 12)
+segments_start: shape = (504,)
+segments_timbre: shape = (504, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONHWEW12AF72A7F22
+start_of_fade_out: 208.666
+tatums_confidence: shape = (958,)
+tatums_start: shape = (958,)
+tempo: 138.536
+time_signature: 4
+time_signature_confidence: 0.547
+title: Gallows (Album Version)
+track_7digitalid: 6953333
+track_id: TRAUBDS128F931A703
+year: 2009

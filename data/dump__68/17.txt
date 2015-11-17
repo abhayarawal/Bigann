@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4411
+artist_familiarity: 0.641197514984
+artist_hotttnesss: 0.44865347113
+artist_id: AR4TLW81187B99683D
+artist_latitude: nan
+artist_location: Syracuse, NY
+artist_longitude: nan
+artist_mbid: 0685ac4a-5cfc-408a-b391-903ea20e00bf
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Martin Sexton
+artist_playmeid: 53504
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 6f1289af49edd10eb2feca5a0efc1047
+bars_confidence: shape = (154,)
+bars_start: shape = (154,)
+beats_confidence: shape = (620,)
+beats_start: shape = (620,)
+danceability: 0.0
+duration: 267.36281
+end_of_fade_in: 2.142
+energy: 0.0
+key: 7
+key_confidence: 0.407
+loudness: -7.322
+mode: 1
+mode_confidence: 0.57
+release: The American
+release_7digitalid: 266901
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (741,)
+segments_loudness_max: shape = (741,)
+segments_loudness_max_time: shape = (741,)
+segments_loudness_start: shape = (741,)
+segments_pitches: shape = (741, 12)
+segments_start: shape = (741,)
+segments_timbre: shape = (741, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJVLTP12A8C13C83A
+start_of_fade_out: 258.392
+tatums_confidence: shape = (1240,)
+tatums_start: shape = (1240,)
+tempo: 141.438
+time_signature: 4
+time_signature_confidence: 0.574
+title: Glory Bound (LP Version)
+track_7digitalid: 2930257
+track_id: TRAXGZH128F427D44C
+year: 1998

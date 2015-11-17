@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 171651
+artist_familiarity: 0.760636111943
+artist_hotttnesss: 0.547243659612
+artist_id: ARRDRI71187FB46EAA
+artist_latitude: 40.65507
+artist_location: Brooklyn, NY
+artist_longitude: -73.94888
+artist_mbid: 59a7fbcb-ff74-494d-abd0-9c82359040c9
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Grizzly Bear
+artist_playmeid: 33443
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: c254c76834930a994e368b68af8e2a95
+bars_confidence: shape = (122,)
+bars_start: shape = (122,)
+beats_confidence: shape = (490,)
+beats_start: shape = (490,)
+danceability: 0.0
+duration: 351.50322
+end_of_fade_in: 0.299
+energy: 0.0
+key: 9
+key_confidence: 0.11
+loudness: -14.372
+mode: 1
+mode_confidence: 0.012
+release: Friend EP
+release_7digitalid: 532679
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (932,)
+segments_loudness_max: shape = (932,)
+segments_loudness_max_time: shape = (932,)
+segments_loudness_start: shape = (932,)
+segments_pitches: shape = (932, 12)
+segments_start: shape = (932,)
+segments_timbre: shape = (932, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLLOTO12AB01804C6
+start_of_fade_out: 344.59
+tatums_confidence: shape = (1963,)
+tatums_start: shape = (1963,)
+tempo: 85.003
+time_signature: 4
+time_signature_confidence: 0.675
+title: Deep Blue Sea (Daniel Rossen home recording)
+track_7digitalid: 5886093
+track_id: TRAMWDI128F92FF678
+year: 2008

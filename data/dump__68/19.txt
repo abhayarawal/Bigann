@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 101
+artist_familiarity: 0.709472620461
+artist_hotttnesss: 0.451998594069
+artist_id: AR57Z841187B9B7D7D
+artist_latitude: nan
+artist_location: Kingston, Jamaica
+artist_longitude: nan
+artist_mbid: 9abff216-e204-4dbc-9849-d1dbe1fbbda8
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Gregory Isaacs
+artist_playmeid: 3320
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: ade9a17978fc468741eee9e08de94f43
+bars_confidence: shape = (124,)
+bars_start: shape = (124,)
+beats_confidence: shape = (497,)
+beats_start: shape = (497,)
+danceability: 0.0
+duration: 216.5024
+end_of_fade_in: 0.38
+energy: 0.0
+key: 5
+key_confidence: 0.51
+loudness: -10.918
+mode: 1
+mode_confidence: 0.387
+release: The Very Best of Gregory Isaacs Gold
+release_7digitalid: 345231
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (828,)
+segments_loudness_max: shape = (828,)
+segments_loudness_max_time: shape = (828,)
+segments_loudness_start: shape = (828,)
+segments_pitches: shape = (828, 12)
+segments_start: shape = (828,)
+segments_timbre: shape = (828, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBTQJS12AB017E85E
+start_of_fade_out: 208.753
+tatums_confidence: shape = (994,)
+tatums_start: shape = (994,)
+tempo: 138.356
+time_signature: 4
+time_signature_confidence: 0.338
+title: Out Deh
+track_7digitalid: 3869123
+track_id: TRAXHFE128F93065A9
+year: 2001

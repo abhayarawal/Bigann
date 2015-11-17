@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 158152
+artist_familiarity: 0.262850216279
+artist_hotttnesss: 0.0
+artist_id: ARN6EWN1187B9A4600
+artist_latitude: 29.89932
+artist_location: Port Arthur, TX
+artist_longitude: -93.92938
+artist_mbid: c49a01b0-0a1a-49a3-bd28-66dedb85be2e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jimmy Wyble
+artist_playmeid: -1
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 00444c1646012202440ba3959a148ce0
+bars_confidence: shape = (31,)
+bars_start: shape = (31,)
+beats_confidence: shape = (238,)
+beats_start: shape = (238,)
+danceability: 0.0
+duration: 181.96853
+end_of_fade_in: 0.218
+energy: 0.0
+key: 8
+key_confidence: 0.424
+loudness: -18.891
+mode: 1
+mode_confidence: 0.327
+release: Goodbye My Heart - Country
+release_7digitalid: 208882
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (547,)
+segments_loudness_max: shape = (547,)
+segments_loudness_max_time: shape = (547,)
+segments_loudness_start: shape = (547,)
+segments_pitches: shape = (547, 12)
+segments_start: shape = (547,)
+segments_timbre: shape = (547, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.266955186276
+song_id: SOVJUCU12A8C138B3E
+start_of_fade_out: 174.55
+tatums_confidence: shape = (477,)
+tatums_start: shape = (477,)
+tempo: 80.016
+time_signature: 7
+time_signature_confidence: 0.494
+title: No More Blues
+track_7digitalid: 2263507
+track_id: TRAHDSO128F426B033
+year: 2005

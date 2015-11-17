@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10733
+artist_familiarity: 0.720809220576
+artist_hotttnesss: 0.455915629217
+artist_id: ARS6I1U1187FB468F9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bbd2ffd7-17f4-4506-8572-c1ea58c3f9a8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Juliette & The Licks
+artist_playmeid: -1
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 86faef6009e4350b0fba4f06498d95ce
+bars_confidence: shape = (150,)
+bars_start: shape = (150,)
+beats_confidence: shape = (605,)
+beats_start: shape = (605,)
+danceability: 0.0
+duration: 241.37098
+end_of_fade_in: 0.194
+energy: 0.0
+key: 2
+key_confidence: 0.424
+loudness: -5.199
+mode: 1
+mode_confidence: 0.43
+release: &Like A Bolt Of Lightning
+release_7digitalid: 278227
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (754,)
+segments_loudness_max: shape = (754,)
+segments_loudness_max_time: shape = (754,)
+segments_loudness_start: shape = (754,)
+segments_pitches: shape = (754, 12)
+segments_start: shape = (754,)
+segments_timbre: shape = (754, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.606763529872
+song_id: SOXEYLY12A8AE45DBD
+start_of_fade_out: 234.707
+tatums_confidence: shape = (1210,)
+tatums_start: shape = (1210,)
+tempo: 156.523
+time_signature: 4
+time_signature_confidence: 0.0
+title: Shelter Your Needs
+track_7digitalid: 3099028
+track_id: TRAKPJC128F4258613
+year: 2005

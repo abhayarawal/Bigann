@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 160071
+artist_familiarity: 0.47929085413
+artist_hotttnesss: 0.359775661536
+artist_id: ARUP5LV1187FB50BD8
+artist_latitude: 34.16788
+artist_location: Arizona
+artist_longitude: -111.9307
+artist_mbid: b1ee2b8a-2288-4887-8be7-4b059a57970f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Fuzz
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: e0976788ee573ded1e66f3dba92e8666
+bars_confidence: shape = (127,)
+bars_start: shape = (127,)
+beats_confidence: shape = (513,)
+beats_start: shape = (513,)
+danceability: 0.0
+duration: 223.39873
+end_of_fade_in: 2.456
+energy: 0.0
+key: 6
+key_confidence: 0.445
+loudness: -5.384
+mode: 1
+mode_confidence: 0.543
+release: Uno
+release_7digitalid: 211974
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (546,)
+segments_loudness_max: shape = (546,)
+segments_loudness_max_time: shape = (546,)
+segments_loudness_start: shape = (546,)
+segments_pitches: shape = (546, 12)
+segments_start: shape = (546,)
+segments_timbre: shape = (546, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXKKUW12A8C13C614
+start_of_fade_out: 214.111
+tatums_confidence: shape = (1026,)
+tatums_start: shape = (1026,)
+tempo: 143.951
+time_signature: 4
+time_signature_confidence: 0.986
+title: De pie
+track_7digitalid: 2306597
+track_id: TRADDYJ128F4275431
+year: 0

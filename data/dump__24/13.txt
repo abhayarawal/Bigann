@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 52701
+artist_familiarity: 0.633932725779
+artist_hotttnesss: 0.416529399637
+artist_id: ARB4ZRM1187B993147
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5074ddf4-3d57-49d9-a0b8-c36afe60a475
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Dark Fortress
+artist_playmeid: 136029
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: f61dc6f9dae43883fe6edf740855e8ec
+bars_confidence: shape = (218,)
+bars_start: shape = (218,)
+beats_confidence: shape = (879,)
+beats_start: shape = (879,)
+danceability: 0.0
+duration: 459.33669
+end_of_fade_in: 17.09
+energy: 0.0
+key: 1
+key_confidence: 0.017
+loudness: -7.57
+mode: 1
+mode_confidence: 0.204
+release: Séance
+release_7digitalid: 734782
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (674,)
+segments_loudness_max: shape = (674,)
+segments_loudness_max_time: shape = (674,)
+segments_loudness_start: shape = (674,)
+segments_pitches: shape = (674, 12)
+segments_start: shape = (674,)
+segments_timbre: shape = (674, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.709909937453
+song_id: SOCFKOX12A67ADAE95
+start_of_fade_out: 459.337
+tatums_confidence: shape = (1759,)
+tatums_start: shape = (1759,)
+tempo: 115.37
+time_signature: 4
+time_signature_confidence: 0.0
+title: Ghastly Indoctrination
+track_7digitalid: 8139756
+track_id: TRAICJQ12903CF2681
+year: 2006

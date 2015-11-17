@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6234
+artist_familiarity: 0.627071700735
+artist_hotttnesss: 0.353768489579
+artist_id: ARWGIFV1187B989947
+artist_latitude: nan
+artist_location: CHICAGO, Illinois
+artist_longitude: nan
+artist_mbid: cfd2b787-3656-44ce-9212-9e555b400af5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: New Direction
+artist_playmeid: 13206
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: a9433a4ba0d529027ce377f39a30b28f
+bars_confidence: shape = (248,)
+bars_start: shape = (248,)
+beats_confidence: shape = (248,)
+beats_start: shape = (248,)
+danceability: 0.0
+duration: 265.24689
+end_of_fade_in: 0.2
+energy: 0.0
+key: 2
+key_confidence: 0.364
+loudness: -6.611
+mode: 0
+mode_confidence: 0.553
+release: New Direction
+release_7digitalid: 113176
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1011,)
+segments_loudness_max: shape = (1011,)
+segments_loudness_max_time: shape = (1011,)
+segments_loudness_start: shape = (1011,)
+segments_pitches: shape = (1011, 12)
+segments_start: shape = (1011,)
+segments_timbre: shape = (1011, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOTGNAJ12A58A7F3FE
+start_of_fade_out: 265.247
+tatums_confidence: shape = (1241,)
+tatums_start: shape = (1241,)
+tempo: 56.703
+time_signature: 1
+time_signature_confidence: 0.0
+title: Who Do You Roll With?  (LP Version)
+track_7digitalid: 1167726
+track_id: TRBBHZV128F429A392
+year: 1999

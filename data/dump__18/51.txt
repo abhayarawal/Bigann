@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 319490
+artist_familiarity: 0.515312738122
+artist_hotttnesss: 0.296905207386
+artist_id: ARHKW8K1187FB4C9A2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ee68644a-4f30-40ce-ac5e-969b5cc1f250
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Orbit
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 98285cda702a4b884947b4618738d72d
+bars_confidence: shape = (196,)
+bars_start: shape = (196,)
+beats_confidence: shape = (590,)
+beats_start: shape = (590,)
+danceability: 0.0
+duration: 254.45832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.502
+loudness: -7.893
+mode: 0
+mode_confidence: 0.47
+release: Tonedeaf
+release_7digitalid: 496090
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1036,)
+segments_loudness_max: shape = (1036,)
+segments_loudness_max_time: shape = (1036,)
+segments_loudness_start: shape = (1036,)
+segments_pitches: shape = (1036, 12)
+segments_start: shape = (1036,)
+segments_timbre: shape = (1036, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.270775998946
+song_id: SOFPSXO12AB017E22C
+start_of_fade_out: 246.021
+tatums_confidence: shape = (1771,)
+tatums_start: shape = (1771,)
+tempo: 142.351
+time_signature: 3
+time_signature_confidence: 1.0
+title: Nice Ride
+track_7digitalid: 5492153
+track_id: TRAGHID128F93156AF
+year: 0

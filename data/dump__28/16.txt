@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 102462
+artist_familiarity: 0.444921249918
+artist_hotttnesss: 0.318458623333
+artist_id: AR76YOD1187FB46B24
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: d63cbb12-0d16-4fd5-8fbf-a57dc8ddfe83
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Joshua Rifkin
+artist_playmeid: 48798
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 0ae2f80ca5aa69d517b2baeb4aa3cb63
+bars_confidence: shape = (591,)
+bars_start: shape = (591,)
+beats_confidence: shape = (591,)
+beats_start: shape = (591,)
+danceability: 0.0
+duration: 282.09587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.765
+loudness: -25.038
+mode: 1
+mode_confidence: 0.707
+release: Scott Joplin Piano Rags
+release_7digitalid: 129766
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (851,)
+segments_loudness_max: shape = (851,)
+segments_loudness_max_time: shape = (851,)
+segments_loudness_start: shape = (851,)
+segments_pitches: shape = (851, 12)
+segments_start: shape = (851,)
+segments_timbre: shape = (851, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHDWYM12A8151AF55
+start_of_fade_out: 267.825
+tatums_confidence: shape = (1181,)
+tatums_start: shape = (1181,)
+tempo: 128.251
+time_signature: 1
+time_signature_confidence: 0.0
+title: Fig Leaf Rag  (LP Version)
+track_7digitalid: 1346255
+track_id: TRAJLGV128F4232684
+year: 1994

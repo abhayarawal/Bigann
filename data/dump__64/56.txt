@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 66809
+artist_familiarity: 0.676869596869
+artist_hotttnesss: 0.384133614306
+artist_id: ARMEYJD1187B9A4522
+artist_latitude: 41.82387
+artist_location: Providence, RI
+artist_longitude: -71.41199
+artist_mbid: c9368a03-bf26-40b6-bdfa-9af8d10b568b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Daughters
+artist_playmeid: -1
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 6f905064816fadefc593f8c74deeeca4
+bars_confidence: shape = (155,)
+bars_start: shape = (155,)
+beats_confidence: shape = (155,)
+beats_start: shape = (155,)
+danceability: 0.0
+duration: 64.9922
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.15
+loudness: -4.058
+mode: 0
+mode_confidence: 0.218
+release: Canada Songs
+release_7digitalid: 238761
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (205,)
+segments_loudness_max: shape = (205,)
+segments_loudness_max_time: shape = (205,)
+segments_loudness_start: shape = (205,)
+segments_pitches: shape = (205, 12)
+segments_start: shape = (205,)
+segments_timbre: shape = (205, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGZVEM12A8C141494
+start_of_fade_out: 64.992
+tatums_confidence: shape = (310,)
+tatums_start: shape = (310,)
+tempo: 143.251
+time_signature: 1
+time_signature_confidence: 0.0
+title: Jones From Indiana
+track_7digitalid: 3000161
+track_id: TRAWCIS128F428CFD1
+year: 2003

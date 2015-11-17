@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21831
+artist_familiarity: 0.48200699857
+artist_hotttnesss: 0.415897128457
+artist_id: ARJA5XT1187B9B89AA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 38fe7fb3-2bde-4672-8016-2ba6f7d1808f
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: David Tao
+artist_playmeid: 73275
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 560f8f639969eda168f45dbed9fcdbb8
+bars_confidence: shape = (127,)
+bars_start: shape = (127,)
+beats_confidence: shape = (513,)
+beats_start: shape = (513,)
+danceability: 0.0
+duration: 194.32444
+end_of_fade_in: 0.682
+energy: 0.0
+key: 2
+key_confidence: 0.01
+loudness: -19.252
+mode: 1
+mode_confidence: 0.41
+release: Atmospheric Dreams
+release_7digitalid: 138865
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (804,)
+segments_loudness_max: shape = (804,)
+segments_loudness_max_time: shape = (804,)
+segments_loudness_start: shape = (804,)
+segments_pitches: shape = (804, 12)
+segments_start: shape = (804,)
+segments_timbre: shape = (804, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGHDQR12A8AE47EA6
+start_of_fade_out: 187.379
+tatums_confidence: shape = (1027,)
+tatums_start: shape = (1027,)
+tempo: 161.986
+time_signature: 4
+time_signature_confidence: 0.879
+title: Total Vision
+track_7digitalid: 1441928
+track_id: TRBHNSO128F4243330
+year: 0

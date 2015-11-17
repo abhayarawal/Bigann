@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 31632
+artist_familiarity: 0.662649695337
+artist_hotttnesss: 0.363177860659
+artist_id: ARV1P811187FB3CFC6
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f025c4b8-3910-4ca6-8812-1dd2f163316e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jupiter Rising
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 52389d83a9fc3f739d10203410df10e5
+bars_confidence: shape = (92,)
+bars_start: shape = (92,)
+beats_confidence: shape = (371,)
+beats_start: shape = (371,)
+danceability: 0.0
+duration: 193.4624
+end_of_fade_in: 2.717
+energy: 0.0
+key: 0
+key_confidence: 0.373
+loudness: -5.913
+mode: 0
+mode_confidence: 0.548
+release: Electropop
+release_7digitalid: 128198
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (690,)
+segments_loudness_max: shape = (690,)
+segments_loudness_max_time: shape = (690,)
+segments_loudness_start: shape = (690,)
+segments_pitches: shape = (690, 12)
+segments_start: shape = (690,)
+segments_timbre: shape = (690, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOGMXBW12A6D4FB8D7
+start_of_fade_out: 184.274
+tatums_confidence: shape = (742,)
+tatums_start: shape = (742,)
+tempo: 119.979
+time_signature: 4
+time_signature_confidence: 1.0
+title: They Say (Album)
+track_7digitalid: 1323612
+track_id: TRAAJEK128F422F55A
+year: 2007

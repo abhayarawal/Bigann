@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 39733
+artist_familiarity: 0.485049268296
+artist_hotttnesss: 0.258224090302
+artist_id: AR0B5HI1187B9B9DB9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5d14f4d0-2f40-42fc-8dbe-3d729314fa12
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Silvério Pessoa
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 7791b066312a1121c2d68bc66523a6f3
+bars_confidence: shape = (189,)
+bars_start: shape = (189,)
+beats_confidence: shape = (579,)
+beats_start: shape = (579,)
+danceability: 0.0
+duration: 364.48608
+end_of_fade_in: 3.338
+energy: 0.0
+key: 4
+key_confidence: 0.64
+loudness: -11.448
+mode: 1
+mode_confidence: 0.609
+release: Cabeça elétrica coração acústico
+release_7digitalid: 254082
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1243,)
+segments_loudness_max: shape = (1243,)
+segments_loudness_max_time: shape = (1243,)
+segments_loudness_start: shape = (1243,)
+segments_pitches: shape = (1243, 12)
+segments_start: shape = (1243,)
+segments_timbre: shape = (1243, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHLFWF12A58A7989F
+start_of_fade_out: 335.882
+tatums_confidence: shape = (1738,)
+tatums_start: shape = (1738,)
+tempo: 95.997
+time_signature: 3
+time_signature_confidence: 1.0
+title: Eu vi a maquina voadora
+track_7digitalid: 2879115
+track_id: TRACONJ128F4272091
+year: 0

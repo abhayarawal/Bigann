@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 51166
+artist_familiarity: 0.523703597204
+artist_hotttnesss: 0.354307353276
+artist_id: ARMDE3V1187FB3EEFB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2ff26748-4e9c-4ac5-861e-997ed82efb7a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Last Days Of Jesus
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: afb0c0f4c8a5f5ba11a07d5d2661c197
+bars_confidence: shape = (106,)
+bars_start: shape = (106,)
+beats_confidence: shape = (428,)
+beats_start: shape = (428,)
+danceability: 0.0
+duration: 209.55383
+end_of_fade_in: 0.084
+energy: 0.0
+key: 8
+key_confidence: 0.91
+loudness: -6.248
+mode: 1
+mode_confidence: 0.526
+release: Alien Road
+release_7digitalid: 66510
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (707,)
+segments_loudness_max: shape = (707,)
+segments_loudness_max_time: shape = (707,)
+segments_loudness_start: shape = (707,)
+segments_pitches: shape = (707, 12)
+segments_start: shape = (707,)
+segments_timbre: shape = (707, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.401486711428
+song_id: SOMTUMT12A67ADAE76
+start_of_fade_out: 198.217
+tatums_confidence: shape = (855,)
+tatums_start: shape = (855,)
+tempo: 125.126
+time_signature: 4
+time_signature_confidence: 1.0
+title: Life In Line
+track_7digitalid: 693823
+track_id: TRALYWI128EF33EDC7
+year: 2004

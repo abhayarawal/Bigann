@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16982
+artist_familiarity: 0.652801354921
+artist_hotttnesss: 0.443098946532
+artist_id: ARYG6CU1187FB3852B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 67bb73ee-e70c-4bfd-9bf1-e7a09768f9a9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Milk Inc.
+artist_playmeid: -1
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 7cb435ef0c9d67200986a08ca014567a
+bars_confidence: shape = (471,)
+bars_start: shape = (471,)
+beats_confidence: shape = (471,)
+beats_start: shape = (471,)
+danceability: 0.0
+duration: 202.10893
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.267
+loudness: -7.597
+mode: 1
+mode_confidence: 0.369
+release: Closer
+release_7digitalid: 27233
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (957,)
+segments_loudness_max: shape = (957,)
+segments_loudness_max_time: shape = (957,)
+segments_loudness_start: shape = (957,)
+segments_pitches: shape = (957, 12)
+segments_start: shape = (957,)
+segments_timbre: shape = (957, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.460541281359
+song_id: SOESTLI12A6D4F6E53
+start_of_fade_out: 197.968
+tatums_confidence: shape = (942,)
+tatums_start: shape = (942,)
+tempo: 140.017
+time_signature: 1
+time_signature_confidence: 0.0
+title: Nothing To You
+track_7digitalid: 296716
+track_id: TRBDKQI128F1465028
+year: 2003

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4387
+artist_familiarity: 0.713322146547
+artist_hotttnesss: 0.473613189375
+artist_id: AR6CLFP1187B9ACB94
+artist_latitude: nan
+artist_location: Sacramento, CA
+artist_longitude: nan
+artist_mbid: 8a7ca8b0-d23c-4eff-8fe9-6220ba5c9c76
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Daniel Johnston
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: ff6c887c27338a9fff25fa7a2e0b99fa
+bars_confidence: shape = (345,)
+bars_start: shape = (345,)
+beats_confidence: shape = (345,)
+beats_start: shape = (345,)
+danceability: 0.0
+duration: 219.76771
+end_of_fade_in: 0.092
+energy: 0.0
+key: 9
+key_confidence: 0.678
+loudness: -24.308
+mode: 1
+mode_confidence: 0.443
+release: Continued Story / Hi_ How Are You?
+release_7digitalid: 93091
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (637,)
+segments_loudness_max: shape = (637,)
+segments_loudness_max_time: shape = (637,)
+segments_loudness_start: shape = (637,)
+segments_pitches: shape = (637, 12)
+segments_start: shape = (637,)
+segments_timbre: shape = (637, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.685274901698
+song_id: SOJBLIX12A8C1373C7
+start_of_fade_out: 217.536
+tatums_confidence: shape = (690,)
+tatums_start: shape = (690,)
+tempo: 92.938
+time_signature: 1
+time_signature_confidence: 0.23
+title: Desperate Man Blues
+track_7digitalid: 1034814
+track_id: TRAOYHS128F427EF8B
+year: 1983

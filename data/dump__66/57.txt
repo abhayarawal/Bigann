@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7724
+artist_familiarity: 0.39681784431
+artist_hotttnesss: 0.297404802871
+artist_id: AR009211187B989185
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9dfe78a6-6d91-454e-9b95-9d7722cbc476
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Carroll Thompson
+artist_playmeid: 147337
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 950e0846aacbee43ab99887d4b97fd7b
+bars_confidence: shape = (396,)
+bars_start: shape = (396,)
+beats_confidence: shape = (396,)
+beats_start: shape = (396,)
+danceability: 0.0
+duration: 188.15955
+end_of_fade_in: 0.313
+energy: 0.0
+key: 4
+key_confidence: 0.292
+loudness: -10.303
+mode: 0
+mode_confidence: 0.162
+release: Carroll Thompson
+release_7digitalid: 768882
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (823,)
+segments_loudness_max: shape = (823,)
+segments_loudness_max_time: shape = (823,)
+segments_loudness_start: shape = (823,)
+segments_pitches: shape = (823, 12)
+segments_start: shape = (823,)
+segments_timbre: shape = (823, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZHGUS12AB0183E50
+start_of_fade_out: 181.708
+tatums_confidence: shape = (1190,)
+tatums_start: shape = (1190,)
+tempo: 127.506
+time_signature: 1
+time_signature_confidence: 0.0
+title: Change
+track_7digitalid: 8514023
+track_id: TRAWSCW12903CD6C7E
+year: 0

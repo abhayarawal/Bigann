@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 372116
+artist_familiarity: 0.342440144332
+artist_hotttnesss: 0.281284215549
+artist_id: ARTHEAP122BCFCD0B2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e40f8007-07cd-439f-b3cf-27104f146420
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ X-Change featuring DJ Joey A
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 5cf760fcbdc8c6d777cc7ff74ca0b91d
+bars_confidence: shape = (111,)
+bars_start: shape = (111,)
+beats_confidence: shape = (448,)
+beats_start: shape = (448,)
+danceability: 0.0
+duration: 184.31955
+end_of_fade_in: 0.798
+energy: 0.0
+key: 6
+key_confidence: 0.0
+loudness: -5.58
+mode: 0
+mode_confidence: 0.0
+release: What up Detroit
+release_7digitalid: 502384
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (859,)
+segments_loudness_max: shape = (859,)
+segments_loudness_max_time: shape = (859,)
+segments_loudness_start: shape = (859,)
+segments_pitches: shape = (859, 12)
+segments_start: shape = (859,)
+segments_timbre: shape = (859, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODULLV12AB017FA09
+start_of_fade_out: 178.503
+tatums_confidence: shape = (895,)
+tatums_start: shape = (895,)
+tempo: 150.012
+time_signature: 4
+time_signature_confidence: 0.0
+title: Come Over
+track_7digitalid: 5562001
+track_id: TRAAIRG128F93265E8
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 54600
+artist_familiarity: 0.590659550366
+artist_hotttnesss: 0.381715678274
+artist_id: ARSM2YU1187B99D602
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c13863e9-8737-4e63-ab31-f0e3f77c53e7
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Jaci Velasquez
+artist_playmeid: 4004
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 70219a4198cc4a3906959c13e145a538
+bars_confidence: shape = (26,)
+bars_start: shape = (26,)
+beats_confidence: shape = (106,)
+beats_start: shape = (106,)
+danceability: 0.0
+duration: 62.27546
+end_of_fade_in: 4.023
+energy: 0.0
+key: 10
+key_confidence: 0.447
+loudness: -7.255
+mode: 1
+mode_confidence: 0.382
+release: Love Out Loud
+release_7digitalid: 242080
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (284,)
+segments_loudness_max: shape = (284,)
+segments_loudness_max_time: shape = (284,)
+segments_loudness_start: shape = (284,)
+segments_pitches: shape = (284, 12)
+segments_start: shape = (284,)
+segments_timbre: shape = (284, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.254481292484
+song_id: SOJHYOF12A8C131DDE
+start_of_fade_out: 62.275
+tatums_confidence: shape = (212,)
+tatums_start: shape = (212,)
+tempo: 104.064
+time_signature: 4
+time_signature_confidence: 0.188
+title: Nothing But Sky [Outro] (Album Version)
+track_7digitalid: 2640059
+track_id: TRAYUTH128F423A5CF
+year: 2008

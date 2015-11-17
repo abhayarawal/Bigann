@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 101614
+artist_familiarity: 0.619260604878
+artist_hotttnesss: 0.416935871661
+artist_id: ARXW2MN1187B9B8817
+artist_latitude: nan
+artist_location: New York, NY
+artist_longitude: nan
+artist_mbid: 9bb0ae46-c22c-499f-915f-9b4fc8d4f767
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: X-ecutioners featuring M.O.P.
+artist_playmeid: 8550
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: e37941efa64505731d2081549ad9513f
+bars_confidence: shape = (161,)
+bars_start: shape = (161,)
+beats_confidence: shape = (648,)
+beats_start: shape = (648,)
+danceability: 0.0
+duration: 210.07628
+end_of_fade_in: 0.09
+energy: 0.0
+key: 10
+key_confidence: 0.449
+loudness: -4.33
+mode: 0
+mode_confidence: 0.229
+release: Built From Scratch
+release_7digitalid: 400773
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1002,)
+segments_loudness_max: shape = (1002,)
+segments_loudness_max_time: shape = (1002,)
+segments_loudness_start: shape = (1002,)
+segments_pitches: shape = (1002, 12)
+segments_start: shape = (1002,)
+segments_timbre: shape = (1002, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVLJVC12AB01809F8
+start_of_fade_out: 207.285
+tatums_confidence: shape = (1296,)
+tatums_start: shape = (1296,)
+tempo: 185.498
+time_signature: 4
+time_signature_confidence: 0.31
+title: Let It Bang
+track_7digitalid: 4453485
+track_id: TRBBARP128F9306CBE
+year: 2001

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 129829
+artist_familiarity: 0.414212020689
+artist_hotttnesss: 0.294377012559
+artist_id: ARZPL0P1187FB4C734
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a253787e-cf79-421a-9655-390aca88fb8b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ray Vega
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: f56ea97426fb14d3a9667541c7f14a37
+bars_confidence: shape = (92,)
+bars_start: shape = (92,)
+beats_confidence: shape = (375,)
+beats_start: shape = (375,)
+danceability: 0.0
+duration: 237.06077
+end_of_fade_in: 0.17
+energy: 0.0
+key: 0
+key_confidence: 0.513
+loudness: -14.002
+mode: 1
+mode_confidence: 0.554
+release: Geography
+release_7digitalid: 298495
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (806,)
+segments_loudness_max: shape = (806,)
+segments_loudness_max_time: shape = (806,)
+segments_loudness_start: shape = (806,)
+segments_pitches: shape = (806, 12)
+segments_start: shape = (806,)
+segments_timbre: shape = (806, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZFGBU12A8C138C3F
+start_of_fade_out: 213.473
+tatums_confidence: shape = (750,)
+tatums_start: shape = (750,)
+tempo: 96.02
+time_signature: 4
+time_signature_confidence: 1.0
+title: Amor A Mi
+track_7digitalid: 3350449
+track_id: TRAYCQD128F4290D81
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16860
+artist_familiarity: 0.628489970806
+artist_hotttnesss: 0.488019841686
+artist_id: ARPQ4Z01187FB3A736
+artist_latitude: nan
+artist_location: San Antonio, TX
+artist_longitude: nan
+artist_mbid: 2339bc21-aa92-4850-86f0-4bb9433910c8
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Butthole Surfers
+artist_playmeid: 110955
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 8739842c0376ea3e756b06d5b2a2759d
+bars_confidence: shape = (165,)
+bars_start: shape = (165,)
+beats_confidence: shape = (676,)
+beats_start: shape = (676,)
+danceability: 0.0
+duration: 512.1824
+end_of_fade_in: 0.194
+energy: 0.0
+key: 9
+key_confidence: 0.845
+loudness: -3.237
+mode: 1
+mode_confidence: 0.514
+release: Humpty Dumpty LSD
+release_7digitalid: 599035
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (1474,)
+segments_loudness_max: shape = (1474,)
+segments_loudness_max_time: shape = (1474,)
+segments_loudness_start: shape = (1474,)
+segments_pitches: shape = (1474, 12)
+segments_start: shape = (1474,)
+segments_timbre: shape = (1474, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.539410831701
+song_id: SOFVPZU12AF729CC83
+start_of_fade_out: 500.733
+tatums_confidence: shape = (1352,)
+tatums_start: shape = (1352,)
+tempo: 79.709
+time_signature: 4
+time_signature_confidence: 0.0
+title: All Day
+track_7digitalid: 6646157
+track_id: TRAERNN12903CEABCE
+year: 1987

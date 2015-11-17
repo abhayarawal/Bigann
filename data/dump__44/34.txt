@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 32215
+artist_familiarity: 0.612953154239
+artist_hotttnesss: 0.454541929151
+artist_id: AR3QRJ91187B98E4C2
+artist_latitude: 48.85692
+artist_location: Paris, France
+artist_longitude: 2.34121
+artist_mbid: a65f4f19-9f4c-4a44-906f-87aa4ceee900
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Jacques Dutronc
+artist_playmeid: -1
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: e419e76f09a9c8583d92b0211eb36b5e
+bars_confidence: shape = (298,)
+bars_start: shape = (298,)
+beats_confidence: shape = (298,)
+beats_start: shape = (298,)
+danceability: 0.0
+duration: 142.91546
+end_of_fade_in: 3.228
+energy: 0.0
+key: 7
+key_confidence: 0.592
+loudness: -10.592
+mode: 1
+mode_confidence: 0.438
+release: Intégrale Les Cactus
+release_7digitalid: 280528
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (498,)
+segments_loudness_max: shape = (498,)
+segments_loudness_max_time: shape = (498,)
+segments_loudness_start: shape = (498,)
+segments_pitches: shape = (498, 12)
+segments_start: shape = (498,)
+segments_timbre: shape = (498, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.382935090075
+song_id: SOKHBNW12A8AE48A58
+start_of_fade_out: 133.126
+tatums_confidence: shape = (596,)
+tatums_start: shape = (596,)
+tempo: 130.196
+time_signature: 1
+time_signature_confidence: 0.412
+title: L'Homme De Paille
+track_7digitalid: 3128676
+track_id: TRAPDNS128F425F97E
+year: 1989

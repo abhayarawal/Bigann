@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1739
+artist_familiarity: 0.456605059966
+artist_hotttnesss: 0.36074498441
+artist_id: ARDXWVZ1187B9B52F1
+artist_latitude: 40.71455
+artist_location: New York
+artist_longitude: -74.00712
+artist_mbid: fdd978e6-6ced-4985-81c7-84db3ac7ce0b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Michael Whalen
+artist_playmeid: 58832
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 8f381d80e6eba3e813ff006abaf105db
+bars_confidence: shape = (68,)
+bars_start: shape = (68,)
+beats_confidence: shape = (276,)
+beats_start: shape = (276,)
+danceability: 0.0
+duration: 95.11138
+end_of_fade_in: 2.351
+energy: 0.0
+key: 0
+key_confidence: 0.592
+loudness: -23.212
+mode: 1
+mode_confidence: 0.453
+release: Great African Moments
+release_7digitalid: 160581
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (206,)
+segments_loudness_max: shape = (206,)
+segments_loudness_max_time: shape = (206,)
+segments_loudness_start: shape = (206,)
+segments_pitches: shape = (206, 12)
+segments_start: shape = (206,)
+segments_timbre: shape = (206, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZVRFB12A8C13A837
+start_of_fade_out: 91.69
+tatums_confidence: shape = (276,)
+tatums_start: shape = (276,)
+tempo: 180.825
+time_signature: 4
+time_signature_confidence: 0.685
+title: Flamingos
+track_7digitalid: 1694556
+track_id: TRASZAS128F427CC7F
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 376964
+artist_familiarity: 0.0431905312331
+artist_hotttnesss: 0.0
+artist_id: ARDPPNV11F4C842433
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Marimba Alma De Chiapas De Juan Palacios
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 3bdb12de949e9acc96166e36bb515c51
+bars_confidence: shape = (432,)
+bars_start: shape = (432,)
+beats_confidence: shape = (432,)
+beats_start: shape = (432,)
+danceability: 0.0
+duration: 182.02077
+end_of_fade_in: 0.154
+energy: 0.0
+key: 10
+key_confidence: 0.441
+loudness: -10.033
+mode: 1
+mode_confidence: 0.394
+release: Nuestro Mexico
+release_7digitalid: 508638
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (770,)
+segments_loudness_max: shape = (770,)
+segments_loudness_max_time: shape = (770,)
+segments_loudness_start: shape = (770,)
+segments_pitches: shape = (770, 12)
+segments_start: shape = (770,)
+segments_timbre: shape = (770, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWOACC12AB0181FCC
+start_of_fade_out: 175.909
+tatums_confidence: shape = (863,)
+tatums_start: shape = (863,)
+tempo: 147.597
+time_signature: 1
+time_signature_confidence: 0.0
+title: Atotonilco
+track_7digitalid: 5625734
+track_id: TRAHGMB128F9335BC9
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18676
+artist_familiarity: 0.840590438336
+artist_hotttnesss: 0.546545161955
+artist_id: AR7GUNF1187B990CCF
+artist_latitude: 35.2225
+artist_location: Charlotte, NC
+artist_longitude: -80.83754
+artist_mbid: 1870fb43-50f1-4660-a879-bb596d1519b6
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Between The Buried And Me
+artist_playmeid: -1
+artist_terms: shape = (55,)
+artist_terms_freq: shape = (55,)
+artist_terms_weight: shape = (55,)
+audio_md5: f5db8746dbe70ac28c359061eb10425a
+bars_confidence: shape = (106,)
+bars_start: shape = (106,)
+beats_confidence: shape = (434,)
+beats_start: shape = (434,)
+danceability: 0.0
+duration: 295.28771
+end_of_fade_in: 0.479
+energy: 0.0
+key: 4
+key_confidence: 0.772
+loudness: -5.493
+mode: 0
+mode_confidence: 0.617
+release: The Anatomy Of
+release_7digitalid: 128139
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (961,)
+segments_loudness_max: shape = (961,)
+segments_loudness_max_time: shape = (961,)
+segments_loudness_start: shape = (961,)
+segments_pitches: shape = (961, 12)
+segments_start: shape = (961,)
+segments_timbre: shape = (961, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.769201428802
+song_id: SOMPGSD12A58A7F840
+start_of_fade_out: 290.313
+tatums_confidence: shape = (1735,)
+tatums_start: shape = (1735,)
+tempo: 89.485
+time_signature: 4
+time_signature_confidence: 0.801
+title: Kickstart My Heart (Album Version)
+track_7digitalid: 1322935
+track_id: TRATUQR128F422F34D
+year: 2006

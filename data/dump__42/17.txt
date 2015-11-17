@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 196416
+artist_familiarity: 0.438738148274
+artist_hotttnesss: 0.328826085166
+artist_id: ARSX72J1187FB3740D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4d8163d2-e020-40c3-bf45-d6532e3cd44f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Big Mike Griffin
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 02132c860ced691937340ca1125fef86
+bars_confidence: shape = (105,)
+bars_start: shape = (105,)
+beats_confidence: shape = (526,)
+beats_start: shape = (526,)
+danceability: 0.0
+duration: 233.53424
+end_of_fade_in: 0.34
+energy: 0.0
+key: 7
+key_confidence: 0.154
+loudness: -5.815
+mode: 1
+mode_confidence: 0.459
+release: Southern Shades Of Blue Volume II
+release_7digitalid: 247869
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (882,)
+segments_loudness_max: shape = (882,)
+segments_loudness_max_time: shape = (882,)
+segments_loudness_start: shape = (882,)
+segments_pitches: shape = (882, 12)
+segments_start: shape = (882,)
+segments_timbre: shape = (882, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAZQML12A8C136B66
+start_of_fade_out: 219.481
+tatums_confidence: shape = (1576,)
+tatums_start: shape = (1576,)
+tempo: 137.496
+time_signature: 5
+time_signature_confidence: 0.966
+title: Sittin' Here With Nothing
+track_7digitalid: 2715639
+track_id: TRAOIJZ128F424BD2C
+year: 0

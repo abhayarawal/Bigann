@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 28789
+artist_familiarity: 0.659251520674
+artist_hotttnesss: 0.399431544311
+artist_id: ARW70HR1187B9A358C
+artist_latitude: nan
+artist_location: Merida, Mexico
+artist_longitude: nan
+artist_mbid: 2fae3969-96cb-4dea-91c8-9108848de808
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Aleks Syntek
+artist_playmeid: 1736
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 71d888576629f01107489edc2c1ce3d9
+bars_confidence: shape = (76,)
+bars_start: shape = (76,)
+beats_confidence: shape = (541,)
+beats_start: shape = (541,)
+danceability: 0.0
+duration: 275.19955
+end_of_fade_in: 0.276
+energy: 0.0
+key: 6
+key_confidence: 0.19
+loudness: -6.73
+mode: 0
+mode_confidence: 0.368
+release: Más Fuerte De Lo Que Pensaba
+release_7digitalid: 150034
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1067,)
+segments_loudness_max: shape = (1067,)
+segments_loudness_max_time: shape = (1067,)
+segments_loudness_start: shape = (1067,)
+segments_pitches: shape = (1067, 12)
+segments_start: shape = (1067,)
+segments_timbre: shape = (1067, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.237567342204
+song_id: SOQPKMA12A8C134BD1
+start_of_fade_out: 260.4
+tatums_confidence: shape = (1081,)
+tatums_start: shape = (1081,)
+tempo: 120.029
+time_signature: 7
+time_signature_confidence: 0.453
+title: Un Espacio Para Andar (2002 Digital Remaster)
+track_7digitalid: 1561992
+track_id: TRAQBVO128F425D1F9
+year: 0

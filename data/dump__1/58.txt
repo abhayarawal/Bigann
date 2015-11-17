@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1647
+artist_familiarity: 0.631946665998
+artist_hotttnesss: 0.380704535824
+artist_id: AR89DTT1187B9A7ED5
+artist_latitude: 37.77916
+artist_location: California - SF
+artist_longitude: -122.42005
+artist_mbid: 2ce96399-f6da-439f-af3a-f319ebe2074c
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Suzanne Ciani
+artist_playmeid: 22282
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 43dcbface8490602d23c28b62b0d3731
+bars_confidence: shape = (143,)
+bars_start: shape = (143,)
+beats_confidence: shape = (431,)
+beats_start: shape = (431,)
+danceability: 0.0
+duration: 192.20853
+end_of_fade_in: 0.357
+energy: 0.0
+key: 2
+key_confidence: 0.523
+loudness: -23.988
+mode: 1
+mode_confidence: 0.537
+release: Pianissimo
+release_7digitalid: 298921
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (562,)
+segments_loudness_max: shape = (562,)
+segments_loudness_max_time: shape = (562,)
+segments_loudness_start: shape = (562,)
+segments_pitches: shape = (562, 12)
+segments_start: shape = (562,)
+segments_timbre: shape = (562, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.608500078919
+song_id: SOAFIPD12A8C13A261
+start_of_fade_out: 183.229
+tatums_confidence: shape = (861,)
+tatums_start: shape = (861,)
+tempo: 139.189
+time_signature: 3
+time_signature_confidence: 0.418
+title: Mozart
+track_7digitalid: 3347582
+track_id: TRAALRZ128F429024E
+year: 1989

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20804
+artist_familiarity: 0.606118645697
+artist_hotttnesss: 0.409196035655
+artist_id: ARM5JLS1187FB3615B
+artist_latitude: 34.27611
+artist_location: Itawamba County, MS
+artist_longitude: -88.35068
+artist_mbid: 26fe36eb-fd75-4799-bf0f-fa502a7bcfe8
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Tammy Wynette
+artist_playmeid: 2973
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: d8ddf391985b2e0b6d2a4dfd1ab62a74
+bars_confidence: shape = (67,)
+bars_start: shape = (67,)
+beats_confidence: shape = (273,)
+beats_start: shape = (273,)
+danceability: 0.0
+duration: 159.60771
+end_of_fade_in: 0.224
+energy: 0.0
+key: 9
+key_confidence: 0.781
+loudness: -13.592
+mode: 1
+mode_confidence: 0.748
+release: Country 100
+release_7digitalid: 598098
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (496,)
+segments_loudness_max: shape = (496,)
+segments_loudness_max_time: shape = (496,)
+segments_loudness_start: shape = (496,)
+segments_pitches: shape = (496, 12)
+segments_start: shape = (496,)
+segments_timbre: shape = (496, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLHVZC12A8C14307F
+start_of_fade_out: 152.816
+tatums_confidence: shape = (546,)
+tatums_start: shape = (546,)
+tempo: 105.202
+time_signature: 4
+time_signature_confidence: 0.0
+title: Stand By Your Man
+track_7digitalid: 6639942
+track_id: TRACLRS12903CE9386
+year: 1968

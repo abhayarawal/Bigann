@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 109946
+artist_familiarity: 0.541077952498
+artist_hotttnesss: 0.304547713372
+artist_id: ARGC7FQ1187FB409CC
+artist_latitude: 40.71455
+artist_location: New York
+artist_longitude: -74.00712
+artist_mbid: e211367b-efd7-43b6-a4ba-1defb4dc1fb0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Stew
+artist_playmeid: 68482
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 77ad688470d9c31796c92c504304a68e
+bars_confidence: shape = (293,)
+bars_start: shape = (293,)
+beats_confidence: shape = (293,)
+beats_start: shape = (293,)
+danceability: 0.0
+duration: 179.9571
+end_of_fade_in: 0.198
+energy: 0.0
+key: 7
+key_confidence: 0.926
+loudness: -10.968
+mode: 1
+mode_confidence: 0.842
+release: Something Deeper Than These Changes
+release_7digitalid: 252341
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (499,)
+segments_loudness_max: shape = (499,)
+segments_loudness_max_time: shape = (499,)
+segments_loudness_start: shape = (499,)
+segments_pitches: shape = (499, 12)
+segments_start: shape = (499,)
+segments_timbre: shape = (499, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOADEBB12A8C1345D9
+start_of_fade_out: 166.98
+tatums_confidence: shape = (586,)
+tatums_start: shape = (586,)
+tempo: 100.621
+time_signature: 1
+time_signature_confidence: 0.0
+title: Tomorrow Gone
+track_7digitalid: 2699748
+track_id: TRABERS128F4247FE1
+year: 2003

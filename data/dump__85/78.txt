@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2385
+artist_familiarity: 0.748320703067
+artist_hotttnesss: 0.54586591707
+artist_id: AROF4LP1187FB41C51
+artist_latitude: 31.1689
+artist_location: Texas
+artist_longitude: -100.07715
+artist_mbid: 04b97d63-b900-4e2e-92dc-a4331ddc95a6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Selena
+artist_playmeid: 1411
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: b77fa51f068cc83efd1ab2423554387b
+bars_confidence: shape = (84,)
+bars_start: shape = (84,)
+beats_confidence: shape = (342,)
+beats_start: shape = (342,)
+danceability: 0.0
+duration: 207.93424
+end_of_fade_in: 0.293
+energy: 0.0
+key: 10
+key_confidence: 0.283
+loudness: -4.8
+mode: 0
+mode_confidence: 0.395
+release: Todos Mis Exitos Vol. 2
+release_7digitalid: 25407
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (961,)
+segments_loudness_max: shape = (961,)
+segments_loudness_max_time: shape = (961,)
+segments_loudness_start: shape = (961,)
+segments_pitches: shape = (961, 12)
+segments_start: shape = (961,)
+segments_timbre: shape = (961, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBCSFE12A6D4F814A
+start_of_fade_out: 201.996
+tatums_confidence: shape = (1367,)
+tatums_start: shape = (1367,)
+tempo: 101.947
+time_signature: 4
+time_signature_confidence: 0.633
+title: El Chico Del Apartamento 512
+track_7digitalid: 270236
+track_id: TRBDMFL128F145F691
+year: 0

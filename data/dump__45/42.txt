@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16509
+artist_familiarity: 0.791801555556
+artist_hotttnesss: 0.637302342502
+artist_id: ARKZ13R1187FB54FEE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a19d4ee1-091c-4884-a1cd-e959fd581576
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Josh Turner
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 3ad1dd6ecafd4e4dc3ad658be1d61fbd
+bars_confidence: shape = (98,)
+bars_start: shape = (98,)
+beats_confidence: shape = (299,)
+beats_start: shape = (299,)
+danceability: 0.0
+duration: 207.93424
+end_of_fade_in: 0.38
+energy: 0.0
+key: 0
+key_confidence: 0.553
+loudness: -5.628
+mode: 1
+mode_confidence: 0.527
+release: Long Black Train
+release_7digitalid: 23447
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (805,)
+segments_loudness_max: shape = (805,)
+segments_loudness_max_time: shape = (805,)
+segments_loudness_start: shape = (805,)
+segments_pitches: shape = (805, 12)
+segments_start: shape = (805,)
+segments_timbre: shape = (805, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.407901717218
+song_id: SOHMNPP12A58A7AE4B
+start_of_fade_out: 203.378
+tatums_confidence: shape = (1195,)
+tatums_start: shape = (1195,)
+tempo: 87.029
+time_signature: 3
+time_signature_confidence: 0.332
+title: What It Ain't
+track_7digitalid: 245380
+track_id: TRAPMTY128F1459DA1
+year: 0

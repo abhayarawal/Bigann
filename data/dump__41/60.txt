@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10546
+artist_familiarity: 0.421187326158
+artist_hotttnesss: 0.310544672135
+artist_id: AREDBBQ1187B98AFF5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cfc840a4-dfdc-40b9-9ed8-c8ec72739406
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Eddie Calvert
+artist_playmeid: 76669
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 5b4a49a13e38bb6b2cde44075b569670
+bars_confidence: shape = (74,)
+bars_start: shape = (74,)
+beats_confidence: shape = (298,)
+beats_start: shape = (298,)
+danceability: 0.0
+duration: 163.52608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.0
+loudness: -11.977
+mode: 1
+mode_confidence: 0.154
+release: Number 1's of the 50's
+release_7digitalid: 376903
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (519,)
+segments_loudness_max: shape = (519,)
+segments_loudness_max_time: shape = (519,)
+segments_loudness_start: shape = (519,)
+segments_pitches: shape = (519, 12)
+segments_start: shape = (519,)
+segments_timbre: shape = (519, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOTTFNT12A8C14333D
+start_of_fade_out: 163.526
+tatums_confidence: shape = (894,)
+tatums_start: shape = (894,)
+tempo: 107.302
+time_signature: 4
+time_signature_confidence: 0.703
+title: O Mein Papa
+track_7digitalid: 4193681
+track_id: TRAOCBU128F92D39F5
+year: 2001

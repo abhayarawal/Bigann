@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22965
+artist_familiarity: 0.632718260552
+artist_hotttnesss: 0.436599339455
+artist_id: ARIMJFK1187FB4ED3E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0b59a279-54ef-4723-854e-a12b61e9581a
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Luke Vibert
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: f35519c7090668f3ad1fabb4ff0823c2
+bars_confidence: shape = (217,)
+bars_start: shape = (217,)
+beats_confidence: shape = (870,)
+beats_start: shape = (870,)
+danceability: 0.0
+duration: 420.15302
+end_of_fade_in: 0.996
+energy: 0.0
+key: 0
+key_confidence: 0.572
+loudness: -9.801
+mode: 1
+mode_confidence: 0.611
+release: Mate Tron
+release_7digitalid: 793116
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1945,)
+segments_loudness_max: shape = (1945,)
+segments_loudness_max_time: shape = (1945,)
+segments_loudness_start: shape = (1945,)
+segments_pitches: shape = (1945, 12)
+segments_start: shape = (1945,)
+segments_timbre: shape = (1945, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.400039656955
+song_id: SOZTOSX12AC468AD34
+start_of_fade_out: 411.109
+tatums_confidence: shape = (1740,)
+tatums_start: shape = (1740,)
+tempo: 125.008
+time_signature: 4
+time_signature_confidence: 0.989
+title: Mate Tron
+track_7digitalid: 8772786
+track_id: TRAJEUV12903D15D6D
+year: 2007

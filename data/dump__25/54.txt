@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16331
+artist_familiarity: 0.736677413341
+artist_hotttnesss: 0.526182556347
+artist_id: ARNDB1X1187B990AA0
+artist_latitude: 34.05349
+artist_location: Venice, CA
+artist_longitude: -118.24532
+artist_mbid: e9e2a634-984f-4c10-bf7b-7970179e1ef1
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Suicidal Tendencies
+artist_playmeid: 12797
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 379a550111e8e63c5788fe5bd0d22c8a
+bars_confidence: shape = (232,)
+bars_start: shape = (232,)
+beats_confidence: shape = (232,)
+beats_start: shape = (232,)
+danceability: 0.0
+duration: 61.83138
+end_of_fade_in: 0.168
+energy: 0.0
+key: 7
+key_confidence: 0.236
+loudness: -7.499
+mode: 1
+mode_confidence: 0.344
+release: Still Cyco After All These Years
+release_7digitalid: 282227
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (276,)
+segments_loudness_max: shape = (276,)
+segments_loudness_max_time: shape = (276,)
+segments_loudness_start: shape = (276,)
+segments_pitches: shape = (276, 12)
+segments_start: shape = (276,)
+segments_timbre: shape = (276, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSEMEI12A58A7C561
+start_of_fade_out: 58.59
+tatums_confidence: shape = (463,)
+tatums_start: shape = (463,)
+tempo: 235.337
+time_signature: 1
+time_signature_confidence: 0.0
+title: Two-Sided Politics
+track_7digitalid: 3140522
+track_id: TRAIPAB128F42626AE
+year: 1987

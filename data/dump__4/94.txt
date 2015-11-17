@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 103990
+artist_familiarity: 0.56304868882
+artist_hotttnesss: 0.348226729698
+artist_id: ARDNW1B1187FB4ABBB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5cdff2f4-7220-492f-b443-11d8ab8f20ea
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Chéco Feliciano And Joe King
+artist_playmeid: -1
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 194c3027e33470b598b008d7344ab5ac
+bars_confidence: shape = (55,)
+bars_start: shape = (55,)
+beats_confidence: shape = (398,)
+beats_start: shape = (398,)
+danceability: 0.0
+duration: 273.65832
+end_of_fade_in: 0.241
+energy: 0.0
+key: 5
+key_confidence: 0.494
+loudness: -3.865
+mode: 0
+mode_confidence: 0.541
+release: Ketukuba
+release_7digitalid: 428735
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1244,)
+segments_loudness_max: shape = (1244,)
+segments_loudness_max_time: shape = (1244,)
+segments_loudness_start: shape = (1244,)
+segments_pitches: shape = (1244, 12)
+segments_start: shape = (1244,)
+segments_timbre: shape = (1244, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.319565986883
+song_id: SOZDUEQ12A8C14440E
+start_of_fade_out: 269.183
+tatums_confidence: shape = (1988,)
+tatums_start: shape = (1988,)
+tempo: 87.976
+time_signature: 7
+time_signature_confidence: 0.409
+title: Nina Nina
+track_7digitalid: 4784307
+track_id: TRABPYJ128F92DA476
+year: 2006

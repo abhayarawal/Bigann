@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13626
+artist_familiarity: 0.793094370082
+artist_hotttnesss: 0.568491815445
+artist_id: ARD2NDU1187B99B615
+artist_latitude: nan
+artist_location: Boston, MA
+artist_longitude: nan
+artist_mbid: e8374874-4178-4869-b92e-fef6bf30dc04
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Dropkick Murphys
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 2dc5f9c66abe74482152353240f82970
+bars_confidence: shape = (564,)
+bars_start: shape = (564,)
+beats_confidence: shape = (564,)
+beats_start: shape = (564,)
+danceability: 0.0
+duration: 186.01751
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.934
+loudness: -4.999
+mode: 1
+mode_confidence: 0.586
+release: The Gangs All Here
+release_7digitalid: 104645
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (471,)
+segments_loudness_max: shape = (471,)
+segments_loudness_max_time: shape = (471,)
+segments_loudness_start: shape = (471,)
+segments_pitches: shape = (471, 12)
+segments_start: shape = (471,)
+segments_timbre: shape = (471, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.605473540319
+song_id: SOHGLKT12A8C13AF29
+start_of_fade_out: 182.66
+tatums_confidence: shape = (1128,)
+tatums_start: shape = (1128,)
+tempo: 182.518
+time_signature: 1
+time_signature_confidence: 0.0
+title: Going Strong (Album Version)
+track_7digitalid: 1081287
+track_id: TRAPZJQ128F428A022
+year: 0

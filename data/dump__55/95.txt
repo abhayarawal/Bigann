@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 227835
+artist_familiarity: 0.649086012914
+artist_hotttnesss: 0.492781167979
+artist_id: ARODFDS1187FB57348
+artist_latitude: nan
+artist_location: Niteroi, Brazil
+artist_longitude: nan
+artist_mbid: 6bf591c4-b050-478e-9d9f-167394d66c90
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Sergio Mendes
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 56181636a7574d21e171267dd234bb7c
+bars_confidence: shape = (81,)
+bars_start: shape = (81,)
+beats_confidence: shape = (325,)
+beats_start: shape = (325,)
+danceability: 0.0
+duration: 152.29342
+end_of_fade_in: 0.334
+energy: 0.0
+key: 4
+key_confidence: 0.645
+loudness: -13.205
+mode: 0
+mode_confidence: 0.526
+release: WHAT THE WORLD NEEDS NOW IS BURT
+release_7digitalid: 31199
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (445,)
+segments_loudness_max: shape = (445,)
+segments_loudness_max_time: shape = (445,)
+segments_loudness_start: shape = (445,)
+segments_pitches: shape = (445, 12)
+segments_start: shape = (445,)
+segments_timbre: shape = (445, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.330234682769
+song_id: SOHUMGO12A58A7C8F5
+start_of_fade_out: 144.637
+tatums_confidence: shape = (651,)
+tatums_start: shape = (651,)
+tempo: 130.892
+time_signature: 4
+time_signature_confidence: 0.336
+title: Don't Go Breaking My Heart (LP Version)
+track_7digitalid: 337909
+track_id: TRATBQM128F146DD5B
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15590
+artist_familiarity: 0.38472013842
+artist_hotttnesss: 0.311097049524
+artist_id: AR9UT8H1187B9AF504
+artist_latitude: nan
+artist_location: Tennessee
+artist_longitude: nan
+artist_mbid: 659b268b-e5a6-47b0-ae34-bdf1ebbcf826
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ivan Parker
+artist_playmeid: 61347
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 880113c1ec1c3d791604d167735de05c
+bars_confidence: shape = (52,)
+bars_start: shape = (52,)
+beats_confidence: shape = (233,)
+beats_start: shape = (233,)
+danceability: 0.0
+duration: 163.05587
+end_of_fade_in: 3.628
+energy: 0.0
+key: 10
+key_confidence: 0.321
+loudness: -11.83
+mode: 0
+mode_confidence: 0.405
+release: NOC Live
+release_7digitalid: 249243
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (503,)
+segments_loudness_max: shape = (503,)
+segments_loudness_max_time: shape = (503,)
+segments_loudness_start: shape = (503,)
+segments_pitches: shape = (503, 12)
+segments_start: shape = (503,)
+segments_timbre: shape = (503, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOSBLDO12A8C13792D
+start_of_fade_out: 156.288
+tatums_confidence: shape = (466,)
+tatums_start: shape = (466,)
+tempo: 84.922
+time_signature: 4
+time_signature_confidence: 1.0
+title: Close To The Well (Live)
+track_7digitalid: 2716846
+track_id: TRAZSEY128F424C12B
+year: 0

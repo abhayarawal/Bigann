@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9542
+artist_familiarity: 0.613598057261
+artist_hotttnesss: 0.377720338384
+artist_id: ARM3QKQ1187FB421E0
+artist_latitude: 40.71455
+artist_location: New York, New York
+artist_longitude: -74.00712
+artist_mbid: b09775a9-957d-4101-aa88-da78b9c6ad36
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Willy DeVille
+artist_playmeid: -1
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: dc20648a1d6db3f2e29ff761845571d8
+bars_confidence: shape = (1046,)
+bars_start: shape = (1046,)
+beats_confidence: shape = (1046,)
+beats_start: shape = (1046,)
+danceability: 0.0
+duration: 439.30077
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.82
+loudness: -5.883
+mode: 1
+mode_confidence: 0.638
+release: Live at Montreux 1994
+release_7digitalid: 409506
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (1518,)
+segments_loudness_max: shape = (1518,)
+segments_loudness_max_time: shape = (1518,)
+segments_loudness_start: shape = (1518,)
+segments_pitches: shape = (1518, 12)
+segments_start: shape = (1518,)
+segments_timbre: shape = (1518, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOFLNBJ12AB017EC59
+start_of_fade_out: 439.301
+tatums_confidence: shape = (2092,)
+tatums_start: shape = (2092,)
+tempo: 143.592
+time_signature: 1
+time_signature_confidence: 0.0
+title: Cadillac Walk (Album Version)
+track_7digitalid: 4555075
+track_id: TRANNUW128F931B513
+year: 2009

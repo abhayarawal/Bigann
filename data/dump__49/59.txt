@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 87883
+artist_familiarity: 0.547938241204
+artist_hotttnesss: 0.374791219264
+artist_id: AR37ILI1187B98E27B
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: 748161b8-ec62-4423-b6f1-3a8026190ebb
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Shriekback
+artist_playmeid: -1
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: f98c309e476d4423e4c36588fe1af699
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (402,)
+beats_start: shape = (402,)
+danceability: 0.0
+duration: 286.06649
+end_of_fade_in: 0.444
+energy: 0.0
+key: 10
+key_confidence: 0.583
+loudness: -12.519
+mode: 0
+mode_confidence: 0.628
+release: Cormorant
+release_7digitalid: 221012
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1001,)
+segments_loudness_max: shape = (1001,)
+segments_loudness_max_time: shape = (1001,)
+segments_loudness_start: shape = (1001,)
+segments_pitches: shape = (1001, 12)
+segments_start: shape = (1001,)
+segments_timbre: shape = (1001, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.457337011133
+song_id: SOINMMR12A8C14042F
+start_of_fade_out: 277.583
+tatums_confidence: shape = (805,)
+tatums_start: shape = (805,)
+tempo: 84.983
+time_signature: 4
+time_signature_confidence: 0.909
+title: The Strongest Wind That Blows
+track_7digitalid: 2413078
+track_id: TRAQWKC128F428BD2C
+year: 2005

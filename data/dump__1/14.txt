@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 50205
+artist_familiarity: 0.567278871183
+artist_hotttnesss: 0.405178358908
+artist_id: AREOGMA1187B9908EF
+artist_latitude: 37.77916
+artist_location: San Francisco, CA
+artist_longitude: -122.42005
+artist_mbid: d13d9feb-b7c7-49f4-9b72-65e29a16aa24
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Hot Tuna
+artist_playmeid: 14246
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 761d56a1c2ca3cd41c6c63a42abb41a0
+bars_confidence: shape = (680,)
+bars_start: shape = (680,)
+beats_confidence: shape = (680,)
+beats_start: shape = (680,)
+danceability: 0.0
+duration: 239.59465
+end_of_fade_in: 0.31
+energy: 0.0
+key: 0
+key_confidence: 0.601
+loudness: -9.275
+mode: 1
+mode_confidence: 0.563
+release: Final Vinyl
+release_7digitalid: 372122
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (924,)
+segments_loudness_max: shape = (924,)
+segments_loudness_max_time: shape = (924,)
+segments_loudness_start: shape = (924,)
+segments_pitches: shape = (924, 12)
+segments_start: shape = (924,)
+segments_timbre: shape = (924, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOGQWR12A8C142505
+start_of_fade_out: 231.3
+tatums_confidence: shape = (1359,)
+tatums_start: shape = (1359,)
+tempo: 172.398
+time_signature: 1
+time_signature_confidence: 0.0
+title: Candy Man
+track_7digitalid: 4141634
+track_id: TRAAIDY128F92CA454
+year: 1971

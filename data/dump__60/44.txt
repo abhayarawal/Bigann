@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 567827
+artist_familiarity: 0.426539984063
+artist_hotttnesss: 0.0
+artist_id: ARH42KA11C8A416880
+artist_latitude: 37.77916
+artist_location: California - SF
+artist_longitude: -122.42005
+artist_mbid: 82631e9a-22be-4a5c-bbad-972b86d6c80a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Peloton
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: e0fa3453cd0a29404a808e6a9e05b618
+bars_confidence: shape = (60,)
+bars_start: shape = (60,)
+beats_confidence: shape = (268,)
+beats_start: shape = (268,)
+danceability: 0.0
+duration: 238.05342
+end_of_fade_in: 0.38
+energy: 0.0
+key: 4
+key_confidence: 0.208
+loudness: -21.519
+mode: 1
+mode_confidence: 0.53
+release: Selected Recordings
+release_7digitalid: 759531
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (546,)
+segments_loudness_max: shape = (546,)
+segments_loudness_max_time: shape = (546,)
+segments_loudness_start: shape = (546,)
+segments_pitches: shape = (546, 12)
+segments_start: shape = (546,)
+segments_timbre: shape = (546, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUAFUV12AB018A8FC
+start_of_fade_out: 225.93
+tatums_confidence: shape = (535,)
+tatums_start: shape = (535,)
+tempo: 70.229
+time_signature: 4
+time_signature_confidence: 0.359
+title: Beloki
+track_7digitalid: 8409769
+track_id: TRAUQKE12903CBD5B5
+year: 0

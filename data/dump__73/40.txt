@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13447
+artist_familiarity: 0.686988954629
+artist_hotttnesss: 0.606630151729
+artist_id: ARX9YIP1187B98A656
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5ecc3f72-20a6-47a0-8dc5-fb0b3dadeea0
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: RUN-DMC vs. Jason Nevins
+artist_playmeid: 1373
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 397f60057aa76e36fb2944f9655b26bf
+bars_confidence: shape = (133,)
+bars_start: shape = (133,)
+beats_confidence: shape = (536,)
+beats_start: shape = (536,)
+danceability: 0.0
+duration: 250.06975
+end_of_fade_in: 0.247
+energy: 0.0
+key: 0
+key_confidence: 0.002
+loudness: -6.748
+mode: 1
+mode_confidence: 0.118
+release: It's Like This - The Best Of
+release_7digitalid: 399641
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1001,)
+segments_loudness_max: shape = (1001,)
+segments_loudness_max_time: shape = (1001,)
+segments_loudness_start: shape = (1001,)
+segments_pitches: shape = (1001, 12)
+segments_start: shape = (1001,)
+segments_timbre: shape = (1001, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGOAGM12AB017E99E
+start_of_fade_out: 242.289
+tatums_confidence: shape = (1071,)
+tatums_start: shape = (1071,)
+tempo: 129.07
+time_signature: 4
+time_signature_confidence: 0.715
+title: It's Like That
+track_7digitalid: 4442492
+track_id: TRAZBRT128F9305CE3
+year: 1984

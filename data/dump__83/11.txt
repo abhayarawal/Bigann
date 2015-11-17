@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7609
+artist_familiarity: 0.415140367895
+artist_hotttnesss: 0.2497396712
+artist_id: ARWNGWU124207838D7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Peter Hunningale
+artist_playmeid: 147338
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: 086b4b980c5c4505aa8148f38ef86fff
+bars_confidence: shape = (155,)
+bars_start: shape = (155,)
+beats_confidence: shape = (623,)
+beats_start: shape = (623,)
+danceability: 0.0
+duration: 226.87302
+end_of_fade_in: 0.229
+energy: 0.0
+key: 9
+key_confidence: 0.735
+loudness: -10.003
+mode: 0
+mode_confidence: 0.533
+release: Mr. Government
+release_7digitalid: 433010
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (982,)
+segments_loudness_max: shape = (982,)
+segments_loudness_max_time: shape = (982,)
+segments_loudness_start: shape = (982,)
+segments_pitches: shape = (982, 12)
+segments_start: shape = (982,)
+segments_timbre: shape = (982, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAMLRD12AAF3B35AC
+start_of_fade_out: 223.945
+tatums_confidence: shape = (1246,)
+tatums_start: shape = (1246,)
+tempo: 165.898
+time_signature: 4
+time_signature_confidence: 0.343
+title: Too Late
+track_7digitalid: 4826911
+track_id: TRBCMYM128F92E42BA
+year: 0

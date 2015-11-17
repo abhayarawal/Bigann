@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 297984
+artist_familiarity: 0.404756070159
+artist_hotttnesss: 0.26402710106
+artist_id: ARAI3SX1187B9A3A9A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5d73fe4a-960d-4188-acf2-96ecbe6a3a2a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Brainchoke
+artist_playmeid: -1
+artist_terms: shape = (8,)
+artist_terms_freq: shape = (8,)
+artist_terms_weight: shape = (8,)
+audio_md5: 628618247eeffd29117d38e56953277f
+bars_confidence: shape = (47,)
+bars_start: shape = (47,)
+beats_confidence: shape = (191,)
+beats_start: shape = (191,)
+danceability: 0.0
+duration: 91.01016
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.675
+loudness: -2.874
+mode: 0
+mode_confidence: 0.557
+release: Introspective
+release_7digitalid: 391315
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (221,)
+segments_loudness_max: shape = (221,)
+segments_loudness_max_time: shape = (221,)
+segments_loudness_start: shape = (221,)
+segments_pitches: shape = (221, 12)
+segments_start: shape = (221,)
+segments_timbre: shape = (221, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVEHDZ12AB017E78F
+start_of_fade_out: 91.01
+tatums_confidence: shape = (383,)
+tatums_start: shape = (383,)
+tempo: 127.171
+time_signature: 4
+time_signature_confidence: 1.0
+title: 1st World Hypocrisy
+track_7digitalid: 4342931
+track_id: TRALPHR128F92F1D5B
+year: 0

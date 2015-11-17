@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2113
+artist_familiarity: 0.772272160928
+artist_hotttnesss: 0.500119335075
+artist_id: AREV2491187B9B017E
+artist_latitude: nan
+artist_location: Queensbridge, NY
+artist_longitude: nan
+artist_mbid: d75d1f08-bbb8-4eae-9877-399ca9121197
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Mobb Deep
+artist_playmeid: 2170
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: d6121591927e889b01b30c2711471f34
+bars_confidence: shape = (94,)
+bars_start: shape = (94,)
+beats_confidence: shape = (381,)
+beats_start: shape = (381,)
+danceability: 0.0
+duration: 224.62649
+end_of_fade_in: 3.355
+energy: 0.0
+key: 6
+key_confidence: 0.113
+loudness: -5.627
+mode: 0
+mode_confidence: 0.233
+release: Amerikaz Nightmare
+release_7digitalid: 293515
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (871,)
+segments_loudness_max: shape = (871,)
+segments_loudness_max_time: shape = (871,)
+segments_loudness_start: shape = (871,)
+segments_pitches: shape = (871, 12)
+segments_start: shape = (871,)
+segments_timbre: shape = (871, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.662826892744
+song_id: SOVFRDB12AB017FF3A
+start_of_fade_out: 207.128
+tatums_confidence: shape = (762,)
+tatums_start: shape = (762,)
+tempo: 103.433
+time_signature: 4
+time_signature_confidence: 1.0
+title: Got It Twisted
+track_7digitalid: 3296409
+track_id: TRADODV128F4283EB6
+year: 2004

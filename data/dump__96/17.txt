@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 346359
+artist_familiarity: 0.0277303757872
+artist_hotttnesss: 0.0
+artist_id: AR5K96N11C8A421849
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a5adcf35-a9c4-439f-bbe4-6b57e0491bb8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Konexion
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 99ee5e10c420d59bb02eb25681e481c2
+bars_confidence: shape = (150,)
+bars_start: shape = (150,)
+beats_confidence: shape = (606,)
+beats_start: shape = (606,)
+danceability: 0.0
+duration: 405.78567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.611
+loudness: -4.491
+mode: 0
+mode_confidence: 0.553
+release: Message A L'Eglise
+release_7digitalid: 468016
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1764,)
+segments_loudness_max: shape = (1764,)
+segments_loudness_max_time: shape = (1764,)
+segments_loudness_start: shape = (1764,)
+segments_pitches: shape = (1764, 12)
+segments_start: shape = (1764,)
+segments_timbre: shape = (1764, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEQESA12AB018A24A
+start_of_fade_out: 386.125
+tatums_confidence: shape = (2424,)
+tatums_start: shape = (2424,)
+tempo: 91.008
+time_signature: 4
+time_signature_confidence: 0.79
+title: Apostasie
+track_7digitalid: 5204833
+track_id: TRBHDRQ128F933CAB3
+year: 0

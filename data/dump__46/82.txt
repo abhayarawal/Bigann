@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 413291
+artist_familiarity: 0.407548915096
+artist_hotttnesss: 0.280948901083
+artist_id: ARQQSZK1187B99F854
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f5d200c5-6db3-4cf7-b050-f53d727c92a7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Fiasko
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 90e54ba346ee9d3e26a2453c1cb54e8d
+bars_confidence: shape = (211,)
+bars_start: shape = (211,)
+beats_confidence: shape = (847,)
+beats_start: shape = (847,)
+danceability: 0.0
+duration: 403.19955
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.133
+loudness: -7.668
+mode: 0
+mode_confidence: 0.194
+release: Hot Rod
+release_7digitalid: 558296
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1995,)
+segments_loudness_max: shape = (1995,)
+segments_loudness_max_time: shape = (1995,)
+segments_loudness_start: shape = (1995,)
+segments_pitches: shape = (1995, 12)
+segments_start: shape = (1995,)
+segments_timbre: shape = (1995, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHZWYA12AB018307C
+start_of_fade_out: 403.2
+tatums_confidence: shape = (1695,)
+tatums_start: shape = (1695,)
+tempo: 126.031
+time_signature: 4
+time_signature_confidence: 0.528
+title: Hot Rod
+track_7digitalid: 6176540
+track_id: TRAPYCB128F9345A8E
+year: 0

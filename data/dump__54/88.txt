@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4468
+artist_familiarity: 0.653397489024
+artist_hotttnesss: 0.419163587763
+artist_id: AR3FOK11187FB3F4EE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3fc945b4-bbb8-408a-8c2f-d636441b5dfe
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Seven Mary Three
+artist_playmeid: 6938
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: b749afeb790a23ab4a2ca0b94576ec16
+bars_confidence: shape = (164,)
+bars_start: shape = (164,)
+beats_confidence: shape = (661,)
+beats_start: shape = (661,)
+danceability: 0.0
+duration: 283.16689
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.599
+loudness: -13.852
+mode: 1
+mode_confidence: 0.704
+release: Backbooth
+release_7digitalid: 670727
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (938,)
+segments_loudness_max: shape = (938,)
+segments_loudness_max_time: shape = (938,)
+segments_loudness_start: shape = (938,)
+segments_pitches: shape = (938, 12)
+segments_start: shape = (938,)
+segments_timbre: shape = (938, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.468997787645
+song_id: SODCJKB12AB018C5A8
+start_of_fade_out: 278.251
+tatums_confidence: shape = (1321,)
+tatums_start: shape = (1321,)
+tempo: 140.666
+time_signature: 4
+time_signature_confidence: 0.27
+title: Hammer & a Stone
+track_7digitalid: 7438548
+track_id: TRASTOM12903CBE8A6
+year: 2008

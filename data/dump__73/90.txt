@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20131
+artist_familiarity: 0.688003348837
+artist_hotttnesss: 0.469340374259
+artist_id: ARSL3N21187B98DFC5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 74ba575f-3420-4d62-8e48-ac473d3c4282
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Klaus Badelt
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: ea397c10457bc77636afac50212d290f
+bars_confidence: shape = (601,)
+bars_start: shape = (601,)
+beats_confidence: shape = (2407,)
+beats_start: shape = (2407,)
+danceability: 0.0
+duration: 592.56118
+end_of_fade_in: 3.135
+energy: 0.0
+key: 9
+key_confidence: 0.341
+loudness: -22.28
+mode: 0
+mode_confidence: 0.522
+release: Premonition
+release_7digitalid: 92902
+sections_confidence: shape = (27,)
+sections_start: shape = (27,)
+segments_confidence: shape = (1114,)
+segments_loudness_max: shape = (1114,)
+segments_loudness_max_time: shape = (1114,)
+segments_loudness_start: shape = (1114,)
+segments_pitches: shape = (1114, 12)
+segments_start: shape = (1114,)
+segments_timbre: shape = (1114, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.327736683178
+song_id: SOABYBF12A8C138A09
+start_of_fade_out: 573.666
+tatums_confidence: shape = (2407,)
+tatums_start: shape = (2407,)
+tempo: 246.593
+time_signature: 4
+time_signature_confidence: 0.866
+title: Severe Severing
+track_7digitalid: 983619
+track_id: TRAZFZS128F4272A31
+year: 2007

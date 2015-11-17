@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 72364
+artist_familiarity: 0.434664249222
+artist_hotttnesss: 0.416786558461
+artist_id: ARU5BXG119B86698FE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2bd57a73-7784-4b8e-b274-2d9b8d2588cd
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Stefano Battaglia_ Giovanni Maier_ Michele Rabbia
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: e1502ea0a2fb64361b15d195bb2b3a97
+bars_confidence: shape = (26,)
+bars_start: shape = (26,)
+beats_confidence: shape = (207,)
+beats_start: shape = (207,)
+danceability: 0.0
+duration: 343.50975
+end_of_fade_in: 6.699
+energy: 0.0
+key: 7
+key_confidence: 0.511
+loudness: -22.999
+mode: 0
+mode_confidence: 0.553
+release: Raccolto
+release_7digitalid: 178566
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (667,)
+segments_loudness_max: shape = (667,)
+segments_loudness_max_time: shape = (667,)
+segments_loudness_start: shape = (667,)
+segments_pitches: shape = (667, 12)
+segments_start: shape = (667,)
+segments_timbre: shape = (667, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQDSYD12A813582AC
+start_of_fade_out: 330.379
+tatums_confidence: shape = (826,)
+tatums_start: shape = (826,)
+tempo: 37.797
+time_signature: 4
+time_signature_confidence: 0.0
+title: Raccolto
+track_7digitalid: 1928292
+track_id: TRBERKY128F42290CA
+year: 0

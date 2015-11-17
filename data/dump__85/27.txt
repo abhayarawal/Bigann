@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 174366
+artist_familiarity: 0.471894875515
+artist_hotttnesss: 0.355491136025
+artist_id: ARJRF841187B9B7F9A
+artist_latitude: 48.20254
+artist_location: Vienna, Austria
+artist_longitude: 16.3688
+artist_mbid: e466fb04-0175-4875-bb39-f50200b66805
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Max Steiner
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: c2355b8598852a10602fd65a3f8e5c70
+bars_confidence: shape = (54,)
+bars_start: shape = (54,)
+beats_confidence: shape = (54,)
+beats_start: shape = (54,)
+danceability: 0.0
+duration: 51.48689
+end_of_fade_in: 0.138
+energy: 0.0
+key: 9
+key_confidence: 0.578
+loudness: -15.993
+mode: 1
+mode_confidence: 0.422
+release: The Searchers - Original Film Soundtrack
+release_7digitalid: 233969
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (144,)
+segments_loudness_max: shape = (144,)
+segments_loudness_max_time: shape = (144,)
+segments_loudness_start: shape = (144,)
+segments_pitches: shape = (144, 12)
+segments_start: shape = (144,)
+segments_timbre: shape = (144, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKWYNS12A8AE47330
+start_of_fade_out: 51.487
+tatums_confidence: shape = (108,)
+tatums_start: shape = (108,)
+tempo: 64.798
+time_signature: 1
+time_signature_confidence: 0.0
+title: Laurie And Martin
+track_7digitalid: 2567272
+track_id: TRBDHQV128F4229B78
+year: 0

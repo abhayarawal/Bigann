@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20293
+artist_familiarity: 0.701441758982
+artist_hotttnesss: 0.504307725982
+artist_id: AR0O3AV1187FB4D030
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 40b8a690-94e4-4c82-ad0f-73f4b841e46a
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Agnostic Front
+artist_playmeid: 11026
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 23059fd3c86187a0fa90d72e1da42c31
+bars_confidence: shape = (59,)
+bars_start: shape = (59,)
+beats_confidence: shape = (334,)
+beats_start: shape = (334,)
+danceability: 0.0
+duration: 179.09506
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.0
+loudness: -5.439
+mode: 0
+mode_confidence: 0.081
+release: Live At CBGB's
+release_7digitalid: 145353
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (640,)
+segments_loudness_max: shape = (640,)
+segments_loudness_max_time: shape = (640,)
+segments_loudness_start: shape = (640,)
+segments_pitches: shape = (640, 12)
+segments_start: shape = (640,)
+segments_timbre: shape = (640, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.608932946378
+song_id: SOYXBLH12A8AE45E74
+start_of_fade_out: 179.095
+tatums_confidence: shape = (1004,)
+tatums_start: shape = (1004,)
+tempo: 110.791
+time_signature: 5
+time_signature_confidence: 0.361
+title: Undertow
+track_7digitalid: 1515727
+track_id: TRAKXYJ128F42525ED
+year: 1992

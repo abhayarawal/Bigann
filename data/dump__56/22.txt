@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22360
+artist_familiarity: 0.389802966828
+artist_hotttnesss: 0.287731467837
+artist_id: ARELA4P1187B991507
+artist_latitude: 31.1689
+artist_location: Texas
+artist_longitude: -100.07715
+artist_mbid: cb87bb99-3092-4be5-a515-ce8b0699f66f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Charles Williams
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 200dc8486d0ce64654a2c9ac757cc373
+bars_confidence: shape = (62,)
+bars_start: shape = (62,)
+beats_confidence: shape = (249,)
+beats_start: shape = (249,)
+danceability: 0.0
+duration: 91.84608
+end_of_fade_in: 0.556
+energy: 0.0
+key: 8
+key_confidence: 0.273
+loudness: -9.575
+mode: 1
+mode_confidence: 0.451
+release: Dramatic Story
+release_7digitalid: 675212
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (293,)
+segments_loudness_max: shape = (293,)
+segments_loudness_max_time: shape = (293,)
+segments_loudness_start: shape = (293,)
+segments_pitches: shape = (293, 12)
+segments_start: shape = (293,)
+segments_timbre: shape = (293, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEZMVS12AB018D338
+start_of_fade_out: 88.596
+tatums_confidence: shape = (499,)
+tatums_start: shape = (499,)
+tempo: 168.303
+time_signature: 4
+time_signature_confidence: 0.921
+title: They Ride By Night
+track_7digitalid: 7488412
+track_id: TRATEMM12903CCA8E0
+year: 0

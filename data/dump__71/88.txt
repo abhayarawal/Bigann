@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16982
+artist_familiarity: 0.652801354921
+artist_hotttnesss: 0.443098946532
+artist_id: ARYG6CU1187FB3852B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 67bb73ee-e70c-4bfd-9bf1-e7a09768f9a9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Milk Inc.
+artist_playmeid: -1
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 1b2438a908ee6425f09564763fbe0b4d
+bars_confidence: shape = (138,)
+bars_start: shape = (138,)
+beats_confidence: shape = (555,)
+beats_start: shape = (555,)
+danceability: 0.0
+duration: 239.82975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.617
+loudness: -6.263
+mode: 0
+mode_confidence: 0.645
+release: Supersized
+release_7digitalid: 42842
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (954,)
+segments_loudness_max: shape = (954,)
+segments_loudness_max_time: shape = (954,)
+segments_loudness_start: shape = (954,)
+segments_pitches: shape = (954, 12)
+segments_start: shape = (954,)
+segments_timbre: shape = (954, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.392008771471
+song_id: SODLDIV12A6D4F9B96
+start_of_fade_out: 232.885
+tatums_confidence: shape = (1109,)
+tatums_start: shape = (1109,)
+tempo: 140.972
+time_signature: 4
+time_signature_confidence: 0.0
+title: No Angel (radio/album)
+track_7digitalid: 455872
+track_id: TRAYPVE128F1483832
+year: 2006

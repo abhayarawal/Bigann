@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 70998
+artist_familiarity: 0.50677396849
+artist_hotttnesss: 0.37976178373
+artist_id: AR4JY8V1187B98A62F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6e5477fa-8946-4a33-89fe-9f16c0568d12
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ann Hampton Callaway
+artist_playmeid: 15801
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 670a9e9acc428a5e01fbe9df881a9564
+bars_confidence: shape = (39,)
+bars_start: shape = (39,)
+beats_confidence: shape = (361,)
+beats_start: shape = (361,)
+danceability: 0.0
+duration: 347.79383
+end_of_fade_in: 0.226
+energy: 0.0
+key: 10
+key_confidence: 0.184
+loudness: -17.462
+mode: 1
+mode_confidence: 0.325
+release: Easy Living
+release_7digitalid: 619823
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (993,)
+segments_loudness_max: shape = (993,)
+segments_loudness_max_time: shape = (993,)
+segments_loudness_start: shape = (993,)
+segments_pitches: shape = (993, 12)
+segments_start: shape = (993,)
+segments_timbre: shape = (993, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.610122756123
+song_id: SOKSASF12A58A7A08B
+start_of_fade_out: 335.61
+tatums_confidence: shape = (1081,)
+tatums_start: shape = (1081,)
+tempo: 63.134
+time_signature: 5
+time_signature_confidence: 0.859
+title: Skylark
+track_7digitalid: 6884405
+track_id: TRAIJVF128F9309AF9
+year: 0

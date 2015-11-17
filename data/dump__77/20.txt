@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 52647
+artist_familiarity: 0.733433226583
+artist_hotttnesss: 0.455558796993
+artist_id: ARK8OHG1187B99016A
+artist_latitude: nan
+artist_location: Boston, MA
+artist_longitude: nan
+artist_mbid: 2e3b75d8-00a8-486a-b4e7-a1f8f65e64c9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Shadows Fall
+artist_playmeid: 12510
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: b08cd1a35dd46f0689cc17d550cd5aa1
+bars_confidence: shape = (1045,)
+bars_start: shape = (1045,)
+beats_confidence: shape = (1045,)
+beats_start: shape = (1045,)
+danceability: 0.0
+duration: 325.17179
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.656
+loudness: -7.736
+mode: 0
+mode_confidence: 0.657
+release: Of One Blood
+release_7digitalid: 734341
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1126,)
+segments_loudness_max: shape = (1126,)
+segments_loudness_max_time: shape = (1126,)
+segments_loudness_start: shape = (1126,)
+segments_pitches: shape = (1126, 12)
+segments_start: shape = (1126,)
+segments_timbre: shape = (1126, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.559547242491
+song_id: SOSZSGF12A67AE21B1
+start_of_fade_out: 322.659
+tatums_confidence: shape = (2090,)
+tatums_start: shape = (2090,)
+tempo: 194.238
+time_signature: 1
+time_signature_confidence: 0.0
+title: Crushing Belial
+track_7digitalid: 8134074
+track_id: TRBAISB12903CF1054
+year: 2000

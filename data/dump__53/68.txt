@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 173967
+artist_familiarity: 0.576451704358
+artist_hotttnesss: 0.420006673919
+artist_id: ARKBCZ91187B98F486
+artist_latitude: 34.01156
+artist_location: Santa Monica, CA
+artist_longitude: -118.49229
+artist_mbid: 3a517503-eb9a-4d08-8235-43e6482db116
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Coco Montoya
+artist_playmeid: 213330
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 432396bf7ee26c64e7b6e7c28ea034cf
+bars_confidence: shape = (148,)
+bars_start: shape = (148,)
+beats_confidence: shape = (595,)
+beats_start: shape = (595,)
+danceability: 0.0
+duration: 233.482
+end_of_fade_in: 0.363
+energy: 0.0
+key: 2
+key_confidence: 0.399
+loudness: -5.67
+mode: 0
+mode_confidence: 0.42
+release: Prime Chops Volume Three
+release_7digitalid: 238605
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (911,)
+segments_loudness_max: shape = (911,)
+segments_loudness_max_time: shape = (911,)
+segments_loudness_start: shape = (911,)
+segments_pitches: shape = (911, 12)
+segments_start: shape = (911,)
+segments_timbre: shape = (911, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAMUDI12A6D4FCD11
+start_of_fade_out: 226.888
+tatums_confidence: shape = (595,)
+tatums_start: shape = (595,)
+tempo: 155.577
+time_signature: 4
+time_signature_confidence: 0.647
+title: Gotta Mind To Travel
+track_7digitalid: 2613979
+track_id: TRASIWH128F4234005
+year: 1995

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 33321
+artist_familiarity: 0.81699818908
+artist_hotttnesss: 0.512229189391
+artist_id: ARGFFA01187B9A2D11
+artist_latitude: 33.86404
+artist_location: Hermosa Beach, CA
+artist_longitude: -118.39535
+artist_mbid: 5c210861-2ce2-4be3-9307-bbcfc361cc01
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Pennywise
+artist_playmeid: 1253
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: e3e9e2ee225ddde96a1fa8482f39b21a
+bars_confidence: shape = (127,)
+bars_start: shape = (127,)
+beats_confidence: shape = (511,)
+beats_start: shape = (511,)
+danceability: 0.0
+duration: 154.85342
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.496
+loudness: -5.573
+mode: 1
+mode_confidence: 0.545
+release: Fuse_ The
+release_7digitalid: 45957
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (638,)
+segments_loudness_max: shape = (638,)
+segments_loudness_max_time: shape = (638,)
+segments_loudness_start: shape = (638,)
+segments_pitches: shape = (638, 12)
+segments_start: shape = (638,)
+segments_timbre: shape = (638, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.74931351062
+song_id: SOSELXM12A6D4F8129
+start_of_fade_out: 150.999
+tatums_confidence: shape = (1021,)
+tatums_start: shape = (1021,)
+tempo: 201.566
+time_signature: 4
+time_signature_confidence: 0.0
+title: Yell Out
+track_7digitalid: 490858
+track_id: TRAWZRG128F1489B24
+year: 2005

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11840
+artist_familiarity: 0.538137739913
+artist_hotttnesss: 0.400387756597
+artist_id: ARNTTHK1187B98FF64
+artist_latitude: nan
+artist_location: Cádiz
+artist_longitude: nan
+artist_mbid: 5dec643a-423f-4051-ac13-87e59525ad74
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Andy & Lucas
+artist_playmeid: 1743
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 32e8ceb8de7dad1b70456573e5a7f05e
+bars_confidence: shape = (61,)
+bars_start: shape = (61,)
+beats_confidence: shape = (312,)
+beats_start: shape = (312,)
+danceability: 0.0
+duration: 208.92689
+end_of_fade_in: 0.166
+energy: 0.0
+key: 9
+key_confidence: 0.653
+loudness: -7.042
+mode: 1
+mode_confidence: 0.684
+release: Andy & Lucas
+release_7digitalid: 300223
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (726,)
+segments_loudness_max: shape = (726,)
+segments_loudness_max_time: shape = (726,)
+segments_loudness_start: shape = (726,)
+segments_pitches: shape = (726, 12)
+segments_start: shape = (726,)
+segments_timbre: shape = (726, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEYEAY12A8C13C49E
+start_of_fade_out: 195.634
+tatums_confidence: shape = (936,)
+tatums_start: shape = (936,)
+tempo: 93.355
+time_signature: 5
+time_signature_confidence: 0.685
+title: Hasta Los Huesos
+track_7digitalid: 3376189
+track_id: TRBETHV128F429722F
+year: 2003

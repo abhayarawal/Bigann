@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41556
+artist_familiarity: 0.67323869066
+artist_hotttnesss: 0.479204557694
+artist_id: AR87K371187FB5AA8E
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: f1548c5b-329e-4036-921c-02213a04b525
+artist_mbtags: shape = (14,)
+artist_mbtags_count: shape = (14,)
+artist_name: Uriah Heep
+artist_playmeid: -1
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 35855da667e14e872b6a2dc5a55981ba
+bars_confidence: shape = (148,)
+bars_start: shape = (148,)
+beats_confidence: shape = (448,)
+beats_start: shape = (448,)
+danceability: 0.0
+duration: 212.84526
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.309
+loudness: -4.014
+mode: 1
+mode_confidence: 0.188
+release: Wake The Sleeper
+release_7digitalid: 265303
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (588,)
+segments_loudness_max: shape = (588,)
+segments_loudness_max_time: shape = (588,)
+segments_loudness_start: shape = (588,)
+segments_pitches: shape = (588, 12)
+segments_start: shape = (588,)
+segments_timbre: shape = (588, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.501116840095
+song_id: SOIGNJY12A8C13AE1A
+start_of_fade_out: 209.032
+tatums_confidence: shape = (896,)
+tatums_start: shape = (896,)
+tempo: 127.962
+time_signature: 3
+time_signature_confidence: 0.161
+title: Wake The Sleeper
+track_7digitalid: 2853808
+track_id: TRAGCXQ128F426BDD9
+year: 2008

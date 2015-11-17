@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 168176
+artist_familiarity: 0.522386246957
+artist_hotttnesss: 0.377432971579
+artist_id: ARDL6T21187FB36FDD
+artist_latitude: 29.89932
+artist_location: Port Arthur, TX
+artist_longitude: -93.92938
+artist_mbid: f5133038-c9d7-4fa2-8ec4-a44199571e25
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: C.J. Chenier
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 90982261a2bac5cbf652e392b9e33496
+bars_confidence: shape = (92,)
+bars_start: shape = (92,)
+beats_confidence: shape = (279,)
+beats_start: shape = (279,)
+danceability: 0.0
+duration: 189.33506
+end_of_fade_in: 0.386
+energy: 0.0
+key: 5
+key_confidence: 0.0
+loudness: -12.469
+mode: 1
+mode_confidence: 0.199
+release: Zydeco Champs
+release_7digitalid: 556327
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (842,)
+segments_loudness_max: shape = (842,)
+segments_loudness_max_time: shape = (842,)
+segments_loudness_start: shape = (842,)
+segments_pitches: shape = (842, 12)
+segments_start: shape = (842,)
+segments_timbre: shape = (842, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGIZJH12AB01822B5
+start_of_fade_out: 182.77
+tatums_confidence: shape = (838,)
+tatums_start: shape = (838,)
+tempo: 89.67
+time_signature: 3
+time_signature_confidence: 0.984
+title: Banana Man
+track_7digitalid: 6152787
+track_id: TRACPVU128F933FDD5
+year: 1992

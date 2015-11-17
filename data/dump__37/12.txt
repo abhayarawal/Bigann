@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 48897
+artist_familiarity: 0.593972953356
+artist_hotttnesss: 0.510324986101
+artist_id: ARIWB161187B9AA1D5
+artist_latitude: nan
+artist_location: Forest Hills, Queens, New York City, NY, USA
+artist_longitude: nan
+artist_mbid: 5d02f264-e225-41ff-83f7-d9b1f0b1874a
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Simon & Garfunkel
+artist_playmeid: 1444
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 83c4ec11436538a354ecbf653ec77346
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (416,)
+beats_start: shape = (416,)
+danceability: 0.0
+duration: 138.70975
+end_of_fade_in: 0.073
+energy: 0.0
+key: 2
+key_confidence: 0.97
+loudness: -10.222
+mode: 1
+mode_confidence: 0.621
+release: The Collection
+release_7digitalid: 316046
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (532,)
+segments_loudness_max: shape = (532,)
+segments_loudness_max_time: shape = (532,)
+segments_loudness_start: shape = (532,)
+segments_pitches: shape = (532, 12)
+segments_start: shape = (532,)
+segments_timbre: shape = (532, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODTEMK12AF72A7210
+start_of_fade_out: 131.628
+tatums_confidence: shape = (832,)
+tatums_start: shape = (832,)
+tempo: 181.41
+time_signature: 4
+time_signature_confidence: 0.008
+title: A Simple Desultory Philippic (Or How I Was Robert McNamara'd Into Submission)
+track_7digitalid: 3576699
+track_id: TRAMPCW128F92CC022
+year: 1966

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 58476
+artist_familiarity: 0.474829406893
+artist_hotttnesss: 0.2969556818
+artist_id: ARV21JS1187B99E516
+artist_latitude: 40.73197
+artist_location: Newark, NJ
+artist_longitude: -74.17418
+artist_mbid: 0b696251-6f12-42e1-9302-926581ea5e08
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jerry Lewis
+artist_playmeid: 108212
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 24d1341e80cc667ba6638192b656e2bd
+bars_confidence: shape = (36,)
+bars_start: shape = (36,)
+beats_confidence: shape = (160,)
+beats_start: shape = (160,)
+danceability: 0.0
+duration: 136.93342
+end_of_fade_in: 0.374
+energy: 0.0
+key: 3
+key_confidence: 0.0
+loudness: -10.386
+mode: 1
+mode_confidence: 0.252
+release: Very Best Of
+release_7digitalid: 210460
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (380,)
+segments_loudness_max: shape = (380,)
+segments_loudness_max_time: shape = (380,)
+segments_loudness_start: shape = (380,)
+segments_pitches: shape = (380, 12)
+segments_start: shape = (380,)
+segments_timbre: shape = (380, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAOJRS12A8C13C698
+start_of_fade_out: 131.379
+tatums_confidence: shape = (320,)
+tatums_start: shape = (320,)
+tempo: 71.913
+time_signature: 4
+time_signature_confidence: 0.908
+title: Shine On Your Shoes
+track_7digitalid: 2287311
+track_id: TRAYVOO128F4270AEB
+year: 1995

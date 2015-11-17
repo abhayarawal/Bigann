@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22127
+artist_familiarity: 0.649155773531
+artist_hotttnesss: 0.345935702186
+artist_id: ARZAHDN1187B9B4BED
+artist_latitude: nan
+artist_location: Tennessee
+artist_longitude: nan
+artist_mbid: e5348c4f-6907-4be7-b597-53bedbbc8e60
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ice
+artist_playmeid: 48759
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 23f1c6ecd984a776ed30d6219dd68fb9
+bars_confidence: shape = (163,)
+bars_start: shape = (163,)
+beats_confidence: shape = (655,)
+beats_start: shape = (655,)
+danceability: 0.0
+duration: 421.61587
+end_of_fade_in: 2.264
+energy: 0.0
+key: 4
+key_confidence: 0.85
+loudness: -5.651
+mode: 0
+mode_confidence: 0.698
+release: The Saga
+release_7digitalid: 675524
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (1244,)
+segments_loudness_max: shape = (1244,)
+segments_loudness_max_time: shape = (1244,)
+segments_loudness_start: shape = (1244,)
+segments_pitches: shape = (1244, 12)
+segments_start: shape = (1244,)
+segments_timbre: shape = (1244, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLEETR12AB018A09C
+start_of_fade_out: 408.671
+tatums_confidence: shape = (2618,)
+tatums_start: shape = (2618,)
+tempo: 93.937
+time_signature: 4
+time_signature_confidence: 0.886
+title: Shining
+track_7digitalid: 7491803
+track_id: TRAJPNM12903CCB61E
+year: 0

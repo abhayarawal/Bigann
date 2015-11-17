@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 29156
+artist_familiarity: 0.461741493305
+artist_hotttnesss: 0.334252474043
+artist_id: ARDZJ6H1187FB387F2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5b5d63ac-e78e-459e-abab-5e90e3dddbb5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Moraes Moreira
+artist_playmeid: 3542
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 61ebc95c6aac35655644ce6aaa623a85
+bars_confidence: shape = (295,)
+bars_start: shape = (295,)
+beats_confidence: shape = (886,)
+beats_start: shape = (886,)
+danceability: 0.0
+duration: 249.23383
+end_of_fade_in: 0.168
+energy: 0.0
+key: 11
+key_confidence: 0.356
+loudness: -7.622
+mode: 1
+mode_confidence: 0.557
+release: A Arte De Moraes Moreira
+release_7digitalid: 705129
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1061,)
+segments_loudness_max: shape = (1061,)
+segments_loudness_max_time: shape = (1061,)
+segments_loudness_start: shape = (1061,)
+segments_pitches: shape = (1061, 12)
+segments_start: shape = (1061,)
+segments_timbre: shape = (1061, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLBVPH12AB018577F
+start_of_fade_out: 241.412
+tatums_confidence: shape = (1771,)
+tatums_start: shape = (1771,)
+tempo: 215.595
+time_signature: 3
+time_signature_confidence: 0.165
+title: Bateu No Paladar
+track_7digitalid: 7821580
+track_id: TRAMMTQ12903CA4FE7
+year: 0

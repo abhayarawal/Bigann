@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 188694
+artist_familiarity: 0.564710159052
+artist_hotttnesss: 0.415937640828
+artist_id: ARYZV2X1187B997BE7
+artist_latitude: nan
+artist_location: California - LA
+artist_longitude: nan
+artist_mbid: b6f93b66-30e7-4b9b-a70b-4fb82f8cb24c
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Chris Standring
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: e44baf7253eba85506f53f47e96830c6
+bars_confidence: shape = (156,)
+bars_start: shape = (156,)
+beats_confidence: shape = (627,)
+beats_start: shape = (627,)
+danceability: 0.0
+duration: 269.322
+end_of_fade_in: 0.212
+energy: 0.0
+key: 0
+key_confidence: 0.673
+loudness: -9.041
+mode: 1
+mode_confidence: 0.593
+release: Groovalicious
+release_7digitalid: 819293
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1037,)
+segments_loudness_max: shape = (1037,)
+segments_loudness_max_time: shape = (1037,)
+segments_loudness_start: shape = (1037,)
+segments_pitches: shape = (1037, 12)
+segments_start: shape = (1037,)
+segments_timbre: shape = (1037, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.511424325686
+song_id: SOJGCBK12AB01884D3
+start_of_fade_out: 250.363
+tatums_confidence: shape = (1254,)
+tatums_start: shape = (1254,)
+tempo: 140.044
+time_signature: 4
+time_signature_confidence: 0.445
+title: Say What!?!
+track_7digitalid: 9048939
+track_id: TRAFFDW12903CE53B6
+year: 2003

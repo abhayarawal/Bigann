@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 50607
+artist_familiarity: 0.838816273605
+artist_hotttnesss: 0.557755674779
+artist_id: AROSI8L1187B9ACD43
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: 1d11e2a1-4531-4d61-a8c7-7b5c6a608fd2
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Ice Cube Featuring Flavor Flav
+artist_playmeid: 1836
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: d782af3a84b483e2a73a7595ba842eb4
+bars_confidence: shape = (48,)
+bars_start: shape = (48,)
+beats_confidence: shape = (201,)
+beats_start: shape = (201,)
+danceability: 0.0
+duration: 130.7424
+end_of_fade_in: 0.27
+energy: 0.0
+key: 11
+key_confidence: 0.094
+loudness: -6.388
+mode: 1
+mode_confidence: 0.341
+release: AmeriKKKa's Most Wanted (Explicit)
+release_7digitalid: 26210
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (526,)
+segments_loudness_max: shape = (526,)
+segments_loudness_max_time: shape = (526,)
+segments_loudness_start: shape = (526,)
+segments_pitches: shape = (526, 12)
+segments_start: shape = (526,)
+segments_timbre: shape = (526, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.372530039366
+song_id: SOGFLWF12A6D4F64AC
+start_of_fade_out: 130.742
+tatums_confidence: shape = (402,)
+tatums_start: shape = (402,)
+tempo: 92.482
+time_signature: 4
+time_signature_confidence: 0.895
+title: I'm Only Out For One Thang (Explicit) (Feat. Flavor Flav)
+track_7digitalid: 282505
+track_id: TRATPCS128F146224A
+year: 0

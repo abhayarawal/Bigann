@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 111429
+artist_familiarity: 0.687694457228
+artist_hotttnesss: 0.44164340482
+artist_id: ARGYHUI1187B9AC2A5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fca2e3b9-d29c-4b41-bde9-0ea5fd279843
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Hanoi Rocks
+artist_playmeid: 17045
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: d225cab7363653ac40e1e1d41af85f95
+bars_confidence: shape = (124,)
+bars_start: shape = (124,)
+beats_confidence: shape = (501,)
+beats_start: shape = (501,)
+danceability: 0.0
+duration: 240.66567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.62
+loudness: -3.764
+mode: 1
+mode_confidence: 0.654
+release: Another Hostile Takeover
+release_7digitalid: 162141
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (652,)
+segments_loudness_max: shape = (652,)
+segments_loudness_max_time: shape = (652,)
+segments_loudness_start: shape = (652,)
+segments_pitches: shape = (652, 12)
+segments_start: shape = (652,)
+segments_timbre: shape = (652, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.327736683178
+song_id: SOXXBFW12A8C13D1E6
+start_of_fade_out: 230.864
+tatums_confidence: shape = (1001,)
+tatums_start: shape = (1001,)
+tempo: 126.105
+time_signature: 4
+time_signature_confidence: 0.0
+title: No Comprimise_ No Regrets
+track_7digitalid: 1718039
+track_id: TRAHNDR128F4282683
+year: 2005

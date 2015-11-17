@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 121540
+artist_familiarity: 0.583580795396
+artist_hotttnesss: 0.323452004357
+artist_id: AREVNVA1187B989EE0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f560cffe-c225-4b91-8511-403219819200
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Paul Thorn
+artist_playmeid: 33615
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: cf3f4c99c7b8fd916537bbd9864b44ce
+bars_confidence: shape = (154,)
+bars_start: shape = (154,)
+beats_confidence: shape = (621,)
+beats_start: shape = (621,)
+danceability: 0.0
+duration: 236.53832
+end_of_fade_in: 0.554
+energy: 0.0
+key: 7
+key_confidence: 0.848
+loudness: -8.146
+mode: 1
+mode_confidence: 0.736
+release: Aint Love Strange
+release_7digitalid: 533909
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (709,)
+segments_loudness_max: shape = (709,)
+segments_loudness_max_time: shape = (709,)
+segments_loudness_start: shape = (709,)
+segments_pitches: shape = (709, 12)
+segments_start: shape = (709,)
+segments_timbre: shape = (709, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SORTCHS12AB017E07C
+start_of_fade_out: 221.71
+tatums_confidence: shape = (1242,)
+tatums_start: shape = (1242,)
+tempo: 159.894
+time_signature: 4
+time_signature_confidence: 0.0
+title: Mood Ring
+track_7digitalid: 5900943
+track_id: TRAYSLA128F9303069
+year: 2006

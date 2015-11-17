@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8796
+artist_familiarity: 0.547493887843
+artist_hotttnesss: 0.376018761952
+artist_id: AROPBVQ1187FB36581
+artist_latitude: 59.91228
+artist_location: Oslo, Norway
+artist_longitude: 10.74998
+artist_mbid: 7f9ccb94-8113-4fc0-8009-eac7805cfd23
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Khold
+artist_playmeid: 162444
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 4d3220aaef4ab617b05631820071e5ad
+bars_confidence: shape = (75,)
+bars_start: shape = (75,)
+beats_confidence: shape = (305,)
+beats_start: shape = (305,)
+danceability: 0.0
+duration: 207.93424
+end_of_fade_in: 0.078
+energy: 0.0
+key: 9
+key_confidence: 0.202
+loudness: -3.018
+mode: 1
+mode_confidence: 0.447
+release: Hundre År Gammal
+release_7digitalid: 613206
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (368,)
+segments_loudness_max: shape = (368,)
+segments_loudness_max_time: shape = (368,)
+segments_loudness_start: shape = (368,)
+segments_pitches: shape = (368, 12)
+segments_start: shape = (368,)
+segments_timbre: shape = (368, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.469712431319
+song_id: SOLXDWR12A58A79689
+start_of_fade_out: 207.934
+tatums_confidence: shape = (611,)
+tatums_start: shape = (611,)
+tempo: 89.063
+time_signature: 4
+time_signature_confidence: 0.476
+title: Hundre År Gammal
+track_7digitalid: 6814645
+track_id: TRBAORU128F92F8C48
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1270
+artist_familiarity: 0.864867842092
+artist_hotttnesss: 0.76607616442
+artist_id: ARKR75V1187FB3D4D5
+artist_latitude: nan
+artist_location: New Jersey
+artist_longitude: nan
+artist_mbid: c07f0676-9143-4217-8a9f-4c26bd636f13
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: My Chemical Romance
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 4349d4fa5d4b346f93e3cceac528044d
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (239,)
+beats_start: shape = (239,)
+danceability: 0.0
+duration: 154.30485
+end_of_fade_in: 5.039
+energy: 0.0
+key: 7
+key_confidence: 0.145
+loudness: -9.097
+mode: 1
+mode_confidence: 0.374
+release: The Black Parade Is Dead!
+release_7digitalid: 271590
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (316,)
+segments_loudness_max: shape = (316,)
+segments_loudness_max_time: shape = (316,)
+segments_loudness_start: shape = (316,)
+segments_pitches: shape = (316, 12)
+segments_start: shape = (316,)
+segments_timbre: shape = (316, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.468997787645
+song_id: SOIVRCS12A6D4FDA2C
+start_of_fade_out: 154.305
+tatums_confidence: shape = (478,)
+tatums_start: shape = (478,)
+tempo: 92.645
+time_signature: 3
+time_signature_confidence: 1.0
+title: The End. [Live In Mexico]
+track_7digitalid: 3022113
+track_id: TRBAKRM128F4248228
+year: 2008

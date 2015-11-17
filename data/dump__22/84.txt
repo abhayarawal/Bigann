@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 316796
+artist_familiarity: 0.56619411403
+artist_hotttnesss: 0.384112700752
+artist_id: ARAEXD61187B9B7543
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6ae345f3-916f-447a-a99c-4dc1eab50611
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bellatrax feat. Tina Cousins
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: a196a1a07be4f82b90b70af62b623b11
+bars_confidence: shape = (215,)
+bars_start: shape = (215,)
+beats_confidence: shape = (864,)
+beats_start: shape = (864,)
+danceability: 0.0
+duration: 410.90567
+end_of_fade_in: 0.438
+energy: 0.0
+key: 6
+key_confidence: 0.017
+loudness: -7.475
+mode: 1
+mode_confidence: 0.317
+release: Can't Hold Back
+release_7digitalid: 726379
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (2096,)
+segments_loudness_max: shape = (2096,)
+segments_loudness_max_time: shape = (2096,)
+segments_loudness_start: shape = (2096,)
+segments_pitches: shape = (2096, 12)
+segments_start: shape = (2096,)
+segments_timbre: shape = (2096, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCPFPB12AB018C6F6
+start_of_fade_out: 404.439
+tatums_confidence: shape = (1729,)
+tatums_start: shape = (1729,)
+tempo: 128.006
+time_signature: 4
+time_signature_confidence: 0.0
+title: Can't Hold Back
+track_7digitalid: 8049383
+track_id: TRAHTGS12903CDC5E8
+year: 0

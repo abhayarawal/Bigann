@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 63345
+artist_familiarity: 0.928936926189
+artist_hotttnesss: 0.598555411894
+artist_id: AR0KBXO1187B996460
+artist_latitude: 41.58979
+artist_location: Des Moines, Iowa
+artist_longitude: -93.61566
+artist_mbid: ceb7b6be-1dbb-4d80-b157-5588bc884764
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Slipknot
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: f0f49b69c11f0c0904763f7ffa9a510c
+bars_confidence: shape = (601,)
+bars_start: shape = (601,)
+beats_confidence: shape = (601,)
+beats_start: shape = (601,)
+danceability: 0.0
+duration: 297.53424
+end_of_fade_in: 0.073
+energy: 0.0
+key: 7
+key_confidence: 0.569
+loudness: -3.194
+mode: 1
+mode_confidence: 0.446
+release: Vol. 3: The Subliminal Verses [Special Package]
+release_7digitalid: 528599
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (955,)
+segments_loudness_max: shape = (955,)
+segments_loudness_max_time: shape = (955,)
+segments_loudness_start: shape = (955,)
+segments_pitches: shape = (955, 12)
+segments_start: shape = (955,)
+segments_timbre: shape = (955, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOORPUL12A58A7A6E7
+start_of_fade_out: 288.473
+tatums_confidence: shape = (1203,)
+tatums_start: shape = (1203,)
+tempo: 122.865
+time_signature: 1
+time_signature_confidence: 0.0
+title: Three Nil (live) (Album Version)
+track_7digitalid: 5838529
+track_id: TRAVQZF128F92F3CE3
+year: 0

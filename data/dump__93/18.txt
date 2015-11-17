@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7032
+artist_familiarity: 0.837947909189
+artist_hotttnesss: 0.740373515795
+artist_id: ARZENOX1187B98A645
+artist_latitude: nan
+artist_location: Calcutta, India
+artist_longitude: nan
+artist_mbid: 8a81edd9-6f62-4ac7-afee-17dc0fec5fe7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: John Mayer
+artist_playmeid: 823
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 6b52dd31f5e22bb39eabd1575e843897
+bars_confidence: shape = (17,)
+bars_start: shape = (17,)
+beats_confidence: shape = (71,)
+beats_start: shape = (71,)
+danceability: 0.0
+duration: 38.3473
+end_of_fade_in: 0.938
+energy: 0.0
+key: 7
+key_confidence: 0.066
+loudness: -16.739
+mode: 0
+mode_confidence: 0.452
+release: Dhammapada
+release_7digitalid: 733646
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (118,)
+segments_loudness_max: shape = (118,)
+segments_loudness_max_time: shape = (118,)
+segments_loudness_start: shape = (118,)
+segments_pitches: shape = (118, 12)
+segments_start: shape = (118,)
+segments_timbre: shape = (118, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKHEQY12AC468B3F9
+start_of_fade_out: 38.347
+tatums_confidence: shape = (142,)
+tatums_start: shape = (142,)
+tempo: 121.915
+time_signature: 4
+time_signature_confidence: 0.0
+title: Sannyasin
+track_7digitalid: 8125728
+track_id: TRBGEHK12903CEEFC0
+year: 1976

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 112950
+artist_familiarity: 0.392215944801
+artist_hotttnesss: 0.0
+artist_id: ARAALFJ11F4C83DD40
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bullethole
+artist_playmeid: 78242
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: bfca444b826949fd6d6d59eee66aa01f
+bars_confidence: shape = (123,)
+bars_start: shape = (123,)
+beats_confidence: shape = (618,)
+beats_start: shape = (618,)
+danceability: 0.0
+duration: 226.66404
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.611
+loudness: -6.001
+mode: 1
+mode_confidence: 0.44
+release: Incarceration
+release_7digitalid: 144646
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (719,)
+segments_loudness_max: shape = (719,)
+segments_loudness_max_time: shape = (719,)
+segments_loudness_start: shape = (719,)
+segments_pitches: shape = (719, 12)
+segments_start: shape = (719,)
+segments_timbre: shape = (719, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOXXEJT12A58A7D55E
+start_of_fade_out: 220.671
+tatums_confidence: shape = (1235,)
+tatums_start: shape = (1235,)
+tempo: 168.009
+time_signature: 5
+time_signature_confidence: 0.414
+title: Now I Know
+track_7digitalid: 1508219
+track_id: TRAZWFF128F42508A6
+year: 0

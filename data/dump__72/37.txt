@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 101641
+artist_familiarity: 0.622999463223
+artist_hotttnesss: 0.458935570522
+artist_id: ARJS05S1187FB58F3A
+artist_latitude: nan
+artist_location: LOS ANGELES, California
+artist_longitude: nan
+artist_mbid: 0eb58fc2-a70b-4e02-a503-115e42da9b4e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Spongebob Squarepants
+artist_playmeid: 31165
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 48a63984db988dd01602f8eb85bc1837
+bars_confidence: shape = (72,)
+bars_start: shape = (72,)
+beats_confidence: shape = (292,)
+beats_start: shape = (292,)
+danceability: 0.0
+duration: 144.61342
+end_of_fade_in: 0.345
+energy: 0.0
+key: 7
+key_confidence: 0.079
+loudness: -8.597
+mode: 1
+mode_confidence: 0.461
+release: Het Spongebob Squarepants Lied
+release_7digitalid: 307387
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (570,)
+segments_loudness_max: shape = (570,)
+segments_loudness_max_time: shape = (570,)
+segments_loudness_start: shape = (570,)
+segments_pitches: shape = (570, 12)
+segments_start: shape = (570,)
+segments_timbre: shape = (570, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SOKSINK12A8C13CB9B
+start_of_fade_out: 137.567
+tatums_confidence: shape = (583,)
+tatums_start: shape = (583,)
+tempo: 125.261
+time_signature: 4
+time_signature_confidence: 0.0
+title: Het Spongebob Squarepants Lied
+track_7digitalid: 3472669
+track_id: TRAYTWH128F42AE5B0
+year: 0

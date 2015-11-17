@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 333618
+artist_familiarity: 0.535555359139
+artist_hotttnesss: 0.171532242397
+artist_id: ARJNOOU11F4C845A6A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Riviera Regime
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 9dc18aa9867e44b82a413e6ebd8ba355
+bars_confidence: shape = (105,)
+bars_start: shape = (105,)
+beats_confidence: shape = (424,)
+beats_start: shape = (424,)
+danceability: 0.0
+duration: 275.22567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.02
+loudness: -5.572
+mode: 1
+mode_confidence: 0.369
+release: Thugz Of War
+release_7digitalid: 462774
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1397,)
+segments_loudness_max: shape = (1397,)
+segments_loudness_max_time: shape = (1397,)
+segments_loudness_start: shape = (1397,)
+segments_pitches: shape = (1397, 12)
+segments_start: shape = (1397,)
+segments_timbre: shape = (1397, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SORYDTU12AB0184426
+start_of_fade_out: 262.809
+tatums_confidence: shape = (1696,)
+tatums_start: shape = (1696,)
+tempo: 93.03
+time_signature: 4
+time_signature_confidence: 0.934
+title: Doin' It
+track_7digitalid: 5151636
+track_id: TRAHZXW128F932FAFC
+year: 0

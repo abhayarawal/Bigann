@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 163203
+artist_familiarity: 0.766974512784
+artist_hotttnesss: 0.443492213496
+artist_id: ARGY9EQ1187B996E1A
+artist_latitude: nan
+artist_location: Espoo/Helsinki
+artist_longitude: nan
+artist_mbid: 313a0007-b9d3-4036-921a-ce311f9795ad
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Norther
+artist_playmeid: 140427
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 8e4c85645c6db6d01dfa395225b2f03a
+bars_confidence: shape = (98,)
+bars_start: shape = (98,)
+beats_confidence: shape = (395,)
+beats_start: shape = (395,)
+danceability: 0.0
+duration: 122.72281
+end_of_fade_in: 0.229
+energy: 0.0
+key: 6
+key_confidence: 0.501
+loudness: -3.779
+mode: 0
+mode_confidence: 0.556
+release: Till Death Unites Us
+release_7digitalid: 515761
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (453,)
+segments_loudness_max: shape = (453,)
+segments_loudness_max_time: shape = (453,)
+segments_loudness_start: shape = (453,)
+segments_pitches: shape = (453, 12)
+segments_start: shape = (453,)
+segments_timbre: shape = (453, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.60681632717
+song_id: SOBUPWX12AB0188E71
+start_of_fade_out: 116.785
+tatums_confidence: shape = (791,)
+tatums_start: shape = (791,)
+tempo: 200.06
+time_signature: 4
+time_signature_confidence: 0.0
+title: Fuck You
+track_7digitalid: 5715432
+track_id: TRAYGQU128F934B4F5
+year: 2006

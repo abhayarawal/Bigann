@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2090
+artist_familiarity: 0.6357570221
+artist_hotttnesss: 0.37943697224
+artist_id: AR0X3JJ1187FB3A9A7
+artist_latitude: nan
+artist_location: McLellan, FL
+artist_longitude: nan
+artist_mbid: c8d0d74b-80eb-4746-8cea-f5df78b4b90c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Hank Locklin
+artist_playmeid: 16411
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 6926a414ef7a2527b97c86c7006bdc7c
+bars_confidence: shape = (53,)
+bars_start: shape = (53,)
+beats_confidence: shape = (217,)
+beats_start: shape = (217,)
+danceability: 0.0
+duration: 146.83383
+end_of_fade_in: 2.241
+energy: 0.0
+key: 7
+key_confidence: 0.666
+loudness: -13.12
+mode: 1
+mode_confidence: 0.653
+release: RCA Country Legends
+release_7digitalid: 293622
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (297,)
+segments_loudness_max: shape = (297,)
+segments_loudness_max_time: shape = (297,)
+segments_loudness_start: shape = (297,)
+segments_pitches: shape = (297, 12)
+segments_start: shape = (297,)
+segments_timbre: shape = (297, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3759843015
+song_id: SOTLYRR12A8C13951F
+start_of_fade_out: 140.707
+tatums_confidence: shape = (434,)
+tatums_start: shape = (434,)
+tempo: 90.61
+time_signature: 4
+time_signature_confidence: 0.603
+title: Danny Boy
+track_7digitalid: 3303621
+track_id: TRACDCZ128F4285AE0
+year: 0

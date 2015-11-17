@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 192619
+artist_familiarity: 0.442769650057
+artist_hotttnesss: 0.294986616555
+artist_id: ARI648V1187B9B5379
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4e744ffc-767a-4b18-b485-47d4b123ff4a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Michael Stanley Band
+artist_playmeid: 15835
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 26bc93437059413c85065d3aaa2888a8
+bars_confidence: shape = (179,)
+bars_start: shape = (179,)
+beats_confidence: shape = (720,)
+beats_start: shape = (720,)
+danceability: 0.0
+duration: 257.61914
+end_of_fade_in: 0.31
+energy: 0.0
+key: 5
+key_confidence: 1.0
+loudness: -15.089
+mode: 1
+mode_confidence: 0.757
+release: You Break It...You Bought It!
+release_7digitalid: 540308
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (787,)
+segments_loudness_max: shape = (787,)
+segments_loudness_max_time: shape = (787,)
+segments_loudness_start: shape = (787,)
+segments_pitches: shape = (787, 12)
+segments_start: shape = (787,)
+segments_timbre: shape = (787, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOSDZBN12AB01815C3
+start_of_fade_out: 257.619
+tatums_confidence: shape = (1439,)
+tatums_start: shape = (1439,)
+tempo: 167.336
+time_signature: 4
+time_signature_confidence: 0.0
+title: Where Have All The Clowns Gone
+track_7digitalid: 5982919
+track_id: TRAWCYI128F9316BD9
+year: 1975

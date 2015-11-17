@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 983
+artist_familiarity: 0.741518127419
+artist_hotttnesss: 0.520412110054
+artist_id: AR1ZKBE1187FB53629
+artist_latitude: nan
+artist_location: D�orf, Germany
+artist_longitude: nan
+artist_mbid: 5700dcd4-c139-4f31-aa3e-6382b9af9032
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Kraftwerk
+artist_playmeid: 881
+artist_terms: shape = (62,)
+artist_terms_freq: shape = (62,)
+artist_terms_weight: shape = (62,)
+audio_md5: 218d203514bc3eb49c62cccb35f0ed47
+bars_confidence: shape = (122,)
+bars_start: shape = (122,)
+beats_confidence: shape = (490,)
+beats_start: shape = (490,)
+danceability: 0.0
+duration: 332.14649
+end_of_fade_in: 0.258
+energy: 0.0
+key: 5
+key_confidence: 0.502
+loudness: -10.486
+mode: 0
+mode_confidence: 0.483
+release: The Man Machine (2009 Digital Remaster)
+release_7digitalid: 608835
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1809,)
+segments_loudness_max: shape = (1809,)
+segments_loudness_max_time: shape = (1809,)
+segments_loudness_start: shape = (1809,)
+segments_pitches: shape = (1809, 12)
+segments_start: shape = (1809,)
+segments_timbre: shape = (1809, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.368413732667
+song_id: SOMVDFN12A58A7CE36
+start_of_fade_out: 322.943
+tatums_confidence: shape = (1960,)
+tatums_start: shape = (1960,)
+tempo: 89.346
+time_signature: 4
+time_signature_confidence: 0.637
+title: The Man Machine (2009 Digital Remaster)
+track_7digitalid: 6764784
+track_id: TRAWASU12903D07A25
+year: 0

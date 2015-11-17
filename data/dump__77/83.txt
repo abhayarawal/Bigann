@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15867
+artist_familiarity: 0.552053803339
+artist_hotttnesss: 0.34137626763
+artist_id: AREB22L1187B9A4BCE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 428bdc7a-373c-4cd0-b3a7-1cec7ce868bf
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bad Azz
+artist_playmeid: 61516
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: da7496edbce3dd1b24830680d76945c3
+bars_confidence: shape = (113,)
+bars_start: shape = (113,)
+beats_confidence: shape = (457,)
+beats_start: shape = (457,)
+danceability: 0.0
+duration: 285.93587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.56
+loudness: -6.671
+mode: 0
+mode_confidence: 0.535
+release: Personal Business (Explicit)
+release_7digitalid: 22455
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1233,)
+segments_loudness_max: shape = (1233,)
+segments_loudness_max_time: shape = (1233,)
+segments_loudness_start: shape = (1233,)
+segments_pitches: shape = (1233, 12)
+segments_start: shape = (1233,)
+segments_timbre: shape = (1233, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.405115721691
+song_id: SOXAVMX12A6D4F7773
+start_of_fade_out: 278.535
+tatums_confidence: shape = (914,)
+tatums_start: shape = (914,)
+tempo: 96.042
+time_signature: 4
+time_signature_confidence: 0.991
+title: Too Many Choices
+track_7digitalid: 232207
+track_id: TRBAOBO128F1456D66
+year: 0

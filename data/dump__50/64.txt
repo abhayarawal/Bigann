@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1448
+artist_familiarity: 0.817256939293
+artist_hotttnesss: 0.735208877747
+artist_id: ARH861H1187B9B799E
+artist_latitude: nan
+artist_location: Kingsland, AR
+artist_longitude: nan
+artist_mbid: d43d12a1-2dc9-4257-a2fd-0a3bb1081b86
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Johnny Cash
+artist_playmeid: 4281
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 9be2170b58bc01e87daf9a7f2868a048
+bars_confidence: shape = (53,)
+bars_start: shape = (53,)
+beats_confidence: shape = (216,)
+beats_start: shape = (216,)
+danceability: 0.0
+duration: 120.99873
+end_of_fade_in: 0.264
+energy: 0.0
+key: 8
+key_confidence: 0.636
+loudness: -12.308
+mode: 1
+mode_confidence: 0.534
+release: Mi Collection - Volume 2
+release_7digitalid: 703451
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (514,)
+segments_loudness_max: shape = (514,)
+segments_loudness_max_time: shape = (514,)
+segments_loudness_start: shape = (514,)
+segments_pitches: shape = (514, 12)
+segments_start: shape = (514,)
+segments_timbre: shape = (514, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOENOQK12AB01864B9
+start_of_fade_out: 112.019
+tatums_confidence: shape = (433,)
+tatums_start: shape = (433,)
+tempo: 110.43
+time_signature: 4
+time_signature_confidence: 1.0
+title: One More Ride (Digitally Remastered)
+track_7digitalid: 7802778
+track_id: TRARFQY12903CA07B6
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 168536
+artist_familiarity: 0.404823303308
+artist_hotttnesss: 0.288050285376
+artist_id: AR7LIU31187B98EF11
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c7b612cb-384a-45a2-9948-c35edfdbbc4a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Rita Chiarelli
+artist_playmeid: 167218
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: b6c3c3dc8efb84e7eac7745cde42aafe
+bars_confidence: shape = (115,)
+bars_start: shape = (115,)
+beats_confidence: shape = (349,)
+beats_start: shape = (349,)
+danceability: 0.0
+duration: 237.7922
+end_of_fade_in: 0.403
+energy: 0.0
+key: 5
+key_confidence: 0.39
+loudness: -9.517
+mode: 1
+mode_confidence: 0.392
+release: No-One to Blame
+release_7digitalid: 239126
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (674,)
+segments_loudness_max: shape = (674,)
+segments_loudness_max_time: shape = (674,)
+segments_loudness_start: shape = (674,)
+segments_pitches: shape = (674, 12)
+segments_start: shape = (674,)
+segments_timbre: shape = (674, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SODGUVC12A8C142EBA
+start_of_fade_out: 229.222
+tatums_confidence: shape = (698,)
+tatums_start: shape = (698,)
+tempo: 90.282
+time_signature: 3
+time_signature_confidence: 0.685
+title: Doggin' Around
+track_7digitalid: 2998421
+track_id: TRACKML128F428C905
+year: 2004

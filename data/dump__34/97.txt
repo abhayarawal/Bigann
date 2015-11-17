@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1688
+artist_familiarity: 0.477180008752
+artist_hotttnesss: 0.327954754153
+artist_id: ARB06Z71187B99049A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c736201c-546d-469f-8475-4415db60aad0
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Séamus Egan
+artist_playmeid: 22407
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 8a4ca847d79dab4ea7c79d92e7844157
+bars_confidence: shape = (650,)
+bars_start: shape = (650,)
+beats_confidence: shape = (650,)
+beats_start: shape = (650,)
+danceability: 0.0
+duration: 198.84363
+end_of_fade_in: 0.373
+energy: 0.0
+key: 9
+key_confidence: 0.438
+loudness: -13.152
+mode: 1
+mode_confidence: 0.561
+release: In Your Ear
+release_7digitalid: 668028
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1074,)
+segments_loudness_max: shape = (1074,)
+segments_loudness_max_time: shape = (1074,)
+segments_loudness_start: shape = (1074,)
+segments_pitches: shape = (1074, 12)
+segments_start: shape = (1074,)
+segments_timbre: shape = (1074, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLZGRF12AB018824F
+start_of_fade_out: 190.816
+tatums_confidence: shape = (1300,)
+tatums_start: shape = (1300,)
+tempo: 201.512
+time_signature: 1
+time_signature_confidence: 0.0
+title: Poultry in the Parlour / Rolling the Ryegrass
+track_7digitalid: 7406648
+track_id: TRALYCX12903CB6D4E
+year: 0

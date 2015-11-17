@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40119
+artist_familiarity: 0.445858670853
+artist_hotttnesss: 0.312044455676
+artist_id: AR3AIEI1187B992D8D
+artist_latitude: 54.31392
+artist_location: Great Britain / UK
+artist_longitude: -2.23218
+artist_mbid: 471087d4-3438-4f55-bb37-89cfe042b300
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Marilyn Horne / Wiener Opernorchester / Henry Lewis
+artist_playmeid: 15167
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: aab6f21cba8c0079e3831e8b2b05eddd
+bars_confidence: shape = (168,)
+bars_start: shape = (168,)
+beats_confidence: shape = (675,)
+beats_start: shape = (675,)
+danceability: 0.0
+duration: 391.70567
+end_of_fade_in: 8.237
+energy: 0.0
+key: 1
+key_confidence: 0.478
+loudness: -20.082
+mode: 1
+mode_confidence: 0.468
+release: Ultimate Classical Chill Out
+release_7digitalid: 628421
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1124,)
+segments_loudness_max: shape = (1124,)
+segments_loudness_max_time: shape = (1124,)
+segments_loudness_start: shape = (1124,)
+segments_pitches: shape = (1124, 12)
+segments_start: shape = (1124,)
+segments_timbre: shape = (1124, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLMLUW12AB017D7E0
+start_of_fade_out: 379.786
+tatums_confidence: shape = (675,)
+tatums_start: shape = (675,)
+tempo: 106.504
+time_signature: 4
+time_signature_confidence: 0.499
+title: Mon coeur s'ouvre à ta voix
+track_7digitalid: 6975296
+track_id: TRADLAB128F931FCAE
+year: 0

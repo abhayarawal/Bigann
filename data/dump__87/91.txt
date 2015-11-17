@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17517
+artist_familiarity: 0.501144995753
+artist_hotttnesss: 0.230130793752
+artist_id: ARXGWZP11F4C83C075
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Leon Lai
+artist_playmeid: 123429
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 58f6b93709395bd4b35b951a2a5bfe02
+bars_confidence: shape = (84,)
+bars_start: shape = (84,)
+beats_confidence: shape = (339,)
+beats_start: shape = (339,)
+danceability: 0.0
+duration: 203.38893
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.374
+loudness: -7.762
+mode: 0
+mode_confidence: 0.481
+release: 4 in Love
+release_7digitalid: 471205
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (717,)
+segments_loudness_max: shape = (717,)
+segments_loudness_max_time: shape = (717,)
+segments_loudness_start: shape = (717,)
+segments_pitches: shape = (717, 12)
+segments_start: shape = (717,)
+segments_timbre: shape = (717, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCXVHG12AB0181FAA
+start_of_fade_out: 191.745
+tatums_confidence: shape = (1015,)
+tatums_start: shape = (1015,)
+tempo: 103.995
+time_signature: 4
+time_signature_confidence: 0.0
+title: Qing Yi Shi
+track_7digitalid: 5237536
+track_id: TRBEEWC128F9344A22
+year: 0

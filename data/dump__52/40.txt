@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 51559
+artist_familiarity: 0.643016666262
+artist_hotttnesss: 0.461517204498
+artist_id: ARVJVFF1187B9B40D6
+artist_latitude: 40.7174
+artist_location: Jersey City, NJ
+artist_longitude: -74.04323
+artist_mbid: 09c0f334-f9de-4970-b9ee-ef799cd093be
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Al Di Meola
+artist_playmeid: 13669
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 0fcecea4211061522356718962db8699
+bars_confidence: shape = (116,)
+bars_start: shape = (116,)
+beats_confidence: shape = (468,)
+beats_start: shape = (468,)
+danceability: 0.0
+duration: 257.30567
+end_of_fade_in: 0.299
+energy: 0.0
+key: 0
+key_confidence: 0.368
+loudness: -16.945
+mode: 1
+mode_confidence: 0.653
+release: Scenario
+release_7digitalid: 419331
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (883,)
+segments_loudness_max: shape = (883,)
+segments_loudness_max_time: shape = (883,)
+segments_loudness_start: shape = (883,)
+segments_pitches: shape = (883, 12)
+segments_start: shape = (883,)
+segments_timbre: shape = (883, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.360370582712
+song_id: SOKKHMB12AB0182B39
+start_of_fade_out: 248.471
+tatums_confidence: shape = (936,)
+tatums_start: shape = (936,)
+tempo: 110.096
+time_signature: 4
+time_signature_confidence: 0.207
+title: Calliope
+track_7digitalid: 4680803
+track_id: TRARWMG128F933667C
+year: 1983

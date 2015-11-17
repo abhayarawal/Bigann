@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20075
+artist_familiarity: 0.743458883632
+artist_hotttnesss: 0.51919870209
+artist_id: AR5BBK81187B990027
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 16a99fc7-e323-4d04-81ab-46b09a0cb4eb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Matt Redman
+artist_playmeid: 5531
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 642969967f033ccea664e41ee6e142a2
+bars_confidence: shape = (216,)
+bars_start: shape = (216,)
+beats_confidence: shape = (866,)
+beats_start: shape = (866,)
+danceability: 0.0
+duration: 336.92689
+end_of_fade_in: 0.167
+energy: 0.0
+key: 6
+key_confidence: 0.659
+loudness: -9.515
+mode: 1
+mode_confidence: 0.667
+release: Here I Am To Worship Vol 2
+release_7digitalid: 294754
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (894,)
+segments_loudness_max: shape = (894,)
+segments_loudness_max_time: shape = (894,)
+segments_loudness_start: shape = (894,)
+segments_pitches: shape = (894, 12)
+segments_start: shape = (894,)
+segments_timbre: shape = (894, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEXRTB12A8C139A38
+start_of_fade_out: 333.769
+tatums_confidence: shape = (1733,)
+tatums_start: shape = (1733,)
+tempo: 155.889
+time_signature: 4
+time_signature_confidence: 0.585
+title: Facedown
+track_7digitalid: 3312006
+track_id: TRBAMFR128F4287A3C
+year: 2003

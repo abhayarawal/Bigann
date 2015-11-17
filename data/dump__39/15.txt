@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1480
+artist_familiarity: 0.790367908794
+artist_hotttnesss: 0.615454461554
+artist_id: ARIPLUN1187B99B9F9
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: 9e0e2b01-41db-4008-bd8b-988977d6019a
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: The Police
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: f8b885e5db2dac53b1707d50940d9945
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (415,)
+beats_start: shape = (415,)
+danceability: 0.0
+duration: 233.45587
+end_of_fade_in: 3.024
+energy: 0.0
+key: 7
+key_confidence: 0.407
+loudness: -13.425
+mode: 1
+mode_confidence: 0.57
+release: Zenyatta Mondatta
+release_7digitalid: 36072
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1199,)
+segments_loudness_max: shape = (1199,)
+segments_loudness_max_time: shape = (1199,)
+segments_loudness_start: shape = (1199,)
+segments_pitches: shape = (1199, 12)
+segments_start: shape = (1199,)
+segments_timbre: shape = (1199, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIAUJN12A6D4F79BE
+start_of_fade_out: 216.973
+tatums_confidence: shape = (830,)
+tatums_start: shape = (830,)
+tempo: 108.565
+time_signature: 4
+time_signature_confidence: 0.505
+title: Voices Inside My Head
+track_7digitalid: 385778
+track_id: TRANKIL128F1476FA2
+year: 1980

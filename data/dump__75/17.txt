@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2851
+artist_familiarity: 0.591428551964
+artist_hotttnesss: 0.385344913733
+artist_id: ARRU9GR1187FB43F56
+artist_latitude: 33.46797
+artist_location: Thomson, GA
+artist_longitude: -82.50293
+artist_mbid: 81e02e29-e46a-49cb-bf13-d204cbe86daa
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Blind Willie McTell
+artist_playmeid: 12744
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 4c6b41b8a23f0a923054ac5b3e4384ba
+bars_confidence: shape = (129,)
+bars_start: shape = (129,)
+beats_confidence: shape = (517,)
+beats_start: shape = (517,)
+danceability: 0.0
+duration: 188.21179
+end_of_fade_in: 0.131
+energy: 0.0
+key: 1
+key_confidence: 0.395
+loudness: -16.227
+mode: 1
+mode_confidence: 0.265
+release: Lost & Found Blues
+release_7digitalid: 469555
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (623,)
+segments_loudness_max: shape = (623,)
+segments_loudness_max_time: shape = (623,)
+segments_loudness_start: shape = (623,)
+segments_pitches: shape = (623, 12)
+segments_start: shape = (623,)
+segments_timbre: shape = (623, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFXBFL12AB01873CE
+start_of_fade_out: 180.529
+tatums_confidence: shape = (1034,)
+tatums_start: shape = (1034,)
+tempo: 170.462
+time_signature: 4
+time_signature_confidence: 0.419
+title: Let Me Play With Yo' YoYo
+track_7digitalid: 5220302
+track_id: TRAZRJF128F93406EC
+year: 0

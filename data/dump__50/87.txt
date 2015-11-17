@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 244020
+artist_familiarity: 0.455679778544
+artist_hotttnesss: 0.343697449963
+artist_id: ARWNRBH1187B9B7E68
+artist_latitude: 48.88437
+artist_location: Neuilly-sur-Seine, France
+artist_longitude: 2.26934
+artist_mbid: 0ac4021c-ccbc-4a86-a565-83364ef51e42
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Philippe Sarde
+artist_playmeid: -1
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: aaa8ceac491a51fe9680da1300291135
+bars_confidence: shape = (298,)
+bars_start: shape = (298,)
+beats_confidence: shape = (1201,)
+beats_start: shape = (1201,)
+danceability: 0.0
+duration: 528.22159
+end_of_fade_in: 2.688
+energy: 0.0
+key: 0
+key_confidence: 0.516
+loudness: -23.178
+mode: 0
+mode_confidence: 0.536
+release: Princesses / Un Frère
+release_7digitalid: 498055
+sections_confidence: shape = (22,)
+sections_start: shape = (22,)
+segments_confidence: shape = (1427,)
+segments_loudness_max: shape = (1427,)
+segments_loudness_max_time: shape = (1427,)
+segments_loudness_start: shape = (1427,)
+segments_pitches: shape = (1427, 12)
+segments_start: shape = (1427,)
+segments_timbre: shape = (1427, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSRIVF12AB017DF0E
+start_of_fade_out: 522.606
+tatums_confidence: shape = (2402,)
+tatums_start: shape = (2402,)
+tempo: 137.658
+time_signature: 4
+time_signature_confidence: 0.056
+title: Grand Frère
+track_7digitalid: 5516194
+track_id: TRARIMG128F931B45A
+year: 0

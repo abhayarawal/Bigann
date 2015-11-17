@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22010
+artist_familiarity: 0.583646434655
+artist_hotttnesss: 0.414589569693
+artist_id: ARZ1PTN1187B9967D9
+artist_latitude: 33.46725
+artist_location: Tioga Springs, TX
+artist_longitude: -96.91393
+artist_mbid: 675b7627-6b5d-4a46-a728-785cb24a299e
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Gene Autry
+artist_playmeid: 4052
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: a80db422779ec2ecba26abbc1c9d25d5
+bars_confidence: shape = (53,)
+bars_start: shape = (53,)
+beats_confidence: shape = (223,)
+beats_start: shape = (223,)
+danceability: 0.0
+duration: 163.52608
+end_of_fade_in: 3.425
+energy: 0.0
+key: 2
+key_confidence: 0.386
+loudness: -17.123
+mode: 1
+mode_confidence: 0.514
+release: Blues Singer 1929-1931 "Booger Rooger Saturday Nite
+release_7digitalid: 286532
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (532,)
+segments_loudness_max: shape = (532,)
+segments_loudness_max_time: shape = (532,)
+segments_loudness_start: shape = (532,)
+segments_pitches: shape = (532, 12)
+segments_start: shape = (532,)
+segments_timbre: shape = (532, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOALPEZ12A8C132E29
+start_of_fade_out: 163.526
+tatums_confidence: shape = (447,)
+tatums_start: shape = (447,)
+tempo: 81.829
+time_signature: 4
+time_signature_confidence: 1.0
+title: Frankie And Johnny
+track_7digitalid: 3206399
+track_id: TRBCLIO128F426E4B8
+year: 1996

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 298375
+artist_familiarity: 0.552635095563
+artist_hotttnesss: 0.324277248907
+artist_id: ARFFR931187B98F51F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8b422ce7-65b6-40b5-8c90-bf485ef1e279
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mother Superior
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 20f3c343fadd439c16dfddd5d94e27a5
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (407,)
+beats_start: shape = (407,)
+danceability: 0.0
+duration: 169.63873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.068
+loudness: -7.344
+mode: 0
+mode_confidence: 0.219
+release: Grande
+release_7digitalid: 392422
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (517,)
+segments_loudness_max: shape = (517,)
+segments_loudness_max_time: shape = (517,)
+segments_loudness_start: shape = (517,)
+segments_pitches: shape = (517, 12)
+segments_start: shape = (517,)
+segments_timbre: shape = (517, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOBUDEU12AB018431E
+start_of_fade_out: 162.122
+tatums_confidence: shape = (813,)
+tatums_start: shape = (813,)
+tempo: 145.48
+time_signature: 4
+time_signature_confidence: 0.39
+title: Get that Girl (Remix)
+track_7digitalid: 4352594
+track_id: TRAWFNS128F92F42F7
+year: 2008

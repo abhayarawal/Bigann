@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17428
+artist_familiarity: 0.892688611404
+artist_hotttnesss: 0.830356766357
+artist_id: ARXOTQH1187FB57084
+artist_latitude: nan
+artist_location: Fairfax, California
+artist_longitude: nan
+artist_mbid: e1009244-1bf4-4a4c-889e-0db83b9be08f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Chris Brown
+artist_playmeid: 2729
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 7aeb3f43e24b56623c6f7cb2934290b0
+bars_confidence: shape = (549,)
+bars_start: shape = (549,)
+beats_confidence: shape = (549,)
+beats_start: shape = (549,)
+danceability: 0.0
+duration: 389.25016
+end_of_fade_in: 0.2
+energy: 0.0
+key: 11
+key_confidence: 0.712
+loudness: -2.991
+mode: 1
+mode_confidence: 0.463
+release: Forever
+release_7digitalid: 279702
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1710,)
+segments_loudness_max: shape = (1710,)
+segments_loudness_max_time: shape = (1710,)
+segments_loudness_start: shape = (1710,)
+segments_pitches: shape = (1710, 12)
+segments_start: shape = (1710,)
+segments_timbre: shape = (1710, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYPBEP12A8AE4853A
+start_of_fade_out: 383.089
+tatums_confidence: shape = (1647,)
+tatums_start: shape = (1647,)
+tempo: 85.322
+time_signature: 1
+time_signature_confidence: 0.169
+title: Forever
+track_7digitalid: 3119614
+track_id: TRARZKD128F425D64D
+year: 0

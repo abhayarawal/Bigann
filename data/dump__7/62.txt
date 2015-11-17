@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 48515
+artist_familiarity: 0.468250911498
+artist_hotttnesss: 0.410841587241
+artist_id: ARSWXNX1187FB3D04E
+artist_latitude: -37.0907
+artist_location: Argentina
+artist_longitude: -63.58481
+artist_mbid: d30615cd-2e8f-4169-a879-fffa8b17f362
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Chango Spasiuk
+artist_playmeid: 80185
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 17fbd8df29e28d3fa0b856a9339965f3
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (402,)
+beats_start: shape = (402,)
+danceability: 0.0
+duration: 131.57832
+end_of_fade_in: 0.183
+energy: 0.0
+key: 9
+key_confidence: 0.15
+loudness: -13.763
+mode: 1
+mode_confidence: 0.268
+release: 15 Grandes Éxitos
+release_7digitalid: 272334
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (604,)
+segments_loudness_max: shape = (604,)
+segments_loudness_max_time: shape = (604,)
+segments_loudness_start: shape = (604,)
+segments_pitches: shape = (604, 12)
+segments_start: shape = (604,)
+segments_timbre: shape = (604, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOAONEP12A58A7D2B3
+start_of_fade_out: 122.77
+tatums_confidence: shape = (804,)
+tatums_start: shape = (804,)
+tempo: 194.156
+time_signature: 4
+time_signature_confidence: 0.0
+title: De Bombacha Y Alpargatas
+track_7digitalid: 3035847
+track_id: TRACMOL128F424B776
+year: 0

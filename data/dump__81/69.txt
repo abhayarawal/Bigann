@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 432034
+artist_familiarity: 0.514064276419
+artist_hotttnesss: 0.395627514317
+artist_id: AR00A6H1187FB5402A
+artist_latitude: 42.73383
+artist_location: Lansing, MI
+artist_longitude: -84.59334
+artist_mbid: 312c14d9-7897-4608-944a-c5b1c76ae682
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: The Meatmen
+artist_playmeid: -1
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 2ae0c98a568b8341be33a867dd487021
+bars_confidence: shape = (73,)
+bars_start: shape = (73,)
+beats_confidence: shape = (367,)
+beats_start: shape = (367,)
+danceability: 0.0
+duration: 170.4224
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.62
+loudness: -5.681
+mode: 1
+mode_confidence: 0.516
+release: Cover the Earth
+release_7digitalid: 581079
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (607,)
+segments_loudness_max: shape = (607,)
+segments_loudness_max_time: shape = (607,)
+segments_loudness_start: shape = (607,)
+segments_pitches: shape = (607, 12)
+segments_start: shape = (607,)
+segments_timbre: shape = (607, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOUZOPT12A58A79B94
+start_of_fade_out: 160.833
+tatums_confidence: shape = (734,)
+tatums_start: shape = (734,)
+tempo: 130.164
+time_signature: 5
+time_signature_confidence: 0.614
+title: Bad Reputation (Originally Performed by Thin Lizzy)
+track_7digitalid: 6437651
+track_id: TRBBZTM12903CB84F3
+year: 0

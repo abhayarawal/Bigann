@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 37005
+artist_familiarity: 0.510928702636
+artist_hotttnesss: 0.389553387568
+artist_id: ARGDLJR1187B98D048
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: de5cc0b2-e97f-440e-b280-d112d0c09ff5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bob Crosby
+artist_playmeid: 17838
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 588489cb5992eb92bb3e5c89288b1548
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (335,)
+beats_start: shape = (335,)
+danceability: 0.0
+duration: 173.73995
+end_of_fade_in: 0.206
+energy: 0.0
+key: 2
+key_confidence: 0.715
+loudness: -10.713
+mode: 1
+mode_confidence: 0.664
+release: Jazz Age!
+release_7digitalid: 50589
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (712,)
+segments_loudness_max: shape = (712,)
+segments_loudness_max_time: shape = (712,)
+segments_loudness_start: shape = (712,)
+segments_pitches: shape = (712, 12)
+segments_start: shape = (712,)
+segments_timbre: shape = (712, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.405115721691
+song_id: SOAJZJM12A6D4FA033
+start_of_fade_out: 167.12
+tatums_confidence: shape = (671,)
+tatums_start: shape = (671,)
+tempo: 119.763
+time_signature: 4
+time_signature_confidence: 1.0
+title: The World Is Waiting For The Sunrise
+track_7digitalid: 529780
+track_id: TRBICJM128F1490DE4
+year: 0

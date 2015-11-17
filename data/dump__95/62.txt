@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15464
+artist_familiarity: 0.334542783657
+artist_hotttnesss: 0.0490343808485
+artist_id: AROIHOI122988FEB8E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mario Rosenstock
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 9e34e7b78781d4a7d836b25a5cb0c5f1
+bars_confidence: shape = (52,)
+bars_start: shape = (52,)
+beats_confidence: shape = (262,)
+beats_start: shape = (262,)
+danceability: 0.0
+duration: 136.46322
+end_of_fade_in: 0.72
+energy: 0.0
+key: 10
+key_confidence: 0.447
+loudness: -12.657
+mode: 1
+mode_confidence: 0.287
+release: Gift
+release_7digitalid: 269980
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (583,)
+segments_loudness_max: shape = (583,)
+segments_loudness_max_time: shape = (583,)
+segments_loudness_start: shape = (583,)
+segments_pitches: shape = (583, 12)
+segments_start: shape = (583,)
+segments_timbre: shape = (583, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLINYF12A8C141852
+start_of_fade_out: 131.239
+tatums_confidence: shape = (786,)
+tatums_start: shape = (786,)
+tempo: 121.797
+time_signature: 5
+time_signature_confidence: 0.501
+title: Fast Eddie
+track_7digitalid: 2992204
+track_id: TRBGYGQ128F428B0B0
+year: 0

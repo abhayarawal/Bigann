@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8955
+artist_familiarity: 0.84065157906
+artist_hotttnesss: 0.614973973784
+artist_id: ARR1R5V1187FB4D234
+artist_latitude: nan
+artist_location: Stillwater, OK
+artist_longitude: nan
+artist_mbid: 09885b8e-f235-4b80-a02a-055539493173
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The All American Rejects
+artist_playmeid: 72
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 3ac85935e6e5d470daf57c07b3440233
+bars_confidence: shape = (69,)
+bars_start: shape = (69,)
+beats_confidence: shape = (347,)
+beats_start: shape = (347,)
+danceability: 0.0
+duration: 195.18649
+end_of_fade_in: 0.438
+energy: 0.0
+key: 2
+key_confidence: 0.0
+loudness: -9.322
+mode: 0
+mode_confidence: 0.13
+release: Nightmare Revisited
+release_7digitalid: 336115
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (550,)
+segments_loudness_max: shape = (550,)
+segments_loudness_max_time: shape = (550,)
+segments_loudness_start: shape = (550,)
+segments_pitches: shape = (550, 12)
+segments_start: shape = (550,)
+segments_timbre: shape = (550, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.620458374076
+song_id: SOQNJSP12AB017D3B5
+start_of_fade_out: 188.465
+tatums_confidence: shape = (695,)
+tatums_start: shape = (695,)
+tempo: 109.697
+time_signature: 5
+time_signature_confidence: 0.76
+title: Jack's Lament
+track_7digitalid: 3764776
+track_id: TRANNCZ128F92F1D22
+year: 2008

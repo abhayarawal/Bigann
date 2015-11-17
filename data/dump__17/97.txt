@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10558
+artist_familiarity: 0.54191773701
+artist_hotttnesss: 0.404157671026
+artist_id: ART1R9I1187B9B3324
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ed20b805-2e45-4ccb-838d-56cfb3947a4c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Margaret Becker
+artist_playmeid: 61414
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 34c1ab6cae3b1c416bfc92ff32f4317a
+bars_confidence: shape = (160,)
+bars_start: shape = (160,)
+beats_confidence: shape = (645,)
+beats_start: shape = (645,)
+danceability: 0.0
+duration: 261.04118
+end_of_fade_in: 0.694
+energy: 0.0
+key: 9
+key_confidence: 0.757
+loudness: -9.803
+mode: 1
+mode_confidence: 0.677
+release: The Reckoning
+release_7digitalid: 484161
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (790,)
+segments_loudness_max: shape = (790,)
+segments_loudness_max_time: shape = (790,)
+segments_loudness_start: shape = (790,)
+segments_pitches: shape = (790, 12)
+segments_start: shape = (790,)
+segments_timbre: shape = (790, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAZRCH12AB017A84D
+start_of_fade_out: 247.716
+tatums_confidence: shape = (1289,)
+tatums_start: shape = (1289,)
+tempo: 149.916
+time_signature: 4
+time_signature_confidence: 0.411
+title: Start The Fire
+track_7digitalid: 5372826
+track_id: TRAGDCN128F92F9050
+year: 1989

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9766
+artist_familiarity: 0.426882762347
+artist_hotttnesss: 0.333303418273
+artist_id: ARBB58Y1187B9B621B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1c701b15-54f5-4de2-8e17-1a9e3b167a6b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bill & Gloria Gaither
+artist_playmeid: 61305
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: e3eae62fbe1a8624fcebf6dd6194d336
+bars_confidence: shape = (73,)
+bars_start: shape = (73,)
+beats_confidence: shape = (297,)
+beats_start: shape = (297,)
+danceability: 0.0
+duration: 162.06322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 1.0
+loudness: -12.37
+mode: 1
+mode_confidence: 0.914
+release: When All God's Singers Get Home
+release_7digitalid: 550682
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (498,)
+segments_loudness_max: shape = (498,)
+segments_loudness_max_time: shape = (498,)
+segments_loudness_start: shape = (498,)
+segments_pitches: shape = (498, 12)
+segments_start: shape = (498,)
+segments_timbre: shape = (498, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOFNTFC12AB0184512
+start_of_fade_out: 162.063
+tatums_confidence: shape = (892,)
+tatums_start: shape = (892,)
+tempo: 110.167
+time_signature: 4
+time_signature_confidence: 0.0
+title: He Will Lead His Children Home
+track_7digitalid: 6085413
+track_id: TRAEOHK128F932F77A
+year: 0

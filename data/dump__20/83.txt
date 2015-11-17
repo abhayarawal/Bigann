@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 80
+artist_familiarity: 0.674237799591
+artist_hotttnesss: 0.465270210086
+artist_id: ARJ2PMY1187FB5B563
+artist_latitude: nan
+artist_location: NY - Long Island
+artist_longitude: nan
+artist_mbid: 16dad944-c492-43dd-88ed-e0b7ac520c40
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Burning Spear
+artist_playmeid: 9408
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 99aa0ef4b9504a73c99e250f86dee7ae
+bars_confidence: shape = (326,)
+bars_start: shape = (326,)
+beats_confidence: shape = (326,)
+beats_start: shape = (326,)
+danceability: 0.0
+duration: 146.88608
+end_of_fade_in: 0.532
+energy: 0.0
+key: 11
+key_confidence: 0.509
+loudness: -13.615
+mode: 0
+mode_confidence: 0.34
+release: Soul Kitchen (The Original Motion Picture Soundtrack)
+release_7digitalid: 784940
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (479,)
+segments_loudness_max: shape = (479,)
+segments_loudness_max_time: shape = (479,)
+segments_loudness_start: shape = (479,)
+segments_pitches: shape = (479, 12)
+segments_start: shape = (479,)
+segments_timbre: shape = (479, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.521659258048
+song_id: SOJIRPT12AB01877A6
+start_of_fade_out: 138.826
+tatums_confidence: shape = (652,)
+tatums_start: shape = (652,)
+tempo: 135.033
+time_signature: 1
+time_signature_confidence: 0.0
+title: Walking In Dub
+track_7digitalid: 8684336
+track_id: TRAHBWK12903D0044A
+year: 2009

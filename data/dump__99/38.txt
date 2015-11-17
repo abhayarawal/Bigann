@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 171658
+artist_familiarity: 0.574825321065
+artist_hotttnesss: 0.366704619994
+artist_id: ARIYZFT1187FB5393E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a36e4f1f-aaba-427d-bab0-0b9535c8fb7f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mart'nália
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: f8a9088ac7a11a429b02ea90f62e75af
+bars_confidence: shape = (96,)
+bars_start: shape = (96,)
+beats_confidence: shape = (392,)
+beats_start: shape = (392,)
+danceability: 0.0
+duration: 242.59873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.518
+loudness: -7.956
+mode: 1
+mode_confidence: 0.439
+release: Spirit of Brazil live
+release_7digitalid: 757136
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1075,)
+segments_loudness_max: shape = (1075,)
+segments_loudness_max_time: shape = (1075,)
+segments_loudness_start: shape = (1075,)
+segments_pitches: shape = (1075, 12)
+segments_start: shape = (1075,)
+segments_timbre: shape = (1075, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOIMKZT12AB018B1DD
+start_of_fade_out: 242.599
+tatums_confidence: shape = (1567,)
+tatums_start: shape = (1567,)
+tempo: 96.978
+time_signature: 4
+time_signature_confidence: 0.558
+title: Brasil pandeiro
+track_7digitalid: 8381327
+track_id: TRBIEHQ12903CB66CE
+year: 0

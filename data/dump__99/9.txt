@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 45281
+artist_familiarity: 0.43002498683
+artist_hotttnesss: 0.353034055775
+artist_id: ARBH0MS1187FB36311
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: afb8d624-52d7-4a72-8d0b-62fff3e29f79
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Sir Neville Marriner
+artist_playmeid: 61257
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: ef92fe792e6f7795a1c1c23d22c5dfb2
+bars_confidence: shape = (54,)
+bars_start: shape = (54,)
+beats_confidence: shape = (300,)
+beats_start: shape = (300,)
+danceability: 0.0
+duration: 296.80281
+end_of_fade_in: 3.408
+energy: 0.0
+key: 7
+key_confidence: 0.651
+loudness: -21.254
+mode: 1
+mode_confidence: 0.628
+release: Mozart: Academy in Concert
+release_7digitalid: 59445
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (558,)
+segments_loudness_max: shape = (558,)
+segments_loudness_max_time: shape = (558,)
+segments_loudness_start: shape = (558,)
+segments_pitches: shape = (558, 12)
+segments_start: shape = (558,)
+segments_timbre: shape = (558, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.588922167556
+song_id: SOYMDLM12A6D4FB10B
+start_of_fade_out: 278.343
+tatums_confidence: shape = (599,)
+tatums_start: shape = (599,)
+tempo: 61.634
+time_signature: 5
+time_signature_confidence: 0.527
+title: Two Elegiac Melodies Op. 34: 2. The Last Spring
+track_7digitalid: 615229
+track_id: TRBIBSS128F14A205E
+year: 0

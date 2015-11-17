@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 438878
+artist_familiarity: 0.599019958752
+artist_hotttnesss: 0.374862616363
+artist_id: AREW1KO1187B98E42E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c2545eb8-62c0-477d-aba8-4b7c404be478
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Irish Tenors
+artist_playmeid: 181513
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: d0ced75a9e304713908195257026aaad
+bars_confidence: shape = (70,)
+bars_start: shape = (70,)
+beats_confidence: shape = (309,)
+beats_start: shape = (309,)
+danceability: 0.0
+duration: 269.47873
+end_of_fade_in: 0.247
+energy: 0.0
+key: 7
+key_confidence: 0.577
+loudness: -15.391
+mode: 1
+mode_confidence: 0.608
+release: Sacred
+release_7digitalid: 633553
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (674,)
+segments_loudness_max: shape = (674,)
+segments_loudness_max_time: shape = (674,)
+segments_loudness_start: shape = (674,)
+segments_pitches: shape = (674, 12)
+segments_start: shape = (674,)
+segments_timbre: shape = (674, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.249279477372
+song_id: SOTEKKG12AB017E22D
+start_of_fade_out: 263.808
+tatums_confidence: shape = (617,)
+tatums_start: shape = (617,)
+tempo: 69.487
+time_signature: 4
+time_signature_confidence: 0.605
+title: My Love
+track_7digitalid: 7031612
+track_id: TRBFEHX128F932D632
+year: 0

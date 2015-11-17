@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 740515
+artist_familiarity: 0.384563593392
+artist_hotttnesss: 0.305662619622
+artist_id: ARKSBCO1241B9CE46E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dame Joan Sutherland / New Philharmonia Orchestra / Richard Bonynge
+artist_playmeid: -1
+artist_terms: shape = (61,)
+artist_terms_freq: shape = (61,)
+artist_terms_weight: shape = (61,)
+audio_md5: 6b7bc88f87836494cb8911662a9e065e
+bars_confidence: shape = (28,)
+bars_start: shape = (28,)
+beats_confidence: shape = (142,)
+beats_start: shape = (142,)
+danceability: 0.0
+duration: 111.0722
+end_of_fade_in: 0.555
+energy: 0.0
+key: 6
+key_confidence: 0.103
+loudness: -13.826
+mode: 1
+mode_confidence: 0.476
+release: A Classic Christmas
+release_7digitalid: 51405
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (318,)
+segments_loudness_max: shape = (318,)
+segments_loudness_max_time: shape = (318,)
+segments_loudness_start: shape = (318,)
+segments_pitches: shape = (318, 12)
+segments_start: shape = (318,)
+segments_timbre: shape = (318, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKPFTZ12A6D4FA141
+start_of_fade_out: 105.982
+tatums_confidence: shape = (284,)
+tatums_start: shape = (284,)
+tempo: 82.422
+time_signature: 4
+time_signature_confidence: 0.377
+title: Joy To The World
+track_7digitalid: 542208
+track_id: TRAAZBX128F1492AF8
+year: 0

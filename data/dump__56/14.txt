@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15396
+artist_familiarity: 0.551682526284
+artist_hotttnesss: 0.352338667915
+artist_id: ARAIJG51187B9B97A4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 227f3e04-feb2-4741-b73f-70e266d32bf0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Café Quijano
+artist_playmeid: -1
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 5c023485ce15024e9cd46c3317420fe9
+bars_confidence: shape = (160,)
+bars_start: shape = (160,)
+beats_confidence: shape = (644,)
+beats_start: shape = (644,)
+danceability: 0.0
+duration: 255.39873
+end_of_fade_in: 0.2
+energy: 0.0
+key: 2
+key_confidence: 0.056
+loudness: -5.635
+mode: 1
+mode_confidence: 0.479
+release: La Extraordinaria Paradoja Del Sonido Quijano
+release_7digitalid: 138556
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1149,)
+segments_loudness_max: shape = (1149,)
+segments_loudness_max_time: shape = (1149,)
+segments_loudness_start: shape = (1149,)
+segments_pitches: shape = (1149, 12)
+segments_start: shape = (1149,)
+segments_timbre: shape = (1149, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.484562529968
+song_id: SORVFBF12A8AE488AE
+start_of_fade_out: 251.669
+tatums_confidence: shape = (1289,)
+tatums_start: shape = (1289,)
+tempo: 152.001
+time_signature: 4
+time_signature_confidence: 0.443
+title: En Algún Rincón
+track_7digitalid: 1438741
+track_id: TRATDIZ128F4242796
+year: 1999

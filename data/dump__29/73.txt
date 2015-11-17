@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4839
+artist_familiarity: 0.582803191288
+artist_hotttnesss: 0.44866907394
+artist_id: AR0B1CH1187FB3A824
+artist_latitude: 34.56398
+artist_location: Benton, Arkansas
+artist_longitude: -92.58685
+artist_mbid: 9fb7fe77-4e8b-4cbd-ba8f-84bcd80a24bc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Charlie Rich
+artist_playmeid: 2190
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: a5cc0e3c3df1bb110002ea90b468f029
+bars_confidence: shape = (134,)
+bars_start: shape = (134,)
+beats_confidence: shape = (432,)
+beats_start: shape = (432,)
+danceability: 0.0
+duration: 268.7473
+end_of_fade_in: 0.473
+energy: 0.0
+key: 3
+key_confidence: 0.578
+loudness: -13.505
+mode: 1
+mode_confidence: 0.604
+release: The Most Beautiful Girl
+release_7digitalid: 301582
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (731,)
+segments_loudness_max: shape = (731,)
+segments_loudness_max_time: shape = (731,)
+segments_loudness_start: shape = (731,)
+segments_pitches: shape = (731, 12)
+segments_start: shape = (731,)
+segments_timbre: shape = (731, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.299877488274
+song_id: SODHPGT12A6D4F781D
+start_of_fade_out: 259.576
+tatums_confidence: shape = (864,)
+tatums_start: shape = (864,)
+tempo: 96.243
+time_signature: 3
+time_signature_confidence: 0.876
+title: You Don't Know Me
+track_7digitalid: 3396078
+track_id: TRAKAJM128F429BEED
+year: 1997

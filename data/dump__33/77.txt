@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 170390
+artist_familiarity: 0.460409667072
+artist_hotttnesss: 0.442348448484
+artist_id: AR9Q3LP1187FB3D647
+artist_latitude: nan
+artist_location: New Orleans, LA
+artist_longitude: nan
+artist_mbid: 10031131-b9a0-4f2a-83bb-a7f26375efd7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Soilent Green
+artist_playmeid: 21858
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 3a44cbb420b4dd0aa7d01836ce0cb86c
+bars_confidence: shape = (295,)
+bars_start: shape = (295,)
+beats_confidence: shape = (295,)
+beats_start: shape = (295,)
+danceability: 0.0
+duration: 180.32281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.478
+loudness: -5.958
+mode: 1
+mode_confidence: 0.493
+release: A Deleted Symphony for the Beaten Down
+release_7digitalid: 238004
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (598,)
+segments_loudness_max: shape = (598,)
+segments_loudness_max_time: shape = (598,)
+segments_loudness_start: shape = (598,)
+segments_pitches: shape = (598, 12)
+segments_start: shape = (598,)
+segments_timbre: shape = (598, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.447784051196
+song_id: SOTZGHE12A58A75DC4
+start_of_fade_out: 176.57
+tatums_confidence: shape = (883,)
+tatums_start: shape = (883,)
+tempo: 100.917
+time_signature: 1
+time_signature_confidence: 0.0
+title: Daydreaming the Color of Blood
+track_7digitalid: 2999039
+track_id: TRALLRJ128F428CB6F
+year: 2001

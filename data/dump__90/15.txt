@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 45839
+artist_familiarity: 0.447725075388
+artist_hotttnesss: 0.351170211722
+artist_id: AR0OTEX1187FB3600D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c152ed9f-7a4c-4006-af2d-ed8b7126b0a0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Los Del Rio
+artist_playmeid: 950
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: f6173b4193b669218200a7350589e7bc
+bars_confidence: shape = (200,)
+bars_start: shape = (200,)
+beats_confidence: shape = (200,)
+beats_start: shape = (200,)
+danceability: 0.0
+duration: 202.29179
+end_of_fade_in: 0.125
+energy: 0.0
+key: 7
+key_confidence: 0.274
+loudness: -8.235
+mode: 1
+mode_confidence: 0.304
+release: Rio De Sevillanas
+release_7digitalid: 336704
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (939,)
+segments_loudness_max: shape = (939,)
+segments_loudness_max_time: shape = (939,)
+segments_loudness_start: shape = (939,)
+segments_pitches: shape = (939, 12)
+segments_start: shape = (939,)
+segments_timbre: shape = (939, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPXUPT12AB0184A87
+start_of_fade_out: 198.577
+tatums_confidence: shape = (1198,)
+tatums_start: shape = (1198,)
+tempo: 60.025
+time_signature: 1
+time_signature_confidence: 0.0
+title: Nuestras Sevillanas 1
+track_7digitalid: 3767168
+track_id: TRBFBYS128F92F261C
+year: 0

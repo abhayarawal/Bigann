@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 485375
+artist_familiarity: 0.480401970296
+artist_hotttnesss: 0.392325282528
+artist_id: AR93K7R1187B9AC92A
+artist_latitude: 59.91228
+artist_location: Oslo, Norway
+artist_longitude: 10.74998
+artist_mbid: 8e4685ea-5d37-459e-9a69-5c6e043b4369
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Black Debbath
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 26bec4fecc5c93b7cbc30bfa2f9a609b
+bars_confidence: shape = (51,)
+bars_start: shape = (51,)
+beats_confidence: shape = (376,)
+beats_start: shape = (376,)
+danceability: 0.0
+duration: 268.61669
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.392
+loudness: -6.093
+mode: 0
+mode_confidence: 0.409
+release: Black Debbath Hyller Kvinnen!
+release_7digitalid: 715656
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (771,)
+segments_loudness_max: shape = (771,)
+segments_loudness_max_time: shape = (771,)
+segments_loudness_start: shape = (771,)
+segments_pitches: shape = (771, 12)
+segments_start: shape = (771,)
+segments_timbre: shape = (771, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPAQJH12AB018BAFC
+start_of_fade_out: 262.624
+tatums_confidence: shape = (1502,)
+tatums_start: shape = (1502,)
+tempo: 85.068
+time_signature: 7
+time_signature_confidence: 0.849
+title: Grønn Dame_ Rød Klut (Sangen Om Boken Om Damen Anne Enger Lahnstein)
+track_7digitalid: 7938612
+track_id: TRAQJBN12903CC16B5
+year: 0

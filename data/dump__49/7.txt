@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 241432
+artist_familiarity: 0.653340692663
+artist_hotttnesss: 0.449608088309
+artist_id: ARLLRL61187B9B6698
+artist_latitude: 47.25513
+artist_location: Tacoma, WA
+artist_longitude: -122.44165
+artist_mbid: 16346cf4-4d2b-40ec-8393-0fc7296d92fe
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Sonics
+artist_playmeid: 128437
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 2924d1dd886c9d91eeac83ee97f06874
+bars_confidence: shape = (137,)
+bars_start: shape = (137,)
+beats_confidence: shape = (415,)
+beats_start: shape = (415,)
+danceability: 0.0
+duration: 164.362
+end_of_fade_in: 0.168
+energy: 0.0
+key: 6
+key_confidence: 0.0
+loudness: -9.796
+mode: 1
+mode_confidence: 0.0
+release: Fire and Ice II - The 'Lost' Tapes
+release_7digitalid: 551402
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (519,)
+segments_loudness_max: shape = (519,)
+segments_loudness_max_time: shape = (519,)
+segments_loudness_start: shape = (519,)
+segments_pitches: shape = (519, 12)
+segments_start: shape = (519,)
+segments_timbre: shape = (519, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.372530039366
+song_id: SOXXPIC12AB017EA44
+start_of_fade_out: 151.731
+tatums_confidence: shape = (831,)
+tatums_start: shape = (831,)
+tempo: 158.84
+time_signature: 3
+time_signature_confidence: 0.993
+title: Near My Soul
+track_7digitalid: 6096206
+track_id: TRAQRTB128F9332168
+year: 1996

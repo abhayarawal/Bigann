@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7603
+artist_familiarity: 0.47929221892
+artist_hotttnesss: 0.299878259035
+artist_id: ARODMZJ1187B9ACE8E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8105e078-9b6e-4552-ba71-d260edb1bf1c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Terror Fabulous
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 9a5cd80ce241ebaaa8c039e4a60936ca
+bars_confidence: shape = (75,)
+bars_start: shape = (75,)
+beats_confidence: shape = (302,)
+beats_start: shape = (302,)
+danceability: 0.0
+duration: 191.73832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.023
+loudness: -11.71
+mode: 1
+mode_confidence: 0.313
+release: Reggae Gold 1993
+release_7digitalid: 185742
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (918,)
+segments_loudness_max: shape = (918,)
+segments_loudness_max_time: shape = (918,)
+segments_loudness_start: shape = (918,)
+segments_pitches: shape = (918, 12)
+segments_start: shape = (918,)
+segments_timbre: shape = (918, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.628125058418
+song_id: SOWDYUR12A8AE481CB
+start_of_fade_out: 183.014
+tatums_confidence: shape = (1208,)
+tatums_start: shape = (1208,)
+tempo: 94.958
+time_signature: 4
+time_signature_confidence: 1.0
+title: Position
+track_7digitalid: 2012729
+track_id: TRADNKT128F42388A1
+year: 1995

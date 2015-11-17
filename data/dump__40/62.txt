@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11476
+artist_familiarity: 0.806364124765
+artist_hotttnesss: 0.512455642577
+artist_id: AREMPZY1187B9B8FF3
+artist_latitude: nan
+artist_location: Jackson MS
+artist_longitude: nan
+artist_mbid: c0cc5d77-937d-4296-a349-0a09d733fbfb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: David Banner / Sky / Marcus
+artist_playmeid: 2726
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: c8a6ce452f0ed8673807f108b53e0501
+bars_confidence: shape = (161,)
+bars_start: shape = (161,)
+beats_confidence: shape = (647,)
+beats_start: shape = (647,)
+danceability: 0.0
+duration: 263.47057
+end_of_fade_in: 0.101
+energy: 0.0
+key: 7
+key_confidence: 0.027
+loudness: -4.043
+mode: 1
+mode_confidence: 0.352
+release: MTA2-Baptized In Dirty Water
+release_7digitalid: 46559
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1155,)
+segments_loudness_max: shape = (1155,)
+segments_loudness_max_time: shape = (1155,)
+segments_loudness_start: shape = (1155,)
+segments_pitches: shape = (1155, 12)
+segments_start: shape = (1155,)
+segments_timbre: shape = (1155, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.319565986883
+song_id: SOVSHWF12AF72A75EF
+start_of_fade_out: 241.853
+tatums_confidence: shape = (1293,)
+tatums_start: shape = (1293,)
+tempo: 147.327
+time_signature: 4
+time_signature_confidence: 0.551
+title: My Lord
+track_7digitalid: 497537
+track_id: TRANUTE128F148B17C
+year: 0

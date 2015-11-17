@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 426662
+artist_familiarity: 0.498337081905
+artist_hotttnesss: 0.298227560891
+artist_id: ARQ0BG21187B99ED8F
+artist_latitude: 46.8132
+artist_location: Switzerland
+artist_longitude: 8.22395
+artist_mbid: 89acd1af-ffdd-49b6-a573-b52e81981f17
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mush
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 0dc147baf60b68bb5a1df75e87a399a2
+bars_confidence: shape = (251,)
+bars_start: shape = (251,)
+beats_confidence: shape = (756,)
+beats_start: shape = (756,)
+danceability: 0.0
+duration: 475.74159
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.155
+loudness: -13.5
+mode: 0
+mode_confidence: 0.373
+release: Test EP Vol 1
+release_7digitalid: 573951
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (2362,)
+segments_loudness_max: shape = (2362,)
+segments_loudness_max_time: shape = (2362,)
+segments_loudness_start: shape = (2362,)
+segments_pitches: shape = (2362, 12)
+segments_start: shape = (2362,)
+segments_timbre: shape = (2362, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTDTZN12AB018B3F6
+start_of_fade_out: 455.872
+tatums_confidence: shape = (1512,)
+tatums_start: shape = (1512,)
+tempo: 95.988
+time_signature: 3
+time_signature_confidence: 1.0
+title: Test 72
+track_7digitalid: 6360530
+track_id: TRATUFP12903CA5C1A
+year: 0

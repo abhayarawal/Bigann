@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41556
+artist_familiarity: 0.67323869066
+artist_hotttnesss: 0.479204557694
+artist_id: AR87K371187FB5AA8E
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: f1548c5b-329e-4036-921c-02213a04b525
+artist_mbtags: shape = (14,)
+artist_mbtags_count: shape = (14,)
+artist_name: Uriah Heep
+artist_playmeid: -1
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 24d1508863a76274b7fc48cdce372c1e
+bars_confidence: shape = (126,)
+bars_start: shape = (126,)
+beats_confidence: shape = (510,)
+beats_start: shape = (510,)
+danceability: 0.0
+duration: 184.55465
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.413
+loudness: -8.535
+mode: 1
+mode_confidence: 0.388
+release: Live In Europe
+release_7digitalid: 799399
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (535,)
+segments_loudness_max: shape = (535,)
+segments_loudness_max_time: shape = (535,)
+segments_loudness_start: shape = (535,)
+segments_pitches: shape = (535, 12)
+segments_start: shape = (535,)
+segments_timbre: shape = (535, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.462379945973
+song_id: SOQSAXZ12AB0186CE8
+start_of_fade_out: 184.555
+tatums_confidence: shape = (1020,)
+tatums_start: shape = (1020,)
+tempo: 165.976
+time_signature: 4
+time_signature_confidence: 1.0
+title: Falling In Love
+track_7digitalid: 8841263
+track_id: TRAZSJF12903CB2B42
+year: 1978

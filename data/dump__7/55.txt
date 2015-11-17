@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4411
+artist_familiarity: 0.641197514984
+artist_hotttnesss: 0.44865347113
+artist_id: AR4TLW81187B99683D
+artist_latitude: nan
+artist_location: Syracuse, NY
+artist_longitude: nan
+artist_mbid: 0685ac4a-5cfc-408a-b391-903ea20e00bf
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Martin Sexton
+artist_playmeid: 53504
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 14e74244c8c38234af325b968d97b27e
+bars_confidence: shape = (192,)
+bars_start: shape = (192,)
+beats_confidence: shape = (772,)
+beats_start: shape = (772,)
+danceability: 0.0
+duration: 352.88771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.5
+loudness: -8.733
+mode: 1
+mode_confidence: 0.542
+release: Live Wide Open
+release_7digitalid: 519688
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1297,)
+segments_loudness_max: shape = (1297,)
+segments_loudness_max_time: shape = (1297,)
+segments_loudness_start: shape = (1297,)
+segments_pitches: shape = (1297, 12)
+segments_start: shape = (1297,)
+segments_timbre: shape = (1297, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SOKQYBC12AB0183C87
+start_of_fade_out: 341.827
+tatums_confidence: shape = (2316,)
+tatums_start: shape = (2316,)
+tempo: 133.391
+time_signature: 4
+time_signature_confidence: 0.806
+title: Ice Cream Man
+track_7digitalid: 5749568
+track_id: TRACMIU128F935381D
+year: 2001

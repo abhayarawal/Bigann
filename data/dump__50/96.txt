@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 960
+artist_familiarity: 0.639436948822
+artist_hotttnesss: 0.430942043436
+artist_id: ARI4S0E1187B9B06C0
+artist_latitude: 35.83073
+artist_location: Tennessee
+artist_longitude: -85.97874
+artist_mbid: 50a45c3d-b54b-4fd5-bb83-5046e4ff6813
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: David Arkenstone
+artist_playmeid: 16633
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: d19122b4463729982a186e1b2e31f3b3
+bars_confidence: shape = (121,)
+bars_start: shape = (121,)
+beats_confidence: shape = (488,)
+beats_start: shape = (488,)
+danceability: 0.0
+duration: 272.97914
+end_of_fade_in: 0.253
+energy: 0.0
+key: 11
+key_confidence: 0.053
+loudness: -12.958
+mode: 0
+mode_confidence: 0.39
+release: Chillout Lounge
+release_7digitalid: 385023
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1204,)
+segments_loudness_max: shape = (1204,)
+segments_loudness_max_time: shape = (1204,)
+segments_loudness_start: shape = (1204,)
+segments_pitches: shape = (1204, 12)
+segments_start: shape = (1204,)
+segments_timbre: shape = (1204, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.327736683178
+song_id: SOCQEHT12AB017F37F
+start_of_fade_out: 256.377
+tatums_confidence: shape = (975,)
+tatums_start: shape = (975,)
+tempo: 108.014
+time_signature: 4
+time_signature_confidence: 0.505
+title: Big Bounce
+track_7digitalid: 4274070
+track_id: TRARJEM128F92E444D
+year: 2009

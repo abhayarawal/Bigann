@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2799
+artist_familiarity: 0.391741394148
+artist_hotttnesss: 0.291264811753
+artist_id: ARUKJUP12086C14589
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8a5f2736-bcde-4a2e-8d50-72631d66a7ef
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ramón Vargas
+artist_playmeid: 20111
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: b63f6b0668652b7ac6fe3b202f36dfba
+bars_confidence: shape = (233,)
+bars_start: shape = (233,)
+beats_confidence: shape = (1635,)
+beats_start: shape = (1635,)
+danceability: 0.0
+duration: 642.92526
+end_of_fade_in: 6.362
+energy: 0.0
+key: 1
+key_confidence: 0.475
+loudness: -21.908
+mode: 1
+mode_confidence: 0.46
+release: Verdi Arias
+release_7digitalid: 295117
+sections_confidence: shape = (27,)
+sections_start: shape = (27,)
+segments_confidence: shape = (2027,)
+segments_loudness_max: shape = (2027,)
+segments_loudness_max_time: shape = (2027,)
+segments_loudness_start: shape = (2027,)
+segments_pitches: shape = (2027, 12)
+segments_start: shape = (2027,)
+segments_timbre: shape = (2027, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORXGOR12A8C139139
+start_of_fade_out: 636.894
+tatums_confidence: shape = (3271,)
+tatums_start: shape = (3271,)
+tempo: 155.641
+time_signature: 7
+time_signature_confidence: 0.632
+title: Quando io leggio... Son gli ebbri... O mio castel... Nell'argilla...
+track_7digitalid: 3352761
+track_id: TRAOJCG128F4291689
+year: 0

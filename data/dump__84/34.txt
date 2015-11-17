@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 52012
+artist_familiarity: 0.319704941886
+artist_hotttnesss: 0.216606464892
+artist_id: AR2L2GV11C8A42C818
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 93632e42-8fa8-41a0-9fca-14c63cc6ccbb
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Marcel Azzola
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: fb4049264d4b058a4dfb3e2c652aeb48
+bars_confidence: shape = (208,)
+bars_start: shape = (208,)
+beats_confidence: shape = (835,)
+beats_start: shape = (835,)
+danceability: 0.0
+duration: 285.41342
+end_of_fade_in: 0.38
+energy: 0.0
+key: 2
+key_confidence: 0.344
+loudness: -16.301
+mode: 0
+mode_confidence: 0.482
+release: L'Accordeoniste
+release_7digitalid: 312987
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (935,)
+segments_loudness_max: shape = (935,)
+segments_loudness_max_time: shape = (935,)
+segments_loudness_start: shape = (935,)
+segments_pitches: shape = (935, 12)
+segments_start: shape = (935,)
+segments_timbre: shape = (935, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZMRSH12A8C141244
+start_of_fade_out: 267.041
+tatums_confidence: shape = (1669,)
+tatums_start: shape = (1669,)
+tempo: 182.261
+time_signature: 4
+time_signature_confidence: 0.295
+title: Hymne A L'Amour
+track_7digitalid: 3540438
+track_id: TRBCXUS128F92C3B00
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 110492
+artist_familiarity: 0.483854636708
+artist_hotttnesss: 0.248299798089
+artist_id: ARUBJTR1241B9CB16D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jape Squad
+artist_playmeid: 212723
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 4b4589a84ed7584ae84b497455970f11
+bars_confidence: shape = (131,)
+bars_start: shape = (131,)
+beats_confidence: shape = (399,)
+beats_start: shape = (399,)
+danceability: 0.0
+duration: 267.33669
+end_of_fade_in: 0.392
+energy: 0.0
+key: 7
+key_confidence: 0.911
+loudness: -5.967
+mode: 1
+mode_confidence: 0.807
+release: Breakfast With Jape Squad
+release_7digitalid: 141264
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (730,)
+segments_loudness_max: shape = (730,)
+segments_loudness_max_time: shape = (730,)
+segments_loudness_start: shape = (730,)
+segments_pitches: shape = (730, 12)
+segments_start: shape = (730,)
+segments_timbre: shape = (730, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONSWDF12A8C133D57
+start_of_fade_out: 263.343
+tatums_confidence: shape = (798,)
+tatums_start: shape = (798,)
+tempo: 89.696
+time_signature: 3
+time_signature_confidence: 0.94
+title: Bus Monkeys
+track_7digitalid: 1471740
+track_id: TRAEXSE128F4249171
+year: 0

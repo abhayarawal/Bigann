@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8293
+artist_familiarity: 0.839275392927
+artist_hotttnesss: 0.550762084656
+artist_id: AR6XPWV1187B9ADAEB
+artist_latitude: nan
+artist_location: Seattle, WA
+artist_longitude: nan
+artist_mbid: 67f66c07-6e61-4026-ade5-7e782fad3a5d
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Foo Fighters
+artist_playmeid: 631
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: acf8c6066bbd41780cc46592bdc41793
+bars_confidence: shape = (173,)
+bars_start: shape = (173,)
+beats_confidence: shape = (696,)
+beats_start: shape = (696,)
+danceability: 0.0
+duration: 270.47138
+end_of_fade_in: 0.183
+energy: 0.0
+key: 2
+key_confidence: 0.886
+loudness: -2.512
+mode: 1
+mode_confidence: 0.678
+release: ONE BY ONE
+release_7digitalid: 299596
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (749,)
+segments_loudness_max: shape = (749,)
+segments_loudness_max_time: shape = (749,)
+segments_loudness_start: shape = (749,)
+segments_pitches: shape = (749, 12)
+segments_start: shape = (749,)
+segments_timbre: shape = (749, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.687311639549
+song_id: SOKIHTB12A8C1397CF
+start_of_fade_out: 251.606
+tatums_confidence: shape = (1393,)
+tatums_start: shape = (1393,)
+tempo: 157.739
+time_signature: 4
+time_signature_confidence: 0.224
+title: Overdrive
+track_7digitalid: 3363389
+track_id: TRAPPUN128F429400B
+year: 2002

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6532
+artist_familiarity: 0.496020058563
+artist_hotttnesss: 0.365420274738
+artist_id: AR9JJ761187B9AF496
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 03a265bd-30be-4929-a220-0f583cc5160a
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Tanya Chua
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: a6e5706e2b907d9974dfe4d24c92baa6
+bars_confidence: shape = (153,)
+bars_start: shape = (153,)
+beats_confidence: shape = (617,)
+beats_start: shape = (617,)
+danceability: 0.0
+duration: 254.24934
+end_of_fade_in: 0.154
+energy: 0.0
+key: 8
+key_confidence: 0.576
+loudness: -6.217
+mode: 1
+mode_confidence: 0.603
+release: Amphibian
+release_7digitalid: 105765
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (701,)
+segments_loudness_max: shape = (701,)
+segments_loudness_max_time: shape = (701,)
+segments_loudness_start: shape = (701,)
+segments_pitches: shape = (701, 12)
+segments_start: shape = (701,)
+segments_timbre: shape = (701, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZTRYZ12A8C13D285
+start_of_fade_out: 244.367
+tatums_confidence: shape = (1234,)
+tatums_start: shape = (1234,)
+tempo: 147.892
+time_signature: 4
+time_signature_confidence: 1.0
+title: Zuo Li Bu An
+track_7digitalid: 1095466
+track_id: TRAMUFV128F428DA9F
+year: 0

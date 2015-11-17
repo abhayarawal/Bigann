@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9572
+artist_familiarity: 0.663400927384
+artist_hotttnesss: 0.389157892113
+artist_id: AR80BY41187B98DECF
+artist_latitude: 33.45081
+artist_location: Indianola, MS
+artist_longitude: -90.645
+artist_mbid: 10f89195-3af1-46f5-aa36-504aa3309f5a
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Albert King
+artist_playmeid: 9899
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 3174c546d40b88563279a59f6420a158
+bars_confidence: shape = (204,)
+bars_start: shape = (204,)
+beats_confidence: shape = (616,)
+beats_start: shape = (616,)
+danceability: 0.0
+duration: 244.27057
+end_of_fade_in: 2.746
+energy: 0.0
+key: 1
+key_confidence: 0.782
+loudness: -15.879
+mode: 1
+mode_confidence: 0.624
+release: Live Wire/Blues Power
+release_7digitalid: 168108
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (834,)
+segments_loudness_max: shape = (834,)
+segments_loudness_max_time: shape = (834,)
+segments_loudness_start: shape = (834,)
+segments_pitches: shape = (834, 12)
+segments_start: shape = (834,)
+segments_timbre: shape = (834, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKQUFP12A8C140A16
+start_of_fade_out: 238.283
+tatums_confidence: shape = (1233,)
+tatums_start: shape = (1233,)
+tempo: 152.2
+time_signature: 3
+time_signature_confidence: 0.556
+title: Watermelon Man
+track_7digitalid: 1777611
+track_id: TRANZKG128F429068A
+year: 1968

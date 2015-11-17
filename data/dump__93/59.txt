@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 546059
+artist_familiarity: 0.535473242464
+artist_hotttnesss: 0.273643478873
+artist_id: ARXSABR11E8A2E29BF
+artist_latitude: 46.44231
+artist_location: Minnesota
+artist_longitude: -93.36586
+artist_mbid: fb8e26de-7a25-4959-9fb5-ad1a5472fce9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pictures of Then
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 69c04bde8974c5956744004d2c150ca1
+bars_confidence: shape = (123,)
+bars_start: shape = (123,)
+beats_confidence: shape = (495,)
+beats_start: shape = (495,)
+danceability: 0.0
+duration: 182.83057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.784
+loudness: -6.865
+mode: 1
+mode_confidence: 0.535
+release: And The Wicked Sea
+release_7digitalid: 731936
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (662,)
+segments_loudness_max: shape = (662,)
+segments_loudness_max_time: shape = (662,)
+segments_loudness_start: shape = (662,)
+segments_pitches: shape = (662, 12)
+segments_start: shape = (662,)
+segments_timbre: shape = (662, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFFKLF12A58A78E0F
+start_of_fade_out: 176.286
+tatums_confidence: shape = (990,)
+tatums_start: shape = (990,)
+tempo: 163.959
+time_signature: 4
+time_signature_confidence: 0.249
+title: When It Stings
+track_7digitalid: 8108537
+track_id: TRBGHYG12903CEAC9C
+year: 2009

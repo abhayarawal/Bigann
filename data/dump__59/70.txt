@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40555
+artist_familiarity: 0.541928359666
+artist_hotttnesss: 0.373856344522
+artist_id: ARAENPX1187B990DDA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 84bde243-41d0-4a20-850b-3dc2763e817d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Timbalada
+artist_playmeid: 71418
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: f5d12b8d91c9e894ccf5a977e96b3202
+bars_confidence: shape = (178,)
+bars_start: shape = (178,)
+beats_confidence: shape = (717,)
+beats_start: shape = (717,)
+danceability: 0.0
+duration: 242.1024
+end_of_fade_in: 2.049
+energy: 0.0
+key: 10
+key_confidence: 0.656
+loudness: -7.203
+mode: 0
+mode_confidence: 0.692
+release: Alegria Original
+release_7digitalid: 55800
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1164,)
+segments_loudness_max: shape = (1164,)
+segments_loudness_max_time: shape = (1164,)
+segments_loudness_start: shape = (1164,)
+segments_pitches: shape = (1164, 12)
+segments_start: shape = (1164,)
+segments_timbre: shape = (1164, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.401095296585
+song_id: SOUBGQW12A6D4F8CE5
+start_of_fade_out: 235.241
+tatums_confidence: shape = (1435,)
+tatums_start: shape = (1435,)
+tempo: 180.06
+time_signature: 4
+time_signature_confidence: 0.166
+title: Maracaia
+track_7digitalid: 579476
+track_id: TRAUKGN128F1499A8D
+year: 2006

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 35805
+artist_familiarity: 0.776885721907
+artist_hotttnesss: 0.58608620676
+artist_id: ARN7POH1187B9B301E
+artist_latitude: nan
+artist_location: Dallas, TX
+artist_longitude: nan
+artist_mbid: fe37acd4-893c-4b2c-8ad2-7fd394280354
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Jessica Simpson
+artist_playmeid: 802
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 960a731eed277d75890b446d0643db4e
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (405,)
+beats_start: shape = (405,)
+danceability: 0.0
+duration: 258.76853
+end_of_fade_in: 0.461
+energy: 0.0
+key: 10
+key_confidence: 0.546
+loudness: -4.964
+mode: 1
+mode_confidence: 0.463
+release: In This Skin
+release_7digitalid: 391487
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1003,)
+segments_loudness_max: shape = (1003,)
+segments_loudness_max_time: shape = (1003,)
+segments_loudness_start: shape = (1003,)
+segments_pitches: shape = (1003, 12)
+segments_start: shape = (1003,)
+segments_timbre: shape = (1003, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJRTDB12CF582662D
+start_of_fade_out: 240.982
+tatums_confidence: shape = (1619,)
+tatums_start: shape = (1619,)
+tempo: 95.103
+time_signature: 4
+time_signature_confidence: 1.0
+title: In This Skin
+track_7digitalid: 4346769
+track_id: TRBDSGK128F92F2C59
+year: 2003

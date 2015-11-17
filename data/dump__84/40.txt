@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 24982
+artist_familiarity: 0.502711858779
+artist_hotttnesss: 0.318430759972
+artist_id: ARROUEA1187FB4AA0F
+artist_latitude: 38.8991
+artist_location: Washington
+artist_longitude: -77.029
+artist_mbid: 7b7c47a7-8bb4-41a3-9275-9438c914472f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Atom
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: a9775412e05ad79daa3c44e3e73698a6
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (471,)
+beats_start: shape = (471,)
+danceability: 0.0
+duration: 207.28118
+end_of_fade_in: 3.547
+energy: 0.0
+key: 3
+key_confidence: 0.807
+loudness: -9.652
+mode: 1
+mode_confidence: 0.623
+release: I Have Returned
+release_7digitalid: 481809
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (512,)
+segments_loudness_max: shape = (512,)
+segments_loudness_max_time: shape = (512,)
+segments_loudness_start: shape = (512,)
+segments_pitches: shape = (512, 12)
+segments_start: shape = (512,)
+segments_timbre: shape = (512, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SONCVTJ12AB01797ED
+start_of_fade_out: 207.281
+tatums_confidence: shape = (942,)
+tatums_start: shape = (942,)
+tempo: 137.903
+time_signature: 4
+time_signature_confidence: 0.622
+title: Know Thyself
+track_7digitalid: 5361896
+track_id: TRBCYFQ128F92F67DD
+year: 0

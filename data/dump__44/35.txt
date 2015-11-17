@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 95010
+artist_familiarity: 0.641990135474
+artist_hotttnesss: 0.457135668827
+artist_id: ARE9J081187FB4E58B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f839f739-9988-4133-98c6-a836f12ec8cd
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Antimatter
+artist_playmeid: 96368
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 65ccbb4897e82003f21c0fc1d6cedef1
+bars_confidence: shape = (170,)
+bars_start: shape = (170,)
+beats_confidence: shape = (684,)
+beats_start: shape = (684,)
+danceability: 0.0
+duration: 479.45098
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.007
+loudness: -10.258
+mode: 1
+mode_confidence: 0.0
+release: Lights Out
+release_7digitalid: 547424
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1526,)
+segments_loudness_max: shape = (1526,)
+segments_loudness_max_time: shape = (1526,)
+segments_loudness_start: shape = (1526,)
+segments_pitches: shape = (1526, 12)
+segments_start: shape = (1526,)
+segments_timbre: shape = (1526, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.624746110519
+song_id: SOAGYDL12AB0183518
+start_of_fade_out: 450.694
+tatums_confidence: shape = (2737,)
+tatums_start: shape = (2737,)
+tempo: 86.155
+time_signature: 4
+time_signature_confidence: 0.91
+title: Expire
+track_7digitalid: 6052604
+track_id: TRAPDOI128F9327982
+year: 0

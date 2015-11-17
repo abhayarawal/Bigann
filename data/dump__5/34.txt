@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 435364
+artist_familiarity: 0.393947413078
+artist_hotttnesss: 0.282775063357
+artist_id: ARBON001187B99BAD8
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d06f563d-3667-4265-b464-220cb920946a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Rudolph Valentino
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: bfe49e3eab2f184feb03a54e41971e30
+bars_confidence: shape = (55,)
+bars_start: shape = (55,)
+beats_confidence: shape = (314,)
+beats_start: shape = (314,)
+danceability: 0.0
+duration: 184.73751
+end_of_fade_in: 0.392
+energy: 0.0
+key: 7
+key_confidence: 0.543
+loudness: -20.846
+mode: 1
+mode_confidence: 0.597
+release: Movie Stars (CD 2)
+release_7digitalid: 584767
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (553,)
+segments_loudness_max: shape = (553,)
+segments_loudness_max_time: shape = (553,)
+segments_loudness_start: shape = (553,)
+segments_pitches: shape = (553, 12)
+segments_start: shape = (553,)
+segments_timbre: shape = (553, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTSZZK12AB0189F9D
+start_of_fade_out: 177.046
+tatums_confidence: shape = (314,)
+tatums_start: shape = (314,)
+tempo: 101.621
+time_signature: 5
+time_signature_confidence: 0.937
+title: Kashmiri Love Song
+track_7digitalid: 6483770
+track_id: TRABTTC12903CC34E8
+year: 1992

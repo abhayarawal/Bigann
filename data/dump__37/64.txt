@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15897
+artist_familiarity: 0.698291623658
+artist_hotttnesss: 0.453850265331
+artist_id: ARSQDUN1187B98D7D7
+artist_latitude: nan
+artist_location: allentown Pennsylvania USA
+artist_longitude: nan
+artist_mbid: 4fa39dc8-c695-4e0e-ba04-92c63d99c9f9
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: EPMD
+artist_playmeid: 90149
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: e95c20fce192865a33d119be4eff69fc
+bars_confidence: shape = (364,)
+bars_start: shape = (364,)
+beats_confidence: shape = (364,)
+beats_start: shape = (364,)
+danceability: 0.0
+duration: 181.39383
+end_of_fade_in: 0.363
+energy: 0.0
+key: 7
+key_confidence: 0.437
+loudness: -11.199
+mode: 0
+mode_confidence: 0.516
+release: Unfinished Business (Explicit)
+release_7digitalid: 422255
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (703,)
+segments_loudness_max: shape = (703,)
+segments_loudness_max_time: shape = (703,)
+segments_loudness_start: shape = (703,)
+segments_pitches: shape = (703, 12)
+segments_start: shape = (703,)
+segments_timbre: shape = (703, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKZNMZ12A6D4F7D44
+start_of_fade_out: 160.073
+tatums_confidence: shape = (727,)
+tatums_start: shape = (727,)
+tempo: 122.838
+time_signature: 1
+time_signature_confidence: 0.87
+title: Please Listen To My Demo
+track_7digitalid: 4706715
+track_id: TRAMUUZ128F933CA08
+year: 1989

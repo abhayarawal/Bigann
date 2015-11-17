@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 81520
+artist_familiarity: 0.663995715772
+artist_hotttnesss: 0.419265469301
+artist_id: ARKN9J11187B9B210D
+artist_latitude: nan
+artist_location: New York, NY [Queens]
+artist_longitude: nan
+artist_mbid: 84a1dc4c-ae51-478d-9996-5f7d4577fe48
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ Clue / P. Diddy
+artist_playmeid: 6073
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 20c0168db5eb81ef8ae1249b4e3faf5f
+bars_confidence: shape = (26,)
+bars_start: shape = (26,)
+beats_confidence: shape = (87,)
+beats_start: shape = (87,)
+danceability: 0.0
+duration: 64.70485
+end_of_fade_in: 0.46
+energy: 0.0
+key: 2
+key_confidence: 0.187
+loudness: -23.129
+mode: 0
+mode_confidence: 0.302
+release: The Professional
+release_7digitalid: 47388
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (281,)
+segments_loudness_max: shape = (281,)
+segments_loudness_max_time: shape = (281,)
+segments_loudness_start: shape = (281,)
+segments_pitches: shape = (281, 12)
+segments_start: shape = (281,)
+segments_timbre: shape = (281, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.386477291255
+song_id: SOJCRCO12A6D4F89BA
+start_of_fade_out: 64.705
+tatums_confidence: shape = (262,)
+tatums_start: shape = (262,)
+tempo: 81.229
+time_signature: 3
+time_signature_confidence: 0.745
+title: Intro
+track_7digitalid: 508028
+track_id: TRAUCSN128F148CB99
+year: 1998

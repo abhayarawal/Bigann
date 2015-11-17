@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 299276
+artist_familiarity: 0.501885083378
+artist_hotttnesss: 0.359780053099
+artist_id: ARPP6J4119B8668086
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 14cda0fc-2ea8-46cf-8285-97cb86d7c9ec
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Marco Demark feat. Peter Millwood
+artist_playmeid: -1
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: e09f54f92632acb1ae26fb17c8705fc6
+bars_confidence: shape = (272,)
+bars_start: shape = (272,)
+beats_confidence: shape = (1092,)
+beats_start: shape = (1092,)
+danceability: 0.0
+duration: 521.56036
+end_of_fade_in: 0.427
+energy: 0.0
+key: 2
+key_confidence: 0.658
+loudness: -8.274
+mode: 1
+mode_confidence: 0.487
+release: I Cant Fight This
+release_7digitalid: 552044
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (2780,)
+segments_loudness_max: shape = (2780,)
+segments_loudness_max_time: shape = (2780,)
+segments_loudness_start: shape = (2780,)
+segments_pitches: shape = (2780, 12)
+segments_start: shape = (2780,)
+segments_timbre: shape = (2780, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVMWGE12AB0181459
+start_of_fade_out: 510.351
+tatums_confidence: shape = (2184,)
+tatums_start: shape = (2184,)
+tempo: 128.006
+time_signature: 4
+time_signature_confidence: 0.029
+title: I Cant Fight This
+track_7digitalid: 6104042
+track_id: TRAYAQQ128F9334002
+year: 0

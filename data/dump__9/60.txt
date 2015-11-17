@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 178086
+artist_familiarity: 0.35054009145
+artist_hotttnesss: 0.193287062374
+artist_id: ARIIMGV11F4C842BDA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ionics
+artist_playmeid: -1
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: b4dd8d698b1d02574cb0193836607ef4
+bars_confidence: shape = (77,)
+bars_start: shape = (77,)
+beats_confidence: shape = (310,)
+beats_start: shape = (310,)
+danceability: 0.0
+duration: 140.38159
+end_of_fade_in: 0.148
+energy: 0.0
+key: 5
+key_confidence: 0.447
+loudness: -9.811
+mode: 1
+mode_confidence: 0.42
+release: Doo-Wop Classics Vol. 10 [Musicnote Records]
+release_7digitalid: 231171
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (435,)
+segments_loudness_max: shape = (435,)
+segments_loudness_max_time: shape = (435,)
+segments_loudness_start: shape = (435,)
+segments_pitches: shape = (435, 12)
+segments_start: shape = (435,)
+segments_timbre: shape = (435, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWRNST12A81C21D4C
+start_of_fade_out: 132.151
+tatums_confidence: shape = (310,)
+tatums_start: shape = (310,)
+tempo: 136.463
+time_signature: 4
+time_signature_confidence: 0.849
+title: Roll Back The Rug
+track_7digitalid: 2533277
+track_id: TRADECR128F42233D5
+year: 0

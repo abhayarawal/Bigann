@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10653
+artist_familiarity: 0.917863905848
+artist_hotttnesss: 0.908202619208
+artist_id: ARKU3Z61187FB51DCA
+artist_latitude: 13.11199
+artist_location: St Michael, Barbados 
+artist_longitude: -59.59895
+artist_mbid: 73e5e69d-3554-40d8-8516-00cb38737a1c
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Rihanna
+artist_playmeid: 2544
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 3b606008cd31c2b7fe4c1e528a65ed47
+bars_confidence: shape = (389,)
+bars_start: shape = (389,)
+beats_confidence: shape = (389,)
+beats_start: shape = (389,)
+danceability: 0.0
+duration: 237.87057
+end_of_fade_in: 0.334
+energy: 0.0
+key: 5
+key_confidence: 0.158
+loudness: -6.131
+mode: 0
+mode_confidence: 0.453
+release: We Ride
+release_7digitalid: 309474
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (931,)
+segments_loudness_max: shape = (931,)
+segments_loudness_max_time: shape = (931,)
+segments_loudness_start: shape = (931,)
+segments_pitches: shape = (931, 12)
+segments_start: shape = (931,)
+segments_timbre: shape = (931, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVVDVO12A8C14215D
+start_of_fade_out: 231.433
+tatums_confidence: shape = (1166,)
+tatums_start: shape = (1166,)
+tempo: 99.989
+time_signature: 1
+time_signature_confidence: 1.0
+title: We Ride
+track_7digitalid: 3499840
+track_id: TRASWPD128F42B4F7B
+year: 2006

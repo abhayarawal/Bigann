@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1153
+artist_familiarity: 0.704994472108
+artist_hotttnesss: 0.504855154444
+artist_id: ARKNOZU1187FB5A371
+artist_latitude: nan
+artist_location: Lynchburg, VA
+artist_longitude: nan
+artist_mbid: 2b95a657-9729-4dc7-a02f-7d8624d2c970
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Phil Vassar
+artist_playmeid: 3106
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 45ee25b9a1d9982ede9db29596d4bac2
+bars_confidence: shape = (188,)
+bars_start: shape = (188,)
+beats_confidence: shape = (568,)
+beats_start: shape = (568,)
+danceability: 0.0
+duration: 265.24689
+end_of_fade_in: 0.451
+energy: 0.0
+key: 9
+key_confidence: 0.936
+loudness: -8.387
+mode: 1
+mode_confidence: 0.742
+release: Phil Vassar
+release_7digitalid: 295332
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (637,)
+segments_loudness_max: shape = (637,)
+segments_loudness_max_time: shape = (637,)
+segments_loudness_start: shape = (637,)
+segments_pitches: shape = (637, 12)
+segments_start: shape = (637,)
+segments_timbre: shape = (637, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.512253654303
+song_id: SOGAIRT12A58291E2D
+start_of_fade_out: 256.023
+tatums_confidence: shape = (1135,)
+tatums_start: shape = (1135,)
+tempo: 131.458
+time_signature: 3
+time_signature_confidence: 0.547
+title: Like I Never Loved Before
+track_7digitalid: 3326324
+track_id: TRBFYKT128F428AFF7
+year: 2000

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17517
+artist_familiarity: 0.501144995753
+artist_hotttnesss: 0.230130793752
+artist_id: ARXGWZP11F4C83C075
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Leon Lai
+artist_playmeid: 123429
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 6a39201edf74cb0e78cfe46282acc11f
+bars_confidence: shape = (73,)
+bars_start: shape = (73,)
+beats_confidence: shape = (297,)
+beats_start: shape = (297,)
+danceability: 0.0
+duration: 210.9122
+end_of_fade_in: 0.078
+energy: 0.0
+key: 9
+key_confidence: 0.422
+loudness: -4.824
+mode: 0
+mode_confidence: 0.481
+release: Homework
+release_7digitalid: 549514
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (814,)
+segments_loudness_max: shape = (814,)
+segments_loudness_max_time: shape = (814,)
+segments_loudness_start: shape = (814,)
+segments_pitches: shape = (814, 12)
+segments_start: shape = (814,)
+segments_timbre: shape = (814, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOYMFA12AB017E3C1
+start_of_fade_out: 205.526
+tatums_confidence: shape = (594,)
+tatums_start: shape = (594,)
+tempo: 86.005
+time_signature: 4
+time_signature_confidence: 0.804
+title: Yi Ba Xiang Shui Yin
+track_7digitalid: 6076977
+track_id: TRBBCCM128F932D71A
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16700
+artist_familiarity: 0.633408899496
+artist_hotttnesss: 0.39428966212
+artist_id: ARLV8S31187B988B71
+artist_latitude: 46.71067
+artist_location: S�, France
+artist_longitude: 1.71819
+artist_mbid: b58165ba-ac55-49a1-8855-caf16c68f5f2
+artist_mbtags: shape = (15,)
+artist_mbtags_count: shape = (15,)
+artist_name: Georges Brassens
+artist_playmeid: 71764
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 3d5fae4c4a556cba11ab1224d83cd9a2
+bars_confidence: shape = (17,)
+bars_start: shape = (17,)
+beats_confidence: shape = (125,)
+beats_start: shape = (125,)
+danceability: 0.0
+duration: 100.8322
+end_of_fade_in: 0.293
+energy: 0.0
+key: 9
+key_confidence: 0.551
+loudness: -13.624
+mode: 1
+mode_confidence: 0.536
+release: Georges Brassens: Le siècle d'or
+release_7digitalid: 601969
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (354,)
+segments_loudness_max: shape = (354,)
+segments_loudness_max_time: shape = (354,)
+segments_loudness_start: shape = (354,)
+segments_pitches: shape = (354, 12)
+segments_start: shape = (354,)
+segments_timbre: shape = (354, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBYMIE12AB017E82A
+start_of_fade_out: 94.65
+tatums_confidence: shape = (374,)
+tatums_start: shape = (374,)
+tempo: 75.064
+time_signature: 4
+time_signature_confidence: 0.971
+title: Comme hier
+track_7digitalid: 6683960
+track_id: TRAOFJS12903CF3F3D
+year: 1953

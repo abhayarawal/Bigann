@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10275
+artist_familiarity: 0.569741152282
+artist_hotttnesss: 0.412240600536
+artist_id: AROEL1B1187B988B90
+artist_latitude: nan
+artist_location: South Jamaica, Queens
+artist_longitude: nan
+artist_mbid: 8b70d4d9-b3d3-4a99-8a95-96ee59f12140
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Lost Boyz
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: caee3f9878d1e8088ec2292595558d5a
+bars_confidence: shape = (94,)
+bars_start: shape = (94,)
+beats_confidence: shape = (379,)
+beats_start: shape = (379,)
+danceability: 0.0
+duration: 243.53914
+end_of_fade_in: 0.259
+energy: 0.0
+key: 9
+key_confidence: 0.165
+loudness: -9.725
+mode: 1
+mode_confidence: 0.406
+release: Love_ Peace & Nappiness
+release_7digitalid: 14592
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1071,)
+segments_loudness_max: shape = (1071,)
+segments_loudness_max_time: shape = (1071,)
+segments_loudness_start: shape = (1071,)
+segments_pitches: shape = (1071, 12)
+segments_start: shape = (1071,)
+segments_timbre: shape = (1071, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.408110883511
+song_id: SOOTDEC12A6701D0FF
+start_of_fade_out: 235.915
+tatums_confidence: shape = (758,)
+tatums_start: shape = (758,)
+tempo: 93.174
+time_signature: 4
+time_signature_confidence: 0.816
+title: Get Your Hustle On
+track_7digitalid: 151794
+track_id: TRADGXJ128E078FB3A
+year: 1997

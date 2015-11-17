@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 124342
+artist_familiarity: 0.591940610279
+artist_hotttnesss: 0.405672135972
+artist_id: ARYFAT91187B99FEF5
+artist_latitude: 51.48126
+artist_location: Cardiff, Wales
+artist_longitude: -3.18067
+artist_mbid: e314b02c-8724-4cc0-8da9-b754454f8378
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Tigertailz
+artist_playmeid: 57097
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: a721488b08d01433ab42542ac04c0cfe
+bars_confidence: shape = (170,)
+bars_start: shape = (170,)
+beats_confidence: shape = (684,)
+beats_start: shape = (684,)
+danceability: 0.0
+duration: 309.18485
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.33
+loudness: -6.334
+mode: 1
+mode_confidence: 0.565
+release: Thrill Pistol / Wazbones
+release_7digitalid: 743830
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (851,)
+segments_loudness_max: shape = (851,)
+segments_loudness_max_time: shape = (851,)
+segments_loudness_start: shape = (851,)
+segments_pitches: shape = (851, 12)
+segments_start: shape = (851,)
+segments_timbre: shape = (851, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSIDUF12AC468D60B
+start_of_fade_out: 303.711
+tatums_confidence: shape = (1367,)
+tatums_start: shape = (1367,)
+tempo: 134.056
+time_signature: 4
+time_signature_confidence: 0.497
+title: Thrill Pistol
+track_7digitalid: 8234047
+track_id: TRBHXSQ12903D0967F
+year: 2007

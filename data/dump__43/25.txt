@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 304060
+artist_familiarity: 0.305466192465
+artist_hotttnesss: 0.0353079471744
+artist_id: ARQ8FR81187FB58D27
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ebcf2655-9f48-406b-9e67-d5564358ee18
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gloria De Haven
+artist_playmeid: 139164
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: 45b932c2a1d78719ebd946841a854c18
+bars_confidence: shape = (485,)
+bars_start: shape = (485,)
+beats_confidence: shape = (485,)
+beats_start: shape = (485,)
+danceability: 0.0
+duration: 163.42159
+end_of_fade_in: 0.165
+energy: 0.0
+key: 2
+key_confidence: 0.74
+loudness: -12.265
+mode: 1
+mode_confidence: 0.501
+release: Gloria De Haven Sings
+release_7digitalid: 622413
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (632,)
+segments_loudness_max: shape = (632,)
+segments_loudness_max_time: shape = (632,)
+segments_loudness_start: shape = (632,)
+segments_pitches: shape = (632, 12)
+segments_start: shape = (632,)
+segments_timbre: shape = (632, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SONKGNH12AB017D33A
+start_of_fade_out: 163.422
+tatums_confidence: shape = (969,)
+tatums_start: shape = (969,)
+tempo: 179.688
+time_signature: 1
+time_signature_confidence: 0.0
+title: Red Hot Pepper Pot
+track_7digitalid: 6910217
+track_id: TRAOSTZ128F930FF61
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 51286
+artist_familiarity: 0.0360436167291
+artist_hotttnesss: 0.0
+artist_id: ARXWBYG1241B9CE962
+artist_latitude: 59.33217
+artist_location: Stockholm
+artist_longitude: 18.06243
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jenney
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 297ad891ff122e4b60fabc1db9b6fa8a
+bars_confidence: shape = (99,)
+bars_start: shape = (99,)
+beats_confidence: shape = (398,)
+beats_start: shape = (398,)
+danceability: 0.0
+duration: 205.97506
+end_of_fade_in: 0.305
+energy: 0.0
+key: 8
+key_confidence: 0.659
+loudness: -3.766
+mode: 1
+mode_confidence: 0.585
+release: Gib deinem Herzen ein Zeichen
+release_7digitalid: 178220
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (595,)
+segments_loudness_max: shape = (595,)
+segments_loudness_max_time: shape = (595,)
+segments_loudness_start: shape = (595,)
+segments_pitches: shape = (595, 12)
+segments_start: shape = (595,)
+segments_timbre: shape = (595, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTFFXG12A67ADC8F6
+start_of_fade_out: 198.769
+tatums_confidence: shape = (796,)
+tatums_start: shape = (796,)
+tempo: 120.117
+time_signature: 4
+time_signature_confidence: 0.573
+title: Gib deinem Herzen ein Zeichen (Radio Mix)
+track_7digitalid: 1922599
+track_id: TRADCZP128F42282D6
+year: 0

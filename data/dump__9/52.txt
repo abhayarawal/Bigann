@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 128363
+artist_familiarity: 0.486974477063
+artist_hotttnesss: 0.309813144124
+artist_id: ARBTD2Y1187B9B3EA5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d5bcf414-c219-4926-9604-91ea2efcecdc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lincoln Center Jazz Orchestra
+artist_playmeid: 14057
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: c3654e71337cc4e40a8ca075e07d166d
+bars_confidence: shape = (111,)
+bars_start: shape = (111,)
+beats_confidence: shape = (462,)
+beats_start: shape = (462,)
+danceability: 0.0
+duration: 304.84853
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.0
+loudness: -5.508
+mode: 0
+mode_confidence: 0.057
+release: Live In Swing City- Swingin' With Duke
+release_7digitalid: 287074
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1052,)
+segments_loudness_max: shape = (1052,)
+segments_loudness_max_time: shape = (1052,)
+segments_loudness_start: shape = (1052,)
+segments_pitches: shape = (1052, 12)
+segments_start: shape = (1052,)
+segments_timbre: shape = (1052, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOTQHWA12A8C136E39
+start_of_fade_out: 296.025
+tatums_confidence: shape = (924,)
+tatums_start: shape = (924,)
+tempo: 90.306
+time_signature: 4
+time_signature_confidence: 1.0
+title: Chinoiserie
+track_7digitalid: 3219966
+track_id: TRADDNQ128F4271974
+year: 0

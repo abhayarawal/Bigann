@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 365770
+artist_familiarity: 0.460062797921
+artist_hotttnesss: 0.26702622085
+artist_id: ARUZLOS1269FCD4EF1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Reptil
+artist_playmeid: 207813
+artist_terms: shape = (9,)
+artist_terms_freq: shape = (9,)
+artist_terms_weight: shape = (9,)
+audio_md5: c4187b6dbd42ac270755380d04fd14b5
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (435,)
+beats_start: shape = (435,)
+danceability: 0.0
+duration: 220.3424
+end_of_fade_in: 0.27
+energy: 0.0
+key: 0
+key_confidence: 0.015
+loudness: -7.009
+mode: 1
+mode_confidence: 0.291
+release: La Noche Del Reptil
+release_7digitalid: 748904
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (992,)
+segments_loudness_max: shape = (992,)
+segments_loudness_max_time: shape = (992,)
+segments_loudness_start: shape = (992,)
+segments_pitches: shape = (992, 12)
+segments_start: shape = (992,)
+segments_timbre: shape = (992, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQQWJM12AB01889D5
+start_of_fade_out: 212.254
+tatums_confidence: shape = (870,)
+tatums_start: shape = (870,)
+tempo: 120.0
+time_signature: 4
+time_signature_confidence: 0.519
+title: Siempre
+track_7digitalid: 8291989
+track_id: TRBGBDZ12903CA0B18
+year: 0

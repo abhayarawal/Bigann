@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 255050
+artist_familiarity: 0.555277224341
+artist_hotttnesss: 0.395217687049
+artist_id: ARA8DDQ1187B9AE3A0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 86119d30-d930-4e65-a97a-e31e22388166
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Eason Chan
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: e2b2251aae22c3c1ba55e8f1058c8e4e
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (325,)
+beats_start: shape = (325,)
+danceability: 0.0
+duration: 241.44934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.806
+loudness: -13.294
+mode: 1
+mode_confidence: 0.688
+release: Eason Moving On Stage 1
+release_7digitalid: 336772
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (645,)
+segments_loudness_max: shape = (645,)
+segments_loudness_max_time: shape = (645,)
+segments_loudness_start: shape = (645,)
+segments_pitches: shape = (645, 12)
+segments_start: shape = (645,)
+segments_timbre: shape = (645, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCIBOU12AB0183541
+start_of_fade_out: 238.231
+tatums_confidence: shape = (650,)
+tatums_start: shape = (650,)
+tempo: 81.999
+time_signature: 4
+time_signature_confidence: 0.456
+title: Xi Yang Wu Xian Hao
+track_7digitalid: 3771417
+track_id: TRAOVCM128F92F2923
+year: 0

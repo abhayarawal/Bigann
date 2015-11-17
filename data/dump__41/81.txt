@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 52050
+artist_familiarity: 0.596501188098
+artist_hotttnesss: 0.353345469066
+artist_id: ARU34651187B99A264
+artist_latitude: 40.71455
+artist_location: NY - New York City
+artist_longitude: -74.00712
+artist_mbid: c53283fc-342d-4f97-b5c8-9561cf034d06
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Michal
+artist_playmeid: 12985
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 4febf48e6e0f7eddd38c3a9916829192
+bars_confidence: shape = (131,)
+bars_start: shape = (131,)
+beats_confidence: shape = (529,)
+beats_start: shape = (529,)
+danceability: 0.0
+duration: 217.39057
+end_of_fade_in: 0.2
+energy: 0.0
+key: 7
+key_confidence: 0.666
+loudness: -6.553
+mode: 1
+mode_confidence: 0.71
+release: Magic
+release_7digitalid: 711053
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (601,)
+segments_loudness_max: shape = (601,)
+segments_loudness_max_time: shape = (601,)
+segments_loudness_start: shape = (601,)
+segments_pitches: shape = (601, 12)
+segments_start: shape = (601,)
+segments_timbre: shape = (601, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQCBZS12AB018B8C1
+start_of_fade_out: 211.226
+tatums_confidence: shape = (1058,)
+tatums_start: shape = (1058,)
+tempo: 149.897
+time_signature: 4
+time_signature_confidence: 0.783
+title: Stay With Me
+track_7digitalid: 7887729
+track_id: TRAOEEH12903CB5178
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 110292
+artist_familiarity: 0.577232155031
+artist_hotttnesss: 0.431448034568
+artist_id: ARH09RT1187FB4A843
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ab872f2a-8f87-4531-af37-efdeaa1dd63b
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: OV7
+artist_playmeid: 1915
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: a8a9b02da2e62366334f4321442d95fc
+bars_confidence: shape = (98,)
+bars_start: shape = (98,)
+beats_confidence: shape = (397,)
+beats_start: shape = (397,)
+danceability: 0.0
+duration: 239.67302
+end_of_fade_in: 0.345
+energy: 0.0
+key: 11
+key_confidence: 0.192
+loudness: -3.593
+mode: 1
+mode_confidence: 0.476
+release: 7 Latidos
+release_7digitalid: 528682
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1085,)
+segments_loudness_max: shape = (1085,)
+segments_loudness_max_time: shape = (1085,)
+segments_loudness_start: shape = (1085,)
+segments_pitches: shape = (1085, 12)
+segments_start: shape = (1085,)
+segments_timbre: shape = (1085, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.392008771471
+song_id: SOLQAPL12AAF3B3010
+start_of_fade_out: 233.146
+tatums_confidence: shape = (1591,)
+tatums_start: shape = (1591,)
+tempo: 99.995
+time_signature: 4
+time_signature_confidence: 0.549
+title: Una na na
+track_7digitalid: 5845083
+track_id: TRADMAJ128F92F566E
+year: 2001

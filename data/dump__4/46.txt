@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 34416
+artist_familiarity: 0.544835430923
+artist_hotttnesss: 0.331863556802
+artist_id: ARUF71J1187FB511C1
+artist_latitude: 37.08571
+artist_location: Paducah, KY
+artist_longitude: -88.59583
+artist_mbid: 7b10ba94-21c3-4abb-802c-fe4984817504
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Boots Randolph
+artist_playmeid: 10167
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 18073ae250cb26ce393e15428d750340
+bars_confidence: shape = (77,)
+bars_start: shape = (77,)
+beats_confidence: shape = (238,)
+beats_start: shape = (238,)
+danceability: 0.0
+duration: 150.20363
+end_of_fade_in: 2.426
+energy: 0.0
+key: 0
+key_confidence: 0.826
+loudness: -11.927
+mode: 1
+mode_confidence: 0.672
+release: Boots Randolph's Yakety Sax!
+release_7digitalid: 285677
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (337,)
+segments_loudness_max: shape = (337,)
+segments_loudness_max_time: shape = (337,)
+segments_loudness_start: shape = (337,)
+segments_pitches: shape = (337, 12)
+segments_start: shape = (337,)
+segments_timbre: shape = (337, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3759843015
+song_id: SOQLNGZ12A8C1314E8
+start_of_fade_out: 144.126
+tatums_confidence: shape = (476,)
+tatums_start: shape = (476,)
+tempo: 101.485
+time_signature: 3
+time_signature_confidence: 1.0
+title: Lonely Street
+track_7digitalid: 3195344
+track_id: TRABLOM128F426BE8A
+year: 1963

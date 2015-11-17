@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 82896
+artist_familiarity: 0.588667486571
+artist_hotttnesss: 0.385515114251
+artist_id: ARYS9L21187FB367E4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ff3a293a-76d1-49a7-a5c5-fede02e7e648
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Tones On Tail
+artist_playmeid: 193197
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 4e2ab187142b61cea72b373868e401c7
+bars_confidence: shape = (149,)
+bars_start: shape = (149,)
+beats_confidence: shape = (613,)
+beats_start: shape = (613,)
+danceability: 0.0
+duration: 387.16036
+end_of_fade_in: 0.421
+energy: 0.0
+key: 2
+key_confidence: 0.616
+loudness: -11.705
+mode: 0
+mode_confidence: 0.615
+release: Everything!
+release_7digitalid: 105872
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (900,)
+segments_loudness_max: shape = (900,)
+segments_loudness_max_time: shape = (900,)
+segments_loudness_start: shape = (900,)
+segments_pitches: shape = (900, 12)
+segments_start: shape = (900,)
+segments_timbre: shape = (900, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.718950558772
+song_id: SOQSVRE12A8C13A31C
+start_of_fade_out: 356.2
+tatums_confidence: shape = (1226,)
+tatums_start: shape = (1226,)
+tempo: 95.425
+time_signature: 4
+time_signature_confidence: 0.768
+title: Burning Skies
+track_7digitalid: 1097008
+track_id: TRBBAHD128F428E0FE
+year: 1987

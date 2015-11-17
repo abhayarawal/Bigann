@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1593
+artist_familiarity: 0.578648938866
+artist_hotttnesss: 0.376582961799
+artist_id: ARIJE101187FB45E88
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1275524f-84e1-4fd1-8c31-ce54f388139e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ben Harper And The Blind Boys Of Alabama
+artist_playmeid: 70657
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 3e50d87beeb6c218dfe2c83c6b564f7f
+bars_confidence: shape = (159,)
+bars_start: shape = (159,)
+beats_confidence: shape = (639,)
+beats_start: shape = (639,)
+danceability: 0.0
+duration: 234.65751
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.458
+loudness: -9.768
+mode: 0
+mode_confidence: 0.243
+release: There Will Be A Light
+release_7digitalid: 2434
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1069,)
+segments_loudness_max: shape = (1069,)
+segments_loudness_max_time: shape = (1069,)
+segments_loudness_start: shape = (1069,)
+segments_pitches: shape = (1069, 12)
+segments_start: shape = (1069,)
+segments_timbre: shape = (1069, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.653870885693
+song_id: SOZOKIL12A6701EE9B
+start_of_fade_out: 232.525
+tatums_confidence: shape = (1277,)
+tatums_start: shape = (1277,)
+tempo: 164.637
+time_signature: 4
+time_signature_confidence: 1.0
+title: Take My Hand
+track_7digitalid: 24663
+track_id: TRAPGPZ128E0784AB8
+year: 2004

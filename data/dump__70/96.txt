@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9572
+artist_familiarity: 0.663400927384
+artist_hotttnesss: 0.389157892113
+artist_id: AR80BY41187B98DECF
+artist_latitude: 33.45081
+artist_location: Indianola, MS
+artist_longitude: -90.645
+artist_mbid: 10f89195-3af1-46f5-aa36-504aa3309f5a
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Albert King
+artist_playmeid: 9899
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 0a189b2f81d7c4ab59b94eaeac436c5f
+bars_confidence: shape = (967,)
+bars_start: shape = (967,)
+beats_confidence: shape = (967,)
+beats_start: shape = (967,)
+danceability: 0.0
+duration: 668.62975
+end_of_fade_in: 0.142
+energy: 0.0
+key: 9
+key_confidence: 0.631
+loudness: -11.403
+mode: 1
+mode_confidence: 0.461
+release: Chicago 1978
+release_7digitalid: 372631
+sections_confidence: shape = (32,)
+sections_start: shape = (32,)
+segments_confidence: shape = (1903,)
+segments_loudness_max: shape = (1903,)
+segments_loudness_max_time: shape = (1903,)
+segments_loudness_start: shape = (1903,)
+segments_pitches: shape = (1903, 12)
+segments_start: shape = (1903,)
+segments_timbre: shape = (1903, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONLCCI12A8C140225
+start_of_fade_out: 659.905
+tatums_confidence: shape = (1934,)
+tatums_start: shape = (1934,)
+tempo: 86.702
+time_signature: 1
+time_signature_confidence: 0.342
+title: Please Come Back To Me - Live
+track_7digitalid: 4146881
+track_id: TRAYGYY128F92CB1CE
+year: 0

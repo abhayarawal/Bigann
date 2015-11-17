@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 32082
+artist_familiarity: 0.778534708104
+artist_hotttnesss: 0.490768668837
+artist_id: ARDQ62L1187FB56FF0
+artist_latitude: nan
+artist_location: Houston, Texas
+artist_longitude: nan
+artist_mbid: d6a3eeec-cde0-4c10-89b2-93e0bd5f34e6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Blue October
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 90532f86292e510909c7c688b330cea6
+bars_confidence: shape = (91,)
+bars_start: shape = (91,)
+beats_confidence: shape = (391,)
+beats_start: shape = (391,)
+danceability: 0.0
+duration: 225.67138
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.709
+loudness: -12.637
+mode: 1
+mode_confidence: 0.723
+release: Approaching Normal
+release_7digitalid: 428521
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (680,)
+segments_loudness_max: shape = (680,)
+segments_loudness_max_time: shape = (680,)
+segments_loudness_start: shape = (680,)
+segments_pitches: shape = (680, 12)
+segments_start: shape = (680,)
+segments_timbre: shape = (680, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.799499551073
+song_id: SOHOPAT12A8C1436AC
+start_of_fade_out: 211.656
+tatums_confidence: shape = (782,)
+tatums_start: shape = (782,)
+tempo: 103.647
+time_signature: 4
+time_signature_confidence: 0.889
+title: My Never
+track_7digitalid: 4782813
+track_id: TRAEVHU128F92D9EA0
+year: 2009

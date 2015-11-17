@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 49923
+artist_familiarity: 0.694357746437
+artist_hotttnesss: 0.520784106942
+artist_id: ARJ5FD21187FB43F12
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 82705f22-a8ec-499c-8f41-8ee6b47a9459
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Mavado
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: c32d586e242ac392f79bde3e29e1cb06
+bars_confidence: shape = (145,)
+bars_start: shape = (145,)
+beats_confidence: shape = (440,)
+beats_start: shape = (440,)
+danceability: 0.0
+duration: 211.30404
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.438
+loudness: -6.088
+mode: 1
+mode_confidence: 0.474
+release: Gangsta For Life: The Symphony Of David Brooks
+release_7digitalid: 117351
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (936,)
+segments_loudness_max: shape = (936,)
+segments_loudness_max_time: shape = (936,)
+segments_loudness_start: shape = (936,)
+segments_pitches: shape = (936, 12)
+segments_start: shape = (936,)
+segments_timbre: shape = (936, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.47872628848
+song_id: SOUHUZR12A8C13E7A6
+start_of_fade_out: 211.304
+tatums_confidence: shape = (880,)
+tatums_start: shape = (880,)
+tempo: 125.348
+time_signature: 3
+time_signature_confidence: 1.0
+title: Real McKoy Feat. Busy Signal
+track_7digitalid: 1208343
+track_id: TRAHMWO128F42A2181
+year: 2007

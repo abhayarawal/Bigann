@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 53
+artist_familiarity: 0.681598553146
+artist_hotttnesss: 0.537537201305
+artist_id: ARVML631187B99E90D
+artist_latitude: nan
+artist_location: Athens, GA
+artist_longitude: nan
+artist_mbid: 127f591a-7e27-4435-92db-0780f219f3a1
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: The B-52's
+artist_playmeid: 147
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 01e251b0749dabedbe00c34d6d7c45de
+bars_confidence: shape = (176,)
+bars_start: shape = (176,)
+beats_confidence: shape = (708,)
+beats_start: shape = (708,)
+danceability: 0.0
+duration: 313.20771
+end_of_fade_in: 0.344
+energy: 0.0
+key: 11
+key_confidence: 0.041
+loudness: -7.465
+mode: 1
+mode_confidence: 0.419
+release: Good Stuff
+release_7digitalid: 542754
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1232,)
+segments_loudness_max: shape = (1232,)
+segments_loudness_max_time: shape = (1232,)
+segments_loudness_start: shape = (1232,)
+segments_pitches: shape = (1232, 12)
+segments_start: shape = (1232,)
+segments_timbre: shape = (1232, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.474054830931
+song_id: SOFHWIG12AB01855B5
+start_of_fade_out: 303.398
+tatums_confidence: shape = (1416,)
+tatums_start: shape = (1416,)
+tempo: 136.767
+time_signature: 4
+time_signature_confidence: 0.248
+title: Tell It Like It T-I-IS (Album Version)
+track_7digitalid: 6007127
+track_id: TRAGLZM128F931C995
+year: 1992

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 88
+artist_familiarity: 0.86652031981
+artist_hotttnesss: 0.766545450757
+artist_id: ARXPPEY1187FB51DF4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f27ec8db-af05-4f36-916e-3d57f91ecf5e
+artist_mbtags: shape = (20,)
+artist_mbtags_count: shape = (20,)
+artist_name: Michael Jackson
+artist_playmeid: 1081
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 31b06e9d832b8abb473b0dc0eb77a6d7
+bars_confidence: shape = (97,)
+bars_start: shape = (97,)
+beats_confidence: shape = (688,)
+beats_start: shape = (688,)
+danceability: 0.0
+duration: 222.37995
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.407
+loudness: -9.631
+mode: 1
+mode_confidence: 0.313
+release: The Real Thing: The Jackson 5
+release_7digitalid: 296020
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (928,)
+segments_loudness_max: shape = (928,)
+segments_loudness_max_time: shape = (928,)
+segments_loudness_start: shape = (928,)
+segments_pitches: shape = (928, 12)
+segments_start: shape = (928,)
+segments_timbre: shape = (928, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQGFVA12A8C13AE87
+start_of_fade_out: 212.689
+tatums_confidence: shape = (1376,)
+tatums_start: shape = (1376,)
+tempo: 187.427
+time_signature: 7
+time_signature_confidence: 0.496
+title: We're Almost There
+track_7digitalid: 3317310
+track_id: TRAJZIS128F4288E43
+year: 1975

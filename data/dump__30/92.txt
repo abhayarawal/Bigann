@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 28162
+artist_familiarity: 0.610427725145
+artist_hotttnesss: 0.438168226182
+artist_id: ARTBFV61187FB3C250
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 8736f41f-365e-42c7-a733-36c22e74c97e
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Johnny Horton
+artist_playmeid: 2993
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 8202435de2b162c1303d6587482baf9e
+bars_confidence: shape = (46,)
+bars_start: shape = (46,)
+beats_confidence: shape = (187,)
+beats_start: shape = (187,)
+danceability: 0.0
+duration: 131.81342
+end_of_fade_in: 2.56
+energy: 0.0
+key: 6
+key_confidence: 0.0
+loudness: -11.011
+mode: 0
+mode_confidence: 0.0
+release: The Spectacular Johnny Horton
+release_7digitalid: 284600
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (530,)
+segments_loudness_max: shape = (530,)
+segments_loudness_max_time: shape = (530,)
+segments_loudness_start: shape = (530,)
+segments_pitches: shape = (530, 12)
+segments_start: shape = (530,)
+segments_timbre: shape = (530, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSCFFU12A8C134C67
+start_of_fade_out: 126.229
+tatums_confidence: shape = (747,)
+tatums_start: shape = (747,)
+tempo: 87.653
+time_signature: 4
+time_signature_confidence: 0.067
+title: Got The Bull By The Horns
+track_7digitalid: 3186942
+track_id: TRAKMGY128F4269E37
+year: 1996

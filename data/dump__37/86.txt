@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21381
+artist_familiarity: 0.720823971709
+artist_hotttnesss: 0.437464553695
+artist_id: AR9JNFU1187B9B9868
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fc63a914-272d-4b95-9221-61adcce6f793
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Gal Costa
+artist_playmeid: 5748
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: fd79f57776d4ac38f71158a819241faa
+bars_confidence: shape = (153,)
+bars_start: shape = (153,)
+beats_confidence: shape = (618,)
+beats_start: shape = (618,)
+danceability: 0.0
+duration: 252.02893
+end_of_fade_in: 0.345
+energy: 0.0
+key: 9
+key_confidence: 0.88
+loudness: -17.225
+mode: 1
+mode_confidence: 0.56
+release: Caras E Bocas
+release_7digitalid: 706684
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (950,)
+segments_loudness_max: shape = (950,)
+segments_loudness_max_time: shape = (950,)
+segments_loudness_start: shape = (950,)
+segments_pitches: shape = (950, 12)
+segments_start: shape = (950,)
+segments_timbre: shape = (950, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.360370582712
+song_id: SOJCZUF12AB018A68B
+start_of_fade_out: 237.215
+tatums_confidence: shape = (1237,)
+tatums_start: shape = (1237,)
+tempo: 149.039
+time_signature: 4
+time_signature_confidence: 0.429
+title: Me Recuso
+track_7digitalid: 7836917
+track_id: TRAMWOH12903CA8BA0
+year: 1977

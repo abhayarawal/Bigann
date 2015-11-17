@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4823
+artist_familiarity: 0.585735487899
+artist_hotttnesss: 0.383845367255
+artist_id: ARZO73F1187FB4BF23
+artist_latitude: 39.95227
+artist_location: Philadelphia, PA
+artist_longitude: -75.16237
+artist_mbid: 0646d80c-7ee1-46e9-a169-2979dee41bc6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bill Cosby
+artist_playmeid: -1
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: e589be7fca1f0bd3738efd64a5da4133
+bars_confidence: shape = (590,)
+bars_start: shape = (590,)
+beats_confidence: shape = (590,)
+beats_start: shape = (590,)
+danceability: 0.0
+duration: 498.33751
+end_of_fade_in: 0.466
+energy: 0.0
+key: 8
+key_confidence: 0.102
+loudness: -17.315
+mode: 1
+mode_confidence: 0.119
+release: 20th Century Masters: The Millennium Collection: Best Of Bill Cosby
+release_7digitalid: 53630
+sections_confidence: shape = (23,)
+sections_start: shape = (23,)
+segments_confidence: shape = (1812,)
+segments_loudness_max: shape = (1812,)
+segments_loudness_max_time: shape = (1812,)
+segments_loudness_start: shape = (1812,)
+segments_pitches: shape = (1812, 12)
+segments_start: shape = (1812,)
+segments_timbre: shape = (1812, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3759843015
+song_id: SOSVNTG12A6D4FA27F
+start_of_fade_out: 488.391
+tatums_confidence: shape = (1770,)
+tatums_start: shape = (1770,)
+tempo: 70.535
+time_signature: 1
+time_signature_confidence: 0.657
+title: Fat Albert's Car
+track_7digitalid: 559080
+track_id: TRBAVWG128F1495881
+year: 1973

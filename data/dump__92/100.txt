@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 370267
+artist_familiarity: 0.499939220989
+artist_hotttnesss: 0.374449430497
+artist_id: ARDOOH01187B991055
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 344c5e8c-d4f1-4bec-8ff5-08ef100a9e5d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ultraviolence
+artist_playmeid: 160798
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: f64c2f3f71780b00b60b503debaa3810
+bars_confidence: shape = (192,)
+bars_start: shape = (192,)
+beats_confidence: shape = (771,)
+beats_start: shape = (771,)
+danceability: 0.0
+duration: 271.12444
+end_of_fade_in: 0.351
+energy: 0.0
+key: 1
+key_confidence: 0.023
+loudness: -3.264
+mode: 1
+mode_confidence: 0.331
+release: Blown Away
+release_7digitalid: 681735
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1112,)
+segments_loudness_max: shape = (1112,)
+segments_loudness_max_time: shape = (1112,)
+segments_loudness_start: shape = (1112,)
+segments_pitches: shape = (1112, 12)
+segments_start: shape = (1112,)
+segments_timbre: shape = (1112, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOYTBPL12AB018A8C5
+start_of_fade_out: 262.269
+tatums_confidence: shape = (1542,)
+tatums_start: shape = (1542,)
+tempo: 174.49
+time_signature: 4
+time_signature_confidence: 0.783
+title: Stars (GROWTH Ultraviolence Mix)
+track_7digitalid: 7565942
+track_id: TRBGDBT12903CDD795
+year: 0

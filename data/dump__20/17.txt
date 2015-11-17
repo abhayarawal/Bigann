@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4074
+artist_familiarity: 0.555904122513
+artist_hotttnesss: 0.39547886116
+artist_id: ARHWVGW1187FB41479
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 20dcf3aa-c313-4f24-acd4-461327a76a73
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Paul Butterfield Blues Band
+artist_playmeid: 39205
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 5d5624c7c8394036858fe7c0b02c0277
+bars_confidence: shape = (291,)
+bars_start: shape = (291,)
+beats_confidence: shape = (291,)
+beats_start: shape = (291,)
+danceability: 0.0
+duration: 228.75383
+end_of_fade_in: 0.189
+energy: 0.0
+key: 3
+key_confidence: 0.728
+loudness: -13.705
+mode: 1
+mode_confidence: 0.572
+release: Sometimes I Just Feel Like Smilin'
+release_7digitalid: 109040
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (808,)
+segments_loudness_max: shape = (808,)
+segments_loudness_max_time: shape = (808,)
+segments_loudness_start: shape = (808,)
+segments_pitches: shape = (808, 12)
+segments_start: shape = (808,)
+segments_timbre: shape = (808, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.249199655862
+song_id: SOQPXJH12A8C13C3EA
+start_of_fade_out: 213.38
+tatums_confidence: shape = (873,)
+tatums_start: shape = (873,)
+tempo: 77.207
+time_signature: 1
+time_signature_confidence: 0.0
+title: Pretty Woman (LP Version)
+track_7digitalid: 1126463
+track_id: TRAGVOF128F4292ED0
+year: 1971

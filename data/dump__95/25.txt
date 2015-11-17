@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 132213
+artist_familiarity: 0.377366436061
+artist_hotttnesss: 0.0
+artist_id: ARKIQSL1241B9C90C8
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Fred Merpol
+artist_playmeid: 91244
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 0ce62c9beb1247bfaf5c071bf0e6b695
+bars_confidence: shape = (70,)
+bars_start: shape = (70,)
+beats_confidence: shape = (286,)
+beats_start: shape = (286,)
+danceability: 0.0
+duration: 117.13261
+end_of_fade_in: 0.156
+energy: 0.0
+key: 9
+key_confidence: 0.451
+loudness: -21.061
+mode: 0
+mode_confidence: 0.607
+release: L'éclusier
+release_7digitalid: 779320
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (391,)
+segments_loudness_max: shape = (391,)
+segments_loudness_max_time: shape = (391,)
+segments_loudness_start: shape = (391,)
+segments_pitches: shape = (391, 12)
+segments_start: shape = (391,)
+segments_timbre: shape = (391, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXCASM12AC468DC25
+start_of_fade_out: 111.549
+tatums_confidence: shape = (286,)
+tatums_start: shape = (286,)
+tempo: 151.973
+time_signature: 4
+time_signature_confidence: 0.845
+title: Glisse
+track_7digitalid: 8623174
+track_id: TRBGWAT12903CF15AF
+year: 0

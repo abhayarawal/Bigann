@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41717
+artist_familiarity: 0.614755588693
+artist_hotttnesss: 0.396490351912
+artist_id: AR0U44O1187B99007C
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: 78b8347b-a1e2-4e36-a917-92d632a62c18
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Republica
+artist_playmeid: 22191
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 2966328c313a6326a2d0932c3f6d504a
+bars_confidence: shape = (148,)
+bars_start: shape = (148,)
+beats_confidence: shape = (600,)
+beats_start: shape = (600,)
+danceability: 0.0
+duration: 264.22812
+end_of_fade_in: 0.136
+energy: 0.0
+key: 5
+key_confidence: 0.572
+loudness: -3.653
+mode: 1
+mode_confidence: 0.574
+release: Speed Ballads
+release_7digitalid: 297039
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1011,)
+segments_loudness_max: shape = (1011,)
+segments_loudness_max_time: shape = (1011,)
+segments_loudness_start: shape = (1011,)
+segments_pitches: shape = (1011, 12)
+segments_start: shape = (1011,)
+segments_timbre: shape = (1011, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.531722098421
+song_id: SOFZXEV12A8C13A407
+start_of_fade_out: 260.377
+tatums_confidence: shape = (1200,)
+tatums_start: shape = (1200,)
+tempo: 137.953
+time_signature: 4
+time_signature_confidence: 0.43
+title: Pub Pusher
+track_7digitalid: 3362779
+track_id: TRBDSXN128F4293DA9
+year: 1998

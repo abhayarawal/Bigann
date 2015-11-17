@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 247656
+artist_familiarity: 0.394768270653
+artist_hotttnesss: 0.175411181094
+artist_id: AR137UW1187B98CCBA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5d84e905-4bbb-4dc1-8380-a796d2d62907
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Charlie Byrd Trio
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: da683d13ffa301d8d5ab7d8ea0f7ed6c
+bars_confidence: shape = (164,)
+bars_start: shape = (164,)
+beats_confidence: shape = (659,)
+beats_start: shape = (659,)
+danceability: 0.0
+duration: 232.93342
+end_of_fade_in: 0.467
+energy: 0.0
+key: 5
+key_confidence: 0.18
+loudness: -19.664
+mode: 1
+mode_confidence: 0.072
+release: I've Got the World On a String
+release_7digitalid: 556943
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (897,)
+segments_loudness_max: shape = (897,)
+segments_loudness_max_time: shape = (897,)
+segments_loudness_start: shape = (897,)
+segments_pitches: shape = (897, 12)
+segments_start: shape = (897,)
+segments_timbre: shape = (897, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLFRNH12AB0181C7E
+start_of_fade_out: 218.041
+tatums_confidence: shape = (1317,)
+tatums_start: shape = (1317,)
+tempo: 173.828
+time_signature: 4
+time_signature_confidence: 0.07
+title: Goody Goody
+track_7digitalid: 6159482
+track_id: TRBGJTK128F93417F6
+year: 0

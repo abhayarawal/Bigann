@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7338
+artist_familiarity: 0.905776888666
+artist_hotttnesss: 0.598458500982
+artist_id: ARK9TRQ1187B99C095
+artist_latitude: 41.50471
+artist_location: Cleveland, OH
+artist_longitude: -81.69074
+artist_mbid: b7ffd2af-418f-4be2-bdd1-22f8b48613da
+artist_mbtags: shape = (12,)
+artist_mbtags_count: shape = (12,)
+artist_name: Nine Inch Nails
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: ce020c3664096562bec86adc6eddd862
+bars_confidence: shape = (110,)
+bars_start: shape = (110,)
+beats_confidence: shape = (444,)
+beats_start: shape = (444,)
+danceability: 0.0
+duration: 426.89261
+end_of_fade_in: 0.286
+energy: 0.0
+key: 0
+key_confidence: 0.05
+loudness: -12.951
+mode: 0
+mode_confidence: 0.395
+release: Things Falling Apart
+release_7digitalid: 15567
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (888,)
+segments_loudness_max: shape = (888,)
+segments_loudness_max_time: shape = (888,)
+segments_loudness_start: shape = (888,)
+segments_pitches: shape = (888, 12)
+segments_start: shape = (888,)
+segments_timbre: shape = (888, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.635536648623
+song_id: SOKBBXO12A6701DEA0
+start_of_fade_out: 399.9
+tatums_confidence: shape = (888,)
+tatums_start: shape = (888,)
+tempo: 63.017
+time_signature: 4
+time_signature_confidence: 0.378
+title: Metal
+track_7digitalid: 163543
+track_id: TRAAGEC128E079252C
+year: 2000

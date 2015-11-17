@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16825
+artist_familiarity: 0.528736353332
+artist_hotttnesss: 0.321366996762
+artist_id: AR2BBHS1187FB4AE06
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 43988f1b-d49c-4959-a80f-83ded3a321d6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jeff Beck Group
+artist_playmeid: 12660
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: e14783a1320f0b7013d1573bd145b9b2
+bars_confidence: shape = (1003,)
+bars_start: shape = (1003,)
+beats_confidence: shape = (1003,)
+beats_start: shape = (1003,)
+danceability: 0.0
+duration: 367.46404
+end_of_fade_in: 2.676
+energy: 0.0
+key: 0
+key_confidence: 0.555
+loudness: -12.569
+mode: 1
+mode_confidence: 0.333
+release: Original Album Classics
+release_7digitalid: 280787
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1440,)
+segments_loudness_max: shape = (1440,)
+segments_loudness_max_time: shape = (1440,)
+segments_loudness_start: shape = (1440,)
+segments_pitches: shape = (1440, 12)
+segments_start: shape = (1440,)
+segments_timbre: shape = (1440, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.284327695974
+song_id: SOCXWVO12A58A7E7C6
+start_of_fade_out: 335.43
+tatums_confidence: shape = (2007,)
+tatums_start: shape = (2007,)
+tempo: 159.415
+time_signature: 1
+time_signature_confidence: 0.0
+title: Jody
+track_7digitalid: 3134230
+track_id: TRAHOSP128F4260E9B
+year: 1971

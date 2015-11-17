@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12061
+artist_familiarity: 0.5814752193
+artist_hotttnesss: 0.292662773044
+artist_id: AR05IU31187B9B9A1A
+artist_latitude: 42.84751
+artist_location: Vitoria, Spain
+artist_longitude: -2.67973
+artist_mbid: 38e3d9bd-5ff2-47f2-8519-52bf7572dd1c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Alex Ubago
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: d741c106a5f5e5d07f1408daa232f286
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (408,)
+beats_start: shape = (408,)
+danceability: 0.0
+duration: 186.09587
+end_of_fade_in: 0.218
+energy: 0.0
+key: 7
+key_confidence: 0.459
+loudness: -5.274
+mode: 1
+mode_confidence: 0.568
+release: Calle ilusion
+release_7digitalid: 628299
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (528,)
+segments_loudness_max: shape = (528,)
+segments_loudness_max_time: shape = (528,)
+segments_loudness_start: shape = (528,)
+segments_pitches: shape = (528, 12)
+segments_start: shape = (528,)
+segments_timbre: shape = (528, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOBEBCP12AB0182AEE
+start_of_fade_out: 174.585
+tatums_confidence: shape = (817,)
+tatums_start: shape = (817,)
+tempo: 135.016
+time_signature: 4
+time_signature_confidence: 0.529
+title: Ciudad desierta
+track_7digitalid: 6973697
+track_id: TRBAZKT128F931F671
+year: 2009

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4931
+artist_familiarity: 0.470414613683
+artist_hotttnesss: 0.310298996385
+artist_id: ARU2JAB1187FB50C72
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ea7e2bb8-bfb5-4307-a4c5-68df453de287
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: David Meece
+artist_playmeid: 37004
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 13c42f8e51984b819693906597099e88
+bars_confidence: shape = (58,)
+bars_start: shape = (58,)
+beats_confidence: shape = (294,)
+beats_start: shape = (294,)
+danceability: 0.0
+duration: 211.17342
+end_of_fade_in: 4.116
+energy: 0.0
+key: 11
+key_confidence: 0.746
+loudness: -13.506
+mode: 0
+mode_confidence: 0.754
+release: David
+release_7digitalid: 773851
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (600,)
+segments_loudness_max: shape = (600,)
+segments_loudness_max_time: shape = (600,)
+segments_loudness_start: shape = (600,)
+segments_pitches: shape = (600, 12)
+segments_start: shape = (600,)
+segments_timbre: shape = (600, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOPYZWR12AB0187A36
+start_of_fade_out: 203.72
+tatums_confidence: shape = (880,)
+tatums_start: shape = (880,)
+tempo: 81.404
+time_signature: 4
+time_signature_confidence: 0.153
+title: Touch My Hand [Remastered]
+track_7digitalid: 8564526
+track_id: TRAJHFZ12903CE3121
+year: 0

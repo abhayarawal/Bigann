@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21381
+artist_familiarity: 0.720823971709
+artist_hotttnesss: 0.437464553695
+artist_id: AR9JNFU1187B9B9868
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fc63a914-272d-4b95-9221-61adcce6f793
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Gal Costa
+artist_playmeid: 5748
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 6a4db5f176b30ec35912cacfcd5b9bce
+bars_confidence: shape = (336,)
+bars_start: shape = (336,)
+beats_confidence: shape = (336,)
+beats_start: shape = (336,)
+danceability: 0.0
+duration: 171.85914
+end_of_fade_in: 0.258
+energy: 0.0
+key: 0
+key_confidence: 0.642
+loudness: -10.874
+mode: 1
+mode_confidence: 0.442
+release: Aquarela Do Brasil
+release_7digitalid: 424639
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (680,)
+segments_loudness_max: shape = (680,)
+segments_loudness_max_time: shape = (680,)
+segments_loudness_start: shape = (680,)
+segments_pitches: shape = (680, 12)
+segments_start: shape = (680,)
+segments_timbre: shape = (680, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSYHBX12A8C1417B8
+start_of_fade_out: 165.709
+tatums_confidence: shape = (673,)
+tatums_start: shape = (673,)
+tempo: 118.047
+time_signature: 1
+time_signature_confidence: 0.0
+title: Camisa Amarela
+track_7digitalid: 4736367
+track_id: TRARBYC128F92CEF3C
+year: 1980

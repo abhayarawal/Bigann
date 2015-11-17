@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7338
+artist_familiarity: 0.905776888666
+artist_hotttnesss: 0.598458500982
+artist_id: ARK9TRQ1187B99C095
+artist_latitude: 41.50471
+artist_location: Cleveland, OH
+artist_longitude: -81.69074
+artist_mbid: b7ffd2af-418f-4be2-bdd1-22f8b48613da
+artist_mbtags: shape = (12,)
+artist_mbtags_count: shape = (12,)
+artist_name: Nine Inch Nails
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 5b4d35b31ece90b927c4513203d749b4
+bars_confidence: shape = (91,)
+bars_start: shape = (91,)
+beats_confidence: shape = (372,)
+beats_start: shape = (372,)
+danceability: 0.0
+duration: 168.56771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.576
+loudness: -16.968
+mode: 0
+mode_confidence: 0.621
+release: Things Falling Apart
+release_7digitalid: 15567
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (524,)
+segments_loudness_max: shape = (524,)
+segments_loudness_max_time: shape = (524,)
+segments_loudness_start: shape = (524,)
+segments_pitches: shape = (524, 12)
+segments_start: shape = (524,)
+segments_timbre: shape = (524, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKIGWD12A6701DE9D
+start_of_fade_out: 159.637
+tatums_confidence: shape = (744,)
+tatums_start: shape = (744,)
+tempo: 130.284
+time_signature: 4
+time_signature_confidence: 0.706
+title: The Frail
+track_7digitalid: 163540
+track_id: TRAANTZ128E0792529
+year: 1999

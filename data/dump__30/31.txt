@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7550
+artist_familiarity: 0.693287838551
+artist_hotttnesss: 0.393274491405
+artist_id: ARMPQIE1187FB3D4EB
+artist_latitude: nan
+artist_location: Kingston, Jamaica
+artist_longitude: nan
+artist_mbid: 42c7542e-71d1-488a-ba2f-9a368c9147f2
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Bounty Killer
+artist_playmeid: 34166
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 58c133abba23e55913458f3d614a7ef3
+bars_confidence: shape = (130,)
+bars_start: shape = (130,)
+beats_confidence: shape = (523,)
+beats_start: shape = (523,)
+danceability: 0.0
+duration: 221.70077
+end_of_fade_in: 2.711
+energy: 0.0
+key: 9
+key_confidence: 0.784
+loudness: -8.043
+mode: 1
+mode_confidence: 0.56
+release: Jamaica's Most Wanted
+release_7digitalid: 302580
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (974,)
+segments_loudness_max: shape = (974,)
+segments_loudness_max_time: shape = (974,)
+segments_loudness_start: shape = (974,)
+segments_pitches: shape = (974, 12)
+segments_start: shape = (974,)
+segments_timbre: shape = (974, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKOMCI12A8C13D445
+start_of_fade_out: 216.863
+tatums_confidence: shape = (1046,)
+tatums_start: shape = (1046,)
+tempo: 142.749
+time_signature: 4
+time_signature_confidence: 0.572
+title: Coppershot
+track_7digitalid: 3403076
+track_id: TRAKFWY128F429DA3D
+year: 2001

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12809
+artist_familiarity: 0.684894722924
+artist_hotttnesss: 0.511526435079
+artist_id: ARHPPJK1187B9AC897
+artist_latitude: nan
+artist_location: Glasgow, Scotland
+artist_longitude: nan
+artist_mbid: e6f8912b-7df9-4aae-b551-2cd03dc29588
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Teenage Fanclub
+artist_playmeid: 19870
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: c4d0efbc4f6b7154af28bf0ecae433ab
+bars_confidence: shape = (130,)
+bars_start: shape = (130,)
+beats_confidence: shape = (523,)
+beats_start: shape = (523,)
+danceability: 0.0
+duration: 266.89261
+end_of_fade_in: 0.195
+energy: 0.0
+key: 4
+key_confidence: 0.463
+loudness: -8.198
+mode: 0
+mode_confidence: 0.509
+release: Four Thousand_ Seven Hundred and Seventy seconds; A Shortcut to Teenage Fanclub
+release_7digitalid: 278824
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1024,)
+segments_loudness_max: shape = (1024,)
+segments_loudness_max_time: shape = (1024,)
+segments_loudness_start: shape = (1024,)
+segments_pitches: shape = (1024, 12)
+segments_start: shape = (1024,)
+segments_timbre: shape = (1024, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.518310319321
+song_id: SOPLZYS12A8AE48DE6
+start_of_fade_out: 259.164
+tatums_confidence: shape = (1047,)
+tatums_start: shape = (1047,)
+tempo: 120.271
+time_signature: 4
+time_signature_confidence: 0.888
+title: The World'll Be OK
+track_7digitalid: 3105179
+track_id: TRAKQKT128F4259E25
+year: 2003

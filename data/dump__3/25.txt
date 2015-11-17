@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 193376
+artist_familiarity: 0.480752276169
+artist_hotttnesss: 0.417593317281
+artist_id: AROGWRA122988FEE45
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Christos Dantis
+artist_playmeid: 28246
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 8cdae5c8a1a0f14785bd1a98b1d644fa
+bars_confidence: shape = (132,)
+bars_start: shape = (132,)
+beats_confidence: shape = (531,)
+beats_start: shape = (531,)
+danceability: 0.0
+duration: 243.82649
+end_of_fade_in: 2.798
+energy: 0.0
+key: 5
+key_confidence: 0.126
+loudness: -10.957
+mode: 0
+mode_confidence: 0.293
+release: Daktilika Apotipomata
+release_7digitalid: 281563
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (894,)
+segments_loudness_max: shape = (894,)
+segments_loudness_max_time: shape = (894,)
+segments_loudness_start: shape = (894,)
+segments_pitches: shape = (894, 12)
+segments_start: shape = (894,)
+segments_timbre: shape = (894, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSLAVG12A8C13397F
+start_of_fade_out: 229.32
+tatums_confidence: shape = (1062,)
+tatums_start: shape = (1062,)
+tempo: 133.339
+time_signature: 4
+time_signature_confidence: 0.82
+title: Den Pai Alo
+track_7digitalid: 3140837
+track_id: TRABATO128F42627E9
+year: 0

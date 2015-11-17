@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41517
+artist_familiarity: 0.695421644696
+artist_hotttnesss: 0.455537721976
+artist_id: AR3Q86S1187B9ADDCF
+artist_latitude: nan
+artist_location: Lille, Nord-Pas-de-Calais, France
+artist_longitude: nan
+artist_mbid: 67468e38-0c90-4318-b2d2-0c18b7b1e144
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Deep Forest
+artist_playmeid: 10007
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 9731606ec51ac27306836b8823c489ef
+bars_confidence: shape = (219,)
+bars_start: shape = (219,)
+beats_confidence: shape = (659,)
+beats_start: shape = (659,)
+danceability: 0.0
+duration: 301.06077
+end_of_fade_in: 2.786
+energy: 0.0
+key: 1
+key_confidence: 0.736
+loudness: -8.688
+mode: 0
+mode_confidence: 0.797
+release: Made In Japan
+release_7digitalid: 284637
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1151,)
+segments_loudness_max: shape = (1151,)
+segments_loudness_max_time: shape = (1151,)
+segments_loudness_start: shape = (1151,)
+segments_pitches: shape = (1151, 12)
+segments_start: shape = (1151,)
+segments_timbre: shape = (1151, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEQGVM12A8C132AB5
+start_of_fade_out: 284.398
+tatums_confidence: shape = (1977,)
+tatums_start: shape = (1977,)
+tempo: 133.392
+time_signature: 3
+time_signature_confidence: 0.775
+title: Madazulu
+track_7digitalid: 3183177
+track_id: TRAFYVC128F4268F8B
+year: 1997

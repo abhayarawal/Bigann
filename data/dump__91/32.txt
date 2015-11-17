@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23824
+artist_familiarity: 0.686720833772
+artist_hotttnesss: 0.408091818588
+artist_id: ARSYOWS1187FB41157
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: ca3bea8d-1882-4b26-b8bf-db9916d2686d
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Rascals
+artist_playmeid: 3048
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: ab9ef2214d8976e4c923d51ce9e56f5e
+bars_confidence: shape = (64,)
+bars_start: shape = (64,)
+beats_confidence: shape = (209,)
+beats_start: shape = (209,)
+danceability: 0.0
+duration: 168.56771
+end_of_fade_in: 0.624
+energy: 0.0
+key: 7
+key_confidence: 0.793
+loudness: -15.529
+mode: 1
+mode_confidence: 0.683
+release: Collections
+release_7digitalid: 34572
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (419,)
+segments_loudness_max: shape = (419,)
+segments_loudness_max_time: shape = (419,)
+segments_loudness_start: shape = (419,)
+segments_pitches: shape = (419, 12)
+segments_start: shape = (419,)
+segments_timbre: shape = (419, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOHYVKJ12A6D4F6FAC
+start_of_fade_out: 150.645
+tatums_confidence: shape = (418,)
+tatums_start: shape = (418,)
+tempo: 78.19
+time_signature: 3
+time_signature_confidence: 1.0
+title: No Love To Give (LP Version)
+track_7digitalid: 370205
+track_id: TRBFNFN128F1473A51
+year: 0

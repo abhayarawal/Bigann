@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10653
+artist_familiarity: 0.917863905848
+artist_hotttnesss: 0.908202619208
+artist_id: ARKU3Z61187FB51DCA
+artist_latitude: 13.11199
+artist_location: St Michael, Barbados 
+artist_longitude: -59.59895
+artist_mbid: 73e5e69d-3554-40d8-8516-00cb38737a1c
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Rihanna
+artist_playmeid: 2544
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 4cf8f43326feffbcb3aedf2a5e28ee21
+bars_confidence: shape = (150,)
+bars_start: shape = (150,)
+beats_confidence: shape = (604,)
+beats_start: shape = (604,)
+danceability: 0.0
+duration: 283.8722
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.021
+loudness: -4.465
+mode: 0
+mode_confidence: 0.309
+release: Just Dance
+release_7digitalid: 687382
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1431,)
+segments_loudness_max: shape = (1431,)
+segments_loudness_max_time: shape = (1431,)
+segments_loudness_start: shape = (1431,)
+segments_pitches: shape = (1431, 12)
+segments_start: shape = (1431,)
+segments_timbre: shape = (1431, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMTXLN12AB018977B
+start_of_fade_out: 283.872
+tatums_confidence: shape = (1208,)
+tatums_start: shape = (1208,)
+tempo: 128.092
+time_signature: 4
+time_signature_confidence: 0.0
+title: Don't Stop The Music
+track_7digitalid: 7632404
+track_id: TRADDXS12903CEDB38
+year: 2007

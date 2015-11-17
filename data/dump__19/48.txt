@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 88247
+artist_familiarity: 0.592797346267
+artist_hotttnesss: 0.453629718069
+artist_id: AR20BO61187B9B880E
+artist_latitude: 36.83264
+artist_location: Portsmouth, VA
+artist_longitude: -76.29771
+artist_mbid: d9562589-942d-4971-a030-77df0503366d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Patton Oswalt
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: e8fa907a63dd7ee4a87fccd5aabbfc09
+bars_confidence: shape = (44,)
+bars_start: shape = (44,)
+beats_confidence: shape = (154,)
+beats_start: shape = (154,)
+danceability: 0.0
+duration: 121.96526
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.345
+loudness: -13.322
+mode: 0
+mode_confidence: 0.341
+release: Feelin' Kinda Patton
+release_7digitalid: 271629
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (528,)
+segments_loudness_max: shape = (528,)
+segments_loudness_max_time: shape = (528,)
+segments_loudness_start: shape = (528,)
+segments_pitches: shape = (528, 12)
+segments_start: shape = (528,)
+segments_timbre: shape = (528, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.509640965552
+song_id: SOAFUPM12A6D4FD26F
+start_of_fade_out: 116.796
+tatums_confidence: shape = (464,)
+tatums_start: shape = (464,)
+tempo: 75.669
+time_signature: 3
+time_signature_confidence: 0.665
+title: A Brief History of Shitty Comedy
+track_7digitalid: 3022260
+track_id: TRAGPMS128F4248295
+year: 2004

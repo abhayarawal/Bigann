@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 191182
+artist_familiarity: 0.468449345331
+artist_hotttnesss: 0.307195017828
+artist_id: ARMZ4SJ1187FB4657B
+artist_latitude: nan
+artist_location: Finglas, Ireland
+artist_longitude: nan
+artist_mbid: f18ee68b-19b0-4b18-8a91-e7c98ee4fab1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Séamus Ennis
+artist_playmeid: 201345
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: de9a55e11a12182d5515b2c5c252f002
+bars_confidence: shape = (165,)
+bars_start: shape = (165,)
+beats_confidence: shape = (668,)
+beats_start: shape = (668,)
+danceability: 0.0
+duration: 249.73016
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.747
+loudness: -16.808
+mode: 1
+mode_confidence: 0.712
+release: The Wandering Minstrel
+release_7digitalid: 648542
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (816,)
+segments_loudness_max: shape = (816,)
+segments_loudness_max_time: shape = (816,)
+segments_loudness_start: shape = (816,)
+segments_pitches: shape = (816, 12)
+segments_start: shape = (816,)
+segments_timbre: shape = (816, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJHKKJ12AB0182FBA
+start_of_fade_out: 244.123
+tatums_confidence: shape = (668,)
+tatums_start: shape = (668,)
+tempo: 162.356
+time_signature: 4
+time_signature_confidence: 0.721
+title: The Little Stack Of Barley / Cronin's Hornpipe
+track_7digitalid: 7185589
+track_id: TRBICCR128F9352E4F
+year: 0

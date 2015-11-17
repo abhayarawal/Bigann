@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 121649
+artist_familiarity: 0.580461349629
+artist_hotttnesss: 0.392141936436
+artist_id: ARB0OOC1187B98B2C4
+artist_latitude: nan
+artist_location: Mass. - Boston
+artist_longitude: nan
+artist_mbid: f106b6fd-55cd-487d-8d66-2e5db08278bb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lily Holbrook
+artist_playmeid: 113776
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 1e32f2ea6f60b1e271b31a688e50119a
+bars_confidence: shape = (479,)
+bars_start: shape = (479,)
+beats_confidence: shape = (479,)
+beats_start: shape = (479,)
+danceability: 0.0
+duration: 242.83383
+end_of_fade_in: 0.264
+energy: 0.0
+key: 11
+key_confidence: 0.775
+loudness: -9.823
+mode: 1
+mode_confidence: 0.691
+release: Wicked Ways
+release_7digitalid: 409123
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (684,)
+segments_loudness_max: shape = (684,)
+segments_loudness_max_time: shape = (684,)
+segments_loudness_start: shape = (684,)
+segments_pitches: shape = (684, 12)
+segments_start: shape = (684,)
+segments_timbre: shape = (684, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZPSZK12AB0187881
+start_of_fade_out: 232.571
+tatums_confidence: shape = (958,)
+tatums_start: shape = (958,)
+tempo: 118.268
+time_signature: 1
+time_signature_confidence: 0.292
+title: Smoke Screen
+track_7digitalid: 4551205
+track_id: TRADQPB128F931A603
+year: 0

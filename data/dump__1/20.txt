@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 72396
+artist_familiarity: 0.45871208976
+artist_hotttnesss: 0.335101424872
+artist_id: ARXFQDY1187B9AAF1E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f0226ffb-5d61-43f7-b77f-59131f89fba0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Miguel Gallardo
+artist_playmeid: 15333
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 5feac53d4a8ed2222fe88ce9d3c1c58f
+bars_confidence: shape = (122,)
+bars_start: shape = (122,)
+beats_confidence: shape = (493,)
+beats_start: shape = (493,)
+danceability: 0.0
+duration: 238.68036
+end_of_fade_in: 0.386
+energy: 0.0
+key: 5
+key_confidence: 0.458
+loudness: -12.991
+mode: 1
+mode_confidence: 0.542
+release: Canciones De Amor De Miguel Gallardo
+release_7digitalid: 514801
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (776,)
+segments_loudness_max: shape = (776,)
+segments_loudness_max_time: shape = (776,)
+segments_loudness_start: shape = (776,)
+segments_pitches: shape = (776, 12)
+segments_start: shape = (776,)
+segments_timbre: shape = (776, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSGJTX12AB0181F7C
+start_of_fade_out: 230.742
+tatums_confidence: shape = (987,)
+tatums_start: shape = (987,)
+tempo: 125.508
+time_signature: 4
+time_signature_confidence: 0.462
+title: Eternamente Amame
+track_7digitalid: 5700867
+track_id: TRAAILM128F93480BB
+year: 0

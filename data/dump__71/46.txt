@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 55728
+artist_familiarity: 0.727497337342
+artist_hotttnesss: 0.537267237341
+artist_id: ARTSGR41187B9912C6
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 171cbc8f-8ab3-4aec-9916-f0bdbe26bb79
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: W.A.S.P.
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: cd983f77e655e13419f274d7e12fd0e5
+bars_confidence: shape = (254,)
+bars_start: shape = (254,)
+beats_confidence: shape = (1021,)
+beats_start: shape = (1021,)
+danceability: 0.0
+duration: 426.78812
+end_of_fade_in: 0.235
+energy: 0.0
+key: 3
+key_confidence: 0.104
+loudness: -4.024
+mode: 1
+mode_confidence: 0.407
+release: The Crimson Idol
+release_7digitalid: 98257
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1235,)
+segments_loudness_max: shape = (1235,)
+segments_loudness_max_time: shape = (1235,)
+segments_loudness_start: shape = (1235,)
+segments_pitches: shape = (1235, 12)
+segments_start: shape = (1235,)
+segments_timbre: shape = (1235, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.51535717917
+song_id: SOKVNIC12A58A7B805
+start_of_fade_out: 422.255
+tatums_confidence: shape = (2042,)
+tatums_start: shape = (2042,)
+tempo: 144.252
+time_signature: 4
+time_signature_confidence: 0.0
+title: When The Levee Breaks
+track_7digitalid: 1021814
+track_id: TRAYLKH128F427BCCC
+year: 1992

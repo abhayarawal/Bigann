@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 540911
+artist_familiarity: 0.495112229045
+artist_hotttnesss: 0.249061810241
+artist_id: ARZMFXN11F50C476D0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Salieri
+artist_playmeid: -1
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 7ea870a6eca4cdbfc158b2c1d597ed57
+bars_confidence: shape = (109,)
+bars_start: shape = (109,)
+beats_confidence: shape = (336,)
+beats_start: shape = (336,)
+danceability: 0.0
+duration: 238.81098
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.526
+loudness: -20.865
+mode: 0
+mode_confidence: 0.681
+release: Electric Doorbells
+release_7digitalid: 725807
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (445,)
+segments_loudness_max: shape = (445,)
+segments_loudness_max_time: shape = (445,)
+segments_loudness_start: shape = (445,)
+segments_pitches: shape = (445, 12)
+segments_start: shape = (445,)
+segments_timbre: shape = (445, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCTYAI12AB018E0DA
+start_of_fade_out: 219.893
+tatums_confidence: shape = (671,)
+tatums_start: shape = (671,)
+tempo: 86.55
+time_signature: 3
+time_signature_confidence: 0.842
+title: Now everybody's gone
+track_7digitalid: 8043128
+track_id: TRAIFGE12903CDAD7B
+year: 0

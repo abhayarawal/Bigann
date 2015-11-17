@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 125706
+artist_familiarity: 0.49544592177
+artist_hotttnesss: 0.294861261887
+artist_id: ARDD1RC1187B9B52B4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5665cefe-8f12-4328-b66b-2f62644be484
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Jacob Young
+artist_playmeid: -1
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: ee563dc9b78a4d9f39edc3431f014093
+bars_confidence: shape = (167,)
+bars_start: shape = (167,)
+beats_confidence: shape = (675,)
+beats_start: shape = (675,)
+danceability: 0.0
+duration: 456.30649
+end_of_fade_in: 0.241
+energy: 0.0
+key: 1
+key_confidence: 0.611
+loudness: -19.478
+mode: 1
+mode_confidence: 0.546
+release: Pieces Of Time
+release_7digitalid: 730551
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (2072,)
+segments_loudness_max: shape = (2072,)
+segments_loudness_max_time: shape = (2072,)
+segments_loudness_start: shape = (2072,)
+segments_pitches: shape = (2072, 12)
+segments_start: shape = (2072,)
+segments_timbre: shape = (2072, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOOGFBZ12AC3DF7FF2
+start_of_fade_out: 451.315
+tatums_confidence: shape = (2701,)
+tatums_start: shape = (2701,)
+tempo: 89.667
+time_signature: 4
+time_signature_confidence: 0.747
+title: In A Subtle Way
+track_7digitalid: 8093189
+track_id: TRAADHS12903CE70A9
+year: 0

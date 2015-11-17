@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 311898
+artist_familiarity: 0.566661657956
+artist_hotttnesss: 0.418356680774
+artist_id: ARGE4J31187B9B41EE
+artist_latitude: 62.19845
+artist_location: Sweden
+artist_longitude: 17.55142
+artist_mbid: 1ade81bb-18b9-4060-81d9-9a2bfe342c7c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sofia Karlsson
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 9cc4fe4e3d310ee579eed1b1e7c84579
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (411,)
+beats_start: shape = (411,)
+danceability: 0.0
+duration: 172.93016
+end_of_fade_in: 0.351
+energy: 0.0
+key: 3
+key_confidence: 0.889
+loudness: -16.757
+mode: 1
+mode_confidence: 0.755
+release: Söder Om Kärleken
+release_7digitalid: 519413
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (650,)
+segments_loudness_max: shape = (650,)
+segments_loudness_max_time: shape = (650,)
+segments_loudness_start: shape = (650,)
+segments_pitches: shape = (650, 12)
+segments_start: shape = (650,)
+segments_timbre: shape = (650, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.466304830757
+song_id: SOBKZAH12AB01849A1
+start_of_fade_out: 161.402
+tatums_confidence: shape = (823,)
+tatums_start: shape = (823,)
+tempo: 152.338
+time_signature: 4
+time_signature_confidence: 0.025
+title: Andra sidan
+track_7digitalid: 5746769
+track_id: TRAZSIN128F9352D39
+year: 2009

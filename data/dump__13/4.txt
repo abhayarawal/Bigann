@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 337425
+artist_familiarity: 0.307211096291
+artist_hotttnesss: 0.138639716654
+artist_id: ARK71TS1187B9902B0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 20338184-f9b1-4aad-9493-b9042bf2f86b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gaiteros de Pillopo
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 3c62252f879cd878db24ac53dd23283b
+bars_confidence: shape = (736,)
+bars_start: shape = (736,)
+beats_confidence: shape = (736,)
+beats_start: shape = (736,)
+danceability: 0.0
+duration: 251.08853
+end_of_fade_in: 0.374
+energy: 0.0
+key: 9
+key_confidence: 0.561
+loudness: -8.173
+mode: 1
+mode_confidence: 0.52
+release: Las Mejores Gaitas Vol.3
+release_7digitalid: 455723
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1325,)
+segments_loudness_max: shape = (1325,)
+segments_loudness_max_time: shape = (1325,)
+segments_loudness_start: shape = (1325,)
+segments_pitches: shape = (1325, 12)
+segments_start: shape = (1325,)
+segments_timbre: shape = (1325, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.284457918882
+song_id: SOKAWBI12AB018277B
+start_of_fade_out: 245.359
+tatums_confidence: shape = (1473,)
+tatums_start: shape = (1473,)
+tempo: 179.665
+time_signature: 1
+time_signature_confidence: 0.0
+title: El Barbero
+track_7digitalid: 5068470
+track_id: TRAEIYU128F931BC4B
+year: 0

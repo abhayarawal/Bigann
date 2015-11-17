@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22086
+artist_familiarity: 0.529659330887
+artist_hotttnesss: 0.313112031835
+artist_id: AR08YJF1187B9B2D59
+artist_latitude: nan
+artist_location: Florida
+artist_longitude: nan
+artist_mbid: fe75adb0-a2bd-4e34-91d4-91974c4eab13
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Joe Turner
+artist_playmeid: 72114
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 541c58c4be427c15c6d9cb592da48313
+bars_confidence: shape = (76,)
+bars_start: shape = (76,)
+beats_confidence: shape = (241,)
+beats_start: shape = (241,)
+danceability: 0.0
+duration: 171.65016
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.619
+loudness: -20.075
+mode: 1
+mode_confidence: 0.624
+release: Diggin' Deeper Volume 3
+release_7digitalid: 315574
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (501,)
+segments_loudness_max: shape = (501,)
+segments_loudness_max_time: shape = (501,)
+segments_loudness_start: shape = (501,)
+segments_pitches: shape = (501, 12)
+segments_start: shape = (501,)
+segments_timbre: shape = (501, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZNTWU12A8C1453CF
+start_of_fade_out: 168.24
+tatums_confidence: shape = (482,)
+tatums_start: shape = (482,)
+tempo: 84.737
+time_signature: 3
+time_signature_confidence: 0.713
+title: Nobody In Mind
+track_7digitalid: 3568728
+track_id: TRAUHJH128F92CA20E
+year: 0

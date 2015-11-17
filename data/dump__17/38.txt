@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 25694
+artist_familiarity: 0.543936551885
+artist_hotttnesss: 0.430300279108
+artist_id: ARHBWOZ1187FB3FD53
+artist_latitude: nan
+artist_location: ITALY
+artist_longitude: nan
+artist_mbid: e6ff2839-5ccb-451b-b07e-f485bc143118
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Utopia
+artist_playmeid: 6721
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: d7cdecda566290e3901689a34bfe7ea6
+bars_confidence: shape = (612,)
+bars_start: shape = (612,)
+beats_confidence: shape = (612,)
+beats_start: shape = (612,)
+danceability: 0.0
+duration: 248.71138
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.0
+loudness: -9.95
+mode: 1
+mode_confidence: 0.234
+release: Swing To The Right
+release_7digitalid: 65481
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (807,)
+segments_loudness_max: shape = (807,)
+segments_loudness_max_time: shape = (807,)
+segments_loudness_start: shape = (807,)
+segments_pitches: shape = (807, 12)
+segments_start: shape = (807,)
+segments_timbre: shape = (807, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOMGNAS12A6D4FA805
+start_of_fade_out: 228.426
+tatums_confidence: shape = (1225,)
+tatums_start: shape = (1225,)
+tempo: 150.209
+time_signature: 1
+time_signature_confidence: 0.112
+title: The Up
+track_7digitalid: 682895
+track_id: TRAFXZW128F14B0914
+year: 0

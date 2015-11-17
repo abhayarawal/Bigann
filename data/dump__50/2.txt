@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 55652
+artist_familiarity: 0.446603328503
+artist_hotttnesss: 0.322070546982
+artist_id: ARE04031187B9AB97F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c3fe1c71-1f06-4cdd-aae0-105f89f5678a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ramy Ayach
+artist_playmeid: 144299
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 3e6bb21d5d20c061b0c1be38e4b34e2e
+bars_confidence: shape = (84,)
+bars_start: shape = (84,)
+beats_confidence: shape = (341,)
+beats_start: shape = (341,)
+danceability: 0.0
+duration: 239.80363
+end_of_fade_in: 3.75
+energy: 0.0
+key: 10
+key_confidence: 0.505
+loudness: -5.942
+mode: 0
+mode_confidence: 0.451
+release: Albi Mal
+release_7digitalid: 196623
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1078,)
+segments_loudness_max: shape = (1078,)
+segments_loudness_max_time: shape = (1078,)
+segments_loudness_start: shape = (1078,)
+segments_pitches: shape = (1078, 12)
+segments_start: shape = (1078,)
+segments_timbre: shape = (1078, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONXKIQ12A8C13292A
+start_of_fade_out: 224.885
+tatums_confidence: shape = (1367,)
+tatums_start: shape = (1367,)
+tempo: 88.015
+time_signature: 4
+time_signature_confidence: 0.567
+title: Heyya Heyya
+track_7digitalid: 2137043
+track_id: TRARAIG128F424DDCC
+year: 0

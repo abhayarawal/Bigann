@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10653
+artist_familiarity: 0.917863905848
+artist_hotttnesss: 0.908202619208
+artist_id: ARKU3Z61187FB51DCA
+artist_latitude: 13.11199
+artist_location: St Michael, Barbados 
+artist_longitude: -59.59895
+artist_mbid: 73e5e69d-3554-40d8-8516-00cb38737a1c
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Rihanna
+artist_playmeid: 2544
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: cb54a9ebfd24189fd0b54724ce80ecab
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (335,)
+beats_start: shape = (335,)
+danceability: 0.0
+duration: 235.98975
+end_of_fade_in: 0.125
+energy: 0.0
+key: 0
+key_confidence: 0.647
+loudness: -8.298
+mode: 1
+mode_confidence: 0.547
+release: Music Of The Sun
+release_7digitalid: 15269
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (954,)
+segments_loudness_max: shape = (954,)
+segments_loudness_max_time: shape = (954,)
+segments_loudness_start: shape = (954,)
+segments_pitches: shape = (954, 12)
+segments_start: shape = (954,)
+segments_timbre: shape = (954, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.668601100986
+song_id: SONQNPM12A67020A32
+start_of_fade_out: 230.023
+tatums_confidence: shape = (1341,)
+tatums_start: shape = (1341,)
+tempo: 85.976
+time_signature: 4
+time_signature_confidence: 0.973
+title: Music Of The Sun
+track_7digitalid: 159430
+track_id: TRAIYDL128E0791583
+year: 2005

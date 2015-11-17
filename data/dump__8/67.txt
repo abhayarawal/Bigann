@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 249776
+artist_familiarity: 0.515310233231
+artist_hotttnesss: 0.260796778253
+artist_id: ARPOPBQ11F4C83D36D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 987dbb5a-1593-4b83-8e42-fb6f3861154e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ Spinn
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: eb058e99a265ad70dad79727cab7faf8
+bars_confidence: shape = (163,)
+bars_start: shape = (163,)
+beats_confidence: shape = (503,)
+beats_start: shape = (503,)
+danceability: 0.0
+duration: 240.43057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.706
+loudness: -13.159
+mode: 0
+mode_confidence: 0.604
+release: Juke Trax Online Vol. 6
+release_7digitalid: 665359
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (945,)
+segments_loudness_max: shape = (945,)
+segments_loudness_max_time: shape = (945,)
+segments_loudness_start: shape = (945,)
+segments_pitches: shape = (945, 12)
+segments_start: shape = (945,)
+segments_timbre: shape = (945, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTVSQV12AB018767D
+start_of_fade_out: 228.426
+tatums_confidence: shape = (1006,)
+tatums_start: shape = (1006,)
+tempo: 120.231
+time_signature: 3
+time_signature_confidence: 1.0
+title: Bounce Back
+track_7digitalid: 7375915
+track_id: TRACWBD12903CAF664
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 304607
+artist_familiarity: 0.369988123815
+artist_hotttnesss: 0.261730129606
+artist_id: ARPTHEV123E29C17B3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d139d4d5-51fe-40d0-94b8-007786e1e346
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Flowin Immo et Les Freaqz
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: c5fce6738674c8665ad301a6377083b0
+bars_confidence: shape = (31,)
+bars_start: shape = (31,)
+beats_confidence: shape = (159,)
+beats_start: shape = (159,)
+danceability: 0.0
+duration: 185.10322
+end_of_fade_in: 2.496
+energy: 0.0
+key: 4
+key_confidence: 0.138
+loudness: -6.79
+mode: 0
+mode_confidence: 0.339
+release: Immoment
+release_7digitalid: 758701
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (521,)
+segments_loudness_max: shape = (521,)
+segments_loudness_max_time: shape = (521,)
+segments_loudness_start: shape = (521,)
+segments_pitches: shape = (521, 12)
+segments_start: shape = (521,)
+segments_timbre: shape = (521, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.299877488274
+song_id: SOETVON12AB0181732
+start_of_fade_out: 173.244
+tatums_confidence: shape = (636,)
+tatums_start: shape = (636,)
+tempo: 51.714
+time_signature: 4
+time_signature_confidence: 0.0
+title: Immonumental
+track_7digitalid: 8399493
+track_id: TRAHLDS12903CBADB8
+year: 2009

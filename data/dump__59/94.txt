@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 31097
+artist_familiarity: 0.466331054287
+artist_hotttnesss: 0.332749770049
+artist_id: ARFWZZD1187FB561F9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6a169ee3-d030-44cc-a77e-3217a2d8ee47
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Fureys
+artist_playmeid: 94256
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 7cb544a17b5d9a6a9b8ecd44f03fe2aa
+bars_confidence: shape = (149,)
+bars_start: shape = (149,)
+beats_confidence: shape = (449,)
+beats_start: shape = (449,)
+danceability: 0.0
+duration: 234.50077
+end_of_fade_in: 2.479
+energy: 0.0
+key: 4
+key_confidence: 0.782
+loudness: -20.58
+mode: 0
+mode_confidence: 0.665
+release: The Fureys Finest
+release_7digitalid: 611707
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (794,)
+segments_loudness_max: shape = (794,)
+segments_loudness_max_time: shape = (794,)
+segments_loudness_start: shape = (794,)
+segments_pitches: shape = (794, 12)
+segments_start: shape = (794,)
+segments_timbre: shape = (794, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEEQKB12A8C143340
+start_of_fade_out: 221.292
+tatums_confidence: shape = (899,)
+tatums_start: shape = (899,)
+tempo: 117.85
+time_signature: 3
+time_signature_confidence: 0.0
+title: The Lonesome Boatman
+track_7digitalid: 6800323
+track_id: TRAULZX128F92F5464
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 407965
+artist_familiarity: 0.49244072825
+artist_hotttnesss: 0.338946969158
+artist_id: ARY1K701187B9A43A9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a9f0fc9f-13a0-47aa-a7c3-f2d78013f7b6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Joe McBride
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: b63685bb432807fec68deb65a279655e
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (436,)
+beats_start: shape = (436,)
+danceability: 0.0
+duration: 262.76526
+end_of_fade_in: 0.183
+energy: 0.0
+key: 2
+key_confidence: 0.453
+loudness: -7.882
+mode: 1
+mode_confidence: 0.616
+release: Texas Hold'em
+release_7digitalid: 602374
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1268,)
+segments_loudness_max: shape = (1268,)
+segments_loudness_max_time: shape = (1268,)
+segments_loudness_start: shape = (1268,)
+segments_pitches: shape = (1268, 12)
+segments_start: shape = (1268,)
+segments_timbre: shape = (1268, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOICUVH12A58A76E9C
+start_of_fade_out: 252.61
+tatums_confidence: shape = (872,)
+tatums_start: shape = (872,)
+tempo: 99.99
+time_signature: 4
+time_signature_confidence: 0.913
+title: All In
+track_7digitalid: 6689934
+track_id: TRAWJYM12903CF5692
+year: 2005

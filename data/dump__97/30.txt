@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23839
+artist_familiarity: 0.530355667875
+artist_hotttnesss: 0.397179042592
+artist_id: ARVML4B1187FB52324
+artist_latitude: 40.73197
+artist_location: Newark, NJ
+artist_longitude: -74.17418
+artist_mbid: 410b8630-2fd5-4368-8a5b-dbc5e82f6b1c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Leroy Hutson
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 36b44510286acbe8a11abd15fb3ece77
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (358,)
+beats_start: shape = (358,)
+danceability: 0.0
+duration: 188.49914
+end_of_fade_in: 0.171
+energy: 0.0
+key: 10
+key_confidence: 0.375
+loudness: -14.822
+mode: 0
+mode_confidence: 0.464
+release: The Man!
+release_7digitalid: 34605
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (674,)
+segments_loudness_max: shape = (674,)
+segments_loudness_max_time: shape = (674,)
+segments_loudness_start: shape = (674,)
+segments_pitches: shape = (674, 12)
+segments_start: shape = (674,)
+segments_timbre: shape = (674, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.427446571488
+song_id: SOBRAEX12A6D4F8F86
+start_of_fade_out: 175.038
+tatums_confidence: shape = (715,)
+tatums_start: shape = (715,)
+tempo: 117.001
+time_signature: 4
+time_signature_confidence: 0.851
+title: Could This Be Love
+track_7digitalid: 370504
+track_id: TRBHLIH128F1473B78
+year: 1974

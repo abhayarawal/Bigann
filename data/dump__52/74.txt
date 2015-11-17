@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 115770
+artist_familiarity: 0.471612810183
+artist_hotttnesss: 0.291699079937
+artist_id: ARASWKT1187B9923B7
+artist_latitude: 38.62774
+artist_location: St. Louis, MO
+artist_longitude: -90.19951
+artist_mbid: 835b510b-73e6-4ce5-b878-9ab7941e0cd0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Felix Slatkin/Concert Arts Symphonic Band
+artist_playmeid: 66307
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: e623c5562df31d495b760dd08d250ec0
+bars_confidence: shape = (75,)
+bars_start: shape = (75,)
+beats_confidence: shape = (305,)
+beats_start: shape = (305,)
+danceability: 0.0
+duration: 151.17016
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.348
+loudness: -15.019
+mode: 1
+mode_confidence: 0.462
+release: The Military Band - Salute to the Services
+release_7digitalid: 154001
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (507,)
+segments_loudness_max: shape = (507,)
+segments_loudness_max_time: shape = (507,)
+segments_loudness_start: shape = (507,)
+segments_pitches: shape = (507, 12)
+segments_start: shape = (507,)
+segments_timbre: shape = (507, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSMUXL12A8C136808
+start_of_fade_out: 146.994
+tatums_confidence: shape = (609,)
+tatums_start: shape = (609,)
+tempo: 124.056
+time_signature: 4
+time_signature_confidence: 0.0
+title: Washington Post (1998 Digital Remaster)
+track_7digitalid: 1609336
+track_id: TRARZFN128F42680B8
+year: 0

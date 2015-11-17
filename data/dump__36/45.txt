@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10556
+artist_familiarity: 0.499904176051
+artist_hotttnesss: 0.351320974601
+artist_id: ARPQ9MD1187FB3D29A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 56b9d4e0-6319-4baa-a027-a7c65aeb3dab
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cheri Keaggy
+artist_playmeid: 62452
+artist_terms: shape = (52,)
+artist_terms_freq: shape = (52,)
+artist_terms_weight: shape = (52,)
+audio_md5: 0ae0da0cd91f7a027bf08ff048b479df
+bars_confidence: shape = (59,)
+bars_start: shape = (59,)
+beats_confidence: shape = (427,)
+beats_start: shape = (427,)
+danceability: 0.0
+duration: 262.24281
+end_of_fade_in: 0.473
+energy: 0.0
+key: 7
+key_confidence: 0.659
+loudness: -14.173
+mode: 1
+mode_confidence: 0.718
+release: Child of the Father
+release_7digitalid: 148610
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (660,)
+segments_loudness_max: shape = (660,)
+segments_loudness_max_time: shape = (660,)
+segments_loudness_start: shape = (660,)
+segments_pitches: shape = (660, 12)
+segments_start: shape = (660,)
+segments_timbre: shape = (660, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJMGIE12A8C137C14
+start_of_fade_out: 253.219
+tatums_confidence: shape = (854,)
+tatums_start: shape = (854,)
+tempo: 97.977
+time_signature: 7
+time_signature_confidence: 0.15
+title: The Cross That Bears His Name
+track_7digitalid: 1548829
+track_id: TRAMJTV128F425A5A4
+year: 1994

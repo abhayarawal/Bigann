@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 101614
+artist_familiarity: 0.619260604878
+artist_hotttnesss: 0.416935871661
+artist_id: ARXW2MN1187B9B8817
+artist_latitude: nan
+artist_location: New York, NY
+artist_longitude: nan
+artist_mbid: 9bb0ae46-c22c-499f-915f-9b4fc8d4f767
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: X-Ecutioners featuring Big Pun
+artist_playmeid: 8550
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 74173e95ad2407a2b34a65d2227a22f2
+bars_confidence: shape = (37,)
+bars_start: shape = (37,)
+beats_confidence: shape = (124,)
+beats_start: shape = (124,)
+danceability: 0.0
+duration: 65.72363
+end_of_fade_in: 2.775
+energy: 0.0
+key: 1
+key_confidence: 0.531
+loudness: -14.843
+mode: 1
+mode_confidence: 0.377
+release: Rap Life
+release_7digitalid: 284332
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (267,)
+segments_loudness_max: shape = (267,)
+segments_loudness_max_time: shape = (267,)
+segments_loudness_start: shape = (267,)
+segments_pitches: shape = (267, 12)
+segments_start: shape = (267,)
+segments_timbre: shape = (267, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODCBAD12A8C130BA2
+start_of_fade_out: 61.649
+tatums_confidence: shape = (248,)
+tatums_start: shape = (248,)
+tempo: 115.498
+time_signature: 3
+time_signature_confidence: 0.199
+title: The Drama (intro)
+track_7digitalid: 3182513
+track_id: TRBIEUL128F4268D07
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 24221
+artist_familiarity: 0.705491779875
+artist_hotttnesss: 0.393457111376
+artist_id: ARB0WNP1187B9AC4AB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 14aa9e32-c377-4dc6-9162-2e6c67a8eaf4
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Samy Deluxe
+artist_playmeid: 2345
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 37de631260900d18aba7f1b1c8231cab
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (337,)
+beats_start: shape = (337,)
+danceability: 0.0
+duration: 235.98975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.554
+loudness: -7.557
+mode: 1
+mode_confidence: 0.637
+release: Samy Deluxe
+release_7digitalid: 109835
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1211,)
+segments_loudness_max: shape = (1211,)
+segments_loudness_max_time: shape = (1211,)
+segments_loudness_start: shape = (1211,)
+segments_pitches: shape = (1211, 12)
+segments_start: shape = (1211,)
+segments_timbre: shape = (1211, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.620581548285
+song_id: SOLPFAE12A8C13AF2D
+start_of_fade_out: 233.72
+tatums_confidence: shape = (1349,)
+tatums_start: shape = (1349,)
+tempo: 85.865
+time_signature: 4
+time_signature_confidence: 0.651
+title: Die Meisten
+track_7digitalid: 1136696
+track_id: TRBIBKA128F42947BF
+year: 2001

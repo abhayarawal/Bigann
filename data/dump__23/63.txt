@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 74295
+artist_familiarity: 0.382082404828
+artist_hotttnesss: 0.290206823029
+artist_id: AR4UJ7O1187B994010
+artist_latitude: 34.30246
+artist_location: Darlington, SC
+artist_longitude: -79.87162
+artist_mbid: 62924f76-6c13-4e81-8c07-387acd278829
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Buddy Johnson
+artist_playmeid: 131501
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 8c29aa88164ff5d117cac264db9d9e31
+bars_confidence: shape = (193,)
+bars_start: shape = (193,)
+beats_confidence: shape = (193,)
+beats_start: shape = (193,)
+danceability: 0.0
+duration: 171.38893
+end_of_fade_in: 0.195
+energy: 0.0
+key: 1
+key_confidence: 0.693
+loudness: -10.03
+mode: 1
+mode_confidence: 0.571
+release: Jukebox Hits 1940-1951
+release_7digitalid: 93181
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (384,)
+segments_loudness_max: shape = (384,)
+segments_loudness_max_time: shape = (384,)
+segments_loudness_start: shape = (384,)
+segments_pitches: shape = (384, 12)
+segments_start: shape = (384,)
+segments_timbre: shape = (384, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORLQLI12A8C1373BB
+start_of_fade_out: 168.414
+tatums_confidence: shape = (386,)
+tatums_start: shape = (386,)
+tempo: 67.176
+time_signature: 1
+time_signature_confidence: 0.721
+title: Because - Part 1
+track_7digitalid: 996929
+track_id: TRAHZFG128F4275C87
+year: 0

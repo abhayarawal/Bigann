@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 88523
+artist_familiarity: 0.577508974325
+artist_hotttnesss: 0.37948217028
+artist_id: ARL7K851187B99ACD2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 572d6bb7-58cc-4a96-8e5c-58eae4739190
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Andy Andy
+artist_playmeid: 14303
+artist_terms: shape = (9,)
+artist_terms_freq: shape = (9,)
+artist_terms_weight: shape = (9,)
+audio_md5: 8f298a84c01d4892d820ff54104b7df8
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (485,)
+beats_start: shape = (485,)
+danceability: 0.0
+duration: 226.35057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.205
+loudness: -6.632
+mode: 1
+mode_confidence: 0.305
+release: Placer & Castigo
+release_7digitalid: 575792
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (971,)
+segments_loudness_max: shape = (971,)
+segments_loudness_max_time: shape = (971,)
+segments_loudness_start: shape = (971,)
+segments_pitches: shape = (971, 12)
+segments_start: shape = (971,)
+segments_timbre: shape = (971, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOMUYGI12AB0188633
+start_of_fade_out: 221.553
+tatums_confidence: shape = (971,)
+tatums_start: shape = (971,)
+tempo: 130.04
+time_signature: 4
+time_signature_confidence: 0.0
+title: La Culpa
+track_7digitalid: 6381162
+track_id: TRAABDL12903CAABBA
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8293
+artist_familiarity: 0.839275392927
+artist_hotttnesss: 0.550762084656
+artist_id: AR6XPWV1187B9ADAEB
+artist_latitude: nan
+artist_location: Seattle, WA
+artist_longitude: nan
+artist_mbid: 67f66c07-6e61-4026-ade5-7e782fad3a5d
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Foo Fighters
+artist_playmeid: 631
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 3315ac6b763729ae25c38de9af02c4c2
+bars_confidence: shape = (605,)
+bars_start: shape = (605,)
+beats_confidence: shape = (605,)
+beats_start: shape = (605,)
+danceability: 0.0
+duration: 287.99955
+end_of_fade_in: 0.334
+energy: 0.0
+key: 2
+key_confidence: 0.726
+loudness: -16.372
+mode: 1
+mode_confidence: 0.781
+release: Razor
+release_7digitalid: 307285
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (831,)
+segments_loudness_max: shape = (831,)
+segments_loudness_max_time: shape = (831,)
+segments_loudness_start: shape = (831,)
+segments_pitches: shape = (831, 12)
+segments_start: shape = (831,)
+segments_timbre: shape = (831, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVFDZT12A8C140710
+start_of_fade_out: 284.642
+tatums_confidence: shape = (1209,)
+tatums_start: shape = (1209,)
+tempo: 126.986
+time_signature: 1
+time_signature_confidence: 0.0
+title: Razor
+track_7digitalid: 3469739
+track_id: TRAFSGL128F42ADA3E
+year: 2005

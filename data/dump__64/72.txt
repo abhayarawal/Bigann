@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 368
+artist_familiarity: 0.743129776148
+artist_hotttnesss: 0.493566842697
+artist_id: ARXWAQQ1187B9AE954
+artist_latitude: nan
+artist_location: Newark, NJ
+artist_longitude: nan
+artist_mbid: 1f1f6737-b930-46fc-8d25-110bb99f7490
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Redman
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 13babf7784399b4d3184863210935d65
+bars_confidence: shape = (84,)
+bars_start: shape = (84,)
+beats_confidence: shape = (348,)
+beats_start: shape = (348,)
+danceability: 0.0
+duration: 209.84118
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.756
+loudness: -12.466
+mode: 0
+mode_confidence: 0.564
+release: Red Gone Wild
+release_7digitalid: 68737
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (817,)
+segments_loudness_max: shape = (817,)
+segments_loudness_max_time: shape = (817,)
+segments_loudness_start: shape = (817,)
+segments_pitches: shape = (817, 12)
+segments_start: shape = (817,)
+segments_timbre: shape = (817, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.599875581301
+song_id: SOCKIPJ12A67FFB378
+start_of_fade_out: 203.726
+tatums_confidence: shape = (696,)
+tatums_start: shape = (696,)
+tempo: 98.401
+time_signature: 4
+time_signature_confidence: 0.669
+title: Suicide
+track_7digitalid: 718667
+track_id: TRAWDLK128EF342E1E
+year: 2007

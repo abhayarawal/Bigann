@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13038
+artist_familiarity: 0.58547953975
+artist_hotttnesss: 0.364384924468
+artist_id: ARW63KF1187B98AC48
+artist_latitude: 46.71067
+artist_location: FR
+artist_longitude: 1.71819
+artist_mbid: 8b74c6be-1f8d-4893-8526-1be4a3686f7a
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Julien Clerc
+artist_playmeid: 61961
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 8861b70dad5928fce0784f8ab2c66df7
+bars_confidence: shape = (106,)
+bars_start: shape = (106,)
+beats_confidence: shape = (429,)
+beats_start: shape = (429,)
+danceability: 0.0
+duration: 266.29179
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.125
+loudness: -12.623
+mode: 1
+mode_confidence: 0.448
+release: Olympia 94
+release_7digitalid: 28667
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (669,)
+segments_loudness_max: shape = (669,)
+segments_loudness_max_time: shape = (669,)
+segments_loudness_start: shape = (669,)
+segments_pitches: shape = (669, 12)
+segments_start: shape = (669,)
+segments_timbre: shape = (669, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBWDGC12A6D4F8AFC
+start_of_fade_out: 266.292
+tatums_confidence: shape = (860,)
+tatums_start: shape = (860,)
+tempo: 97.007
+time_signature: 4
+time_signature_confidence: 0.352
+title: Ma Préférence (Live)
+track_7digitalid: 314586
+track_id: TRBFRYS128F1468FA5
+year: 1994

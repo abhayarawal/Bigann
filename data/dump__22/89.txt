@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 50607
+artist_familiarity: 0.838816273605
+artist_hotttnesss: 0.557755674779
+artist_id: AROSI8L1187B9ACD43
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: 1d11e2a1-4531-4d61-a8c7-7b5c6a608fd2
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Ice Cube
+artist_playmeid: 1836
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 48f03cfd0bc351eaf33c551aa4d9ac1d
+bars_confidence: shape = (71,)
+bars_start: shape = (71,)
+beats_confidence: shape = (290,)
+beats_start: shape = (290,)
+danceability: 0.0
+duration: 198.86975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.332
+loudness: -6.353
+mode: 1
+mode_confidence: 0.375
+release: The Predator (World) (Explicit)
+release_7digitalid: 109846
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (882,)
+segments_loudness_max: shape = (882,)
+segments_loudness_max_time: shape = (882,)
+segments_loudness_start: shape = (882,)
+segments_pitches: shape = (882, 12)
+segments_start: shape = (882,)
+segments_timbre: shape = (882, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.563246899281
+song_id: SOBHRGE12A8C13C81D
+start_of_fade_out: 198.87
+tatums_confidence: shape = (579,)
+tatums_start: shape = (579,)
+tempo: 87.102
+time_signature: 4
+time_signature_confidence: 0.831
+title: Gangsta's Fairytale 2 (Explicit)
+track_7digitalid: 1136838
+track_id: TRAHTOP128F429484D
+year: 0

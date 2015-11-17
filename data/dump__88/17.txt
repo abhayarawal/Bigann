@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41861
+artist_familiarity: 0.535492536483
+artist_hotttnesss: 0.443116873986
+artist_id: AR4SOKG1187B98D2B0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3be1c652-2e90-40e6-89ad-bcac62aab60f
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Geier Sturzflug
+artist_playmeid: -1
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 7c91a39cb08c87524574c3f5eca5874d
+bars_confidence: shape = (104,)
+bars_start: shape = (104,)
+beats_confidence: shape = (422,)
+beats_start: shape = (422,)
+danceability: 0.0
+duration: 211.35628
+end_of_fade_in: 0.601
+energy: 0.0
+key: 9
+key_confidence: 0.269
+loudness: -6.574
+mode: 1
+mode_confidence: 0.361
+release: Hör auf zu weinen
+release_7digitalid: 524634
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (795,)
+segments_loudness_max: shape = (795,)
+segments_loudness_max_time: shape = (795,)
+segments_loudness_start: shape = (795,)
+segments_pitches: shape = (795, 12)
+segments_start: shape = (795,)
+segments_timbre: shape = (795, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVZRSW12A8C141AFC
+start_of_fade_out: 204.957
+tatums_confidence: shape = (844,)
+tatums_start: shape = (844,)
+tempo: 120.985
+time_signature: 4
+time_signature_confidence: 0.298
+title: Wie ein Eisbär sein
+track_7digitalid: 5793779
+track_id: TRBEHHL128F92E90F5
+year: 0

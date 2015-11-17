@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30026
+artist_familiarity: 0.646527637191
+artist_hotttnesss: 0.333649140792
+artist_id: ARVKAWO11F50C47C9A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pentangle
+artist_playmeid: 74894
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 8c75ae5cc864294cc95f8976cba93689
+bars_confidence: shape = (47,)
+bars_start: shape = (47,)
+beats_confidence: shape = (354,)
+beats_start: shape = (354,)
+danceability: 0.0
+duration: 224.80934
+end_of_fade_in: 0.165
+energy: 0.0
+key: 7
+key_confidence: 0.011
+loudness: -15.567
+mode: 1
+mode_confidence: 0.289
+release: Solomon's Seal
+release_7digitalid: 415927
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (770,)
+segments_loudness_max: shape = (770,)
+segments_loudness_max_time: shape = (770,)
+segments_loudness_start: shape = (770,)
+segments_pitches: shape = (770, 12)
+segments_start: shape = (770,)
+segments_timbre: shape = (770, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.41373983586
+song_id: SOVURQM12A58A7EA86
+start_of_fade_out: 213.914
+tatums_confidence: shape = (709,)
+tatums_start: shape = (709,)
+tempo: 94.939
+time_signature: 7
+time_signature_confidence: 0.593
+title: The Snows
+track_7digitalid: 4628697
+track_id: TRAWXQB128F932BCA5
+year: 0

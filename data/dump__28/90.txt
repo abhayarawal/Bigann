@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10867
+artist_familiarity: 0.724813067812
+artist_hotttnesss: 0.477178833837
+artist_id: ARH9GD41187FB37E0F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 99298e13-87d6-4f0c-9334-d327d73f83c0
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Stephen Marley / Damian Marley
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 810da03f2ade20c21493114207ac420a
+bars_confidence: shape = (168,)
+bars_start: shape = (168,)
+beats_confidence: shape = (677,)
+beats_start: shape = (677,)
+danceability: 0.0
+duration: 247.17016
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.822
+loudness: -8.476
+mode: 1
+mode_confidence: 0.807
+release: Mind Control
+release_7digitalid: 485654
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1159,)
+segments_loudness_max: shape = (1159,)
+segments_loudness_max_time: shape = (1159,)
+segments_loudness_start: shape = (1159,)
+segments_pitches: shape = (1159, 12)
+segments_start: shape = (1159,)
+segments_timbre: shape = (1159, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.531580240678
+song_id: SOCSXBH12A58A78109
+start_of_fade_out: 235.253
+tatums_confidence: shape = (1355,)
+tatums_start: shape = (1355,)
+tempo: 165.886
+time_signature: 4
+time_signature_confidence: 1.0
+title: The Traffic Jam
+track_7digitalid: 5388246
+track_id: TRAJSHB128F92FCC80
+year: 2006

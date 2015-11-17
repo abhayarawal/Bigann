@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 60777
+artist_familiarity: 0.331828198038
+artist_hotttnesss: 0.236036153145
+artist_id: AR84BEJ1187FB58F65
+artist_latitude: 39.95227
+artist_location: Philadelphia, PA
+artist_longitude: -75.16237
+artist_mbid: 19ed316f-b1f2-4b6e-b6e4-31bbecb197b1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: David Raksin
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: ff434fe185ac5c712fc472dccaf282c4
+bars_confidence: shape = (53,)
+bars_start: shape = (53,)
+beats_confidence: shape = (171,)
+beats_start: shape = (171,)
+danceability: 0.0
+duration: 141.40036
+end_of_fade_in: 2.467
+energy: 0.0
+key: 8
+key_confidence: 0.738
+loudness: -12.981
+mode: 1
+mode_confidence: 0.639
+release: Hollywood Screen Gems - Vol 1
+release_7digitalid: 530333
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (275,)
+segments_loudness_max: shape = (275,)
+segments_loudness_max_time: shape = (275,)
+segments_loudness_start: shape = (275,)
+segments_pitches: shape = (275, 12)
+segments_start: shape = (275,)
+segments_timbre: shape = (275, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLSWAC12AAF3B5258
+start_of_fade_out: 137.543
+tatums_confidence: shape = (342,)
+tatums_start: shape = (342,)
+tempo: 73.961
+time_signature: 3
+time_signature_confidence: 0.761
+title: The Bad And The Beautiful
+track_7digitalid: 5859717
+track_id: TRAPWGW128F92F8F7C
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 88849
+artist_familiarity: 0.482212869992
+artist_hotttnesss: 0.374531255441
+artist_id: ARCRR5X1187FB3BD4A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 753e60ac-cfec-47e7-b1a6-d116cfd31050
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Elva Hsiao
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 00f790fdd39332447a23f805cdff3a1c
+bars_confidence: shape = (160,)
+bars_start: shape = (160,)
+beats_confidence: shape = (646,)
+beats_start: shape = (646,)
+danceability: 0.0
+duration: 287.92118
+end_of_fade_in: 0.826
+energy: 0.0
+key: 1
+key_confidence: 0.806
+loudness: -6.916
+mode: 1
+mode_confidence: 0.862
+release: The Fifth Ave
+release_7digitalid: 277276
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (841,)
+segments_loudness_max: shape = (841,)
+segments_loudness_max_time: shape = (841,)
+segments_loudness_start: shape = (841,)
+segments_pitches: shape = (841, 12)
+segments_start: shape = (841,)
+segments_timbre: shape = (841, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORVOHB12A81C24347
+start_of_fade_out: 278.338
+tatums_confidence: shape = (1293,)
+tatums_start: shape = (1293,)
+tempo: 135.778
+time_signature: 4
+time_signature_confidence: 0.389
+title: Shi Qu Ni
+track_7digitalid: 3089885
+track_id: TRAHZBL128F4256274
+year: 0

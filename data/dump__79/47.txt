@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19078
+artist_familiarity: 0.46359371862
+artist_hotttnesss: 0.36773193521
+artist_id: AR6KK741187B98C9E9
+artist_latitude: nan
+artist_location: New Orleans, LA
+artist_longitude: nan
+artist_mbid: d3e79557-c278-40b6-89e6-ab8dc830b392
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Roy Brown
+artist_playmeid: 32286
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: ebf5516a6d27cffd926770888a805eda
+bars_confidence: shape = (145,)
+bars_start: shape = (145,)
+beats_confidence: shape = (583,)
+beats_start: shape = (583,)
+danceability: 0.0
+duration: 227.082
+end_of_fade_in: 0.473
+energy: 0.0
+key: 0
+key_confidence: 0.602
+loudness: -15.525
+mode: 1
+mode_confidence: 0.361
+release: Good Rockin' Tonight - Live In San Francisco
+release_7digitalid: 161800
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (924,)
+segments_loudness_max: shape = (924,)
+segments_loudness_max_time: shape = (924,)
+segments_loudness_start: shape = (924,)
+segments_pitches: shape = (924, 12)
+segments_start: shape = (924,)
+segments_timbre: shape = (924, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.503381236206
+song_id: SOVASWH12A8C13E3CE
+start_of_fade_out: 214.727
+tatums_confidence: shape = (1166,)
+tatums_start: shape = (1166,)
+tempo: 157.087
+time_signature: 4
+time_signature_confidence: 0.0
+title: Good Rocking Tonight
+track_7digitalid: 1712981
+track_id: TRBBEJC128F4281471
+year: 0

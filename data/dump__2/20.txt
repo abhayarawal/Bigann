@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 173858
+artist_familiarity: 0.441049960184
+artist_hotttnesss: 0.353000688284
+artist_id: ARSF4161187B9B449F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 52781c26-6a8c-4326-a825-64f7b2898bb0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Gone Jackals
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: ea343fceb0456325bc1f8e9f21638722
+bars_confidence: shape = (169,)
+bars_start: shape = (169,)
+beats_confidence: shape = (510,)
+beats_start: shape = (510,)
+danceability: 0.0
+duration: 229.79873
+end_of_fade_in: 0.205
+energy: 0.0
+key: 4
+key_confidence: 0.685
+loudness: -12.772
+mode: 1
+mode_confidence: 0.418
+release: Bone To Pick
+release_7digitalid: 457879
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (707,)
+segments_loudness_max: shape = (707,)
+segments_loudness_max_time: shape = (707,)
+segments_loudness_start: shape = (707,)
+segments_pitches: shape = (707, 12)
+segments_start: shape = (707,)
+segments_timbre: shape = (707, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.495293621292
+song_id: SOTWWBZ12AB01845E0
+start_of_fade_out: 226.441
+tatums_confidence: shape = (1531,)
+tatums_start: shape = (1531,)
+tempo: 135.175
+time_signature: 3
+time_signature_confidence: 0.639
+title: Not Buried Deep Enough
+track_7digitalid: 5096765
+track_id: TRAAQUC128F9322A82
+year: 1995

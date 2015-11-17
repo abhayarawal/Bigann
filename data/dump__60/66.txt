@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 147989
+artist_familiarity: 0.587827035652
+artist_hotttnesss: 0.379980017386
+artist_id: AR6G29T1187B9A99F9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 543edda0-d61e-4698-97fa-1f34a1322d20
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: KMD
+artist_playmeid: 76907
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: ccb3af13ec7aa030749f1b7b4b882350
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (472,)
+beats_start: shape = (472,)
+danceability: 0.0
+duration: 239.12444
+end_of_fade_in: 0.218
+energy: 0.0
+key: 4
+key_confidence: 1.0
+loudness: -10.877
+mode: 1
+mode_confidence: 0.721
+release: KMD And The Rave
+release_7digitalid: 493686
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1038,)
+segments_loudness_max: shape = (1038,)
+segments_loudness_max_time: shape = (1038,)
+segments_loudness_start: shape = (1038,)
+segments_pitches: shape = (1038, 12)
+segments_start: shape = (1038,)
+segments_timbre: shape = (1038, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWMHFS12AB017F85E
+start_of_fade_out: 231.648
+tatums_confidence: shape = (1888,)
+tatums_start: shape = (1888,)
+tempo: 119.961
+time_signature: 4
+time_signature_confidence: 0.908
+title: Change Your Mind
+track_7digitalid: 5468599
+track_id: TRAUSKE128F930FB12
+year: 0

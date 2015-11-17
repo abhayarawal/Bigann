@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7699
+artist_familiarity: 0.547035734168
+artist_hotttnesss: 0.365686606035
+artist_id: ARTM0RS1187B9A0BE6
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2d5fbbfd-27a7-4b74-848a-2b1f24fa1d0a
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Super Cat
+artist_playmeid: 13583
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: cd444b58b63ea41028e788dd09f96c24
+bars_confidence: shape = (140,)
+bars_start: shape = (140,)
+beats_confidence: shape = (566,)
+beats_start: shape = (566,)
+danceability: 0.0
+duration: 215.66649
+end_of_fade_in: 0.107
+energy: 0.0
+key: 6
+key_confidence: 0.035
+loudness: -7.616
+mode: 1
+mode_confidence: 0.473
+release: Don Dada
+release_7digitalid: 282237
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1130,)
+segments_loudness_max: shape = (1130,)
+segments_loudness_max_time: shape = (1130,)
+segments_loudness_start: shape = (1130,)
+segments_pitches: shape = (1130, 12)
+segments_start: shape = (1130,)
+segments_timbre: shape = (1130, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.484562529968
+song_id: SOGTFWG12A8C1323A7
+start_of_fade_out: 206.617
+tatums_confidence: shape = (1131,)
+tatums_start: shape = (1131,)
+tempo: 157.5
+time_signature: 4
+time_signature_confidence: 0.416
+title: Them No Care
+track_7digitalid: 3142041
+track_id: TRAYMYA128F4262C9D
+year: 1992

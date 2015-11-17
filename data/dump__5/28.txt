@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 97869
+artist_familiarity: 0.63444171315
+artist_hotttnesss: 0.423117944352
+artist_id: ARSTSEH121318C5B01
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1381fb68-36f1-47da-819e-0f65e5010234
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Siouxsie
+artist_playmeid: -1
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: fb91ee2fce4f7fd8ef0bb96d60d30383
+bars_confidence: shape = (111,)
+bars_start: shape = (111,)
+beats_confidence: shape = (447,)
+beats_start: shape = (447,)
+danceability: 0.0
+duration: 234.55302
+end_of_fade_in: 1.042
+energy: 0.0
+key: 8
+key_confidence: 0.893
+loudness: -6.931
+mode: 1
+mode_confidence: 0.656
+release: Into A Swan
+release_7digitalid: 130556
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (789,)
+segments_loudness_max: shape = (789,)
+segments_loudness_max_time: shape = (789,)
+segments_loudness_start: shape = (789,)
+segments_pitches: shape = (789, 12)
+segments_start: shape = (789,)
+segments_timbre: shape = (789, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.590240597582
+song_id: SOVXNAP12A81C234AE
+start_of_fade_out: 226.267
+tatums_confidence: shape = (893,)
+tatums_start: shape = (893,)
+tempo: 115.033
+time_signature: 4
+time_signature_confidence: 0.0
+title: Into A Swan
+track_7digitalid: 1351361
+track_id: TRABSXW128F4233422
+year: 2007

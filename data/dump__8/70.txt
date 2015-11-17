@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 348531
+artist_familiarity: 0.495556565106
+artist_hotttnesss: 0.292648269784
+artist_id: AR573WK1187FB47167
+artist_latitude: 37.77916
+artist_location: san francisco
+artist_longitude: -122.42005
+artist_mbid: a73d2e6b-60b6-4ff2-9e17-15355ce2c5b9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Balustrade Ensemble
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 2957dc7ac25e0b868cae7cc5f4ff4565
+bars_confidence: shape = (183,)
+bars_start: shape = (183,)
+beats_confidence: shape = (553,)
+beats_start: shape = (553,)
+danceability: 0.0
+duration: 285.3873
+end_of_fade_in: 3.019
+energy: 0.0
+key: 2
+key_confidence: 0.014
+loudness: -17.057
+mode: 1
+mode_confidence: 0.319
+release: Capsules
+release_7digitalid: 470993
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (518,)
+segments_loudness_max: shape = (518,)
+segments_loudness_max_time: shape = (518,)
+segments_loudness_start: shape = (518,)
+segments_pitches: shape = (518, 12)
+segments_start: shape = (518,)
+segments_timbre: shape = (518, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAUAOA12AB018776D
+start_of_fade_out: 264.452
+tatums_confidence: shape = (1105,)
+tatums_start: shape = (1105,)
+tempo: 116.423
+time_signature: 3
+time_signature_confidence: 0.686
+title: Fall Away Into Darkness
+track_7digitalid: 5235278
+track_id: TRACWCG128F9344150
+year: 2007

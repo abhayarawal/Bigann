@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 89866
+artist_familiarity: 0.567800601258
+artist_hotttnesss: 0.373527170154
+artist_id: ARFAKQ01187B990163
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3e46f4da-eee2-455f-bb72-9ca83887e9e4
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Georges Delerue
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 73ec42a2b5d30964bb78a1040d36aef4
+bars_confidence: shape = (92,)
+bars_start: shape = (92,)
+beats_confidence: shape = (374,)
+beats_start: shape = (374,)
+danceability: 0.0
+duration: 130.66404
+end_of_fade_in: 0.553
+energy: 0.0
+key: 6
+key_confidence: 0.742
+loudness: -24.953
+mode: 1
+mode_confidence: 0.428
+release: Police Python 357 / L'Important C'Est D'Aimer/Paul Gaugu In/ Malpertuis / Jamais Plus Toujours
+release_7digitalid: 225988
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (207,)
+segments_loudness_max: shape = (207,)
+segments_loudness_max_time: shape = (207,)
+segments_loudness_start: shape = (207,)
+segments_pitches: shape = (207, 12)
+segments_start: shape = (207,)
+segments_timbre: shape = (207, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOYQOTZ12A6D4FCD86
+start_of_fade_out: 119.803
+tatums_confidence: shape = (374,)
+tatums_start: shape = (374,)
+tempo: 178.63
+time_signature: 4
+time_signature_confidence: 0.113
+title: Le Théâtre / Bof L'Important C'Est D'Aimer
+track_7digitalid: 2472448
+track_id: TRAHTEK128F4214840
+year: 0

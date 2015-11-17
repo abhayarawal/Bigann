@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 77872
+artist_familiarity: 0.632608748983
+artist_hotttnesss: 0.431854183239
+artist_id: AR1HK7B1187FB55747
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bd130014-2ec6-4c19-aa66-03a23d6b2230
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: TYR
+artist_playmeid: 74445
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: ad46ef4cec6d910b44bb8d803a2fb45c
+bars_confidence: shape = (179,)
+bars_start: shape = (179,)
+beats_confidence: shape = (722,)
+beats_start: shape = (722,)
+danceability: 0.0
+duration: 293.38077
+end_of_fade_in: 2.351
+energy: 0.0
+key: 0
+key_confidence: 0.73
+loudness: -6.342
+mode: 0
+mode_confidence: 0.692
+release: TyR
+release_7digitalid: 441470
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1026,)
+segments_loudness_max: shape = (1026,)
+segments_loudness_max_time: shape = (1026,)
+segments_loudness_start: shape = (1026,)
+segments_pitches: shape = (1026, 12)
+segments_start: shape = (1026,)
+segments_timbre: shape = (1026, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCZFXN12AB017D7AD
+start_of_fade_out: 289.936
+tatums_confidence: shape = (1444,)
+tatums_start: shape = (1444,)
+tempo: 149.234
+time_signature: 4
+time_signature_confidence: 0.473
+title: Grial II
+track_7digitalid: 4906743
+track_id: TRBDRCK128F92F738B
+year: 2001

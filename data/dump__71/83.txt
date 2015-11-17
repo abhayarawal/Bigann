@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11314
+artist_familiarity: 0.806359342993
+artist_hotttnesss: 0.545789126217
+artist_id: AR5N8VN1187FB37A4E
+artist_latitude: 47.60356
+artist_location: Seattle
+artist_longitude: -122.32944
+artist_mbid: 153c9281-268f-4cf3-8938-f5a4593e5df4
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Soundgarden
+artist_playmeid: 1481
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 323d81442f4be11a068982dad3d657bb
+bars_confidence: shape = (227,)
+bars_start: shape = (227,)
+beats_confidence: shape = (911,)
+beats_start: shape = (911,)
+danceability: 0.0
+duration: 415.81669
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.371
+loudness: -9.306
+mode: 1
+mode_confidence: 0.356
+release: Badmotorfinger
+release_7digitalid: 15964
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1100,)
+segments_loudness_max: shape = (1100,)
+segments_loudness_max_time: shape = (1100,)
+segments_loudness_start: shape = (1100,)
+segments_pitches: shape = (1100, 12)
+segments_start: shape = (1100,)
+segments_timbre: shape = (1100, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.654067966087
+song_id: SOAAEHR12A6D4FB060
+start_of_fade_out: 411.312
+tatums_confidence: shape = (1822,)
+tatums_start: shape = (1822,)
+tempo: 131.272
+time_signature: 4
+time_signature_confidence: 0.59
+title: Slaves & Bulldozers
+track_7digitalid: 168805
+track_id: TRAYPFH128E07937C3
+year: 1991

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 160754
+artist_familiarity: 0.703823889866
+artist_hotttnesss: 0.464736060695
+artist_id: ARNBIUE1187FB3E846
+artist_latitude: 51.50632
+artist_location: London, United Kingdom
+artist_longitude: -0.12714
+artist_mbid: d3ba1c50-d403-40df-8eac-80d74551a7e3
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Benga
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: f9dfb13131a47496ee5bd52780aa0627
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (402,)
+beats_start: shape = (402,)
+danceability: 0.0
+duration: 277.55057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.015
+loudness: -8.525
+mode: 0
+mode_confidence: 0.336
+release: GetDarker Presents THIS IS DUBSTEP 2
+release_7digitalid: 783787
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1110,)
+segments_loudness_max: shape = (1110,)
+segments_loudness_max_time: shape = (1110,)
+segments_loudness_start: shape = (1110,)
+segments_pitches: shape = (1110, 12)
+segments_start: shape = (1110,)
+segments_timbre: shape = (1110, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.583748834896
+song_id: SOAPDWC12AC468BB3B
+start_of_fade_out: 274.146
+tatums_confidence: shape = (804,)
+tatums_start: shape = (804,)
+tempo: 87.468
+time_signature: 5
+time_signature_confidence: 1.0
+title: The Future
+track_7digitalid: 8669258
+track_id: TRBBUPS12903CFC938
+year: 2006

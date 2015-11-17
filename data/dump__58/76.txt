@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 398491
+artist_familiarity: 0.544341712888
+artist_hotttnesss: 0.0
+artist_id: ARVSEMH12086C145AA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cba8632b-b9f6-4ea9-80c3-9537f4d03c05
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Patrick Eudeline
+artist_playmeid: -1
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: d1e581b4d0605cabe090a0dfc4076dbc
+bars_confidence: shape = (119,)
+bars_start: shape = (119,)
+beats_confidence: shape = (361,)
+beats_start: shape = (361,)
+danceability: 0.0
+duration: 188.21179
+end_of_fade_in: 2.688
+energy: 0.0
+key: 9
+key_confidence: 0.893
+loudness: -8.969
+mode: 0
+mode_confidence: 0.798
+release: Mauvaise Etoile
+release_7digitalid: 538816
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (665,)
+segments_loudness_max: shape = (665,)
+segments_loudness_max_time: shape = (665,)
+segments_loudness_start: shape = (665,)
+segments_pitches: shape = (665, 12)
+segments_start: shape = (665,)
+segments_timbre: shape = (665, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODPIYB12AB0184BFE
+start_of_fade_out: 183.31
+tatums_confidence: shape = (721,)
+tatums_start: shape = (721,)
+tempo: 116.975
+time_signature: 3
+time_signature_confidence: 1.0
+title: La Nuit
+track_7digitalid: 5965892
+track_id: TRAUBOA128F9312C2D
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18696
+artist_familiarity: 0.571402428898
+artist_hotttnesss: 0.384425905885
+artist_id: ARWX7AO1187B9B91AA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 86845ceb-170e-4bc2-9006-cb360867d04b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jose Luis Perales
+artist_playmeid: 10892
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: abd8078e0da2f5709e89f78bbd1ecc2b
+bars_confidence: shape = (74,)
+bars_start: shape = (74,)
+beats_confidence: shape = (300,)
+beats_start: shape = (300,)
+danceability: 0.0
+duration: 199.94077
+end_of_fade_in: 0.2
+energy: 0.0
+key: 9
+key_confidence: 0.642
+loudness: -7.392
+mode: 0
+mode_confidence: 0.59
+release: Colección Diamante
+release_7digitalid: 63206
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (653,)
+segments_loudness_max: shape = (653,)
+segments_loudness_max_time: shape = (653,)
+segments_loudness_start: shape = (653,)
+segments_pitches: shape = (653, 12)
+segments_start: shape = (653,)
+segments_timbre: shape = (653, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPRMCE12A6D4FBBE5
+start_of_fade_out: 191.077
+tatums_confidence: shape = (1199,)
+tatums_start: shape = (1199,)
+tempo: 92.686
+time_signature: 4
+time_signature_confidence: 0.783
+title: Samaritanas Del Amor
+track_7digitalid: 656039
+track_id: TRBCADG128F14AB245
+year: 1984

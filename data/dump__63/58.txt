@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 25409
+artist_familiarity: 0.45148172039
+artist_hotttnesss: 0.32084933518
+artist_id: ARNEPDO121318C580C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f323862f-df56-4a34-a256-dd6dfefdb416
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Tamperer
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 600896f20d7b5c3467df287fe5f6a938
+bars_confidence: shape = (171,)
+bars_start: shape = (171,)
+beats_confidence: shape = (687,)
+beats_start: shape = (687,)
+danceability: 0.0
+duration: 333.42649
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.0
+loudness: -4.902
+mode: 0
+mode_confidence: 0.0
+release: Feel It 09
+release_7digitalid: 646435
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1405,)
+segments_loudness_max: shape = (1405,)
+segments_loudness_max_time: shape = (1405,)
+segments_loudness_start: shape = (1405,)
+segments_pitches: shape = (1405, 12)
+segments_start: shape = (1405,)
+segments_timbre: shape = (1405, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBSVDV12AB0186089
+start_of_fade_out: 315.321
+tatums_confidence: shape = (1373,)
+tatums_start: shape = (1373,)
+tempo: 124.998
+time_signature: 4
+time_signature_confidence: 1.0
+title: Feel In The House
+track_7digitalid: 7161908
+track_id: TRAVUGT128F934D1F2
+year: 0

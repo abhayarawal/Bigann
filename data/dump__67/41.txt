@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1362
+artist_familiarity: 0.778142723055
+artist_hotttnesss: 0.547746274612
+artist_id: ARJG2ID1187B9A767E
+artist_latitude: 51.31476
+artist_location: Woking, Surrey, England
+artist_longitude: -0.56623
+artist_mbid: 23228f18-01d5-493e-94ce-cfcde82a8db2
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: The Jam
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 8c18eeb55d85f281bc95efcf92af382d
+bars_confidence: shape = (77,)
+bars_start: shape = (77,)
+beats_confidence: shape = (311,)
+beats_start: shape = (311,)
+danceability: 0.0
+duration: 135.83628
+end_of_fade_in: 0.285
+energy: 0.0
+key: 0
+key_confidence: 0.799
+loudness: -8.015
+mode: 1
+mode_confidence: 0.361
+release: Snap
+release_7digitalid: 29535
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (477,)
+segments_loudness_max: shape = (477,)
+segments_loudness_max_time: shape = (477,)
+segments_loudness_start: shape = (477,)
+segments_pitches: shape = (477, 12)
+segments_start: shape = (477,)
+segments_timbre: shape = (477, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.41373983586
+song_id: SOUDAKO12A6D4F6A89
+start_of_fade_out: 135.836
+tatums_confidence: shape = (622,)
+tatums_start: shape = (622,)
+tempo: 139.826
+time_signature: 4
+time_signature_confidence: 0.921
+title: Start!
+track_7digitalid: 325724
+track_id: TRAXAAS128F146B741
+year: 1980

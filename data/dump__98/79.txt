@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 408007
+artist_familiarity: 0.34674451048
+artist_hotttnesss: 0.30678401697
+artist_id: AR0WQ1Q1187B992E16
+artist_latitude: 40.71455
+artist_location: New York
+artist_longitude: -74.00712
+artist_mbid: 8483da4b-1df4-474d-9d70-02ff32957a09
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Richard Smith
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 1e0cce06138979e06886bb6a1a47690d
+bars_confidence: shape = (267,)
+bars_start: shape = (267,)
+beats_confidence: shape = (804,)
+beats_start: shape = (804,)
+danceability: 0.0
+duration: 277.002
+end_of_fade_in: 0.281
+energy: 0.0
+key: 8
+key_confidence: 0.463
+loudness: -7.44
+mode: 1
+mode_confidence: 0.528
+release: Flow
+release_7digitalid: 602387
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1019,)
+segments_loudness_max: shape = (1019,)
+segments_loudness_max_time: shape = (1019,)
+segments_loudness_start: shape = (1019,)
+segments_pitches: shape = (1019, 12)
+segments_start: shape = (1019,)
+segments_timbre: shape = (1019, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOWAGSC12AB01815B1
+start_of_fade_out: 263.349
+tatums_confidence: shape = (1607,)
+tatums_start: shape = (1607,)
+tempo: 176.014
+time_signature: 3
+time_signature_confidence: 0.253
+title: Pastel
+track_7digitalid: 6690106
+track_id: TRBHZAC12903CF573E
+year: 0

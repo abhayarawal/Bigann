@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 232
+artist_familiarity: 0.793708084007
+artist_hotttnesss: 0.589856179924
+artist_id: ARCJKV91187FB46210
+artist_latitude: nan
+artist_location: Scotland
+artist_longitude: nan
+artist_mbid: 951d2103-9c7d-4849-ae60-88bf6aa4790b
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: KT Tunstall
+artist_playmeid: 2265
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 7c8492720007f236508c5e888e2f71a5
+bars_confidence: shape = (164,)
+bars_start: shape = (164,)
+beats_confidence: shape = (659,)
+beats_start: shape = (659,)
+danceability: 0.0
+duration: 308.63628
+end_of_fade_in: 0.316
+energy: 0.0
+key: 7
+key_confidence: 0.793
+loudness: -10.997
+mode: 1
+mode_confidence: 0.646
+release: Other Side Of The World
+release_7digitalid: 11076
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (880,)
+segments_loudness_max: shape = (880,)
+segments_loudness_max_time: shape = (880,)
+segments_loudness_start: shape = (880,)
+segments_pitches: shape = (880, 12)
+segments_start: shape = (880,)
+segments_timbre: shape = (880, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFDEKM12A6701E597
+start_of_fade_out: 294.121
+tatums_confidence: shape = (659,)
+tatums_start: shape = (659,)
+tempo: 128.205
+time_signature: 4
+time_signature_confidence: 0.6
+title: Boo Hoo
+track_7digitalid: 113788
+track_id: TRANAHT128E07895F8
+year: 2005

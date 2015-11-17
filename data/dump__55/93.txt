@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8862
+artist_familiarity: 0.90898429564
+artist_hotttnesss: 0.562506672289
+artist_id: ARBNXYA1187FB51C50
+artist_latitude: 18.22328
+artist_location: Puerto Rico
+artist_longitude: -66.42889
+artist_mbid: 2f522f5c-111c-4ce8-8bd0-d82e97c227ad
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Daddy Yankee
+artist_playmeid: 2007
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: e2cbd69cf76a63c71e792ca9ba073d07
+bars_confidence: shape = (194,)
+bars_start: shape = (194,)
+beats_confidence: shape = (777,)
+beats_start: shape = (777,)
+danceability: 0.0
+duration: 239.882
+end_of_fade_in: 0.16
+energy: 0.0
+key: 4
+key_confidence: 0.594
+loudness: -4.335
+mode: 0
+mode_confidence: 0.332
+release: Talento De Barrio
+release_7digitalid: 372523
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1155,)
+segments_loudness_max: shape = (1155,)
+segments_loudness_max_time: shape = (1155,)
+segments_loudness_start: shape = (1155,)
+segments_pitches: shape = (1155, 12)
+segments_start: shape = (1155,)
+segments_timbre: shape = (1155, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.774816244146
+song_id: SOKTJKI12A8C143254
+start_of_fade_out: 234.696
+tatums_confidence: shape = (1554,)
+tatums_start: shape = (1554,)
+tempo: 195.985
+time_signature: 4
+time_signature_confidence: 0.971
+title: Llamado De Emergencia
+track_7digitalid: 4144521
+track_id: TRATBNG128F92CADA8
+year: 2008

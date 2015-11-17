@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1302
+artist_familiarity: 0.80982809184
+artist_hotttnesss: 0.539644312424
+artist_id: ARBCUNV1187B98A9FB
+artist_latitude: nan
+artist_location: East Flatbush, Brooklyn, NY
+artist_longitude: nan
+artist_mbid: 10a9ff92-9637-4498-afea-7044b2ab0dc0
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Busta Rhymes
+artist_playmeid: 282
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 10de0a24441c6f1cbd1b8c91af7ebc59
+bars_confidence: shape = (77,)
+bars_start: shape = (77,)
+beats_confidence: shape = (424,)
+beats_start: shape = (424,)
+danceability: 0.0
+duration: 231.60118
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.151
+loudness: -10.067
+mode: 0
+mode_confidence: 0.382
+release: Genesis
+release_7digitalid: 556995
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1070,)
+segments_loudness_max: shape = (1070,)
+segments_loudness_max_time: shape = (1070,)
+segments_loudness_start: shape = (1070,)
+segments_pitches: shape = (1070, 12)
+segments_start: shape = (1070,)
+segments_timbre: shape = (1070, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.549998637169
+song_id: SOSNLPM12A8C139C95
+start_of_fade_out: 226.975
+tatums_confidence: shape = (848,)
+tatums_start: shape = (848,)
+tempo: 106.961
+time_signature: 5
+time_signature_confidence: 1.0
+title: Genesis
+track_7digitalid: 6160741
+track_id: TRAQYOC128F9341CDC
+year: 2001

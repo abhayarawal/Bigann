@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11084
+artist_familiarity: 0.599133769097
+artist_hotttnesss: 0.392994622588
+artist_id: ARZVEF91187B9AC770
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 2c16f7ca-e331-47fc-af91-4f236cba4c6d
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Elliot Goldenthal
+artist_playmeid: 20271
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 4fa16421720bd3c24864c8c1f5af47d2
+bars_confidence: shape = (64,)
+bars_start: shape = (64,)
+beats_confidence: shape = (260,)
+beats_start: shape = (260,)
+danceability: 0.0
+duration: 91.74159
+end_of_fade_in: 0.243
+energy: 0.0
+key: 0
+key_confidence: 0.0
+loudness: -12.671
+mode: 1
+mode_confidence: 0.0
+release: Titus - Original Motion Picture Soundtrack
+release_7digitalid: 292189
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (310,)
+segments_loudness_max: shape = (310,)
+segments_loudness_max_time: shape = (310,)
+segments_loudness_start: shape = (310,)
+segments_pitches: shape = (310, 12)
+segments_start: shape = (310,)
+segments_timbre: shape = (310, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.355285536423
+song_id: SOZWBQS12A8C13701C
+start_of_fade_out: 81.786
+tatums_confidence: shape = (521,)
+tatums_start: shape = (521,)
+tempo: 177.465
+time_signature: 4
+time_signature_confidence: 0.875
+title: Arrows Of The Gods
+track_7digitalid: 3281415
+track_id: TRAJEEW128F4280555
+year: 2000

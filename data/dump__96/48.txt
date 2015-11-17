@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4549
+artist_familiarity: 0.830252261722
+artist_hotttnesss: 0.507965802159
+artist_id: ARYO9BU1187B9ADA88
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 169c4c28-858e-497b-81a4-8bc15e0026ea
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Porcupine Tree
+artist_playmeid: 9392
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: ce2f6899b52cbb08d633560e20c3cd3e
+bars_confidence: shape = (115,)
+bars_start: shape = (115,)
+beats_confidence: shape = (115,)
+beats_start: shape = (115,)
+danceability: 0.0
+duration: 162.06322
+end_of_fade_in: 1.449
+energy: 0.0
+key: 5
+key_confidence: 0.016
+loudness: -25.745
+mode: 1
+mode_confidence: 0.508
+release: On The Sunday Of Life
+release_7digitalid: 194440
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (308,)
+segments_loudness_max: shape = (308,)
+segments_loudness_max_time: shape = (308,)
+segments_loudness_start: shape = (308,)
+segments_pitches: shape = (308, 12)
+segments_start: shape = (308,)
+segments_timbre: shape = (308, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.777828025073
+song_id: SOJNQAS12A8C134963
+start_of_fade_out: 152.276
+tatums_confidence: shape = (231,)
+tatums_start: shape = (231,)
+tempo: 44.816
+time_signature: 1
+time_signature_confidence: 0.0
+title: Music For The Head
+track_7digitalid: 2114900
+track_id: TRBHFVD128F4248837
+year: 1991

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 364567
+artist_familiarity: 0.229264430737
+artist_hotttnesss: 0.0
+artist_id: ARCLGCL1241B9CA830
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Michèle Crider;Eleonora Jankovic;Vincenzo La Scola;Riccardo Muti
+artist_playmeid: 15494
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: 0217e32918f05b4095129a603d1bbd85
+bars_confidence: shape = (24,)
+bars_start: shape = (24,)
+beats_confidence: shape = (145,)
+beats_start: shape = (145,)
+danceability: 0.0
+duration: 225.30567
+end_of_fade_in: 2.63
+energy: 0.0
+key: 10
+key_confidence: 0.843
+loudness: -36.577
+mode: 1
+mode_confidence: 0.761
+release: Mefistofele
+release_7digitalid: 295151
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (411,)
+segments_loudness_max: shape = (411,)
+segments_loudness_max_time: shape = (411,)
+segments_loudness_start: shape = (411,)
+segments_pitches: shape = (411, 12)
+segments_start: shape = (411,)
+segments_timbre: shape = (411, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUVFBG12A58A7B0DC
+start_of_fade_out: 209.072
+tatums_confidence: shape = (579,)
+tatums_start: shape = (579,)
+tempo: 39.187
+time_signature: 4
+time_signature_confidence: 0.0
+title: Mefistofele/La luna immobile
+track_7digitalid: 3352850
+track_id: TRAODWK128F42916E2
+year: 0

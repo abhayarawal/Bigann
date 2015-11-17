@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 188322
+artist_familiarity: 0.59966242633
+artist_hotttnesss: 0.385571725168
+artist_id: AR06IFV1187B9977EC
+artist_latitude: nan
+artist_location: St. Louis, MO
+artist_longitude: nan
+artist_mbid: 69543b64-20e6-4db4-8e21-e113cd391ffe
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: MU330
+artist_playmeid: 105406
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 36147e60dcd26b8ba9b6d52fd1bd7eab
+bars_confidence: shape = (65,)
+bars_start: shape = (65,)
+beats_confidence: shape = (266,)
+beats_start: shape = (266,)
+danceability: 0.0
+duration: 132.44036
+end_of_fade_in: 0.232
+energy: 0.0
+key: 0
+key_confidence: 0.601
+loudness: -7.554
+mode: 0
+mode_confidence: 0.631
+release: Chumps On Parade
+release_7digitalid: 243289
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (376,)
+segments_loudness_max: shape = (376,)
+segments_loudness_max_time: shape = (376,)
+segments_loudness_start: shape = (376,)
+segments_pitches: shape = (376, 12)
+segments_start: shape = (376,)
+segments_timbre: shape = (376, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.460484844986
+song_id: SOBTSMO12A8C135EDF
+start_of_fade_out: 132.44
+tatums_confidence: shape = (533,)
+tatums_start: shape = (533,)
+tempo: 126.274
+time_signature: 4
+time_signature_confidence: 1.0
+title: Cursed Again
+track_7digitalid: 2715649
+track_id: TRAHUHP128F424BD36
+year: 1997

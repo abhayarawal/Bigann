@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7674
+artist_familiarity: 0.558384455186
+artist_hotttnesss: 0.340632714452
+artist_id: ARW90Y31187B98FC7C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8dc3c6f8-1c44-4e0b-b17b-de6650e43c19
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Pinchers
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: c0e36e592f3a6a2a79305e21af1828a2
+bars_confidence: shape = (86,)
+bars_start: shape = (86,)
+beats_confidence: shape = (349,)
+beats_start: shape = (349,)
+danceability: 0.0
+duration: 229.01506
+end_of_fade_in: 2.368
+energy: 0.0
+key: 11
+key_confidence: 0.165
+loudness: -13.229
+mode: 1
+mode_confidence: 0.24
+release: Dirt Low
+release_7digitalid: 420045
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1282,)
+segments_loudness_max: shape = (1282,)
+segments_loudness_max_time: shape = (1282,)
+segments_loudness_start: shape = (1282,)
+segments_pitches: shape = (1282, 12)
+segments_start: shape = (1282,)
+segments_timbre: shape = (1282, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOCAMQU12AB0182111
+start_of_fade_out: 216.474
+tatums_confidence: shape = (1395,)
+tatums_start: shape = (1395,)
+tempo: 92.01
+time_signature: 4
+time_signature_confidence: 0.769
+title: Don't Do That
+track_7digitalid: 4680551
+track_id: TRBCKFA128F9336580
+year: 0

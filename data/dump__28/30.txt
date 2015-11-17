@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 38703
+artist_familiarity: 0.748536142226
+artist_hotttnesss: 0.702594754616
+artist_id: ARNNM56119B86686EA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: aab35942-f176-4f77-bbf9-1d6aa98ccf3f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Luke Bryan
+artist_playmeid: 9463
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 77f796db39f6bea52ac18358d01e55dd
+bars_confidence: shape = (113,)
+bars_start: shape = (113,)
+beats_confidence: shape = (457,)
+beats_start: shape = (457,)
+danceability: 0.0
+duration: 192.44363
+end_of_fade_in: 0.183
+energy: 0.0
+key: 7
+key_confidence: 0.577
+loudness: -4.43
+mode: 0
+mode_confidence: 0.654
+release: Doin' My Thing
+release_7digitalid: 661435
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (663,)
+segments_loudness_max: shape = (663,)
+segments_loudness_max_time: shape = (663,)
+segments_loudness_start: shape = (663,)
+segments_pitches: shape = (663, 12)
+segments_start: shape = (663,)
+segments_timbre: shape = (663, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.682344754354
+song_id: SOJQLZR12AB018909F
+start_of_fade_out: 183.844
+tatums_confidence: shape = (914,)
+tatums_start: shape = (914,)
+tempo: 147.904
+time_signature: 4
+time_signature_confidence: 0.374
+title: What Country Is
+track_7digitalid: 7330659
+track_id: TRAJMZL12903CA4807
+year: 2009

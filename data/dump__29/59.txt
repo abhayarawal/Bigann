@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4094
+artist_familiarity: 0.707059451858
+artist_hotttnesss: 0.562432730736
+artist_id: AR966X21187B9AC463
+artist_latitude: nan
+artist_location: Newark, NJ
+artist_longitude: nan
+artist_mbid: 8d36e1ac-d721-4138-ac00-f851bbaab44c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Paul Simon
+artist_playmeid: 6391
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 1209993af722b04d732e0c3982829f3c
+bars_confidence: shape = (74,)
+bars_start: shape = (74,)
+beats_confidence: shape = (299,)
+beats_start: shape = (299,)
+danceability: 0.0
+duration: 137.40363
+end_of_fade_in: 0.984
+energy: 0.0
+key: 9
+key_confidence: 0.44
+loudness: -7.444
+mode: 1
+mode_confidence: 0.453
+release: Recorded as Jerry Landis
+release_7digitalid: 680579
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (418,)
+segments_loudness_max: shape = (418,)
+segments_loudness_max_time: shape = (418,)
+segments_loudness_start: shape = (418,)
+segments_pitches: shape = (418, 12)
+segments_start: shape = (418,)
+segments_timbre: shape = (418, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.301681756732
+song_id: SOBXGEP12AB018E2CA
+start_of_fade_out: 128.424
+tatums_confidence: shape = (599,)
+tatums_start: shape = (599,)
+tempo: 133.884
+time_signature: 4
+time_signature_confidence: 0.208
+title: A Different Kind of Love
+track_7digitalid: 7551999
+track_id: TRAJZKF12903CDA164
+year: 0

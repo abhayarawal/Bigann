@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 158538
+artist_familiarity: 0.470828036275
+artist_hotttnesss: 0.350476630839
+artist_id: AR6L0X71187FB49709
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e08b91c0-297e-4245-8ff5-380ffae1d0e6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Paul Cantelon
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: e0a056e4b9c2339cb85c2018d9dfa056
+bars_confidence: shape = (99,)
+bars_start: shape = (99,)
+beats_confidence: shape = (300,)
+beats_start: shape = (300,)
+danceability: 0.0
+duration: 146.442
+end_of_fade_in: 2.026
+energy: 0.0
+key: 0
+key_confidence: 0.875
+loudness: -20.178
+mode: 0
+mode_confidence: 0.644
+release: The Other Boleyn Girl
+release_7digitalid: 209378
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (289,)
+segments_loudness_max: shape = (289,)
+segments_loudness_max_time: shape = (289,)
+segments_loudness_start: shape = (289,)
+segments_pitches: shape = (289, 12)
+segments_start: shape = (289,)
+segments_timbre: shape = (289, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKAHMK12A8C138EB9
+start_of_fade_out: 135.494
+tatums_confidence: shape = (600,)
+tatums_start: shape = (600,)
+tempo: 130.183
+time_signature: 3
+time_signature_confidence: 1.0
+title: The Other Boleyn Girl - Opening Titles
+track_7digitalid: 2268538
+track_id: TRAOKVY128F426C3D6
+year: 2008

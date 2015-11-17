@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 317301
+artist_familiarity: 0.232824088486
+artist_hotttnesss: 0.0
+artist_id: ARYGVDP1187FB42918
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1efcfd8b-0faa-44b9-b60c-44c787f4d30c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: John Wesley Ryles
+artist_playmeid: 171762
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: 52db9f8f66bc8f81c027949742dd2637
+bars_confidence: shape = (81,)
+bars_start: shape = (81,)
+beats_confidence: shape = (327,)
+beats_start: shape = (327,)
+danceability: 0.0
+duration: 132.30975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.563
+loudness: -12.113
+mode: 1
+mode_confidence: 0.586
+release: Greatest Hits
+release_7digitalid: 629720
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (354,)
+segments_loudness_max: shape = (354,)
+segments_loudness_max_time: shape = (354,)
+segments_loudness_start: shape = (354,)
+segments_pitches: shape = (354, 12)
+segments_start: shape = (354,)
+segments_timbre: shape = (354, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXGJTM12AB017E948
+start_of_fade_out: 125.341
+tatums_confidence: shape = (653,)
+tatums_start: shape = (653,)
+tempo: 148.68
+time_signature: 4
+time_signature_confidence: 0.0
+title: Someday You Will
+track_7digitalid: 6989629
+track_id: TRAVRNN128F93234A9
+year: 0

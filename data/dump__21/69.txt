@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21797
+artist_familiarity: 0.629732488809
+artist_hotttnesss: 0.341265841356
+artist_id: AR323JD1187FB483D0
+artist_latitude: nan
+artist_location: New York
+artist_longitude: nan
+artist_mbid: efb91519-38e7-47ee-8713-3eb026d09764
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Solomon
+artist_playmeid: 77119
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 8a682d4ad06ce378f74bd506539b3363
+bars_confidence: shape = (69,)
+bars_start: shape = (69,)
+beats_confidence: shape = (232,)
+beats_start: shape = (232,)
+danceability: 0.0
+duration: 150.88281
+end_of_fade_in: 0.194
+energy: 0.0
+key: 7
+key_confidence: 0.126
+loudness: -30.381
+mode: 1
+mode_confidence: 0.419
+release: Solomon plays Beethoven
+release_7digitalid: 162535
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (213,)
+segments_loudness_max: shape = (213,)
+segments_loudness_max_time: shape = (213,)
+segments_loudness_start: shape = (213,)
+segments_pitches: shape = (213, 12)
+segments_start: shape = (213,)
+segments_timbre: shape = (213, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPOHQT12A8C13AFD3
+start_of_fade_out: 150.883
+tatums_confidence: shape = (232,)
+tatums_start: shape = (232,)
+tempo: 90.987
+time_signature: 3
+time_signature_confidence: 0.738
+title: Piano Sonata No. 28 in A Op. 101 (1993 Digital Remaster): III.    Adagio_ ma non troppo
+track_7digitalid: 1722503
+track_id: TRAHJTK128F42837BF
+year: 0

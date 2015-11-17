@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 99106
+artist_familiarity: 0.689494764993
+artist_hotttnesss: 0.355905629781
+artist_id: ARI6CSW1187B9AF09A
+artist_latitude: nan
+artist_location: M�engladbach, Germany
+artist_longitude: nan
+artist_mbid: 3db42aef-5961-4c75-8f0f-432c9db2a894
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Eko Fresh feat. G-Style
+artist_playmeid: 28340
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 61c8c0def60614126ed769610915a469
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (410,)
+beats_start: shape = (410,)
+danceability: 0.0
+duration: 266.57914
+end_of_fade_in: 0.507
+energy: 0.0
+key: 6
+key_confidence: 0.211
+loudness: -7.993
+mode: 1
+mode_confidence: 0.341
+release: Ich bin jung und brauche das Geld
+release_7digitalid: 300080
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1053,)
+segments_loudness_max: shape = (1053,)
+segments_loudness_max_time: shape = (1053,)
+segments_loudness_start: shape = (1053,)
+segments_pitches: shape = (1053, 12)
+segments_start: shape = (1053,)
+segments_timbre: shape = (1053, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.270775998946
+song_id: SOQKUXE12A8C139BE8
+start_of_fade_out: 257.701
+tatums_confidence: shape = (1640,)
+tatums_start: shape = (1640,)
+tempo: 93.203
+time_signature: 4
+time_signature_confidence: 0.965
+title: Ich bin jung und brauche das Geld
+track_7digitalid: 3370045
+track_id: TRAWIGC128F4295A2F
+year: 2003

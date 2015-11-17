@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 308089
+artist_familiarity: 0.391836734938
+artist_hotttnesss: 0.352620791136
+artist_id: AROJVWY1187B9A826C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f1093867-0fc0-4ca4-b7fa-ff59ad275343
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mademoiselle Sane
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 43ec158580d8c04ef4f3b227754981e8
+bars_confidence: shape = (68,)
+bars_start: shape = (68,)
+beats_confidence: shape = (343,)
+beats_start: shape = (343,)
+danceability: 0.0
+duration: 173.13914
+end_of_fade_in: 0.395
+energy: 0.0
+key: 5
+key_confidence: 0.329
+loudness: -6.455
+mode: 0
+mode_confidence: 0.295
+release: La petite boite en fer
+release_7digitalid: 409210
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (777,)
+segments_loudness_max: shape = (777,)
+segments_loudness_max_time: shape = (777,)
+segments_loudness_start: shape = (777,)
+segments_pitches: shape = (777, 12)
+segments_start: shape = (777,)
+segments_timbre: shape = (777, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHBIKM12AB01840AF
+start_of_fade_out: 167.311
+tatums_confidence: shape = (685,)
+tatums_start: shape = (685,)
+tempo: 121.797
+time_signature: 5
+time_signature_confidence: 0.315
+title: Cabaret
+track_7digitalid: 4552415
+track_id: TRBCULU128F931AABB
+year: 2007

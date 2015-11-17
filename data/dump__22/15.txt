@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19415
+artist_familiarity: 0.588140722447
+artist_hotttnesss: 0.366741233181
+artist_id: AR0QL3J1187FB3748E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1fe4421e-850f-46e2-a8be-b760c57cb9c7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Clara Nunes
+artist_playmeid: 69685
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: e16b2fcb5c83db3cf43496aaefe817e6
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (322,)
+beats_start: shape = (322,)
+danceability: 0.0
+duration: 188.44689
+end_of_fade_in: 0.381
+energy: 0.0
+key: 10
+key_confidence: 0.116
+loudness: -12.665
+mode: 0
+mode_confidence: 0.249
+release: Bis - Clara Nunes
+release_7digitalid: 148254
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (899,)
+segments_loudness_max: shape = (899,)
+segments_loudness_max_time: shape = (899,)
+segments_loudness_start: shape = (899,)
+segments_pitches: shape = (899, 12)
+segments_start: shape = (899,)
+segments_timbre: shape = (899, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFRPEI12A8C13407E
+start_of_fade_out: 177.215
+tatums_confidence: shape = (1289,)
+tatums_start: shape = (1289,)
+tempo: 104.709
+time_signature: 4
+time_signature_confidence: 0.0
+title: Tudo E Ilusao (1997 Digital Remaster)
+track_7digitalid: 1543839
+track_id: TRAHOEP128F42591ED
+year: 0

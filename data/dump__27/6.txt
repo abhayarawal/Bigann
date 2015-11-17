@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 319944
+artist_familiarity: 0.374024633035
+artist_hotttnesss: 0.187213290249
+artist_id: ARNV7U61187FB54DCB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4a54c00d-1b27-4100-9830-11fbbed577af
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Faith Yang
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: b3b9ea8f19970e1c1780d7c5c7fdb7de
+bars_confidence: shape = (73,)
+bars_start: shape = (73,)
+beats_confidence: shape = (296,)
+beats_start: shape = (296,)
+danceability: 0.0
+duration: 134.97424
+end_of_fade_in: 7.843
+energy: 0.0
+key: 10
+key_confidence: 0.452
+loudness: -6.223
+mode: 0
+mode_confidence: 0.364
+release: Self-Selected
+release_7digitalid: 446676
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (407,)
+segments_loudness_max: shape = (407,)
+segments_loudness_max_time: shape = (407,)
+segments_loudness_start: shape = (407,)
+segments_pitches: shape = (407, 12)
+segments_start: shape = (407,)
+segments_timbre: shape = (407, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SODOKPF12AB01817F4
+start_of_fade_out: 119.269
+tatums_confidence: shape = (593,)
+tatums_start: shape = (593,)
+tempo: 136.984
+time_signature: 4
+time_signature_confidence: 0.876
+title: Song 2
+track_7digitalid: 4959710
+track_id: TRAJBOD128F9303DCD
+year: 2009

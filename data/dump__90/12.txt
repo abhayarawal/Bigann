@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 227466
+artist_familiarity: 0.391730379324
+artist_hotttnesss: 0.300518710572
+artist_id: ARGCEOR1187B9A4E7D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a705982d-bda6-42aa-9a11-fb192447f66a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Eric Demarsan
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: e4888abbf5f1807f0db96c3d01c851d0
+bars_confidence: shape = (32,)
+bars_start: shape = (32,)
+beats_confidence: shape = (142,)
+beats_start: shape = (142,)
+danceability: 0.0
+duration: 107.7024
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.483
+loudness: -18.352
+mode: 0
+mode_confidence: 0.424
+release: Le Samouraï / Les Aventuriers
+release_7digitalid: 494850
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (228,)
+segments_loudness_max: shape = (228,)
+segments_loudness_max_time: shape = (228,)
+segments_loudness_start: shape = (228,)
+segments_pitches: shape = (228, 12)
+segments_start: shape = (228,)
+segments_timbre: shape = (228, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFZXDA12AB01800C6
+start_of_fade_out: 97.199
+tatums_confidence: shape = (283,)
+tatums_start: shape = (283,)
+tempo: 82.491
+time_signature: 4
+time_signature_confidence: 1.0
+title: La Blessure
+track_7digitalid: 5479275
+track_id: TRBFBSN128F9312468
+year: 0

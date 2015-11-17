@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 14045
+artist_familiarity: 0.640807101964
+artist_hotttnesss: 0.418216518195
+artist_id: ARAJPHH1187FB5566A
+artist_latitude: 40.7038
+artist_location: Queens, NY
+artist_longitude: -73.83168
+artist_mbid: 91d01e5f-252d-469d-a16a-12c613e48e5d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Shangri-Las
+artist_playmeid: 2995
+artist_terms: shape = (50,)
+artist_terms_freq: shape = (50,)
+artist_terms_weight: shape = (50,)
+audio_md5: 519e4222be254d9848224a99cee7511a
+bars_confidence: shape = (342,)
+bars_start: shape = (342,)
+beats_confidence: shape = (342,)
+beats_start: shape = (342,)
+danceability: 0.0
+duration: 164.80608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.254
+loudness: -10.922
+mode: 1
+mode_confidence: 0.042
+release: Best of The Shangri-Las
+release_7digitalid: 643400
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (594,)
+segments_loudness_max: shape = (594,)
+segments_loudness_max_time: shape = (594,)
+segments_loudness_start: shape = (594,)
+segments_pitches: shape = (594, 12)
+segments_start: shape = (594,)
+segments_timbre: shape = (594, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.443291311905
+song_id: SOYTPEP12AB0180E7B
+start_of_fade_out: 156.177
+tatums_confidence: shape = (683,)
+tatums_start: shape = (683,)
+tempo: 130.1
+time_signature: 1
+time_signature_confidence: 0.0
+title: Twist and Shout
+track_7digitalid: 7133415
+track_id: TRAACSL128F93462F4
+year: 1964

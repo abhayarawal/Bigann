@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 262
+artist_familiarity: 0.871010615313
+artist_hotttnesss: 0.879236744738
+artist_id: ARTH9041187FB43E1F
+artist_latitude: nan
+artist_location: St. Joseph, MO
+artist_longitude: nan
+artist_mbid: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Eminem
+artist_playmeid: 549
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 93fa4f6202904e73596025fb2597fcb2
+bars_confidence: shape = (77,)
+bars_start: shape = (77,)
+beats_confidence: shape = (370,)
+beats_start: shape = (370,)
+danceability: 0.0
+duration: 242.62485
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.315
+loudness: -2.198
+mode: 1
+mode_confidence: 0.403
+release: The Slim Shady LP
+release_7digitalid: 14297
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1076,)
+segments_loudness_max: shape = (1076,)
+segments_loudness_max_time: shape = (1076,)
+segments_loudness_start: shape = (1076,)
+segments_pitches: shape = (1076, 12)
+segments_start: shape = (1076,)
+segments_timbre: shape = (1076, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.743025039703
+song_id: SOGRSAV12A6701FBBD
+start_of_fade_out: 236.495
+tatums_confidence: shape = (1111,)
+tatums_start: shape = (1111,)
+tempo: 90.18
+time_signature: 4
+time_signature_confidence: 0.93
+title: Just Don't Give A Fuck
+track_7digitalid: 147889
+track_id: TRBGNPE128E078EC14
+year: 1998

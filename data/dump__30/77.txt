@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4975
+artist_familiarity: 0.468827655575
+artist_hotttnesss: 0.375135508983
+artist_id: ARO344A1187B9B65C3
+artist_latitude: nan
+artist_location: Kansas
+artist_longitude: nan
+artist_mbid: b03f1bcf-85a7-433d-8995-480a359f9b3b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Fortitude
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: c057d2b0ae9e5c5b229b4ed7f66331f7
+bars_confidence: shape = (93,)
+bars_start: shape = (93,)
+beats_confidence: shape = (378,)
+beats_start: shape = (378,)
+danceability: 0.0
+duration: 260.46649
+end_of_fade_in: 0.322
+energy: 0.0
+key: 10
+key_confidence: 0.605
+loudness: -6.464
+mode: 0
+mode_confidence: 0.568
+release: Fortitude
+release_7digitalid: 7086
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1105,)
+segments_loudness_max: shape = (1105,)
+segments_loudness_max_time: shape = (1105,)
+segments_loudness_start: shape = (1105,)
+segments_pitches: shape = (1105, 12)
+segments_start: shape = (1105,)
+segments_timbre: shape = (1105, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUHUYT12A67021546
+start_of_fade_out: 249.173
+tatums_confidence: shape = (756,)
+tatums_start: shape = (756,)
+tempo: 88.025
+time_signature: 4
+time_signature_confidence: 1.0
+title: He's Alright (Album Version)
+track_7digitalid: 71630
+track_id: TRAKKHN128E07855F9
+year: 0

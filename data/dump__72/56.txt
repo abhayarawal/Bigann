@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 142674
+artist_familiarity: 0.546088317295
+artist_hotttnesss: 0.373911384261
+artist_id: ARFCDY01187FB57933
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ca9c6f09-5f81-48bf-908e-2594089724cf
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Manjul
+artist_playmeid: -1
+artist_terms: shape = (7,)
+artist_terms_freq: shape = (7,)
+artist_terms_weight: shape = (7,)
+audio_md5: b1101ab25d79f18886caf6f61e178edd
+bars_confidence: shape = (145,)
+bars_start: shape = (145,)
+beats_confidence: shape = (584,)
+beats_start: shape = (584,)
+danceability: 0.0
+duration: 226.21995
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.696
+loudness: -11.675
+mode: 1
+mode_confidence: 0.619
+release: Faso Kanou
+release_7digitalid: 425081
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (861,)
+segments_loudness_max: shape = (861,)
+segments_loudness_max_time: shape = (861,)
+segments_loudness_start: shape = (861,)
+segments_pitches: shape = (861, 12)
+segments_start: shape = (861,)
+segments_timbre: shape = (861, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SONIUGT12A8C1403F3
+start_of_fade_out: 218.448
+tatums_confidence: shape = (1169,)
+tatums_start: shape = (1169,)
+tempo: 155.012
+time_signature: 4
+time_signature_confidence: 0.0
+title: Any Wich Way (Freedom Must Come)
+track_7digitalid: 4744553
+track_id: TRAYVDG128F92D09F3
+year: 2005

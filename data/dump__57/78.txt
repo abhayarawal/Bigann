@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 419542
+artist_familiarity: 0.514624264967
+artist_hotttnesss: 0.369511565168
+artist_id: ARHQYFB1187FB4AECF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e883be93-9ba5-44f0-a207-6d5d8cd656b6
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: The Cortinas
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 8ac6959684a6d1b0aa5e2ba7865329ae
+bars_confidence: shape = (202,)
+bars_start: shape = (202,)
+beats_confidence: shape = (611,)
+beats_start: shape = (611,)
+danceability: 0.0
+duration: 187.24526
+end_of_fade_in: 0.949
+energy: 0.0
+key: 9
+key_confidence: 0.022
+loudness: -9.181
+mode: 1
+mode_confidence: 0.224
+release: GBH Demos 1977
+release_7digitalid: 581069
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (621,)
+segments_loudness_max: shape = (621,)
+segments_loudness_max_time: shape = (621,)
+segments_loudness_start: shape = (621,)
+segments_pitches: shape = (621, 12)
+segments_start: shape = (621,)
+segments_timbre: shape = (621, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQFMFP12AB0188BFD
+start_of_fade_out: 181.76
+tatums_confidence: shape = (611,)
+tatums_start: shape = (611,)
+tempo: 202.179
+time_signature: 3
+time_signature_confidence: 1.0
+title: Youth Club Dance (Demo)
+track_7digitalid: 6437509
+track_id: TRATRGQ12903CB8465
+year: 0

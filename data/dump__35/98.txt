@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2199
+artist_familiarity: 0.707332699031
+artist_hotttnesss: 0.603876486918
+artist_id: ARYJSY01187B9B7C65
+artist_latitude: nan
+artist_location: Locust Ridge, TN
+artist_longitude: nan
+artist_mbid: 1d543e07-d0d2-4834-a8db-d65c50c2a856
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Dolly Parton
+artist_playmeid: 493
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: d0c859c8133fd9172fc189f8e43c10e5
+bars_confidence: shape = (122,)
+bars_start: shape = (122,)
+beats_confidence: shape = (371,)
+beats_start: shape = (371,)
+danceability: 0.0
+duration: 166.24281
+end_of_fade_in: 0.247
+energy: 0.0
+key: 1
+key_confidence: 0.24
+loudness: -10.915
+mode: 1
+mode_confidence: 0.416
+release: The Collection
+release_7digitalid: 1484
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (526,)
+segments_loudness_max: shape = (526,)
+segments_loudness_max_time: shape = (526,)
+segments_loudness_start: shape = (526,)
+segments_pitches: shape = (526, 12)
+segments_start: shape = (526,)
+segments_timbre: shape = (526, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.301681756732
+song_id: SOYEFDU12A6310F400
+start_of_fade_out: 158.163
+tatums_confidence: shape = (741,)
+tatums_start: shape = (741,)
+tempo: 139.981
+time_signature: 3
+time_signature_confidence: 0.069
+title: When Jesus Comes Calling For Me
+track_7digitalid: 14910
+track_id: TRAMFRD128E07833DA
+year: 1998

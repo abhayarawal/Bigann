@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10173
+artist_familiarity: 0.87253659867
+artist_hotttnesss: 0.610731462904
+artist_id: AR12F2S1187FB56EEF
+artist_latitude: nan
+artist_location: Boston, MA
+artist_longitude: nan
+artist_mbid: 3d2b98e5-556f-4451-a3ff-c50ea18d57cb
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Aerosmith
+artist_playmeid: 39
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: eaf88c456a61adedc2ef69bbcf2ce6c0
+bars_confidence: shape = (530,)
+bars_start: shape = (530,)
+beats_confidence: shape = (530,)
+beats_start: shape = (530,)
+danceability: 0.0
+duration: 217.23383
+end_of_fade_in: 3.28
+energy: 0.0
+key: 11
+key_confidence: 0.587
+loudness: -11.719
+mode: 1
+mode_confidence: 0.421
+release: Pandora's Box
+release_7digitalid: 285396
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (856,)
+segments_loudness_max: shape = (856,)
+segments_loudness_max_time: shape = (856,)
+segments_loudness_start: shape = (856,)
+segments_pitches: shape = (856, 12)
+segments_start: shape = (856,)
+segments_timbre: shape = (856, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.443291311905
+song_id: SOIWOPZ12A8C135EBA
+start_of_fade_out: 211.54
+tatums_confidence: shape = (1061,)
+tatums_start: shape = (1061,)
+tempo: 148.358
+time_signature: 1
+time_signature_confidence: 0.051
+title: On The Road Again
+track_7digitalid: 3196696
+track_id: TRAKZHN128F426C3D2
+year: 0

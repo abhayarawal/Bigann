@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11032
+artist_familiarity: 0.645316973618
+artist_hotttnesss: 0.401090253662
+artist_id: ARW9SN11187FB52D0D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3fd61726-7d1c-4bdd-92c9-ac82c3a7aab3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: City High
+artist_playmeid: -1
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: c7cb809114924353319fabf5d9c60ff0
+bars_confidence: shape = (153,)
+bars_start: shape = (153,)
+beats_confidence: shape = (615,)
+beats_start: shape = (615,)
+danceability: 0.0
+duration: 231.33995
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.421
+loudness: -7.99
+mode: 0
+mode_confidence: 0.252
+release: City High
+release_7digitalid: 15590
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (962,)
+segments_loudness_max: shape = (962,)
+segments_loudness_max_time: shape = (962,)
+segments_loudness_start: shape = (962,)
+segments_pitches: shape = (962, 12)
+segments_start: shape = (962,)
+segments_timbre: shape = (962, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.427446571488
+song_id: SOQWLMX12A67020B04
+start_of_fade_out: 218.964
+tatums_confidence: shape = (1230,)
+tatums_start: shape = (1230,)
+tempo: 159.975
+time_signature: 4
+time_signature_confidence: 0.719
+title: Sista
+track_7digitalid: 163918
+track_id: TRAUFDN128E07926A5
+year: 2001

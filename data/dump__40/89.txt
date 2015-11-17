@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6051
+artist_familiarity: 0.915823253033
+artist_hotttnesss: 0.665576619159
+artist_id: ARBEOHF1187B9B044D
+artist_latitude: nan
+artist_location: Bay City, MI
+artist_longitude: nan
+artist_mbid: 79239441-bfd5-4981-a70c-55c3f15c1287
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Madonna
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 3e591748972366c39b259c8f3affccd0
+bars_confidence: shape = (158,)
+bars_start: shape = (158,)
+beats_confidence: shape = (637,)
+beats_start: shape = (637,)
+danceability: 0.0
+duration: 330.94485
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.291
+loudness: -5.407
+mode: 0
+mode_confidence: 0.349
+release: I'm Going To Tell You A Secret
+release_7digitalid: 47668
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1640,)
+segments_loudness_max: shape = (1640,)
+segments_loudness_max_time: shape = (1640,)
+segments_loudness_start: shape = (1640,)
+segments_pitches: shape = (1640, 12)
+segments_start: shape = (1640,)
+segments_timbre: shape = (1640, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.528782480943
+song_id: SOPPCXM12A6D4F66BC
+start_of_fade_out: 330.945
+tatums_confidence: shape = (2548,)
+tatums_start: shape = (2548,)
+tempo: 116.169
+time_signature: 4
+time_signature_confidence: 0.493
+title: Vogue [Live]
+track_7digitalid: 510885
+track_id: TRANXHZ128F148D4DB
+year: 2006

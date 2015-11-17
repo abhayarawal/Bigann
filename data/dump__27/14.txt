@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 432935
+artist_familiarity: 0.535292735512
+artist_hotttnesss: 0.385470550556
+artist_id: ARKFYS91187B98E58F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 79c403f9-5467-4f23-8426-9ca3fc60a115
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jeff And Sheri Easter
+artist_playmeid: 63801
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: ce85d0e050f1f0284ab65994ddbb5673
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (325,)
+beats_start: shape = (325,)
+danceability: 0.0
+duration: 185.57342
+end_of_fade_in: 0.537
+energy: 0.0
+key: 1
+key_confidence: 0.31
+loudness: -6.604
+mode: 0
+mode_confidence: 0.545
+release: Sittin' On Cloud Nine
+release_7digitalid: 29466
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (602,)
+segments_loudness_max: shape = (602,)
+segments_loudness_max_time: shape = (602,)
+segments_loudness_start: shape = (602,)
+segments_pitches: shape = (602, 12)
+segments_start: shape = (602,)
+segments_timbre: shape = (602, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOVAZY12A6D4F8CFC
+start_of_fade_out: 173.476
+tatums_confidence: shape = (649,)
+tatums_start: shape = (649,)
+tempo: 110.209
+time_signature: 4
+time_signature_confidence: 1.0
+title: Morning's Coming
+track_7digitalid: 325099
+track_id: TRAJBUP128F146B4CA
+year: 0

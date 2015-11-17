@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 317079
+artist_familiarity: 0.536808944761
+artist_hotttnesss: 0.452972017488
+artist_id: ART97VL1187FB3BD45
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 856256bc-1ba3-4989-a8e5-fa247ad7a8b4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: F4
+artist_playmeid: 4112
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 87f68b3e7f4a34d4a03b911214caa3e6
+bars_confidence: shape = (156,)
+bars_start: shape = (156,)
+beats_confidence: shape = (626,)
+beats_start: shape = (626,)
+danceability: 0.0
+duration: 279.32689
+end_of_fade_in: 0.461
+energy: 0.0
+key: 2
+key_confidence: 0.305
+loudness: -10.432
+mode: 1
+mode_confidence: 0.321
+release: Discobeatles
+release_7digitalid: 553504
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1412,)
+segments_loudness_max: shape = (1412,)
+segments_loudness_max_time: shape = (1412,)
+segments_loudness_start: shape = (1412,)
+segments_pitches: shape = (1412, 12)
+segments_start: shape = (1412,)
+segments_timbre: shape = (1412, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAWLJU12AB017FF58
+start_of_fade_out: 275.958
+tatums_confidence: shape = (1252,)
+tatums_start: shape = (1252,)
+tempo: 135.064
+time_signature: 4
+time_signature_confidence: 0.0
+title: Get Back
+track_7digitalid: 6119412
+track_id: TRAHOWC128F9337C07
+year: 0

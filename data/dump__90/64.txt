@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15596
+artist_familiarity: 0.374553435682
+artist_hotttnesss: 0.327543813378
+artist_id: ARDFZE61187FB45994
+artist_latitude: 35.83073
+artist_location: Tennessee
+artist_longitude: -85.97874
+artist_mbid: d8881a78-e6c6-4cd7-bd43-1a6c4b8ef4ba
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jake Hess
+artist_playmeid: 61308
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: fdfd12162d3d91f1fb12c39f167ffeab
+bars_confidence: shape = (122,)
+bars_start: shape = (122,)
+beats_confidence: shape = (495,)
+beats_start: shape = (495,)
+danceability: 0.0
+duration: 298.89261
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.35
+loudness: -15.102
+mode: 1
+mode_confidence: 0.412
+release: Special Homecoming Moments
+release_7digitalid: 550688
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (981,)
+segments_loudness_max: shape = (981,)
+segments_loudness_max_time: shape = (981,)
+segments_loudness_start: shape = (981,)
+segments_pitches: shape = (981, 12)
+segments_start: shape = (981,)
+segments_timbre: shape = (981, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.253834736132
+song_id: SOPPWUZ12AB0180E3C
+start_of_fade_out: 293.326
+tatums_confidence: shape = (990,)
+tatums_start: shape = (990,)
+tempo: 99.958
+time_signature: 4
+time_signature_confidence: 0.741
+title: I Know Where I Am Now
+track_7digitalid: 6085481
+track_id: TRBFHUS128F932F7BE
+year: 2004

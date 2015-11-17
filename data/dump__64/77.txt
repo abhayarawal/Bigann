@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5922
+artist_familiarity: 0.333891378616
+artist_hotttnesss: 0.425364038168
+artist_id: ARKF8XU1187B9A990A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9d2dfa19-26a9-47ec-a45c-c354ae54b9cf
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Don Davis
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 5caae339c3be2ab340641a23c5bca2c7
+bars_confidence: shape = (185,)
+bars_start: shape = (185,)
+beats_confidence: shape = (559,)
+beats_start: shape = (559,)
+danceability: 0.0
+duration: 255.32036
+end_of_fade_in: 2.85
+energy: 0.0
+key: 10
+key_confidence: 0.431
+loudness: -27.24
+mode: 0
+mode_confidence: 0.471
+release: Matrix Revolutions: The Motion Picture Soundtrack
+release_7digitalid: 8670
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (398,)
+segments_loudness_max: shape = (398,)
+segments_loudness_max_time: shape = (398,)
+segments_loudness_start: shape = (398,)
+segments_pitches: shape = (398, 12)
+segments_start: shape = (398,)
+segments_timbre: shape = (398, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCZOGJ12A6701C3F3
+start_of_fade_out: 244.123
+tatums_confidence: shape = (1117,)
+tatums_start: shape = (1117,)
+tempo: 138.494
+time_signature: 3
+time_signature_confidence: 0.279
+title: Trinity Definitely (Album Version)
+track_7digitalid: 87712
+track_id: TRAWDYU128E07866AD
+year: 0

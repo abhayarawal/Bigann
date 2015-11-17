@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17075
+artist_familiarity: 0.412473042373
+artist_hotttnesss: 0.306976307226
+artist_id: AR9F71I1187FB46CAF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 63da067e-d1ba-4e39-a1ac-ef09594993c4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gordon MacRae
+artist_playmeid: 149144
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 87da1b9752b771f4a64c7076682b835b
+bars_confidence: shape = (34,)
+bars_start: shape = (34,)
+beats_confidence: shape = (229,)
+beats_start: shape = (229,)
+danceability: 0.0
+duration: 179.59138
+end_of_fade_in: 2.519
+energy: 0.0
+key: 3
+key_confidence: 0.125
+loudness: -16.215
+mode: 1
+mode_confidence: 0.24
+release: Stars Of The Summer Night
+release_7digitalid: 301417
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (489,)
+segments_loudness_max: shape = (489,)
+segments_loudness_max_time: shape = (489,)
+segments_loudness_start: shape = (489,)
+segments_pitches: shape = (489, 12)
+segments_start: shape = (489,)
+segments_timbre: shape = (489, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWTBIV12A8C13B607
+start_of_fade_out: 173.662
+tatums_confidence: shape = (458,)
+tatums_start: shape = (458,)
+tempo: 77.929
+time_signature: 5
+time_signature_confidence: 0.94
+title: Do You Ever Think Of Me
+track_7digitalid: 3391759
+track_id: TRACMVZ128F429AE0E
+year: 0

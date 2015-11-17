@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4738
+artist_familiarity: 0.482148324971
+artist_hotttnesss: 0.344198187483
+artist_id: ARFCOGY1187FB454B4
+artist_latitude: nan
+artist_location: Detroit, MI
+artist_longitude: nan
+artist_mbid: 29e51d5b-33e6-4646-be96-245c77a49d36
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Winans
+artist_playmeid: -1
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 6d75a925d150809397651013d25b5585
+bars_confidence: shape = (126,)
+bars_start: shape = (126,)
+beats_confidence: shape = (510,)
+beats_start: shape = (510,)
+danceability: 0.0
+duration: 277.83791
+end_of_fade_in: 2.426
+energy: 0.0
+key: 9
+key_confidence: 0.634
+loudness: -9.947
+mode: 1
+mode_confidence: 0.473
+release: Heart And Soul
+release_7digitalid: 343298
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (866,)
+segments_loudness_max: shape = (866,)
+segments_loudness_max_time: shape = (866,)
+segments_loudness_start: shape = (866,)
+segments_pitches: shape = (866, 12)
+segments_start: shape = (866,)
+segments_timbre: shape = (866, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOAZQTG12AB0183237
+start_of_fade_out: 268.353
+tatums_confidence: shape = (1020,)
+tatums_start: shape = (1020,)
+tempo: 110.123
+time_signature: 4
+time_signature_confidence: 1.0
+title: The Question Is (Album Version)
+track_7digitalid: 3844919
+track_id: TRBDRFM128F9301DAD
+year: 0

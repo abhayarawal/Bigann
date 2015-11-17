@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 975
+artist_familiarity: 0.648902582007
+artist_hotttnesss: 0.440835006713
+artist_id: ARP07GD1187B9B9DA4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0ef70a3e-fcd9-4de2-bfc9-a3e5ce99f380
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Los Originales De San Juan
+artist_playmeid: 11015
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: fb1c451a677e101cb08f51f68a95081c
+bars_confidence: shape = (182,)
+bars_start: shape = (182,)
+beats_confidence: shape = (732,)
+beats_start: shape = (732,)
+danceability: 0.0
+duration: 196.93669
+end_of_fade_in: 0.273
+energy: 0.0
+key: 0
+key_confidence: 0.632
+loudness: -7.445
+mode: 1
+mode_confidence: 0.569
+release: Mi Padre Querido
+release_7digitalid: 769192
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (881,)
+segments_loudness_max: shape = (881,)
+segments_loudness_max_time: shape = (881,)
+segments_loudness_start: shape = (881,)
+segments_pitches: shape = (881, 12)
+segments_start: shape = (881,)
+segments_timbre: shape = (881, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGOMGW12AB0188626
+start_of_fade_out: 191.983
+tatums_confidence: shape = (1463,)
+tatums_start: shape = (1463,)
+tempo: 229.221
+time_signature: 4
+time_signature_confidence: 0.862
+title: Con La Misma Tijera
+track_7digitalid: 8519618
+track_id: TRBHIOA12903CD824F
+year: 0

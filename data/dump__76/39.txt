@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4692
+artist_familiarity: 0.54448820111
+artist_hotttnesss: 0.40325046567
+artist_id: AR2MD2P1187FB5B328
+artist_latitude: nan
+artist_location: Detroit
+artist_longitude: nan
+artist_mbid: 3a389027-814a-4f99-8f12-44e5276595cf
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Marshall Crenshaw
+artist_playmeid: 6924
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 06185d64e54efb5ec626805d53b2cb39
+bars_confidence: shape = (121,)
+bars_start: shape = (121,)
+beats_confidence: shape = (497,)
+beats_start: shape = (497,)
+danceability: 0.0
+duration: 244.76689
+end_of_fade_in: 0.177
+energy: 0.0
+key: 9
+key_confidence: 0.62
+loudness: -5.938
+mode: 1
+mode_confidence: 0.634
+release: What's in the Bag?
+release_7digitalid: 633584
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (691,)
+segments_loudness_max: shape = (691,)
+segments_loudness_max_time: shape = (691,)
+segments_loudness_start: shape = (691,)
+segments_pitches: shape = (691, 12)
+segments_start: shape = (691,)
+segments_timbre: shape = (691, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOMDOPM12AB0181990
+start_of_fade_out: 225.779
+tatums_confidence: shape = (994,)
+tatums_start: shape = (994,)
+tempo: 121.837
+time_signature: 4
+time_signature_confidence: 1.0
+title: From Now Until Then
+track_7digitalid: 7031814
+track_id: TRBABKP128F932D6FC
+year: 2003

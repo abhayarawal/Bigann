@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 29233
+artist_familiarity: 0.608824805464
+artist_hotttnesss: 0.42865098879
+artist_id: ARONPP01187B995FB5
+artist_latitude: 52.88356
+artist_location: England
+artist_longitude: -1.97406
+artist_mbid: 9a4c746f-8ae7-47a1-8292-937ec6792e7a
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Cockney Rejects
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: f32f45a715ebe968e747e5e0495ebda3
+bars_confidence: shape = (311,)
+bars_start: shape = (311,)
+beats_confidence: shape = (311,)
+beats_start: shape = (311,)
+danceability: 0.0
+duration: 204.93016
+end_of_fade_in: 1.232
+energy: 0.0
+key: 2
+key_confidence: 0.647
+loudness: -6.971
+mode: 1
+mode_confidence: 0.04
+release: Oi! The Album
+release_7digitalid: 587938
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (651,)
+segments_loudness_max: shape = (651,)
+segments_loudness_max_time: shape = (651,)
+segments_loudness_start: shape = (651,)
+segments_pitches: shape = (651, 12)
+segments_start: shape = (651,)
+segments_timbre: shape = (651, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWMHYX12AB0188761
+start_of_fade_out: 192.18
+tatums_confidence: shape = (623,)
+tatums_start: shape = (623,)
+tempo: 92.957
+time_signature: 1
+time_signature_confidence: 0.0
+title: Oi! Oi! Oi!
+track_7digitalid: 6520295
+track_id: TRAQTBF12903CCC1B7
+year: 1997

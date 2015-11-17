@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7593
+artist_familiarity: 0.707204743933
+artist_hotttnesss: 0.519636855546
+artist_id: ARL5BEN1187B98E4D9
+artist_latitude: nan
+artist_location: Montego Bay, Jamaica
+artist_longitude: nan
+artist_mbid: 07b5e94b-95ac-467d-80e0-a691c709dd11
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Jah Cure
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 929311f17fa90870c70dbee9440d93fb
+bars_confidence: shape = (642,)
+bars_start: shape = (642,)
+beats_confidence: shape = (642,)
+beats_start: shape = (642,)
+danceability: 0.0
+duration: 240.48281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.359
+loudness: -6.335
+mode: 0
+mode_confidence: 0.365
+release: Ghetto Life
+release_7digitalid: 704924
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (948,)
+segments_loudness_max: shape = (948,)
+segments_loudness_max_time: shape = (948,)
+segments_loudness_start: shape = (948,)
+segments_pitches: shape = (948, 12)
+segments_start: shape = (948,)
+segments_timbre: shape = (948, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.564476146002
+song_id: SOGCFKE12AB01843C0
+start_of_fade_out: 235.712
+tatums_confidence: shape = (1285,)
+tatums_start: shape = (1285,)
+tempo: 160.655
+time_signature: 1
+time_signature_confidence: 0.0
+title: How Can I
+track_7digitalid: 7819009
+track_id: TRBCWQC12903CA45DE
+year: 2003

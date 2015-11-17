@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22146
+artist_familiarity: 0.596961478015
+artist_hotttnesss: 0.392272618425
+artist_id: ARE0OI31187FB3DCA2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bd872e2f-3dce-4932-b8dc-91cf949cfbb5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Leningrad Cowboys
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: aabf4ef318b450a099be25e5fe3d2589
+bars_confidence: shape = (135,)
+bars_start: shape = (135,)
+beats_confidence: shape = (545,)
+beats_start: shape = (545,)
+danceability: 0.0
+duration: 195.5522
+end_of_fade_in: 0.334
+energy: 0.0
+key: 9
+key_confidence: 0.471
+loudness: -7.497
+mode: 1
+mode_confidence: 0.376
+release: Go space
+release_7digitalid: 642781
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (663,)
+segments_loudness_max: shape = (663,)
+segments_loudness_max_time: shape = (663,)
+segments_loudness_start: shape = (663,)
+segments_pitches: shape = (663, 12)
+segments_start: shape = (663,)
+segments_timbre: shape = (663, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.41373983586
+song_id: SOEPMHW12AB018859A
+start_of_fade_out: 192.058
+tatums_confidence: shape = (1090,)
+tatums_start: shape = (1090,)
+tempo: 169.938
+time_signature: 4
+time_signature_confidence: 1.0
+title: Ulan Bator Girls
+track_7digitalid: 7127463
+track_id: TRAYUKR128F9344BB4
+year: 1996

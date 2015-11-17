@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41173
+artist_familiarity: 0.460574212042
+artist_hotttnesss: 0.300128252649
+artist_id: ARKNICM1187B9B9CE5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d179fe22-0c20-410f-bfa5-5903f1953e9c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mick Moloney
+artist_playmeid: 155540
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 95752dbfdb20db7c266e8db4b9f0c14b
+bars_confidence: shape = (769,)
+bars_start: shape = (769,)
+beats_confidence: shape = (769,)
+beats_start: shape = (769,)
+danceability: 0.0
+duration: 204.95628
+end_of_fade_in: 0.194
+energy: 0.0
+key: 2
+key_confidence: 0.627
+loudness: -13.291
+mode: 1
+mode_confidence: 0.713
+release: Irish Folk Favourites
+release_7digitalid: 340648
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1257,)
+segments_loudness_max: shape = (1257,)
+segments_loudness_max_time: shape = (1257,)
+segments_loudness_start: shape = (1257,)
+segments_pitches: shape = (1257, 12)
+segments_start: shape = (1257,)
+segments_timbre: shape = (1257, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOLXPTW12AB017D6EB
+start_of_fade_out: 197.706
+tatums_confidence: shape = (1539,)
+tatums_start: shape = (1539,)
+tempo: 229.749
+time_signature: 1
+time_signature_confidence: 0.0
+title: Medley
+track_7digitalid: 3808963
+track_id: TRAWSIV128F92FA32B
+year: 0

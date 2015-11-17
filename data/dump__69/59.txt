@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 241432
+artist_familiarity: 0.653340692663
+artist_hotttnesss: 0.449608088309
+artist_id: ARLLRL61187B9B6698
+artist_latitude: 47.25513
+artist_location: Tacoma, WA
+artist_longitude: -122.44165
+artist_mbid: 16346cf4-4d2b-40ec-8393-0fc7296d92fe
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Sonics
+artist_playmeid: 128437
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: ac90c2e18fecb1340025ca1f7d25bdfa
+bars_confidence: shape = (150,)
+bars_start: shape = (150,)
+beats_confidence: shape = (455,)
+beats_start: shape = (455,)
+danceability: 0.0
+duration: 171.15383
+end_of_fade_in: 0.242
+energy: 0.0
+key: 9
+key_confidence: 0.561
+loudness: -14.876
+mode: 0
+mode_confidence: 0.455
+release: Fire and Ice II - The 'Lost' Tapes
+release_7digitalid: 551402
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (480,)
+segments_loudness_max: shape = (480,)
+segments_loudness_max_time: shape = (480,)
+segments_loudness_start: shape = (480,)
+segments_pitches: shape = (480, 12)
+segments_start: shape = (480,)
+segments_timbre: shape = (480, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.425124658313
+song_id: SOWBFRD12AB017EA35
+start_of_fade_out: 153.919
+tatums_confidence: shape = (455,)
+tatums_start: shape = (455,)
+tempo: 163.371
+time_signature: 3
+time_signature_confidence: 0.719
+title: Love Lights
+track_7digitalid: 6096202
+track_id: TRAXUBG128F9332164
+year: 1967

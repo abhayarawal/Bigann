@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13912
+artist_familiarity: 0.806762595659
+artist_hotttnesss: 0.580095045199
+artist_id: ARF6ZTO1187FB3684F
+artist_latitude: nan
+artist_location: LONG BEACH, California
+artist_longitude: nan
+artist_mbid: e2c3c508-f0ab-49af-92c9-a81d66d67405
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Story Of The Year
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: a42a25c3719ddded92e54c44acba036d
+bars_confidence: shape = (31,)
+bars_start: shape = (31,)
+beats_confidence: shape = (127,)
+beats_start: shape = (127,)
+danceability: 0.0
+duration: 75.57179
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.016
+loudness: -7.626
+mode: 1
+mode_confidence: 0.331
+release: Live In The Lou
+release_7digitalid: 138157
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (145,)
+segments_loudness_max: shape = (145,)
+segments_loudness_max_time: shape = (145,)
+segments_loudness_start: shape = (145,)
+segments_pitches: shape = (145, 12)
+segments_start: shape = (145,)
+segments_timbre: shape = (145, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOLCALW12A8C132870
+start_of_fade_out: 75.572
+tatums_confidence: shape = (256,)
+tatums_start: shape = (256,)
+tempo: 100.032
+time_signature: 4
+time_signature_confidence: 1.0
+title: Swallow The Knife (Live) (Segue)
+track_7digitalid: 1447216
+track_id: TRABDSK128F42443F1
+year: 2005

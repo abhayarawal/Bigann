@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15229
+artist_familiarity: 0.731065755711
+artist_hotttnesss: 0.509878707853
+artist_id: AREPD8D1187FB3F5BC
+artist_latitude: nan
+artist_location: Gainesville, FL
+artist_longitude: nan
+artist_mbid: 3b141e34-8c02-4074-b68a-7d64e3212acd
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sister Hazel
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: f043317a9e3fa3aece29df75c729b7b1
+bars_confidence: shape = (91,)
+bars_start: shape = (91,)
+beats_confidence: shape = (369,)
+beats_start: shape = (369,)
+danceability: 0.0
+duration: 231.36608
+end_of_fade_in: 0.13
+energy: 0.0
+key: 9
+key_confidence: 0.795
+loudness: -7.128
+mode: 1
+mode_confidence: 0.703
+release: Release
+release_7digitalid: 555552
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (675,)
+segments_loudness_max: shape = (675,)
+segments_loudness_max_time: shape = (675,)
+segments_loudness_start: shape = (675,)
+segments_pitches: shape = (675, 12)
+segments_start: shape = (675,)
+segments_timbre: shape = (675, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.594854167907
+song_id: SOOICPO12AB018321A
+start_of_fade_out: 219.336
+tatums_confidence: shape = (738,)
+tatums_start: shape = (738,)
+tempo: 100.029
+time_signature: 4
+time_signature_confidence: 0.568
+title: Vacation Rain (Album)
+track_7digitalid: 6141965
+track_id: TRBAOXY128F933D3C8
+year: 2010

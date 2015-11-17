@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 410768
+artist_familiarity: 0.394221668354
+artist_hotttnesss: 0.349669629946
+artist_id: ARHC1RH11A348F085D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e232be51-bf58-459e-9ea0-448676f0217d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Roger Subirana
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 87a80b58151514af64499d311537c390
+bars_confidence: shape = (136,)
+bars_start: shape = (136,)
+beats_confidence: shape = (548,)
+beats_start: shape = (548,)
+danceability: 0.0
+duration: 288.07791
+end_of_fade_in: 7.274
+energy: 0.0
+key: 8
+key_confidence: 0.851
+loudness: -14.015
+mode: 1
+mode_confidence: 0.74
+release: L'indret Prohibit
+release_7digitalid: 556508
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1114,)
+segments_loudness_max: shape = (1114,)
+segments_loudness_max_time: shape = (1114,)
+segments_loudness_start: shape = (1114,)
+segments_pitches: shape = (1114, 12)
+segments_start: shape = (1114,)
+segments_timbre: shape = (1114, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOAQDXZ12A58A7FFBC
+start_of_fade_out: 259.965
+tatums_confidence: shape = (1097,)
+tatums_start: shape = (1097,)
+tempo: 116.866
+time_signature: 4
+time_signature_confidence: 0.773
+title: Un Res Pyr
+track_7digitalid: 6154782
+track_id: TRANMMN128F93405A0
+year: 2002

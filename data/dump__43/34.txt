@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 34989
+artist_familiarity: 0.585387198606
+artist_hotttnesss: 0.429513639801
+artist_id: ARPVRUC1187FB4F1DE
+artist_latitude: nan
+artist_location: Oakland, CA
+artist_longitude: nan
+artist_mbid: d1e1c4d7-cf24-4ea2-96e4-f74e3f4d97ef
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pitch Black
+artist_playmeid: -1
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: f675d434909788b6ad80a3c9e6276b45
+bars_confidence: shape = (205,)
+bars_start: shape = (205,)
+beats_confidence: shape = (822,)
+beats_start: shape = (822,)
+danceability: 0.0
+duration: 377.36444
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.097
+loudness: -6.597
+mode: 1
+mode_confidence: 0.108
+release: Expectations
+release_7digitalid: 582541
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (2469,)
+segments_loudness_max: shape = (2469,)
+segments_loudness_max_time: shape = (2469,)
+segments_loudness_start: shape = (2469,)
+segments_pitches: shape = (2469, 12)
+segments_start: shape = (2469,)
+segments_timbre: shape = (2469, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZQJVN12AB018DC00
+start_of_fade_out: 370.149
+tatums_confidence: shape = (1644,)
+tatums_start: shape = (1644,)
+tempo: 130.957
+time_signature: 4
+time_signature_confidence: 0.0
+title: Harmonia
+track_7digitalid: 6458917
+track_id: TRAOUAG12903CBD58D
+year: 0

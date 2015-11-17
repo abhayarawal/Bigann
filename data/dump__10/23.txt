@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4621
+artist_familiarity: 0.674913857635
+artist_hotttnesss: 0.479187492236
+artist_id: AR6W5MS1187FB3BF47
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 9b106beb-12b5-4525-8025-42e295a2b90a
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Little Feat
+artist_playmeid: 6579
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 1b303114d29f2e2282d491185de99c58
+bars_confidence: shape = (91,)
+bars_start: shape = (91,)
+beats_confidence: shape = (367,)
+beats_start: shape = (367,)
+danceability: 0.0
+duration: 228.98893
+end_of_fade_in: 0.212
+energy: 0.0
+key: 0
+key_confidence: 0.177
+loudness: -9.978
+mode: 1
+mode_confidence: 0.561
+release: The Best Of Little Feat
+release_7digitalid: 45697
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (773,)
+segments_loudness_max: shape = (773,)
+segments_loudness_max_time: shape = (773,)
+segments_loudness_start: shape = (773,)
+segments_pitches: shape = (773, 12)
+segments_start: shape = (773,)
+segments_timbre: shape = (773, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.270775998946
+song_id: SOCSLWU12A58A7E43A
+start_of_fade_out: 212.172
+tatums_confidence: shape = (733,)
+tatums_start: shape = (733,)
+tempo: 97.342
+time_signature: 4
+time_signature_confidence: 0.0
+title: Down On The Farm (2006 Remastered Edit Version)
+track_7digitalid: 487549
+track_id: TRADJSM128F14894AA
+year: 2006

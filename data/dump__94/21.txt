@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13447
+artist_familiarity: 0.686988954629
+artist_hotttnesss: 0.606630151729
+artist_id: ARX9YIP1187B98A656
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5ecc3f72-20a6-47a0-8dc5-fb0b3dadeea0
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: RUN-DMC
+artist_playmeid: 1373
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: dc7ef0c39e7f5900928acb3af0f6d01b
+bars_confidence: shape = (179,)
+bars_start: shape = (179,)
+beats_confidence: shape = (718,)
+beats_start: shape = (718,)
+danceability: 0.0
+duration: 266.21342
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.0
+loudness: -7.663
+mode: 0
+mode_confidence: 0.105
+release: King Of Rock
+release_7digitalid: 386879
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1053,)
+segments_loudness_max: shape = (1053,)
+segments_loudness_max_time: shape = (1053,)
+segments_loudness_start: shape = (1053,)
+segments_pitches: shape = (1053, 12)
+segments_start: shape = (1053,)
+segments_timbre: shape = (1053, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFMGHL12AB017AD79
+start_of_fade_out: 251.722
+tatums_confidence: shape = (1437,)
+tatums_start: shape = (1437,)
+tempo: 163.881
+time_signature: 4
+time_signature_confidence: 0.82
+title: Slow And Low
+track_7digitalid: 4296043
+track_id: TRBGMUA128F92E9A1C
+year: 1985

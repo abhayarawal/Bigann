@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18252
+artist_familiarity: 0.674839435823
+artist_hotttnesss: 0.425450613864
+artist_id: AR0WGXC1187B9AAC99
+artist_latitude: nan
+artist_location: Detroit MI
+artist_longitude: nan
+artist_mbid: c0c1183e-6940-48ca-8f96-98250fcb3ef1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Slum Village
+artist_playmeid: 61553
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 929aa141b4d392d697040df4ea020ade
+bars_confidence: shape = (31,)
+bars_start: shape = (31,)
+beats_confidence: shape = (132,)
+beats_start: shape = (132,)
+danceability: 0.0
+duration: 84.47955
+end_of_fade_in: 0.172
+energy: 0.0
+key: 4
+key_confidence: 0.065
+loudness: -12.75
+mode: 0
+mode_confidence: 0.39
+release: Fan-Tas-Tic Vol. 1
+release_7digitalid: 260078
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (364,)
+segments_loudness_max: shape = (364,)
+segments_loudness_max_time: shape = (364,)
+segments_loudness_start: shape = (364,)
+segments_pitches: shape = (364, 12)
+segments_start: shape = (364,)
+segments_timbre: shape = (364, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.611454433646
+song_id: SOVIKHZ12A58A787E1
+start_of_fade_out: 79.47
+tatums_confidence: shape = (265,)
+tatums_start: shape = (265,)
+tempo: 93.352
+time_signature: 4
+time_signature_confidence: 1.0
+title: Estimate
+track_7digitalid: 2862124
+track_id: TRBFGZZ128F426DE40
+year: 1997

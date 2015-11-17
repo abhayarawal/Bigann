@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 603017
+artist_familiarity: 0.610363644406
+artist_hotttnesss: 0.0
+artist_id: ARIZCNG12802FDFC69
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Coraleena Ellis
+artist_playmeid: -1
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: 32f828e550fac9be01375cc696aba31a
+bars_confidence: shape = (365,)
+bars_start: shape = (365,)
+beats_confidence: shape = (365,)
+beats_start: shape = (365,)
+danceability: 0.0
+duration: 250.77506
+end_of_fade_in: 0.2
+energy: 0.0
+key: 11
+key_confidence: 0.379
+loudness: -12.198
+mode: 0
+mode_confidence: 0.403
+release: Let Me Be Free
+release_7digitalid: 808634
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1019,)
+segments_loudness_max: shape = (1019,)
+segments_loudness_max_time: shape = (1019,)
+segments_loudness_start: shape = (1019,)
+segments_pitches: shape = (1019, 12)
+segments_start: shape = (1019,)
+segments_timbre: shape = (1019, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOZYWLD12AB01859CE
+start_of_fade_out: 238.945
+tatums_confidence: shape = (1097,)
+tatums_start: shape = (1097,)
+tempo: 88.015
+time_signature: 1
+time_signature_confidence: 0.693
+title: Wide Awake In A Dream
+track_7digitalid: 8940718
+track_id: TRAHFPF12903CCAF15
+year: 0

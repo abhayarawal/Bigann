@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 39546
+artist_familiarity: 0.590692917947
+artist_hotttnesss: 0.452817837697
+artist_id: AR5U94U1187FB5CDCF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d83e599c-2d5a-44ec-b727-587e1455b1b5
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: John Hammond
+artist_playmeid: 7350
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 8bd7911d74bd9afce01290bad03d195d
+bars_confidence: shape = (96,)
+bars_start: shape = (96,)
+beats_confidence: shape = (388,)
+beats_start: shape = (388,)
+danceability: 0.0
+duration: 195.3171
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.98
+loudness: -10.7
+mode: 1
+mode_confidence: 0.753
+release: Bluesman
+release_7digitalid: 575531
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (767,)
+segments_loudness_max: shape = (767,)
+segments_loudness_max_time: shape = (767,)
+segments_loudness_start: shape = (767,)
+segments_pitches: shape = (767, 12)
+segments_start: shape = (767,)
+segments_timbre: shape = (767, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTSETT12AB01863B8
+start_of_fade_out: 187.617
+tatums_confidence: shape = (776,)
+tatums_start: shape = (776,)
+tempo: 123.142
+time_signature: 4
+time_signature_confidence: 0.678
+title: I Can't Be Satisfied
+track_7digitalid: 6378564
+track_id: TRAADOF12903CAA1C1
+year: 2002

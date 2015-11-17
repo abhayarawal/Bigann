@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9718
+artist_familiarity: 0.726298027446
+artist_hotttnesss: 0.555414575816
+artist_id: AR7Y6JX1187FB4D9B3
+artist_latitude: nan
+artist_location: Washington, D.C.
+artist_longitude: nan
+artist_mbid: e919b253-da5b-4aae-a444-6a368376a2d6
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Bad Brains
+artist_playmeid: 6595
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: bbcd6fa90e6eb88f75c505d39510c94c
+bars_confidence: shape = (252,)
+bars_start: shape = (252,)
+beats_confidence: shape = (252,)
+beats_start: shape = (252,)
+danceability: 0.0
+duration: 119.71873
+end_of_fade_in: 0.118
+energy: 0.0
+key: 5
+key_confidence: 0.865
+loudness: -10.19
+mode: 0
+mode_confidence: 0.745
+release: Rock For Light
+release_7digitalid: 160699
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (401,)
+segments_loudness_max: shape = (401,)
+segments_loudness_max_time: shape = (401,)
+segments_loudness_start: shape = (401,)
+segments_pitches: shape = (401, 12)
+segments_start: shape = (401,)
+segments_timbre: shape = (401, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSFKCZ12AF72A3C24
+start_of_fade_out: 119.719
+tatums_confidence: shape = (504,)
+tatums_start: shape = (504,)
+tempo: 127.191
+time_signature: 1
+time_signature_confidence: 0.0
+title: Riot Squad (1991 Digital Remaster)
+track_7digitalid: 1696287
+track_id: TRAFZIM128F427D344
+year: 1983

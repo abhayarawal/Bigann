@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 106363
+artist_familiarity: 0.493486473129
+artist_hotttnesss: 0.3863121306
+artist_id: ARXLOGT1187FB45068
+artist_latitude: 34.19767
+artist_location: PLAINVIEW, Texas
+artist_longitude: -101.69814
+artist_mbid: 288af6c6-e5b7-4b2b-8f30-d164a05fa6a3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jennifer Brown
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: cc83e30f86887e497a63460f7ccc8aec
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (360,)
+beats_start: shape = (360,)
+danceability: 0.0
+duration: 239.0722
+end_of_fade_in: 0.459
+energy: 0.0
+key: 8
+key_confidence: 0.512
+loudness: -8.246
+mode: 1
+mode_confidence: 0.655
+release: Vera
+release_7digitalid: 301993
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1049,)
+segments_loudness_max: shape = (1049,)
+segments_loudness_max_time: shape = (1049,)
+segments_loudness_start: shape = (1049,)
+segments_pitches: shape = (1049, 12)
+segments_start: shape = (1049,)
+segments_timbre: shape = (1049, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONYXMF12A8C13EB31
+start_of_fade_out: 224.253
+tatums_confidence: shape = (1441,)
+tatums_start: shape = (1441,)
+tempo: 90.915
+time_signature: 4
+time_signature_confidence: 0.496
+title: Naked
+track_7digitalid: 3412385
+track_id: TRADHPE128F429FE9C
+year: 1998

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 331722
+artist_familiarity: 0.0615124944127
+artist_hotttnesss: 0.203607934358
+artist_id: ARTTIRC12086C121DC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9b0778d6-6137-40b7-9a2b-2a45dcd07e0f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gene Latter
+artist_playmeid: 167096
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 041d8a101e35849836222c8abf440c4f
+bars_confidence: shape = (60,)
+bars_start: shape = (60,)
+beats_confidence: shape = (242,)
+beats_start: shape = (242,)
+danceability: 0.0
+duration: 167.00036
+end_of_fade_in: 0.069
+energy: 0.0
+key: 4
+key_confidence: 0.096
+loudness: -13.135
+mode: 1
+mode_confidence: 0.325
+release: Groove It
+release_7digitalid: 448201
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (681,)
+segments_loudness_max: shape = (681,)
+segments_loudness_max_time: shape = (681,)
+segments_loudness_start: shape = (681,)
+segments_pitches: shape = (681, 12)
+segments_start: shape = (681,)
+segments_timbre: shape = (681, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBCOUT12A58A7A52A
+start_of_fade_out: 156.717
+tatums_confidence: shape = (726,)
+tatums_start: shape = (726,)
+tempo: 86.949
+time_signature: 4
+time_signature_confidence: 0.312
+title: Groove It
+track_7digitalid: 4973698
+track_id: TRAIDXI128F9307464
+year: 0

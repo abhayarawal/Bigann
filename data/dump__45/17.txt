@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3041
+artist_familiarity: 0.751007620037
+artist_hotttnesss: 0.523699077765
+artist_id: ARDGB6U1187FB3AD07
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: b4d32cff-f19e-455f-86c4-f347d824ca61
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Eurythmics
+artist_playmeid: 576
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 447c9fa5b64859bf02f968eb32b14d6b
+bars_confidence: shape = (176,)
+bars_start: shape = (176,)
+beats_confidence: shape = (707,)
+beats_start: shape = (707,)
+danceability: 0.0
+duration: 305.10975
+end_of_fade_in: 0.165
+energy: 0.0
+key: 5
+key_confidence: 0.758
+loudness: -12.602
+mode: 0
+mode_confidence: 0.552
+release: 3 Originals
+release_7digitalid: 307073
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (960,)
+segments_loudness_max: shape = (960,)
+segments_loudness_max_time: shape = (960,)
+segments_loudness_start: shape = (960,)
+segments_pitches: shape = (960, 12)
+segments_start: shape = (960,)
+segments_timbre: shape = (960, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQEBKX12A8C140A0F
+start_of_fade_out: 293.349
+tatums_confidence: shape = (1415,)
+tatums_start: shape = (1415,)
+tempo: 140.549
+time_signature: 4
+time_signature_confidence: 0.842
+title: Better To Have Lost In Love (Than Never To Have Loved)
+track_7digitalid: 3461480
+track_id: TRAPKSE128F42AB9FB
+year: 0

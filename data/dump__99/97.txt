@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 52613
+artist_familiarity: 0.72257057351
+artist_hotttnesss: 0.49982631354
+artist_id: AR4C6V01187FB3BAF4
+artist_latitude: 39.55792
+artist_location: Portugal
+artist_longitude: -7.84481
+artist_mbid: 386b19c6-a3d2-414a-bef2-c178572b1cbe
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Moonspell
+artist_playmeid: 132208
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 3f28a2a4bd6b99b8a0c4abe5df0d1f0e
+bars_confidence: shape = (227,)
+bars_start: shape = (227,)
+beats_confidence: shape = (911,)
+beats_start: shape = (911,)
+danceability: 0.0
+duration: 386.19383
+end_of_fade_in: 0.177
+energy: 0.0
+key: 7
+key_confidence: 0.374
+loudness: -8.087
+mode: 1
+mode_confidence: 0.54
+release: Sin / Pecado
+release_7digitalid: 691752
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1132,)
+segments_loudness_max: shape = (1132,)
+segments_loudness_max_time: shape = (1132,)
+segments_loudness_start: shape = (1132,)
+segments_pitches: shape = (1132, 12)
+segments_start: shape = (1132,)
+segments_timbre: shape = (1132, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.594079585373
+song_id: SOLXXPY12A67ADABA0
+start_of_fade_out: 386.194
+tatums_confidence: shape = (1823,)
+tatums_start: shape = (1823,)
+tempo: 140.185
+time_signature: 4
+time_signature_confidence: 0.099
+title: The Hanged Man
+track_7digitalid: 7677054
+track_id: TRBIJMU12903CF892B
+year: 1998

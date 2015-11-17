@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 72184
+artist_familiarity: 0.577228502778
+artist_hotttnesss: 0.373552391014
+artist_id: ARYFXQ21187FB4DAEF
+artist_latitude: 27.53092
+artist_location: Laredo, TX
+artist_longitude: -99.502
+artist_mbid: 62da2ead-f055-4ad0-b939-3274bb2c54b2
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Poncho Sanchez / Dianne Reeves
+artist_playmeid: -1
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 1fb30d6633e7e6edcd16e2aa30c802c1
+bars_confidence: shape = (421,)
+bars_start: shape = (421,)
+beats_confidence: shape = (1266,)
+beats_start: shape = (1266,)
+danceability: 0.0
+duration: 355.05587
+end_of_fade_in: 0.321
+energy: 0.0
+key: 5
+key_confidence: 0.809
+loudness: -9.681
+mode: 0
+mode_confidence: 0.669
+release: Morning Cup Of Jazz
+release_7digitalid: 328334
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (1609,)
+segments_loudness_max: shape = (1609,)
+segments_loudness_max_time: shape = (1609,)
+segments_loudness_start: shape = (1609,)
+segments_pitches: shape = (1609, 12)
+segments_start: shape = (1609,)
+segments_timbre: shape = (1609, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXCLCB12AB01829E2
+start_of_fade_out: 340.468
+tatums_confidence: shape = (2532,)
+tatums_start: shape = (2532,)
+tempo: 215.461
+time_signature: 3
+time_signature_confidence: 0.358
+title: Morning
+track_7digitalid: 3694476
+track_id: TRAQFEZ128F92E565D
+year: 1999

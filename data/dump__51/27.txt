@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 201418
+artist_familiarity: 0.322322570256
+artist_hotttnesss: 0.249785968806
+artist_id: AROPU0111C8A414FF6
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4bffd92b-ff89-4a1e-962b-4883cd2dbd81
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Doniki
+artist_playmeid: -1
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: f1676309b569ae95dacf05f67341ed6f
+bars_confidence: shape = (728,)
+bars_start: shape = (728,)
+beats_confidence: shape = (728,)
+beats_start: shape = (728,)
+danceability: 0.0
+duration: 256.20853
+end_of_fade_in: 0.194
+energy: 0.0
+key: 4
+key_confidence: 0.745
+loudness: -17.266
+mode: 0
+mode_confidence: 0.668
+release: Drop It Acoustic Riddim
+release_7digitalid: 809843
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (937,)
+segments_loudness_max: shape = (937,)
+segments_loudness_max_time: shape = (937,)
+segments_loudness_start: shape = (937,)
+segments_pitches: shape = (937, 12)
+segments_start: shape = (937,)
+segments_timbre: shape = (937, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKDGJC12AB018BFB9
+start_of_fade_out: 252.836
+tatums_confidence: shape = (1457,)
+tatums_start: shape = (1457,)
+tempo: 175.202
+time_signature: 1
+time_signature_confidence: 0.0
+title: Girl You Need My Love
+track_7digitalid: 8955304
+track_id: TRARMPI12903CCE6BD
+year: 0

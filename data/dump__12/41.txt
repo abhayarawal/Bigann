@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 157861
+artist_familiarity: 0.607734319959
+artist_hotttnesss: 0.448452836637
+artist_id: ARVD9M11187FB49291
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a695fd12-6ff2-4ca1-8b88-c86360d3581d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Headhunter
+artist_playmeid: -1
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 01ec0ea7532212f59bc2cd9b144b1fd2
+bars_confidence: shape = (152,)
+bars_start: shape = (152,)
+beats_confidence: shape = (613,)
+beats_start: shape = (613,)
+danceability: 0.0
+duration: 277.81179
+end_of_fade_in: 0.09
+energy: 0.0
+key: 11
+key_confidence: 0.52
+loudness: -5.431
+mode: 1
+mode_confidence: 0.511
+release: A Bizarre Gardening Accident
+release_7digitalid: 208683
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (921,)
+segments_loudness_max: shape = (921,)
+segments_loudness_max_time: shape = (921,)
+segments_loudness_start: shape = (921,)
+segments_pitches: shape = (921, 12)
+segments_start: shape = (921,)
+segments_timbre: shape = (921, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.266955186276
+song_id: SOGVWMA12A8C1379BA
+start_of_fade_out: 277.812
+tatums_confidence: shape = (1226,)
+tatums_start: shape = (1226,)
+tempo: 133.005
+time_signature: 4
+time_signature_confidence: 0.098
+title: Signs Of Insanity
+track_7digitalid: 2261482
+track_id: TRAECSU128F426A84A
+year: 0

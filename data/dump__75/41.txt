@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30269
+artist_familiarity: 0.498834975258
+artist_hotttnesss: 0.379960766975
+artist_id: AR9OLFX1187B9A5762
+artist_latitude: 31.30757
+artist_location: Kosse, TX
+artist_longitude: -96.63166
+artist_mbid: c727f585-54e0-4e0d-b8ad-05f216f99244
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bob Wills
+artist_playmeid: 4912
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 74134e9bbef7f1d2710151d5f16f1e28
+bars_confidence: shape = (273,)
+bars_start: shape = (273,)
+beats_confidence: shape = (273,)
+beats_start: shape = (273,)
+danceability: 0.0
+duration: 151.69261
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.269
+loudness: -14.928
+mode: 1
+mode_confidence: 0.42
+release: Cotton Eyed Joe
+release_7digitalid: 757441
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (556,)
+segments_loudness_max: shape = (556,)
+segments_loudness_max_time: shape = (556,)
+segments_loudness_start: shape = (556,)
+segments_pitches: shape = (556, 12)
+segments_start: shape = (556,)
+segments_timbre: shape = (556, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPUSHG12AB0185454
+start_of_fade_out: 147.545
+tatums_confidence: shape = (547,)
+tatums_start: shape = (547,)
+tempo: 109.657
+time_signature: 1
+time_signature_confidence: 0.243
+title: Linda Lou
+track_7digitalid: 8384561
+track_id: TRAZSWV12903CB7370
+year: 0

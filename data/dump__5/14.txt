@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 34
+artist_familiarity: 0.851351443053
+artist_hotttnesss: 0.582346373958
+artist_id: ARA3I0J1187FB57869
+artist_latitude: nan
+artist_location: Poway, CA
+artist_longitude: nan
+artist_mbid: 0743b15a-3c32-48c8-ad58-cb325350befa
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Blink-182
+artist_playmeid: 85548
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: e9e502bb52871ebba37ce9f8a3fe8064
+bars_confidence: shape = (743,)
+bars_start: shape = (743,)
+beats_confidence: shape = (743,)
+beats_start: shape = (743,)
+danceability: 0.0
+duration: 225.12281
+end_of_fade_in: 0.17
+energy: 0.0
+key: 7
+key_confidence: 0.725
+loudness: -7.315
+mode: 1
+mode_confidence: 0.688
+release: Dude Ranch
+release_7digitalid: 371
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (915,)
+segments_loudness_max: shape = (915,)
+segments_loudness_max_time: shape = (915,)
+segments_loudness_start: shape = (915,)
+segments_pitches: shape = (915, 12)
+segments_start: shape = (915,)
+segments_timbre: shape = (915, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.674164746452
+song_id: SODPLYE12AB01898FB
+start_of_fade_out: 219.655
+tatums_confidence: shape = (1487,)
+tatums_start: shape = (1487,)
+tempo: 200.716
+time_signature: 1
+time_signature_confidence: 0.0
+title: A New Hope
+track_7digitalid: 3604
+track_id: TRABRMJ128E0780E42
+year: 1997

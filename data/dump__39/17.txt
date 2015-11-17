@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 135266
+artist_familiarity: 0.465193459847
+artist_hotttnesss: 0.349788068215
+artist_id: ARQTSDN1187FB41222
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 45d58f75-e21b-4c8f-92c5-4c890b838ee3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mark Feldman_ John Taylor_ Anders Jormin_ Tom Rainey
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 8baaf8cc9dc2f23c4c99cc92461e3398
+bars_confidence: shape = (177,)
+bars_start: shape = (177,)
+beats_confidence: shape = (746,)
+beats_start: shape = (746,)
+danceability: 0.0
+duration: 527.82975
+end_of_fade_in: 0.572
+energy: 0.0
+key: 8
+key_confidence: 0.211
+loudness: -27.513
+mode: 1
+mode_confidence: 0.249
+release: What Exit
+release_7digitalid: 178550
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (1344,)
+segments_loudness_max: shape = (1344,)
+segments_loudness_max_time: shape = (1344,)
+segments_loudness_start: shape = (1344,)
+segments_pitches: shape = (1344, 12)
+segments_start: shape = (1344,)
+segments_timbre: shape = (1344, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOVJFWT12A6D4FA5D4
+start_of_fade_out: 507.815
+tatums_confidence: shape = (1493,)
+tatums_start: shape = (1493,)
+tempo: 86.175
+time_signature: 4
+time_signature_confidence: 0.806
+title: Everafter
+track_7digitalid: 1927572
+track_id: TRANKMZ128F4229023
+year: 0

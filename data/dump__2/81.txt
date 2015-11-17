@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21128
+artist_familiarity: 0.801136449608
+artist_hotttnesss: 0.605507135691
+artist_id: AR10USD1187B99F3F1
+artist_latitude: nan
+artist_location: Burlington, Ontario, Canada
+artist_longitude: nan
+artist_mbid: d89de379-665d-425c-b2e9-41b95d1edb36
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Silverstein
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: c4c76c04e4750420fd48d1b2199269df
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (413,)
+beats_start: shape = (413,)
+danceability: 0.0
+duration: 229.642
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.548
+loudness: -1.998
+mode: 1
+mode_confidence: 0.602
+release: Discovering The Waterfront
+release_7digitalid: 128122
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (702,)
+segments_loudness_max: shape = (702,)
+segments_loudness_max_time: shape = (702,)
+segments_loudness_start: shape = (702,)
+segments_pitches: shape = (702, 12)
+segments_start: shape = (702,)
+segments_timbre: shape = (702, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.658623927287
+song_id: SOZEHMC12A6D4F9F30
+start_of_fade_out: 226.22
+tatums_confidence: shape = (825,)
+tatums_start: shape = (825,)
+tempo: 108.499
+time_signature: 4
+time_signature_confidence: 0.785
+title: Always And Never (Album Version)
+track_7digitalid: 1322748
+track_id: TRAAVOU128F422F292
+year: 2005

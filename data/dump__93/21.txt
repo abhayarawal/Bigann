@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40912
+artist_familiarity: 0.630871879294
+artist_hotttnesss: 0.415114608037
+artist_id: ARS2W231187B99EDEC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d9f9a722-362e-4be6-8748-00cd9454cb15
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mase
+artist_playmeid: -1
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 27162673f56edf75451c2da5da75db97
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (520,)
+beats_start: shape = (520,)
+danceability: 0.0
+duration: 234.31791
+end_of_fade_in: 0.073
+energy: 0.0
+key: 6
+key_confidence: 0.532
+loudness: -6.428
+mode: 0
+mode_confidence: 0.409
+release: Welcome Back
+release_7digitalid: 15284
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1123,)
+segments_loudness_max: shape = (1123,)
+segments_loudness_max_time: shape = (1123,)
+segments_loudness_start: shape = (1123,)
+segments_pitches: shape = (1123, 12)
+segments_start: shape = (1123,)
+segments_timbre: shape = (1123, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.586108245474
+song_id: SOKHWZT12A58A7F198
+start_of_fade_out: 224.299
+tatums_confidence: shape = (1560,)
+tatums_start: shape = (1560,)
+tempo: 133.827
+time_signature: 5
+time_signature_confidence: 1.0
+title: My Harlem Lullaby (Album Version)
+track_7digitalid: 159569
+track_id: TRBGELF128E07915B8
+year: 0

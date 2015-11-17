@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19911
+artist_familiarity: 0.562614767548
+artist_hotttnesss: 0.358435364244
+artist_id: AR2S6UD1187B9B944F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: dbe1d6c8-1319-4369-924a-65bb1f9fced5
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: León Gieco
+artist_playmeid: 16820
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 2ee8a096044e90b3830bcf943d8a929d
+bars_confidence: shape = (174,)
+bars_start: shape = (174,)
+beats_confidence: shape = (525,)
+beats_start: shape = (525,)
+danceability: 0.0
+duration: 266.762
+end_of_fade_in: 0.237
+energy: 0.0
+key: 2
+key_confidence: 0.972
+loudness: -10.423
+mode: 1
+mode_confidence: 0.851
+release: Bandidos Rurales
+release_7digitalid: 157094
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (816,)
+segments_loudness_max: shape = (816,)
+segments_loudness_max_time: shape = (816,)
+segments_loudness_start: shape = (816,)
+segments_pitches: shape = (816, 12)
+segments_start: shape = (816,)
+segments_timbre: shape = (816, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.266955186276
+song_id: SOFPTCN12A8C13BD3C
+start_of_fade_out: 258.514
+tatums_confidence: shape = (1050,)
+tatums_start: shape = (1050,)
+tempo: 120.023
+time_signature: 3
+time_signature_confidence: 0.776
+title: Ruta Del Coya
+track_7digitalid: 1650564
+track_id: TRALPOE128F4272278
+year: 2002

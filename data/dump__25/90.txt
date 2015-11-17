@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11084
+artist_familiarity: 0.599133769097
+artist_hotttnesss: 0.392994622588
+artist_id: ARZVEF91187B9AC770
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 2c16f7ca-e331-47fc-af91-4f236cba4c6d
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Elliot Goldenthal
+artist_playmeid: 20271
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 037133080a6cb6d51208cc64dde4d889
+bars_confidence: shape = (175,)
+bars_start: shape = (175,)
+beats_confidence: shape = (705,)
+beats_start: shape = (705,)
+danceability: 0.0
+duration: 305.50159
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.518
+loudness: -13.959
+mode: 1
+mode_confidence: 0.502
+release: Titus - Original Motion Picture Soundtrack
+release_7digitalid: 289872
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (991,)
+segments_loudness_max: shape = (991,)
+segments_loudness_max_time: shape = (991,)
+segments_loudness_start: shape = (991,)
+segments_pitches: shape = (991, 12)
+segments_start: shape = (991,)
+segments_timbre: shape = (991, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.266955186276
+song_id: SOZLFDW12A8C137028
+start_of_fade_out: 300.623
+tatums_confidence: shape = (1409,)
+tatums_start: shape = (1409,)
+tempo: 140.629
+time_signature: 4
+time_signature_confidence: 0.184
+title: Pickled Heads
+track_7digitalid: 3249206
+track_id: TRAIRRA128F42788ED
+year: 2000

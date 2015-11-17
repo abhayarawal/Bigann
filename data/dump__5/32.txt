@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18395
+artist_familiarity: 0.465194733342
+artist_hotttnesss: 0.362284090126
+artist_id: ARZ05QG1187FB3843E
+artist_latitude: 31.55379
+artist_location: Monticello, MS
+artist_longitude: -90.10785
+artist_mbid: 9c6aa732-36ff-4747-a328-7f7d2846279f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Byther Smith
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: b53c21a7378924a5298ab30de464487e
+bars_confidence: shape = (139,)
+bars_start: shape = (139,)
+beats_confidence: shape = (421,)
+beats_start: shape = (421,)
+danceability: 0.0
+duration: 269.7922
+end_of_fade_in: 0.241
+energy: 0.0
+key: 0
+key_confidence: 0.706
+loudness: -10.483
+mode: 1
+mode_confidence: 0.692
+release: Hold That Train
+release_7digitalid: 495943
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (899,)
+segments_loudness_max: shape = (899,)
+segments_loudness_max_time: shape = (899,)
+segments_loudness_start: shape = (899,)
+segments_pitches: shape = (899, 12)
+segments_start: shape = (899,)
+segments_timbre: shape = (899, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.535575222297
+song_id: SORMWFU12AB0185891
+start_of_fade_out: 258.142
+tatums_confidence: shape = (842,)
+tatums_start: shape = (842,)
+tempo: 94.554
+time_signature: 3
+time_signature_confidence: 0.661
+title: So Unhappy
+track_7digitalid: 5490451
+track_id: TRABTNT128F9315009
+year: 2004

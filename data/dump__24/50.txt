@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4117
+artist_familiarity: 0.741132801808
+artist_hotttnesss: 0.542533993163
+artist_id: ARG3UX61187B9AC05A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4c01333f-e8e8-43bd-9923-8de83ef6f63d
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: D.O.W.N.
+artist_playmeid: 30553
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 3969a43efa4ba709583a77c3ebf1e952
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (483,)
+beats_start: shape = (483,)
+danceability: 0.0
+duration: 265.66485
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.788
+loudness: -7.425
+mode: 1
+mode_confidence: 0.503
+release: Southern Slang (Chopped & Screwed)
+release_7digitalid: 207670
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1153,)
+segments_loudness_max: shape = (1153,)
+segments_loudness_max_time: shape = (1153,)
+segments_loudness_start: shape = (1153,)
+segments_pitches: shape = (1153, 12)
+segments_start: shape = (1153,)
+segments_timbre: shape = (1153, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKVBVL12A8C13908F
+start_of_fade_out: 253.457
+tatums_confidence: shape = (967,)
+tatums_start: shape = (967,)
+tempo: 109.659
+time_signature: 4
+time_signature_confidence: 0.805
+title: I Don't Give A F**K
+track_7digitalid: 2252343
+track_id: TRAIFYS128F42685F1
+year: 0

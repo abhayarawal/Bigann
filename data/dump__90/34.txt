@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 24769
+artist_familiarity: 0.902062926903
+artist_hotttnesss: 0.554633230574
+artist_id: ARPFHN61187FB575F6
+artist_latitude: 41.88415
+artist_location: Chicago, IL
+artist_longitude: -87.63241
+artist_mbid: cf15719f-51f9-4db8-a15d-5eed9664ce69
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Lupe Fiasco
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: c701b1091833486714247af0897032ad
+bars_confidence: shape = (99,)
+bars_start: shape = (99,)
+beats_confidence: shape = (700,)
+beats_start: shape = (700,)
+danceability: 0.0
+duration: 226.66404
+end_of_fade_in: 0.154
+energy: 0.0
+key: 5
+key_confidence: 0.546
+loudness: -5.303
+mode: 1
+mode_confidence: 0.418
+release: Lupe Fiasco's Food & Liquor
+release_7digitalid: 132321
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (993,)
+segments_loudness_max: shape = (993,)
+segments_loudness_max_time: shape = (993,)
+segments_loudness_start: shape = (993,)
+segments_pitches: shape = (993, 12)
+segments_start: shape = (993,)
+segments_timbre: shape = (993, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.878619959719
+song_id: SOWXBLE12A6D4F8EE8
+start_of_fade_out: 223.161
+tatums_confidence: shape = (1401,)
+tatums_start: shape = (1401,)
+tempo: 188.018
+time_signature: 7
+time_signature_confidence: 1.0
+title: The Cool (Amended Album Version)
+track_7digitalid: 1373217
+track_id: TRBFEID128F42368AC
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 49852
+artist_familiarity: 0.481180211778
+artist_hotttnesss: 0.379495650569
+artist_id: ARUUXNF1187B98FB36
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c1686436-e675-4487-a001-c8405c11090a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Charlie Peacock
+artist_playmeid: 51778
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 89e58fd833f4d05e6df0753b9c534da8
+bars_confidence: shape = (121,)
+bars_start: shape = (121,)
+beats_confidence: shape = (489,)
+beats_start: shape = (489,)
+danceability: 0.0
+duration: 291.21261
+end_of_fade_in: 0.38
+energy: 0.0
+key: 1
+key_confidence: 0.413
+loudness: -8.158
+mode: 1
+mode_confidence: 0.331
+release: Love Life
+release_7digitalid: 148146
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1283,)
+segments_loudness_max: shape = (1283,)
+segments_loudness_max_time: shape = (1283,)
+segments_loudness_start: shape = (1283,)
+segments_pitches: shape = (1283, 12)
+segments_start: shape = (1283,)
+segments_timbre: shape = (1283, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SORLCKK12A58A7BAB4
+start_of_fade_out: 282.807
+tatums_confidence: shape = (1955,)
+tatums_start: shape = (1955,)
+tempo: 100.862
+time_signature: 4
+time_signature_confidence: 0.95
+title: After Lovin You (Love Life Album Version)
+track_7digitalid: 1542427
+track_id: TRAPXNL128F4258C60
+year: 1991

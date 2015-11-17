@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 232
+artist_familiarity: 0.793708084007
+artist_hotttnesss: 0.589856179924
+artist_id: ARCJKV91187FB46210
+artist_latitude: nan
+artist_location: Scotland
+artist_longitude: nan
+artist_mbid: 951d2103-9c7d-4849-ae60-88bf6aa4790b
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: KT Tunstall
+artist_playmeid: 2265
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 2434994d5a39fbfed210755856c95e2e
+bars_confidence: shape = (680,)
+bars_start: shape = (680,)
+beats_confidence: shape = (680,)
+beats_start: shape = (680,)
+danceability: 0.0
+duration: 295.07873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.963
+loudness: -7.272
+mode: 1
+mode_confidence: 0.718
+release: Eye To The Telescope / KT Tunstall's Acoustic Extravaganza
+release_7digitalid: 54072
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (879,)
+segments_loudness_max: shape = (879,)
+segments_loudness_max_time: shape = (879,)
+segments_loudness_start: shape = (879,)
+segments_pitches: shape = (879, 12)
+segments_start: shape = (879,)
+segments_timbre: shape = (879, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.607908632984
+song_id: SOUYFXA12A6D4F8482
+start_of_fade_out: 285.478
+tatums_confidence: shape = (1359,)
+tatums_start: shape = (1359,)
+tempo: 137.806
+time_signature: 1
+time_signature_confidence: 0.283
+title: Boo Hoo
+track_7digitalid: 346305
+track_id: TRALQGZ128F146F500
+year: 2005

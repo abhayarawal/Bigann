@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 719
+artist_familiarity: 0.761523183412
+artist_hotttnesss: 0.474795797088
+artist_id: ARJFBZ41187FB560A0
+artist_latitude: nan
+artist_location: New York, NY [The Bronx]
+artist_longitude: nan
+artist_mbid: d7f07620-a4b9-4afd-9991-472478a65848
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Black Sheep
+artist_playmeid: 7947
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: b18a4d979be2f780b26a8153d8faac84
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (357,)
+beats_start: shape = (357,)
+danceability: 0.0
+duration: 247.30077
+end_of_fade_in: 0.135
+energy: 0.0
+key: 1
+key_confidence: 0.547
+loudness: -4.931
+mode: 1
+mode_confidence: 0.536
+release: 8WM/Novakane
+release_7digitalid: 465560
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1123,)
+segments_loudness_max: shape = (1123,)
+segments_loudness_max_time: shape = (1123,)
+segments_loudness_start: shape = (1123,)
+segments_pitches: shape = (1123, 12)
+segments_start: shape = (1123,)
+segments_timbre: shape = (1123, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAJDNN12AB01852E5
+start_of_fade_out: 231.091
+tatums_confidence: shape = (713,)
+tatums_start: shape = (713,)
+tempo: 88.264
+time_signature: 4
+time_signature_confidence: 0.697
+title: Novakane
+track_7digitalid: 5179964
+track_id: TRBGUHQ128F933699C
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 48634
+artist_familiarity: 0.548672435741
+artist_hotttnesss: 0.35850092274
+artist_id: ARGDY4Y1187B9A334F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: acefd28a-0735-4b1a-827d-bfa355611f55
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pyranja
+artist_playmeid: -1
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: e5899a7e4d5ab69af22daa4dbd5d6aa3
+bars_confidence: shape = (670,)
+bars_start: shape = (670,)
+beats_confidence: shape = (670,)
+beats_start: shape = (670,)
+danceability: 0.0
+duration: 225.33179
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.144
+loudness: -4.166
+mode: 0
+mode_confidence: 0.343
+release: Frauen & Technik
+release_7digitalid: 714489
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1079,)
+segments_loudness_max: shape = (1079,)
+segments_loudness_max_time: shape = (1079,)
+segments_loudness_start: shape = (1079,)
+segments_pitches: shape = (1079, 12)
+segments_start: shape = (1079,)
+segments_timbre: shape = (1079, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMYKRP12AB018E011
+start_of_fade_out: 212.387
+tatums_confidence: shape = (670,)
+tatums_start: shape = (670,)
+tempo: 178.574
+time_signature: 1
+time_signature_confidence: 0.52
+title: Nordcore
+track_7digitalid: 7924263
+track_id: TRADBXG12903CBDEC5
+year: 2004

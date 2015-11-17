@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17481
+artist_familiarity: 0.491458520457
+artist_hotttnesss: 0.381044109297
+artist_id: ARJ7VKJ1187B98BA4B
+artist_latitude: nan
+artist_location: Wilkes Barre, PA
+artist_longitude: nan
+artist_mbid: 4c8571fc-17ea-4eae-8a31-8d09997011e6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lifer
+artist_playmeid: -1
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: dd3628723743313d74e5344678b30492
+bars_confidence: shape = (113,)
+bars_start: shape = (113,)
+beats_confidence: shape = (456,)
+beats_start: shape = (456,)
+danceability: 0.0
+duration: 286.53669
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.143
+loudness: -6.292
+mode: 0
+mode_confidence: 0.475
+release: Lifer
+release_7digitalid: 25133
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1297,)
+segments_loudness_max: shape = (1297,)
+segments_loudness_max_time: shape = (1297,)
+segments_loudness_start: shape = (1297,)
+segments_pitches: shape = (1297, 12)
+segments_start: shape = (1297,)
+segments_timbre: shape = (1297, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.6645424152
+song_id: SOHPWUL12A6D4F93B1
+start_of_fade_out: 255.565
+tatums_confidence: shape = (1826,)
+tatums_start: shape = (1826,)
+tempo: 98.513
+time_signature: 4
+time_signature_confidence: 0.643
+title: Breathless
+track_7digitalid: 266530
+track_id: TRAVRPL128F145E874
+year: 2001

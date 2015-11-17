@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 125901
+artist_familiarity: 0.5291866136
+artist_hotttnesss: 0.356334749032
+artist_id: ARCK6OL1187B99B25F
+artist_latitude: 27.9758
+artist_location: Florida
+artist_longitude: -81.54106
+artist_mbid: 0d70d6c7-5966-47a1-a2d2-c8164714e697
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Alas
+artist_playmeid: 213820
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 5ba519359da6b5b1c859e9de4fb5b53d
+bars_confidence: shape = (796,)
+bars_start: shape = (796,)
+beats_confidence: shape = (796,)
+beats_start: shape = (796,)
+danceability: 0.0
+duration: 628.21832
+end_of_fade_in: 0.251
+energy: 0.0
+key: 7
+key_confidence: 0.215
+loudness: -15.442
+mode: 0
+mode_confidence: 0.357
+release: Mimame Bandoneón
+release_7digitalid: 164824
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (1647,)
+segments_loudness_max: shape = (1647,)
+segments_loudness_max_time: shape = (1647,)
+segments_loudness_start: shape = (1647,)
+segments_pitches: shape = (1647, 12)
+segments_start: shape = (1647,)
+segments_timbre: shape = (1647, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONBDBW12AF72A4E6C
+start_of_fade_out: 593.525
+tatums_confidence: shape = (2390,)
+tatums_start: shape = (2390,)
+tempo: 77.364
+time_signature: 1
+time_signature_confidence: 0.635
+title: Silencio De Aguas Profundas
+track_7digitalid: 1746752
+track_id: TRAIMTO128F4288EEF
+year: 0

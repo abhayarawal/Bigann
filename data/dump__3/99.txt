@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 171583
+artist_familiarity: 0.494073815045
+artist_hotttnesss: 0.328073304913
+artist_id: ARUZL121187FB4B42D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 656a129f-fb76-49b6-ad33-2573564f6c22
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: True Believers
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: a8b93419d99d7563c40b25246f86bbfa
+bars_confidence: shape = (241,)
+bars_start: shape = (241,)
+beats_confidence: shape = (970,)
+beats_start: shape = (970,)
+danceability: 0.0
+duration: 361.53424
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.196
+loudness: -4.228
+mode: 0
+mode_confidence: 0.296
+release: In This Place
+release_7digitalid: 235400
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1457,)
+segments_loudness_max: shape = (1457,)
+segments_loudness_max_time: shape = (1457,)
+segments_loudness_start: shape = (1457,)
+segments_pitches: shape = (1457, 12)
+segments_start: shape = (1457,)
+segments_timbre: shape = (1457, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.255519804373
+song_id: SOCPSFM12A8C136A50
+start_of_fade_out: 356.525
+tatums_confidence: shape = (1939,)
+tatums_start: shape = (1939,)
+tempo: 160.731
+time_signature: 4
+time_signature_confidence: 0.0
+title: Turn Around
+track_7digitalid: 2705163
+track_id: TRABHKR128F424944A
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4007
+artist_familiarity: 0.674464704702
+artist_hotttnesss: 0.485781602275
+artist_id: AR5DXUU1187B9B0E42
+artist_latitude: 48.20254
+artist_location: Vienna, Austria
+artist_longitude: 16.3688
+artist_mbid: dcd95aa4-f3ff-492d-a621-8518ada0f58b
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Falco
+artist_playmeid: 595
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: ebe54e00cc5ebf1dd1377d53ff126c98
+bars_confidence: shape = (114,)
+bars_start: shape = (114,)
+beats_confidence: shape = (462,)
+beats_start: shape = (462,)
+danceability: 0.0
+duration: 228.12689
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.45
+loudness: -13.844
+mode: 1
+mode_confidence: 0.333
+release: Junge Roemer
+release_7digitalid: 299837
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (946,)
+segments_loudness_max: shape = (946,)
+segments_loudness_max_time: shape = (946,)
+segments_loudness_start: shape = (946,)
+segments_pitches: shape = (946, 12)
+segments_start: shape = (946,)
+segments_timbre: shape = (946, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAVKMN12A58A7C691
+start_of_fade_out: 225.512
+tatums_confidence: shape = (925,)
+tatums_start: shape = (925,)
+tempo: 123.028
+time_signature: 4
+time_signature_confidence: 0.926
+title: Brillantin' Brutal'
+track_7digitalid: 3401252
+track_id: TRAOBBJ128F429D31D
+year: 1984

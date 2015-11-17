@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 94376
+artist_familiarity: 0.547040706715
+artist_hotttnesss: 0.345109487086
+artist_id: ARSJ46X1187FB4A62A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d9fa989e-6b89-4c13-93f3-b0abdae581ea
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Various Production
+artist_playmeid: 193557
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: b8ad7da65e949ba57ae8dfb1c98f9e82
+bars_confidence: shape = (151,)
+bars_start: shape = (151,)
+beats_confidence: shape = (606,)
+beats_start: shape = (606,)
+danceability: 0.0
+duration: 239.90812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.374
+loudness: -16.775
+mode: 1
+mode_confidence: 0.348
+release: Tricycle EP
+release_7digitalid: 449267
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1036,)
+segments_loudness_max: shape = (1036,)
+segments_loudness_max_time: shape = (1036,)
+segments_loudness_start: shape = (1036,)
+segments_pitches: shape = (1036, 12)
+segments_start: shape = (1036,)
+segments_timbre: shape = (1036, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUJGOR12A58A7BD21
+start_of_fade_out: 220.073
+tatums_confidence: shape = (1212,)
+tatums_start: shape = (1212,)
+tempo: 151.992
+time_signature: 4
+time_signature_confidence: 0.0
+title: Bside
+track_7digitalid: 4987433
+track_id: TRBFNOL128F930AA0B
+year: 2009

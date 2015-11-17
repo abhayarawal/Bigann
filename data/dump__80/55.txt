@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 33197
+artist_familiarity: 0.421132725384
+artist_hotttnesss: 0.318834231458
+artist_id: ARB45GQ1187B98D2B4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cbee65fc-e11c-439b-b5b4-e068fb1c169a
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: DeGarmo & Key
+artist_playmeid: 61389
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: e4c61d5ae39469a2ec77519091e6d9f1
+bars_confidence: shape = (607,)
+bars_start: shape = (607,)
+beats_confidence: shape = (607,)
+beats_start: shape = (607,)
+danceability: 0.0
+duration: 275.74812
+end_of_fade_in: 0.355
+energy: 0.0
+key: 7
+key_confidence: 0.652
+loudness: -9.799
+mode: 0
+mode_confidence: 0.614
+release: Collecton
+release_7digitalid: 150859
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (946,)
+segments_loudness_max: shape = (946,)
+segments_loudness_max_time: shape = (946,)
+segments_loudness_start: shape = (946,)
+segments_pitches: shape = (946, 12)
+segments_start: shape = (946,)
+segments_timbre: shape = (946, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGMSIS12A58A7C45D
+start_of_fade_out: 253.37
+tatums_confidence: shape = (1213,)
+tatums_start: shape = (1213,)
+tempo: 132.786
+time_signature: 1
+time_signature_confidence: 0.0
+title: Jericho  (Straight On Album Version)
+track_7digitalid: 1574698
+track_id: TRBBOBO128F425FDFC
+year: 0

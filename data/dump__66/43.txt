@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 294223
+artist_familiarity: 0.570825322641
+artist_hotttnesss: 0.40358823765
+artist_id: ARZFRQM1187B9A9772
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 17be2a06-5295-43ca-a363-c683b562df72
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Vanessa Daou
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: d7d0d20f22e93e75b80d9984c2dbd8e8
+bars_confidence: shape = (119,)
+bars_start: shape = (119,)
+beats_confidence: shape = (479,)
+beats_start: shape = (479,)
+danceability: 0.0
+duration: 252.86485
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.061
+loudness: -11.166
+mode: 0
+mode_confidence: 0.251
+release: Joe Sent Me
+release_7digitalid: 409164
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (873,)
+segments_loudness_max: shape = (873,)
+segments_loudness_max_time: shape = (873,)
+segments_loudness_start: shape = (873,)
+segments_pitches: shape = (873, 12)
+segments_start: shape = (873,)
+segments_timbre: shape = (873, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.386790177139
+song_id: SOTKTCQ12AB01863FF
+start_of_fade_out: 244.187
+tatums_confidence: shape = (1437,)
+tatums_start: shape = (1437,)
+tempo: 113.968
+time_signature: 4
+time_signature_confidence: 0.558
+title: Black & White
+track_7digitalid: 4551905
+track_id: TRAWQYC128F931A8BE
+year: 0

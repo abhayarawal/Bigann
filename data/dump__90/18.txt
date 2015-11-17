@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 292536
+artist_familiarity: 0.446648937907
+artist_hotttnesss: 0.273891008655
+artist_id: ARFIUBJ1241B9CA443
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Portobello
+artist_playmeid: 56641
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 18f173d4a6be5ba6137cd412b1998908
+bars_confidence: shape = (161,)
+bars_start: shape = (161,)
+beats_confidence: shape = (648,)
+beats_start: shape = (648,)
+danceability: 0.0
+duration: 304.84853
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.271
+loudness: -7.486
+mode: 1
+mode_confidence: 0.427
+release: Face The Music
+release_7digitalid: 783159
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (933,)
+segments_loudness_max: shape = (933,)
+segments_loudness_max_time: shape = (933,)
+segments_loudness_start: shape = (933,)
+segments_pitches: shape = (933, 12)
+segments_start: shape = (933,)
+segments_timbre: shape = (933, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTZEAA12AC468E553
+start_of_fade_out: 299.706
+tatums_confidence: shape = (1296,)
+tatums_start: shape = (1296,)
+tempo: 129.699
+time_signature: 4
+time_signature_confidence: 0.333
+title: COLD MORNING
+track_7digitalid: 8661227
+track_id: TRBFCKE12903CFA9DB
+year: 0

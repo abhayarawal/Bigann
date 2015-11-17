@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 66972
+artist_familiarity: 0.378130134363
+artist_hotttnesss: 0.279255759882
+artist_id: ARARFT81187FB41EEA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 490f9c79-d923-4f65-8618-a9b00cf2cf2c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Alfredo Gutiérrez
+artist_playmeid: 56337
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 18a6e4efd43979bf7ee30249caf4ec7b
+bars_confidence: shape = (45,)
+bars_start: shape = (45,)
+beats_confidence: shape = (183,)
+beats_start: shape = (183,)
+danceability: 0.0
+duration: 130.16771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.319
+loudness: -8.521
+mode: 1
+mode_confidence: 0.303
+release: Serie Tradicional - Mi Acordeón Bohemio  CD 1
+release_7digitalid: 386075
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (655,)
+segments_loudness_max: shape = (655,)
+segments_loudness_max_time: shape = (655,)
+segments_loudness_start: shape = (655,)
+segments_pitches: shape = (655, 12)
+segments_start: shape = (655,)
+segments_timbre: shape = (655, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEYJEP12AB01816D3
+start_of_fade_out: 127.634
+tatums_confidence: shape = (730,)
+tatums_start: shape = (730,)
+tempo: 86.199
+time_signature: 4
+time_signature_confidence: 0.689
+title: El niño de la calle
+track_7digitalid: 4282084
+track_id: TRABYZL128F92E639C
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30473
+artist_familiarity: 0.74400791471
+artist_hotttnesss: 0.520049688179
+artist_id: ARL635X1187B990092
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6efa29c6-9995-48e0-9eaf-3809464a39a7
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Charlotte Gainsbourg
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 0cf4b6233241af7afc7fc3b465cc8711
+bars_confidence: shape = (118,)
+bars_start: shape = (118,)
+beats_confidence: shape = (358,)
+beats_start: shape = (358,)
+danceability: 0.0
+duration: 189.70077
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.438
+loudness: -12.1
+mode: 1
+mode_confidence: 0.511
+release: 5:55
+release_7digitalid: 42180
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (512,)
+segments_loudness_max: shape = (512,)
+segments_loudness_max_time: shape = (512,)
+segments_loudness_start: shape = (512,)
+segments_pitches: shape = (512, 12)
+segments_start: shape = (512,)
+segments_timbre: shape = (512, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.819642710906
+song_id: SOFYIQI12A6D4F8D85
+start_of_fade_out: 177.046
+tatums_confidence: shape = (716,)
+tatums_start: shape = (716,)
+tempo: 119.683
+time_signature: 3
+time_signature_confidence: 1.0
+title: Tel Que Tu Es
+track_7digitalid: 449577
+track_id: TRAEASY128F148247C
+year: 2006

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 230632
+artist_familiarity: 0.492738222261
+artist_hotttnesss: 0.341252311929
+artist_id: ARPDMSB1187FB5596F
+artist_latitude: nan
+artist_location: Newark, NJ
+artist_longitude: nan
+artist_mbid: c2fa0c29-799b-46ad-8a13-f6467bea34e7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: THE AD LIBS
+artist_playmeid: 32531
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 625943446918dcb3e09217915ceb2fae
+bars_confidence: shape = (84,)
+bars_start: shape = (84,)
+beats_confidence: shape = (339,)
+beats_start: shape = (339,)
+danceability: 0.0
+duration: 163.99628
+end_of_fade_in: 0.079
+energy: 0.0
+key: 11
+key_confidence: 0.55
+loudness: -8.693
+mode: 1
+mode_confidence: 0.521
+release: The Ad Libs' The Boy From New York City
+release_7digitalid: 349203
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (574,)
+segments_loudness_max: shape = (574,)
+segments_loudness_max_time: shape = (574,)
+segments_loudness_start: shape = (574,)
+segments_pitches: shape = (574, 12)
+segments_start: shape = (574,)
+segments_timbre: shape = (574, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHMJRA12AB0186A48
+start_of_fade_out: 150.645
+tatums_confidence: shape = (677,)
+tatums_start: shape = (677,)
+tempo: 127.356
+time_signature: 4
+time_signature_confidence: 0.0
+title: Johnny My Boy - Original
+track_7digitalid: 3898235
+track_id: TRAZSGY128F930C0B9
+year: 0

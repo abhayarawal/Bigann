@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 70230
+artist_familiarity: 0.400152096821
+artist_hotttnesss: 0.160048534865
+artist_id: ARWVMJA1187B98AA6E
+artist_latitude: 37.27188
+artist_location: California
+artist_longitude: -119.27023
+artist_mbid: 7c4fa39a-493c-4675-a37b-5cfdb1f58950
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Nancy Walker
+artist_playmeid: 87083
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 4659955ab620e95e2bb6ceda5375016e
+bars_confidence: shape = (30,)
+bars_start: shape = (30,)
+beats_confidence: shape = (206,)
+beats_start: shape = (206,)
+danceability: 0.0
+duration: 162.79465
+end_of_fade_in: 0.281
+energy: 0.0
+key: 0
+key_confidence: 0.007
+loudness: -14.12
+mode: 1
+mode_confidence: 0.261
+release: Wonderful Town
+release_7digitalid: 498256
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (484,)
+segments_loudness_max: shape = (484,)
+segments_loudness_max_time: shape = (484,)
+segments_loudness_start: shape = (484,)
+segments_pitches: shape = (484, 12)
+segments_start: shape = (484,)
+segments_timbre: shape = (484, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLEIOS12AB018372B
+start_of_fade_out: 160.52
+tatums_confidence: shape = (412,)
+tatums_start: shape = (412,)
+tempo: 75.77
+time_signature: 5
+time_signature_confidence: 0.404
+title: Ya Got Me
+track_7digitalid: 5519217
+track_id: TRANIFM128F931C027
+year: 0

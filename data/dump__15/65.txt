@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1646
+artist_familiarity: 0.641172817621
+artist_hotttnesss: 0.436769069709
+artist_id: ARC0MTS1187FB44C21
+artist_latitude: 50.84838
+artist_location: Brussels, Belgium
+artist_longitude: 4.34968
+artist_mbid: 20404789-b0f3-43de-bbe1-f4fe39e83e87
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Toots Thielemans
+artist_playmeid: 16621
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 1607bd311e676eaa48a12a0708983c4a
+bars_confidence: shape = (15,)
+bars_start: shape = (15,)
+beats_confidence: shape = (114,)
+beats_start: shape = (114,)
+danceability: 0.0
+duration: 109.16526
+end_of_fade_in: 0.235
+energy: 0.0
+key: 7
+key_confidence: 0.914
+loudness: -19.736
+mode: 1
+mode_confidence: 0.772
+release: Chez Toots
+release_7digitalid: 295173
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (236,)
+segments_loudness_max: shape = (236,)
+segments_loudness_max_time: shape = (236,)
+segments_loudness_start: shape = (236,)
+segments_pitches: shape = (236, 12)
+segments_start: shape = (236,)
+segments_timbre: shape = (236, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SOKIHWH12A8C13AA35
+start_of_fade_out: 98.081
+tatums_confidence: shape = (341,)
+tatums_start: shape = (341,)
+tempo: 63.334
+time_signature: 5
+time_signature_confidence: 0.905
+title: Le Temps Des Cerises
+track_7digitalid: 3326213
+track_id: TRAFIPS128F428AF8E
+year: 1998

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2995
+artist_familiarity: 0.421960437311
+artist_hotttnesss: 0.232748678347
+artist_id: ARLNSD41187FB4D9A0
+artist_latitude: 42.50382
+artist_location: Italy
+artist_longitude: 12.57347
+artist_mbid: 9230c25a-8812-4f16-b963-734729229d39
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sergio Franchi
+artist_playmeid: 17642
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 6f7b4f4dd4672fe535e948a76d2b2719
+bars_confidence: shape = (69,)
+bars_start: shape = (69,)
+beats_confidence: shape = (311,)
+beats_start: shape = (311,)
+danceability: 0.0
+duration: 203.72853
+end_of_fade_in: 2.519
+energy: 0.0
+key: 2
+key_confidence: 0.609
+loudness: -17.962
+mode: 1
+mode_confidence: 0.672
+release: This Is Sergio Franchi
+release_7digitalid: 539413
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (529,)
+segments_loudness_max: shape = (529,)
+segments_loudness_max_time: shape = (529,)
+segments_loudness_start: shape = (529,)
+segments_pitches: shape = (529, 12)
+segments_start: shape = (529,)
+segments_timbre: shape = (529, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.27042297408
+song_id: SORLYZU12AB017CE89
+start_of_fade_out: 197.178
+tatums_confidence: shape = (621,)
+tatums_start: shape = (621,)
+tempo: 90.098
+time_signature: 4
+time_signature_confidence: 0.638
+title: Arrivederci Roma
+track_7digitalid: 5975059
+track_id: TRAHRIN128F9314D58
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 419542
+artist_familiarity: 0.514624264967
+artist_hotttnesss: 0.369511565168
+artist_id: ARHQYFB1187FB4AECF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e883be93-9ba5-44f0-a207-6d5d8cd656b6
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: The Cortinas
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: feade083787d6319f8aba58666afd1ac
+bars_confidence: shape = (163,)
+bars_start: shape = (163,)
+beats_confidence: shape = (492,)
+beats_start: shape = (492,)
+danceability: 0.0
+duration: 219.01016
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.861
+loudness: -7.687
+mode: 1
+mode_confidence: 0.954
+release: Please Don't Hit Me
+release_7digitalid: 565748
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (771,)
+segments_loudness_max: shape = (771,)
+segments_loudness_max_time: shape = (771,)
+segments_loudness_start: shape = (771,)
+segments_pitches: shape = (771, 12)
+segments_start: shape = (771,)
+segments_timbre: shape = (771, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.288481642656
+song_id: SOYMQQN12A58A7D293
+start_of_fade_out: 205.851
+tatums_confidence: shape = (984,)
+tatums_start: shape = (984,)
+tempo: 134.985
+time_signature: 3
+time_signature_confidence: 0.884
+title: Radio Rape
+track_7digitalid: 6262703
+track_id: TRARGLY128F935AAD5
+year: 1978

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7764
+artist_familiarity: 0.563748627366
+artist_hotttnesss: 0.339532420349
+artist_id: ARB78VW1187B98F81C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8347fcf6-d073-4fa4-99b8-5f545fee39de
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: George Nooks
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: fa881d27978f22b67dc2b649eddd4223
+bars_confidence: shape = (145,)
+bars_start: shape = (145,)
+beats_confidence: shape = (582,)
+beats_start: shape = (582,)
+danceability: 0.0
+duration: 211.66975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.471
+loudness: -9.118
+mode: 0
+mode_confidence: 0.468
+release: This One's For You
+release_7digitalid: 186271
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (943,)
+segments_loudness_max: shape = (943,)
+segments_loudness_max_time: shape = (943,)
+segments_loudness_start: shape = (943,)
+segments_pitches: shape = (943, 12)
+segments_start: shape = (943,)
+segments_timbre: shape = (943, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORAACY12A8AE475D2
+start_of_fade_out: 201.375
+tatums_confidence: shape = (1164,)
+tatums_start: shape = (1164,)
+tempo: 168.121
+time_signature: 4
+time_signature_confidence: 0.896
+title: Watchie Watchie
+track_7digitalid: 2018545
+track_id: TRBDLXL128F4239ED3
+year: 0

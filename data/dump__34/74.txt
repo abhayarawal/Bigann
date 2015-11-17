@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8948
+artist_familiarity: 0.490611414182
+artist_hotttnesss: 0.391574164116
+artist_id: ARG1UAO1187FB55E50
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5f3c4fe0-fc71-4455-99e6-abd0e8c4462e
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Sammi Cheng
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 4e42b0a5c0f28fe8dcf1ac32956e4956
+bars_confidence: shape = (105,)
+bars_start: shape = (105,)
+beats_confidence: shape = (422,)
+beats_start: shape = (422,)
+danceability: 0.0
+duration: 248.2673
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.88
+loudness: -6.412
+mode: 1
+mode_confidence: 0.716
+release: Love Is......
+release_7digitalid: 43100
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (999,)
+segments_loudness_max: shape = (999,)
+segments_loudness_max_time: shape = (999,)
+segments_loudness_start: shape = (999,)
+segments_pitches: shape = (999, 12)
+segments_start: shape = (999,)
+segments_timbre: shape = (999, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOABDSJ12A6D4F9065
+start_of_fade_out: 238.846
+tatums_confidence: shape = (1685,)
+tatums_start: shape = (1685,)
+tempo: 103.982
+time_signature: 4
+time_signature_confidence: 0.683
+title: Liu Zi Zhen Yan
+track_7digitalid: 459207
+track_id: TRALVHR128F1483DB3
+year: 0

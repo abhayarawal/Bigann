@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 195941
+artist_familiarity: 0.481771820142
+artist_hotttnesss: 0.282491645708
+artist_id: ARZLS3G1187FB38347
+artist_latitude: nan
+artist_location: Rio de Janeiro, Brazil
+artist_longitude: nan
+artist_mbid: e9c5f649-3d11-4af7-bab7-0ce27371a1a8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Orquestra
+artist_playmeid: -1
+artist_terms: shape = (73,)
+artist_terms_freq: shape = (73,)
+artist_terms_weight: shape = (73,)
+audio_md5: dc7c32cbd3bf3b7da8a072fe3361ab37
+bars_confidence: shape = (36,)
+bars_start: shape = (36,)
+beats_confidence: shape = (149,)
+beats_start: shape = (149,)
+danceability: 0.0
+duration: 87.58812
+end_of_fade_in: 2.096
+energy: 0.0
+key: 5
+key_confidence: 0.652
+loudness: -13.767
+mode: 0
+mode_confidence: 0.607
+release: Trilha Sonora Do Filme "Garota De Ipanema
+release_7digitalid: 262849
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (165,)
+segments_loudness_max: shape = (165,)
+segments_loudness_max_time: shape = (165,)
+segments_loudness_start: shape = (165,)
+segments_pitches: shape = (165, 12)
+segments_start: shape = (165,)
+segments_timbre: shape = (165, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.456858867042
+song_id: SOKNSOQ12A8C134AAE
+start_of_fade_out: 82.837
+tatums_confidence: shape = (297,)
+tatums_start: shape = (297,)
+tempo: 104.752
+time_signature: 4
+time_signature_confidence: 0.191
+title: Tema Da Desilusão (Garota De Ipanema)
+track_7digitalid: 2758235
+track_id: TRARYPU128F42552CF
+year: 1967

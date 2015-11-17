@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19769
+artist_familiarity: 0.515279198708
+artist_hotttnesss: 0.344246580364
+artist_id: ARHO1WI1187B98CB84
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d1de79d5-3ca3-42f5-8d82-fbc71a76ec93
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Michael Card
+artist_playmeid: 98377
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: c5cdf646e6fbb75baad05e3c47d773b3
+bars_confidence: shape = (340,)
+bars_start: shape = (340,)
+beats_confidence: shape = (340,)
+beats_start: shape = (340,)
+danceability: 0.0
+duration: 182.72608
+end_of_fade_in: 0.16
+energy: 0.0
+key: 6
+key_confidence: 0.728
+loudness: -15.598
+mode: 1
+mode_confidence: 0.754
+release: The Final Word
+release_7digitalid: 64547
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (539,)
+segments_loudness_max: shape = (539,)
+segments_loudness_max_time: shape = (539,)
+segments_loudness_start: shape = (539,)
+segments_pitches: shape = (539, 12)
+segments_start: shape = (539,)
+segments_timbre: shape = (539, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFDXJM12A58A75955
+start_of_fade_out: 172.838
+tatums_confidence: shape = (679,)
+tatums_start: shape = (679,)
+tempo: 115.258
+time_signature: 1
+time_signature_confidence: 1.0
+title: Joy In The Journey (The Final Word Album Version)
+track_7digitalid: 671090
+track_id: TRABJVT128F14AE4B4
+year: 0

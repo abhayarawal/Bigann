@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23323
+artist_familiarity: 0.50228868156
+artist_hotttnesss: 0.35683522051
+artist_id: ARJ84561187B993E3E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 86017973-25c2-41a5-9a37-2843878199af
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ill Harmonics
+artist_playmeid: 62011
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 3ba3c66c76740ed32cbb7d7e9b016e75
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (421,)
+beats_start: shape = (421,)
+danceability: 0.0
+duration: 267.88526
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.355
+loudness: -8.602
+mode: 1
+mode_confidence: 0.396
+release: Monkey Business
+release_7digitalid: 451653
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1192,)
+segments_loudness_max: shape = (1192,)
+segments_loudness_max_time: shape = (1192,)
+segments_loudness_start: shape = (1192,)
+segments_pitches: shape = (1192, 12)
+segments_start: shape = (1192,)
+segments_timbre: shape = (1192, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SOVCXUP12AB017E0E6
+start_of_fade_out: 253.881
+tatums_confidence: shape = (841,)
+tatums_start: shape = (841,)
+tempo: 95.954
+time_signature: 4
+time_signature_confidence: 1.0
+title: Contagious
+track_7digitalid: 5014589
+track_id: TRAZVVL128F930FD4D
+year: 0

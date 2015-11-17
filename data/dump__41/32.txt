@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 187997
+artist_familiarity: 0.581884358891
+artist_hotttnesss: 0.34700692093
+artist_id: ARWSMC91187B9AD369
+artist_latitude: 51.48126
+artist_location: Cardiff, Wales
+artist_longitude: -3.18067
+artist_mbid: eda80ec9-730c-41d2-a2f2-6bf1140126f7
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Helen Love
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: f7c202f09579a68119f8327ded0ab632
+bars_confidence: shape = (70,)
+bars_start: shape = (70,)
+beats_confidence: shape = (286,)
+beats_start: shape = (286,)
+danceability: 0.0
+duration: 185.36444
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.982
+loudness: -7.531
+mode: 1
+mode_confidence: 0.95
+release: Radio Hits 3
+release_7digitalid: 601526
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (619,)
+segments_loudness_max: shape = (619,)
+segments_loudness_max_time: shape = (619,)
+segments_loudness_start: shape = (619,)
+segments_pitches: shape = (619, 12)
+segments_start: shape = (619,)
+segments_timbre: shape = (619, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.407901717218
+song_id: SOEDKCH12AB01860C6
+start_of_fade_out: 179.531
+tatums_confidence: shape = (1145,)
+tatums_start: shape = (1145,)
+tempo: 95.575
+time_signature: 4
+time_signature_confidence: 0.731
+title: Shifty Disco Girl
+track_7digitalid: 6678836
+track_id: TRAOAFS12903CF2B40
+year: 2000

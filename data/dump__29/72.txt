@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1396
+artist_familiarity: 0.707199763838
+artist_hotttnesss: 0.513463289702
+artist_id: ARYKCQI1187FB3B18F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: eeacb319-8d4c-48e0-80a0-944e71c375bf
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tesla
+artist_playmeid: 7536
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 84a4d487df296f1b0f7eba120b08cc73
+bars_confidence: shape = (147,)
+bars_start: shape = (147,)
+beats_confidence: shape = (445,)
+beats_start: shape = (445,)
+danceability: 0.0
+duration: 210.28526
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.553
+loudness: -10.223
+mode: 1
+mode_confidence: 0.424
+release: Five Man Acoustical Jam
+release_7digitalid: 46614
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (623,)
+segments_loudness_max: shape = (623,)
+segments_loudness_max_time: shape = (623,)
+segments_loudness_start: shape = (623,)
+segments_pitches: shape = (623, 12)
+segments_start: shape = (623,)
+segments_timbre: shape = (623, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.35897652644
+song_id: SOUROPB12A6D4FAC51
+start_of_fade_out: 210.285
+tatums_confidence: shape = (889,)
+tatums_start: shape = (889,)
+tempo: 128.262
+time_signature: 3
+time_signature_confidence: 0.0
+title: Gettin' Better
+track_7digitalid: 498114
+track_id: TRAKAGL128F148B3B7
+year: 1986

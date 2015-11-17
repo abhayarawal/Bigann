@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1301
+artist_familiarity: 0.605703302061
+artist_hotttnesss: 0.429591920025
+artist_id: ARSFK241187B9BA38E
+artist_latitude: nan
+artist_location: St. Louis, Missouri
+artist_longitude: nan
+artist_mbid: b4984b38-6dad-4d8f-9942-a15131f37f98
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Murphy Lee / Zee
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: d4539ca7f42bc9f8a371d83017c954e9
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (416,)
+beats_start: shape = (416,)
+danceability: 0.0
+duration: 268.90404
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.317
+loudness: -4.936
+mode: 0
+mode_confidence: 0.333
+release: Murphy's Law
+release_7digitalid: 510064
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1199,)
+segments_loudness_max: shape = (1199,)
+segments_loudness_max_time: shape = (1199,)
+segments_loudness_start: shape = (1199,)
+segments_pitches: shape = (1199, 12)
+segments_start: shape = (1199,)
+segments_timbre: shape = (1199, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOXGBGK12A6701FC53
+start_of_fade_out: 253.521
+tatums_confidence: shape = (833,)
+tatums_start: shape = (833,)
+tempo: 92.043
+time_signature: 4
+time_signature_confidence: 1.0
+title: Murphy Lee
+track_7digitalid: 5639522
+track_id: TRBABGU128F93391B2
+year: 2003

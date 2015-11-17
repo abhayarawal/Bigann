@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8590
+artist_familiarity: 0.572470887784
+artist_hotttnesss: 0.424487598725
+artist_id: ARNEL2O1187FB4421A
+artist_latitude: 33.89627
+artist_location: Houston, MS
+artist_longitude: -89.00018
+artist_mbid: 882af819-887e-4691-a4af-b14613058942
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bukka White
+artist_playmeid: 17688
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 7864357b0fdc195e95498485c4cc3263
+bars_confidence: shape = (251,)
+bars_start: shape = (251,)
+beats_confidence: shape = (251,)
+beats_start: shape = (251,)
+danceability: 0.0
+duration: 159.00689
+end_of_fade_in: 1.464
+energy: 0.0
+key: 6
+key_confidence: 0.616
+loudness: -22.507
+mode: 1
+mode_confidence: 0.522
+release: Blues With Bukka
+release_7digitalid: 554164
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (530,)
+segments_loudness_max: shape = (530,)
+segments_loudness_max_time: shape = (530,)
+segments_loudness_start: shape = (530,)
+segments_pitches: shape = (530, 12)
+segments_start: shape = (530,)
+segments_timbre: shape = (530, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQYHDK12AB0186B01
+start_of_fade_out: 155.748
+tatums_confidence: shape = (503,)
+tatums_start: shape = (503,)
+tempo: 96.002
+time_signature: 1
+time_signature_confidence: 0.0
+title: Sleepy Man Blues
+track_7digitalid: 6127106
+track_id: TRBAKJC128F93399FB
+year: 1940

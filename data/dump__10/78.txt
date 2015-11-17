@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 110116
+artist_familiarity: 0.597702904211
+artist_hotttnesss: 0.437735968345
+artist_id: ARDM8331187B9B947E
+artist_latitude: -34.60852
+artist_location: Buenos Aires, Argentina
+artist_longitude: -58.37354
+artist_mbid: 21dcc3a2-9fc8-41d2-8736-cdcbde270f4c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pedro Aznar
+artist_playmeid: 16789
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 7d8e5d60bac584352a4fdf10d61a3b53
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (353,)
+beats_start: shape = (353,)
+danceability: 0.0
+duration: 194.61179
+end_of_fade_in: 0.386
+energy: 0.0
+key: 0
+key_confidence: 0.063
+loudness: -7.683
+mode: 0
+mode_confidence: 0.299
+release: David Y Goliath
+release_7digitalid: 509441
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (773,)
+segments_loudness_max: shape = (773,)
+segments_loudness_max_time: shape = (773,)
+segments_loudness_start: shape = (773,)
+segments_pitches: shape = (773, 12)
+segments_start: shape = (773,)
+segments_timbre: shape = (773, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOHRPJS12AB0180A12
+start_of_fade_out: 184.662
+tatums_confidence: shape = (705,)
+tatums_start: shape = (705,)
+tempo: 110.178
+time_signature: 4
+time_signature_confidence: 0.917
+title: Stand
+track_7digitalid: 5637769
+track_id: TRADOSF128F9338ADB
+year: 1995

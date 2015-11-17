@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17472
+artist_familiarity: 0.565971267271
+artist_hotttnesss: 0.384018128543
+artist_id: ARYCP7D1187B99516B
+artist_latitude: 43.64856
+artist_location: Toronto, Canada
+artist_longitude: -79.38533
+artist_mbid: 71fd1b0d-4f63-4060-95d9-afbc80ddffc2
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Pat Travers
+artist_playmeid: 52143
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: b2947b329067db6bd60a8bc0e94e5e77
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (354,)
+beats_start: shape = (354,)
+danceability: 0.0
+duration: 152.99873
+end_of_fade_in: 0.868
+energy: 0.0
+key: 9
+key_confidence: 0.635
+loudness: -7.812
+mode: 1
+mode_confidence: 0.632
+release: Pat Travers
+release_7digitalid: 611925
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (571,)
+segments_loudness_max: shape = (571,)
+segments_loudness_max_time: shape = (571,)
+segments_loudness_start: shape = (571,)
+segments_pitches: shape = (571, 12)
+segments_start: shape = (571,)
+segments_timbre: shape = (571, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFZJFU12A8C1420A1
+start_of_fade_out: 152.999
+tatums_confidence: shape = (708,)
+tatums_start: shape = (708,)
+tempo: 140.872
+time_signature: 4
+time_signature_confidence: 0.336
+title: As My Fire Flies
+track_7digitalid: 6802983
+track_id: TRABGIJ128F92F5EC8
+year: 0

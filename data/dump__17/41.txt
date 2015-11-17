@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3041
+artist_familiarity: 0.751007620037
+artist_hotttnesss: 0.523699077765
+artist_id: ARDGB6U1187FB3AD07
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: b4d32cff-f19e-455f-86c4-f347d824ca61
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Eurythmics
+artist_playmeid: 576
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 515e65ed55da20cdbe74728311a7c8b8
+bars_confidence: shape = (138,)
+bars_start: shape = (138,)
+beats_confidence: shape = (557,)
+beats_start: shape = (557,)
+danceability: 0.0
+duration: 269.94893
+end_of_fade_in: 5.358
+energy: 0.0
+key: 5
+key_confidence: 0.412
+loudness: -4.357
+mode: 0
+mode_confidence: 0.398
+release: Revenge
+release_7digitalid: 278992
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (758,)
+segments_loudness_max: shape = (758,)
+segments_loudness_max_time: shape = (758,)
+segments_loudness_start: shape = (758,)
+segments_pitches: shape = (758, 12)
+segments_start: shape = (758,)
+segments_timbre: shape = (758, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.730009842997
+song_id: SODJUSQ12A8AE486C6
+start_of_fade_out: 250.955
+tatums_confidence: shape = (1115,)
+tatums_start: shape = (1115,)
+tempo: 124.973
+time_signature: 4
+time_signature_confidence: 0.177
+title: Missionary Man
+track_7digitalid: 3108002
+track_id: TRAFYGA128F425A92C
+year: 1986

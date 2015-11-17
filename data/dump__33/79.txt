@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 24313
+artist_familiarity: 0.717670524729
+artist_hotttnesss: 0.479308459338
+artist_id: ARS1OWB1187B99EEAD
+artist_latitude: nan
+artist_location: New York, NY
+artist_longitude: nan
+artist_mbid: 1b96b9c9-0832-40cb-9f8d-7274de3733fc
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: New York Dolls
+artist_playmeid: 5379
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 7184e9ee6d1be387bc25be96e994c84b
+bars_confidence: shape = (94,)
+bars_start: shape = (94,)
+beats_confidence: shape = (378,)
+beats_start: shape = (378,)
+danceability: 0.0
+duration: 186.09587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.203
+loudness: -12.668
+mode: 0
+mode_confidence: 0.285
+release: Manhattan Mayhem (a history of the Dolls)
+release_7digitalid: 702585
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (614,)
+segments_loudness_max: shape = (614,)
+segments_loudness_max_time: shape = (614,)
+segments_loudness_start: shape = (614,)
+segments_pitches: shape = (614, 12)
+segments_start: shape = (614,)
+segments_timbre: shape = (614, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOBXDBA12AB0187E5C
+start_of_fade_out: 183.751
+tatums_confidence: shape = (756,)
+tatums_start: shape = (756,)
+tempo: 122.03
+time_signature: 4
+time_signature_confidence: 0.073
+title: Don't Mess With Cupid (1972 demo)
+track_7digitalid: 7793912
+track_id: TRALLVR12903C9E514
+year: 0

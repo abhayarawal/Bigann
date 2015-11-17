@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 165785
+artist_familiarity: 0.674519456573
+artist_hotttnesss: 0.441559082514
+artist_id: AREN1A11187FB527EF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2348dbca-59ea-4360-8e93-dbc24fdf071c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Roger Creager
+artist_playmeid: 36840
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: d2b801d861f280815c84ce8e5aaf5352
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (359,)
+beats_start: shape = (359,)
+danceability: 0.0
+duration: 277.55057
+end_of_fade_in: 0.188
+energy: 0.0
+key: 0
+key_confidence: 0.822
+loudness: -9.776
+mode: 1
+mode_confidence: 0.867
+release: Long Way To Mexico
+release_7digitalid: 229049
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (843,)
+segments_loudness_max: shape = (843,)
+segments_loudness_max_time: shape = (843,)
+segments_loudness_start: shape = (843,)
+segments_pitches: shape = (843, 12)
+segments_start: shape = (843,)
+segments_timbre: shape = (843, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.338886720011
+song_id: SOZPDYY12A6D4FE551
+start_of_fade_out: 264.597
+tatums_confidence: shape = (718,)
+tatums_start: shape = (718,)
+tempo: 80.975
+time_signature: 4
+time_signature_confidence: 0.313
+title: All For The Sake Of The Song
+track_7digitalid: 2506854
+track_id: TRBGPWE128F421CCB4
+year: 2003

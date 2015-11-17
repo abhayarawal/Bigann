@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 32215
+artist_familiarity: 0.612953154239
+artist_hotttnesss: 0.454541929151
+artist_id: AR3QRJ91187B98E4C2
+artist_latitude: 48.85692
+artist_location: Paris, France
+artist_longitude: 2.34121
+artist_mbid: a65f4f19-9f4c-4a44-906f-87aa4ceee900
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Jacques Dutronc
+artist_playmeid: -1
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: b33fce1e5c75d515d9614b50daee127f
+bars_confidence: shape = (61,)
+bars_start: shape = (61,)
+beats_confidence: shape = (247,)
+beats_start: shape = (247,)
+danceability: 0.0
+duration: 151.09179
+end_of_fade_in: 4.528
+energy: 0.0
+key: 2
+key_confidence: 0.263
+loudness: -7.246
+mode: 1
+mode_confidence: 0.404
+release: En Vogue
+release_7digitalid: 279598
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (774,)
+segments_loudness_max: shape = (774,)
+segments_loudness_max_time: shape = (774,)
+segments_loudness_start: shape = (774,)
+segments_pitches: shape = (774, 12)
+segments_start: shape = (774,)
+segments_timbre: shape = (774, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.499445834801
+song_id: SOBLUYN12A8AE48167
+start_of_fade_out: 144.817
+tatums_confidence: shape = (991,)
+tatums_start: shape = (991,)
+tempo: 98.733
+time_signature: 4
+time_signature_confidence: 0.288
+title: L'Aventurier
+track_7digitalid: 3113939
+track_id: TRBBRJN128F425C040
+year: 1969

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4301
+artist_familiarity: 0.711380095973
+artist_hotttnesss: 0.466224300345
+artist_id: ARLIIVS1187FB5583B
+artist_latitude: 39.29055
+artist_location: Baltimore, MD
+artist_longitude: -76.6096
+artist_mbid: 5ae54dee-4dba-49c0-802a-a3b3b3adfe9b
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Philip Glass
+artist_playmeid: 6913
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 93163c68c22e2dceefbd600976cce4c6
+bars_confidence: shape = (104,)
+bars_start: shape = (104,)
+beats_confidence: shape = (104,)
+beats_start: shape = (104,)
+danceability: 0.0
+duration: 93.33506
+end_of_fade_in: 0.194
+energy: 0.0
+key: 9
+key_confidence: 0.551
+loudness: -33.662
+mode: 0
+mode_confidence: 0.521
+release: Theater Music Archive Volume 1
+release_7digitalid: 245189
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (282,)
+segments_loudness_max: shape = (282,)
+segments_loudness_max_time: shape = (282,)
+segments_loudness_start: shape = (282,)
+segments_pitches: shape = (282, 12)
+segments_start: shape = (282,)
+segments_timbre: shape = (282, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGVTFI12A8C13F248
+start_of_fade_out: 88.108
+tatums_confidence: shape = (207,)
+tatums_start: shape = (207,)
+tempo: 69.979
+time_signature: 1
+time_signature_confidence: 0.0
+title: Left Alone...
+track_7digitalid: 2904672
+track_id: TRAMDDN128F4277101
+year: 2007

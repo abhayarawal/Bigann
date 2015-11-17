@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5763
+artist_familiarity: 0.740796632166
+artist_hotttnesss: 0.555741673066
+artist_id: ARNRPI31187B9AC699
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: aaf09f31-bb5c-43e5-9f54-bb6554c33a71
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: The Crystal Method
+artist_playmeid: 9443
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: deb7a562a216ce610d2589e87de09ba1
+bars_confidence: shape = (168,)
+bars_start: shape = (168,)
+beats_confidence: shape = (677,)
+beats_start: shape = (677,)
+danceability: 0.0
+duration: 357.642
+end_of_fade_in: 0.194
+energy: 0.0
+key: 11
+key_confidence: 0.031
+loudness: -10.851
+mode: 1
+mode_confidence: 0.384
+release: Keep Hope Alive EP
+release_7digitalid: 614972
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1987,)
+segments_loudness_max: shape = (1987,)
+segments_loudness_max_time: shape = (1987,)
+segments_loudness_start: shape = (1987,)
+segments_pitches: shape = (1987, 12)
+segments_start: shape = (1987,)
+segments_timbre: shape = (1987, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.632525062115
+song_id: SOHPQKD12A8C143939
+start_of_fade_out: 350.79
+tatums_confidence: shape = (2708,)
+tatums_start: shape = (2708,)
+tempo: 114.313
+time_signature: 4
+time_signature_confidence: 1.0
+title: More
+track_7digitalid: 6836865
+track_id: TRBEVTM128F92FE2B2
+year: 1997

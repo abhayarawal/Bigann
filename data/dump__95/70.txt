@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12037
+artist_familiarity: 0.502245022796
+artist_hotttnesss: 0.215958703137
+artist_id: ARTJ9GZ1187B9B46DE
+artist_latitude: 41.88415
+artist_location: Chicago, IL
+artist_longitude: -87.63241
+artist_mbid: 20da153b-cb7c-487d-a4fe-0bd5c9b4b003
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Young-Holt Unlimited
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 80503d3a720266713c3cdbcc210ab33d
+bars_confidence: shape = (391,)
+bars_start: shape = (391,)
+beats_confidence: shape = (391,)
+beats_start: shape = (391,)
+danceability: 0.0
+duration: 243.66975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.594
+loudness: -12.77
+mode: 0
+mode_confidence: 0.504
+release: Mellow Dreamin'
+release_7digitalid: 51853
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (867,)
+segments_loudness_max: shape = (867,)
+segments_loudness_max_time: shape = (867,)
+segments_loudness_start: shape = (867,)
+segments_pitches: shape = (867, 12)
+segments_start: shape = (867,)
+segments_timbre: shape = (867, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEHKOF12A6D4FA454
+start_of_fade_out: 236.832
+tatums_confidence: shape = (782,)
+tatums_start: shape = (782,)
+tempo: 98.072
+time_signature: 1
+time_signature_confidence: 0.242
+title: Wichita Lineman (LP Version)
+track_7digitalid: 541587
+track_id: TRBGZBM128F14928A3
+year: 1970

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16863
+artist_familiarity: 0.606885311313
+artist_hotttnesss: 0.397594324106
+artist_id: ARC6J781187B98F02B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 722acd7b-e04c-4250-912d-7bdd218a9f3b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tania Maria
+artist_playmeid: -1
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: b4fa77fb1f775944e545ac1d140acd7b
+bars_confidence: shape = (196,)
+bars_start: shape = (196,)
+beats_confidence: shape = (785,)
+beats_start: shape = (785,)
+danceability: 0.0
+duration: 267.67628
+end_of_fade_in: 6.24
+energy: 0.0
+key: 5
+key_confidence: 0.583
+loudness: -10.96
+mode: 1
+mode_confidence: 0.326
+release: Viva Brazil
+release_7digitalid: 214125
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1235,)
+segments_loudness_max: shape = (1235,)
+segments_loudness_max_time: shape = (1235,)
+segments_loudness_start: shape = (1235,)
+segments_pitches: shape = (1235, 12)
+segments_start: shape = (1235,)
+segments_timbre: shape = (1235, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.41967427881
+song_id: SONYHUC12A8C13B90E
+start_of_fade_out: 260.946
+tatums_confidence: shape = (1570,)
+tatums_start: shape = (1570,)
+tempo: 176.349
+time_signature: 4
+time_signature_confidence: 0.236
+title: Vem Pr'a Roda
+track_7digitalid: 2328820
+track_id: TRAFJUW128F427A988
+year: 2000

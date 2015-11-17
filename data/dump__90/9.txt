@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21192
+artist_familiarity: 0.613464932135
+artist_hotttnesss: 0.412115553459
+artist_id: ARQ3VBJ1187FB3FE55
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9af7a998-33f9-4900-9396-9b5e1862298d
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Dario Marianelli
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: b73fed1744f99ea19dacccc269b8655a
+bars_confidence: shape = (52,)
+bars_start: shape = (52,)
+beats_confidence: shape = (277,)
+beats_start: shape = (277,)
+danceability: 0.0
+duration: 192.86159
+end_of_fade_in: 4.47
+energy: 0.0
+key: 1
+key_confidence: 0.418
+loudness: -17.27
+mode: 1
+mode_confidence: 0.458
+release: The Soloist
+release_7digitalid: 539442
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (442,)
+segments_loudness_max: shape = (442,)
+segments_loudness_max_time: shape = (442,)
+segments_loudness_start: shape = (442,)
+segments_pitches: shape = (442, 12)
+segments_start: shape = (442,)
+segments_timbre: shape = (442, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWXUDU12AF72A1001
+start_of_fade_out: 192.862
+tatums_confidence: shape = (277,)
+tatums_start: shape = (277,)
+tempo: 90.845
+time_signature: 5
+time_signature_confidence: 0.282
+title: The Lord's Prayer
+track_7digitalid: 5970140
+track_id: TRBFBQG128F9313C6D
+year: 2009

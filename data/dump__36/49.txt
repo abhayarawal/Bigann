@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8956
+artist_familiarity: 0.867258942438
+artist_hotttnesss: 0.54776411101
+artist_id: ARHUC691187B9AD27F
+artist_latitude: nan
+artist_location: Long Beach, California
+artist_longitude: nan
+artist_mbid: 20883363-1ea4-4d72-ad72-c0e767038f3e
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Mars Volta
+artist_playmeid: -1
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: fd7004e6faa3b721f6606ac3221362d7
+bars_confidence: shape = (302,)
+bars_start: shape = (302,)
+beats_confidence: shape = (1519,)
+beats_start: shape = (1519,)
+danceability: 0.0
+duration: 521.63873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.446
+loudness: -3.741
+mode: 0
+mode_confidence: 0.269
+release: Deloused in the Comatorium
+release_7digitalid: 337526
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (1685,)
+segments_loudness_max: shape = (1685,)
+segments_loudness_max_time: shape = (1685,)
+segments_loudness_start: shape = (1685,)
+segments_pitches: shape = (1685, 12)
+segments_start: shape = (1685,)
+segments_timbre: shape = (1685, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.824717770765
+song_id: SOQVXCF12AF72A419B
+start_of_fade_out: 515.913
+tatums_confidence: shape = (3038,)
+tatums_start: shape = (3038,)
+tempo: 174.792
+time_signature: 5
+time_signature_confidence: 0.494
+title: Take The Veil Cerpin Taxt
+track_7digitalid: 3776650
+track_id: TRAMKDJ128F92F3D8B
+year: 2003

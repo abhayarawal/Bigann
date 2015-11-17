@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20912
+artist_familiarity: 0.844039532227
+artist_hotttnesss: 0.524378987515
+artist_id: ARUSOMY1187FB4D3B4
+artist_latitude: nan
+artist_location: Pittsburgh, PA
+artist_longitude: nan
+artist_mbid: b88f21a7-a1b9-48fd-bbc4-ae758026f17f
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Anti-Flag
+artist_playmeid: 8398
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: b4ff481ab8e32330f5221f01f9d21cee
+bars_confidence: shape = (98,)
+bars_start: shape = (98,)
+beats_confidence: shape = (397,)
+beats_start: shape = (397,)
+danceability: 0.0
+duration: 171.59791
+end_of_fade_in: 0.096
+energy: 0.0
+key: 10
+key_confidence: 0.591
+loudness: -5.829
+mode: 0
+mode_confidence: 0.463
+release: The People or The Gun
+release_7digitalid: 468835
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (489,)
+segments_loudness_max: shape = (489,)
+segments_loudness_max_time: shape = (489,)
+segments_loudness_start: shape = (489,)
+segments_pitches: shape = (489, 12)
+segments_start: shape = (489,)
+segments_timbre: shape = (489, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.60386047091
+song_id: SOSJEIO12A58A7A674
+start_of_fade_out: 155.597
+tatums_confidence: shape = (795,)
+tatums_start: shape = (795,)
+tempo: 152.273
+time_signature: 4
+time_signature_confidence: 0.027
+title: On Independence Day
+track_7digitalid: 5213843
+track_id: TRASDGG128F933EDE2
+year: 2009

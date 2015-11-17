@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 570331
+artist_familiarity: 0.433369111317
+artist_hotttnesss: 0.0
+artist_id: ARDMWZS1257509D66D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mickey And The Students
+artist_playmeid: -1
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: e35610a1a02095f27c8c7f00ef77688b
+bars_confidence: shape = (543,)
+bars_start: shape = (543,)
+beats_confidence: shape = (1635,)
+beats_start: shape = (1635,)
+danceability: 0.0
+duration: 914.02404
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.548
+loudness: -7.329
+mode: 1
+mode_confidence: 0.548
+release: Some People
+release_7digitalid: 763388
+sections_confidence: shape = (44,)
+sections_start: shape = (44,)
+segments_confidence: shape = (3272,)
+segments_loudness_max: shape = (3272,)
+segments_loudness_max_time: shape = (3272,)
+segments_loudness_start: shape = (3272,)
+segments_pitches: shape = (3272, 12)
+segments_start: shape = (3272,)
+segments_timbre: shape = (3272, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOYSHBO12AB018CA41
+start_of_fade_out: 914.024
+tatums_confidence: shape = (3270,)
+tatums_start: shape = (3270,)
+tempo: 107.433
+time_signature: 3
+time_signature_confidence: 0.413
+title: Gimme Gimme Song
+track_7digitalid: 8452691
+track_id: TRADVJK12903CC7D31
+year: 0

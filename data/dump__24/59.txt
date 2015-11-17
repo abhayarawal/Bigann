@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 171024
+artist_familiarity: 0.652367864188
+artist_hotttnesss: 0.437964733142
+artist_id: ARVEJ9M1187FB4DC44
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a9a7819b-8c6a-4b9a-a3e9-cad0471963df
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Les Ogres De Barback
+artist_playmeid: -1
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 89c217f136f835331d2ca7435eadeaa2
+bars_confidence: shape = (461,)
+bars_start: shape = (461,)
+beats_confidence: shape = (461,)
+beats_start: shape = (461,)
+danceability: 0.0
+duration: 189.3873
+end_of_fade_in: 0.357
+energy: 0.0
+key: 10
+key_confidence: 0.051
+loudness: -8.789
+mode: 1
+mode_confidence: 0.309
+release: Irfan_ le héros
+release_7digitalid: 421962
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (800,)
+segments_loudness_max: shape = (800,)
+segments_loudness_max_time: shape = (800,)
+segments_loudness_start: shape = (800,)
+segments_pitches: shape = (800, 12)
+segments_start: shape = (800,)
+segments_timbre: shape = (800, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.437036204112
+song_id: SOYRCTM12AB01860FA
+start_of_fade_out: 166.725
+tatums_confidence: shape = (922,)
+tatums_start: shape = (922,)
+tempo: 148.633
+time_signature: 1
+time_signature_confidence: 0.0
+title: Printemps
+track_7digitalid: 4703073
+track_id: TRAIGSC128F933BBD7
+year: 1999

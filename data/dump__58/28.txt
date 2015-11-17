@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 88849
+artist_familiarity: 0.482212869992
+artist_hotttnesss: 0.374531255441
+artist_id: ARCRR5X1187FB3BD4A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 753e60ac-cfec-47e7-b1a6-d116cfd31050
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Elva Hsiao
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 7c2cde2a68ef9f75189aa72e11362270
+bars_confidence: shape = (92,)
+bars_start: shape = (92,)
+beats_confidence: shape = (369,)
+beats_start: shape = (369,)
+danceability: 0.0
+duration: 233.37751
+end_of_fade_in: 0.467
+energy: 0.0
+key: 10
+key_confidence: 0.521
+loudness: -9.917
+mode: 0
+mode_confidence: 0.298
+release: Never Look Back
+release_7digitalid: 147291
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (807,)
+segments_loudness_max: shape = (807,)
+segments_loudness_max_time: shape = (807,)
+segments_loudness_start: shape = (807,)
+segments_pitches: shape = (807, 12)
+segments_start: shape = (807,)
+segments_timbre: shape = (807, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVGYMU12A8C135147
+start_of_fade_out: 214.46
+tatums_confidence: shape = (738,)
+tatums_start: shape = (738,)
+tempo: 97.001
+time_signature: 4
+time_signature_confidence: 0.631
+title: Lonley
+track_7digitalid: 1536792
+track_id: TRATWUA128F425764B
+year: 0

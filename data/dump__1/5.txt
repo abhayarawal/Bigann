@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 33244
+artist_familiarity: 0.43888747505
+artist_hotttnesss: 0.325148570917
+artist_id: AR4PCIG1187B98D07D
+artist_latitude: 36.16778
+artist_location: Nashville, TN
+artist_longitude: -86.77836
+artist_mbid: d55a7204-c17b-412b-87ce-b4d32e2eeae7
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Ellen McIlwaine
+artist_playmeid: -1
+artist_terms: shape = (50,)
+artist_terms_freq: shape = (50,)
+artist_terms_weight: shape = (50,)
+audio_md5: acd12c7550ee05894c31033ae8a3b7c2
+bars_confidence: shape = (148,)
+bars_start: shape = (148,)
+beats_confidence: shape = (597,)
+beats_start: shape = (597,)
+danceability: 0.0
+duration: 275.12118
+end_of_fade_in: 0.34
+energy: 0.0
+key: 7
+key_confidence: 0.699
+loudness: -6.29
+mode: 1
+mode_confidence: 0.527
+release: Spontanous Combustion
+release_7digitalid: 766444
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (978,)
+segments_loudness_max: shape = (978,)
+segments_loudness_max_time: shape = (978,)
+segments_loudness_start: shape = (978,)
+segments_pitches: shape = (978, 12)
+segments_start: shape = (978,)
+segments_timbre: shape = (978, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.242741878949
+song_id: SOIQHDR12AB01896C8
+start_of_fade_out: 272.933
+tatums_confidence: shape = (1194,)
+tatums_start: shape = (1194,)
+tempo: 132.428
+time_signature: 4
+time_signature_confidence: 0.281
+title: Spontanous Combustion
+track_7digitalid: 8486209
+track_id: TRAAHTH12903CCFFE1
+year: 0

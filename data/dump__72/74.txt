@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 194824
+artist_familiarity: 0.398218770386
+artist_hotttnesss: 0.279483127122
+artist_id: ARZ78EG1187FB4638E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6599cf83-c40a-40e6-b6bf-34ce19acc836
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Malefaction
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 36b5b34aeb63bf87bff103f6b9a3d6c4
+bars_confidence: shape = (49,)
+bars_start: shape = (49,)
+beats_confidence: shape = (198,)
+beats_start: shape = (198,)
+danceability: 0.0
+duration: 53.36771
+end_of_fade_in: 0.241
+energy: 0.0
+key: 7
+key_confidence: 0.189
+loudness: -4.135
+mode: 1
+mode_confidence: 0.6
+release: Crush The Dream
+release_7digitalid: 254896
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (170,)
+segments_loudness_max: shape = (170,)
+segments_loudness_max_time: shape = (170,)
+segments_loudness_start: shape = (170,)
+segments_pitches: shape = (170, 12)
+segments_start: shape = (170,)
+segments_timbre: shape = (170, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOKFNCF12A8C13CC7B
+start_of_fade_out: 49.789
+tatums_confidence: shape = (396,)
+tatums_start: shape = (396,)
+tempo: 231.145
+time_signature: 4
+time_signature_confidence: 0.0
+title: Forever
+track_7digitalid: 2940947
+track_id: TRAYXBC128F427FDDB
+year: 0

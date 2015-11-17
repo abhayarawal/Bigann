@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 678
+artist_familiarity: 0.844085061395
+artist_hotttnesss: 0.71366981958
+artist_id: ARM7EDF1187B9B3FA1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: eeb1195b-f213-4ce1-b28c-8565211f8e43
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Guns N' Roses
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: fa4d5dc56e4cad301a2b48cbac2b4c86
+bars_confidence: shape = (252,)
+bars_start: shape = (252,)
+beats_confidence: shape = (1012,)
+beats_start: shape = (1012,)
+danceability: 0.0
+duration: 524.87791
+end_of_fade_in: 0.708
+energy: 0.0
+key: 1
+key_confidence: 0.63
+loudness: -7.219
+mode: 1
+mode_confidence: 0.405
+release: Use Your Illusion II
+release_7digitalid: 15638
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (1954,)
+segments_loudness_max: shape = (1954,)
+segments_loudness_max_time: shape = (1954,)
+segments_loudness_start: shape = (1954,)
+segments_pitches: shape = (1954, 12)
+segments_start: shape = (1954,)
+segments_timbre: shape = (1954, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.701040474972
+song_id: SOIHJSD12A6701EB04
+start_of_fade_out: 500.018
+tatums_confidence: shape = (4049,)
+tatums_start: shape = (4049,)
+tempo: 118.101
+time_signature: 4
+time_signature_confidence: 0.596
+title: Locomotive (Complicity)
+track_7digitalid: 164673
+track_id: TRAGBPI128E0792998
+year: 1991

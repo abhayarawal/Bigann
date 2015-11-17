@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15260
+artist_familiarity: 0.84560188664
+artist_hotttnesss: 1.00594196595
+artist_id: ARTDQRC1187FB4EFD4
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: d5be5333-4171-427e-8e12-732087c6b78e
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Black Eyed Peas
+artist_playmeid: 21628
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: df35498ee59e8d2fc64d87b84dd8e8b6
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (408,)
+beats_start: shape = (408,)
+danceability: 0.0
+duration: 223.03302
+end_of_fade_in: 0.165
+energy: 0.0
+key: 6
+key_confidence: 0.5
+loudness: -5.939
+mode: 0
+mode_confidence: 0.507
+release: Kids Sing Along Pac
+release_7digitalid: 673805
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (912,)
+segments_loudness_max: shape = (912,)
+segments_loudness_max_time: shape = (912,)
+segments_loudness_start: shape = (912,)
+segments_pitches: shape = (912, 12)
+segments_start: shape = (912,)
+segments_timbre: shape = (912, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGBUUF12AB018B87E
+start_of_fade_out: 219.847
+tatums_confidence: shape = (815,)
+tatums_start: shape = (815,)
+tempo: 107.199
+time_signature: 4
+time_signature_confidence: 1.0
+title: Let's Get It Started
+track_7digitalid: 7470563
+track_id: TRAHKLC12903CC632E
+year: 2004

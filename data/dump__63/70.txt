@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 192150
+artist_familiarity: 0.624573379079
+artist_hotttnesss: 0.438701670045
+artist_id: AR32JLC1187B9946AF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6c7aac91-d780-4c24-9700-590c69f1c8f9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: X-Raided
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: cfa70b55c980cbb6ac15347f96d2fc05
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (404,)
+beats_start: shape = (404,)
+danceability: 0.0
+duration: 210.70322
+end_of_fade_in: 0.363
+energy: 0.0
+key: 6
+key_confidence: 0.119
+loudness: -3.103
+mode: 0
+mode_confidence: 0.212
+release: The Unforgiven_ V.1: ...In The Beginning
+release_7digitalid: 646761
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1053,)
+segments_loudness_max: shape = (1053,)
+segments_loudness_max_time: shape = (1053,)
+segments_loudness_start: shape = (1053,)
+segments_pitches: shape = (1053, 12)
+segments_start: shape = (1053,)
+segments_timbre: shape = (1053, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SOCHVFS12AB0181009
+start_of_fade_out: 210.703
+tatums_confidence: shape = (1213,)
+tatums_start: shape = (1213,)
+tempo: 115.717
+time_signature: 5
+time_signature_confidence: 0.713
+title: Whatever It Took
+track_7digitalid: 7164793
+track_id: TRAVVEB128F934DD34
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 94745
+artist_familiarity: 0.794331284495
+artist_hotttnesss: 0.650665868274
+artist_id: ARQRQRA12131B4B5A8
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fa7b9055-3703-473a-8a09-adf2fe031a24
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Cake
+artist_playmeid: 290
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: f56dcfcb69b4cb9a49299194a1deab85
+bars_confidence: shape = (162,)
+bars_start: shape = (162,)
+beats_confidence: shape = (654,)
+beats_start: shape = (654,)
+danceability: 0.0
+duration: 210.07628
+end_of_fade_in: 0.194
+energy: 0.0
+key: 2
+key_confidence: 0.179
+loudness: -8.522
+mode: 1
+mode_confidence: 0.339
+release: Prolonging the Magic
+release_7digitalid: 296611
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (840,)
+segments_loudness_max: shape = (840,)
+segments_loudness_max_time: shape = (840,)
+segments_loudness_start: shape = (840,)
+segments_pitches: shape = (840, 12)
+segments_start: shape = (840,)
+segments_timbre: shape = (840, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLUABP12AF72A2CD2
+start_of_fade_out: 202.879
+tatums_confidence: shape = (1308,)
+tatums_start: shape = (1308,)
+tempo: 189.616
+time_signature: 4
+time_signature_confidence: 0.461
+title: Alpha Beta Parking Lot
+track_7digitalid: 3335585
+track_id: TRAFWEV128F428D391
+year: 1998

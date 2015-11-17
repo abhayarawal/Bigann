@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12476
+artist_familiarity: 0.718672349752
+artist_hotttnesss: 0.451648407322
+artist_id: ARA65601187FB57BD9
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 1c513fb9-e6b7-4915-b4d3-026681c83065
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Roger Sanchez
+artist_playmeid: 1358
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 269cbcf441742517f6b7f69b5c0e98d8
+bars_confidence: shape = (224,)
+bars_start: shape = (224,)
+beats_confidence: shape = (1127,)
+beats_start: shape = (1127,)
+danceability: 0.0
+duration: 532.37506
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.276
+loudness: -11.049
+mode: 0
+mode_confidence: 0.172
+release: Lost
+release_7digitalid: 107850
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (3016,)
+segments_loudness_max: shape = (3016,)
+segments_loudness_max_time: shape = (3016,)
+segments_loudness_start: shape = (3016,)
+segments_pitches: shape = (3016, 12)
+segments_start: shape = (3016,)
+segments_timbre: shape = (3016, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBXHFD12A8C13B1B9
+start_of_fade_out: 524.19
+tatums_confidence: shape = (2255,)
+tatums_start: shape = (2255,)
+tempo: 127.929
+time_signature: 5
+time_signature_confidence: 1.0
+title: Lost
+track_7digitalid: 1114904
+track_id: TRAYUEL128F4290B28
+year: 2006

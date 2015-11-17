@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 447
+artist_familiarity: 0.818042044373
+artist_hotttnesss: 0.638906376718
+artist_id: ARD4C1I1187FB4B0C3
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: 83d91898-7763-47d7-b03b-b92132375c47
+artist_mbtags: shape = (12,)
+artist_mbtags_count: shape = (12,)
+artist_name: Pink Floyd
+artist_playmeid: 1271
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 5283ab7f096978e22499b76a6caf489c
+bars_confidence: shape = (35,)
+bars_start: shape = (35,)
+beats_confidence: shape = (167,)
+beats_start: shape = (167,)
+danceability: 0.0
+duration: 187.42812
+end_of_fade_in: 0.647
+energy: 0.0
+key: 4
+key_confidence: 0.832
+loudness: -10.813
+mode: 1
+mode_confidence: 0.727
+release: The Piper At The Gates Of Dawn
+release_7digitalid: 456702
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (401,)
+segments_loudness_max: shape = (401,)
+segments_loudness_max_time: shape = (401,)
+segments_loudness_start: shape = (401,)
+segments_pitches: shape = (401, 12)
+segments_start: shape = (401,)
+segments_timbre: shape = (401, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWPTXM12AF729D122
+start_of_fade_out: 170.475
+tatums_confidence: shape = (501,)
+tatums_start: shape = (501,)
+tempo: 54.398
+time_signature: 4
+time_signature_confidence: 0.0
+title: Matilda Mother (Stereo) (2007 Remaster)
+track_7digitalid: 5079170
+track_id: TRATQWS128F931E5EA
+year: 1967

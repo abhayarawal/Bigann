@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18232
+artist_familiarity: 0.699262055776
+artist_hotttnesss: 0.475941289598
+artist_id: AR2SMD91187B9B0582
+artist_latitude: nan
+artist_location: Boston, MA
+artist_longitude: nan
+artist_mbid: 779353f3-6401-4cda-a8a2-6fd3ec9bc11b
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: The Mighty Mighty Bosstones
+artist_playmeid: 176106
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 037acda0ca5d3eabc6d78e18e2d80b2c
+bars_confidence: shape = (129,)
+bars_start: shape = (129,)
+beats_confidence: shape = (520,)
+beats_start: shape = (520,)
+danceability: 0.0
+duration: 196.10077
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.458
+loudness: -7.467
+mode: 1
+mode_confidence: 0.471
+release: Question The Answers
+release_7digitalid: 47197
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (766,)
+segments_loudness_max: shape = (766,)
+segments_loudness_max_time: shape = (766,)
+segments_loudness_start: shape = (766,)
+segments_pitches: shape = (766, 12)
+segments_start: shape = (766,)
+segments_timbre: shape = (766, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.601686243854
+song_id: SOYDTJN12AF72A86B9
+start_of_fade_out: 196.101
+tatums_confidence: shape = (1039,)
+tatums_start: shape = (1039,)
+tempo: 160.138
+time_signature: 4
+time_signature_confidence: 0.529
+title: Pictures To Prove It
+track_7digitalid: 505571
+track_id: TRBFLER128F148C52B
+year: 1994

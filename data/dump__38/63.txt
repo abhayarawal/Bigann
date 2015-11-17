@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1413
+artist_familiarity: 0.709967526114
+artist_hotttnesss: 0.514513276947
+artist_id: ARLWEID1187B98DE3C
+artist_latitude: nan
+artist_location: Chicago, IL
+artist_longitude: nan
+artist_mbid: 5803c81e-739a-4057-9a5c-cf84e55db630
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Quincy Jones
+artist_playmeid: 5307
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: f9b30e29e3f2f37ed356500c7683a16f
+bars_confidence: shape = (375,)
+bars_start: shape = (375,)
+beats_confidence: shape = (375,)
+beats_start: shape = (375,)
+danceability: 0.0
+duration: 204.82567
+end_of_fade_in: 0.351
+energy: 0.0
+key: 11
+key_confidence: 0.631
+loudness: -12.328
+mode: 0
+mode_confidence: 0.712
+release: Watermelon Man
+release_7digitalid: 168502
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (561,)
+segments_loudness_max: shape = (561,)
+segments_loudness_max_time: shape = (561,)
+segments_loudness_start: shape = (561,)
+segments_pitches: shape = (561, 12)
+segments_start: shape = (561,)
+segments_timbre: shape = (561, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSRXYE12A8C13E41A
+start_of_fade_out: 197.062
+tatums_confidence: shape = (749,)
+tatums_start: shape = (749,)
+tempo: 109.86
+time_signature: 1
+time_signature_confidence: 0.644
+title: Exodus
+track_7digitalid: 1782102
+track_id: TRANFIR128F429180A
+year: 1988

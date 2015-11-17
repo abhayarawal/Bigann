@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 87178
+artist_familiarity: 0.505269395522
+artist_hotttnesss: 0.0
+artist_id: ARORFIN1187FB3BE5C
+artist_latitude: 43.0026
+artist_location: Flint Michigan
+artist_longitude: -83.7826
+artist_mbid: 408f0b0a-35c9-407d-b25a-af53461dbd22
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Danielle Bollinger
+artist_playmeid: 166549
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: f0b0aec15bc5c257890b34b045090454
+bars_confidence: shape = (119,)
+bars_start: shape = (119,)
+beats_confidence: shape = (480,)
+beats_start: shape = (480,)
+danceability: 0.0
+duration: 223.52934
+end_of_fade_in: 0.107
+energy: 0.0
+key: 0
+key_confidence: 0.007
+loudness: -4.518
+mode: 1
+mode_confidence: 0.296
+release: When The Broken Hearted Love Again
+release_7digitalid: 815186
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (810,)
+segments_loudness_max: shape = (810,)
+segments_loudness_max_time: shape = (810,)
+segments_loudness_start: shape = (810,)
+segments_pitches: shape = (810, 12)
+segments_start: shape = (810,)
+segments_timbre: shape = (810, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPQJZR12AB01882BD
+start_of_fade_out: 220.967
+tatums_confidence: shape = (960,)
+tatums_start: shape = (960,)
+tempo: 129.986
+time_signature: 4
+time_signature_confidence: 0.741
+title: Kiss the Sky
+track_7digitalid: 9007149
+track_id: TRBBVPM12903CDB094
+year: 2006

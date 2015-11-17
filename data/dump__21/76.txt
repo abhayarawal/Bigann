@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 129610
+artist_familiarity: 0.685080489473
+artist_hotttnesss: 0.46070367445
+artist_id: ARGS67J1187FB3FC1A
+artist_latitude: 37.27188
+artist_location: California
+artist_longitude: -119.27023
+artist_mbid: 1ac3366a-a0e9-4a55-8f6e-796fce32a3b2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Righteous Brothers
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 51f38345bc9379e6101b0c7fac701f6c
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (322,)
+beats_start: shape = (322,)
+danceability: 0.0
+duration: 188.55138
+end_of_fade_in: 0.27
+energy: 0.0
+key: 3
+key_confidence: 0.006
+loudness: -8.602
+mode: 1
+mode_confidence: 0.325
+release: Classic
+release_7digitalid: 495087
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (536,)
+segments_loudness_max: shape = (536,)
+segments_loudness_max_time: shape = (536,)
+segments_loudness_start: shape = (536,)
+segments_pitches: shape = (536, 12)
+segments_start: shape = (536,)
+segments_timbre: shape = (536, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOIGYUY12A6D4F8A3F
+start_of_fade_out: 180.651
+tatums_confidence: shape = (644,)
+tatums_start: shape = (644,)
+tempo: 103.225
+time_signature: 4
+time_signature_confidence: 0.885
+title: Harlem Shuffle
+track_7digitalid: 5481472
+track_id: TRAHKNW128F9312CFD
+year: 1999

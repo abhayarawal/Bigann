@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 125844
+artist_familiarity: 0.649583107218
+artist_hotttnesss: 0.461345852016
+artist_id: ARA7EEC1187FB4C392
+artist_latitude: 49.01037
+artist_location: Karlsruhe, Germany
+artist_longitude: 8.4092
+artist_mbid: 4c3017e5-16d2-4a59-9bfb-5ceb31dbaece
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Snowgoons
+artist_playmeid: 69937
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 61b0a23975e1a0862b719fc4b58891e2
+bars_confidence: shape = (73,)
+bars_start: shape = (73,)
+beats_confidence: shape = (297,)
+beats_start: shape = (297,)
+danceability: 0.0
+duration: 212.32281
+end_of_fade_in: 0.171
+energy: 0.0
+key: 9
+key_confidence: 0.036
+loudness: -4.751
+mode: 0
+mode_confidence: 0.142
+release: German Lugers
+release_7digitalid: 164674
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (950,)
+segments_loudness_max: shape = (950,)
+segments_loudness_max_time: shape = (950,)
+segments_loudness_start: shape = (950,)
+segments_pitches: shape = (950, 12)
+segments_start: shape = (950,)
+segments_timbre: shape = (950, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.54800562052
+song_id: SOUQKFN12A8C13DC40
+start_of_fade_out: 207.226
+tatums_confidence: shape = (891,)
+tatums_start: shape = (891,)
+tempo: 85.138
+time_signature: 4
+time_signature_confidence: 0.399
+title: Real World
+track_7digitalid: 1745271
+track_id: TRALVCW128F4288926
+year: 2007

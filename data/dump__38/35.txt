@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 265130
+artist_familiarity: 0.378150445822
+artist_hotttnesss: 0.312862907413
+artist_id: ARKFSDP119B8668F25
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 324c58e5-8935-4394-8602-c57a3731036d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Elizete Cardoso
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 756c4f3466a27570dadf2447feb4927b
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (108,)
+beats_start: shape = (108,)
+danceability: 0.0
+duration: 103.18322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.29
+loudness: -18.276
+mode: 1
+mode_confidence: 0.7
+release: Eliete Cardoso (Cancáo Do Amor Demais)
+release_7digitalid: 658758
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (216,)
+segments_loudness_max: shape = (216,)
+segments_loudness_max_time: shape = (216,)
+segments_loudness_start: shape = (216,)
+segments_pitches: shape = (216, 12)
+segments_start: shape = (216,)
+segments_timbre: shape = (216, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONKSSI12AB0188CB2
+start_of_fade_out: 100.92
+tatums_confidence: shape = (212,)
+tatums_start: shape = (212,)
+tempo: 63.621
+time_signature: 1
+time_signature_confidence: 1.0
+title: Cancáo Do Amor Demais
+track_7digitalid: 7299725
+track_id: TRANCCR12903C9CF6B
+year: 0

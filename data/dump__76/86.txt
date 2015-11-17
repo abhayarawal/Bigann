@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5827
+artist_familiarity: 0.797420740747
+artist_hotttnesss: 0.536400010793
+artist_id: ARUKN9H1187B9B71C8
+artist_latitude: nan
+artist_location: Atlanta, GA
+artist_longitude: nan
+artist_mbid: 02ceff75-7363-493e-a78d-912dc86c7460
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: The Black Crowes
+artist_playmeid: 6981
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 8089e6b549da324b33b528c38f5276b0
+bars_confidence: shape = (194,)
+bars_start: shape = (194,)
+beats_confidence: shape = (779,)
+beats_start: shape = (779,)
+danceability: 0.0
+duration: 263.52281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.148
+loudness: -12.732
+mode: 0
+mode_confidence: 0.172
+release: Before the Frost... Until the Freeze
+release_7digitalid: 575230
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1077,)
+segments_loudness_max: shape = (1077,)
+segments_loudness_max_time: shape = (1077,)
+segments_loudness_start: shape = (1077,)
+segments_pitches: shape = (1077, 12)
+segments_start: shape = (1077,)
+segments_timbre: shape = (1077, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.496175335673
+song_id: SOTDYKK12AB0184B0B
+start_of_fade_out: 254.996
+tatums_confidence: shape = (1558,)
+tatums_start: shape = (1558,)
+tempo: 178.299
+time_signature: 4
+time_signature_confidence: 0.187
+title: Roll Old Jeremiah
+track_7digitalid: 6376114
+track_id: TRBAFWX12903CA9831
+year: 2009

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17442
+artist_familiarity: 0.42288755669
+artist_hotttnesss: 0.29624881058
+artist_id: AR9E43L1187FB566FA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 27c24ef3-a0c6-41d3-b704-21bbe769e744
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Steve Chou
+artist_playmeid: 128703
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 76a5bb8abfb39a9c2fa58a13870dbacc
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (484,)
+beats_start: shape = (484,)
+danceability: 0.0
+duration: 217.91302
+end_of_fade_in: 2.519
+energy: 0.0
+key: 0
+key_confidence: 0.702
+loudness: -6.902
+mode: 1
+mode_confidence: 0.583
+release: Happy Etude
+release_7digitalid: 337123
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (793,)
+segments_loudness_max: shape = (793,)
+segments_loudness_max_time: shape = (793,)
+segments_loudness_start: shape = (793,)
+segments_pitches: shape = (793, 12)
+segments_start: shape = (793,)
+segments_timbre: shape = (793, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVCQXW12AB017E43D
+start_of_fade_out: 213.751
+tatums_confidence: shape = (969,)
+tatums_start: shape = (969,)
+tempo: 136.06
+time_signature: 4
+time_signature_confidence: 0.378
+title: Sheng Li Hu Huan
+track_7digitalid: 3774044
+track_id: TRAYMPF128F92F3362
+year: 0

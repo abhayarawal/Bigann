@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 429664
+artist_familiarity: 0.341937434065
+artist_hotttnesss: 0.244243642536
+artist_id: ARHVU591187B99F46A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 164aa41a-70e2-4e6f-85f6-efd9c2e71c86
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Nightraver & The Magican
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 6cbe42cbe9f02b397781fca5df187da1
+bars_confidence: shape = (175,)
+bars_start: shape = (175,)
+beats_confidence: shape = (704,)
+beats_start: shape = (704,)
+danceability: 0.0
+duration: 233.53424
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.741
+loudness: -5.483
+mode: 1
+mode_confidence: 0.548
+release: Ultimate Happy Hardcore 3
+release_7digitalid: 577462
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1026,)
+segments_loudness_max: shape = (1026,)
+segments_loudness_max_time: shape = (1026,)
+segments_loudness_start: shape = (1026,)
+segments_pitches: shape = (1026, 12)
+segments_start: shape = (1026,)
+segments_timbre: shape = (1026, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOCWXYM12AB018BDF3
+start_of_fade_out: 226.04
+tatums_confidence: shape = (1407,)
+tatums_start: shape = (1407,)
+tempo: 184.981
+time_signature: 4
+time_signature_confidence: 0.32
+title: Drop the Bass
+track_7digitalid: 6402256
+track_id: TRAAUZI12903CAFD53
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 109823
+artist_familiarity: 0.607105153111
+artist_hotttnesss: 0.424558128676
+artist_id: ARR6VH41187FB46862
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 09af22dd-bdf9-4850-a8b8-2af771f6b2d8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Novika
+artist_playmeid: 176216
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 9d47cfbdfca6bb992519984d11759875
+bars_confidence: shape = (176,)
+bars_start: shape = (176,)
+beats_confidence: shape = (709,)
+beats_start: shape = (709,)
+danceability: 0.0
+duration: 214.49098
+end_of_fade_in: 0.148
+energy: 0.0
+key: 0
+key_confidence: 0.955
+loudness: -9.114
+mode: 1
+mode_confidence: 0.966
+release: Tricks Of Life
+release_7digitalid: 140375
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1087,)
+segments_loudness_max: shape = (1087,)
+segments_loudness_max_time: shape = (1087,)
+segments_loudness_start: shape = (1087,)
+segments_pitches: shape = (1087, 12)
+segments_start: shape = (1087,)
+segments_timbre: shape = (1087, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.562795595196
+song_id: SOTLACM12A8C132954
+start_of_fade_out: 210.872
+tatums_confidence: shape = (1418,)
+tatums_start: shape = (1418,)
+tempo: 200.016
+time_signature: 4
+time_signature_confidence: 0.727
+title: Common Tear
+track_7digitalid: 1457505
+track_id: TRAVMPT128F4246BE4
+year: 2006

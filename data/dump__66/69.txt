@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15824
+artist_familiarity: 0.627185249161
+artist_hotttnesss: 0.393015730045
+artist_id: ARSQW3I1187B9ACD14
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: f66b685d-9abe-4be6-8e59-9a7486be1964
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Leona Naess
+artist_playmeid: -1
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: fa78386cc8d5385a1ff20665959297e0
+bars_confidence: shape = (76,)
+bars_start: shape = (76,)
+beats_confidence: shape = (309,)
+beats_start: shape = (309,)
+danceability: 0.0
+duration: 199.07873
+end_of_fade_in: 0.142
+energy: 0.0
+key: 11
+key_confidence: 0.121
+loudness: -5.769
+mode: 1
+mode_confidence: 0.531
+release: Comatised
+release_7digitalid: 22385
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (481,)
+segments_loudness_max: shape = (481,)
+segments_loudness_max_time: shape = (481,)
+segments_loudness_start: shape = (481,)
+segments_pitches: shape = (481, 12)
+segments_start: shape = (481,)
+segments_timbre: shape = (481, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.587322522141
+song_id: SOQIDYH12A6D4F79EA
+start_of_fade_out: 190.299
+tatums_confidence: shape = (619,)
+tatums_start: shape = (619,)
+tempo: 93.259
+time_signature: 4
+time_signature_confidence: 0.863
+title: Chase
+track_7digitalid: 231145
+track_id: TRAWTGS128F14569A8
+year: 2000

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9917
+artist_familiarity: 0.589694605247
+artist_hotttnesss: 0.383863704328
+artist_id: AR21YNH1187FB49649
+artist_latitude: 51.50632
+artist_location: London
+artist_longitude: -0.12714
+artist_mbid: c0c5e158-d61d-4043-a0eb-dc6cc1e0a539
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Ms. Dynamite
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: ff3e0581d4863f52db190fdc0e9a7599
+bars_confidence: shape = (377,)
+bars_start: shape = (377,)
+beats_confidence: shape = (377,)
+beats_start: shape = (377,)
+danceability: 0.0
+duration: 208.5873
+end_of_fade_in: 0.131
+energy: 0.0
+key: 2
+key_confidence: 1.0
+loudness: -8.226
+mode: 1
+mode_confidence: 0.599
+release: Judgement Days
+release_7digitalid: 19265
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (886,)
+segments_loudness_max: shape = (886,)
+segments_loudness_max_time: shape = (886,)
+segments_loudness_start: shape = (886,)
+segments_pitches: shape = (886, 12)
+segments_start: shape = (886,)
+segments_timbre: shape = (886, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.473346541109
+song_id: SOQJDZH12A67AE0CBF
+start_of_fade_out: 199.094
+tatums_confidence: shape = (1129,)
+tatums_start: shape = (1129,)
+tempo: 109.287
+time_signature: 1
+time_signature_confidence: 0.616
+title: Unbreakable
+track_7digitalid: 202621
+track_id: TRAKLML128E07999DA
+year: 2005

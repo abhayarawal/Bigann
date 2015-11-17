@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 69260
+artist_familiarity: 0.384889071877
+artist_hotttnesss: 0.182219808816
+artist_id: AR49NV71187FB57689
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5d0b5c85-e7e0-40b0-8ffe-bff983f2d280
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Piero Esteriore
+artist_playmeid: 52863
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: fc6e260c74806a752de937696f524212
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (406,)
+beats_start: shape = (406,)
+danceability: 0.0
+duration: 246.54322
+end_of_fade_in: 2.363
+energy: 0.0
+key: 0
+key_confidence: 0.684
+loudness: -6.212
+mode: 1
+mode_confidence: 0.7
+release: Io Vivo
+release_7digitalid: 522267
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (707,)
+segments_loudness_max: shape = (707,)
+segments_loudness_max_time: shape = (707,)
+segments_loudness_start: shape = (707,)
+segments_pitches: shape = (707, 12)
+segments_start: shape = (707,)
+segments_timbre: shape = (707, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIFVXW12A8C13FA2B
+start_of_fade_out: 238.022
+tatums_confidence: shape = (812,)
+tatums_start: shape = (812,)
+tempo: 100.071
+time_signature: 4
+time_signature_confidence: 1.0
+title: Io Vivo
+track_7digitalid: 5770184
+track_id: TRAUBPL128F92E34F4
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5401
+artist_familiarity: 0.588278825525
+artist_hotttnesss: 0.403602007956
+artist_id: ARXHWL31187FB476F4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a79e35b4-4b82-4e6d-9689-63cb92d558e9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: unloco
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 9ff714a0df4e9877799838fb4de355e1
+bars_confidence: shape = (59,)
+bars_start: shape = (59,)
+beats_confidence: shape = (318,)
+beats_start: shape = (318,)
+danceability: 0.0
+duration: 163.86567
+end_of_fade_in: 0.113
+energy: 0.0
+key: 1
+key_confidence: 0.469
+loudness: -5.653
+mode: 0
+mode_confidence: 0.45
+release: Healing
+release_7digitalid: 176415
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (597,)
+segments_loudness_max: shape = (597,)
+segments_loudness_max_time: shape = (597,)
+segments_loudness_start: shape = (597,)
+segments_pitches: shape = (597, 12)
+segments_start: shape = (597,)
+segments_timbre: shape = (597, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.690290537919
+song_id: SOWOUVW12A6D4FD0C8
+start_of_fade_out: 158.343
+tatums_confidence: shape = (636,)
+tatums_start: shape = (636,)
+tempo: 126.113
+time_signature: 5
+time_signature_confidence: 1.0
+title: Nothing (Album Version)
+track_7digitalid: 1898265
+track_id: TRBGZYP128F4222C37
+year: 2001

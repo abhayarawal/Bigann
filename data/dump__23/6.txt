@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18687
+artist_familiarity: 0.444677870583
+artist_hotttnesss: 0.333015301724
+artist_id: ARKON4P1187B98B291
+artist_latitude: 50.3758
+artist_location: Plymouth, Devon, England
+artist_longitude: -4.13689
+artist_mbid: 8615457f-5a4c-4946-980d-d2e9fe480f38
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Ron Goodwin
+artist_playmeid: 138080
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 191c636e7fdef63e9697d1d22d1e71e8
+bars_confidence: shape = (38,)
+bars_start: shape = (38,)
+beats_confidence: shape = (38,)
+beats_start: shape = (38,)
+danceability: 0.0
+duration: 47.51628
+end_of_fade_in: 0.362
+energy: 0.0
+key: 7
+key_confidence: 0.21
+loudness: -19.995
+mode: 1
+mode_confidence: 0.505
+release: Battle Of Britain
+release_7digitalid: 64157
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (65,)
+segments_loudness_max: shape = (65,)
+segments_loudness_max_time: shape = (65,)
+segments_loudness_start: shape = (65,)
+segments_pitches: shape = (65, 12)
+segments_start: shape = (65,)
+segments_timbre: shape = (65, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SOALDWR12A6D4FAEA3
+start_of_fade_out: 47.516
+tatums_confidence: shape = (77,)
+tatums_start: shape = (77,)
+tempo: 61.409
+time_signature: 1
+time_signature_confidence: 0.0
+title: Personal Tragedy
+track_7digitalid: 665079
+track_id: TRAHUSK128F14AD120
+year: 1999

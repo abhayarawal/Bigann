@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15229
+artist_familiarity: 0.731065755711
+artist_hotttnesss: 0.509878707853
+artist_id: AREPD8D1187FB3F5BC
+artist_latitude: nan
+artist_location: Gainesville, FL
+artist_longitude: nan
+artist_mbid: 3b141e34-8c02-4074-b68a-7d64e3212acd
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sister Hazel
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: c6fcbf533c29b1c8d1f879fc51d3d8ba
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (436,)
+beats_start: shape = (436,)
+danceability: 0.0
+duration: 195.36934
+end_of_fade_in: 0.107
+energy: 0.0
+key: 5
+key_confidence: 0.809
+loudness: -6.481
+mode: 1
+mode_confidence: 0.733
+release: Release
+release_7digitalid: 555552
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (664,)
+segments_loudness_max: shape = (664,)
+segments_loudness_max_time: shape = (664,)
+segments_loudness_start: shape = (664,)
+segments_pitches: shape = (664, 12)
+segments_start: shape = (664,)
+segments_timbre: shape = (664, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.603030144794
+song_id: SOKMFTY12AB0183216
+start_of_fade_out: 184.941
+tatums_confidence: shape = (872,)
+tatums_start: shape = (872,)
+tempo: 140.259
+time_signature: 4
+time_signature_confidence: 0.019
+title: Walls And Cannonballs (Album)
+track_7digitalid: 6141964
+track_id: TRABNDD128F933D3C7
+year: 2010

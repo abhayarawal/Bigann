@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 256766
+artist_familiarity: 0.380724848148
+artist_hotttnesss: 0.322733177777
+artist_id: ARENXFQ1187B996F17
+artist_latitude: 39.95227
+artist_location: Philadelphia, PA
+artist_longitude: -75.16237
+artist_mbid: 30d68002-f7a0-4260-a346-14b40a02b960
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ram Squad
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: a42066529cf6a04d74a3f299073043ca
+bars_confidence: shape = (150,)
+bars_start: shape = (150,)
+beats_confidence: shape = (603,)
+beats_start: shape = (603,)
+danceability: 0.0
+duration: 249.36444
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.811
+loudness: -8.665
+mode: 1
+mode_confidence: 0.769
+release: R.andom A.cess M.oney
+release_7digitalid: 675677
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1091,)
+segments_loudness_max: shape = (1091,)
+segments_loudness_max_time: shape = (1091,)
+segments_loudness_start: shape = (1091,)
+segments_pitches: shape = (1091, 12)
+segments_start: shape = (1091,)
+segments_timbre: shape = (1091, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGXYDI12AB01865E9
+start_of_fade_out: 246.799
+tatums_confidence: shape = (1206,)
+tatums_start: shape = (1206,)
+tempo: 145.944
+time_signature: 4
+time_signature_confidence: 0.679
+title: Dirty South
+track_7digitalid: 7494110
+track_id: TRAXUYT12903CCBF21
+year: 0

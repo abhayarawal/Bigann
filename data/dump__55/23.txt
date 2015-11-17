@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11135
+artist_familiarity: 0.716101705237
+artist_hotttnesss: 0.514523378441
+artist_id: AR6I54S1187FB48C6B
+artist_latitude: nan
+artist_location: Old Town, ME
+artist_longitude: nan
+artist_mbid: 6fddcfc3-20b6-48d0-87ba-8211eca3420c
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Patty Griffin
+artist_playmeid: 13246
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 9d4a61218360f7975597e63bd5ba0567
+bars_confidence: shape = (68,)
+bars_start: shape = (68,)
+beats_confidence: shape = (277,)
+beats_start: shape = (277,)
+danceability: 0.0
+duration: 134.05995
+end_of_fade_in: 0.403
+energy: 0.0
+key: 10
+key_confidence: 0.105
+loudness: -6.376
+mode: 0
+mode_confidence: 0.53
+release: Flaming Red
+release_7digitalid: 15756
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (368,)
+segments_loudness_max: shape = (368,)
+segments_loudness_max_time: shape = (368,)
+segments_loudness_start: shape = (368,)
+segments_pitches: shape = (368, 12)
+segments_start: shape = (368,)
+segments_timbre: shape = (368, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.51310641766
+song_id: SOEDYBF12AF72A3AFF
+start_of_fade_out: 129.387
+tatums_confidence: shape = (553,)
+tatums_start: shape = (553,)
+tempo: 124.794
+time_signature: 4
+time_signature_confidence: 0.697
+title: Flaming Red
+track_7digitalid: 166347
+track_id: TRASWKJ128E0792FE7
+year: 1998

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 351502
+artist_familiarity: 0.32220706625
+artist_hotttnesss: 0.288731599964
+artist_id: AROY0LJ1187B99654D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 60bb6dec-bbb0-4e68-b503-1786e92bd66c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kol Simcha
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 050d2b494be5ff588c5a451b4459d740
+bars_confidence: shape = (280,)
+bars_start: shape = (280,)
+beats_confidence: shape = (280,)
+beats_start: shape = (280,)
+danceability: 0.0
+duration: 164.64934
+end_of_fade_in: 0.183
+energy: 0.0
+key: 7
+key_confidence: 0.398
+loudness: -20.327
+mode: 0
+mode_confidence: 0.489
+release: Voice Of Joy
+release_7digitalid: 481650
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (527,)
+segments_loudness_max: shape = (527,)
+segments_loudness_max_time: shape = (527,)
+segments_loudness_start: shape = (527,)
+segments_pitches: shape = (527, 12)
+segments_start: shape = (527,)
+segments_timbre: shape = (527, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SOQXSVW12A58A7A419
+start_of_fade_out: 150.825
+tatums_confidence: shape = (561,)
+tatums_start: shape = (561,)
+tempo: 109.265
+time_signature: 1
+time_signature_confidence: 0.0
+title: Nigun
+track_7digitalid: 5349693
+track_id: TRANRZC128F92F3A15
+year: 0

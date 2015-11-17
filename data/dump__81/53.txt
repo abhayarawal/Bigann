@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 66941
+artist_familiarity: 0.485921285721
+artist_hotttnesss: 0.353156297467
+artist_id: ARXJSHW1187B9A2A52
+artist_latitude: 25.72898
+artist_location: Miami, FL
+artist_longitude: -80.23742
+artist_mbid: cdf09cd2-59e0-4953-839f-bea3bbb07b1b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Nestor Torres
+artist_playmeid: 40720
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: c581849069f5aa94b84f2600dc494813
+bars_confidence: shape = (129,)
+bars_start: shape = (129,)
+beats_confidence: shape = (910,)
+beats_start: shape = (910,)
+danceability: 0.0
+duration: 280.2673
+end_of_fade_in: 0.508
+energy: 0.0
+key: 7
+key_confidence: 0.667
+loudness: -8.034
+mode: 1
+mode_confidence: 0.476
+release: The Very Best of Nestor Torres
+release_7digitalid: 600392
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1289,)
+segments_loudness_max: shape = (1289,)
+segments_loudness_max_time: shape = (1289,)
+segments_loudness_start: shape = (1289,)
+segments_pitches: shape = (1289, 12)
+segments_start: shape = (1289,)
+segments_timbre: shape = (1289, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLDLRC12AC907269F
+start_of_fade_out: 271.099
+tatums_confidence: shape = (1821,)
+tatums_start: shape = (1821,)
+tempo: 195.995
+time_signature: 7
+time_signature_confidence: 0.387
+title: This Side Of Paradise
+track_7digitalid: 6663851
+track_id: TRBBYGX12903CEF0BC
+year: 2001

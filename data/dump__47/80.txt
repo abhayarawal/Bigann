@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 153144
+artist_familiarity: 0.447009090587
+artist_hotttnesss: 0.389314396561
+artist_id: ARYN80Y1187FB49F36
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d31dbfe5-3272-4b2e-bcca-86577b87f6c6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Rongetz Foundation
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: a22e3ee7b178f76c96f580d25ca0cf95
+bars_confidence: shape = (189,)
+bars_start: shape = (189,)
+beats_confidence: shape = (760,)
+beats_start: shape = (760,)
+danceability: 0.0
+duration: 390.37342
+end_of_fade_in: 2.229
+energy: 0.0
+key: 4
+key_confidence: 0.52
+loudness: -8.415
+mode: 0
+mode_confidence: 0.519
+release: East
+release_7digitalid: 203334
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1294,)
+segments_loudness_max: shape = (1294,)
+segments_loudness_max_time: shape = (1294,)
+segments_loudness_start: shape = (1294,)
+segments_pitches: shape = (1294, 12)
+segments_start: shape = (1294,)
+segments_timbre: shape = (1294, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.306699164735
+song_id: SOJZOST12A8C139DA4
+start_of_fade_out: 376.245
+tatums_confidence: shape = (1520,)
+tatums_start: shape = (1520,)
+tempo: 119.992
+time_signature: 4
+time_signature_confidence: 0.947
+title: East
+track_7digitalid: 2208629
+track_id: TRAQGZY128F425E791
+year: 0

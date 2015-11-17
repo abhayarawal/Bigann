@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10627
+artist_familiarity: 0.359129965901
+artist_hotttnesss: 0.274197771089
+artist_id: ARODP5P1187FB40142
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0ef41d78-6a69-44fa-b355-23581a88990a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Eddie Cano
+artist_playmeid: 47311
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 7e1850dd47ce419c03e9db719dd75dbc
+bars_confidence: shape = (304,)
+bars_start: shape = (304,)
+beats_confidence: shape = (304,)
+beats_start: shape = (304,)
+danceability: 0.0
+duration: 152.99873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.698
+loudness: -15.71
+mode: 0
+mode_confidence: 0.715
+release: Here is Fabulous Eddie Cano
+release_7digitalid: 461028
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (443,)
+segments_loudness_max: shape = (443,)
+segments_loudness_max_time: shape = (443,)
+segments_loudness_start: shape = (443,)
+segments_pitches: shape = (443, 12)
+segments_start: shape = (443,)
+segments_timbre: shape = (443, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLLRRJ12AB01889BF
+start_of_fade_out: 145.548
+tatums_confidence: shape = (608,)
+tatums_start: shape = (608,)
+tempo: 126.029
+time_signature: 1
+time_signature_confidence: 0.046
+title: Green Fields  (Album Version)
+track_7digitalid: 5133198
+track_id: TRAIBJP128F932B2FF
+year: 0

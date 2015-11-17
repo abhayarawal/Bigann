@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 48295
+artist_familiarity: 0.55757105921
+artist_hotttnesss: 0.306947608643
+artist_id: AR1KMPF1187B99AA98
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cc57dbcb-1263-4039-9045-1ca7dbac4429
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lara
+artist_playmeid: 9598
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 96a76d966bfa80867036598cbfb0de98
+bars_confidence: shape = (105,)
+bars_start: shape = (105,)
+beats_confidence: shape = (422,)
+beats_start: shape = (422,)
+danceability: 0.0
+duration: 206.602
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.754
+loudness: -11.017
+mode: 0
+mode_confidence: 0.784
+release: Petit Coeur Assassin
+release_7digitalid: 583352
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (618,)
+segments_loudness_max: shape = (618,)
+segments_loudness_max_time: shape = (618,)
+segments_loudness_start: shape = (618,)
+segments_pitches: shape = (618, 12)
+segments_start: shape = (618,)
+segments_timbre: shape = (618, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEVDCK12AB018A8F3
+start_of_fade_out: 202.194
+tatums_confidence: shape = (844,)
+tatums_start: shape = (844,)
+tempo: 125.1
+time_signature: 4
+time_signature_confidence: 0.457
+title: La Pieuvre
+track_7digitalid: 6465358
+track_id: TRBHEJE12903CBEE90
+year: 0

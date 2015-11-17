@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 58211
+artist_familiarity: 0.487066036837
+artist_hotttnesss: 0.366389370705
+artist_id: ARJ0FG21187B99F7C4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 468569a5-0b41-4864-901a-cf101b6f5a29
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Crazy Girl
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 87a2f96d9ec6a8f90c38bcc2d4e74785
+bars_confidence: shape = (107,)
+bars_start: shape = (107,)
+beats_confidence: shape = (541,)
+beats_start: shape = (541,)
+danceability: 0.0
+duration: 357.14567
+end_of_fade_in: 0.061
+energy: 0.0
+key: 0
+key_confidence: 0.476
+loudness: -6.609
+mode: 1
+mode_confidence: 0.332
+release: Get Picked Up
+release_7digitalid: 635170
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1332,)
+segments_loudness_max: shape = (1332,)
+segments_loudness_max_time: shape = (1332,)
+segments_loudness_start: shape = (1332,)
+segments_pitches: shape = (1332, 12)
+segments_start: shape = (1332,)
+segments_timbre: shape = (1332, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODBINY12AB017DAC4
+start_of_fade_out: 350.279
+tatums_confidence: shape = (1621,)
+tatums_start: shape = (1621,)
+tempo: 91.967
+time_signature: 5
+time_signature_confidence: 0.899
+title: Get Picked Up (Niyi Can't Mix Version 1)
+track_7digitalid: 7051374
+track_id: TRAVZBG128F9332358
+year: 0

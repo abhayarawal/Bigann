@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15535
+artist_familiarity: 0.47046686593
+artist_hotttnesss: 0.378398546485
+artist_id: AR6MIU31187B994603
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a18b2895-1dbe-4b55-bba0-fae4c02a9a1a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Stefon Harris
+artist_playmeid: 61828
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 7f357630dd1dc43079dd6f06561e333b
+bars_confidence: shape = (285,)
+bars_start: shape = (285,)
+beats_confidence: shape = (1142,)
+beats_start: shape = (1142,)
+danceability: 0.0
+duration: 511.21587
+end_of_fade_in: 2.258
+energy: 0.0
+key: 1
+key_confidence: 0.162
+loudness: -17.68
+mode: 1
+mode_confidence: 0.202
+release: A Cloud Of Red Dust
+release_7digitalid: 111868
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (1896,)
+segments_loudness_max: shape = (1896,)
+segments_loudness_max_time: shape = (1896,)
+segments_loudness_start: shape = (1896,)
+segments_pitches: shape = (1896, 12)
+segments_start: shape = (1896,)
+segments_timbre: shape = (1896, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.40860938444
+song_id: SOKHHXO12A8C13D2DF
+start_of_fade_out: 506.131
+tatums_confidence: shape = (2285,)
+tatums_start: shape = (2285,)
+tempo: 134.83
+time_signature: 4
+time_signature_confidence: 0.804
+title: And This Too Shall Pass
+track_7digitalid: 1156613
+track_id: TRAMIXD128F42981CA
+year: 0

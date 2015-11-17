@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 193710
+artist_familiarity: 0.236105040947
+artist_hotttnesss: 0.199368969844
+artist_id: ARUI2ZJ1187FB3ACA5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 11b08537-e3cb-49c7-be55-481ab173dcb0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mario Telles
+artist_playmeid: -1
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: 4d7cabfb62966504b63ce6d0ab129f98
+bars_confidence: shape = (84,)
+bars_start: shape = (84,)
+beats_confidence: shape = (340,)
+beats_start: shape = (340,)
+danceability: 0.0
+duration: 212.13995
+end_of_fade_in: 0.183
+energy: 0.0
+key: 2
+key_confidence: 0.854
+loudness: -9.989
+mode: 1
+mode_confidence: 0.567
+release: Mario Telles
+release_7digitalid: 280752
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (605,)
+segments_loudness_max: shape = (605,)
+segments_loudness_max_time: shape = (605,)
+segments_loudness_start: shape = (605,)
+segments_pitches: shape = (605, 12)
+segments_start: shape = (605,)
+segments_timbre: shape = (605, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKPBBP12A8AE49419
+start_of_fade_out: 207.482
+tatums_confidence: shape = (681,)
+tatums_start: shape = (681,)
+tempo: 97.34
+time_signature: 4
+time_signature_confidence: 0.0
+title: Nanã
+track_7digitalid: 3133699
+track_id: TRAUZOU128F4260C88
+year: 1962

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7041
+artist_familiarity: 0.887920450193
+artist_hotttnesss: 0.64722472378
+artist_id: ARN5NHX1187FB4F755
+artist_latitude: 41.88415
+artist_location: Chicago, IL
+artist_longitude: -87.63241
+artist_mbid: ba0d6274-db14-4ef5-b28d-657ebde1a396
+artist_mbtags: shape = (16,)
+artist_mbtags_count: shape = (16,)
+artist_name: The Smashing Pumpkins
+artist_playmeid: 66483
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 6c2d4d6a86ce1f066247ead5c58e4071
+bars_confidence: shape = (150,)
+bars_start: shape = (150,)
+beats_confidence: shape = (605,)
+beats_start: shape = (605,)
+danceability: 0.0
+duration: 249.62567
+end_of_fade_in: 0.16
+energy: 0.0
+key: 2
+key_confidence: 0.412
+loudness: -4.673
+mode: 1
+mode_confidence: 0.418
+release: Rotten Apples_ The Smashing Pumpkins Greatest Hits
+release_7digitalid: 10172
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (426,)
+segments_loudness_max: shape = (426,)
+segments_loudness_max_time: shape = (426,)
+segments_loudness_start: shape = (426,)
+segments_pitches: shape = (426, 12)
+segments_start: shape = (426,)
+segments_timbre: shape = (426, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.66841936937
+song_id: SOMOUQV12A6701CD7B
+start_of_fade_out: 234.365
+tatums_confidence: shape = (1210,)
+tatums_start: shape = (1210,)
+tempo: 152.999
+time_signature: 4
+time_signature_confidence: 1.0
+title: Real Love
+track_7digitalid: 104234
+track_id: TRASWIV128E0788A84
+year: 2000

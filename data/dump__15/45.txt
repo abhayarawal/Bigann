@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4880
+artist_familiarity: 0.565089892204
+artist_hotttnesss: 0.448593802612
+artist_id: AR1DLF21187FB3CBF0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3f49566c-2c59-440e-8ea5-4d7afa1ee3f2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: 4Him
+artist_playmeid: 15431
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 6e5e08c8c61060fc42f8d4337fdebb7d
+bars_confidence: shape = (224,)
+bars_start: shape = (224,)
+beats_confidence: shape = (674,)
+beats_start: shape = (674,)
+danceability: 0.0
+duration: 241.97179
+end_of_fade_in: 3.431
+energy: 0.0
+key: 1
+key_confidence: 0.595
+loudness: -9.295
+mode: 1
+mode_confidence: 0.648
+release: Best Ones
+release_7digitalid: 536803
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (916,)
+segments_loudness_max: shape = (916,)
+segments_loudness_max_time: shape = (916,)
+segments_loudness_start: shape = (916,)
+segments_pitches: shape = (916, 12)
+segments_start: shape = (916,)
+segments_timbre: shape = (916, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.488289876037
+song_id: SOIVGLD12AB0183ACA
+start_of_fade_out: 227.91
+tatums_confidence: shape = (1348,)
+tatums_start: shape = (1348,)
+tempo: 171.329
+time_signature: 3
+time_signature_confidence: 0.748
+title: Wings
+track_7digitalid: 5951691
+track_id: TRAFGMJ128F930F532
+year: 1994

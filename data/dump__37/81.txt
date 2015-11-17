@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8614
+artist_familiarity: 0.742963152341
+artist_hotttnesss: 0.453391186075
+artist_id: ARYPWUK1187B98ACED
+artist_latitude: 64.55653
+artist_location: Norway
+artist_longitude: 12.66538
+artist_mbid: 69161e5a-51dc-473b-8a16-9007dbdbeb93
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Emperor
+artist_playmeid: 160843
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: e42b6b5964644d061e5318c822d2331b
+bars_confidence: shape = (312,)
+bars_start: shape = (312,)
+beats_confidence: shape = (943,)
+beats_start: shape = (943,)
+danceability: 0.0
+duration: 334.68036
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.432
+loudness: -5.315
+mode: 1
+mode_confidence: 0.476
+release: Live Inferno
+release_7digitalid: 495734
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (532,)
+segments_loudness_max: shape = (532,)
+segments_loudness_max_time: shape = (532,)
+segments_loudness_start: shape = (532,)
+segments_pitches: shape = (532, 12)
+segments_start: shape = (532,)
+segments_timbre: shape = (532, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONHKXA12AB0180478
+start_of_fade_out: 334.68
+tatums_confidence: shape = (1886,)
+tatums_start: shape = (1886,)
+tempo: 169.423
+time_signature: 3
+time_signature_confidence: 0.297
+title: In the Wordless Chamber
+track_7digitalid: 5488447
+track_id: TRAMWKK128F9314838
+year: 0

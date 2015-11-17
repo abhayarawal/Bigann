@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 101614
+artist_familiarity: 0.619260604878
+artist_hotttnesss: 0.416935871661
+artist_id: ARXW2MN1187B9B8817
+artist_latitude: nan
+artist_location: New York, NY
+artist_longitude: nan
+artist_mbid: 9bb0ae46-c22c-499f-915f-9b4fc8d4f767
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: X-ecutioners
+artist_playmeid: 8550
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 48bdd84801eac7df96c14539dffc6915
+bars_confidence: shape = (72,)
+bars_start: shape = (72,)
+beats_confidence: shape = (364,)
+beats_start: shape = (364,)
+danceability: 0.0
+duration: 286.77179
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.09
+loudness: -5.716
+mode: 0
+mode_confidence: 0.499
+release: Built From Scratch
+release_7digitalid: 400773
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1668,)
+segments_loudness_max: shape = (1668,)
+segments_loudness_max_time: shape = (1668,)
+segments_loudness_start: shape = (1668,)
+segments_pitches: shape = (1668, 12)
+segments_start: shape = (1668,)
+segments_timbre: shape = (1668, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJQTNZ12AB018115B
+start_of_fade_out: 286.772
+tatums_confidence: shape = (2183,)
+tatums_start: shape = (2183,)
+tempo: 76.166
+time_signature: 5
+time_signature_confidence: 0.807
+title: Play That Beat
+track_7digitalid: 4453496
+track_id: TRADMGC128F9306CC9
+year: 2001

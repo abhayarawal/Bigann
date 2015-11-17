@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13982
+artist_familiarity: 0.67290413393
+artist_hotttnesss: 0.524063332776
+artist_id: AR3SPD91187B9B63E3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4bb712d6-8be9-4c09-810a-eb3bed2be345
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Héroes del Silencio
+artist_playmeid: 3664
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 2be2935ae935300a2aa54a6701fb1f45
+bars_confidence: shape = (113,)
+bars_start: shape = (113,)
+beats_confidence: shape = (471,)
+beats_start: shape = (471,)
+danceability: 0.0
+duration: 249.86077
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.456
+loudness: -4.884
+mode: 0
+mode_confidence: 0.519
+release: Senderos De Traición - Edición Especial
+release_7digitalid: 42825
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (732,)
+segments_loudness_max: shape = (732,)
+segments_loudness_max_time: shape = (732,)
+segments_loudness_start: shape = (732,)
+segments_pitches: shape = (732, 12)
+segments_start: shape = (732,)
+segments_timbre: shape = (732, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYNMFH12A6D4F50E2
+start_of_fade_out: 249.861
+tatums_confidence: shape = (941,)
+tatums_start: shape = (941,)
+tempo: 110.576
+time_signature: 4
+time_signature_confidence: 1.0
+title: Oración (Directo)
+track_7digitalid: 455557
+track_id: TRAZEDS128F14836FE
+year: 0

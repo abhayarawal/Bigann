@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 183483
+artist_familiarity: 0.416463908141
+artist_hotttnesss: 0.374335194759
+artist_id: ARZKFR51187B9AF51B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 88f89d96-0467-4064-8894-fafc145e3af4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Brian Free & Assurance
+artist_playmeid: 181740
+artist_terms: shape = (7,)
+artist_terms_freq: shape = (7,)
+artist_terms_weight: shape = (7,)
+audio_md5: 76f56ae0c95295e01dcb72a90a39a37a
+bars_confidence: shape = (99,)
+bars_start: shape = (99,)
+beats_confidence: shape = (403,)
+beats_start: shape = (403,)
+danceability: 0.0
+duration: 243.80036
+end_of_fade_in: 0.357
+energy: 0.0
+key: 11
+key_confidence: 0.509
+loudness: -12.347
+mode: 1
+mode_confidence: 0.441
+release: Things That Last Forever
+release_7digitalid: 342538
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (615,)
+segments_loudness_max: shape = (615,)
+segments_loudness_max_time: shape = (615,)
+segments_loudness_start: shape = (615,)
+segments_pitches: shape = (615, 12)
+segments_start: shape = (615,)
+segments_timbre: shape = (615, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.267378459192
+song_id: SOEIRMZ12AB01864F8
+start_of_fade_out: 230.905
+tatums_confidence: shape = (806,)
+tatums_start: shape = (806,)
+tempo: 101.913
+time_signature: 4
+time_signature_confidence: 0.86
+title: Emmaus
+track_7digitalid: 3835365
+track_id: TRAEQAC128F92FF871
+year: 0

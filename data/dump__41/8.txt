@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 447422
+artist_familiarity: 0.466768144632
+artist_hotttnesss: 0.372415888186
+artist_id: ARMRQFC1269FCD2C40
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Roj
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 77ee759f7b14500a7a8a8ed0c92aa676
+bars_confidence: shape = (29,)
+bars_start: shape = (29,)
+beats_confidence: shape = (121,)
+beats_start: shape = (121,)
+danceability: 0.0
+duration: 65.95873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.05
+loudness: -12.912
+mode: 1
+mode_confidence: 0.354
+release: The Transactional Dharma of Roj
+release_7digitalid: 601112
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (368,)
+segments_loudness_max: shape = (368,)
+segments_loudness_max_time: shape = (368,)
+segments_loudness_start: shape = (368,)
+segments_pitches: shape = (368, 12)
+segments_start: shape = (368,)
+segments_timbre: shape = (368, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.401486711428
+song_id: SORMAAO12AC9075357
+start_of_fade_out: 60.5
+tatums_confidence: shape = (365,)
+tatums_start: shape = (365,)
+tempo: 115.307
+time_signature: 4
+time_signature_confidence: 0.614
+title: The Process Revealed
+track_7digitalid: 6673193
+track_id: TRANYVC12903CF1535
+year: 0

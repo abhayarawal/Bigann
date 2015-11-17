@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7247
+artist_familiarity: 0.511663445372
+artist_hotttnesss: 0.409778997763
+artist_id: AR9JLBU1187B9AAEC4
+artist_latitude: -33.96243
+artist_location: Port Elizabeth, South Africa
+artist_longitude: 25.62326
+artist_mbid: aab7a1d7-5461-4874-8162-bc127b91da59
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Danny Williams
+artist_playmeid: 24400
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 6bd07a1143c023f44699faff6a40eee9
+bars_confidence: shape = (65,)
+bars_start: shape = (65,)
+beats_confidence: shape = (463,)
+beats_start: shape = (463,)
+danceability: 0.0
+duration: 200.82893
+end_of_fade_in: 0.984
+energy: 0.0
+key: 2
+key_confidence: 0.614
+loudness: -16.389
+mode: 1
+mode_confidence: 0.64
+release: The Gentle Touch
+release_7digitalid: 345588
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (496,)
+segments_loudness_max: shape = (496,)
+segments_loudness_max_time: shape = (496,)
+segments_loudness_start: shape = (496,)
+segments_pitches: shape = (496, 12)
+segments_start: shape = (496,)
+segments_timbre: shape = (496, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOCDLSK12AB018168E
+start_of_fade_out: 188.79
+tatums_confidence: shape = (925,)
+tatums_start: shape = (925,)
+tempo: 143.467
+time_signature: 7
+time_signature_confidence: 0.588
+title: Stay Awhile
+track_7digitalid: 3873742
+track_id: TRANRGH128F930779A
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 218883
+artist_familiarity: 0.42960301673
+artist_hotttnesss: 0.370441154739
+artist_id: AR4B1LP1187FB55C83
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c77272a6-7db3-49ec-8cbb-5da16b59966c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Juan Diego Flórez / Orquesta Sinfónica de Madrid / Jesús López-Cobos
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: da78670575c69409b370a813890f7313
+bars_confidence: shape = (3,)
+bars_start: shape = (3,)
+beats_confidence: shape = (39,)
+beats_start: shape = (39,)
+danceability: 0.0
+duration: 35.44771
+end_of_fade_in: 2.154
+energy: 0.0
+key: 7
+key_confidence: 0.738
+loudness: -22.694
+mode: 1
+mode_confidence: 0.707
+release: Gluck: Orfée et Euridice
+release_7digitalid: 774717
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (101,)
+segments_loudness_max: shape = (101,)
+segments_loudness_max_time: shape = (101,)
+segments_loudness_start: shape = (101,)
+segments_pitches: shape = (101, 12)
+segments_start: shape = (101,)
+segments_timbre: shape = (101, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOITNRQ12AB01884D3
+start_of_fade_out: 35.448
+tatums_confidence: shape = (79,)
+tatums_start: shape = (79,)
+tempo: 70.886
+time_signature: 7
+time_signature_confidence: 0.855
+title: Vos plaintes_ vos regrets_ augmentent mon supplice
+track_7digitalid: 8573042
+track_id: TRAYUTE12903CE525F
+year: 0

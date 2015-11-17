@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3821
+artist_familiarity: 0.580204476014
+artist_hotttnesss: 0.400306607095
+artist_id: ARI2G3D1187B98D8A0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ce0fd2cc-74c1-431b-9c22-cddd29feafc3
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Extrabreit
+artist_playmeid: -1
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 538660347782cf2b71c4b8a8f1399fc7
+bars_confidence: shape = (169,)
+bars_start: shape = (169,)
+beats_confidence: shape = (680,)
+beats_start: shape = (680,)
+danceability: 0.0
+duration: 283.14077
+end_of_fade_in: 0.2
+energy: 0.0
+key: 0
+key_confidence: 0.601
+loudness: -8.807
+mode: 1
+mode_confidence: 0.401
+release: Flieger_ Grüss Mir Die Sonne
+release_7digitalid: 191680
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1178,)
+segments_loudness_max: shape = (1178,)
+segments_loudness_max_time: shape = (1178,)
+segments_loudness_start: shape = (1178,)
+segments_pitches: shape = (1178, 12)
+segments_start: shape = (1178,)
+segments_timbre: shape = (1178, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFZBJR12A8C13C45D
+start_of_fade_out: 280.3
+tatums_confidence: shape = (1360,)
+tatums_start: shape = (1360,)
+tempo: 145.093
+time_signature: 4
+time_signature_confidence: 0.0
+title: Break That Ice
+track_7digitalid: 2351994
+track_id: TRAPGPM128F427D218
+year: 0

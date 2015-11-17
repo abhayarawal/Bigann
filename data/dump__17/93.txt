@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 241028
+artist_familiarity: 0.516397804826
+artist_hotttnesss: 0.35944751217
+artist_id: ARRTP2G1187B9AF916
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d4cbfbd0-3b75-4430-9722-57c174901c83
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Will Pan
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 8566e220893cf769825db80dc715e380
+bars_confidence: shape = (119,)
+bars_start: shape = (119,)
+beats_confidence: shape = (478,)
+beats_start: shape = (478,)
+danceability: 0.0
+duration: 235.85914
+end_of_fade_in: 0.287
+energy: 0.0
+key: 8
+key_confidence: 0.265
+loudness: -6.682
+mode: 1
+mode_confidence: 0.38
+release: Play Cool
+release_7digitalid: 337141
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (880,)
+segments_loudness_max: shape = (880,)
+segments_loudness_max_time: shape = (880,)
+segments_loudness_start: shape = (880,)
+segments_pitches: shape = (880, 12)
+segments_start: shape = (880,)
+segments_timbre: shape = (880, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYTIQH12AB0181485
+start_of_fade_out: 219.55
+tatums_confidence: shape = (956,)
+tatums_start: shape = (956,)
+tempo: 121.988
+time_signature: 4
+time_signature_confidence: 0.769
+title: Shuo Ni Ai Wo
+track_7digitalid: 3774201
+track_id: TRAGCVM128F92F33FF
+year: 0

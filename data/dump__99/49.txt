@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 39762
+artist_familiarity: 0.56664042084
+artist_hotttnesss: 0.399741667461
+artist_id: ARCQCYR1187B99367F
+artist_latitude: 46.53338
+artist_location: Aitkin, MN
+artist_longitude: -93.70737
+artist_mbid: 83a81b17-e725-4e5d-a607-375d66306e09
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Jonathan Edwards / Will Ferrell
+artist_playmeid: -1
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 46145b749a138ebf83980ebcbef44ab8
+bars_confidence: shape = (71,)
+bars_start: shape = (71,)
+beats_confidence: shape = (215,)
+beats_start: shape = (215,)
+danceability: 0.0
+duration: 159.58159
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.25
+loudness: -8.863
+mode: 1
+mode_confidence: 0.558
+release: Anchorman
+release_7digitalid: 503553
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (604,)
+segments_loudness_max: shape = (604,)
+segments_loudness_max_time: shape = (604,)
+segments_loudness_start: shape = (604,)
+segments_pitches: shape = (604, 12)
+segments_start: shape = (604,)
+segments_timbre: shape = (604, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.445454525493
+song_id: SOBQCYC12AB018748A
+start_of_fade_out: 153.884
+tatums_confidence: shape = (645,)
+tatums_start: shape = (645,)
+tempo: 83.985
+time_signature: 3
+time_signature_confidence: 0.518
+title: Sunshine Anchorman Medley
+track_7digitalid: 5572994
+track_id: TRBIFAU128F9328EC4
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 194655
+artist_familiarity: 0.282317588288
+artist_hotttnesss: 0.104101665832
+artist_id: AR0JVUH1187B9918B5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2a74803f-c09a-4a09-8540-e4ac55ec96a2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Oscar Lima
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: dc4458bd81543abc57c406045da5916d
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (302,)
+beats_start: shape = (302,)
+danceability: 0.0
+duration: 218.72281
+end_of_fade_in: 0.177
+energy: 0.0
+key: 10
+key_confidence: 0.075
+loudness: -8.66
+mode: 0
+mode_confidence: 0.374
+release: Desert Caravan
+release_7digitalid: 604801
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (846,)
+segments_loudness_max: shape = (846,)
+segments_loudness_max_time: shape = (846,)
+segments_loudness_start: shape = (846,)
+segments_pitches: shape = (846, 12)
+segments_start: shape = (846,)
+segments_timbre: shape = (846, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQELHR12AC4689565
+start_of_fade_out: 210.431
+tatums_confidence: shape = (907,)
+tatums_start: shape = (907,)
+tempo: 85.195
+time_signature: 3
+time_signature_confidence: 0.29
+title: If You Wanna Be My Friend
+track_7digitalid: 6718110
+track_id: TRAZMIV12903CFC3E9
+year: 1999

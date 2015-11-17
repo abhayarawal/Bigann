@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7669
+artist_familiarity: 0.587023738749
+artist_hotttnesss: 0.383229026192
+artist_id: AR5TQ1T1187FB59492
+artist_latitude: 18.11526
+artist_location: Jamaica
+artist_longitude: -77.27348
+artist_mbid: 4272801c-1180-4098-80f9-d7ab27dadea9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cornell Campbell
+artist_playmeid: 64719
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 1a67bd8b566fd4d5e71bc6f91878d268
+bars_confidence: shape = (105,)
+bars_start: shape = (105,)
+beats_confidence: shape = (423,)
+beats_start: shape = (423,)
+danceability: 0.0
+duration: 184.99873
+end_of_fade_in: 0.245
+energy: 0.0
+key: 11
+key_confidence: 0.424
+loudness: -15.726
+mode: 1
+mode_confidence: 0.583
+release: Tell The People
+release_7digitalid: 14979
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (804,)
+segments_loudness_max: shape = (804,)
+segments_loudness_max_time: shape = (804,)
+segments_loudness_start: shape = (804,)
+segments_pitches: shape = (804, 12)
+segments_start: shape = (804,)
+segments_timbre: shape = (804, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLFRCH12A67021C28
+start_of_fade_out: 174.817
+tatums_confidence: shape = (845,)
+tatums_start: shape = (845,)
+tempo: 141.257
+time_signature: 4
+time_signature_confidence: 0.517
+title: Got To Tell The People
+track_7digitalid: 156823
+track_id: TRBBTSI128E0790E7B
+year: 1997

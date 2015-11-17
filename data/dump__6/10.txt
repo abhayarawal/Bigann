@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 487453
+artist_familiarity: 0.439094456474
+artist_hotttnesss: 0.333557158681
+artist_id: AR64N1H1187B996199
+artist_latitude: 45.51228
+artist_location: Montreal
+artist_longitude: -73.55439
+artist_mbid: fcc9bec9-2210-4407-9a5c-3dc2eb7bd699
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Edgar Bori
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: fecc298f1009c2f8fbc4fd8c49f3d50c
+bars_confidence: shape = (512,)
+bars_start: shape = (512,)
+beats_confidence: shape = (512,)
+beats_start: shape = (512,)
+danceability: 0.0
+duration: 264.61995
+end_of_fade_in: 0.194
+energy: 0.0
+key: 11
+key_confidence: 0.522
+loudness: -8.224
+mode: 0
+mode_confidence: 0.447
+release: Fous les canards
+release_7digitalid: 683115
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (890,)
+segments_loudness_max: shape = (890,)
+segments_loudness_max_time: shape = (890,)
+segments_loudness_start: shape = (890,)
+segments_pitches: shape = (890, 12)
+segments_start: shape = (890,)
+segments_timbre: shape = (890, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGSBKB12AC9097E0F
+start_of_fade_out: 256.569
+tatums_confidence: shape = (1025,)
+tatums_start: shape = (1025,)
+tempo: 117.295
+time_signature: 1
+time_signature_confidence: 0.253
+title: J'l'ai pas dit
+track_7digitalid: 7581176
+track_id: TRACAMB12903CE12F4
+year: 0

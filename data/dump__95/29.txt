@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19076
+artist_familiarity: 0.416147176425
+artist_hotttnesss: 0.28744675323
+artist_id: ARI945I1187FB4CC22
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f5014b80-cded-427a-bac8-0ad161949df2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The King Sisters
+artist_playmeid: 66797
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: cb358ab7b131670ac49571b664b24eb3
+bars_confidence: shape = (36,)
+bars_start: shape = (36,)
+beats_confidence: shape = (160,)
+beats_start: shape = (160,)
+danceability: 0.0
+duration: 129.35791
+end_of_fade_in: 0.15
+energy: 0.0
+key: 3
+key_confidence: 0.0
+loudness: -14.706
+mode: 0
+mode_confidence: 0.112
+release: The Very Best of the King Sisters
+release_7digitalid: 366490
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (355,)
+segments_loudness_max: shape = (355,)
+segments_loudness_max_time: shape = (355,)
+segments_loudness_start: shape = (355,)
+segments_pitches: shape = (355, 12)
+segments_start: shape = (355,)
+segments_timbre: shape = (355, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFAACS12AB0183131
+start_of_fade_out: 129.358
+tatums_confidence: shape = (320,)
+tatums_start: shape = (320,)
+tempo: 75.467
+time_signature: 4
+time_signature_confidence: 0.902
+title: Milkman_ Keep Those Bottles Quiet
+track_7digitalid: 4079539
+track_id: TRBGWIK128F9331981
+year: 0

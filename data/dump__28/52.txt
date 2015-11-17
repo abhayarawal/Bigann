@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7487
+artist_familiarity: 0.792255589732
+artist_hotttnesss: 0.566971566219
+artist_id: ARDF8K01187FB37200
+artist_latitude: nan
+artist_location: Sydney, Australia
+artist_longitude: nan
+artist_mbid: f0c8f75f-8736-4b1d-b312-9349fcff321d
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Wolfmother
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 12ad1f13ca1d64e153e9eaf3ace16581
+bars_confidence: shape = (152,)
+bars_start: shape = (152,)
+beats_confidence: shape = (611,)
+beats_start: shape = (611,)
+danceability: 0.0
+duration: 260.91057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.582
+loudness: -4.598
+mode: 1
+mode_confidence: 0.481
+release: Dane Cook's Tourgasm Soundtrack
+release_7digitalid: 135400
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (762,)
+segments_loudness_max: shape = (762,)
+segments_loudness_max_time: shape = (762,)
+segments_loudness_start: shape = (762,)
+segments_pitches: shape = (762, 12)
+segments_start: shape = (762,)
+segments_timbre: shape = (762, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.776126775556
+song_id: SOCVOFW12A6D227200
+start_of_fade_out: 252.401
+tatums_confidence: shape = (1221,)
+tatums_start: shape = (1221,)
+tempo: 141.769
+time_signature: 4
+time_signature_confidence: 0.023
+title: Dimension
+track_7digitalid: 1403364
+track_id: TRAJOPN128F423BEC3
+year: 2004

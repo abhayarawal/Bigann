@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 34988
+artist_familiarity: 0.692344530574
+artist_hotttnesss: 0.519288120408
+artist_id: ARUQ6301187FB54EBA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 26bcd35d-56a3-4e4d-8ad7-7bc5787c3af1
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Salt-N-Pepa
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: cd4de3847cf294ec3d5358191cb85335
+bars_confidence: shape = (109,)
+bars_start: shape = (109,)
+beats_confidence: shape = (440,)
+beats_start: shape = (440,)
+danceability: 0.0
+duration: 207.62077
+end_of_fade_in: 0.287
+energy: 0.0
+key: 4
+key_confidence: 0.252
+loudness: -5.668
+mode: 1
+mode_confidence: 0.359
+release: Ultimate Girl Groups
+release_7digitalid: 68118
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (805,)
+segments_loudness_max: shape = (805,)
+segments_loudness_max_time: shape = (805,)
+segments_loudness_start: shape = (805,)
+segments_pitches: shape = (805, 12)
+segments_start: shape = (805,)
+segments_timbre: shape = (805, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.8061197688
+song_id: SOWPAXV12A67ADA046
+start_of_fade_out: 207.621
+tatums_confidence: shape = (880,)
+tatums_start: shape = (880,)
+tempo: 127.597
+time_signature: 4
+time_signature_confidence: 0.822
+title: Push It
+track_7digitalid: 713062
+track_id: TRBBMHE128EF341D09
+year: 1988

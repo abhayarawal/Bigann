@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 560
+artist_familiarity: 0.82243282937
+artist_hotttnesss: 0.531303318565
+artist_id: ARASYMJ1187B9ACAF2
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: 5dedf5cf-a598-4408-9556-3bf3f149f3ba
+artist_mbtags: shape = (16,)
+artist_mbtags_count: shape = (16,)
+artist_name: Whitesnake
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 23c567d83f221d60a365aba62a1cb8e6
+bars_confidence: shape = (379,)
+bars_start: shape = (379,)
+beats_confidence: shape = (379,)
+beats_start: shape = (379,)
+danceability: 0.0
+duration: 204.14649
+end_of_fade_in: 0.444
+energy: 0.0
+key: 2
+key_confidence: 0.328
+loudness: -4.556
+mode: 1
+mode_confidence: 0.42
+release: Trouble
+release_7digitalid: 33120
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (626,)
+segments_loudness_max: shape = (626,)
+segments_loudness_max_time: shape = (626,)
+segments_loudness_start: shape = (626,)
+segments_pitches: shape = (626, 12)
+segments_start: shape = (626,)
+segments_timbre: shape = (626, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.301681756732
+song_id: SOJBTDV12A6D4F776A
+start_of_fade_out: 192.83
+tatums_confidence: shape = (758,)
+tatums_start: shape = (758,)
+tempo: 114.902
+time_signature: 1
+time_signature_confidence: 0.0
+title: Don't Mess With Me (2006 Digital Remaster)
+track_7digitalid: 356342
+track_id: TRAGNUI128F1471068
+year: 1978

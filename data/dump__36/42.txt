@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 181870
+artist_familiarity: 0.517707751925
+artist_hotttnesss: 0.258111988028
+artist_id: AR797VK1187B989DDE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2eb4ee61-9df5-4917-9a9f-3b4095924876
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: D.A.R.
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: b02edf7aa4e0a42601bef42953fa3b63
+bars_confidence: shape = (82,)
+bars_start: shape = (82,)
+beats_confidence: shape = (330,)
+beats_start: shape = (330,)
+danceability: 0.0
+duration: 220.73424
+end_of_fade_in: 0.177
+energy: 0.0
+key: 2
+key_confidence: 0.542
+loudness: -7.216
+mode: 1
+mode_confidence: 0.495
+release: Lagrimas Negras
+release_7digitalid: 767253
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (868,)
+segments_loudness_max: shape = (868,)
+segments_loudness_max_time: shape = (868,)
+segments_loudness_start: shape = (868,)
+segments_pitches: shape = (868, 12)
+segments_start: shape = (868,)
+segments_timbre: shape = (868, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUXPMN12AB018CFDD
+start_of_fade_out: 217.867
+tatums_confidence: shape = (1321,)
+tatums_start: shape = (1321,)
+tempo: 90.997
+time_signature: 4
+time_signature_confidence: 1.0
+title: Quiere Novio
+track_7digitalid: 8496071
+track_id: TRAMIXT12903CD2665
+year: 0

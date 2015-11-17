@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 136839
+artist_familiarity: 0.484893131196
+artist_hotttnesss: 0.344871922171
+artist_id: AR3752L1187FB4B67E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 76f18c18-58df-47f9-9274-d3368d25129a
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: The Real Kids
+artist_playmeid: 144545
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 0816775058342b2b3c2a90111ba6cb79
+bars_confidence: shape = (672,)
+bars_start: shape = (672,)
+beats_confidence: shape = (672,)
+beats_start: shape = (672,)
+danceability: 0.0
+duration: 252.26404
+end_of_fade_in: 0.297
+energy: 0.0
+key: 4
+key_confidence: 0.374
+loudness: -14.655
+mode: 1
+mode_confidence: 0.231
+release: The Real Kids
+release_7digitalid: 642912
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1121,)
+segments_loudness_max: shape = (1121,)
+segments_loudness_max_time: shape = (1121,)
+segments_loudness_start: shape = (1121,)
+segments_pitches: shape = (1121, 12)
+segments_start: shape = (1121,)
+segments_timbre: shape = (1121, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJKXAO12A58A7CB4F
+start_of_fade_out: 249.435
+tatums_confidence: shape = (1344,)
+tatums_start: shape = (1344,)
+tempo: 162.771
+time_signature: 1
+time_signature_confidence: 0.0
+title: Better Be Good
+track_7digitalid: 7129142
+track_id: TRAQEZO128F9345243
+year: 1976

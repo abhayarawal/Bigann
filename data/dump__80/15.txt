@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 56876
+artist_familiarity: 0.447808057068
+artist_hotttnesss: 0.291913130379
+artist_id: ARG51IA1187B9B143A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 36e41722-0b6b-48e8-9a28-a80c35c0581e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Scott Glasgow
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: ad4cd935a97385cc52406817179a2ce1
+bars_confidence: shape = (40,)
+bars_start: shape = (40,)
+beats_confidence: shape = (40,)
+beats_start: shape = (40,)
+danceability: 0.0
+duration: 154.5922
+end_of_fade_in: 2.392
+energy: 0.0
+key: 1
+key_confidence: 0.878
+loudness: -26.765
+mode: 1
+mode_confidence: 0.61
+release: Bone Dry - Original Motion Picture Soundtrack
+release_7digitalid: 557862
+sections_confidence: shape = (0,)
+sections_start: shape = (0,)
+segments_confidence: shape = (192,)
+segments_loudness_max: shape = (192,)
+segments_loudness_max_time: shape = (192,)
+segments_loudness_start: shape = (192,)
+segments_pitches: shape = (192, 12)
+segments_start: shape = (192,)
+segments_timbre: shape = (192, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCIALB12AB01811A2
+start_of_fade_out: 145.461
+tatums_confidence: shape = (240,)
+tatums_start: shape = (240,)
+tempo: 16.258
+time_signature: 1
+time_signature_confidence: 0.0
+title: Hunted
+track_7digitalid: 6170701
+track_id: TRBBLDK128F93443C0
+year: 0

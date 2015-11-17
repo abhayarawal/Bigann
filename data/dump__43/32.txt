@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 82279
+artist_familiarity: 0.618002714909
+artist_hotttnesss: 0.349476327198
+artist_id: ARU9KWP1187B98B2A7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ccd5bf1f-f83d-4e81-86aa-2aff85d5d6c5
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Busdriver featuring Abstract Rude & Ellay Khule
+artist_playmeid: -1
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: d291a46408a43d83033a191e33ac1729
+bars_confidence: shape = (125,)
+bars_start: shape = (125,)
+beats_confidence: shape = (512,)
+beats_start: shape = (512,)
+danceability: 0.0
+duration: 255.63383
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.012
+loudness: -12.09
+mode: 1
+mode_confidence: 0.228
+release: Fear Of A Black Tangent
+release_7digitalid: 704376
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1189,)
+segments_loudness_max: shape = (1189,)
+segments_loudness_max_time: shape = (1189,)
+segments_loudness_start: shape = (1189,)
+segments_pitches: shape = (1189, 12)
+segments_start: shape = (1189,)
+segments_timbre: shape = (1189, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.532389420309
+song_id: SORRETW12A58A7A840
+start_of_fade_out: 228.769
+tatums_confidence: shape = (1023,)
+tatums_start: shape = (1023,)
+tempo: 114.895
+time_signature: 4
+time_signature_confidence: 0.804
+title: Map Your Psyche
+track_7digitalid: 7812847
+track_id: TRAOTVH12903CA2DE6
+year: 2005

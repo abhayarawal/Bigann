@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16794
+artist_familiarity: 0.627361447085
+artist_hotttnesss: 0.406642648699
+artist_id: AR6UVLC1187B9B4D4C
+artist_latitude: 42.33168
+artist_location: Detroit, MI
+artist_longitude: -83.04792
+artist_mbid: 2c16cb3f-e85f-4158-889f-ffc038f5792d
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Suzi Quatro
+artist_playmeid: 32562
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: bbd8dbfb5e0313e852281eba47aeb657
+bars_confidence: shape = (600,)
+bars_start: shape = (600,)
+beats_confidence: shape = (600,)
+beats_start: shape = (600,)
+danceability: 0.0
+duration: 217.46893
+end_of_fade_in: 0.345
+energy: 0.0
+key: 4
+key_confidence: 0.924
+loudness: -11.314
+mode: 1
+mode_confidence: 0.752
+release: The Wild One - The Greatest Hits
+release_7digitalid: 23967
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (806,)
+segments_loudness_max: shape = (806,)
+segments_loudness_max_time: shape = (806,)
+segments_loudness_start: shape = (806,)
+segments_pitches: shape = (806, 12)
+segments_start: shape = (806,)
+segments_timbre: shape = (806, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.637783285652
+song_id: SOEGATN12A6D4F73B9
+start_of_fade_out: 208.8
+tatums_confidence: shape = (1199,)
+tatums_start: shape = (1199,)
+tempo: 168.165
+time_signature: 1
+time_signature_confidence: 0.0
+title: Mama's Boy
+track_7digitalid: 250811
+track_id: TRAIDUU128F145B15D
+year: 1979

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 90217
+artist_familiarity: 0.561272322612
+artist_hotttnesss: 0.377852557035
+artist_id: AR5IHI31187B998618
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2db6e9c3-5aa1-4876-9ec6-8f18c75d5210
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Pascal Obispo
+artist_playmeid: 6630
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 7ee40dad78e8d0c35636eddeb3799a46
+bars_confidence: shape = (136,)
+bars_start: shape = (136,)
+beats_confidence: shape = (549,)
+beats_start: shape = (549,)
+danceability: 0.0
+duration: 369.26649
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.0
+loudness: -6.005
+mode: 1
+mode_confidence: 0.275
+release: Live 98
+release_7digitalid: 288046
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1495,)
+segments_loudness_max: shape = (1495,)
+segments_loudness_max_time: shape = (1495,)
+segments_loudness_start: shape = (1495,)
+segments_pitches: shape = (1495, 12)
+segments_start: shape = (1495,)
+segments_timbre: shape = (1495, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORGJJW12A8C134D65
+start_of_fade_out: 369.266
+tatums_confidence: shape = (2195,)
+tatums_start: shape = (2195,)
+tempo: 89.79
+time_signature: 4
+time_signature_confidence: 0.434
+title: Tombé Pour Elle (L'Île Aux Oiseaux)
+track_7digitalid: 3232720
+track_id: TRAPFGD128F4274B46
+year: 0

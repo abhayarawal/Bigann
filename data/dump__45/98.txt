@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41417
+artist_familiarity: 0.510367932469
+artist_hotttnesss: 0.405080353325
+artist_id: ARHK7A51187FB411D8
+artist_latitude: 40.58751
+artist_location: Redding, CA
+artist_longitude: -122.39293
+artist_mbid: 90dcf7e4-4df5-44cb-a120-3765db263418
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Roy Rogers
+artist_playmeid: 118077
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: f5395848e175d658bb7b69b90d216694
+bars_confidence: shape = (111,)
+bars_start: shape = (111,)
+beats_confidence: shape = (446,)
+beats_start: shape = (446,)
+danceability: 0.0
+duration: 138.762
+end_of_fade_in: 0.357
+energy: 0.0
+key: 11
+key_confidence: 0.692
+loudness: -10.938
+mode: 1
+mode_confidence: 0.591
+release: A Man from Duck Run/The Country Side of Roy Rogers
+release_7digitalid: 24753
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (579,)
+segments_loudness_max: shape = (579,)
+segments_loudness_max_time: shape = (579,)
+segments_loudness_start: shape = (579,)
+segments_pitches: shape = (579, 12)
+segments_start: shape = (579,)
+segments_timbre: shape = (579, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSAQJT12A6D4F69EC
+start_of_fade_out: 129.73
+tatums_confidence: shape = (892,)
+tatums_start: shape = (892,)
+tempo: 193.626
+time_signature: 4
+time_signature_confidence: 0.66
+title: I Never Picked Cotton
+track_7digitalid: 262580
+track_id: TRAPREX128F145DAD0
+year: 0

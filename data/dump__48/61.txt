@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18353
+artist_familiarity: 0.609123874818
+artist_hotttnesss: 0.462367839987
+artist_id: ARCEEC91187B9AC4FB
+artist_latitude: 44.97903
+artist_location: Minneapolis, MN
+artist_longitude: -93.26493
+artist_mbid: fc4af92a-1aa8-4f35-9aea-29b2ecbe0779
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Alexander O'Neal
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 142b10f3aa040ecf3755d5ecb7e8bbf5
+bars_confidence: shape = (94,)
+bars_start: shape = (94,)
+beats_confidence: shape = (290,)
+beats_start: shape = (290,)
+danceability: 0.0
+duration: 183.11791
+end_of_fade_in: 0.137
+energy: 0.0
+key: 7
+key_confidence: 0.472
+loudness: -5.184
+mode: 1
+mode_confidence: 0.502
+release: Alex Loves...
+release_7digitalid: 192588
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (637,)
+segments_loudness_max: shape = (637,)
+segments_loudness_max_time: shape = (637,)
+segments_loudness_start: shape = (637,)
+segments_pitches: shape = (637, 12)
+segments_start: shape = (637,)
+segments_timbre: shape = (637, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.473346541109
+song_id: SOHYVTD12A8C130A40
+start_of_fade_out: 179.119
+tatums_confidence: shape = (579,)
+tatums_start: shape = (579,)
+tempo: 95.924
+time_signature: 3
+time_signature_confidence: 1.0
+title: When A Man Loves A Woman
+track_7digitalid: 2094111
+track_id: TRAQNHD128F42438E2
+year: 2008

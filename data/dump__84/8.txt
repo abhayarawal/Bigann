@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 180059
+artist_familiarity: 0.42659437775
+artist_hotttnesss: 0.341259311804
+artist_id: AR49REC1187B9AFDF4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f31890df-d93a-43a2-80d3-5b13536460b5
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: T Lavitz
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: c1d20a96ab7c34a22cf6e90bbf61524a
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (80,)
+beats_start: shape = (80,)
+danceability: 0.0
+duration: 46.00118
+end_of_fade_in: 0.601
+energy: 0.0
+key: 6
+key_confidence: 0.129
+loudness: -17.165
+mode: 0
+mode_confidence: 0.472
+release: T Lavitz And The Bad Habitz
+release_7digitalid: 255677
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (113,)
+segments_loudness_max: shape = (113,)
+segments_loudness_max_time: shape = (113,)
+segments_loudness_start: shape = (113,)
+segments_pitches: shape = (113, 12)
+segments_start: shape = (113,)
+segments_timbre: shape = (113, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.237380991016
+song_id: SODAWYC12A8C13B094
+start_of_fade_out: 46.001
+tatums_confidence: shape = (240,)
+tatums_start: shape = (240,)
+tempo: 118.183
+time_signature: 1
+time_signature_confidence: 0.0
+title: Times Square
+track_7digitalid: 2845835
+track_id: TRBCVWC128F4269F8B
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 159226
+artist_familiarity: 0.666564006979
+artist_hotttnesss: 0.442670004644
+artist_id: AR3VSHF1187B9B3002
+artist_latitude: nan
+artist_location: St Louis MO
+artist_longitude: nan
+artist_mbid: 59c9c0bf-76af-4a18-8853-d8c9bc3b34f4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Flame
+artist_playmeid: 55276
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 808a62f594811040c29ba9b87a6a9857
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (384,)
+beats_start: shape = (384,)
+danceability: 0.0
+duration: 190.37995
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.122
+loudness: -8.402
+mode: 0
+mode_confidence: 0.217
+release: Making Moves
+release_7digitalid: 702379
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (678,)
+segments_loudness_max: shape = (678,)
+segments_loudness_max_time: shape = (678,)
+segments_loudness_start: shape = (678,)
+segments_pitches: shape = (678, 12)
+segments_start: shape = (678,)
+segments_timbre: shape = (678, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOGKFXJ12AB01831BB
+start_of_fade_out: 180.332
+tatums_confidence: shape = (768,)
+tatums_start: shape = (768,)
+tempo: 121.015
+time_signature: 4
+time_signature_confidence: 0.859
+title: Don't Stop
+track_7digitalid: 7791737
+track_id: TRAOEHI12903C9DC9C
+year: 0

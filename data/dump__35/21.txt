@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 445025
+artist_familiarity: 0.562179017898
+artist_hotttnesss: 0.328377305085
+artist_id: ARTKOGW1241B9CD42B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ Omega
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 4ea35cfa9ae837342dc67146dd1d87ff
+bars_confidence: shape = (141,)
+bars_start: shape = (141,)
+beats_confidence: shape = (567,)
+beats_start: shape = (567,)
+danceability: 0.0
+duration: 217.05098
+end_of_fade_in: 0.549
+energy: 0.0
+key: 7
+key_confidence: 0.2
+loudness: -14.363
+mode: 1
+mode_confidence: 0.28
+release: DJ Omega Classics Part 2
+release_7digitalid: 598135
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1105,)
+segments_loudness_max: shape = (1105,)
+segments_loudness_max_time: shape = (1105,)
+segments_loudness_start: shape = (1105,)
+segments_pitches: shape = (1105, 12)
+segments_start: shape = (1105,)
+segments_timbre: shape = (1105, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGUEML12AB01850DA
+start_of_fade_out: 206.013
+tatums_confidence: shape = (1133,)
+tatums_start: shape = (1133,)
+tempo: 160.043
+time_signature: 4
+time_signature_confidence: 0.0
+title: Pop dat shit
+track_7digitalid: 6637086
+track_id: TRAMAAZ12903CE885E
+year: 0

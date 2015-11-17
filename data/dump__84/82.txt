@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 612970
+artist_familiarity: 0.0406192774298
+artist_hotttnesss: 0.0
+artist_id: ARVFDXZ1241B9C8865
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pedro Garcia & His Del Prado Orchestra
+artist_playmeid: -1
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: de4f00fbd0a898d7b7288f2be35e04c3
+bars_confidence: shape = (99,)
+bars_start: shape = (99,)
+beats_confidence: shape = (399,)
+beats_start: shape = (399,)
+danceability: 0.0
+duration: 190.37995
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.312
+loudness: -7.057
+mode: 1
+mode_confidence: 0.376
+release: Cha Cha Cha - Volume 3
+release_7digitalid: 823599
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (757,)
+segments_loudness_max: shape = (757,)
+segments_loudness_max_time: shape = (757,)
+segments_loudness_start: shape = (757,)
+segments_pitches: shape = (757, 12)
+segments_start: shape = (757,)
+segments_timbre: shape = (757, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSPPOJ12AC3DF99F7
+start_of_fade_out: 190.38
+tatums_confidence: shape = (797,)
+tatums_start: shape = (797,)
+tempo: 125.802
+time_signature: 4
+time_signature_confidence: 0.0
+title: Policias Y Ladrones
+track_7digitalid: 9090443
+track_id: TRBDDCT12903CEF57E
+year: 0

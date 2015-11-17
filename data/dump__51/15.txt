@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16551
+artist_familiarity: 0.842368943943
+artist_hotttnesss: 0.604655128135
+artist_id: ARL6FF81187FB5A916
+artist_latitude: nan
+artist_location: Las Vegas, NV
+artist_longitude: nan
+artist_mbid: b9472588-93f3-4922-a1a2-74082cdf9ce8
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Panic At The Disco
+artist_playmeid: 181013
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: c7aa6a33155f0bbd0b71bfe158836dcc
+bars_confidence: shape = (160,)
+bars_start: shape = (160,)
+beats_confidence: shape = (646,)
+beats_start: shape = (646,)
+danceability: 0.0
+duration: 253.23057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.318
+loudness: -5.205
+mode: 0
+mode_confidence: 0.545
+release: Live In Chicago
+release_7digitalid: 351119
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (739,)
+segments_loudness_max: shape = (739,)
+segments_loudness_max_time: shape = (739,)
+segments_loudness_start: shape = (739,)
+segments_pitches: shape = (739, 12)
+segments_start: shape = (739,)
+segments_timbre: shape = (739, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.430160637018
+song_id: SOWZPSA12AB0187979
+start_of_fade_out: 253.231
+tatums_confidence: shape = (1291,)
+tatums_start: shape = (1291,)
+tempo: 153.069
+time_signature: 4
+time_signature_confidence: 0.0
+title: I Constantly Thank God For Esteban [Live In Chicago]
+track_7digitalid: 3924515
+track_id: TRARLGD128F93119C1
+year: 0

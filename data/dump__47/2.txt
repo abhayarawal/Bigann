@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4708
+artist_familiarity: 0.567510985929
+artist_hotttnesss: 0.430897608715
+artist_id: ARGY9FW1187B991C7D
+artist_latitude: nan
+artist_location: Minneapolis, MN
+artist_longitude: nan
+artist_mbid: 051439e5-478e-4c03-8bea-774ad0c28c12
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Information Society
+artist_playmeid: 45899
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: efc00e3a8262da52ea0ac664bfb1347d
+bars_confidence: shape = (40,)
+bars_start: shape = (40,)
+beats_confidence: shape = (162,)
+beats_start: shape = (162,)
+danceability: 0.0
+duration: 68.362
+end_of_fade_in: 0.073
+energy: 0.0
+key: 0
+key_confidence: 0.793
+loudness: -19.776
+mode: 1
+mode_confidence: 0.651
+release: Information Society
+release_7digitalid: 615115
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (276,)
+segments_loudness_max: shape = (276,)
+segments_loudness_max_time: shape = (276,)
+segments_loudness_start: shape = (276,)
+segments_pitches: shape = (276, 12)
+segments_start: shape = (276,)
+segments_timbre: shape = (276, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.597116702923
+song_id: SOTXLKT12A8C144768
+start_of_fade_out: 65.19
+tatums_confidence: shape = (324,)
+tatums_start: shape = (324,)
+tempo: 149.91
+time_signature: 4
+time_signature_confidence: 0.75
+title: Make It Funky (Album Version)
+track_7digitalid: 6838284
+track_id: TRAQACX128F92FE83D
+year: 1988

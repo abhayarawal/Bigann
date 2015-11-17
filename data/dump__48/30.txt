@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 49246
+artist_familiarity: 0.775797362701
+artist_hotttnesss: 0.601186059455
+artist_id: AR13CXU1187B9AD30A
+artist_latitude: 51.52328
+artist_location: London, England
+artist_longitude: -0.21346
+artist_mbid: 8f92558c-2baa-4758-8c38-615519e9deda
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: The Clash
+artist_playmeid: 344
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 1d016af1c7bdcaf2189224ec85749ab6
+bars_confidence: shape = (37,)
+bars_start: shape = (37,)
+beats_confidence: shape = (190,)
+beats_start: shape = (190,)
+danceability: 0.0
+duration: 130.63791
+end_of_fade_in: 0.086
+energy: 0.0
+key: 2
+key_confidence: 0.674
+loudness: -13.143
+mode: 1
+mode_confidence: 0.659
+release: London Calling / Combat Rock
+release_7digitalid: 280181
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (504,)
+segments_loudness_max: shape = (504,)
+segments_loudness_max_time: shape = (504,)
+segments_loudness_start: shape = (504,)
+segments_pitches: shape = (504, 12)
+segments_start: shape = (504,)
+segments_timbre: shape = (504, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.759068343301
+song_id: SOUTRYP12A8AE46BC6
+start_of_fade_out: 116.686
+tatums_confidence: shape = (569,)
+tatums_start: shape = (569,)
+tempo: 87.657
+time_signature: 5
+time_signature_confidence: 0.826
+title: Inoculated City
+track_7digitalid: 3123779
+track_id: TRAQKVC128F425E65C
+year: 1982

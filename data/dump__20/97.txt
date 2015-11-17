@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 377973
+artist_familiarity: 0.490890399376
+artist_hotttnesss: 0.308625023282
+artist_id: ARE73DO1187B9B9DDE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f859d09d-d0ff-47fe-9fb8-545ef90add01
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Los Brujos
+artist_playmeid: 193241
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 47fdc2681f2f0fcce4e65bb38aefa364
+bars_confidence: shape = (19,)
+bars_start: shape = (19,)
+beats_confidence: shape = (81,)
+beats_start: shape = (81,)
+danceability: 0.0
+duration: 36.54485
+end_of_fade_in: 0.31
+energy: 0.0
+key: 3
+key_confidence: 0.0
+loudness: -16.397
+mode: 1
+mode_confidence: 0.0
+release: San Cipriano
+release_7digitalid: 511959
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (148,)
+segments_loudness_max: shape = (148,)
+segments_loudness_max_time: shape = (148,)
+segments_loudness_start: shape = (148,)
+segments_pitches: shape = (148, 12)
+segments_start: shape = (148,)
+segments_timbre: shape = (148, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOLTKCF12AB018600D
+start_of_fade_out: 36.545
+tatums_confidence: shape = (162,)
+tatums_start: shape = (162,)
+tempo: 148.748
+time_signature: 4
+time_signature_confidence: 0.431
+title: Si Yo Tuviera
+track_7digitalid: 5678083
+track_id: TRAHDJK128F934281D
+year: 0

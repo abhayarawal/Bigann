@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 28789
+artist_familiarity: 0.659251520674
+artist_hotttnesss: 0.399431544311
+artist_id: ARW70HR1187B9A358C
+artist_latitude: nan
+artist_location: Merida, Mexico
+artist_longitude: nan
+artist_mbid: 2fae3969-96cb-4dea-91c8-9108848de808
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Aleks Syntek
+artist_playmeid: 1736
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 9983b7dc7e4bdee2fb1c076933d33179
+bars_confidence: shape = (113,)
+bars_start: shape = (113,)
+beats_confidence: shape = (458,)
+beats_start: shape = (458,)
+danceability: 0.0
+duration: 232.07138
+end_of_fade_in: 0.118
+energy: 0.0
+key: 8
+key_confidence: 0.636
+loudness: -4.252
+mode: 1
+mode_confidence: 0.644
+release: 1989-2009
+release_7digitalid: 367540
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (883,)
+segments_loudness_max: shape = (883,)
+segments_loudness_max_time: shape = (883,)
+segments_loudness_start: shape = (883,)
+segments_pitches: shape = (883, 12)
+segments_start: shape = (883,)
+segments_timbre: shape = (883, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOODPLC12AB0182FDE
+start_of_fade_out: 217.658
+tatums_confidence: shape = (916,)
+tatums_start: shape = (916,)
+tempo: 120.309
+time_signature: 4
+time_signature_confidence: 0.88
+title: Otra Parte De Mi (1997 Digital Remaster)
+track_7digitalid: 4091542
+track_id: TRAJXOF128F933407C
+year: 0

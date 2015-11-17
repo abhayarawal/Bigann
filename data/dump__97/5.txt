@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18960
+artist_familiarity: 0.526515278111
+artist_hotttnesss: 0.406581680352
+artist_id: ARVMFE61187B992463
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5326f884-ae4e-452f-97de-0a047facc16f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Darwin Hobbs
+artist_playmeid: 70495
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 83556342b05cbb769ecdde3ca9bb7062
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (361,)
+beats_start: shape = (361,)
+danceability: 0.0
+duration: 212.50567
+end_of_fade_in: 0.136
+energy: 0.0
+key: 11
+key_confidence: 0.073
+loudness: -4.485
+mode: 0
+mode_confidence: 0.386
+release: Broken
+release_7digitalid: 27497
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (911,)
+segments_loudness_max: shape = (911,)
+segments_loudness_max_time: shape = (911,)
+segments_loudness_start: shape = (911,)
+segments_pitches: shape = (911, 12)
+segments_start: shape = (911,)
+segments_timbre: shape = (911, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOURCQF12A6D4F6F04
+start_of_fade_out: 205.607
+tatums_confidence: shape = (721,)
+tatums_start: shape = (721,)
+tempo: 103.003
+time_signature: 4
+time_signature_confidence: 1.0
+title: Praz Him (Broken Album Version)
+track_7digitalid: 299968
+track_id: TRBHKJC128F1465B49
+year: 2003

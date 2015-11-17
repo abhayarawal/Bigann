@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 55752
+artist_familiarity: 0.840409662154
+artist_hotttnesss: 0.840462688027
+artist_id: AR6XZ861187FB4CECD
+artist_latitude: 53.40977
+artist_location: Liverpool, England
+artist_longitude: -2.97848
+artist_mbid: b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d
+artist_mbtags: shape = (20,)
+artist_mbtags_count: shape = (20,)
+artist_name: The Beatles / Tony Sheridan
+artist_playmeid: 89208
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: e52f51fb52314db8f891919085693f55
+bars_confidence: shape = (340,)
+bars_start: shape = (340,)
+beats_confidence: shape = (340,)
+beats_start: shape = (340,)
+danceability: 0.0
+duration: 130.95138
+end_of_fade_in: 0.224
+energy: 0.0
+key: 1
+key_confidence: 0.605
+loudness: -7.455
+mode: 0
+mode_confidence: 0.526
+release: Total 60s
+release_7digitalid: 804505
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (508,)
+segments_loudness_max: shape = (508,)
+segments_loudness_max_time: shape = (508,)
+segments_loudness_start: shape = (508,)
+segments_pitches: shape = (508, 12)
+segments_start: shape = (508,)
+segments_timbre: shape = (508, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.745564170278
+song_id: SOHLPTB12AF72A6B20
+start_of_fade_out: 127.663
+tatums_confidence: shape = (681,)
+tatums_start: shape = (681,)
+tempo: 159.437
+time_signature: 1
+time_signature_confidence: 0.0
+title: Ain't She Sweet
+track_7digitalid: 8892685
+track_id: TRBFNMW12903CBF3CE
+year: 1964

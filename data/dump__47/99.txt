@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 455229
+artist_familiarity: 0.341513854919
+artist_hotttnesss: 0.257062920296
+artist_id: ARFILWJ1187B9ADDBF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0059d0f1-8d04-4363-a2b2-d79f8b9a29b8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: María Elena Walsh
+artist_playmeid: 193267
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 20bd505411d0965d3d6d893bdda318ba
+bars_confidence: shape = (51,)
+bars_start: shape = (51,)
+beats_confidence: shape = (258,)
+beats_start: shape = (258,)
+danceability: 0.0
+duration: 148.89751
+end_of_fade_in: 0.34
+energy: 0.0
+key: 10
+key_confidence: 0.871
+loudness: -13.024
+mode: 1
+mode_confidence: 0.676
+release: Canciones Para Grandes
+release_7digitalid: 509338
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (524,)
+segments_loudness_max: shape = (524,)
+segments_loudness_max_time: shape = (524,)
+segments_loudness_start: shape = (524,)
+segments_pitches: shape = (524, 12)
+segments_start: shape = (524,)
+segments_timbre: shape = (524, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKUWZA12AB017FB9B
+start_of_fade_out: 143.0
+tatums_confidence: shape = (516,)
+tatums_start: shape = (516,)
+tempo: 103.623
+time_signature: 5
+time_signature_confidence: 0.639
+title: Balada De La Mariposa
+track_7digitalid: 5635270
+track_id: TRAQIET128F9338109
+year: 0

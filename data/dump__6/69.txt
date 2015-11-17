@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 37511
+artist_familiarity: 0.679519207793
+artist_hotttnesss: 0.491828704353
+artist_id: ARBM57Q1187B9AF97C
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 679ec43c-bc04-4bb0-b619-2da702a214ba
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: James Horner
+artist_playmeid: 11212
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: cb851980221400c60155b67af8a88f58
+bars_confidence: shape = (63,)
+bars_start: shape = (63,)
+beats_confidence: shape = (334,)
+beats_start: shape = (334,)
+danceability: 0.0
+duration: 269.7922
+end_of_fade_in: 2.519
+energy: 0.0
+key: 2
+key_confidence: 0.689
+loudness: -36.835
+mode: 0
+mode_confidence: 0.797
+release: Deep Impact - Music from the Motion Picture
+release_7digitalid: 284595
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (325,)
+segments_loudness_max: shape = (325,)
+segments_loudness_max_time: shape = (325,)
+segments_loudness_start: shape = (325,)
+segments_pitches: shape = (325, 12)
+segments_start: shape = (325,)
+segments_timbre: shape = (325, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMFSJZ12A8C13358D
+start_of_fade_out: 247.13
+tatums_confidence: shape = (668,)
+tatums_start: shape = (668,)
+tempo: 76.499
+time_signature: 5
+time_signature_confidence: 0.333
+title: The President's Speech
+track_7digitalid: 3198842
+track_id: TRACFBD128F426CC34
+year: 1998

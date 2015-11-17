@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15360
+artist_familiarity: 0.585161206739
+artist_hotttnesss: 0.367071449289
+artist_id: ARH8HRR1187FB5CBE8
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 107bbb89-98a3-406d-bf03-ba7d09c6a6f0
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Sharon Shannon
+artist_playmeid: -1
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 6ab2bfc195379a43da9654ca9a23a02d
+bars_confidence: shape = (182,)
+bars_start: shape = (182,)
+beats_confidence: shape = (732,)
+beats_start: shape = (732,)
+danceability: 0.0
+duration: 191.92118
+end_of_fade_in: 3.204
+energy: 0.0
+key: 3
+key_confidence: 0.794
+loudness: -10.001
+mode: 1
+mode_confidence: 0.871
+release: The Galway Girl - The Best Of Sharon Shannon
+release_7digitalid: 270410
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (895,)
+segments_loudness_max: shape = (895,)
+segments_loudness_max_time: shape = (895,)
+segments_loudness_start: shape = (895,)
+segments_pitches: shape = (895, 12)
+segments_start: shape = (895,)
+segments_timbre: shape = (895, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.382935090075
+song_id: SOPFGRC12A81C220E1
+start_of_fade_out: 175.09
+tatums_confidence: shape = (1464,)
+tatums_start: shape = (1464,)
+tempo: 234.334
+time_signature: 4
+time_signature_confidence: 0.0
+title: Gaffo's Ball
+track_7digitalid: 3058502
+track_id: TRBHEUX128F425020D
+year: 2007

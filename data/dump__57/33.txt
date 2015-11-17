@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 959
+artist_familiarity: 0.605116354918
+artist_hotttnesss: 0.347522826825
+artist_id: AR0CZWN1187B9A47E2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 815526e4-1e21-4930-992f-169b4f71524e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Obie Bermudez
+artist_playmeid: 1913
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: d3002a429475b48f71d66074914de1bc
+bars_confidence: shape = (197,)
+bars_start: shape = (197,)
+beats_confidence: shape = (792,)
+beats_start: shape = (792,)
+danceability: 0.0
+duration: 271.25506
+end_of_fade_in: 0.138
+energy: 0.0
+key: 8
+key_confidence: 0.459
+loudness: -4.561
+mode: 1
+mode_confidence: 0.548
+release: Confesiones
+release_7digitalid: 106274
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1188,)
+segments_loudness_max: shape = (1188,)
+segments_loudness_max_time: shape = (1188,)
+segments_loudness_start: shape = (1188,)
+segments_pitches: shape = (1188, 12)
+segments_start: shape = (1188,)
+segments_timbre: shape = (1188, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHHASC12A8C139D11
+start_of_fade_out: 264.435
+tatums_confidence: shape = (1584,)
+tatums_start: shape = (1584,)
+tempo: 177.255
+time_signature: 4
+time_signature_confidence: 0.689
+title: Antes (Salsa Version)
+track_7digitalid: 1101695
+track_id: TRATNYK128F428F2D9
+year: 2003

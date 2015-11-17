@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 194485
+artist_familiarity: 0.41014599231
+artist_hotttnesss: 0.310309148668
+artist_id: AROQ9OT1187B99E88D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7a00735d-15eb-4a6d-aefe-7005aa28fd5d
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Kékélé
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 3bc72a0d3c690216f9153d314a3f0105
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (405,)
+beats_start: shape = (405,)
+danceability: 0.0
+duration: 219.8722
+end_of_fade_in: 0.276
+energy: 0.0
+key: 7
+key_confidence: 0.689
+loudness: -11.008
+mode: 1
+mode_confidence: 0.621
+release: Rumba Congo
+release_7digitalid: 259754
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1264,)
+segments_loudness_max: shape = (1264,)
+segments_loudness_max_time: shape = (1264,)
+segments_loudness_start: shape = (1264,)
+segments_pitches: shape = (1264, 12)
+segments_start: shape = (1264,)
+segments_timbre: shape = (1264, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.319565986883
+song_id: SOURFOI12A58A7D7C3
+start_of_fade_out: 216.253
+tatums_confidence: shape = (1618,)
+tatums_start: shape = (1618,)
+tempo: 111.997
+time_signature: 4
+time_signature_confidence: 0.343
+title: Likambo
+track_7digitalid: 2834322
+track_id: TRASZWP128F426730E
+year: 2001

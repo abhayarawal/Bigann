@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 164936
+artist_familiarity: 0.498230071939
+artist_hotttnesss: 0.288726536783
+artist_id: ARZLCTV1241B9C4D46
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Claire Elzière
+artist_playmeid: -1
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: b657697a35edc1bce48a95b273acaf37
+bars_confidence: shape = (55,)
+bars_start: shape = (55,)
+beats_confidence: shape = (228,)
+beats_start: shape = (228,)
+danceability: 0.0
+duration: 152.97261
+end_of_fade_in: 0.972
+energy: 0.0
+key: 5
+key_confidence: 0.798
+loudness: -11.339
+mode: 1
+mode_confidence: 0.661
+release: La vie va si vite (Live)
+release_7digitalid: 804889
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (619,)
+segments_loudness_max: shape = (619,)
+segments_loudness_max_time: shape = (619,)
+segments_loudness_start: shape = (619,)
+segments_pitches: shape = (619, 12)
+segments_start: shape = (619,)
+segments_timbre: shape = (619, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOPAKUZ12A8C13F02B
+start_of_fade_out: 136.737
+tatums_confidence: shape = (913,)
+tatums_start: shape = (913,)
+tempo: 90.073
+time_signature: 4
+time_signature_confidence: 0.437
+title: Au mariage des Levon-Lecu (Live)
+track_7digitalid: 8897436
+track_id: TRAJEOD12903CC065D
+year: 0

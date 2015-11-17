@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 60541
+artist_familiarity: 0.4767476814
+artist_hotttnesss: 0.294053193399
+artist_id: ARP6N5A1187B99D1A3
+artist_latitude: nan
+artist_location: Hamtramck, MI
+artist_longitude: nan
+artist_mbid: b1d8fd63-45b2-4f13-a369-78b0a91eb7d3
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Mitch Ryder & Engerling
+artist_playmeid: 2673
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 4d5c23b37d2e70e672552be4ee36d5c2
+bars_confidence: shape = (58,)
+bars_start: shape = (58,)
+beats_confidence: shape = (424,)
+beats_start: shape = (424,)
+danceability: 0.0
+duration: 302.31465
+end_of_fade_in: 0.083
+energy: 0.0
+key: 10
+key_confidence: 0.812
+loudness: -9.02
+mode: 1
+mode_confidence: 0.685
+release: You Deserve My Art
+release_7digitalid: 691095
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (893,)
+segments_loudness_max: shape = (893,)
+segments_loudness_max_time: shape = (893,)
+segments_loudness_start: shape = (893,)
+segments_pitches: shape = (893, 12)
+segments_start: shape = (893,)
+segments_timbre: shape = (893, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZRLED12AC9070F7D
+start_of_fade_out: 293.883
+tatums_confidence: shape = (847,)
+tatums_start: shape = (847,)
+tempo: 84.558
+time_signature: 7
+time_signature_confidence: 0.562
+title: All The Fools It Sees
+track_7digitalid: 7669675
+track_id: TRAYBCH12903CF6C74
+year: 0

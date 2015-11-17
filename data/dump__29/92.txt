@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2185
+artist_familiarity: 0.692973745052
+artist_hotttnesss: 0.422507450826
+artist_id: AR3AY3R1187FB52CF0
+artist_latitude: nan
+artist_location: Vidor, TX
+artist_longitude: nan
+artist_mbid: 1edead6d-6c01-4ad4-9cce-c334bf7edf23
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tracy Byrd
+artist_playmeid: 3119
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 0ecb7ea70dda25297960e25c7f1edeee
+bars_confidence: shape = (122,)
+bars_start: shape = (122,)
+beats_confidence: shape = (493,)
+beats_start: shape = (493,)
+danceability: 0.0
+duration: 182.33424
+end_of_fade_in: 0.38
+energy: 0.0
+key: 11
+key_confidence: 0.679
+loudness: -9.068
+mode: 1
+mode_confidence: 0.868
+release: Love Lessons
+release_7digitalid: 57315
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (744,)
+segments_loudness_max: shape = (744,)
+segments_loudness_max_time: shape = (744,)
+segments_loudness_start: shape = (744,)
+segments_pitches: shape = (744, 12)
+segments_start: shape = (744,)
+segments_timbre: shape = (744, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOMSXGC12A6D4F962D
+start_of_fade_out: 167.457
+tatums_confidence: shape = (986,)
+tatums_start: shape = (986,)
+tempo: 168.849
+time_signature: 4
+time_signature_confidence: 0.593
+title: Walkin' In
+track_7digitalid: 596088
+track_id: TRAKCFG128F149D9B7
+year: 0

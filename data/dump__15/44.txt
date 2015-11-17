@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5705
+artist_familiarity: 0.595554053513
+artist_hotttnesss: 0.400705227151
+artist_id: ARPAAPH1187FB3601B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f69d655c-ffd6-4bee-8c2a-3086b2be2fc6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bacilos
+artist_playmeid: -1
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 39a18cdc0dac1ff8f8c109cb39ae213f
+bars_confidence: shape = (81,)
+bars_start: shape = (81,)
+beats_confidence: shape = (330,)
+beats_start: shape = (330,)
+danceability: 0.0
+duration: 247.71873
+end_of_fade_in: 2.339
+energy: 0.0
+key: 6
+key_confidence: 0.096
+loudness: -8.64
+mode: 0
+mode_confidence: 0.434
+release: Bacilos
+release_7digitalid: 104144
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (725,)
+segments_loudness_max: shape = (725,)
+segments_loudness_max_time: shape = (725,)
+segments_loudness_start: shape = (725,)
+segments_pitches: shape = (725, 12)
+segments_start: shape = (725,)
+segments_timbre: shape = (725, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOMFZZQ12A8C13AB56
+start_of_fade_out: 239.229
+tatums_confidence: shape = (661,)
+tatums_start: shape = (661,)
+tempo: 80.996
+time_signature: 4
+time_signature_confidence: 0.502
+title: Lo Mismo Que Yo (Bonus Track)
+track_7digitalid: 1075662
+track_id: TRAFGKU128F42889EF
+year: 0

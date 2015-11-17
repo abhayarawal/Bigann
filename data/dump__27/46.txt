@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 442830
+artist_familiarity: 0.506734504684
+artist_hotttnesss: 0.397249735019
+artist_id: ARQXAGC12472CE2BBD
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ac542576-2a99-4c79-9e84-fb1192b7176c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Spiral Stairs
+artist_playmeid: 191827
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: af547656497214184be0c52b80f95b8d
+bars_confidence: shape = (19,)
+bars_start: shape = (19,)
+beats_confidence: shape = (102,)
+beats_start: shape = (102,)
+danceability: 0.0
+duration: 65.51465
+end_of_fade_in: 2.27
+energy: 0.0
+key: 3
+key_confidence: 0.071
+loudness: -22.71
+mode: 1
+mode_confidence: 0.391
+release: The Real Feel
+release_7digitalid: 594703
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (180,)
+segments_loudness_max: shape = (180,)
+segments_loudness_max_time: shape = (180,)
+segments_loudness_start: shape = (180,)
+segments_pitches: shape = (180, 12)
+segments_start: shape = (180,)
+segments_timbre: shape = (180, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOHLATT12AC3DF4D4B
+start_of_fade_out: 60.929
+tatums_confidence: shape = (102,)
+tatums_start: shape = (102,)
+tempo: 100.088
+time_signature: 5
+time_signature_confidence: 0.695
+title: Ladies And Gentlemen
+track_7digitalid: 6597826
+track_id: TRAJEYM12903CDEF6A
+year: 2009

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30637
+artist_familiarity: 0.622567955223
+artist_hotttnesss: 0.319927242389
+artist_id: ARPKGV01187B9939F5
+artist_latitude: nan
+artist_location: Mass. - Boston
+artist_longitude: nan
+artist_mbid: 51106b49-ee75-4c3e-bbdf-1aaa3f53daa4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Charms
+artist_playmeid: 52285
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: e60249cafbe95616f1d50e23a9ab2985
+bars_confidence: shape = (96,)
+bars_start: shape = (96,)
+beats_confidence: shape = (96,)
+beats_start: shape = (96,)
+danceability: 0.0
+duration: 42.68363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.154
+loudness: -5.601
+mode: 1
+mode_confidence: 0.5
+release: Trelokoritso - Oles oi epityxies
+release_7digitalid: 793204
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (177,)
+segments_loudness_max: shape = (177,)
+segments_loudness_max_time: shape = (177,)
+segments_loudness_start: shape = (177,)
+segments_pitches: shape = (177, 12)
+segments_start: shape = (177,)
+segments_timbre: shape = (177, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONSRYI12AC468E503
+start_of_fade_out: 42.684
+tatums_confidence: shape = (192,)
+tatums_start: shape = (192,)
+tempo: 136.191
+time_signature: 1
+time_signature_confidence: 0.0
+title: Mr. Goose
+track_7digitalid: 8773815
+track_id: TRBEGAV12903D16172
+year: 0

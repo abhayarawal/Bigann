@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 182708
+artist_familiarity: 0.47969560808
+artist_hotttnesss: 0.220050764669
+artist_id: ARZHLNX1187FB4B8E7
+artist_latitude: 40.71455
+artist_location: NY - New York City
+artist_longitude: -74.00712
+artist_mbid: be52fe49-369d-4e75-8590-6feaa3a3510a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ladybug
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: fc4a7769383f9a9547848f2469ae7b31
+bars_confidence: shape = (179,)
+bars_start: shape = (179,)
+beats_confidence: shape = (720,)
+beats_start: shape = (720,)
+danceability: 0.0
+duration: 341.36771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.432
+loudness: -9.632
+mode: 1
+mode_confidence: 0.304
+release: Snapshot
+release_7digitalid: 686750
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (2230,)
+segments_loudness_max: shape = (2230,)
+segments_loudness_max_time: shape = (2230,)
+segments_loudness_start: shape = (2230,)
+segments_pitches: shape = (2230, 12)
+segments_start: shape = (2230,)
+segments_timbre: shape = (2230, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEBDBO12AC4688712
+start_of_fade_out: 324.679
+tatums_confidence: shape = (1440,)
+tatums_start: shape = (1440,)
+tempo: 126.95
+time_signature: 4
+time_signature_confidence: 0.575
+title: Snapshot
+track_7digitalid: 7621301
+track_id: TRAANMF12903CEAFEF
+year: 0

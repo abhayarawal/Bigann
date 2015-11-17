@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5633
+artist_familiarity: 0.764287182498
+artist_hotttnesss: 0.57629465114
+artist_id: ARKZXSQ1187B9AC9F3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9a58fda3-f4ed-4080-a3a5-f457aac9fcdd
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Joy Division
+artist_playmeid: 831
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 466e82b8821c12160d75945fab965b49
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (352,)
+beats_start: shape = (352,)
+danceability: 0.0
+duration: 141.08689
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.239
+loudness: -6.021
+mode: 1
+mode_confidence: 0.139
+release: Let The Movie Begin
+release_7digitalid: 242839
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (395,)
+segments_loudness_max: shape = (395,)
+segments_loudness_max_time: shape = (395,)
+segments_loudness_start: shape = (395,)
+segments_pitches: shape = (395, 12)
+segments_start: shape = (395,)
+segments_timbre: shape = (395, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLHMRA12A8C13234A
+start_of_fade_out: 136.115
+tatums_confidence: shape = (702,)
+tatums_start: shape = (702,)
+tempo: 150.04
+time_signature: 4
+time_signature_confidence: 1.0
+title: Leaders Of Men
+track_7digitalid: 2648266
+track_id: TRBIIOT128F423C594
+year: 1978

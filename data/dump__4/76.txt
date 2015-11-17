@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 33863
+artist_familiarity: 0.731208047166
+artist_hotttnesss: 0.547506775318
+artist_id: ARQ76LG1187B9ACD84
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 9941a936-196a-4a62-ae53-a69cbc33f20e
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Black Flag
+artist_playmeid: 6593
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: c1f92c6ec269e6484190898740b02013
+bars_confidence: shape = (172,)
+bars_start: shape = (172,)
+beats_confidence: shape = (1222,)
+beats_start: shape = (1222,)
+danceability: 0.0
+duration: 1030.19057
+end_of_fade_in: 0.189
+energy: 0.0
+key: 0
+key_confidence: 0.587
+loudness: -18.91
+mode: 1
+mode_confidence: 0.655
+release: Everything Went Black
+release_7digitalid: 150242
+sections_confidence: shape = (28,)
+sections_start: shape = (28,)
+segments_confidence: shape = (3691,)
+segments_loudness_max: shape = (3691,)
+segments_loudness_max_time: shape = (3691,)
+segments_loudness_start: shape = (3691,)
+segments_pitches: shape = (3691, 12)
+segments_start: shape = (3691,)
+segments_timbre: shape = (3691, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.499445834801
+song_id: SOGJYZW12A8C134DBD
+start_of_fade_out: 1027.483
+tatums_confidence: shape = (3666,)
+tatums_start: shape = (3666,)
+tempo: 70.649
+time_signature: 5
+time_signature_confidence: 0.99
+title: Crass Commercialism
+track_7digitalid: 1566526
+track_id: TRABNRG128F425E087
+year: 1982

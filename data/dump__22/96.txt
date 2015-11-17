@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 103426
+artist_familiarity: 0.503972263697
+artist_hotttnesss: 0.429288630416
+artist_id: ARL1QL91187B994B08
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6e9a0ac8-699b-4817-8f9b-25a6dba89f57
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: A Challenge Of Honour
+artist_playmeid: -1
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 243014a541223632629b6489abc129d8
+bars_confidence: shape = (156,)
+bars_start: shape = (156,)
+beats_confidence: shape = (471,)
+beats_start: shape = (471,)
+danceability: 0.0
+duration: 242.28526
+end_of_fade_in: 0.374
+energy: 0.0
+key: 9
+key_confidence: 0.438
+loudness: -13.459
+mode: 0
+mode_confidence: 0.521
+release: Wilhelm Gustloff
+release_7digitalid: 201731
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (647,)
+segments_loudness_max: shape = (647,)
+segments_loudness_max_time: shape = (647,)
+segments_loudness_start: shape = (647,)
+segments_pitches: shape = (647, 12)
+segments_start: shape = (647,)
+segments_timbre: shape = (647, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.372530039366
+song_id: SOACOTR12A8C13753B
+start_of_fade_out: 222.778
+tatums_confidence: shape = (943,)
+tatums_start: shape = (943,)
+tempo: 120.059
+time_signature: 3
+time_signature_confidence: 1.0
+title: Heiliges Feuer
+track_7digitalid: 2195800
+track_id: TRAHUAW128F425BA0B
+year: 0

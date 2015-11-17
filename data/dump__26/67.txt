@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 123275
+artist_familiarity: 0.547801656047
+artist_hotttnesss: 0.36947051062
+artist_id: ARKO7AO1187FB5664B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7a4311d2-5f0e-40df-b03d-ac4a5465b236
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Tin Hat Trio
+artist_playmeid: 61977
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: abc3e59651f1829f4c8b4f84275f1d76
+bars_confidence: shape = (323,)
+bars_start: shape = (323,)
+beats_confidence: shape = (972,)
+beats_start: shape = (972,)
+danceability: 0.0
+duration: 407.06567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.895
+loudness: -12.957
+mode: 1
+mode_confidence: 0.778
+release: Helium
+release_7digitalid: 160733
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1056,)
+segments_loudness_max: shape = (1056,)
+segments_loudness_max_time: shape = (1056,)
+segments_loudness_start: shape = (1056,)
+segments_pitches: shape = (1056, 12)
+segments_start: shape = (1056,)
+segments_timbre: shape = (1056, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOELJKL12A8C13C57C
+start_of_fade_out: 391.216
+tatums_confidence: shape = (1945,)
+tatums_start: shape = (1945,)
+tempo: 144.012
+time_signature: 3
+time_signature_confidence: 0.708
+title: Width Of The World
+track_7digitalid: 1697075
+track_id: TRAIYFL128F427D658
+year: 2000

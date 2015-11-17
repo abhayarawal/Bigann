@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1446
+artist_familiarity: 0.658731278303
+artist_hotttnesss: 0.410541103123
+artist_id: AR88F5X1187FB3EA17
+artist_latitude: 36.16778
+artist_location: Nashville, TN, Texas
+artist_longitude: -86.77836
+artist_mbid: 613260c3-d620-4645-94cd-33cd55f29b1e
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Loretta Lynn
+artist_playmeid: 4670
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 228eaf1b73508c78d09a537ca83ecfb5
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (266,)
+beats_start: shape = (266,)
+danceability: 0.0
+duration: 197.58975
+end_of_fade_in: 0.495
+energy: 0.0
+key: 4
+key_confidence: 0.853
+loudness: -10.694
+mode: 1
+mode_confidence: 0.722
+release: Rowdy Country Christmas
+release_7digitalid: 662509
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (486,)
+segments_loudness_max: shape = (486,)
+segments_loudness_max_time: shape = (486,)
+segments_loudness_start: shape = (486,)
+segments_pitches: shape = (486, 12)
+segments_start: shape = (486,)
+segments_timbre: shape = (486, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVQGSX12AB0188818
+start_of_fade_out: 190.102
+tatums_confidence: shape = (533,)
+tatums_start: shape = (533,)
+tempo: 83.976
+time_signature: 3
+time_signature_confidence: 0.77
+title: Away in a Manger
+track_7digitalid: 7341475
+track_id: TRALRPL12903CA71F2
+year: 0

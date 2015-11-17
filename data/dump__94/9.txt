@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 380662
+artist_familiarity: 0.437889503073
+artist_hotttnesss: 0.309901682843
+artist_id: ARP2TO91187B9913EA
+artist_latitude: 29.95369
+artist_location: New Orleans, LA
+artist_longitude: -90.07771
+artist_mbid: bdc4daaf-b379-4520-8223-cc9649bddb21
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Angelica Maria
+artist_playmeid: 20649
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 424db445fc94dbcfd8e18eb10ea55996
+bars_confidence: shape = (49,)
+bars_start: shape = (49,)
+beats_confidence: shape = (212,)
+beats_start: shape = (212,)
+danceability: 0.0
+duration: 160.83546
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.789
+loudness: -10.182
+mode: 1
+mode_confidence: 0.787
+release: Abrazame Fuerte
+release_7digitalid: 174574
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (491,)
+segments_loudness_max: shape = (491,)
+segments_loudness_max_time: shape = (491,)
+segments_loudness_start: shape = (491,)
+segments_pitches: shape = (491, 12)
+segments_start: shape = (491,)
+segments_timbre: shape = (491, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZCQBJ12A8C13E811
+start_of_fade_out: 154.732
+tatums_confidence: shape = (424,)
+tatums_start: shape = (424,)
+tempo: 81.649
+time_signature: 4
+time_signature_confidence: 0.892
+title: Te Necesito
+track_7digitalid: 1870871
+track_id: TRBGLUT128F429F177
+year: 0

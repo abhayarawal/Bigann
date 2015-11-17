@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22864
+artist_familiarity: 0.428516150461
+artist_hotttnesss: 0.269288257355
+artist_id: AR8ICFK1187FB5A3A0
+artist_latitude: 42.33168
+artist_location: Detroit, MI
+artist_longitude: -83.04792
+artist_mbid: de7514f3-39cf-4021-b960-8bb802208f8a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Rance Allen Group
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 65e8ca4af88913975d5f47f64e2bf5c5
+bars_confidence: shape = (81,)
+bars_start: shape = (81,)
+beats_confidence: shape = (329,)
+beats_start: shape = (329,)
+danceability: 0.0
+duration: 199.13098
+end_of_fade_in: 0.333
+energy: 0.0
+key: 0
+key_confidence: 0.046
+loudness: -13.318
+mode: 1
+mode_confidence: 0.281
+release: A Soulful Experience
+release_7digitalid: 269891
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (965,)
+segments_loudness_max: shape = (965,)
+segments_loudness_max_time: shape = (965,)
+segments_loudness_start: shape = (965,)
+segments_pitches: shape = (965, 12)
+segments_start: shape = (965,)
+segments_timbre: shape = (965, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLANWU12A8C141D4D
+start_of_fade_out: 187.35
+tatums_confidence: shape = (1319,)
+tatums_start: shape = (1319,)
+tempo: 100.288
+time_signature: 4
+time_signature_confidence: 0.0
+title: The Painter
+track_7digitalid: 2990983
+track_id: TRAZAVZ128F428ABFC
+year: 2006

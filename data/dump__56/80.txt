@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4498
+artist_familiarity: 0.621361910247
+artist_hotttnesss: 0.39507381874
+artist_id: ARLGUTA1187B9B605F
+artist_latitude: 40.85715
+artist_location: The Bronx, New York, NY
+artist_longitude: -73.85678
+artist_mbid: 995d7339-ff57-498e-9c8e-faf955eba696
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Terror Squad / Remy / Prospect / Armageddon
+artist_playmeid: -1
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 869e53c5c4ce7b2a0fabb28b3ad5ef1b
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (762,)
+beats_start: shape = (762,)
+danceability: 0.0
+duration: 251.89832
+end_of_fade_in: 0.144
+energy: 0.0
+key: 11
+key_confidence: 0.041
+loudness: -5.511
+mode: 0
+mode_confidence: 0.334
+release: True Story
+release_7digitalid: 93019
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1214,)
+segments_loudness_max: shape = (1214,)
+segments_loudness_max_time: shape = (1214,)
+segments_loudness_start: shape = (1214,)
+segments_pitches: shape = (1214, 12)
+segments_start: shape = (1214,)
+segments_timbre: shape = (1214, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.473346541109
+song_id: SOICCPU12A8C138AC4
+start_of_fade_out: 237.639
+tatums_confidence: shape = (1524,)
+tatums_start: shape = (1524,)
+tempo: 181.3
+time_signature: 7
+time_signature_confidence: 1.0
+title: Hum Drum
+track_7digitalid: 2233067
+track_id: TRATJBD128F4263C26
+year: 2004

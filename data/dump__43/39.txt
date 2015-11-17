@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4705
+artist_familiarity: 0.707839968442
+artist_hotttnesss: 0.532445870959
+artist_id: ARYML1P1187B9AF39B
+artist_latitude: nan
+artist_location: Georgia
+artist_longitude: nan
+artist_mbid: d2db1078-c170-4e22-b261-14f3ad60a690
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Devo
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 0c59757b502574dc0852fbc8ee036ba7
+bars_confidence: shape = (157,)
+bars_start: shape = (157,)
+beats_confidence: shape = (630,)
+beats_start: shape = (630,)
+danceability: 0.0
+duration: 264.33261
+end_of_fade_in: 0.076
+energy: 0.0
+key: 2
+key_confidence: 0.67
+loudness: -10.499
+mode: 1
+mode_confidence: 0.525
+release: Shout
+release_7digitalid: 626438
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (905,)
+segments_loudness_max: shape = (905,)
+segments_loudness_max_time: shape = (905,)
+segments_loudness_start: shape = (905,)
+segments_pitches: shape = (905, 12)
+segments_start: shape = (905,)
+segments_timbre: shape = (905, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAOJRS12A6D4FBDEE
+start_of_fade_out: 248.761
+tatums_confidence: shape = (1260,)
+tatums_start: shape = (1260,)
+tempo: 144.801
+time_signature: 4
+time_signature_confidence: 1.0
+title: The 4th Dimension (LP Version)
+track_7digitalid: 6954076
+track_id: TRAOURR128F931A9EA
+year: 1984

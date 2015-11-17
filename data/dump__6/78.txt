@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 91107
+artist_familiarity: 0.825962346021
+artist_hotttnesss: 0.506804744418
+artist_id: ARG9E8O1187B99AB4F
+artist_latitude: 42.31256
+artist_location: Boston, Massachusetts
+artist_longitude: -71.08868
+artist_mbid: 27784398-3ad0-4baf-bf17-82b37fe03efb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bury Your Dead
+artist_playmeid: -1
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: c9e76532f627d9f948c8af371f5aaa61
+bars_confidence: shape = (145,)
+bars_start: shape = (145,)
+beats_confidence: shape = (591,)
+beats_start: shape = (591,)
+danceability: 0.0
+duration: 290.63791
+end_of_fade_in: 0.131
+energy: 0.0
+key: 4
+key_confidence: 0.005
+loudness: -6.664
+mode: 1
+mode_confidence: 0.151
+release: It's Nothing Personal
+release_7digitalid: 469705
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (530,)
+segments_loudness_max: shape = (530,)
+segments_loudness_max_time: shape = (530,)
+segments_loudness_start: shape = (530,)
+segments_pitches: shape = (530, 12)
+segments_start: shape = (530,)
+segments_timbre: shape = (530, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.533370878316
+song_id: SOZUOAK12AB018AA82
+start_of_fade_out: 283.51
+tatums_confidence: shape = (1774,)
+tatums_start: shape = (1774,)
+tempo: 123.635
+time_signature: 4
+time_signature_confidence: 0.892
+title: Closed Eyes
+track_7digitalid: 5221988
+track_id: TRACFOV128F9340D81
+year: 2009

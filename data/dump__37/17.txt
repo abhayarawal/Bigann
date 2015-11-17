@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 36252
+artist_familiarity: 0.714201447209
+artist_hotttnesss: 0.496123346043
+artist_id: ARJVTRE1187B9959C0
+artist_latitude: 40.71455
+artist_location: London, England
+artist_longitude: -74.00712
+artist_mbid: 3cc3942d-bbfc-446d-a8f4-f0e1e238ca86
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Foghat
+artist_playmeid: 11821
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: ed453ea5a6534f9527af033940dff6df
+bars_confidence: shape = (179,)
+bars_start: shape = (179,)
+beats_confidence: shape = (718,)
+beats_start: shape = (718,)
+danceability: 0.0
+duration: 235.75465
+end_of_fade_in: 0.894
+energy: 0.0
+key: 9
+key_confidence: 0.547
+loudness: -6.961
+mode: 1
+mode_confidence: 0.555
+release: Zig Zag Walk
+release_7digitalid: 62348
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (601,)
+segments_loudness_max: shape = (601,)
+segments_loudness_max_time: shape = (601,)
+segments_loudness_start: shape = (601,)
+segments_pitches: shape = (601, 12)
+segments_start: shape = (601,)
+segments_timbre: shape = (601, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIYMOP12A6D4FB02E
+start_of_fade_out: 214.918
+tatums_confidence: shape = (1435,)
+tatums_start: shape = (1435,)
+tempo: 187.314
+time_signature: 4
+time_signature_confidence: 0.0
+title: Three Wheel Cadillac
+track_7digitalid: 646373
+track_id: TRAMPPS128F14A9068
+year: 1983

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 295533
+artist_familiarity: 0.360241801208
+artist_hotttnesss: 0.279642625277
+artist_id: AR6W9T51187B9A8B8E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e39cebbc-be71-42ba-a60c-2d6ffc57a4f1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Maurice Larcange
+artist_playmeid: 65578
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 73927d142f8ce78e1a50eadc7683c572
+bars_confidence: shape = (63,)
+bars_start: shape = (63,)
+beats_confidence: shape = (456,)
+beats_start: shape = (456,)
+danceability: 0.0
+duration: 199.54893
+end_of_fade_in: 0.42
+energy: 0.0
+key: 7
+key_confidence: 0.642
+loudness: -10.908
+mode: 0
+mode_confidence: 0.606
+release: Joue Legrand & Becaud
+release_7digitalid: 386702
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (550,)
+segments_loudness_max: shape = (550,)
+segments_loudness_max_time: shape = (550,)
+segments_loudness_start: shape = (550,)
+segments_pitches: shape = (550, 12)
+segments_start: shape = (550,)
+segments_timbre: shape = (550, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONAZLW12AB017F288
+start_of_fade_out: 187.948
+tatums_confidence: shape = (912,)
+tatums_start: shape = (912,)
+tempo: 136.786
+time_signature: 7
+time_signature_confidence: 0.287
+title: Le Récit De Cassard
+track_7digitalid: 4289262
+track_id: TRBHDBH128F92E7FA1
+year: 0

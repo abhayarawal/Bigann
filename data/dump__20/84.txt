@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 49992
+artist_familiarity: 0.819568422297
+artist_hotttnesss: 0.597867167602
+artist_id: ARSW5F51187FB4CFC9
+artist_latitude: nan
+artist_location: Seattle, WA
+artist_longitude: nan
+artist_mbid: 4bd95eea-b9f6-4d70-a36c-cfea77431553
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Alice In Chains
+artist_playmeid: 65
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 41ab1c3fa9c2ded30832db8db7f5a80e
+bars_confidence: shape = (99,)
+bars_start: shape = (99,)
+beats_confidence: shape = (503,)
+beats_start: shape = (503,)
+danceability: 0.0
+duration: 261.77261
+end_of_fade_in: 0.275
+energy: 0.0
+key: 3
+key_confidence: 0.165
+loudness: -9.66
+mode: 0
+mode_confidence: 0.301
+release: Jar of flies / Facelift / Dirt
+release_7digitalid: 290005
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (743,)
+segments_loudness_max: shape = (743,)
+segments_loudness_max_time: shape = (743,)
+segments_loudness_start: shape = (743,)
+segments_pitches: shape = (743, 12)
+segments_start: shape = (743,)
+segments_timbre: shape = (743, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODTJWJ12CF5F88321
+start_of_fade_out: 258.473
+tatums_confidence: shape = (1007,)
+tatums_start: shape = (1007,)
+tempo: 114.758
+time_signature: 5
+time_signature_confidence: 1.0
+title: I Know Somethin (Bout You)
+track_7digitalid: 3252983
+track_id: TRAHBXB128F42797AE
+year: 1990

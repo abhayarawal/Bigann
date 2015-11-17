@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 95363
+artist_familiarity: 0.354496108158
+artist_hotttnesss: 0.249453649411
+artist_id: ARXGICZ1187FB444DD
+artist_latitude: 44.97903
+artist_location: Minneapolis, MN
+artist_longitude: -93.26493
+artist_mbid: 625689fe-ee9c-44bc-87ee-e42ad7b97e7c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Merry Macs
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: f7bd13a3d7c0beed8a9e1090db65a599
+bars_confidence: shape = (67,)
+bars_start: shape = (67,)
+beats_confidence: shape = (272,)
+beats_start: shape = (272,)
+danceability: 0.0
+duration: 140.59057
+end_of_fade_in: 0.241
+energy: 0.0
+key: 3
+key_confidence: 0.216
+loudness: -11.897
+mode: 1
+mode_confidence: 0.354
+release: Something Old_ New_ Borrowed And Blue
+release_7digitalid: 652690
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (396,)
+segments_loudness_max: shape = (396,)
+segments_loudness_max_time: shape = (396,)
+segments_loudness_start: shape = (396,)
+segments_pitches: shape = (396, 12)
+segments_start: shape = (396,)
+segments_timbre: shape = (396, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.229144103717
+song_id: SOAVOLU12AB01817A3
+start_of_fade_out: 137.77
+tatums_confidence: shape = (545,)
+tatums_start: shape = (545,)
+tempo: 118.096
+time_signature: 4
+time_signature_confidence: 0.495
+title: Sentimental Journey
+track_7digitalid: 7231456
+track_id: TRAHKND128F935E15F
+year: 0

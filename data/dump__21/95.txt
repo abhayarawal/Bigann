@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16304
+artist_familiarity: 0.661766091474
+artist_hotttnesss: 0.257381627597
+artist_id: ARYGSFW1187FB519B1
+artist_latitude: nan
+artist_location: United Kingdom
+artist_longitude: nan
+artist_mbid: a04e09c8-733c-4430-9e22-99ef9dd5e2d7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mike And The Mechanics
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 5abaca780c563f7a8b80185d1601d68c
+bars_confidence: shape = (114,)
+bars_start: shape = (114,)
+beats_confidence: shape = (460,)
+beats_start: shape = (460,)
+danceability: 0.0
+duration: 283.24526
+end_of_fade_in: 2.961
+energy: 0.0
+key: 5
+key_confidence: 0.644
+loudness: -6.951
+mode: 1
+mode_confidence: 0.525
+release: Mike & The Mechanics Hits
+release_7digitalid: 28754
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1010,)
+segments_loudness_max: shape = (1010,)
+segments_loudness_max_time: shape = (1010,)
+segments_loudness_start: shape = (1010,)
+segments_pitches: shape = (1010, 12)
+segments_start: shape = (1010,)
+segments_timbre: shape = (1010, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBDCWG12A6D4F832E
+start_of_fade_out: 269.886
+tatums_confidence: shape = (1842,)
+tatums_start: shape = (1842,)
+tempo: 97.882
+time_signature: 4
+time_signature_confidence: 1.0
+title: Nobody's Perfect
+track_7digitalid: 315709
+track_id: TRAHMIV128F14693DC
+year: 1988

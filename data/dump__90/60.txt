@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5198
+artist_familiarity: 0.606011003247
+artist_hotttnesss: 0.487202994556
+artist_id: ARF3HEO1187B9AF2F4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1cef08dc-0429-4353-9916-9f6f421d61e9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Donnie McClurkin
+artist_playmeid: 7072
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: d8dccfedb58d9e5c9a7ded0d68603f17
+bars_confidence: shape = (188,)
+bars_start: shape = (188,)
+beats_confidence: shape = (755,)
+beats_start: shape = (755,)
+danceability: 0.0
+duration: 302.36689
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.664
+loudness: -8.004
+mode: 1
+mode_confidence: 0.562
+release: Live in London and More ..
+release_7digitalid: 535346
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1080,)
+segments_loudness_max: shape = (1080,)
+segments_loudness_max_time: shape = (1080,)
+segments_loudness_start: shape = (1080,)
+segments_pitches: shape = (1080, 12)
+segments_start: shape = (1080,)
+segments_timbre: shape = (1080, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.392008771471
+song_id: SOXECRP12AB017EADA
+start_of_fade_out: 297.152
+tatums_confidence: shape = (1511,)
+tatums_start: shape = (1511,)
+tempo: 150.117
+time_signature: 4
+time_signature_confidence: 0.408
+title: Psalm 27
+track_7digitalid: 5926222
+track_id: TRBFHQG128F93092E5
+year: 2000

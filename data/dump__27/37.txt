@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4411
+artist_familiarity: 0.641197514984
+artist_hotttnesss: 0.44865347113
+artist_id: AR4TLW81187B99683D
+artist_latitude: nan
+artist_location: Syracuse, NY
+artist_longitude: nan
+artist_mbid: 0685ac4a-5cfc-408a-b391-903ea20e00bf
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Martin Sexton
+artist_playmeid: 53504
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 140656fd7c5888ff8cd6f7936a32e166
+bars_confidence: shape = (69,)
+bars_start: shape = (69,)
+beats_confidence: shape = (210,)
+beats_start: shape = (210,)
+danceability: 0.0
+duration: 144.19546
+end_of_fade_in: 0.212
+energy: 0.0
+key: 3
+key_confidence: 0.775
+loudness: -12.031
+mode: 1
+mode_confidence: 0.768
+release: Camp Holiday
+release_7digitalid: 544622
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (264,)
+segments_loudness_max: shape = (264,)
+segments_loudness_max_time: shape = (264,)
+segments_loudness_start: shape = (264,)
+segments_pitches: shape = (264, 12)
+segments_start: shape = (264,)
+segments_timbre: shape = (264, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.239629097774
+song_id: SOFXOIF12AB0182415
+start_of_fade_out: 139.163
+tatums_confidence: shape = (421,)
+tatums_start: shape = (421,)
+tempo: 90.099
+time_signature: 3
+time_signature_confidence: 0.868
+title: White Christmas
+track_7digitalid: 6027535
+track_id: TRAJEDV128F93218B9
+year: 2005

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 264139
+artist_familiarity: 0.315171278256
+artist_hotttnesss: 0.141419249252
+artist_id: ARWMNEW1252CCF8F72
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: FSTZ
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: f5b8f57096e84c960578fc92a1470f40
+bars_confidence: shape = (192,)
+bars_start: shape = (192,)
+beats_confidence: shape = (579,)
+beats_start: shape = (579,)
+danceability: 0.0
+duration: 257.09669
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.672
+loudness: -7.173
+mode: 1
+mode_confidence: 0.453
+release: Rogue Limited 01
+release_7digitalid: 674437
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1074,)
+segments_loudness_max: shape = (1074,)
+segments_loudness_max_time: shape = (1074,)
+segments_loudness_start: shape = (1074,)
+segments_pitches: shape = (1074, 12)
+segments_start: shape = (1074,)
+segments_timbre: shape = (1074, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMBRML12AB018BAB8
+start_of_fade_out: 244.791
+tatums_confidence: shape = (1159,)
+tatums_start: shape = (1159,)
+tempo: 140.17
+time_signature: 3
+time_signature_confidence: 0.383
+title: Quickstep
+track_7digitalid: 7478598
+track_id: TRAVQEN12903CC828C
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 822
+artist_familiarity: 0.877213745925
+artist_hotttnesss: 1.08250255673
+artist_id: ARRH63Y1187FB47783
+artist_latitude: nan
+artist_location: Atlanta, GA
+artist_longitude: nan
+artist_mbid: 164f0d73-1234-4e2c-8743-d77bf2191051
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Kanye West / Lupe Fiasco
+artist_playmeid: 843
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 5046754b164b58a79edd9c7fa39e7896
+bars_confidence: shape = (105,)
+bars_start: shape = (105,)
+beats_confidence: shape = (432,)
+beats_start: shape = (432,)
+danceability: 0.0
+duration: 236.72118
+end_of_fade_in: 0.258
+energy: 0.0
+key: 9
+key_confidence: 0.0
+loudness: -5.263
+mode: 1
+mode_confidence: 0.072
+release: Touch The Sky
+release_7digitalid: 351707
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1014,)
+segments_loudness_max: shape = (1014,)
+segments_loudness_max_time: shape = (1014,)
+segments_loudness_start: shape = (1014,)
+segments_pitches: shape = (1014, 12)
+segments_start: shape = (1014,)
+segments_timbre: shape = (1014, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJKTJG12AB0182516
+start_of_fade_out: 236.721
+tatums_confidence: shape = (864,)
+tatums_start: shape = (864,)
+tempo: 106.825
+time_signature: 4
+time_signature_confidence: 1.0
+title: Touch The Sky
+track_7digitalid: 3931254
+track_id: TRAQZQX128F931338F
+year: 2010

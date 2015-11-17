@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 194478
+artist_familiarity: 0.393329885991
+artist_hotttnesss: 0.275593275438
+artist_id: ARXK8H71187FB44850
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cf8a81b7-1c57-41fc-a890-67dc28cb9ccf
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Zaïko Langa Langa
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 7ce720c7ea26e7e2f7fdaacd5146dd86
+bars_confidence: shape = (132,)
+bars_start: shape = (132,)
+beats_confidence: shape = (538,)
+beats_start: shape = (538,)
+danceability: 0.0
+duration: 250.67057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.478
+loudness: -3.809
+mode: 1
+mode_confidence: 0.648
+release: Nippon Banzai
+release_7digitalid: 680798
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1178,)
+segments_loudness_max: shape = (1178,)
+segments_loudness_max_time: shape = (1178,)
+segments_loudness_start: shape = (1178,)
+segments_pitches: shape = (1178, 12)
+segments_start: shape = (1178,)
+segments_timbre: shape = (1178, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORQNTS12AB018C1E1
+start_of_fade_out: 246.085
+tatums_confidence: shape = (1075,)
+tatums_start: shape = (1075,)
+tempo: 127.891
+time_signature: 4
+time_signature_confidence: 0.0
+title: Fonsi
+track_7digitalid: 7553910
+track_id: TRAFMQA12903CDA8D3
+year: 0

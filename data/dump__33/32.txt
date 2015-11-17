@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 131684
+artist_familiarity: 0.317391380089
+artist_hotttnesss: 0.345284772988
+artist_id: ARGAWJY11F50C50904
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jane Winther
+artist_playmeid: 50989
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: b5a7ea6440b3c1a222a3f7c4c49fde48
+bars_confidence: shape = (111,)
+bars_start: shape = (111,)
+beats_confidence: shape = (111,)
+beats_start: shape = (111,)
+danceability: 0.0
+duration: 345.0771
+end_of_fade_in: 0.653
+energy: 0.0
+key: 0
+key_confidence: 0.02
+loudness: -21.779
+mode: 1
+mode_confidence: 0.315
+release: Mantra
+release_7digitalid: 346899
+sections_confidence: shape = (0,)
+sections_start: shape = (0,)
+segments_confidence: shape = (380,)
+segments_loudness_max: shape = (380,)
+segments_loudness_max_time: shape = (380,)
+segments_loudness_start: shape = (380,)
+segments_pitches: shape = (380, 12)
+segments_start: shape = (380,)
+segments_timbre: shape = (380, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPWDVC12AB0185A86
+start_of_fade_out: 319.652
+tatums_confidence: shape = (668,)
+tatums_start: shape = (668,)
+tempo: 19.657
+time_signature: 1
+time_signature_confidence: 0.0
+title: Om
+track_7digitalid: 3894831
+track_id: TRALIKY128F930B3BE
+year: 0

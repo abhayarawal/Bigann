@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1304
+artist_familiarity: 0.822316235979
+artist_hotttnesss: 0.50881319501
+artist_id: ARTE9CG1187B99B1AF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f3bf61f8-97d4-4e52-a73d-2ddbbe8196c8
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: DMX
+artist_playmeid: 491
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: b5fdbc22fe7879118d761453cf31effe
+bars_confidence: shape = (90,)
+bars_start: shape = (90,)
+beats_confidence: shape = (366,)
+beats_start: shape = (366,)
+danceability: 0.0
+duration: 230.50404
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.388
+loudness: -8.668
+mode: 0
+mode_confidence: 0.427
+release: It's Dark And Hell Is Hot
+release_7digitalid: 8567
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1088,)
+segments_loudness_max: shape = (1088,)
+segments_loudness_max_time: shape = (1088,)
+segments_loudness_start: shape = (1088,)
+segments_pitches: shape = (1088, 12)
+segments_start: shape = (1088,)
+segments_timbre: shape = (1088, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.642110731228
+song_id: SOGPEMQ12A67020412
+start_of_fade_out: 211.603
+tatums_confidence: shape = (1464,)
+tatums_start: shape = (1464,)
+tempo: 95.752
+time_signature: 4
+time_signature_confidence: 1.0
+title: Look Thru My Eyes
+track_7digitalid: 86517
+track_id: TRBHZYO128E07862BE
+year: 1998

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 166899
+artist_familiarity: 0.485089301393
+artist_hotttnesss: 0.372403528029
+artist_id: ARGJL42119B8668D26
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9ed0f8ff-31fe-44c3-a4e1-0e70e2c67bd8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Finest Dearest
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 1d47a67a70dc9a0d5a4ec078fe9eef7b
+bars_confidence: shape = (85,)
+bars_start: shape = (85,)
+beats_confidence: shape = (597,)
+beats_start: shape = (597,)
+danceability: 0.0
+duration: 299.75465
+end_of_fade_in: 2.897
+energy: 0.0
+key: 6
+key_confidence: 0.565
+loudness: -7.34
+mode: 0
+mode_confidence: 0.655
+release: Finest Dearest
+release_7digitalid: 220091
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (868,)
+segments_loudness_max: shape = (868,)
+segments_loudness_max_time: shape = (868,)
+segments_loudness_start: shape = (868,)
+segments_pitches: shape = (868, 12)
+segments_start: shape = (868,)
+segments_timbre: shape = (868, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOFNOOH12A8C13FD69
+start_of_fade_out: 265.596
+tatums_confidence: shape = (1193,)
+tatums_start: shape = (1193,)
+tempo: 121.03
+time_signature: 7
+time_signature_confidence: 1.0
+title: Naming Ceremony
+track_7digitalid: 2402209
+track_id: TRAKILX128F42892BF
+year: 2008

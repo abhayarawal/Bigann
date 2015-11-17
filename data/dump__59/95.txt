@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 27985
+artist_familiarity: 0.475827934505
+artist_hotttnesss: 0.314008167318
+artist_id: ARU230L1187FB4642F
+artist_latitude: 37.80506
+artist_location: Oakland, CA
+artist_longitude: -122.27302
+artist_mbid: 2e1f1a21-9c2b-49e1-b0ab-0061ff019bd3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Walter Hawkins
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 2937b32bba65fc6aa72f154e95a5b06f
+bars_confidence: shape = (252,)
+bars_start: shape = (252,)
+beats_confidence: shape = (1014,)
+beats_start: shape = (1014,)
+danceability: 0.0
+duration: 468.00934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.451
+loudness: -13.75
+mode: 1
+mode_confidence: 0.547
+release: Love Alive II
+release_7digitalid: 688795
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (1427,)
+segments_loudness_max: shape = (1427,)
+segments_loudness_max_time: shape = (1427,)
+segments_loudness_start: shape = (1427,)
+segments_pitches: shape = (1427, 12)
+segments_start: shape = (1427,)
+segments_timbre: shape = (1427, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOWRKPT12AC468E5D5
+start_of_fade_out: 458.101
+tatums_confidence: shape = (2028,)
+tatums_start: shape = (2028,)
+tempo: 129.761
+time_signature: 4
+time_signature_confidence: 0.0
+title: Never Alone
+track_7digitalid: 7645319
+track_id: TRAUMBG12903CF0D68
+year: 1978

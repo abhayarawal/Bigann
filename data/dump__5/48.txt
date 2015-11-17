@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 49992
+artist_familiarity: 0.796337059499
+artist_hotttnesss: 0.582921576451
+artist_id: ARSW5F51187FB4CFC9
+artist_latitude: nan
+artist_location: Seattle, WA
+artist_longitude: nan
+artist_mbid: 4bd95eea-b9f6-4d70-a36c-cfea77431553
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Alice In Chains
+artist_playmeid: 65
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: c617fcc38195cb64a71edd7ea46097a9
+bars_confidence: shape = (112,)
+bars_start: shape = (112,)
+beats_confidence: shape = (452,)
+beats_start: shape = (452,)
+danceability: 0.0
+duration: 256.522
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.346
+loudness: -3.91
+mode: 0
+mode_confidence: 0.422
+release: Black Gives Way To Blue
+release_7digitalid: 583091
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (526,)
+segments_loudness_max: shape = (526,)
+segments_loudness_max_time: shape = (526,)
+segments_loudness_start: shape = (526,)
+segments_pitches: shape = (526, 12)
+segments_start: shape = (526,)
+segments_timbre: shape = (526, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.824432868868
+song_id: SOABLAF12AB018E1D9
+start_of_fade_out: 245.609
+tatums_confidence: shape = (905,)
+tatums_start: shape = (905,)
+tempo: 107.845
+time_signature: 4
+time_signature_confidence: 1.0
+title: Lesson Learned
+track_7digitalid: 6462200
+track_id: TRABUMO12903CBE25F
+year: 2009

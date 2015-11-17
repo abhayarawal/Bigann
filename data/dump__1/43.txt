@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21239
+artist_familiarity: 0.83317856089
+artist_hotttnesss: 0.682263176764
+artist_id: AR6PJ8R1187FB5AD70
+artist_latitude: nan
+artist_location: Barranquilla, Colombia
+artist_longitude: nan
+artist_mbid: bf24ca37-25f4-4e34-9aec-460b94364cfc
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Shakira Featuring Wyclef Jean
+artist_playmeid: 1424
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: bb87389eec1ef94e8f25cd363949f441
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (358,)
+beats_start: shape = (358,)
+danceability: 0.0
+duration: 217.36444
+end_of_fade_in: 0.224
+energy: 0.0
+key: 10
+key_confidence: 0.805
+loudness: -5.152
+mode: 0
+mode_confidence: 0.688
+release: Essential R&B Hit Selection
+release_7digitalid: 302176
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (993,)
+segments_loudness_max: shape = (993,)
+segments_loudness_max_time: shape = (993,)
+segments_loudness_start: shape = (993,)
+segments_pitches: shape = (993, 12)
+segments_start: shape = (993,)
+segments_timbre: shape = (993, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.737385310228
+song_id: SOEHWGF12A6D4F8B2B
+start_of_fade_out: 212.161
+tatums_confidence: shape = (1431,)
+tatums_start: shape = (1431,)
+tempo: 100.023
+time_signature: 4
+time_signature_confidence: 0.937
+title: Hips Don't Lie (featuring Wyclef Jean)
+track_7digitalid: 3416528
+track_id: TRAAKDG128F42A0ECB
+year: 0

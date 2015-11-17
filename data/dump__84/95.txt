@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 407965
+artist_familiarity: 0.49244072825
+artist_hotttnesss: 0.338946969158
+artist_id: ARY1K701187B9A43A9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a9f0fc9f-13a0-47aa-a7c3-f2d78013f7b6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Joe McBride
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 690428bb6e4b79186dabdc8c1114a398
+bars_confidence: shape = (77,)
+bars_start: shape = (77,)
+beats_confidence: shape = (551,)
+beats_start: shape = (551,)
+danceability: 0.0
+duration: 309.39383
+end_of_fade_in: 0.096
+energy: 0.0
+key: 9
+key_confidence: 0.491
+loudness: -13.896
+mode: 0
+mode_confidence: 0.375
+release: Lookin' For A Change
+release_7digitalid: 637620
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1206,)
+segments_loudness_max: shape = (1206,)
+segments_loudness_max_time: shape = (1206,)
+segments_loudness_start: shape = (1206,)
+segments_pitches: shape = (1206, 12)
+segments_start: shape = (1206,)
+segments_timbre: shape = (1206, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.427446571488
+song_id: SOJTVHW12A8C142F98
+start_of_fade_out: 306.579
+tatums_confidence: shape = (1101,)
+tatums_start: shape = (1101,)
+tempo: 105.882
+time_signature: 7
+time_signature_confidence: 1.0
+title: Like A Star
+track_7digitalid: 7077460
+track_id: TRBDEXK128F9338916
+year: 0

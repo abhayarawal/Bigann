@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 68540
+artist_familiarity: 0.491256209492
+artist_hotttnesss: 0.32620825462
+artist_id: ARJ4B7V1187FB4CB90
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 45fc5c0a-3614-4018-95e9-9101ac827e2b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ Godfather
+artist_playmeid: 80386
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 7438acebe724d8030871fd90802c843e
+bars_confidence: shape = (162,)
+bars_start: shape = (162,)
+beats_confidence: shape = (651,)
+beats_start: shape = (651,)
+danceability: 0.0
+duration: 333.00853
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.463
+loudness: -4.197
+mode: 1
+mode_confidence: 0.23
+release: DJs Are The New Rock Stars-Live Mashup Mix
+release_7digitalid: 620344
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1503,)
+segments_loudness_max: shape = (1503,)
+segments_loudness_max_time: shape = (1503,)
+segments_loudness_start: shape = (1503,)
+segments_pitches: shape = (1503, 12)
+segments_start: shape = (1503,)
+segments_timbre: shape = (1503, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.294006991002
+song_id: SOBSIEU12AB017D5E7
+start_of_fade_out: 333.009
+tatums_confidence: shape = (1302,)
+tatums_start: shape = (1302,)
+tempo: 117.236
+time_signature: 4
+time_signature_confidence: 1.0
+title: DJs Are The New Rockstars-Live Mashup Mix 7
+track_7digitalid: 6890742
+track_id: TRBFJMR128F930B3A6
+year: 0

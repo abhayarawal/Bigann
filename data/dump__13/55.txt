@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 67714
+artist_familiarity: 0.476808061143
+artist_hotttnesss: 0.0822922264203
+artist_id: ARNIO6W1187FB37297
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fda26996-e9cf-4bcf-8003-2e9107d5b61c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DCS
+artist_playmeid: 158494
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: b40fea77338c2d7f54aca72e459974bf
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (489,)
+beats_start: shape = (489,)
+danceability: 0.0
+duration: 305.3971
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.602
+loudness: -5.041
+mode: 1
+mode_confidence: 0.543
+release: Honge Na Juda Hum
+release_7digitalid: 85254
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (975,)
+segments_loudness_max: shape = (975,)
+segments_loudness_max_time: shape = (975,)
+segments_loudness_start: shape = (975,)
+segments_pitches: shape = (975, 12)
+segments_start: shape = (975,)
+segments_timbre: shape = (975, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSZLHY12A6D4F5CCC
+start_of_fade_out: 299.143
+tatums_confidence: shape = (979,)
+tatums_start: shape = (979,)
+tempo: 95.889
+time_signature: 4
+time_signature_confidence: 1.0
+title: Tu Hi Tu Sada
+track_7digitalid: 892515
+track_id: TRAEOED128EF36659C
+year: 0

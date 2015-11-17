@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 75
+artist_familiarity: 0.836039353279
+artist_hotttnesss: 0.587039629966
+artist_id: ARWX5TK1187FB4CDBE
+artist_latitude: 52.88356
+artist_location: Angleterre
+artist_longitude: -1.97406
+artist_mbid: 9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: The Who
+artist_playmeid: 4101
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 1ccdb195efbaa06d881054b644e6badc
+bars_confidence: shape = (99,)
+bars_start: shape = (99,)
+beats_confidence: shape = (401,)
+beats_start: shape = (401,)
+danceability: 0.0
+duration: 169.66485
+end_of_fade_in: 0.363
+energy: 0.0
+key: 2
+key_confidence: 0.566
+loudness: -8.302
+mode: 1
+mode_confidence: 0.647
+release: The Kids Are Alright
+release_7digitalid: 14391
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (399,)
+segments_loudness_max: shape = (399,)
+segments_loudness_max_time: shape = (399,)
+segments_loudness_start: shape = (399,)
+segments_pitches: shape = (399, 12)
+segments_start: shape = (399,)
+segments_timbre: shape = (399, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBPBKU12A6701E5CF
+start_of_fade_out: 169.665
+tatums_confidence: shape = (802,)
+tatums_start: shape = (802,)
+tempo: 140.66
+time_signature: 4
+time_signature_confidence: 0.715
+title: Anyway_ Anyhow_ Anywhere
+track_7digitalid: 149190
+track_id: TRASOUI128E078F152
+year: 1979

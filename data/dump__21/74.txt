@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 111291
+artist_familiarity: 0.609819761152
+artist_hotttnesss: 0.419967935771
+artist_id: AR8FMEN1187FB4A657
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 8b6a46d9-d1a4-43af-8322-6d04457e0bd5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lizzy Borden
+artist_playmeid: 58103
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: b8d3355ed4eb36a9cdc2cae8f7e15f71
+bars_confidence: shape = (111,)
+bars_start: shape = (111,)
+beats_confidence: shape = (446,)
+beats_start: shape = (446,)
+danceability: 0.0
+duration: 235.65016
+end_of_fade_in: 0.334
+energy: 0.0
+key: 10
+key_confidence: 0.13
+loudness: -3.053
+mode: 0
+mode_confidence: 0.378
+release: Deal With The Devil
+release_7digitalid: 559955
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (773,)
+segments_loudness_max: shape = (773,)
+segments_loudness_max_time: shape = (773,)
+segments_loudness_start: shape = (773,)
+segments_pitches: shape = (773, 12)
+segments_start: shape = (773,)
+segments_timbre: shape = (773, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.511424325686
+song_id: SOQHTSH12AB01849EE
+start_of_fade_out: 218.25
+tatums_confidence: shape = (892,)
+tatums_start: shape = (892,)
+tempo: 115.418
+time_signature: 4
+time_signature_confidence: 0.007
+title: There Will Be Blood Tonight
+track_7digitalid: 6198588
+track_id: TRAHKMS128F934B09E
+year: 2000

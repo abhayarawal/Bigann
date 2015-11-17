@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10826
+artist_familiarity: 0.448020550432
+artist_hotttnesss: 0.369535727564
+artist_id: ARPYBWQ1187B989C0D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b2230eb0-1785-4386-a04f-c6f216d55352
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Natural Elements
+artist_playmeid: 83197
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 1b552511c192d74efc0827342e77b22c
+bars_confidence: shape = (260,)
+bars_start: shape = (260,)
+beats_confidence: shape = (1045,)
+beats_start: shape = (1045,)
+danceability: 0.0
+duration: 338.1024
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.417
+loudness: -6.318
+mode: 1
+mode_confidence: 0.359
+release: Lyricist Lounge Vol. 1
+release_7digitalid: 15327
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1450,)
+segments_loudness_max: shape = (1450,)
+segments_loudness_max_time: shape = (1450,)
+segments_loudness_start: shape = (1450,)
+segments_pitches: shape = (1450, 12)
+segments_start: shape = (1450,)
+segments_timbre: shape = (1450, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.401486711428
+song_id: SOPOIQJ12A6701C8CF
+start_of_fade_out: 333.769
+tatums_confidence: shape = (2091,)
+tatums_start: shape = (2091,)
+tempo: 185.88
+time_signature: 4
+time_signature_confidence: 0.728
+title: Mayday
+track_7digitalid: 160234
+track_id: TRABDTV128E0791839
+year: 1998

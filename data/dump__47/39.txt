@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 241186
+artist_familiarity: 0.456852846021
+artist_hotttnesss: 0.340385429707
+artist_id: AR80OOA1187B98E726
+artist_latitude: 38.25486
+artist_location: Louisville, KY
+artist_longitude: -85.7664
+artist_mbid: 4231388d-489e-4fb6-918c-ecc514bf882d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Love Jones
+artist_playmeid: 38497
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: f2c683fd3f04cc2952856aeb326e71c9
+bars_confidence: shape = (162,)
+bars_start: shape = (162,)
+beats_confidence: shape = (657,)
+beats_start: shape = (657,)
+danceability: 0.0
+duration: 384.13016
+end_of_fade_in: 0.387
+energy: 0.0
+key: 7
+key_confidence: 0.327
+loudness: -7.479
+mode: 0
+mode_confidence: 0.489
+release: Here's To The Losers
+release_7digitalid: 312392
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1104,)
+segments_loudness_max: shape = (1104,)
+segments_loudness_max_time: shape = (1104,)
+segments_loudness_start: shape = (1104,)
+segments_pitches: shape = (1104, 12)
+segments_start: shape = (1104,)
+segments_timbre: shape = (1104, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SORAOMT12A8C140327
+start_of_fade_out: 377.574
+tatums_confidence: shape = (1313,)
+tatums_start: shape = (1313,)
+tempo: 102.473
+time_signature: 4
+time_signature_confidence: 1.0
+title: Matter Of Fact
+track_7digitalid: 3538026
+track_id: TRAQDXE128F92C3197
+year: 1993

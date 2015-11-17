@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 206019
+artist_familiarity: 0.546310423699
+artist_hotttnesss: 0.309919339654
+artist_id: ARXTM8U1187B99F200
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8a2e86ca-2153-4ba1-b2c2-2a525c2bd665
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pablo Montero
+artist_playmeid: 7997
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 7427b5d24e69e356ffbe08211961c691
+bars_confidence: shape = (82,)
+bars_start: shape = (82,)
+beats_confidence: shape = (331,)
+beats_start: shape = (331,)
+danceability: 0.0
+duration: 199.94077
+end_of_fade_in: 0.365
+energy: 0.0
+key: 2
+key_confidence: 0.656
+loudness: -8.596
+mode: 1
+mode_confidence: 0.609
+release: Donde Estas Corazon
+release_7digitalid: 536523
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (683,)
+segments_loudness_max: shape = (683,)
+segments_loudness_max_time: shape = (683,)
+segments_loudness_start: shape = (683,)
+segments_pitches: shape = (683, 12)
+segments_start: shape = (683,)
+segments_timbre: shape = (683, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOFKOUI12A58A7F55C
+start_of_fade_out: 195.808
+tatums_confidence: shape = (663,)
+tatums_start: shape = (663,)
+tempo: 100.048
+time_signature: 4
+time_signature_confidence: 1.0
+title: Ni Gota De Rencor
+track_7digitalid: 5949718
+track_id: TRACNBU128F930EDBB
+year: 0

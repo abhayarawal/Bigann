@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 73160
+artist_familiarity: 0.359638285706
+artist_hotttnesss: 0.0
+artist_id: ARJSPWK12454A4CB28
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: SANSHIRO
+artist_playmeid: 85247
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: 6de2896f5a449bf2c70d0e67b1659f50
+bars_confidence: shape = (606,)
+bars_start: shape = (606,)
+beats_confidence: shape = (606,)
+beats_start: shape = (606,)
+danceability: 0.0
+duration: 269.322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.442
+loudness: -6.148
+mode: 0
+mode_confidence: 0.454
+release: Chansons pour qui?
+release_7digitalid: 92906
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1054,)
+segments_loudness_max: shape = (1054,)
+segments_loudness_max_time: shape = (1054,)
+segments_loudness_start: shape = (1054,)
+segments_pitches: shape = (1054, 12)
+segments_start: shape = (1054,)
+segments_timbre: shape = (1054, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHUCCG12A8C137A17
+start_of_fade_out: 260.493
+tatums_confidence: shape = (1212,)
+tatums_start: shape = (1212,)
+tempo: 140.143
+time_signature: 1
+time_signature_confidence: 0.0
+title: Le système solaire
+track_7digitalid: 983662
+track_id: TRBADVL128F4272A5C
+year: 0

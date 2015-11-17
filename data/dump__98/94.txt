@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 88418
+artist_familiarity: 0.61742140664
+artist_hotttnesss: 0.449253876948
+artist_id: AR7GOK91187FB455F5
+artist_latitude: 48.85692
+artist_location: Paris, France
+artist_longitude: 2.34121
+artist_mbid: 0b3819e6-3fa1-4a50-a84c-f2a62643185d
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Jean-Jacques Goldman
+artist_playmeid: 26966
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 59503595537ec2a37f66fbb7b1ec0bc4
+bars_confidence: shape = (197,)
+bars_start: shape = (197,)
+beats_confidence: shape = (790,)
+beats_start: shape = (790,)
+danceability: 0.0
+duration: 358.60853
+end_of_fade_in: 2.264
+energy: 0.0
+key: 7
+key_confidence: 0.698
+loudness: -6.663
+mode: 1
+mode_confidence: 0.615
+release: Intégrale 81-91
+release_7digitalid: 279664
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1317,)
+segments_loudness_max: shape = (1317,)
+segments_loudness_max_time: shape = (1317,)
+segments_loudness_start: shape = (1317,)
+segments_pitches: shape = (1317, 12)
+segments_start: shape = (1317,)
+segments_timbre: shape = (1317, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SODNKBI12A8AE48AD0
+start_of_fade_out: 342.552
+tatums_confidence: shape = (1580,)
+tatums_start: shape = (1580,)
+tempo: 133.058
+time_signature: 4
+time_signature_confidence: 0.645
+title: Je Marche Seul (Version Longue)
+track_7digitalid: 3115034
+track_id: TRBIANT128F425C487
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 28581
+artist_familiarity: 0.582837273291
+artist_hotttnesss: 0.426513686653
+artist_id: ARY5TFK1187B9BA2BD
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 09cb2f95-0cde-4fb6-a318-556ef3cf8deb
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: John Ottman
+artist_playmeid: -1
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: d21275c973cfc35ba12c7a6f8887ff3f
+bars_confidence: shape = (45,)
+bars_start: shape = (45,)
+beats_confidence: shape = (208,)
+beats_start: shape = (208,)
+danceability: 0.0
+duration: 205.92281
+end_of_fade_in: 2.444
+energy: 0.0
+key: 2
+key_confidence: 0.597
+loudness: -13.522
+mode: 1
+mode_confidence: 0.486
+release: Superman Returns Music From The Motion Picture [Digital Version]
+release_7digitalid: 39780
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (400,)
+segments_loudness_max: shape = (400,)
+segments_loudness_max_time: shape = (400,)
+segments_loudness_start: shape = (400,)
+segments_pitches: shape = (400, 12)
+segments_start: shape = (400,)
+segments_timbre: shape = (400, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.623479901792
+song_id: SOMAGRE12A6D4F8C60
+start_of_fade_out: 194.473
+tatums_confidence: shape = (413,)
+tatums_start: shape = (413,)
+tempo: 61.587
+time_signature: 4
+time_signature_confidence: 0.0
+title: The People You Care For
+track_7digitalid: 423174
+track_id: TRBAEYW128F147D9EA
+year: 2006

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13624
+artist_familiarity: 0.911599657381
+artist_hotttnesss: 0.5723739799
+artist_id: ARG9CID1187B9AB010
+artist_latitude: 40.85251
+artist_location: Long Island, New York
+artist_longitude: -73.13585
+artist_mbid: 350bce49-c21b-4137-b50a-0766ded07e4d
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Taking Back Sunday
+artist_playmeid: -1
+artist_terms: shape = (9,)
+artist_terms_freq: shape = (9,)
+artist_terms_weight: shape = (9,)
+audio_md5: 9a3addd99d0827cc0e71034543de46ea
+bars_confidence: shape = (156,)
+bars_start: shape = (156,)
+beats_confidence: shape = (625,)
+beats_start: shape = (625,)
+danceability: 0.0
+duration: 227.57832
+end_of_fade_in: 0.63
+energy: 0.0
+key: 3
+key_confidence: 0.859
+loudness: -5.534
+mode: 1
+mode_confidence: 0.512
+release: Live From Bamboozle 2009
+release_7digitalid: 619220
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (511,)
+segments_loudness_max: shape = (511,)
+segments_loudness_max_time: shape = (511,)
+segments_loudness_start: shape = (511,)
+segments_pitches: shape = (511, 12)
+segments_start: shape = (511,)
+segments_timbre: shape = (511, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.360370582712
+song_id: SOXTXZQ12AB017D2C9
+start_of_fade_out: 227.578
+tatums_confidence: shape = (1249,)
+tatums_start: shape = (1249,)
+tempo: 165.145
+time_signature: 4
+time_signature_confidence: 0.688
+title: You Know How I Do [Live From Bamboozle]
+track_7digitalid: 6876991
+track_id: TRAUBMP128F9307E1C
+year: 0

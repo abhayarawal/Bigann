@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5401
+artist_familiarity: 0.588278825525
+artist_hotttnesss: 0.403602007956
+artist_id: ARXHWL31187FB476F4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a79e35b4-4b82-4e6d-9689-63cb92d558e9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: unloco
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: d97cc1a0f75775d2405ce18925115a23
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (483,)
+beats_start: shape = (483,)
+danceability: 0.0
+duration: 205.73995
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.492
+loudness: -5.673
+mode: 1
+mode_confidence: 0.566
+release: Healing
+release_7digitalid: 176415
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (674,)
+segments_loudness_max: shape = (674,)
+segments_loudness_max_time: shape = (674,)
+segments_loudness_start: shape = (674,)
+segments_pitches: shape = (674, 12)
+segments_start: shape = (674,)
+segments_timbre: shape = (674, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.721572660839
+song_id: SOJLUXH12A6D4FD0CE
+start_of_fade_out: 182.364
+tatums_confidence: shape = (966,)
+tatums_start: shape = (966,)
+tempo: 155.793
+time_signature: 4
+time_signature_confidence: 0.924
+title: Reckoning (Album Version)
+track_7digitalid: 1898268
+track_id: TRAMTKT128F4222C3A
+year: 2001

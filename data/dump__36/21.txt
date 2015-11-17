@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3443
+artist_familiarity: 0.72210529812
+artist_hotttnesss: 0.480724780921
+artist_id: AR02IU11187FB513F2
+artist_latitude: nan
+artist_location: New York, NY
+artist_longitude: nan
+artist_mbid: f19ad155-d809-4770-ab8d-7579467d9f55
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Tito Puente
+artist_playmeid: 3198
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 647914d33ba90f2d8d687b1c8e738204
+bars_confidence: shape = (107,)
+bars_start: shape = (107,)
+beats_confidence: shape = (429,)
+beats_start: shape = (429,)
+danceability: 0.0
+duration: 295.05261
+end_of_fade_in: 1.017
+energy: 0.0
+key: 7
+key_confidence: 0.444
+loudness: -12.469
+mode: 1
+mode_confidence: 0.517
+release: Mambo Diablo
+release_7digitalid: 214103
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1153,)
+segments_loudness_max: shape = (1153,)
+segments_loudness_max_time: shape = (1153,)
+segments_loudness_start: shape = (1153,)
+segments_pitches: shape = (1153, 12)
+segments_start: shape = (1153,)
+segments_timbre: shape = (1153, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.349166902125
+song_id: SOJZTXJ12AB01845FB
+start_of_fade_out: 288.055
+tatums_confidence: shape = (1288,)
+tatums_start: shape = (1288,)
+tempo: 88.384
+time_signature: 4
+time_signature_confidence: 0.284
+title: China
+track_7digitalid: 2328574
+track_id: TRAMHIY128F427A892
+year: 1972

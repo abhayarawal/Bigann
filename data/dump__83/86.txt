@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1613
+artist_familiarity: 0.832011769132
+artist_hotttnesss: 0.643072292611
+artist_id: ARC8CQZ1187B98DECA
+artist_latitude: nan
+artist_location: Galveston, TX
+artist_longitude: nan
+artist_mbid: ff6e677f-91dd-4986-a174-8db0474b1799
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Jack Johnson
+artist_playmeid: 759
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: a355146699b435d13a0be71d9a66532b
+bars_confidence: shape = (114,)
+bars_start: shape = (114,)
+beats_confidence: shape = (458,)
+beats_start: shape = (458,)
+danceability: 0.0
+duration: 215.87546
+end_of_fade_in: 3.907
+energy: 0.0
+key: 10
+key_confidence: 0.782
+loudness: -15.901
+mode: 1
+mode_confidence: 0.538
+release: Flake
+release_7digitalid: 25431
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (818,)
+segments_loudness_max: shape = (818,)
+segments_loudness_max_time: shape = (818,)
+segments_loudness_start: shape = (818,)
+segments_pitches: shape = (818, 12)
+segments_start: shape = (818,)
+segments_timbre: shape = (818, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOODZRY12A6D4F81A0
+start_of_fade_out: 210.535
+tatums_confidence: shape = (916,)
+tatums_start: shape = (916,)
+tempo: 131.4
+time_signature: 4
+time_signature_confidence: 0.0
+title: It's All Understood
+track_7digitalid: 270572
+track_id: TRBCUBV128F145F7E9
+year: 2000

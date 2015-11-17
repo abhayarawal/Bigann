@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8318
+artist_familiarity: 0.816596710223
+artist_hotttnesss: 0.553661233298
+artist_id: ARM0P6Z1187FB4D466
+artist_latitude: nan
+artist_location: Sheffield, South Yorkshire, Engla
+artist_longitude: nan
+artist_mbid: ada7a83c-e3e1-40f1-93f9-3e73dbc9298a
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Richard Hawley And Death Ramps_ Arctic Monkeys
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: c8e427e5361bc12e22517142f2498029
+bars_confidence: shape = (286,)
+bars_start: shape = (286,)
+beats_confidence: shape = (286,)
+beats_start: shape = (286,)
+danceability: 0.0
+duration: 139.78077
+end_of_fade_in: 0.09
+energy: 0.0
+key: 2
+key_confidence: 0.349
+loudness: -4.347
+mode: 1
+mode_confidence: 0.434
+release: Teddy Picker
+release_7digitalid: 183004
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (418,)
+segments_loudness_max: shape = (418,)
+segments_loudness_max_time: shape = (418,)
+segments_loudness_start: shape = (418,)
+segments_pitches: shape = (418, 12)
+segments_start: shape = (418,)
+segments_timbre: shape = (418, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.650676968982
+song_id: SOPRYHK12A8AE47858
+start_of_fade_out: 130.775
+tatums_confidence: shape = (572,)
+tatums_start: shape = (572,)
+tempo: 130.631
+time_signature: 1
+time_signature_confidence: 0.0
+title: Bad Woman
+track_7digitalid: 1977298
+track_id: TRAPTQA128F42341FA
+year: 2007

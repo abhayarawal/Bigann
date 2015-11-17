@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 521657
+artist_familiarity: 0.346388684346
+artist_hotttnesss: 0.293534924826
+artist_id: ARS8IP61187B9AA5E7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 528eaf55-a4f0-44e5-adc4-316956cdafcc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sound Field
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: f601379d34185eebf158db072d25b6e9
+bars_confidence: shape = (322,)
+bars_start: shape = (322,)
+beats_confidence: shape = (1290,)
+beats_start: shape = (1290,)
+danceability: 0.0
+duration: 564.37506
+end_of_fade_in: 14.211
+energy: 0.0
+key: 1
+key_confidence: 0.629
+loudness: -6.709
+mode: 1
+mode_confidence: 0.858
+release: Audio Surfin'
+release_7digitalid: 778863
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (3374,)
+segments_loudness_max: shape = (3374,)
+segments_loudness_max_time: shape = (3374,)
+segments_loudness_start: shape = (3374,)
+segments_pitches: shape = (3374, 12)
+segments_start: shape = (3374,)
+segments_timbre: shape = (3374, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHNGYV12A58A7A9EE
+start_of_fade_out: 559.247
+tatums_confidence: shape = (2580,)
+tatums_start: shape = (2580,)
+tempo: 137.971
+time_signature: 4
+time_signature_confidence: 0.615
+title: CrossBreed
+track_7digitalid: 8619018
+track_id: TRBFIHF12903CF0573
+year: 0

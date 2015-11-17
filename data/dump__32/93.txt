@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11465
+artist_familiarity: 0.556531086261
+artist_hotttnesss: 0.370138414326
+artist_id: ARBXVFV1187B99AA63
+artist_latitude: nan
+artist_location: Haifa, Israel
+artist_longitude: nan
+artist_mbid: 96a1182f-e8e6-4df6-a811-82cb67d4565c
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Gene Simmons
+artist_playmeid: 82832
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 874daa8f6e92eca3186cd4b121a2d172
+bars_confidence: shape = (63,)
+bars_start: shape = (63,)
+beats_confidence: shape = (254,)
+beats_start: shape = (254,)
+danceability: 0.0
+duration: 112.06485
+end_of_fade_in: 0.148
+energy: 0.0
+key: 0
+key_confidence: 0.253
+loudness: -11.603
+mode: 0
+mode_confidence: 0.22
+release: Haunted House:The Complete Gene Simmons on Hi Records
+release_7digitalid: 375621
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (429,)
+segments_loudness_max: shape = (429,)
+segments_loudness_max_time: shape = (429,)
+segments_loudness_start: shape = (429,)
+segments_pitches: shape = (429, 12)
+segments_start: shape = (429,)
+segments_timbre: shape = (429, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPHADT12A8C14245D
+start_of_fade_out: 112.065
+tatums_confidence: shape = (507,)
+tatums_start: shape = (507,)
+tempo: 140.148
+time_signature: 4
+time_signature_confidence: 0.197
+title: Bad Boy Willie
+track_7digitalid: 4178479
+track_id: TRALEVD128F92D13D8
+year: 0

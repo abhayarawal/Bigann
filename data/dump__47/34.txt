@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 582
+artist_familiarity: 0.85107300895
+artist_hotttnesss: 0.590449276812
+artist_id: AROBHK51187B9AD82B
+artist_latitude: nan
+artist_location: Wales
+artist_longitude: nan
+artist_mbid: 199d0ab3-22c0-4c00-b99d-257f591dda1f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Funeral For A Friend
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: c521770d748cabba65b1750f613330ef
+bars_confidence: shape = (104,)
+bars_start: shape = (104,)
+beats_confidence: shape = (433,)
+beats_start: shape = (433,)
+danceability: 0.0
+duration: 251.21914
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.35
+loudness: -4.518
+mode: 0
+mode_confidence: 0.448
+release: The Great Wide Open
+release_7digitalid: 615353
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (678,)
+segments_loudness_max: shape = (678,)
+segments_loudness_max_time: shape = (678,)
+segments_loudness_start: shape = (678,)
+segments_pitches: shape = (678, 12)
+segments_start: shape = (678,)
+segments_timbre: shape = (678, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.532482707508
+song_id: SOBFOZC12A8C143BE8
+start_of_fade_out: 248.674
+tatums_confidence: shape = (867,)
+tatums_start: shape = (867,)
+tempo: 102.889
+time_signature: 4
+time_signature_confidence: 0.989
+title: Juneau [Live]
+track_7digitalid: 6840904
+track_id: TRAQDID128F92FF26D
+year: 2007

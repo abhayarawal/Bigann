@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 273143
+artist_familiarity: 0.529794861802
+artist_hotttnesss: 0.328236583678
+artist_id: AR5C6M11187B9AC877
+artist_latitude: nan
+artist_location: New Brunswick NJ
+artist_longitude: nan
+artist_mbid: 04421fd3-f39a-45a1-b1b7-5f7b3665cf84
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Grip Weeds
+artist_playmeid: 45124
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 57bcf7eb7e8d9e0f80e4610a69a3b589
+bars_confidence: shape = (165,)
+bars_start: shape = (165,)
+beats_confidence: shape = (668,)
+beats_start: shape = (668,)
+danceability: 0.0
+duration: 314.14812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.838
+loudness: -5.853
+mode: 1
+mode_confidence: 0.666
+release: Summer of a Thousand Years
+release_7digitalid: 553262
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1042,)
+segments_loudness_max: shape = (1042,)
+segments_loudness_max_time: shape = (1042,)
+segments_loudness_start: shape = (1042,)
+segments_pitches: shape = (1042, 12)
+segments_start: shape = (1042,)
+segments_timbre: shape = (1042, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOQRIHX12AB0185FCB
+start_of_fade_out: 304.21
+tatums_confidence: shape = (1336,)
+tatums_start: shape = (1336,)
+tempo: 130.459
+time_signature: 4
+time_signature_confidence: 0.0
+title: Changed
+track_7digitalid: 6116857
+track_id: TRAEHLP128F933720D
+year: 0

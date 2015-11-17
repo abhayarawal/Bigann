@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 59429
+artist_familiarity: 0.634490512884
+artist_hotttnesss: 0.410950258432
+artist_id: AR3DLBB1187B98F3DF
+artist_latitude: nan
+artist_location: Staunton, VA
+artist_longitude: nan
+artist_mbid: 8f0c7db9-6d1c-446b-913c-b5c6811ca6fc
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: The Statler Brothers
+artist_playmeid: 10159
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: fc0f8022aa0dfef7dbc86d414b601996
+bars_confidence: shape = (84,)
+bars_start: shape = (84,)
+beats_confidence: shape = (338,)
+beats_start: shape = (338,)
+danceability: 0.0
+duration: 201.27302
+end_of_fade_in: 2.403
+energy: 0.0
+key: 10
+key_confidence: 0.0
+loudness: -16.822
+mode: 1
+mode_confidence: 0.0
+release: Flowers On The Wall:  The Essential Statler Brothers 1964-1969
+release_7digitalid: 286475
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (490,)
+segments_loudness_max: shape = (490,)
+segments_loudness_max_time: shape = (490,)
+segments_loudness_start: shape = (490,)
+segments_pitches: shape = (490, 12)
+segments_start: shape = (490,)
+segments_timbre: shape = (490, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.497498340023
+song_id: SOHWHCE12A8C133385
+start_of_fade_out: 195.843
+tatums_confidence: shape = (676,)
+tatums_start: shape = (676,)
+tempo: 104.068
+time_signature: 4
+time_signature_confidence: 0.0
+title: Shenandoah
+track_7digitalid: 3215758
+track_id: TRAUQFT128F4270904
+year: 1967

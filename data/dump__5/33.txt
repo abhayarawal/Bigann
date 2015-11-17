@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22258
+artist_familiarity: 0.546788716654
+artist_hotttnesss: 0.370828989973
+artist_id: AR0693R1187FB59D32
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 783b9eec-e8d2-48b7-b41f-ba1a1d3e155f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Dusminguet
+artist_playmeid: -1
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 203287fe3e0dba49038bbd9b25ead7f4
+bars_confidence: shape = (160,)
+bars_start: shape = (160,)
+beats_confidence: shape = (642,)
+beats_start: shape = (642,)
+danceability: 0.0
+duration: 199.13098
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.813
+loudness: -4.314
+mode: 1
+mode_confidence: 0.593
+release: Postrof
+release_7digitalid: 154936
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (904,)
+segments_loudness_max: shape = (904,)
+segments_loudness_max_time: shape = (904,)
+segments_loudness_start: shape = (904,)
+segments_pitches: shape = (904, 12)
+segments_start: shape = (904,)
+segments_timbre: shape = (904, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.288481642656
+song_id: SOMXSEH12A8C1371EA
+start_of_fade_out: 192.441
+tatums_confidence: shape = (1285,)
+tatums_start: shape = (1285,)
+tempo: 196.188
+time_signature: 4
+time_signature_confidence: 1.0
+title: San Cristobal
+track_7digitalid: 1621124
+track_id: TRABTSM128F426AF07
+year: 2001

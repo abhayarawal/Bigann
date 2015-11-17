@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 189121
+artist_familiarity: 0.421209146573
+artist_hotttnesss: 0.294607892786
+artist_id: AR199MY1187B9B731E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 83f58e18-23d1-40df-818c-5d5d8c536df7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Madilu System
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: ece356cc0a4dfaf857f499a8dd139634
+bars_confidence: shape = (559,)
+bars_start: shape = (559,)
+beats_confidence: shape = (559,)
+beats_start: shape = (559,)
+danceability: 0.0
+duration: 395.04934
+end_of_fade_in: 0.171
+energy: 0.0
+key: 2
+key_confidence: 0.478
+loudness: -3.878
+mode: 1
+mode_confidence: 0.676
+release: La Bonne Humeur
+release_7digitalid: 244370
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1739,)
+segments_loudness_max: shape = (1739,)
+segments_loudness_max_time: shape = (1739,)
+segments_loudness_start: shape = (1739,)
+segments_pitches: shape = (1739, 12)
+segments_start: shape = (1739,)
+segments_timbre: shape = (1739, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.368413732667
+song_id: SOWGJJK12A58A7DB2C
+start_of_fade_out: 389.085
+tatums_confidence: shape = (1677,)
+tatums_start: shape = (1677,)
+tempo: 85.316
+time_signature: 1
+time_signature_confidence: 1.0
+title: Bruno Dika
+track_7digitalid: 2809292
+track_id: TRAYXQU128F42618E9
+year: 0

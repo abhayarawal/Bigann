@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12853
+artist_familiarity: 0.642358176035
+artist_hotttnesss: 0.409818411456
+artist_id: ARUGX5X1187FB468C4
+artist_latitude: 34.15917
+artist_location: Encino, CA
+artist_longitude: -118.50119
+artist_mbid: eb28e896-59b8-41df-b3c2-148e68ce03eb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dino
+artist_playmeid: 458
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: a1eb11e99b1f60fed62b15f282d91c75
+bars_confidence: shape = (169,)
+bars_start: shape = (169,)
+beats_confidence: shape = (698,)
+beats_start: shape = (698,)
+danceability: 0.0
+duration: 406.38649
+end_of_fade_in: 2.705
+energy: 0.0
+key: 10
+key_confidence: 0.444
+loudness: -1.723
+mode: 0
+mode_confidence: 0.365
+release: An Anthology of Chinese Experimental Music 1992-2008
+release_7digitalid: 554837
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (795,)
+segments_loudness_max: shape = (795,)
+segments_loudness_max_time: shape = (795,)
+segments_loudness_start: shape = (795,)
+segments_pitches: shape = (795, 12)
+segments_start: shape = (795,)
+segments_timbre: shape = (795, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.313562114248
+song_id: SODNJFJ12AB0185841
+start_of_fade_out: 406.386
+tatums_confidence: shape = (1397,)
+tatums_start: shape = (1397,)
+tempo: 103.807
+time_signature: 4
+time_signature_confidence: 0.446
+title: Untitled
+track_7digitalid: 6135755
+track_id: TRADLZB128F933BB9B
+year: 0

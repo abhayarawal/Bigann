@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 14530
+artist_familiarity: 0.829135422075
+artist_hotttnesss: 0.558298348128
+artist_id: ARMBTFC1187FB56343
+artist_latitude: nan
+artist_location: Bakersfield, CA
+artist_longitude: nan
+artist_mbid: ac865b2e-bba8-4f5a-8756-dd40d5e39f46
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Korn
+artist_playmeid: 878
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 475ab117011b56a511b7f1e851cff4f4
+bars_confidence: shape = (252,)
+bars_start: shape = (252,)
+beats_confidence: shape = (759,)
+beats_start: shape = (759,)
+danceability: 0.0
+duration: 288.49587
+end_of_fade_in: 0.107
+energy: 0.0
+key: 10
+key_confidence: 0.439
+loudness: -5.912
+mode: 1
+mode_confidence: 0.383
+release: Untitled
+release_7digitalid: 282711
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (777,)
+segments_loudness_max: shape = (777,)
+segments_loudness_max_time: shape = (777,)
+segments_loudness_start: shape = (777,)
+segments_pitches: shape = (777, 12)
+segments_start: shape = (777,)
+segments_timbre: shape = (777, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVHRBI12A81C22E02
+start_of_fade_out: 276.95
+tatums_confidence: shape = (1519,)
+tatums_start: shape = (1519,)
+tempo: 160.022
+time_signature: 3
+time_signature_confidence: 0.719
+title: Ever Be
+track_7digitalid: 3150819
+track_id: TRAATNJ128F42631BA
+year: 2007

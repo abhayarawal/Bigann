@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 135117
+artist_familiarity: 0.561370907228
+artist_hotttnesss: 0.365533756198
+artist_id: ARN3O411187FB4D859
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a04ceabd-1f20-4d29-b579-24810ac2da88
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Stephan Micus
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: d3bd379c1417c1e5f831b1f21aa90109
+bars_confidence: shape = (318,)
+bars_start: shape = (318,)
+beats_confidence: shape = (1735,)
+beats_start: shape = (1735,)
+danceability: 0.0
+duration: 1204.29669
+end_of_fade_in: 7.262
+energy: 0.0
+key: 3
+key_confidence: 0.679
+loudness: -21.429
+mode: 0
+mode_confidence: 0.655
+release: Listen to the Rain
+release_7digitalid: 179927
+sections_confidence: shape = (47,)
+sections_start: shape = (47,)
+segments_confidence: shape = (2566,)
+segments_loudness_max: shape = (2566,)
+segments_loudness_max_time: shape = (2566,)
+segments_loudness_start: shape = (2566,)
+segments_pitches: shape = (2566, 12)
+segments_start: shape = (2566,)
+segments_timbre: shape = (2566, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.299877488274
+song_id: SOAZOFQ12A81C20B43
+start_of_fade_out: 1189.57
+tatums_confidence: shape = (3470,)
+tatums_start: shape = (3470,)
+tempo: 86.066
+time_signature: 5
+time_signature_confidence: 0.622
+title: For Abai and Togshan
+track_7digitalid: 1944859
+track_id: TRAXIQA128F422C8C7
+year: 0

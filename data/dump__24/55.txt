@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 60926
+artist_familiarity: 0.887867146306
+artist_hotttnesss: 0.596350337639
+artist_id: ARDQ9AP1187B9BA3F6
+artist_latitude: 42.31256
+artist_location: Boston, MA
+artist_longitude: -71.08868
+artist_mbid: 8295ee00-0096-461d-95c7-c2263d2a4c6d
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Killswitch Engage
+artist_playmeid: -1
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: d549298dda3366c36a2a1be8e4956458
+bars_confidence: shape = (145,)
+bars_start: shape = (145,)
+beats_confidence: shape = (438,)
+beats_start: shape = (438,)
+danceability: 0.0
+duration: 254.45832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.152
+loudness: -3.902
+mode: 1
+mode_confidence: 0.395
+release: Killswitch Engage [Special Edition]
+release_7digitalid: 502757
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (811,)
+segments_loudness_max: shape = (811,)
+segments_loudness_max_time: shape = (811,)
+segments_loudness_start: shape = (811,)
+segments_pitches: shape = (811, 12)
+segments_start: shape = (811,)
+segments_timbre: shape = (811, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.604788515719
+song_id: SOHGMJH12AB0187130
+start_of_fade_out: 233.291
+tatums_confidence: shape = (1751,)
+tatums_start: shape = (1751,)
+tempo: 104.939
+time_signature: 3
+time_signature_confidence: 1.0
+title: In A Dead World (Album Version)
+track_7digitalid: 5563268
+track_id: TRAIGNN128F9326AB4
+year: 0

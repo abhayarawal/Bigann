@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 70129
+artist_familiarity: 0.485792919341
+artist_hotttnesss: 0.332870566937
+artist_id: ARFZNR41187B990AF7
+artist_latitude: nan
+artist_location: Vance, MS
+artist_longitude: nan
+artist_mbid: 25854cde-8c11-477b-8242-a86de1a4a003
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sunnyland Slim
+artist_playmeid: 21253
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 738127c1c4a5ec3583383b7161ca83d9
+bars_confidence: shape = (205,)
+bars_start: shape = (205,)
+beats_confidence: shape = (619,)
+beats_start: shape = (619,)
+danceability: 0.0
+duration: 344.71138
+end_of_fade_in: 0.543
+energy: 0.0
+key: 7
+key_confidence: 0.179
+loudness: -14.165
+mode: 1
+mode_confidence: 0.242
+release: Chicago Blues Festival 1974 With Jimmy Dawkins
+release_7digitalid: 324688
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (1255,)
+segments_loudness_max: shape = (1255,)
+segments_loudness_max_time: shape = (1255,)
+segments_loudness_start: shape = (1255,)
+segments_pitches: shape = (1255, 12)
+segments_start: shape = (1255,)
+segments_timbre: shape = (1255, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTRCLJ12AB0182F40
+start_of_fade_out: 338.193
+tatums_confidence: shape = (1239,)
+tatums_start: shape = (1239,)
+tempo: 108.105
+time_signature: 3
+time_signature_confidence: 1.0
+title: No More Troubles
+track_7digitalid: 3656384
+track_id: TRAIPUM128F92DCC5E
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 52369
+artist_familiarity: 0.783458021053
+artist_hotttnesss: 0.589086799818
+artist_id: ARCE0H01187B9AF741
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: 3798b104-01cb-484c-a3b0-56adc6399b80
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Rage Against The Machine
+artist_playmeid: 1310
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: cf683c868c04fe49a0e42c23b46303bb
+bars_confidence: shape = (470,)
+bars_start: shape = (470,)
+beats_confidence: shape = (470,)
+beats_start: shape = (470,)
+danceability: 0.0
+duration: 201.56036
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.539
+loudness: -2.069
+mode: 1
+mode_confidence: 0.379
+release: Live at the Grand Olympic Auditorium
+release_7digitalid: 282493
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (539,)
+segments_loudness_max: shape = (539,)
+segments_loudness_max_time: shape = (539,)
+segments_loudness_start: shape = (539,)
+segments_pitches: shape = (539, 12)
+segments_start: shape = (539,)
+segments_timbre: shape = (539, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXZLDX12A58A7CE52
+start_of_fade_out: 201.56
+tatums_confidence: shape = (941,)
+tatums_start: shape = (941,)
+tempo: 140.63
+time_signature: 1
+time_signature_confidence: 0.0
+title: Kick Out The Jams
+track_7digitalid: 3162183
+track_id: TRAASKQ128F4265E04
+year: 2000

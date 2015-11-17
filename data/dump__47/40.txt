@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16824
+artist_familiarity: 0.747684075869
+artist_hotttnesss: 0.529995832899
+artist_id: ARHI20L1187FB4C997
+artist_latitude: 51.27172
+artist_location: Wallington, Surrey, England
+artist_longitude: -0.39535
+artist_mbid: 14a4bc78-1c2d-4ca7-8d1b-9b58076a2a17
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Jeff Beck
+artist_playmeid: 9244
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: ea5fdc9f829180333d7fb0cd8dc47ec8
+bars_confidence: shape = (86,)
+bars_start: shape = (86,)
+beats_confidence: shape = (350,)
+beats_start: shape = (350,)
+danceability: 0.0
+duration: 163.83955
+end_of_fade_in: 2.264
+energy: 0.0
+key: 9
+key_confidence: 0.766
+loudness: -8.951
+mode: 1
+mode_confidence: 0.702
+release: Original Album Classics
+release_7digitalid: 280787
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (728,)
+segments_loudness_max: shape = (728,)
+segments_loudness_max_time: shape = (728,)
+segments_loudness_start: shape = (728,)
+segments_pitches: shape = (728, 12)
+segments_start: shape = (728,)
+segments_timbre: shape = (728, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.737994182144
+song_id: SOPKWKW12A8C1312BC
+start_of_fade_out: 156.23
+tatums_confidence: shape = (700,)
+tatums_start: shape = (700,)
+tempo: 131.554
+time_signature: 4
+time_signature_confidence: 0.318
+title: Head For Backstage Pass
+track_7digitalid: 3134259
+track_id: TRAQDXL128F4260EB8
+year: 1976

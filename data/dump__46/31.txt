@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 39812
+artist_familiarity: 0.749711707474
+artist_hotttnesss: 0.452380503907
+artist_id: ARAOBIZ1187FB38574
+artist_latitude: nan
+artist_location: Beaumont, Texas
+artist_longitude: nan
+artist_mbid: 8300d0fa-d120-47f6-a84e-91f140c74767
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Johnny Winter
+artist_playmeid: 11671
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 37b8609c9086baf03c084b666fd6138b
+bars_confidence: shape = (174,)
+bars_start: shape = (174,)
+beats_confidence: shape = (538,)
+beats_start: shape = (538,)
+danceability: 0.0
+duration: 315.92444
+end_of_fade_in: 2.119
+energy: 0.0
+key: 7
+key_confidence: 0.308
+loudness: -10.381
+mode: 0
+mode_confidence: 0.305
+release: The Best Of Johnny Winter
+release_7digitalid: 286982
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1068,)
+segments_loudness_max: shape = (1068,)
+segments_loudness_max_time: shape = (1068,)
+segments_loudness_start: shape = (1068,)
+segments_pitches: shape = (1068, 12)
+segments_start: shape = (1068,)
+segments_timbre: shape = (1068, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGHYGL12A8C134B40
+start_of_fade_out: 311.693
+tatums_confidence: shape = (1076,)
+tatums_start: shape = (1076,)
+tempo: 103.377
+time_signature: 3
+time_signature_confidence: 1.0
+title: Be Careful With A Fool
+track_7digitalid: 3219171
+track_id: TRAPTRH128F4271659
+year: 1969

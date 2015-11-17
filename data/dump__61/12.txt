@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 284755
+artist_familiarity: 0.0386381099084
+artist_hotttnesss: 0.0
+artist_id: ARFAGIR1187B997EA1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ef61eb63-101d-4cad-8341-899d79c779b0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jeanie Lambe & The Danny Moss Quartet
+artist_playmeid: -1
+artist_terms: shape = (7,)
+artist_terms_freq: shape = (7,)
+artist_terms_weight: shape = (7,)
+audio_md5: dfa3ebfecd49867988bcd3836c77009a
+bars_confidence: shape = (48,)
+bars_start: shape = (48,)
+beats_confidence: shape = (231,)
+beats_start: shape = (231,)
+danceability: 0.0
+duration: 204.61669
+end_of_fade_in: 0.383
+energy: 0.0
+key: 10
+key_confidence: 0.559
+loudness: -15.096
+mode: 1
+mode_confidence: 0.625
+release: Three Great Concerts - Live In Hamburg 1993-1995
+release_7digitalid: 367892
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (519,)
+segments_loudness_max: shape = (519,)
+segments_loudness_max_time: shape = (519,)
+segments_loudness_start: shape = (519,)
+segments_pitches: shape = (519, 12)
+segments_start: shape = (519,)
+segments_timbre: shape = (519, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFLQOA12AB0182976
+start_of_fade_out: 198.676
+tatums_confidence: shape = (692,)
+tatums_start: shape = (692,)
+tempo: 67.6
+time_signature: 4
+time_signature_confidence: 0.75
+title: My Funny Valentine
+track_7digitalid: 4094491
+track_id: TRAUWIL128F9334C00
+year: 1996

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1015
+artist_familiarity: 0.655921417588
+artist_hotttnesss: 0.578301633597
+artist_id: AR9W3X91187FB3994C
+artist_latitude: nan
+artist_location: Chiswick, London, England
+artist_longitude: nan
+artist_mbid: 401c3991-b76b-499d-8082-9f2df958ef78
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Phil Collins
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: e4b60bedb76cc978bbb470236860d9f0
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (436,)
+beats_start: shape = (436,)
+danceability: 0.0
+duration: 216.92036
+end_of_fade_in: 0.2
+energy: 0.0
+key: 0
+key_confidence: 0.512
+loudness: -8.238
+mode: 1
+mode_confidence: 0.578
+release: Brother Bear Original Soundtrack (English Version)
+release_7digitalid: 653590
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (696,)
+segments_loudness_max: shape = (696,)
+segments_loudness_max_time: shape = (696,)
+segments_loudness_start: shape = (696,)
+segments_pitches: shape = (696, 12)
+segments_start: shape = (696,)
+segments_timbre: shape = (696, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.549342331788
+song_id: SOFMMKA12A58A7CBF5
+start_of_fade_out: 209.572
+tatums_confidence: shape = (872,)
+tatums_start: shape = (872,)
+tempo: 123.943
+time_signature: 4
+time_signature_confidence: 0.656
+title: Welcome
+track_7digitalid: 7241624
+track_id: TRAEVRI128F93608F3
+year: 2003

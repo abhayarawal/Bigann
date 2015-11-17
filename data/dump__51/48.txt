@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 60881
+artist_familiarity: 0.0512413958582
+artist_hotttnesss: 0.170592499483
+artist_id: ARGOAMH11F4C844C07
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Domna Kountouri
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 8a46ef22ed6130c5c9ef98ecb6601de9
+bars_confidence: shape = (84,)
+bars_start: shape = (84,)
+beats_confidence: shape = (340,)
+beats_start: shape = (340,)
+danceability: 0.0
+duration: 209.94567
+end_of_fade_in: 2.235
+energy: 0.0
+key: 3
+key_confidence: 0.902
+loudness: -8.318
+mode: 0
+mode_confidence: 0.67
+release: Paihnidi Isorropias
+release_7digitalid: 75698
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (870,)
+segments_loudness_max: shape = (870,)
+segments_loudness_max_time: shape = (870,)
+segments_loudness_start: shape = (870,)
+segments_pitches: shape = (870, 12)
+segments_start: shape = (870,)
+segments_timbre: shape = (870, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.299320441933
+song_id: SOPTAMD12A58A7CFF3
+start_of_fade_out: 204.481
+tatums_confidence: shape = (1363,)
+tatums_start: shape = (1363,)
+tempo: 99.98
+time_signature: 4
+time_signature_confidence: 0.687
+title: De Tha Mai Edo
+track_7digitalid: 784872
+track_id: TRAROCB128EF35098A
+year: 0

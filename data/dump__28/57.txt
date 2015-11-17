@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 123573
+artist_familiarity: 0.612657823643
+artist_hotttnesss: 0.457611173992
+artist_id: AROJAG11187B9B71A3
+artist_latitude: 51.50632
+artist_location: London
+artist_longitude: -0.12714
+artist_mbid: 87c2d990-d33a-496a-a6c4-0acdd240550c
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Chap
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: ca4ea5a85bb3a022d4a9bae1e10817ed
+bars_confidence: shape = (105,)
+bars_start: shape = (105,)
+beats_confidence: shape = (422,)
+beats_start: shape = (422,)
+danceability: 0.0
+duration: 213.89016
+end_of_fade_in: 0.938
+energy: 0.0
+key: 7
+key_confidence: 0.744
+loudness: -7.345
+mode: 0
+mode_confidence: 0.562
+release: Well Done Europe
+release_7digitalid: 776175
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (681,)
+segments_loudness_max: shape = (681,)
+segments_loudness_max_time: shape = (681,)
+segments_loudness_start: shape = (681,)
+segments_pitches: shape = (681, 12)
+segments_start: shape = (681,)
+segments_timbre: shape = (681, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.54800562052
+song_id: SOSBLBE12AC3DFB104
+start_of_fade_out: 208.434
+tatums_confidence: shape = (844,)
+tatums_start: shape = (844,)
+tempo: 120.188
+time_signature: 4
+time_signature_confidence: 0.02
+title: Gimme Legs
+track_7digitalid: 8587570
+track_id: TRAJPCX12903CE8ACB
+year: 2010

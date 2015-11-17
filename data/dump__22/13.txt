@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 97773
+artist_familiarity: 0.526077280017
+artist_hotttnesss: 0.374560252927
+artist_id: AR4MCB01187B98BF5C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: be4aed5d-28d5-423a-a229-cb812cbe0167
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Atman
+artist_playmeid: 75062
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: a0797c9b8f8e0d00b7c20eaeb3dc211f
+bars_confidence: shape = (99,)
+bars_start: shape = (99,)
+beats_confidence: shape = (397,)
+beats_start: shape = (397,)
+danceability: 0.0
+duration: 268.22485
+end_of_fade_in: 4.673
+energy: 0.0
+key: 1
+key_confidence: 0.664
+loudness: -11.783
+mode: 0
+mode_confidence: 0.592
+release: The Lonely Road
+release_7digitalid: 555390
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (891,)
+segments_loudness_max: shape = (891,)
+segments_loudness_max_time: shape = (891,)
+segments_loudness_start: shape = (891,)
+segments_pitches: shape = (891, 12)
+segments_start: shape = (891,)
+segments_timbre: shape = (891, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.379523324422
+song_id: SOLLQVT12A81C208EF
+start_of_fade_out: 261.433
+tatums_confidence: shape = (1590,)
+tatums_start: shape = (1590,)
+tempo: 91.007
+time_signature: 4
+time_signature_confidence: 1.0
+title: Distant Voices
+track_7digitalid: 6140572
+track_id: TRAHOBV128F933CE68
+year: 2002

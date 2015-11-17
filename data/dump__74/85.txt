@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19806
+artist_familiarity: 0.560411685629
+artist_hotttnesss: 0.341904573541
+artist_id: ARCLCFS1187B9AE476
+artist_latitude: -23.56287
+artist_location: Sao Paulo, Brazil
+artist_longitude: -46.65466
+artist_mbid: c23280a8-abc8-4435-ab44-43762ce0c89c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Laurindo Almeida / Charlie Byrd
+artist_playmeid: 31977
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: db0a7ea11c8a44f68440ced313dd4663
+bars_confidence: shape = (109,)
+bars_start: shape = (109,)
+beats_confidence: shape = (445,)
+beats_start: shape = (445,)
+danceability: 0.0
+duration: 232.6722
+end_of_fade_in: 0.2
+energy: 0.0
+key: 7
+key_confidence: 0.409
+loudness: -19.884
+mode: 0
+mode_confidence: 0.375
+release: Tango
+release_7digitalid: 452646
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (847,)
+segments_loudness_max: shape = (847,)
+segments_loudness_max_time: shape = (847,)
+segments_loudness_start: shape = (847,)
+segments_pitches: shape = (847, 12)
+segments_start: shape = (847,)
+segments_timbre: shape = (847, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLZJMM12AB0182830
+start_of_fade_out: 227.73
+tatums_confidence: shape = (890,)
+tatums_start: shape = (890,)
+tempo: 116.181
+time_signature: 4
+time_signature_confidence: 0.0
+title: Tanguero
+track_7digitalid: 5026121
+track_id: TRAZNTJ128F9311896
+year: 0

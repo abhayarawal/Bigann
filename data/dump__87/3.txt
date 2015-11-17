@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 422857
+artist_familiarity: 0.305494920063
+artist_hotttnesss: 0.244300509159
+artist_id: ARQCYDK122BCFCC606
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6e609e50-d6cb-4aaf-8f30-ce0cb2761a07
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Paris Musette
+artist_playmeid: -1
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: 5a0f4d4cc0a43c9263d109e65647f776
+bars_confidence: shape = (482,)
+bars_start: shape = (482,)
+beats_confidence: shape = (482,)
+beats_start: shape = (482,)
+danceability: 0.0
+duration: 132.07465
+end_of_fade_in: 0.212
+energy: 0.0
+key: 9
+key_confidence: 0.481
+loudness: -7.115
+mode: 0
+mode_confidence: 0.521
+release: Paris Musette_ vol. 1
+release_7digitalid: 732855
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (708,)
+segments_loudness_max: shape = (708,)
+segments_loudness_max_time: shape = (708,)
+segments_loudness_start: shape = (708,)
+segments_pitches: shape = (708, 12)
+segments_start: shape = (708,)
+segments_timbre: shape = (708, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOTBDLI12AC468A8AF
+start_of_fade_out: 129.289
+tatums_confidence: shape = (964,)
+tatums_start: shape = (964,)
+tempo: 222.916
+time_signature: 1
+time_signature_confidence: 0.0
+title: Passion
+track_7digitalid: 8117925
+track_id: TRBDWMK12903CED145
+year: 0

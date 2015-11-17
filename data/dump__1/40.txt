@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4549
+artist_familiarity: 0.830252261722
+artist_hotttnesss: 0.507965802159
+artist_id: ARYO9BU1187B9ADA88
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 169c4c28-858e-497b-81a4-8bc15e0026ea
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Porcupine Tree
+artist_playmeid: 9392
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 9cbac49e24c47caf9e821673101ebb67
+bars_confidence: shape = (169,)
+bars_start: shape = (169,)
+beats_confidence: shape = (847,)
+beats_start: shape = (847,)
+danceability: 0.0
+duration: 416.80934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.644
+loudness: -7.982
+mode: 0
+mode_confidence: 0.607
+release: Signify (Special Edition)
+release_7digitalid: 193554
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1441,)
+segments_loudness_max: shape = (1441,)
+segments_loudness_max_time: shape = (1441,)
+segments_loudness_start: shape = (1441,)
+segments_pitches: shape = (1441, 12)
+segments_start: shape = (1441,)
+segments_timbre: shape = (1441, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.825173540378
+song_id: SOJEVZW12A8C133988
+start_of_fade_out: 396.533
+tatums_confidence: shape = (2541,)
+tatums_start: shape = (2541,)
+tempo: 124.04
+time_signature: 5
+time_signature_confidence: 0.82
+title: Waiting
+track_7digitalid: 2104624
+track_id: TRAAKAS128F4246013
+year: 1997

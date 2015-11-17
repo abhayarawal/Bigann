@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5732
+artist_familiarity: 0.846455128229
+artist_hotttnesss: 0.787005468689
+artist_id: ARKSZW81187B9B695D
+artist_latitude: nan
+artist_location: Hunington, Long Island, NY
+artist_longitude: nan
+artist_mbid: 494e8d09-f85b-4543-892f-a5096aed1cd4
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Mariah Carey
+artist_playmeid: 1010
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 1d6646aa20920a0fa4f834dd83856143
+bars_confidence: shape = (130,)
+bars_start: shape = (130,)
+beats_confidence: shape = (526,)
+beats_start: shape = (526,)
+danceability: 0.0
+duration: 241.65832
+end_of_fade_in: 0.148
+energy: 0.0
+key: 3
+key_confidence: 0.034
+loudness: -9.635
+mode: 1
+mode_confidence: 0.312
+release: The Emancipation of Mimi
+release_7digitalid: 9859
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (769,)
+segments_loudness_max: shape = (769,)
+segments_loudness_max_time: shape = (769,)
+segments_loudness_start: shape = (769,)
+segments_pitches: shape = (769, 12)
+segments_start: shape = (769,)
+segments_timbre: shape = (769, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAIURX12A67020F3B
+start_of_fade_out: 228.27
+tatums_confidence: shape = (1051,)
+tatums_start: shape = (1051,)
+tempo: 131.761
+time_signature: 4
+time_signature_confidence: 0.554
+title: Mine Again
+track_7digitalid: 101238
+track_id: TRAISYO128E07888A6
+year: 2005

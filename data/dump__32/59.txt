@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7789
+artist_familiarity: 0.432074796015
+artist_hotttnesss: 0.299392787198
+artist_id: ARUBX2Y1187B99CD25
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f02e98c4-a0fa-4c02-ac0a-587f4319ac87
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tyrone Taylor
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 3f4b2373045c2ce0f7f96f3c71e20335
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (305,)
+beats_start: shape = (305,)
+danceability: 0.0
+duration: 224.65261
+end_of_fade_in: 0.345
+energy: 0.0
+key: 10
+key_confidence: 0.421
+loudness: -9.58
+mode: 0
+mode_confidence: 0.355
+release: Rock On
+release_7digitalid: 568482
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (735,)
+segments_loudness_max: shape = (735,)
+segments_loudness_max_time: shape = (735,)
+segments_loudness_start: shape = (735,)
+segments_pitches: shape = (735, 12)
+segments_start: shape = (735,)
+segments_timbre: shape = (735, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOJGLP12A58A78410
+start_of_fade_out: 215.922
+tatums_confidence: shape = (611,)
+tatums_start: shape = (611,)
+tempo: 81.936
+time_signature: 3
+time_signature_confidence: 1.0
+title: Midnight Hour
+track_7digitalid: 6294165
+track_id: TRALBKB12903C95C86
+year: 0

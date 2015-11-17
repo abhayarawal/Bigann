@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 195066
+artist_familiarity: 0.513832781032
+artist_hotttnesss: 0.387225176277
+artist_id: ARFRKCM1187B99A041
+artist_latitude: 35.33204
+artist_location: Shawnee OK
+artist_longitude: -96.92483
+artist_mbid: 19fcd521-998a-4ff3-85df-a2199001cd4c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jamie Richards
+artist_playmeid: 64114
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 6c4e9c7f25464b6b6746b0d2756c9525
+bars_confidence: shape = (123,)
+bars_start: shape = (123,)
+beats_confidence: shape = (498,)
+beats_start: shape = (498,)
+danceability: 0.0
+duration: 269.84444
+end_of_fade_in: 0.163
+energy: 0.0
+key: 10
+key_confidence: 0.852
+loudness: -7.183
+mode: 1
+mode_confidence: 0.754
+release: Drive
+release_7digitalid: 255683
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (830,)
+segments_loudness_max: shape = (830,)
+segments_loudness_max_time: shape = (830,)
+segments_loudness_start: shape = (830,)
+segments_pitches: shape = (830, 12)
+segments_start: shape = (830,)
+segments_timbre: shape = (830, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.407233014901
+song_id: SOFECOD12A8C1408F5
+start_of_fade_out: 258.177
+tatums_confidence: shape = (996,)
+tatums_start: shape = (996,)
+tempo: 115.079
+time_signature: 4
+time_signature_confidence: 1.0
+title: Turn It Up
+track_7digitalid: 2939851
+track_id: TRASJND128F427F993
+year: 0

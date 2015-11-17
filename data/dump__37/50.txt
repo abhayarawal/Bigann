@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 53443
+artist_familiarity: 0.329803210578
+artist_hotttnesss: 0.256562179758
+artist_id: ARTWNNQ1187B9A15BC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5b357db0-2ecd-42a4-afb8-0004aeec0cbf
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Glen Ricks
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 610c0d1fc585f2ef11024de65137d81d
+bars_confidence: shape = (76,)
+bars_start: shape = (76,)
+beats_confidence: shape = (308,)
+beats_start: shape = (308,)
+danceability: 0.0
+duration: 218.87955
+end_of_fade_in: 0.169
+energy: 0.0
+key: 4
+key_confidence: 0.0
+loudness: -11.442
+mode: 1
+mode_confidence: 0.0
+release: Fall In Love
+release_7digitalid: 463600
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (1004,)
+segments_loudness_max: shape = (1004,)
+segments_loudness_max_time: shape = (1004,)
+segments_loudness_start: shape = (1004,)
+segments_pitches: shape = (1004, 12)
+segments_start: shape = (1004,)
+segments_timbre: shape = (1004, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCQTHA12AB0181C33
+start_of_fade_out: 211.586
+tatums_confidence: shape = (1233,)
+tatums_start: shape = (1233,)
+tempo: 84.994
+time_signature: 4
+time_signature_confidence: 0.527
+title: Fall In Love
+track_7digitalid: 5159627
+track_id: TRAMSTR128F9331A3B
+year: 0

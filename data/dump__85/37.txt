@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 372
+artist_familiarity: 0.749217793049
+artist_hotttnesss: 0.544321914839
+artist_id: ARNHMFD1187FB3B3F6
+artist_latitude: 40.72023
+artist_location: Bayshore, Long Island, NY
+artist_longitude: -73.24922
+artist_mbid: a4dd0e77-83b8-4e92-89b7-effb0e47fd8c
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: LL Cool J / Amil
+artist_playmeid: 941
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 75b72400bf8a0389680c31681db51deb
+bars_confidence: shape = (176,)
+bars_start: shape = (176,)
+beats_confidence: shape = (708,)
+beats_start: shape = (708,)
+danceability: 0.0
+duration: 232.14975
+end_of_fade_in: 0.148
+energy: 0.0
+key: 10
+key_confidence: 0.47
+loudness: -3.952
+mode: 0
+mode_confidence: 0.497
+release: G.O.A.T
+release_7digitalid: 32915
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1097,)
+segments_loudness_max: shape = (1097,)
+segments_loudness_max_time: shape = (1097,)
+segments_loudness_start: shape = (1097,)
+segments_pitches: shape = (1097, 12)
+segments_start: shape = (1097,)
+segments_timbre: shape = (1097, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.345802233965
+song_id: SOASCHQ12A6D4F9091
+start_of_fade_out: 218.778
+tatums_confidence: shape = (1416,)
+tatums_start: shape = (1416,)
+tempo: 184.15
+time_signature: 4
+time_signature_confidence: 0.987
+title: Hello
+track_7digitalid: 354265
+track_id: TRBDIEV128F147097A
+year: 2000

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 189121
+artist_familiarity: 0.421209146573
+artist_hotttnesss: 0.294607892786
+artist_id: AR199MY1187B9B731E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 83f58e18-23d1-40df-818c-5d5d8c536df7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Madilu System
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 01035ee44555cf6205613cc39b56a0e0
+bars_confidence: shape = (242,)
+bars_start: shape = (242,)
+beats_confidence: shape = (971,)
+beats_start: shape = (971,)
+danceability: 0.0
+duration: 421.48526
+end_of_fade_in: 0.287
+energy: 0.0
+key: 2
+key_confidence: 0.633
+loudness: -13.256
+mode: 1
+mode_confidence: 0.826
+release: sans commentaire
+release_7digitalid: 244189
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1894,)
+segments_loudness_max: shape = (1894,)
+segments_loudness_max_time: shape = (1894,)
+segments_loudness_start: shape = (1894,)
+segments_pitches: shape = (1894, 12)
+segments_start: shape = (1894,)
+segments_timbre: shape = (1894, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJTAQZ12A8C1399A8
+start_of_fade_out: 407.893
+tatums_confidence: shape = (1943,)
+tatums_start: shape = (1943,)
+tempo: 140.08
+time_signature: 4
+time_signature_confidence: 0.268
+title: Autoroute
+track_7digitalid: 2856383
+track_id: TRASGKG128F426C7D3
+year: 0

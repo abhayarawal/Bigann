@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 516781
+artist_familiarity: 0.435889847088
+artist_hotttnesss: 0.268037839631
+artist_id: ARKPDBH1242077DEB1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Murskahumppa
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: e954c4944ce9e24cc12a5881c02b1867
+bars_confidence: shape = (152,)
+bars_start: shape = (152,)
+beats_confidence: shape = (152,)
+beats_start: shape = (152,)
+danceability: 0.0
+duration: 61.98812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.501
+loudness: -8.216
+mode: 1
+mode_confidence: 0.442
+release: Murskapunkkia
+release_7digitalid: 695158
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (160,)
+segments_loudness_max: shape = (160,)
+segments_loudness_max_time: shape = (160,)
+segments_loudness_start: shape = (160,)
+segments_pitches: shape = (160, 12)
+segments_start: shape = (160,)
+segments_timbre: shape = (160, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWIMLB12AC468D1F3
+start_of_fade_out: 61.988
+tatums_confidence: shape = (303,)
+tatums_start: shape = (303,)
+tempo: 148.57
+time_signature: 1
+time_signature_confidence: 0.0
+title: Mikä mun päässä nykii
+track_7digitalid: 7717121
+track_id: TRATVHH12903D02556
+year: 0

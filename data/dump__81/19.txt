@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12809
+artist_familiarity: 0.684894722924
+artist_hotttnesss: 0.511526435079
+artist_id: ARHPPJK1187B9AC897
+artist_latitude: nan
+artist_location: Glasgow, Scotland
+artist_longitude: nan
+artist_mbid: e6f8912b-7df9-4aae-b551-2cd03dc29588
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Teenage Fanclub
+artist_playmeid: 19870
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 26304c581394177a6dad4ff5c39e9d97
+bars_confidence: shape = (131,)
+bars_start: shape = (131,)
+beats_confidence: shape = (526,)
+beats_start: shape = (526,)
+danceability: 0.0
+duration: 274.70322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.577
+loudness: -15.838
+mode: 1
+mode_confidence: 0.471
+release: Bandwagonesque
+release_7digitalid: 289148
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (799,)
+segments_loudness_max: shape = (799,)
+segments_loudness_max_time: shape = (799,)
+segments_loudness_start: shape = (799,)
+segments_pitches: shape = (799, 12)
+segments_start: shape = (799,)
+segments_timbre: shape = (799, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.60524622897
+song_id: SOGOVUN12A8AE46B43
+start_of_fade_out: 266.315
+tatums_confidence: shape = (1052,)
+tatums_start: shape = (1052,)
+tempo: 116.239
+time_signature: 4
+time_signature_confidence: 0.408
+title: I Don't Know
+track_7digitalid: 3242124
+track_id: TRBBVBM128F4276D82
+year: 1991

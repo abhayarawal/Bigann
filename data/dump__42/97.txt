@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 189456
+artist_familiarity: 0.350392717211
+artist_hotttnesss: 0.293668766845
+artist_id: AR0BATO119B34038DB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8edec5c0-4bde-4df7-9a67-640b74568ccb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Dreamtree Project
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: efb06d7c5fedb07ab1f735db0a2621b5
+bars_confidence: shape = (442,)
+bars_start: shape = (442,)
+beats_confidence: shape = (1773,)
+beats_start: shape = (1773,)
+danceability: 0.0
+duration: 798.1971
+end_of_fade_in: 12.864
+energy: 0.0
+key: 0
+key_confidence: 0.243
+loudness: -16.183
+mode: 1
+mode_confidence: 0.392
+release: Jadur Madur
+release_7digitalid: 244863
+sections_confidence: shape = (29,)
+sections_start: shape = (29,)
+segments_confidence: shape = (3013,)
+segments_loudness_max: shape = (3013,)
+segments_loudness_max_time: shape = (3013,)
+segments_loudness_start: shape = (3013,)
+segments_pitches: shape = (3013, 12)
+segments_start: shape = (3013,)
+segments_timbre: shape = (3013, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.327753595418
+song_id: SOAREII12A8C1386EE
+start_of_fade_out: 786.471
+tatums_confidence: shape = (3546,)
+tatums_start: shape = (3546,)
+tempo: 134.291
+time_signature: 4
+time_signature_confidence: 0.417
+title: Bliss
+track_7digitalid: 2780780
+track_id: TRAOPVD128F425A989
+year: 2007

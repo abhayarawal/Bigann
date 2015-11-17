@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6606
+artist_familiarity: 0.475027800815
+artist_hotttnesss: 0.378413813554
+artist_id: ARMPIH61187FB44227
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ff0ecbbe-34b0-49c7-a36d-81a47700ac13
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Sun Yan-Zi
+artist_playmeid: 62275
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: c224076584e1ed5322cb55f664e8139b
+bars_confidence: shape = (155,)
+bars_start: shape = (155,)
+beats_confidence: shape = (470,)
+beats_start: shape = (470,)
+danceability: 0.0
+duration: 285.962
+end_of_fade_in: 4.836
+energy: 0.0
+key: 8
+key_confidence: 0.624
+loudness: -6.779
+mode: 1
+mode_confidence: 0.371
+release: Kite
+release_7digitalid: 9650
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (833,)
+segments_loudness_max: shape = (833,)
+segments_loudness_max_time: shape = (833,)
+segments_loudness_start: shape = (833,)
+segments_pitches: shape = (833, 12)
+segments_start: shape = (833,)
+segments_timbre: shape = (833, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKPWFH12A6702056E
+start_of_fade_out: 279.023
+tatums_confidence: shape = (940,)
+tatums_start: shape = (940,)
+tempo: 100.059
+time_signature: 3
+time_signature_confidence: 0.603
+title: Abscondence
+track_7digitalid: 99335
+track_id: TRATEMP128E0788535
+year: 2001

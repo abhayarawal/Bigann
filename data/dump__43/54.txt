@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 82238
+artist_familiarity: 0.810506205225
+artist_hotttnesss: 0.531157063062
+artist_id: ARYOPH81187B98AEED
+artist_latitude: 40.65507
+artist_location: Boston, Brooklyn USA
+artist_longitude: -73.94888
+artist_mbid: fa31e7d4-a03a-4110-98fc-f8826e95ec25
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Converge
+artist_playmeid: -1
+artist_terms: shape = (65,)
+artist_terms_freq: shape = (65,)
+artist_terms_weight: shape = (65,)
+audio_md5: d811b761fd6c54b0c0912bda7dcd1fd1
+bars_confidence: shape = (247,)
+bars_start: shape = (247,)
+beats_confidence: shape = (994,)
+beats_start: shape = (994,)
+danceability: 0.0
+duration: 407.03955
+end_of_fade_in: 0.228
+energy: 0.0
+key: 5
+key_confidence: 0.294
+loudness: -7.49
+mode: 0
+mode_confidence: 0.425
+release: Converge EP
+release_7digitalid: 276869
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (2649,)
+segments_loudness_max: shape = (2649,)
+segments_loudness_max_time: shape = (2649,)
+segments_loudness_start: shape = (2649,)
+segments_pitches: shape = (2649, 12)
+segments_start: shape = (2649,)
+segments_timbre: shape = (2649, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.28660595546
+song_id: SOJLDJL12A81C238A0
+start_of_fade_out: 398.785
+tatums_confidence: shape = (994,)
+tatums_start: shape = (994,)
+tempo: 152.775
+time_signature: 4
+time_signature_confidence: 1.0
+title: Deep Inside
+track_7digitalid: 3085900
+track_id: TRAOWHF128F4255384
+year: 0

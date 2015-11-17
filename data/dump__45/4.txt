@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8293
+artist_familiarity: 0.839275392927
+artist_hotttnesss: 0.521843187008
+artist_id: AR6XPWV1187B9ADAEB
+artist_latitude: nan
+artist_location: Seattle, WA
+artist_longitude: nan
+artist_mbid: 67f66c07-6e61-4026-ade5-7e782fad3a5d
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Foo Fighters
+artist_playmeid: 631
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 2a8f1b8509cd67f5caf5a443725a5671
+bars_confidence: shape = (141,)
+bars_start: shape = (141,)
+beats_confidence: shape = (573,)
+beats_start: shape = (573,)
+danceability: 0.0
+duration: 313.10322
+end_of_fade_in: 3.338
+energy: 0.0
+key: 5
+key_confidence: 0.216
+loudness: -12.584
+mode: 1
+mode_confidence: 0.523
+release: In Your Honour
+release_7digitalid: 305795
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1010,)
+segments_loudness_max: shape = (1010,)
+segments_loudness_max_time: shape = (1010,)
+segments_loudness_start: shape = (1010,)
+segments_pitches: shape = (1010, 12)
+segments_start: shape = (1010,)
+segments_timbre: shape = (1010, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.686941709202
+song_id: SOAOOXO12AF72A787F
+start_of_fade_out: 293.645
+tatums_confidence: shape = (1146,)
+tatums_start: shape = (1146,)
+tempo: 110.742
+time_signature: 4
+time_signature_confidence: 0.693
+title: Still
+track_7digitalid: 3456774
+track_id: TRAPJFL128F42AA7B4
+year: 2005

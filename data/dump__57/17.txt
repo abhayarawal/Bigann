@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 370173
+artist_familiarity: 0.268210004648
+artist_hotttnesss: 0.366502174186
+artist_id: ARMTTWG11F4C83E6AE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mohammad Nouri
+artist_playmeid: -1
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: 50d2619ba14ec9d0a9196598bf747283
+bars_confidence: shape = (189,)
+bars_start: shape = (189,)
+beats_confidence: shape = (761,)
+beats_start: shape = (761,)
+danceability: 0.0
+duration: 273.94567
+end_of_fade_in: 2.055
+energy: 0.0
+key: 4
+key_confidence: 0.546
+loudness: -15.689
+mode: 1
+mode_confidence: 0.552
+release: Jaane Maryam - Persian Music
+release_7digitalid: 562622
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (719,)
+segments_loudness_max: shape = (719,)
+segments_loudness_max_time: shape = (719,)
+segments_loudness_start: shape = (719,)
+segments_pitches: shape = (719, 12)
+segments_start: shape = (719,)
+segments_timbre: shape = (719, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOGZTT12AB018A256
+start_of_fade_out: 269.334
+tatums_confidence: shape = (761,)
+tatums_start: shape = (761,)
+tempo: 168.527
+time_signature: 4
+time_signature_confidence: 1.0
+title: Nastaran
+track_7digitalid: 6227345
+track_id: TRATMNB128F93520D4
+year: 0

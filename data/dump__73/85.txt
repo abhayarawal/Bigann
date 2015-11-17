@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 180751
+artist_familiarity: 0.323008990953
+artist_hotttnesss: 0.311437640327
+artist_id: AREWQSE1187B9AEC6C
+artist_latitude: 32.58507
+artist_location: Mississippi
+artist_longitude: -89.87374
+artist_mbid: 4f91f760-85f6-4603-9b60-15789000e256
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Jackson Southernaires
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 4bc04ba42b068a693789bd267c21d983
+bars_confidence: shape = (159,)
+bars_start: shape = (159,)
+beats_confidence: shape = (640,)
+beats_start: shape = (640,)
+danceability: 0.0
+duration: 273.68444
+end_of_fade_in: 0.34
+energy: 0.0
+key: 5
+key_confidence: 0.215
+loudness: -7.926
+mode: 0
+mode_confidence: 0.34
+release: The Word In Song
+release_7digitalid: 598764
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1108,)
+segments_loudness_max: shape = (1108,)
+segments_loudness_max_time: shape = (1108,)
+segments_loudness_start: shape = (1108,)
+segments_pitches: shape = (1108, 12)
+segments_start: shape = (1108,)
+segments_timbre: shape = (1108, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUYBZV12AC468E677
+start_of_fade_out: 265.259
+tatums_confidence: shape = (1281,)
+tatums_start: shape = (1281,)
+tempo: 142.523
+time_signature: 4
+time_signature_confidence: 0.252
+title: Show Some Sign
+track_7digitalid: 6643545
+track_id: TRAZFJL12903CEA19A
+year: 0

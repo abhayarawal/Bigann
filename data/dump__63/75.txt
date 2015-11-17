@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2728
+artist_familiarity: 0.40743039975
+artist_hotttnesss: 0.318536029936
+artist_id: ARI2JSK1187FB496EF
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: 32111fcd-2338-472a-892b-4b329549e3ba
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Nick Ingman
+artist_playmeid: 20077
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 8444c213364feeeb21070ea66ea294e6
+bars_confidence: shape = (69,)
+bars_start: shape = (69,)
+beats_confidence: shape = (281,)
+beats_start: shape = (281,)
+danceability: 0.0
+duration: 179.43465
+end_of_fade_in: 0.149
+energy: 0.0
+key: 11
+key_confidence: 0.151
+loudness: -9.146
+mode: 1
+mode_confidence: 0.176
+release: Bite Harder: The Music De Wolfe Studio Sampler_ Vol. 2
+release_7digitalid: 585454
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (692,)
+segments_loudness_max: shape = (692,)
+segments_loudness_max_time: shape = (692,)
+segments_loudness_start: shape = (692,)
+segments_pitches: shape = (692, 12)
+segments_start: shape = (692,)
+segments_timbre: shape = (692, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.319565986883
+song_id: SORSGFJ12AB0189573
+start_of_fade_out: 171.381
+tatums_confidence: shape = (562,)
+tatums_start: shape = (562,)
+tempo: 97.571
+time_signature: 4
+time_signature_confidence: 0.985
+title: Down Home
+track_7digitalid: 6492792
+track_id: TRAVVOP12903CC5771
+year: 1973

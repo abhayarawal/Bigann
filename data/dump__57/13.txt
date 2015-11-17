@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7037
+artist_familiarity: 0.804838888827
+artist_hotttnesss: 0.457841156094
+artist_id: AR0CANF1187B9AF35F
+artist_latitude: 34.05349
+artist_location: Los Angeles, California
+artist_longitude: -118.24532
+artist_mbid: c71abd83-9d66-4c7b-9f0d-c9c36e85a955
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Dilated Peoples Featuring Capleton
+artist_playmeid: 457
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 65f63b85a31d6b88e448b6fe22221351
+bars_confidence: shape = (202,)
+bars_start: shape = (202,)
+beats_confidence: shape = (810,)
+beats_start: shape = (810,)
+danceability: 0.0
+duration: 311.06567
+end_of_fade_in: 0.142
+energy: 0.0
+key: 2
+key_confidence: 0.126
+loudness: -4.08
+mode: 1
+mode_confidence: 0.221
+release: 20/20
+release_7digitalid: 29744
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1447,)
+segments_loudness_max: shape = (1447,)
+segments_loudness_max_time: shape = (1447,)
+segments_loudness_start: shape = (1447,)
+segments_pitches: shape = (1447, 12)
+segments_start: shape = (1447,)
+segments_timbre: shape = (1447, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.540009276927
+song_id: SOLXXRJ12A6D4F7260
+start_of_fade_out: 300.617
+tatums_confidence: shape = (1619,)
+tatums_start: shape = (1619,)
+tempo: 158.327
+time_signature: 4
+time_signature_confidence: 1.0
+title: Firepower (The Tables Have to Turn) (Explicit) (Feat. Capleton)
+track_7digitalid: 327263
+track_id: TRATMBK128F146BB52
+year: 2006

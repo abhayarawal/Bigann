@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 292022
+artist_familiarity: 0.321975099252
+artist_hotttnesss: 0.244532205339
+artist_id: ARYKFVV1187FB3CA6B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 58ac1e03-72cc-456e-8275-35745f56a0e3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The London Pops Orchestra
+artist_playmeid: 57616
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 5a7b628008a2858aaee65c14810689a4
+bars_confidence: shape = (45,)
+bars_start: shape = (45,)
+beats_confidence: shape = (227,)
+beats_start: shape = (227,)
+danceability: 0.0
+duration: 204.2771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.835
+loudness: -16.755
+mode: 1
+mode_confidence: 0.685
+release: Award-Winning Movie Themes : The 50's
+release_7digitalid: 378998
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (559,)
+segments_loudness_max: shape = (559,)
+segments_loudness_max_time: shape = (559,)
+segments_loudness_start: shape = (559,)
+segments_pitches: shape = (559, 12)
+segments_start: shape = (559,)
+segments_timbre: shape = (559, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMKNJK12A8C145989
+start_of_fade_out: 190.392
+tatums_confidence: shape = (908,)
+tatums_start: shape = (908,)
+tempo: 67.6
+time_signature: 4
+time_signature_confidence: 0.608
+title: Smile
+track_7digitalid: 4217894
+track_id: TRANKFC128F92D8CB9
+year: 0

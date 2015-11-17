@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 72396
+artist_familiarity: 0.45871208976
+artist_hotttnesss: 0.335101424872
+artist_id: ARXFQDY1187B9AAF1E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f0226ffb-5d61-43f7-b77f-59131f89fba0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Miguel Gallardo
+artist_playmeid: 15333
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 31f9d21eb8cce9f84ea4cfe3f964ca13
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (405,)
+beats_start: shape = (405,)
+danceability: 0.0
+duration: 227.60444
+end_of_fade_in: 0.394
+energy: 0.0
+key: 10
+key_confidence: 0.522
+loudness: -10.369
+mode: 1
+mode_confidence: 0.442
+release: Canciones De Amor De Miguel Gallardo
+release_7digitalid: 514801
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (707,)
+segments_loudness_max: shape = (707,)
+segments_loudness_max_time: shape = (707,)
+segments_loudness_start: shape = (707,)
+segments_pitches: shape = (707, 12)
+segments_start: shape = (707,)
+segments_timbre: shape = (707, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOHCGGR12A58A78585
+start_of_fade_out: 207.128
+tatums_confidence: shape = (1214,)
+tatums_start: shape = (1214,)
+tempo: 108.789
+time_signature: 4
+time_signature_confidence: 0.364
+title: Dedicado
+track_7digitalid: 5700878
+track_id: TRANINJ128F93480C6
+year: 0

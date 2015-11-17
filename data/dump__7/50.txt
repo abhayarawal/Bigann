@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 54273
+artist_familiarity: 0.847754656073
+artist_hotttnesss: 0.494206855302
+artist_id: ARJBWQI1187B9B17D1
+artist_latitude: nan
+artist_location: Orlando, FL
+artist_longitude: nan
+artist_mbid: 1f5ff245-2837-4d4a-a609-e93e544478c3
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Trivium
+artist_playmeid: 5414
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: bb9787fea878895147b476ae432e4cc6
+bars_confidence: shape = (132,)
+bars_start: shape = (132,)
+beats_confidence: shape = (532,)
+beats_start: shape = (532,)
+danceability: 0.0
+duration: 321.17506
+end_of_fade_in: 0.125
+energy: 0.0
+key: 4
+key_confidence: 0.597
+loudness: -3.973
+mode: 0
+mode_confidence: 0.497
+release: Shogun
+release_7digitalid: 317615
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1159,)
+segments_loudness_max: shape = (1159,)
+segments_loudness_max_time: shape = (1159,)
+segments_loudness_start: shape = (1159,)
+segments_pitches: shape = (1159, 12)
+segments_start: shape = (1159,)
+segments_timbre: shape = (1159, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.474054830931
+song_id: SOIWZZD12A8C14505C
+start_of_fade_out: 313.295
+tatums_confidence: shape = (2125,)
+tatums_start: shape = (2125,)
+tempo: 100.604
+time_signature: 4
+time_signature_confidence: 0.448
+title: Upon The Shores [Explicit]
+track_7digitalid: 3588127
+track_id: TRACMCG128F92CE225
+year: 2008

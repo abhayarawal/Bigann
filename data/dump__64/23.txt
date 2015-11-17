@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 93561
+artist_familiarity: 0.625157654058
+artist_hotttnesss: 0.35975724385
+artist_id: AREHMUC1187B98B91B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: eed40f68-fb41-41c9-81f4-df9db9968146
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Java
+artist_playmeid: 30570
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 4ec8e348e08ac708c8848f7d3033c6a8
+bars_confidence: shape = (151,)
+bars_start: shape = (151,)
+beats_confidence: shape = (1069,)
+beats_start: shape = (1069,)
+danceability: 0.0
+duration: 361.1424
+end_of_fade_in: 11.128
+energy: 0.0
+key: 5
+key_confidence: 0.422
+loudness: -11.619
+mode: 1
+mode_confidence: 0.35
+release: Java Sur Seine
+release_7digitalid: 332618
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1312,)
+segments_loudness_max: shape = (1312,)
+segments_loudness_max_time: shape = (1312,)
+segments_loudness_start: shape = (1312,)
+segments_pitches: shape = (1312, 12)
+segments_start: shape = (1312,)
+segments_timbre: shape = (1312, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKNWHQ12AB017CC6C
+start_of_fade_out: 358.975
+tatums_confidence: shape = (2137,)
+tatums_start: shape = (2137,)
+tempo: 178.343
+time_signature: 7
+time_signature_confidence: 0.587
+title: Hawaï
+track_7digitalid: 3728349
+track_id: TRAWABF128F92EC63A
+year: 0

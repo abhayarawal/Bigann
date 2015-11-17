@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 510232
+artist_familiarity: 0.293889991566
+artist_hotttnesss: 0.0
+artist_id: ARUCJQF1187B9A0A57
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b40ad2e7-ab1e-4652-9f37-122842dd3ca2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Hollywood Bowl Orchestra / John Mauceri
+artist_playmeid: -1
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 2b6cb4a95446201b9f5b0e2674658d1b
+bars_confidence: shape = (63,)
+bars_start: shape = (63,)
+beats_confidence: shape = (258,)
+beats_start: shape = (258,)
+danceability: 0.0
+duration: 147.64363
+end_of_fade_in: 0.308
+energy: 0.0
+key: 3
+key_confidence: 0.747
+loudness: -19.76
+mode: 1
+mode_confidence: 0.797
+release: The Very Best of Relaxing Classics
+release_7digitalid: 351182
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (207,)
+segments_loudness_max: shape = (207,)
+segments_loudness_max_time: shape = (207,)
+segments_loudness_start: shape = (207,)
+segments_pitches: shape = (207, 12)
+segments_start: shape = (207,)
+segments_timbre: shape = (207, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SONGJCH12A8C140C32
+start_of_fade_out: 132.093
+tatums_confidence: shape = (515,)
+tatums_start: shape = (515,)
+tempo: 111.267
+time_signature: 4
+time_signature_confidence: 0.659
+title: John Dunbar Theme [Dances with Wolves]
+track_7digitalid: 3924982
+track_id: TRAEUYY128F9311B94
+year: 0

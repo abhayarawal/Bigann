@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 311898
+artist_familiarity: 0.566661657956
+artist_hotttnesss: 0.418356680774
+artist_id: ARGE4J31187B9B41EE
+artist_latitude: 62.19845
+artist_location: Sweden
+artist_longitude: 17.55142
+artist_mbid: 1ade81bb-18b9-4060-81d9-9a2bfe342c7c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sofia Karlsson
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 218eee2e1c43d78c657edc89bfadd0df
+bars_confidence: shape = (110,)
+bars_start: shape = (110,)
+beats_confidence: shape = (581,)
+beats_start: shape = (581,)
+danceability: 0.0
+duration: 340.21832
+end_of_fade_in: 0.604
+energy: 0.0
+key: 0
+key_confidence: 0.954
+loudness: -14.863
+mode: 1
+mode_confidence: 0.845
+release: Folk Songs
+release_7digitalid: 647745
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (843,)
+segments_loudness_max: shape = (843,)
+segments_loudness_max_time: shape = (843,)
+segments_loudness_start: shape = (843,)
+segments_pitches: shape = (843, 12)
+segments_start: shape = (843,)
+segments_timbre: shape = (843, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVCPGK12AB01894AB
+start_of_fade_out: 329.195
+tatums_confidence: shape = (581,)
+tatums_start: shape = (581,)
+tempo: 101.897
+time_signature: 5
+time_signature_confidence: 0.799
+title: I denna ljuva sommartid
+track_7digitalid: 7175486
+track_id: TRAIVWA128F93506E8
+year: 2002

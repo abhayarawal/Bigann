@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7163
+artist_familiarity: 0.686811616813
+artist_hotttnesss: 0.443875676344
+artist_id: AR3TG3X1187FB4D577
+artist_latitude: 52.51607
+artist_location: Berlin, Germany
+artist_longitude: 13.37698
+artist_mbid: fe404dd9-09b2-4ac8-a0e5-8da1c4027061
+artist_mbtags: shape = (13,)
+artist_mbtags_count: shape = (13,)
+artist_name: Atari Teenage Riot
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 0a6dbf51c85a4ccfe2bddae5a0c3f61d
+bars_confidence: shape = (211,)
+bars_start: shape = (211,)
+beats_confidence: shape = (2000,)
+beats_start: shape = (2000,)
+danceability: 0.0
+duration: 1598.1971
+end_of_fade_in: 1.03
+energy: 0.0
+key: 10
+key_confidence: 0.152
+loudness: -7.638
+mode: 1
+mode_confidence: 0.0
+release: Live at Brixton Academy 1999
+release_7digitalid: 505465
+sections_confidence: shape = (53,)
+sections_start: shape = (53,)
+segments_confidence: shape = (1789,)
+segments_loudness_max: shape = (1789,)
+segments_loudness_max_time: shape = (1789,)
+segments_loudness_start: shape = (1789,)
+segments_pitches: shape = (1789, 12)
+segments_start: shape = (1789,)
+segments_timbre: shape = (1789, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.392008771471
+song_id: SOIQQIX12AB018827D
+start_of_fade_out: 1588.216
+tatums_confidence: shape = (6001,)
+tatums_start: shape = (6001,)
+tempo: 74.384
+time_signature: 7
+time_signature_confidence: 0.825
+title: Live At Brixton Academy 1999
+track_7digitalid: 5592725
+track_id: TRAFLYL128F932DB93
+year: 2000

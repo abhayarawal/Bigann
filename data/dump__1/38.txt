@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 257551
+artist_familiarity: 0.406187449275
+artist_hotttnesss: 0.273453727253
+artist_id: ARIOSKN1257509BCE1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fd3dcf38-ac5a-44eb-b8dc-01846f415adc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cama
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 69beeeb3730422df40e37c82c33a4bf1
+bars_confidence: shape = (525,)
+bars_start: shape = (525,)
+beats_confidence: shape = (525,)
+beats_start: shape = (525,)
+danceability: 0.0
+duration: 210.36363
+end_of_fade_in: 0.364
+energy: 0.0
+key: 1
+key_confidence: 0.645
+loudness: -5.904
+mode: 0
+mode_confidence: 0.683
+release: In this Life
+release_7digitalid: 329135
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (786,)
+segments_loudness_max: shape = (786,)
+segments_loudness_max_time: shape = (786,)
+segments_loudness_start: shape = (786,)
+segments_pitches: shape = (786, 12)
+segments_start: shape = (786,)
+segments_timbre: shape = (786, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBUWPY12A8C1446C0
+start_of_fade_out: 201.497
+tatums_confidence: shape = (1051,)
+tatums_start: shape = (1051,)
+tempo: 155.074
+time_signature: 1
+time_signature_confidence: 0.0
+title: In This Life
+track_7digitalid: 3700216
+track_id: TRAAJXQ128F92E65BF
+year: 2009

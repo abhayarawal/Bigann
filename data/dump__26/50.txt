@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 170603
+artist_familiarity: 0.497083115686
+artist_hotttnesss: 0.390051795133
+artist_id: ARW644S1187B9B4924
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a894a12a-5cc9-4660-90a0-9d5af65e6e6c
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Sigmatropic
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 0acb3a13e2da41d9e09114e504173745
+bars_confidence: shape = (137,)
+bars_start: shape = (137,)
+beats_confidence: shape = (552,)
+beats_start: shape = (552,)
+danceability: 0.0
+duration: 263.57506
+end_of_fade_in: 4.743
+energy: 0.0
+key: 1
+key_confidence: 0.438
+loudness: -8.511
+mode: 1
+mode_confidence: 0.37
+release: Dark Outside
+release_7digitalid: 223721
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1068,)
+segments_loudness_max: shape = (1068,)
+segments_loudness_max_time: shape = (1068,)
+segments_loudness_start: shape = (1068,)
+segments_pitches: shape = (1068, 12)
+segments_start: shape = (1068,)
+segments_timbre: shape = (1068, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.253834736132
+song_id: SOKCIOZ12A8C13F625
+start_of_fade_out: 252.401
+tatums_confidence: shape = (1104,)
+tatums_start: shape = (1104,)
+tempo: 128.006
+time_signature: 4
+time_signature_confidence: 0.0
+title: The Blue Side of The Sun
+track_7digitalid: 2445041
+track_id: TRAIWNK128F429245D
+year: 2007

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 200430
+artist_familiarity: 0.448892805032
+artist_hotttnesss: 0.373862970558
+artist_id: ARKJKVO1187FB49D0A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ca4696e3-308b-49d1-98b2-e3f917e8bd3b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Michèle Bernard
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 83b09c831a6e32f279f7bce09febe1ae
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (320,)
+beats_start: shape = (320,)
+danceability: 0.0
+duration: 232.38485
+end_of_fade_in: 0.224
+energy: 0.0
+key: 2
+key_confidence: 0.061
+loudness: -12.838
+mode: 0
+mode_confidence: 0.204
+release: Mes premiers vinyls
+release_7digitalid: 777840
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (701,)
+segments_loudness_max: shape = (701,)
+segments_loudness_max_time: shape = (701,)
+segments_loudness_start: shape = (701,)
+segments_pitches: shape = (701, 12)
+segments_start: shape = (701,)
+segments_timbre: shape = (701, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBVPZG12AC46862C6
+start_of_fade_out: 219.225
+tatums_confidence: shape = (640,)
+tatums_start: shape = (640,)
+tempo: 83.116
+time_signature: 4
+time_signature_confidence: 0.805
+title: Le bar du grand désir
+track_7digitalid: 8609953
+track_id: TRAIARL12903CEE20A
+year: 2002

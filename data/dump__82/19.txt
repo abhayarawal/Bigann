@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 190211
+artist_familiarity: 0.0282370619201
+artist_hotttnesss: 0.226131073262
+artist_id: ARV7J871187FB4F8B6
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5996799e-8cfd-4183-b46e-7d3117adb5e7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Patrizia Pace/Waltraud Meier/Frank Lopardo/James Morris/Swedish Radio Choir/Stockholm Chamber Choir/Berliner Philharmoniker/Riccardo Muti
+artist_playmeid: 216165
+artist_terms: shape = (9,)
+artist_terms_freq: shape = (9,)
+artist_terms_weight: shape = (9,)
+audio_md5: f944a93e1bc0d76402ed6f75676be86e
+bars_confidence: shape = (127,)
+bars_start: shape = (127,)
+beats_confidence: shape = (127,)
+beats_start: shape = (127,)
+danceability: 0.0
+duration: 212.4273
+end_of_fade_in: 0.554
+energy: 0.0
+key: 2
+key_confidence: 0.395
+loudness: -20.274
+mode: 0
+mode_confidence: 0.605
+release: Mozart - Sacred Choral Works
+release_7digitalid: 151162
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (379,)
+segments_loudness_max: shape = (379,)
+segments_loudness_max_time: shape = (379,)
+segments_loudness_start: shape = (379,)
+segments_pitches: shape = (379, 12)
+segments_start: shape = (379,)
+segments_timbre: shape = (379, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPBKDI12A8C137D8F
+start_of_fade_out: 204.045
+tatums_confidence: shape = (257,)
+tatums_start: shape = (257,)
+tempo: 37.42
+time_signature: 1
+time_signature_confidence: 0.0
+title: Mass No. 19 in D minor_ 'Requiem' K626: Lacrimosa
+track_7digitalid: 1579345
+track_id: TRBCEDT128F4260EC5
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 153144
+artist_familiarity: 0.447009090587
+artist_hotttnesss: 0.389314396561
+artist_id: ARYN80Y1187FB49F36
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d31dbfe5-3272-4b2e-bcca-86577b87f6c6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Rongetz Foundation
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: d2af113ae480d300fe9319b17bd513b2
+bars_confidence: shape = (229,)
+bars_start: shape = (229,)
+beats_confidence: shape = (705,)
+beats_start: shape = (705,)
+danceability: 0.0
+duration: 456.64608
+end_of_fade_in: 0.299
+energy: 0.0
+key: 1
+key_confidence: 0.044
+loudness: -8.977
+mode: 1
+mode_confidence: 0.343
+release: One leg dancer
+release_7digitalid: 209798
+sections_confidence: shape = (24,)
+sections_start: shape = (24,)
+segments_confidence: shape = (1878,)
+segments_loudness_max: shape = (1878,)
+segments_loudness_max_time: shape = (1878,)
+segments_loudness_start: shape = (1878,)
+segments_pitches: shape = (1878, 12)
+segments_start: shape = (1878,)
+segments_timbre: shape = (1878, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOUVSFU12A8C139963
+start_of_fade_out: 447.692
+tatums_confidence: shape = (2114,)
+tatums_start: shape = (2114,)
+tempo: 91.417
+time_signature: 3
+time_signature_confidence: 1.0
+title: NY Timbuctu
+track_7digitalid: 2277082
+track_id: TRAKBPT128F426E3A5
+year: 0

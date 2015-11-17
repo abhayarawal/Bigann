@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5633
+artist_familiarity: 0.764287182498
+artist_hotttnesss: 0.57629465114
+artist_id: ARKZXSQ1187B9AC9F3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9a58fda3-f4ed-4080-a3a5-f457aac9fcdd
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Joy Division
+artist_playmeid: 831
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 766a47af9e2042f6635cc1d687c4eedf
+bars_confidence: shape = (147,)
+bars_start: shape = (147,)
+beats_confidence: shape = (592,)
+beats_start: shape = (592,)
+danceability: 0.0
+duration: 229.69424
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.749
+loudness: -6.525
+mode: 0
+mode_confidence: 0.611
+release: Unknown Pleasures [Collector's Edition]
+release_7digitalid: 163988
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (463,)
+segments_loudness_max: shape = (463,)
+segments_loudness_max_time: shape = (463,)
+segments_loudness_start: shape = (463,)
+segments_pitches: shape = (463, 12)
+segments_start: shape = (463,)
+segments_timbre: shape = (463, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.365143804145
+song_id: SOWJPNZ12A8C13AE3D
+start_of_fade_out: 223.086
+tatums_confidence: shape = (1183,)
+tatums_start: shape = (1183,)
+tempo: 157.103
+time_signature: 4
+time_signature_confidence: 0.791
+title: Transmission - [The Factory_ Manchester Live 11 April 1980]
+track_7digitalid: 1737785
+track_id: TRAQVUG128F4286DE3
+year: 0

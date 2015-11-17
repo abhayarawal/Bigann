@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7040
+artist_familiarity: 0.652860465746
+artist_hotttnesss: 0.383557469777
+artist_id: ARR2BHS1187B9B8FA7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e842abf7-8a63-4602-8879-75958c2884a1
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Minnie Riperton
+artist_playmeid: 12715
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: c18850c1631fb49feda02c66a662604d
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (383,)
+beats_start: shape = (383,)
+danceability: 0.0
+duration: 212.13995
+end_of_fade_in: 0.154
+energy: 0.0
+key: 10
+key_confidence: 0.417
+loudness: -11.799
+mode: 0
+mode_confidence: 0.327
+release: Les Fleurs & Other Favorites (Digitally Remastered)
+release_7digitalid: 572106
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (697,)
+segments_loudness_max: shape = (697,)
+segments_loudness_max_time: shape = (697,)
+segments_loudness_start: shape = (697,)
+segments_pitches: shape = (697, 12)
+segments_start: shape = (697,)
+segments_timbre: shape = (697, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUHNOH12AB01889AF
+start_of_fade_out: 198.943
+tatums_confidence: shape = (765,)
+tatums_start: shape = (765,)
+tempo: 109.474
+time_signature: 4
+time_signature_confidence: 0.794
+title: Completeness
+track_7digitalid: 6339631
+track_id: TRBDOMM12903CA0A9B
+year: 1970

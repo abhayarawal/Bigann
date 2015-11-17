@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3203
+artist_familiarity: 0.47013482989
+artist_hotttnesss: 0.320517790932
+artist_id: AR7SMBG1187B9B9066
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2b671f8e-5660-400d-99b2-fe4de44d647a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Los Manolos
+artist_playmeid: 29911
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 68a00843a7870761f7232dc1bf105a6a
+bars_confidence: shape = (105,)
+bars_start: shape = (105,)
+beats_confidence: shape = (424,)
+beats_start: shape = (424,)
+danceability: 0.0
+duration: 218.38322
+end_of_fade_in: 0.199
+energy: 0.0
+key: 7
+key_confidence: 0.403
+loudness: -4.37
+mode: 0
+mode_confidence: 0.479
+release: Rumbas Sin Fronte Ras
+release_7digitalid: 300163
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1253,)
+segments_loudness_max: shape = (1253,)
+segments_loudness_max_time: shape = (1253,)
+segments_loudness_start: shape = (1253,)
+segments_pitches: shape = (1253, 12)
+segments_start: shape = (1253,)
+segments_timbre: shape = (1253, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.400443466244
+song_id: SOBCOSW12A8C13D398
+start_of_fade_out: 211.011
+tatums_confidence: shape = (847,)
+tatums_start: shape = (847,)
+tempo: 118.595
+time_signature: 4
+time_signature_confidence: 0.664
+title: Rumba De Barcelona
+track_7digitalid: 3373541
+track_id: TRABBBV128F42967D7
+year: 0

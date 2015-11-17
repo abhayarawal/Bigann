@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 373243
+artist_familiarity: 0.258591186061
+artist_hotttnesss: 0.0
+artist_id: ARJFZRE11F4C8469F6
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Coolio Da Unda Dogg
+artist_playmeid: -1
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: 771e51ffe909e1bf4aa54a3a0c85d49e
+bars_confidence: shape = (159,)
+bars_start: shape = (159,)
+beats_confidence: shape = (637,)
+beats_start: shape = (637,)
+danceability: 0.0
+duration: 240.22159
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.567
+loudness: -5.663
+mode: 0
+mode_confidence: 0.57
+release: Cognito Presents That's My Mic
+release_7digitalid: 503590
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1160,)
+segments_loudness_max: shape = (1160,)
+segments_loudness_max_time: shape = (1160,)
+segments_loudness_start: shape = (1160,)
+segments_pitches: shape = (1160, 12)
+segments_start: shape = (1160,)
+segments_timbre: shape = (1160, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIOVEN12AB018606D
+start_of_fade_out: 228.699
+tatums_confidence: shape = (1273,)
+tatums_start: shape = (1273,)
+tempo: 160.018
+time_signature: 4
+time_signature_confidence: 0.804
+title: Do Or Die
+track_7digitalid: 5573417
+track_id: TRAVALM128F932906B
+year: 0

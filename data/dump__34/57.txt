@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 252884
+artist_familiarity: 0.332421635339
+artist_hotttnesss: 0.314494836503
+artist_id: ARMFXPI1187B99717E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9ff1f844-3f1b-4714-9cf6-f80cb4cb4565
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The London Theatre Orchestra
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 030a6dd6050e14fc84f09c7718dca568
+bars_confidence: shape = (40,)
+bars_start: shape = (40,)
+beats_confidence: shape = (129,)
+beats_start: shape = (129,)
+danceability: 0.0
+duration: 78.94159
+end_of_fade_in: 0.187
+energy: 0.0
+key: 5
+key_confidence: 0.072
+loudness: -9.276
+mode: 0
+mode_confidence: 0.567
+release: Sci-Fi Themes II
+release_7digitalid: 375400
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (146,)
+segments_loudness_max: shape = (146,)
+segments_loudness_max_time: shape = (146,)
+segments_loudness_start: shape = (146,)
+segments_pitches: shape = (146, 12)
+segments_start: shape = (146,)
+segments_timbre: shape = (146, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.259678107009
+song_id: SOIYAIE12A58A7CEE2
+start_of_fade_out: 78.942
+tatums_confidence: shape = (257,)
+tatums_start: shape = (257,)
+tempo: 107.662
+time_signature: 3
+time_signature_confidence: 1.0
+title: Babylon 5
+track_7digitalid: 4170960
+track_id: TRALTIA128F92D0826
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 179770
+artist_familiarity: 0.377034085128
+artist_hotttnesss: 0.336191155685
+artist_id: AR0JEOI1187B98B918
+artist_latitude: 31.1689
+artist_location: Texas
+artist_longitude: -100.07715
+artist_mbid: 0aa9f7e2-58be-4a8b-813b-4c02fc2288f8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Erik Berglund
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 6606c18b9b67940bb8f3066afa571233
+bars_confidence: shape = (82,)
+bars_start: shape = (82,)
+beats_confidence: shape = (460,)
+beats_start: shape = (460,)
+danceability: 0.0
+duration: 354.66404
+end_of_fade_in: 0.444
+energy: 0.0
+key: 10
+key_confidence: 0.837
+loudness: -9.473
+mode: 1
+mode_confidence: 0.724
+release: Somewhere
+release_7digitalid: 255383
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (897,)
+segments_loudness_max: shape = (897,)
+segments_loudness_max_time: shape = (897,)
+segments_loudness_start: shape = (897,)
+segments_pitches: shape = (897, 12)
+segments_start: shape = (897,)
+segments_timbre: shape = (897, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYZBUV12A8C1393FD
+start_of_fade_out: 342.239
+tatums_confidence: shape = (1839,)
+tatums_start: shape = (1839,)
+tempo: 79.632
+time_signature: 5
+time_signature_confidence: 0.475
+title: Ave Maria
+track_7digitalid: 2787517
+track_id: TRAMQWV128F425C3DA
+year: 0

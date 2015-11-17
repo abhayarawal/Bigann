@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 66534
+artist_familiarity: 0.435732003605
+artist_hotttnesss: 0.373045953823
+artist_id: ARPPTNG11F50C482A3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mercedes Castro
+artist_playmeid: 53568
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 9e1e8d55f6ac03e49052d5cf5786ab53
+bars_confidence: shape = (274,)
+bars_start: shape = (274,)
+beats_confidence: shape = (274,)
+beats_start: shape = (274,)
+danceability: 0.0
+duration: 129.74975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.791
+loudness: -8.077
+mode: 1
+mode_confidence: 0.63
+release: Que Todo Mexico Se Entere
+release_7digitalid: 83355
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (597,)
+segments_loudness_max: shape = (597,)
+segments_loudness_max_time: shape = (597,)
+segments_loudness_start: shape = (597,)
+segments_pitches: shape = (597, 12)
+segments_start: shape = (597,)
+segments_timbre: shape = (597, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBXFLQ12A6D4F3578
+start_of_fade_out: 125.022
+tatums_confidence: shape = (549,)
+tatums_start: shape = (549,)
+tempo: 129.354
+time_signature: 1
+time_signature_confidence: 0.0
+title: El Cara Bonita
+track_7digitalid: 874944
+track_id: TRACPYD128EF362285
+year: 0

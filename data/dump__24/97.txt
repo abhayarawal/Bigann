@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 335158
+artist_familiarity: 0.467413843769
+artist_hotttnesss: 0.37273761334
+artist_id: AR0WAW61187B98B7D7
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 8a53e168-c1f1-4b55-ac96-da3a69d9e240
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Doug MacLeod
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 33bebb439cf9dcaeb5e14bae480c828b
+bars_confidence: shape = (153,)
+bars_start: shape = (153,)
+beats_confidence: shape = (481,)
+beats_start: shape = (481,)
+danceability: 0.0
+duration: 337.42322
+end_of_fade_in: 0.211
+energy: 0.0
+key: 2
+key_confidence: 1.0
+loudness: -10.516
+mode: 1
+mode_confidence: 0.985
+release: DUBB
+release_7digitalid: 463877
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (892,)
+segments_loudness_max: shape = (892,)
+segments_loudness_max_time: shape = (892,)
+segments_loudness_start: shape = (892,)
+segments_pitches: shape = (892, 12)
+segments_start: shape = (892,)
+segments_timbre: shape = (892, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.248166624025
+song_id: SOPFEVW12AB01821DC
+start_of_fade_out: 323.82
+tatums_confidence: shape = (961,)
+tatums_start: shape = (961,)
+tempo: 85.56
+time_signature: 3
+time_signature_confidence: 1.0
+title: The Sun Shine Down My Way
+track_7digitalid: 5162737
+track_id: TRAIJER128F9332661
+year: 2004

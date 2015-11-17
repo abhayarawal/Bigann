@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 334174
+artist_familiarity: 0.458021193236
+artist_hotttnesss: 0.328977133931
+artist_id: AR4L5ZC1187FB450A4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 92d446a1-7d4b-4cd2-bfb9-92400ff2f59a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bescenta
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 03d5825be994032263933681d04833e3
+bars_confidence: shape = (289,)
+bars_start: shape = (289,)
+beats_confidence: shape = (289,)
+beats_start: shape = (289,)
+danceability: 0.0
+duration: 231.91465
+end_of_fade_in: 3.286
+energy: 0.0
+key: 1
+key_confidence: 0.668
+loudness: -6.479
+mode: 1
+mode_confidence: 0.515
+release: The Texas Ranger Project
+release_7digitalid: 451998
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1220,)
+segments_loudness_max: shape = (1220,)
+segments_loudness_max_time: shape = (1220,)
+segments_loudness_start: shape = (1220,)
+segments_pitches: shape = (1220, 12)
+segments_start: shape = (1220,)
+segments_timbre: shape = (1220, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKAAAY12AB0186459
+start_of_fade_out: 222.981
+tatums_confidence: shape = (1448,)
+tatums_start: shape = (1448,)
+tempo: 76.014
+time_signature: 1
+time_signature_confidence: 0.746
+title: Why
+track_7digitalid: 5016736
+track_id: TRAWENG128F93105B0
+year: 0

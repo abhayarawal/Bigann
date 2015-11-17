@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 65286
+artist_familiarity: 0.507078735905
+artist_hotttnesss: 0.369083738795
+artist_id: ARGTDDO1187FB55687
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e1fbdc15-59df-48ec-b9f0-4d1fd1f333ff
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Languis
+artist_playmeid: 153497
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 4d9bbca72e21e5f65ee7b481fe04bb38
+bars_confidence: shape = (58,)
+bars_start: shape = (58,)
+beats_confidence: shape = (428,)
+beats_start: shape = (428,)
+danceability: 0.0
+duration: 199.00036
+end_of_fade_in: 0.109
+energy: 0.0
+key: 1
+key_confidence: 0.216
+loudness: -16.595
+mode: 1
+mode_confidence: 0.368
+release: Split
+release_7digitalid: 227138
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (900,)
+segments_loudness_max: shape = (900,)
+segments_loudness_max_time: shape = (900,)
+segments_loudness_start: shape = (900,)
+segments_pitches: shape = (900, 12)
+segments_start: shape = (900,)
+segments_timbre: shape = (900, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.193927764357
+song_id: SOHGUVY12A6D4FD2D5
+start_of_fade_out: 192.906
+tatums_confidence: shape = (855,)
+tatums_start: shape = (855,)
+tempo: 126.999
+time_signature: 7
+time_signature_confidence: 0.705
+title: Cable
+track_7digitalid: 2481276
+track_id: TRAUCXI128F4216A3D
+year: 0

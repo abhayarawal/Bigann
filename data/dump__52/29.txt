@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 187298
+artist_familiarity: 0.503235536373
+artist_hotttnesss: 0.336744985698
+artist_id: ARI3Y441187FB4B921
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5f0604d8-09d6-49da-a456-ca18f7aeeb76
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: The Dils
+artist_playmeid: -1
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 36e0f164e7b6cc25c6d0525ed24617d3
+bars_confidence: shape = (96,)
+bars_start: shape = (96,)
+beats_confidence: shape = (388,)
+beats_start: shape = (388,)
+danceability: 0.0
+duration: 141.84444
+end_of_fade_in: 3.46
+energy: 0.0
+key: 10
+key_confidence: 0.0
+loudness: -7.198
+mode: 1
+mode_confidence: 0.253
+release: Class War
+release_7digitalid: 632863
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (451,)
+segments_loudness_max: shape = (451,)
+segments_loudness_max_time: shape = (451,)
+segments_loudness_start: shape = (451,)
+segments_pitches: shape = (451, 12)
+segments_start: shape = (451,)
+segments_timbre: shape = (451, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SONLHOH12A8C1359D9
+start_of_fade_out: 134.078
+tatums_confidence: shape = (776,)
+tatums_start: shape = (776,)
+tempo: 163.024
+time_signature: 4
+time_signature_confidence: 0.0
+title: Tell Me What I Want to Hear
+track_7digitalid: 7025811
+track_id: TRARVQK128F932BFA0
+year: 0

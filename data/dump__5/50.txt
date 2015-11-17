@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 53731
+artist_familiarity: 0.621825361751
+artist_hotttnesss: 0.50796214473
+artist_id: ARXGWNG1187FB503A5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ce29fa89-8aed-4f7b-8b3e-a34d0c9ed0c6
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Ini Kamoze
+artist_playmeid: 20709
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 2698465575c141e3faa998419243472e
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (413,)
+beats_start: shape = (413,)
+danceability: 0.0
+duration: 248.92036
+end_of_fade_in: 0.281
+energy: 0.0
+key: 9
+key_confidence: 0.36
+loudness: -9.586
+mode: 0
+mode_confidence: 0.571
+release: Massive Reggae
+release_7digitalid: 277866
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1013,)
+segments_loudness_max: shape = (1013,)
+segments_loudness_max_time: shape = (1013,)
+segments_loudness_start: shape = (1013,)
+segments_pitches: shape = (1013, 12)
+segments_start: shape = (1013,)
+segments_timbre: shape = (1013, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVLDWE12A8AE47F3E
+start_of_fade_out: 244.355
+tatums_confidence: shape = (825,)
+tatums_start: shape = (825,)
+tempo: 100.342
+time_signature: 4
+time_signature_confidence: 1.0
+title: Here Comes The Hotstepper
+track_7digitalid: 3096364
+track_id: TRABUSZ128F4257BAB
+year: 1995

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 257157
+artist_familiarity: 0.638590616661
+artist_hotttnesss: 0.416019233866
+artist_id: AR0WCZW1187B99F592
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a3d655dd-4202-42b2-b1ba-bb96d2c4d4b3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tommy Torres
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 81f9c665a9bc6da73d93163b63aff9c4
+bars_confidence: shape = (142,)
+bars_start: shape = (142,)
+beats_confidence: shape = (571,)
+beats_start: shape = (571,)
+danceability: 0.0
+duration: 219.21914
+end_of_fade_in: 0.171
+energy: 0.0
+key: 9
+key_confidence: 0.407
+loudness: -7.492
+mode: 1
+mode_confidence: 0.535
+release: Pegadito
+release_7digitalid: 328432
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (616,)
+segments_loudness_max: shape = (616,)
+segments_loudness_max_time: shape = (616,)
+segments_loudness_start: shape = (616,)
+segments_pitches: shape = (616, 12)
+segments_start: shape = (616,)
+segments_timbre: shape = (616, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.687470640909
+song_id: SOJLJIE12AB017E507
+start_of_fade_out: 206.454
+tatums_confidence: shape = (1141,)
+tatums_start: shape = (1141,)
+tempo: 165.977
+time_signature: 4
+time_signature_confidence: 0.614
+title: Pegadito
+track_7digitalid: 3695553
+track_id: TRAIYYA128F92E5A59
+year: 0

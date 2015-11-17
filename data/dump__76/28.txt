@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 457243
+artist_familiarity: 0.455371855032
+artist_hotttnesss: 0.313866600157
+artist_id: AROLMXS1241B9C6915
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: An Cafe
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 9938b27e93cf7a47816625bc53ab7920
+bars_confidence: shape = (128,)
+bars_start: shape = (128,)
+beats_confidence: shape = (517,)
+beats_start: shape = (517,)
+danceability: 0.0
+duration: 210.75546
+end_of_fade_in: 0.153
+energy: 0.0
+key: 1
+key_confidence: 0.401
+loudness: -4.188
+mode: 0
+mode_confidence: 0.471
+release: Magnya Carta
+release_7digitalid: 395941
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (676,)
+segments_loudness_max: shape = (676,)
+segments_loudness_max_time: shape = (676,)
+segments_loudness_start: shape = (676,)
+segments_pitches: shape = (676, 12)
+segments_start: shape = (676,)
+segments_timbre: shape = (676, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPIHNL12A8C13B28D
+start_of_fade_out: 203.122
+tatums_confidence: shape = (1034,)
+tatums_start: shape = (1034,)
+tempo: 150.03
+time_signature: 4
+time_signature_confidence: 0.57
+title: Pipopapo Telpathy
+track_7digitalid: 4393959
+track_id: TRBAASG128F92FBB7C
+year: 0

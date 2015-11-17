@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 14417
+artist_familiarity: 0.76400336855
+artist_hotttnesss: 0.5423950935
+artist_id: ARP7ILI1187B9AE9F7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 766a2b45-441f-4096-af05-dbbca9518c9d
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Phantom Planet
+artist_playmeid: 1997
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 04c224e313a3e12e4e1ba7687fdf2842
+bars_confidence: shape = (123,)
+bars_start: shape = (123,)
+beats_confidence: shape = (498,)
+beats_start: shape = (498,)
+danceability: 0.0
+duration: 169.84771
+end_of_fade_in: 0.09
+energy: 0.0
+key: 4
+key_confidence: 0.505
+loudness: -4.373
+mode: 0
+mode_confidence: 0.409
+release: Raise The Dead
+release_7digitalid: 256775
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (649,)
+segments_loudness_max: shape = (649,)
+segments_loudness_max_time: shape = (649,)
+segments_loudness_start: shape = (649,)
+segments_pitches: shape = (649, 12)
+segments_start: shape = (649,)
+segments_timbre: shape = (649, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOGOPDF12A8C1356A9
+start_of_fade_out: 166.83
+tatums_confidence: shape = (997,)
+tatums_start: shape = (997,)
+tempo: 179.51
+time_signature: 4
+time_signature_confidence: 0.764
+title: Leader (Album Version)
+track_7digitalid: 2704032
+track_id: TRAKYXS128F4248FE3
+year: 2008

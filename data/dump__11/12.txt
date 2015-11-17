@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1298
+artist_familiarity: 0.811092052861
+artist_hotttnesss: 0.815681531405
+artist_id: ARLGIX31187B9AE9A0
+artist_latitude: nan
+artist_location: Chicago, IL
+artist_longitude: nan
+artist_mbid: f82bcf78-5b69-4622-a5ef-73800768d9ac
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: R. Kelly & Jay Z
+artist_playmeid: 789
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: d838ebf2db60f43fd1d05975b022ae9e
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (384,)
+beats_start: shape = (384,)
+danceability: 0.0
+duration: 242.15465
+end_of_fade_in: 0.09
+energy: 0.0
+key: 6
+key_confidence: 0.102
+loudness: -3.38
+mode: 0
+mode_confidence: 0.345
+release: The Best Of Both Worlds
+release_7digitalid: 392918
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1086,)
+segments_loudness_max: shape = (1086,)
+segments_loudness_max_time: shape = (1086,)
+segments_loudness_start: shape = (1086,)
+segments_pitches: shape = (1086, 12)
+segments_start: shape = (1086,)
+segments_timbre: shape = (1086, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.419125892959
+song_id: SOXKMLO12AB017FFDB
+start_of_fade_out: 229.622
+tatums_confidence: shape = (1539,)
+tatums_start: shape = (1539,)
+tempo: 95.464
+time_signature: 4
+time_signature_confidence: 0.749
+title: Honey
+track_7digitalid: 4369046
+track_id: TRADRNN128F92F7172
+year: 0

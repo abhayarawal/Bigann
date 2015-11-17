@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 457243
+artist_familiarity: 0.455371855032
+artist_hotttnesss: 0.313866600157
+artist_id: AROLMXS1241B9C6915
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: An Cafe
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 7f9ebf032401124f66ab49442dd01d0d
+bars_confidence: shape = (127,)
+bars_start: shape = (127,)
+beats_confidence: shape = (510,)
+beats_start: shape = (510,)
+danceability: 0.0
+duration: 233.03791
+end_of_fade_in: 2.757
+energy: 0.0
+key: 5
+key_confidence: 0.276
+loudness: -4.329
+mode: 1
+mode_confidence: 0.318
+release: Goku Tama Rock Cafe
+release_7digitalid: 359463
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (758,)
+segments_loudness_max: shape = (758,)
+segments_loudness_max_time: shape = (758,)
+segments_loudness_start: shape = (758,)
+segments_pitches: shape = (758, 12)
+segments_start: shape = (758,)
+segments_timbre: shape = (758, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SOEXCSV12A8C13D4EE
+start_of_fade_out: 219.974
+tatums_confidence: shape = (1019,)
+tatums_start: shape = (1019,)
+tempo: 131.059
+time_signature: 4
+time_signature_confidence: 0.0
+title: S*B*Y
+track_7digitalid: 4007599
+track_id: TRBEISX128F9322F51
+year: 0

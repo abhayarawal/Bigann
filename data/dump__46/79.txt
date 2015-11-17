@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41481
+artist_familiarity: 0.638472267963
+artist_hotttnesss: 0.373011673405
+artist_id: ARLZ6BF1187FB3DD6A
+artist_latitude: nan
+artist_location: Casablanca, Morocco
+artist_longitude: nan
+artist_mbid: 69737ebe-836c-40dc-a938-7e85688426ff
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Alain Souchon
+artist_playmeid: 61194
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: d4d6a8fa1b31e176b753ac23ea04af3f
+bars_confidence: shape = (53,)
+bars_start: shape = (53,)
+beats_confidence: shape = (390,)
+beats_start: shape = (390,)
+danceability: 0.0
+duration: 231.31383
+end_of_fade_in: 0.357
+energy: 0.0
+key: 5
+key_confidence: 0.187
+loudness: -9.711
+mode: 1
+mode_confidence: 0.462
+release: Collection
+release_7digitalid: 326830
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (844,)
+segments_loudness_max: shape = (844,)
+segments_loudness_max_time: shape = (844,)
+segments_loudness_start: shape = (844,)
+segments_pitches: shape = (844, 12)
+segments_start: shape = (844,)
+segments_timbre: shape = (844, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHKXRA12AB017CB5C
+start_of_fade_out: 218.134
+tatums_confidence: shape = (780,)
+tatums_start: shape = (780,)
+tempo: 103.414
+time_signature: 7
+time_signature_confidence: 0.378
+title: Le Bagad De Lann Bihoue
+track_7digitalid: 3680095
+track_id: TRAPXZH128F92E1E72
+year: 0

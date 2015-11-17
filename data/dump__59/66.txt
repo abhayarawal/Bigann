@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 28782
+artist_familiarity: 0.698619546973
+artist_hotttnesss: 0.546745176247
+artist_id: ARK3PWH1187B9A441D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6c8d5d17-aab0-424a-90f1-d579012b33bd
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Showbread
+artist_playmeid: 61397
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: bfa81dae96e879dcb744c59bfaad6020
+bars_confidence: shape = (171,)
+bars_start: shape = (171,)
+beats_confidence: shape = (687,)
+beats_start: shape = (687,)
+danceability: 0.0
+duration: 252.21179
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 1.0
+loudness: -3.708
+mode: 1
+mode_confidence: 0.763
+release: The Fear Of God
+release_7digitalid: 537392
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (632,)
+segments_loudness_max: shape = (632,)
+segments_loudness_max_time: shape = (632,)
+segments_loudness_start: shape = (632,)
+segments_pitches: shape = (632, 12)
+segments_start: shape = (632,)
+segments_timbre: shape = (632, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORYBLZ12AF72A4286
+start_of_fade_out: 249.667
+tatums_confidence: shape = (1375,)
+tatums_start: shape = (1375,)
+tempo: 164.963
+time_signature: 4
+time_signature_confidence: 0.688
+title: Nothing Matters Anymore
+track_7digitalid: 5943198
+track_id: TRAUJPQ128F930D4C5
+year: 2009

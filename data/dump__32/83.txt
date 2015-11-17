@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 200847
+artist_familiarity: 0.293433006903
+artist_hotttnesss: 0.0
+artist_id: AR1206S1187B9AF3EA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: dd1f3d58-149a-4e96-b3fc-16fb54e12a71
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Albert Préjean
+artist_playmeid: -1
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: d84c63d66db8dccae32b354537a26ca6
+bars_confidence: shape = (194,)
+bars_start: shape = (194,)
+beats_confidence: shape = (583,)
+beats_start: shape = (583,)
+danceability: 0.0
+duration: 169.482
+end_of_fade_in: 0.189
+energy: 0.0
+key: 3
+key_confidence: 0.0
+loudness: -20.754
+mode: 1
+mode_confidence: 0.057
+release: Chansons D'Amour
+release_7digitalid: 575281
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (740,)
+segments_loudness_max: shape = (740,)
+segments_loudness_max_time: shape = (740,)
+segments_loudness_start: shape = (740,)
+segments_pitches: shape = (740, 12)
+segments_start: shape = (740,)
+segments_timbre: shape = (740, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMBYVD12AB01884BE
+start_of_fade_out: 164.838
+tatums_confidence: shape = (1165,)
+tatums_start: shape = (1165,)
+tempo: 210.636
+time_signature: 3
+time_signature_confidence: 0.588
+title: Dede De Montmartre
+track_7digitalid: 6376501
+track_id: TRALEAN12903CA99B4
+year: 0

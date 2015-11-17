@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21255
+artist_familiarity: 0.877119424278
+artist_hotttnesss: 0.56091265733
+artist_id: AR7C6G11187B9B4C1E
+artist_latitude: nan
+artist_location: The Bronx, New York
+artist_longitude: nan
+artist_mbid: f0602f55-1770-483d-89bd-4bae0d0ac086
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Jennifer Lopez
+artist_playmeid: 798
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 2bd79913f6a8f1232735e0dde7d1a80e
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (350,)
+beats_start: shape = (350,)
+danceability: 0.0
+duration: 224.39138
+end_of_fade_in: 2.972
+energy: 0.0
+key: 5
+key_confidence: 0.673
+loudness: -5.229
+mode: 0
+mode_confidence: 0.595
+release: I'm Glad
+release_7digitalid: 290244
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1026,)
+segments_loudness_max: shape = (1026,)
+segments_loudness_max_time: shape = (1026,)
+segments_loudness_start: shape = (1026,)
+segments_pitches: shape = (1026, 12)
+segments_start: shape = (1026,)
+segments_timbre: shape = (1026, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPPDZH12AF72A283A
+start_of_fade_out: 212.213
+tatums_confidence: shape = (699,)
+tatums_start: shape = (699,)
+tempo: 93.95
+time_signature: 4
+time_signature_confidence: 0.132
+title: I'm Glad
+track_7digitalid: 3263527
+track_id: TRBGASN128F427BF8F
+year: 2002

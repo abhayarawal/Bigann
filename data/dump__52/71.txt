@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20027
+artist_familiarity: 0.571926730797
+artist_hotttnesss: 0.368446211679
+artist_id: ARM7UY51187B993E17
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 42b5af45-312e-4dc1-ad0c-84dea2d5dcb2
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Eddie Palmieri
+artist_playmeid: 46262
+artist_terms: shape = (50,)
+artist_terms_freq: shape = (50,)
+artist_terms_weight: shape = (50,)
+audio_md5: 4e39601768d86da0fededb7867c54e6a
+bars_confidence: shape = (662,)
+bars_start: shape = (662,)
+beats_confidence: shape = (662,)
+beats_start: shape = (662,)
+danceability: 0.0
+duration: 266.50077
+end_of_fade_in: 0.388
+energy: 0.0
+key: 10
+key_confidence: 0.414
+loudness: -17.886
+mode: 0
+mode_confidence: 0.464
+release: Eddie Palmieri/Lala Rodrigues/Ismael Quintana - Gold 1973-1976
+release_7digitalid: 248450
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (875,)
+segments_loudness_max: shape = (875,)
+segments_loudness_max_time: shape = (875,)
+segments_loudness_start: shape = (875,)
+segments_pitches: shape = (875, 12)
+segments_start: shape = (875,)
+segments_timbre: shape = (875, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYBJJE12A8C13CC79
+start_of_fade_out: 254.409
+tatums_confidence: shape = (1324,)
+tatums_start: shape = (1324,)
+tempo: 153.309
+time_signature: 1
+time_signature_confidence: 0.0
+title: No Pienses Asi
+track_7digitalid: 2821896
+track_id: TRARZBQ128F42649A6
+year: 1973

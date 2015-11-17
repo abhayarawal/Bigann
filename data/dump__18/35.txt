@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 912
+artist_familiarity: 0.571681626575
+artist_hotttnesss: 0.54000775021
+artist_id: AR3FE581187FB3F90A
+artist_latitude: nan
+artist_location: Brooklyn, NY
+artist_longitude: nan
+artist_mbid: d2299099-e617-46dd-b013-ba0b4c72bc63
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Fabolous
+artist_playmeid: 590
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: c86cca8c770995f6c9db8b477387f085
+bars_confidence: shape = (186,)
+bars_start: shape = (186,)
+beats_confidence: shape = (746,)
+beats_start: shape = (746,)
+danceability: 0.0
+duration: 225.14893
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.164
+loudness: -5.189
+mode: 1
+mode_confidence: 0.08
+release: Ghetto Fabolous [Explicit Version]
+release_7digitalid: 675211
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1124,)
+segments_loudness_max: shape = (1124,)
+segments_loudness_max_time: shape = (1124,)
+segments_loudness_start: shape = (1124,)
+segments_pitches: shape = (1124, 12)
+segments_start: shape = (1124,)
+segments_timbre: shape = (1124, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGOJEP12AB018D355
+start_of_fade_out: 212.869
+tatums_confidence: shape = (1492,)
+tatums_start: shape = (1492,)
+tempo: 200.435
+time_signature: 4
+time_signature_confidence: 1.0
+title: Ma' Be Easy [Explicit Version]
+track_7digitalid: 7488426
+track_id: TRAGGKN12903CCA8EE
+year: 0

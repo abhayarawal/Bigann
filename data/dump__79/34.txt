@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 135602
+artist_familiarity: 0.304389192376
+artist_hotttnesss: 0.0
+artist_id: ARZ0SAE1187FB46680
+artist_latitude: nan
+artist_location: Detroit, MI
+artist_longitude: nan
+artist_mbid: 21b2eb8c-ce7b-4be1-a2c8-52562da02ebf
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Hal Russell
+artist_playmeid: -1
+artist_terms: shape = (67,)
+artist_terms_freq: shape = (67,)
+artist_terms_weight: shape = (67,)
+audio_md5: 0aa5e533eb07d04ebe09bce512b60d63
+bars_confidence: shape = (204,)
+bars_start: shape = (204,)
+beats_confidence: shape = (827,)
+beats_start: shape = (827,)
+danceability: 0.0
+duration: 397.16526
+end_of_fade_in: 0.636
+energy: 0.0
+key: 8
+key_confidence: 0.34
+loudness: -18.986
+mode: 0
+mode_confidence: 0.228
+release: Hal's Bells
+release_7digitalid: 178917
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1410,)
+segments_loudness_max: shape = (1410,)
+segments_loudness_max_time: shape = (1410,)
+segments_loudness_start: shape = (1410,)
+segments_pitches: shape = (1410, 12)
+segments_start: shape = (1410,)
+segments_timbre: shape = (1410, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOZQCOR12A8151D3FC
+start_of_fade_out: 385.997
+tatums_confidence: shape = (1655,)
+tatums_start: shape = (1655,)
+tempo: 126.71
+time_signature: 4
+time_signature_confidence: 0.421
+title: For Free
+track_7digitalid: 1933784
+track_id: TRBBDFG128F4229DE2
+year: 0

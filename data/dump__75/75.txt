@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13626
+artist_familiarity: 0.793094370082
+artist_hotttnesss: 0.568491815445
+artist_id: ARD2NDU1187B99B615
+artist_latitude: nan
+artist_location: Boston, MA
+artist_longitude: nan
+artist_mbid: e8374874-4178-4869-b92e-fef6bf30dc04
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Dropkick Murphys
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: b72890c1dd11ce28fb3a62ccb1052d72
+bars_confidence: shape = (114,)
+bars_start: shape = (114,)
+beats_confidence: shape = (459,)
+beats_start: shape = (459,)
+danceability: 0.0
+duration: 158.64118
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.056
+loudness: -5.232
+mode: 1
+mode_confidence: 0.343
+release: The Gang's All Here
+release_7digitalid: 204289
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (342,)
+segments_loudness_max: shape = (342,)
+segments_loudness_max_time: shape = (342,)
+segments_loudness_start: shape = (342,)
+segments_pitches: shape = (342, 12)
+segments_start: shape = (342,)
+segments_timbre: shape = (342, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.365979930306
+song_id: SOVRPJN12A8C1399AE
+start_of_fade_out: 153.815
+tatums_confidence: shape = (919,)
+tatums_start: shape = (919,)
+tempo: 183.684
+time_signature: 4
+time_signature_confidence: 0.0
+title: Amazing Grace (Album Version)
+track_7digitalid: 1081300
+track_id: TRAZVVV128F428A033
+year: 1999

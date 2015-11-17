@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 197055
+artist_familiarity: 0.272774044277
+artist_hotttnesss: 0.0
+artist_id: AROKPWU11F50C48F1B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6492e313-bc31-4300-960d-f6eb3db8500d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dennis O'Neill
+artist_playmeid: -1
+artist_terms: shape = (8,)
+artist_terms_freq: shape = (8,)
+artist_terms_weight: shape = (8,)
+audio_md5: 3383dc307981991fbeb46cfbbc370a82
+bars_confidence: shape = (116,)
+bars_start: shape = (116,)
+beats_confidence: shape = (409,)
+beats_start: shape = (409,)
+danceability: 0.0
+duration: 377.75628
+end_of_fade_in: 3.216
+energy: 0.0
+key: 8
+key_confidence: 0.397
+loudness: -27.905
+mode: 1
+mode_confidence: 0.176
+release: Liszt: 'Tre Sonetti di Petrarca' & First Settings of Victor Hugo
+release_7digitalid: 249452
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (795,)
+segments_loudness_max: shape = (795,)
+segments_loudness_max_time: shape = (795,)
+segments_loudness_start: shape = (795,)
+segments_pitches: shape = (795, 12)
+segments_start: shape = (795,)
+segments_timbre: shape = (795, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYHNSI12A8C1346E2
+start_of_fade_out: 342.877
+tatums_confidence: shape = (817,)
+tatums_start: shape = (817,)
+tempo: 66.807
+time_signature: 3
+time_signature_confidence: 0.609
+title: Tre sonetti di Petrarca: III. I' vidi in terra angelici costumi - sonnet 156
+track_7digitalid: 2728470
+track_id: TRBGRIM128F424E1D3
+year: 0

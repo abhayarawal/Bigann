@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 393531
+artist_familiarity: 0.353429550222
+artist_hotttnesss: 0.365514003263
+artist_id: ARBMHBC11F4C8403A2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Hushabye Baby
+artist_playmeid: -1
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: a9bf3d5b7a1f2c9e4ee7927995eed166
+bars_confidence: shape = (51,)
+bars_start: shape = (51,)
+beats_confidence: shape = (209,)
+beats_start: shape = (209,)
+danceability: 0.0
+duration: 171.88526
+end_of_fade_in: 0.253
+energy: 0.0
+key: 5
+key_confidence: 0.101
+loudness: -18.58
+mode: 1
+mode_confidence: 0.572
+release: Lullaby Renditions of Johnny Cash
+release_7digitalid: 615480
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (399,)
+segments_loudness_max: shape = (399,)
+segments_loudness_max_time: shape = (399,)
+segments_loudness_start: shape = (399,)
+segments_pitches: shape = (399, 12)
+segments_start: shape = (399,)
+segments_timbre: shape = (399, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOWVBNI12AB017E39C
+start_of_fade_out: 164.165
+tatums_confidence: shape = (419,)
+tatums_start: shape = (419,)
+tempo: 74.983
+time_signature: 4
+time_signature_confidence: 0.0
+title: Cry_ Cry_ Cry
+track_7digitalid: 6842323
+track_id: TRBAIUY128F92FF7F0
+year: 0

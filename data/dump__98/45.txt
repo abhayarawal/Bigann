@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 190715
+artist_familiarity: 0.57070446927
+artist_hotttnesss: 0.394921730676
+artist_id: ARS10A81187B9B6E16
+artist_latitude: 41.88415
+artist_location: CHICAGO, Illinois
+artist_longitude: -87.63241
+artist_mbid: ed7156ee-07da-484b-b5a5-be322afa1a34
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Art Ensemble Of Chicago
+artist_playmeid: 41759
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 2db20f679e7f30eed212b7b3c6c2cded
+bars_confidence: shape = (164,)
+bars_start: shape = (164,)
+beats_confidence: shape = (1153,)
+beats_start: shape = (1153,)
+danceability: 0.0
+duration: 384.54812
+end_of_fade_in: 0.212
+energy: 0.0
+key: 4
+key_confidence: 0.0
+loudness: -15.73
+mode: 0
+mode_confidence: 0.045
+release: Sirius Calling
+release_7digitalid: 517215
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1381,)
+segments_loudness_max: shape = (1381,)
+segments_loudness_max_time: shape = (1381,)
+segments_loudness_start: shape = (1381,)
+segments_pitches: shape = (1381, 12)
+segments_start: shape = (1381,)
+segments_timbre: shape = (1381, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODKHSQ12AB0185513
+start_of_fade_out: 339.458
+tatums_confidence: shape = (2306,)
+tatums_start: shape = (2306,)
+tempo: 183.94
+time_signature: 7
+time_signature_confidence: 0.926
+title: He Took A Cab To Neptune
+track_7digitalid: 5725463
+track_id: TRBHVTI128F934DAA4
+year: 2004

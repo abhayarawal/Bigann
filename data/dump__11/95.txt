@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 61424
+artist_familiarity: 0.546727553963
+artist_hotttnesss: 0.386180416079
+artist_id: ARE26EG1187B990AEF
+artist_latitude: 51.77045
+artist_location: Essex, England
+artist_longitude: 0.64255
+artist_mbid: de212b3a-2f54-4def-a13d-5a877bfaeaf7
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Sunscreem
+artist_playmeid: 19156
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: c2c3159ef0bb36c9490147fa7180ac65
+bars_confidence: shape = (169,)
+bars_start: shape = (169,)
+beats_confidence: shape = (680,)
+beats_start: shape = (680,)
+danceability: 0.0
+duration: 241.89342
+end_of_fade_in: 0.399
+energy: 0.0
+key: 0
+key_confidence: 0.983
+loudness: -8.085
+mode: 1
+mode_confidence: 0.656
+release: Secrets
+release_7digitalid: 626842
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1043,)
+segments_loudness_max: shape = (1043,)
+segments_loudness_max_time: shape = (1043,)
+segments_loudness_start: shape = (1043,)
+segments_pitches: shape = (1043, 12)
+segments_start: shape = (1043,)
+segments_timbre: shape = (1043, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOBNCY12AB0182457
+start_of_fade_out: 227.08
+tatums_confidence: shape = (1361,)
+tatums_start: shape = (1361,)
+tempo: 172.172
+time_signature: 4
+time_signature_confidence: 0.767
+title: Secrets
+track_7digitalid: 6958894
+track_id: TRADYNQ128F931BCB3
+year: 1996

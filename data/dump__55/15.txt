@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 142898
+artist_familiarity: 0.65393782097
+artist_hotttnesss: 0.396855869325
+artist_id: ARMD0G81187B99A519
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 378125ec-fd93-4920-87f0-0ab145c2db88
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Vickie Winans
+artist_playmeid: 8019
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: b6a31d8c520ed880c368a5616b6bc506
+bars_confidence: shape = (140,)
+bars_start: shape = (140,)
+beats_confidence: shape = (565,)
+beats_start: shape = (565,)
+danceability: 0.0
+duration: 299.36281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.375
+loudness: -8.375
+mode: 0
+mode_confidence: 0.512
+release: Vicki Winans
+release_7digitalid: 688737
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1169,)
+segments_loudness_max: shape = (1169,)
+segments_loudness_max_time: shape = (1169,)
+segments_loudness_start: shape = (1169,)
+segments_pitches: shape = (1169, 12)
+segments_start: shape = (1169,)
+segments_timbre: shape = (1169, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPJSAG12AC468ADAF
+start_of_fade_out: 299.363
+tatums_confidence: shape = (1130,)
+tatums_start: shape = (1130,)
+tempo: 113.894
+time_signature: 4
+time_signature_confidence: 0.456
+title: Stand Up and Praise Him
+track_7digitalid: 7644599
+track_id: TRASVWF12903CF0A99
+year: 0

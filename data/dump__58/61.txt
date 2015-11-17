@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 539
+artist_familiarity: 0.605880471066
+artist_hotttnesss: 0.393660867924
+artist_id: ARK8EHO1187B9B71D1
+artist_latitude: 57.15382
+artist_location: Aberdeen, Scotland
+artist_longitude: -2.10679
+artist_mbid: f22e793d-9a7e-4ec9-9d86-7a8528688abd
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: The Shamen
+artist_playmeid: 17892
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 646607e0df7a045077bc5dee65d10163
+bars_confidence: shape = (127,)
+bars_start: shape = (127,)
+beats_confidence: shape = (512,)
+beats_start: shape = (512,)
+danceability: 0.0
+duration: 280.31955
+end_of_fade_in: 0.433
+energy: 0.0
+key: 10
+key_confidence: 0.46
+loudness: -9.198
+mode: 0
+mode_confidence: 0.438
+release: Heal (The Separation)
+release_7digitalid: 356456
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1270,)
+segments_loudness_max: shape = (1270,)
+segments_loudness_max_time: shape = (1270,)
+segments_loudness_start: shape = (1270,)
+segments_pitches: shape = (1270, 12)
+segments_start: shape = (1270,)
+segments_timbre: shape = (1270, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOIVZJD12AB0182EDD
+start_of_fade_out: 267.86
+tatums_confidence: shape = (1024,)
+tatums_start: shape = (1024,)
+tempo: 109.96
+time_signature: 4
+time_signature_confidence: 0.5
+title: Heal (The Separation) [PM Dawn Alt. Lead Mix]
+track_7digitalid: 3975526
+track_id: TRAUAHG128F931C55F
+year: 1996

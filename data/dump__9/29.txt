@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19598
+artist_familiarity: 0.338956022388
+artist_hotttnesss: 0.351561406961
+artist_id: AR9XDAA1187B99768F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d48ab7ae-fcba-44d1-844a-c2c598b47829
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lara & Reyes
+artist_playmeid: 61517
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 27e1ce0081ff069fc09136e2e4e2840b
+bars_confidence: shape = (161,)
+bars_start: shape = (161,)
+beats_confidence: shape = (161,)
+beats_start: shape = (161,)
+danceability: 0.0
+duration: 92.70812
+end_of_fade_in: 0.369
+energy: 0.0
+key: 7
+key_confidence: 1.0
+loudness: -14.919
+mode: 1
+mode_confidence: 1.0
+release: Navidad
+release_7digitalid: 29155
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (321,)
+segments_loudness_max: shape = (321,)
+segments_loudness_max_time: shape = (321,)
+segments_loudness_start: shape = (321,)
+segments_pitches: shape = (321, 12)
+segments_start: shape = (321,)
+segments_timbre: shape = (321, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.235614875735
+song_id: SOBZHRL12A6D4F6A70
+start_of_fade_out: 82.158
+tatums_confidence: shape = (322,)
+tatums_start: shape = (322,)
+tempo: 111.727
+time_signature: 1
+time_signature_confidence: 0.0
+title: Away In A Manger
+track_7digitalid: 321037
+track_id: TRADBQZ128F146A6A7
+year: 2000

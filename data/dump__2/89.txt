@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 135437
+artist_familiarity: 0.426683813809
+artist_hotttnesss: 0.333154507823
+artist_id: ARNILB71187B99EC88
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 53019232-166e-4788-8b13-23e60ffced44
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Billy Higgins_ Bob Berg_ Cedar Walton_ Tony Dumas
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: b7efef626ac27bda5dc73c249e160d68
+bars_confidence: shape = (763,)
+bars_start: shape = (763,)
+beats_confidence: shape = (763,)
+beats_start: shape = (763,)
+danceability: 0.0
+duration: 431.64689
+end_of_fade_in: 0.738
+energy: 0.0
+key: 11
+key_confidence: 0.191
+loudness: -14.621
+mode: 0
+mode_confidence: 0.366
+release: Once More
+release_7digitalid: 281210
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1484,)
+segments_loudness_max: shape = (1484,)
+segments_loudness_max_time: shape = (1484,)
+segments_loudness_start: shape = (1484,)
+segments_pitches: shape = (1484, 12)
+segments_start: shape = (1484,)
+segments_timbre: shape = (1484, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGVRHK12A8AE47FFB
+start_of_fade_out: 421.97
+tatums_confidence: shape = (1526,)
+tatums_start: shape = (1526,)
+tempo: 106.219
+time_signature: 1
+time_signature_confidence: 0.0
+title: Estate
+track_7digitalid: 3130541
+track_id: TRAAWUM128F426009A
+year: 0

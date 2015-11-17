@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 297174
+artist_familiarity: 0.694983409073
+artist_hotttnesss: 0.429780285791
+artist_id: AR189B91187B9B8D9C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 979d01bc-a4da-4c80-8cc1-be40bd35cd5e
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Gustavo Cerati
+artist_playmeid: 14290
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 045b7db76256f36a251cad94f668557f
+bars_confidence: shape = (130,)
+bars_start: shape = (130,)
+beats_confidence: shape = (523,)
+beats_start: shape = (523,)
+danceability: 0.0
+duration: 251.66322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.603
+loudness: -4.576
+mode: 1
+mode_confidence: 0.644
+release: Ahí Vamos
+release_7digitalid: 518086
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (683,)
+segments_loudness_max: shape = (683,)
+segments_loudness_max_time: shape = (683,)
+segments_loudness_start: shape = (683,)
+segments_pitches: shape = (683, 12)
+segments_start: shape = (683,)
+segments_timbre: shape = (683, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.604963399551
+song_id: SOYKHAC12AB017DE72
+start_of_fade_out: 245.557
+tatums_confidence: shape = (1046,)
+tatums_start: shape = (1046,)
+tempo: 125.987
+time_signature: 4
+time_signature_confidence: 0.942
+title: La Excepcion
+track_7digitalid: 5736160
+track_id: TRASLVK128F935046C
+year: 2006

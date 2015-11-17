@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: -1
+artist_familiarity: 0.0
+artist_hotttnesss: 0.0
+artist_id: ARRZNPS124207806FA
+artist_latitude: nan
+artist_location: Florida
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Devine and emilyPLAY
+artist_playmeid: -1
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: bd449b6bb4dacada2a16637b10887201
+bars_confidence: shape = (209,)
+bars_start: shape = (209,)
+beats_confidence: shape = (840,)
+beats_start: shape = (840,)
+danceability: 0.0
+duration: 375.48363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.678
+loudness: -3.506
+mode: 1
+mode_confidence: 0.278
+release: Hold On / Turn It Up
+release_7digitalid: 604916
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1706,)
+segments_loudness_max: shape = (1706,)
+segments_loudness_max_time: shape = (1706,)
+segments_loudness_start: shape = (1706,)
+segments_pitches: shape = (1706, 12)
+segments_start: shape = (1706,)
+segments_timbre: shape = (1706, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGUHFC12AC46895A7
+start_of_fade_out: 361.558
+tatums_confidence: shape = (1680,)
+tatums_start: shape = (1680,)
+tempo: 137.976
+time_signature: 4
+time_signature_confidence: 1.0
+title: Turn It Up
+track_7digitalid: 6719454
+track_id: TRBHRKE12903CFC929
+year: 0

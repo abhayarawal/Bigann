@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 127905
+artist_familiarity: 0.473486936345
+artist_hotttnesss: 0.219369574912
+artist_id: ARWENXU12454A2DE56
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: CoCo Lee
+artist_playmeid: 12972
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 26d94a9c3d5e4c2ed3c217062c625685
+bars_confidence: shape = (161,)
+bars_start: shape = (161,)
+beats_confidence: shape = (647,)
+beats_start: shape = (647,)
+danceability: 0.0
+duration: 264.01914
+end_of_fade_in: 6.339
+energy: 0.0
+key: 5
+key_confidence: 0.624
+loudness: -8.414
+mode: 1
+mode_confidence: 0.589
+release: COCO 1994-2008 Best Collection
+release_7digitalid: 279684
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (879,)
+segments_loudness_max: shape = (879,)
+segments_loudness_max_time: shape = (879,)
+segments_loudness_start: shape = (879,)
+segments_pitches: shape = (879, 12)
+segments_start: shape = (879,)
+segments_timbre: shape = (879, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYIUJK12A8AE46346
+start_of_fade_out: 250.538
+tatums_confidence: shape = (647,)
+tatums_start: shape = (647,)
+tempo: 146.284
+time_signature: 4
+time_signature_confidence: 1.0
+title: Each Time I Think Of You
+track_7digitalid: 3119295
+track_id: TRALXEX128F425D50E
+year: 0

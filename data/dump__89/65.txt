@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 68540
+artist_familiarity: 0.491256209492
+artist_hotttnesss: 0.32620825462
+artist_id: ARJ4B7V1187FB4CB90
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 45fc5c0a-3614-4018-95e9-9101ac827e2b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ Godfather
+artist_playmeid: 80386
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 534b0a2125b4eb5e5ddb0ae270492d43
+bars_confidence: shape = (23,)
+bars_start: shape = (23,)
+beats_confidence: shape = (95,)
+beats_start: shape = (95,)
+danceability: 0.0
+duration: 33.14893
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.199
+loudness: -8.521
+mode: 1
+mode_confidence: 0.515
+release: Da Bomb Vol 5
+release_7digitalid: 176238
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (171,)
+segments_loudness_max: shape = (171,)
+segments_loudness_max_time: shape = (171,)
+segments_loudness_start: shape = (171,)
+segments_pitches: shape = (171, 12)
+segments_start: shape = (171,)
+segments_timbre: shape = (171, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAHTKN12A6D4FC189
+start_of_fade_out: 33.149
+tatums_confidence: shape = (190,)
+tatums_start: shape = (190,)
+tempo: 174.211
+time_signature: 4
+time_signature_confidence: 1.0
+title: Where You From
+track_7digitalid: 1896133
+track_id: TRBEYOL128F4222488
+year: 0

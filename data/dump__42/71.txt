@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 49992
+artist_familiarity: 0.796337059499
+artist_hotttnesss: 0.582921576451
+artist_id: ARSW5F51187FB4CFC9
+artist_latitude: nan
+artist_location: Seattle, WA
+artist_longitude: nan
+artist_mbid: 4bd95eea-b9f6-4d70-a36c-cfea77431553
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Alice In Chains
+artist_playmeid: 65
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 1bca3d3174c84c8e385c8d612d85af2a
+bars_confidence: shape = (119,)
+bars_start: shape = (119,)
+beats_confidence: shape = (478,)
+beats_start: shape = (478,)
+danceability: 0.0
+duration: 230.60853
+end_of_fade_in: 0.073
+energy: 0.0
+key: 8
+key_confidence: 0.913
+loudness: -4.438
+mode: 1
+mode_confidence: 0.7
+release: Music Bank
+release_7digitalid: 385038
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (680,)
+segments_loudness_max: shape = (680,)
+segments_loudness_max_time: shape = (680,)
+segments_loudness_start: shape = (680,)
+segments_pitches: shape = (680, 12)
+segments_start: shape = (680,)
+segments_timbre: shape = (680, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.818394379716
+song_id: SOPANEB12A8C13E81E
+start_of_fade_out: 226.667
+tatums_confidence: shape = (955,)
+tatums_start: shape = (955,)
+tempo: 124.144
+time_signature: 4
+time_signature_confidence: 0.352
+title: God Smack
+track_7digitalid: 4274865
+track_id: TRAOOGD128F92E4768
+year: 1992

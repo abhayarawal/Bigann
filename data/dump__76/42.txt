@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4010
+artist_familiarity: 0.643182772912
+artist_hotttnesss: 0.500691340913
+artist_id: AR3793X1187FB50CB3
+artist_latitude: nan
+artist_location: Middlesbrough, England
+artist_longitude: nan
+artist_mbid: c707b37e-cb5c-4694-be4d-46beefcb2475
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Chris Rea
+artist_playmeid: -1
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: f890315e2534fa092566cc8cdeb7ef7b
+bars_confidence: shape = (875,)
+bars_start: shape = (875,)
+beats_confidence: shape = (875,)
+beats_start: shape = (875,)
+danceability: 0.0
+duration: 308.45342
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.724
+loudness: -11.082
+mode: 0
+mode_confidence: 0.662
+release: The Road To Hell And Back
+release_7digitalid: 47310
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1229,)
+segments_loudness_max: shape = (1229,)
+segments_loudness_max_time: shape = (1229,)
+segments_loudness_start: shape = (1229,)
+segments_pitches: shape = (1229, 12)
+segments_start: shape = (1229,)
+segments_timbre: shape = (1229, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLDPNN12A6D4F7B46
+start_of_fade_out: 300.066
+tatums_confidence: shape = (1751,)
+tatums_start: shape = (1751,)
+tempo: 168.932
+time_signature: 1
+time_signature_confidence: 0.029
+title: Josephine
+track_7digitalid: 507085
+track_id: TRBABQW128F148C7FB
+year: 1985

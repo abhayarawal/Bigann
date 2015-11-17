@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 129713
+artist_familiarity: 0.492199331334
+artist_hotttnesss: 0.34497245609
+artist_id: AR0PUK71187B9AC3C0
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: fd9f268a-89ef-4577-81f4-efebc9517a07
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Marvin Hamlisch
+artist_playmeid: 128443
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: b6ccefcd1e9e7685b8861a6f33651fb8
+bars_confidence: shape = (57,)
+bars_start: shape = (57,)
+beats_confidence: shape = (249,)
+beats_start: shape = (249,)
+danceability: 0.0
+duration: 201.45587
+end_of_fade_in: 0.419
+energy: 0.0
+key: 4
+key_confidence: 0.443
+loudness: -25.604
+mode: 0
+mode_confidence: 0.481
+release: The Spy Who Loved Me (Soundtrack)
+release_7digitalid: 406415
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (626,)
+segments_loudness_max: shape = (626,)
+segments_loudness_max_time: shape = (626,)
+segments_loudness_start: shape = (626,)
+segments_pitches: shape = (626, 12)
+segments_start: shape = (626,)
+segments_timbre: shape = (626, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.548842617564
+song_id: SOQFLWF12AB017EF20
+start_of_fade_out: 191.065
+tatums_confidence: shape = (998,)
+tatums_start: shape = (998,)
+tempo: 76.738
+time_signature: 4
+time_signature_confidence: 0.179
+title: Anya
+track_7digitalid: 4514967
+track_id: TRBCYJZ128F931426B
+year: 1977

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 84428
+artist_familiarity: 0.431622035159
+artist_hotttnesss: 0.307084308117
+artist_id: ARGJBTS1187FB4273A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 854ae827-88a3-473c-8b7c-4895fa869be7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lidell Townsell
+artist_playmeid: 144254
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: b9e5c9961f2d0c6af288c1882cdfb654
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (412,)
+beats_start: shape = (412,)
+danceability: 0.0
+duration: 201.82159
+end_of_fade_in: 2.525
+energy: 0.0
+key: 9
+key_confidence: 0.006
+loudness: -9.926
+mode: 0
+mode_confidence: 0.241
+release: The Next Generation
+release_7digitalid: 107873
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (916,)
+segments_loudness_max: shape = (916,)
+segments_loudness_max_time: shape = (916,)
+segments_loudness_start: shape = (916,)
+segments_pitches: shape = (916, 12)
+segments_start: shape = (916,)
+segments_timbre: shape = (916, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.208472236779
+song_id: SOUKRER12A8C13BDE1
+start_of_fade_out: 195.878
+tatums_confidence: shape = (824,)
+tatums_start: shape = (824,)
+tempo: 125.013
+time_signature: 4
+time_signature_confidence: 0.978
+title: Duh Duh Da
+track_7digitalid: 1115680
+track_id: TRAUCPN128F4290BDC
+year: 0

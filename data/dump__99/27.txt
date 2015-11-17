@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18646
+artist_familiarity: 0.0521034140267
+artist_hotttnesss: 0.0
+artist_id: AR9FEO71187FB5981F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5cf852d4-8607-41ef-acf0-78ccb71f9945
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Semprini
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: f9c88a6bedcd4eab5ae480bc861afe90
+bars_confidence: shape = (290,)
+bars_start: shape = (290,)
+beats_confidence: shape = (1173,)
+beats_start: shape = (1173,)
+danceability: 0.0
+duration: 517.0673
+end_of_fade_in: 0.131
+energy: 0.0
+key: 10
+key_confidence: 0.439
+loudness: -18.993
+mode: 1
+mode_confidence: 0.633
+release: Semprini
+release_7digitalid: 26972
+sections_confidence: shape = (25,)
+sections_start: shape = (25,)
+segments_confidence: shape = (1584,)
+segments_loudness_max: shape = (1584,)
+segments_loudness_max_time: shape = (1584,)
+segments_loudness_start: shape = (1584,)
+segments_pitches: shape = (1584, 12)
+segments_start: shape = (1584,)
+segments_timbre: shape = (1584, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBPZPS12A6D4F6EFA
+start_of_fade_out: 511.599
+tatums_confidence: shape = (2346,)
+tatums_start: shape = (2346,)
+tempo: 137.687
+time_signature: 4
+time_signature_confidence: 0.332
+title: Rhapsody In Blue (2003 Digital Remaster)
+track_7digitalid: 293149
+track_id: TRBIDFH128F1464397
+year: 0

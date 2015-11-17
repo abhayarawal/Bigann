@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8587
+artist_familiarity: 0.625067009004
+artist_hotttnesss: 0.40109846477
+artist_id: ARHNCQ31187B9915DC
+artist_latitude: nan
+artist_location: Teoc, MS
+artist_longitude: nan
+artist_mbid: 802484e0-90de-4611-9fa4-f5ef0c7727b6
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Los Cisnes
+artist_playmeid: 12776
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 2a9635a222312a16e19b10168604e415
+bars_confidence: shape = (300,)
+bars_start: shape = (300,)
+beats_confidence: shape = (300,)
+beats_start: shape = (300,)
+danceability: 0.0
+duration: 182.72608
+end_of_fade_in: 0.258
+energy: 0.0
+key: 4
+key_confidence: 0.0
+loudness: -13.008
+mode: 0
+mode_confidence: 0.221
+release: 16 Exitos De Los Mejores Trios Mexicanos
+release_7digitalid: 517142
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (775,)
+segments_loudness_max: shape = (775,)
+segments_loudness_max_time: shape = (775,)
+segments_loudness_start: shape = (775,)
+segments_pitches: shape = (775, 12)
+segments_start: shape = (775,)
+segments_timbre: shape = (775, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFGDDZ12AB0186E67
+start_of_fade_out: 177.772
+tatums_confidence: shape = (601,)
+tatums_start: shape = (601,)
+tempo: 101.308
+time_signature: 1
+time_signature_confidence: 0.0
+title: Orgullo
+track_7digitalid: 5724482
+track_id: TRBCFDY128F934D6CF
+year: 0

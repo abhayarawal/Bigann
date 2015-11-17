@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 169422
+artist_familiarity: 0.450340394667
+artist_hotttnesss: 0.370027458788
+artist_id: ARGXLDE1187B99244E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3b45a36d-b072-46af-9ed4-c9539fa5bbca
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Zen Lemonade
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 899910f4d3f1989bef6083ce82f59fab
+bars_confidence: shape = (276,)
+bars_start: shape = (276,)
+beats_confidence: shape = (1107,)
+beats_start: shape = (1107,)
+danceability: 0.0
+duration: 493.7922
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.071
+loudness: -9.535
+mode: 1
+mode_confidence: 0.491
+release: Lemon Soul
+release_7digitalid: 532529
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (2391,)
+segments_loudness_max: shape = (2391,)
+segments_loudness_max_time: shape = (2391,)
+segments_loudness_start: shape = (2391,)
+segments_pitches: shape = (2391, 12)
+segments_start: shape = (2391,)
+segments_timbre: shape = (2391, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOOWUYK12AB017C5E3
+start_of_fade_out: 490.371
+tatums_confidence: shape = (2213,)
+tatums_start: shape = (2213,)
+tempo: 134.21
+time_signature: 4
+time_signature_confidence: 0.0
+title: Brazil Mon Amour
+track_7digitalid: 5884489
+track_id: TRADRKK128F92FF034
+year: 2001

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 549126
+artist_familiarity: 0.121187298345
+artist_hotttnesss: 0.0
+artist_id: ARLJK1O1187B9B0FC4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8e64d20f-468e-4b26-834e-ade4ab9667e4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Knightsbridge Strings
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 343c988bd216ef33d3301038c3d0cc5a
+bars_confidence: shape = (53,)
+bars_start: shape = (53,)
+beats_confidence: shape = (228,)
+beats_start: shape = (228,)
+danceability: 0.0
+duration: 188.44689
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.484
+loudness: -12.827
+mode: 1
+mode_confidence: 0.495
+release: The Strings Sing & The Strings Swing
+release_7digitalid: 795012
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (479,)
+segments_loudness_max: shape = (479,)
+segments_loudness_max_time: shape = (479,)
+segments_loudness_start: shape = (479,)
+segments_pitches: shape = (479, 12)
+segments_start: shape = (479,)
+segments_timbre: shape = (479, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPSCBU12AB018B6DC
+start_of_fade_out: 181.209
+tatums_confidence: shape = (683,)
+tatums_start: shape = (683,)
+tempo: 73.742
+time_signature: 4
+time_signature_confidence: 0.0
+title: Whispering Grass
+track_7digitalid: 8791843
+track_id: TRANUPI12903CA6A4F
+year: 0

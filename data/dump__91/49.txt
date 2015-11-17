@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 163429
+artist_familiarity: 0.452042247287
+artist_hotttnesss: 0.324157492841
+artist_id: ARDL03L1187B997FBE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0131ab18-a638-49c7-8412-4f726e387e3f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Fläskkvartetten / Daniel Bellqvist
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: df673ed0ab8cc4469ada357c3df2d3a3
+bars_confidence: shape = (58,)
+bars_start: shape = (58,)
+beats_confidence: shape = (260,)
+beats_start: shape = (260,)
+danceability: 0.0
+duration: 258.16771
+end_of_fade_in: 0.276
+energy: 0.0
+key: 2
+key_confidence: 0.55
+loudness: -12.844
+mode: 1
+mode_confidence: 0.499
+release: Voices of Eden
+release_7digitalid: 216326
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (602,)
+segments_loudness_max: shape = (602,)
+segments_loudness_max_time: shape = (602,)
+segments_loudness_start: shape = (602,)
+segments_pitches: shape = (602, 12)
+segments_start: shape = (602,)
+segments_timbre: shape = (602, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.443291311905
+song_id: SOIIAIE12A8C13C5FC
+start_of_fade_out: 251.292
+tatums_confidence: shape = (520,)
+tatums_start: shape = (520,)
+tempo: 60.956
+time_signature: 4
+time_signature_confidence: 1.0
+title: You Were There
+track_7digitalid: 2354798
+track_id: TRBFOIB128F427DC1C
+year: 0

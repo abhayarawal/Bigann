@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 326205
+artist_familiarity: 0.494940622987
+artist_hotttnesss: 0.340497416496
+artist_id: AR4Q1VD1187B9893C7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bdb36f1b-3f48-4028-a8f7-4181e5946a83
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mulberry Lane
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 69deac609446d2590cea1250aa9a1279
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (405,)
+beats_start: shape = (405,)
+danceability: 0.0
+duration: 169.58649
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.585
+loudness: -4.333
+mode: 1
+mode_confidence: 0.518
+release: Snug
+release_7digitalid: 437973
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (658,)
+segments_loudness_max: shape = (658,)
+segments_loudness_max_time: shape = (658,)
+segments_loudness_start: shape = (658,)
+segments_pitches: shape = (658, 12)
+segments_start: shape = (658,)
+segments_timbre: shape = (658, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.245925346969
+song_id: SOBDCSO12AB017F02D
+start_of_fade_out: 163.614
+tatums_confidence: shape = (811,)
+tatums_start: shape = (811,)
+tempo: 148.012
+time_signature: 4
+time_signature_confidence: 0.142
+title: Come Dance With Me
+track_7digitalid: 4881424
+track_id: TRAFOZW128F92F1594
+year: 0

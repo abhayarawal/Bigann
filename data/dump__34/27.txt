@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7447
+artist_familiarity: 0.52522733556
+artist_hotttnesss: 0.338129864282
+artist_id: ARHJJ771187FB5B581
+artist_latitude: 51.59678
+artist_location: Harrow, Middlesex, England
+artist_longitude: -0.33556
+artist_mbid: e1079a78-75d4-4a1a-aef1-0be051386598
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Screaming Lord Sutch
+artist_playmeid: 56299
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: f83479b0d0b801d559276d977026ea16
+bars_confidence: shape = (124,)
+bars_start: shape = (124,)
+beats_confidence: shape = (499,)
+beats_start: shape = (499,)
+danceability: 0.0
+duration: 231.44444
+end_of_fade_in: 2.659
+energy: 0.0
+key: 9
+key_confidence: 0.454
+loudness: -8.02
+mode: 0
+mode_confidence: 0.624
+release: Rock'n'Roll is still alive ( Live in Hamburg )
+release_7digitalid: 771844
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (848,)
+segments_loudness_max: shape = (848,)
+segments_loudness_max_time: shape = (848,)
+segments_loudness_start: shape = (848,)
+segments_pitches: shape = (848, 12)
+segments_start: shape = (848,)
+segments_timbre: shape = (848, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOOTWLE12AB018E20A
+start_of_fade_out: 225.332
+tatums_confidence: shape = (999,)
+tatums_start: shape = (999,)
+tempo: 130.76
+time_signature: 4
+time_signature_confidence: 0.152
+title: Son of Jack the Ripper
+track_7digitalid: 8543905
+track_id: TRALQWF12903CDE0ED
+year: 0

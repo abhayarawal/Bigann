@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 146388
+artist_familiarity: 0.247140096388
+artist_hotttnesss: 0.234568798995
+artist_id: ARKKYQD11F4C83D170
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: NAZCA PERU
+artist_playmeid: 74836
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: ba6a43b0b0ce8b0e7b863b50499ed3b5
+bars_confidence: shape = (386,)
+bars_start: shape = (386,)
+beats_confidence: shape = (386,)
+beats_start: shape = (386,)
+danceability: 0.0
+duration: 159.45098
+end_of_fade_in: 0.2
+energy: 0.0
+key: 4
+key_confidence: 0.62
+loudness: -6.22
+mode: 0
+mode_confidence: 0.609
+release: INKARU
+release_7digitalid: 192746
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (654,)
+segments_loudness_max: shape = (654,)
+segments_loudness_max_time: shape = (654,)
+segments_loudness_start: shape = (654,)
+segments_pitches: shape = (654, 12)
+segments_start: shape = (654,)
+segments_timbre: shape = (654, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.198596815333
+song_id: SOSLEEL12A8C130C5D
+start_of_fade_out: 150.28
+tatums_confidence: shape = (771,)
+tatums_start: shape = (771,)
+tempo: 147.734
+time_signature: 1
+time_signature_confidence: 0.605
+title: Aurora
+track_7digitalid: 2095432
+track_id: TRAHISQ128F4243C7B
+year: 0

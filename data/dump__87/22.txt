@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16509
+artist_familiarity: 0.791801555556
+artist_hotttnesss: 0.637302342502
+artist_id: ARKZ13R1187FB54FEE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a19d4ee1-091c-4884-a1cd-e959fd581576
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Josh Turner
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 10a65e92ba4a5ef1525b86a0472596d7
+bars_confidence: shape = (123,)
+bars_start: shape = (123,)
+beats_confidence: shape = (382,)
+beats_start: shape = (382,)
+danceability: 0.0
+duration: 215.61424
+end_of_fade_in: 0.229
+energy: 0.0
+key: 4
+key_confidence: 0.711
+loudness: -14.292
+mode: 1
+mode_confidence: 0.752
+release: Amazing Grace III
+release_7digitalid: 64395
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (570,)
+segments_loudness_max: shape = (570,)
+segments_loudness_max_time: shape = (570,)
+segments_loudness_start: shape = (570,)
+segments_pitches: shape = (570, 12)
+segments_start: shape = (570,)
+segments_timbre: shape = (570, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.437909888727
+song_id: SOJBYED12A6D4FBE81
+start_of_fade_out: 202.101
+tatums_confidence: shape = (763,)
+tatums_start: shape = (763,)
+tempo: 108.013
+time_signature: 3
+time_signature_confidence: 0.968
+title: Softly And Tenderly
+track_7digitalid: 668945
+track_id: TRBDYHX128F14ADE2B
+year: 0

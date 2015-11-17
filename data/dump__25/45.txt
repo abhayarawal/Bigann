@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 387070
+artist_familiarity: 0.288350773062
+artist_hotttnesss: 0.0
+artist_id: AREVNGE11F50C49B9A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tom Collier
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 2224383fa454227ab75076dbb9dbc8e3
+bars_confidence: shape = (185,)
+bars_start: shape = (185,)
+beats_confidence: shape = (742,)
+beats_start: shape = (742,)
+danceability: 0.0
+duration: 411.42812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.515
+loudness: -17.325
+mode: 0
+mode_confidence: 0.509
+release: Malllet Jazz
+release_7digitalid: 525940
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (1448,)
+segments_loudness_max: shape = (1448,)
+segments_loudness_max_time: shape = (1448,)
+segments_loudness_start: shape = (1448,)
+segments_pitches: shape = (1448, 12)
+segments_start: shape = (1448,)
+segments_timbre: shape = (1448, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.210011779492
+song_id: SOGYDSV12A8C142A33
+start_of_fade_out: 389.074
+tatums_confidence: shape = (1483,)
+tatums_start: shape = (1483,)
+tempo: 111.743
+time_signature: 4
+time_signature_confidence: 1.0
+title: Eddie's Pad
+track_7digitalid: 5810362
+track_id: TRAINMM128F92ECF70
+year: 0

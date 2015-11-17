@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19334
+artist_familiarity: 0.470212295689
+artist_hotttnesss: 0.320086926752
+artist_id: ARJIE2Y1187B994AB7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8910064e-1810-42dc-90ba-bdab48cd9326
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Line Renaud
+artist_playmeid: 26581
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: fae7b7ab080ab149bf7e01c5b6616870
+bars_confidence: shape = (59,)
+bars_start: shape = (59,)
+beats_confidence: shape = (265,)
+beats_start: shape = (265,)
+danceability: 0.0
+duration: 207.04608
+end_of_fade_in: 2.276
+energy: 0.0
+key: 2
+key_confidence: 0.619
+loudness: -13.47
+mode: 1
+mode_confidence: 0.509
+release: Copacabana
+release_7digitalid: 291956
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (530,)
+segments_loudness_max: shape = (530,)
+segments_loudness_max_time: shape = (530,)
+segments_loudness_start: shape = (530,)
+segments_pitches: shape = (530, 12)
+segments_start: shape = (530,)
+segments_timbre: shape = (530, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJTBBU12A8C137839
+start_of_fade_out: 199.268
+tatums_confidence: shape = (531,)
+tatums_start: shape = (531,)
+tempo: 76.222
+time_signature: 4
+time_signature_confidence: 0.141
+title: Ne Reste Que L'Amour (Only Love)
+track_7digitalid: 3277917
+track_id: TRASOVL128F427F7AB
+year: 0

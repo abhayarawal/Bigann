@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 329586
+artist_familiarity: 0.362358558581
+artist_hotttnesss: 0.298372720987
+artist_id: ARLDW6Z1187FB3F2A0
+artist_latitude: 19.4319
+artist_location: Mexico City, Mexico
+artist_longitude: -99.13285
+artist_mbid: ea14ad72-eff5-4a21-934b-8b93f4d45d1b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Abraham Laboriel
+artist_playmeid: 164073
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 020fe66e5fa83b1b3cb67fb5052e1def
+bars_confidence: shape = (141,)
+bars_start: shape = (141,)
+beats_confidence: shape = (567,)
+beats_start: shape = (567,)
+danceability: 0.0
+duration: 368.16934
+end_of_fade_in: 0.288
+energy: 0.0
+key: 11
+key_confidence: 0.252
+loudness: -8.489
+mode: 0
+mode_confidence: 0.393
+release: Guidum
+release_7digitalid: 552899
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (1311,)
+segments_loudness_max: shape = (1311,)
+segments_loudness_max_time: shape = (1311,)
+segments_loudness_start: shape = (1311,)
+segments_pitches: shape = (1311, 12)
+segments_start: shape = (1311,)
+segments_timbre: shape = (1311, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.319565986883
+song_id: SOIRGRL12AB0186BC2
+start_of_fade_out: 351.469
+tatums_confidence: shape = (1701,)
+tatums_start: shape = (1701,)
+tempo: 93.106
+time_signature: 4
+time_signature_confidence: 0.0
+title: Exchange
+track_7digitalid: 6113831
+track_id: TRAAYTI128F933663B
+year: 1995

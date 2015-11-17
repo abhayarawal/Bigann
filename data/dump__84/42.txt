@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 498613
+artist_familiarity: 0.197460842196
+artist_hotttnesss: 0.0
+artist_id: ARCOAFH1269FCCF4AB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Fool'S Nose
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 0cb6f3813ba822b093fe584aa96be1d0
+bars_confidence: shape = (68,)
+bars_start: shape = (68,)
+beats_confidence: shape = (286,)
+beats_start: shape = (286,)
+danceability: 0.0
+duration: 202.00444
+end_of_fade_in: 2.839
+energy: 0.0
+key: 4
+key_confidence: 0.726
+loudness: -19.777
+mode: 0
+mode_confidence: 0.871
+release: Old News
+release_7digitalid: 668922
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (432,)
+segments_loudness_max: shape = (432,)
+segments_loudness_max_time: shape = (432,)
+segments_loudness_start: shape = (432,)
+segments_pitches: shape = (432, 12)
+segments_start: shape = (432,)
+segments_timbre: shape = (432, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.327736683178
+song_id: SOJRZPS12AB01853C9
+start_of_fade_out: 189.492
+tatums_confidence: shape = (859,)
+tatums_start: shape = (859,)
+tempo: 85.762
+time_signature: 4
+time_signature_confidence: 0.0
+title: The Last Song
+track_7digitalid: 7416580
+track_id: TRBCYIK12903CB93E7
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18929
+artist_familiarity: 0.645763146603
+artist_hotttnesss: 0.346084089894
+artist_id: ARI6OUG1187B989234
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7895507e-7b72-44d9-ab82-16ed0028572a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Izzy
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: c4d023484f9039b45b0b245f9aef6f17
+bars_confidence: shape = (405,)
+bars_start: shape = (405,)
+beats_confidence: shape = (405,)
+beats_start: shape = (405,)
+danceability: 0.0
+duration: 277.10649
+end_of_fade_in: 0.357
+energy: 0.0
+key: 1
+key_confidence: 0.659
+loudness: -17.91
+mode: 1
+mode_confidence: 0.651
+release: Ascolta
+release_7digitalid: 29186
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (712,)
+segments_loudness_max: shape = (712,)
+segments_loudness_max_time: shape = (712,)
+segments_loudness_start: shape = (712,)
+segments_pitches: shape = (712, 12)
+segments_start: shape = (712,)
+segments_timbre: shape = (712, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3759843015
+song_id: SOERWEA12A6D4F4CB8
+start_of_fade_out: 263.924
+tatums_confidence: shape = (810,)
+tatums_start: shape = (810,)
+tempo: 88.761
+time_signature: 1
+time_signature_confidence: 0.0
+title: Going Home
+track_7digitalid: 321409
+track_id: TRACFNG128F146A7F3
+year: 0

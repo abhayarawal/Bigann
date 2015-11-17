@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1237
+artist_familiarity: 0.93391610637
+artist_hotttnesss: 0.778673579184
+artist_id: AR52EZT1187B9900BF
+artist_latitude: 40.8079
+artist_location: Harlem, New York
+artist_longitude: -73.9454
+artist_mbid: 8ef1df30-ae4f-4dbd-9351-1a32b208a01e
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Alicia Keys
+artist_playmeid: 66
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 9b73ea6d116329441207c86252bafd71
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (442,)
+beats_start: shape = (442,)
+danceability: 0.0
+duration: 231.18322
+end_of_fade_in: 2.31
+energy: 0.0
+key: 7
+key_confidence: 0.55
+loudness: -8.414
+mode: 1
+mode_confidence: 0.566
+release: Essential-Soul Love
+release_7digitalid: 735352
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (745,)
+segments_loudness_max: shape = (745,)
+segments_loudness_max_time: shape = (745,)
+segments_loudness_start: shape = (745,)
+segments_pitches: shape = (745, 12)
+segments_start: shape = (745,)
+segments_timbre: shape = (745, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONTFNG12A8C13FF69
+start_of_fade_out: 212.643
+tatums_confidence: shape = (883,)
+tatums_start: shape = (883,)
+tempo: 118.273
+time_signature: 4
+time_signature_confidence: 0.0
+title: If I Ain't Got You
+track_7digitalid: 8147618
+track_id: TRASBVS12903CF4537
+year: 2003

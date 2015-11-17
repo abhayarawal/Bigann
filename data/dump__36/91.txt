@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 293676
+artist_familiarity: 0.453600538864
+artist_hotttnesss: 0.350803574069
+artist_id: ARN4IYF1187FB49D76
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 733fd871-62b7-4fa3-9c70-6e7aa6cdfe0e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pagan Wanderer Lu
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: f80befdca699520577ee7e556acf407c
+bars_confidence: shape = (244,)
+bars_start: shape = (244,)
+beats_confidence: shape = (736,)
+beats_start: shape = (736,)
+danceability: 0.0
+duration: 346.25261
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.72
+loudness: -7.523
+mode: 1
+mode_confidence: 0.718
+release: The Independent Scrutineer
+release_7digitalid: 383455
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (881,)
+segments_loudness_max: shape = (881,)
+segments_loudness_max_time: shape = (881,)
+segments_loudness_start: shape = (881,)
+segments_pitches: shape = (881, 12)
+segments_start: shape = (881,)
+segments_timbre: shape = (881, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOETFHY12AAF3B3FD4
+start_of_fade_out: 321.596
+tatums_confidence: shape = (1471,)
+tatums_start: shape = (1471,)
+tempo: 134.909
+time_signature: 3
+time_signature_confidence: 0.817
+title: Knight -> King 4
+track_7digitalid: 4253469
+track_id: TRAMNUL128F92DFD82
+year: 2006

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 471843
+artist_familiarity: 0.439191646343
+artist_hotttnesss: 0.233047852588
+artist_id: ARXTYER12086C167DD
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2e242987-67f7-435d-9c79-9c65586c1841
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Audio Pyper
+artist_playmeid: -1
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: b4028f31845a66ab2f7fa0bb917bbf02
+bars_confidence: shape = (209,)
+bars_start: shape = (209,)
+beats_confidence: shape = (838,)
+beats_start: shape = (838,)
+danceability: 0.0
+duration: 405.52444
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.016
+loudness: -12.98
+mode: 1
+mode_confidence: 0.135
+release: Soweto Jumpoff
+release_7digitalid: 802033
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (2075,)
+segments_loudness_max: shape = (2075,)
+segments_loudness_max_time: shape = (2075,)
+segments_loudness_start: shape = (2075,)
+segments_pitches: shape = (2075, 12)
+segments_start: shape = (2075,)
+segments_timbre: shape = (2075, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.235396042388
+song_id: SOUJZUN12AB0183A9B
+start_of_fade_out: 400.916
+tatums_confidence: shape = (1677,)
+tatums_start: shape = (1677,)
+tempo: 124.996
+time_signature: 4
+time_signature_confidence: 1.0
+title: Walk in the Park
+track_7digitalid: 8870084
+track_id: TRAQFGC12903CB9BCB
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 143296
+artist_familiarity: 0.485107917632
+artist_hotttnesss: 0.247340584238
+artist_id: ARU22AM1187B9961EA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ac839735-6abe-4a65-a18c-05f132574641
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: React
+artist_playmeid: 19849
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 83cb4481a89d8b3ef56185103181b503
+bars_confidence: shape = (263,)
+bars_start: shape = (263,)
+beats_confidence: shape = (263,)
+beats_start: shape = (263,)
+danceability: 0.0
+duration: 131.082
+end_of_fade_in: 0.681
+energy: 0.0
+key: 4
+key_confidence: 0.124
+loudness: -10.158
+mode: 0
+mode_confidence: 0.42
+release: Deus Ex Machina
+release_7digitalid: 220624
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (446,)
+segments_loudness_max: shape = (446,)
+segments_loudness_max_time: shape = (446,)
+segments_loudness_start: shape = (446,)
+segments_pitches: shape = (446, 12)
+segments_start: shape = (446,)
+segments_timbre: shape = (446, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOPGVOO12A8C13E37D
+start_of_fade_out: 125.411
+tatums_confidence: shape = (527,)
+tatums_start: shape = (527,)
+tempo: 126.412
+time_signature: 1
+time_signature_confidence: 0.361
+title: Fabrication
+track_7digitalid: 2408947
+track_id: TRANMYD128F428AD0B
+year: 0

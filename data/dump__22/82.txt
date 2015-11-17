@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 42897
+artist_familiarity: 0.440158293539
+artist_hotttnesss: 0.362572494278
+artist_id: ARIQZ2V1187B98E546
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a4f66024-7840-422f-8d33-ad4cd7d1f9fe
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: A-Studio
+artist_playmeid: -1
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: b8b0cc14ecc674591aab236e8a9f2257
+bars_confidence: shape = (378,)
+bars_start: shape = (378,)
+beats_confidence: shape = (378,)
+beats_start: shape = (378,)
+danceability: 0.0
+duration: 177.81506
+end_of_fade_in: 0.27
+energy: 0.0
+key: 1
+key_confidence: 0.558
+loudness: -7.625
+mode: 1
+mode_confidence: 0.402
+release: S.O.S.
+release_7digitalid: 37506
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (747,)
+segments_loudness_max: shape = (747,)
+segments_loudness_max_time: shape = (747,)
+segments_loudness_start: shape = (747,)
+segments_pitches: shape = (747, 12)
+segments_start: shape = (747,)
+segments_timbre: shape = (747, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMBLEC12A6D4F5761
+start_of_fade_out: 172.664
+tatums_confidence: shape = (755,)
+tatums_start: shape = (755,)
+tempo: 127.574
+time_signature: 1
+time_signature_confidence: 0.0
+title: S.O.S.
+track_7digitalid: 401900
+track_id: TRAHTDA128F147A055
+year: 0

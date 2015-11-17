@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 229621
+artist_familiarity: 0.351182453883
+artist_hotttnesss: 0.0801669386642
+artist_id: AR051KA1187B98B2FF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9db08847-f7a8-4cd2-a425-3ab4adc5b4d3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Wilks
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 15e5ac949ad8c0a272e850b907f43ace
+bars_confidence: shape = (91,)
+bars_start: shape = (91,)
+beats_confidence: shape = (377,)
+beats_start: shape = (377,)
+danceability: 0.0
+duration: 256.07791
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.664
+loudness: -8.527
+mode: 1
+mode_confidence: 0.613
+release: Brightess night
+release_7digitalid: 288450
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1044,)
+segments_loudness_max: shape = (1044,)
+segments_loudness_max_time: shape = (1044,)
+segments_loudness_start: shape = (1044,)
+segments_pitches: shape = (1044, 12)
+segments_start: shape = (1044,)
+segments_timbre: shape = (1044, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZKPDV12A8C136A4E
+start_of_fade_out: 239.119
+tatums_confidence: shape = (753,)
+tatums_start: shape = (753,)
+tempo: 90.006
+time_signature: 4
+time_signature_confidence: 0.932
+title: Brightess night
+track_7digitalid: 3237566
+track_id: TRAUQLK128F4275BE3
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6309
+artist_familiarity: 0.772871994592
+artist_hotttnesss: 0.473700501297
+artist_id: ARMPRI31187FB4F7D9
+artist_latitude: 39.37413
+artist_location: Volos, Greece
+artist_longitude: 22.95775
+artist_mbid: 57fca0e2-f9ad-4ae6-af9d-6a6f50cbcd5f
+artist_mbtags: shape = (15,)
+artist_mbtags_count: shape = (15,)
+artist_name: Vangelis
+artist_playmeid: 1655
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 66f449ccd5a47a44ee311ca387242823
+bars_confidence: shape = (413,)
+bars_start: shape = (413,)
+beats_confidence: shape = (413,)
+beats_start: shape = (413,)
+danceability: 0.0
+duration: 408.00608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.55
+loudness: -20.42
+mode: 1
+mode_confidence: 0.67
+release: El Greco
+release_7digitalid: 69294
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (852,)
+segments_loudness_max: shape = (852,)
+segments_loudness_max_time: shape = (852,)
+segments_loudness_start: shape = (852,)
+segments_pitches: shape = (852, 12)
+segments_start: shape = (852,)
+segments_timbre: shape = (852, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.427446571488
+song_id: SODLTPJ12A67ADB230
+start_of_fade_out: 371.839
+tatums_confidence: shape = (1238,)
+tatums_start: shape = (1238,)
+tempo: 62.216
+time_signature: 1
+time_signature_confidence: 0.487
+title: El Greco: Movement III
+track_7digitalid: 724599
+track_id: TRATRER128EF3441CE
+year: 1998

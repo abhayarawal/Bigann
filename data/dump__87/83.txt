@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 90981
+artist_familiarity: 0.830236216704
+artist_hotttnesss: 0.569239953735
+artist_id: AROBSHL1187B9AFB01
+artist_latitude: nan
+artist_location: SALINAS, California
+artist_longitude: nan
+artist_mbid: db008806-16f6-48fc-8521-3d953709689d
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: A Day To Remember
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: d13c488918e016b359959e7dbec827f0
+bars_confidence: shape = (99,)
+bars_start: shape = (99,)
+beats_confidence: shape = (398,)
+beats_start: shape = (398,)
+danceability: 0.0
+duration: 245.96853
+end_of_fade_in: 0.084
+energy: 0.0
+key: 3
+key_confidence: 0.53
+loudness: -4.301
+mode: 1
+mode_confidence: 0.578
+release: For Those Who Have Heart [Re-Issue]
+release_7digitalid: 204476
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (846,)
+segments_loudness_max: shape = (846,)
+segments_loudness_max_time: shape = (846,)
+segments_loudness_start: shape = (846,)
+segments_pitches: shape = (846, 12)
+segments_start: shape = (846,)
+segments_timbre: shape = (846, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.747181795707
+song_id: SOMDCSV12A6D4FCC4E
+start_of_fade_out: 238.51
+tatums_confidence: shape = (1591,)
+tatums_start: shape = (1591,)
+tempo: 100.013
+time_signature: 4
+time_signature_confidence: 0.416
+title: The Plot To Bomb The Panhandle (Album Version)
+track_7digitalid: 2267935
+track_id: TRBEEEP128F426C17D
+year: 0

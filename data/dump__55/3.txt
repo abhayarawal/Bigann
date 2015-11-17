@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 35758
+artist_familiarity: 0.423401377256
+artist_hotttnesss: 0.375652824002
+artist_id: ARCII0J1187FB3A1B4
+artist_latitude: 40.71455
+artist_location: New York City, New York
+artist_longitude: -74.00712
+artist_mbid: 36f93472-e1c2-45bc-b141-801e79b7de14
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Marx Brothers
+artist_playmeid: 86080
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 4c19bbf827b4764d4084e97de0c57937
+bars_confidence: shape = (19,)
+bars_start: shape = (19,)
+beats_confidence: shape = (192,)
+beats_start: shape = (192,)
+danceability: 0.0
+duration: 142.94159
+end_of_fade_in: 0.287
+energy: 0.0
+key: 9
+key_confidence: 0.167
+loudness: -11.371
+mode: 1
+mode_confidence: 0.222
+release: Ciné-Stars: The Marx Brothers
+release_7digitalid: 813097
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (412,)
+segments_loudness_max: shape = (412,)
+segments_loudness_max_time: shape = (412,)
+segments_loudness_start: shape = (412,)
+segments_pitches: shape = (412, 12)
+segments_start: shape = (412,)
+segments_timbre: shape = (412, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXQELE12AB01865A3
+start_of_fade_out: 137.543
+tatums_confidence: shape = (383,)
+tatums_start: shape = (383,)
+tempo: 81.035
+time_signature: 7
+time_signature_confidence: 0.421
+title: Un jour au Cirque: Two Blind Loves
+track_7digitalid: 8985897
+track_id: TRASUTO12903CD5E07
+year: 0

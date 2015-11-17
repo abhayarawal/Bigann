@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16919
+artist_familiarity: 0.681130241848
+artist_hotttnesss: 0.45339908329
+artist_id: AROATPL1187FB48E12
+artist_latitude: 34.16788
+artist_location: Arizona
+artist_longitude: -111.9307
+artist_mbid: f6b037df-35e8-4ef5-b59c-5634de1b44d4
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: UFO
+artist_playmeid: 32564
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 282f08e45e8f7774be65bb5fd167cc45
+bars_confidence: shape = (171,)
+bars_start: shape = (171,)
+beats_confidence: shape = (686,)
+beats_start: shape = (686,)
+danceability: 0.0
+duration: 314.17424
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.977
+loudness: -6.763
+mode: 1
+mode_confidence: 0.761
+release: Strangers In The Night (Remaster)
+release_7digitalid: 267742
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (943,)
+segments_loudness_max: shape = (943,)
+segments_loudness_max_time: shape = (943,)
+segments_loudness_start: shape = (943,)
+segments_pitches: shape = (943, 12)
+segments_start: shape = (943,)
+segments_timbre: shape = (943, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVOTBC12A6D4F696A
+start_of_fade_out: 314.174
+tatums_confidence: shape = (1372,)
+tatums_start: shape = (1372,)
+tempo: 131.5
+time_signature: 4
+time_signature_confidence: 0.071
+title: Out In The Street (Live) (2008 Digital Remaster)
+track_7digitalid: 2944491
+track_id: TRARINE128F4280B9C
+year: 0

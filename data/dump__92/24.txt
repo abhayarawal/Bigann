@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18188
+artist_familiarity: 0.603843764924
+artist_hotttnesss: 0.51281210294
+artist_id: ARZBOES1187FB40178
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bbad030f-bf55-4fc2-a643-248708e72f22
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Carlos Baute
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 5af8ba82698bb9116757a7db9ae1f130
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (482,)
+beats_start: shape = (482,)
+danceability: 0.0
+duration: 236.77342
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.587
+loudness: -4.548
+mode: 0
+mode_confidence: 0.487
+release: Directo en tus manos
+release_7digitalid: 586019
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (997,)
+segments_loudness_max: shape = (997,)
+segments_loudness_max_time: shape = (997,)
+segments_loudness_start: shape = (997,)
+segments_pitches: shape = (997, 12)
+segments_start: shape = (997,)
+segments_timbre: shape = (997, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.266955186276
+song_id: SOAIAWN12AB0187356
+start_of_fade_out: 236.773
+tatums_confidence: shape = (1445,)
+tatums_start: shape = (1445,)
+tempo: 122.645
+time_signature: 5
+time_signature_confidence: 0.749
+title: Pobre diabla (Directo 09)
+track_7digitalid: 6499295
+track_id: TRBFVRE12903CC70CA
+year: 0

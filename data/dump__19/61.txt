@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16929
+artist_familiarity: 0.705870923838
+artist_hotttnesss: 0.491178953749
+artist_id: ARDSWIE1187FB39056
+artist_latitude: nan
+artist_location: Boston, Massachusettes
+artist_longitude: nan
+artist_mbid: 9ef8042a-2528-4f5c-b7c1-5e72b1efe170
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Gang Starr
+artist_playmeid: 2938
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 354fb04495f7808f7cbac8df0cc73ace
+bars_confidence: shape = (55,)
+bars_start: shape = (55,)
+beats_confidence: shape = (223,)
+beats_start: shape = (223,)
+danceability: 0.0
+duration: 84.63628
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.829
+loudness: -18.7
+mode: 1
+mode_confidence: 0.672
+release: Step In The Arena
+release_7digitalid: 24239
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (356,)
+segments_loudness_max: shape = (356,)
+segments_loudness_max_time: shape = (356,)
+segments_loudness_start: shape = (356,)
+segments_pitches: shape = (356, 12)
+segments_start: shape = (356,)
+segments_timbre: shape = (356, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.572593044816
+song_id: SOLNHID12A58A78106
+start_of_fade_out: 72.464
+tatums_confidence: shape = (446,)
+tatums_start: shape = (446,)
+tempo: 166.092
+time_signature: 4
+time_signature_confidence: 1.0
+title: Say Your Prayers
+track_7digitalid: 255000
+track_id: TRAGQVO128F145C0AF
+year: 1991

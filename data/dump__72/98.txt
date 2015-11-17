@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19361
+artist_familiarity: 0.614431579567
+artist_hotttnesss: 0.383211422216
+artist_id: ARZCHLM1187FB495C3
+artist_latitude: nan
+artist_location: Brooklyn, NY
+artist_longitude: nan
+artist_mbid: 169153fd-ba80-401a-8ccd-2825efaf9155
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ray Barretto
+artist_playmeid: 6839
+artist_terms: shape = (50,)
+artist_terms_freq: shape = (50,)
+artist_terms_weight: shape = (50,)
+audio_md5: 64cb0e0f253b45f1e370e6278d5cd9e3
+bars_confidence: shape = (218,)
+bars_start: shape = (218,)
+beats_confidence: shape = (885,)
+beats_start: shape = (885,)
+danceability: 0.0
+duration: 538.06975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.22
+loudness: -8.869
+mode: 1
+mode_confidence: 0.33
+release: Tomorrow: Barretto Live
+release_7digitalid: 53749
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (2236,)
+segments_loudness_max: shape = (2236,)
+segments_loudness_max_time: shape = (2236,)
+segments_loudness_start: shape = (2236,)
+segments_pitches: shape = (2236, 12)
+segments_start: shape = (2236,)
+segments_timbre: shape = (2236, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOYRWCZ12A58A7F91B
+start_of_fade_out: 532.828
+tatums_confidence: shape = (2657,)
+tatums_start: shape = (2657,)
+tempo: 98.453
+time_signature: 4
+time_signature_confidence: 0.472
+title: Guarare (Live At The Beacon Theatre)
+track_7digitalid: 560573
+track_id: TRAYYGS128F1495E48
+year: 0

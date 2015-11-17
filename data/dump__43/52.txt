@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1613
+artist_familiarity: 0.832011769132
+artist_hotttnesss: 0.677482479432
+artist_id: ARC8CQZ1187B98DECA
+artist_latitude: nan
+artist_location: Galveston, TX
+artist_longitude: nan
+artist_mbid: ff6e677f-91dd-4986-a174-8db0474b1799
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Jack Johnson
+artist_playmeid: 759
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: c08ddb22150d4d3f189ee94a0c6c4b73
+bars_confidence: shape = (155,)
+bars_start: shape = (155,)
+beats_confidence: shape = (623,)
+beats_start: shape = (623,)
+danceability: 0.0
+duration: 264.82893
+end_of_fade_in: 0.259
+energy: 0.0
+key: 11
+key_confidence: 0.015
+loudness: -6.892
+mode: 0
+mode_confidence: 0.17
+release: Sleep Through The Static: Remixed
+release_7digitalid: 277881
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1086,)
+segments_loudness_max: shape = (1086,)
+segments_loudness_max_time: shape = (1086,)
+segments_loudness_start: shape = (1086,)
+segments_pitches: shape = (1086, 12)
+segments_start: shape = (1086,)
+segments_timbre: shape = (1086, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.737615569884
+song_id: SOWGZFG12A8151AF41
+start_of_fade_out: 252.395
+tatums_confidence: shape = (1246,)
+tatums_start: shape = (1246,)
+tempo: 142.449
+time_signature: 4
+time_signature_confidence: 0.435
+title: Monsoon
+track_7digitalid: 3096547
+track_id: TRAOWBP128F4257C64
+year: 2008

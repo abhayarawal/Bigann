@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 177661
+artist_familiarity: 0.481621471385
+artist_hotttnesss: 0.384201629173
+artist_id: ARMWXUE1187B9B9D3D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3f31ba10-40a9-46c0-8ca1-144e141594ed
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Los Titanes
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 3826b51ab116f080d242af14a51482bd
+bars_confidence: shape = (90,)
+bars_start: shape = (90,)
+beats_confidence: shape = (364,)
+beats_start: shape = (364,)
+danceability: 0.0
+duration: 214.17751
+end_of_fade_in: 0.183
+energy: 0.0
+key: 2
+key_confidence: 0.196
+loudness: -6.453
+mode: 1
+mode_confidence: 0.559
+release: Rumba Que Te Tumba
+release_7digitalid: 234738
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1049,)
+segments_loudness_max: shape = (1049,)
+segments_loudness_max_time: shape = (1049,)
+segments_loudness_start: shape = (1049,)
+segments_pitches: shape = (1049, 12)
+segments_start: shape = (1049,)
+segments_timbre: shape = (1049, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.465641757479
+song_id: SOISHGK12A8AE452B3
+start_of_fade_out: 210.483
+tatums_confidence: shape = (1453,)
+tatums_start: shape = (1453,)
+tempo: 103.548
+time_signature: 4
+time_signature_confidence: 0.41
+title: No La Dejes Sola
+track_7digitalid: 2576574
+track_id: TRAHRQI128F422BF78
+year: 2008

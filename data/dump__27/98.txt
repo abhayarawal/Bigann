@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 236233
+artist_familiarity: 0.512687131327
+artist_hotttnesss: 0.370628891638
+artist_id: ARLAEJO1187B98DB85
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 22d8f80a-6e2d-41cf-be36-104f5192ffcf
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: FU-Schnickens
+artist_playmeid: 8331
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: befce90c8ecb0d0f333c1c3dd4f9d17c
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (472,)
+beats_start: shape = (472,)
+danceability: 0.0
+duration: 276.94975
+end_of_fade_in: 0.421
+energy: 0.0
+key: 11
+key_confidence: 0.512
+loudness: -9.716
+mode: 0
+mode_confidence: 0.669
+release: Greatest Hits
+release_7digitalid: 302144
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1232,)
+segments_loudness_max: shape = (1232,)
+segments_loudness_max_time: shape = (1232,)
+segments_loudness_start: shape = (1232,)
+segments_pitches: shape = (1232, 12)
+segments_start: shape = (1232,)
+segments_timbre: shape = (1232, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.606807292841
+song_id: SOQORHS12A8C13B8BD
+start_of_fade_out: 266.217
+tatums_confidence: shape = (944,)
+tatums_start: shape = (944,)
+tempo: 102.739
+time_signature: 4
+time_signature_confidence: 1.0
+title: Heavenly Father
+track_7digitalid: 3415380
+track_id: TRAJJNB128F42A0A4F
+year: 1992

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41556
+artist_familiarity: 0.67323869066
+artist_hotttnesss: 0.479204557694
+artist_id: AR87K371187FB5AA8E
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: f1548c5b-329e-4036-921c-02213a04b525
+artist_mbtags: shape = (14,)
+artist_mbtags_count: shape = (14,)
+artist_name: Uriah Heep
+artist_playmeid: -1
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 6f3b5c252ff67c9a63638003ea3b5b0e
+bars_confidence: shape = (132,)
+bars_start: shape = (132,)
+beats_confidence: shape = (532,)
+beats_start: shape = (532,)
+danceability: 0.0
+duration: 214.25587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.037
+loudness: -8.151
+mode: 1
+mode_confidence: 0.395
+release: Official Bootleg: Live At Sweden Rock Festival 2009
+release_7digitalid: 747034
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (675,)
+segments_loudness_max: shape = (675,)
+segments_loudness_max_time: shape = (675,)
+segments_loudness_start: shape = (675,)
+segments_pitches: shape = (675, 12)
+segments_start: shape = (675,)
+segments_timbre: shape = (675, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.250199557941
+song_id: SOPIHMB12AC468E0DD
+start_of_fade_out: 209.287
+tatums_confidence: shape = (1595,)
+tatums_start: shape = (1595,)
+tempo: 149.921
+time_signature: 4
+time_signature_confidence: 0.025
+title: Ghost of the Ocean (Live)
+track_7digitalid: 8267714
+track_id: TRAMWLL12903D119DA
+year: 0

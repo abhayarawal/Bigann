@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 43334
+artist_familiarity: 0.629751605102
+artist_hotttnesss: 0.53141175199
+artist_id: AR7ZI7Z1187B98BF55
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fa3b825f-7c85-4377-b393-d28a2016e293
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mago de Oz
+artist_playmeid: -1
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 0c0a9fa7156c54014fa00a69dd73e628
+bars_confidence: shape = (135,)
+bars_start: shape = (135,)
+beats_confidence: shape = (686,)
+beats_start: shape = (686,)
+danceability: 0.0
+duration: 380.682
+end_of_fade_in: 0.177
+energy: 0.0
+key: 2
+key_confidence: 0.184
+loudness: -7.736
+mode: 1
+mode_confidence: 0.476
+release: Gaia II
+release_7digitalid: 130398
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1082,)
+segments_loudness_max: shape = (1082,)
+segments_loudness_max_time: shape = (1082,)
+segments_loudness_start: shape = (1082,)
+segments_pitches: shape = (1082, 12)
+segments_start: shape = (1082,)
+segments_timbre: shape = (1082, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.679686054744
+song_id: SOKNFFM12A81C216F3
+start_of_fade_out: 341.769
+tatums_confidence: shape = (1372,)
+tatums_start: shape = (1372,)
+tempo: 110.255
+time_signature: 5
+time_signature_confidence: 0.679
+title: Desde mi cielo
+track_7digitalid: 1351218
+track_id: TRAGDLM128F4233397
+year: 2005

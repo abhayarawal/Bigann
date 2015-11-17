@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41417
+artist_familiarity: 0.510367932469
+artist_hotttnesss: 0.405080353325
+artist_id: ARHK7A51187FB411D8
+artist_latitude: 40.58751
+artist_location: Redding, CA
+artist_longitude: -122.39293
+artist_mbid: 90dcf7e4-4df5-44cb-a120-3765db263418
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Roy Rogers
+artist_playmeid: 118077
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 5ac0ced8208058b84d1c8dc70d90733a
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (237,)
+beats_start: shape = (237,)
+danceability: 0.0
+duration: 146.07628
+end_of_fade_in: 0.235
+energy: 0.0
+key: 9
+key_confidence: 0.535
+loudness: -15.913
+mode: 0
+mode_confidence: 0.458
+release: Ride Ranger Ride
+release_7digitalid: 69802
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (554,)
+segments_loudness_max: shape = (554,)
+segments_loudness_max_time: shape = (554,)
+segments_loudness_start: shape = (554,)
+segments_pitches: shape = (554, 12)
+segments_start: shape = (554,)
+segments_timbre: shape = (554, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAOTOX12A58A7C308
+start_of_fade_out: 139.349
+tatums_confidence: shape = (475,)
+tatums_start: shape = (475,)
+tempo: 101.195
+time_signature: 3
+time_signature_confidence: 0.582
+title: My Chickasay Girl
+track_7digitalid: 731171
+track_id: TRAJADN128EF3453AE
+year: 0

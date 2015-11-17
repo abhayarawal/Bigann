@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 14530
+artist_familiarity: 0.829135422075
+artist_hotttnesss: 0.528709934432
+artist_id: ARMBTFC1187FB56343
+artist_latitude: nan
+artist_location: Bakersfield, CA
+artist_longitude: nan
+artist_mbid: ac865b2e-bba8-4f5a-8756-dd40d5e39f46
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Korn
+artist_playmeid: 878
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 6d41911238a7c5a91ece0388a5fd233d
+bars_confidence: shape = (106,)
+bars_start: shape = (106,)
+beats_confidence: shape = (429,)
+beats_start: shape = (429,)
+danceability: 0.0
+duration: 231.73179
+end_of_fade_in: 0.305
+energy: 0.0
+key: 2
+key_confidence: 0.182
+loudness: -6.378
+mode: 1
+mode_confidence: 0.276
+release: Crossing All Over Vol. 12
+release_7digitalid: 303436
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (756,)
+segments_loudness_max: shape = (756,)
+segments_loudness_max_time: shape = (756,)
+segments_loudness_start: shape = (756,)
+segments_pitches: shape = (756, 12)
+segments_start: shape = (756,)
+segments_timbre: shape = (756, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKQDCS12AF72A920F
+start_of_fade_out: 223.312
+tatums_confidence: shape = (857,)
+tatums_start: shape = (857,)
+tempo: 110.071
+time_signature: 4
+time_signature_confidence: 0.762
+title: Make Me Bad
+track_7digitalid: 3452284
+track_id: TRAGOVG128F42A963D
+year: 1999

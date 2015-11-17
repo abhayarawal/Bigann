@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 468940
+artist_familiarity: 0.228730309785
+artist_hotttnesss: 0.308303461876
+artist_id: ARDUJZJ1252CCFA253
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e27aaef2-a487-40e6-ba01-432c2008fa92
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Whitney Cummings
+artist_playmeid: -1
+artist_terms: shape = (9,)
+artist_terms_freq: shape = (9,)
+artist_terms_weight: shape = (9,)
+audio_md5: ec025688cf03e8d943868446ab414f12
+bars_confidence: shape = (86,)
+bars_start: shape = (86,)
+beats_confidence: shape = (86,)
+beats_start: shape = (86,)
+danceability: 0.0
+duration: 48.63955
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.14
+loudness: -4.429
+mode: 0
+mode_confidence: 0.241
+release: Emotional Ninja
+release_7digitalid: 629748
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (178,)
+segments_loudness_max: shape = (178,)
+segments_loudness_max_time: shape = (178,)
+segments_loudness_start: shape = (178,)
+segments_pitches: shape = (178, 12)
+segments_start: shape = (178,)
+segments_timbre: shape = (178, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOVZRDZ12AB0185294
+start_of_fade_out: 48.64
+tatums_confidence: shape = (174,)
+tatums_start: shape = (174,)
+tempo: 106.41
+time_signature: 1
+time_signature_confidence: 0.0
+title: Romance
+track_7digitalid: 6989919
+track_id: TRAHRSA128F93235CB
+year: 2009

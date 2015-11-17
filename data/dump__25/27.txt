@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18960
+artist_familiarity: 0.526515278111
+artist_hotttnesss: 0.406581680352
+artist_id: ARVMFE61187B992463
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5326f884-ae4e-452f-97de-0a047facc16f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Darwin Hobbs
+artist_playmeid: 70495
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 96a70e0652adefe31264c586fb7c834e
+bars_confidence: shape = (113,)
+bars_start: shape = (113,)
+beats_confidence: shape = (454,)
+beats_start: shape = (454,)
+danceability: 0.0
+duration: 307.69587
+end_of_fade_in: 0.404
+energy: 0.0
+key: 7
+key_confidence: 0.551
+loudness: -10.44
+mode: 0
+mode_confidence: 0.67
+release: Mercy
+release_7digitalid: 65522
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1218,)
+segments_loudness_max: shape = (1218,)
+segments_loudness_max_time: shape = (1218,)
+segments_loudness_start: shape = (1218,)
+segments_pitches: shape = (1218, 12)
+segments_start: shape = (1218,)
+segments_timbre: shape = (1218, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.233895616786
+song_id: SOAPLUZ12A6D4F9CD2
+start_of_fade_out: 297.935
+tatums_confidence: shape = (1817,)
+tatums_start: shape = (1817,)
+tempo: 89.941
+time_signature: 4
+time_signature_confidence: 0.505
+title: Mercy (Album Version)
+track_7digitalid: 683448
+track_id: TRAIMDW128F14B0B75
+year: 0

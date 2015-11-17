@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1169
+artist_familiarity: 0.796420043773
+artist_hotttnesss: 0.574497025958
+artist_id: AR3MSAN1187B98F06B
+artist_latitude: 33.74831
+artist_location: Atlanta, GA
+artist_longitude: -84.39111
+artist_mbid: 73fdb566-a9b1-494c-9f32-51768ec9fd27
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: OutKast featuring George Clinton
+artist_playmeid: 1214
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 8de045fefb627cd7e733cfc9c2c43489
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (489,)
+beats_start: shape = (489,)
+danceability: 0.0
+duration: 311.30077
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.433
+loudness: -6.791
+mode: 1
+mode_confidence: 0.768
+release: Aquemini
+release_7digitalid: 294877
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1512,)
+segments_loudness_max: shape = (1512,)
+segments_loudness_max_time: shape = (1512,)
+segments_loudness_start: shape = (1512,)
+segments_pitches: shape = (1512, 12)
+segments_start: shape = (1512,)
+segments_timbre: shape = (1512, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.62749485367
+song_id: SOJSJBM12A8C1390D7
+start_of_fade_out: 303.531
+tatums_confidence: shape = (1955,)
+tatums_start: shape = (1955,)
+tempo: 94.904
+time_signature: 4
+time_signature_confidence: 0.575
+title: Synthesizer
+track_7digitalid: 3333944
+track_id: TRAOHNR128F428CD58
+year: 1998

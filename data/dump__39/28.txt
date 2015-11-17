@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 61847
+artist_familiarity: 0.683066416462
+artist_hotttnesss: 0.382458546879
+artist_id: ARNORNI1187B98CAFB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ad1a8b51-4a74-4cb9-a6a9-7ea9ebfce607
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Byron Cage featuring Tye Tribbett
+artist_playmeid: 8677
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: cea516f0a7f0f24ceb60e6bde1cab27e
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (483,)
+beats_start: shape = (483,)
+danceability: 0.0
+duration: 240.43057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.26
+loudness: -4.681
+mode: 1
+mode_confidence: 0.311
+release: Faithful To Believe
+release_7digitalid: 623902
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1039,)
+segments_loudness_max: shape = (1039,)
+segments_loudness_max_time: shape = (1039,)
+segments_loudness_start: shape = (1039,)
+segments_pitches: shape = (1039, 12)
+segments_start: shape = (1039,)
+segments_timbre: shape = (1039, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOGBFJS12AB0183AB7
+start_of_fade_out: 231.01
+tatums_confidence: shape = (965,)
+tatums_start: shape = (965,)
+tempo: 119.194
+time_signature: 4
+time_signature_confidence: 0.609
+title: In The Midst
+track_7digitalid: 6926072
+track_id: TRANLHJ128F9313CA4
+year: 0

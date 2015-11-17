@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4695
+artist_familiarity: 0.573612399375
+artist_hotttnesss: 0.37225120793
+artist_id: AR11NP91187B9901B4
+artist_latitude: nan
+artist_location: New York City
+artist_longitude: nan
+artist_mbid: 4ee9f5ed-5f20-41a7-b467-72c79549a67d
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: The Roches
+artist_playmeid: -1
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 4f56c3d0d1e8f537a11c95e2600adf97
+bars_confidence: shape = (176,)
+bars_start: shape = (176,)
+beats_confidence: shape = (706,)
+beats_start: shape = (706,)
+danceability: 0.0
+duration: 295.13098
+end_of_fade_in: 0.143
+energy: 0.0
+key: 9
+key_confidence: 0.924
+loudness: -12.512
+mode: 1
+mode_confidence: 0.755
+release: Keep On Doing
+release_7digitalid: 762408
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (796,)
+segments_loudness_max: shape = (796,)
+segments_loudness_max_time: shape = (796,)
+segments_loudness_start: shape = (796,)
+segments_pitches: shape = (796, 12)
+segments_start: shape = (796,)
+segments_timbre: shape = (796, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHYYEY12AB0185DAD
+start_of_fade_out: 284.003
+tatums_confidence: shape = (1413,)
+tatums_start: shape = (1413,)
+tempo: 147.087
+time_signature: 4
+time_signature_confidence: 0.839
+title: Losing True (Album Version)
+track_7digitalid: 8440211
+track_id: TRBEIBI12903CC4C7B
+year: 1982

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 200348
+artist_familiarity: 0.0898591286977
+artist_hotttnesss: 0.0
+artist_id: ARF9HO21187B9A0D81
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fd7cef6b-5faf-471c-890f-dd403829acc6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Emile Vacher
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 503f3b317dff84087ab4433031df7232
+bars_confidence: shape = (641,)
+bars_start: shape = (641,)
+beats_confidence: shape = (641,)
+beats_start: shape = (641,)
+danceability: 0.0
+duration: 173.21751
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.906
+loudness: -9.594
+mode: 1
+mode_confidence: 0.696
+release: L'Accordéon du tour de France
+release_7digitalid: 420625
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (975,)
+segments_loudness_max: shape = (975,)
+segments_loudness_max_time: shape = (975,)
+segments_loudness_start: shape = (975,)
+segments_pitches: shape = (975, 12)
+segments_start: shape = (975,)
+segments_timbre: shape = (975, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOZPOZE12AB0184DF0
+start_of_fade_out: 167.636
+tatums_confidence: shape = (1283,)
+tatums_start: shape = (1283,)
+tempo: 227.236
+time_signature: 1
+time_signature_confidence: 0.0
+title: Plaisance-Fox
+track_7digitalid: 4692731
+track_id: TRBAKRU128F9339497
+year: 0

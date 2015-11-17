@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 83845
+artist_familiarity: 0.483278657332
+artist_hotttnesss: 0.360628716136
+artist_id: AR8QHU51187B9A3341
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 066d5379-eb60-4f46-be4d-ebd40495baea
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Leo Ku
+artist_playmeid: 61240
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: b0ea8329fae4af970f66701706f005b1
+bars_confidence: shape = (126,)
+bars_start: shape = (126,)
+beats_confidence: shape = (508,)
+beats_start: shape = (508,)
+danceability: 0.0
+duration: 280.55465
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.299
+loudness: -9.801
+mode: 1
+mode_confidence: 0.4
+release: Steel Box Collection - Leo Ku
+release_7digitalid: 545975
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (817,)
+segments_loudness_max: shape = (817,)
+segments_loudness_max_time: shape = (817,)
+segments_loudness_start: shape = (817,)
+segments_pitches: shape = (817, 12)
+segments_start: shape = (817,)
+segments_timbre: shape = (817, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOFGBS12AB017F30A
+start_of_fade_out: 274.901
+tatums_confidence: shape = (1016,)
+tatums_start: shape = (1016,)
+tempo: 110.007
+time_signature: 4
+time_signature_confidence: 1.0
+title: Ai De Jie Shi
+track_7digitalid: 6041178
+track_id: TRAHZSF128F9324CED
+year: 0

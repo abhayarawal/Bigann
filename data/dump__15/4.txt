@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3310
+artist_familiarity: 0.736440740676
+artist_hotttnesss: 0.526846925184
+artist_id: ART3KT21187FB450DC
+artist_latitude: nan
+artist_location: Rome, Italy
+artist_longitude: nan
+artist_mbid: a16e47f5-aa54-47fe-87e4-bb8af91a9fdd
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Ennio Morricone
+artist_playmeid: 553
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: e064328273b03e414c3ee3561709a8b4
+bars_confidence: shape = (406,)
+bars_start: shape = (406,)
+beats_confidence: shape = (406,)
+beats_start: shape = (406,)
+danceability: 0.0
+duration: 228.49261
+end_of_fade_in: 7.918
+energy: 0.0
+key: 0
+key_confidence: 0.718
+loudness: -18.086
+mode: 1
+mode_confidence: 0.686
+release: Mussolini Ultimo Atto
+release_7digitalid: 197289
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (496,)
+segments_loudness_max: shape = (496,)
+segments_loudness_max_time: shape = (496,)
+segments_loudness_start: shape = (496,)
+segments_pitches: shape = (496, 12)
+segments_start: shape = (496,)
+segments_timbre: shape = (496, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBZOHA12A8C135417
+start_of_fade_out: 214.756
+tatums_confidence: shape = (813,)
+tatums_start: shape = (813,)
+tempo: 110.674
+time_signature: 1
+time_signature_confidence: 0.0
+title: S.O.S.la Fine (Reprise 2
+track_7digitalid: 2144428
+track_id: TRAFBMB128F424FAA4
+year: 0

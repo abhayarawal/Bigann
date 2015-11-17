@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4708
+artist_familiarity: 0.567510985929
+artist_hotttnesss: 0.430897608715
+artist_id: ARGY9FW1187B991C7D
+artist_latitude: nan
+artist_location: Minneapolis, MN
+artist_longitude: nan
+artist_mbid: 051439e5-478e-4c03-8bea-774ad0c28c12
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Information Society
+artist_playmeid: 45899
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: a8a358af59ec98fdcb152602a069aa2e
+bars_confidence: shape = (92,)
+bars_start: shape = (92,)
+beats_confidence: shape = (378,)
+beats_start: shape = (378,)
+danceability: 0.0
+duration: 251.61098
+end_of_fade_in: 6.153
+energy: 0.0
+key: 9
+key_confidence: 0.578
+loudness: -13.573
+mode: 1
+mode_confidence: 0.606
+release: Hack
+release_7digitalid: 138445
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (706,)
+segments_loudness_max: shape = (706,)
+segments_loudness_max_time: shape = (706,)
+segments_loudness_start: shape = (706,)
+segments_pitches: shape = (706, 12)
+segments_start: shape = (706,)
+segments_timbre: shape = (706, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SORFWYL12A8AE47846
+start_of_fade_out: 233.006
+tatums_confidence: shape = (756,)
+tatums_start: shape = (756,)
+tempo: 90.011
+time_signature: 4
+time_signature_confidence: 0.751
+title: Slipping Away/Here Is Kazmeyer
+track_7digitalid: 1437367
+track_id: TRBFQHY128F4242356
+year: 1990

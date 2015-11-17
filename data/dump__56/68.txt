@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23001
+artist_familiarity: 0.545364352993
+artist_hotttnesss: 0.4045752264
+artist_id: ARQ30G91187B9B8C12
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 900041e6-03f9-4bc3-a4cd-68452dd1ea2d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Steinski
+artist_playmeid: -1
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: af5a1bc445c92321ad9c48d423b3f8cc
+bars_confidence: shape = (21,)
+bars_start: shape = (21,)
+beats_confidence: shape = (89,)
+beats_start: shape = (89,)
+danceability: 0.0
+duration: 52.4273
+end_of_fade_in: 0.232
+energy: 0.0
+key: 8
+key_confidence: 0.505
+loudness: -18.604
+mode: 1
+mode_confidence: 0.455
+release: What Does It All Mean? - 1983-2006 Retrospective
+release_7digitalid: 534612
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (169,)
+segments_loudness_max: shape = (169,)
+segments_loudness_max_time: shape = (169,)
+segments_loudness_start: shape = (169,)
+segments_pitches: shape = (169, 12)
+segments_start: shape = (169,)
+segments_timbre: shape = (169, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.355285536423
+song_id: SOITFJA12AB01824A9
+start_of_fade_out: 52.427
+tatums_confidence: shape = (178,)
+tatums_start: shape = (178,)
+tempo: 110.048
+time_signature: 4
+time_signature_confidence: 0.114
+title: Silent Partner (Peace Out)
+track_7digitalid: 5912458
+track_id: TRATIHR128F9305D63
+year: 2003

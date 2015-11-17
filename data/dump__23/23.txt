@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 87908
+artist_familiarity: 0.471212607351
+artist_hotttnesss: 0.340275507301
+artist_id: AR00LNI1187FB444A5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7e836d29-fc2d-4a1f-b8da-566d47c49eed
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bruce BecVar
+artist_playmeid: 75833
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: f3fe291b6ffccb94b094042b3c494e76
+bars_confidence: shape = (17,)
+bars_start: shape = (17,)
+beats_confidence: shape = (169,)
+beats_start: shape = (169,)
+danceability: 0.0
+duration: 226.82077
+end_of_fade_in: 1.214
+energy: 0.0
+key: 0
+key_confidence: 0.396
+loudness: -12.778
+mode: 1
+mode_confidence: 0.442
+release: Rhythms Of Life
+release_7digitalid: 111881
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (719,)
+segments_loudness_max: shape = (719,)
+segments_loudness_max_time: shape = (719,)
+segments_loudness_start: shape = (719,)
+segments_pitches: shape = (719, 12)
+segments_start: shape = (719,)
+segments_timbre: shape = (719, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.518759897997
+song_id: SOCCSCK12A58A7B859
+start_of_fade_out: 224.223
+tatums_confidence: shape = (675,)
+tatums_start: shape = (675,)
+tempo: 45.43
+time_signature: 4
+time_signature_confidence: 1.0
+title: Razamataz
+track_7digitalid: 1156760
+track_id: TRAHVYQ128F429826B
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 132429
+artist_familiarity: 0.0189175672261
+artist_hotttnesss: 0.0
+artist_id: ARBGXIG122988F409D
+artist_latitude: 37.77916
+artist_location: California - SF
+artist_longitude: -122.42005
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Steel Rain
+artist_playmeid: 156346
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: bf35f54e6f5e886b05b67ce5bc7be4c3
+bars_confidence: shape = (131,)
+bars_start: shape = (131,)
+beats_confidence: shape = (528,)
+beats_start: shape = (528,)
+danceability: 0.0
+duration: 235.20608
+end_of_fade_in: 0.938
+energy: 0.0
+key: 3
+key_confidence: 0.413
+loudness: -8.045
+mode: 0
+mode_confidence: 0.414
+release: Trial and Error
+release_7digitalid: 173863
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (709,)
+segments_loudness_max: shape = (709,)
+segments_loudness_max_time: shape = (709,)
+segments_loudness_start: shape = (709,)
+segments_pitches: shape = (709, 12)
+segments_start: shape = (709,)
+segments_timbre: shape = (709, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODLIMH12A8C141988
+start_of_fade_out: 226.992
+tatums_confidence: shape = (1056,)
+tatums_start: shape = (1056,)
+tempo: 138.311
+time_signature: 4
+time_signature_confidence: 0.71
+title: Sanity Fades
+track_7digitalid: 1860265
+track_id: TRBEJVP128F429D21B
+year: 0

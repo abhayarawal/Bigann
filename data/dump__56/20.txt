@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 126701
+artist_familiarity: 0.41091288073
+artist_hotttnesss: 0.312678559631
+artist_id: ARLCGW21187B9929EE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f8b180f7-eca1-43b8-93c1-c2560edcca21
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Juan Carmona
+artist_playmeid: 127077
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 78b29be59dcd6363febd6bae8b5c4d5c
+bars_confidence: shape = (53,)
+bars_start: shape = (53,)
+beats_confidence: shape = (216,)
+beats_start: shape = (216,)
+danceability: 0.0
+duration: 203.85914
+end_of_fade_in: 0.263
+energy: 0.0
+key: 4
+key_confidence: 0.039
+loudness: -10.0
+mode: 1
+mode_confidence: 0.218
+release: Borboreo
+release_7digitalid: 684333
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (991,)
+segments_loudness_max: shape = (991,)
+segments_loudness_max_time: shape = (991,)
+segments_loudness_start: shape = (991,)
+segments_pitches: shape = (991, 12)
+segments_start: shape = (991,)
+segments_timbre: shape = (991, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOIXVH12AC3DF9B00
+start_of_fade_out: 199.732
+tatums_confidence: shape = (1294,)
+tatums_start: shape = (1294,)
+tempo: 64.475
+time_signature: 4
+time_signature_confidence: 0.0
+title: Nino ven pa'ca
+track_7digitalid: 7594912
+track_id: TRATDYC12903CE48BD
+year: 0

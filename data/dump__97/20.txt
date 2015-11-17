@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 88647
+artist_familiarity: 0.592494980056
+artist_hotttnesss: 0.350628946897
+artist_id: AR1VCLT1187FB4C8AC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 30e1fa3d-f70f-434e-9ad0-110d077fce02
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tum Tum
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 81d88df2c29e88b8020c2051eaddf5fd
+bars_confidence: shape = (136,)
+bars_start: shape = (136,)
+beats_confidence: shape = (548,)
+beats_start: shape = (548,)
+danceability: 0.0
+duration: 231.33995
+end_of_fade_in: 0.258
+energy: 0.0
+key: 11
+key_confidence: 0.663
+loudness: -3.048
+mode: 0
+mode_confidence: 0.514
+release: Eat Or Get Ate
+release_7digitalid: 113008
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (941,)
+segments_loudness_max: shape = (941,)
+segments_loudness_max_time: shape = (941,)
+segments_loudness_start: shape = (941,)
+segments_pitches: shape = (941, 12)
+segments_start: shape = (941,)
+segments_timbre: shape = (941, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYIGVZ12A8C13C73D
+start_of_fade_out: 225.541
+tatums_confidence: shape = (1096,)
+tatums_start: shape = (1096,)
+tempo: 144.412
+time_signature: 4
+time_signature_confidence: 0.524
+title: Eat Or Get Ate
+track_7digitalid: 1166001
+track_id: TRBHKYJ128F429A0A8
+year: 2007

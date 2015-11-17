@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 174366
+artist_familiarity: 0.471894875515
+artist_hotttnesss: 0.355491136025
+artist_id: ARJRF841187B9B7F9A
+artist_latitude: 48.20254
+artist_location: Vienna, Austria
+artist_longitude: 16.3688
+artist_mbid: e466fb04-0175-4875-bb39-f50200b66805
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Max Steiner
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: c7b275cb0c7a17cc83d896cefd2d0553
+bars_confidence: shape = (489,)
+bars_start: shape = (489,)
+beats_confidence: shape = (489,)
+beats_start: shape = (489,)
+danceability: 0.0
+duration: 145.84118
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.583
+loudness: -14.528
+mode: 0
+mode_confidence: 0.637
+release: King Kong
+release_7digitalid: 535776
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (318,)
+segments_loudness_max: shape = (318,)
+segments_loudness_max_time: shape = (318,)
+segments_loudness_start: shape = (318,)
+segments_pitches: shape = (318, 12)
+segments_start: shape = (318,)
+segments_timbre: shape = (318, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOCQDX12AB0183B9E
+start_of_fade_out: 141.462
+tatums_confidence: shape = (489,)
+tatums_start: shape = (489,)
+tempo: 202.496
+time_signature: 1
+time_signature_confidence: 0.0
+title: The Scarifice Ceremony
+track_7digitalid: 5924610
+track_id: TRAWLTZ128F9308CC9
+year: 1993

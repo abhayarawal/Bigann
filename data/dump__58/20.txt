@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3380
+artist_familiarity: 0.565452291658
+artist_hotttnesss: 0.35241012681
+artist_id: ARVAE6W1187FB3CAF3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f115c91a-2f30-4c0a-a6ce-e67411f2247f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Refreshments
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: f0c703573280aa2eec4859fb5d1e3745
+bars_confidence: shape = (185,)
+bars_start: shape = (185,)
+beats_confidence: shape = (560,)
+beats_start: shape = (560,)
+danceability: 0.0
+duration: 239.41179
+end_of_fade_in: 0.374
+energy: 0.0
+key: 10
+key_confidence: 0.257
+loudness: -7.556
+mode: 1
+mode_confidence: 0.368
+release: Rock On
+release_7digitalid: 543005
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (744,)
+segments_loudness_max: shape = (744,)
+segments_loudness_max_time: shape = (744,)
+segments_loudness_start: shape = (744,)
+segments_pitches: shape = (744, 12)
+segments_start: shape = (744,)
+segments_timbre: shape = (744, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SORVGNO12AB01842EB
+start_of_fade_out: 232.983
+tatums_confidence: shape = (1121,)
+tatums_start: shape = (1121,)
+tempo: 142.367
+time_signature: 3
+time_signature_confidence: 0.36
+title: Midnight
+track_7digitalid: 6010665
+track_id: TRATWFZ128F931D72F
+year: 0

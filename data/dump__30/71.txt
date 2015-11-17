@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 94218
+artist_familiarity: 0.45197771728
+artist_hotttnesss: 0.331351564822
+artist_id: AR558FS1187FB45658
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c27c6ca8-3316-416a-aac2-9e91d6712027
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: 40 Grit
+artist_playmeid: -1
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: ef570494b9df683f87bd301b491ca073
+bars_confidence: shape = (153,)
+bars_start: shape = (153,)
+beats_confidence: shape = (616,)
+beats_start: shape = (616,)
+danceability: 0.0
+duration: 250.67057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.228
+loudness: -8.951
+mode: 0
+mode_confidence: 0.322
+release: Nothing To Remember
+release_7digitalid: 559989
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (902,)
+segments_loudness_max: shape = (902,)
+segments_loudness_max_time: shape = (902,)
+segments_loudness_start: shape = (902,)
+segments_pitches: shape = (902, 12)
+segments_start: shape = (902,)
+segments_timbre: shape = (902, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.405115721691
+song_id: SOHZWRJ12A8C14081B
+start_of_fade_out: 230.185
+tatums_confidence: shape = (1231,)
+tatums_start: shape = (1231,)
+tempo: 148.234
+time_signature: 4
+time_signature_confidence: 0.203
+title: A Part Of Me
+track_7digitalid: 6198988
+track_id: TRAKJYQ128F934B22E
+year: 2003

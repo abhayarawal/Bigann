@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20912
+artist_familiarity: 0.844039532227
+artist_hotttnesss: 0.524378987515
+artist_id: ARUSOMY1187FB4D3B4
+artist_latitude: nan
+artist_location: Pittsburgh, PA
+artist_longitude: nan
+artist_mbid: b88f21a7-a1b9-48fd-bbc4-ae758026f17f
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Anti-Flag
+artist_playmeid: 8398
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: cb4b66bef72ad94ec858aae191869316
+bars_confidence: shape = (849,)
+bars_start: shape = (849,)
+beats_confidence: shape = (849,)
+beats_start: shape = (849,)
+danceability: 0.0
+duration: 359.6273
+end_of_fade_in: 2.955
+energy: 0.0
+key: 6
+key_confidence: 0.426
+loudness: -10.609
+mode: 1
+mode_confidence: 0.38
+release: A New Kind of Army
+release_7digitalid: 553397
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (667,)
+segments_loudness_max: shape = (667,)
+segments_loudness_max_time: shape = (667,)
+segments_loudness_start: shape = (667,)
+segments_pitches: shape = (667, 12)
+segments_start: shape = (667,)
+segments_timbre: shape = (667, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.549342331788
+song_id: SOUJNFK12AB0186B86
+start_of_fade_out: 346.448
+tatums_confidence: shape = (1698,)
+tatums_start: shape = (1698,)
+tempo: 141.334
+time_signature: 1
+time_signature_confidence: 0.733
+title: This Is NOT a Crass Song
+track_7digitalid: 6118183
+track_id: TRABYEY128F933773A
+year: 1999

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1015
+artist_familiarity: 0.655921417588
+artist_hotttnesss: 0.578301633597
+artist_id: AR9W3X91187FB3994C
+artist_latitude: nan
+artist_location: Chiswick, London, England
+artist_longitude: nan
+artist_mbid: 401c3991-b76b-499d-8082-9f2df958ef78
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Phil Collins
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 94140bb72a9af248be44b3bdf0b985de
+bars_confidence: shape = (60,)
+bars_start: shape = (60,)
+beats_confidence: shape = (252,)
+beats_start: shape = (252,)
+danceability: 0.0
+duration: 154.93179
+end_of_fade_in: 0.107
+energy: 0.0
+key: 5
+key_confidence: 0.682
+loudness: -15.433
+mode: 0
+mode_confidence: 0.672
+release: Face Value
+release_7digitalid: 40836
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (569,)
+segments_loudness_max: shape = (569,)
+segments_loudness_max_time: shape = (569,)
+segments_loudness_start: shape = (569,)
+segments_pitches: shape = (569, 12)
+segments_start: shape = (569,)
+segments_timbre: shape = (569, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.596840703553
+song_id: SOZKFHV12A6D4F996F
+start_of_fade_out: 136.615
+tatums_confidence: shape = (504,)
+tatums_start: shape = (504,)
+tempo: 100.042
+time_signature: 4
+time_signature_confidence: 0.753
+title: I'm Not Moving
+track_7digitalid: 435053
+track_id: TRARIRG128F147FC96
+year: 1981

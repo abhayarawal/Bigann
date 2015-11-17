@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12222
+artist_familiarity: 0.807876867889
+artist_hotttnesss: 0.505181615869
+artist_id: ARIW1BH1187FB4C94A
+artist_latitude: -37.81753
+artist_location: Melbourne
+artist_longitude: 144.96715
+artist_mbid: b91f0973-002e-4237-a39f-c7e02e786e53
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Architecture In Helsinki
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 17f84144d52283cd562b10aa655392fa
+bars_confidence: shape = (107,)
+bars_start: shape = (107,)
+beats_confidence: shape = (431,)
+beats_start: shape = (431,)
+danceability: 0.0
+duration: 210.49424
+end_of_fade_in: 9.66
+energy: 0.0
+key: 11
+key_confidence: 0.901
+loudness: -5.508
+mode: 1
+mode_confidence: 0.636
+release: Places Like This
+release_7digitalid: 409352
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (569,)
+segments_loudness_max: shape = (569,)
+segments_loudness_max_time: shape = (569,)
+segments_loudness_start: shape = (569,)
+segments_pitches: shape = (569, 12)
+segments_start: shape = (569,)
+segments_timbre: shape = (569, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAZWHG12AB01861BA
+start_of_fade_out: 192.104
+tatums_confidence: shape = (863,)
+tatums_start: shape = (863,)
+tempo: 126.294
+time_signature: 4
+time_signature_confidence: 0.0
+title: The Same Old Innocence
+track_7digitalid: 4554032
+track_id: TRBEISL128F931B107
+year: 2007

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 179777
+artist_familiarity: 0.501337162221
+artist_hotttnesss: 0.380679873613
+artist_id: ARR575U1187B98FB97
+artist_latitude: 38.8235
+artist_location: Maryland
+artist_longitude: -75.92381
+artist_mbid: 3fb669c6-ab73-44f8-b2d5-52a5fde6f494
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Perrys
+artist_playmeid: 181730
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: bd324f2511fe374f04ad31ea26f42746
+bars_confidence: shape = (110,)
+bars_start: shape = (110,)
+beats_confidence: shape = (348,)
+beats_start: shape = (348,)
+danceability: 0.0
+duration: 255.26812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.867
+loudness: -16.076
+mode: 1
+mode_confidence: 0.715
+release: Absolutely Positively Live
+release_7digitalid: 600586
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (567,)
+segments_loudness_max: shape = (567,)
+segments_loudness_max_time: shape = (567,)
+segments_loudness_start: shape = (567,)
+segments_pitches: shape = (567, 12)
+segments_start: shape = (567,)
+segments_timbre: shape = (567, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOTMRJU12AC9074F64
+start_of_fade_out: 243.02
+tatums_confidence: shape = (695,)
+tatums_start: shape = (695,)
+tempo: 82.487
+time_signature: 3
+time_signature_confidence: 0.911
+title: I'll Pray For You
+track_7digitalid: 6666173
+track_id: TRAUVGG12903CEF9CD
+year: 0

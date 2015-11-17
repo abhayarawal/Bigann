@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 327831
+artist_familiarity: 0.0488529033917
+artist_hotttnesss: 0.0
+artist_id: AR9UPVA1187FB51260
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5d8f51d7-0531-46a4-b604-3e758ff58283
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Brent Lamb
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: dc5d1a4d16d37e5a2587bbe3c6e3ccba
+bars_confidence: shape = (107,)
+bars_start: shape = (107,)
+beats_confidence: shape = (433,)
+beats_start: shape = (433,)
+danceability: 0.0
+duration: 250.38322
+end_of_fade_in: 9.921
+energy: 0.0
+key: 7
+key_confidence: 0.887
+loudness: -10.753
+mode: 1
+mode_confidence: 0.773
+release: Right Now It's Raining
+release_7digitalid: 441002
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (784,)
+segments_loudness_max: shape = (784,)
+segments_loudness_max_time: shape = (784,)
+segments_loudness_start: shape = (784,)
+segments_pitches: shape = (784, 12)
+segments_start: shape = (784,)
+segments_timbre: shape = (784, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOGZIDZ12AB017F90F
+start_of_fade_out: 239.067
+tatums_confidence: shape = (865,)
+tatums_start: shape = (865,)
+tempo: 110.0
+time_signature: 4
+time_signature_confidence: 0.712
+title: All The Difference In The World
+track_7digitalid: 4905245
+track_id: TRAJATQ128F92F6DC2
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21453
+artist_familiarity: 0.889460725348
+artist_hotttnesss: 0.619431422311
+artist_id: AR65K7A1187FB4DAA4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 183105b5-3e68-4748-9086-2c1c11bf7a3d
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Beyoncé
+artist_playmeid: 193
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: b587c11c7eacfda7ab6f2ab8f864f4a1
+bars_confidence: shape = (185,)
+bars_start: shape = (185,)
+beats_confidence: shape = (750,)
+beats_start: shape = (750,)
+danceability: 0.0
+duration: 419.70893
+end_of_fade_in: 0.178
+energy: 0.0
+key: 3
+key_confidence: 0.55
+loudness: -5.584
+mode: 0
+mode_confidence: 0.581
+release: The Beyonce Experience Live Audio
+release_7digitalid: 280446
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (999,)
+segments_loudness_max: shape = (999,)
+segments_loudness_max_time: shape = (999,)
+segments_loudness_start: shape = (999,)
+segments_pitches: shape = (999, 12)
+segments_start: shape = (999,)
+segments_timbre: shape = (999, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBCMRK12A8AE488DF
+start_of_fade_out: 399.418
+tatums_confidence: shape = (1500,)
+tatums_start: shape = (1500,)
+tempo: 109.522
+time_signature: 4
+time_signature_confidence: 0.694
+title: Dangerously In Love Medley
+track_7digitalid: 3125680
+track_id: TRBGQKE128F425EDC9
+year: 0

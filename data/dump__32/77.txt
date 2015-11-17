@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 292022
+artist_familiarity: 0.321975099252
+artist_hotttnesss: 0.244532205339
+artist_id: ARYKFVV1187FB3CA6B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 58ac1e03-72cc-456e-8275-35745f56a0e3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The London Pops Orchestra
+artist_playmeid: 57616
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 9589fd685a724a55594ca75175aad683
+bars_confidence: shape = (44,)
+bars_start: shape = (44,)
+beats_confidence: shape = (236,)
+beats_start: shape = (236,)
+danceability: 0.0
+duration: 162.0371
+end_of_fade_in: 0.077
+energy: 0.0
+key: 5
+key_confidence: 0.599
+loudness: -22.102
+mode: 1
+mode_confidence: 0.525
+release: Award-Winning Movie Themes : The 60's
+release_7digitalid: 378996
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (399,)
+segments_loudness_max: shape = (399,)
+segments_loudness_max_time: shape = (399,)
+segments_loudness_start: shape = (399,)
+segments_pitches: shape = (399, 12)
+segments_start: shape = (399,)
+segments_timbre: shape = (399, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQDQTD12A8C145BE5
+start_of_fade_out: 151.975
+tatums_confidence: shape = (236,)
+tatums_start: shape = (236,)
+tempo: 92.26
+time_signature: 5
+time_signature_confidence: 1.0
+title: Moon River
+track_7digitalid: 4217878
+track_id: TRALDOQ128F92D8CA9
+year: 0

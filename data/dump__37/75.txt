@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 49597
+artist_familiarity: 0.478083521069
+artist_hotttnesss: 0.378387397783
+artist_id: AR0CWOB1187B99FA08
+artist_latitude: nan
+artist_location: United States
+artist_longitude: nan
+artist_mbid: 0df890e1-f4f2-4b21-a413-cd8af1af32d8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: GARFIELD
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 36d3e4a6bcbbaa87cb16b319adb42df8
+bars_confidence: shape = (22,)
+bars_start: shape = (22,)
+beats_confidence: shape = (67,)
+beats_start: shape = (67,)
+danceability: 0.0
+duration: 53.86404
+end_of_fade_in: 0.762
+energy: 0.0
+key: 10
+key_confidence: 0.089
+loudness: -22.386
+mode: 0
+mode_confidence: 0.311
+release: Garfield - A Tail Of Two Kitties (OST)
+release_7digitalid: 521128
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (111,)
+segments_loudness_max: shape = (111,)
+segments_loudness_max_time: shape = (111,)
+segments_loudness_start: shape = (111,)
+segments_pitches: shape = (111, 12)
+segments_start: shape = (111,)
+segments_timbre: shape = (111, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGPSMM12A8C13FDBA
+start_of_fade_out: 48.814
+tatums_confidence: shape = (199,)
+tatums_start: shape = (199,)
+tempo: 81.646
+time_signature: 3
+time_signature_confidence: 0.836
+title: Garfield - A Tail Of Two Kitties: Mirror Dance
+track_7digitalid: 5762484
+track_id: TRAMWGW128F92E16FF
+year: 0

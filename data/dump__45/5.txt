@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4550
+artist_familiarity: 0.747815369314
+artist_hotttnesss: 0.45918919468
+artist_id: ARTWPGO1187FB52DC3
+artist_latitude: nan
+artist_location: Kingston, Jamaica
+artist_longitude: nan
+artist_mbid: cd5f7bd9-ee6f-4a99-8dd9-dc3afd9da736
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Elephant Man
+artist_playmeid: 535
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: a05db2a751dd4c9744f97b84a000df53
+bars_confidence: shape = (156,)
+bars_start: shape = (156,)
+beats_confidence: shape = (474,)
+beats_start: shape = (474,)
+danceability: 0.0
+duration: 232.95955
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.332
+loudness: -6.449
+mode: 1
+mode_confidence: 0.347
+release: Unstoppable Riddim
+release_7digitalid: 798321
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1026,)
+segments_loudness_max: shape = (1026,)
+segments_loudness_max_time: shape = (1026,)
+segments_loudness_start: shape = (1026,)
+segments_pitches: shape = (1026, 12)
+segments_start: shape = (1026,)
+segments_timbre: shape = (1026, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOINKBE12AB018770B
+start_of_fade_out: 207.244
+tatums_confidence: shape = (948,)
+tatums_start: shape = (948,)
+tempo: 122.189
+time_signature: 3
+time_signature_confidence: 1.0
+title: informa
+track_7digitalid: 8830734
+track_id: TRAPJJA12903CB022B
+year: 0

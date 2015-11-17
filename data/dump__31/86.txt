@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11840
+artist_familiarity: 0.538137739913
+artist_hotttnesss: 0.400387756597
+artist_id: ARNTTHK1187B98FF64
+artist_latitude: nan
+artist_location: Cádiz
+artist_longitude: nan
+artist_mbid: 5dec643a-423f-4051-ac13-87e59525ad74
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Andy & Lucas
+artist_playmeid: 1743
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 7ca6b15a1ebb8bf57a3312c2236dc280
+bars_confidence: shape = (84,)
+bars_start: shape = (84,)
+beats_confidence: shape = (339,)
+beats_start: shape = (339,)
+danceability: 0.0
+duration: 213.52444
+end_of_fade_in: 0.199
+energy: 0.0
+key: 2
+key_confidence: 0.647
+loudness: -4.85
+mode: 1
+mode_confidence: 0.595
+release: Con Los Pies En La Tierra
+release_7digitalid: 429824
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (972,)
+segments_loudness_max: shape = (972,)
+segments_loudness_max_time: shape = (972,)
+segments_loudness_start: shape = (972,)
+segments_pitches: shape = (972, 12)
+segments_start: shape = (972,)
+segments_timbre: shape = (972, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.484562529968
+song_id: SOXKTIB12A8C14474A
+start_of_fade_out: 197.782
+tatums_confidence: shape = (1355,)
+tatums_start: shape = (1355,)
+tempo: 97.786
+time_signature: 4
+time_signature_confidence: 0.0
+title: Dime Si Me Quieres
+track_7digitalid: 4795655
+track_id: TRAKVHK128F92DCC3C
+year: 2008

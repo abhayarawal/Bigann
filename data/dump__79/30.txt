@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13022
+artist_familiarity: 0.603383145272
+artist_hotttnesss: 0.422127199293
+artist_id: AR1DR0E1187FB48F61
+artist_latitude: nan
+artist_location: Cross Lane, WV
+artist_longitude: nan
+artist_mbid: f29443f1-5712-4be7-a926-1bde47a1d71d
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Kathy Mattea
+artist_playmeid: 3057
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 2303f0f169cfe59c4f4a945f4faa7083
+bars_confidence: shape = (18,)
+bars_start: shape = (18,)
+beats_confidence: shape = (156,)
+beats_start: shape = (156,)
+danceability: 0.0
+duration: 124.83873
+end_of_fade_in: 0.16
+energy: 0.0
+key: 9
+key_confidence: 0.019
+loudness: -14.479
+mode: 1
+mode_confidence: 0.504
+release: Roses
+release_7digitalid: 27412
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (303,)
+segments_loudness_max: shape = (303,)
+segments_loudness_max_time: shape = (303,)
+segments_loudness_start: shape = (303,)
+segments_pitches: shape = (303, 12)
+segments_start: shape = (303,)
+segments_timbre: shape = (303, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOPMXHY12A6D4F7DBC
+start_of_fade_out: 114.672
+tatums_confidence: shape = (313,)
+tatums_start: shape = (313,)
+tempo: 79.091
+time_signature: 7
+time_signature_confidence: 0.911
+title: Isle Of Inishmore - Part 1 (Air)
+track_7digitalid: 299184
+track_id: TRBBCZA128F146587F
+year: 2002

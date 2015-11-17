@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 177774
+artist_familiarity: 0.493125956741
+artist_hotttnesss: 0.353242066495
+artist_id: ARWJEOP1187B996538
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 40ff8715-2cfb-4cff-9372-56b241d14520
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Soul Ballet
+artist_playmeid: 172178
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 2ebcf1f59439ff2b476cebc2f253bae3
+bars_confidence: shape = (194,)
+bars_start: shape = (194,)
+beats_confidence: shape = (584,)
+beats_start: shape = (584,)
+danceability: 0.0
+duration: 330.37016
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.284
+loudness: -7.335
+mode: 1
+mode_confidence: 0.454
+release: LAViSH
+release_7digitalid: 230740
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1262,)
+segments_loudness_max: shape = (1262,)
+segments_loudness_max_time: shape = (1262,)
+segments_loudness_start: shape = (1262,)
+segments_pitches: shape = (1262, 12)
+segments_start: shape = (1262,)
+segments_timbre: shape = (1262, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.569275650675
+song_id: SOBDGFQ12A81C23884
+start_of_fade_out: 321.707
+tatums_confidence: shape = (1168,)
+tatums_start: shape = (1168,)
+tempo: 108.023
+time_signature: 3
+time_signature_confidence: 0.826
+title: the Cool Down
+track_7digitalid: 2528904
+track_id: TRAYHUO128F42222C2
+year: 2007

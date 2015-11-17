@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3950
+artist_familiarity: 0.63642364495
+artist_hotttnesss: 0.44793548048
+artist_id: ARD842G1187B997376
+artist_latitude: 43.64856
+artist_location: Toronto, Ontario, Canada
+artist_longitude: -79.38533
+artist_mbid: 6b52e1be-f27a-433c-b51a-3f2d63abc2ba
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Blue Rodeo
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 914c2735ca9ac17bf24332a917e2d6a6
+bars_confidence: shape = (121,)
+bars_start: shape = (121,)
+beats_confidence: shape = (485,)
+beats_start: shape = (485,)
+danceability: 0.0
+duration: 199.05261
+end_of_fade_in: 0.272
+energy: 0.0
+key: 7
+key_confidence: 0.722
+loudness: -5.778
+mode: 1
+mode_confidence: 0.619
+release: The Things We Left Behind
+release_7digitalid: 786902
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (616,)
+segments_loudness_max: shape = (616,)
+segments_loudness_max_time: shape = (616,)
+segments_loudness_start: shape = (616,)
+segments_pitches: shape = (616, 12)
+segments_start: shape = (616,)
+segments_timbre: shape = (616, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.427446571488
+song_id: SONERDT12AB017EE72
+start_of_fade_out: 192.673
+tatums_confidence: shape = (970,)
+tatums_start: shape = (970,)
+tempo: 148.601
+time_signature: 4
+time_signature_confidence: 0.207
+title: Never Look Back
+track_7digitalid: 8708132
+track_id: TRAXKPM12903D0611E
+year: 2009

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1154
+artist_familiarity: 0.753475620346
+artist_hotttnesss: 0.529915121495
+artist_id: ARJ6GR01187B98D64D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6930354c-c8fb-4b5b-8835-02132483680c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lonestar
+artist_playmeid: 1879
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 985ec9fbdec48108959b25d8990d4d39
+bars_confidence: shape = (123,)
+bars_start: shape = (123,)
+beats_confidence: shape = (370,)
+beats_start: shape = (370,)
+danceability: 0.0
+duration: 245.7073
+end_of_fade_in: 0.303
+energy: 0.0
+key: 9
+key_confidence: 0.561
+loudness: -7.786
+mode: 1
+mode_confidence: 0.445
+release: Crazy Nights
+release_7digitalid: 303735
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (851,)
+segments_loudness_max: shape = (851,)
+segments_loudness_max_time: shape = (851,)
+segments_loudness_start: shape = (851,)
+segments_pitches: shape = (851, 12)
+segments_start: shape = (851,)
+segments_timbre: shape = (851, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SOWRMRV12A8C13E406
+start_of_fade_out: 230.586
+tatums_confidence: shape = (741,)
+tatums_start: shape = (741,)
+tempo: 92.025
+time_signature: 3
+time_signature_confidence: 0.0
+title: Amie
+track_7digitalid: 3427405
+track_id: TRALECB128F42A35E8
+year: 1997

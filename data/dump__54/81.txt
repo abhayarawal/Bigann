@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 171244
+artist_familiarity: 0.66808729556
+artist_hotttnesss: 0.459387424613
+artist_id: AR6AGJV1187FB504BA
+artist_latitude: nan
+artist_location: Toyohashi, Japan
+artist_longitude: nan
+artist_mbid: f3d8c154-208d-4efa-b52d-7e9f16adcdae
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Kitaro
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: c1a8ccdfa8a0e1457cbf6f3115e7e765
+bars_confidence: shape = (182,)
+bars_start: shape = (182,)
+beats_confidence: shape = (733,)
+beats_start: shape = (733,)
+danceability: 0.0
+duration: 428.72118
+end_of_fade_in: 2.003
+energy: 0.0
+key: 0
+key_confidence: 0.456
+loudness: -20.911
+mode: 1
+mode_confidence: 0.596
+release: Kitaro Osaka-Jo Hall Live in 1983
+release_7digitalid: 815983
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (882,)
+segments_loudness_max: shape = (882,)
+segments_loudness_max_time: shape = (882,)
+segments_loudness_start: shape = (882,)
+segments_pitches: shape = (882, 12)
+segments_start: shape = (882,)
+segments_timbre: shape = (882, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSGBSO12AB01876A1
+start_of_fade_out: 390.026
+tatums_confidence: shape = (1466,)
+tatums_start: shape = (1466,)
+tempo: 104.323
+time_signature: 4
+time_signature_confidence: 0.058
+title: The Mist
+track_7digitalid: 9016304
+track_id: TRASTGT12903CDD457
+year: 1983

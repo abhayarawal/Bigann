@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21223
+artist_familiarity: 0.7309590855
+artist_hotttnesss: 0.481426936478
+artist_id: AR2FSX31187B98E3EF
+artist_latitude: nan
+artist_location: San Juan, Puerto Rico
+artist_longitude: nan
+artist_mbid: 70ea63ea-70dc-4b63-951a-2c249d2b3b0a
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Ricky Martin
+artist_playmeid: 1339
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 5e6b1fe25e8d0eb2f9fa52d63f0c920b
+bars_confidence: shape = (192,)
+bars_start: shape = (192,)
+beats_confidence: shape = (774,)
+beats_start: shape = (774,)
+danceability: 0.0
+duration: 295.33995
+end_of_fade_in: 0.243
+energy: 0.0
+key: 11
+key_confidence: 0.649
+loudness: -5.676
+mode: 1
+mode_confidence: 0.739
+release: Ricky Martin
+release_7digitalid: 284327
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (855,)
+segments_loudness_max: shape = (855,)
+segments_loudness_max_time: shape = (855,)
+segments_loudness_start: shape = (855,)
+segments_pitches: shape = (855, 12)
+segments_start: shape = (855,)
+segments_timbre: shape = (855, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.668406489724
+song_id: SOBNMQD12A8C134323
+start_of_fade_out: 285.292
+tatums_confidence: shape = (1549,)
+tatums_start: shape = (1549,)
+tempo: 161.868
+time_signature: 4
+time_signature_confidence: 1.0
+title: She's All I Ever Had
+track_7digitalid: 3190010
+track_id: TRBECBM128F426AA34
+year: 1999

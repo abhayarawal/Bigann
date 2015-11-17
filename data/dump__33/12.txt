@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 495592
+artist_familiarity: 0.351269291183
+artist_hotttnesss: 0.0
+artist_id: AR1PQYO1187B98BEC9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: db315e6a-06c4-43a2-a6bb-8d0e800838ac
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Hélio Ziskind
+artist_playmeid: 84049
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: d31ff4712e9e34971b53871c740bda90
+bars_confidence: shape = (52,)
+bars_start: shape = (52,)
+beats_confidence: shape = (213,)
+beats_start: shape = (213,)
+danceability: 0.0
+duration: 140.32934
+end_of_fade_in: 5.66
+energy: 0.0
+key: 0
+key_confidence: 0.28
+loudness: -13.075
+mode: 1
+mode_confidence: 0.381
+release: O Gigante Da Floresta
+release_7digitalid: 702269
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (549,)
+segments_loudness_max: shape = (549,)
+segments_loudness_max_time: shape = (549,)
+segments_loudness_start: shape = (549,)
+segments_pitches: shape = (549, 12)
+segments_start: shape = (549,)
+segments_timbre: shape = (549, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEDYLR12A8C1385E3
+start_of_fade_out: 134.798
+tatums_confidence: shape = (851,)
+tatums_start: shape = (851,)
+tempo: 93.753
+time_signature: 4
+time_signature_confidence: 0.164
+title: Galopar
+track_7digitalid: 7790479
+track_id: TRALGWO12903C9D7B2
+year: 0

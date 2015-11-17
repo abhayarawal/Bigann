@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16331
+artist_familiarity: 0.736677413341
+artist_hotttnesss: 0.526182556347
+artist_id: ARNDB1X1187B990AA0
+artist_latitude: 34.05349
+artist_location: Venice, CA
+artist_longitude: -118.24532
+artist_mbid: e9e2a634-984f-4c10-bf7b-7970179e1ef1
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Suicidal Tendencies
+artist_playmeid: 12797
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 0ccb3c65b6fb0ec213b41f232ab26a24
+bars_confidence: shape = (179,)
+bars_start: shape = (179,)
+beats_confidence: shape = (720,)
+beats_start: shape = (720,)
+danceability: 0.0
+duration: 269.81832
+end_of_fade_in: 3.738
+energy: 0.0
+key: 9
+key_confidence: 0.627
+loudness: -5.93
+mode: 1
+mode_confidence: 0.568
+release: The Art Of Rebellion
+release_7digitalid: 282042
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (824,)
+segments_loudness_max: shape = (824,)
+segments_loudness_max_time: shape = (824,)
+segments_loudness_start: shape = (824,)
+segments_pitches: shape = (824, 12)
+segments_start: shape = (824,)
+segments_timbre: shape = (824, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.520370304282
+song_id: SOCOLNA12A8C131D81
+start_of_fade_out: 261.544
+tatums_confidence: shape = (1441,)
+tatums_start: shape = (1441,)
+tempo: 164.925
+time_signature: 4
+time_signature_confidence: 0.0
+title: It's Going Down
+track_7digitalid: 3152222
+track_id: TRAJOWK128F4263735
+year: 1992

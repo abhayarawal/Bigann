@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4024
+artist_familiarity: 0.882111591224
+artist_hotttnesss: 0.670106172837
+artist_id: ARVNGA71187FB3C107
+artist_latitude: nan
+artist_location: Nashville, TN
+artist_longitude: nan
+artist_mbid: 406552d4-5ba1-4226-b7c0-367bc50fc767
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Faith Hill
+artist_playmeid: 593
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 8b87a907fa6f757596b9427782fd414e
+bars_confidence: shape = (119,)
+bars_start: shape = (119,)
+beats_confidence: shape = (480,)
+beats_start: shape = (480,)
+danceability: 0.0
+duration: 246.09914
+end_of_fade_in: 3.698
+energy: 0.0
+key: 0
+key_confidence: 0.621
+loudness: -9.695
+mode: 1
+mode_confidence: 0.609
+release: Fireflies
+release_7digitalid: 19114
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (978,)
+segments_loudness_max: shape = (978,)
+segments_loudness_max_time: shape = (978,)
+segments_loudness_start: shape = (978,)
+segments_pitches: shape = (978, 12)
+segments_start: shape = (978,)
+segments_timbre: shape = (978, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.454192988218
+song_id: SOUCHOR12A58A81155
+start_of_fade_out: 221.373
+tatums_confidence: shape = (960,)
+tatums_start: shape = (960,)
+tempo: 119.06
+time_signature: 4
+time_signature_confidence: 1.0
+title: I Want You (Album Version)
+track_7digitalid: 201580
+track_id: TRATTNI128E0799697
+year: 2005

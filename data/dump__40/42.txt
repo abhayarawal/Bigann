@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4159
+artist_familiarity: 0.654860822343
+artist_hotttnesss: 0.451466060363
+artist_id: ARB336A1187B9A4583
+artist_latitude: 42.25147
+artist_location: Lincoln Park, MI
+artist_longitude: -83.18186
+artist_mbid: 08b736bb-1c82-40b4-8b0b-49e2182a067a
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: The MC5
+artist_playmeid: 28736
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 56a7142def767df5d99338d9ef1aa241
+bars_confidence: shape = (425,)
+bars_start: shape = (425,)
+beats_confidence: shape = (425,)
+beats_start: shape = (425,)
+danceability: 0.0
+duration: 149.96853
+end_of_fade_in: 0.136
+energy: 0.0
+key: 5
+key_confidence: 0.428
+loudness: -2.969
+mode: 1
+mode_confidence: 0.271
+release: Back In The USA
+release_7digitalid: 12585
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (626,)
+segments_loudness_max: shape = (626,)
+segments_loudness_max_time: shape = (626,)
+segments_loudness_start: shape = (626,)
+segments_pitches: shape = (626, 12)
+segments_start: shape = (626,)
+segments_timbre: shape = (626, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.590557401357
+song_id: SOYBRXG12A58A776D6
+start_of_fade_out: 146.228
+tatums_confidence: shape = (850,)
+tatums_start: shape = (850,)
+tempo: 173.34
+time_signature: 1
+time_signature_confidence: 0.0
+title: The American Ruse (LP Version)
+track_7digitalid: 129693
+track_id: TRANTAN128E078B326
+year: 1970

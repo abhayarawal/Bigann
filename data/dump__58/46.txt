@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2299
+artist_familiarity: 0.522197175241
+artist_hotttnesss: 0.391370587218
+artist_id: ARDR4AC1187FB371A1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a96e61bc-1da0-45d0-816d-ebd00b70ff9d
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Montserrat Caballé
+artist_playmeid: 11491
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 25102c25b7adb1bcce7d50fa014e5ac3
+bars_confidence: shape = (71,)
+bars_start: shape = (71,)
+beats_confidence: shape = (233,)
+beats_start: shape = (233,)
+danceability: 0.0
+duration: 198.13832
+end_of_fade_in: 4.952
+energy: 0.0
+key: 10
+key_confidence: 0.311
+loudness: -15.585
+mode: 1
+mode_confidence: 0.451
+release: Hijo De La Luna
+release_7digitalid: 299730
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (542,)
+segments_loudness_max: shape = (542,)
+segments_loudness_max_time: shape = (542,)
+segments_loudness_start: shape = (542,)
+segments_pitches: shape = (542, 12)
+segments_start: shape = (542,)
+segments_timbre: shape = (542, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFWNNU12A8C13BCB3
+start_of_fade_out: 194.247
+tatums_confidence: shape = (465,)
+tatums_start: shape = (465,)
+tempo: 71.285
+time_signature: 3
+time_signature_confidence: 0.903
+title: The Phantom Of The Opera/Wishing You Were Somehow Here Again
+track_7digitalid: 3401849
+track_id: TRATYNL128F429D572
+year: 1994

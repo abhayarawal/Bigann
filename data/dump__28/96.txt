@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 154989
+artist_familiarity: 0.769967819263
+artist_hotttnesss: 0.48081244861
+artist_id: ARPTC8L119B340323E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4cbc9839-c43e-42e6-9d84-b44045cf03ba
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Chuck Wicks
+artist_playmeid: 9452
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 9dd04dbb0e55abd08e2fda217568149d
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (353,)
+beats_start: shape = (353,)
+danceability: 0.0
+duration: 222.01424
+end_of_fade_in: 0.136
+energy: 0.0
+key: 1
+key_confidence: 1.0
+loudness: -5.278
+mode: 1
+mode_confidence: 0.875
+release: Starting Now
+release_7digitalid: 438662
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (585,)
+segments_loudness_max: shape = (585,)
+segments_loudness_max_time: shape = (585,)
+segments_loudness_start: shape = (585,)
+segments_pitches: shape = (585, 12)
+segments_start: shape = (585,)
+segments_timbre: shape = (585, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.630460452604
+song_id: SOYTXMF12AB0179B2C
+start_of_fade_out: 202.182
+tatums_confidence: shape = (706,)
+tatums_start: shape = (706,)
+tempo: 99.124
+time_signature: 4
+time_signature_confidence: 0.104
+title: If We Loved
+track_7digitalid: 4887198
+track_id: TRAJSNU128F92F2AC0
+year: 2008

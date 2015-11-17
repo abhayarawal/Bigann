@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 59307
+artist_familiarity: 0.623154283971
+artist_hotttnesss: 0.429353514999
+artist_id: ARBFDJW1187B9AD27A
+artist_latitude: 30.2676
+artist_location: Austin, TX
+artist_longitude: -97.74298
+artist_mbid: 835cbbdd-4a59-45a9-bf37-6d2050aec2a9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Fabulous Thunderbirds
+artist_playmeid: 11233
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: c4c2fdf905e8aade0332f458a26622ca
+bars_confidence: shape = (74,)
+bars_start: shape = (74,)
+beats_confidence: shape = (299,)
+beats_start: shape = (299,)
+danceability: 0.0
+duration: 154.53995
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.548
+loudness: -6.923
+mode: 1
+mode_confidence: 0.512
+release: The Fabulous Thunderbirds
+release_7digitalid: 609807
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (572,)
+segments_loudness_max: shape = (572,)
+segments_loudness_max_time: shape = (572,)
+segments_loudness_start: shape = (572,)
+segments_pitches: shape = (572, 12)
+segments_start: shape = (572,)
+segments_timbre: shape = (572, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.327736683178
+song_id: SOTQWQL12A58A78E4F
+start_of_fade_out: 150.018
+tatums_confidence: shape = (896,)
+tatums_start: shape = (896,)
+tempo: 118.02
+time_signature: 4
+time_signature_confidence: 0.039
+title: Let Me In
+track_7digitalid: 6777125
+track_id: TRBHVSO128F92EFA78
+year: 1979

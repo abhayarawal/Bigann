@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2605
+artist_familiarity: 0.678008836779
+artist_hotttnesss: 0.404039733775
+artist_id: ARAH4TU1187FB51D28
+artist_latitude: 38.62666
+artist_location: New York City (Salem, IL - originally)
+artist_longitude: -88.94561
+artist_mbid: 8b7a121c-5b50-4912-ab4c-e49a631a2db0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bill Laswell
+artist_playmeid: 19583
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 6d5246f1133e7ef547082129d835e940
+bars_confidence: shape = (271,)
+bars_start: shape = (271,)
+beats_confidence: shape = (1088,)
+beats_start: shape = (1088,)
+danceability: 0.0
+duration: 381.30893
+end_of_fade_in: 3.396
+energy: 0.0
+key: 2
+key_confidence: 0.032
+loudness: -9.232
+mode: 1
+mode_confidence: 0.135
+release: Final Oscillations
+release_7digitalid: 664388
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (1732,)
+segments_loudness_max: shape = (1732,)
+segments_loudness_max_time: shape = (1732,)
+segments_loudness_start: shape = (1732,)
+segments_pitches: shape = (1732, 12)
+segments_start: shape = (1732,)
+segments_timbre: shape = (1732, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.386790177139
+song_id: SOJWQRM12AB01847CE
+start_of_fade_out: 366.55
+tatums_confidence: shape = (2176,)
+tatums_start: shape = (2176,)
+tempo: 172.955
+time_signature: 4
+time_signature_confidence: 0.325
+title: Digitaria
+track_7digitalid: 7367133
+track_id: TRALUZX12903CAD456
+year: 1996

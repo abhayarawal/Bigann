@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 145031
+artist_familiarity: 0.519780641308
+artist_hotttnesss: 0.348000019201
+artist_id: ARNCOPS1187FB5A086
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ab05807f-c127-4cb5-9f72-72ec47096632
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dolores Keane
+artist_playmeid: 50276
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 4427b5f4a059db1c17a87b6821e4a1a3
+bars_confidence: shape = (248,)
+bars_start: shape = (248,)
+beats_confidence: shape = (748,)
+beats_start: shape = (748,)
+danceability: 0.0
+duration: 249.93914
+end_of_fade_in: 0.49
+energy: 0.0
+key: 7
+key_confidence: 0.593
+loudness: -16.454
+mode: 1
+mode_confidence: 0.648
+release: Night Owl
+release_7digitalid: 740437
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (515,)
+segments_loudness_max: shape = (515,)
+segments_loudness_max_time: shape = (515,)
+segments_loudness_start: shape = (515,)
+segments_pitches: shape = (515, 12)
+segments_start: shape = (515,)
+segments_timbre: shape = (515, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SOILAJR12AC3DFB3BA
+start_of_fade_out: 245.894
+tatums_confidence: shape = (748,)
+tatums_start: shape = (748,)
+tempo: 180.532
+time_signature: 3
+time_signature_confidence: 0.997
+title: Dangerous Dance
+track_7digitalid: 8202871
+track_id: TRANEQC12903D01CE6
+year: 0

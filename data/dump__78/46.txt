@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3594
+artist_familiarity: 0.58893850975
+artist_hotttnesss: 0.377961532317
+artist_id: AR1XE381187FB4C685
+artist_latitude: 34.05349
+artist_location: California - LA
+artist_longitude: -118.24532
+artist_mbid: bc3ead02-18f6-4b63-8214-638ffbb42a11
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kane
+artist_playmeid: 2858
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: bf7a0dbd2e3520a9c7c24be765e39a68
+bars_confidence: shape = (336,)
+bars_start: shape = (336,)
+beats_confidence: shape = (1347,)
+beats_start: shape = (1347,)
+danceability: 0.0
+duration: 422.73914
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.536
+loudness: -11.59
+mode: 1
+mode_confidence: 0.589
+release: February
+release_7digitalid: 297551
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (1015,)
+segments_loudness_max: shape = (1015,)
+segments_loudness_max_time: shape = (1015,)
+segments_loudness_start: shape = (1015,)
+segments_pitches: shape = (1015, 12)
+segments_start: shape = (1015,)
+segments_timbre: shape = (1015, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIPLDI12A8C13A17C
+start_of_fade_out: 413.379
+tatums_confidence: shape = (1347,)
+tatums_start: shape = (1347,)
+tempo: 192.476
+time_signature: 4
+time_signature_confidence: 0.615
+title: Damn those eyes
+track_7digitalid: 3341122
+track_id: TRBAUDE128F428E913
+year: 1999

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1059
+artist_familiarity: 0.837872047083
+artist_hotttnesss: 0.532803541797
+artist_id: ARVBRGZ1187FB4675A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2e41ae9c-afd2-4f20-8f1e-17281ce9b472
+artist_mbtags: shape = (12,)
+artist_mbtags_count: shape = (12,)
+artist_name: Gwen Stefani
+artist_playmeid: 718
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: f296ee350feb5f5bccd69a1e41df516a
+bars_confidence: shape = (137,)
+bars_start: shape = (137,)
+beats_confidence: shape = (551,)
+beats_start: shape = (551,)
+danceability: 0.0
+duration: 290.55955
+end_of_fade_in: 0.119
+energy: 0.0
+key: 1
+key_confidence: 0.212
+loudness: -4.169
+mode: 1
+mode_confidence: 0.338
+release: Love Angel Music Baby
+release_7digitalid: 1818
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1212,)
+segments_loudness_max: shape = (1212,)
+segments_loudness_max_time: shape = (1212,)
+segments_loudness_start: shape = (1212,)
+segments_pitches: shape = (1212, 12)
+segments_start: shape = (1212,)
+segments_timbre: shape = (1212, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.684613085541
+song_id: SORRZGD12A6310DBC3
+start_of_fade_out: 290.56
+tatums_confidence: shape = (1102,)
+tatums_start: shape = (1102,)
+tempo: 113.995
+time_signature: 4
+time_signature_confidence: 0.654
+title: Harajuku Girls
+track_7digitalid: 18002
+track_id: TRABCUQ128E0783E2B
+year: 2004

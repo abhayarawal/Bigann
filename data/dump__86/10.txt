@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18460
+artist_familiarity: 0.826075466699
+artist_hotttnesss: 0.59960264265
+artist_id: ARLSF8H1187B9A76B0
+artist_latitude: nan
+artist_location: Oslo, Norway
+artist_longitude: nan
+artist_mbid: 17167af8-c1da-45cc-bba2-9d23f068b7a3
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Dimmu Borgir
+artist_playmeid: 7454
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: efb8ad06f660b3af3ff5af144673ae2d
+bars_confidence: shape = (156,)
+bars_start: shape = (156,)
+beats_confidence: shape = (500,)
+beats_start: shape = (500,)
+danceability: 0.0
+duration: 331.04934
+end_of_fade_in: 4.638
+energy: 0.0
+key: 10
+key_confidence: 0.035
+loudness: -4.747
+mode: 1
+mode_confidence: 0.21
+release: Stormblåst 2005
+release_7digitalid: 145265
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (506,)
+segments_loudness_max: shape = (506,)
+segments_loudness_max_time: shape = (506,)
+segments_loudness_start: shape = (506,)
+segments_pitches: shape = (506, 12)
+segments_start: shape = (506,)
+segments_timbre: shape = (506, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.649119544082
+song_id: SOHXCVP12A81C1FC64
+start_of_fade_out: 295.091
+tatums_confidence: shape = (1000,)
+tatums_start: shape = (1000,)
+tempo: 90.438
+time_signature: 3
+time_signature_confidence: 0.72
+title: Broderskapets ring
+track_7digitalid: 1514782
+track_id: TRBDOGI128F4252243
+year: 1996

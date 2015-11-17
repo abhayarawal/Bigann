@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 53443
+artist_familiarity: 0.329803210578
+artist_hotttnesss: 0.256562179758
+artist_id: ARTWNNQ1187B9A15BC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5b357db0-2ecd-42a4-afb8-0004aeec0cbf
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Glen Ricks
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 1400a99c891ef887ab1c504666a1d2d5
+bars_confidence: shape = (149,)
+bars_start: shape = (149,)
+beats_confidence: shape = (598,)
+beats_start: shape = (598,)
+danceability: 0.0
+duration: 220.39465
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.331
+loudness: -11.887
+mode: 1
+mode_confidence: 0.419
+release: Fall In Love
+release_7digitalid: 463600
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1123,)
+segments_loudness_max: shape = (1123,)
+segments_loudness_max_time: shape = (1123,)
+segments_loudness_start: shape = (1123,)
+segments_pitches: shape = (1123, 12)
+segments_start: shape = (1123,)
+segments_timbre: shape = (1123, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHCLHZ12AB0181C44
+start_of_fade_out: 215.15
+tatums_confidence: shape = (1197,)
+tatums_start: shape = (1197,)
+tempo: 163.937
+time_signature: 4
+time_signature_confidence: 0.792
+title: Think That Love Was In Your Heart
+track_7digitalid: 5159633
+track_id: TRAVWON128F9331A41
+year: 0

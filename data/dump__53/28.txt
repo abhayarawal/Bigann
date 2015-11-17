@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19769
+artist_familiarity: 0.515279198708
+artist_hotttnesss: 0.344246580364
+artist_id: ARHO1WI1187B98CB84
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d1de79d5-3ca3-42f5-8d82-fbc71a76ec93
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Michael Card
+artist_playmeid: 98377
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 376e83e1da403bcf0d5c949f226eb1ae
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (384,)
+beats_start: shape = (384,)
+danceability: 0.0
+duration: 234.78812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.05
+loudness: -6.276
+mode: 1
+mode_confidence: 0.509
+release: 80's Ultimate Collection
+release_7digitalid: 74751
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (880,)
+segments_loudness_max: shape = (880,)
+segments_loudness_max_time: shape = (880,)
+segments_loudness_start: shape = (880,)
+segments_pitches: shape = (880, 12)
+segments_start: shape = (880,)
+segments_timbre: shape = (880, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.445454525493
+song_id: SOMAHZI12A58A7F904
+start_of_fade_out: 220.752
+tatums_confidence: shape = (769,)
+tatums_start: shape = (769,)
+tempo: 99.644
+time_signature: 4
+time_signature_confidence: 0.942
+title: Scandalon
+track_7digitalid: 771227
+track_id: TRASFBL128EF34E274
+year: 1985

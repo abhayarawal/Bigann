@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23825
+artist_familiarity: 0.593496043831
+artist_hotttnesss: 0.40489733548
+artist_id: ARPBNLO1187FB3D52F
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 2f2f7eb6-37c3-446e-8288-f88f76295c2a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tiny Tim
+artist_playmeid: 19253
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: afca8dee3808182799afa0cddd4fb8e8
+bars_confidence: shape = (16,)
+bars_start: shape = (16,)
+beats_confidence: shape = (61,)
+beats_start: shape = (61,)
+danceability: 0.0
+duration: 43.36281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.02
+loudness: -23.996
+mode: 1
+mode_confidence: 0.361
+release: Live! At The Royal Albert Hall
+release_7digitalid: 627950
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (127,)
+segments_loudness_max: shape = (127,)
+segments_loudness_max_time: shape = (127,)
+segments_loudness_start: shape = (127,)
+segments_pitches: shape = (127, 12)
+segments_start: shape = (127,)
+segments_timbre: shape = (127, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOAOIBZ12AB01815BE
+start_of_fade_out: 43.363
+tatums_confidence: shape = (123,)
+tatums_start: shape = (123,)
+tempo: 93.779
+time_signature: 3
+time_signature_confidence: 0.666
+title: I Hold Your Hand In Mine [Live At Royal Albert Hall]
+track_7digitalid: 6970409
+track_id: TRABAFP128F931E9A1
+year: 2000

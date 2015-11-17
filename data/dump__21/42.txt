@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7694
+artist_familiarity: 0.498414133308
+artist_hotttnesss: 0.326008873279
+artist_id: ARHINI31187B995C1D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: da3df0b1-1945-455b-beb7-701cf76a4da4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Singing Melody
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 7d82b60be175296f412f13fab8c1c26b
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (483,)
+beats_start: shape = (483,)
+danceability: 0.0
+duration: 179.93098
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.417
+loudness: -13.533
+mode: 1
+mode_confidence: 0.331
+release: Reggae Hits Volume 23
+release_7digitalid: 345723
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (735,)
+segments_loudness_max: shape = (735,)
+segments_loudness_max_time: shape = (735,)
+segments_loudness_start: shape = (735,)
+segments_pitches: shape = (735, 12)
+segments_start: shape = (735,)
+segments_timbre: shape = (735, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWJDTP12AB018715D
+start_of_fade_out: 179.931
+tatums_confidence: shape = (966,)
+tatums_start: shape = (966,)
+tempo: 162.155
+time_signature: 4
+time_signature_confidence: 0.82
+title: Player No More
+track_7digitalid: 3875014
+track_id: TRAHGRQ128F9307C90
+year: 0

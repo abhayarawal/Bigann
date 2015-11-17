@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 39031
+artist_familiarity: 0.606267926942
+artist_hotttnesss: 0.397414663377
+artist_id: ARZ3U0K1187B999BF4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0696ab5b-a92b-4190-addc-48d3a4601111
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cabas
+artist_playmeid: 3201
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 2982445ce15b2faec2b752adc74212b1
+bars_confidence: shape = (163,)
+bars_start: shape = (163,)
+beats_confidence: shape = (493,)
+beats_start: shape = (493,)
+danceability: 0.0
+duration: 284.31628
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.653
+loudness: -6.359
+mode: 0
+mode_confidence: 0.592
+release: Contacto
+release_7digitalid: 149972
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1189,)
+segments_loudness_max: shape = (1189,)
+segments_loudness_max_time: shape = (1189,)
+segments_loudness_start: shape = (1189,)
+segments_pitches: shape = (1189, 12)
+segments_start: shape = (1189,)
+segments_timbre: shape = (1189, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3759843015
+song_id: SOSBJFI12A58A791C9
+start_of_fade_out: 276.474
+tatums_confidence: shape = (1478,)
+tatums_start: shape = (1478,)
+tempo: 106.361
+time_signature: 3
+time_signature_confidence: 1.0
+title: Machuca
+track_7digitalid: 1561129
+track_id: TRBDQVN128F425CF6D
+year: 0

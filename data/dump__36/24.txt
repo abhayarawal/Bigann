@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 131684
+artist_familiarity: 0.317391380089
+artist_hotttnesss: 0.345284772988
+artist_id: ARGAWJY11F50C50904
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jane Winther
+artist_playmeid: 50989
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 3c8c2b678c4cb636bb5cbe12f0630b86
+bars_confidence: shape = (0,)
+bars_start: shape = (0,)
+beats_confidence: shape = (0,)
+beats_start: shape = (0,)
+danceability: 0.0
+duration: 159.84281
+end_of_fade_in: 0.508
+energy: 0.0
+key: 11
+key_confidence: 0.612
+loudness: -20.931
+mode: 0
+mode_confidence: 0.64
+release: Prayer
+release_7digitalid: 346332
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (241,)
+segments_loudness_max: shape = (241,)
+segments_loudness_max_time: shape = (241,)
+segments_loudness_start: shape = (241,)
+segments_pitches: shape = (241, 12)
+segments_start: shape = (241,)
+segments_timbre: shape = (241, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOVAVUD12AB01832AE
+start_of_fade_out: 147.603
+tatums_confidence: shape = (0,)
+tatums_start: shape = (0,)
+tempo: 0.0
+time_signature: 1
+time_signature_confidence: 0.0
+title: Kyrie Eleison
+track_7digitalid: 3883272
+track_id: TRAMHKT128F9309043
+year: 0

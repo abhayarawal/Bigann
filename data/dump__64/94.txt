@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1385
+artist_familiarity: 0.717991695486
+artist_hotttnesss: 0.497711444141
+artist_id: AR5J8XN1187B9B712E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 282c0a37-9b7f-4873-83e6-21bf00d9185d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Extreme
+artist_playmeid: -1
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: af35e41a3a4f4783944260dc4b6bc052
+bars_confidence: shape = (127,)
+bars_start: shape = (127,)
+beats_confidence: shape = (512,)
+beats_start: shape = (512,)
+danceability: 0.0
+duration: 364.38159
+end_of_fade_in: 5.904
+energy: 0.0
+key: 8
+key_confidence: 0.388
+loudness: -7.759
+mode: 1
+mode_confidence: 0.328
+release: The Best Of Extreme (An Accidental Collication Of Atoms)
+release_7digitalid: 15755
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (951,)
+segments_loudness_max: shape = (951,)
+segments_loudness_max_time: shape = (951,)
+segments_loudness_start: shape = (951,)
+segments_pitches: shape = (951, 12)
+segments_start: shape = (951,)
+segments_timbre: shape = (951, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.66593014741
+song_id: SOPBJWH12B0B809492
+start_of_fade_out: 355.619
+tatums_confidence: shape = (1025,)
+tatums_start: shape = (1025,)
+tempo: 87.337
+time_signature: 4
+time_signature_confidence: 0.367
+title: Stop The World
+track_7digitalid: 166340
+track_id: TRAWFGF128E0792FE0
+year: 0

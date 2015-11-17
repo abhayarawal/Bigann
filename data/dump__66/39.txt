@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 175702
+artist_familiarity: 0.509952450538
+artist_hotttnesss: 0.363132403523
+artist_id: ARI28VJ1187FB4EAD7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 828fcd83-03c0-48d8-9d88-ac1567eef07e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Slackbaba
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: b797b05bbf52a9a8e402794dd1457f75
+bars_confidence: shape = (162,)
+bars_start: shape = (162,)
+beats_confidence: shape = (652,)
+beats_start: shape = (652,)
+danceability: 0.0
+duration: 330.39628
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.639
+loudness: -6.726
+mode: 1
+mode_confidence: 0.656
+release: Perverting Mankind
+release_7digitalid: 756277
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1568,)
+segments_loudness_max: shape = (1568,)
+segments_loudness_max_time: shape = (1568,)
+segments_loudness_start: shape = (1568,)
+segments_pitches: shape = (1568, 12)
+segments_start: shape = (1568,)
+segments_timbre: shape = (1568, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONCJLY12AB0187193
+start_of_fade_out: 311.269
+tatums_confidence: shape = (1305,)
+tatums_start: shape = (1305,)
+tempo: 120.016
+time_signature: 4
+time_signature_confidence: 0.804
+title: The Real Trick
+track_7digitalid: 8371066
+track_id: TRAWQKX12903CB3EC2
+year: 2010

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 70998
+artist_familiarity: 0.50677396849
+artist_hotttnesss: 0.37976178373
+artist_id: AR4JY8V1187B98A62F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6e5477fa-8946-4a33-89fe-9f16c0568d12
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ann Hampton Callaway
+artist_playmeid: 15801
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: d66052aa0b4b6b05acd26d05df8cd311
+bars_confidence: shape = (146,)
+bars_start: shape = (146,)
+beats_confidence: shape = (1030,)
+beats_start: shape = (1030,)
+danceability: 0.0
+duration: 304.71791
+end_of_fade_in: 0.112
+energy: 0.0
+key: 3
+key_confidence: 0.525
+loudness: -16.657
+mode: 1
+mode_confidence: 0.56
+release: Signature
+release_7digitalid: 620792
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (747,)
+segments_loudness_max: shape = (747,)
+segments_loudness_max_time: shape = (747,)
+segments_loudness_start: shape = (747,)
+segments_pitches: shape = (747, 12)
+segments_start: shape = (747,)
+segments_timbre: shape = (747, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.483143415219
+song_id: SOHUMHC12A81C2318E
+start_of_fade_out: 291.201
+tatums_confidence: shape = (1030,)
+tatums_start: shape = (1030,)
+tempo: 206.978
+time_signature: 7
+time_signature_confidence: 0.779
+title: For All We Know
+track_7digitalid: 6896058
+track_id: TRBAVNX128F930C861
+year: 2005

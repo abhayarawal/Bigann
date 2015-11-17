@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 43759
+artist_familiarity: 0.416184081205
+artist_hotttnesss: 0.285682006991
+artist_id: ARLSGUY1187B98AEBC
+artist_latitude: 37.16793
+artist_location: USA
+artist_longitude: -95.84502
+artist_mbid: c6b4d75c-f541-45b5-a5a6-049915d96d57
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Crabby Appleton
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 34271fa435a8b6352e7aff2d101ac60c
+bars_confidence: shape = (270,)
+bars_start: shape = (270,)
+beats_confidence: shape = (270,)
+beats_start: shape = (270,)
+danceability: 0.0
+duration: 186.69669
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.361
+loudness: -4.594
+mode: 1
+mode_confidence: 0.465
+release: Rhino Hi-Five: Crabby Appleton
+release_7digitalid: 57767
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (789,)
+segments_loudness_max: shape = (789,)
+segments_loudness_max_time: shape = (789,)
+segments_loudness_start: shape = (789,)
+segments_pitches: shape = (789, 12)
+segments_start: shape = (789,)
+segments_timbre: shape = (789, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.570105930058
+song_id: SOUHVMV12A58A7C4D9
+start_of_fade_out: 182.056
+tatums_confidence: shape = (810,)
+tatums_start: shape = (810,)
+tempo: 89.091
+time_signature: 1
+time_signature_confidence: 0.058
+title: Go Back
+track_7digitalid: 601297
+track_id: TRAGXBL128F149EBA2
+year: 1970

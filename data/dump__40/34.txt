@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 443520
+artist_familiarity: 0.380230188431
+artist_hotttnesss: 0.223983698921
+artist_id: AR8365R1187FB5997B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: dd5621f7-6d55-4c8e-af2c-ea19b2b91e7f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jean Carignan
+artist_playmeid: 54879
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: c93a5b39353892749dc67630a2706c9e
+bars_confidence: shape = (185,)
+bars_start: shape = (185,)
+beats_confidence: shape = (742,)
+beats_start: shape = (742,)
+danceability: 0.0
+duration: 189.72689
+end_of_fade_in: 1.112
+energy: 0.0
+key: 2
+key_confidence: 0.278
+loudness: -10.102
+mode: 1
+mode_confidence: 0.466
+release: Old Time Fiddle Tunes Played by Jean Carignan
+release_7digitalid: 595434
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (881,)
+segments_loudness_max: shape = (881,)
+segments_loudness_max_time: shape = (881,)
+segments_loudness_start: shape = (881,)
+segments_pitches: shape = (881, 12)
+segments_start: shape = (881,)
+segments_timbre: shape = (881, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSPFEP12AC468825B
+start_of_fade_out: 184.639
+tatums_confidence: shape = (1484,)
+tatums_start: shape = (1484,)
+tempo: 234.26
+time_signature: 4
+time_signature_confidence: 0.333
+title: Bank
+track_7digitalid: 6607073
+track_id: TRANSLD12903CE137C
+year: 0

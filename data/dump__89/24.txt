@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 25654
+artist_familiarity: 0.508636229134
+artist_hotttnesss: 0.372119118631
+artist_id: AREUYDJ1187B9BA040
+artist_latitude: nan
+artist_location: Havířov, Česká republika
+artist_longitude: nan
+artist_mbid: ea759c1a-5ee5-4729-9871-7ddd270469d6
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Krystof
+artist_playmeid: 8949
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 02a14d11da669cfafeb2013c9e877f5a
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (318,)
+beats_start: shape = (318,)
+danceability: 0.0
+duration: 222.32771
+end_of_fade_in: 0.328
+energy: 0.0
+key: 9
+key_confidence: 0.483
+loudness: -6.611
+mode: 1
+mode_confidence: 0.472
+release: Rubikon
+release_7digitalid: 72103
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (825,)
+segments_loudness_max: shape = (825,)
+segments_loudness_max_time: shape = (825,)
+segments_loudness_start: shape = (825,)
+segments_pitches: shape = (825, 12)
+segments_start: shape = (825,)
+segments_timbre: shape = (825, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.509640965552
+song_id: SOBCLUB12A6BD53D2E
+start_of_fade_out: 210.088
+tatums_confidence: shape = (1269,)
+tatums_start: shape = (1269,)
+tempo: 88.024
+time_signature: 4
+time_signature_confidence: 0.864
+title: Svedomi
+track_7digitalid: 757692
+track_id: TRBESWC128EF34B859
+year: 2006

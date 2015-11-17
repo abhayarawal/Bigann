@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 292160
+artist_familiarity: 0.421376060223
+artist_hotttnesss: 0.366527801955
+artist_id: ARRXPRY1187B9A8B34
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a1be513e-35e5-47b0-8b73-7476378384aa
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gran Coquivacoa
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 1f3b0884a7e747a794441580aada74ef
+bars_confidence: shape = (124,)
+bars_start: shape = (124,)
+beats_confidence: shape = (502,)
+beats_start: shape = (502,)
+danceability: 0.0
+duration: 270.70649
+end_of_fade_in: 0.34
+energy: 0.0
+key: 7
+key_confidence: 0.456
+loudness: -5.698
+mode: 0
+mode_confidence: 0.499
+release: Guerreros De La Luz
+release_7digitalid: 462216
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1270,)
+segments_loudness_max: shape = (1270,)
+segments_loudness_max_time: shape = (1270,)
+segments_loudness_start: shape = (1270,)
+segments_pitches: shape = (1270, 12)
+segments_start: shape = (1270,)
+segments_timbre: shape = (1270, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAUNYK12AB01860D9
+start_of_fade_out: 265.201
+tatums_confidence: shape = (2009,)
+tatums_start: shape = (2009,)
+tempo: 113.569
+time_signature: 4
+time_signature_confidence: 1.0
+title: Son Sabroso
+track_7digitalid: 5145497
+track_id: TRAEOPH128F932E302
+year: 0

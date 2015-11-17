@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7565
+artist_familiarity: 0.477724732492
+artist_hotttnesss: 0.299705214087
+artist_id: ARD3ICK1187B9A56C9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 96a5d12b-6f2e-4679-be43-ce0cc5146da6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jimmy Riley
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 37157d261b0b6e2251b009d8aa55a88e
+bars_confidence: shape = (142,)
+bars_start: shape = (142,)
+beats_confidence: shape = (571,)
+beats_start: shape = (571,)
+danceability: 0.0
+duration: 215.24853
+end_of_fade_in: 0.258
+energy: 0.0
+key: 1
+key_confidence: 0.33
+loudness: -5.651
+mode: 1
+mode_confidence: 0.428
+release: Pleasure Island 2001
+release_7digitalid: 573739
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (842,)
+segments_loudness_max: shape = (842,)
+segments_loudness_max_time: shape = (842,)
+segments_loudness_start: shape = (842,)
+segments_pitches: shape = (842, 12)
+segments_start: shape = (842,)
+segments_timbre: shape = (842, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYKMPM12AB0188163
+start_of_fade_out: 206.303
+tatums_confidence: shape = (1142,)
+tatums_start: shape = (1142,)
+tempo: 159.96
+time_signature: 4
+time_signature_confidence: 0.0
+title: Amaze
+track_7digitalid: 6358964
+track_id: TRAUVLK12903CA55FD
+year: 0

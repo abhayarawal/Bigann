@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 202912
+artist_familiarity: 0.8650215115
+artist_hotttnesss: 0.916053228284
+artist_id: ARJ7KF01187B98D717
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cc197bad-dc9c-440d-a5b5-d52ba2e14234
+artist_mbtags: shape = (12,)
+artist_mbtags_count: shape = (12,)
+artist_name: Coldplay
+artist_playmeid: 353
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 10df2d4ccaf217707a90d1fbb1f7e04c
+bars_confidence: shape = (216,)
+bars_start: shape = (216,)
+beats_confidence: shape = (655,)
+beats_start: shape = (655,)
+danceability: 0.0
+duration: 295.67955
+end_of_fade_in: 5.671
+energy: 0.0
+key: 9
+key_confidence: 0.526
+loudness: -6.473
+mode: 0
+mode_confidence: 0.496
+release: Speed Of Sound
+release_7digitalid: 11309
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (803,)
+segments_loudness_max: shape = (803,)
+segments_loudness_max_time: shape = (803,)
+segments_loudness_start: shape = (803,)
+segments_pitches: shape = (803, 12)
+segments_start: shape = (803,)
+segments_timbre: shape = (803, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.651171124429
+song_id: SOPTYJX12A6701CDC6
+start_of_fade_out: 271.209
+tatums_confidence: shape = (1311,)
+tatums_start: shape = (1311,)
+tempo: 137.008
+time_signature: 3
+time_signature_confidence: 0.622
+title: Things I Don't Understand
+track_7digitalid: 116060
+track_id: TRBFLIP128E07897B4
+year: 2005

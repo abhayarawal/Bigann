@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 60156
+artist_familiarity: 0.581462730866
+artist_hotttnesss: 0.381345282399
+artist_id: AR609UN1187FB53FA1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5dd9923a-5575-4b91-8775-1304e6fe8004
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pride Tiger
+artist_playmeid: 81748
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 2aac3bfdb6c0c27de2ea55018e7a7c13
+bars_confidence: shape = (60,)
+bars_start: shape = (60,)
+beats_confidence: shape = (430,)
+beats_start: shape = (430,)
+danceability: 0.0
+duration: 229.22404
+end_of_fade_in: 0.159
+energy: 0.0
+key: 8
+key_confidence: 0.211
+loudness: -2.397
+mode: 0
+mode_confidence: 0.286
+release: The Lucky Ones
+release_7digitalid: 106108
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (719,)
+segments_loudness_max: shape = (719,)
+segments_loudness_max_time: shape = (719,)
+segments_loudness_start: shape = (719,)
+segments_pitches: shape = (719, 12)
+segments_start: shape = (719,)
+segments_timbre: shape = (719, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONRARH12A8C139DCC
+start_of_fade_out: 224.514
+tatums_confidence: shape = (861,)
+tatums_start: shape = (861,)
+tempo: 114.061
+time_signature: 7
+time_signature_confidence: 0.909
+title: 56 Days
+track_7digitalid: 1099579
+track_id: TRACNVF128F428EA87
+year: 2007

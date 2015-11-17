@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40247
+artist_familiarity: 0.632008012811
+artist_hotttnesss: 0.14468466091
+artist_id: AR0BV7E1187FB386C1
+artist_latitude: nan
+artist_location: Hollywood, CA
+artist_longitude: nan
+artist_mbid: 0c361ea5-98c6-4947-900b-201833f2dd84
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lee Ritenour
+artist_playmeid: 5194
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 157e6cb42906c4c632f94a405e626f12
+bars_confidence: shape = (124,)
+bars_start: shape = (124,)
+beats_confidence: shape = (498,)
+beats_start: shape = (498,)
+danceability: 0.0
+duration: 321.56689
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.355
+loudness: -11.241
+mode: 0
+mode_confidence: 0.443
+release: This Is Love
+release_7digitalid: 290701
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1379,)
+segments_loudness_max: shape = (1379,)
+segments_loudness_max_time: shape = (1379,)
+segments_loudness_start: shape = (1379,)
+segments_pitches: shape = (1379, 12)
+segments_start: shape = (1379,)
+segments_timbre: shape = (1379, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.489030797323
+song_id: SOMCQZY12A8C136BBF
+start_of_fade_out: 304.408
+tatums_confidence: shape = (995,)
+tatums_start: shape = (995,)
+tempo: 93.848
+time_signature: 4
+time_signature_confidence: 0.563
+title: Can You Feel It?
+track_7digitalid: 3261283
+track_id: TRAEUJB128F427B76F
+year: 1998

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 393106
+artist_familiarity: 0.233787991346
+artist_hotttnesss: 0.265753663412
+artist_id: ARJSPFM1241B9CD859
+artist_latitude: nan
+artist_location: Middle Village NY
+artist_longitude: nan
+artist_mbid: b3bb82eb-df15-4304-a0b6-31dfe5f4adde
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Big Jay Oakerson
+artist_playmeid: -1
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: 8e8accf2fedc32f5bcababf0d8b421f0
+bars_confidence: shape = (354,)
+bars_start: shape = (354,)
+beats_confidence: shape = (354,)
+beats_start: shape = (354,)
+danceability: 0.0
+duration: 172.5122
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.434
+loudness: -8.33
+mode: 1
+mode_confidence: 0.552
+release: An American Storyteller
+release_7digitalid: 533246
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (708,)
+segments_loudness_max: shape = (708,)
+segments_loudness_max_time: shape = (708,)
+segments_loudness_start: shape = (708,)
+segments_pitches: shape = (708, 12)
+segments_start: shape = (708,)
+segments_timbre: shape = (708, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJFBKG12AB017E36F
+start_of_fade_out: 167.787
+tatums_confidence: shape = (708,)
+tatums_start: shape = (708,)
+tempo: 122.757
+time_signature: 1
+time_signature_confidence: 0.0
+title: It's All In How You Look At It
+track_7digitalid: 5893007
+track_id: TRAWHSM128F9301172
+year: 2009

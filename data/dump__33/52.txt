@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 51559
+artist_familiarity: 0.643016143941
+artist_hotttnesss: 0.461517204498
+artist_id: ARVJVFF1187B9B40D6
+artist_latitude: 40.7174
+artist_location: Jersey City, NJ
+artist_longitude: -74.04323
+artist_mbid: 09c0f334-f9de-4970-b9ee-ef799cd093be
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Al DiMeola
+artist_playmeid: 13669
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 174c0e19a1da05a3d786dafbf4b1dc62
+bars_confidence: shape = (268,)
+bars_start: shape = (268,)
+beats_confidence: shape = (1074,)
+beats_start: shape = (1074,)
+danceability: 0.0
+duration: 319.84281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.312
+loudness: -10.176
+mode: 1
+mode_confidence: 0.445
+release: The Best of Al DiMeola: The Manhattan Years
+release_7digitalid: 22786
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1315,)
+segments_loudness_max: shape = (1315,)
+segments_loudness_max_time: shape = (1315,)
+segments_loudness_start: shape = (1315,)
+segments_pitches: shape = (1315, 12)
+segments_start: shape = (1315,)
+segments_timbre: shape = (1315, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORMZSD12A6D4F736A
+start_of_fade_out: 312.616
+tatums_confidence: shape = (2149,)
+tatums_start: shape = (2149,)
+tempo: 206.101
+time_signature: 4
+time_signature_confidence: 0.0
+title: July
+track_7digitalid: 237226
+track_id: TRALKBG128F1457FCF
+year: 1992

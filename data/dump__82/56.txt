@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 29506
+artist_familiarity: 0.403095259517
+artist_hotttnesss: 0.301772341979
+artist_id: ARF1FZV1187B98C928
+artist_latitude: 41.0981
+artist_location: Youngstown, OH
+artist_longitude: -80.65079
+artist_mbid: eab6f070-310f-4c8b-98a6-a9fdcedb514e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tiny Bradshaw
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 010e044ce9cbf0e44694975177ebcf0f
+bars_confidence: shape = (67,)
+bars_start: shape = (67,)
+beats_confidence: shape = (280,)
+beats_start: shape = (280,)
+danceability: 0.0
+duration: 158.82404
+end_of_fade_in: 0.247
+energy: 0.0
+key: 0
+key_confidence: 0.33
+loudness: -6.627
+mode: 0
+mode_confidence: 0.373
+release: The History of Rhythm and Blues - Disc 3
+release_7digitalid: 564496
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (591,)
+segments_loudness_max: shape = (591,)
+segments_loudness_max_time: shape = (591,)
+segments_loudness_start: shape = (591,)
+segments_pitches: shape = (591, 12)
+segments_start: shape = (591,)
+segments_timbre: shape = (591, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWPBNN12AB01848B1
+start_of_fade_out: 155.678
+tatums_confidence: shape = (560,)
+tatums_start: shape = (560,)
+tempo: 106.565
+time_signature: 4
+time_signature_confidence: 0.598
+title: Well Oh Well
+track_7digitalid: 6248002
+track_id: TRBCHRA128F9357174
+year: 2004

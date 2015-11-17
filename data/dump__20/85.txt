@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5775
+artist_familiarity: 0.710901465884
+artist_hotttnesss: 0.51799022136
+artist_id: ARANIJI11F4C83EFD2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 29730ee3-e1c7-4e28-9ccd-3a0e6b0e8103
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Toots & The Maytals
+artist_playmeid: 4097
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: e45cd62c45fddd363bd2330d00764c75
+bars_confidence: shape = (65,)
+bars_start: shape = (65,)
+beats_confidence: shape = (462,)
+beats_start: shape = (462,)
+danceability: 0.0
+duration: 169.53424
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.59
+loudness: -5.914
+mode: 1
+mode_confidence: 0.47
+release: From Bam Bam To Cherry Oh! Baby
+release_7digitalid: 420138
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (719,)
+segments_loudness_max: shape = (719,)
+segments_loudness_max_time: shape = (719,)
+segments_loudness_start: shape = (719,)
+segments_pitches: shape = (719, 12)
+segments_start: shape = (719,)
+segments_timbre: shape = (719, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMDRBE12AB01813EA
+start_of_fade_out: 164.368
+tatums_confidence: shape = (924,)
+tatums_start: shape = (924,)
+tempo: 163.748
+time_signature: 7
+time_signature_confidence: 0.641
+title: Sweet & Dandy
+track_7digitalid: 4681765
+track_id: TRAHCBD128F9336A3E
+year: 1984

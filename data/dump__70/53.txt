@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 149073
+artist_familiarity: 0.35627831338
+artist_hotttnesss: 0.0
+artist_id: AR07HWO1187B9A2189
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 11a1e37e-4975-4fc6-8de0-48a2db467b4d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lil' Band O' Gold
+artist_playmeid: 144553
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 0da0e9174b5432d190a7ddb73006b4c9
+bars_confidence: shape = (241,)
+bars_start: shape = (241,)
+beats_confidence: shape = (727,)
+beats_start: shape = (727,)
+danceability: 0.0
+duration: 312.842
+end_of_fade_in: 0.427
+energy: 0.0
+key: 10
+key_confidence: 0.672
+loudness: -13.535
+mode: 1
+mode_confidence: 0.734
+release: Lil' Band O Gold
+release_7digitalid: 600433
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (776,)
+segments_loudness_max: shape = (776,)
+segments_loudness_max_time: shape = (776,)
+segments_loudness_start: shape = (776,)
+segments_pitches: shape = (776, 12)
+segments_start: shape = (776,)
+segments_timbre: shape = (776, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.284301939921
+song_id: SOUKKXH12A8C134151
+start_of_fade_out: 305.099
+tatums_confidence: shape = (727,)
+tatums_start: shape = (727,)
+tempo: 142.709
+time_signature: 3
+time_signature_confidence: 1.0
+title: First You Cry
+track_7digitalid: 6664295
+track_id: TRAYDIG12903CEF277
+year: 2000

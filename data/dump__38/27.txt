@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 310037
+artist_familiarity: 0.351815123234
+artist_hotttnesss: 0.270940706767
+artist_id: ARMMKRK1187B996E31
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: dac57e38-6f3b-4e93-adfa-2e10c008e3ad
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: William Goldstein
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 60f183a5ec8f6c53f54f346944f4f8fa
+bars_confidence: shape = (49,)
+bars_start: shape = (49,)
+beats_confidence: shape = (204,)
+beats_start: shape = (204,)
+danceability: 0.0
+duration: 115.74812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.456
+loudness: -24.188
+mode: 0
+mode_confidence: 0.574
+release: Liberty
+release_7digitalid: 471184
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (211,)
+segments_loudness_max: shape = (211,)
+segments_loudness_max_time: shape = (211,)
+segments_loudness_start: shape = (211,)
+segments_pitches: shape = (211, 12)
+segments_start: shape = (211,)
+segments_timbre: shape = (211, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMMLUE12AB0187FCC
+start_of_fade_out: 109.482
+tatums_confidence: shape = (613,)
+tatums_start: shape = (613,)
+tempo: 112.328
+time_signature: 4
+time_signature_confidence: 0.0
+title: Bartholdi's Dream
+track_7digitalid: 5237279
+track_id: TRANAZC128F9344921
+year: 0

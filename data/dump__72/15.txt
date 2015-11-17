@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 83160
+artist_familiarity: 0.425070564417
+artist_hotttnesss: 0.0
+artist_id: ARNDHMV1241B9C870B
+artist_latitude: 41.38572
+artist_location: Barcelona 
+artist_longitude: 2.17005
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pantanito
+artist_playmeid: 56517
+artist_terms: shape = (8,)
+artist_terms_freq: shape = (8,)
+artist_terms_weight: shape = (8,)
+audio_md5: f0d92f527fd4d70c3dc87a0ef0d9ce5f
+bars_confidence: shape = (22,)
+bars_start: shape = (22,)
+beats_confidence: shape = (92,)
+beats_start: shape = (92,)
+danceability: 0.0
+duration: 51.12118
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.0
+loudness: -7.622
+mode: 0
+mode_confidence: 0.0
+release: Pantanito
+release_7digitalid: 303387
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (246,)
+segments_loudness_max: shape = (246,)
+segments_loudness_max_time: shape = (246,)
+segments_loudness_start: shape = (246,)
+segments_pitches: shape = (246, 12)
+segments_start: shape = (246,)
+segments_timbre: shape = (246, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTMILP12A8C13D2CC
+start_of_fade_out: 51.121
+tatums_confidence: shape = (367,)
+tatums_start: shape = (367,)
+tempo: 112.995
+time_signature: 4
+time_signature_confidence: 0.611
+title: Aceite
+track_7digitalid: 3437242
+track_id: TRAYSDT128F42A5B9B
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 231781
+artist_familiarity: 0.520267618184
+artist_hotttnesss: 0.441298076506
+artist_id: ARA6H4G1187B99E2F2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 79de65f4-4f6e-4118-9f1d-87787d15d247
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Refractory
+artist_playmeid: -1
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 6495f09b27d3c780f09a2592c3a4166a
+bars_confidence: shape = (146,)
+bars_start: shape = (146,)
+beats_confidence: shape = (735,)
+beats_start: shape = (735,)
+danceability: 0.0
+duration: 358.89587
+end_of_fade_in: 2.212
+energy: 0.0
+key: 5
+key_confidence: 0.02
+loudness: -5.613
+mode: 1
+mode_confidence: 0.596
+release: Refractory
+release_7digitalid: 486459
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (1436,)
+segments_loudness_max: shape = (1436,)
+segments_loudness_max_time: shape = (1436,)
+segments_loudness_start: shape = (1436,)
+segments_pitches: shape = (1436, 12)
+segments_start: shape = (1436,)
+segments_timbre: shape = (1436, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHVPTO12A8C138ADF
+start_of_fade_out: 351.434
+tatums_confidence: shape = (2205,)
+tatums_start: shape = (2205,)
+tempo: 123.96
+time_signature: 5
+time_signature_confidence: 0.495
+title: Check the bomb
+track_7digitalid: 5394634
+track_id: TRARATE128F92FE56A
+year: 0

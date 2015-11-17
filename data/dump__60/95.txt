@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 48634
+artist_familiarity: 0.548672435741
+artist_hotttnesss: 0.35850092274
+artist_id: ARGDY4Y1187B9A334F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: acefd28a-0735-4b1a-827d-bfa355611f55
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pyranja
+artist_playmeid: -1
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: f8469596a9a3d51359bcb16768200516
+bars_confidence: shape = (32,)
+bars_start: shape = (32,)
+beats_confidence: shape = (97,)
+beats_start: shape = (97,)
+danceability: 0.0
+duration: 60.55138
+end_of_fade_in: 0.102
+energy: 0.0
+key: 11
+key_confidence: 0.046
+loudness: -9.255
+mode: 0
+mode_confidence: 0.285
+release: Wurzeln & Flügel
+release_7digitalid: 714373
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (292,)
+segments_loudness_max: shape = (292,)
+segments_loudness_max_time: shape = (292,)
+segments_loudness_start: shape = (292,)
+segments_pitches: shape = (292, 12)
+segments_start: shape = (292,)
+segments_timbre: shape = (292, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOHCGST12AB0185F64
+start_of_fade_out: 60.551
+tatums_confidence: shape = (195,)
+tatums_start: shape = (195,)
+tempo: 96.264
+time_signature: 3
+time_signature_confidence: 0.934
+title: Anfang Vom Ende
+track_7digitalid: 7922950
+track_id: TRAUVAR12903CBD9A4
+year: 2003

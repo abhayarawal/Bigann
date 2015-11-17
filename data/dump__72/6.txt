@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6606
+artist_familiarity: 0.475027800815
+artist_hotttnesss: 0.378413813554
+artist_id: ARMPIH61187FB44227
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ff0ecbbe-34b0-49c7-a36d-81a47700ac13
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Sun Yan-Zi
+artist_playmeid: 62275
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 26fc19134fcd1e0f76a5f3f1b6e445f5
+bars_confidence: shape = (60,)
+bars_start: shape = (60,)
+beats_confidence: shape = (307,)
+beats_start: shape = (307,)
+danceability: 0.0
+duration: 215.53587
+end_of_fade_in: 8.098
+energy: 0.0
+key: 1
+key_confidence: 0.473
+loudness: -7.547
+mode: 1
+mode_confidence: 0.595
+release: Start
+release_7digitalid: 105801
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (813,)
+segments_loudness_max: shape = (813,)
+segments_loudness_max_time: shape = (813,)
+segments_loudness_start: shape = (813,)
+segments_pitches: shape = (813, 12)
+segments_start: shape = (813,)
+segments_timbre: shape = (813, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKJVBZ12A8C13C27E
+start_of_fade_out: 208.225
+tatums_confidence: shape = (923,)
+tatums_start: shape = (923,)
+tempo: 86.06
+time_signature: 5
+time_signature_confidence: 0.662
+title: That's The Way It Is
+track_7digitalid: 1096019
+track_id: TRAYRPQ128F428DCC8
+year: 2002

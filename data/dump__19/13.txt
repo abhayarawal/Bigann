@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17075
+artist_familiarity: 0.412473042373
+artist_hotttnesss: 0.306976307226
+artist_id: AR9F71I1187FB46CAF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 63da067e-d1ba-4e39-a1ac-ef09594993c4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gordon MacRae
+artist_playmeid: 149144
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: b16d73c416c2da9ea8e6c378108b9a15
+bars_confidence: shape = (73,)
+bars_start: shape = (73,)
+beats_confidence: shape = (223,)
+beats_start: shape = (223,)
+danceability: 0.0
+duration: 134.89587
+end_of_fade_in: 0.949
+energy: 0.0
+key: 4
+key_confidence: 0.499
+loudness: -16.71
+mode: 1
+mode_confidence: 0.412
+release: Songs From 'By The Light Of The Silvery Moon' and Other Selections
+release_7digitalid: 301421
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (396,)
+segments_loudness_max: shape = (396,)
+segments_loudness_max_time: shape = (396,)
+segments_loudness_start: shape = (396,)
+segments_pitches: shape = (396, 12)
+segments_start: shape = (396,)
+segments_timbre: shape = (396, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWTXWG12A8C13C228
+start_of_fade_out: 127.483
+tatums_confidence: shape = (445,)
+tatums_start: shape = (445,)
+tempo: 103.713
+time_signature: 3
+time_signature_confidence: 1.0
+title: Just One Girl
+track_7digitalid: 3391909
+track_id: TRAGMAD128F429AEA4
+year: 0

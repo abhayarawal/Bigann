@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 263659
+artist_familiarity: 0.450053568333
+artist_hotttnesss: 0.395352792495
+artist_id: AR9YI7H1187B9960E3
+artist_latitude: nan
+artist_location: BELGIUM
+artist_longitude: nan
+artist_mbid: 966e9735-f97c-40b8-b54c-9a9acf8d7c86
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dobet Gnahoré
+artist_playmeid: -1
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: fb17a4db9d114561bd172c81c57683d8
+bars_confidence: shape = (109,)
+bars_start: shape = (109,)
+beats_confidence: shape = (448,)
+beats_start: shape = (448,)
+danceability: 0.0
+duration: 251.79383
+end_of_fade_in: 0.309
+energy: 0.0
+key: 2
+key_confidence: 0.292
+loudness: -12.378
+mode: 1
+mode_confidence: 0.349
+release: Djekpa la you
+release_7digitalid: 800719
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1106,)
+segments_loudness_max: shape = (1106,)
+segments_loudness_max_time: shape = (1106,)
+segments_loudness_start: shape = (1106,)
+segments_pitches: shape = (1106, 12)
+segments_start: shape = (1106,)
+segments_timbre: shape = (1106, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.484562529968
+song_id: SOXNYWA12AB01877E8
+start_of_fade_out: 245.023
+tatums_confidence: shape = (895,)
+tatums_start: shape = (895,)
+tempo: 108.153
+time_signature: 4
+time_signature_confidence: 0.74
+title: Evigne
+track_7digitalid: 8858017
+track_id: TRBHNCL12903CB6CAA
+year: 2010

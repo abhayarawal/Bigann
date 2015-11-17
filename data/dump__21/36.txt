@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8122
+artist_familiarity: 0.594196619898
+artist_hotttnesss: 0.375914687587
+artist_id: ARW1DZQ1187B9A18E0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bba868d4-974d-4b3b-a09f-ceef888da5b8
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Vusi Mahlasela
+artist_playmeid: 17385
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: f0cb597418fe7a16f90a0eede543c806
+bars_confidence: shape = (153,)
+bars_start: shape = (153,)
+beats_confidence: shape = (615,)
+beats_start: shape = (615,)
+danceability: 0.0
+duration: 273.31873
+end_of_fade_in: 2.119
+energy: 0.0
+key: 2
+key_confidence: 0.297
+loudness: -6.144
+mode: 1
+mode_confidence: 0.321
+release: Guiding Star (Naledi Ya Tsela)
+release_7digitalid: 146411
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1084,)
+segments_loudness_max: shape = (1084,)
+segments_loudness_max_time: shape = (1084,)
+segments_loudness_start: shape = (1084,)
+segments_pitches: shape = (1084, 12)
+segments_start: shape = (1084,)
+segments_timbre: shape = (1084, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3759843015
+song_id: SORAXQJ12A8C1333AA
+start_of_fade_out: 266.699
+tatums_confidence: shape = (1230,)
+tatums_start: shape = (1230,)
+tempo: 137.942
+time_signature: 4
+time_signature_confidence: 0.121
+title: Pata Pata
+track_7digitalid: 1527466
+track_id: TRAHGGH128F425529F
+year: 0

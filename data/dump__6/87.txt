@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2981
+artist_familiarity: 0.705287678078
+artist_hotttnesss: 0.517298018026
+artist_id: AR039B11187B9B30D0
+artist_latitude: nan
+artist_location: NEW YORK, New York
+artist_longitude: nan
+artist_mbid: fb9719bf-c477-4223-b319-986eb4168a91
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: John Williams
+artist_playmeid: 5226
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 247b1151c7fbb3a76f715bdb48375132
+bars_confidence: shape = (353,)
+bars_start: shape = (353,)
+beats_confidence: shape = (353,)
+beats_start: shape = (353,)
+danceability: 0.0
+duration: 157.28281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.771
+loudness: -17.941
+mode: 1
+mode_confidence: 0.771
+release: An American Journey
+release_7digitalid: 300387
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (545,)
+segments_loudness_max: shape = (545,)
+segments_loudness_max_time: shape = (545,)
+segments_loudness_start: shape = (545,)
+segments_pitches: shape = (545, 12)
+segments_start: shape = (545,)
+segments_timbre: shape = (545, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXBWOG12A8C138A74
+start_of_fade_out: 154.883
+tatums_confidence: shape = (706,)
+tatums_start: shape = (706,)
+tempo: 138.508
+time_signature: 1
+time_signature_confidence: 0.0
+title: American Journey/IV. Arts and Sports
+track_7digitalid: 3369294
+track_id: TRACFZM128F4295740
+year: 0

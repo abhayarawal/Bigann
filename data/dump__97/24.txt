@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 212
+artist_familiarity: 0.941896454524
+artist_hotttnesss: 0.598596744615
+artist_id: ARY53RR1187B9AE485
+artist_latitude: 44.16104
+artist_location: Belleville, Ontario, Canada
+artist_longitude: -77.3819
+artist_mbid: 0103c1cc-4a09-4a5d-a344-56ad99a77193
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Avril Lavigne
+artist_playmeid: 144
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 5513fe87a3fa12e14f082d82bc9757a4
+bars_confidence: shape = (229,)
+bars_start: shape = (229,)
+beats_confidence: shape = (691,)
+beats_start: shape = (691,)
+danceability: 0.0
+duration: 260.44036
+end_of_fade_in: 2.049
+energy: 0.0
+key: 2
+key_confidence: 0.352
+loudness: -4.377
+mode: 1
+mode_confidence: 0.417
+release: My World
+release_7digitalid: 397470
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (601,)
+segments_loudness_max: shape = (601,)
+segments_loudness_max_time: shape = (601,)
+segments_loudness_start: shape = (601,)
+segments_pitches: shape = (601, 12)
+segments_start: shape = (601,)
+segments_timbre: shape = (601, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEFXUF12AB018418B
+start_of_fade_out: 250.95
+tatums_confidence: shape = (1381,)
+tatums_start: shape = (1381,)
+tempo: 162.025
+time_signature: 3
+time_signature_confidence: 0.454
+title: Unwanted
+track_7digitalid: 4416793
+track_id: TRBHLBZ128F9300586
+year: 2001

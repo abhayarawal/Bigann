@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 109608
+artist_familiarity: 0.0907025498739
+artist_hotttnesss: 0.295332819545
+artist_id: ARQKBSH1187B9B4B99
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2228a756-d93d-44f0-8ef5-424c1f0da7de
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Francis Dhomont
+artist_playmeid: 80937
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: b5763ee432b965f2986632beab3eaecd
+bars_confidence: shape = (452,)
+bars_start: shape = (452,)
+beats_confidence: shape = (1359,)
+beats_start: shape = (1359,)
+danceability: 0.0
+duration: 540.49914
+end_of_fade_in: 10.838
+energy: 0.0
+key: 1
+key_confidence: 0.45
+loudness: -18.464
+mode: 1
+mode_confidence: 0.477
+release: Cycle de l'erance
+release_7digitalid: 142144
+sections_confidence: shape = (30,)
+sections_start: shape = (30,)
+segments_confidence: shape = (778,)
+segments_loudness_max: shape = (778,)
+segments_loudness_max_time: shape = (778,)
+segments_loudness_start: shape = (778,)
+segments_pitches: shape = (778, 12)
+segments_start: shape = (778,)
+segments_timbre: shape = (778, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SOMYRRN12A3F1EA18C
+start_of_fade_out: 515.831
+tatums_confidence: shape = (1359,)
+tatums_start: shape = (1359,)
+tempo: 154.045
+time_signature: 3
+time_signature_confidence: 0.494
+title: Chiaroscuro
+track_7digitalid: 1480204
+track_id: TRAPHQB128F424AB35
+year: 0

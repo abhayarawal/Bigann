@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 171639
+artist_familiarity: 0.316517394764
+artist_hotttnesss: 0.298271605714
+artist_id: ARHSYTC11F50C505F9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: D' Militante
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 089275226ae6e705f92a3b9bba7d0329
+bars_confidence: shape = (1668,)
+bars_start: shape = (1668,)
+beats_confidence: shape = (1668,)
+beats_start: shape = (1668,)
+danceability: 0.0
+duration: 420.49261
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.0
+loudness: -15.655
+mode: 1
+mode_confidence: 0.194
+release: Am I Lying?!
+release_7digitalid: 224620
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (1729,)
+segments_loudness_max: shape = (1729,)
+segments_loudness_max_time: shape = (1729,)
+segments_loudness_start: shape = (1729,)
+segments_pitches: shape = (1729, 12)
+segments_start: shape = (1729,)
+segments_timbre: shape = (1729, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.288481642656
+song_id: SOOSYTN12A8C13F55B
+start_of_fade_out: 420.493
+tatums_confidence: shape = (1668,)
+tatums_start: shape = (1668,)
+tempo: 240.314
+time_signature: 1
+time_signature_confidence: 0.725
+title: T.V. & Movies
+track_7digitalid: 2455703
+track_id: TRADZCV128F4294DFD
+year: 0

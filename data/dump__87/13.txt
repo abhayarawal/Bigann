@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 24305
+artist_familiarity: 0.558758556051
+artist_hotttnesss: 0.397620535081
+artist_id: ARO81XD1187FB38096
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2c9bfd68-38d2-4e9f-9baa-7f99ce7f2f79
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Egberto Gismonti
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: baf524e70bc754be0fe532f646bd2882
+bars_confidence: shape = (0,)
+bars_start: shape = (0,)
+beats_confidence: shape = (0,)
+beats_start: shape = (0,)
+danceability: 0.0
+duration: 1.2273
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.0
+loudness: -29.106
+mode: 1
+mode_confidence: 0.0
+release: Sanfona
+release_7digitalid: 179843
+sections_confidence: shape = (0,)
+sections_start: shape = (0,)
+segments_confidence: shape = (5,)
+segments_loudness_max: shape = (5,)
+segments_loudness_max_time: shape = (5,)
+segments_loudness_start: shape = (5,)
+segments_pitches: shape = (5, 12)
+segments_start: shape = (5,)
+segments_timbre: shape = (5, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMUFQB12A81C22FA9
+start_of_fade_out: 1.227
+tatums_confidence: shape = (5,)
+tatums_start: shape = (5,)
+tempo: 0.0
+time_signature: 3
+time_signature_confidence: 0.0
+title: Carta De Amor
+track_7digitalid: 1943720
+track_id: TRBDXOD128F422C47B
+year: 1981

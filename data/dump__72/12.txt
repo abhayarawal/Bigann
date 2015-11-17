@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 35758
+artist_familiarity: 0.423401377256
+artist_hotttnesss: 0.375652824002
+artist_id: ARCII0J1187FB3A1B4
+artist_latitude: 40.71455
+artist_location: New York City, New York
+artist_longitude: -74.00712
+artist_mbid: 36f93472-e1c2-45bc-b141-801e79b7de14
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Marx Brothers
+artist_playmeid: 86080
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 6ed6b026a515f185b409347d8d84eae8
+bars_confidence: shape = (60,)
+bars_start: shape = (60,)
+beats_confidence: shape = (196,)
+beats_start: shape = (196,)
+danceability: 0.0
+duration: 128.23465
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.71
+loudness: -12.73
+mode: 1
+mode_confidence: 0.841
+release: The Cocoanuts / Monkey Business
+release_7digitalid: 233168
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (369,)
+segments_loudness_max: shape = (369,)
+segments_loudness_max_time: shape = (369,)
+segments_loudness_start: shape = (369,)
+segments_pitches: shape = (369, 12)
+segments_start: shape = (369,)
+segments_timbre: shape = (369, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVCJCE12A8A9D59F4
+start_of_fade_out: 122.479
+tatums_confidence: shape = (392,)
+tatums_start: shape = (392,)
+tempo: 91.722
+time_signature: 3
+time_signature_confidence: 0.481
+title: Florida By the Sea - The Cocoanuts
+track_7digitalid: 2558430
+track_id: TRAYSAL128F4227A1D
+year: 0

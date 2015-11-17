@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 97840
+artist_familiarity: 0.493995079533
+artist_hotttnesss: 0.372179877857
+artist_id: ARFONSP11F50C4D175
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Michael Bloomfield
+artist_playmeid: 14546
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 3954ed6453f2e7521b66e09550918bb6
+bars_confidence: shape = (195,)
+bars_start: shape = (195,)
+beats_confidence: shape = (784,)
+beats_start: shape = (784,)
+danceability: 0.0
+duration: 310.59546
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.818
+loudness: -10.091
+mode: 1
+mode_confidence: 0.508
+release: Bloomfield-A Retrospective
+release_7digitalid: 623984
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (998,)
+segments_loudness_max: shape = (998,)
+segments_loudness_max_time: shape = (998,)
+segments_loudness_start: shape = (998,)
+segments_pitches: shape = (998, 12)
+segments_start: shape = (998,)
+segments_timbre: shape = (998, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOKQZYR12AB0182223
+start_of_fade_out: 301.082
+tatums_confidence: shape = (1569,)
+tatums_start: shape = (1569,)
+tempo: 153.086
+time_signature: 4
+time_signature_confidence: 0.675
+title: You're Killing My Love
+track_7digitalid: 6926156
+track_id: TRAFTPO128F9313CF8
+year: 0

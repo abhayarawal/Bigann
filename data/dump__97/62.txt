@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7534
+artist_familiarity: 0.662250483665
+artist_hotttnesss: 0.410053622676
+artist_id: ARNZPLV1187FB3DF5D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 93dda03d-c1d3-42c2-80b0-fa71bc20262b
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Capleton
+artist_playmeid: 34172
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: c71e02c51021f620c50a851aa8686a0c
+bars_confidence: shape = (93,)
+bars_start: shape = (93,)
+beats_confidence: shape = (377,)
+beats_start: shape = (377,)
+danceability: 0.0
+duration: 223.39873
+end_of_fade_in: 2.032
+energy: 0.0
+key: 8
+key_confidence: 0.45
+loudness: -14.472
+mode: 0
+mode_confidence: 0.586
+release: Lotion Man
+release_7digitalid: 110108
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1222,)
+segments_loudness_max: shape = (1222,)
+segments_loudness_max_time: shape = (1222,)
+segments_loudness_start: shape = (1222,)
+segments_pitches: shape = (1222, 12)
+segments_start: shape = (1222,)
+segments_timbre: shape = (1222, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBDGBW12A8C13D50B
+start_of_fade_out: 215.226
+tatums_confidence: shape = (1508,)
+tatums_start: shape = (1508,)
+tempo: 102.399
+time_signature: 4
+time_signature_confidence: 1.0
+title: When Me A Move
+track_7digitalid: 1138947
+track_id: TRBHOBW128F429504D
+year: 1991

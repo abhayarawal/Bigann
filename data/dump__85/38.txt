@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 460109
+artist_familiarity: 0.412736418032
+artist_hotttnesss: 0.305288008246
+artist_id: ARH72941187B989591
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e6440ead-5400-4e7b-924b-0d7af5d07f2b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gato Perez
+artist_playmeid: 10890
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: c4b91db1470f4c16634aadc7976ccd4c
+bars_confidence: shape = (795,)
+bars_start: shape = (795,)
+beats_confidence: shape = (795,)
+beats_start: shape = (795,)
+danceability: 0.0
+duration: 274.85995
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.0
+loudness: -11.961
+mode: 1
+mode_confidence: 0.218
+release: El Ultimo Y El Primero
+release_7digitalid: 88435
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1176,)
+segments_loudness_max: shape = (1176,)
+segments_loudness_max_time: shape = (1176,)
+segments_loudness_start: shape = (1176,)
+segments_pitches: shape = (1176, 12)
+segments_start: shape = (1176,)
+segments_timbre: shape = (1176, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORMCUQ12A8C131EB9
+start_of_fade_out: 255.39
+tatums_confidence: shape = (1590,)
+tatums_start: shape = (1590,)
+tempo: 178.471
+time_signature: 1
+time_signature_confidence: 0.0
+title: Ja Soc Aqui
+track_7digitalid: 932678
+track_id: TRBDIEV128F426639A
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 314579
+artist_familiarity: 0.647147319172
+artist_hotttnesss: 0.654914474436
+artist_id: ARVV61U1187FB4FC32
+artist_latitude: nan
+artist_location: Melbourne, Victoria, Australia
+artist_longitude: nan
+artist_mbid: bb6eaced-69dd-4636-829f-9f987acc4fc3
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Temper Trap
+artist_playmeid: 177538
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 90dfbc534520627d4c038c86e3d06ba0
+bars_confidence: shape = (122,)
+bars_start: shape = (122,)
+beats_confidence: shape = (492,)
+beats_start: shape = (492,)
+danceability: 0.0
+duration: 232.75057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.121
+loudness: -5.126
+mode: 1
+mode_confidence: 0.462
+release: Nu Disco '10
+release_7digitalid: 710962
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1010,)
+segments_loudness_max: shape = (1010,)
+segments_loudness_max_time: shape = (1010,)
+segments_loudness_start: shape = (1010,)
+segments_pitches: shape = (1010, 12)
+segments_start: shape = (1010,)
+segments_timbre: shape = (1010, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTGZZI12AB0186376
+start_of_fade_out: 226.0
+tatums_confidence: shape = (983,)
+tatums_start: shape = (983,)
+tempo: 128.962
+time_signature: 4
+time_signature_confidence: 0.861
+title: Sweet Disposition
+track_7digitalid: 7885999
+track_id: TRASTRY12903CB4B0A
+year: 2008

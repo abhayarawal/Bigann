@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 540814
+artist_familiarity: 0.612770671119
+artist_hotttnesss: 0.372890580798
+artist_id: ARGXXNS1187FB4BAA4
+artist_latitude: nan
+artist_location: Corte Madera CA
+artist_longitude: nan
+artist_mbid: 53e48f4b-35e8-4e0f-a5dd-62ba1303e666
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Minipop
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: e72b2ce9ff873353ed6ef568564c3d95
+bars_confidence: shape = (106,)
+bars_start: shape = (106,)
+beats_confidence: shape = (427,)
+beats_start: shape = (427,)
+danceability: 0.0
+duration: 163.00363
+end_of_fade_in: 2.038
+energy: 0.0
+key: 2
+key_confidence: 0.208
+loudness: -4.993
+mode: 1
+mode_confidence: 0.523
+release: A New Hope
+release_7digitalid: 725703
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (364,)
+segments_loudness_max: shape = (364,)
+segments_loudness_max_time: shape = (364,)
+segments_loudness_start: shape = (364,)
+segments_pitches: shape = (364, 12)
+segments_start: shape = (364,)
+segments_timbre: shape = (364, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.67307443495
+song_id: SOTJIBZ12A58A79560
+start_of_fade_out: 151.005
+tatums_confidence: shape = (854,)
+tatums_start: shape = (854,)
+tempo: 160.051
+time_signature: 4
+time_signature_confidence: 0.614
+title: Fingerprints
+track_7digitalid: 8042232
+track_id: TRAHORF12903CDA9FB
+year: 2007

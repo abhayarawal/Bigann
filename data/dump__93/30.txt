@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 435899
+artist_familiarity: 0.388676820312
+artist_hotttnesss: 0.0
+artist_id: ARQZOCL1241B9C85AF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Nightswimmer
+artist_playmeid: -1
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: ba3e58b3edcf9272f1bae72b499fdc1a
+bars_confidence: shape = (136,)
+bars_start: shape = (136,)
+beats_confidence: shape = (548,)
+beats_start: shape = (548,)
+danceability: 0.0
+duration: 279.19628
+end_of_fade_in: 2.635
+energy: 0.0
+key: 0
+key_confidence: 0.668
+loudness: -10.78
+mode: 1
+mode_confidence: 0.408
+release: Can the Mechanical Be Beautiful&?
+release_7digitalid: 585464
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (1532,)
+segments_loudness_max: shape = (1532,)
+segments_loudness_max_time: shape = (1532,)
+segments_loudness_start: shape = (1532,)
+segments_pitches: shape = (1532, 12)
+segments_start: shape = (1532,)
+segments_timbre: shape = (1532, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJEGQW12AB018954A
+start_of_fade_out: 273.85
+tatums_confidence: shape = (2191,)
+tatums_start: shape = (2191,)
+tempo: 119.885
+time_signature: 4
+time_signature_confidence: 0.781
+title: Splitting The Seconds
+track_7digitalid: 6492774
+track_id: TRBGFKJ12903CC575F
+year: 0

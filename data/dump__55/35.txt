@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 431755
+artist_familiarity: 0.47135797835
+artist_hotttnesss: 0.283027088623
+artist_id: ARJMGMP124BAE72D46
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 795071f0-f110-41c8-aaee-f5ea7f460a4d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gerald Clayton
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 960ee00b3ab0f2a1549166b30056b452
+bars_confidence: shape = (611,)
+bars_start: shape = (611,)
+beats_confidence: shape = (611,)
+beats_start: shape = (611,)
+danceability: 0.0
+duration: 384.15628
+end_of_fade_in: 0.149
+energy: 0.0
+key: 10
+key_confidence: 0.249
+loudness: -14.153
+mode: 1
+mode_confidence: 0.189
+release: Two-Shade
+release_7digitalid: 580521
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1579,)
+segments_loudness_max: shape = (1579,)
+segments_loudness_max_time: shape = (1579,)
+segments_loudness_start: shape = (1579,)
+segments_pitches: shape = (1579, 12)
+segments_start: shape = (1579,)
+segments_timbre: shape = (1579, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.253834736132
+song_id: SOCSJFL12AB018E42A
+start_of_fade_out: 371.978
+tatums_confidence: shape = (1833,)
+tatums_start: shape = (1833,)
+tempo: 95.938
+time_signature: 1
+time_signature_confidence: 0.018
+title: Two Heads One Pillow
+track_7digitalid: 6433607
+track_id: TRASXOW12903CB7528
+year: 2009

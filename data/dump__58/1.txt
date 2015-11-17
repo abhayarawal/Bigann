@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 246144
+artist_familiarity: 0.583178831042
+artist_hotttnesss: 0.434253341236
+artist_id: AR7PPJV1187FB397CC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 95495d6a-c1f2-4a62-b0e3-b9c5f2e9dea6
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: James Taylor Quartet
+artist_playmeid: 126094
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 9b193dab36569444ace1a4cea38b2c49
+bars_confidence: shape = (38,)
+bars_start: shape = (38,)
+beats_confidence: shape = (183,)
+beats_start: shape = (183,)
+danceability: 0.0
+duration: 188.94322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.875
+loudness: -2.775
+mode: 1
+mode_confidence: 0.642
+release: Don't Mess With Mr T
+release_7digitalid: 656864
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (772,)
+segments_loudness_max: shape = (772,)
+segments_loudness_max_time: shape = (772,)
+segments_loudness_start: shape = (772,)
+segments_pitches: shape = (772, 12)
+segments_start: shape = (772,)
+segments_timbre: shape = (772, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.427446571488
+song_id: SOINAZQ12A8C142AF5
+start_of_fade_out: 188.943
+tatums_confidence: shape = (732,)
+tatums_start: shape = (732,)
+tempo: 58.135
+time_signature: 4
+time_signature_confidence: 0.913
+title: Cleo's Mood
+track_7digitalid: 7276870
+track_id: TRATUBW128F92F3866
+year: 2007

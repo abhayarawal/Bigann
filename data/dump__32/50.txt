@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 385455
+artist_familiarity: 0.494301824295
+artist_hotttnesss: 0.239041138895
+artist_id: ARQRDOM1264D13A4E5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f8dff01f-8272-4f2f-9115-7e1782ea575f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: A Tundra
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 2c3c2468fcdefc191b2edd8de13a0745
+bars_confidence: shape = (263,)
+bars_start: shape = (263,)
+beats_confidence: shape = (793,)
+beats_start: shape = (793,)
+danceability: 0.0
+duration: 271.3073
+end_of_fade_in: 0.142
+energy: 0.0
+key: 2
+key_confidence: 0.384
+loudness: -9.698
+mode: 1
+mode_confidence: 0.363
+release: Joan of Arc Presents: Don't Mind Control
+release_7digitalid: 705424
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (888,)
+segments_loudness_max: shape = (888,)
+segments_loudness_max_time: shape = (888,)
+segments_loudness_start: shape = (888,)
+segments_pitches: shape = (888, 12)
+segments_start: shape = (888,)
+segments_timbre: shape = (888, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.266955186276
+song_id: SOLSWGZ12AB0183E38
+start_of_fade_out: 266.257
+tatums_confidence: shape = (1586,)
+tatums_start: shape = (1586,)
+tempo: 177.958
+time_signature: 3
+time_signature_confidence: 0.985
+title: The Doug McComb Over
+track_7digitalid: 7824228
+track_id: TRALAZE12903CA5A3B
+year: 2010

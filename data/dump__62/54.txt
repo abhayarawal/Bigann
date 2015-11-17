@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 174295
+artist_familiarity: 0.314412068697
+artist_hotttnesss: 0.217993638392
+artist_id: AR8E1KA1187B9A18C3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 341e4591-958d-46b2-98af-12907f2d3cf7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mike Vax
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: bfece2d557606e693bd1920caf15e00b
+bars_confidence: shape = (74,)
+bars_start: shape = (74,)
+beats_confidence: shape = (304,)
+beats_start: shape = (304,)
+danceability: 0.0
+duration: 192.96608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.0
+loudness: -19.411
+mode: 0
+mode_confidence: 0.147
+release: Live On The Road
+release_7digitalid: 227290
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (560,)
+segments_loudness_max: shape = (560,)
+segments_loudness_max_time: shape = (560,)
+segments_loudness_start: shape = (560,)
+segments_pitches: shape = (560, 12)
+segments_start: shape = (560,)
+segments_timbre: shape = (560, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUPQOK12A6D4FDC9E
+start_of_fade_out: 186.114
+tatums_confidence: shape = (609,)
+tatums_start: shape = (609,)
+tempo: 94.681
+time_signature: 4
+time_signature_confidence: 0.652
+title: Nada Mas
+track_7digitalid: 2484047
+track_id: TRAVKYW128F421750B
+year: 0

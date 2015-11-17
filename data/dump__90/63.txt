@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 919
+artist_familiarity: 0.752318642971
+artist_hotttnesss: 0.540157744296
+artist_id: ARROQSO1187B9AEB80
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a94a7155-c79d-4409-9fcf-220cb0e4dc3a
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Talking Heads
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 827656abde13351783ea0b6aff0475b0
+bars_confidence: shape = (165,)
+bars_start: shape = (165,)
+beats_confidence: shape = (664,)
+beats_start: shape = (664,)
+danceability: 0.0
+duration: 355.73506
+end_of_fade_in: 2.74
+energy: 0.0
+key: 5
+key_confidence: 0.241
+loudness: -9.306
+mode: 1
+mode_confidence: 0.267
+release: True Stories
+release_7digitalid: 34149
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1424,)
+segments_loudness_max: shape = (1424,)
+segments_loudness_max_time: shape = (1424,)
+segments_loudness_start: shape = (1424,)
+segments_pitches: shape = (1424, 12)
+segments_start: shape = (1424,)
+segments_timbre: shape = (1424, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SOSMFPM12A6D4F8577
+start_of_fade_out: 342.808
+tatums_confidence: shape = (1327,)
+tatums_start: shape = (1327,)
+tempo: 113.142
+time_signature: 4
+time_signature_confidence: 0.983
+title: Papa Legba (2005 Digital Remaster)
+track_7digitalid: 365404
+track_id: TRBFHSR128F1472A36
+year: 1986

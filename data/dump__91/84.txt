@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 189696
+artist_familiarity: 0.191373661371
+artist_hotttnesss: 0.257949737451
+artist_id: ARMCYCP11F4C83ED97
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kuijken Kwartet
+artist_playmeid: -1
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: 777402ded92c893c92a107d7213f98d1
+bars_confidence: shape = (267,)
+bars_start: shape = (267,)
+beats_confidence: shape = (267,)
+beats_start: shape = (267,)
+danceability: 0.0
+duration: 125.93587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.442
+loudness: -20.868
+mode: 1
+mode_confidence: 0.363
+release: Mozart: Requiem KV 626 - Version For String Quartet by Peter Lichtenthal
+release_7digitalid: 245319
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (478,)
+segments_loudness_max: shape = (478,)
+segments_loudness_max_time: shape = (478,)
+segments_loudness_start: shape = (478,)
+segments_pitches: shape = (478, 12)
+segments_start: shape = (478,)
+segments_timbre: shape = (478, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.299877488274
+song_id: SOBJUHE12A8C134796
+start_of_fade_out: 118.19
+tatums_confidence: shape = (534,)
+tatums_start: shape = (534,)
+tempo: 135.759
+time_signature: 1
+time_signature_confidence: 0.0
+title: Introitus: Requiem: Dies Irae
+track_7digitalid: 2660722
+track_id: TRBFRPF128F423F642
+year: 0

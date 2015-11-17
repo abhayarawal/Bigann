@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 159086
+artist_familiarity: 0.179311748211
+artist_hotttnesss: 0.252305197035
+artist_id: ARRXNGN124207835CB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Grup Knar
+artist_playmeid: 60150
+artist_terms: shape = (9,)
+artist_terms_freq: shape = (9,)
+artist_terms_weight: shape = (9,)
+audio_md5: 01538fb710a18bb7a086e30af298dc12
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (267,)
+beats_start: shape = (267,)
+danceability: 0.0
+duration: 106.63138
+end_of_fade_in: 0.102
+energy: 0.0
+key: 5
+key_confidence: 0.396
+loudness: -10.709
+mode: 1
+mode_confidence: 0.549
+release: Anadolu Ermeni Halk Müzigi
+release_7digitalid: 210310
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (373,)
+segments_loudness_max: shape = (373,)
+segments_loudness_max_time: shape = (373,)
+segments_loudness_start: shape = (373,)
+segments_pitches: shape = (373, 12)
+segments_start: shape = (373,)
+segments_timbre: shape = (373, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLKIUR12A8C1393C5
+start_of_fade_out: 100.78
+tatums_confidence: shape = (533,)
+tatums_start: shape = (533,)
+tempo: 156.239
+time_signature: 3
+time_signature_confidence: 1.0
+title: Burma Diginin Eger Er
+track_7digitalid: 2282718
+track_id: TRAMLYH128F426F90E
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 144739
+artist_familiarity: 0.727030782206
+artist_hotttnesss: 0.530321954827
+artist_id: ARZ33PH1187FB52F58
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ddd4c4bc-a4ae-4946-b59c-a86aea7fa4f0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kat DeLuna
+artist_playmeid: 8307
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: ce549fdde9b6c544ee9e88b0b013300c
+bars_confidence: shape = (92,)
+bars_start: shape = (92,)
+beats_confidence: shape = (371,)
+beats_start: shape = (371,)
+danceability: 0.0
+duration: 213.4722
+end_of_fade_in: 2.473
+energy: 0.0
+key: 10
+key_confidence: 0.565
+loudness: -5.919
+mode: 0
+mode_confidence: 0.669
+release: Run The Show featuring Don Omar [en Espanol]
+release_7digitalid: 280669
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (981,)
+segments_loudness_max: shape = (981,)
+segments_loudness_max_time: shape = (981,)
+segments_loudness_start: shape = (981,)
+segments_pitches: shape = (981, 12)
+segments_start: shape = (981,)
+segments_timbre: shape = (981, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQZLAF12A8AE48030
+start_of_fade_out: 210.785
+tatums_confidence: shape = (742,)
+tatums_start: shape = (742,)
+tempo: 104.986
+time_signature: 4
+time_signature_confidence: 1.0
+title: Run The Show featuring Don Omar [en Espanol]
+track_7digitalid: 3132532
+track_id: TRAKLQJ128F42607F9
+year: 0

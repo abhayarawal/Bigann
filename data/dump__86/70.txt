@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22086
+artist_familiarity: 0.529659330887
+artist_hotttnesss: 0.313112031835
+artist_id: AR08YJF1187B9B2D59
+artist_latitude: nan
+artist_location: Florida
+artist_longitude: nan
+artist_mbid: fe75adb0-a2bd-4e34-91d4-91974c4eab13
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Freedom
+artist_playmeid: 72114
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 53b1912d44817bb9eadc0172d90cf79c
+bars_confidence: shape = (116,)
+bars_start: shape = (116,)
+beats_confidence: shape = (468,)
+beats_start: shape = (468,)
+danceability: 0.0
+duration: 257.82812
+end_of_fade_in: 0.208
+energy: 0.0
+key: 7
+key_confidence: 0.93
+loudness: -6.766
+mode: 1
+mode_confidence: 0.642
+release: Nerosubianco Original Soundtrack
+release_7digitalid: 645968
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (981,)
+segments_loudness_max: shape = (981,)
+segments_loudness_max_time: shape = (981,)
+segments_loudness_start: shape = (981,)
+segments_pitches: shape = (981, 12)
+segments_start: shape = (981,)
+segments_timbre: shape = (981, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBPIUW12AB01818FB
+start_of_fade_out: 248.152
+tatums_confidence: shape = (935,)
+tatums_start: shape = (935,)
+tempo: 108.634
+time_signature: 4
+time_signature_confidence: 0.691
+title: Born Again
+track_7digitalid: 7156659
+track_id: TRBDTGV128F934BD84
+year: 0

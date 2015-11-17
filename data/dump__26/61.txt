@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 311898
+artist_familiarity: 0.566661657956
+artist_hotttnesss: 0.418356680774
+artist_id: ARGE4J31187B9B41EE
+artist_latitude: 62.19845
+artist_location: Sweden
+artist_longitude: 17.55142
+artist_mbid: 1ade81bb-18b9-4060-81d9-9a2bfe342c7c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sofia Karlsson
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 1532afe10407e48188a3deab38055512
+bars_confidence: shape = (545,)
+bars_start: shape = (545,)
+beats_confidence: shape = (545,)
+beats_start: shape = (545,)
+danceability: 0.0
+duration: 165.69424
+end_of_fade_in: 3.402
+energy: 0.0
+key: 6
+key_confidence: 0.341
+loudness: -10.062
+mode: 1
+mode_confidence: 0.367
+release: Söder Om Kärleken
+release_7digitalid: 519413
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (617,)
+segments_loudness_max: shape = (617,)
+segments_loudness_max_time: shape = (617,)
+segments_loudness_start: shape = (617,)
+segments_pitches: shape = (617, 12)
+segments_start: shape = (617,)
+segments_timbre: shape = (617, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.372530039366
+song_id: SOWHSLN12AB01875F0
+start_of_fade_out: 158.18
+tatums_confidence: shape = (1091,)
+tatums_start: shape = (1091,)
+tempo: 205.16
+time_signature: 1
+time_signature_confidence: 0.0
+title: Blåsut
+track_7digitalid: 5746776
+track_id: TRAIXTR128F9352D40
+year: 2009

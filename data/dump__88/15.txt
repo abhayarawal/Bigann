@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16755
+artist_familiarity: 0.537160562972
+artist_hotttnesss: 0.382843062209
+artist_id: ARJTX7M1187FB4CED3
+artist_latitude: 52.88356
+artist_location: England
+artist_longitude: -1.97406
+artist_mbid: 96742ec2-b733-4ac6-b493-7e056a43b357
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Be Bop Deluxe
+artist_playmeid: 61597
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 75a3a3d160ed2c61970a790695adf6eb
+bars_confidence: shape = (111,)
+bars_start: shape = (111,)
+beats_confidence: shape = (447,)
+beats_start: shape = (447,)
+danceability: 0.0
+duration: 221.93587
+end_of_fade_in: 0.09
+energy: 0.0
+key: 4
+key_confidence: 0.529
+loudness: -13.035
+mode: 0
+mode_confidence: 0.575
+release: Live! In The Air Age
+release_7digitalid: 24000
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (663,)
+segments_loudness_max: shape = (663,)
+segments_loudness_max_time: shape = (663,)
+segments_loudness_start: shape = (663,)
+segments_pitches: shape = (663, 12)
+segments_start: shape = (663,)
+segments_timbre: shape = (663, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOGFWQD12A6D4F6811
+start_of_fade_out: 221.936
+tatums_confidence: shape = (895,)
+tatums_start: shape = (895,)
+tempo: 121.615
+time_signature: 4
+time_signature_confidence: 0.986
+title: Sister Seagull (Live)
+track_7digitalid: 251446
+track_id: TRBEHFA128F145B3DA
+year: 1991

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12237
+artist_familiarity: 0.647834840006
+artist_hotttnesss: 0.472451771871
+artist_id: ARXI7WU1187FB4D75E
+artist_latitude: 17.57975
+artist_location: Mali, Africa
+artist_longitude: -3.99883
+artist_mbid: 5c98fc12-be83-4246-ae5b-2184192913b9
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Tinariwen
+artist_playmeid: -1
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 1dda94dbd906442d7f2986f398987fff
+bars_confidence: shape = (156,)
+bars_start: shape = (156,)
+beats_confidence: shape = (628,)
+beats_start: shape = (628,)
+danceability: 0.0
+duration: 238.68036
+end_of_fade_in: 0.185
+energy: 0.0
+key: 9
+key_confidence: 0.151
+loudness: -7.386
+mode: 1
+mode_confidence: 0.418
+release: Aman Iman: Water Is Life
+release_7digitalid: 56540
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (809,)
+segments_loudness_max: shape = (809,)
+segments_loudness_max_time: shape = (809,)
+segments_loudness_start: shape = (809,)
+segments_pitches: shape = (809, 12)
+segments_start: shape = (809,)
+segments_timbre: shape = (809, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.619662672304
+song_id: SOCSAVL12A6D4FAC37
+start_of_fade_out: 221.896
+tatums_confidence: shape = (1257,)
+tatums_start: shape = (1257,)
+tempo: 160.887
+time_signature: 4
+time_signature_confidence: 0.0
+title: Assouf
+track_7digitalid: 587286
+track_id: TRAVYPH128F149B902
+year: 2007

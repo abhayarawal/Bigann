@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 167867
+artist_familiarity: 0.561589945857
+artist_hotttnesss: 0.420570307208
+artist_id: AR2PT4M1187FB55B1A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d54ea4a6-0b9c-4e47-bed0-289ae9ff4037
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Los Chichos
+artist_playmeid: 1880
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: bb0dad5f17cd062e6c1f554c3aa5441f
+bars_confidence: shape = (69,)
+bars_start: shape = (69,)
+beats_confidence: shape = (280,)
+beats_start: shape = (280,)
+danceability: 0.0
+duration: 199.96689
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.821
+loudness: -9.588
+mode: 0
+mode_confidence: 0.674
+release: Sangre Gitana
+release_7digitalid: 221691
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (733,)
+segments_loudness_max: shape = (733,)
+segments_loudness_max_time: shape = (733,)
+segments_loudness_start: shape = (733,)
+segments_pitches: shape = (733, 12)
+segments_start: shape = (733,)
+segments_timbre: shape = (733, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJILXR12A8C141B4E
+start_of_fade_out: 190.816
+tatums_confidence: shape = (1120,)
+tatums_start: shape = (1120,)
+tempo: 85.055
+time_signature: 4
+time_signature_confidence: 0.028
+title: Nieve
+track_7digitalid: 2423691
+track_id: TRBGXWM128F428E59A
+year: 0

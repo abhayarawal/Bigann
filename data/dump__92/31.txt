@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12826
+artist_familiarity: 0.696450939342
+artist_hotttnesss: 0.489149816628
+artist_id: AR261YW1187FB374B3
+artist_latitude: nan
+artist_location: GERMANY
+artist_longitude: nan
+artist_mbid: a00df488-9c2c-494a-a46c-840cb153302a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Warrant
+artist_playmeid: 3079
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: b0425d3a4f6fd8d48c68a83dda8c6183
+bars_confidence: shape = (123,)
+bars_start: shape = (123,)
+beats_confidence: shape = (495,)
+beats_start: shape = (495,)
+danceability: 0.0
+duration: 244.08771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.788
+loudness: -6.228
+mode: 1
+mode_confidence: 0.635
+release: Cherry Pie
+release_7digitalid: 391347
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (688,)
+segments_loudness_max: shape = (688,)
+segments_loudness_max_time: shape = (688,)
+segments_loudness_start: shape = (688,)
+segments_pitches: shape = (688, 12)
+segments_start: shape = (688,)
+segments_timbre: shape = (688, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.60219431078
+song_id: SOTOSFD12AB017A7E1
+start_of_fade_out: 224.682
+tatums_confidence: shape = (990,)
+tatums_start: shape = (990,)
+tempo: 123.245
+time_signature: 4
+time_signature_confidence: 1.0
+title: Bed Of Roses
+track_7digitalid: 4346092
+track_id: TRBFWSP128F92F29B4
+year: 0

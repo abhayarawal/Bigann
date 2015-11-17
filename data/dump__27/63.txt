@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 80200
+artist_familiarity: 0.566813909996
+artist_hotttnesss: 0.463025075994
+artist_id: AR681HS1187FB5BBFE
+artist_latitude: nan
+artist_location: California
+artist_longitude: nan
+artist_mbid: 93fd9c68-4290-41e9-a325-742ea0d72896
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: David Lynch
+artist_playmeid: 57680
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 3d4414442c31cd686b1ef036d10a34f5
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (567,)
+beats_start: shape = (567,)
+danceability: 0.0
+duration: 214.04689
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.643
+loudness: -9.214
+mode: 1
+mode_confidence: 0.527
+release: Good Wood
+release_7digitalid: 464778
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (776,)
+segments_loudness_max: shape = (776,)
+segments_loudness_max_time: shape = (776,)
+segments_loudness_start: shape = (776,)
+segments_pitches: shape = (776, 12)
+segments_start: shape = (776,)
+segments_timbre: shape = (776, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQJGUH12AB018410B
+start_of_fade_out: 200.858
+tatums_confidence: shape = (1134,)
+tatums_start: shape = (1134,)
+tempo: 166.929
+time_signature: 7
+time_signature_confidence: 0.214
+title: Carry The Light
+track_7digitalid: 5171820
+track_id: TRAJGFW128F93349D4
+year: 0

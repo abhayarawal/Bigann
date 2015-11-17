@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9947
+artist_familiarity: 0.706827671304
+artist_hotttnesss: 0.416173064627
+artist_id: ARB29H41187B98F0EF
+artist_latitude: 41.88415
+artist_location: Chicago
+artist_longitude: -87.63241
+artist_mbid: 44fd61e1-119c-479e-8301-8ac5c77148bf
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Terry Callier
+artist_playmeid: 43725
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 6dceedb9293231869709bf56bdd8aca1
+bars_confidence: shape = (152,)
+bars_start: shape = (152,)
+beats_confidence: shape = (617,)
+beats_start: shape = (617,)
+danceability: 0.0
+duration: 315.08853
+end_of_fade_in: 0.653
+energy: 0.0
+key: 7
+key_confidence: 0.667
+loudness: -12.93
+mode: 1
+mode_confidence: 0.988
+release: Timepeace
+release_7digitalid: 39958
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (833,)
+segments_loudness_max: shape = (833,)
+segments_loudness_max_time: shape = (833,)
+segments_loudness_start: shape = (833,)
+segments_pitches: shape = (833, 12)
+segments_start: shape = (833,)
+segments_timbre: shape = (833, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.407233014901
+song_id: SOFMEPZ12A6D4F7D9A
+start_of_fade_out: 300.292
+tatums_confidence: shape = (1234,)
+tatums_start: shape = (1234,)
+tempo: 118.606
+time_signature: 4
+time_signature_confidence: 1.0
+title: Java Sparrow
+track_7digitalid: 425744
+track_id: TRBELYI128F147E20B
+year: 1998

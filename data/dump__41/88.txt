@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 97850
+artist_familiarity: 0.62900822586
+artist_hotttnesss: 0.361917926414
+artist_id: ARMFGS71187B98ED03
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b8282669-ab13-40c2-a01e-acbb9cf64981
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Les Bonapartes
+artist_playmeid: 139978
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 5015153368e6e057965f979b63808ad3
+bars_confidence: shape = (109,)
+bars_start: shape = (109,)
+beats_confidence: shape = (551,)
+beats_start: shape = (551,)
+danceability: 0.0
+duration: 190.69342
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.0
+loudness: -6.779
+mode: 1
+mode_confidence: 0.237
+release: Les Bonapartes
+release_7digitalid: 701935
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (735,)
+segments_loudness_max: shape = (735,)
+segments_loudness_max_time: shape = (735,)
+segments_loudness_start: shape = (735,)
+segments_pitches: shape = (735, 12)
+segments_start: shape = (735,)
+segments_timbre: shape = (735, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOYYBGR12A8C140F1A
+start_of_fade_out: 180.791
+tatums_confidence: shape = (1102,)
+tatums_start: shape = (1102,)
+tempo: 181.801
+time_signature: 5
+time_signature_confidence: 0.32
+title: Welcome
+track_7digitalid: 7786885
+track_id: TRAOETQ128F92F9C27
+year: 0

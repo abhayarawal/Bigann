@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 745
+artist_familiarity: 0.618296843973
+artist_hotttnesss: 0.375374819487
+artist_id: ARA82JG1187FB36131
+artist_latitude: 40.76596
+artist_location: Shenandoah, IA
+artist_longitude: -95.3756
+artist_mbid: 1f0cdc02-c8d5-4228-8227-37ec0c289b48
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Charlie Haden
+artist_playmeid: -1
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: c0582987342d84d32bca4b449ac665fe
+bars_confidence: shape = (172,)
+bars_start: shape = (172,)
+beats_confidence: shape = (692,)
+beats_start: shape = (692,)
+danceability: 0.0
+duration: 292.17914
+end_of_fade_in: 2.316
+energy: 0.0
+key: 7
+key_confidence: 0.367
+loudness: -24.22
+mode: 1
+mode_confidence: 0.288
+release: American Dreams
+release_7digitalid: 55270
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (678,)
+segments_loudness_max: shape = (678,)
+segments_loudness_max_time: shape = (678,)
+segments_loudness_start: shape = (678,)
+segments_pitches: shape = (678, 12)
+segments_start: shape = (678,)
+segments_timbre: shape = (678, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOXHKRT12A6D4F89C8
+start_of_fade_out: 283.597
+tatums_confidence: shape = (1383,)
+tatums_start: shape = (1383,)
+tempo: 141.229
+time_signature: 4
+time_signature_confidence: 0.06
+title: American Dreams
+track_7digitalid: 574348
+track_id: TRAVHTT128F14987BB
+year: 2002

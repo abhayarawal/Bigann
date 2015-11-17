@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 560
+artist_familiarity: 0.82243282937
+artist_hotttnesss: 0.531303318565
+artist_id: ARASYMJ1187B9ACAF2
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: 5dedf5cf-a598-4408-9556-3bf3f149f3ba
+artist_mbtags: shape = (16,)
+artist_mbtags_count: shape = (16,)
+artist_name: Whitesnake
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: b9d3a592ef62a2977b2f4fd613835c20
+bars_confidence: shape = (127,)
+bars_start: shape = (127,)
+beats_confidence: shape = (513,)
+beats_start: shape = (513,)
+danceability: 0.0
+duration: 250.3571
+end_of_fade_in: 3.199
+energy: 0.0
+key: 7
+key_confidence: 0.342
+loudness: -7.356
+mode: 1
+mode_confidence: 0.626
+release: Whitesnake's Greatest Hits
+release_7digitalid: 301001
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (720,)
+segments_loudness_max: shape = (720,)
+segments_loudness_max_time: shape = (720,)
+segments_loudness_start: shape = (720,)
+segments_pitches: shape = (720, 12)
+segments_start: shape = (720,)
+segments_timbre: shape = (720, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.852591379662
+song_id: SOHWVJJ12AB0185F6D
+start_of_fade_out: 240.054
+tatums_confidence: shape = (1026,)
+tatums_start: shape = (1026,)
+tempo: 125.783
+time_signature: 4
+time_signature_confidence: 0.387
+title: Fool For Your Loving
+track_7digitalid: 3377015
+track_id: TRACYXW128F4297569
+year: 1980

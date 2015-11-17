@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 89866
+artist_familiarity: 0.567800601258
+artist_hotttnesss: 0.373527170154
+artist_id: ARFAKQ01187B990163
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3e46f4da-eee2-455f-bb72-9ca83887e9e4
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Georges Delerue
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 1cc9755c98237c52dc85cbf742ce2f24
+bars_confidence: shape = (35,)
+bars_start: shape = (35,)
+beats_confidence: shape = (256,)
+beats_start: shape = (256,)
+danceability: 0.0
+duration: 113.73669
+end_of_fade_in: 0.513
+energy: 0.0
+key: 2
+key_confidence: 0.216
+loudness: -13.074
+mode: 0
+mode_confidence: 0.348
+release: Le Mepris
+release_7digitalid: 502979
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (184,)
+segments_loudness_max: shape = (184,)
+segments_loudness_max_time: shape = (184,)
+segments_loudness_start: shape = (184,)
+segments_pitches: shape = (184, 12)
+segments_start: shape = (184,)
+segments_timbre: shape = (184, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SODORVB12AB0181F05
+start_of_fade_out: 107.41
+tatums_confidence: shape = (512,)
+tatums_start: shape = (512,)
+tempo: 141.652
+time_signature: 7
+time_signature_confidence: 0.789
+title: Ouverture
+track_7digitalid: 5566061
+track_id: TRADQUL128F93274F3
+year: 0

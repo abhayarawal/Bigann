@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 111291
+artist_familiarity: 0.609819761152
+artist_hotttnesss: 0.419967935771
+artist_id: AR8FMEN1187FB4A657
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 8b6a46d9-d1a4-43af-8322-6d04457e0bd5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lizzy Borden
+artist_playmeid: 58103
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 5f4d621d664fa46a1e4f7b525d53d8b6
+bars_confidence: shape = (155,)
+bars_start: shape = (155,)
+beats_confidence: shape = (659,)
+beats_start: shape = (659,)
+danceability: 0.0
+duration: 371.19955
+end_of_fade_in: 0.165
+energy: 0.0
+key: 5
+key_confidence: 0.07
+loudness: -9.657
+mode: 1
+mode_confidence: 0.209
+release: The Murderess Metal Road Show
+release_7digitalid: 559847
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (977,)
+segments_loudness_max: shape = (977,)
+segments_loudness_max_time: shape = (977,)
+segments_loudness_start: shape = (977,)
+segments_pitches: shape = (977, 12)
+segments_start: shape = (977,)
+segments_timbre: shape = (977, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3759843015
+song_id: SOFGBOY12AB018549F
+start_of_fade_out: 364.588
+tatums_confidence: shape = (1317,)
+tatums_start: shape = (1317,)
+tempo: 107.886
+time_signature: 4
+time_signature_confidence: 0.652
+title: (Wake Up) Time to Die
+track_7digitalid: 6197463
+track_id: TRAHHPE128F934AC3B
+year: 1985

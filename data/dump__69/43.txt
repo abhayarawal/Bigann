@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10872
+artist_familiarity: 0.612543003669
+artist_hotttnesss: 0.459660463222
+artist_id: ARXP7MQ1187FB3AC5F
+artist_latitude: nan
+artist_location: LOWELL
+artist_longitude: nan
+artist_mbid: 2b0d81ce-1d0e-4097-91b3-c1f0cb045a2c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dave Hollister
+artist_playmeid: 19881
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 687a3d488a46562f4d582a255e1db03c
+bars_confidence: shape = (134,)
+bars_start: shape = (134,)
+beats_confidence: shape = (539,)
+beats_start: shape = (539,)
+danceability: 0.0
+duration: 363.38893
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.385
+loudness: -7.053
+mode: 0
+mode_confidence: 0.508
+release: Witness Protection
+release_7digitalid: 305855
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1336,)
+segments_loudness_max: shape = (1336,)
+segments_loudness_max_time: shape = (1336,)
+segments_loudness_start: shape = (1336,)
+segments_pitches: shape = (1336, 12)
+segments_start: shape = (1336,)
+segments_timbre: shape = (1336, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOBPRPP12A8C13D3EE
+start_of_fade_out: 352.16
+tatums_confidence: shape = (2156,)
+tatums_start: shape = (2156,)
+tempo: 89.465
+time_signature: 4
+time_signature_confidence: 0.602
+title: I Know I Can
+track_7digitalid: 3459587
+track_id: TRAXSBC128F42AB297
+year: 2008

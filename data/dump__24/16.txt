@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 133083
+artist_familiarity: 0.338370154526
+artist_hotttnesss: 0.0
+artist_id: ARJSGPI1241B9C8855
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Birmingham Jubilee Singers
+artist_playmeid: 75022
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: 6c3e6cc6d2415a8983c463278123d249
+bars_confidence: shape = (57,)
+bars_start: shape = (57,)
+beats_confidence: shape = (244,)
+beats_start: shape = (244,)
+danceability: 0.0
+duration: 184.00608
+end_of_fade_in: 0.491
+energy: 0.0
+key: 10
+key_confidence: 0.469
+loudness: -14.886
+mode: 1
+mode_confidence: 0.425
+release: Birmingham Jubilee Singers Vol. 2 (1927-1930)
+release_7digitalid: 174801
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (493,)
+segments_loudness_max: shape = (493,)
+segments_loudness_max_time: shape = (493,)
+segments_loudness_start: shape = (493,)
+segments_pitches: shape = (493, 12)
+segments_start: shape = (493,)
+segments_timbre: shape = (493, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOELPYX12A8C141731
+start_of_fade_out: 178.12
+tatums_confidence: shape = (487,)
+tatums_start: shape = (487,)
+tempo: 81.647
+time_signature: 4
+time_signature_confidence: 0.753
+title: Toot Toot Dixie Bound
+track_7digitalid: 1875714
+track_id: TRAICPJ128F42A047C
+year: 0

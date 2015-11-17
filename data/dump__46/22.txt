@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 160367
+artist_familiarity: 0.522808284517
+artist_hotttnesss: 0.358887829495
+artist_id: ARPVGYY1269FCD5E98
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mr. Kilombo
+artist_playmeid: -1
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: 2fc56308900c849479aca900d208746a
+bars_confidence: shape = (93,)
+bars_start: shape = (93,)
+beats_confidence: shape = (377,)
+beats_start: shape = (377,)
+danceability: 0.0
+duration: 217.7824
+end_of_fade_in: 0.067
+energy: 0.0
+key: 7
+key_confidence: 0.446
+loudness: -5.023
+mode: 1
+mode_confidence: 0.235
+release: El lado gamberro
+release_7digitalid: 212755
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1011,)
+segments_loudness_max: shape = (1011,)
+segments_loudness_max_time: shape = (1011,)
+segments_loudness_start: shape = (1011,)
+segments_pitches: shape = (1011, 12)
+segments_start: shape = (1011,)
+segments_timbre: shape = (1011, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOIHII12A8C13D898
+start_of_fade_out: 206.002
+tatums_confidence: shape = (1507,)
+tatums_start: shape = (1507,)
+tempo: 106.028
+time_signature: 4
+time_signature_confidence: 0.736
+title: De la mano de un chulo
+track_7digitalid: 2316431
+track_id: TRAPTGW128F4277AA6
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3737
+artist_familiarity: 0.603382767951
+artist_hotttnesss: 0.449423634694
+artist_id: AR2P71H1187B9B8C00
+artist_latitude: nan
+artist_location: DE
+artist_longitude: nan
+artist_mbid: 2e0d05e0-d147-46e6-be51-8ffed2a9e0da
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kool Savas
+artist_playmeid: 2308
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 247a8666adc8b941a78917e5a9a212cf
+bars_confidence: shape = (30,)
+bars_start: shape = (30,)
+beats_confidence: shape = (155,)
+beats_start: shape = (155,)
+danceability: 0.0
+duration: 77.94893
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.084
+loudness: -5.0
+mode: 0
+mode_confidence: 0.339
+release: Die besten Tage sind gezählt
+release_7digitalid: 407754
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (388,)
+segments_loudness_max: shape = (388,)
+segments_loudness_max_time: shape = (388,)
+segments_loudness_start: shape = (388,)
+segments_pitches: shape = (388, 12)
+segments_start: shape = (388,)
+segments_timbre: shape = (388, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.355285536423
+song_id: SOQNZJZ12AB01823AE
+start_of_fade_out: 77.949
+tatums_confidence: shape = (310,)
+tatums_start: shape = (310,)
+tempo: 117.996
+time_signature: 5
+time_signature_confidence: 1.0
+title: Keiner außer uns
+track_7digitalid: 4536362
+track_id: TRAFXCP128F93182DD
+year: 0

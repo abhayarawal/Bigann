@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23041
+artist_familiarity: 0.83453858559
+artist_hotttnesss: 0.477310881067
+artist_id: AR6F6I21187FB5A3AA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: aba64937-3334-4c65-90a1-4e6b9d4d7ada
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Aesop Rock
+artist_playmeid: 7929
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: e5f116dd612a94a138d5f9b2492b4f3f
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (446,)
+beats_start: shape = (446,)
+danceability: 0.0
+duration: 310.80444
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.015
+loudness: -10.311
+mode: 1
+mode_confidence: 0.195
+release: Bazooka Tooth
+release_7digitalid: 445429
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1428,)
+segments_loudness_max: shape = (1428,)
+segments_loudness_max_time: shape = (1428,)
+segments_loudness_start: shape = (1428,)
+segments_pitches: shape = (1428, 12)
+segments_start: shape = (1428,)
+segments_timbre: shape = (1428, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.4830645596
+song_id: SOPOPBY12AB017CA06
+start_of_fade_out: 310.804
+tatums_confidence: shape = (1784,)
+tatums_start: shape = (1784,)
+tempo: 87.618
+time_signature: 4
+time_signature_confidence: 0.688
+title: N.Y. Electric / Hunter Interlude
+track_7digitalid: 4946756
+track_id: TRBEQZJ128F9300B50
+year: 2003

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4268
+artist_familiarity: 0.575986600525
+artist_hotttnesss: 0.406367592935
+artist_id: ARBX0VO1187B98A412
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a8ad585a-2776-4531-a1cc-93b9a3c9d43b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Zebra
+artist_playmeid: 12899
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 48966b3e014a492741c405779edaa114
+bars_confidence: shape = (245,)
+bars_start: shape = (245,)
+beats_confidence: shape = (986,)
+beats_start: shape = (986,)
+danceability: 0.0
+duration: 441.52118
+end_of_fade_in: 0.16
+energy: 0.0
+key: 2
+key_confidence: 0.894
+loudness: -10.155
+mode: 1
+mode_confidence: 0.792
+release: Zebra
+release_7digitalid: 759660
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1374,)
+segments_loudness_max: shape = (1374,)
+segments_loudness_max_time: shape = (1374,)
+segments_loudness_start: shape = (1374,)
+segments_pitches: shape = (1374, 12)
+segments_start: shape = (1374,)
+segments_timbre: shape = (1374, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.313941330683
+song_id: SOGMOAM12AB0189876
+start_of_fade_out: 424.083
+tatums_confidence: shape = (1972,)
+tatums_start: shape = (1972,)
+tempo: 138.831
+time_signature: 4
+time_signature_confidence: 0.0
+title: Take Your Fingers From My Hair  (LP Version)
+track_7digitalid: 8410348
+track_id: TRALAKV12903CBD7F6
+year: 1983

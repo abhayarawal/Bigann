@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 388217
+artist_familiarity: 0.553176509219
+artist_hotttnesss: 0.38080932626
+artist_id: AR1XUYS1187B9A44D7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4fccc5ba-950d-4698-8655-10844cad67b4
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Natalie MacMaster
+artist_playmeid: 40714
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 2a4afe74387c33665edb5d833ceea5c9
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (309,)
+beats_start: shape = (309,)
+danceability: 0.0
+duration: 175.49016
+end_of_fade_in: 0.38
+energy: 0.0
+key: 2
+key_confidence: 0.687
+loudness: -10.359
+mode: 1
+mode_confidence: 0.737
+release: In My Hands
+release_7digitalid: 768457
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (648,)
+segments_loudness_max: shape = (648,)
+segments_loudness_max_time: shape = (648,)
+segments_loudness_start: shape = (648,)
+segments_pitches: shape = (648, 12)
+segments_start: shape = (648,)
+segments_timbre: shape = (648, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.427446571488
+song_id: SOZIIHW12AB0189AFA
+start_of_fade_out: 165.976
+tatums_confidence: shape = (929,)
+tatums_start: shape = (929,)
+tempo: 109.097
+time_signature: 3
+time_signature_confidence: 0.0
+title: Father John Macleod's Jig
+track_7digitalid: 8509191
+track_id: TRAMUOU12903CD599E
+year: 1999

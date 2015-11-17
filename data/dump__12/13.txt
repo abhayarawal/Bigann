@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4737
+artist_familiarity: 0.720711057592
+artist_hotttnesss: 0.522047955192
+artist_id: ARNHHIV1187FB4EA23
+artist_latitude: nan
+artist_location: NL
+artist_longitude: nan
+artist_mbid: f1106b17-dcbb-45f6-b938-199ccfab50cc
+artist_mbtags: shape = (16,)
+artist_mbtags_count: shape = (16,)
+artist_name: New Order
+artist_playmeid: 1162
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 7ea919c31165dd055849ab34476db56a
+bars_confidence: shape = (212,)
+bars_start: shape = (212,)
+beats_confidence: shape = (854,)
+beats_start: shape = (854,)
+danceability: 0.0
+duration: 421.95546
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.713
+loudness: -5.721
+mode: 1
+mode_confidence: 0.669
+release: Jetstream
+release_7digitalid: 12884
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1600,)
+segments_loudness_max: shape = (1600,)
+segments_loudness_max_time: shape = (1600,)
+segments_loudness_start: shape = (1600,)
+segments_pitches: shape = (1600, 12)
+segments_start: shape = (1600,)
+segments_timbre: shape = (1600, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.360370582712
+song_id: SOUMJJC12A6701F4B0
+start_of_fade_out: 414.766
+tatums_confidence: shape = (1708,)
+tatums_start: shape = (1708,)
+tempo: 122.484
+time_signature: 4
+time_signature_confidence: 0.727
+title: Jetstream - Arthur Baker Remix
+track_7digitalid: 133978
+track_id: TRADZYD128E078BE45
+year: 2005

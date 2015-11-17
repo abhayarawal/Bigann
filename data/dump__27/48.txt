@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 54554
+artist_familiarity: 0.700208517978
+artist_hotttnesss: 0.455825978803
+artist_id: ARBD4QW1187FB42153
+artist_latitude: 62.19845
+artist_location: Sweden
+artist_longitude: 17.55142
+artist_mbid: b9a20306-a4f5-4d3c-8680-e9cdc7e3af5b
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Scar Symmetry
+artist_playmeid: 56729
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: f38499521537d49b1f07ebccc41078f2
+bars_confidence: shape = (161,)
+bars_start: shape = (161,)
+beats_confidence: shape = (646,)
+beats_start: shape = (646,)
+danceability: 0.0
+duration: 326.60853
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.692
+loudness: -4.136
+mode: 0
+mode_confidence: 0.578
+release: Pitch Black Progress
+release_7digitalid: 217092
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (1144,)
+segments_loudness_max: shape = (1144,)
+segments_loudness_max_time: shape = (1144,)
+segments_loudness_start: shape = (1144,)
+segments_pitches: shape = (1144, 12)
+segments_start: shape = (1144,)
+segments_timbre: shape = (1144, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEMFLG12CF530D4F6
+start_of_fade_out: 296.536
+tatums_confidence: shape = (2582,)
+tatums_start: shape = (2582,)
+tempo: 120.022
+time_signature: 4
+time_signature_confidence: 0.786
+title: Deviate From The Form
+track_7digitalid: 2364070
+track_id: TRAJFCB128F427FE87
+year: 2006

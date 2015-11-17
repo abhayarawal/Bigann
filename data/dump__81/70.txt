@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 472
+artist_familiarity: 0.791761695567
+artist_hotttnesss: 0.474428172899
+artist_id: AROKAO61187FB38105
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3bcff06f-675a-451f-9075-99e8657047e8
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Four Tet
+artist_playmeid: -1
+artist_terms: shape = (78,)
+artist_terms_freq: shape = (78,)
+artist_terms_weight: shape = (78,)
+audio_md5: 026b2999e5eee93202150bb89f164b09
+bars_confidence: shape = (30,)
+bars_start: shape = (30,)
+beats_confidence: shape = (143,)
+beats_start: shape = (143,)
+danceability: 0.0
+duration: 136.202
+end_of_fade_in: 0.334
+energy: 0.0
+key: 0
+key_confidence: 0.038
+loudness: -17.977
+mode: 0
+mode_confidence: 0.53
+release: My Angel Rocks Back and Forth
+release_7digitalid: 496675
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (309,)
+segments_loudness_max: shape = (309,)
+segments_loudness_max_time: shape = (309,)
+segments_loudness_start: shape = (309,)
+segments_pitches: shape = (309, 12)
+segments_start: shape = (309,)
+segments_timbre: shape = (309, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCDXPZ12AB01844FD
+start_of_fade_out: 120.419
+tatums_confidence: shape = (571,)
+tatums_start: shape = (571,)
+tempo: 70.296
+time_signature: 4
+time_signature_confidence: 0.81
+title: I've got Vilking in Me
+track_7digitalid: 5499366
+track_id: TRBBZWC128F93172DA
+year: 2004

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1304
+artist_familiarity: 0.822316235979
+artist_hotttnesss: 0.50881319501
+artist_id: ARTE9CG1187B99B1AF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f3bf61f8-97d4-4e52-a73d-2ddbbe8196c8
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Karaoke (Made famous by DMX)
+artist_playmeid: 491
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 6de17aa58b3cab371b1ee54370a26871
+bars_confidence: shape = (79,)
+bars_start: shape = (79,)
+beats_confidence: shape = (320,)
+beats_start: shape = (320,)
+danceability: 0.0
+duration: 218.17424
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.138
+loudness: -11.382
+mode: 0
+mode_confidence: 0.297
+release: Karaoke : The Best Of Hip-Hop Volume 7
+release_7digitalid: 225360
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (886,)
+segments_loudness_max: shape = (886,)
+segments_loudness_max_time: shape = (886,)
+segments_loudness_start: shape = (886,)
+segments_pitches: shape = (886, 12)
+segments_start: shape = (886,)
+segments_timbre: shape = (886, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOMQYS12A8C141F23
+start_of_fade_out: 210.239
+tatums_confidence: shape = (1278,)
+tatums_start: shape = (1278,)
+tempo: 91.001
+time_signature: 4
+time_signature_confidence: 0.809
+title: Ruff Ryder's Anthem (Guide Vocal)
+track_7digitalid: 2465241
+track_id: TRAOCPF128F4297319
+year: 0

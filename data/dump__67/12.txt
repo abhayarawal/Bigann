@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 240206
+artist_familiarity: 0.439809782767
+artist_hotttnesss: 0.271597250834
+artist_id: ARYZFGE1187FB39A8C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5c7cbe3b-0f90-4dde-8303-130b659cc65c
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: False Prophets
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 6d91c40a84f58f0a75952938a1e792b8
+bars_confidence: shape = (122,)
+bars_start: shape = (122,)
+beats_confidence: shape = (495,)
+beats_start: shape = (495,)
+danceability: 0.0
+duration: 242.88608
+end_of_fade_in: 0.345
+energy: 0.0
+key: 0
+key_confidence: 0.6
+loudness: -7.694
+mode: 1
+mode_confidence: 0.803
+release: P.E.A.C.E / War
+release_7digitalid: 651020
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (933,)
+segments_loudness_max: shape = (933,)
+segments_loudness_max_time: shape = (933,)
+segments_loudness_start: shape = (933,)
+segments_pitches: shape = (933, 12)
+segments_start: shape = (933,)
+segments_timbre: shape = (933, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.382893364275
+song_id: SOODJVB12A58A7B187
+start_of_fade_out: 236.826
+tatums_confidence: shape = (991,)
+tatums_start: shape = (991,)
+tempo: 119.048
+time_signature: 4
+time_signature_confidence: 0.195
+title: Banana Split Republic
+track_7digitalid: 7211562
+track_id: TRAWWTR128F93593BF
+year: 1984

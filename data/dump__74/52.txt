@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40059
+artist_familiarity: 0.52259018455
+artist_hotttnesss: 0.390641235878
+artist_id: ARN03F71187FB4E3F4
+artist_latitude: nan
+artist_location: United States
+artist_longitude: nan
+artist_mbid: 633c13a3-335a-466f-8e01-535837faeff5
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Ayo
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 1e202b27ea9e9110e32905bfdbfcf03e
+bars_confidence: shape = (93,)
+bars_start: shape = (93,)
+beats_confidence: shape = (391,)
+beats_start: shape = (391,)
+danceability: 0.0
+duration: 288.31302
+end_of_fade_in: 2.043
+energy: 0.0
+key: 4
+key_confidence: 0.759
+loudness: -18.328
+mode: 0
+mode_confidence: 0.694
+release: Joyful
+release_7digitalid: 121392
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (870,)
+segments_loudness_max: shape = (870,)
+segments_loudness_max_time: shape = (870,)
+segments_loudness_start: shape = (870,)
+segments_pitches: shape = (870, 12)
+segments_start: shape = (870,)
+segments_timbre: shape = (870, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKROPT12A8C141885
+start_of_fade_out: 280.468
+tatums_confidence: shape = (1173,)
+tatums_start: shape = (1173,)
+tempo: 82.723
+time_signature: 4
+time_signature_confidence: 0.727
+title: These Days
+track_7digitalid: 1251946
+track_id: TRAZLLR128F42A8DCC
+year: 2006

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 505616
+artist_familiarity: 0.380317055716
+artist_hotttnesss: 0.300918428617
+artist_id: ARWNTXK11EBCD7BBFB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Alain-François
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: a356de61fba476b66058a8626b4e1854
+bars_confidence: shape = (54,)
+bars_start: shape = (54,)
+beats_confidence: shape = (384,)
+beats_start: shape = (384,)
+danceability: 0.0
+duration: 169.87383
+end_of_fade_in: 2.328
+energy: 0.0
+key: 2
+key_confidence: 0.863
+loudness: -5.91
+mode: 1
+mode_confidence: 0.599
+release: Vivant
+release_7digitalid: 685601
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (587,)
+segments_loudness_max: shape = (587,)
+segments_loudness_max_time: shape = (587,)
+segments_loudness_start: shape = (587,)
+segments_pitches: shape = (587, 12)
+segments_start: shape = (587,)
+segments_timbre: shape = (587, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODRPJT12AC468DEF1
+start_of_fade_out: 164.693
+tatums_confidence: shape = (768,)
+tatums_start: shape = (768,)
+tempo: 136.044
+time_signature: 7
+time_signature_confidence: 0.684
+title: The frog song
+track_7digitalid: 7608448
+track_id: TRAMWON12903CE7DBA
+year: 0

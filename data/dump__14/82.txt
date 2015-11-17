@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 269
+artist_familiarity: 0.818319359139
+artist_hotttnesss: 0.667294595643
+artist_id: ARVN9FZ1187FB393F1
+artist_latitude: nan
+artist_location: Dundee, Scotland
+artist_longitude: nan
+artist_mbid: a66999a7-ae5c-460e-ba94-1a01143ae847
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Snow Patrol
+artist_playmeid: 1468
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 0eca5efe2ef6c62c02637977fbc99783
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (470,)
+beats_start: shape = (470,)
+danceability: 0.0
+duration: 268.95628
+end_of_fade_in: 1.332
+energy: 0.0
+key: 9
+key_confidence: 0.14
+loudness: -6.621
+mode: 1
+mode_confidence: 0.633
+release: Shut Your Eyes
+release_7digitalid: 216969
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (710,)
+segments_loudness_max: shape = (710,)
+segments_loudness_max_time: shape = (710,)
+segments_loudness_start: shape = (710,)
+segments_pitches: shape = (710, 12)
+segments_start: shape = (710,)
+segments_timbre: shape = (710, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODZIBG12A8C13F4F3
+start_of_fade_out: 261.265
+tatums_confidence: shape = (941,)
+tatums_start: shape = (941,)
+tempo: 106.002
+time_signature: 4
+time_signature_confidence: 0.62
+title: Chasing Cars
+track_7digitalid: 2362687
+track_id: TRAEZLQ128F427F954
+year: 2006

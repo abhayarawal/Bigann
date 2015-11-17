@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 62800
+artist_familiarity: 0.460006628043
+artist_hotttnesss: 0.0
+artist_id: ARIZHDO11F4C84808E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Nikos Xilouris
+artist_playmeid: 86306
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: 6c55f857352453fd67705e6f967f8f3a
+bars_confidence: shape = (44,)
+bars_start: shape = (44,)
+beats_confidence: shape = (185,)
+beats_start: shape = (185,)
+danceability: 0.0
+duration: 109.50485
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 1.0
+loudness: -11.134
+mode: 1
+mode_confidence: 0.829
+release: Kiklos Seferi
+release_7digitalid: 496323
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (309,)
+segments_loudness_max: shape = (309,)
+segments_loudness_max_time: shape = (309,)
+segments_loudness_start: shape = (309,)
+segments_pitches: shape = (309, 12)
+segments_start: shape = (309,)
+segments_timbre: shape = (309, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWFCZG12AB017D8BB
+start_of_fade_out: 103.207
+tatums_confidence: shape = (369,)
+tatums_start: shape = (369,)
+tempo: 106.435
+time_signature: 4
+time_signature_confidence: 0.854
+title: Ki An O Ageras Fisa
+track_7digitalid: 5495560
+track_id: TRAQWXH128F93163FE
+year: 0

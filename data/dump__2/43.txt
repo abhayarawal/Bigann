@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21632
+artist_familiarity: 0.7375404029
+artist_hotttnesss: 0.441355562048
+artist_id: ARTXEZN1187B9B8190
+artist_latitude: 62.19845
+artist_location: Sweden
+artist_longitude: 17.55142
+artist_mbid: 7ac63de9-e1fc-4d08-8141-fbf975b86098
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Agnes
+artist_playmeid: 28100
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: dbe8209e700beb9c887402d2b23cc83a
+bars_confidence: shape = (140,)
+bars_start: shape = (140,)
+beats_confidence: shape = (563,)
+beats_start: shape = (563,)
+danceability: 0.0
+duration: 275.06893
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.727
+loudness: -4.376
+mode: 1
+mode_confidence: 0.552
+release: I Need You Now
+release_7digitalid: 644965
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1146,)
+segments_loudness_max: shape = (1146,)
+segments_loudness_max_time: shape = (1146,)
+segments_loudness_start: shape = (1146,)
+segments_pitches: shape = (1146, 12)
+segments_start: shape = (1146,)
+segments_timbre: shape = (1146, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORJOMF12AB0186F78
+start_of_fade_out: 271.296
+tatums_confidence: shape = (1125,)
+tatums_start: shape = (1125,)
+tempo: 124.009
+time_signature: 4
+time_signature_confidence: 0.944
+title: I Need You Now
+track_7digitalid: 7147433
+track_id: TRAASZE128F93499AE
+year: 0

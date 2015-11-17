@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 390859
+artist_familiarity: 0.435026684003
+artist_hotttnesss: 0.325333871953
+artist_id: AR19QZ01187B99C74D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e0974536-897a-46d9-aaa8-c4eccba15b03
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kako
+artist_playmeid: -1
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 795397a0c81d014f8d9b9e994d121b94
+bars_confidence: shape = (131,)
+bars_start: shape = (131,)
+beats_confidence: shape = (667,)
+beats_start: shape = (667,)
+danceability: 0.0
+duration: 319.26812
+end_of_fade_in: 0.231
+energy: 0.0
+key: 4
+key_confidence: 0.522
+loudness: -15.813
+mode: 0
+mode_confidence: 0.408
+release: Kako
+release_7digitalid: 530514
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1377,)
+segments_loudness_max: shape = (1377,)
+segments_loudness_max_time: shape = (1377,)
+segments_loudness_start: shape = (1377,)
+segments_pitches: shape = (1377, 12)
+segments_start: shape = (1377,)
+segments_timbre: shape = (1377, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORJVVF12AAF3B1F63
+start_of_fade_out: 311.763
+tatums_confidence: shape = (1333,)
+tatums_start: shape = (1333,)
+tempo: 128.808
+time_signature: 5
+time_signature_confidence: 0.687
+title: Mi Bomba
+track_7digitalid: 5861984
+track_id: TRAVMUT128F92F9857
+year: 0

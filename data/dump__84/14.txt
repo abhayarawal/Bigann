@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 177316
+artist_familiarity: 0.516640992936
+artist_hotttnesss: 0.34910011369
+artist_id: ARJG34V1187FB3AC14
+artist_latitude: nan
+artist_location: Sacramento, CA
+artist_longitude: nan
+artist_mbid: c87fd1cd-1f23-4d9b-be5d-ea1cd3a306ff
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Abominable Iron Sloth
+artist_playmeid: -1
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: c5b078fbc41308d9c8dc1bf7d764c3b5
+bars_confidence: shape = (32,)
+bars_start: shape = (32,)
+beats_confidence: shape = (143,)
+beats_start: shape = (143,)
+danceability: 0.0
+duration: 130.45506
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.327
+loudness: -12.748
+mode: 1
+mode_confidence: 0.707
+release: The Abominable Iron Sloth
+release_7digitalid: 230207
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (316,)
+segments_loudness_max: shape = (316,)
+segments_loudness_max_time: shape = (316,)
+segments_loudness_start: shape = (316,)
+segments_pitches: shape = (316, 12)
+segments_start: shape = (316,)
+segments_timbre: shape = (316, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.576399981255
+song_id: SODJAZO12A81C2074D
+start_of_fade_out: 127.135
+tatums_confidence: shape = (286,)
+tatums_start: shape = (286,)
+tempo: 66.275
+time_signature: 4
+time_signature_confidence: 0.795
+title: Sailing To The Edge Of The Earth
+track_7digitalid: 2522059
+track_id: TRBCWIA128F4220805
+year: 2006

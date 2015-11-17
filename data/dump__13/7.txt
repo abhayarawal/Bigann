@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 29956
+artist_familiarity: 0.501785968274
+artist_hotttnesss: 0.382426584202
+artist_id: ARGR98V1187FB3A1B9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d3281dc6-1484-4627-a344-3715347952e0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Andreas Dorau
+artist_playmeid: -1
+artist_terms: shape = (50,)
+artist_terms_freq: shape = (50,)
+artist_terms_weight: shape = (50,)
+audio_md5: 82fdd4cb6163d7f06cc3d873ef498399
+bars_confidence: shape = (205,)
+bars_start: shape = (205,)
+beats_confidence: shape = (823,)
+beats_start: shape = (823,)
+danceability: 0.0
+duration: 395.17995
+end_of_fade_in: 0.137
+energy: 0.0
+key: 10
+key_confidence: 0.134
+loudness: -8.586
+mode: 1
+mode_confidence: 0.484
+release: So ist das nun mal
+release_7digitalid: 108528
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1894,)
+segments_loudness_max: shape = (1894,)
+segments_loudness_max_time: shape = (1894,)
+segments_loudness_start: shape = (1894,)
+segments_pitches: shape = (1894, 12)
+segments_start: shape = (1894,)
+segments_timbre: shape = (1894, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCAWJO12A8C13C811
+start_of_fade_out: 388.714
+tatums_confidence: shape = (1645,)
+tatums_start: shape = (1645,)
+tempo: 124.988
+time_signature: 4
+time_signature_confidence: 1.0
+title: So ist das nun mal
+track_7digitalid: 1120585
+track_id: TRAEJFN128F4291C10
+year: 1997

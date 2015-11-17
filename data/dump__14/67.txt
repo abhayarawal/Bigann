@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 131684
+artist_familiarity: 0.317391380089
+artist_hotttnesss: 0.345284772988
+artist_id: ARGAWJY11F50C50904
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jane Winther
+artist_playmeid: 50989
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 3f20f380ec3ff1c12e4ee0169e6bc7a2
+bars_confidence: shape = (57,)
+bars_start: shape = (57,)
+beats_confidence: shape = (57,)
+beats_start: shape = (57,)
+danceability: 0.0
+duration: 164.98893
+end_of_fade_in: 4.238
+energy: 0.0
+key: 2
+key_confidence: 0.106
+loudness: -24.773
+mode: 1
+mode_confidence: 0.357
+release: Bardo
+release_7digitalid: 218110
+sections_confidence: shape = (0,)
+sections_start: shape = (0,)
+segments_confidence: shape = (287,)
+segments_loudness_max: shape = (287,)
+segments_loudness_max_time: shape = (287,)
+segments_loudness_start: shape = (287,)
+segments_pitches: shape = (287, 12)
+segments_start: shape = (287,)
+segments_timbre: shape = (287, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQIJPO12A8C13E369
+start_of_fade_out: 164.989
+tatums_confidence: shape = (112,)
+tatums_start: shape = (112,)
+tempo: 21.438
+time_signature: 1
+time_signature_confidence: 0.0
+title: Deep Voices
+track_7digitalid: 2378858
+track_id: TRAEXGP128F4283791
+year: 0

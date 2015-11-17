@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1283
+artist_familiarity: 0.833967972053
+artist_hotttnesss: 0.576903815588
+artist_id: ARE8GLF1187FB52532
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8bfac288-ccc5-448d-9573-c33ea2aa5c30
+artist_mbtags: shape = (15,)
+artist_mbtags_count: shape = (15,)
+artist_name: Red Hot Chili Peppers
+artist_playmeid: 1320
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: eb80a382e749e104318246950aebba70
+bars_confidence: shape = (138,)
+bars_start: shape = (138,)
+beats_confidence: shape = (561,)
+beats_start: shape = (561,)
+danceability: 0.0
+duration: 319.55546
+end_of_fade_in: 3.309
+energy: 0.0
+key: 8
+key_confidence: 0.442
+loudness: -4.144
+mode: 0
+mode_confidence: 0.451
+release: Snow [Hey Oh] [Live]
+release_7digitalid: 218123
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1008,)
+segments_loudness_max: shape = (1008,)
+segments_loudness_max_time: shape = (1008,)
+segments_loudness_start: shape = (1008,)
+segments_pitches: shape = (1008, 12)
+segments_start: shape = (1008,)
+segments_timbre: shape = (1008, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVEIBB12A8C13E5C3
+start_of_fade_out: 304.791
+tatums_confidence: shape = (1122,)
+tatums_start: shape = (1122,)
+tempo: 106.575
+time_signature: 4
+time_signature_confidence: 0.231
+title: Snow [Hey Oh] [Live Version]
+track_7digitalid: 2379075
+track_id: TRAIQNF128F428386A
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 252201
+artist_familiarity: 0.274613283356
+artist_hotttnesss: 0.0
+artist_id: ARMFOCL119B8668919
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ede0d8a0-0b0a-4ded-ae3c-affba301dae8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: String Trio Of New York
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: e511d40949236f8e04d8bbc7f2141059
+bars_confidence: shape = (166,)
+bars_start: shape = (166,)
+beats_confidence: shape = (838,)
+beats_start: shape = (838,)
+danceability: 0.0
+duration: 392.4371
+end_of_fade_in: 7.129
+energy: 0.0
+key: 9
+key_confidence: 0.594
+loudness: -18.245
+mode: 0
+mode_confidence: 0.467
+release: Intermobility
+release_7digitalid: 324015
+sections_confidence: shape = (21,)
+sections_start: shape = (21,)
+segments_confidence: shape = (1589,)
+segments_loudness_max: shape = (1589,)
+segments_loudness_max_time: shape = (1589,)
+segments_loudness_start: shape = (1589,)
+segments_pitches: shape = (1589, 12)
+segments_start: shape = (1589,)
+segments_timbre: shape = (1589, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOVBVJW12AAF3B5F77
+start_of_fade_out: 365.273
+tatums_confidence: shape = (1676,)
+tatums_start: shape = (1676,)
+tempo: 130.316
+time_signature: 5
+time_signature_confidence: 1.0
+title: Ju Ju
+track_7digitalid: 3648647
+track_id: TRACCVN128F92DAE3D
+year: 0

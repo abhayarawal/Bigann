@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 50767
+artist_familiarity: 0.687023631105
+artist_hotttnesss: 0.475085634411
+artist_id: ARO3SS31187FB3729C
+artist_latitude: nan
+artist_location: Antarctica
+artist_longitude: nan
+artist_mbid: f7ccd53a-234c-4800-8d1b-21b201bad1de
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: GWAR
+artist_playmeid: 149211
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 7a63fbaafb8df0d77d12286d11404515
+bars_confidence: shape = (215,)
+bars_start: shape = (215,)
+beats_confidence: shape = (865,)
+beats_start: shape = (865,)
+danceability: 0.0
+duration: 261.79873
+end_of_fade_in: 0.357
+energy: 0.0
+key: 8
+key_confidence: 0.01
+loudness: -7.51
+mode: 1
+mode_confidence: 0.235
+release: Ragnarock
+release_7digitalid: 560618
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1108,)
+segments_loudness_max: shape = (1108,)
+segments_loudness_max_time: shape = (1108,)
+segments_loudness_start: shape = (1108,)
+segments_pitches: shape = (1108, 12)
+segments_start: shape = (1108,)
+segments_timbre: shape = (1108, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.454192988218
+song_id: SORGVTY12AB018349A
+start_of_fade_out: 258.664
+tatums_confidence: shape = (1730,)
+tatums_start: shape = (1730,)
+tempo: 200.199
+time_signature: 4
+time_signature_confidence: 0.318
+title: Surf of Syn
+track_7digitalid: 6204366
+track_id: TRAFUWI128F934C730
+year: 1995

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 298024
+artist_familiarity: 0.53060579794
+artist_hotttnesss: 0.350327605227
+artist_id: ARK2G5U1187FB46B34
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 49a5b367-9a25-43eb-a055-34803a5dce55
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Perrey And Kingsley
+artist_playmeid: -1
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 21d1953fcd370bf3e2ab97d9189aae8a
+bars_confidence: shape = (270,)
+bars_start: shape = (270,)
+beats_confidence: shape = (270,)
+beats_start: shape = (270,)
+danceability: 0.0
+duration: 137.19465
+end_of_fade_in: 0.171
+energy: 0.0
+key: 7
+key_confidence: 0.209
+loudness: -11.382
+mode: 1
+mode_confidence: 0.341
+release: The Out Sound From Way In!
+release_7digitalid: 492999
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (553,)
+segments_loudness_max: shape = (553,)
+segments_loudness_max_time: shape = (553,)
+segments_loudness_start: shape = (553,)
+segments_pitches: shape = (553, 12)
+segments_start: shape = (553,)
+segments_timbre: shape = (553, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.424090810967
+song_id: SONMMMW12AB017DACF
+start_of_fade_out: 129.509
+tatums_confidence: shape = (540,)
+tatums_start: shape = (540,)
+tempo: 125.767
+time_signature: 1
+time_signature_confidence: 0.0
+title: The Minuet Of The Robots
+track_7digitalid: 5458906
+track_id: TRAJIBJ128F930D55B
+year: 1968

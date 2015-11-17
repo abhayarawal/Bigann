@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30067
+artist_familiarity: 0.442818538003
+artist_hotttnesss: 0.320520135114
+artist_id: ARTP2PK1187B98FECA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 23c07df4-b3bb-42e8-8bea-098c0b09fb90
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Quinteto Violado
+artist_playmeid: 56151
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 78af6dbff7c3c7ed01504b7faa84a4c0
+bars_confidence: shape = (68,)
+bars_start: shape = (68,)
+beats_confidence: shape = (347,)
+beats_start: shape = (347,)
+danceability: 0.0
+duration: 162.08934
+end_of_fade_in: 0.409
+energy: 0.0
+key: 7
+key_confidence: 1.0
+loudness: -13.136
+mode: 1
+mode_confidence: 0.697
+release: Para Sempre
+release_7digitalid: 41788
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (710,)
+segments_loudness_max: shape = (710,)
+segments_loudness_max_time: shape = (710,)
+segments_loudness_start: shape = (710,)
+segments_pitches: shape = (710, 12)
+segments_start: shape = (710,)
+segments_timbre: shape = (710, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKATUR12A6D4FA32D
+start_of_fade_out: 153.292
+tatums_confidence: shape = (694,)
+tatums_start: shape = (694,)
+tempo: 125.224
+time_signature: 5
+time_signature_confidence: 0.991
+title: Galope A Beira Mar
+track_7digitalid: 444064
+track_id: TRAONMS128F1481B05
+year: 0

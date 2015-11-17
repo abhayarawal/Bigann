@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 255050
+artist_familiarity: 0.555277224341
+artist_hotttnesss: 0.395217687049
+artist_id: ARA8DDQ1187B9AE3A0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 86119d30-d930-4e65-a97a-e31e22388166
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Eason Chan
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: bc61ac5432423406102f93b303d3d873
+bars_confidence: shape = (81,)
+bars_start: shape = (81,)
+beats_confidence: shape = (333,)
+beats_start: shape = (333,)
+danceability: 0.0
+duration: 271.09832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.68
+loudness: -14.155
+mode: 1
+mode_confidence: 0.629
+release: Get A Life
+release_7digitalid: 337167
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (740,)
+segments_loudness_max: shape = (740,)
+segments_loudness_max_time: shape = (740,)
+segments_loudness_start: shape = (740,)
+segments_pitches: shape = (740, 12)
+segments_start: shape = (740,)
+segments_timbre: shape = (740, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPVFIS12AB01815BD
+start_of_fade_out: 271.098
+tatums_confidence: shape = (666,)
+tatums_start: shape = (666,)
+tempo: 73.438
+time_signature: 4
+time_signature_confidence: 0.714
+title: Ren Lai Ren Wang
+track_7digitalid: 3774559
+track_id: TRAKFJL128F92F3565
+year: 0

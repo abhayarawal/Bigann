@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 156929
+artist_familiarity: 0.636119207143
+artist_hotttnesss: 0.363499577136
+artist_id: ARL6UP41187FB5C604
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a2196d4e-4566-4540-bcb4-f6507ec5bfde
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Facto Delafe y las flores azules
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 21f17525853b3916adfad9a63aad030a
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (406,)
+beats_start: shape = (406,)
+danceability: 0.0
+duration: 127.79057
+end_of_fade_in: 0.113
+energy: 0.0
+key: 7
+key_confidence: 0.268
+loudness: -5.726
+mode: 1
+mode_confidence: 0.236
+release: Facto Delafe y las flores azules VS El monstruo de las ramblas
+release_7digitalid: 215115
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (719,)
+segments_loudness_max: shape = (719,)
+segments_loudness_max_time: shape = (719,)
+segments_loudness_start: shape = (719,)
+segments_pitches: shape = (719, 12)
+segments_start: shape = (719,)
+segments_timbre: shape = (719, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.471971171794
+song_id: SOUNAAM12A8C13A752
+start_of_fade_out: 120.442
+tatums_confidence: shape = (811,)
+tatums_start: shape = (811,)
+tempo: 194.012
+time_signature: 4
+time_signature_confidence: 0.232
+title: Lametavolante
+track_7digitalid: 2343289
+track_id: TRAMWQG128F427BA3C
+year: 2005

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 209448
+artist_familiarity: 0.333274131938
+artist_hotttnesss: 0.322204648419
+artist_id: ARMP9P61187B9B04B3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 92be095f-08eb-470d-9839-c0a537c24fba
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Marco Rima
+artist_playmeid: 193310
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: baff1ebbbe96d65df1f90eab08c1003b
+bars_confidence: shape = (283,)
+bars_start: shape = (283,)
+beats_confidence: shape = (1140,)
+beats_start: shape = (1140,)
+danceability: 0.0
+duration: 362.9971
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.645
+loudness: -8.036
+mode: 1
+mode_confidence: 0.662
+release: No Limits
+release_7digitalid: 389998
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1312,)
+segments_loudness_max: shape = (1312,)
+segments_loudness_max_time: shape = (1312,)
+segments_loudness_start: shape = (1312,)
+segments_pitches: shape = (1312, 12)
+segments_start: shape = (1312,)
+segments_timbre: shape = (1312, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOWZWPJ12A58A7918F
+start_of_fade_out: 353.959
+tatums_confidence: shape = (1140,)
+tatums_start: shape = (1140,)
+tempo: 187.511
+time_signature: 4
+time_signature_confidence: 0.796
+title: Der Kleine Idiot
+track_7digitalid: 4327097
+track_id: TRAWEFQ128F92EF95E
+year: 0

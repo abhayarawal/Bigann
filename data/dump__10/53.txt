@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 108388
+artist_familiarity: 0.553468200261
+artist_hotttnesss: 0.429149837003
+artist_id: ARKIYC51187FB4775A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d1d914e2-34df-4a84-8fc2-226889c10814
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Juice Leskinen
+artist_playmeid: -1
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 571fee944aec5d8c87bf0877c0f597a2
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (470,)
+beats_start: shape = (470,)
+danceability: 0.0
+duration: 158.45832
+end_of_fade_in: 0.282
+energy: 0.0
+key: 0
+key_confidence: 0.673
+loudness: -11.567
+mode: 1
+mode_confidence: 0.626
+release: Lauluja rakastamisen vaikeudesta
+release_7digitalid: 642616
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (692,)
+segments_loudness_max: shape = (692,)
+segments_loudness_max_time: shape = (692,)
+segments_loudness_start: shape = (692,)
+segments_pitches: shape = (692, 12)
+segments_start: shape = (692,)
+segments_timbre: shape = (692, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.529214471475
+song_id: SOGSPRZ12AB0182944
+start_of_fade_out: 154.662
+tatums_confidence: shape = (940,)
+tatums_start: shape = (940,)
+tempo: 180.8
+time_signature: 4
+time_signature_confidence: 0.0
+title: Marilyn
+track_7digitalid: 7125642
+track_id: TRADMKA128F9344497
+year: 1994

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 318
+artist_familiarity: 0.735370150212
+artist_hotttnesss: 0.61999595034
+artist_id: ARO4WQR1187B9B9825
+artist_latitude: nan
+artist_location: Houston, TX
+artist_longitude: nan
+artist_mbid: c3d14b41-a48d-488f-bfed-ce0597bb0b1f
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Kenny Rogers
+artist_playmeid: 2167
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 1dbfd8271d2d2bac9d0c0692ae159194
+bars_confidence: shape = (214,)
+bars_start: shape = (214,)
+beats_confidence: shape = (644,)
+beats_start: shape = (644,)
+danceability: 0.0
+duration: 258.89914
+end_of_fade_in: 0.285
+energy: 0.0
+key: 2
+key_confidence: 0.958
+loudness: -15.835
+mode: 1
+mode_confidence: 0.793
+release: Very Best Of Kenny Rogers
+release_7digitalid: 357083
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (806,)
+segments_loudness_max: shape = (806,)
+segments_loudness_max_time: shape = (806,)
+segments_loudness_start: shape = (806,)
+segments_pitches: shape = (806, 12)
+segments_start: shape = (806,)
+segments_timbre: shape = (806, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFCTSL12AB0181111
+start_of_fade_out: 246.851
+tatums_confidence: shape = (1289,)
+tatums_start: shape = (1289,)
+tempo: 156.507
+time_signature: 3
+time_signature_confidence: 0.0
+title: Love Is What We Make It
+track_7digitalid: 3984368
+track_id: TRBFMGQ128F931E0A0
+year: 1999

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1304
+artist_familiarity: 0.822316235979
+artist_hotttnesss: 0.50881319501
+artist_id: ARTE9CG1187B99B1AF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f3bf61f8-97d4-4e52-a73d-2ddbbe8196c8
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: DMX
+artist_playmeid: 491
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 6fe6f1bf09c1ab427768a345ed1172cf
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (470,)
+beats_start: shape = (470,)
+danceability: 0.0
+duration: 306.05016
+end_of_fade_in: 0.125
+energy: 0.0
+key: 1
+key_confidence: 0.141
+loudness: -4.557
+mode: 1
+mode_confidence: 0.235
+release: The Great Depression
+release_7digitalid: 8506
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1350,)
+segments_loudness_max: shape = (1350,)
+segments_loudness_max_time: shape = (1350,)
+segments_loudness_start: shape = (1350,)
+segments_pitches: shape = (1350, 12)
+segments_start: shape = (1350,)
+segments_timbre: shape = (1350, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.514753324338
+song_id: SOFECIK12A6701DA51
+start_of_fade_out: 290.313
+tatums_confidence: shape = (1881,)
+tatums_start: shape = (1881,)
+tempo: 92.4
+time_signature: 4
+time_signature_confidence: 0.628
+title: I'ma Bang
+track_7digitalid: 85782
+track_id: TRAXLIU128E07860D4
+year: 2001

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21192
+artist_familiarity: 0.613464932135
+artist_hotttnesss: 0.412115553459
+artist_id: ARQ3VBJ1187FB3FE55
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9af7a998-33f9-4900-9396-9b5e1862298d
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Dario Marianelli
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: b4097e3930f773bba1bf39e2dbf20c57
+bars_confidence: shape = (155,)
+bars_start: shape = (155,)
+beats_confidence: shape = (471,)
+beats_start: shape = (471,)
+danceability: 0.0
+duration: 227.99628
+end_of_fade_in: 8.028
+energy: 0.0
+key: 5
+key_confidence: 0.291
+loudness: -22.074
+mode: 1
+mode_confidence: 0.685
+release: Goodbye Bafana
+release_7digitalid: 78310
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (462,)
+segments_loudness_max: shape = (462,)
+segments_loudness_max_time: shape = (462,)
+segments_loudness_start: shape = (462,)
+segments_pitches: shape = (462, 12)
+segments_start: shape = (462,)
+segments_timbre: shape = (462, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.355285536423
+song_id: SOZZUJY12A6D4F5786
+start_of_fade_out: 212.904
+tatums_confidence: shape = (941,)
+tatums_start: shape = (941,)
+tempo: 126.615
+time_signature: 3
+time_signature_confidence: 0.417
+title: The Harbour
+track_7digitalid: 823546
+track_id: TRBGMHU128EF356CB8
+year: 2007

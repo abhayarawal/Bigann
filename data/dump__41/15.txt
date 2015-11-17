@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 182315
+artist_familiarity: 0.334283434823
+artist_hotttnesss: 0.249320347234
+artist_id: ARWLUAI11F4C840637
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jeanne Robertson
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 3442910500b29b606dc964e0e4563366
+bars_confidence: shape = (25,)
+bars_start: shape = (25,)
+beats_confidence: shape = (190,)
+beats_start: shape = (190,)
+danceability: 0.0
+duration: 140.09424
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.446
+loudness: -16.307
+mode: 0
+mode_confidence: 0.417
+release: Southern Style
+release_7digitalid: 235358
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (508,)
+segments_loudness_max: shape = (508,)
+segments_loudness_max_time: shape = (508,)
+segments_loudness_start: shape = (508,)
+segments_pitches: shape = (508, 12)
+segments_start: shape = (508,)
+segments_timbre: shape = (508, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCZYSK12A8C135DB0
+start_of_fade_out: 140.094
+tatums_confidence: shape = (570,)
+tatums_start: shape = (570,)
+tempo: 80.311
+time_signature: 5
+time_signature_confidence: 0.883
+title: Mumbling or hearing loss?
+track_7digitalid: 2738744
+track_id: TRANZGB128F42509F5
+year: 0

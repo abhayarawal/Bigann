@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 257551
+artist_familiarity: 0.406187449275
+artist_hotttnesss: 0.273453727253
+artist_id: ARIOSKN1257509BCE1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fd3dcf38-ac5a-44eb-b8dc-01846f415adc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cama
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 015af33b3bbf653cf82a7b7eef2678c4
+bars_confidence: shape = (125,)
+bars_start: shape = (125,)
+beats_confidence: shape = (379,)
+beats_start: shape = (379,)
+danceability: 0.0
+duration: 221.17832
+end_of_fade_in: 0.125
+energy: 0.0
+key: 7
+key_confidence: 0.659
+loudness: -6.147
+mode: 1
+mode_confidence: 0.714
+release: A Handful Of Songs
+release_7digitalid: 602067
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (569,)
+segments_loudness_max: shape = (569,)
+segments_loudness_max_time: shape = (569,)
+segments_loudness_start: shape = (569,)
+segments_pitches: shape = (569, 12)
+segments_start: shape = (569,)
+segments_timbre: shape = (569, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOLDPYY12AAF3B4633
+start_of_fade_out: 212.219
+tatums_confidence: shape = (758,)
+tatums_start: shape = (758,)
+tempo: 106.519
+time_signature: 3
+time_signature_confidence: 1.0
+title: Fade Away
+track_7digitalid: 6688824
+track_id: TRAXCVG12903CF523C
+year: 2009

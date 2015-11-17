@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5172
+artist_familiarity: 0.672680592884
+artist_hotttnesss: 0.476389108826
+artist_id: ARGBR4I1187B99D073
+artist_latitude: 47.60356
+artist_location: Seattle, WA
+artist_longitude: -122.32944
+artist_mbid: e675295a-1efe-4247-aa3b-53b78d0cdffc
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Mudhoney
+artist_playmeid: 11301
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 90ac79f37185d48d309ae931c29d176d
+bars_confidence: shape = (134,)
+bars_start: shape = (134,)
+beats_confidence: shape = (538,)
+beats_start: shape = (538,)
+danceability: 0.0
+duration: 211.87873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.535
+loudness: -4.309
+mode: 0
+mode_confidence: 0.674
+release: Live At El Sol
+release_7digitalid: 632110
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (452,)
+segments_loudness_max: shape = (452,)
+segments_loudness_max_time: shape = (452,)
+segments_loudness_start: shape = (452,)
+segments_pitches: shape = (452, 12)
+segments_start: shape = (452,)
+segments_timbre: shape = (452, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.49783321457
+song_id: SOPOHPD12AB017F153
+start_of_fade_out: 207.778
+tatums_confidence: shape = (1076,)
+tatums_start: shape = (1076,)
+tempo: 152.457
+time_signature: 4
+time_signature_confidence: 0.143
+title: It Is Us
+track_7digitalid: 7016727
+track_id: TRAFTRY128F9329C26
+year: 2006

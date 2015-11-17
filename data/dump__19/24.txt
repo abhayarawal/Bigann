@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3380
+artist_familiarity: 0.565452291658
+artist_hotttnesss: 0.35241012681
+artist_id: ARVAE6W1187FB3CAF3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f115c91a-2f30-4c0a-a6ce-e67411f2247f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Refreshments
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 54f93ae558219fe58752f72bbaa8dc47
+bars_confidence: shape = (504,)
+bars_start: shape = (504,)
+beats_confidence: shape = (504,)
+beats_start: shape = (504,)
+danceability: 0.0
+duration: 184.5024
+end_of_fade_in: 0.485
+energy: 0.0
+key: 7
+key_confidence: 0.557
+loudness: -6.986
+mode: 1
+mode_confidence: 0.759
+release: Trouble Boys
+release_7digitalid: 305368
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (729,)
+segments_loudness_max: shape = (729,)
+segments_loudness_max_time: shape = (729,)
+segments_loudness_start: shape = (729,)
+segments_pitches: shape = (729, 12)
+segments_start: shape = (729,)
+segments_timbre: shape = (729, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHBATX12A8C14009F
+start_of_fade_out: 178.132
+tatums_confidence: shape = (1009,)
+tatums_start: shape = (1009,)
+tempo: 169.943
+time_signature: 1
+time_signature_confidence: 0.0
+title: Here we are
+track_7digitalid: 3448643
+track_id: TRAGNOH128F42A87FF
+year: 0

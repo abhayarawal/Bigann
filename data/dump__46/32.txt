@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 325779
+artist_familiarity: 0.177527311771
+artist_hotttnesss: 0.0
+artist_id: ARK3IS51187B99B51C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 222897d6-9f0a-4cb0-8e55-15c0380de18f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jean-Claude Darnal
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 15606b903e94a4f88f7a036fa8ab3d39
+bars_confidence: shape = (121,)
+bars_start: shape = (121,)
+beats_confidence: shape = (367,)
+beats_start: shape = (367,)
+danceability: 0.0
+duration: 134.76526
+end_of_fade_in: 0.091
+energy: 0.0
+key: 9
+key_confidence: 0.399
+loudness: -10.392
+mode: 1
+mode_confidence: 0.588
+release: Ecoute mon enfant
+release_7digitalid: 437123
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (503,)
+segments_loudness_max: shape = (503,)
+segments_loudness_max_time: shape = (503,)
+segments_loudness_start: shape = (503,)
+segments_pitches: shape = (503, 12)
+segments_start: shape = (503,)
+segments_timbre: shape = (503, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SORHXRB12AB017A14B
+start_of_fade_out: 125.556
+tatums_confidence: shape = (367,)
+tatums_start: shape = (367,)
+tempo: 164.942
+time_signature: 3
+time_signature_confidence: 0.685
+title: Mélusine
+track_7digitalid: 4871918
+track_id: TRAPTTM128F92EF071
+year: 0

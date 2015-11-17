@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10558
+artist_familiarity: 0.54191773701
+artist_hotttnesss: 0.404157671026
+artist_id: ART1R9I1187B9B3324
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ed20b805-2e45-4ccb-838d-56cfb3947a4c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Margaret Becker
+artist_playmeid: 61414
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: d7f2cd04e7b760984c3524f25fe285aa
+bars_confidence: shape = (146,)
+bars_start: shape = (146,)
+beats_confidence: shape = (439,)
+beats_start: shape = (439,)
+danceability: 0.0
+duration: 242.12853
+end_of_fade_in: 0.351
+energy: 0.0
+key: 4
+key_confidence: 0.242
+loudness: -16.69
+mode: 0
+mode_confidence: 0.293
+release: Coram Deo II: People Of Praise
+release_7digitalid: 192598
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (745,)
+segments_loudness_max: shape = (745,)
+segments_loudness_max_time: shape = (745,)
+segments_loudness_start: shape = (745,)
+segments_pitches: shape = (745, 12)
+segments_start: shape = (745,)
+segments_timbre: shape = (745, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHGGKC12A8C130BE4
+start_of_fade_out: 229.129
+tatums_confidence: shape = (878,)
+tatums_start: shape = (878,)
+tempo: 110.828
+time_signature: 3
+time_signature_confidence: 0.725
+title: Sweet Suffering Christ
+track_7digitalid: 2094187
+track_id: TRBDXQL128F424392E
+year: 1993

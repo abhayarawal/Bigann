@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 54834
+artist_familiarity: 0.569547157239
+artist_hotttnesss: 0.323550215832
+artist_id: ARHBV1W1187B9B496C
+artist_latitude: 30.2676
+artist_location: Austin, TX
+artist_longitude: -97.74298
+artist_mbid: 1e956437-7aaf-4603-9d2c-f9a717009dd3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Rachel Loy
+artist_playmeid: 20887
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 997e7aeeb8f7115112da5a32148aa552
+bars_confidence: shape = (56,)
+bars_start: shape = (56,)
+beats_confidence: shape = (231,)
+beats_start: shape = (231,)
+danceability: 0.0
+duration: 199.8624
+end_of_fade_in: 2.374
+energy: 0.0
+key: 7
+key_confidence: 0.694
+loudness: -8.863
+mode: 1
+mode_confidence: 0.677
+release: The Same Man (For Matthew)
+release_7digitalid: 291706
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (576,)
+segments_loudness_max: shape = (576,)
+segments_loudness_max_time: shape = (576,)
+segments_loudness_start: shape = (576,)
+segments_pitches: shape = (576, 12)
+segments_start: shape = (576,)
+segments_timbre: shape = (576, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGDDAA12A8C1391A9
+start_of_fade_out: 193.027
+tatums_confidence: shape = (925,)
+tatums_start: shape = (925,)
+tempo: 72.211
+time_signature: 4
+time_signature_confidence: 0.951
+title: The Same Man (For Matthew)
+track_7digitalid: 3272774
+track_id: TRBGZQZ128F427E394
+year: 0

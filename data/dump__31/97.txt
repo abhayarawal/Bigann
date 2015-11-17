@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 49461
+artist_familiarity: 0.530022310125
+artist_hotttnesss: 0.409244638616
+artist_id: ARH0NCL1187B99B41A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9f033b2f-3eb1-4f6e-90e2-ddfd694dbde8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Quadro Nuevo
+artist_playmeid: -1
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 4024f8dcfb12951728e1d7aae9626dc8
+bars_confidence: shape = (468,)
+bars_start: shape = (468,)
+beats_confidence: shape = (468,)
+beats_start: shape = (468,)
+danceability: 0.0
+duration: 272.92689
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.426
+loudness: -11.437
+mode: 1
+mode_confidence: 0.451
+release: Tango Bitter Sweet
+release_7digitalid: 64817
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1108,)
+segments_loudness_max: shape = (1108,)
+segments_loudness_max_time: shape = (1108,)
+segments_loudness_start: shape = (1108,)
+segments_pitches: shape = (1108, 12)
+segments_start: shape = (1108,)
+segments_timbre: shape = (1108, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.434838090261
+song_id: SOJTBGX12A6D4FBA6F
+start_of_fade_out: 264.139
+tatums_confidence: shape = (937,)
+tatums_start: shape = (937,)
+tempo: 105.069
+time_signature: 1
+time_signature_confidence: 0.686
+title: Swing Vagabond
+track_7digitalid: 674810
+track_id: TRAKWJG128F14AEE04
+year: 2006

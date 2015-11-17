@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2851
+artist_familiarity: 0.591428551964
+artist_hotttnesss: 0.385344913733
+artist_id: ARRU9GR1187FB43F56
+artist_latitude: 33.46797
+artist_location: Thomson, GA
+artist_longitude: -82.50293
+artist_mbid: 81e02e29-e46a-49cb-bf13-d204cbe86daa
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Blind Willie McTell
+artist_playmeid: 12744
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 65ddb636320ac2cb24fae856f6a9cb7e
+bars_confidence: shape = (60,)
+bars_start: shape = (60,)
+beats_confidence: shape = (249,)
+beats_start: shape = (249,)
+danceability: 0.0
+duration: 116.34893
+end_of_fade_in: 0.223
+energy: 0.0
+key: 0
+key_confidence: 0.661
+loudness: -15.872
+mode: 1
+mode_confidence: 0.551
+release: The Devil Can't Hide From Me
+release_7digitalid: 197998
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (390,)
+segments_loudness_max: shape = (390,)
+segments_loudness_max_time: shape = (390,)
+segments_loudness_start: shape = (390,)
+segments_pitches: shape = (390, 12)
+segments_start: shape = (390,)
+segments_timbre: shape = (390, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODNUSJ12A8C137B05
+start_of_fade_out: 110.51
+tatums_confidence: shape = (497,)
+tatums_start: shape = (497,)
+tempo: 130.36
+time_signature: 4
+time_signature_confidence: 0.062
+title: Boll Weevil
+track_7digitalid: 2152718
+track_id: TRAOQUG128F4251672
+year: 2001

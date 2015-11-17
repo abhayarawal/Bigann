@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 212
+artist_familiarity: 0.878401542469
+artist_hotttnesss: 0.620309820783
+artist_id: ARY53RR1187B9AE485
+artist_latitude: nan
+artist_location: Napanee, Ontario, Canada
+artist_longitude: nan
+artist_mbid: 0103c1cc-4a09-4a5d-a344-56ad99a77193
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Avril Lavigne
+artist_playmeid: 144
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 452c2d0133d23e3d5a9433d173dc75fe
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (436,)
+beats_start: shape = (436,)
+danceability: 0.0
+duration: 224.93995
+end_of_fade_in: 0.194
+energy: 0.0
+key: 0
+key_confidence: 0.648
+loudness: -4.772
+mode: 1
+mode_confidence: 0.696
+release: Under My Skin
+release_7digitalid: 312389
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (664,)
+segments_loudness_max: shape = (664,)
+segments_loudness_max_time: shape = (664,)
+segments_loudness_start: shape = (664,)
+segments_pitches: shape = (664, 12)
+segments_start: shape = (664,)
+segments_timbre: shape = (664, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOISAFU12CF5F882E5
+start_of_fade_out: 213.844
+tatums_confidence: shape = (872,)
+tatums_start: shape = (872,)
+tempo: 118.055
+time_signature: 4
+time_signature_confidence: 0.692
+title: How Does It Feel
+track_7digitalid: 3537981
+track_id: TRAGWKV128F92C316A
+year: 2004

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 101102
+artist_familiarity: 0.492020053787
+artist_hotttnesss: 0.323956948267
+artist_id: ARLHEM01187B9AFF5B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5f5696d6-4534-463f-b796-0c57029e4eae
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Conjunto Clasico
+artist_playmeid: 204274
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 7cf6ebacce041f0d7ccb687b54099dd1
+bars_confidence: shape = (65,)
+bars_start: shape = (65,)
+beats_confidence: shape = (335,)
+beats_start: shape = (335,)
+danceability: 0.0
+duration: 245.99465
+end_of_fade_in: 5.439
+energy: 0.0
+key: 0
+key_confidence: 0.102
+loudness: -15.732
+mode: 1
+mode_confidence: 0.501
+release: Clásicas De Clásico
+release_7digitalid: 435284
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (740,)
+segments_loudness_max: shape = (740,)
+segments_loudness_max_time: shape = (740,)
+segments_loudness_start: shape = (740,)
+segments_pitches: shape = (740, 12)
+segments_start: shape = (740,)
+segments_timbre: shape = (740, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.237211368123
+song_id: SOQIGAT12AB017AD52
+start_of_fade_out: 233.779
+tatums_confidence: shape = (1004,)
+tatums_start: shape = (1004,)
+tempo: 83.905
+time_signature: 5
+time_signature_confidence: 0.307
+title: Coquí
+track_7digitalid: 4848160
+track_id: TRADQDN128F92E93BE
+year: 0

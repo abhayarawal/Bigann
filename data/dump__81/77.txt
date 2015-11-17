@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16982
+artist_familiarity: 0.652801354921
+artist_hotttnesss: 0.443098946532
+artist_id: ARYG6CU1187FB3852B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 67bb73ee-e70c-4bfd-9bf1-e7a09768f9a9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Milk Inc.
+artist_playmeid: -1
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 07bd4731d1b0ecbdbde837f5ef75326c
+bars_confidence: shape = (111,)
+bars_start: shape = (111,)
+beats_confidence: shape = (447,)
+beats_start: shape = (447,)
+danceability: 0.0
+duration: 206.75873
+end_of_fade_in: 0.131
+energy: 0.0
+key: 3
+key_confidence: 0.555
+loudness: -6.704
+mode: 0
+mode_confidence: 0.501
+release: Supersized
+release_7digitalid: 42842
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1060,)
+segments_loudness_max: shape = (1060,)
+segments_loudness_max_time: shape = (1060,)
+segments_loudness_start: shape = (1060,)
+segments_pitches: shape = (1060, 12)
+segments_start: shape = (1060,)
+segments_timbre: shape = (1060, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.430160637018
+song_id: SOMGYNM12A6D4F9B9B
+start_of_fade_out: 191.501
+tatums_confidence: shape = (895,)
+tatums_start: shape = (895,)
+tempo: 130.008
+time_signature: 4
+time_signature_confidence: 0.495
+title: Breakin'
+track_7digitalid: 455878
+track_id: TRBCALG128F1483839
+year: 2006

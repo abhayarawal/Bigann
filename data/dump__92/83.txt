@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12827
+artist_familiarity: 0.651039380171
+artist_hotttnesss: 0.43497603179
+artist_id: ARMH10M1187FB4184F
+artist_latitude: nan
+artist_location: Wisconsin
+artist_longitude: nan
+artist_mbid: 3ca0ef91-3297-4ef8-a99a-1c1a54dc8ac7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Firehouse
+artist_playmeid: 2948
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: bb7cd532d8ab63afae8cd389509dd359
+bars_confidence: shape = (137,)
+bars_start: shape = (137,)
+beats_confidence: shape = (554,)
+beats_start: shape = (554,)
+danceability: 0.0
+duration: 278.12526
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.633
+loudness: -7.352
+mode: 1
+mode_confidence: 0.634
+release: Hold Your Fire
+release_7digitalid: 282908
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (898,)
+segments_loudness_max: shape = (898,)
+segments_loudness_max_time: shape = (898,)
+segments_loudness_start: shape = (898,)
+segments_pitches: shape = (898, 12)
+segments_start: shape = (898,)
+segments_timbre: shape = (898, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYPMHZ12AF72A31BD
+start_of_fade_out: 275.615
+tatums_confidence: shape = (1107,)
+tatums_start: shape = (1107,)
+tempo: 119.423
+time_signature: 4
+time_signature_confidence: 1.0
+title: Talk Of The Town
+track_7digitalid: 3155017
+track_id: TRBGBGO128F4264203
+year: 1992

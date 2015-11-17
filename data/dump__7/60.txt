@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 217605
+artist_familiarity: 0.439789946826
+artist_hotttnesss: 0.270025244802
+artist_id: ARIULTJ1187B9A2017
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 67ee5be4-9384-4408-8e27-679b7bb040cb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Neviss
+artist_playmeid: 94752
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: b0949ea2ac252292a2e39cf5bcbe53f3
+bars_confidence: shape = (18,)
+bars_start: shape = (18,)
+beats_confidence: shape = (142,)
+beats_start: shape = (142,)
+danceability: 0.0
+duration: 53.39383
+end_of_fade_in: 2.723
+energy: 0.0
+key: 1
+key_confidence: 0.133
+loudness: -31.412
+mode: 1
+mode_confidence: 0.541
+release: Backseat Travelling
+release_7digitalid: 272685
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (206,)
+segments_loudness_max: shape = (206,)
+segments_loudness_max_time: shape = (206,)
+segments_loudness_start: shape = (206,)
+segments_pitches: shape = (206, 12)
+segments_start: shape = (206,)
+segments_timbre: shape = (206, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGVRQG12A58A7E69B
+start_of_fade_out: 47.119
+tatums_confidence: shape = (285,)
+tatums_start: shape = (285,)
+tempo: 160.409
+time_signature: 7
+time_signature_confidence: 0.664
+title: Epilog
+track_7digitalid: 3040248
+track_id: TRACMLI128F424C865
+year: 2003

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8388
+artist_familiarity: 0.462642321276
+artist_hotttnesss: 0.370057829051
+artist_id: ARZNQEM11F4C83B660
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Les Paul_ Mary Ford
+artist_playmeid: 66891
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 99a420995dda4c2c0deb614680ca9738
+bars_confidence: shape = (522,)
+bars_start: shape = (522,)
+beats_confidence: shape = (522,)
+beats_start: shape = (522,)
+danceability: 0.0
+duration: 158.40608
+end_of_fade_in: 0.276
+energy: 0.0
+key: 11
+key_confidence: 0.288
+loudness: -8.148
+mode: 1
+mode_confidence: 0.5
+release: Isle of Golden Dreams - Capital Years (1948 - 1952)
+release_7digitalid: 575781
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (693,)
+segments_loudness_max: shape = (693,)
+segments_loudness_max_time: shape = (693,)
+segments_loudness_start: shape = (693,)
+segments_pitches: shape = (693, 12)
+segments_start: shape = (693,)
+segments_timbre: shape = (693, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKSSME12AB0187610
+start_of_fade_out: 153.548
+tatums_confidence: shape = (1044,)
+tatums_start: shape = (1044,)
+tempo: 200.562
+time_signature: 1
+time_signature_confidence: 0.0
+title: Goofus
+track_7digitalid: 6381009
+track_id: TRAMSDM12903CAAB21
+year: 0

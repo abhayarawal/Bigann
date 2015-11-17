@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3919
+artist_familiarity: 0.774037142161
+artist_hotttnesss: 0.521726647791
+artist_id: ARL3VGT1187FB40E8E
+artist_latitude: -34.60852
+artist_location: Buenos Aires.
+artist_longitude: -58.37354
+artist_mbid: cfe85625-10af-46c1-99fb-765ed3a4f1ad
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Los Fabulosos Cadillacs
+artist_playmeid: 15034
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: a6e2ad9badba09d2be11ca9bd6f2ffd6
+bars_confidence: shape = (82,)
+bars_start: shape = (82,)
+beats_confidence: shape = (333,)
+beats_start: shape = (333,)
+danceability: 0.0
+duration: 192.07791
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.131
+loudness: -4.537
+mode: 0
+mode_confidence: 0.199
+release: Hola
+release_7digitalid: 508115
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (814,)
+segments_loudness_max: shape = (814,)
+segments_loudness_max_time: shape = (814,)
+segments_loudness_start: shape = (814,)
+segments_pitches: shape = (814, 12)
+segments_start: shape = (814,)
+segments_timbre: shape = (814, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLLARE12A8C136DF8
+start_of_fade_out: 182.34
+tatums_confidence: shape = (1331,)
+tatums_start: shape = (1331,)
+tempo: 106.798
+time_signature: 4
+time_signature_confidence: 1.0
+title: La Vida
+track_7digitalid: 5623160
+track_id: TRAZXNQ128F93351C4
+year: 1999

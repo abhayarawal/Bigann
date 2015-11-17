@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16932
+artist_familiarity: 0.611180947447
+artist_hotttnesss: 0.399033769592
+artist_id: AR1PRQ21187FB3B481
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4e1d7f85-5f2e-432b-8bac-1c0a44289cee
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Generation X
+artist_playmeid: 10542
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 291d79b95c11711cd00be58ae6ec562e
+bars_confidence: shape = (140,)
+bars_start: shape = (140,)
+beats_confidence: shape = (563,)
+beats_start: shape = (563,)
+danceability: 0.0
+duration: 183.84934
+end_of_fade_in: 0.442
+energy: 0.0
+key: 2
+key_confidence: 0.535
+loudness: -8.957
+mode: 1
+mode_confidence: 0.48
+release: Anthology
+release_7digitalid: 26355
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (726,)
+segments_loudness_max: shape = (726,)
+segments_loudness_max_time: shape = (726,)
+segments_loudness_start: shape = (726,)
+segments_pitches: shape = (726, 12)
+segments_start: shape = (726,)
+segments_timbre: shape = (726, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.483928147713
+song_id: SONGBWJ12A58A7AB4D
+start_of_fade_out: 179.891
+tatums_confidence: shape = (1127,)
+tatums_start: shape = (1127,)
+tempo: 187.222
+time_signature: 4
+time_signature_confidence: 0.0
+title: Rock 'n' Roll
+track_7digitalid: 284860
+track_id: TRAZCMR128F1462B51
+year: 0

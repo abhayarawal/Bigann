@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 372116
+artist_familiarity: 0.342440144332
+artist_hotttnesss: 0.281284215549
+artist_id: ARTHEAP122BCFCD0B2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e40f8007-07cd-439f-b3cf-27104f146420
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ X-Change featuring Joey A
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 0e7960474e9fe78ccef2da81ccad29cc
+bars_confidence: shape = (76,)
+bars_start: shape = (76,)
+beats_confidence: shape = (386,)
+beats_start: shape = (386,)
+danceability: 0.0
+duration: 231.78404
+end_of_fade_in: 1.117
+energy: 0.0
+key: 4
+key_confidence: 0.02
+loudness: -9.193
+mode: 0
+mode_confidence: 0.178
+release: The X-Factor (Side B)
+release_7digitalid: 598190
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1103,)
+segments_loudness_max: shape = (1103,)
+segments_loudness_max_time: shape = (1103,)
+segments_loudness_start: shape = (1103,)
+segments_pitches: shape = (1103, 12)
+segments_start: shape = (1103,)
+segments_timbre: shape = (1103, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYBHQN12AC4687264
+start_of_fade_out: 229.007
+tatums_confidence: shape = (1159,)
+tatums_start: shape = (1159,)
+tempo: 101.327
+time_signature: 5
+time_signature_confidence: 1.0
+title: Drop Low
+track_7digitalid: 6637390
+track_id: TRAXFKX12903CE898E
+year: 0

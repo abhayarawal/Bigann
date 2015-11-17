@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17528
+artist_familiarity: 0.492253132435
+artist_hotttnesss: 0.256803368795
+artist_id: ARGGEGH11F4C83C076
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Miriam Yeung
+artist_playmeid: 59132
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 3ea6cdf658f16f14f12964173ff34be6
+bars_confidence: shape = (82,)
+bars_start: shape = (82,)
+beats_confidence: shape = (331,)
+beats_start: shape = (331,)
+danceability: 0.0
+duration: 228.362
+end_of_fade_in: 0.381
+energy: 0.0
+key: 9
+key_confidence: 0.59
+loudness: -11.126
+mode: 1
+mode_confidence: 0.625
+release: Single
+release_7digitalid: 159901
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (697,)
+segments_loudness_max: shape = (697,)
+segments_loudness_max_time: shape = (697,)
+segments_loudness_start: shape = (697,)
+segments_pitches: shape = (697, 12)
+segments_start: shape = (697,)
+segments_timbre: shape = (697, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGMUJM12A8C13BE4C
+start_of_fade_out: 218.639
+tatums_confidence: shape = (662,)
+tatums_start: shape = (662,)
+tempo: 88.02
+time_signature: 4
+time_signature_confidence: 0.91
+title: Hua Yu Ai Li Si
+track_7digitalid: 1678867
+track_id: TRBHMSR128F4278EBB
+year: 0

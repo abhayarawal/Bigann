@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 76721
+artist_familiarity: 0.41994127477
+artist_hotttnesss: 0.24913722954
+artist_id: ARCVMYS12454A51E6E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Sun Harbor's Chorus-Documentary Recordings
+artist_playmeid: 50151
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: a2a9e01b35aef351f9932563b502d517
+bars_confidence: shape = (60,)
+bars_start: shape = (60,)
+beats_confidence: shape = (274,)
+beats_start: shape = (274,)
+danceability: 0.0
+duration: 206.91546
+end_of_fade_in: 2.142
+energy: 0.0
+key: 6
+key_confidence: 0.559
+loudness: -20.696
+mode: 1
+mode_confidence: 0.708
+release: Songs of the US Army
+release_7digitalid: 95073
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (366,)
+segments_loudness_max: shape = (366,)
+segments_loudness_max_time: shape = (366,)
+segments_loudness_start: shape = (366,)
+segments_pitches: shape = (366, 12)
+segments_start: shape = (366,)
+segments_timbre: shape = (366, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEJGDS12A8C13875E
+start_of_fade_out: 192.424
+tatums_confidence: shape = (274,)
+tatums_start: shape = (274,)
+tempo: 83.15
+time_signature: 4
+time_signature_confidence: 0.097
+title: America the Beautiful
+track_7digitalid: 1043373
+track_id: TRAEOAW128F4280F8E
+year: 0

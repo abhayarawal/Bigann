@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 481
+artist_familiarity: 0.640574149168
+artist_hotttnesss: 0.454714841079
+artist_id: ARWD82K1187B98CFF2
+artist_latitude: nan
+artist_location: Richmond VA
+artist_longitude: nan
+artist_mbid: ca48bfb8-37c5-4a04-9837-a07975ee0cd3
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Cracker
+artist_playmeid: 40329
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 5b6f0b2b167293b322b205247e6d5a69
+bars_confidence: shape = (86,)
+bars_start: shape = (86,)
+beats_confidence: shape = (346,)
+beats_start: shape = (346,)
+danceability: 0.0
+duration: 196.5971
+end_of_fade_in: 0.316
+energy: 0.0
+key: 9
+key_confidence: 0.263
+loudness: -8.749
+mode: 1
+mode_confidence: 0.42
+release: Gentleman's Blues
+release_7digitalid: 277481
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (591,)
+segments_loudness_max: shape = (591,)
+segments_loudness_max_time: shape = (591,)
+segments_loudness_start: shape = (591,)
+segments_pitches: shape = (591, 12)
+segments_start: shape = (591,)
+segments_timbre: shape = (591, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.427446571488
+song_id: SOMKDSL12A8A9D5A19
+start_of_fade_out: 183.409
+tatums_confidence: shape = (692,)
+tatums_start: shape = (692,)
+tempo: 107.848
+time_signature: 4
+time_signature_confidence: 0.352
+title: My Life Is Totally Boring Without You
+track_7digitalid: 3092081
+track_id: TRARWLR128F4256B07
+year: 1998

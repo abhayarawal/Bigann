@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11846
+artist_familiarity: 0.801989215969
+artist_hotttnesss: 0.580345271378
+artist_id: AR74Q3R1187B9B24C3
+artist_latitude: nan
+artist_location: Kitee, Finland
+artist_longitude: nan
+artist_mbid: 00a9f935-ba93-4fc8-a33a-993abe9c936b
+artist_mbtags: shape = (14,)
+artist_mbtags_count: shape = (14,)
+artist_name: Nightwish
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 2c8c65fd4549b3e44549e1f720200ba5
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (338,)
+beats_start: shape = (338,)
+danceability: 0.0
+duration: 153.44281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.994
+loudness: -9.326
+mode: 0
+mode_confidence: 0.747
+release: Angels Fall First
+release_7digitalid: 26253
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (282,)
+segments_loudness_max: shape = (282,)
+segments_loudness_max_time: shape = (282,)
+segments_loudness_start: shape = (282,)
+segments_pitches: shape = (282, 12)
+segments_start: shape = (282,)
+segments_timbre: shape = (282, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.613125242649
+song_id: SOLHRQM12A6D4F6CCF
+start_of_fade_out: 149.362
+tatums_confidence: shape = (677,)
+tatums_start: shape = (677,)
+tempo: 131.248
+time_signature: 4
+time_signature_confidence: 0.066
+title: Lappi Pt IV Etiäinen
+track_7digitalid: 283105
+track_id: TRBFJNF128F1462488
+year: 1997

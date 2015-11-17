@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13447
+artist_familiarity: 0.686988954629
+artist_hotttnesss: 0.606630151729
+artist_id: ARX9YIP1187B98A656
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5ecc3f72-20a6-47a0-8dc5-fb0b3dadeea0
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: RUN-DMC
+artist_playmeid: 1373
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 11cb3b787e628aff93dae5a6b5e96eda
+bars_confidence: shape = (178,)
+bars_start: shape = (178,)
+beats_confidence: shape = (725,)
+beats_start: shape = (725,)
+danceability: 0.0
+duration: 446.32771
+end_of_fade_in: 0.119
+energy: 0.0
+key: 2
+key_confidence: 0.022
+loudness: -5.19
+mode: 0
+mode_confidence: 0.207
+release: King Of Rock
+release_7digitalid: 386879
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1638,)
+segments_loudness_max: shape = (1638,)
+segments_loudness_max_time: shape = (1638,)
+segments_loudness_start: shape = (1638,)
+segments_pitches: shape = (1638, 12)
+segments_start: shape = (1638,)
+segments_timbre: shape = (1638, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSDYXX12AB017AD6B
+start_of_fade_out: 441.347
+tatums_confidence: shape = (1449,)
+tatums_start: shape = (1449,)
+tempo: 98.0
+time_signature: 4
+time_signature_confidence: 1.0
+title: King Of Rock
+track_7digitalid: 4296040
+track_id: TRAFAEO128F92E9A19
+year: 1985

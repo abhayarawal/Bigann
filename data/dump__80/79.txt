@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19
+artist_familiarity: 0.780264380801
+artist_hotttnesss: 0.570106511951
+artist_id: ARAZCWP129462A97F1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ed2ac1e9-d51d-4eff-a2c2-85e81abd6360
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Bob Marley & The Wailers
+artist_playmeid: 237
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 5f14ed492d2249e50ab52bfb26ac7774
+bars_confidence: shape = (196,)
+bars_start: shape = (196,)
+beats_confidence: shape = (788,)
+beats_start: shape = (788,)
+danceability: 0.0
+duration: 320.15628
+end_of_fade_in: 1.071
+energy: 0.0
+key: 4
+key_confidence: 0.33
+loudness: -8.959
+mode: 0
+mode_confidence: 0.382
+release: Legend
+release_7digitalid: 389249
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1247,)
+segments_loudness_max: shape = (1247,)
+segments_loudness_max_time: shape = (1247,)
+segments_loudness_start: shape = (1247,)
+segments_pitches: shape = (1247, 12)
+segments_start: shape = (1247,)
+segments_timbre: shape = (1247, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPIFJT12A81C221AC
+start_of_fade_out: 308.117
+tatums_confidence: shape = (1576,)
+tatums_start: shape = (1576,)
+tempo: 148.684
+time_signature: 4
+time_signature_confidence: 0.253
+title: Three Little Birds
+track_7digitalid: 4318891
+track_id: TRBBQPP128F92EE611
+year: 2007

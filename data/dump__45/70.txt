@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 62288
+artist_familiarity: 0.184250146825
+artist_hotttnesss: 0.0
+artist_id: AR21JV01187B999138
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 22f1d6e0-17e7-4adc-8dd9-dcef7b9c0a88
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bill Murk
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: f46f7eecfe1a378aa79d1ec6a3668ae6
+bars_confidence: shape = (72,)
+bars_start: shape = (72,)
+beats_confidence: shape = (290,)
+beats_start: shape = (290,)
+danceability: 0.0
+duration: 170.26567
+end_of_fade_in: 0.206
+energy: 0.0
+key: 0
+key_confidence: 0.385
+loudness: -12.748
+mode: 1
+mode_confidence: 0.82
+release: Intercessor
+release_7digitalid: 76788
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (445,)
+segments_loudness_max: shape = (445,)
+segments_loudness_max_time: shape = (445,)
+segments_loudness_start: shape = (445,)
+segments_pitches: shape = (445, 12)
+segments_start: shape = (445,)
+segments_timbre: shape = (445, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SONQAVF12A6D4F5FE3
+start_of_fade_out: 158.302
+tatums_confidence: shape = (581,)
+tatums_start: shape = (581,)
+tempo: 104.981
+time_signature: 4
+time_signature_confidence: 0.0
+title: Morning Has Broken
+track_7digitalid: 802976
+track_id: TRAPPPE128EF353210
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7338
+artist_familiarity: 0.905776888666
+artist_hotttnesss: 0.598458500982
+artist_id: ARK9TRQ1187B99C095
+artist_latitude: 41.50471
+artist_location: Cleveland, OH
+artist_longitude: -81.69074
+artist_mbid: b7ffd2af-418f-4be2-bdd1-22f8b48613da
+artist_mbtags: shape = (12,)
+artist_mbtags_count: shape = (12,)
+artist_name: Nine Inch Nails
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 5e5b15e0c787ab9f4d420e72c3e50424
+bars_confidence: shape = (121,)
+bars_start: shape = (121,)
+beats_confidence: shape = (366,)
+beats_start: shape = (366,)
+danceability: 0.0
+duration: 256.83546
+end_of_fade_in: 3.181
+energy: 0.0
+key: 9
+key_confidence: 0.203
+loudness: -6.787
+mode: 0
+mode_confidence: 0.516
+release: Survivalism
+release_7digitalid: 71603
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (989,)
+segments_loudness_max: shape = (989,)
+segments_loudness_max_time: shape = (989,)
+segments_loudness_start: shape = (989,)
+segments_pitches: shape = (989, 12)
+segments_start: shape = (989,)
+segments_timbre: shape = (989, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKYOFO12AF72A2F06
+start_of_fade_out: 254.258
+tatums_confidence: shape = (1099,)
+tatums_start: shape = (1099,)
+tempo: 86.624
+time_signature: 3
+time_signature_confidence: 1.0
+title: Survivalism
+track_7digitalid: 751332
+track_id: TRAILFA128EF349FE5
+year: 2007

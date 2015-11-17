@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20480
+artist_familiarity: 0.650726924441
+artist_hotttnesss: 0.423825663345
+artist_id: ARM0RY81187B9AF248
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: db403e3d-4753-45d6-8fcb-94db03e882e1
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Jerry Goldsmith
+artist_playmeid: 7438
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 8755716cc223c4e11f3b1f308212ad37
+bars_confidence: shape = (90,)
+bars_start: shape = (90,)
+beats_confidence: shape = (368,)
+beats_start: shape = (368,)
+danceability: 0.0
+duration: 169.1424
+end_of_fade_in: 2.363
+energy: 0.0
+key: 1
+key_confidence: 0.78
+loudness: -23.815
+mode: 1
+mode_confidence: 0.661
+release: The Sand Pebbles
+release_7digitalid: 275827
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (314,)
+segments_loudness_max: shape = (314,)
+segments_loudness_max_time: shape = (314,)
+segments_loudness_start: shape = (314,)
+segments_pitches: shape = (314, 12)
+segments_start: shape = (314,)
+segments_timbre: shape = (314, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCEZZL12A81C23CD9
+start_of_fade_out: 156.822
+tatums_confidence: shape = (736,)
+tatums_start: shape = (736,)
+tempo: 138.308
+time_signature: 4
+time_signature_confidence: 0.298
+title: Main Title
+track_7digitalid: 3072474
+track_id: TRAFXPQ128F425385C
+year: 1966

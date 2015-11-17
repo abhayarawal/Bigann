@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11840
+artist_familiarity: 0.538137739913
+artist_hotttnesss: 0.400387756597
+artist_id: ARNTTHK1187B98FF64
+artist_latitude: nan
+artist_location: Cádiz
+artist_longitude: nan
+artist_mbid: 5dec643a-423f-4051-ac13-87e59525ad74
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Andy & Lucas
+artist_playmeid: 1743
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 9a85887a11f8d36ad11424d08b1b50c8
+bars_confidence: shape = (63,)
+bars_start: shape = (63,)
+beats_confidence: shape = (327,)
+beats_start: shape = (327,)
+danceability: 0.0
+duration: 207.62077
+end_of_fade_in: 0.313
+energy: 0.0
+key: 0
+key_confidence: 0.752
+loudness: -5.116
+mode: 1
+mode_confidence: 0.546
+release: Desde mi barrio
+release_7digitalid: 305774
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (727,)
+segments_loudness_max: shape = (727,)
+segments_loudness_max_time: shape = (727,)
+segments_loudness_start: shape = (727,)
+segments_pitches: shape = (727, 12)
+segments_start: shape = (727,)
+segments_timbre: shape = (727, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.561428517629
+song_id: SOJDKSW12A8C13CDDA
+start_of_fade_out: 188.575
+tatums_confidence: shape = (982,)
+tatums_start: shape = (982,)
+tempo: 96.002
+time_signature: 5
+time_signature_confidence: 1.0
+title: Quiero Ser Tu Sueño
+track_7digitalid: 3456134
+track_id: TRBADGN128F42AA534
+year: 2005

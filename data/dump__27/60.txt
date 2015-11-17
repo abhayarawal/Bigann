@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 124
+artist_familiarity: 0.693258487631
+artist_hotttnesss: 0.484124713374
+artist_id: ARDPFGP1187B98A58A
+artist_latitude: 59.33217
+artist_location: Stockholm, Sweden
+artist_longitude: 18.06243
+artist_mbid: 11b1a7c4-3a48-43f8-9d57-6a81fdd1eeba
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Concretes
+artist_playmeid: 26907
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 52f795c5522d962494959965912b46c3
+bars_confidence: shape = (70,)
+bars_start: shape = (70,)
+beats_confidence: shape = (284,)
+beats_start: shape = (284,)
+danceability: 0.0
+duration: 204.85179
+end_of_fade_in: 0.16
+energy: 0.0
+key: 2
+key_confidence: 0.579
+loudness: -11.112
+mode: 1
+mode_confidence: 0.629
+release: Hey Trouble
+release_7digitalid: 345367
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (456,)
+segments_loudness_max: shape = (456,)
+segments_loudness_max_time: shape = (456,)
+segments_loudness_start: shape = (456,)
+segments_pitches: shape = (456, 12)
+segments_start: shape = (456,)
+segments_timbre: shape = (456, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.4830645596
+song_id: SOHOZCG12A8C13EB23
+start_of_fade_out: 191.083
+tatums_confidence: shape = (568,)
+tatums_start: shape = (568,)
+tempo: 89.676
+time_signature: 4
+time_signature_confidence: 1.0
+title: Souvenirs
+track_7digitalid: 3871002
+track_id: TRAJGCA128F9306CFF
+year: 2007

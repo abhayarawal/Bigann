@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 27495
+artist_familiarity: 0.647802029854
+artist_hotttnesss: 0.463264019217
+artist_id: AR1RNCJ1187FB3D227
+artist_latitude: 30.2676
+artist_location: Austin, TX
+artist_longitude: -97.74298
+artist_mbid: dc083bd6-41a3-436e-9e0a-28b4dc773820
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Fastball
+artist_playmeid: 600
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 7bf09c39cf4613018cc0e4f395ddc06e
+bars_confidence: shape = (135,)
+bars_start: shape = (135,)
+beats_confidence: shape = (542,)
+beats_start: shape = (542,)
+danceability: 0.0
+duration: 248.92036
+end_of_fade_in: 0.264
+energy: 0.0
+key: 1
+key_confidence: 0.959
+loudness: -12.555
+mode: 1
+mode_confidence: 0.631
+release: This Is Where I Belong: The Songs Of Ray Davies And The Kinks
+release_7digitalid: 38723
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (988,)
+segments_loudness_max: shape = (988,)
+segments_loudness_max_time: shape = (988,)
+segments_loudness_start: shape = (988,)
+segments_pitches: shape = (988, 12)
+segments_start: shape = (988,)
+segments_timbre: shape = (988, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPQDEG12A6D4F8EAC
+start_of_fade_out: 235.52
+tatums_confidence: shape = (1084,)
+tatums_start: shape = (1084,)
+tempo: 131.964
+time_signature: 4
+time_signature_confidence: 0.873
+title: No Return (Album Version)
+track_7digitalid: 414349
+track_id: TRAVVKY128F147C330
+year: 0

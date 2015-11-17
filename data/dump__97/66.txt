@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 105610
+artist_familiarity: 0.683951503636
+artist_hotttnesss: 0.462963987212
+artist_id: AR4R9BI1187FB44767
+artist_latitude: nan
+artist_location: Georgia
+artist_longitude: nan
+artist_mbid: 946a3be7-bd99-47ac-8414-515c85811f40
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Earth
+artist_playmeid: 42717
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: cf6229a0774fd74d29f11b8baf95894f
+bars_confidence: shape = (259,)
+bars_start: shape = (259,)
+beats_confidence: shape = (1170,)
+beats_start: shape = (1170,)
+danceability: 0.0
+duration: 861.83138
+end_of_fade_in: 7.39
+energy: 0.0
+key: 2
+key_confidence: 0.0
+loudness: -20.288
+mode: 1
+mode_confidence: 0.0
+release: Phase 3: Thrones And Dominions
+release_7digitalid: 189544
+sections_confidence: shape = (29,)
+sections_start: shape = (29,)
+segments_confidence: shape = (761,)
+segments_loudness_max: shape = (761,)
+segments_loudness_max_time: shape = (761,)
+segments_loudness_start: shape = (761,)
+segments_pitches: shape = (761, 12)
+segments_start: shape = (761,)
+segments_timbre: shape = (761, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.536788886441
+song_id: SORZGSZ12A8C1337B7
+start_of_fade_out: 851.528
+tatums_confidence: shape = (2338,)
+tatums_start: shape = (2338,)
+tempo: 81.302
+time_signature: 4
+time_signature_confidence: 1.0
+title: Thrones And Dominions (Album)
+track_7digitalid: 2058291
+track_id: TRBHORD128F423DEF9
+year: 0

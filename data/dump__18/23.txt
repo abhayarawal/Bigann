@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19354
+artist_familiarity: 0.56384598478
+artist_hotttnesss: 0.344540600846
+artist_id: AR19GQN1187FB3ACF5
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 24db1a43-a59f-4015-ae37-d52f1907c8f7
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Bucketheads
+artist_playmeid: 125993
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 20677a61d1cda0152a9afc36ef50fe0b
+bars_confidence: shape = (193,)
+bars_start: shape = (193,)
+beats_confidence: shape = (776,)
+beats_start: shape = (776,)
+danceability: 0.0
+duration: 383.16363
+end_of_fade_in: 0.357
+energy: 0.0
+key: 1
+key_confidence: 0.459
+loudness: -16.486
+mode: 1
+mode_confidence: 0.69
+release: All In The Mind
+release_7digitalid: 28356
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (2026,)
+segments_loudness_max: shape = (2026,)
+segments_loudness_max_time: shape = (2026,)
+segments_loudness_start: shape = (2026,)
+segments_pitches: shape = (2026, 12)
+segments_start: shape = (2026,)
+segments_timbre: shape = (2026, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOWWEWC12A6D4F8A87
+start_of_fade_out: 379.246
+tatums_confidence: shape = (1553,)
+tatums_start: shape = (1553,)
+tempo: 121.896
+time_signature: 4
+time_signature_confidence: 0.911
+title: Little Louie Bonus
+track_7digitalid: 311186
+track_id: TRAGFDW128F14682F5
+year: 1995

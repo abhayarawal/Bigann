@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15403
+artist_familiarity: 0.556750823055
+artist_hotttnesss: 0.361587941532
+artist_id: ARAMIDF1187FB3D8D4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: aae1ec8e-ecd9-44ef-aca8-b5f44579ecce
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Alejandro Lerner
+artist_playmeid: -1
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 82ea404286598e98c3172c99a11695ae
+bars_confidence: shape = (90,)
+bars_start: shape = (90,)
+beats_confidence: shape = (365,)
+beats_start: shape = (365,)
+danceability: 0.0
+duration: 247.97995
+end_of_fade_in: 0.194
+energy: 0.0
+key: 8
+key_confidence: 0.038
+loudness: -9.317
+mode: 1
+mode_confidence: 0.327
+release: Volver A Empezar
+release_7digitalid: 346210
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (950,)
+segments_loudness_max: shape = (950,)
+segments_loudness_max_time: shape = (950,)
+segments_loudness_start: shape = (950,)
+segments_pitches: shape = (950, 12)
+segments_start: shape = (950,)
+segments_timbre: shape = (950, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOQLRXT12AB018025C
+start_of_fade_out: 237.116
+tatums_confidence: shape = (1462,)
+tatums_start: shape = (1462,)
+tempo: 89.923
+time_signature: 4
+time_signature_confidence: 0.852
+title: No Me Acuerdo
+track_7digitalid: 3879437
+track_id: TRASIKR128F9308AD7
+year: 0

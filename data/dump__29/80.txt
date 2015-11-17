@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 273042
+artist_familiarity: 0.453444930749
+artist_hotttnesss: 0.311617484932
+artist_id: ARCQ3LZ1187FB49B42
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 45d921dd-aaf9-4f72-9a8c-101ec24b9186
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Koffi Olomidé
+artist_playmeid: -1
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: b96233a144544f84d8feeda634e1b60f
+bars_confidence: shape = (228,)
+bars_start: shape = (228,)
+beats_confidence: shape = (919,)
+beats_start: shape = (919,)
+danceability: 0.0
+duration: 445.49179
+end_of_fade_in: 0.177
+energy: 0.0
+key: 6
+key_confidence: 0.386
+loudness: -7.441
+mode: 0
+mode_confidence: 0.493
+release: Loi
+release_7digitalid: 680783
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (2073,)
+segments_loudness_max: shape = (2073,)
+segments_loudness_max_time: shape = (2073,)
+segments_loudness_start: shape = (2073,)
+segments_pitches: shape = (2073, 12)
+segments_start: shape = (2073,)
+segments_timbre: shape = (2073, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.372530039366
+song_id: SOJEOUG12AB018A5D5
+start_of_fade_out: 437.418
+tatums_confidence: shape = (1837,)
+tatums_start: shape = (1837,)
+tempo: 120.807
+time_signature: 4
+time_signature_confidence: 0.796
+title: Papito Charme
+track_7digitalid: 7553758
+track_id: TRAKBHG12903CDA83B
+year: 0

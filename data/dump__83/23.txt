@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 39546
+artist_familiarity: 0.590692917947
+artist_hotttnesss: 0.452817837697
+artist_id: AR5U94U1187FB5CDCF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d83e599c-2d5a-44ec-b727-587e1455b1b5
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: John Hammond
+artist_playmeid: 7350
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 0619a84b178ed0997f9e03ce2905a502
+bars_confidence: shape = (418,)
+bars_start: shape = (418,)
+beats_confidence: shape = (418,)
+beats_start: shape = (418,)
+danceability: 0.0
+duration: 198.29506
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.822
+loudness: -13.129
+mode: 0
+mode_confidence: 0.541
+release: Bluesman
+release_7digitalid: 575531
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (750,)
+segments_loudness_max: shape = (750,)
+segments_loudness_max_time: shape = (750,)
+segments_loudness_start: shape = (750,)
+segments_pitches: shape = (750, 12)
+segments_start: shape = (750,)
+segments_timbre: shape = (750, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFNAUM12AB01863B4
+start_of_fade_out: 190.009
+tatums_confidence: shape = (836,)
+tatums_start: shape = (836,)
+tempo: 130.99
+time_signature: 1
+time_signature_confidence: 0.18
+title: Ain't That Loving You Baby
+track_7digitalid: 6378562
+track_id: TRBCOEQ12903CAA1BF
+year: 0

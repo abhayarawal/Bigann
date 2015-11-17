@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 109333
+artist_familiarity: 0.379734511746
+artist_hotttnesss: 0.31386609958
+artist_id: ARY1P2B1187B9B78F5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d4a76953-f4fa-4a49-a0ea-b05eac61f8e8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mariano Yanani
+artist_playmeid: 53027
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: 9c4b573baa3f0f665204f713e08b479b
+bars_confidence: shape = (97,)
+bars_start: shape = (97,)
+beats_confidence: shape = (391,)
+beats_start: shape = (391,)
+danceability: 0.0
+duration: 192.41751
+end_of_fade_in: 0.467
+energy: 0.0
+key: 2
+key_confidence: 0.729
+loudness: -16.922
+mode: 1
+mode_confidence: 0.74
+release: Babies Go To Sleep
+release_7digitalid: 172858
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (530,)
+segments_loudness_max: shape = (530,)
+segments_loudness_max_time: shape = (530,)
+segments_loudness_start: shape = (530,)
+segments_pitches: shape = (530, 12)
+segments_start: shape = (530,)
+segments_timbre: shape = (530, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOEHDVV12A8C140A53
+start_of_fade_out: 183.56
+tatums_confidence: shape = (391,)
+tatums_start: shape = (391,)
+tempo: 126.273
+time_signature: 4
+time_signature_confidence: 1.0
+title: Canon In D Major (J. Pachelbel)
+track_7digitalid: 1848462
+track_id: TRAUEGP128F429B06C
+year: 0

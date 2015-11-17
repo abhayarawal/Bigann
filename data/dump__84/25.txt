@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 29499
+artist_familiarity: 0.552742313523
+artist_hotttnesss: 0.344592816579
+artist_id: ARWQ3W11187FB3F35E
+artist_latitude: 53.34376
+artist_location: Dublin, Ireland
+artist_longitude: -6.24953
+artist_mbid: 464fe4a6-e4e1-4375-a73a-619e40995e31
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Eleanor McEvoy
+artist_playmeid: 18995
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 55f3b8eff33d435270ec69912e819845
+bars_confidence: shape = (132,)
+bars_start: shape = (132,)
+beats_confidence: shape = (532,)
+beats_start: shape = (532,)
+danceability: 0.0
+duration: 353.04444
+end_of_fade_in: 0.113
+energy: 0.0
+key: 7
+key_confidence: 0.54
+loudness: -8.192
+mode: 1
+mode_confidence: 0.569
+release: Snapshots
+release_7digitalid: 411583
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1298,)
+segments_loudness_max: shape = (1298,)
+segments_loudness_max_time: shape = (1298,)
+segments_loudness_start: shape = (1298,)
+segments_pitches: shape = (1298, 12)
+segments_start: shape = (1298,)
+segments_timbre: shape = (1298, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.25759740102
+song_id: SORADNR12AB01862D1
+start_of_fade_out: 330.641
+tatums_confidence: shape = (2127,)
+tatums_start: shape = (2127,)
+tempo: 91.973
+time_signature: 4
+time_signature_confidence: 1.0
+title: Easy To Lose Hope
+track_7digitalid: 4584901
+track_id: TRBCWYJ128F93213A1
+year: 0

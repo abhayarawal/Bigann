@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 304663
+artist_familiarity: 0.533659594371
+artist_hotttnesss: 0.365822369137
+artist_id: ARH3TXI1187FB3A486
+artist_latitude: 36.16778
+artist_location: NASHVILLE, Tennessee
+artist_longitude: -86.77836
+artist_mbid: e004a126-7167-48f9-aeec-1e0cd75749f4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kathy Troccoli
+artist_playmeid: 7992
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 509b9ad27f61f62a870d96d6a8b144c7
+bars_confidence: shape = (79,)
+bars_start: shape = (79,)
+beats_confidence: shape = (334,)
+beats_start: shape = (334,)
+danceability: 0.0
+duration: 251.29751
+end_of_fade_in: 0.282
+energy: 0.0
+key: 7
+key_confidence: 0.626
+loudness: -10.851
+mode: 1
+mode_confidence: 0.67
+release: Kathy Troccoli
+release_7digitalid: 489541
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (736,)
+segments_loudness_max: shape = (736,)
+segments_loudness_max_time: shape = (736,)
+segments_loudness_start: shape = (736,)
+segments_pitches: shape = (736, 12)
+segments_start: shape = (736,)
+segments_timbre: shape = (736, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOYCRXU12AB0180B86
+start_of_fade_out: 238.515
+tatums_confidence: shape = (1001,)
+tatums_start: shape = (1001,)
+tempo: 79.744
+time_signature: 4
+time_signature_confidence: 0.425
+title: Never My Love
+track_7digitalid: 5433903
+track_id: TRBCRVT128F93073E7
+year: 1994

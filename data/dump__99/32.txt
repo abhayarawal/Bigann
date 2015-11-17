@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 39303
+artist_familiarity: 0.681148022988
+artist_hotttnesss: 0.401992540093
+artist_id: ARMYKRB1187B98CFF0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: dfa7df17-e1dd-4ac2-ad3e-e109d404c0f4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cowboy Mouth
+artist_playmeid: -1
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 2c74a1c0b70b5e04ec676e9a6c3a7c56
+bars_confidence: shape = (55,)
+bars_start: shape = (55,)
+beats_confidence: shape = (223,)
+beats_start: shape = (223,)
+danceability: 0.0
+duration: 164.57098
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.995
+loudness: -9.043
+mode: 1
+mode_confidence: 0.791
+release: It Means Escape
+release_7digitalid: 443074
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (529,)
+segments_loudness_max: shape = (529,)
+segments_loudness_max_time: shape = (529,)
+segments_loudness_start: shape = (529,)
+segments_pitches: shape = (529, 12)
+segments_start: shape = (529,)
+segments_timbre: shape = (529, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKDHSI12AB0181587
+start_of_fade_out: 156.787
+tatums_confidence: shape = (668,)
+tatums_start: shape = (668,)
+tempo: 85.268
+time_signature: 4
+time_signature_confidence: 0.063
+title: My Little Blue One
+track_7digitalid: 4918432
+track_id: TRBIDUD128F92FA11C
+year: 0

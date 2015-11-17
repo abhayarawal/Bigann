@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7846
+artist_familiarity: 0.449060608837
+artist_hotttnesss: 0.176766901444
+artist_id: AROPZYT11F4C83EFFA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: JC Lodge
+artist_playmeid: 36832
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: a23dcb7c0cf503cca298d7580ed7830b
+bars_confidence: shape = (151,)
+bars_start: shape = (151,)
+beats_confidence: shape = (607,)
+beats_start: shape = (607,)
+danceability: 0.0
+duration: 217.65179
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.367
+loudness: -6.379
+mode: 1
+mode_confidence: 0.214
+release: Romantic Reggae Vol. 5
+release_7digitalid: 445183
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (846,)
+segments_loudness_max: shape = (846,)
+segments_loudness_max_time: shape = (846,)
+segments_loudness_start: shape = (846,)
+segments_pitches: shape = (846, 12)
+segments_start: shape = (846,)
+segments_timbre: shape = (846, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOZMNA12AB018470F
+start_of_fade_out: 211.145
+tatums_confidence: shape = (607,)
+tatums_start: shape = (607,)
+tempo: 168.135
+time_signature: 4
+time_signature_confidence: 0.461
+title: Let's Make Love
+track_7digitalid: 4944454
+track_id: TRAYJMK128F9300253
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 327026
+artist_familiarity: 0.0771768673465
+artist_hotttnesss: 0.357784312397
+artist_id: ARYFHBH1257509D340
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Hassan Annouri feat. Cassandra Steen
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 6d383d73944a60dce69bfb358a9f5225
+bars_confidence: shape = (167,)
+bars_start: shape = (167,)
+beats_confidence: shape = (673,)
+beats_start: shape = (673,)
+danceability: 0.0
+duration: 270.73261
+end_of_fade_in: 0.102
+energy: 0.0
+key: 7
+key_confidence: 0.45
+loudness: -5.106
+mode: 0
+mode_confidence: 0.531
+release: International
+release_7digitalid: 759051
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1013,)
+segments_loudness_max: shape = (1013,)
+segments_loudness_max_time: shape = (1013,)
+segments_loudness_start: shape = (1013,)
+segments_pitches: shape = (1013, 12)
+segments_start: shape = (1013,)
+segments_timbre: shape = (1013, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVSNHP12AB0185417
+start_of_fade_out: 268.132
+tatums_confidence: shape = (1347,)
+tatums_start: shape = (1347,)
+tempo: 150.063
+time_signature: 4
+time_signature_confidence: 0.7
+title: Wahrheit
+track_7digitalid: 8402845
+track_id: TRAEIUN12903CBBAC3
+year: 0

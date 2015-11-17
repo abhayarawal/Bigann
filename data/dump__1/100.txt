@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 105561
+artist_familiarity: 0.684994896581
+artist_hotttnesss: 0.41551708286
+artist_id: ARDG9Z71187B997023
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: 68950696-ee9a-49b2-a8c2-d1d6c19355cc
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Public Image Ltd
+artist_playmeid: 61470
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 1bca45d02ce1634f8cd68ae55d2f4870
+bars_confidence: shape = (212,)
+bars_start: shape = (212,)
+beats_confidence: shape = (853,)
+beats_start: shape = (853,)
+danceability: 0.0
+duration: 388.28363
+end_of_fade_in: 2.49
+energy: 0.0
+key: 0
+key_confidence: 0.551
+loudness: -16.433
+mode: 1
+mode_confidence: 0.583
+release: Live In Tokyo
+release_7digitalid: 23178
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1211,)
+segments_loudness_max: shape = (1211,)
+segments_loudness_max_time: shape = (1211,)
+segments_loudness_start: shape = (1211,)
+segments_pitches: shape = (1211, 12)
+segments_start: shape = (1211,)
+segments_timbre: shape = (1211, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.263969820177
+song_id: SOQDTQP12A6D4F793F
+start_of_fade_out: 383.994
+tatums_confidence: shape = (1707,)
+tatums_start: shape = (1707,)
+tempo: 132.506
+time_signature: 4
+time_signature_confidence: 0.195
+title: (This Is Not A) Love Song (Live)
+track_7digitalid: 241590
+track_id: TRAAPGF128F1458F8B
+year: 1983

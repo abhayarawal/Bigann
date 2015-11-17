@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 42599
+artist_familiarity: 0.691850736596
+artist_hotttnesss: 0.467885511383
+artist_id: ARFNJ4O1187B9A204B
+artist_latitude: 52.47859
+artist_location: Birmingham, England
+artist_longitude: -1.9086
+artist_mbid: aaae25bf-c794-45d7-bab7-cdc7c655bfa6
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Broadcast
+artist_playmeid: 21983
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 09e6b426a93bb31f2211bb1a3fee44a8
+bars_confidence: shape = (76,)
+bars_start: shape = (76,)
+beats_confidence: shape = (308,)
+beats_start: shape = (308,)
+danceability: 0.0
+duration: 163.91791
+end_of_fade_in: 0.189
+energy: 0.0
+key: 11
+key_confidence: 0.86
+loudness: -6.028
+mode: 0
+mode_confidence: 0.695
+release: The Future Crayon
+release_7digitalid: 533388
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (449,)
+segments_loudness_max: shape = (449,)
+segments_loudness_max_time: shape = (449,)
+segments_loudness_start: shape = (449,)
+segments_pitches: shape = (449, 12)
+segments_start: shape = (449,)
+segments_timbre: shape = (449, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.551921514942
+song_id: SODVPYI12AB017B0D2
+start_of_fade_out: 153.884
+tatums_confidence: shape = (616,)
+tatums_start: shape = (616,)
+tempo: 119.2
+time_signature: 4
+time_signature_confidence: 0.803
+title: Where Youth And Laughter Go
+track_7digitalid: 5926767
+track_id: TRAVTUD128F93094F2
+year: 2000

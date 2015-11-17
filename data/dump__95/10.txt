@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40925
+artist_familiarity: 0.640757317218
+artist_hotttnesss: 0.451219236891
+artist_id: ARMSL551187FB3F4B0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9bd1e632-b17b-4842-b520-ddfce3b538b9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: K's Choice
+artist_playmeid: 8077
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 6815ac5453806e3c2f92e863b747a832
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (270,)
+beats_start: shape = (270,)
+danceability: 0.0
+duration: 183.09179
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.831
+loudness: -14.469
+mode: 1
+mode_confidence: 0.804
+release: Live
+release_7digitalid: 290001
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (443,)
+segments_loudness_max: shape = (443,)
+segments_loudness_max_time: shape = (443,)
+segments_loudness_start: shape = (443,)
+segments_pitches: shape = (443, 12)
+segments_start: shape = (443,)
+segments_timbre: shape = (443, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOONMNI12A8C134D2D
+start_of_fade_out: 174.991
+tatums_confidence: shape = (539,)
+tatums_start: shape = (539,)
+tempo: 87.679
+time_signature: 3
+time_signature_confidence: 0.293
+title: God In My Bed
+track_7digitalid: 3252896
+track_id: TRBGUHX128F4279757
+year: 1998

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 316562
+artist_familiarity: 0.612640524236
+artist_hotttnesss: 0.436782949495
+artist_id: ARVWNTI1269FB34C59
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: SOJA
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: cc7275f0b91c9d94334f99cd5198e2e5
+bars_confidence: shape = (609,)
+bars_start: shape = (609,)
+beats_confidence: shape = (609,)
+beats_start: shape = (609,)
+danceability: 0.0
+duration: 295.49669
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.278
+loudness: -9.32
+mode: 1
+mode_confidence: 0.228
+release: Soldiers of Jah Army
+release_7digitalid: 773670
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1283,)
+segments_loudness_max: shape = (1283,)
+segments_loudness_max_time: shape = (1283,)
+segments_loudness_start: shape = (1283,)
+segments_pitches: shape = (1283, 12)
+segments_start: shape = (1283,)
+segments_timbre: shape = (1283, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGELYI12AB01886B1
+start_of_fade_out: 293.21
+tatums_confidence: shape = (1219,)
+tatums_start: shape = (1219,)
+tempo: 124.771
+time_signature: 1
+time_signature_confidence: 0.0
+title: Watch Them
+track_7digitalid: 8562022
+track_id: TRAJBSF12903CE2759
+year: 0

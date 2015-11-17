@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 317631
+artist_familiarity: 0.25265207341
+artist_hotttnesss: 0.309794149388
+artist_id: ARXW6QA1187B9983C0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2318ea3f-151f-4693-ad6c-9293d7d4963f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Phantomsmasher
+artist_playmeid: 164822
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 393345ee8791ada051c5debba61f5968
+bars_confidence: shape = (173,)
+bars_start: shape = (173,)
+beats_confidence: shape = (564,)
+beats_start: shape = (564,)
+danceability: 0.0
+duration: 382.14485
+end_of_fade_in: 0.276
+energy: 0.0
+key: 3
+key_confidence: 0.796
+loudness: -6.291
+mode: 1
+mode_confidence: 0.672
+release: Phantomsmasher
+release_7digitalid: 423439
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (856,)
+segments_loudness_max: shape = (856,)
+segments_loudness_max_time: shape = (856,)
+segments_loudness_start: shape = (856,)
+segments_pitches: shape = (856, 12)
+segments_start: shape = (856,)
+segments_timbre: shape = (856, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.428702262523
+song_id: SOSWLCT12A58A79466
+start_of_fade_out: 350.122
+tatums_confidence: shape = (1128,)
+tatums_start: shape = (1128,)
+tempo: 88.05
+time_signature: 3
+time_signature_confidence: 1.0
+title: Bishop Hopping
+track_7digitalid: 4723083
+track_id: TRALGOQ128F93409F3
+year: 2002

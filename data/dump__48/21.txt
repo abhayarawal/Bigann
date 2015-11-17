@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11535
+artist_familiarity: 0.516443779773
+artist_hotttnesss: 0.386669091706
+artist_id: ARF4V431187FB3AA41
+artist_latitude: 27.94653
+artist_location: Tampa, FL
+artist_longitude: -82.45927
+artist_mbid: 5c1262e2-cb86-4dc9-8acf-781ff4523192
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Slim Whitman
+artist_playmeid: 59829
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 091dac956df14f5906a5d6fb0065a191
+bars_confidence: shape = (74,)
+bars_start: shape = (74,)
+beats_confidence: shape = (303,)
+beats_start: shape = (303,)
+danceability: 0.0
+duration: 170.81424
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.64
+loudness: -9.681
+mode: 1
+mode_confidence: 0.6
+release: UK - 1955 - September
+release_7digitalid: 257268
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (473,)
+segments_loudness_max: shape = (473,)
+segments_loudness_max_time: shape = (473,)
+segments_loudness_start: shape = (473,)
+segments_pitches: shape = (473, 12)
+segments_start: shape = (473,)
+segments_timbre: shape = (473, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKPMSE12A8C135993
+start_of_fade_out: 164.809
+tatums_confidence: shape = (303,)
+tatums_start: shape = (303,)
+tempo: 107.584
+time_signature: 4
+time_signature_confidence: 0.719
+title: China Doll
+track_7digitalid: 2717806
+track_id: TRAQJOP128F424C3D2
+year: 2002

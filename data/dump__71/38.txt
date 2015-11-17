@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 45589
+artist_familiarity: 0.597794859355
+artist_hotttnesss: 0.418895803914
+artist_id: ARGQANQ11F50C4769E
+artist_latitude: 37.87869
+artist_location: San Francisco Bay Area
+artist_longitude: -121.94345
+artist_mbid: e773e9a3-cadd-41d2-a7e9-4ca097ae5a3f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Y&T
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 2e8b2be745788356c92ad201a4e9d9d1
+bars_confidence: shape = (193,)
+bars_start: shape = (193,)
+beats_confidence: shape = (777,)
+beats_start: shape = (777,)
+danceability: 0.0
+duration: 285.1522
+end_of_fade_in: 2.955
+energy: 0.0
+key: 4
+key_confidence: 0.356
+loudness: -9.462
+mode: 1
+mode_confidence: 0.443
+release: Yesterday & Today Live
+release_7digitalid: 560651
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (911,)
+segments_loudness_max: shape = (911,)
+segments_loudness_max_time: shape = (911,)
+segments_loudness_start: shape = (911,)
+segments_pitches: shape = (911, 12)
+segments_start: shape = (911,)
+segments_timbre: shape = (911, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJXBTY12AB0187E55
+start_of_fade_out: 285.152
+tatums_confidence: shape = (1554,)
+tatums_start: shape = (1554,)
+tempo: 165.712
+time_signature: 4
+time_signature_confidence: 0.241
+title: Mean Streak
+track_7digitalid: 6204616
+track_id: TRAYKTU128F934C82A
+year: 1983

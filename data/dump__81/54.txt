@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1701
+artist_familiarity: 0.425723658047
+artist_hotttnesss: 0.0
+artist_id: ARODOO01187FB44F4A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 60bd8a1c-c093-4849-8f28-08101ca059b1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Baltimore Consort
+artist_playmeid: 20540
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 7dd9faa7f3df0841215fc6e8d224474d
+bars_confidence: shape = (159,)
+bars_start: shape = (159,)
+beats_confidence: shape = (481,)
+beats_start: shape = (481,)
+danceability: 0.0
+duration: 240.40444
+end_of_fade_in: 0.306
+energy: 0.0
+key: 7
+key_confidence: 0.646
+loudness: -17.271
+mode: 1
+mode_confidence: 0.766
+release: The Best of The Baltimore Consort
+release_7digitalid: 321903
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (884,)
+segments_loudness_max: shape = (884,)
+segments_loudness_max_time: shape = (884,)
+segments_loudness_start: shape = (884,)
+segments_pitches: shape = (884, 12)
+segments_start: shape = (884,)
+segments_timbre: shape = (884, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SOWCJPI12AAF3B229C
+start_of_fade_out: 232.966
+tatums_confidence: shape = (962,)
+tatums_start: shape = (962,)
+tempo: 123.784
+time_signature: 3
+time_signature_confidence: 1.0
+title: Howells Delight
+track_7digitalid: 3626610
+track_id: TRBBYKP128F92D60F0
+year: 0

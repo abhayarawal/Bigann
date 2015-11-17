@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9878
+artist_familiarity: 0.807779927796
+artist_hotttnesss: 0.486825413499
+artist_id: ARR6MOS1187B994C51
+artist_latitude: nan
+artist_location: Borlänge
+artist_longitude: nan
+artist_mbid: ea854cc1-13fc-4fd0-86a5-d2c7dba06764
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Mando Diao
+artist_playmeid: 24471
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 7130aca24af82eac906f788c24ae22bf
+bars_confidence: shape = (146,)
+bars_start: shape = (146,)
+beats_confidence: shape = (440,)
+beats_start: shape = (440,)
+danceability: 0.0
+duration: 306.18077
+end_of_fade_in: 0.827
+energy: 0.0
+key: 4
+key_confidence: 0.0
+loudness: -4.118
+mode: 0
+mode_confidence: 0.077
+release: Long Before Rock 'n Roll
+release_7digitalid: 70133
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (973,)
+segments_loudness_max: shape = (973,)
+segments_loudness_max_time: shape = (973,)
+segments_loudness_start: shape = (973,)
+segments_pitches: shape = (973, 12)
+segments_start: shape = (973,)
+segments_timbre: shape = (973, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.555574792226
+song_id: SOCVJVC12A67FFB40C
+start_of_fade_out: 294.522
+tatums_confidence: shape = (1318,)
+tatums_start: shape = (1318,)
+tempo: 87.785
+time_signature: 3
+time_signature_confidence: 0.531
+title: Popovic
+track_7digitalid: 734601
+track_id: TRATOHC128EF3460DA
+year: 2006

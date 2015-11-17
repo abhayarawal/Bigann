@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 134184
+artist_familiarity: 0.514967583468
+artist_hotttnesss: 0.352895441752
+artist_id: ARQR8Y51187B9B8E9C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 75d93c6f-9a8f-4be1-98ad-2b0104485055
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: La Mancha De Rolando
+artist_playmeid: 213824
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: c184242da63dc7f36bea996461fc3741
+bars_confidence: shape = (96,)
+bars_start: shape = (96,)
+beats_confidence: shape = (393,)
+beats_start: shape = (393,)
+danceability: 0.0
+duration: 243.98322
+end_of_fade_in: 0.245
+energy: 0.0
+key: 4
+key_confidence: 1.0
+loudness: -4.296
+mode: 1
+mode_confidence: 0.858
+release: Viaje
+release_7digitalid: 177199
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (853,)
+segments_loudness_max: shape = (853,)
+segments_loudness_max_time: shape = (853,)
+segments_loudness_start: shape = (853,)
+segments_pitches: shape = (853, 12)
+segments_start: shape = (853,)
+segments_timbre: shape = (853, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.419125892959
+song_id: SOSWVUB12A6D4FCB1D
+start_of_fade_out: 235.683
+tatums_confidence: shape = (785,)
+tatums_start: shape = (785,)
+tempo: 100.046
+time_signature: 4
+time_signature_confidence: 0.991
+title: Melodia Simple
+track_7digitalid: 1910560
+track_id: TRAGKAC128F4225537
+year: 2003

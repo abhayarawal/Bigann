@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7536
+artist_familiarity: 0.732571744691
+artist_hotttnesss: 0.45798167407
+artist_id: ARNNQ9E1187FB3C82F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c8327cc0-54f3-424f-a68d-000ee7289a41
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Sizzla
+artist_playmeid: 34228
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: bdb1aaf91a74634c3927ee708ccbe9b9
+bars_confidence: shape = (160,)
+bars_start: shape = (160,)
+beats_confidence: shape = (643,)
+beats_start: shape = (643,)
+danceability: 0.0
+duration: 203.96363
+end_of_fade_in: 0.212
+energy: 0.0
+key: 7
+key_confidence: 0.352
+loudness: -6.832
+mode: 0
+mode_confidence: 0.485
+release: Bien Sobre Mal Vol. 3: Black Rain Riddim
+release_7digitalid: 743543
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1055,)
+segments_loudness_max: shape = (1055,)
+segments_loudness_max_time: shape = (1055,)
+segments_loudness_start: shape = (1055,)
+segments_pitches: shape = (1055, 12)
+segments_start: shape = (1055,)
+segments_timbre: shape = (1055, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIHMBZ12AC4688FD5
+start_of_fade_out: 195.785
+tatums_confidence: shape = (1285,)
+tatums_start: shape = (1285,)
+tempo: 190.01
+time_signature: 4
+time_signature_confidence: 1.0
+title: Too much informa
+track_7digitalid: 8231115
+track_id: TRABISL12903D08B0D
+year: 2005

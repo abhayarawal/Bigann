@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11007
+artist_familiarity: 0.676492513014
+artist_hotttnesss: 0.469513899696
+artist_id: AROIIF91187FB4F2D5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3b02795b-bd2c-4aac-8f6c-e581514cc2d8
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Dead Prez
+artist_playmeid: 9238
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 18720459e52ebca1f37fc3b14abbfd28
+bars_confidence: shape = (66,)
+bars_start: shape = (66,)
+beats_confidence: shape = (337,)
+beats_start: shape = (337,)
+danceability: 0.0
+duration: 120.86812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.459
+loudness: -6.72
+mode: 1
+mode_confidence: 0.396
+release: Let's Get Free
+release_7digitalid: 289149
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (542,)
+segments_loudness_max: shape = (542,)
+segments_loudness_max_time: shape = (542,)
+segments_loudness_start: shape = (542,)
+segments_pitches: shape = (542, 12)
+segments_start: shape = (542,)
+segments_timbre: shape = (542, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.553766592458
+song_id: SOVYZIA12A8C136E0D
+start_of_fade_out: 120.868
+tatums_confidence: shape = (674,)
+tatums_start: shape = (674,)
+tempo: 170.081
+time_signature: 5
+time_signature_confidence: 1.0
+title: Assassination
+track_7digitalid: 3242139
+track_id: TRAFOKY128F4276D91
+year: 2000

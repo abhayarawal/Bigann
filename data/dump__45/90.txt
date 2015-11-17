@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 140199
+artist_familiarity: 0.522679338719
+artist_hotttnesss: 0.381815336766
+artist_id: ARA3XRR1187B9984EF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5f494eb6-7d53-4cff-a959-b022ced9dd6e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pale Forest
+artist_playmeid: -1
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 908fbbd74e47ffbaef0b331f83d85e9d
+bars_confidence: shape = (44,)
+bars_start: shape = (44,)
+beats_confidence: shape = (237,)
+beats_start: shape = (237,)
+danceability: 0.0
+duration: 183.61424
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.622
+loudness: -7.909
+mode: 1
+mode_confidence: 0.627
+release: Transformation Hymns
+release_7digitalid: 723375
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (598,)
+segments_loudness_max: shape = (598,)
+segments_loudness_max_time: shape = (598,)
+segments_loudness_start: shape = (598,)
+segments_pitches: shape = (598, 12)
+segments_start: shape = (598,)
+segments_timbre: shape = (598, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHGCRX12AB0186D9B
+start_of_fade_out: 171.804
+tatums_confidence: shape = (713,)
+tatums_start: shape = (713,)
+tempo: 77.926
+time_signature: 5
+time_signature_confidence: 0.659
+title: Karma Violins
+track_7digitalid: 8018305
+track_id: TRAPQSO12903CD4CBF
+year: 0

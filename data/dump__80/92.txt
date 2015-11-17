@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 432798
+artist_familiarity: 0.474712354102
+artist_hotttnesss: 0.33208898102
+artist_id: ARGXJRQ1241B9C5FDE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Charlie Khan
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 64d23ec5fba6d5e4211c671d5d399688
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (474,)
+beats_start: shape = (474,)
+danceability: 0.0
+duration: 202.29179
+end_of_fade_in: 0.177
+energy: 0.0
+key: 9
+key_confidence: 0.571
+loudness: -4.431
+mode: 1
+mode_confidence: 0.36
+release: How We Divide the Cake
+release_7digitalid: 581662
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (772,)
+segments_loudness_max: shape = (772,)
+segments_loudness_max_time: shape = (772,)
+segments_loudness_start: shape = (772,)
+segments_pitches: shape = (772, 12)
+segments_start: shape = (772,)
+segments_timbre: shape = (772, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZDKSD12AB018A0AC
+start_of_fade_out: 202.292
+tatums_confidence: shape = (948,)
+tatums_start: shape = (948,)
+tempo: 140.197
+time_signature: 4
+time_signature_confidence: 0.596
+title: Cheshire Grin
+track_7digitalid: 6448438
+track_id: TRBBRXN12903CBAE27
+year: 0

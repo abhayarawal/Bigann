@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12235
+artist_familiarity: 0.744734766783
+artist_hotttnesss: 0.565045659221
+artist_id: AR8BUVM1187FB4D94D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e5c7b94f-e264-473c-bb0f-37c85d4d5c70
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Belle & Sebastian
+artist_playmeid: 2026
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 8e0d2fa27bcd5d1a2a48bdcb4a3a0e57
+bars_confidence: shape = (575,)
+bars_start: shape = (575,)
+beats_confidence: shape = (575,)
+beats_start: shape = (575,)
+danceability: 0.0
+duration: 401.8673
+end_of_fade_in: 0.165
+energy: 0.0
+key: 0
+key_confidence: 0.508
+loudness: -7.916
+mode: 0
+mode_confidence: 0.521
+release: Dear Catastrophe Waitress
+release_7digitalid: 268054
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1336,)
+segments_loudness_max: shape = (1336,)
+segments_loudness_max_time: shape = (1336,)
+segments_loudness_start: shape = (1336,)
+segments_pitches: shape = (1336, 12)
+segments_start: shape = (1336,)
+segments_timbre: shape = (1336, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFCFSC12B0B80ACDB
+start_of_fade_out: 383.303
+tatums_confidence: shape = (1725,)
+tatums_start: shape = (1725,)
+tempo: 86.505
+time_signature: 1
+time_signature_confidence: 1.0
+title: Stay Loose
+track_7digitalid: 2948120
+track_id: TRAVVBW128F42819B2
+year: 2003

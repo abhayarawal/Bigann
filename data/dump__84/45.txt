@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9222
+artist_familiarity: 0.793605080371
+artist_hotttnesss: 0.426317956408
+artist_id: AREBBGV1187FB523D2
+artist_latitude: nan
+artist_location: Houston, TX
+artist_longitude: nan
+artist_mbid: 7685015d-bd3b-4888-9020-3288c421cc9f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mike Jones
+artist_playmeid: 2567
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 00e3e7a3a793652c757f03859e8769f1
+bars_confidence: shape = (216,)
+bars_start: shape = (216,)
+beats_confidence: shape = (868,)
+beats_start: shape = (868,)
+danceability: 0.0
+duration: 364.77342
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.512
+loudness: -7.932
+mode: 1
+mode_confidence: 0.389
+release: Who Is Mike Jones? Screwed & Chopped
+release_7digitalid: 138176
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1574,)
+segments_loudness_max: shape = (1574,)
+segments_loudness_max_time: shape = (1574,)
+segments_loudness_start: shape = (1574,)
+segments_pitches: shape = (1574, 12)
+segments_start: shape = (1574,)
+segments_timbre: shape = (1574, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOUGRYN12A8AE4606C
+start_of_fade_out: 362.405
+tatums_confidence: shape = (1736,)
+tatums_start: shape = (1736,)
+tempo: 142.729
+time_signature: 4
+time_signature_confidence: 0.811
+title: Grandma (Screwed & Chopped Version)
+track_7digitalid: 1434166
+track_id: TRBCYKH128F4241862
+year: 0

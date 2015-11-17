@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 207769
+artist_familiarity: 0.454709911029
+artist_hotttnesss: 0.292801539123
+artist_id: ARE2BVT1187B9AC9A2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 209afd68-2568-4cd2-b722-99e41786293f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Little Joe
+artist_playmeid: 16795
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 2b04a41b82e53421a04774402654ae39
+bars_confidence: shape = (135,)
+bars_start: shape = (135,)
+beats_confidence: shape = (407,)
+beats_start: shape = (407,)
+danceability: 0.0
+duration: 239.01995
+end_of_fade_in: 0.187
+energy: 0.0
+key: 5
+key_confidence: 0.606
+loudness: -10.274
+mode: 1
+mode_confidence: 0.598
+release: Nuestra Tradición
+release_7digitalid: 508052
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (713,)
+segments_loudness_max: shape = (713,)
+segments_loudness_max_time: shape = (713,)
+segments_loudness_start: shape = (713,)
+segments_pitches: shape = (713, 12)
+segments_start: shape = (713,)
+segments_timbre: shape = (713, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQAHUW12AB0181F04
+start_of_fade_out: 230.545
+tatums_confidence: shape = (814,)
+tatums_start: shape = (814,)
+tempo: 106.398
+time_signature: 3
+time_signature_confidence: 1.0
+title: Loco (Crazy)
+track_7digitalid: 5622090
+track_id: TRAATMY128F9334DAC
+year: 0

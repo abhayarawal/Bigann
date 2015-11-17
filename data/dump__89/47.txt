@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 600144
+artist_familiarity: 0.330647051543
+artist_hotttnesss: 0.273269209344
+artist_id: AR18B3W1187B9A5AAA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0b861813-3660-4341-ba27-4af6788744fd
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Louisa Mark feat. Kevin Henry
+artist_playmeid: -1
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: d436ba21be08edb465a0a85c4e886609
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (674,)
+beats_start: shape = (674,)
+danceability: 0.0
+duration: 267.10159
+end_of_fade_in: 0.47
+energy: 0.0
+key: 5
+key_confidence: 0.159
+loudness: -16.359
+mode: 0
+mode_confidence: 0.246
+release: Breakout
+release_7digitalid: 804467
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (983,)
+segments_loudness_max: shape = (983,)
+segments_loudness_max_time: shape = (983,)
+segments_loudness_start: shape = (983,)
+segments_pitches: shape = (983, 12)
+segments_start: shape = (983,)
+segments_timbre: shape = (983, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOJJPHI12AB018B991
+start_of_fade_out: 255.64
+tatums_confidence: shape = (1348,)
+tatums_start: shape = (1348,)
+tempo: 151.728
+time_signature: 7
+time_signature_confidence: 0.0
+title: Reunited
+track_7digitalid: 8892305
+track_id: TRBEWTR12903CBF252
+year: 0

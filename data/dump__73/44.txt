@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 200847
+artist_familiarity: 0.293433006903
+artist_hotttnesss: 0.0
+artist_id: AR1206S1187B9AF3EA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: dd1f3d58-149a-4e96-b3fc-16fb54e12a71
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Albert Préjean
+artist_playmeid: -1
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: 4a7bcc761c6189546078d24d8e81af68
+bars_confidence: shape = (185,)
+bars_start: shape = (185,)
+beats_confidence: shape = (558,)
+beats_start: shape = (558,)
+danceability: 0.0
+duration: 190.17098
+end_of_fade_in: 0.363
+energy: 0.0
+key: 2
+key_confidence: 0.747
+loudness: -11.963
+mode: 1
+mode_confidence: 0.577
+release: The Greatest Hits from 40's and 50's_ Vol. 70
+release_7digitalid: 808027
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (704,)
+segments_loudness_max: shape = (704,)
+segments_loudness_max_time: shape = (704,)
+segments_loudness_start: shape = (704,)
+segments_pitches: shape = (704, 12)
+segments_start: shape = (704,)
+segments_timbre: shape = (704, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.288481642656
+song_id: SOXWHXX12AB018E307
+start_of_fade_out: 182.126
+tatums_confidence: shape = (1117,)
+tatums_start: shape = (1117,)
+tempo: 178.596
+time_signature: 3
+time_signature_confidence: 0.709
+title: Une java
+track_7digitalid: 8935250
+track_id: TRAZCLE12903CC9A01
+year: 0

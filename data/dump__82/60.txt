@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1739
+artist_familiarity: 0.456605059966
+artist_hotttnesss: 0.36074498441
+artist_id: ARDXWVZ1187B9B52F1
+artist_latitude: 40.71455
+artist_location: New York
+artist_longitude: -74.00712
+artist_mbid: fdd978e6-6ced-4985-81c7-84db3ac7ce0b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Michael Whalen
+artist_playmeid: 58832
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: c72135846df0b9a7137d7ef1ef7cbce1
+bars_confidence: shape = (49,)
+bars_start: shape = (49,)
+beats_confidence: shape = (200,)
+beats_start: shape = (200,)
+danceability: 0.0
+duration: 77.29587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.0
+loudness: -11.568
+mode: 1
+mode_confidence: 0.0
+release: The Shape Of Life
+release_7digitalid: 517402
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (220,)
+segments_loudness_max: shape = (220,)
+segments_loudness_max_time: shape = (220,)
+segments_loudness_start: shape = (220,)
+segments_pitches: shape = (220, 12)
+segments_start: shape = (220,)
+segments_timbre: shape = (220, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKIDCN12AB01828E0
+start_of_fade_out: 77.296
+tatums_confidence: shape = (400,)
+tatums_start: shape = (400,)
+tempo: 163.12
+time_signature: 4
+time_signature_confidence: 0.658
+title: Gail Wakes Up
+track_7digitalid: 5727499
+track_id: TRBCIBA128F934E298
+year: 0

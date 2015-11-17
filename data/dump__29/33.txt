@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 294223
+artist_familiarity: 0.570825322641
+artist_hotttnesss: 0.40358823765
+artist_id: ARZFRQM1187B9A9772
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 17be2a06-5295-43ca-a363-c683b562df72
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Vanessa Daou
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 2b71c79463b29c31cb273e6ad4387996
+bars_confidence: shape = (130,)
+bars_start: shape = (130,)
+beats_confidence: shape = (525,)
+beats_start: shape = (525,)
+danceability: 0.0
+duration: 222.04036
+end_of_fade_in: 0.364
+energy: 0.0
+key: 8
+key_confidence: 0.903
+loudness: -11.607
+mode: 1
+mode_confidence: 0.588
+release: Slow to Burn (Deluxe)
+release_7digitalid: 608786
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (706,)
+segments_loudness_max: shape = (706,)
+segments_loudness_max_time: shape = (706,)
+segments_loudness_start: shape = (706,)
+segments_pitches: shape = (706, 12)
+segments_start: shape = (706,)
+segments_timbre: shape = (706, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.445454525493
+song_id: SOUNPTA12AB0183132
+start_of_fade_out: 206.582
+tatums_confidence: shape = (1051,)
+tatums_start: shape = (1051,)
+tempo: 144.975
+time_signature: 4
+time_signature_confidence: 1.0
+title: Evening
+track_7digitalid: 6764215
+track_id: TRAJXGX12903D077EC
+year: 1996

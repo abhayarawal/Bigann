@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 51559
+artist_familiarity: 0.643016666262
+artist_hotttnesss: 0.461517204498
+artist_id: ARVJVFF1187B9B40D6
+artist_latitude: 40.7174
+artist_location: Jersey City, NJ
+artist_longitude: -74.04323
+artist_mbid: 09c0f334-f9de-4970-b9ee-ef799cd093be
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Al Di Meola
+artist_playmeid: 13669
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 6d2471e413df8cee4e8627d5a6c3cb68
+bars_confidence: shape = (136,)
+bars_start: shape = (136,)
+beats_confidence: shape = (136,)
+beats_start: shape = (136,)
+danceability: 0.0
+duration: 114.07628
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.739
+loudness: -13.347
+mode: 1
+mode_confidence: 0.72
+release: Greatest Hits
+release_7digitalid: 425558
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (257,)
+segments_loudness_max: shape = (257,)
+segments_loudness_max_time: shape = (257,)
+segments_loudness_start: shape = (257,)
+segments_pitches: shape = (257, 12)
+segments_start: shape = (257,)
+segments_timbre: shape = (257, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.489038209173
+song_id: SOKWNWI12A8C13383F
+start_of_fade_out: 104.96
+tatums_confidence: shape = (271,)
+tatums_start: shape = (271,)
+tempo: 75.11
+time_signature: 1
+time_signature_confidence: 0.0
+title: Bianca's Midnight Lullaby
+track_7digitalid: 4750276
+track_id: TRAVFJV128F92D2043
+year: 1980

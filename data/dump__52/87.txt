@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1619
+artist_familiarity: 0.70334828853
+artist_hotttnesss: 0.449052575154
+artist_id: AROCBZZ11E2835D652
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Small Faces
+artist_playmeid: 3153
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 091446a2bbd67308a749be87afa8de44
+bars_confidence: shape = (57,)
+bars_start: shape = (57,)
+beats_confidence: shape = (231,)
+beats_start: shape = (231,)
+danceability: 0.0
+duration: 121.73016
+end_of_fade_in: 0.218
+energy: 0.0
+key: 9
+key_confidence: 0.711
+loudness: -7.124
+mode: 1
+mode_confidence: 0.7
+release: From The Beginning
+release_7digitalid: 25051
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (294,)
+segments_loudness_max: shape = (294,)
+segments_loudness_max_time: shape = (294,)
+segments_loudness_start: shape = (294,)
+segments_pitches: shape = (294, 12)
+segments_start: shape = (294,)
+segments_timbre: shape = (294, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.589207725576
+song_id: SOMEAJX12A6D4F6230
+start_of_fade_out: 110.748
+tatums_confidence: shape = (462,)
+tatums_start: shape = (462,)
+tempo: 116.664
+time_signature: 4
+time_signature_confidence: 0.0
+title: My Mind's Eye
+track_7digitalid: 265373
+track_id: TRASARO128F145E40F
+year: 1966

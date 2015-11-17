@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 140407
+artist_familiarity: 0.675919556522
+artist_hotttnesss: 0.511054353898
+artist_id: ARSHZBZ1187B98A445
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 984f8239-8fe1-4683-9c54-10ffb14439e9
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Joe Bonamassa
+artist_playmeid: 19680
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: e64ef06de0fb91b7f8d1ae2c046f801c
+bars_confidence: shape = (132,)
+bars_start: shape = (132,)
+beats_confidence: shape = (411,)
+beats_start: shape = (411,)
+danceability: 0.0
+duration: 372.76689
+end_of_fade_in: 0.061
+energy: 0.0
+key: 5
+key_confidence: 0.432
+loudness: -8.265
+mode: 0
+mode_confidence: 0.521
+release: Live From Nowhere In Particular
+release_7digitalid: 602643
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1002,)
+segments_loudness_max: shape = (1002,)
+segments_loudness_max_time: shape = (1002,)
+segments_loudness_start: shape = (1002,)
+segments_pitches: shape = (1002, 12)
+segments_start: shape = (1002,)
+segments_timbre: shape = (1002, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWPPAT12AB017F666
+start_of_fade_out: 363.752
+tatums_confidence: shape = (822,)
+tatums_start: shape = (822,)
+tempo: 66.366
+time_signature: 3
+time_signature_confidence: 0.823
+title: So Many Roads
+track_7digitalid: 6693679
+track_id: TRBEOUP12903CF652E
+year: 2006

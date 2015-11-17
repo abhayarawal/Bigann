@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1374
+artist_familiarity: 0.675771369617
+artist_hotttnesss: 0.435468898816
+artist_id: AR93D4D1187FB3ACAD
+artist_latitude: 35.472
+artist_location: Oklahoma City, OK
+artist_longitude: -97.52033
+artist_mbid: 4b0be624-6b87-47e8-bbf0-588a2c6c0439
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: J.J. Cale
+artist_playmeid: 5826
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 0efb05596e3a8e3300930c2bb53d7cfe
+bars_confidence: shape = (360,)
+bars_start: shape = (360,)
+beats_confidence: shape = (360,)
+beats_start: shape = (360,)
+danceability: 0.0
+duration: 160.62649
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.783
+loudness: -15.6
+mode: 1
+mode_confidence: 0.604
+release: #8
+release_7digitalid: 22096
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (649,)
+segments_loudness_max: shape = (649,)
+segments_loudness_max_time: shape = (649,)
+segments_loudness_start: shape = (649,)
+segments_pitches: shape = (649, 12)
+segments_start: shape = (649,)
+segments_timbre: shape = (649, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SOEEBCV12A6D4F76A2
+start_of_fade_out: 146.187
+tatums_confidence: shape = (720,)
+tatums_start: shape = (720,)
+tempo: 136.273
+time_signature: 1
+time_signature_confidence: 0.0
+title: Losers
+track_7digitalid: 228498
+track_id: TRAPSHW128F14560A6
+year: 1983

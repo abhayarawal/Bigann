@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2859
+artist_familiarity: 0.519000072373
+artist_hotttnesss: 0.353035740145
+artist_id: ARE2QID1187B98FA19
+artist_latitude: 35.74595
+artist_location: Ripley, TN
+artist_longitude: -89.53176
+artist_mbid: 3bef5827-7f0e-4011-8f3c-50cf29bb187e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sleepy John Estes
+artist_playmeid: 21626
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: d00a06d5de65bb0dde8ed14dba729724
+bars_confidence: shape = (264,)
+bars_start: shape = (264,)
+beats_confidence: shape = (264,)
+beats_start: shape = (264,)
+danceability: 0.0
+duration: 190.27546
+end_of_fade_in: 0.357
+energy: 0.0
+key: 8
+key_confidence: 0.461
+loudness: -19.297
+mode: 1
+mode_confidence: 0.464
+release: Working Man Blues
+release_7digitalid: 150921
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (603,)
+segments_loudness_max: shape = (603,)
+segments_loudness_max_time: shape = (603,)
+segments_loudness_start: shape = (603,)
+segments_pitches: shape = (603, 12)
+segments_start: shape = (603,)
+segments_timbre: shape = (603, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOECRUG12A8C134478
+start_of_fade_out: 185.585
+tatums_confidence: shape = (528,)
+tatums_start: shape = (528,)
+tempo: 85.193
+time_signature: 1
+time_signature_confidence: 0.0
+title: Lawyer Clark Blues
+track_7digitalid: 1575744
+track_id: TRBAUFY128F4260113
+year: 1965

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 204880
+artist_familiarity: 0.482151299623
+artist_hotttnesss: 0.351863471881
+artist_id: ARIL9H31187B9893FF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b73e51c1-cf7e-450e-ab10-a8a24e5b8993
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ Deeon
+artist_playmeid: -1
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: ff6bd1a7ef378c04ad9b23310e359bfd
+bars_confidence: shape = (110,)
+bars_start: shape = (110,)
+beats_confidence: shape = (333,)
+beats_start: shape = (333,)
+danceability: 0.0
+duration: 211.09506
+end_of_fade_in: 1.414
+energy: 0.0
+key: 7
+key_confidence: 0.604
+loudness: -14.696
+mode: 1
+mode_confidence: 0.573
+release: The Digital Pimp Series Vol.1
+release_7digitalid: 265786
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (887,)
+segments_loudness_max: shape = (887,)
+segments_loudness_max_time: shape = (887,)
+segments_loudness_start: shape = (887,)
+segments_pitches: shape = (887, 12)
+segments_start: shape = (887,)
+segments_timbre: shape = (887, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOKDCSL12A8C13B736
+start_of_fade_out: 201.892
+tatums_confidence: shape = (998,)
+tatums_start: shape = (998,)
+tempo: 95.571
+time_signature: 3
+time_signature_confidence: 0.886
+title: Rubber Track
+track_7digitalid: 2868497
+track_id: TRAZQRN128F426F725
+year: 0

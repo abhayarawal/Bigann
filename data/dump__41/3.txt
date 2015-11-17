@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 378791
+artist_familiarity: 0.457533300221
+artist_hotttnesss: 0.415353710595
+artist_id: ARHLYXD11F50C4B49E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bruisers
+artist_playmeid: 176083
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 58ecdac9f1e31854eb951909b0a1039e
+bars_confidence: shape = (72,)
+bars_start: shape = (72,)
+beats_confidence: shape = (295,)
+beats_start: shape = (295,)
+danceability: 0.0
+duration: 151.53587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.58
+loudness: -6.854
+mode: 1
+mode_confidence: 0.333
+release: Better Days
+release_7digitalid: 511363
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (458,)
+segments_loudness_max: shape = (458,)
+segments_loudness_max_time: shape = (458,)
+segments_loudness_start: shape = (458,)
+segments_pitches: shape = (458, 12)
+segments_start: shape = (458,)
+segments_timbre: shape = (458, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOONMID12AB0180F92
+start_of_fade_out: 151.536
+tatums_confidence: shape = (591,)
+tatums_start: shape = (591,)
+tempo: 114.648
+time_signature: 4
+time_signature_confidence: 0.636
+title: Police Opression
+track_7digitalid: 5657561
+track_id: TRANYLR128F933D81F
+year: 0

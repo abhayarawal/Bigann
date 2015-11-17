@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3285
+artist_familiarity: 0.576053722689
+artist_hotttnesss: 0.385878057741
+artist_id: ARHOCKY11E2835D7CB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 06a63579-f1fc-4c4d-80fd-729ffafe06f5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Maire Brennan
+artist_playmeid: 40710
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: a61156c5ee4bf9b82970e3ad0bc7c88d
+bars_confidence: shape = (268,)
+bars_start: shape = (268,)
+beats_confidence: shape = (268,)
+beats_start: shape = (268,)
+danceability: 0.0
+duration: 248.34567
+end_of_fade_in: 2.757
+energy: 0.0
+key: 8
+key_confidence: 0.954
+loudness: -13.434
+mode: 1
+mode_confidence: 0.875
+release: Perfect Time
+release_7digitalid: 6953
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (653,)
+segments_loudness_max: shape = (653,)
+segments_loudness_max_time: shape = (653,)
+segments_loudness_start: shape = (653,)
+segments_pitches: shape = (653, 12)
+segments_start: shape = (653,)
+segments_timbre: shape = (653, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.494489517502
+song_id: SOILKMT12A6702015A
+start_of_fade_out: 236.64
+tatums_confidence: shape = (534,)
+tatums_start: shape = (534,)
+tempo: 65.264
+time_signature: 1
+time_signature_confidence: 0.0
+title: Song Of David (LP Version)
+track_7digitalid: 70550
+track_id: TRAGMKE128E078543E
+year: 0

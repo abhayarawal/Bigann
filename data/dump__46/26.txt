@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3919
+artist_familiarity: 0.774037142161
+artist_hotttnesss: 0.521726647791
+artist_id: ARL3VGT1187FB40E8E
+artist_latitude: -34.60852
+artist_location: Buenos Aires.
+artist_longitude: -58.37354
+artist_mbid: cfe85625-10af-46c1-99fb-765ed3a4f1ad
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Los Fabulosos Cadillacs
+artist_playmeid: 15034
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 5a41c8ce45fa8aea5b982f7e7376d396
+bars_confidence: shape = (209,)
+bars_start: shape = (209,)
+beats_confidence: shape = (841,)
+beats_start: shape = (841,)
+danceability: 0.0
+duration: 239.67302
+end_of_fade_in: 0.178
+energy: 0.0
+key: 7
+key_confidence: 0.697
+loudness: -4.879
+mode: 0
+mode_confidence: 0.745
+release: Vasos Vacíos
+release_7digitalid: 509835
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1028,)
+segments_loudness_max: shape = (1028,)
+segments_loudness_max_time: shape = (1028,)
+segments_loudness_start: shape = (1028,)
+segments_pitches: shape = (1028, 12)
+segments_start: shape = (1028,)
+segments_timbre: shape = (1028, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.270775998946
+song_id: SOUFXRV12AB01815C3
+start_of_fade_out: 234.144
+tatums_confidence: shape = (1681,)
+tatums_start: shape = (1681,)
+tempo: 214.941
+time_signature: 4
+time_signature_confidence: 0.631
+title: Manuel Santillán_ El León (Versión Reggae)
+track_7digitalid: 5647452
+track_id: TRAPTNN128F933B0AA
+year: 1993

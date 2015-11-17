@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6035
+artist_familiarity: 0.628290856614
+artist_hotttnesss: 0.364163810272
+artist_id: ARNR58F1187FB52FA9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d5759851-f210-455a-89ef-d569d4739a83
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: BigElf
+artist_playmeid: -1
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: ac796781cc52172d9095f5223499e148
+bars_confidence: shape = (309,)
+bars_start: shape = (309,)
+beats_confidence: shape = (309,)
+beats_start: shape = (309,)
+danceability: 0.0
+duration: 298.13506
+end_of_fade_in: 0.415
+energy: 0.0
+key: 0
+key_confidence: 0.68
+loudness: -4.683
+mode: 1
+mode_confidence: 0.445
+release: Hex
+release_7digitalid: 8768
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (659,)
+segments_loudness_max: shape = (659,)
+segments_loudness_max_time: shape = (659,)
+segments_loudness_start: shape = (659,)
+segments_pitches: shape = (659, 12)
+segments_start: shape = (659,)
+segments_timbre: shape = (659, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.642091037638
+song_id: SOQFWIS12A58A7BD61
+start_of_fade_out: 283.347
+tatums_confidence: shape = (927,)
+tatums_start: shape = (927,)
+tempo: 64.006
+time_signature: 1
+time_signature_confidence: 0.453
+title: Falling Bombs
+track_7digitalid: 89157
+track_id: TRACABS128E0786B0B
+year: 2003

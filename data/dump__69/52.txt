@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 389248
+artist_familiarity: 0.54818519571
+artist_hotttnesss: 0.361105937537
+artist_id: AR8TLVX1187B9B2D7D
+artist_latitude: nan
+artist_location: Sweden
+artist_longitude: nan
+artist_mbid: bb7ef759-5319-4521-b58f-42333804e8e3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mithotyn
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: b2c0d9c6df1a2c52fff9e354e637f2a8
+bars_confidence: shape = (168,)
+bars_start: shape = (168,)
+beats_confidence: shape = (168,)
+beats_start: shape = (168,)
+danceability: 0.0
+duration: 58.30485
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.74
+loudness: -5.225
+mode: 1
+mode_confidence: 0.871
+release: In The Sign of the Raven
+release_7digitalid: 619764
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (191,)
+segments_loudness_max: shape = (191,)
+segments_loudness_max_time: shape = (191,)
+segments_loudness_start: shape = (191,)
+segments_pitches: shape = (191, 12)
+segments_start: shape = (191,)
+segments_timbre: shape = (191, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.401486711428
+song_id: SORCBQY12AB0179F6A
+start_of_fade_out: 55.391
+tatums_confidence: shape = (336,)
+tatums_start: shape = (336,)
+tempo: 179.832
+time_signature: 1
+time_signature_confidence: 0.0
+title: Let Thy Ale Swing
+track_7digitalid: 6887723
+track_id: TRAXTAU128F930A7EF
+year: 1998

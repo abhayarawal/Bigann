@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41932
+artist_familiarity: 0.803619261844
+artist_hotttnesss: 0.531213286805
+artist_id: ARFSPOV1187B9B2363
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: 28cbf94d-0700-4095-a188-37e373b069a7
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Basement Jaxx
+artist_playmeid: 169
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 9428c5630aee6742b6ea60c5b8338b9b
+bars_confidence: shape = (159,)
+bars_start: shape = (159,)
+beats_confidence: shape = (486,)
+beats_start: shape = (486,)
+danceability: 0.0
+duration: 240.01261
+end_of_fade_in: 4.081
+energy: 0.0
+key: 11
+key_confidence: 0.676
+loudness: -8.325
+mode: 0
+mode_confidence: 0.539
+release: Jump N' Shout
+release_7digitalid: 190640
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1022,)
+segments_loudness_max: shape = (1022,)
+segments_loudness_max_time: shape = (1022,)
+segments_loudness_start: shape = (1022,)
+segments_pitches: shape = (1022, 12)
+segments_start: shape = (1022,)
+segments_timbre: shape = (1022, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.360370582712
+song_id: SOBQAPA12A8C13261C
+start_of_fade_out: 228.299
+tatums_confidence: shape = (972,)
+tatums_start: shape = (972,)
+tempo: 126.8
+time_signature: 3
+time_signature_confidence: 1.0
+title: La Photo
+track_7digitalid: 2072842
+track_id: TRASIKP128F423EED7
+year: 1999

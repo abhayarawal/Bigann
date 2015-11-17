@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 380291
+artist_familiarity: 0.444437249043
+artist_hotttnesss: 0.0
+artist_id: ARDZRMF122988F7633
+artist_latitude: nan
+artist_location: United States
+artist_longitude: nan
+artist_mbid: 7c1d2217-d212-4f72-8c88-7bc8f2de0e8b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Session Americana
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 7f2d1fbdf197eaf10f1b805ba6f8464e
+bars_confidence: shape = (494,)
+bars_start: shape = (494,)
+beats_confidence: shape = (494,)
+beats_start: shape = (494,)
+danceability: 0.0
+duration: 210.31138
+end_of_fade_in: 0.223
+energy: 0.0
+key: 7
+key_confidence: 0.729
+loudness: -8.761
+mode: 1
+mode_confidence: 0.683
+release: Beer Town: The Table Top Collective Vol. 3
+release_7digitalid: 515003
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (880,)
+segments_loudness_max: shape = (880,)
+segments_loudness_max_time: shape = (880,)
+segments_loudness_start: shape = (880,)
+segments_pitches: shape = (880, 12)
+segments_start: shape = (880,)
+segments_timbre: shape = (880, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3911025048
+song_id: SOXKKUV12AB01867F9
+start_of_fade_out: 204.249
+tatums_confidence: shape = (989,)
+tatums_start: shape = (989,)
+tempo: 141.872
+time_signature: 1
+time_signature_confidence: 0.0
+title: Ice Cream Man
+track_7digitalid: 5707383
+track_id: TRBDMZP128F93499E4
+year: 2007

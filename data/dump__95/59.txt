@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11135
+artist_familiarity: 0.716101705237
+artist_hotttnesss: 0.514523378441
+artist_id: AR6I54S1187FB48C6B
+artist_latitude: nan
+artist_location: Old Town, ME
+artist_longitude: nan
+artist_mbid: 6fddcfc3-20b6-48d0-87ba-8211eca3420c
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Patty Griffin
+artist_playmeid: 13246
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 79e241cfa7ca70ec3897062a3b204163
+bars_confidence: shape = (239,)
+bars_start: shape = (239,)
+beats_confidence: shape = (239,)
+beats_start: shape = (239,)
+danceability: 0.0
+duration: 256.39138
+end_of_fade_in: 0.146
+energy: 0.0
+key: 9
+key_confidence: 0.403
+loudness: -14.966
+mode: 1
+mode_confidence: 0.529
+release: Downtown Church
+release_7digitalid: 696967
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (480,)
+segments_loudness_max: shape = (480,)
+segments_loudness_max_time: shape = (480,)
+segments_loudness_start: shape = (480,)
+segments_pitches: shape = (480, 12)
+segments_start: shape = (480,)
+segments_timbre: shape = (480, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.490904200542
+song_id: SOVTZPG12AC468E907
+start_of_fade_out: 243.525
+tatums_confidence: shape = (476,)
+tatums_start: shape = (476,)
+tempo: 56.184
+time_signature: 1
+time_signature_confidence: 0.0
+title: All Creatures Of Our God And King
+track_7digitalid: 7737861
+track_id: TRBGYDZ12903D075D4
+year: 2010

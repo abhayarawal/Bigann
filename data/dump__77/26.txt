@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 158332
+artist_familiarity: 0.268210004648
+artist_hotttnesss: 0.262655890714
+artist_id: ARQSZLT124207825BA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Konstantinos Galanos
+artist_playmeid: 196823
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: de544e7f9853b3749d8753fd8922032a
+bars_confidence: shape = (51,)
+bars_start: shape = (51,)
+beats_confidence: shape = (276,)
+beats_start: shape = (276,)
+danceability: 0.0
+duration: 226.5073
+end_of_fade_in: 0.27
+energy: 0.0
+key: 4
+key_confidence: 0.92
+loudness: -5.267
+mode: 0
+mode_confidence: 0.774
+release: Proti Epafi
+release_7digitalid: 209117
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (753,)
+segments_loudness_max: shape = (753,)
+segments_loudness_max_time: shape = (753,)
+segments_loudness_start: shape = (753,)
+segments_pitches: shape = (753, 12)
+segments_start: shape = (753,)
+segments_timbre: shape = (753, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.199906301727
+song_id: SOFLEIR12A8C1392AF
+start_of_fade_out: 217.629
+tatums_confidence: shape = (829,)
+tatums_start: shape = (829,)
+tempo: 75.532
+time_signature: 5
+time_signature_confidence: 0.763
+title: An M'agapas
+track_7digitalid: 2265983
+track_id: TRBAJEM128F426B9DE
+year: 0

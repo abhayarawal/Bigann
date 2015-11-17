@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 127901
+artist_familiarity: 0.630550568413
+artist_hotttnesss: 0.545571961211
+artist_id: ARLUF1T1187FB3603B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 40627299-0979-45ba-8924-2af5fdc36ea8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ricardo Arjona
+artist_playmeid: 4015
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 6406908e678cf2fd26626542d8292290
+bars_confidence: shape = (236,)
+bars_start: shape = (236,)
+beats_confidence: shape = (949,)
+beats_start: shape = (949,)
+danceability: 0.0
+duration: 403.25179
+end_of_fade_in: 0.193
+energy: 0.0
+key: 6
+key_confidence: 0.43
+loudness: -11.533
+mode: 1
+mode_confidence: 0.579
+release: Historias
+release_7digitalid: 511939
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1366,)
+segments_loudness_max: shape = (1366,)
+segments_loudness_max_time: shape = (1366,)
+segments_loudness_start: shape = (1366,)
+segments_pitches: shape = (1366, 12)
+segments_start: shape = (1366,)
+segments_timbre: shape = (1366, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.640370664888
+song_id: SOJCRRD12A58A7D438
+start_of_fade_out: 379.64
+tatums_confidence: shape = (1897,)
+tatums_start: shape = (1897,)
+tempo: 143.676
+time_signature: 4
+time_signature_confidence: 0.473
+title: Ayudame Freud
+track_7digitalid: 5677456
+track_id: TRBHYTA128F93425AC
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5104
+artist_familiarity: 0.786921231369
+artist_hotttnesss: 0.495306693411
+artist_id: ARNMWP51187FB3E963
+artist_latitude: 41.88415
+artist_location: Chicago, IL
+artist_longitude: -87.63241
+artist_mbid: 4dca4bb2-23ba-4103-97e6-5810311db33a
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Curtis Mayfield
+artist_playmeid: 2041
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: ece1315ffde79b0a234825f1f548e7a3
+bars_confidence: shape = (327,)
+bars_start: shape = (327,)
+beats_confidence: shape = (327,)
+beats_start: shape = (327,)
+danceability: 0.0
+duration: 237.60934
+end_of_fade_in: 0.183
+energy: 0.0
+key: 6
+key_confidence: 0.438
+loudness: -14.364
+mode: 0
+mode_confidence: 0.901
+release: Future Shock
+release_7digitalid: 219093
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (899,)
+segments_loudness_max: shape = (899,)
+segments_loudness_max_time: shape = (899,)
+segments_loudness_start: shape = (899,)
+segments_pitches: shape = (899, 12)
+segments_start: shape = (899,)
+segments_timbre: shape = (899, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBTTPI12A8C1406EF
+start_of_fade_out: 228.722
+tatums_confidence: shape = (980,)
+tatums_start: shape = (980,)
+tempo: 83.902
+time_signature: 1
+time_signature_confidence: 0.0
+title: Soul Music (ReMastered)
+track_7digitalid: 2389969
+track_id: TRAQIUE128F4286303
+year: 2006

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 331733
+artist_familiarity: 0.351786571699
+artist_hotttnesss: 0.177811011232
+artist_id: ARZVBBM1241B9CB622
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Top Of The Poppers
+artist_playmeid: 167146
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: b6e65de41496dfbd2a4f851357f411a9
+bars_confidence: shape = (368,)
+bars_start: shape = (368,)
+beats_confidence: shape = (368,)
+beats_start: shape = (368,)
+danceability: 0.0
+duration: 184.29342
+end_of_fade_in: 0.401
+energy: 0.0
+key: 9
+key_confidence: 0.6
+loudness: -9.894
+mode: 0
+mode_confidence: 0.436
+release: Knowing Me Knowing You
+release_7digitalid: 564154
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (667,)
+segments_loudness_max: shape = (667,)
+segments_loudness_max_time: shape = (667,)
+segments_loudness_start: shape = (667,)
+segments_pitches: shape = (667, 12)
+segments_start: shape = (667,)
+segments_timbre: shape = (667, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCBAQW12A58A780A5
+start_of_fade_out: 181.435
+tatums_confidence: shape = (736,)
+tatums_start: shape = (736,)
+tempo: 121.238
+time_signature: 1
+time_signature_confidence: 0.0
+title: Money Money Money
+track_7digitalid: 6244352
+track_id: TRADEMD128F9356336
+year: 0

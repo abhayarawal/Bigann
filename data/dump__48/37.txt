@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1455
+artist_familiarity: 0.827357260054
+artist_hotttnesss: 0.752927890401
+artist_id: ARDCFNZ1187FB3DDB0
+artist_latitude: nan
+artist_location: Madrid, Spain
+artist_longitude: nan
+artist_mbid: 35f866dc-c061-48ba-8157-cf2e0eac4857
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Enrique Iglesias
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: ad501946a82d7b1272b1301c6745a39c
+bars_confidence: shape = (94,)
+bars_start: shape = (94,)
+beats_confidence: shape = (380,)
+beats_start: shape = (380,)
+danceability: 0.0
+duration: 229.0673
+end_of_fade_in: 0.409
+energy: 0.0
+key: 0
+key_confidence: 0.667
+loudness: -6.947
+mode: 1
+mode_confidence: 0.799
+release: Cosas Del Amor
+release_7digitalid: 25202
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (755,)
+segments_loudness_max: shape = (755,)
+segments_loudness_max_time: shape = (755,)
+segments_loudness_start: shape = (755,)
+segments_pitches: shape = (755, 12)
+segments_start: shape = (755,)
+segments_timbre: shape = (755, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.469873000954
+song_id: SOAPZIG12A6D4F7920
+start_of_fade_out: 219.208
+tatums_confidence: shape = (759,)
+tatums_start: shape = (759,)
+tempo: 101.43
+time_signature: 4
+time_signature_confidence: 0.415
+title: Dicen Por Ahi
+track_7digitalid: 267621
+track_id: TRAQLOD128F145EC9D
+year: 1998

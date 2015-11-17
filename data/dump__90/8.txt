@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15897
+artist_familiarity: 0.698291623658
+artist_hotttnesss: 0.453850265331
+artist_id: ARSQDUN1187B98D7D7
+artist_latitude: nan
+artist_location: allentown Pennsylvania USA
+artist_longitude: nan
+artist_mbid: 4fa39dc8-c695-4e0e-ba04-92c63d99c9f9
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: EPMD
+artist_playmeid: 90149
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: c39f87878261895d3d98fec6ee1a5c54
+bars_confidence: shape = (213,)
+bars_start: shape = (213,)
+beats_confidence: shape = (853,)
+beats_start: shape = (853,)
+danceability: 0.0
+duration: 291.16036
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.193
+loudness: -3.349
+mode: 1
+mode_confidence: 0.226
+release: Def Jam 25_ Vol 16 - Lifer's Picks: 298 to 160 to 825
+release_7digitalid: 564388
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1419,)
+segments_loudness_max: shape = (1419,)
+segments_loudness_max_time: shape = (1419,)
+segments_loudness_start: shape = (1419,)
+segments_pitches: shape = (1419, 12)
+segments_start: shape = (1419,)
+segments_timbre: shape = (1419, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWACWC12AB01876FA
+start_of_fade_out: 283.103
+tatums_confidence: shape = (1706,)
+tatums_start: shape = (1706,)
+tempo: 180.469
+time_signature: 4
+time_signature_confidence: 0.82
+title: Head Banger
+track_7digitalid: 6246716
+track_id: TRBFBOG128F9356C6E
+year: 1992

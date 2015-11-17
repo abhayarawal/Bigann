@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4708
+artist_familiarity: 0.567510985929
+artist_hotttnesss: 0.430897608715
+artist_id: ARGY9FW1187B991C7D
+artist_latitude: nan
+artist_location: Minneapolis, MN
+artist_longitude: nan
+artist_mbid: 051439e5-478e-4c03-8bea-774ad0c28c12
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Information Society
+artist_playmeid: 45899
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 5e93edada7ce74362c0fb96eb28819c9
+bars_confidence: shape = (200,)
+bars_start: shape = (200,)
+beats_confidence: shape = (819,)
+beats_start: shape = (819,)
+danceability: 0.0
+duration: 512.78322
+end_of_fade_in: 2.664
+energy: 0.0
+key: 11
+key_confidence: 0.651
+loudness: -8.575
+mode: 1
+mode_confidence: 0.586
+release: Don't Be Afraid
+release_7digitalid: 474494
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (1767,)
+segments_loudness_max: shape = (1767,)
+segments_loudness_max_time: shape = (1767,)
+segments_loudness_start: shape = (1767,)
+segments_pitches: shape = (1767, 12)
+segments_start: shape = (1767,)
+segments_timbre: shape = (1767, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOTRBNH12A8C1437CA
+start_of_fade_out: 505.655
+tatums_confidence: shape = (1638,)
+tatums_start: shape = (1638,)
+tempo: 95.002
+time_signature: 4
+time_signature_confidence: 0.839
+title: Empty
+track_7digitalid: 5270401
+track_id: TRAWAXV128F92E075C
+year: 1997

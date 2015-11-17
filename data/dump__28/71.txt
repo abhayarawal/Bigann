@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 244167
+artist_familiarity: 0.456136674435
+artist_hotttnesss: 0.285591271518
+artist_id: ARHTV1S1187FB547F8
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1c751614-47f2-40a0-939a-a296f68dc69e
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Marc Perrone
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: c0b4c3251c83d801e0771ad4f1eb85b5
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (362,)
+beats_start: shape = (362,)
+danceability: 0.0
+duration: 202.23955
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.65
+loudness: -9.637
+mode: 0
+mode_confidence: 0.786
+release: Les p'tites chansons de Marc Perrone
+release_7digitalid: 533342
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (805,)
+segments_loudness_max: shape = (805,)
+segments_loudness_max_time: shape = (805,)
+segments_loudness_start: shape = (805,)
+segments_pitches: shape = (805, 12)
+segments_start: shape = (805,)
+segments_timbre: shape = (805, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCKFQR12AB0182EB6
+start_of_fade_out: 198.252
+tatums_confidence: shape = (723,)
+tatums_start: shape = (723,)
+tempo: 107.728
+time_signature: 3
+time_signature_confidence: 0.557
+title: La marine
+track_7digitalid: 5894288
+track_id: TRAJQBX128F930166B
+year: 0

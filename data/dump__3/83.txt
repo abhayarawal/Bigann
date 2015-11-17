@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16919
+artist_familiarity: 0.681130241848
+artist_hotttnesss: 0.45339908329
+artist_id: AROATPL1187FB48E12
+artist_latitude: 34.16788
+artist_location: Arizona
+artist_longitude: -111.9307
+artist_mbid: f6b037df-35e8-4ef5-b59c-5634de1b44d4
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: UFO
+artist_playmeid: 32564
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 052bed67159832bdbc1dfb23661ead27
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (409,)
+beats_start: shape = (409,)
+danceability: 0.0
+duration: 212.61016
+end_of_fade_in: 3.692
+energy: 0.0
+key: 7
+key_confidence: 0.834
+loudness: -8.548
+mode: 1
+mode_confidence: 0.681
+release: The Official Bootleg Box Set
+release_7digitalid: 516641
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (532,)
+segments_loudness_max: shape = (532,)
+segments_loudness_max_time: shape = (532,)
+segments_loudness_start: shape = (532,)
+segments_pitches: shape = (532, 12)
+segments_start: shape = (532,)
+segments_timbre: shape = (532, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPHMAS12AB0186B88
+start_of_fade_out: 210.245
+tatums_confidence: shape = (818,)
+tatums_start: shape = (818,)
+tempo: 116.11
+time_signature: 4
+time_signature_confidence: 1.0
+title: Chains Chains (Live In Hammersmith)
+track_7digitalid: 5714557
+track_id: TRABGHG128F934B27E
+year: 0

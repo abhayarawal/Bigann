@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40247
+artist_familiarity: 0.632008012811
+artist_hotttnesss: 0.14468466091
+artist_id: AR0BV7E1187FB386C1
+artist_latitude: nan
+artist_location: Hollywood, CA
+artist_longitude: nan
+artist_mbid: 0c361ea5-98c6-4947-900b-201833f2dd84
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lee Ritenour
+artist_playmeid: 5194
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 7860dc90fbab089636168a7e691fada0
+bars_confidence: shape = (184,)
+bars_start: shape = (184,)
+beats_confidence: shape = (737,)
+beats_start: shape = (737,)
+danceability: 0.0
+duration: 274.72934
+end_of_fade_in: 0.322
+energy: 0.0
+key: 0
+key_confidence: 0.681
+loudness: -9.727
+mode: 0
+mode_confidence: 0.667
+release: OverTime
+release_7digitalid: 319809
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (883,)
+segments_loudness_max: shape = (883,)
+segments_loudness_max_time: shape = (883,)
+segments_loudness_start: shape = (883,)
+segments_pitches: shape = (883, 12)
+segments_start: shape = (883,)
+segments_timbre: shape = (883, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.598989557981
+song_id: SOHMZNL12A58A8001A
+start_of_fade_out: 263.216
+tatums_confidence: shape = (1473,)
+tatums_start: shape = (1473,)
+tempo: 164.594
+time_signature: 4
+time_signature_confidence: 0.892
+title: Is It You?
+track_7digitalid: 3605706
+track_id: TRAKDDB128F92D168A
+year: 1979

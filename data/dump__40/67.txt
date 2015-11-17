@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 71053
+artist_familiarity: 0.708368203707
+artist_hotttnesss: 0.459809422463
+artist_id: ARORFTD1187B99F7D4
+artist_latitude: nan
+artist_location: 台北, Taiwan
+artist_longitude: nan
+artist_mbid: aeba6cc0-8f63-454e-b15b-92195ad4ee6d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Epitaph
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: f0524bcf0556fbf372b2daa4af88e25f
+bars_confidence: shape = (157,)
+bars_start: shape = (157,)
+beats_confidence: shape = (473,)
+beats_start: shape = (473,)
+danceability: 0.0
+duration: 253.75302
+end_of_fade_in: 8.179
+energy: 0.0
+key: 9
+key_confidence: 0.095
+loudness: -6.288
+mode: 0
+mode_confidence: 0.267
+release: Dancing With Ghosts
+release_7digitalid: 538761
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (763,)
+segments_loudness_max: shape = (763,)
+segments_loudness_max_time: shape = (763,)
+segments_loudness_start: shape = (763,)
+segments_pitches: shape = (763, 12)
+segments_start: shape = (763,)
+segments_timbre: shape = (763, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.266955186276
+song_id: SOXQOHL12AB017D69E
+start_of_fade_out: 237.198
+tatums_confidence: shape = (946,)
+tatums_start: shape = (946,)
+tempo: 113.141
+time_signature: 3
+time_signature_confidence: 0.378
+title: Dancing With Ghosts
+track_7digitalid: 5965196
+track_id: TRANVDC128F9312982
+year: 0

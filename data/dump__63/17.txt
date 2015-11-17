@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4921
+artist_familiarity: 0.547947708554
+artist_hotttnesss: 0.325824019259
+artist_id: AREVQ7D1187FB4371B
+artist_latitude: nan
+artist_location: California - LA
+artist_longitude: nan
+artist_mbid: 289d26e4-8935-4f27-9ddc-fe0ee445d6b7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Randy Stonehill
+artist_playmeid: 17338
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 1e617482c07543ffce64ea023d4098ed
+bars_confidence: shape = (111,)
+bars_start: shape = (111,)
+beats_confidence: shape = (449,)
+beats_start: shape = (449,)
+danceability: 0.0
+duration: 227.16036
+end_of_fade_in: 0.29
+energy: 0.0
+key: 7
+key_confidence: 0.715
+loudness: -8.724
+mode: 1
+mode_confidence: 0.744
+release: Can't Buy A Miracle
+release_7digitalid: 129364
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (690,)
+segments_loudness_max: shape = (690,)
+segments_loudness_max_time: shape = (690,)
+segments_loudness_start: shape = (690,)
+segments_pitches: shape = (690, 12)
+segments_start: shape = (690,)
+segments_timbre: shape = (690, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SORRXCI12A8135828A
+start_of_fade_out: 216.271
+tatums_confidence: shape = (898,)
+tatums_start: shape = (898,)
+tempo: 122.161
+time_signature: 4
+time_signature_confidence: 0.965
+title: Can't Buy A Miracle - Album Version
+track_7digitalid: 1342584
+track_id: TRAVQGZ128F4231CEF
+year: 0

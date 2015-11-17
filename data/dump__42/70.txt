@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 121911
+artist_familiarity: 0.511743664914
+artist_hotttnesss: 0.414631368509
+artist_id: ARM4WGN1187FB3C746
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 75c78621-0f75-4765-bc69-5f02d8a8a850
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kyle Eastwood
+artist_playmeid: 19824
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 2680cf678185fb73c62309cd6d471534
+bars_confidence: shape = (205,)
+bars_start: shape = (205,)
+beats_confidence: shape = (830,)
+beats_start: shape = (830,)
+danceability: 0.0
+duration: 441.7824
+end_of_fade_in: 0.179
+energy: 0.0
+key: 10
+key_confidence: 0.549
+loudness: -12.712
+mode: 1
+mode_confidence: 0.452
+release: Metropolitain
+release_7digitalid: 495327
+sections_confidence: shape = (21,)
+sections_start: shape = (21,)
+segments_confidence: shape = (1650,)
+segments_loudness_max: shape = (1650,)
+segments_loudness_max_time: shape = (1650,)
+segments_loudness_start: shape = (1650,)
+segments_pitches: shape = (1650, 12)
+segments_start: shape = (1650,)
+segments_timbre: shape = (1650, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.445454525493
+song_id: SOKFEUG12AB017E353
+start_of_fade_out: 428.083
+tatums_confidence: shape = (1660,)
+tatums_start: shape = (1660,)
+tempo: 115.212
+time_signature: 4
+time_signature_confidence: 0.102
+title: Samba de Paris
+track_7digitalid: 5484094
+track_id: TRAOOCO128F9313739
+year: 2009

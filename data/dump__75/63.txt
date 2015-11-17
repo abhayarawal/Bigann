@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 14706
+artist_familiarity: 0.424294130109
+artist_hotttnesss: 0.32723960605
+artist_id: ARRWDU31187B9B5656
+artist_latitude: 38.62774
+artist_location: St. Louis, MO
+artist_longitude: -90.19951
+artist_mbid: 497acfd9-091f-4405-a603-0623d099cc1d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jimmy McCracklin
+artist_playmeid: -1
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 6e69757d36cd0192eeb0505267709471
+bars_confidence: shape = (37,)
+bars_start: shape = (37,)
+beats_confidence: shape = (285,)
+beats_start: shape = (285,)
+danceability: 0.0
+duration: 179.35628
+end_of_fade_in: 0.171
+energy: 0.0
+key: 4
+key_confidence: 0.377
+loudness: -26.246
+mode: 0
+mode_confidence: 0.412
+release: West Coast Down Home Blues
+release_7digitalid: 566282
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (615,)
+segments_loudness_max: shape = (615,)
+segments_loudness_max_time: shape = (615,)
+segments_loudness_start: shape = (615,)
+segments_pitches: shape = (615, 12)
+segments_start: shape = (615,)
+segments_timbre: shape = (615, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPPYJL12A8C1436F7
+start_of_fade_out: 173.325
+tatums_confidence: shape = (570,)
+tatums_start: shape = (570,)
+tempo: 96.2
+time_signature: 7
+time_signature_confidence: 0.675
+title: Street Loafin' Woman
+track_7digitalid: 6269245
+track_id: TRAZUVR128F9306DA9
+year: 0

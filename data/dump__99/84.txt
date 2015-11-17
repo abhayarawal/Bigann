@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 455229
+artist_familiarity: 0.341513854919
+artist_hotttnesss: 0.257062920296
+artist_id: ARFILWJ1187B9ADDBF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0059d0f1-8d04-4363-a2b2-d79f8b9a29b8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: María Elena Walsh
+artist_playmeid: 193267
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 7fac0f83695802d378df10874c95507c
+bars_confidence: shape = (110,)
+bars_start: shape = (110,)
+beats_confidence: shape = (333,)
+beats_start: shape = (333,)
+danceability: 0.0
+duration: 150.09914
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.526
+loudness: -12.517
+mode: 1
+mode_confidence: 0.571
+release: Todos Cantamos Con Maria Elena
+release_7digitalid: 509775
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (557,)
+segments_loudness_max: shape = (557,)
+segments_loudness_max_time: shape = (557,)
+segments_loudness_start: shape = (557,)
+segments_pitches: shape = (557, 12)
+segments_start: shape = (557,)
+segments_timbre: shape = (557, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQEKJO12AB0188E78
+start_of_fade_out: 138.896
+tatums_confidence: shape = (667,)
+tatums_start: shape = (667,)
+tempo: 131.552
+time_signature: 3
+time_signature_confidence: 1.0
+title: La Mona Jacinta
+track_7digitalid: 5646127
+track_id: TRBIIJX128F933AB7D
+year: 2000

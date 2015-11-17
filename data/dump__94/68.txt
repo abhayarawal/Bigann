@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 249846
+artist_familiarity: 0.278066091612
+artist_hotttnesss: 0.198800845159
+artist_id: ARJFDKM1269FB35F40
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Monique Morelli
+artist_playmeid: -1
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: ebcaa7e65d1117213eca6acf694fa747
+bars_confidence: shape = (114,)
+bars_start: shape = (114,)
+beats_confidence: shape = (575,)
+beats_start: shape = (575,)
+danceability: 0.0
+duration: 196.44036
+end_of_fade_in: 0.079
+energy: 0.0
+key: 1
+key_confidence: 0.331
+loudness: -12.957
+mode: 1
+mode_confidence: 0.495
+release: Chansons De France
+release_7digitalid: 321478
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (605,)
+segments_loudness_max: shape = (605,)
+segments_loudness_max_time: shape = (605,)
+segments_loudness_start: shape = (605,)
+segments_pitches: shape = (605, 12)
+segments_start: shape = (605,)
+segments_timbre: shape = (605, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHICSA12AAA8C6B63
+start_of_fade_out: 184.982
+tatums_confidence: shape = (575,)
+tatums_start: shape = (575,)
+tempo: 180.854
+time_signature: 5
+time_signature_confidence: 0.405
+title: Elsa
+track_7digitalid: 3622052
+track_id: TRBGQGL128F92D5186
+year: 0

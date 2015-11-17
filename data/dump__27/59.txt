@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 54554
+artist_familiarity: 0.718381342383
+artist_hotttnesss: 0.455825978803
+artist_id: ARBD4QW1187FB42153
+artist_latitude: 62.19845
+artist_location: Sweden
+artist_longitude: 17.55142
+artist_mbid: b9a20306-a4f5-4d3c-8680-e9cdc7e3af5b
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Scar Symmetry
+artist_playmeid: 56729
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 4513dda0d914e5d7774f6902e4ec0db9
+bars_confidence: shape = (109,)
+bars_start: shape = (109,)
+beats_confidence: shape = (441,)
+beats_start: shape = (441,)
+danceability: 0.0
+duration: 237.84444
+end_of_fade_in: 3.117
+energy: 0.0
+key: 1
+key_confidence: 0.651
+loudness: -3.492
+mode: 1
+mode_confidence: 0.272
+release: Holographic Universe
+release_7digitalid: 263504
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (686,)
+segments_loudness_max: shape = (686,)
+segments_loudness_max_time: shape = (686,)
+segments_loudness_start: shape = (686,)
+segments_pitches: shape = (686, 12)
+segments_start: shape = (686,)
+segments_timbre: shape = (686, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.710101510434
+song_id: SOZSSCO12AF72A554D
+start_of_fade_out: 233.674
+tatums_confidence: shape = (1322,)
+tatums_start: shape = (1322,)
+tempo: 110.107
+time_signature: 4
+time_signature_confidence: 0.853
+title: The Three-Dimensional Shadow
+track_7digitalid: 2768530
+track_id: TRAJFYK128F42579B0
+year: 2008

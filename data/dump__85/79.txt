@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1015
+artist_familiarity: 0.655921417588
+artist_hotttnesss: 0.578301633597
+artist_id: AR9W3X91187FB3994C
+artist_latitude: nan
+artist_location: Chiswick, London, England
+artist_longitude: nan
+artist_mbid: 401c3991-b76b-499d-8082-9f2df958ef78
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Phil Collins
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: d800425d14c900da086100f787128c4f
+bars_confidence: shape = (161,)
+bars_start: shape = (161,)
+beats_confidence: shape = (649,)
+beats_start: shape = (649,)
+danceability: 0.0
+duration: 285.98812
+end_of_fade_in: 0.328
+energy: 0.0
+key: 3
+key_confidence: 0.997
+loudness: -11.341
+mode: 1
+mode_confidence: 0.936
+release: Hits
+release_7digitalid: 40839
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (875,)
+segments_loudness_max: shape = (875,)
+segments_loudness_max_time: shape = (875,)
+segments_loudness_start: shape = (875,)
+segments_pitches: shape = (875, 12)
+segments_start: shape = (875,)
+segments_timbre: shape = (875, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.823479230393
+song_id: SOYHHHT12A6D4F7F97
+start_of_fade_out: 275.749
+tatums_confidence: shape = (1297,)
+tatums_start: shape = (1297,)
+tempo: 136.32
+time_signature: 4
+time_signature_confidence: 0.903
+title: One More Night
+track_7digitalid: 435087
+track_id: TRBDMIN128F147FCBB
+year: 1985

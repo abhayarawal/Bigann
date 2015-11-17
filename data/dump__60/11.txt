@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 166151
+artist_familiarity: 0.789836438822
+artist_hotttnesss: 0.564969252798
+artist_id: ARN5L1O1187FB4D955
+artist_latitude: nan
+artist_location: Tempe, AZ
+artist_longitude: nan
+artist_mbid: 5c56a575-f1f4-4290-9f41-d7193c9657c4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Eyes Set to Kill
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 3239df7eba6efb2509e88ca86c829b2e
+bars_confidence: shape = (60,)
+bars_start: shape = (60,)
+beats_confidence: shape = (245,)
+beats_start: shape = (245,)
+danceability: 0.0
+duration: 158.95465
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.294
+loudness: -4.392
+mode: 1
+mode_confidence: 0.434
+release: Broken Frames
+release_7digitalid: 810542
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (566,)
+segments_loudness_max: shape = (566,)
+segments_loudness_max_time: shape = (566,)
+segments_loudness_start: shape = (566,)
+segments_pitches: shape = (566, 12)
+segments_start: shape = (566,)
+segments_timbre: shape = (566, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.650315076157
+song_id: SOTSHSR12AB01899B6
+start_of_fade_out: 150.767
+tatums_confidence: shape = (983,)
+tatums_start: shape = (983,)
+tempo: 97.497
+time_signature: 4
+time_signature_confidence: 0.433
+title: Play The Part
+track_7digitalid: 8962758
+track_id: TRAUNND12903CD03BC
+year: 2010

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 49948
+artist_familiarity: 0.56602430216
+artist_hotttnesss: 0.384601685548
+artist_id: AR0AVIB1187FB37D01
+artist_latitude: nan
+artist_location: Englewood, NJ
+artist_longitude: nan
+artist_mbid: e1235abf-1fab-40a5-833a-057968d90e48
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Regina Belle
+artist_playmeid: 11682
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 0846c474c499112e42e78bc6f04d215d
+bars_confidence: shape = (126,)
+bars_start: shape = (126,)
+beats_confidence: shape = (508,)
+beats_start: shape = (508,)
+danceability: 0.0
+duration: 225.33179
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.203
+loudness: -7.991
+mode: 1
+mode_confidence: 0.401
+release: Reachin' Back
+release_7digitalid: 282384
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (771,)
+segments_loudness_max: shape = (771,)
+segments_loudness_max_time: shape = (771,)
+segments_loudness_start: shape = (771,)
+segments_pitches: shape = (771, 12)
+segments_start: shape = (771,)
+segments_timbre: shape = (771, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.431432872798
+song_id: SOMGNHX12A8C131BB0
+start_of_fade_out: 210.083
+tatums_confidence: shape = (1016,)
+tatums_start: shape = (1016,)
+tempo: 135.985
+time_signature: 4
+time_signature_confidence: 0.517
+title: You Are Everything
+track_7digitalid: 3143135
+track_id: TRBFLOH128F42630E3
+year: 1995

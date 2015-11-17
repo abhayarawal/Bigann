@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5732
+artist_familiarity: 0.934935267398
+artist_hotttnesss: 0.787005468689
+artist_id: ARKSZW81187B9B695D
+artist_latitude: 40.71455
+artist_location: New York, New York
+artist_longitude: -74.00712
+artist_mbid: 494e8d09-f85b-4543-892f-a5096aed1cd4
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Mariah Carey
+artist_playmeid: 1010
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 66428a38963a5b46b104088b6fc6823c
+bars_confidence: shape = (119,)
+bars_start: shape = (119,)
+beats_confidence: shape = (479,)
+beats_start: shape = (479,)
+danceability: 0.0
+duration: 301.19138
+end_of_fade_in: 2.606
+energy: 0.0
+key: 5
+key_confidence: 0.573
+loudness: -7.488
+mode: 0
+mode_confidence: 0.6
+release: Greatest Hits
+release_7digitalid: 289807
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1251,)
+segments_loudness_max: shape = (1251,)
+segments_loudness_max_time: shape = (1251,)
+segments_loudness_start: shape = (1251,)
+segments_pitches: shape = (1251, 12)
+segments_start: shape = (1251,)
+segments_timbre: shape = (1251, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.679077296234
+song_id: SOYTUNS12A8C134C16
+start_of_fade_out: 288.729
+tatums_confidence: shape = (958,)
+tatums_start: shape = (958,)
+tempo: 95.929
+time_signature: 4
+time_signature_confidence: 1.0
+title: Honey
+track_7digitalid: 3253311
+track_id: TRBBXSE128F42798F6
+year: 1997

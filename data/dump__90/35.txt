@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4579
+artist_familiarity: 0.767768809032
+artist_hotttnesss: 0.536219992815
+artist_id: ARIH5GU1187FB4C958
+artist_latitude: nan
+artist_location: Newcastle
+artist_longitude: nan
+artist_mbid: b0799818-22cb-4564-8e68-3c410d0722ee
+artist_mbtags: shape = (12,)
+artist_mbtags_count: shape = (12,)
+artist_name: Silverchair
+artist_playmeid: 1441
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 8cf3ef99607e175bd598976a9a160a23
+bars_confidence: shape = (170,)
+bars_start: shape = (170,)
+beats_confidence: shape = (514,)
+beats_start: shape = (514,)
+danceability: 0.0
+duration: 209.00526
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.058
+loudness: -5.945
+mode: 1
+mode_confidence: 0.132
+release: Freak Show
+release_7digitalid: 284195
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (530,)
+segments_loudness_max: shape = (530,)
+segments_loudness_max_time: shape = (530,)
+segments_loudness_start: shape = (530,)
+segments_pitches: shape = (530, 12)
+segments_start: shape = (530,)
+segments_timbre: shape = (530, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.604326621155
+song_id: SOQQWFU12A8C132F42
+start_of_fade_out: 203.064
+tatums_confidence: shape = (1029,)
+tatums_start: shape = (1029,)
+tempo: 153.785
+time_signature: 3
+time_signature_confidence: 0.531
+title: Roses
+track_7digitalid: 3188927
+track_id: TRBFEIX128F426A5F8
+year: 1997

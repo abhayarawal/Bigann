@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 321561
+artist_familiarity: 0.635483455074
+artist_hotttnesss: 0.428441940289
+artist_id: AR2EBRG1187B9B07C8
+artist_latitude: 64.55653
+artist_location: Norway
+artist_longitude: 12.66538
+artist_mbid: 02fc3032-e491-46b8-8742-9859e4906dcc
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Old Man's Child
+artist_playmeid: 160747
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 87a5da066d24442e034d8c4d2e7d40a7
+bars_confidence: shape = (207,)
+bars_start: shape = (207,)
+beats_confidence: shape = (834,)
+beats_start: shape = (834,)
+danceability: 0.0
+duration: 288.44363
+end_of_fade_in: 0.217
+energy: 0.0
+key: 1
+key_confidence: 0.5
+loudness: -5.52
+mode: 1
+mode_confidence: 0.436
+release: In Defiance Of Existence
+release_7digitalid: 734596
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (854,)
+segments_loudness_max: shape = (854,)
+segments_loudness_max_time: shape = (854,)
+segments_loudness_start: shape = (854,)
+segments_pitches: shape = (854, 12)
+segments_start: shape = (854,)
+segments_timbre: shape = (854, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.556739869246
+song_id: SOKBGFX12AB0188810
+start_of_fade_out: 285.896
+tatums_confidence: shape = (1668,)
+tatums_start: shape = (1668,)
+tempo: 164.595
+time_signature: 4
+time_signature_confidence: 0.293
+title: Life Deprived
+track_7digitalid: 8137144
+track_id: TRAYZXS12903CF1C4F
+year: 2003

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 370381
+artist_familiarity: 0.334628877995
+artist_hotttnesss: 0.173067999433
+artist_id: AR87OXB1187FB39E0B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5fdf95e6-f0ea-4056-8898-8f895de28fb2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Willis Brothers
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 3f6f44d6ba4bbbca5925967c607b2282
+bars_confidence: shape = (98,)
+bars_start: shape = (98,)
+beats_confidence: shape = (299,)
+beats_start: shape = (299,)
+danceability: 0.0
+duration: 150.64771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.804
+loudness: -9.258
+mode: 1
+mode_confidence: 0.728
+release: Strictly Trucking
+release_7digitalid: 816840
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (666,)
+segments_loudness_max: shape = (666,)
+segments_loudness_max_time: shape = (666,)
+segments_loudness_start: shape = (666,)
+segments_pitches: shape = (666, 12)
+segments_start: shape = (666,)
+segments_timbre: shape = (666, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKZTUH12AB018B938
+start_of_fade_out: 144.62
+tatums_confidence: shape = (599,)
+tatums_start: shape = (599,)
+tempo: 121.983
+time_signature: 3
+time_signature_confidence: 0.852
+title: Give Me 40 Acres (To Turn This Rig Around)
+track_7digitalid: 9024575
+track_id: TRAAQUF12903CDF4A4
+year: 0

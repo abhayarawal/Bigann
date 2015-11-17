@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 86718
+artist_familiarity: 0.633402342202
+artist_hotttnesss: 0.414834940743
+artist_id: ARRHVGT1187B98D603
+artist_latitude: 51.16418
+artist_location: Germany
+artist_longitude: 10.45415
+artist_mbid: a4da9933-1e43-483b-98d9-8b1a32a698ad
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Dynamite Deluxe
+artist_playmeid: 66387
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 9957915f94c9c497dd123dc03fce119d
+bars_confidence: shape = (96,)
+bars_start: shape = (96,)
+beats_confidence: shape = (387,)
+beats_start: shape = (387,)
+danceability: 0.0
+duration: 152.92036
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.823
+loudness: -7.132
+mode: 1
+mode_confidence: 0.587
+release: Hamburg City Heftig Vol.1
+release_7digitalid: 218964
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (690,)
+segments_loudness_max: shape = (690,)
+segments_loudness_max_time: shape = (690,)
+segments_loudness_start: shape = (690,)
+segments_pitches: shape = (690, 12)
+segments_start: shape = (690,)
+segments_timbre: shape = (690, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.340922755864
+song_id: SOOLDQM12A8C1405AB
+start_of_fade_out: 149.728
+tatums_confidence: shape = (774,)
+tatums_start: shape = (774,)
+tempo: 152.343
+time_signature: 4
+time_signature_confidence: 0.782
+title: Eimsbush bis 0711
+track_7digitalid: 2388372
+track_id: TRBDVVN128F4285CC6
+year: 2000

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 168176
+artist_familiarity: 0.504223776881
+artist_hotttnesss: 0.377432971579
+artist_id: ARDL6T21187FB36FDD
+artist_latitude: 30.53301
+artist_location: Opelousas, LA
+artist_longitude: -92.08238
+artist_mbid: f5133038-c9d7-4fa2-8ec4-a44199571e25
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Clifton Chenier
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: c121c335ed6117ff8badf835a0ede544
+bars_confidence: shape = (158,)
+bars_start: shape = (158,)
+beats_confidence: shape = (635,)
+beats_start: shape = (635,)
+danceability: 0.0
+duration: 191.13751
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.569
+loudness: -8.065
+mode: 0
+mode_confidence: 0.606
+release: Louisiana Blues And Zydeco
+release_7digitalid: 239681
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1041,)
+segments_loudness_max: shape = (1041,)
+segments_loudness_max_time: shape = (1041,)
+segments_loudness_start: shape = (1041,)
+segments_pitches: shape = (1041, 12)
+segments_start: shape = (1041,)
+segments_timbre: shape = (1041, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.249065794854
+song_id: SOBCRBS12A6D4FBC7A
+start_of_fade_out: 183.827
+tatums_confidence: shape = (1270,)
+tatums_start: shape = (1270,)
+tempo: 203.773
+time_signature: 4
+time_signature_confidence: 0.0
+title: Clifton's Two Step
+track_7digitalid: 3006854
+track_id: TRAWTXC128F42446B7
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 327026
+artist_familiarity: 0.0771768673465
+artist_hotttnesss: 0.357784312397
+artist_id: ARYFHBH1257509D340
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Hassan Annouri
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: bc07ba45a7392f310565d451583d48fe
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (415,)
+beats_start: shape = (415,)
+danceability: 0.0
+duration: 259.26485
+end_of_fade_in: 0.235
+energy: 0.0
+key: 1
+key_confidence: 0.605
+loudness: -7.409
+mode: 0
+mode_confidence: 0.537
+release: International
+release_7digitalid: 759051
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1164,)
+segments_loudness_max: shape = (1164,)
+segments_loudness_max_time: shape = (1164,)
+segments_loudness_start: shape = (1164,)
+segments_pitches: shape = (1164, 12)
+segments_start: shape = (1164,)
+segments_timbre: shape = (1164, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLKGAA12AB0184EF8
+start_of_fade_out: 250.694
+tatums_confidence: shape = (829,)
+tatums_start: shape = (829,)
+tempo: 96.043
+time_signature: 4
+time_signature_confidence: 0.415
+title: Gutes Mädchen
+track_7digitalid: 8402848
+track_id: TRBICDG12903CBBAC6
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 250221
+artist_familiarity: 0.653955380877
+artist_hotttnesss: 0.395280457271
+artist_id: ARGTZL71187FB597C2
+artist_latitude: nan
+artist_location: Detroit MI
+artist_longitude: nan
+artist_mbid: 9068a4af-a495-4d82-b6f3-b195f358e16d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: One Be Lo
+artist_playmeid: -1
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 519f3aa6bc06dd8c0f6a20bf860d00d5
+bars_confidence: shape = (20,)
+bars_start: shape = (20,)
+beats_confidence: shape = (160,)
+beats_start: shape = (160,)
+danceability: 0.0
+duration: 164.85832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.574
+loudness: -5.239
+mode: 1
+mode_confidence: 0.58
+release: Everything
+release_7digitalid: 321855
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (690,)
+segments_loudness_max: shape = (690,)
+segments_loudness_max_time: shape = (690,)
+segments_loudness_start: shape = (690,)
+segments_pitches: shape = (690, 12)
+segments_start: shape = (690,)
+segments_timbre: shape = (690, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUTKII12AAF3B1D4F
+start_of_fade_out: 157.304
+tatums_confidence: shape = (639,)
+tatums_start: shape = (639,)
+tempo: 58.407
+time_signature: 4
+time_signature_confidence: 0.628
+title: learn (Album Version)
+track_7digitalid: 3625593
+track_id: TRBFCWN128F92D5E03
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17628
+artist_familiarity: 0.603550951818
+artist_hotttnesss: 0.303618163119
+artist_id: ARB5S4L1187FB4AD20
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 92d025f8-1a34-4b7a-b741-df6840f9232e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Carlos Ponce
+artist_playmeid: 21884
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: de088bfdd155950aaa0b4a98a2749eb1
+bars_confidence: shape = (73,)
+bars_start: shape = (73,)
+beats_confidence: shape = (373,)
+beats_start: shape = (373,)
+danceability: 0.0
+duration: 269.97506
+end_of_fade_in: 0.253
+energy: 0.0
+key: 1
+key_confidence: 0.378
+loudness: -8.704
+mode: 0
+mode_confidence: 0.41
+release: Carlos Ponce
+release_7digitalid: 154404
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (831,)
+segments_loudness_max: shape = (831,)
+segments_loudness_max_time: shape = (831,)
+segments_loudness_start: shape = (831,)
+segments_pitches: shape = (831, 12)
+segments_start: shape = (831,)
+segments_timbre: shape = (831, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.371458476998
+song_id: SOAJEOO12A8C13A2FF
+start_of_fade_out: 258.955
+tatums_confidence: shape = (1121,)
+tatums_start: shape = (1121,)
+tempo: 84.631
+time_signature: 5
+time_signature_confidence: 0.899
+title: Decir Adios
+track_7digitalid: 1612669
+track_id: TRAHJPC128F4268DC7
+year: 1999

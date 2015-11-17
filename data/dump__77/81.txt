@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 63936
+artist_familiarity: 0.426432589523
+artist_hotttnesss: 0.335770041745
+artist_id: ARUI8FT1187FB5AB13
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0ae99955-f9a0-4487-bf8b-0ed271130e4c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mychael Danna & Jeff Danna
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 3882b618fdd309687b71cc7090f1157b
+bars_confidence: shape = (158,)
+bars_start: shape = (158,)
+beats_confidence: shape = (485,)
+beats_start: shape = (485,)
+danceability: 0.0
+duration: 244.55791
+end_of_fade_in: 0.473
+energy: 0.0
+key: 4
+key_confidence: 0.417
+loudness: -15.226
+mode: 0
+mode_confidence: 0.546
+release: A Celtic Tale: The Legend Of Deirdre - Narrated By Fiona Ritchie
+release_7digitalid: 534508
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (811,)
+segments_loudness_max: shape = (811,)
+segments_loudness_max_time: shape = (811,)
+segments_loudness_start: shape = (811,)
+segments_pitches: shape = (811, 12)
+segments_start: shape = (811,)
+segments_timbre: shape = (811, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.542486599979
+song_id: SOENRNI12AB0181427
+start_of_fade_out: 232.844
+tatums_confidence: shape = (971,)
+tatums_start: shape = (971,)
+tempo: 121.186
+time_signature: 3
+time_signature_confidence: 1.0
+title: The Child Deirdre
+track_7digitalid: 5910451
+track_id: TRBAOBK128F930558C
+year: 0

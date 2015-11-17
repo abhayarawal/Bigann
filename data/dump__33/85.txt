@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 368
+artist_familiarity: 0.743129776148
+artist_hotttnesss: 0.493566842697
+artist_id: ARXWAQQ1187B9AE954
+artist_latitude: nan
+artist_location: Newark, NJ
+artist_longitude: nan
+artist_mbid: 1f1f6737-b930-46fc-8d25-110bb99f7490
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Redman
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 56aec2d3b261dfdda5f761bdde89daaa
+bars_confidence: shape = (70,)
+bars_start: shape = (70,)
+beats_confidence: shape = (298,)
+beats_start: shape = (298,)
+danceability: 0.0
+duration: 185.83465
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.125
+loudness: -7.184
+mode: 1
+mode_confidence: 0.52
+release: Whut? The Album
+release_7digitalid: 8566
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (834,)
+segments_loudness_max: shape = (834,)
+segments_loudness_max_time: shape = (834,)
+segments_loudness_start: shape = (834,)
+segments_pitches: shape = (834, 12)
+segments_start: shape = (834,)
+segments_timbre: shape = (834, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.671040567909
+song_id: SOPOJVI12A58A7E706
+start_of_fade_out: 185.835
+tatums_confidence: shape = (596,)
+tatums_start: shape = (596,)
+tempo: 94.146
+time_signature: 4
+time_signature_confidence: 0.298
+title: Jam 4 U
+track_7digitalid: 86499
+track_id: TRALMTD128E07862AC
+year: 1992

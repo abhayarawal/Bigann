@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 96053
+artist_familiarity: 0.448013836362
+artist_hotttnesss: 0.348295196786
+artist_id: ARIMW0M1187B99EC59
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 245a7f6a-1100-4a2d-a67f-df8d9e7b7b9d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: TEN MADISON
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 95ed01c363c71e78790799432ea397ca
+bars_confidence: shape = (124,)
+bars_start: shape = (124,)
+beats_confidence: shape = (625,)
+beats_start: shape = (625,)
+danceability: 0.0
+duration: 283.76771
+end_of_fade_in: 7.488
+energy: 0.0
+key: 4
+key_confidence: 0.178
+loudness: -7.827
+mode: 0
+mode_confidence: 0.366
+release: Grounded
+release_7digitalid: 121334
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1298,)
+segments_loudness_max: shape = (1298,)
+segments_loudness_max_time: shape = (1298,)
+segments_loudness_start: shape = (1298,)
+segments_pitches: shape = (1298, 12)
+segments_start: shape = (1298,)
+segments_timbre: shape = (1298, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.407233014901
+song_id: SOCXPZW12A8C141821
+start_of_fade_out: 278.245
+tatums_confidence: shape = (1875,)
+tatums_start: shape = (1875,)
+tempo: 133.326
+time_signature: 5
+time_signature_confidence: 0.974
+title: Leaving Melbourne
+track_7digitalid: 1251113
+track_id: TRAONEQ128F42A8AB7
+year: 2006

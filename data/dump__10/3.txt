@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41481
+artist_familiarity: 0.638472267963
+artist_hotttnesss: 0.373011673405
+artist_id: ARLZ6BF1187FB3DD6A
+artist_latitude: nan
+artist_location: Casablanca, Morocco
+artist_longitude: nan
+artist_mbid: 69737ebe-836c-40dc-a938-7e85688426ff
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Alain Souchon
+artist_playmeid: 61194
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 59fa7a8ff94faf60375c95d379507ae3
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (322,)
+beats_start: shape = (322,)
+danceability: 0.0
+duration: 217.02485
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.411
+loudness: -13.578
+mode: 0
+mode_confidence: 0.538
+release: C'est Déjà Ça / Nickel
+release_7digitalid: 45282
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (810,)
+segments_loudness_max: shape = (810,)
+segments_loudness_max_time: shape = (810,)
+segments_loudness_start: shape = (810,)
+segments_pitches: shape = (810, 12)
+segments_start: shape = (810,)
+segments_timbre: shape = (810, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SOFFRFP12A6D4FA748
+start_of_fade_out: 217.025
+tatums_confidence: shape = (965,)
+tatums_start: shape = (965,)
+tempo: 89.168
+time_signature: 4
+time_signature_confidence: 0.216
+title: J'veux Du Cuir (Live)
+track_7digitalid: 483119
+track_id: TRADHUZ128F148885D
+year: 0

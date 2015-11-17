@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41953
+artist_familiarity: 0.431488520184
+artist_hotttnesss: 0.324368871388
+artist_id: AR4BJFD1187FB43082
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2b7a5be3-3fcc-445b-9dae-75e9e4261a65
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Django Asül
+artist_playmeid: 27248
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 1f93b183dccf469114e32ad6786c36dc
+bars_confidence: shape = (121,)
+bars_start: shape = (121,)
+beats_confidence: shape = (538,)
+beats_start: shape = (538,)
+danceability: 0.0
+duration: 365.73995
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.506
+loudness: -11.876
+mode: 1
+mode_confidence: 0.46
+release: Hardliner
+release_7digitalid: 303611
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1612,)
+segments_loudness_max: shape = (1612,)
+segments_loudness_max_time: shape = (1612,)
+segments_loudness_start: shape = (1612,)
+segments_pitches: shape = (1612, 12)
+segments_start: shape = (1612,)
+segments_timbre: shape = (1612, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZYQQT12A8C13B4EA
+start_of_fade_out: 365.74
+tatums_confidence: shape = (1615,)
+tatums_start: shape = (1615,)
+tempo: 87.279
+time_signature: 4
+time_signature_confidence: 0.808
+title: Agenda Zwei Null Eins Null
+track_7digitalid: 3434570
+track_id: TRAZCNK128F42A515E
+year: 2004

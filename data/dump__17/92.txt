@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 323299
+artist_familiarity: 0.445661291144
+artist_hotttnesss: 0.248024686921
+artist_id: AR6DGPH1187B998587
+artist_latitude: 35.83073
+artist_location: Tennessee
+artist_longitude: -85.97874
+artist_mbid: e7543947-9735-4fd1-87f8-9c1740fa2cef
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: David Evans
+artist_playmeid: 65227
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: bd9e6f42507be71793078285f9714f45
+bars_confidence: shape = (86,)
+bars_start: shape = (86,)
+beats_confidence: shape = (348,)
+beats_start: shape = (348,)
+danceability: 0.0
+duration: 250.56608
+end_of_fade_in: 0.345
+energy: 0.0
+key: 7
+key_confidence: 0.221
+loudness: -9.422
+mode: 1
+mode_confidence: 0.386
+release: Match Box Blues
+release_7digitalid: 434249
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (713,)
+segments_loudness_max: shape = (713,)
+segments_loudness_max_time: shape = (713,)
+segments_loudness_start: shape = (713,)
+segments_pitches: shape = (713, 12)
+segments_start: shape = (713,)
+segments_timbre: shape = (713, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAGRCT12AAF3B5E13
+start_of_fade_out: 241.662
+tatums_confidence: shape = (696,)
+tatums_start: shape = (696,)
+tempo: 86.201
+time_signature: 4
+time_signature_confidence: 0.0
+title: Prison Bound Blues
+track_7digitalid: 4838015
+track_id: TRAGCUZ128F92E6E26
+year: 0

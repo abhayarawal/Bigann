@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 190803
+artist_familiarity: 0.620501924916
+artist_hotttnesss: 0.301847094811
+artist_id: AR8U8G41187B9A833B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 110500b0-78a7-41cb-8535-9f37ab35a902
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Tim Exile
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 4ad773b7314a21e4a5a97ac52f54e5db
+bars_confidence: shape = (49,)
+bars_start: shape = (49,)
+beats_confidence: shape = (150,)
+beats_start: shape = (150,)
+danceability: 0.0
+duration: 78.21016
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.142
+loudness: -3.716
+mode: 0
+mode_confidence: 0.454
+release: Tim Exile's Nuisance Gabbaret Lounge
+release_7digitalid: 246546
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (352,)
+segments_loudness_max: shape = (352,)
+segments_loudness_max_time: shape = (352,)
+segments_loudness_start: shape = (352,)
+segments_pitches: shape = (352, 12)
+segments_start: shape = (352,)
+segments_timbre: shape = (352, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.469712431319
+song_id: SOELVGK12A8C1337AF
+start_of_fade_out: 78.21
+tatums_confidence: shape = (301,)
+tatums_start: shape = (301,)
+tempo: 124.429
+time_signature: 3
+time_signature_confidence: 1.0
+title: Oh Scat Mix Up
+track_7digitalid: 2676904
+track_id: TRARMRC128F424317A
+year: 2006

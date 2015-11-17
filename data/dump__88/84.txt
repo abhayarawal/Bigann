@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 93269
+artist_familiarity: 0.378013152139
+artist_hotttnesss: 0.339408486355
+artist_id: AREYIHC1187B99CE0B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1b37371e-9e55-4a35-b3d8-bfb10cc1f364
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Brazilian Tropical Orchestra
+artist_playmeid: 60290
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 09060e3e7491280178c8693e9207a191
+bars_confidence: shape = (68,)
+bars_start: shape = (68,)
+beats_confidence: shape = (277,)
+beats_start: shape = (277,)
+danceability: 0.0
+duration: 174.70649
+end_of_fade_in: 0.305
+energy: 0.0
+key: 0
+key_confidence: 0.377
+loudness: -15.479
+mode: 1
+mode_confidence: 0.399
+release: Plays Boleros
+release_7digitalid: 118253
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (491,)
+segments_loudness_max: shape = (491,)
+segments_loudness_max_time: shape = (491,)
+segments_loudness_start: shape = (491,)
+segments_pitches: shape = (491, 12)
+segments_start: shape = (491,)
+segments_timbre: shape = (491, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOREVMS12A58A7B236
+start_of_fade_out: 166.452
+tatums_confidence: shape = (555,)
+tatums_start: shape = (555,)
+tempo: 99.397
+time_signature: 4
+time_signature_confidence: 0.613
+title: If You Leave Me Now
+track_7digitalid: 1218038
+track_id: TRBEORW128F42A3A56
+year: 0

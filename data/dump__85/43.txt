@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19920
+artist_familiarity: 0.540881349196
+artist_hotttnesss: 0.38663083651
+artist_id: ARJRQL51187FB541AB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 84f01d1b-ff47-4b26-bedb-2701ec5b2c9f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Juan Carlos Baglietto
+artist_playmeid: 67826
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 01a1533c1dc4288e824c403dc9e419a1
+bars_confidence: shape = (92,)
+bars_start: shape = (92,)
+beats_confidence: shape = (286,)
+beats_start: shape = (286,)
+danceability: 0.0
+duration: 182.41261
+end_of_fade_in: 0.449
+energy: 0.0
+key: 2
+key_confidence: 0.0
+loudness: -15.716
+mode: 0
+mode_confidence: 0.0
+release: Tiempos Dificiles
+release_7digitalid: 159972
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (526,)
+segments_loudness_max: shape = (526,)
+segments_loudness_max_time: shape = (526,)
+segments_loudness_start: shape = (526,)
+segments_pitches: shape = (526, 12)
+segments_start: shape = (526,)
+segments_timbre: shape = (526, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOXRDFA12A8C13AEC5
+start_of_fade_out: 170.98
+tatums_confidence: shape = (573,)
+tatums_start: shape = (573,)
+tempo: 99.352
+time_signature: 3
+time_signature_confidence: 0.636
+title: Aunque Mañana No Estes
+track_7digitalid: 1679568
+track_id: TRBDIPI128F4279185
+year: 1982

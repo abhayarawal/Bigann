@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40059
+artist_familiarity: 0.52259018455
+artist_hotttnesss: 0.390641235878
+artist_id: ARN03F71187FB4E3F4
+artist_latitude: nan
+artist_location: United States
+artist_longitude: nan
+artist_mbid: 633c13a3-335a-466f-8e01-535837faeff5
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Ayo
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 0aa09b21af29b47e0f3bd8e35f64dfb2
+bars_confidence: shape = (273,)
+bars_start: shape = (273,)
+beats_confidence: shape = (1096,)
+beats_start: shape = (1096,)
+danceability: 0.0
+duration: 534.62159
+end_of_fade_in: 8.649
+energy: 0.0
+key: 0
+key_confidence: 0.443
+loudness: -9.158
+mode: 1
+mode_confidence: 0.435
+release: Joyful
+release_7digitalid: 185630
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (2868,)
+segments_loudness_max: shape = (2868,)
+segments_loudness_max_time: shape = (2868,)
+segments_loudness_start: shape = (2868,)
+segments_pitches: shape = (2868, 12)
+segments_start: shape = (2868,)
+segments_timbre: shape = (2868, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCMXKQ12A8AE47D58
+start_of_fade_out: 531.963
+tatums_confidence: shape = (2192,)
+tatums_start: shape = (2192,)
+tempo: 122.91
+time_signature: 4
+time_signature_confidence: 1.0
+title: Life Is Real
+track_7digitalid: 2011761
+track_id: TRAIQNE128F423851B
+year: 2006

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7544
+artist_familiarity: 0.681084419844
+artist_hotttnesss: 0.453371188065
+artist_id: ARI4SKQ1187B9B43B0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a769ffc3-f436-4c7a-9c5c-72b049f5e4d2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Beres Hammond
+artist_playmeid: 1763
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: f4d050584a882cae222a7b58c2c76525
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (357,)
+beats_start: shape = (357,)
+danceability: 0.0
+duration: 252.55138
+end_of_fade_in: 0.105
+energy: 0.0
+key: 11
+key_confidence: 0.449
+loudness: -15.121
+mode: 0
+mode_confidence: 0.417
+release: Have A Nice Weekend
+release_7digitalid: 639392
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1098,)
+segments_loudness_max: shape = (1098,)
+segments_loudness_max_time: shape = (1098,)
+segments_loudness_start: shape = (1098,)
+segments_pitches: shape = (1098, 12)
+segments_start: shape = (1098,)
+segments_timbre: shape = (1098, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SONBWQQ12A58A7BF65
+start_of_fade_out: 235.967
+tatums_confidence: shape = (714,)
+tatums_start: shape = (714,)
+tempo: 85.56
+time_signature: 4
+time_signature_confidence: 0.69
+title: Missing You For A Mile
+track_7digitalid: 7098145
+track_id: TRAGKXH128F933D9BB
+year: 0

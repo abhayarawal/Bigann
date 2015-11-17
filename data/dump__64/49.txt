@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 843
+artist_familiarity: 0.722733962963
+artist_hotttnesss: 0.465492356244
+artist_id: ARW0Z9V1187B9A0699
+artist_latitude: nan
+artist_location: Westmoreland, Jamaica
+artist_longitude: nan
+artist_mbid: 7db6aae5-6644-4513-9bfc-ca2e79d4469c
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Peter Tosh
+artist_playmeid: 5984
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 0301b0f9bdbe217dc194b97f1753632e
+bars_confidence: shape = (223,)
+bars_start: shape = (223,)
+beats_confidence: shape = (896,)
+beats_start: shape = (896,)
+danceability: 0.0
+duration: 371.1473
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.457
+loudness: -9.821
+mode: 1
+mode_confidence: 0.474
+release: Bush Doctor
+release_7digitalid: 26379
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1581,)
+segments_loudness_max: shape = (1581,)
+segments_loudness_max_time: shape = (1581,)
+segments_loudness_start: shape = (1581,)
+segments_pitches: shape = (1581, 12)
+segments_start: shape = (1581,)
+segments_timbre: shape = (1581, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKSJHK12A6D4F7DF6
+start_of_fade_out: 359.108
+tatums_confidence: shape = (1793,)
+tatums_start: shape = (1793,)
+tempo: 146.644
+time_signature: 4
+time_signature_confidence: 0.107
+title: Stand Firm (2002 Digital Remaster)
+track_7digitalid: 285104
+track_id: TRAWBWG128F1462C30
+year: 1978

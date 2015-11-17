@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4691
+artist_familiarity: 0.831928948528
+artist_hotttnesss: 0.594627866944
+artist_id: ARZQ7QA1187B9AD08B
+artist_latitude: nan
+artist_location: Minneapolis, MN
+artist_longitude: nan
+artist_mbid: 070d193a-845c-479f-980e-bef15710653e
+artist_mbtags: shape = (14,)
+artist_mbtags_count: shape = (14,)
+artist_name: Prince
+artist_playmeid: 1290
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 39ee42e05f59828659f115b6311a79e7
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (435,)
+beats_start: shape = (435,)
+danceability: 0.0
+duration: 190.06649
+end_of_fade_in: 0.108
+energy: 0.0
+key: 9
+key_confidence: 0.213
+loudness: -17.1
+mode: 1
+mode_confidence: 0.35
+release: For You
+release_7digitalid: 115032
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (582,)
+segments_loudness_max: shape = (582,)
+segments_loudness_max_time: shape = (582,)
+segments_loudness_start: shape = (582,)
+segments_pitches: shape = (582, 12)
+segments_start: shape = (582,)
+segments_timbre: shape = (582, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAKNXU12A8C13E920
+start_of_fade_out: 186.241
+tatums_confidence: shape = (869,)
+tatums_start: shape = (869,)
+tempo: 138.165
+time_signature: 4
+time_signature_confidence: 0.0
+title: Baby (LP Version)
+track_7digitalid: 1185681
+track_id: TRAMDEN128F429D23B
+year: 1978

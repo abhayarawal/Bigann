@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4043
+artist_familiarity: 0.681090691743
+artist_hotttnesss: 0.488536125402
+artist_id: ARN2ZKL1187FB3972B
+artist_latitude: 37.16793
+artist_location: L.A 	California, Estados Unidos 
+artist_longitude: -95.84502
+artist_mbid: d25fa5a6-92bf-46a3-8bf7-31149b62eb84
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Distillers
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: d2f649c88af05e3730a98f600592fb30
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (411,)
+beats_start: shape = (411,)
+danceability: 0.0
+duration: 152.68526
+end_of_fade_in: 0.328
+energy: 0.0
+key: 3
+key_confidence: 0.252
+loudness: -4.048
+mode: 1
+mode_confidence: 0.082
+release: The Distillers
+release_7digitalid: 205356
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (544,)
+segments_loudness_max: shape = (544,)
+segments_loudness_max_time: shape = (544,)
+segments_loudness_start: shape = (544,)
+segments_pitches: shape = (544, 12)
+segments_start: shape = (544,)
+segments_timbre: shape = (544, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.767074842231
+song_id: SONWRPE12A58A7B042
+start_of_fade_out: 152.685
+tatums_confidence: shape = (823,)
+tatums_start: shape = (823,)
+tempo: 162.727
+time_signature: 4
+time_signature_confidence: 0.336
+title: Oh Serena
+track_7digitalid: 2225284
+track_id: TRAMMQW128F42621E1
+year: 2000

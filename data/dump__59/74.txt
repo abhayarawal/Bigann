@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18505
+artist_familiarity: 0.609896793189
+artist_hotttnesss: 0.479045990995
+artist_id: AR223M11187B9ADDD6
+artist_latitude: 33.53858
+artist_location: Glendale, AZ
+artist_longitude: -112.18628
+artist_mbid: 2c2add7c-9a99-4812-a20e-870d331f01fd
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Marty Robbins
+artist_playmeid: 8519
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 2313a3ce4d55c8e381375d5aaa3af5f1
+bars_confidence: shape = (75,)
+bars_start: shape = (75,)
+beats_confidence: shape = (303,)
+beats_start: shape = (303,)
+danceability: 0.0
+duration: 129.67138
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.695
+loudness: -8.116
+mode: 1
+mode_confidence: 0.618
+release: Country Style U.S.A. with Ferlin Husky_ Wilburn Brothers_ Benny Martin_ Marty Robbins
+release_7digitalid: 663092
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (488,)
+segments_loudness_max: shape = (488,)
+segments_loudness_max_time: shape = (488,)
+segments_loudness_start: shape = (488,)
+segments_pitches: shape = (488, 12)
+segments_start: shape = (488,)
+segments_timbre: shape = (488, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.273285955254
+song_id: SONIRES12AB01872D2
+start_of_fade_out: 129.671
+tatums_confidence: shape = (605,)
+tatums_start: shape = (605,)
+tempo: 140.73
+time_signature: 4
+time_signature_confidence: 0.0
+title: DEU470956112
+track_7digitalid: 7347638
+track_id: TRAUKKW12903CA89E7
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1448
+artist_familiarity: 0.817256939293
+artist_hotttnesss: 0.735208877747
+artist_id: ARH861H1187B9B799E
+artist_latitude: nan
+artist_location: Kingsland, AR
+artist_longitude: nan
+artist_mbid: d43d12a1-2dc9-4257-a2fd-0a3bb1081b86
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Johnny Cash
+artist_playmeid: 4281
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 288cdd2a05bea7e389180f1adc2f4df6
+bars_confidence: shape = (61,)
+bars_start: shape = (61,)
+beats_confidence: shape = (250,)
+beats_start: shape = (250,)
+danceability: 0.0
+duration: 80.03873
+end_of_fade_in: 2.258
+energy: 0.0
+key: 1
+key_confidence: 0.083
+loudness: -13.136
+mode: 1
+mode_confidence: 0.427
+release: The Original Johnny Cash Volume 1
+release_7digitalid: 623039
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (383,)
+segments_loudness_max: shape = (383,)
+segments_loudness_max_time: shape = (383,)
+segments_loudness_start: shape = (383,)
+segments_pitches: shape = (383, 12)
+segments_start: shape = (383,)
+segments_timbre: shape = (383, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODREXM12AB017C1E8
+start_of_fade_out: 74.449
+tatums_confidence: shape = (501,)
+tatums_start: shape = (501,)
+tempo: 196.303
+time_signature: 4
+time_signature_confidence: 0.572
+title: You Tell Me
+track_7digitalid: 6916497
+track_id: TRAGXUZ128F9311745
+year: 1959

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 192258
+artist_familiarity: 0.632367593971
+artist_hotttnesss: 0.384327716288
+artist_id: ARA7WV51187FB532B0
+artist_latitude: 44.48721
+artist_location: Lancaster, NH
+artist_longitude: -71.56889
+artist_mbid: 0c624637-4a2c-4df0-ba80-b4ddb25bb5e5
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: GG Allin
+artist_playmeid: -1
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: ee16a8901b8fb0e2a85e98ca7d7815dc
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (313,)
+beats_start: shape = (313,)
+danceability: 0.0
+duration: 198.84363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.95
+loudness: -11.29
+mode: 1
+mode_confidence: 0.649
+release: Carnival Of Excess : Limited Edition - Original Mixes
+release_7digitalid: 785780
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (779,)
+segments_loudness_max: shape = (779,)
+segments_loudness_max_time: shape = (779,)
+segments_loudness_start: shape = (779,)
+segments_pitches: shape = (779, 12)
+segments_start: shape = (779,)
+segments_timbre: shape = (779, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCMUOM12AC90730BB
+start_of_fade_out: 188.262
+tatums_confidence: shape = (626,)
+tatums_start: shape = (626,)
+tempo: 99.572
+time_signature: 4
+time_signature_confidence: 0.24
+title: Outskirts Of Life
+track_7digitalid: 8694462
+track_id: TRAQMWJ12903D02BD4
+year: 0

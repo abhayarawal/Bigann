@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 382454
+artist_familiarity: 0.442750078906
+artist_hotttnesss: 0.317752813127
+artist_id: ARE8AJ31187B99A8DF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 33c81c3e-0320-4fe3-ba65-4481adc57461
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pam Thum
+artist_playmeid: 58820
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 4c528e98ec9c006222ce0a12fde3b5f8
+bars_confidence: shape = (166,)
+bars_start: shape = (166,)
+beats_confidence: shape = (668,)
+beats_start: shape = (668,)
+danceability: 0.0
+duration: 291.02975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.134
+loudness: -11.178
+mode: 1
+mode_confidence: 0.449
+release: Faithful
+release_7digitalid: 586435
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (864,)
+segments_loudness_max: shape = (864,)
+segments_loudness_max_time: shape = (864,)
+segments_loudness_start: shape = (864,)
+segments_pitches: shape = (864, 12)
+segments_start: shape = (864,)
+segments_timbre: shape = (864, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.230626896379
+song_id: SOGOYFU12AB018D9EF
+start_of_fade_out: 276.521
+tatums_confidence: shape = (1336,)
+tatums_start: shape = (1336,)
+tempo: 141.175
+time_signature: 4
+time_signature_confidence: 0.749
+title: See You in the Morning
+track_7digitalid: 6509735
+track_id: TRBFQZS12903CC9965
+year: 0

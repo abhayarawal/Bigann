@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5197
+artist_familiarity: 0.644443609616
+artist_hotttnesss: 0.443547552556
+artist_id: AR3KGPQ1187FB53C84
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 57111f1f-9829-45ea-bb4e-a5aba37cd1d1
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: L7
+artist_playmeid: -1
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 6c2202b7c82dc0f2c2da9e580a0a6f86
+bars_confidence: shape = (335,)
+bars_start: shape = (335,)
+beats_confidence: shape = (335,)
+beats_start: shape = (335,)
+danceability: 0.0
+duration: 198.76526
+end_of_fade_in: 0.218
+energy: 0.0
+key: 7
+key_confidence: 0.635
+loudness: -8.234
+mode: 1
+mode_confidence: 0.524
+release: Hungry For Stink
+release_7digitalid: 662161
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (541,)
+segments_loudness_max: shape = (541,)
+segments_loudness_max_time: shape = (541,)
+segments_loudness_start: shape = (541,)
+segments_pitches: shape = (541, 12)
+segments_start: shape = (541,)
+segments_timbre: shape = (541, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.548678055568
+song_id: SOIUTCL12AB0188849
+start_of_fade_out: 196.4
+tatums_confidence: shape = (670,)
+tatums_start: shape = (670,)
+tempo: 104.101
+time_signature: 1
+time_signature_confidence: 0.067
+title: Baggage
+track_7digitalid: 7338632
+track_id: TRAVKGM12903CA66FB
+year: 1994

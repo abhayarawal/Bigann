@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21239
+artist_familiarity: 0.83317856089
+artist_hotttnesss: 0.804219797447
+artist_id: AR6PJ8R1187FB5AD70
+artist_latitude: nan
+artist_location: Barranquilla, Colombia
+artist_longitude: nan
+artist_mbid: bf24ca37-25f4-4e34-9aec-460b94364cfc
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Shakira
+artist_playmeid: 1424
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: f30b79b19aef1d288979ff8d739591f9
+bars_confidence: shape = (92,)
+bars_start: shape = (92,)
+beats_confidence: shape = (371,)
+beats_start: shape = (371,)
+danceability: 0.0
+duration: 246.43873
+end_of_fade_in: 0.107
+energy: 0.0
+key: 7
+key_confidence: 0.044
+loudness: -6.025
+mode: 1
+mode_confidence: 0.573
+release: Laundry Service
+release_7digitalid: 528854
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (969,)
+segments_loudness_max: shape = (969,)
+segments_loudness_max_time: shape = (969,)
+segments_loudness_start: shape = (969,)
+segments_pitches: shape = (969, 12)
+segments_start: shape = (969,)
+segments_timbre: shape = (969, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.773194500303
+song_id: SOUSXAY12A8C1358FA
+start_of_fade_out: 235.096
+tatums_confidence: shape = (1485,)
+tatums_start: shape = (1485,)
+tempo: 93.982
+time_signature: 4
+time_signature_confidence: 0.662
+title: Poem To A Horse
+track_7digitalid: 5844048
+track_id: TRANQLL128F92F5263
+year: 2001

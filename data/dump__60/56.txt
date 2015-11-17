@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 623
+artist_familiarity: 0.567313224122
+artist_hotttnesss: 0.58001318294
+artist_id: ARAIABB1187B9AC6E2
+artist_latitude: nan
+artist_location: Paddington, London, England
+artist_longitude: nan
+artist_mbid: f053ae01-dae6-4aae-9883-e8c279fdbef4
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Seal
+artist_playmeid: 1408
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 8e57d53f2ede5a99771d4ee7e7969156
+bars_confidence: shape = (44,)
+bars_start: shape = (44,)
+beats_confidence: shape = (221,)
+beats_start: shape = (221,)
+danceability: 0.0
+duration: 117.78567
+end_of_fade_in: 0.797
+energy: 0.0
+key: 4
+key_confidence: 0.605
+loudness: -15.808
+mode: 1
+mode_confidence: 0.518
+release: The Acoustic Session
+release_7digitalid: 135638
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (381,)
+segments_loudness_max: shape = (381,)
+segments_loudness_max_time: shape = (381,)
+segments_loudness_start: shape = (381,)
+segments_pitches: shape = (381, 12)
+segments_start: shape = (381,)
+segments_timbre: shape = (381, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.56162759008
+song_id: SOZVZWP12A58A7BAD1
+start_of_fade_out: 110.695
+tatums_confidence: shape = (661,)
+tatums_start: shape = (661,)
+tempo: 119.772
+time_signature: 5
+time_signature_confidence: 0.0
+title: Show Me (Acoustic Version)
+track_7digitalid: 1408083
+track_id: TRAURQM128F423C581
+year: 0

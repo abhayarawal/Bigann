@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9554
+artist_familiarity: 0.514425773167
+artist_hotttnesss: 0.317845056011
+artist_id: AR77B521187FB4CC70
+artist_latitude: 37.16793
+artist_location: US
+artist_longitude: -95.84502
+artist_mbid: 6532800a-a00f-424e-8328-36c7c1c864cc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lennie Tristano
+artist_playmeid: 28655
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: a6161b2ed905ebcdc2ca61e3fd8cacd6
+bars_confidence: shape = (187,)
+bars_start: shape = (187,)
+beats_confidence: shape = (847,)
+beats_start: shape = (847,)
+danceability: 0.0
+duration: 557.68771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.238
+loudness: -18.203
+mode: 1
+mode_confidence: 0.364
+release: Lennie Tristano Quintet - Live In Toronto 1952
+release_7digitalid: 87526
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (2024,)
+segments_loudness_max: shape = (2024,)
+segments_loudness_max_time: shape = (2024,)
+segments_loudness_start: shape = (2024,)
+segments_pitches: shape = (2024, 12)
+segments_start: shape = (2024,)
+segments_timbre: shape = (2024, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGJJMI12A8C133442
+start_of_fade_out: 557.688
+tatums_confidence: shape = (1694,)
+tatums_start: shape = (1694,)
+tempo: 89.868
+time_signature: 4
+time_signature_confidence: 0.257
+title: 317 East 32nd
+track_7digitalid: 920693
+track_id: TRAJNFU128F4263469
+year: 0

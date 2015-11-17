@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 128188
+artist_familiarity: 0.787098355481
+artist_hotttnesss: 0.63441238493
+artist_id: ARDIBRT1187B9AF176
+artist_latitude: nan
+artist_location: England
+artist_longitude: nan
+artist_mbid: 678d88b2-87b0-403b-b63d-5da7465aecc3
+artist_mbtags: shape = (15,)
+artist_mbtags_count: shape = (15,)
+artist_name: Led Zeppelin
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 72531a266d840ddb19a798824e217b84
+bars_confidence: shape = (90,)
+bars_start: shape = (90,)
+beats_confidence: shape = (636,)
+beats_start: shape = (636,)
+danceability: 0.0
+duration: 182.09914
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.076
+loudness: -10.7
+mode: 1
+mode_confidence: 0.342
+release: Coda
+release_7digitalid: 171820
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (834,)
+segments_loudness_max: shape = (834,)
+segments_loudness_max_time: shape = (834,)
+segments_loudness_start: shape = (834,)
+segments_pitches: shape = (834, 12)
+segments_start: shape = (834,)
+segments_timbre: shape = (834, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.31276991953
+song_id: SOFOGMR12A8C140FFF
+start_of_fade_out: 182.099
+tatums_confidence: shape = (1272,)
+tatums_start: shape = (1272,)
+tempo: 210.8
+time_signature: 7
+time_signature_confidence: 0.411
+title: Poor Tom (Album Version)
+track_7digitalid: 1830004
+track_id: TRAAWGY128F4298A09
+year: 1982

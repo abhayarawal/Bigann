@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8899
+artist_familiarity: 0.577158123814
+artist_hotttnesss: 0.512197243011
+artist_id: AR0JPOG1187FB37383
+artist_latitude: nan
+artist_location: Japan
+artist_longitude: nan
+artist_mbid: 3fafb3eb-bd69-4463-b6aa-bf88472b6089
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lyrics Born
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 305da0884e9ccbec9bf2a73c43bfc6bb
+bars_confidence: shape = (68,)
+bars_start: shape = (68,)
+beats_confidence: shape = (283,)
+beats_start: shape = (283,)
+danceability: 0.0
+duration: 200.38485
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -5.167
+mode: 1
+mode_confidence: 0.0
+release: Later That Day...
+release_7digitalid: 240561
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (647,)
+segments_loudness_max: shape = (647,)
+segments_loudness_max_time: shape = (647,)
+segments_loudness_start: shape = (647,)
+segments_pitches: shape = (647, 12)
+segments_start: shape = (647,)
+segments_timbre: shape = (647, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOESUUA12A58A7BA05
+start_of_fade_out: 195.889
+tatums_confidence: shape = (567,)
+tatums_start: shape = (567,)
+tempo: 85.012
+time_signature: 4
+time_signature_confidence: 0.189
+title: Bad Dreams
+track_7digitalid: 2625373
+track_id: TRAGALM128F4236C86
+year: 2003

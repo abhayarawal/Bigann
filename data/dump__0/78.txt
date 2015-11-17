@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 65397
+artist_familiarity: 0.408389022376
+artist_hotttnesss: 0.139247393871
+artist_id: ARMBYRO1187FB57419
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d93dabff-3bd6-4f9a-891e-213d4266abf5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Nadine Renee
+artist_playmeid: 113161
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 9f747c90951499896939f600c7ff7c78
+bars_confidence: shape = (169,)
+bars_start: shape = (169,)
+beats_confidence: shape = (681,)
+beats_start: shape = (681,)
+danceability: 0.0
+duration: 249.41669
+end_of_fade_in: 0.647
+energy: 0.0
+key: 2
+key_confidence: 0.883
+loudness: -6.693
+mode: 1
+mode_confidence: 0.728
+release: Oasis of Love
+release_7digitalid: 80578
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (885,)
+segments_loudness_max: shape = (885,)
+segments_loudness_max_time: shape = (885,)
+segments_loudness_start: shape = (885,)
+segments_pitches: shape = (885, 12)
+segments_start: shape = (885,)
+segments_timbre: shape = (885, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.198785348765
+song_id: SOYSTDI12A6D4F6500
+start_of_fade_out: 238.434
+tatums_confidence: shape = (1362,)
+tatums_start: shape = (1362,)
+tempo: 167.92
+time_signature: 4
+time_signature_confidence: 0.75
+title: Next Time
+track_7digitalid: 852705
+track_id: TRAAGHM128EF35CF8E
+year: 0

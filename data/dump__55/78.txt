@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11393
+artist_familiarity: 0.691124379927
+artist_hotttnesss: 0.501135552952
+artist_id: ARPTZO31187B9AB533
+artist_latitude: nan
+artist_location: Santa Barbara
+artist_longitude: nan
+artist_mbid: d6cd2165-7877-4ca7-ace9-34dacadaf393
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dishwalla
+artist_playmeid: -1
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: dbd35feeecec280e42ff9b7ac4dfb450
+bars_confidence: shape = (538,)
+bars_start: shape = (538,)
+beats_confidence: shape = (1616,)
+beats_start: shape = (1616,)
+danceability: 0.0
+duration: 540.42077
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.653
+loudness: -6.676
+mode: 0
+mode_confidence: 0.622
+release: Live&Greetings From the Flow State
+release_7digitalid: 477629
+sections_confidence: shape = (22,)
+sections_start: shape = (22,)
+segments_confidence: shape = (1823,)
+segments_loudness_max: shape = (1823,)
+segments_loudness_max_time: shape = (1823,)
+segments_loudness_start: shape = (1823,)
+segments_pitches: shape = (1823, 12)
+segments_start: shape = (1823,)
+segments_timbre: shape = (1823, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.682353617616
+song_id: SOKBEGN12A8C142678
+start_of_fade_out: 531.429
+tatums_confidence: shape = (3232,)
+tatums_start: shape = (3232,)
+tempo: 183.662
+time_signature: 3
+time_signature_confidence: 0.93
+title: Moisture
+track_7digitalid: 5302456
+track_id: TRATAIB128F92E81CB
+year: 1995

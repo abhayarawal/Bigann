@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12255
+artist_familiarity: 0.612858654108
+artist_hotttnesss: 0.360344685914
+artist_id: ARK7ZPW1187B99C170
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 9dee40b2-25ad-404c-9c9a-139feffd4b57
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Maria Callas/Giuseppe di Stefano/Orchestra del Teatro alla Scala_ Milano/Gianandrea Gavazzeni
+artist_playmeid: 10820
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 8a4fdd174e016ebeeffac1a5355d4745
+bars_confidence: shape = (93,)
+bars_start: shape = (93,)
+beats_confidence: shape = (293,)
+beats_start: shape = (293,)
+danceability: 0.0
+duration: 233.40363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.0
+loudness: -16.618
+mode: 0
+mode_confidence: 0.199
+release: Verdi : Un ballo in maschera
+release_7digitalid: 161816
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (633,)
+segments_loudness_max: shape = (633,)
+segments_loudness_max_time: shape = (633,)
+segments_loudness_start: shape = (633,)
+segments_pitches: shape = (633, 12)
+segments_start: shape = (633,)
+segments_timbre: shape = (633, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCQZZN12A8C13B3F4
+start_of_fade_out: 226.754
+tatums_confidence: shape = (585,)
+tatums_start: shape = (585,)
+tempo: 76.731
+time_signature: 3
+time_signature_confidence: 0.454
+title: Un ballo in maschera (2002 Digital Remaster)_ Act 2: Oh_ qual soave brivido (Riccardo/Amelia)
+track_7digitalid: 1713405
+track_id: TRAMXNX128F4281619
+year: 0

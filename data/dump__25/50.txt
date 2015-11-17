@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 187997
+artist_familiarity: 0.581884358891
+artist_hotttnesss: 0.34700692093
+artist_id: ARWSMC91187B9AD369
+artist_latitude: 51.48126
+artist_location: Cardiff, Wales
+artist_longitude: -3.18067
+artist_mbid: eda80ec9-730c-41d2-a2f2-6bf1140126f7
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Helen Love
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 9165efdea2271e311d580584ed233a06
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (506,)
+beats_start: shape = (506,)
+danceability: 0.0
+duration: 156.21179
+end_of_fade_in: 0.568
+energy: 0.0
+key: 8
+key_confidence: 0.441
+loudness: -6.674
+mode: 1
+mode_confidence: 0.587
+release: It's My Club And I'll Play What I Want To
+release_7digitalid: 784479
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (718,)
+segments_loudness_max: shape = (718,)
+segments_loudness_max_time: shape = (718,)
+segments_loudness_start: shape = (718,)
+segments_pitches: shape = (718, 12)
+segments_start: shape = (718,)
+segments_timbre: shape = (718, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SONTCDQ12AC9072D1A
+start_of_fade_out: 156.212
+tatums_confidence: shape = (1012,)
+tatums_start: shape = (1012,)
+tempo: 195.026
+time_signature: 5
+time_signature_confidence: 0.735
+title: First Boyfriend
+track_7digitalid: 8678771
+track_id: TRAIOKS12903CFEE8D
+year: 2007

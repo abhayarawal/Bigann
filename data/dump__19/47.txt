@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 235338
+artist_familiarity: 0.63354599875
+artist_hotttnesss: 0.402495879987
+artist_id: ARPISA41187FB3DE42
+artist_latitude: 51.77045
+artist_location: Essex, England
+artist_longitude: 0.64255
+artist_mbid: 696989bc-c9a8-4ba8-a99b-b8015dba577f
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Humble Pie
+artist_playmeid: 64570
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: cf904559bc371b9c338d21e9c156c660
+bars_confidence: shape = (259,)
+bars_start: shape = (259,)
+beats_confidence: shape = (1040,)
+beats_start: shape = (1040,)
+danceability: 0.0
+duration: 469.44608
+end_of_fade_in: 0.165
+energy: 0.0
+key: 2
+key_confidence: 0.278
+loudness: -7.033
+mode: 1
+mode_confidence: 0.385
+release: 30 Days In The Hole (Live & Dangerous)
+release_7digitalid: 620643
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1647,)
+segments_loudness_max: shape = (1647,)
+segments_loudness_max_time: shape = (1647,)
+segments_loudness_start: shape = (1647,)
+segments_pitches: shape = (1647, 12)
+segments_start: shape = (1647,)
+segments_timbre: shape = (1647, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTODXV12AB017E98D
+start_of_fade_out: 457.172
+tatums_confidence: shape = (2079,)
+tatums_start: shape = (2079,)
+tempo: 132.598
+time_signature: 4
+time_signature_confidence: 0.611
+title: 30 Days In The Hole (Live)
+track_7digitalid: 6894127
+track_id: TRAGPMR128F930C0D8
+year: 0

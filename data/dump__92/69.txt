@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 107132
+artist_familiarity: 0.58078834985
+artist_hotttnesss: 0.0
+artist_id: ARF1NWV1187FB39A97
+artist_latitude: nan
+artist_location: Nancy
+artist_longitude: nan
+artist_mbid: 18a523f6-65f5-45c1-a74f-17c425be7b06
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Najoua Belyzel
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: b6f2a21aa81b40b4bf4071a05be8f199
+bars_confidence: shape = (110,)
+bars_start: shape = (110,)
+beats_confidence: shape = (446,)
+beats_start: shape = (446,)
+danceability: 0.0
+duration: 237.71383
+end_of_fade_in: 0.131
+energy: 0.0
+key: 6
+key_confidence: 0.0
+loudness: -7.881
+mode: 0
+mode_confidence: 0.075
+release: Au Féminin
+release_7digitalid: 679132
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (864,)
+segments_loudness_max: shape = (864,)
+segments_loudness_max_time: shape = (864,)
+segments_loudness_start: shape = (864,)
+segments_pitches: shape = (864, 12)
+segments_start: shape = (864,)
+segments_timbre: shape = (864, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.471578247701
+song_id: SOHABTD12AB0186D83
+start_of_fade_out: 229.959
+tatums_confidence: shape = (892,)
+tatums_start: shape = (892,)
+tempo: 112.965
+time_signature: 4
+time_signature_confidence: 0.542
+title: Ma vie n'est pas la tienne (album)
+track_7digitalid: 7534525
+track_id: TRBGACK12903CD5CF5
+year: 2009

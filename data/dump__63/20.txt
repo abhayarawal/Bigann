@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 487453
+artist_familiarity: 0.439094456474
+artist_hotttnesss: 0.333557158681
+artist_id: AR64N1H1187B996199
+artist_latitude: 45.51228
+artist_location: Montreal
+artist_longitude: -73.55439
+artist_mbid: fcc9bec9-2210-4407-9a5c-3dc2eb7bd699
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Edgar Bori
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 32a216b9cd66396ce936b25305c369b2
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (339,)
+beats_start: shape = (339,)
+danceability: 0.0
+duration: 274.83383
+end_of_fade_in: 0.171
+energy: 0.0
+key: 9
+key_confidence: 0.478
+loudness: -16.758
+mode: 0
+mode_confidence: 0.606
+release: Fous les canards
+release_7digitalid: 683115
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (583,)
+segments_loudness_max: shape = (583,)
+segments_loudness_max_time: shape = (583,)
+segments_loudness_start: shape = (583,)
+segments_pitches: shape = (583, 12)
+segments_start: shape = (583,)
+segments_timbre: shape = (583, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCKDUL12AC9097E13
+start_of_fade_out: 258.786
+tatums_confidence: shape = (678,)
+tatums_start: shape = (678,)
+tempo: 76.562
+time_signature: 3
+time_signature_confidence: 0.875
+title: À l'arraché
+track_7digitalid: 7581180
+track_id: TRAVQSW12903CE12F8
+year: 0

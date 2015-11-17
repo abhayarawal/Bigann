@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4981
+artist_familiarity: 0.490688788329
+artist_hotttnesss: 0.326430852788
+artist_id: ARQGNEN1187FB4494C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: aa179aa4-5bfc-4814-b113-a6476fe26cbc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gabinete Caligari
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 960cf4ca60bd48a8a31e1debb2cf53f9
+bars_confidence: shape = (82,)
+bars_start: shape = (82,)
+beats_confidence: shape = (333,)
+beats_start: shape = (333,)
+danceability: 0.0
+duration: 169.69098
+end_of_fade_in: 0.23
+energy: 0.0
+key: 4
+key_confidence: 0.382
+loudness: -4.199
+mode: 0
+mode_confidence: 0.392
+release: Lo Mejor De Gabinete Caligari
+release_7digitalid: 500871
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (603,)
+segments_loudness_max: shape = (603,)
+segments_loudness_max_time: shape = (603,)
+segments_loudness_start: shape = (603,)
+segments_pitches: shape = (603, 12)
+segments_start: shape = (603,)
+segments_timbre: shape = (603, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONOXGB12A81C218C8
+start_of_fade_out: 162.226
+tatums_confidence: shape = (666,)
+tatums_start: shape = (666,)
+tempo: 122.22
+time_signature: 4
+time_signature_confidence: 1.0
+title: Viaje Al Averno
+track_7digitalid: 5547464
+track_id: TRAEOUQ128F9322E73
+year: 1991

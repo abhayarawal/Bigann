@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 52074
+artist_familiarity: 0.485855595673
+artist_hotttnesss: 0.362960597112
+artist_id: AR9LT7R1187FB4543A
+artist_latitude: 30.16602
+artist_location: Brenham, TX
+artist_longitude: -96.39998
+artist_mbid: ae2a2620-fac8-456b-b9ea-14b609879dca
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Darden Smith
+artist_playmeid: 16265
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: de7e9d1994c164f250b1ef9f4834c04e
+bars_confidence: shape = (184,)
+bars_start: shape = (184,)
+beats_confidence: shape = (740,)
+beats_start: shape = (740,)
+danceability: 0.0
+duration: 270.62812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.627
+loudness: -17.864
+mode: 1
+mode_confidence: 0.658
+release: Ojo
+release_7digitalid: 494862
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (947,)
+segments_loudness_max: shape = (947,)
+segments_loudness_max_time: shape = (947,)
+segments_loudness_start: shape = (947,)
+segments_pitches: shape = (947, 12)
+segments_start: shape = (947,)
+segments_timbre: shape = (947, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEWDGW12A58920580
+start_of_fade_out: 266.217
+tatums_confidence: shape = (1480,)
+tatums_start: shape = (1480,)
+tempo: 165.76
+time_signature: 4
+time_signature_confidence: 0.0
+title: Perfect Moment
+track_7digitalid: 5479377
+track_id: TRATJXC128F93124CE
+year: 2002

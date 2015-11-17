@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 564762
+artist_familiarity: 0.419369662933
+artist_hotttnesss: 0.333108386303
+artist_id: ARUFQW01187FB5BA63
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a90828d7-d9cd-420e-a69b-5b6572b150b5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ashbrg
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 91a637903032a5b9487e57db97f0903f
+bars_confidence: shape = (64,)
+bars_start: shape = (64,)
+beats_confidence: shape = (261,)
+beats_start: shape = (261,)
+danceability: 0.0
+duration: 164.57098
+end_of_fade_in: 2.815
+energy: 0.0
+key: 4
+key_confidence: 0.169
+loudness: -10.496
+mode: 0
+mode_confidence: 0.455
+release: Are We Still In The Game?
+release_7digitalid: 755020
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (618,)
+segments_loudness_max: shape = (618,)
+segments_loudness_max_time: shape = (618,)
+segments_loudness_start: shape = (618,)
+segments_pitches: shape = (618, 12)
+segments_start: shape = (618,)
+segments_timbre: shape = (618, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWLWCO12AB018B0AA
+start_of_fade_out: 164.571
+tatums_confidence: shape = (522,)
+tatums_start: shape = (522,)
+tempo: 94.234
+time_signature: 4
+time_signature_confidence: 0.519
+title: Night Shift
+track_7digitalid: 8356158
+track_id: TRAYMJB12903CB050F
+year: 0

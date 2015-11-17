@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16700
+artist_familiarity: 0.633408899496
+artist_hotttnesss: 0.39428966212
+artist_id: ARLV8S31187B988B71
+artist_latitude: 46.71067
+artist_location: S�, France
+artist_longitude: 1.71819
+artist_mbid: b58165ba-ac55-49a1-8855-caf16c68f5f2
+artist_mbtags: shape = (15,)
+artist_mbtags_count: shape = (15,)
+artist_name: Georges Brassens
+artist_playmeid: 71764
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 44884bb24e4a8fbffeef73c3fbea9ca9
+bars_confidence: shape = (24,)
+bars_start: shape = (24,)
+beats_confidence: shape = (114,)
+beats_start: shape = (114,)
+danceability: 0.0
+duration: 115.25179
+end_of_fade_in: 0.311
+energy: 0.0
+key: 4
+key_confidence: 0.16
+loudness: -14.562
+mode: 1
+mode_confidence: 0.438
+release: Georges Brassens: Le siècle d'or
+release_7digitalid: 601969
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (406,)
+segments_loudness_max: shape = (406,)
+segments_loudness_max_time: shape = (406,)
+segments_loudness_start: shape = (406,)
+segments_pitches: shape = (406, 12)
+segments_start: shape = (406,)
+segments_timbre: shape = (406, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBOPBU12AB0180EBE
+start_of_fade_out: 110.684
+tatums_confidence: shape = (343,)
+tatums_start: shape = (343,)
+tempo: 59.983
+time_signature: 4
+time_signature_confidence: 0.18
+title: Colombine
+track_7digitalid: 6683993
+track_id: TRAFTOE12903CF3F5E
+year: 1956

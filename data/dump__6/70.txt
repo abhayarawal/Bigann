@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 171244
+artist_familiarity: 0.66808729556
+artist_hotttnesss: 0.459387424613
+artist_id: AR6AGJV1187FB504BA
+artist_latitude: nan
+artist_location: Toyohashi, Japan
+artist_longitude: nan
+artist_mbid: f3d8c154-208d-4efa-b52d-7e9f16adcdae
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Kitaro
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 69b396c4b8cc5892907635055e8b7bde
+bars_confidence: shape = (5,)
+bars_start: shape = (5,)
+beats_confidence: shape = (25,)
+beats_start: shape = (25,)
+danceability: 0.0
+duration: 43.51955
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.422
+loudness: -23.874
+mode: 1
+mode_confidence: 0.512
+release: Heaven & Earth
+release_7digitalid: 226149
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (109,)
+segments_loudness_max: shape = (109,)
+segments_loudness_max_time: shape = (109,)
+segments_loudness_start: shape = (109,)
+segments_pitches: shape = (109, 12)
+segments_start: shape = (109,)
+segments_timbre: shape = (109, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.360370582712
+song_id: SOVCECZ12A6D4FA35E
+start_of_fade_out: 43.52
+tatums_confidence: shape = (102,)
+tatums_start: shape = (102,)
+tempo: 35.931
+time_signature: 4
+time_signature_confidence: 0.0
+title: Trong Com
+track_7digitalid: 2474114
+track_id: TRACFCQ128F4214EB6
+year: 1993

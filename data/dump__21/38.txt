@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 29437
+artist_familiarity: 0.320855383197
+artist_hotttnesss: 0.291271029996
+artist_id: ARN8NCB1187FB49652
+artist_latitude: 46.20835
+artist_location: Geneva, Switzerland
+artist_longitude: 6.1427
+artist_mbid: 90e17964-b04a-4c37-b952-3c9dfc16c430
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lionel Rogg
+artist_playmeid: 63046
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 3ecb48aa515ce79c823c4270e71d81bb
+bars_confidence: shape = (52,)
+bars_start: shape = (52,)
+beats_confidence: shape = (223,)
+beats_start: shape = (223,)
+danceability: 0.0
+duration: 203.44118
+end_of_fade_in: 0.899
+energy: 0.0
+key: 5
+key_confidence: 0.734
+loudness: -22.737
+mode: 1
+mode_confidence: 0.866
+release: Buxtehude: Organ Works
+release_7digitalid: 765908
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (327,)
+segments_loudness_max: shape = (327,)
+segments_loudness_max_time: shape = (327,)
+segments_loudness_start: shape = (327,)
+segments_pitches: shape = (327, 12)
+segments_start: shape = (327,)
+segments_timbre: shape = (327, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEHDUX12AB0187C5A
+start_of_fade_out: 194.496
+tatums_confidence: shape = (670,)
+tatums_start: shape = (670,)
+tempo: 68.388
+time_signature: 4
+time_signature_confidence: 0.521
+title: Choral : Komm_ Heiliger Geist_ BuxWV 199 (Remasterisé En 2010)
+track_7digitalid: 8480707
+track_id: TRAHGJZ12903CCEA63
+year: 0

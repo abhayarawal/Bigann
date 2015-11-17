@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 198378
+artist_familiarity: 0.505237310664
+artist_hotttnesss: 0.313119744436
+artist_id: ARN2M4711C8A423BD6
+artist_latitude: nan
+artist_location: Mascouche, Qc
+artist_longitude: nan
+artist_mbid: c11dfc05-f5ab-4d09-afda-1f3e83cd1ad7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: David Jalbert
+artist_playmeid: -1
+artist_terms: shape = (9,)
+artist_terms_freq: shape = (9,)
+artist_terms_weight: shape = (9,)
+audio_md5: a2d0b73ed425601ca6b856e25f78346c
+bars_confidence: shape = (349,)
+bars_start: shape = (349,)
+beats_confidence: shape = (1401,)
+beats_start: shape = (1401,)
+danceability: 0.0
+duration: 554.9971
+end_of_fade_in: 0.207
+energy: 0.0
+key: 10
+key_confidence: 0.235
+loudness: -21.166
+mode: 1
+mode_confidence: 0.202
+release: Corigliano & Rzewski: Ballads & Fantasies
+release_7digitalid: 604715
+sections_confidence: shape = (25,)
+sections_start: shape = (25,)
+segments_confidence: shape = (1491,)
+segments_loudness_max: shape = (1491,)
+segments_loudness_max_time: shape = (1491,)
+segments_loudness_start: shape = (1491,)
+segments_pitches: shape = (1491, 12)
+segments_start: shape = (1491,)
+segments_timbre: shape = (1491, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONALZR12AC4688B15
+start_of_fade_out: 550.783
+tatums_confidence: shape = (2802,)
+tatums_start: shape = (2802,)
+tempo: 151.715
+time_signature: 4
+time_signature_confidence: 0.662
+title: North American Ballads: No. 2 - Which Side Are You On?
+track_7digitalid: 6717314
+track_id: TRBASJQ12903CFC0DA
+year: 0

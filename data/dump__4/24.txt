@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 487514
+artist_familiarity: 0.277900040196
+artist_hotttnesss: 0.116156134208
+artist_id: ARRESZG1187B9A3FBF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 46022fdf-856f-4419-8590-44374b715864
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Les Hou-Lops
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: bb603fd9693ca9ba96ce8f03deef9513
+bars_confidence: shape = (52,)
+bars_start: shape = (52,)
+beats_confidence: shape = (210,)
+beats_start: shape = (210,)
+danceability: 0.0
+duration: 122.69669
+end_of_fade_in: 0.067
+energy: 0.0
+key: 2
+key_confidence: 0.278
+loudness: -7.458
+mode: 1
+mode_confidence: 0.436
+release: Vendredi m'obsède
+release_7digitalid: 654066
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (523,)
+segments_loudness_max: shape = (523,)
+segments_loudness_max_time: shape = (523,)
+segments_loudness_start: shape = (523,)
+segments_pitches: shape = (523, 12)
+segments_start: shape = (523,)
+segments_timbre: shape = (523, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIOEMI12AB0182C50
+start_of_fade_out: 115.386
+tatums_confidence: shape = (420,)
+tatums_start: shape = (420,)
+tempo: 103.29
+time_signature: 4
+time_signature_confidence: 0.787
+title: T'as 16 ans demain
+track_7digitalid: 7247096
+track_id: TRABJQN128F9361E4C
+year: 0

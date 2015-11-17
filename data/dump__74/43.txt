@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 68006
+artist_familiarity: 0.28422040368
+artist_hotttnesss: 0.305849744336
+artist_id: ARQXGWX11F50C49BC7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5e814d09-9d00-4e43-9a0d-61c73b4ed380
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Diego Vasallo
+artist_playmeid: 51224
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: a30fc713d2c77f41f6dd2ca5a261fd70
+bars_confidence: shape = (115,)
+bars_start: shape = (115,)
+beats_confidence: shape = (461,)
+beats_start: shape = (461,)
+danceability: 0.0
+duration: 225.4624
+end_of_fade_in: 2.514
+energy: 0.0
+key: 7
+key_confidence: 0.485
+loudness: -6.146
+mode: 1
+mode_confidence: 0.487
+release: Las huellas borradas
+release_7digitalid: 53060
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (804,)
+segments_loudness_max: shape = (804,)
+segments_loudness_max_time: shape = (804,)
+segments_loudness_start: shape = (804,)
+segments_pitches: shape = (804, 12)
+segments_start: shape = (804,)
+segments_timbre: shape = (804, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SODHQLP12A6D4FA6FA
+start_of_fade_out: 214.239
+tatums_confidence: shape = (922,)
+tatums_start: shape = (922,)
+tempo: 128.061
+time_signature: 4
+time_signature_confidence: 0.267
+title: Dos imposibles
+track_7digitalid: 553428
+track_id: TRAZKXE128F149437C
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 258567
+artist_familiarity: 0.587466436748
+artist_hotttnesss: 0.485198263144
+artist_id: AR12EOE1187FB3AE26
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Pineapple Thief
+artist_playmeid: 60953
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 1cb54ec4e1872f90fd6b4f6f8368e17d
+bars_confidence: shape = (197,)
+bars_start: shape = (197,)
+beats_confidence: shape = (595,)
+beats_start: shape = (595,)
+danceability: 0.0
+duration: 233.66485
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.352
+loudness: -11.104
+mode: 0
+mode_confidence: 0.44
+release: Little Man
+release_7digitalid: 759814
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (679,)
+segments_loudness_max: shape = (679,)
+segments_loudness_max_time: shape = (679,)
+segments_loudness_start: shape = (679,)
+segments_pitches: shape = (679, 12)
+segments_start: shape = (679,)
+segments_timbre: shape = (679, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.566339489582
+song_id: SOUEUCC12AB018C4B3
+start_of_fade_out: 219.794
+tatums_confidence: shape = (1190,)
+tatums_start: shape = (1190,)
+tempo: 160.052
+time_signature: 3
+time_signature_confidence: 0.927
+title: Boxing Day
+track_7digitalid: 8412392
+track_id: TRAFIHK12903CBDFF1
+year: 2006

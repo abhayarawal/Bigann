@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2113
+artist_familiarity: 0.772272160928
+artist_hotttnesss: 0.500119335075
+artist_id: AREV2491187B9B017E
+artist_latitude: nan
+artist_location: Queensbridge, NY
+artist_longitude: nan
+artist_mbid: d75d1f08-bbb8-4eae-9877-399ca9121197
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Mobb Deep
+artist_playmeid: 2170
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 15197a10a965a788213108ae49b55338
+bars_confidence: shape = (15,)
+bars_start: shape = (15,)
+beats_confidence: shape = (76,)
+beats_start: shape = (76,)
+danceability: 0.0
+duration: 50.15465
+end_of_fade_in: 0.136
+energy: 0.0
+key: 10
+key_confidence: 0.182
+loudness: -13.662
+mode: 1
+mode_confidence: 0.497
+release: The Infamous
+release_7digitalid: 294998
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (178,)
+segments_loudness_max: shape = (178,)
+segments_loudness_max_time: shape = (178,)
+segments_loudness_start: shape = (178,)
+segments_pitches: shape = (178, 12)
+segments_start: shape = (178,)
+segments_timbre: shape = (178, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.59436248884
+song_id: SONGITI12AF72A2AF5
+start_of_fade_out: 50.155
+tatums_confidence: shape = (153,)
+tatums_start: shape = (153,)
+tempo: 93.785
+time_signature: 4
+time_signature_confidence: 0.565
+title: (The Grave Prelude)
+track_7digitalid: 3320751
+track_id: TRANAGV128F4289B5F
+year: 1995

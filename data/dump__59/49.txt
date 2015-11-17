@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 258567
+artist_familiarity: 0.587466436748
+artist_hotttnesss: 0.485198263144
+artist_id: AR12EOE1187FB3AE26
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Pineapple Thief
+artist_playmeid: 60953
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 2106fdd332db197c042d053fecf1afe7
+bars_confidence: shape = (229,)
+bars_start: shape = (229,)
+beats_confidence: shape = (919,)
+beats_start: shape = (919,)
+danceability: 0.0
+duration: 399.82975
+end_of_fade_in: 2.937
+energy: 0.0
+key: 0
+key_confidence: 0.238
+loudness: -7.715
+mode: 1
+mode_confidence: 0.4
+release: Little Man
+release_7digitalid: 759814
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1194,)
+segments_loudness_max: shape = (1194,)
+segments_loudness_max_time: shape = (1194,)
+segments_loudness_start: shape = (1194,)
+segments_pitches: shape = (1194, 12)
+segments_start: shape = (1194,)
+segments_timbre: shape = (1194, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.569178686445
+song_id: SOQSPFC12AB018C494
+start_of_fade_out: 391.488
+tatums_confidence: shape = (1838,)
+tatums_start: shape = (1838,)
+tempo: 140.077
+time_signature: 4
+time_signature_confidence: 0.716
+title: Run A Mile
+track_7digitalid: 8412379
+track_id: TRAUHXR12903CBDFE4
+year: 2006

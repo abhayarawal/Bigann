@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10897
+artist_familiarity: 0.606769573205
+artist_hotttnesss: 0.470790249527
+artist_id: ARZ8KO81187B9B1B7C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2882ffa3-dec9-4055-a842-a950728bcb02
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Burt Bacharach
+artist_playmeid: 3488
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 0df97baf474b886631ec82342002c400
+bars_confidence: shape = (107,)
+bars_start: shape = (107,)
+beats_confidence: shape = (323,)
+beats_start: shape = (323,)
+danceability: 0.0
+duration: 175.882
+end_of_fade_in: 0.253
+energy: 0.0
+key: 7
+key_confidence: 0.574
+loudness: -13.04
+mode: 1
+mode_confidence: 0.503
+release: Reach Out
+release_7digitalid: 15426
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (517,)
+segments_loudness_max: shape = (517,)
+segments_loudness_max_time: shape = (517,)
+segments_loudness_start: shape = (517,)
+segments_pitches: shape = (517, 12)
+segments_start: shape = (517,)
+segments_timbre: shape = (517, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTMGME12AB017F79B
+start_of_fade_out: 167.822
+tatums_confidence: shape = (645,)
+tatums_start: shape = (645,)
+tempo: 115.756
+time_signature: 3
+time_signature_confidence: 0.592
+title: Are You There (With Another Girl)
+track_7digitalid: 161526
+track_id: TRAUZLI128E0791D51
+year: 1967

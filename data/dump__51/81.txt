@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 92108
+artist_familiarity: 0.626957723005
+artist_hotttnesss: 0.434859589343
+artist_id: AR2XRFQ1187FB417FE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a69cd724-2f57-4ed0-bfed-ba20401eb84c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Julie Zenatti
+artist_playmeid: 5772
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 55f60c97280172e9276723c06e531996
+bars_confidence: shape = (69,)
+bars_start: shape = (69,)
+beats_confidence: shape = (333,)
+beats_start: shape = (333,)
+danceability: 0.0
+duration: 252.99546
+end_of_fade_in: 0.514
+energy: 0.0
+key: 1
+key_confidence: 0.429
+loudness: -11.061
+mode: 0
+mode_confidence: 0.67
+release: Comme Vous
+release_7digitalid: 382807
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (774,)
+segments_loudness_max: shape = (774,)
+segments_loudness_max_time: shape = (774,)
+segments_loudness_start: shape = (774,)
+segments_pitches: shape = (774, 12)
+segments_start: shape = (774,)
+segments_timbre: shape = (774, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.47563846801
+song_id: SOMBCOW12AAF3B229F
+start_of_fade_out: 241.424
+tatums_confidence: shape = (997,)
+tatums_start: shape = (997,)
+tempo: 80.084
+time_signature: 4
+time_signature_confidence: 0.533
+title: On Efface
+track_7digitalid: 4249244
+track_id: TRARRJL128F92DED0E
+year: 2004

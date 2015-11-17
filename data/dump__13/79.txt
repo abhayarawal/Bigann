@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19
+artist_familiarity: 0.780264380801
+artist_hotttnesss: 0.570106511951
+artist_id: ARAZCWP129462A97F1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ed2ac1e9-d51d-4eff-a2c2-85e81abd6360
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Bob Marley
+artist_playmeid: 237
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 25088a3a07230bd2c54d09360c740a0c
+bars_confidence: shape = (130,)
+bars_start: shape = (130,)
+beats_confidence: shape = (523,)
+beats_start: shape = (523,)
+danceability: 0.0
+duration: 177.71057
+end_of_fade_in: 1.137
+energy: 0.0
+key: 1
+key_confidence: 0.714
+loudness: -15.015
+mode: 1
+mode_confidence: 0.708
+release: Top Ranking Reggae - Bob Marley - Soul Almighty
+release_7digitalid: 114412
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (674,)
+segments_loudness_max: shape = (674,)
+segments_loudness_max_time: shape = (674,)
+segments_loudness_start: shape = (674,)
+segments_pitches: shape = (674, 12)
+segments_start: shape = (674,)
+segments_timbre: shape = (674, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.597126351828
+song_id: SOLOYFG12A8C133391
+start_of_fade_out: 169.599
+tatums_confidence: shape = (1047,)
+tatums_start: shape = (1047,)
+tempo: 180.876
+time_signature: 4
+time_signature_confidence: 0.893
+title: Memphis
+track_7digitalid: 1180068
+track_id: TRAEQAB128F429C226
+year: 1999

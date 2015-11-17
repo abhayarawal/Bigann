@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 25318
+artist_familiarity: 0.104186986572
+artist_hotttnesss: 0.557408355409
+artist_id: ARJ45QE1187FB423B8
+artist_latitude: nan
+artist_location: Dearborn, MI
+artist_longitude: nan
+artist_mbid: 4382b934-64c3-47ac-98db-65f26d845c48
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Ultimate Tracks
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: eb87dfaafd3a843794e4591630dd4051
+bars_confidence: shape = (142,)
+bars_start: shape = (142,)
+beats_confidence: shape = (571,)
+beats_start: shape = (571,)
+danceability: 0.0
+duration: 279.40526
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.207
+loudness: -11.95
+mode: 0
+mode_confidence: 0.363
+release: Ultimate Tracks - We Are The Reason - as made popular by Avalon [Performance Track]
+release_7digitalid: 44054
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (592,)
+segments_loudness_max: shape = (592,)
+segments_loudness_max_time: shape = (592,)
+segments_loudness_start: shape = (592,)
+segments_pitches: shape = (592, 12)
+segments_start: shape = (592,)
+segments_timbre: shape = (592, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONBYWD12A6D4F5E8B
+start_of_fade_out: 263.279
+tatums_confidence: shape = (1142,)
+tatums_start: shape = (1142,)
+tempo: 129.99
+time_signature: 4
+time_signature_confidence: 0.246
+title: We Are The Reason - Medium key performance track w/o background vocals
+track_7digitalid: 470723
+track_id: TRBEUDN128F14860CE
+year: 0

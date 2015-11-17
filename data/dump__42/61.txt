@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 65887
+artist_familiarity: 0.416754011811
+artist_hotttnesss: 0.340046153817
+artist_id: ARMXCWK12086C13DB2
+artist_latitude: nan
+artist_location: NY - New York City
+artist_longitude: nan
+artist_mbid: 693d9e48-9ba1-4718-ba64-474f38cd3958
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: I.N.T.
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: bd3c39cf3634a2cf21896439e442904d
+bars_confidence: shape = (58,)
+bars_start: shape = (58,)
+beats_confidence: shape = (236,)
+beats_start: shape = (236,)
+danceability: 0.0
+duration: 152.92036
+end_of_fade_in: 2.13
+energy: 0.0
+key: 7
+key_confidence: 0.0
+loudness: -7.433
+mode: 0
+mode_confidence: 0.282
+release: Honey Hitters
+release_7digitalid: 81295
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (674,)
+segments_loudness_max: shape = (674,)
+segments_loudness_max_time: shape = (674,)
+segments_loudness_start: shape = (674,)
+segments_pitches: shape = (674, 12)
+segments_start: shape = (674,)
+segments_timbre: shape = (674, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.266955186276
+song_id: SOYFOXO12A6D4F6C8B
+start_of_fade_out: 149.066
+tatums_confidence: shape = (473,)
+tatums_start: shape = (473,)
+tempo: 93.105
+time_signature: 4
+time_signature_confidence: 1.0
+title: Big Sister
+track_7digitalid: 860306
+track_id: TRAONBC128EF35ED3E
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10249
+artist_familiarity: 0.749317800961
+artist_hotttnesss: 0.481655862412
+artist_id: ARUI8651187B9ACF52
+artist_latitude: nan
+artist_location: Garnant, Wales
+artist_longitude: nan
+artist_mbid: 72c090b6-a68e-4cb9-b330-85278681a714
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: John Cale
+artist_playmeid: 17190
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 62a4628355e96891307c778aa0c66e10
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (365,)
+beats_start: shape = (365,)
+danceability: 0.0
+duration: 199.96689
+end_of_fade_in: 0.45
+energy: 0.0
+key: 5
+key_confidence: 0.785
+loudness: -20.172
+mode: 1
+mode_confidence: 0.609
+release: Paris s'éveille
+release_7digitalid: 397182
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (728,)
+segments_loudness_max: shape = (728,)
+segments_loudness_max_time: shape = (728,)
+segments_loudness_start: shape = (728,)
+segments_pitches: shape = (728, 12)
+segments_start: shape = (728,)
+segments_timbre: shape = (728, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCPFDY12AB018300D
+start_of_fade_out: 183.664
+tatums_confidence: shape = (730,)
+tatums_start: shape = (730,)
+tempo: 110.1
+time_signature: 4
+time_signature_confidence: 1.0
+title: Antarctica Starts Here
+track_7digitalid: 4408094
+track_id: TRARIZK128F92FF27A
+year: 1973

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21569
+artist_familiarity: 0.534464352229
+artist_hotttnesss: 0.368689372548
+artist_id: AR243ZT1187B9A98D2
+artist_latitude: 32.29869
+artist_location: Jackson, MS
+artist_longitude: -90.18049
+artist_mbid: ff609eb0-5425-4963-9e55-85d729f4648e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Otis Spann
+artist_playmeid: 27780
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 2d5e0739246151e9cea3c78f7ff944ee
+bars_confidence: shape = (602,)
+bars_start: shape = (602,)
+beats_confidence: shape = (602,)
+beats_start: shape = (602,)
+danceability: 0.0
+duration: 318.22322
+end_of_fade_in: 0.113
+energy: 0.0
+key: 2
+key_confidence: 0.337
+loudness: -9.154
+mode: 1
+mode_confidence: 0.532
+release: The Complete Blue Horizon Sessions
+release_7digitalid: 308407
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1035,)
+segments_loudness_max: shape = (1035,)
+segments_loudness_max_time: shape = (1035,)
+segments_loudness_start: shape = (1035,)
+segments_pitches: shape = (1035, 12)
+segments_start: shape = (1035,)
+segments_timbre: shape = (1035, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFUODO12A8C1403E6
+start_of_fade_out: 312.97
+tatums_confidence: shape = (1205,)
+tatums_start: shape = (1205,)
+tempo: 114.241
+time_signature: 1
+time_signature_confidence: 0.0
+title: Someday Baby
+track_7digitalid: 3478472
+track_id: TRAPMZJ128F42AFC5C
+year: 1995

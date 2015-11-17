@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 49948
+artist_familiarity: 0.56602430216
+artist_hotttnesss: 0.384601685548
+artist_id: AR0AVIB1187FB37D01
+artist_latitude: nan
+artist_location: Englewood, NJ
+artist_longitude: nan
+artist_mbid: e1235abf-1fab-40a5-833a-057968d90e48
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Regina Belle
+artist_playmeid: 11682
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 05c4ad3acb550761cbac06bb9a88de6e
+bars_confidence: shape = (61,)
+bars_start: shape = (61,)
+beats_confidence: shape = (309,)
+beats_start: shape = (309,)
+danceability: 0.0
+duration: 274.80771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.416
+loudness: -10.72
+mode: 1
+mode_confidence: 0.471
+release: Lazy Afternoon
+release_7digitalid: 323408
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (994,)
+segments_loudness_max: shape = (994,)
+segments_loudness_max_time: shape = (994,)
+segments_loudness_start: shape = (994,)
+segments_pitches: shape = (994, 12)
+segments_start: shape = (994,)
+segments_timbre: shape = (994, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVGKBD12AAF3B4FFB
+start_of_fade_out: 265.514
+tatums_confidence: shape = (925,)
+tatums_start: shape = (925,)
+tempo: 67.745
+time_signature: 4
+time_signature_confidence: 0.0
+title: If I Ruled The World
+track_7digitalid: 3641764
+track_id: TRABTZP128F92D9357
+year: 2004

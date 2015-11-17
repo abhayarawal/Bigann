@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 66284
+artist_familiarity: 0.823910087359
+artist_hotttnesss: 0.549749651587
+artist_id: ARKCYJV1187FB392E9
+artist_latitude: nan
+artist_location: San Francisco, CA
+artist_longitude: nan
+artist_mbid: 03d8f83e-a647-4bde-968a-189c0f147783
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Set Your Goals
+artist_playmeid: 33269
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: ba8b6b935b1a5c529474e22d04d659ef
+bars_confidence: shape = (75,)
+bars_start: shape = (75,)
+beats_confidence: shape = (305,)
+beats_start: shape = (305,)
+danceability: 0.0
+duration: 185.86077
+end_of_fade_in: 0.091
+energy: 0.0
+key: 8
+key_confidence: 0.523
+loudness: -3.242
+mode: 1
+mode_confidence: 0.593
+release: This Will Be The Death Of Us
+release_7digitalid: 527029
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (666,)
+segments_loudness_max: shape = (666,)
+segments_loudness_max_time: shape = (666,)
+segments_loudness_start: shape = (666,)
+segments_pitches: shape = (666, 12)
+segments_start: shape = (666,)
+segments_timbre: shape = (666, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.708407537397
+song_id: SOQYKUT12A8C143BC7
+start_of_fade_out: 178.84
+tatums_confidence: shape = (1219,)
+tatums_start: shape = (1219,)
+tempo: 99.024
+time_signature: 4
+time_signature_confidence: 0.64
+title: summer jam
+track_7digitalid: 5819351
+track_id: TRAZVZJ128F92EF28A
+year: 2009

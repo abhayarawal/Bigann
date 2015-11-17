@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41277
+artist_familiarity: 0.388999435217
+artist_hotttnesss: 0.287752993405
+artist_id: AR6PN8Y11C8A421C16
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5b6ced00-c2f6-4f94-a584-c1a6a154dafe
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Aimable
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 70e55a85d5bd313d5dd4e78b5d671126
+bars_confidence: shape = (319,)
+bars_start: shape = (319,)
+beats_confidence: shape = (319,)
+beats_start: shape = (319,)
+danceability: 0.0
+duration: 180.45342
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.513
+loudness: -15.966
+mode: 1
+mode_confidence: 0.519
+release: Music of the little Four
+release_7digitalid: 789508
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (532,)
+segments_loudness_max: shape = (532,)
+segments_loudness_max_time: shape = (532,)
+segments_loudness_start: shape = (532,)
+segments_pitches: shape = (532, 12)
+segments_start: shape = (532,)
+segments_timbre: shape = (532, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZQSIB12AC46881EC
+start_of_fade_out: 178.196
+tatums_confidence: shape = (637,)
+tatums_start: shape = (637,)
+tempo: 106.953
+time_signature: 1
+time_signature_confidence: 0.0
+title: Tango Andorra
+track_7digitalid: 8732473
+track_id: TRARDSS12903D0C029
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9253
+artist_familiarity: 0.553104832921
+artist_hotttnesss: 0.360350447854
+artist_id: AR6TD9K1187B9A207D
+artist_latitude: 35.00459
+artist_location: Cotton Plant, AR
+artist_longitude: -91.25019
+artist_mbid: f5625c87-5a62-4b3b-a375-fe08a71acddc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sister Rosetta Tharpe
+artist_playmeid: 21155
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 25c6fde56b5c7e469d0595d357a1f8ca
+bars_confidence: shape = (483,)
+bars_start: shape = (483,)
+beats_confidence: shape = (483,)
+beats_start: shape = (483,)
+danceability: 0.0
+duration: 162.40281
+end_of_fade_in: 0.27
+energy: 0.0
+key: 0
+key_confidence: 0.0
+loudness: -15.6
+mode: 0
+mode_confidence: 0.022
+release: Sister Rosetta Tharpe Vol. 2 1942-1944
+release_7digitalid: 191294
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (652,)
+segments_loudness_max: shape = (652,)
+segments_loudness_max_time: shape = (652,)
+segments_loudness_start: shape = (652,)
+segments_pitches: shape = (652, 12)
+segments_start: shape = (652,)
+segments_timbre: shape = (652, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOATHRP12A8C13407D
+start_of_fade_out: 153.641
+tatums_confidence: shape = (965,)
+tatums_start: shape = (965,)
+tempo: 181.861
+time_signature: 1
+time_signature_confidence: 0.0
+title: What He Done For Me
+track_7digitalid: 2080051
+track_id: TRAXYCY128F42409F3
+year: 2002

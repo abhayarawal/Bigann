@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 250520
+artist_familiarity: 0.537131259311
+artist_hotttnesss: 0.473133096898
+artist_id: AR9DO2O1187FB53637
+artist_latitude: 50.97768
+artist_location: Germany (Erfurt, Thuringia)
+artist_longitude: 11.02307
+artist_mbid: 2f253ad2-e391-48c3-a79c-f44b9a8a0981
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: ColdWorld
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: eae18916d3c39a18e02bf1287672e525
+bars_confidence: shape = (187,)
+bars_start: shape = (187,)
+beats_confidence: shape = (754,)
+beats_start: shape = (754,)
+danceability: 0.0
+duration: 344.68526
+end_of_fade_in: 5.55
+energy: 0.0
+key: 2
+key_confidence: 0.525
+loudness: -6.164
+mode: 0
+mode_confidence: 0.32
+release: Melancholie²
+release_7digitalid: 322080
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (255,)
+segments_loudness_max: shape = (255,)
+segments_loudness_max_time: shape = (255,)
+segments_loudness_start: shape = (255,)
+segments_pitches: shape = (255, 12)
+segments_start: shape = (255,)
+segments_timbre: shape = (255, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBADNN12AAF3B1F5D
+start_of_fade_out: 327.558
+tatums_confidence: shape = (1507,)
+tatums_start: shape = (1507,)
+tempo: 134.832
+time_signature: 4
+time_signature_confidence: 0.471
+title: Schmerzensschreie
+track_7digitalid: 3629263
+track_id: TRAJOZN128F92D688E
+year: 2008

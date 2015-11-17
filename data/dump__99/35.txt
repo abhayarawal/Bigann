@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 115770
+artist_familiarity: 0.471612810183
+artist_hotttnesss: 0.291699079937
+artist_id: ARASWKT1187B9923B7
+artist_latitude: 38.62774
+artist_location: St. Louis, MO
+artist_longitude: -90.19951
+artist_mbid: 835b510b-73e6-4ce5-b878-9ab7941e0cd0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Felix Slatkin/Concert Arts Symphonic Band
+artist_playmeid: 66307
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 77ce6ddaadc0a3c39cd4c936e83e6a7f
+bars_confidence: shape = (37,)
+bars_start: shape = (37,)
+beats_confidence: shape = (154,)
+beats_start: shape = (154,)
+danceability: 0.0
+duration: 108.35546
+end_of_fade_in: 11.819
+energy: 0.0
+key: 5
+key_confidence: 0.83
+loudness: -16.154
+mode: 1
+mode_confidence: 0.825
+release: The Military Band - Salute to the Services
+release_7digitalid: 154001
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (169,)
+segments_loudness_max: shape = (169,)
+segments_loudness_max_time: shape = (169,)
+segments_loudness_start: shape = (169,)
+segments_pitches: shape = (169, 12)
+segments_start: shape = (169,)
+segments_timbre: shape = (169, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCAYHA12A8C13683A
+start_of_fade_out: 101.541
+tatums_confidence: shape = (154,)
+tatums_start: shape = (154,)
+tempo: 92.499
+time_signature: 4
+time_signature_confidence: 0.629
+title: The Star-Spangled Banner (1998 Digital Remaster)
+track_7digitalid: 1609348
+track_id: TRBIDYF128F42680C4
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 37132
+artist_familiarity: 0.58568314983
+artist_hotttnesss: 0.360445765807
+artist_id: AR78ZID1187B9B31ED
+artist_latitude: 18.11526
+artist_location: Jamaica
+artist_longitude: -77.27348
+artist_mbid: 85fcc6c7-4b54-40dd-bd0e-0df68309acea
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Mikey Dread
+artist_playmeid: -1
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 53df584cff881c1050b8aa9c0b397f03
+bars_confidence: shape = (895,)
+bars_start: shape = (895,)
+beats_confidence: shape = (895,)
+beats_start: shape = (895,)
+danceability: 0.0
+duration: 373.26322
+end_of_fade_in: 0.978
+energy: 0.0
+key: 1
+key_confidence: 0.25
+loudness: -13.192
+mode: 0
+mode_confidence: 0.276
+release: Dub Catalogue
+release_7digitalid: 243041
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1591,)
+segments_loudness_max: shape = (1591,)
+segments_loudness_max_time: shape = (1591,)
+segments_loudness_start: shape = (1591,)
+segments_pitches: shape = (1591, 12)
+segments_start: shape = (1591,)
+segments_timbre: shape = (1591, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODDPYN12A8C132735
+start_of_fade_out: 364.008
+tatums_confidence: shape = (1790,)
+tatums_start: shape = (1790,)
+tempo: 145.055
+time_signature: 1
+time_signature_confidence: 0.0
+title: Two Track Dub (Dub / Instrumental Reggae Music)
+track_7digitalid: 2650584
+track_id: TRADJTR128F423CEB8
+year: 1982

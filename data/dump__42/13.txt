@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 341235
+artist_familiarity: 0.422971307885
+artist_hotttnesss: 0.31724842518
+artist_id: ARIN12F1187FB3E92C
+artist_latitude: 30.24216
+artist_location: PEARLINGTON, Mississippi
+artist_longitude: -89.60586
+artist_mbid: 8e93b8da-1e7c-4bae-8204-56605d761505
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Grant Geissman
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 5df2f7d1a5cece027a39250cf9d54e38
+bars_confidence: shape = (180,)
+bars_start: shape = (180,)
+beats_confidence: shape = (583,)
+beats_start: shape = (583,)
+danceability: 0.0
+duration: 349.23057
+end_of_fade_in: 0.439
+energy: 0.0
+key: 0
+key_confidence: 0.632
+loudness: -13.752
+mode: 1
+mode_confidence: 0.524
+release: Rustic Technology
+release_7digitalid: 460993
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1357,)
+segments_loudness_max: shape = (1357,)
+segments_loudness_max_time: shape = (1357,)
+segments_loudness_start: shape = (1357,)
+segments_pitches: shape = (1357, 12)
+segments_start: shape = (1357,)
+segments_timbre: shape = (1357, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHNZKO12AB0182300
+start_of_fade_out: 332.823
+tatums_confidence: shape = (1166,)
+tatums_start: shape = (1166,)
+tempo: 100.329
+time_signature: 3
+time_signature_confidence: 0.848
+title: Silent Movies (Album Version)
+track_7digitalid: 5132888
+track_id: TRAOHYY128F932B1C9
+year: 1993

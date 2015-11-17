@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10173
+artist_familiarity: 0.87253659867
+artist_hotttnesss: 0.610731462904
+artist_id: AR12F2S1187FB56EEF
+artist_latitude: nan
+artist_location: Boston, MA
+artist_longitude: nan
+artist_mbid: 3d2b98e5-556f-4451-a3ff-c50ea18d57cb
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Aerosmith
+artist_playmeid: 39
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 50146dc2ce803d856e6bd10a4780dc6c
+bars_confidence: shape = (292,)
+bars_start: shape = (292,)
+beats_confidence: shape = (879,)
+beats_start: shape = (879,)
+danceability: 0.0
+duration: 319.73832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.0
+loudness: -4.277
+mode: 0
+mode_confidence: 0.417
+release: Get A Grip
+release_7digitalid: 14309
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (844,)
+segments_loudness_max: shape = (844,)
+segments_loudness_max_time: shape = (844,)
+segments_loudness_start: shape = (844,)
+segments_pitches: shape = (844, 12)
+segments_start: shape = (844,)
+segments_timbre: shape = (844, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHTQAS12A6701C7BA
+start_of_fade_out: 300.907
+tatums_confidence: shape = (879,)
+tatums_start: shape = (879,)
+tempo: 162.343
+time_signature: 3
+time_signature_confidence: 1.0
+title: Crazy
+track_7digitalid: 148091
+track_id: TRAZDPO128E078ECE6
+year: 1993

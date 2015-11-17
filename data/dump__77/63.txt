@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 54399
+artist_familiarity: 0.510075541389
+artist_hotttnesss: 0.397493834986
+artist_id: ARWBL9E1187FB4E695
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: da787ed8-f1c3-4b6c-a78b-0064526ea08a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Paul Brown
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: eef2cc61307877a1059ccbc91383975b
+bars_confidence: shape = (99,)
+bars_start: shape = (99,)
+beats_confidence: shape = (402,)
+beats_start: shape = (402,)
+danceability: 0.0
+duration: 214.69995
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.09
+loudness: -8.283
+mode: 0
+mode_confidence: 0.303
+release: The City
+release_7digitalid: 501402
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (872,)
+segments_loudness_max: shape = (872,)
+segments_loudness_max_time: shape = (872,)
+segments_loudness_start: shape = (872,)
+segments_pitches: shape = (872, 12)
+segments_start: shape = (872,)
+segments_timbre: shape = (872, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.62119568406
+song_id: SOMKTRO12AB017DE4D
+start_of_fade_out: 202.89
+tatums_confidence: shape = (803,)
+tatums_start: shape = (803,)
+tempo: 114.017
+time_signature: 4
+time_signature_confidence: 0.758
+title: Side Steppin'
+track_7digitalid: 5553872
+track_id: TRBAMLH128F9324758
+year: 2005

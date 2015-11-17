@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 389248
+artist_familiarity: 0.54818519571
+artist_hotttnesss: 0.361105937537
+artist_id: AR8TLVX1187B9B2D7D
+artist_latitude: nan
+artist_location: Sweden
+artist_longitude: nan
+artist_mbid: bb7ef759-5319-4521-b58f-42333804e8e3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mithotyn
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 6b390338d7b2cc0562cd848ae8deb8a7
+bars_confidence: shape = (114,)
+bars_start: shape = (114,)
+beats_confidence: shape = (464,)
+beats_start: shape = (464,)
+danceability: 0.0
+duration: 313.36444
+end_of_fade_in: 0.282
+energy: 0.0
+key: 2
+key_confidence: 0.569
+loudness: -3.944
+mode: 0
+mode_confidence: 0.506
+release: King of the Distant Forest
+release_7digitalid: 619765
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (703,)
+segments_loudness_max: shape = (703,)
+segments_loudness_max_time: shape = (703,)
+segments_loudness_start: shape = (703,)
+segments_pitches: shape = (703, 12)
+segments_start: shape = (703,)
+segments_timbre: shape = (703, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.482137585065
+song_id: SOWAJLH12AB017C2EC
+start_of_fade_out: 310.34
+tatums_confidence: shape = (929,)
+tatums_start: shape = (929,)
+tempo: 88.336
+time_signature: 4
+time_signature_confidence: 0.312
+title: On Misty Pathways
+track_7digitalid: 6883480
+track_id: TRAVCNA128F930975C
+year: 1998

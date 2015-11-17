@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19767
+artist_familiarity: 0.539380590211
+artist_hotttnesss: 0.360583582152
+artist_id: ARRA2F91187B9B4061
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7463fbd2-60fb-471a-a5cd-d42b75d72dad
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bare Jr.
+artist_playmeid: 23520
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: f54382e9f0144a1a7cd884cac540ad26
+bars_confidence: shape = (86,)
+bars_start: shape = (86,)
+beats_confidence: shape = (347,)
+beats_start: shape = (347,)
+danceability: 0.0
+duration: 230.05995
+end_of_fade_in: 2.902
+energy: 0.0
+key: 7
+key_confidence: 0.163
+loudness: -7.837
+mode: 1
+mode_confidence: 0.554
+release: Boo-Tay
+release_7digitalid: 282150
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (513,)
+segments_loudness_max: shape = (513,)
+segments_loudness_max_time: shape = (513,)
+segments_loudness_start: shape = (513,)
+segments_pitches: shape = (513, 12)
+segments_start: shape = (513,)
+segments_timbre: shape = (513, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOMNCXX12A8C130C46
+start_of_fade_out: 221.855
+tatums_confidence: shape = (1041,)
+tatums_start: shape = (1041,)
+tempo: 91.973
+time_signature: 4
+time_signature_confidence: 0.79
+title: Tobacco Spit
+track_7digitalid: 3141548
+track_id: TRANIWL128F4262AB0
+year: 1998

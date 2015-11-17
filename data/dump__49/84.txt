@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 360604
+artist_familiarity: 0.371975601464
+artist_hotttnesss: 0.0
+artist_id: ARLTQVS11F4C83D49F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Perrocker
+artist_playmeid: -1
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: 93da7656f59dfe3d467a7ba7de326d73
+bars_confidence: shape = (123,)
+bars_start: shape = (123,)
+beats_confidence: shape = (618,)
+beats_start: shape = (618,)
+danceability: 0.0
+duration: 304.1171
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.0
+loudness: -14.12
+mode: 1
+mode_confidence: 0.203
+release: Estrella de Ros
+release_7digitalid: 486847
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1254,)
+segments_loudness_max: shape = (1254,)
+segments_loudness_max_time: shape = (1254,)
+segments_loudness_start: shape = (1254,)
+segments_pitches: shape = (1254, 12)
+segments_start: shape = (1254,)
+segments_timbre: shape = (1254, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOUJYWU12AB017EF43
+start_of_fade_out: 285.222
+tatums_confidence: shape = (1855,)
+tatums_start: shape = (1855,)
+tempo: 125.226
+time_signature: 5
+time_signature_confidence: 0.231
+title: Salsa pa tí
+track_7digitalid: 5398438
+track_id: TRAQZGZ128F92FF445
+year: 0

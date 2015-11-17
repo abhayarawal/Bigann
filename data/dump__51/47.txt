@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 128317
+artist_familiarity: 0.523653408494
+artist_hotttnesss: 0.348434196904
+artist_id: ARCLJQZ11E2835CE37
+artist_latitude: 37.80506
+artist_location: Oakland, CA
+artist_longitude: -122.27302
+artist_mbid: 209311f4-f9c2-4e44-95c4-f7708f9cc10f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Alvin Youngblood Hart
+artist_playmeid: 16951
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 15928c0aa2987b2e1e767d41bc8fc4cb
+bars_confidence: shape = (371,)
+bars_start: shape = (371,)
+beats_confidence: shape = (371,)
+beats_start: shape = (371,)
+danceability: 0.0
+duration: 208.84853
+end_of_fade_in: 0.334
+energy: 0.0
+key: 3
+key_confidence: 0.0
+loudness: -9.186
+mode: 1
+mode_confidence: 0.094
+release: Screamin' and Hollerin' The Blues
+release_7digitalid: 620938
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (678,)
+segments_loudness_max: shape = (678,)
+segments_loudness_max_time: shape = (678,)
+segments_loudness_start: shape = (678,)
+segments_pitches: shape = (678, 12)
+segments_start: shape = (678,)
+segments_timbre: shape = (678, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOSNDGZ12AB017D82F
+start_of_fade_out: 195.587
+tatums_confidence: shape = (742,)
+tatums_start: shape = (742,)
+tempo: 111.523
+time_signature: 1
+time_signature_confidence: 0.0
+title: Screamin' & Hollerin' The Blues
+track_7digitalid: 6897506
+track_id: TRARNZV128F930CDFB
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 345681
+artist_familiarity: 0.426090950278
+artist_hotttnesss: 0.216277852904
+artist_id: ARBYBBY11F4C8458A8
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Faking David
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 5a145125ae44c560d7fb0a56e423f334
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (350,)
+beats_start: shape = (350,)
+danceability: 0.0
+duration: 196.54485
+end_of_fade_in: 0.066
+energy: 0.0
+key: 2
+key_confidence: 0.654
+loudness: -8.101
+mode: 1
+mode_confidence: 0.65
+release: Freedom Of Expression
+release_7digitalid: 466884
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (845,)
+segments_loudness_max: shape = (845,)
+segments_loudness_max_time: shape = (845,)
+segments_loudness_start: shape = (845,)
+segments_pitches: shape = (845, 12)
+segments_start: shape = (845,)
+segments_timbre: shape = (845, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOKYYGN12A58A7C856
+start_of_fade_out: 191.24
+tatums_confidence: shape = (699,)
+tatums_start: shape = (699,)
+tempo: 107.303
+time_signature: 4
+time_signature_confidence: 0.933
+title: Sex Will Sell
+track_7digitalid: 5193409
+track_id: TRAHXRA128F9339E18
+year: 0

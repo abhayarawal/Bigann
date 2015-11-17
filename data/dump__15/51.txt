@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 307013
+artist_familiarity: 0.588769029102
+artist_hotttnesss: 0.339404988516
+artist_id: ARBBBLV1187FB57B70
+artist_latitude: nan
+artist_location: New York, NY
+artist_longitude: nan
+artist_mbid: cd39cb29-3a62-4aad-9155-4a8877213005
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Fever
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: db11e11bf6ff0eaa7640dd6bef7aa4ca
+bars_confidence: shape = (64,)
+bars_start: shape = (64,)
+beats_confidence: shape = (260,)
+beats_start: shape = (260,)
+danceability: 0.0
+duration: 194.45506
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.133
+loudness: -4.533
+mode: 0
+mode_confidence: 0.17
+release: In The City Of Sleep
+release_7digitalid: 407562
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (488,)
+segments_loudness_max: shape = (488,)
+segments_loudness_max_time: shape = (488,)
+segments_loudness_start: shape = (488,)
+segments_pitches: shape = (488, 12)
+segments_start: shape = (488,)
+segments_timbre: shape = (488, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHQPWP12A58A7986C
+start_of_fade_out: 188.082
+tatums_confidence: shape = (520,)
+tatums_start: shape = (520,)
+tempo: 84.461
+time_signature: 4
+time_signature_confidence: 0.365
+title: Bye Bye Betty Blue
+track_7digitalid: 4531725
+track_id: TRAFHHN128F9317216
+year: 2006

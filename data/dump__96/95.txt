@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16919
+artist_familiarity: 0.681130241848
+artist_hotttnesss: 0.45339908329
+artist_id: AROATPL1187FB48E12
+artist_latitude: 34.16788
+artist_location: Arizona
+artist_longitude: -111.9307
+artist_mbid: f6b037df-35e8-4ef5-b59c-5634de1b44d4
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: UFO
+artist_playmeid: 32564
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 86fbc3c1f8b6e46a87b9af49bd79889e
+bars_confidence: shape = (114,)
+bars_start: shape = (114,)
+beats_confidence: shape = (462,)
+beats_start: shape = (462,)
+danceability: 0.0
+duration: 213.31546
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.058
+loudness: -11.982
+mode: 1
+mode_confidence: 0.386
+release: The Essential UFO
+release_7digitalid: 25735
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (640,)
+segments_loudness_max: shape = (640,)
+segments_loudness_max_time: shape = (640,)
+segments_loudness_start: shape = (640,)
+segments_pitches: shape = (640, 12)
+segments_start: shape = (640,)
+segments_timbre: shape = (640, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXRZUH12A6D4F68AB
+start_of_fade_out: 209.206
+tatums_confidence: shape = (924,)
+tatums_start: shape = (924,)
+tempo: 132.43
+time_signature: 4
+time_signature_confidence: 0.587
+title: Cherry
+track_7digitalid: 275390
+track_id: TRBHJLT128F1460832
+year: 0

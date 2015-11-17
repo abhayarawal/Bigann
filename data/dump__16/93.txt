@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 462965
+artist_familiarity: 0.575646718017
+artist_hotttnesss: 0.38407978444
+artist_id: AR7KQQ91187B98ED7A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f88be1eb-e7ad-4ac7-88a0-8d28045cd1dd
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lollipop Lust Kill
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: ac9989797be9f683b14f4e05821dd833
+bars_confidence: shape = (91,)
+bars_start: shape = (91,)
+beats_confidence: shape = (646,)
+beats_start: shape = (646,)
+danceability: 0.0
+duration: 265.61261
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.058
+loudness: -5.145
+mode: 0
+mode_confidence: 0.158
+release: My So Called Knife
+release_7digitalid: 622234
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (958,)
+segments_loudness_max: shape = (958,)
+segments_loudness_max_time: shape = (958,)
+segments_loudness_start: shape = (958,)
+segments_pitches: shape = (958, 12)
+segments_start: shape = (958,)
+segments_timbre: shape = (958, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.494489517502
+song_id: SOWHSFS12AB0183B7D
+start_of_fade_out: 253.301
+tatums_confidence: shape = (1292,)
+tatums_start: shape = (1292,)
+tempo: 153.211
+time_signature: 7
+time_signature_confidence: 0.0
+title: Bury You
+track_7digitalid: 6908180
+track_id: TRAFTFF128F930F77C
+year: 2000

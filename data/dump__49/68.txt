@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8862
+artist_familiarity: 0.90898429564
+artist_hotttnesss: 0.562506672289
+artist_id: ARBNXYA1187FB51C50
+artist_latitude: 18.22328
+artist_location: Puerto Rico
+artist_longitude: -66.42889
+artist_mbid: 2f522f5c-111c-4ce8-8bd0-d82e97c227ad
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Daddy Yankee
+artist_playmeid: 2007
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: db0edd33bd1c9bcdec7ba03ae1e19bbf
+bars_confidence: shape = (66,)
+bars_start: shape = (66,)
+beats_confidence: shape = (267,)
+beats_start: shape = (267,)
+danceability: 0.0
+duration: 172.90404
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -4.064
+mode: 1
+mode_confidence: 0.0
+release: Daddy Yankee Mundial
+release_7digitalid: 792168
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (782,)
+segments_loudness_max: shape = (782,)
+segments_loudness_max_time: shape = (782,)
+segments_loudness_start: shape = (782,)
+segments_pitches: shape = (782, 12)
+segments_start: shape = (782,)
+segments_timbre: shape = (782, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.744986509767
+song_id: SOCSXZF12AC468D3E3
+start_of_fade_out: 169.744
+tatums_confidence: shape = (1068,)
+tatums_start: shape = (1068,)
+tempo: 93.029
+time_signature: 4
+time_signature_confidence: 0.748
+title: Descontrol
+track_7digitalid: 8763393
+track_id: TRAQYFL12903D138CF
+year: 2010

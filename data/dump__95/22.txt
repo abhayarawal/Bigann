@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20022
+artist_familiarity: 0.405502992811
+artist_hotttnesss: 0.0
+artist_id: AR8OA0X1187FB4FE50
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: abee4037-b4ce-4121-b524-662c0fee5349
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Bobby Valentin
+artist_playmeid: 96890
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 28ca9970e48b834ebbc408fafa202c46
+bars_confidence: shape = (91,)
+bars_start: shape = (91,)
+beats_confidence: shape = (367,)
+beats_start: shape = (367,)
+danceability: 0.0
+duration: 177.50159
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.732
+loudness: -9.054
+mode: 1
+mode_confidence: 0.589
+release: Algo Nuevo
+release_7digitalid: 725685
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (717,)
+segments_loudness_max: shape = (717,)
+segments_loudness_max_time: shape = (717,)
+segments_loudness_start: shape = (717,)
+segments_pitches: shape = (717, 12)
+segments_start: shape = (717,)
+segments_timbre: shape = (717, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOULTFJ12AB018BE7B
+start_of_fade_out: 174.237
+tatums_confidence: shape = (1102,)
+tatums_start: shape = (1102,)
+tempo: 126.202
+time_signature: 4
+time_signature_confidence: 0.0
+title: Yo Soy Abacua
+track_7digitalid: 8042027
+track_id: TRBGVOJ12903CDA92E
+year: 1970

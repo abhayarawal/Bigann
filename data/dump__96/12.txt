@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2299
+artist_familiarity: 0.522197175241
+artist_hotttnesss: 0.391370587218
+artist_id: ARDR4AC1187FB371A1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a96e61bc-1da0-45d0-816d-ebd00b70ff9d
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Montserrat Caballé/Orchestra of the Royal Opera House_ Covent Garden/Carlo Maria Giulini
+artist_playmeid: 11491
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: ce33ee5a7d517cc5da9e82cabf677db7
+bars_confidence: shape = (61,)
+bars_start: shape = (61,)
+beats_confidence: shape = (199,)
+beats_start: shape = (199,)
+danceability: 0.0
+duration: 168.56771
+end_of_fade_in: 4.516
+energy: 0.0
+key: 1
+key_confidence: 0.429
+loudness: -22.06
+mode: 1
+mode_confidence: 0.539
+release: Verdi: Don Carlo
+release_7digitalid: 281232
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (499,)
+segments_loudness_max: shape = (499,)
+segments_loudness_max_time: shape = (499,)
+segments_loudness_start: shape = (499,)
+segments_pitches: shape = (499, 12)
+segments_start: shape = (499,)
+segments_timbre: shape = (499, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFYJJG12A8BEE9583
+start_of_fade_out: 161.414
+tatums_confidence: shape = (598,)
+tatums_start: shape = (598,)
+tempo: 71.609
+time_signature: 3
+time_signature_confidence: 0.975
+title: Don Carlo (2000 Digital Remaster): Tu che le vanità (Elisabetta)
+track_7digitalid: 3131405
+track_id: TRBHDJS128F42603F9
+year: 0

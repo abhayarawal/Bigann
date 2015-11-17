@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1679
+artist_familiarity: 0.461917430861
+artist_hotttnesss: 0.360625670596
+artist_id: ARHY20W1187B9B8262
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9df3cdb8-3595-4e80-b154-f64f3c1275bb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Steve Erquiaga
+artist_playmeid: 17558
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 8fc980454588bea157324007879eec01
+bars_confidence: shape = (179,)
+bars_start: shape = (179,)
+beats_confidence: shape = (541,)
+beats_start: shape = (541,)
+danceability: 0.0
+duration: 225.33179
+end_of_fade_in: 0.63
+energy: 0.0
+key: 9
+key_confidence: 0.374
+loudness: -28.2
+mode: 0
+mode_confidence: 0.424
+release: Guitar Adagios
+release_7digitalid: 497830
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (841,)
+segments_loudness_max: shape = (841,)
+segments_loudness_max_time: shape = (841,)
+segments_loudness_start: shape = (841,)
+segments_pitches: shape = (841, 12)
+segments_start: shape = (841,)
+segments_timbre: shape = (841, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOYWHAB12AB0181E73
+start_of_fade_out: 204.608
+tatums_confidence: shape = (1081,)
+tatums_start: shape = (1081,)
+tempo: 150.784
+time_signature: 3
+time_signature_confidence: 0.877
+title: Sicilienne
+track_7digitalid: 5547604
+track_id: TRADVFE128F9322EFF
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 200430
+artist_familiarity: 0.448892805032
+artist_hotttnesss: 0.373862970558
+artist_id: ARKJKVO1187FB49D0A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ca4696e3-308b-49d1-98b2-e3f917e8bd3b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Michèle Bernard
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: a86a72709731965f2a8eb6bd1c978b53
+bars_confidence: shape = (119,)
+bars_start: shape = (119,)
+beats_confidence: shape = (382,)
+beats_start: shape = (382,)
+danceability: 0.0
+duration: 212.13995
+end_of_fade_in: 0.214
+energy: 0.0
+key: 7
+key_confidence: 0.55
+loudness: -12.882
+mode: 1
+mode_confidence: 0.51
+release: Mes premiers vinyls
+release_7digitalid: 777840
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (815,)
+segments_loudness_max: shape = (815,)
+segments_loudness_max_time: shape = (815,)
+segments_loudness_start: shape = (815,)
+segments_pitches: shape = (815, 12)
+segments_start: shape = (815,)
+segments_timbre: shape = (815, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJUIEW12AC468957F
+start_of_fade_out: 200.707
+tatums_confidence: shape = (763,)
+tatums_start: shape = (763,)
+tempo: 109.974
+time_signature: 3
+time_signature_confidence: 0.51
+title: Monsieur qui s'engraisse
+track_7digitalid: 8609886
+track_id: TRAKURV12903CEE1C7
+year: 2002

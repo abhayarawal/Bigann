@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3919
+artist_familiarity: 0.774037142161
+artist_hotttnesss: 0.521726647791
+artist_id: ARL3VGT1187FB40E8E
+artist_latitude: -34.60852
+artist_location: Buenos Aires.
+artist_longitude: -58.37354
+artist_mbid: cfe85625-10af-46c1-99fb-765ed3a4f1ad
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Los Fabulosos
+artist_playmeid: 15034
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 57b6074d540eb2055899098241a0967d
+bars_confidence: shape = (57,)
+bars_start: shape = (57,)
+beats_confidence: shape = (231,)
+beats_start: shape = (231,)
+danceability: 0.0
+duration: 170.26567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.485
+loudness: -14.553
+mode: 1
+mode_confidence: 0.472
+release: Los 3 Paraguayos
+release_7digitalid: 615473
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (662,)
+segments_loudness_max: shape = (662,)
+segments_loudness_max_time: shape = (662,)
+segments_loudness_start: shape = (662,)
+segments_pitches: shape = (662, 12)
+segments_start: shape = (662,)
+segments_timbre: shape = (662, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIQGQN12A8C1461C8
+start_of_fade_out: 163.126
+tatums_confidence: shape = (693,)
+tatums_start: shape = (693,)
+tempo: 83.741
+time_signature: 4
+time_signature_confidence: 0.0
+title: Galopera
+track_7digitalid: 6842249
+track_id: TRAQUTI128F92FF7A6
+year: 0

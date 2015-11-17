@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10221
+artist_familiarity: 0.609636697931
+artist_hotttnesss: 0.382593000876
+artist_id: ARRT66G1187FB3DDF9
+artist_latitude: nan
+artist_location: Gilmer, TX
+artist_longitude: nan
+artist_mbid: d6ae4b23-965f-485a-b2c2-66c43ffaef20
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Freddie King
+artist_playmeid: 15428
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 73e356aa8eca2ca6f890394428013e7b
+bars_confidence: shape = (503,)
+bars_start: shape = (503,)
+beats_confidence: shape = (503,)
+beats_start: shape = (503,)
+danceability: 0.0
+duration: 226.06322
+end_of_fade_in: 0.369
+energy: 0.0
+key: 11
+key_confidence: 0.462
+loudness: -14.977
+mode: 1
+mode_confidence: 0.355
+release: Woman Across The River (World)
+release_7digitalid: 284736
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (824,)
+segments_loudness_max: shape = (824,)
+segments_loudness_max_time: shape = (824,)
+segments_loudness_start: shape = (824,)
+segments_pitches: shape = (824, 12)
+segments_start: shape = (824,)
+segments_timbre: shape = (824, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLRGXU12A8C132FD7
+start_of_fade_out: 212.312
+tatums_confidence: shape = (1007,)
+tatums_start: shape = (1007,)
+tempo: 135.951
+time_signature: 1
+time_signature_confidence: 0.014
+title: Boogie Man
+track_7digitalid: 3176759
+track_id: TRAFRLV128F4267ADF
+year: 1973

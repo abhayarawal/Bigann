@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 298685
+artist_familiarity: 0.564584042775
+artist_hotttnesss: 0.409413619566
+artist_id: AR21EJD1187FB3B9A9
+artist_latitude: nan
+artist_location: Guerrero
+artist_longitude: nan
+artist_mbid: 4c54c8f2-a6f8-42fd-ab29-6cf684d0228c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Beto y sus Canarios
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 642c790b88b7b6eccc995bec5abe3482
+bars_confidence: shape = (392,)
+bars_start: shape = (392,)
+beats_confidence: shape = (392,)
+beats_start: shape = (392,)
+danceability: 0.0
+duration: 197.72036
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.453
+loudness: -8.184
+mode: 0
+mode_confidence: 0.517
+release: A Todo Calor
+release_7digitalid: 764876
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (896,)
+segments_loudness_max: shape = (896,)
+segments_loudness_max_time: shape = (896,)
+segments_loudness_start: shape = (896,)
+segments_pitches: shape = (896, 12)
+segments_start: shape = (896,)
+segments_timbre: shape = (896, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.612861094506
+song_id: SOAJTFZ12AB0186524
+start_of_fade_out: 197.72
+tatums_confidence: shape = (783,)
+tatums_start: shape = (783,)
+tempo: 120.546
+time_signature: 1
+time_signature_confidence: 0.0
+title: Noche Eterna
+track_7digitalid: 8468040
+track_id: TRALTYV12903CCB8EE
+year: 0

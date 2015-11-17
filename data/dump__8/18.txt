@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 72456
+artist_familiarity: 0.632856418729
+artist_hotttnesss: 0.428980521439
+artist_id: ARQ0BZY1187B99F093
+artist_latitude: nan
+artist_location: Columbus, OH
+artist_longitude: nan
+artist_mbid: 901502fb-3759-47c2-afac-064cacb8d8a1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Everyday Sunday
+artist_playmeid: 38266
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 77e3db1cdb03000131d726a8f3dc1c99
+bars_confidence: shape = (115,)
+bars_start: shape = (115,)
+beats_confidence: shape = (471,)
+beats_start: shape = (471,)
+danceability: 0.0
+duration: 269.73995
+end_of_fade_in: 0.183
+energy: 0.0
+key: 7
+key_confidence: 0.424
+loudness: -7.462
+mode: 1
+mode_confidence: 0.542
+release: Stand Up
+release_7digitalid: 579648
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (755,)
+segments_loudness_max: shape = (755,)
+segments_loudness_max_time: shape = (755,)
+segments_loudness_start: shape = (755,)
+segments_pitches: shape = (755, 12)
+segments_start: shape = (755,)
+segments_timbre: shape = (755, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.323112120895
+song_id: SOHKEPR12AB018C9C9
+start_of_fade_out: 250.358
+tatums_confidence: shape = (943,)
+tatums_start: shape = (943,)
+tempo: 103.009
+time_signature: 4
+time_signature_confidence: 0.306
+title: Don't Leave
+track_7digitalid: 6426547
+track_id: TRACRON12903CB59E6
+year: 2002

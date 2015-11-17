@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5733
+artist_familiarity: 0.827776802195
+artist_hotttnesss: 0.537799608198
+artist_id: ARI7DOB1187FB37AA4
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: 8c538f11-c141-4588-8ecb-931083524186
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Bloc Party
+artist_playmeid: 1767
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 66b828c7c2bd0b368f76e86f5e0e425f
+bars_confidence: shape = (93,)
+bars_start: shape = (93,)
+beats_confidence: shape = (658,)
+beats_start: shape = (658,)
+danceability: 0.0
+duration: 247.97995
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.355
+loudness: -9.237
+mode: 1
+mode_confidence: 0.485
+release: Intimacy - Remixed
+release_7digitalid: 428920
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (613,)
+segments_loudness_max: shape = (613,)
+segments_loudness_max_time: shape = (613,)
+segments_loudness_start: shape = (613,)
+segments_pitches: shape = (613, 12)
+segments_start: shape = (613,)
+segments_timbre: shape = (613, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTLQAD12A8C1432B4
+start_of_fade_out: 238.283
+tatums_confidence: shape = (1316,)
+tatums_start: shape = (1316,)
+tempo: 160.26
+time_signature: 7
+time_signature_confidence: 0.969
+title: Zephyrus
+track_7digitalid: 4787347
+track_id: TRBGZKO128F92DB016
+year: 2008

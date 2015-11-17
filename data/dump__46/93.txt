@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 289224
+artist_familiarity: 0.572051286962
+artist_hotttnesss: 0.450432129914
+artist_id: ARTKTYG1187FB40CBA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e8533fd3-4e66-4ad5-8fe5-12a916f9c4a1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dendemann
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 966d6d86eece26b8ae9ab945d664eab6
+bars_confidence: shape = (106,)
+bars_start: shape = (106,)
+beats_confidence: shape = (430,)
+beats_start: shape = (430,)
+danceability: 0.0
+duration: 205.13914
+end_of_fade_in: 0.096
+energy: 0.0
+key: 11
+key_confidence: 0.009
+loudness: -3.094
+mode: 0
+mode_confidence: 0.123
+release: Abersowasvonlive
+release_7digitalid: 428212
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (898,)
+segments_loudness_max: shape = (898,)
+segments_loudness_max_time: shape = (898,)
+segments_loudness_start: shape = (898,)
+segments_pitches: shape = (898, 12)
+segments_start: shape = (898,)
+segments_timbre: shape = (898, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBTXSH12A8C146024
+start_of_fade_out: 205.139
+tatums_confidence: shape = (861,)
+tatums_start: shape = (861,)
+tempo: 126.892
+time_signature: 4
+time_signature_confidence: 1.0
+title: Dendemänner braucht das Land
+track_7digitalid: 4787544
+track_id: TRAPZLI128F92DB0CD
+year: 2006

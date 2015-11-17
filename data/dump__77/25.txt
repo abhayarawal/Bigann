@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 55821
+artist_familiarity: 0.329803210578
+artist_hotttnesss: 0.237472552499
+artist_id: ARTMM411187FB56FD0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2d2a3b8d-dae0-4687-9b6e-8f5f1d673853
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Barry Goldberg
+artist_playmeid: 152630
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: fefce58269a08b16ba3c6c4f39e809a9
+bars_confidence: shape = (136,)
+bars_start: shape = (136,)
+beats_confidence: shape = (420,)
+beats_start: shape = (420,)
+danceability: 0.0
+duration: 265.61261
+end_of_fade_in: 0.23
+energy: 0.0
+key: 7
+key_confidence: 0.76
+loudness: -11.634
+mode: 1
+mode_confidence: 0.699
+release: Blues From Chicago
+release_7digitalid: 70802
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (734,)
+segments_loudness_max: shape = (734,)
+segments_loudness_max_time: shape = (734,)
+segments_loudness_start: shape = (734,)
+segments_pitches: shape = (734, 12)
+segments_start: shape = (734,)
+segments_timbre: shape = (734, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUTQDI12A67AE11FD
+start_of_fade_out: 258.81
+tatums_confidence: shape = (840,)
+tatums_start: shape = (840,)
+tempo: 96.17
+time_signature: 3
+time_signature_confidence: 1.0
+title: Lost Love
+track_7digitalid: 742311
+track_id: TRBAJBF128EF347C72
+year: 0

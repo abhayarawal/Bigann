@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18208
+artist_familiarity: 0.636582379001
+artist_hotttnesss: 0.421287262511
+artist_id: ARZH3SW1187B98C96E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fc0fa262-6197-4c29-8e22-22f0e369856a
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Onyx
+artist_playmeid: 5098
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 5a40294c0b9bc007712e0e0a362c2d29
+bars_confidence: shape = (172,)
+bars_start: shape = (172,)
+beats_confidence: shape = (692,)
+beats_start: shape = (692,)
+danceability: 0.0
+duration: 255.50322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.503
+loudness: -6.305
+mode: 0
+mode_confidence: 0.48
+release: Onyx/ Bacdafucup II
+release_7digitalid: 309045
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1183,)
+segments_loudness_max: shape = (1183,)
+segments_loudness_max_time: shape = (1183,)
+segments_loudness_start: shape = (1183,)
+segments_pitches: shape = (1183, 12)
+segments_start: shape = (1183,)
+segments_timbre: shape = (1183, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.444401714523
+song_id: SOSLDUO12A8C13F7E0
+start_of_fade_out: 239.055
+tatums_confidence: shape = (1383,)
+tatums_start: shape = (1383,)
+tempo: 164.981
+time_signature: 4
+time_signature_confidence: 0.769
+title: Wet The Club
+track_7digitalid: 3494779
+track_id: TRAKKMS128F42B3BF6
+year: 2002

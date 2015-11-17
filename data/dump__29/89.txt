@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17453
+artist_familiarity: 0.554890899136
+artist_hotttnesss: 0.385583660789
+artist_id: ARTO6KU1187B99910C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1cfbf85c-dc74-42d6-915e-77033afd0204
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Claude François
+artist_playmeid: 26973
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 2d82b3ce0241462904ec564a2eb81063
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (436,)
+beats_start: shape = (436,)
+danceability: 0.0
+duration: 197.25016
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.246
+loudness: -12.472
+mode: 0
+mode_confidence: 0.469
+release: PODIUM
+release_7digitalid: 428202
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (580,)
+segments_loudness_max: shape = (580,)
+segments_loudness_max_time: shape = (580,)
+segments_loudness_start: shape = (580,)
+segments_pitches: shape = (580, 12)
+segments_start: shape = (580,)
+segments_timbre: shape = (580, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.498131589707
+song_id: SOCGAOT12A8C138D1C
+start_of_fade_out: 186.903
+tatums_confidence: shape = (872,)
+tatums_start: shape = (872,)
+tempo: 134.237
+time_signature: 4
+time_signature_confidence: 0.0
+title: Le chanteur malheureux
+track_7digitalid: 4786503
+track_id: TRAKCAE128F92DACD8
+year: 1994

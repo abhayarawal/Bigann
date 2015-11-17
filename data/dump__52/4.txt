@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 304
+artist_familiarity: 0.899934952232
+artist_hotttnesss: 0.683658060202
+artist_id: ARH6W4X1187B99274F
+artist_latitude: nan
+artist_location: Oxford, UK
+artist_longitude: nan
+artist_mbid: a74b1b7f-71a5-4011-9441-d0b5e4122711
+artist_mbtags: shape = (14,)
+artist_mbtags_count: shape = (14,)
+artist_name: Radiohead
+artist_playmeid: 1307
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 5852822997f0e8b82ce55ddb5ab8a94b
+bars_confidence: shape = (145,)
+bars_start: shape = (145,)
+beats_confidence: shape = (727,)
+beats_start: shape = (727,)
+danceability: 0.0
+duration: 237.21751
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.623
+loudness: -7.057
+mode: 1
+mode_confidence: 0.763
+release: In Rainbows
+release_7digitalid: 188863
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1141,)
+segments_loudness_max: shape = (1141,)
+segments_loudness_max_time: shape = (1141,)
+segments_loudness_start: shape = (1141,)
+segments_pitches: shape = (1141, 12)
+segments_start: shape = (1141,)
+segments_timbre: shape = (1141, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.476435219643
+song_id: SOSQIHH12A8C13370B
+start_of_fade_out: 226.116
+tatums_confidence: shape = (1455,)
+tatums_start: shape = (1455,)
+tempo: 188.91
+time_signature: 5
+time_signature_confidence: 0.68
+title: 15 Step
+track_7digitalid: 2052636
+track_id: TRARTEH128F423DBC1
+year: 2007

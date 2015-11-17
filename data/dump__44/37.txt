@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4441
+artist_familiarity: 0.59525476448
+artist_hotttnesss: 0.34870219952
+artist_id: ARND48J1187B990A0B
+artist_latitude: nan
+artist_location: Texas
+artist_longitude: nan
+artist_mbid: d68542a6-46bc-4f8b-96eb-aade07c75b66
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Storyville
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 96bbaf0298b408f74180b1c7b6f71d01
+bars_confidence: shape = (130,)
+bars_start: shape = (130,)
+beats_confidence: shape = (523,)
+beats_start: shape = (523,)
+danceability: 0.0
+duration: 343.58812
+end_of_fade_in: 4.348
+energy: 0.0
+key: 2
+key_confidence: 0.532
+loudness: -10.088
+mode: 1
+mode_confidence: 0.642
+release: Dog Years
+release_7digitalid: 762191
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (958,)
+segments_loudness_max: shape = (958,)
+segments_loudness_max_time: shape = (958,)
+segments_loudness_start: shape = (958,)
+segments_pitches: shape = (958, 12)
+segments_start: shape = (958,)
+segments_timbre: shape = (958, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIGXSS12AB018850D
+start_of_fade_out: 330.217
+tatums_confidence: shape = (1046,)
+tatums_start: shape = (1046,)
+tempo: 91.976
+time_signature: 4
+time_signature_confidence: 0.712
+title: Talk To Me
+track_7digitalid: 8437661
+track_id: TRAPDUL12903CC4287
+year: 1998

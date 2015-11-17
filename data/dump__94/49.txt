@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 520523
+artist_familiarity: 0.517306573669
+artist_hotttnesss: 0.455495288804
+artist_id: AR3YJMO11C8A42B348
+artist_latitude: 60.3907
+artist_location: Bergen
+artist_longitude: 5.33275
+artist_mbid: 7a9e07cd-33bf-44b6-9479-884561fcc97a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Vulture Industries
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 76c0d4fb12fc82d561e14148c0f3a2db
+bars_confidence: shape = (154,)
+bars_start: shape = (154,)
+beats_confidence: shape = (629,)
+beats_start: shape = (629,)
+danceability: 0.0
+duration: 379.29751
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.435
+loudness: -3.738
+mode: 0
+mode_confidence: 0.455
+release: The Dystopia Journals
+release_7digitalid: 699988
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (851,)
+segments_loudness_max: shape = (851,)
+segments_loudness_max_time: shape = (851,)
+segments_loudness_start: shape = (851,)
+segments_pitches: shape = (851, 12)
+segments_start: shape = (851,)
+segments_timbre: shape = (851, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAHRTY12AC468AF45
+start_of_fade_out: 379.298
+tatums_confidence: shape = (1259,)
+tatums_start: shape = (1259,)
+tempo: 100.078
+time_signature: 4
+time_signature_confidence: 1.0
+title: The Benevolent Path
+track_7digitalid: 7765771
+track_id: TRBGOWY12903D0E2A0
+year: 2007

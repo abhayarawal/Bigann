@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21614
+artist_familiarity: 0.839021531225
+artist_hotttnesss: 0.562834751355
+artist_id: AR9NA5G1187B98F460
+artist_latitude: 42.33168
+artist_location: Detroit, MI
+artist_longitude: -83.04792
+artist_mbid: be407b02-f3e6-4ed5-9489-f8e5f0ab36dc
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: The Raconteurs
+artist_playmeid: 4144
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 2b20fd4da9221d2340087739a53982b8
+bars_confidence: shape = (491,)
+bars_start: shape = (491,)
+beats_confidence: shape = (491,)
+beats_start: shape = (491,)
+danceability: 0.0
+duration: 230.5824
+end_of_fade_in: 0.221
+energy: 0.0
+key: 4
+key_confidence: 0.605
+loudness: -7.377
+mode: 0
+mode_confidence: 0.517
+release: Broken Boy Soldier
+release_7digitalid: 44391
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (793,)
+segments_loudness_max: shape = (793,)
+segments_loudness_max_time: shape = (793,)
+segments_loudness_start: shape = (793,)
+segments_pitches: shape = (793, 12)
+segments_start: shape = (793,)
+segments_timbre: shape = (793, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKEDWE12A6D4F9592
+start_of_fade_out: 209.386
+tatums_confidence: shape = (982,)
+tatums_start: shape = (982,)
+tempo: 128.186
+time_signature: 1
+time_signature_confidence: 0.537
+title: Broken Boy Soldier (KCRW Version)
+track_7digitalid: 474413
+track_id: TRAXQNF128F1486DD9
+year: 2006

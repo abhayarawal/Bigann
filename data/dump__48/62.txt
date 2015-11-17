@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 163901
+artist_familiarity: 0.413647595674
+artist_hotttnesss: 0.186141642933
+artist_id: ARMUCXW11F50C4BFEC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 47c28c84-b2ff-4f2f-b839-c4331d7835dc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bionikworld
+artist_playmeid: -1
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: 7723de917dbe8e7bcfb549bdc7f38f44
+bars_confidence: shape = (219,)
+bars_start: shape = (219,)
+beats_confidence: shape = (883,)
+beats_start: shape = (883,)
+danceability: 0.0
+duration: 413.23057
+end_of_fade_in: 0.208
+energy: 0.0
+key: 0
+key_confidence: 1.0
+loudness: -7.56
+mode: 1
+mode_confidence: 0.875
+release: Preset 001 / Reset 001
+release_7digitalid: 606149
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (2407,)
+segments_loudness_max: shape = (2407,)
+segments_loudness_max_time: shape = (2407,)
+segments_loudness_start: shape = (2407,)
+segments_pitches: shape = (2407, 12)
+segments_start: shape = (2407,)
+segments_timbre: shape = (2407, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOACEXG12AC468D8FB
+start_of_fade_out: 410.703
+tatums_confidence: shape = (1765,)
+tatums_start: shape = (1765,)
+tempo: 126.089
+time_signature: 4
+time_signature_confidence: 0.875
+title: Party Favours
+track_7digitalid: 6734527
+track_id: TRAQNMM12903D00407
+year: 0

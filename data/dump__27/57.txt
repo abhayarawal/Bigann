@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 34729
+artist_familiarity: 0.51874395858
+artist_hotttnesss: 0.341288723301
+artist_id: ARY4M3J1187B9AC94C
+artist_latitude: 53.79449
+artist_location: Leeds
+artist_longitude: -1.54658
+artist_mbid: 95f9b1a1-dc0c-4440-9cd3-225aaba246ee
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: John Sebastian
+artist_playmeid: 7340
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 053391462234ac1a9fd7f30a2589a204
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (311,)
+beats_start: shape = (311,)
+danceability: 0.0
+duration: 189.51791
+end_of_fade_in: 2.519
+energy: 0.0
+key: 0
+key_confidence: 0.644
+loudness: -19.944
+mode: 1
+mode_confidence: 0.77
+release: Tarzana Kid
+release_7digitalid: 387596
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (567,)
+segments_loudness_max: shape = (567,)
+segments_loudness_max_time: shape = (567,)
+segments_loudness_start: shape = (567,)
+segments_pitches: shape = (567, 12)
+segments_start: shape = (567,)
+segments_timbre: shape = (567, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOWENLZ12AB017F81F
+start_of_fade_out: 181.365
+tatums_confidence: shape = (623,)
+tatums_start: shape = (623,)
+tempo: 103.666
+time_signature: 3
+time_signature_confidence: 1.0
+title: Sportin' Life
+track_7digitalid: 4297097
+track_id: TRAJFSU128F92E9E3C
+year: 0

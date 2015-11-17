@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17428
+artist_familiarity: 0.892688611404
+artist_hotttnesss: 0.830356766357
+artist_id: ARXOTQH1187FB57084
+artist_latitude: nan
+artist_location: Fairfax, California
+artist_longitude: nan
+artist_mbid: e1009244-1bf4-4a4c-889e-0db83b9be08f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Chris Brown
+artist_playmeid: 2729
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 311782faa508b44cfc11b9b3717a44a8
+bars_confidence: shape = (63,)
+bars_start: shape = (63,)
+beats_confidence: shape = (202,)
+beats_start: shape = (202,)
+danceability: 0.0
+duration: 182.22975
+end_of_fade_in: 0.061
+energy: 0.0
+key: 2
+key_confidence: 0.689
+loudness: -6.649
+mode: 1
+mode_confidence: 0.633
+release: Graffiti
+release_7digitalid: 640908
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (681,)
+segments_loudness_max: shape = (681,)
+segments_loudness_max_time: shape = (681,)
+segments_loudness_start: shape = (681,)
+segments_pitches: shape = (681, 12)
+segments_start: shape = (681,)
+segments_timbre: shape = (681, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.581987156689
+song_id: SOVGXVD12A58A7D23B
+start_of_fade_out: 169.326
+tatums_confidence: shape = (606,)
+tatums_start: shape = (606,)
+tempo: 66.696
+time_signature: 3
+time_signature_confidence: 0.982
+title: I Love U
+track_7digitalid: 7111687
+track_id: TRAPXHQ128F9340E67
+year: 0

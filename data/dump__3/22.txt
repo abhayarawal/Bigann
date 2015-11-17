@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2219
+artist_familiarity: 0.851417628847
+artist_hotttnesss: 0.592614927352
+artist_id: AR3JMC51187B9AE49D
+artist_latitude: 28.53823
+artist_location: Orlando, FL
+artist_longitude: -81.37739
+artist_mbid: 2f569e60-0a1b-4fb9-95a4-3dc1525d1aad
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Backstreet Boys
+artist_playmeid: 156
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 4985cbab374b4253973096c98a647461
+bars_confidence: shape = (106,)
+bars_start: shape = (106,)
+beats_confidence: shape = (426,)
+beats_start: shape = (426,)
+danceability: 0.0
+duration: 236.25098
+end_of_fade_in: 4.569
+energy: 0.0
+key: 0
+key_confidence: 0.005
+loudness: -5.12
+mode: 1
+mode_confidence: 0.51
+release: Just Want You To Know
+release_7digitalid: 307477
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (733,)
+segments_loudness_max: shape = (733,)
+segments_loudness_max_time: shape = (733,)
+segments_loudness_start: shape = (733,)
+segments_pitches: shape = (733, 12)
+segments_start: shape = (733,)
+segments_timbre: shape = (733, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPVXLX12A8C1402D5
+start_of_fade_out: 226.569
+tatums_confidence: shape = (852,)
+tatums_start: shape = (852,)
+tempo: 112.787
+time_signature: 4
+time_signature_confidence: 0.572
+title: Larger Than Life
+track_7digitalid: 3475898
+track_id: TRABAFJ128F42AF24E
+year: 1999

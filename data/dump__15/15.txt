@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8587
+artist_familiarity: 0.625067009004
+artist_hotttnesss: 0.40109846477
+artist_id: ARHNCQ31187B9915DC
+artist_latitude: nan
+artist_location: Teoc, MS
+artist_longitude: nan
+artist_mbid: 802484e0-90de-4611-9fa4-f5ef0c7727b6
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Mississippi John Hurt
+artist_playmeid: 12776
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 70ce47071dad820d1e77a49e6b8488fc
+bars_confidence: shape = (367,)
+bars_start: shape = (367,)
+beats_confidence: shape = (367,)
+beats_start: shape = (367,)
+danceability: 0.0
+duration: 271.22893
+end_of_fade_in: 0.397
+energy: 0.0
+key: 5
+key_confidence: 0.731
+loudness: -10.913
+mode: 1
+mode_confidence: 0.62
+release: D.C. Blues: The Library Of Congress Recordings_ Vol. 2
+release_7digitalid: 197986
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (876,)
+segments_loudness_max: shape = (876,)
+segments_loudness_max_time: shape = (876,)
+segments_loudness_start: shape = (876,)
+segments_pitches: shape = (876, 12)
+segments_start: shape = (876,)
+segments_timbre: shape = (876, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGOHFY12A8C136F9C
+start_of_fade_out: 268.301
+tatums_confidence: shape = (734,)
+tatums_start: shape = (734,)
+tempo: 80.864
+time_signature: 1
+time_signature_confidence: 0.0
+title: Waiting For You (I Forgive You Before I Go)
+track_7digitalid: 2152522
+track_id: TRAFCWJ128F42515AE
+year: 0

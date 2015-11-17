@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4128
+artist_familiarity: 0.694098144726
+artist_hotttnesss: 0.467552020732
+artist_id: AR05OJD1187B9B99A6
+artist_latitude: nan
+artist_location: Brooklyn, New York
+artist_longitude: nan
+artist_mbid: d50548a0-3cfd-4d7a-964b-0aef6545d819
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Ol' Dirty Bastard
+artist_playmeid: 6959
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: dd441f1bff0e93b78cb723fb32431c0d
+bars_confidence: shape = (72,)
+bars_start: shape = (72,)
+beats_confidence: shape = (293,)
+beats_start: shape = (293,)
+danceability: 0.0
+duration: 181.62893
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.002
+loudness: -14.808
+mode: 1
+mode_confidence: 0.061
+release: Return To The 36 Chambers: The Dirty Version
+release_7digitalid: 602222
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (794,)
+segments_loudness_max: shape = (794,)
+segments_loudness_max_time: shape = (794,)
+segments_loudness_start: shape = (794,)
+segments_pitches: shape = (794, 12)
+segments_start: shape = (794,)
+segments_timbre: shape = (794, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.727506433946
+song_id: SOJARRO12AC90756C5
+start_of_fade_out: 181.629
+tatums_confidence: shape = (586,)
+tatums_start: shape = (586,)
+tempo: 96.22
+time_signature: 4
+time_signature_confidence: 0.479
+title: Hippa To Da Hoppa [Explicit Version]
+track_7digitalid: 6686349
+track_id: TRAFQJT12903CF4891
+year: 1995

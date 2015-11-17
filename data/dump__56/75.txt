@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 912
+artist_familiarity: 0.571681626575
+artist_hotttnesss: 0.54000775021
+artist_id: AR3FE581187FB3F90A
+artist_latitude: nan
+artist_location: Brooklyn, NY
+artist_longitude: nan
+artist_mbid: d2299099-e617-46dd-b013-ba0b4c72bc63
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: DJ Envy
+artist_playmeid: 590
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 6c9801958c3c134d5efc4c894d4ad610
+bars_confidence: shape = (207,)
+bars_start: shape = (207,)
+beats_confidence: shape = (627,)
+beats_start: shape = (627,)
+danceability: 0.0
+duration: 278.38649
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.465
+loudness: -3.991
+mode: 1
+mode_confidence: 0.338
+release: The Desert Storm Mixtape: DJ Envy Blok Party Vol. 1
+release_7digitalid: 283305
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1273,)
+segments_loudness_max: shape = (1273,)
+segments_loudness_max_time: shape = (1273,)
+segments_loudness_start: shape = (1273,)
+segments_pitches: shape = (1273, 12)
+segments_start: shape = (1273,)
+segments_timbre: shape = (1273, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYEKDD12A6702113B
+start_of_fade_out: 278.386
+tatums_confidence: shape = (1254,)
+tatums_start: shape = (1254,)
+tempo: 135.059
+time_signature: 3
+time_signature_confidence: 0.893
+title: Why Wouldn't I (featuring Fabolous & Paul Cain)
+track_7digitalid: 3165609
+track_id: TRATISX128F4266B66
+year: 0

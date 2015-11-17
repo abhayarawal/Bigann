@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 409769
+artist_familiarity: 0.413026884755
+artist_hotttnesss: 0.278263539837
+artist_id: AR1M7ZD1187B9B0D55
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d5836b98-cdb3-4f30-aa46-7fa6cc98bdc0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Winston McAnuff_ The Bazbaz Orchestra
+artist_playmeid: -1
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: e10eb9b6ea80f56380fa6516d4bca4c5
+bars_confidence: shape = (125,)
+bars_start: shape = (125,)
+beats_confidence: shape = (503,)
+beats_start: shape = (503,)
+danceability: 0.0
+duration: 225.04444
+end_of_fade_in: 0.572
+energy: 0.0
+key: 1
+key_confidence: 0.771
+loudness: -7.983
+mode: 1
+mode_confidence: 0.664
+release: A drop
+release_7digitalid: 554525
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (863,)
+segments_loudness_max: shape = (863,)
+segments_loudness_max_time: shape = (863,)
+segments_loudness_start: shape = (863,)
+segments_pitches: shape = (863, 12)
+segments_start: shape = (863,)
+segments_timbre: shape = (863, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOXTPST12A8C137716
+start_of_fade_out: 217.797
+tatums_confidence: shape = (1007,)
+tatums_start: shape = (1007,)
+tempo: 135.706
+time_signature: 4
+time_signature_confidence: 0.848
+title: Common sense
+track_7digitalid: 6131800
+track_id: TRBERHG128F933AC46
+year: 2005

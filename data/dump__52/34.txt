@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 87706
+artist_familiarity: 0.488160852219
+artist_hotttnesss: 0.299112579539
+artist_id: ARO1NHM1187B9B9D27
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f8baa848-8d5f-4151-b837-0d1dff59deb7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Los Solitarios
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 765e3a71927d9b105afb8a5dd32a35eb
+bars_confidence: shape = (379,)
+bars_start: shape = (379,)
+beats_confidence: shape = (379,)
+beats_start: shape = (379,)
+danceability: 0.0
+duration: 179.56526
+end_of_fade_in: 0.096
+energy: 0.0
+key: 4
+key_confidence: 0.427
+loudness: -11.163
+mode: 1
+mode_confidence: 0.692
+release: 12 Grandes exitos Vol. 1
+release_7digitalid: 131960
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (698,)
+segments_loudness_max: shape = (698,)
+segments_loudness_max_time: shape = (698,)
+segments_loudness_start: shape = (698,)
+segments_pitches: shape = (698, 12)
+segments_start: shape = (698,)
+segments_timbre: shape = (698, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOUXPIR12A81C21E21
+start_of_fade_out: 163.248
+tatums_confidence: shape = (758,)
+tatums_start: shape = (758,)
+tempo: 129.493
+time_signature: 1
+time_signature_confidence: 0.0
+title: Amor que terminó
+track_7digitalid: 1368107
+track_id: TRARVXR128F4236397
+year: 0

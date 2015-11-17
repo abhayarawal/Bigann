@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18232
+artist_familiarity: 0.699262055776
+artist_hotttnesss: 0.475941289598
+artist_id: AR2SMD91187B9B0582
+artist_latitude: nan
+artist_location: Boston, MA
+artist_longitude: nan
+artist_mbid: 779353f3-6401-4cda-a8a2-6fd3ec9bc11b
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Mighty Mighty Bosstones
+artist_playmeid: 176106
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 3d0112ab3887766240d41de6e3f1ddbe
+bars_confidence: shape = (81,)
+bars_start: shape = (81,)
+beats_confidence: shape = (329,)
+beats_start: shape = (329,)
+danceability: 0.0
+duration: 142.73261
+end_of_fade_in: 0.293
+energy: 0.0
+key: 9
+key_confidence: 0.002
+loudness: -7.982
+mode: 1
+mode_confidence: 0.067
+release: More Noise And Other Disturbances
+release_7digitalid: 511275
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (545,)
+segments_loudness_max: shape = (545,)
+segments_loudness_max_time: shape = (545,)
+segments_loudness_start: shape = (545,)
+segments_pitches: shape = (545, 12)
+segments_start: shape = (545,)
+segments_timbre: shape = (545, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.489038209173
+song_id: SOACZGZ12AB01849DB
+start_of_fade_out: 134.438
+tatums_confidence: shape = (659,)
+tatums_start: shape = (659,)
+tempo: 143.257
+time_signature: 4
+time_signature_confidence: 0.0
+title: Guns And The Young
+track_7digitalid: 5656433
+track_id: TRBAYER128F933D3B7
+year: 1992

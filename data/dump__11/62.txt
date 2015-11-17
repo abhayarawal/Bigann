@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 212
+artist_familiarity: 0.941896454524
+artist_hotttnesss: 0.598596744615
+artist_id: ARY53RR1187B9AE485
+artist_latitude: 44.16104
+artist_location: Belleville, Ontario, Canada
+artist_longitude: -77.3819
+artist_mbid: 0103c1cc-4a09-4a5d-a344-56ad99a77193
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Avril Lavigne
+artist_playmeid: 144
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 22aad2fb6d1b42462fb9855e9c489b97
+bars_confidence: shape = (524,)
+bars_start: shape = (524,)
+beats_confidence: shape = (524,)
+beats_start: shape = (524,)
+danceability: 0.0
+duration: 232.202
+end_of_fade_in: 0.495
+energy: 0.0
+key: 1
+key_confidence: 0.42
+loudness: -4.165
+mode: 0
+mode_confidence: 0.588
+release: The Best Damn Thing
+release_7digitalid: 312051
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (592,)
+segments_loudness_max: shape = (592,)
+segments_loudness_max_time: shape = (592,)
+segments_loudness_start: shape = (592,)
+segments_pitches: shape = (592, 12)
+segments_start: shape = (592,)
+segments_timbre: shape = (592, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.927132546253
+song_id: SOZIMLB12AF72AD1CD
+start_of_fade_out: 223.126
+tatums_confidence: shape = (1048,)
+tatums_start: shape = (1048,)
+tempo: 138.364
+time_signature: 1
+time_signature_confidence: 0.179
+title: Innocence
+track_7digitalid: 3531597
+track_id: TRADVGV128F42BCACE
+year: 2007

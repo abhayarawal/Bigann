@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 331030
+artist_familiarity: 0.32255262805
+artist_hotttnesss: 0.0
+artist_id: ARAOJ681187B9AAB76
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: dd1075fa-41b1-410f-bf7b-38299fe8d1d2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Laura Mikkola
+artist_playmeid: -1
+artist_terms: shape = (54,)
+artist_terms_freq: shape = (54,)
+artist_terms_weight: shape = (54,)
+audio_md5: dc19f56d10796c77f5f2058b22d64692
+bars_confidence: shape = (15,)
+bars_start: shape = (15,)
+beats_confidence: shape = (62,)
+beats_start: shape = (62,)
+danceability: 0.0
+duration: 28.23791
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.39
+loudness: -35.251
+mode: 1
+mode_confidence: 0.471
+release: Brahms: Piano Sonata & Variations On a Theme of Haendel_ Op.24
+release_7digitalid: 447135
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (89,)
+segments_loudness_max: shape = (89,)
+segments_loudness_max_time: shape = (89,)
+segments_loudness_start: shape = (89,)
+segments_pitches: shape = (89, 12)
+segments_start: shape = (89,)
+segments_timbre: shape = (89, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHGOFL12AB017C569
+start_of_fade_out: 28.238
+tatums_confidence: shape = (125,)
+tatums_start: shape = (125,)
+tempo: 140.422
+time_signature: 4
+time_signature_confidence: 0.012
+title: Variations On a Theme of Haendel_ Op.24: 17
+track_7digitalid: 4962016
+track_id: TRAYBCA128F93046C3
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 361518
+artist_familiarity: 0.360015521715
+artist_hotttnesss: 0.196641767999
+artist_id: ARNKWCP1187FB3AAF6
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a2da4339-08cb-49f9-b0db-c0d2860df61f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Electronic pig
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 93703341f264d23543b0c26be5f6945d
+bars_confidence: shape = (119,)
+bars_start: shape = (119,)
+beats_confidence: shape = (480,)
+beats_start: shape = (480,)
+danceability: 0.0
+duration: 218.53995
+end_of_fade_in: 0.938
+energy: 0.0
+key: 9
+key_confidence: 0.192
+loudness: -6.513
+mode: 0
+mode_confidence: 0.452
+release: Notorious P.I.G.
+release_7digitalid: 648966
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (716,)
+segments_loudness_max: shape = (716,)
+segments_loudness_max_time: shape = (716,)
+segments_loudness_start: shape = (716,)
+segments_pitches: shape = (716, 12)
+segments_start: shape = (716,)
+segments_timbre: shape = (716, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTWTSF12AB01830BD
+start_of_fade_out: 208.55
+tatums_confidence: shape = (960,)
+tatums_start: shape = (960,)
+tempo: 137.938
+time_signature: 4
+time_signature_confidence: 1.0
+title: Electro nicpig
+track_7digitalid: 7189659
+track_id: TRAMKUF128F9353E34
+year: 2005

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 266622
+artist_familiarity: 0.688332483789
+artist_hotttnesss: 0.341512969062
+artist_id: ARBYFR71187B99A2A4
+artist_latitude: 30.2676
+artist_location: Austin, TX
+artist_longitude: -97.74298
+artist_mbid: 50d49eaa-b3ac-46a6-a1fd-744bde32d8a3
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Sam Baker
+artist_playmeid: 56821
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 490dcc94c6bcf032b19ed86006d86351
+bars_confidence: shape = (110,)
+bars_start: shape = (110,)
+beats_confidence: shape = (334,)
+beats_start: shape = (334,)
+danceability: 0.0
+duration: 141.84444
+end_of_fade_in: 0.116
+energy: 0.0
+key: 8
+key_confidence: 0.736
+loudness: -15.6
+mode: 1
+mode_confidence: 0.469
+release: Sugar Man
+release_7digitalid: 374100
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (460,)
+segments_loudness_max: shape = (460,)
+segments_loudness_max_time: shape = (460,)
+segments_loudness_start: shape = (460,)
+segments_pitches: shape = (460, 12)
+segments_start: shape = (460,)
+segments_timbre: shape = (460, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOEFFEN12A8C1414E0
+start_of_fade_out: 132.812
+tatums_confidence: shape = (334,)
+tatums_start: shape = (334,)
+tempo: 145.525
+time_signature: 3
+time_signature_confidence: 0.95
+title: I Can't Break Away
+track_7digitalid: 4162735
+track_id: TRASMWP128F92CE9CE
+year: 0

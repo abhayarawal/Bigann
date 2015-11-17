@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18460
+artist_familiarity: 0.826075466699
+artist_hotttnesss: 0.59960264265
+artist_id: ARLSF8H1187B9A76B0
+artist_latitude: nan
+artist_location: Oslo, Norway
+artist_longitude: nan
+artist_mbid: 17167af8-c1da-45cc-bba2-9d23f068b7a3
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Dimmu Borgir
+artist_playmeid: 7454
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: ccbe162ee7332017e94f612235256e95
+bars_confidence: shape = (223,)
+bars_start: shape = (223,)
+beats_confidence: shape = (673,)
+beats_start: shape = (673,)
+danceability: 0.0
+duration: 282.53995
+end_of_fade_in: 0.351
+energy: 0.0
+key: 6
+key_confidence: 0.34
+loudness: -4.2
+mode: 0
+mode_confidence: 0.34
+release: Death ... Is just the beginning Vol.4
+release_7digitalid: 264857
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (451,)
+segments_loudness_max: shape = (451,)
+segments_loudness_max_time: shape = (451,)
+segments_loudness_start: shape = (451,)
+segments_pitches: shape = (451, 12)
+segments_start: shape = (451,)
+segments_timbre: shape = (451, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJBYGW12A8C13A497
+start_of_fade_out: 275.522
+tatums_confidence: shape = (1346,)
+tatums_start: shape = (1346,)
+tempo: 140.458
+time_signature: 3
+time_signature_confidence: 0.595
+title: Master Of Disharmony
+track_7digitalid: 2838961
+track_id: TRAAPFQ128F42684DB
+year: 1996

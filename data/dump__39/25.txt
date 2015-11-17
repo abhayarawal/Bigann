@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 52122
+artist_familiarity: 0.449615461335
+artist_hotttnesss: 0.429327294965
+artist_id: ARPOWQJ1187B9A2347
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d531b77f-96d8-4fb5-a498-77ace7b6653f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Junie
+artist_playmeid: 20231
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: c3954848d6c337d2c4f4583774411e48
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (413,)
+beats_start: shape = (413,)
+danceability: 0.0
+duration: 243.69587
+end_of_fade_in: 0.064
+energy: 0.0
+key: 11
+key_confidence: 0.362
+loudness: -8.71
+mode: 0
+mode_confidence: 0.355
+release: Six Degrees Of P-Funk: The Best Of George Clinton & His Funk Family
+release_7digitalid: 287287
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1036,)
+segments_loudness_max: shape = (1036,)
+segments_loudness_max_time: shape = (1036,)
+segments_loudness_start: shape = (1036,)
+segments_pitches: shape = (1036, 12)
+segments_start: shape = (1036,)
+segments_timbre: shape = (1036, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.299877488274
+song_id: SOEZRMA12A58A7D1C3
+start_of_fade_out: 231.962
+tatums_confidence: shape = (826,)
+tatums_start: shape = (826,)
+tempo: 102.682
+time_signature: 4
+time_signature_confidence: 0.696
+title: Rappin' About Rappin' (Uh-Uh-Uh)
+track_7digitalid: 3222827
+track_id: TRANKVF128F42724A1
+year: 0

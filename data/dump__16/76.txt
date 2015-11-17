@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41002
+artist_familiarity: 0.645720023336
+artist_hotttnesss: 0.543954417056
+artist_id: AROY6XW1187B991121
+artist_latitude: nan
+artist_location: Carle Place, New York
+artist_longitude: nan
+artist_mbid: 5e7ccd92-6277-451a-aab9-1efd587c50f3
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Steve Vai
+artist_playmeid: 8613
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 183fbcb2ba7853ec5e9990dd9c5bfebe
+bars_confidence: shape = (936,)
+bars_start: shape = (936,)
+beats_confidence: shape = (936,)
+beats_start: shape = (936,)
+danceability: 0.0
+duration: 383.29424
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.459
+loudness: -12.338
+mode: 1
+mode_confidence: 0.112
+release: Where The Wild Things Are
+release_7digitalid: 641828
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1555,)
+segments_loudness_max: shape = (1555,)
+segments_loudness_max_time: shape = (1555,)
+segments_loudness_start: shape = (1555,)
+segments_pitches: shape = (1555, 12)
+segments_start: shape = (1555,)
+segments_timbre: shape = (1555, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.564985964119
+song_id: SOFXFXN12AB01827D6
+start_of_fade_out: 383.294
+tatums_confidence: shape = (1871,)
+tatums_start: shape = (1871,)
+tempo: 147.83
+time_signature: 1
+time_signature_confidence: 0.0
+title: Angel Food
+track_7digitalid: 7117974
+track_id: TRAFRTX128F93426B7
+year: 2009

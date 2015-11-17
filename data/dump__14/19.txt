@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 32
+artist_familiarity: 0.840963900935
+artist_hotttnesss: 0.587869152218
+artist_id: ARNDL191187FB51583
+artist_latitude: nan
+artist_location: Seattle, USA
+artist_longitude: nan
+artist_mbid: 06fb1c8b-566e-4cb2-985b-b467c90781d4
+artist_mbtags: shape = (14,)
+artist_mbtags_count: shape = (14,)
+artist_name: Jimi Hendrix
+artist_playmeid: 808
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: cafaea1e6a31dfb3a1c1b426d0b27234
+bars_confidence: shape = (510,)
+bars_start: shape = (510,)
+beats_confidence: shape = (1532,)
+beats_start: shape = (1532,)
+danceability: 0.0
+duration: 528.14322
+end_of_fade_in: 0.38
+energy: 0.0
+key: 0
+key_confidence: 0.765
+loudness: -12.797
+mode: 1
+mode_confidence: 0.591
+release: Blues
+release_7digitalid: 669655
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (1646,)
+segments_loudness_max: shape = (1646,)
+segments_loudness_max_time: shape = (1646,)
+segments_loudness_start: shape = (1646,)
+segments_pitches: shape = (1646, 12)
+segments_start: shape = (1646,)
+segments_timbre: shape = (1646, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.62676091689
+song_id: SOIDJZY12A6701DEF7
+start_of_fade_out: 514.049
+tatums_confidence: shape = (1532,)
+tatums_start: shape = (1532,)
+tempo: 175.663
+time_signature: 3
+time_signature_confidence: 0.736
+title: Voodoo Chile Blues
+track_7digitalid: 7427294
+track_id: TRAETTV12903CBBD09
+year: 1994

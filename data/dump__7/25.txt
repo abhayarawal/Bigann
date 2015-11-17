@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 31395
+artist_familiarity: 0.73239386307
+artist_hotttnesss: 0.496224348644
+artist_id: ARBQPXY1187B98D67B
+artist_latitude: 25.89958
+artist_location: Brownsville, TX
+artist_longitude: -97.49553
+artist_mbid: cb1ca13a-4821-4e66-aff0-0fd6b3dc9a81
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Kris Kristofferson
+artist_playmeid: 3139
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: f9f7c58b5318c5a60e1a66a1d0ecb3df
+bars_confidence: shape = (55,)
+bars_start: shape = (55,)
+beats_confidence: shape = (238,)
+beats_start: shape = (238,)
+danceability: 0.0
+duration: 194.37669
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.582
+loudness: -11.663
+mode: 1
+mode_confidence: 0.679
+release: Original Album Classics
+release_7digitalid: 668413
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (531,)
+segments_loudness_max: shape = (531,)
+segments_loudness_max_time: shape = (531,)
+segments_loudness_start: shape = (531,)
+segments_pitches: shape = (531, 12)
+segments_start: shape = (531,)
+segments_timbre: shape = (531, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.360370582712
+song_id: SOIRIWN12AB0183AE7
+start_of_fade_out: 186.746
+tatums_confidence: shape = (476,)
+tatums_start: shape = (476,)
+tempo: 74.809
+time_signature: 4
+time_signature_confidence: 0.0
+title: Same Old Song
+track_7digitalid: 7410905
+track_id: TRACJWY12903CB7DBF
+year: 1974

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 549126
+artist_familiarity: 0.121187298345
+artist_hotttnesss: 0.0
+artist_id: ARLJK1O1187B9B0FC4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8e64d20f-468e-4b26-834e-ade4ab9667e4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Knightsbridge Strings
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: aa5cd429d80a26af398e11fce694a338
+bars_confidence: shape = (53,)
+bars_start: shape = (53,)
+beats_confidence: shape = (224,)
+beats_start: shape = (224,)
+danceability: 0.0
+duration: 185.93914
+end_of_fade_in: 0.63
+energy: 0.0
+key: 2
+key_confidence: 0.206
+loudness: -16.271
+mode: 0
+mode_confidence: 0.42
+release: The Strings Sing & The Strings Swing
+release_7digitalid: 795012
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (405,)
+segments_loudness_max: shape = (405,)
+segments_loudness_max_time: shape = (405,)
+segments_loudness_start: shape = (405,)
+segments_pitches: shape = (405, 12)
+segments_start: shape = (405,)
+segments_timbre: shape = (405, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLCFCO12AB018B764
+start_of_fade_out: 171.892
+tatums_confidence: shape = (447,)
+tatums_start: shape = (447,)
+tempo: 74.153
+time_signature: 4
+time_signature_confidence: 0.992
+title: Mood Indigo
+track_7digitalid: 8791871
+track_id: TRBETSW12903CA6A6B
+year: 0

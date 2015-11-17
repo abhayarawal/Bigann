@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 172558
+artist_familiarity: 0.370429861995
+artist_hotttnesss: 0.266269757193
+artist_id: ARENLSD1241B9C71B9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mack and Jamie
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 12d95d18d09e7ed8ef5d2747c08b18b0
+bars_confidence: shape = (16,)
+bars_start: shape = (16,)
+beats_confidence: shape = (53,)
+beats_start: shape = (53,)
+danceability: 0.0
+duration: 27.6371
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.145
+loudness: -14.629
+mode: 0
+mode_confidence: 0.549
+release: Extreme Channel Surfing
+release_7digitalid: 225374
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (120,)
+segments_loudness_max: shape = (120,)
+segments_loudness_max_time: shape = (120,)
+segments_loudness_start: shape = (120,)
+segments_pitches: shape = (120, 12)
+segments_start: shape = (120,)
+segments_timbre: shape = (120, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOAUWY12A8C14301D
+start_of_fade_out: 27.637
+tatums_confidence: shape = (105,)
+tatums_start: shape = (105,)
+tempo: 118.668
+time_signature: 3
+time_signature_confidence: 0.741
+title: Althea Cooley
+track_7digitalid: 2465510
+track_id: TRAUUQO128F4297426
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19072
+artist_familiarity: 0.630382334147
+artist_hotttnesss: 0.454231156571
+artist_id: AR7G5I41187FB4CE6C
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: e188a520-9cb7-4f73-a3d7-2f70c6538e92
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Adam Ant
+artist_playmeid: 12697
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 6c4e3f26a62f1ee73695224bd2044744
+bars_confidence: shape = (76,)
+bars_start: shape = (76,)
+beats_confidence: shape = (308,)
+beats_start: shape = (308,)
+danceability: 0.0
+duration: 226.5073
+end_of_fade_in: 0.117
+energy: 0.0
+key: 0
+key_confidence: 0.258
+loudness: -12.108
+mode: 1
+mode_confidence: 0.367
+release: Ants Remastered Boxset
+release_7digitalid: 588902
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (744,)
+segments_loudness_max: shape = (744,)
+segments_loudness_max_time: shape = (744,)
+segments_loudness_start: shape = (744,)
+segments_pitches: shape = (744, 12)
+segments_start: shape = (744,)
+segments_timbre: shape = (744, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODKGGR12A58A7DCB2
+start_of_fade_out: 223.527
+tatums_confidence: shape = (616,)
+tatums_start: shape = (616,)
+tempo: 82.048
+time_signature: 4
+time_signature_confidence: 0.569
+title: Mohair Locker Room Pin-Up Boys
+track_7digitalid: 6535867
+track_id: TRBGCUP12903CCFE38
+year: 1998

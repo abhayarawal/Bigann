@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7247
+artist_familiarity: 0.511663445372
+artist_hotttnesss: 0.409778997763
+artist_id: AR9JLBU1187B9AAEC4
+artist_latitude: -33.96243
+artist_location: Port Elizabeth, South Africa
+artist_longitude: 25.62326
+artist_mbid: aab7a1d7-5461-4874-8162-bc127b91da59
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Danny Williams
+artist_playmeid: 24400
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 47c6893b1a5d1487edf6dbce10ff0081
+bars_confidence: shape = (143,)
+bars_start: shape = (143,)
+beats_confidence: shape = (577,)
+beats_start: shape = (577,)
+danceability: 0.0
+duration: 249.93914
+end_of_fade_in: 0.174
+energy: 0.0
+key: 3
+key_confidence: 0.641
+loudness: -15.506
+mode: 1
+mode_confidence: 0.498
+release: The Gentle Touch
+release_7digitalid: 345588
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (719,)
+segments_loudness_max: shape = (719,)
+segments_loudness_max_time: shape = (719,)
+segments_loudness_start: shape = (719,)
+segments_pitches: shape = (719, 12)
+segments_start: shape = (719,)
+segments_timbre: shape = (719, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.239145599968
+song_id: SOVBJGB12AB01802A5
+start_of_fade_out: 242.19
+tatums_confidence: shape = (1154,)
+tatums_start: shape = (1154,)
+tempo: 143.869
+time_signature: 4
+time_signature_confidence: 0.255
+title: The Rainbow Bridge
+track_7digitalid: 3873803
+track_id: TRAWILT128F93077D7
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8122
+artist_familiarity: 0.594196619898
+artist_hotttnesss: 0.375914687587
+artist_id: ARW1DZQ1187B9A18E0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bba868d4-974d-4b3b-a09f-ceef888da5b8
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Vusi Mahlasela
+artist_playmeid: 17385
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 575f280f42f97d09e1fbea820b7deed9
+bars_confidence: shape = (160,)
+bars_start: shape = (160,)
+beats_confidence: shape = (487,)
+beats_start: shape = (487,)
+danceability: 0.0
+duration: 250.48771
+end_of_fade_in: 4.632
+energy: 0.0
+key: 2
+key_confidence: 1.0
+loudness: -10.29
+mode: 1
+mode_confidence: 0.913
+release: Miyela Africa
+release_7digitalid: 304110
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (743,)
+segments_loudness_max: shape = (743,)
+segments_loudness_max_time: shape = (743,)
+segments_loudness_start: shape = (743,)
+segments_pitches: shape = (743, 12)
+segments_start: shape = (743,)
+segments_timbre: shape = (743, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SODGKWB12A8C13F612
+start_of_fade_out: 240.553
+tatums_confidence: shape = (974,)
+tatums_start: shape = (974,)
+tempo: 120.024
+time_signature: 3
+time_signature_confidence: 0.877
+title: Amdokwe
+track_7digitalid: 3455689
+track_id: TRAIIHN128F42AA377
+year: 0

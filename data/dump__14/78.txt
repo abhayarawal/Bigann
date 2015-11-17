@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 583681
+artist_familiarity: 0.414385653298
+artist_hotttnesss: 0.276997484962
+artist_id: AR449OQ1187B99B25E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1afe1b40-79cf-4405-bbed-9a11b7dc046a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Harvey Averne
+artist_playmeid: 212577
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: cc5f1a6f851af9e866c0b16cc82ad495
+bars_confidence: shape = (271,)
+bars_start: shape = (271,)
+beats_confidence: shape = (271,)
+beats_start: shape = (271,)
+danceability: 0.0
+duration: 185.20771
+end_of_fade_in: 0.595
+energy: 0.0
+key: 8
+key_confidence: 0.941
+loudness: -15.605
+mode: 1
+mode_confidence: 0.673
+release: The Harvey Averne Dozen
+release_7digitalid: 782401
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (603,)
+segments_loudness_max: shape = (603,)
+segments_loudness_max_time: shape = (603,)
+segments_loudness_start: shape = (603,)
+segments_pitches: shape = (603, 12)
+segments_start: shape = (603,)
+segments_timbre: shape = (603, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFMNYQ12AC468D899
+start_of_fade_out: 175.102
+tatums_confidence: shape = (542,)
+tatums_start: shape = (542,)
+tempo: 89.848
+time_signature: 1
+time_signature_confidence: 0.156
+title: Why Can't We Really Be Free
+track_7digitalid: 8653462
+track_id: TRAEYXM12903CF8B86
+year: 0

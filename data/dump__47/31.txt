@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 183767
+artist_familiarity: 0.437463585948
+artist_hotttnesss: 0.346781041891
+artist_id: ARBHPBX1187FB47102
+artist_latitude: nan
+artist_location: Minnesota
+artist_longitude: nan
+artist_mbid: df0a6161-232b-47b3-a16b-f1183532af4f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Steeles
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 736e29f4251bd6e811935459cca91cfe
+bars_confidence: shape = (284,)
+bars_start: shape = (284,)
+beats_confidence: shape = (284,)
+beats_start: shape = (284,)
+danceability: 0.0
+duration: 241.26649
+end_of_fade_in: 0.183
+energy: 0.0
+key: 4
+key_confidence: 0.242
+loudness: -10.277
+mode: 1
+mode_confidence: 0.345
+release: Left Behind
+release_7digitalid: 236727
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (787,)
+segments_loudness_max: shape = (787,)
+segments_loudness_max_time: shape = (787,)
+segments_loudness_start: shape = (787,)
+segments_pitches: shape = (787, 12)
+segments_start: shape = (787,)
+segments_timbre: shape = (787, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOLZNN12A8AE47E47
+start_of_fade_out: 228.902
+tatums_confidence: shape = (853,)
+tatums_start: shape = (853,)
+tempo: 71.911
+time_signature: 1
+time_signature_confidence: 0.647
+title: Left Behind
+track_7digitalid: 2600019
+track_id: TRAQCXM128F4230BAD
+year: 0

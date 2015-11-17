@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5633
+artist_familiarity: 0.764287182498
+artist_hotttnesss: 0.57629465114
+artist_id: ARKZXSQ1187B9AC9F3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9a58fda3-f4ed-4080-a3a5-f457aac9fcdd
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Joy Division
+artist_playmeid: 831
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 48bb1fcddd7dd30f7e35862b4e9f195d
+bars_confidence: shape = (71,)
+bars_start: shape = (71,)
+beats_confidence: shape = (286,)
+beats_start: shape = (286,)
+danceability: 0.0
+duration: 128.67873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.063
+loudness: -9.663
+mode: 1
+mode_confidence: 0.453
+release: Let The Movie Begin
+release_7digitalid: 242839
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (458,)
+segments_loudness_max: shape = (458,)
+segments_loudness_max_time: shape = (458,)
+segments_loudness_start: shape = (458,)
+segments_pitches: shape = (458, 12)
+segments_start: shape = (458,)
+segments_timbre: shape = (458, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCDQJG12A8C133163
+start_of_fade_out: 123.751
+tatums_confidence: shape = (571,)
+tatums_start: shape = (571,)
+tempo: 135.066
+time_signature: 4
+time_signature_confidence: 0.791
+title: Passover
+track_7digitalid: 2648286
+track_id: TRAIXFB128F423C5A8
+year: 1980

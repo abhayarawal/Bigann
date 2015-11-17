@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10769
+artist_familiarity: 0.598739119236
+artist_hotttnesss: 0.351675722092
+artist_id: ARAVS1S1187FB4C519
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: 699067a0-ae8c-45fc-82c1-6227d91f9bb4
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Chico Hamilton
+artist_playmeid: 39306
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: d50e9453bfb0521b3fd269ff42b4b0ef
+bars_confidence: shape = (907,)
+bars_start: shape = (907,)
+beats_confidence: shape = (907,)
+beats_start: shape = (907,)
+danceability: 0.0
+duration: 473.49506
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.203
+loudness: -17.276
+mode: 1
+mode_confidence: 0.042
+release: Trio! Live @ Artpark
+release_7digitalid: 500530
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (2285,)
+segments_loudness_max: shape = (2285,)
+segments_loudness_max_time: shape = (2285,)
+segments_loudness_start: shape = (2285,)
+segments_pitches: shape = (2285, 12)
+segments_start: shape = (2285,)
+segments_timbre: shape = (2285, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOAQCNA12AB01848DD
+start_of_fade_out: 421.268
+tatums_confidence: shape = (2719,)
+tatums_start: shape = (2719,)
+tempo: 115.405
+time_signature: 1
+time_signature_confidence: 0.737
+title: Denise
+track_7digitalid: 5543008
+track_id: TRAVEKB128F9321D0B
+year: 0

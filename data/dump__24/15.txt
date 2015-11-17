@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 167867
+artist_familiarity: 0.561589945857
+artist_hotttnesss: 0.420570307208
+artist_id: AR2PT4M1187FB55B1A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d54ea4a6-0b9c-4e47-bed0-289ae9ff4037
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Los Chichos
+artist_playmeid: 1880
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 15bc2b8e5f5f5cecf46b4663f7053e7a
+bars_confidence: shape = (153,)
+bars_start: shape = (153,)
+beats_confidence: shape = (614,)
+beats_start: shape = (614,)
+danceability: 0.0
+duration: 242.80771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.129
+loudness: -8.707
+mode: 0
+mode_confidence: 0.312
+release: Amor Y Ruleta
+release_7digitalid: 221684
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (987,)
+segments_loudness_max: shape = (987,)
+segments_loudness_max_time: shape = (987,)
+segments_loudness_start: shape = (987,)
+segments_pitches: shape = (987, 12)
+segments_start: shape = (987,)
+segments_timbre: shape = (987, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLPJPM12A8C141BDE
+start_of_fade_out: 234.185
+tatums_confidence: shape = (1228,)
+tatums_start: shape = (1228,)
+tempo: 152.857
+time_signature: 4
+time_signature_confidence: 0.929
+title: Vuelve Junto A Mi
+track_7digitalid: 2423622
+track_id: TRAICNK128F428E555
+year: 1979

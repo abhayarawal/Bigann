@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 36229
+artist_familiarity: 0.0185015424026
+artist_hotttnesss: 0.35297647202
+artist_id: ARW45YR1187FB3DE95
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: da447efe-b2d7-4c62-8743-1d969a108200
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pierre Perret
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 6db093ab3a8b9f56e80b50703b9d736b
+bars_confidence: shape = (86,)
+bars_start: shape = (86,)
+beats_confidence: shape = (261,)
+beats_start: shape = (261,)
+danceability: 0.0
+duration: 143.46404
+end_of_fade_in: 0.148
+energy: 0.0
+key: 2
+key_confidence: 0.599
+loudness: -8.649
+mode: 1
+mode_confidence: 0.509
+release: Le Monde de Pierrot
+release_7digitalid: 584842
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (646,)
+segments_loudness_max: shape = (646,)
+segments_loudness_max_time: shape = (646,)
+segments_loudness_start: shape = (646,)
+segments_pitches: shape = (646, 12)
+segments_start: shape = (646,)
+segments_timbre: shape = (646, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCTLXF12A67AD9399
+start_of_fade_out: 139.401
+tatums_confidence: shape = (522,)
+tatums_start: shape = (522,)
+tempo: 112.032
+time_signature: 3
+time_signature_confidence: 0.331
+title: L'idole des femmes
+track_7digitalid: 6484313
+track_id: TRBGMAZ12903CC3707
+year: 1994

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 211068
+artist_familiarity: 0.426512760735
+artist_hotttnesss: 0.434621852464
+artist_id: AR7QAHN1187FB35F8B
+artist_latitude: 26.12367
+artist_location: FORT LAUDERDALE, Flevoland
+artist_longitude: -80.14356
+artist_mbid: 534370ec-59cb-49f5-84a6-d4c7c8ad6daf
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Groucho Marx
+artist_playmeid: 56584
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 9c46add0d5be3fc98afbe5f82cf23904
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (737,)
+beats_start: shape = (737,)
+danceability: 0.0
+duration: 586.70975
+end_of_fade_in: 0.403
+energy: 0.0
+key: 1
+key_confidence: 0.458
+loudness: -13.818
+mode: 1
+mode_confidence: 0.498
+release: EMI Comedy - Groucho Marx
+release_7digitalid: 275522
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (2416,)
+segments_loudness_max: shape = (2416,)
+segments_loudness_max_time: shape = (2416,)
+segments_loudness_start: shape = (2416,)
+segments_pitches: shape = (2416, 12)
+segments_start: shape = (2416,)
+segments_timbre: shape = (2416, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPHMCZ12A81C21C54
+start_of_fade_out: 582.345
+tatums_confidence: shape = (2211,)
+tatums_start: shape = (2211,)
+tempo: 75.22
+time_signature: 5
+time_signature_confidence: 0.487
+title: Selling Jolson A Baseball Team
+track_7digitalid: 3066705
+track_id: TRAEQOW128F42521E3
+year: 0

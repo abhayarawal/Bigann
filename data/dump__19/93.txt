@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 180543
+artist_familiarity: 0.595100752268
+artist_hotttnesss: 0.345015639015
+artist_id: ARDAE2T1187FB50796
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0b493605-f767-4d8f-a734-41ace69cd067
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mr. Sancho
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 5748bd02abb06a9481be43ac32857e43
+bars_confidence: shape = (75,)
+bars_start: shape = (75,)
+beats_confidence: shape = (304,)
+beats_start: shape = (304,)
+danceability: 0.0
+duration: 182.22975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.502
+loudness: -8.666
+mode: 1
+mode_confidence: 0.536
+release: Foreplay
+release_7digitalid: 233908
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (756,)
+segments_loudness_max: shape = (756,)
+segments_loudness_max_time: shape = (756,)
+segments_loudness_start: shape = (756,)
+segments_pitches: shape = (756, 12)
+segments_start: shape = (756,)
+segments_timbre: shape = (756, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.22373562244
+song_id: SODXZZK12A58A7B5D4
+start_of_fade_out: 168.693
+tatums_confidence: shape = (607,)
+tatums_start: shape = (607,)
+tempo: 100.032
+time_signature: 4
+time_signature_confidence: 1.0
+title: I'm callin
+track_7digitalid: 2566368
+track_id: TRAGTUF128F42297F1
+year: 0

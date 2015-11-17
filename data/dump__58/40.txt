@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 130122
+artist_familiarity: 0.651952138716
+artist_hotttnesss: 0.449693997768
+artist_id: AR040M31187B98CA41
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: eddd6562-ab2a-4a26-a53a-2141854a57df
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: The Bug Featuring Spaceape
+artist_playmeid: -1
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: b14a8c286c4bfd33ccfd42cbb1885b22
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (516,)
+beats_start: shape = (516,)
+danceability: 0.0
+duration: 327.99302
+end_of_fade_in: 0.165
+energy: 0.0
+key: 2
+key_confidence: 0.5
+loudness: -7.843
+mode: 1
+mode_confidence: 0.371
+release: London Zoo
+release_7digitalid: 266849
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1368,)
+segments_loudness_max: shape = (1368,)
+segments_loudness_max_time: shape = (1368,)
+segments_loudness_start: shape = (1368,)
+segments_pitches: shape = (1368, 12)
+segments_start: shape = (1368,)
+segments_timbre: shape = (1368, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.586776931844
+song_id: SOAEEXM12A8C13D6E3
+start_of_fade_out: 311.124
+tatums_confidence: shape = (1548,)
+tatums_start: shape = (1548,)
+tempo: 96.02
+time_signature: 5
+time_signature_confidence: 0.81
+title: Fuckaz
+track_7digitalid: 2929292
+track_id: TRATYGR128F427D08C
+year: 2008

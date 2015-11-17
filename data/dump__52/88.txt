@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 92732
+artist_familiarity: 0.413165861519
+artist_hotttnesss: 0.322882489954
+artist_id: ARBV8MP1187B9B60B1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fe237f43-efbd-4f2c-bfd0-8d73da80cb81
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Esa Pakarinen
+artist_playmeid: -1
+artist_terms: shape = (7,)
+artist_terms_freq: shape = (7,)
+artist_terms_weight: shape = (7,)
+audio_md5: 25555c9b658a0b85618929bd76e2e68a
+bars_confidence: shape = (390,)
+bars_start: shape = (390,)
+beats_confidence: shape = (390,)
+beats_start: shape = (390,)
+danceability: 0.0
+duration: 152.58077
+end_of_fade_in: 2.699
+energy: 0.0
+key: 0
+key_confidence: 0.708
+loudness: -11.136
+mode: 1
+mode_confidence: 0.599
+release: Esa Pakarinen
+release_7digitalid: 327658
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (670,)
+segments_loudness_max: shape = (670,)
+segments_loudness_max_time: shape = (670,)
+segments_loudness_start: shape = (670,)
+segments_pitches: shape = (670, 12)
+segments_start: shape = (670,)
+segments_timbre: shape = (670, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZAPRE12AB0182FFA
+start_of_fade_out: 149.664
+tatums_confidence: shape = (780,)
+tatums_start: shape = (780,)
+tempo: 156.32
+time_signature: 1
+time_signature_confidence: 0.0
+title: Vanhapoika-Severi
+track_7digitalid: 3685689
+track_id: TRASAUN128F92E3427
+year: 1990

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 338124
+artist_familiarity: 0.0248081581337
+artist_hotttnesss: 0.0
+artist_id: ARCBZHP11F4C83D8B2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Nick Conolly
+artist_playmeid: -1
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: 8b3fb8f29115ad616a7c22f1200ba6af
+bars_confidence: shape = (205,)
+bars_start: shape = (205,)
+beats_confidence: shape = (822,)
+beats_start: shape = (822,)
+danceability: 0.0
+duration: 307.51302
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.421
+loudness: -17.83
+mode: 0
+mode_confidence: 0.531
+release: Black & White TV With The Sound Turned Low
+release_7digitalid: 456614
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1080,)
+segments_loudness_max: shape = (1080,)
+segments_loudness_max_time: shape = (1080,)
+segments_loudness_start: shape = (1080,)
+segments_pitches: shape = (1080, 12)
+segments_start: shape = (1080,)
+segments_timbre: shape = (1080, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOZINBT12AB017F5D0
+start_of_fade_out: 298.028
+tatums_confidence: shape = (1644,)
+tatums_start: shape = (1644,)
+tempo: 164.698
+time_signature: 4
+time_signature_confidence: 0.026
+title: Pseudoephedrine
+track_7digitalid: 5076853
+track_id: TRAFRFF128F931DCEF
+year: 0

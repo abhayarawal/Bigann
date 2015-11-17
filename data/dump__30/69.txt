@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4073
+artist_familiarity: 0.87682987775
+artist_hotttnesss: 0.584116573124
+artist_id: ARUGU0E1187B9B30F6
+artist_latitude: 34.05349
+artist_location: Los Angeles, California, United States
+artist_longitude: -118.24532
+artist_mbid: 9efff43b-3b29-4082-824e-bc82f646f93d
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: The Doors
+artist_playmeid: 500
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 31762d474e91cdd05330443c6df62929
+bars_confidence: shape = (92,)
+bars_start: shape = (92,)
+beats_confidence: shape = (370,)
+beats_start: shape = (370,)
+danceability: 0.0
+duration: 186.56608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.248
+loudness: -6.772
+mode: 0
+mode_confidence: 0.582
+release: Strange Days
+release_7digitalid: 46027
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (579,)
+segments_loudness_max: shape = (579,)
+segments_loudness_max_time: shape = (579,)
+segments_loudness_start: shape = (579,)
+segments_pitches: shape = (579, 12)
+segments_start: shape = (579,)
+segments_timbre: shape = (579, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUAGDY12A6D4F63CF
+start_of_fade_out: 182.137
+tatums_confidence: shape = (741,)
+tatums_start: shape = (741,)
+tempo: 121.744
+time_signature: 4
+time_signature_confidence: 0.0
+title: Strange Days ( LP Version )
+track_7digitalid: 491572
+track_id: TRAKJOW128F1489DE4
+year: 1967

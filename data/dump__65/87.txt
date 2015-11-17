@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11301
+artist_familiarity: 0.645192338747
+artist_hotttnesss: 0.471224329919
+artist_id: AR3THYK1187B999F1F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 286ec4c2-b5ca-4f85-b331-280a6d73dd14
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Joa~o Gilberto
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 0b54ea322171aee5e507e4b02982efc2
+bars_confidence: shape = (171,)
+bars_start: shape = (171,)
+beats_confidence: shape = (171,)
+beats_start: shape = (171,)
+danceability: 0.0
+duration: 98.14159
+end_of_fade_in: 0.522
+energy: 0.0
+key: 9
+key_confidence: 0.494
+loudness: -13.278
+mode: 1
+mode_confidence: 0.473
+release: Jazz Set In Montecarlo - Volume 1
+release_7digitalid: 810380
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (376,)
+segments_loudness_max: shape = (376,)
+segments_loudness_max_time: shape = (376,)
+segments_loudness_start: shape = (376,)
+segments_pitches: shape = (376, 12)
+segments_start: shape = (376,)
+segments_timbre: shape = (376, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.52549711888
+song_id: SOVAGPG12AB0189963
+start_of_fade_out: 92.874
+tatums_confidence: shape = (512,)
+tatums_start: shape = (512,)
+tempo: 109.107
+time_signature: 1
+time_signature_confidence: 0.0
+title: Samba De Una Nota So´
+track_7digitalid: 8961522
+track_id: TRAWLYS12903CCFEFC
+year: 0

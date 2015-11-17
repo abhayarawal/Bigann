@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8011
+artist_familiarity: 0.705745818021
+artist_hotttnesss: 0.359064295989
+artist_id: AR8LMZM1187B9A8160
+artist_latitude: nan
+artist_location: Houston, TX
+artist_longitude: nan
+artist_mbid: 99d4a7bd-198c-4561-b87b-0cc162a43669
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Brooke Valentine
+artist_playmeid: 5730
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 9a987770d9dfda7031ce0acadde5f275
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (473,)
+beats_start: shape = (473,)
+danceability: 0.0
+duration: 218.64444
+end_of_fade_in: 0.274
+energy: 0.0
+key: 9
+key_confidence: 0.746
+loudness: -5.806
+mode: 1
+mode_confidence: 0.499
+release: Chain Letter
+release_7digitalid: 151246
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (969,)
+segments_loudness_max: shape = (969,)
+segments_loudness_max_time: shape = (969,)
+segments_loudness_start: shape = (969,)
+segments_pitches: shape = (969, 12)
+segments_start: shape = (969,)
+segments_timbre: shape = (969, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.668033347553
+song_id: SONFNOG12A58A78C05
+start_of_fade_out: 215.353
+tatums_confidence: shape = (946,)
+tatums_start: shape = (946,)
+tempo: 130.495
+time_signature: 4
+time_signature_confidence: 0.61
+title: American Girl
+track_7digitalid: 1580349
+track_id: TRBFJGB128F42612B1
+year: 2005

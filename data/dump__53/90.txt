@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 460332
+artist_familiarity: 0.482282399414
+artist_hotttnesss: 0.346473408704
+artist_id: ARD62OC1187FB54B75
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7c53fb66-4a8e-413b-b13f-8c805ba4ccaa
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sundial Aeon
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 54cdb16ac6aabe9f8b69d2fdaec79e70
+bars_confidence: shape = (171,)
+bars_start: shape = (171,)
+beats_confidence: shape = (688,)
+beats_start: shape = (688,)
+danceability: 0.0
+duration: 459.93751
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.393
+loudness: -11.791
+mode: 0
+mode_confidence: 0.459
+release: Apotheosis
+release_7digitalid: 727669
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (2388,)
+segments_loudness_max: shape = (2388,)
+segments_loudness_max_time: shape = (2388,)
+segments_loudness_start: shape = (2388,)
+segments_pitches: shape = (2388, 12)
+segments_start: shape = (2388,)
+segments_timbre: shape = (2388, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.529730607229
+song_id: SOUXWHI12AB018DBF6
+start_of_fade_out: 459.938
+tatums_confidence: shape = (2754,)
+tatums_start: shape = (2754,)
+tempo: 90.009
+time_signature: 4
+time_signature_confidence: 0.435
+title: love shelter
+track_7digitalid: 8063343
+track_id: TRASLGT12903CDFC6C
+year: 2007

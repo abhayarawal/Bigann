@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1448
+artist_familiarity: 0.817256939293
+artist_hotttnesss: 0.735208877747
+artist_id: ARH861H1187B9B799E
+artist_latitude: nan
+artist_location: Kingsland, AR
+artist_longitude: nan
+artist_mbid: d43d12a1-2dc9-4257-a2fd-0a3bb1081b86
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Johnny Cash
+artist_playmeid: 4281
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 49ae42430ee4aafed4b0ef064c340214
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (411,)
+beats_start: shape = (411,)
+danceability: 0.0
+duration: 216.81587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.286
+loudness: -6.021
+mode: 1
+mode_confidence: 0.342
+release: The Best Of The Johnny Cash TV Show
+release_7digitalid: 279707
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (857,)
+segments_loudness_max: shape = (857,)
+segments_loudness_max_time: shape = (857,)
+segments_loudness_start: shape = (857,)
+segments_pitches: shape = (857, 12)
+segments_start: shape = (857,)
+segments_timbre: shape = (857, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFELMB12A8AE48525
+start_of_fade_out: 208.149
+tatums_confidence: shape = (822,)
+tatums_start: shape = (822,)
+tempo: 115.62
+time_signature: 4
+time_signature_confidence: 0.287
+title: A Boy Named Sue
+track_7digitalid: 3119606
+track_id: TRAYXZF128F425D645
+year: 1969

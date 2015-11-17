@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5417
+artist_familiarity: 0.644519691787
+artist_hotttnesss: 0.405618981981
+artist_id: ARQDWBG1187B9891D7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0b5aab47-3b3b-45f4-8488-2fc98e035166
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Zeromancer
+artist_playmeid: 43168
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 0b5975c6a4a9e34dbe4fae3425e9a16e
+bars_confidence: shape = (105,)
+bars_start: shape = (105,)
+beats_confidence: shape = (424,)
+beats_start: shape = (424,)
+danceability: 0.0
+duration: 277.81179
+end_of_fade_in: 0.311
+energy: 0.0
+key: 2
+key_confidence: 0.604
+loudness: -8.704
+mode: 0
+mode_confidence: 0.608
+release: Zzyzx
+release_7digitalid: 200634
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (696,)
+segments_loudness_max: shape = (696,)
+segments_loudness_max_time: shape = (696,)
+segments_loudness_start: shape = (696,)
+segments_pitches: shape = (696, 12)
+segments_start: shape = (696,)
+segments_timbre: shape = (696, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMAJWB12AF72A6875
+start_of_fade_out: 271.813
+tatums_confidence: shape = (1694,)
+tatums_start: shape = (1694,)
+tempo: 93.001
+time_signature: 4
+time_signature_confidence: 1.0
+title: Mosquito Coil
+track_7digitalid: 2184250
+track_id: TRANLRX128F4259030
+year: 2003

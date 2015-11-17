@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 85456
+artist_familiarity: 0.564512290929
+artist_hotttnesss: 0.326845299833
+artist_id: ARV3IN31187FB4AAAE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e8cbebb8-be7b-4e9c-b161-f72d63a6f0c5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Till West & DJ Delicious
+artist_playmeid: -1
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: a25269a5d86e90a0c5ad44fa331765e4
+bars_confidence: shape = (79,)
+bars_start: shape = (79,)
+beats_confidence: shape = (320,)
+beats_start: shape = (320,)
+danceability: 0.0
+duration: 153.28608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.087
+loudness: -7.535
+mode: 1
+mode_confidence: 0.468
+release: Ministry of Sound Presents 100
+release_7digitalid: 345570
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (734,)
+segments_loudness_max: shape = (734,)
+segments_loudness_max_time: shape = (734,)
+segments_loudness_start: shape = (734,)
+segments_pitches: shape = (734, 12)
+segments_start: shape = (734,)
+segments_timbre: shape = (734, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.721572660839
+song_id: SOONOZL12A6D4FC475
+start_of_fade_out: 147.696
+tatums_confidence: shape = (640,)
+tatums_start: shape = (640,)
+tempo: 125.558
+time_signature: 4
+time_signature_confidence: 1.0
+title: Same Man
+track_7digitalid: 3873485
+track_id: TRAAXMX128F9307699
+year: 2006

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23024
+artist_familiarity: 0.588811880817
+artist_hotttnesss: 0.382545794601
+artist_id: AR8TCLH1187B9A85E4
+artist_latitude: nan
+artist_location: Firenze, Italy
+artist_longitude: nan
+artist_mbid: 806b793c-fb2c-401e-be44-f753c0ea2f15
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Piero Umiliani
+artist_playmeid: 4657
+artist_terms: shape = (50,)
+artist_terms_freq: shape = (50,)
+artist_terms_weight: shape = (50,)
+audio_md5: d3cadc9b78b62aa49824c6d4fbe7acf1
+bars_confidence: shape = (268,)
+bars_start: shape = (268,)
+beats_confidence: shape = (268,)
+beats_start: shape = (268,)
+danceability: 0.0
+duration: 158.51057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.51
+loudness: -11.443
+mode: 1
+mode_confidence: 0.625
+release: Questo sporco mondo meraviglioso
+release_7digitalid: 632939
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (447,)
+segments_loudness_max: shape = (447,)
+segments_loudness_max_time: shape = (447,)
+segments_loudness_start: shape = (447,)
+segments_pitches: shape = (447, 12)
+segments_start: shape = (447,)
+segments_timbre: shape = (447, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOASNLL12AB018129B
+start_of_fade_out: 154.459
+tatums_confidence: shape = (537,)
+tatums_start: shape = (537,)
+tempo: 104.263
+time_signature: 1
+time_signature_confidence: 0.0
+title: Questo sporco mondo meraviglioso
+track_7digitalid: 7026678
+track_id: TRANRGM128F932C303
+year: 0

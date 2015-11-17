@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 263016
+artist_familiarity: 0.435915456622
+artist_hotttnesss: 0.358148518803
+artist_id: AR8KUS11187B98C991
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 050ce7ea-0935-430f-bcec-b83e702298eb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Brigada Victor Jara
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 2fd76ffe0418baec679af697c53e9103
+bars_confidence: shape = (90,)
+bars_start: shape = (90,)
+beats_confidence: shape = (453,)
+beats_start: shape = (453,)
+danceability: 0.0
+duration: 312.99873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.669
+loudness: -13.885
+mode: 0
+mode_confidence: 0.638
+release: Novas Vos Trago
+release_7digitalid: 337773
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1001,)
+segments_loudness_max: shape = (1001,)
+segments_loudness_max_time: shape = (1001,)
+segments_loudness_start: shape = (1001,)
+segments_pitches: shape = (1001, 12)
+segments_start: shape = (1001,)
+segments_timbre: shape = (1001, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKRHNY12AB01837DB
+start_of_fade_out: 296.316
+tatums_confidence: shape = (906,)
+tatums_start: shape = (906,)
+tempo: 86.981
+time_signature: 5
+time_signature_confidence: 0.688
+title: Parto em terras distantes
+track_7digitalid: 3779273
+track_id: TRARRVB128F92F47CA
+year: 1998

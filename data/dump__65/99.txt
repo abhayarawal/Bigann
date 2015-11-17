@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3972
+artist_familiarity: 0.770847750968
+artist_hotttnesss: 0.452102264925
+artist_id: AR5OH1V1187FB574C3
+artist_latitude: nan
+artist_location: Shreveport, LA
+artist_longitude: nan
+artist_mbid: c5f42b91-82b9-466c-891c-a9cc391b50bc
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Kenny Wayne Shepherd
+artist_playmeid: -1
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: d3c885e411783250c8622b30ff10d4a3
+bars_confidence: shape = (583,)
+bars_start: shape = (583,)
+beats_confidence: shape = (583,)
+beats_start: shape = (583,)
+danceability: 0.0
+duration: 386.48118
+end_of_fade_in: 0.136
+energy: 0.0
+key: 7
+key_confidence: 0.554
+loudness: -7.357
+mode: 1
+mode_confidence: 0.561
+release: The Legends EP: Volume II
+release_7digitalid: 205293
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1341,)
+segments_loudness_max: shape = (1341,)
+segments_loudness_max_time: shape = (1341,)
+segments_loudness_start: shape = (1341,)
+segments_pitches: shape = (1341, 12)
+segments_start: shape = (1341,)
+segments_timbre: shape = (1341, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.518418706598
+song_id: SONABHP12A8C137026
+start_of_fade_out: 382.392
+tatums_confidence: shape = (1747,)
+tatums_start: shape = (1747,)
+tempo: 90.514
+time_signature: 1
+time_signature_confidence: 0.0
+title: Born In Louisiana [with Clarence "Gatemouth" Brown] [Live]
+track_7digitalid: 2224601
+track_id: TRAWNCP128F4261F65
+year: 0

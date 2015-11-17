@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 83148
+artist_familiarity: 0.575844756561
+artist_hotttnesss: 0.426851853236
+artist_id: AR6IJJ41187B98C872
+artist_latitude: 26.30116
+artist_location: Edinburg, TX
+artist_longitude: -98.1607
+artist_mbid: f2d25c16-403e-4dee-87bf-5e8337c84844
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bobby Pulido
+artist_playmeid: 61406
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 278a03fe90045b8b0289f6424c63f6b6
+bars_confidence: shape = (147,)
+bars_start: shape = (147,)
+beats_confidence: shape = (594,)
+beats_start: shape = (594,)
+danceability: 0.0
+duration: 187.97669
+end_of_fade_in: 0.339
+energy: 0.0
+key: 9
+key_confidence: 0.555
+loudness: -8.429
+mode: 1
+mode_confidence: 0.52
+release: Enséñame
+release_7digitalid: 153196
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (825,)
+segments_loudness_max: shape = (825,)
+segments_loudness_max_time: shape = (825,)
+segments_loudness_start: shape = (825,)
+segments_pitches: shape = (825, 12)
+segments_start: shape = (825,)
+segments_timbre: shape = (825, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXMYIB12A58A7B6D7
+start_of_fade_out: 181.522
+tatums_confidence: shape = (1189,)
+tatums_start: shape = (1189,)
+tempo: 196.681
+time_signature: 4
+time_signature_confidence: 0.0
+title: La Rosa
+track_7digitalid: 1603101
+track_id: TRBGMJD128F4266852
+year: 1996

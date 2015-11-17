@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19019
+artist_familiarity: 0.659139476822
+artist_hotttnesss: 0.413261378295
+artist_id: AR4R0741187FB39AF2
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: 2a81f398-647b-4580-b24c-d78b3103a27b
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Bow Wow Wow
+artist_playmeid: 22316
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: a593007c3138195a80ff1070f4426b48
+bars_confidence: shape = (91,)
+bars_start: shape = (91,)
+beats_confidence: shape = (368,)
+beats_start: shape = (368,)
+danceability: 0.0
+duration: 167.83628
+end_of_fade_in: 0.508
+energy: 0.0
+key: 4
+key_confidence: 0.2
+loudness: -12.324
+mode: 1
+mode_confidence: 0.322
+release: Girl Bites Dog_ Your Compact Disc Pet
+release_7digitalid: 27646
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (873,)
+segments_loudness_max: shape = (873,)
+segments_loudness_max_time: shape = (873,)
+segments_loudness_start: shape = (873,)
+segments_pitches: shape = (873, 12)
+segments_start: shape = (873,)
+segments_timbre: shape = (873, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYVAAQ12A6D4F8026
+start_of_fade_out: 157.623
+tatums_confidence: shape = (735,)
+tatums_start: shape = (735,)
+tempo: 137.398
+time_signature: 4
+time_signature_confidence: 0.197
+title: Sex
+track_7digitalid: 302329
+track_id: TRAIZRI128F1466316
+year: 0

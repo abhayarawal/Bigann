@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 141705
+artist_familiarity: 0.895297124651
+artist_hotttnesss: 0.585867596138
+artist_id: ARIRCA31187FB58E84
+artist_latitude: nan
+artist_location: Maine
+artist_longitude: nan
+artist_mbid: 7bd47e67-ecd5-49d5-837f-c692df38da4e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Maine
+artist_playmeid: -1
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 80ef4b904c3846e182a50c0fe44fd7da
+bars_confidence: shape = (112,)
+bars_start: shape = (112,)
+beats_confidence: shape = (450,)
+beats_start: shape = (450,)
+danceability: 0.0
+duration: 209.00526
+end_of_fade_in: 0.076
+energy: 0.0
+key: 0
+key_confidence: 0.738
+loudness: -4.92
+mode: 1
+mode_confidence: 0.671
+release: Can't Stop Won't Stop
+release_7digitalid: 274369
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (723,)
+segments_loudness_max: shape = (723,)
+segments_loudness_max_time: shape = (723,)
+segments_loudness_start: shape = (723,)
+segments_pitches: shape = (723, 12)
+segments_start: shape = (723,)
+segments_timbre: shape = (723, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.849678669567
+song_id: SOQWSGM12A6D4FC3C6
+start_of_fade_out: 205.827
+tatums_confidence: shape = (900,)
+tatums_start: shape = (900,)
+tempo: 130.031
+time_signature: 4
+time_signature_confidence: 0.837
+title: You Left Me
+track_7digitalid: 3043891
+track_id: TRBCSDW128F424D686
+year: 2008

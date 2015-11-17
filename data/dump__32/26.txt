@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4911
+artist_familiarity: 0.57930948808
+artist_hotttnesss: 0.370273518966
+artist_id: ARK0VFZ1187FB4309B
+artist_latitude: nan
+artist_location: DURHAM, North Carolina
+artist_longitude: nan
+artist_mbid: 2bb81df0-e9e2-42ee-9708-d30b0c85d946
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Shirley Caesar
+artist_playmeid: 15108
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 7e1215c81ee2abb2c0b1c44ce104297a
+bars_confidence: shape = (177,)
+bars_start: shape = (177,)
+beats_confidence: shape = (541,)
+beats_start: shape = (541,)
+danceability: 0.0
+duration: 314.30485
+end_of_fade_in: 0.23
+energy: 0.0
+key: 8
+key_confidence: 0.405
+loudness: -5.74
+mode: 1
+mode_confidence: 0.568
+release: A City Called Heaven
+release_7digitalid: 688694
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (951,)
+segments_loudness_max: shape = (951,)
+segments_loudness_max_time: shape = (951,)
+segments_loudness_start: shape = (951,)
+segments_pitches: shape = (951, 12)
+segments_start: shape = (951,)
+segments_timbre: shape = (951, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOGYLEI12AC4689F43
+start_of_fade_out: 310.66
+tatums_confidence: shape = (1083,)
+tatums_start: shape = (1083,)
+tempo: 103.8
+time_signature: 3
+time_signature_confidence: 1.0
+title: Cornerstone
+track_7digitalid: 7644110
+track_id: TRAKYHH12903CF08B0
+year: 0

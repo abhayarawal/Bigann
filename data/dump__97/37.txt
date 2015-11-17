@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4822
+artist_familiarity: 0.57810362972
+artist_hotttnesss: 0.414892612437
+artist_id: AR1RHCO1187B9AF0BF
+artist_latitude: 37.77916
+artist_location: San Francisco, CA
+artist_longitude: -122.42005
+artist_mbid: 05b5488d-7141-4b21-819b-d4713abf2a98
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Vince Guaraldi
+artist_playmeid: 8349
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 30978ecf6cfe623089a5b69d17b73930
+bars_confidence: shape = (361,)
+bars_start: shape = (361,)
+beats_confidence: shape = (361,)
+beats_start: shape = (361,)
+danceability: 0.0
+duration: 160.1824
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.68
+loudness: -13.394
+mode: 1
+mode_confidence: 0.743
+release: Oh Good Grief
+release_7digitalid: 610954
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (663,)
+segments_loudness_max: shape = (663,)
+segments_loudness_max_time: shape = (663,)
+segments_loudness_start: shape = (663,)
+segments_pitches: shape = (663, 12)
+segments_start: shape = (663,)
+segments_timbre: shape = (663, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.67307443495
+song_id: SOYYBBC12A58A7A468
+start_of_fade_out: 143.813
+tatums_confidence: shape = (723,)
+tatums_start: shape = (723,)
+tempo: 139.768
+time_signature: 1
+time_signature_confidence: 0.0
+title: Peppermint Patty (LP Version)
+track_7digitalid: 6791371
+track_id: TRBHLYC128F92F31BB
+year: 0

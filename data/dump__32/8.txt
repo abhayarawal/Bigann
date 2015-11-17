@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 47959
+artist_familiarity: 0.767020210404
+artist_hotttnesss: 0.629514800013
+artist_id: AR16GSC1187B9A6291
+artist_latitude: nan
+artist_location: Los Angeles, California
+artist_longitude: nan
+artist_mbid: f46bd570-5768-462e-b84c-c7c993bbf47e
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Eagles
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: e3225e75634f9bb0e2947c35b8621c18
+bars_confidence: shape = (815,)
+bars_start: shape = (815,)
+beats_confidence: shape = (815,)
+beats_start: shape = (815,)
+danceability: 0.0
+duration: 427.36281
+end_of_fade_in: 4.592
+energy: 0.0
+key: 9
+key_confidence: 0.472
+loudness: -6.991
+mode: 0
+mode_confidence: 0.328
+release: Long Road Out Of Eden
+release_7digitalid: 162755
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1572,)
+segments_loudness_max: shape = (1572,)
+segments_loudness_max_time: shape = (1572,)
+segments_loudness_start: shape = (1572,)
+segments_pitches: shape = (1572, 12)
+segments_start: shape = (1572,)
+segments_timbre: shape = (1572, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.558997327039
+song_id: SONISVG12A8C13EB34
+start_of_fade_out: 423.985
+tatums_confidence: shape = (1631,)
+tatums_start: shape = (1631,)
+tempo: 115.277
+time_signature: 1
+time_signature_confidence: 0.0
+title: Last Good Time In Town
+track_7digitalid: 1725413
+track_id: TRAKWZS128F4284294
+year: 2007

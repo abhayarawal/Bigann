@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 49956
+artist_familiarity: 0.815923420344
+artist_hotttnesss: 0.555138321923
+artist_id: ARUZRFN1187B98AC05
+artist_latitude: nan
+artist_location: Cleveland, OH
+artist_longitude: nan
+artist_mbid: 2fa45bbb-0efb-4950-9d40-94bf23cbfec1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bone Thugs-N-Harmony
+artist_playmeid: 5412
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 03875cc52833fd61c173cbbe5e3626ba
+bars_confidence: shape = (207,)
+bars_start: shape = (207,)
+beats_confidence: shape = (830,)
+beats_start: shape = (830,)
+danceability: 0.0
+duration: 266.05669
+end_of_fade_in: 0.168
+energy: 0.0
+key: 4
+key_confidence: 0.199
+loudness: -5.827
+mode: 1
+mode_confidence: 0.222
+release: BTNHRESURRECTION
+release_7digitalid: 310248
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1351,)
+segments_loudness_max: shape = (1351,)
+segments_loudness_max_time: shape = (1351,)
+segments_loudness_start: shape = (1351,)
+segments_pitches: shape = (1351, 12)
+segments_start: shape = (1351,)
+segments_timbre: shape = (1351, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZZIEB12A8C1427FD
+start_of_fade_out: 262.705
+tatums_confidence: shape = (1660,)
+tatums_start: shape = (1660,)
+tempo: 187.958
+time_signature: 4
+time_signature_confidence: 0.442
+title: 2 Glocks
+track_7digitalid: 3510166
+track_id: TRBDENB128F42B7798
+year: 2000

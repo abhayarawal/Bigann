@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11288
+artist_familiarity: 0.620041694718
+artist_hotttnesss: 0.364975595396
+artist_id: ARS6HDE1187B99CA29
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 47cd459b-06c1-462f-8fdd-27721a03ef68
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Joe Lynn Turner
+artist_playmeid: 74331
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 409a8ae849cd10c4dd62a143d4c443c1
+bars_confidence: shape = (119,)
+bars_start: shape = (119,)
+beats_confidence: shape = (481,)
+beats_start: shape = (481,)
+danceability: 0.0
+duration: 274.12853
+end_of_fade_in: 0.258
+energy: 0.0
+key: 3
+key_confidence: 0.807
+loudness: -5.912
+mode: 0
+mode_confidence: 0.662
+release: Second Hand Life: The Deluxe Edition
+release_7digitalid: 603540
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (758,)
+segments_loudness_max: shape = (758,)
+segments_loudness_max_time: shape = (758,)
+segments_loudness_start: shape = (758,)
+segments_pitches: shape = (758, 12)
+segments_start: shape = (758,)
+segments_timbre: shape = (758, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.503381236206
+song_id: SOBBDPK12AC3DF6CB3
+start_of_fade_out: 255.849
+tatums_confidence: shape = (962,)
+tatums_start: shape = (962,)
+tempo: 106.896
+time_signature: 4
+time_signature_confidence: 0.574
+title: Second Hand Life
+track_7digitalid: 6704273
+track_id: TRAEGFX12903CF8E7B
+year: 0

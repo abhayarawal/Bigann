@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 258
+artist_familiarity: 0.811953040098
+artist_hotttnesss: 0.578993548664
+artist_id: ARWA6NT1187FB3F15C
+artist_latitude: 51.11655
+artist_location: Crawley, England
+artist_longitude: -0.18703
+artist_mbid: 69ee3720-a7cb-4402-b48d-a02c366f2bcf
+artist_mbtags: shape = (16,)
+artist_mbtags_count: shape = (16,)
+artist_name: The Cure
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 8fcfc9c9dd49d2cc8963e3b156b289a8
+bars_confidence: shape = (24,)
+bars_start: shape = (24,)
+beats_confidence: shape = (98,)
+beats_start: shape = (98,)
+danceability: 0.0
+duration: 67.76118
+end_of_fade_in: 0.328
+energy: 0.0
+key: 0
+key_confidence: 0.0
+loudness: -18.967
+mode: 1
+mode_confidence: 0.0
+release: Faith
+release_7digitalid: 10684
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (170,)
+segments_loudness_max: shape = (170,)
+segments_loudness_max_time: shape = (170,)
+segments_loudness_start: shape = (170,)
+segments_pitches: shape = (170, 12)
+segments_start: shape = (170,)
+segments_timbre: shape = (170, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGKAHR12A6701F979
+start_of_fade_out: 63.832
+tatums_confidence: shape = (197,)
+tatums_start: shape = (197,)
+tempo: 89.32
+time_signature: 4
+time_signature_confidence: 1.0
+title: Doubt
+track_7digitalid: 109380
+track_id: TRAYCIH128E07890B9
+year: 1981

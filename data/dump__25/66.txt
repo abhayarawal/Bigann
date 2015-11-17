@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6219
+artist_familiarity: 0.509021261059
+artist_hotttnesss: 0.406517869328
+artist_id: ARWONOR1187FB3817C
+artist_latitude: 43.7698
+artist_location: Willowdale, Ontario, Canada
+artist_longitude: -79.4138
+artist_mbid: 283fb96d-1f5c-4b74-9bea-3e4504f07fa3
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Geddy Lee
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 4527c596d90311eeacd38e667b2b2d3f
+bars_confidence: shape = (175,)
+bars_start: shape = (175,)
+beats_confidence: shape = (529,)
+beats_start: shape = (529,)
+danceability: 0.0
+duration: 271.46404
+end_of_fade_in: 0.148
+energy: 0.0
+key: 0
+key_confidence: 0.31
+loudness: -5.956
+mode: 1
+mode_confidence: 0.475
+release: My Favorite Headache
+release_7digitalid: 9039
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (822,)
+segments_loudness_max: shape = (822,)
+segments_loudness_max_time: shape = (822,)
+segments_loudness_start: shape = (822,)
+segments_pitches: shape = (822, 12)
+segments_start: shape = (822,)
+segments_timbre: shape = (822, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.661445222903
+song_id: SOQRTCV12A67020430
+start_of_fade_out: 260.702
+tatums_confidence: shape = (1057,)
+tatums_start: shape = (1057,)
+tempo: 119.953
+time_signature: 3
+time_signature_confidence: 1.0
+title: Runaway Train (LP Version)
+track_7digitalid: 91904
+track_id: TRAIPZY128E0787299
+year: 2000

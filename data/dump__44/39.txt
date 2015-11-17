@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40734
+artist_familiarity: 0.528233945104
+artist_hotttnesss: 0.349419198676
+artist_id: ARQF6NE1187FB55EF7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c713c7d1-7b9b-4910-973e-17b0340961c3
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Karan Casey
+artist_playmeid: 144269
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 5cb4ae8d8edfa2adda7ba1cb4eac2a79
+bars_confidence: shape = (61,)
+bars_start: shape = (61,)
+beats_confidence: shape = (316,)
+beats_start: shape = (316,)
+danceability: 0.0
+duration: 189.88363
+end_of_fade_in: 0.163
+energy: 0.0
+key: 3
+key_confidence: 0.09
+loudness: -20.067
+mode: 1
+mode_confidence: 0.542
+release: Ceol Tacsi
+release_7digitalid: 611228
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (466,)
+segments_loudness_max: shape = (466,)
+segments_loudness_max_time: shape = (466,)
+segments_loudness_start: shape = (466,)
+segments_pitches: shape = (466, 12)
+segments_start: shape = (466,)
+segments_timbre: shape = (466, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOATIOJ12A8C14469B
+start_of_fade_out: 184.599
+tatums_confidence: shape = (316,)
+tatums_start: shape = (316,)
+tempo: 102.745
+time_signature: 5
+time_signature_confidence: 0.778
+title: Sliabh Geal gCua
+track_7digitalid: 6804614
+track_id: TRAPDZK128F92F6527
+year: 0

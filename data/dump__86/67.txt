@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5198
+artist_familiarity: 0.606011003247
+artist_hotttnesss: 0.487202994556
+artist_id: ARF3HEO1187B9AF2F4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1cef08dc-0429-4353-9916-9f6f421d61e9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Donnie McClurkin
+artist_playmeid: 7072
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 9502918267bac1321fac9278314e2162
+bars_confidence: shape = (399,)
+bars_start: shape = (399,)
+beats_confidence: shape = (1199,)
+beats_start: shape = (1199,)
+danceability: 0.0
+duration: 318.82404
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.577
+loudness: -4.996
+mode: 1
+mode_confidence: 0.57
+release: Donnie McClurkin... Again
+release_7digitalid: 529132
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1217,)
+segments_loudness_max: shape = (1217,)
+segments_loudness_max_time: shape = (1217,)
+segments_loudness_start: shape = (1217,)
+segments_pitches: shape = (1217, 12)
+segments_start: shape = (1217,)
+segments_timbre: shape = (1217, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.457447167085
+song_id: SORJHOX12A8AE48899
+start_of_fade_out: 304.797
+tatums_confidence: shape = (1199,)
+tatums_start: shape = (1199,)
+tempo: 230.041
+time_signature: 3
+time_signature_confidence: 1.0
+title: I'm Walking
+track_7digitalid: 5846341
+track_id: TRBDSXV128F92F5B43
+year: 0

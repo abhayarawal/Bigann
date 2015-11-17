@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40537
+artist_familiarity: 0.796320378166
+artist_hotttnesss: 0.524994964438
+artist_id: ARGK9MB1187FB37402
+artist_latitude: 40.8448
+artist_location: New York, NY [Washington Heights]
+artist_longitude: -73.93585
+artist_mbid: f57ceb78-1e1d-427e-8fad-30d63acf9d4a
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: MIMS
+artist_playmeid: 6993
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: b7d0e7358ff313d4036bf6bb05f588f0
+bars_confidence: shape = (75,)
+bars_start: shape = (75,)
+beats_confidence: shape = (315,)
+beats_start: shape = (315,)
+danceability: 0.0
+duration: 181.28934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.217
+loudness: -4.186
+mode: 1
+mode_confidence: 0.357
+release: Music Is My Savior
+release_7digitalid: 72102
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (747,)
+segments_loudness_max: shape = (747,)
+segments_loudness_max_time: shape = (747,)
+segments_loudness_start: shape = (747,)
+segments_pitches: shape = (747, 12)
+segments_start: shape = (747,)
+segments_timbre: shape = (747, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.529730607229
+song_id: SOFNQWZ12A6BD53D1D
+start_of_fade_out: 181.289
+tatums_confidence: shape = (628,)
+tatums_start: shape = (628,)
+tempo: 105.393
+time_signature: 4
+time_signature_confidence: 0.906
+title: Cop It
+track_7digitalid: 757675
+track_id: TRAMBFD128EF34B848
+year: 2007

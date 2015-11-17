@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7171
+artist_familiarity: 0.50407566993
+artist_hotttnesss: 0.334577360119
+artist_id: AR6IRG41187B9A4D98
+artist_latitude: 52.51607
+artist_location: Berlin, Germany
+artist_longitude: 13.37698
+artist_mbid: 168e3ccd-91f5-480c-970a-b35171c71164
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ec8or
+artist_playmeid: -1
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: fda6faa490ab4df4bb5eda1792d302fe
+bars_confidence: shape = (49,)
+bars_start: shape = (49,)
+beats_confidence: shape = (201,)
+beats_start: shape = (201,)
+danceability: 0.0
+duration: 123.61098
+end_of_fade_in: 0.438
+energy: 0.0
+key: 2
+key_confidence: 0.159
+loudness: -4.652
+mode: 1
+mode_confidence: 0.388
+release: The One And Only High And Low
+release_7digitalid: 505455
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (328,)
+segments_loudness_max: shape = (328,)
+segments_loudness_max_time: shape = (328,)
+segments_loudness_start: shape = (328,)
+segments_pitches: shape = (328, 12)
+segments_start: shape = (328,)
+segments_timbre: shape = (328, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONLJGK12AB01822EA
+start_of_fade_out: 120.059
+tatums_confidence: shape = (802,)
+tatums_start: shape = (802,)
+tempo: 100.006
+time_signature: 4
+time_signature_confidence: 0.682
+title: I'm A Tomorrow
+track_7digitalid: 5592651
+track_id: TRBAMFU128F932DB49
+year: 2000

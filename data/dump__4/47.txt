@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 257325
+artist_familiarity: 0.574984393926
+artist_hotttnesss: 0.317016494567
+artist_id: AREP8KM1187B9A3A7B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 25c7930a-499d-460f-a26b-7baaf3460d2c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jackson United
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 742f6672f45fe4acdd4b4e4d00848b68
+bars_confidence: shape = (76,)
+bars_start: shape = (76,)
+beats_confidence: shape = (306,)
+beats_start: shape = (306,)
+danceability: 0.0
+duration: 204.93016
+end_of_fade_in: 0.305
+energy: 0.0
+key: 11
+key_confidence: 0.378
+loudness: -4.941
+mode: 1
+mode_confidence: 0.598
+release: Harmony And Dissidence
+release_7digitalid: 328589
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (706,)
+segments_loudness_max: shape = (706,)
+segments_loudness_max_time: shape = (706,)
+segments_loudness_start: shape = (706,)
+segments_pitches: shape = (706, 12)
+segments_start: shape = (706,)
+segments_timbre: shape = (706, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.445454525493
+song_id: SOUOYDQ12AB017EFFC
+start_of_fade_out: 195.141
+tatums_confidence: shape = (1224,)
+tatums_start: shape = (1224,)
+tempo: 90.636
+time_signature: 4
+time_signature_confidence: 0.0
+title: Undertow
+track_7digitalid: 3696624
+track_id: TRABLQE128F92E5E75
+year: 2008

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 133083
+artist_familiarity: 0.338370154526
+artist_hotttnesss: 0.0
+artist_id: ARJSGPI1241B9C8855
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Birmingham Jubilee Singers
+artist_playmeid: 75022
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: 367964c05ffdcfd30de23ce7eda6f92e
+bars_confidence: shape = (113,)
+bars_start: shape = (113,)
+beats_confidence: shape = (457,)
+beats_start: shape = (457,)
+danceability: 0.0
+duration: 183.27465
+end_of_fade_in: 0.258
+energy: 0.0
+key: 8
+key_confidence: 0.567
+loudness: -18.697
+mode: 1
+mode_confidence: 0.428
+release: Birmingham Jubilee Singers Vol. 1 (1926-1927)
+release_7digitalid: 174800
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (435,)
+segments_loudness_max: shape = (435,)
+segments_loudness_max_time: shape = (435,)
+segments_loudness_start: shape = (435,)
+segments_pitches: shape = (435, 12)
+segments_start: shape = (435,)
+segments_timbre: shape = (435, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQLJZN12A8C141701
+start_of_fade_out: 173.656
+tatums_confidence: shape = (457,)
+tatums_start: shape = (457,)
+tempo: 150.405
+time_signature: 4
+time_signature_confidence: 0.807
+title: King Jesus Is My Captain
+track_7digitalid: 1875695
+track_id: TRARDLO128F42A0469
+year: 0

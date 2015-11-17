@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 417392
+artist_familiarity: 0.435455957304
+artist_hotttnesss: 0.279395875802
+artist_id: ARDTPOC1241B9CE246
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ Phiene
+artist_playmeid: -1
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: e9f3f98f9f24d168c061e0be84c4e4a3
+bars_confidence: shape = (165,)
+bars_start: shape = (165,)
+beats_confidence: shape = (661,)
+beats_start: shape = (661,)
+danceability: 0.0
+duration: 240.92689
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.28
+loudness: -10.706
+mode: 0
+mode_confidence: 0.333
+release: Da Grand Architek
+release_7digitalid: 563573
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1607,)
+segments_loudness_max: shape = (1607,)
+segments_loudness_max_time: shape = (1607,)
+segments_loudness_start: shape = (1607,)
+segments_pitches: shape = (1607, 12)
+segments_start: shape = (1607,)
+segments_timbre: shape = (1607, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOAHOBN12AB01835BF
+start_of_fade_out: 234.568
+tatums_confidence: shape = (1323,)
+tatums_start: shape = (1323,)
+tempo: 165.023
+time_signature: 4
+time_signature_confidence: 0.472
+title: Bass Fanactiks
+track_7digitalid: 6237932
+track_id: TRAQSAG128F9354A2A
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 488191
+artist_familiarity: 0.257251521691
+artist_hotttnesss: 0.138461596356
+artist_id: ARO7IJV1187FB5BFAD
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 16012d28-26ec-4f71-9da0-c629a5e9b0f6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Oesch's die Dritten
+artist_playmeid: -1
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: a2818445baf458f1ffc5787ec2b7a73e
+bars_confidence: shape = (85,)
+bars_start: shape = (85,)
+beats_confidence: shape = (259,)
+beats_start: shape = (259,)
+danceability: 0.0
+duration: 168.28036
+end_of_fade_in: 0.392
+energy: 0.0
+key: 8
+key_confidence: 0.41
+loudness: -8.079
+mode: 1
+mode_confidence: 0.593
+release: Frech - Frisch - Jodlerisch
+release_7digitalid: 660033
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (497,)
+segments_loudness_max: shape = (497,)
+segments_loudness_max_time: shape = (497,)
+segments_loudness_start: shape = (497,)
+segments_pitches: shape = (497, 12)
+segments_start: shape = (497,)
+segments_timbre: shape = (497, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOLBIYE12AB0183932
+start_of_fade_out: 160.885
+tatums_confidence: shape = (518,)
+tatums_start: shape = (518,)
+tempo: 96.447
+time_signature: 3
+time_signature_confidence: 0.451
+title: Die Zeit
+track_7digitalid: 7314898
+track_id: TRBEYTT12903CA0A8E
+year: 0

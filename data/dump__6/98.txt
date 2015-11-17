@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7037
+artist_familiarity: 0.804838888827
+artist_hotttnesss: 0.457841156094
+artist_id: AR0CANF1187B9AF35F
+artist_latitude: 34.05349
+artist_location: Los Angeles, California
+artist_longitude: -118.24532
+artist_mbid: c71abd83-9d66-4c7b-9f0d-c9c36e85a955
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Dilated Peoples
+artist_playmeid: 457
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 3c253fe8d1221f2c3ecd8b55c369928e
+bars_confidence: shape = (139,)
+bars_start: shape = (139,)
+beats_confidence: shape = (421,)
+beats_start: shape = (421,)
+danceability: 0.0
+duration: 149.91628
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.452
+loudness: -8.225
+mode: 1
+mode_confidence: 0.443
+release: Neighborhood Watch
+release_7digitalid: 10168
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (734,)
+segments_loudness_max: shape = (734,)
+segments_loudness_max_time: shape = (734,)
+segments_loudness_start: shape = (734,)
+segments_pitches: shape = (734, 12)
+segments_start: shape = (734,)
+segments_timbre: shape = (734, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.558997327039
+song_id: SOUYTJK12A6701CD3D
+start_of_fade_out: 147.603
+tatums_confidence: shape = (841,)
+tatums_start: shape = (841,)
+tempo: 165.546
+time_signature: 3
+time_signature_confidence: 0.6
+title: Big Business
+track_7digitalid: 104155
+track_id: TRACHHH128E0788A35
+year: 2004

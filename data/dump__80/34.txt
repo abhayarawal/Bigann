@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16304
+artist_familiarity: 0.661766091474
+artist_hotttnesss: 0.257381627597
+artist_id: ARYGSFW1187FB519B1
+artist_latitude: nan
+artist_location: United Kingdom
+artist_longitude: nan
+artist_mbid: a04e09c8-733c-4430-9e22-99ef9dd5e2d7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mike And The Mechanics
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: ba903c8aa948608ca0f93c258f89ba8e
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (414,)
+beats_start: shape = (414,)
+danceability: 0.0
+duration: 193.56689
+end_of_fade_in: 0.443
+energy: 0.0
+key: 0
+key_confidence: 0.551
+loudness: -5.24
+mode: 1
+mode_confidence: 0.372
+release: Living Years
+release_7digitalid: 28828
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (762,)
+segments_loudness_max: shape = (762,)
+segments_loudness_max_time: shape = (762,)
+segments_loudness_start: shape = (762,)
+segments_pitches: shape = (762, 12)
+segments_start: shape = (762,)
+segments_timbre: shape = (762, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSAOWI12A6D4F7119
+start_of_fade_out: 187.623
+tatums_confidence: shape = (829,)
+tatums_start: shape = (829,)
+tempo: 132.167
+time_signature: 4
+time_signature_confidence: 0.765
+title: Seeing Is Believing
+track_7digitalid: 316743
+track_id: TRBBMPH128F1469775
+year: 1988

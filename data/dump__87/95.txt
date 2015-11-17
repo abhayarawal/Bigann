@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 88802
+artist_familiarity: 0.697887822017
+artist_hotttnesss: 0.435144671678
+artist_id: AR6GJDZ1187B991E46
+artist_latitude: 19.4319
+artist_location: Mexico City, Mexico
+artist_longitude: -99.13285
+artist_mbid: 018886d9-0519-483b-8020-c8b11cd7308c
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: KALIMBA
+artist_playmeid: 10126
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: f5ed808940756db3e59cdfb5c1a89ec3
+bars_confidence: shape = (112,)
+bars_start: shape = (112,)
+beats_confidence: shape = (453,)
+beats_start: shape = (453,)
+danceability: 0.0
+duration: 208.09098
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.884
+loudness: -5.637
+mode: 1
+mode_confidence: 0.766
+release: Negroklaro
+release_7digitalid: 493076
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (764,)
+segments_loudness_max: shape = (764,)
+segments_loudness_max_time: shape = (764,)
+segments_loudness_start: shape = (764,)
+segments_pitches: shape = (764, 12)
+segments_start: shape = (764,)
+segments_timbre: shape = (764, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOULCSR12A58A7AAB7
+start_of_fade_out: 200.812
+tatums_confidence: shape = (1359,)
+tatums_start: shape = (1359,)
+tempo: 133.994
+time_signature: 4
+time_signature_confidence: 0.34
+title: No Volveras A Mi
+track_7digitalid: 5465788
+track_id: TRBEFFA128F930F017
+year: 2007

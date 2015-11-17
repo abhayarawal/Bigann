@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 287806
+artist_familiarity: 0.450585595863
+artist_hotttnesss: 0.336820368674
+artist_id: ARJZQ321187FB5AAA1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 29e24d21-a213-4cfc-8115-54be1c43174e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Hound Dog Taylor and The Houserockers
+artist_playmeid: 144050
+artist_terms: shape = (51,)
+artist_terms_freq: shape = (51,)
+artist_terms_weight: shape = (51,)
+audio_md5: 6b0cb9263c0d6bc0cfc48d2601909435
+bars_confidence: shape = (124,)
+bars_start: shape = (124,)
+beats_confidence: shape = (499,)
+beats_start: shape = (499,)
+danceability: 0.0
+duration: 173.89669
+end_of_fade_in: 0.177
+energy: 0.0
+key: 11
+key_confidence: 0.652
+loudness: -11.954
+mode: 0
+mode_confidence: 0.253
+release: Live In Boston
+release_7digitalid: 372663
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (755,)
+segments_loudness_max: shape = (755,)
+segments_loudness_max_time: shape = (755,)
+segments_loudness_start: shape = (755,)
+segments_pitches: shape = (755, 12)
+segments_start: shape = (755,)
+segments_timbre: shape = (755, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHEZWR12A8C14077F
+start_of_fade_out: 167.079
+tatums_confidence: shape = (998,)
+tatums_start: shape = (998,)
+tempo: 176.121
+time_signature: 4
+time_signature_confidence: 1.0
+title: Take Five - Live
+track_7digitalid: 4147666
+track_id: TRBDLAT128F92CB320
+year: 0

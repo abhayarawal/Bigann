@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 151253
+artist_familiarity: 0.569481833479
+artist_hotttnesss: 0.371935265104
+artist_id: ARJ7BVZ1187B9A845F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8185117c-bf4f-4184-a92b-52a51a9acdc3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ DLG feat. MC Flipside
+artist_playmeid: -1
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 20c7f1fbaa1c0b8cd27083165de834d0
+bars_confidence: shape = (268,)
+bars_start: shape = (268,)
+beats_confidence: shape = (806,)
+beats_start: shape = (806,)
+danceability: 0.0
+duration: 377.62567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.083
+loudness: -5.98
+mode: 1
+mode_confidence: 0.339
+release: On The Run / Back For More / Got You Moving EP
+release_7digitalid: 503103
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (2080,)
+segments_loudness_max: shape = (2080,)
+segments_loudness_max_time: shape = (2080,)
+segments_loudness_start: shape = (2080,)
+segments_pitches: shape = (2080, 12)
+segments_start: shape = (2080,)
+segments_timbre: shape = (2080, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SOCEPXD12AB01829AA
+start_of_fade_out: 358.905
+tatums_confidence: shape = (1611,)
+tatums_start: shape = (1611,)
+tempo: 128.007
+time_signature: 3
+time_signature_confidence: 0.133
+title: Got You Moving
+track_7digitalid: 5568288
+track_id: TRBHJJH128F9327C91
+year: 2006

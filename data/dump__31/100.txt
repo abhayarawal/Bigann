@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4549
+artist_familiarity: 0.830252261722
+artist_hotttnesss: 0.507965802159
+artist_id: ARYO9BU1187B9ADA88
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 169c4c28-858e-497b-81a4-8bc15e0026ea
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Porcupine Tree
+artist_playmeid: 9392
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 00a5f4123557010053dbde152b98b1de
+bars_confidence: shape = (245,)
+bars_start: shape = (245,)
+beats_confidence: shape = (982,)
+beats_start: shape = (982,)
+danceability: 0.0
+duration: 454.16444
+end_of_fade_in: 5.799
+energy: 0.0
+key: 9
+key_confidence: 0.539
+loudness: -10.321
+mode: 1
+mode_confidence: 0.375
+release: The Incident
+release_7digitalid: 584871
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1107,)
+segments_loudness_max: shape = (1107,)
+segments_loudness_max_time: shape = (1107,)
+segments_loudness_start: shape = (1107,)
+segments_pitches: shape = (1107, 12)
+segments_start: shape = (1107,)
+segments_timbre: shape = (1107, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.839908887954
+song_id: SONJMCI12AB018B16A
+start_of_fade_out: 443.461
+tatums_confidence: shape = (1963,)
+tatums_start: shape = (1963,)
+tempo: 132.972
+time_signature: 4
+time_signature_confidence: 1.0
+title: Remember Me Lover (Album Version)
+track_7digitalid: 6484488
+track_id: TRAKWNL12903CC37B6
+year: 2009

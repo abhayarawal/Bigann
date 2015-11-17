@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5571
+artist_familiarity: 0.517480571927
+artist_hotttnesss: 0.432804310302
+artist_id: ARD5SR21187B9B5F4A
+artist_latitude: 60.99655
+artist_location: Hämeenlinna
+artist_longitude: 24.49511
+artist_mbid: 078f98b2-3a90-4443-817b-440c7089b0c4
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Irwin Goodman
+artist_playmeid: -1
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: c9b6010539092f4155709571a9425479
+bars_confidence: shape = (395,)
+bars_start: shape = (395,)
+beats_confidence: shape = (395,)
+beats_start: shape = (395,)
+danceability: 0.0
+duration: 157.33506
+end_of_fade_in: 3.001
+energy: 0.0
+key: 10
+key_confidence: 0.722
+loudness: -4.398
+mode: 1
+mode_confidence: 0.775
+release: Dirly dirly dee
+release_7digitalid: 111427
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (601,)
+segments_loudness_max: shape = (601,)
+segments_loudness_max_time: shape = (601,)
+segments_loudness_start: shape = (601,)
+segments_pitches: shape = (601, 12)
+segments_start: shape = (601,)
+segments_timbre: shape = (601, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOJYPYH12A8C13D69F
+start_of_fade_out: 151.499
+tatums_confidence: shape = (790,)
+tatums_start: shape = (790,)
+tempo: 155.735
+time_signature: 1
+time_signature_confidence: 0.0
+title: Liverpoolin pokia
+track_7digitalid: 1152032
+track_id: TRADOEY128F42974FF
+year: 1985

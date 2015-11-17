@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9871
+artist_familiarity: 0.592472072956
+artist_hotttnesss: 0.420627401336
+artist_id: AR2HXXS1187B9AF3E2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f9776598-2689-41db-98d3-829f5510021c
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Jesus Jones
+artist_playmeid: 66576
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 29570ded95c5a37ba3e9a4d07dbc6917
+bars_confidence: shape = (158,)
+bars_start: shape = (158,)
+beats_confidence: shape = (634,)
+beats_start: shape = (634,)
+danceability: 0.0
+duration: 203.65016
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.914
+loudness: -14.897
+mode: 0
+mode_confidence: 0.785
+release: Perverse
+release_7digitalid: 13857
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (433,)
+segments_loudness_max: shape = (433,)
+segments_loudness_max_time: shape = (433,)
+segments_loudness_start: shape = (433,)
+segments_pitches: shape = (433, 12)
+segments_start: shape = (433,)
+segments_timbre: shape = (433, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.424090810967
+song_id: SOJLZWC12A6701EB67
+start_of_fade_out: 196.354
+tatums_confidence: shape = (634,)
+tatums_start: shape = (634,)
+tempo: 195.824
+time_signature: 4
+time_signature_confidence: 0.586
+title: Yellow Brown
+track_7digitalid: 144036
+track_id: TRBHGUK128E078E031
+year: 1993

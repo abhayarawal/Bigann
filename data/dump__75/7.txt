@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15464
+artist_familiarity: 0.334542783657
+artist_hotttnesss: 0.0490343808485
+artist_id: AROIHOI122988FEB8E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mario Rosenstock
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 6df138a37169b12264a22f4ac4ad4d2c
+bars_confidence: shape = (32,)
+bars_start: shape = (32,)
+beats_confidence: shape = (167,)
+beats_start: shape = (167,)
+danceability: 0.0
+duration: 55.66649
+end_of_fade_in: 0.125
+energy: 0.0
+key: 5
+key_confidence: 0.223
+loudness: -5.396
+mode: 1
+mode_confidence: 0.409
+release: Gift Grub
+release_7digitalid: 270011
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (212,)
+segments_loudness_max: shape = (212,)
+segments_loudness_max_time: shape = (212,)
+segments_loudness_start: shape = (212,)
+segments_pitches: shape = (212, 12)
+segments_start: shape = (212,)
+segments_timbre: shape = (212, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONZCGY12A8C1403C1
+start_of_fade_out: 53.638
+tatums_confidence: shape = (167,)
+tatums_start: shape = (167,)
+tempo: 181.731
+time_signature: 5
+time_signature_confidence: 0.0
+title: Mercedes Benz
+track_7digitalid: 2994756
+track_id: TRAZQQV128F428BAB5
+year: 0

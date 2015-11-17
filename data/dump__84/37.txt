@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 247656
+artist_familiarity: 0.506938109993
+artist_hotttnesss: 0.209857890771
+artist_id: AR137UW1187B98CCBA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5d84e905-4bbb-4dc1-8380-a796d2d62907
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Charlie Byrd Trio
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: e06ae4e35b619c85f999ee099217c83e
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (411,)
+beats_start: shape = (411,)
+danceability: 0.0
+duration: 231.94077
+end_of_fade_in: 0.525
+energy: 0.0
+key: 2
+key_confidence: 0.621
+loudness: -18.981
+mode: 0
+mode_confidence: 0.691
+release: I've Got the World On a String
+release_7digitalid: 556943
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (748,)
+segments_loudness_max: shape = (748,)
+segments_loudness_max_time: shape = (748,)
+segments_loudness_start: shape = (748,)
+segments_pitches: shape = (748, 12)
+segments_start: shape = (748,)
+segments_timbre: shape = (748, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPHYGD12CF5F890A6
+start_of_fade_out: 214.668
+tatums_confidence: shape = (822,)
+tatums_start: shape = (822,)
+tempo: 108.998
+time_signature: 4
+time_signature_confidence: 0.0
+title: I've Got The World On A String
+track_7digitalid: 6159481
+track_id: TRBCYCI128F93417F5
+year: 0

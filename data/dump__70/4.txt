@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10858
+artist_familiarity: 0.567461244019
+artist_hotttnesss: 0.383210968792
+artist_id: ARIT8YH1187FB43F30
+artist_latitude: nan
+artist_location: Whitby, Yorkshire, England
+artist_longitude: nan
+artist_mbid: 8373c711-1043-42bd-bf7d-b17ab26de5c7
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Arthur Brown
+artist_playmeid: 111140
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: cfc9b77fbe88f7e37d77242e57c77783
+bars_confidence: shape = (200,)
+bars_start: shape = (200,)
+beats_confidence: shape = (803,)
+beats_start: shape = (803,)
+danceability: 0.0
+duration: 422.16444
+end_of_fade_in: 0.305
+energy: 0.0
+key: 5
+key_confidence: 0.523
+loudness: -14.1
+mode: 0
+mode_confidence: 0.465
+release: The Crazy World Of Arthur Brown
+release_7digitalid: 15373
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1574,)
+segments_loudness_max: shape = (1574,)
+segments_loudness_max_time: shape = (1574,)
+segments_loudness_start: shape = (1574,)
+segments_pitches: shape = (1574, 12)
+segments_start: shape = (1574,)
+segments_timbre: shape = (1574, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.636287224427
+song_id: SOGGMZY12A6701FE43
+start_of_fade_out: 413.693
+tatums_confidence: shape = (1605,)
+tatums_start: shape = (1605,)
+tempo: 114.754
+time_signature: 4
+time_signature_confidence: 0.782
+title: Child Of My Kingdom
+track_7digitalid: 160908
+track_id: TRAXXVN128E0791AE4
+year: 1968

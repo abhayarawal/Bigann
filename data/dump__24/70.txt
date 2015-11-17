@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 103309
+artist_familiarity: 0.381481861314
+artist_hotttnesss: 0.350213824944
+artist_id: ARSVRVA1187B99228A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cdd110d9-11b0-441f-a07b-301ca079cadb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Nelons
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 32abc311855531d94c49392a815c356b
+bars_confidence: shape = (135,)
+bars_start: shape = (135,)
+beats_confidence: shape = (419,)
+beats_start: shape = (419,)
+danceability: 0.0
+duration: 237.03465
+end_of_fade_in: 0.34
+energy: 0.0
+key: 11
+key_confidence: 0.608
+loudness: -12.16
+mode: 1
+mode_confidence: 0.363
+release: Glad You're Here
+release_7digitalid: 360295
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (576,)
+segments_loudness_max: shape = (576,)
+segments_loudness_max_time: shape = (576,)
+segments_loudness_start: shape = (576,)
+segments_pitches: shape = (576, 12)
+segments_start: shape = (576,)
+segments_timbre: shape = (576, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUCFFN12A58A7A5D5
+start_of_fade_out: 233.332
+tatums_confidence: shape = (838,)
+tatums_start: shape = (838,)
+tempo: 107.779
+time_signature: 3
+time_signature_confidence: 1.0
+title: Only A Look
+track_7digitalid: 4014659
+track_id: TRAIHHD128F9324581
+year: 0

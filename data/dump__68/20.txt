@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 314126
+artist_familiarity: 0.489712436492
+artist_hotttnesss: 0.25109374038
+artist_id: AR74W1A1187FB5ACFC
+artist_latitude: 48.20254
+artist_location: Vienna
+artist_longitude: 16.3688
+artist_mbid: f2e11fac-6d7a-481d-8181-f08f4722ca6c
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Devanic
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: c2aee640e02028ff500bc62ecf9a4964
+bars_confidence: shape = (97,)
+bars_start: shape = (97,)
+beats_confidence: shape = (394,)
+beats_start: shape = (394,)
+danceability: 0.0
+duration: 210.88608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.447
+loudness: -5.419
+mode: 1
+mode_confidence: 0.383
+release: Mask Industries
+release_7digitalid: 417438
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (725,)
+segments_loudness_max: shape = (725,)
+segments_loudness_max_time: shape = (725,)
+segments_loudness_start: shape = (725,)
+segments_pitches: shape = (725, 12)
+segments_start: shape = (725,)
+segments_timbre: shape = (725, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKTPEY12AB018170C
+start_of_fade_out: 205.735
+tatums_confidence: shape = (787,)
+tatums_start: shape = (787,)
+tempo: 112.427
+time_signature: 4
+time_signature_confidence: 1.0
+title: You Live_ You Die
+track_7digitalid: 4642496
+track_id: TRAXHFY128F932E4E7
+year: 2006

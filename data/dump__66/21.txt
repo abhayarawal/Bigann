@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4047
+artist_familiarity: 0.584266181728
+artist_hotttnesss: 0.451570770754
+artist_id: ARHN74X1187B98D79F
+artist_latitude: nan
+artist_location: Galveston, TX
+artist_longitude: nan
+artist_mbid: e46504cb-1aac-4b9a-9581-451778df9eba
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bill Engvall
+artist_playmeid: 23391
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 9fdb4e317828141cc66afd8fde809eca
+bars_confidence: shape = (659,)
+bars_start: shape = (659,)
+beats_confidence: shape = (659,)
+beats_start: shape = (659,)
+danceability: 0.0
+duration: 307.09506
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.397
+loudness: -18.899
+mode: 0
+mode_confidence: 0.381
+release: 15° Off Cool
+release_7digitalid: 328154
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1163,)
+segments_loudness_max: shape = (1163,)
+segments_loudness_max_time: shape = (1163,)
+segments_loudness_start: shape = (1163,)
+segments_pitches: shape = (1163, 12)
+segments_start: shape = (1163,)
+segments_timbre: shape = (1163, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFIMNM12AB017A873
+start_of_fade_out: 307.095
+tatums_confidence: shape = (1319,)
+tatums_start: shape = (1319,)
+tempo: 126.341
+time_signature: 1
+time_signature_confidence: 0.576
+title: 15º Off Cool (Album Version)
+track_7digitalid: 3692568
+track_id: TRAWPBB128F92E4EFE
+year: 0

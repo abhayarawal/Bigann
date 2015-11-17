@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2130
+artist_familiarity: 0.642907249227
+artist_hotttnesss: 0.355899038459
+artist_id: AR67FTZ1187B9975EC
+artist_latitude: nan
+artist_location: NY - New York City
+artist_longitude: nan
+artist_mbid: b7590fab-4195-4056-aff1-2a3d3f4b7c84
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: María
+artist_playmeid: 1009
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 22bbe7b8443a4dd9de89f3540912ff77
+bars_confidence: shape = (79,)
+bars_start: shape = (79,)
+beats_confidence: shape = (398,)
+beats_start: shape = (398,)
+danceability: 0.0
+duration: 259.86567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.6
+loudness: -12.178
+mode: 1
+mode_confidence: 0.51
+release: Besos
+release_7digitalid: 244177
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (877,)
+segments_loudness_max: shape = (877,)
+segments_loudness_max_time: shape = (877,)
+segments_loudness_start: shape = (877,)
+segments_pitches: shape = (877, 12)
+segments_start: shape = (877,)
+segments_timbre: shape = (877, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVQPYC12A8C13B13C
+start_of_fade_out: 237.656
+tatums_confidence: shape = (796,)
+tatums_start: shape = (796,)
+tempo: 93.22
+time_signature: 4
+time_signature_confidence: 0.691
+title: Cuenta Conmigo
+track_7digitalid: 2867160
+track_id: TRATWQQ128F426F1EC
+year: 0

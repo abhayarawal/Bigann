@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3675
+artist_familiarity: 0.607562417426
+artist_hotttnesss: 0.434607401264
+artist_id: ARVVZ6Q1187B98D05D
+artist_latitude: nan
+artist_location: United States
+artist_longitude: nan
+artist_mbid: 91e760fa-98f4-4122-a1e6-c980473fccce
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Olive
+artist_playmeid: 1202
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: a5224679c8bd01ea914a9d244fa65be4
+bars_confidence: shape = (115,)
+bars_start: shape = (115,)
+beats_confidence: shape = (465,)
+beats_start: shape = (465,)
+danceability: 0.0
+duration: 211.35628
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.381
+loudness: -10.616
+mode: 1
+mode_confidence: 0.306
+release: Ministry of Sound Presents Chilled II 1991-2009
+release_7digitalid: 443821
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (608,)
+segments_loudness_max: shape = (608,)
+segments_loudness_max_time: shape = (608,)
+segments_loudness_start: shape = (608,)
+segments_pitches: shape = (608, 12)
+segments_start: shape = (608,)
+segments_timbre: shape = (608, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSXQPZ12AB01800CB
+start_of_fade_out: 197.033
+tatums_confidence: shape = (930,)
+tatums_start: shape = (930,)
+tempo: 135.111
+time_signature: 4
+time_signature_confidence: 0.058
+title: You're Not Alone
+track_7digitalid: 4931709
+track_id: TRBCKXX128F92FD505
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 149235
+artist_familiarity: 0.668055686858
+artist_hotttnesss: 0.464152439053
+artist_id: ART8F8O1187B9A538D
+artist_latitude: nan
+artist_location: Salzburg, Austria
+artist_longitude: nan
+artist_mbid: d2ced2f1-6b58-47cf-ae87-5943e2ab6d99
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Herbert von Karajan and Turin RAI Symphony Orchestra
+artist_playmeid: 24643
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 5300daf5d73dcad534cea46e6febbba6
+bars_confidence: shape = (1188,)
+bars_start: shape = (1188,)
+beats_confidence: shape = (1188,)
+beats_start: shape = (1188,)
+danceability: 0.0
+duration: 770.35057
+end_of_fade_in: 3.175
+energy: 0.0
+key: 0
+key_confidence: 0.567
+loudness: -18.427
+mode: 1
+mode_confidence: 0.708
+release: Karajan and Bernstein: Beethoven Masterpieces
+release_7digitalid: 623439
+sections_confidence: shape = (36,)
+sections_start: shape = (36,)
+segments_confidence: shape = (2114,)
+segments_loudness_max: shape = (2114,)
+segments_loudness_max_time: shape = (2114,)
+segments_loudness_start: shape = (2114,)
+segments_pitches: shape = (2114, 12)
+segments_start: shape = (2114,)
+segments_timbre: shape = (2114, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCIKUA12AB0180275
+start_of_fade_out: 764.267
+tatums_confidence: shape = (2375,)
+tatums_start: shape = (2375,)
+tempo: 92.731
+time_signature: 1
+time_signature_confidence: 0.465
+title: Symphony No. 7 in A Major_ Op. 92: I. Poco sostenuto - Vivace
+track_7digitalid: 6920769
+track_id: TRARVJE128F93127EF
+year: 0

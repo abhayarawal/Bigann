@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 505540
+artist_familiarity: 0.451816832475
+artist_hotttnesss: 0.265031500149
+artist_id: ARXVGFI122BCFC908C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0960cdac-1367-4314-b060-6ea8b9b8e586
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pascal Lejeune
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 0fbcadc653d11f0ed8f99c855ea08ab5
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (316,)
+beats_start: shape = (316,)
+danceability: 0.0
+duration: 168.01914
+end_of_fade_in: 0.183
+energy: 0.0
+key: 0
+key_confidence: 0.317
+loudness: -8.701
+mode: 1
+mode_confidence: 0.519
+release: Adélaïde
+release_7digitalid: 680455
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (562,)
+segments_loudness_max: shape = (562,)
+segments_loudness_max_time: shape = (562,)
+segments_loudness_start: shape = (562,)
+segments_pitches: shape = (562, 12)
+segments_start: shape = (562,)
+segments_timbre: shape = (562, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMFKGH12AB018A4CF
+start_of_fade_out: 164.682
+tatums_confidence: shape = (948,)
+tatums_start: shape = (948,)
+tempo: 113.998
+time_signature: 4
+time_signature_confidence: 0.508
+title: Demain au menu
+track_7digitalid: 7550467
+track_id: TRAYCSE12903CD9B68
+year: 0

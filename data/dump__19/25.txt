@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9995
+artist_familiarity: 0.467235916095
+artist_hotttnesss: 0.405498403486
+artist_id: ARNLHY61187FB3A0C0
+artist_latitude: nan
+artist_location: United States
+artist_longitude: nan
+artist_mbid: a6ee239c-c52d-4ddc-91e7-d7bf4917f04e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Organ Donors
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: b46632b5177a33a429cfb2e813b26fd5
+bars_confidence: shape = (245,)
+bars_start: shape = (245,)
+beats_confidence: shape = (991,)
+beats_start: shape = (991,)
+danceability: 0.0
+duration: 433.71057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.3
+loudness: -2.988
+mode: 1
+mode_confidence: 0.364
+release: Tranceplant
+release_7digitalid: 597790
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (2094,)
+segments_loudness_max: shape = (2094,)
+segments_loudness_max_time: shape = (2094,)
+segments_loudness_start: shape = (2094,)
+segments_pitches: shape = (2094, 12)
+segments_start: shape = (2094,)
+segments_timbre: shape = (2094, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMHHCX12AC468AB2E
+start_of_fade_out: 424.321
+tatums_confidence: shape = (1981,)
+tatums_start: shape = (1981,)
+tempo: 140.013
+time_signature: 4
+time_signature_confidence: 0.474
+title: Tranceplant
+track_7digitalid: 6634925
+track_id: TRAGNOK12903CE7FF6
+year: 0

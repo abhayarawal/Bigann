@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 80221
+artist_familiarity: 0.21977559033
+artist_hotttnesss: 0.217520891453
+artist_id: ARLIUIR11F4C8434D8
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kostis Maraveyas
+artist_playmeid: 50632
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: 5a5069fbaa35aca8bd60132fdb7be8d2
+bars_confidence: shape = (90,)
+bars_start: shape = (90,)
+beats_confidence: shape = (364,)
+beats_start: shape = (364,)
+danceability: 0.0
+duration: 247.7971
+end_of_fade_in: 0.293
+energy: 0.0
+key: 0
+key_confidence: 0.887
+loudness: -10.156
+mode: 1
+mode_confidence: 0.815
+release: Radiopirate
+release_7digitalid: 102413
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1030,)
+segments_loudness_max: shape = (1030,)
+segments_loudness_max_time: shape = (1030,)
+segments_loudness_start: shape = (1030,)
+segments_pitches: shape = (1030, 12)
+segments_start: shape = (1030,)
+segments_timbre: shape = (1030, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOGMBVZ12A8C139077
+start_of_fade_out: 239.015
+tatums_confidence: shape = (1453,)
+tatums_start: shape = (1453,)
+tempo: 90.0
+time_signature: 4
+time_signature_confidence: 0.404
+title: Love Alone
+track_7digitalid: 1056307
+track_id: TRATWLW128F4283E6E
+year: 0

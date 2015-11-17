@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 280520
+artist_familiarity: 0.406629903049
+artist_hotttnesss: 0.0
+artist_id: ARRFTTO1241B9C8C96
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Artie Fishel & The Promised Band
+artist_playmeid: -1
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: 003049908a032fd083bd1b620892f437
+bars_confidence: shape = (90,)
+bars_start: shape = (90,)
+beats_confidence: shape = (366,)
+beats_start: shape = (366,)
+danceability: 0.0
+duration: 145.76281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.006
+loudness: -7.008
+mode: 1
+mode_confidence: 0.233
+release: Gilad Atzmon presents: Artie Fishel & The Promised Band
+release_7digitalid: 363525
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (492,)
+segments_loudness_max: shape = (492,)
+segments_loudness_max_time: shape = (492,)
+segments_loudness_start: shape = (492,)
+segments_pitches: shape = (492, 12)
+segments_start: shape = (492,)
+segments_timbre: shape = (492, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOEGFSO12AB01846B9
+start_of_fade_out: 139.355
+tatums_confidence: shape = (733,)
+tatums_start: shape = (733,)
+tempo: 155.329
+time_signature: 4
+time_signature_confidence: 0.0
+title: Watermelon Man (What A Mellow Goy)
+track_7digitalid: 4046109
+track_id: TRAKMBD128F932A309
+year: 0

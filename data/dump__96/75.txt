@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 114108
+artist_familiarity: 0.725402920778
+artist_hotttnesss: 0.45495739482
+artist_id: ARVXKTV1187FB44139
+artist_latitude: 36.97402
+artist_location: Santa Cruz, CA
+artist_longitude: -122.03095
+artist_mbid: 99d6cff5-7cd7-4980-b40f-3e34aac44171
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Arsonists Get All The Girls
+artist_playmeid: 140199
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: c39eeff605226ad9a13a64c8312d75c1
+bars_confidence: shape = (199,)
+bars_start: shape = (199,)
+beats_confidence: shape = (600,)
+beats_start: shape = (600,)
+danceability: 0.0
+duration: 218.48771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.202
+loudness: -3.287
+mode: 1
+mode_confidence: 0.441
+release: Portals
+release_7digitalid: 744095
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (801,)
+segments_loudness_max: shape = (801,)
+segments_loudness_max_time: shape = (801,)
+segments_loudness_start: shape = (801,)
+segments_pitches: shape = (801, 12)
+segments_start: shape = (801,)
+segments_timbre: shape = (801, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.755068276715
+song_id: SOKEGBU12AB017FA3E
+start_of_fade_out: 215.609
+tatums_confidence: shape = (1201,)
+tatums_start: shape = (1201,)
+tempo: 166.409
+time_signature: 3
+time_signature_confidence: 0.581
+title: Skiff For The Suits
+track_7digitalid: 8236500
+track_id: TRBHHUB12903D09FEA
+year: 2009

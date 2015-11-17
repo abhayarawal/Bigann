@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 214
+artist_familiarity: 0.947327506635
+artist_hotttnesss: 0.607257279581
+artist_id: AR03BDP1187FB5B324
+artist_latitude: 34.05349
+artist_location: Kentwood, LA; Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 45a663b5-b1cb-4a91-bff6-2bef7bbfdd76
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Britney Spears
+artist_playmeid: 267
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 1bb9fe0c8ca614b6005342e3a44fe1d8
+bars_confidence: shape = (200,)
+bars_start: shape = (200,)
+beats_confidence: shape = (1012,)
+beats_start: shape = (1012,)
+danceability: 0.0
+duration: 465.47546
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.309
+loudness: -6.278
+mode: 1
+mode_confidence: 0.409
+release: 3
+release_7digitalid: 636897
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (2423,)
+segments_loudness_max: shape = (2423,)
+segments_loudness_max_time: shape = (2423,)
+segments_loudness_start: shape = (2423,)
+segments_pitches: shape = (2423, 12)
+segments_start: shape = (2423,)
+segments_timbre: shape = (2423, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQKBQI12AB0182711
+start_of_fade_out: 461.41
+tatums_confidence: shape = (2024,)
+tatums_start: shape = (2024,)
+tempo: 131.999
+time_signature: 5
+time_signature_confidence: 1.0
+title: 3
+track_7digitalid: 7069480
+track_id: TRARSKA128F9336A04
+year: 2009

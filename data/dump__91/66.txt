@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2259
+artist_familiarity: 0.662670206488
+artist_hotttnesss: 0.378969800502
+artist_id: AR0V36F1187FB366B1
+artist_latitude: 53.41961
+artist_location: Ireland
+artist_longitude: -8.24055
+artist_mbid: fce5eb9a-95a7-4a54-b9e4-fe1b036fbe57
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: The Chieftains
+artist_playmeid: 11515
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: b383a1d98c6961717f74324233118910
+bars_confidence: shape = (129,)
+bars_start: shape = (129,)
+beats_confidence: shape = (521,)
+beats_start: shape = (521,)
+danceability: 0.0
+duration: 185.86077
+end_of_fade_in: 2.293
+energy: 0.0
+key: 2
+key_confidence: 0.771
+loudness: -14.344
+mode: 1
+mode_confidence: 0.658
+release: Music Of The Celtic Harp
+release_7digitalid: 295494
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (731,)
+segments_loudness_max: shape = (731,)
+segments_loudness_max_time: shape = (731,)
+segments_loudness_start: shape = (731,)
+segments_pitches: shape = (731, 12)
+segments_start: shape = (731,)
+segments_timbre: shape = (731, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.51714897335
+song_id: SOCQVYX12A8C1389E1
+start_of_fade_out: 175.961
+tatums_confidence: shape = (1042,)
+tatums_start: shape = (1042,)
+tempo: 175.711
+time_signature: 4
+time_signature_confidence: 0.0
+title: Carolan's Concerto
+track_7digitalid: 3326556
+track_id: TRBFPVQ128F428B0D2
+year: 1971

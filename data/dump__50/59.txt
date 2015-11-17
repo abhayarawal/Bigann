@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 328794
+artist_familiarity: 0.291433259678
+artist_hotttnesss: 0.150857762445
+artist_id: AR502DZ1187B98F8E1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bc73bbad-ebd9-45c0-8581-260304b9c008
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Brian Dullaghan
+artist_playmeid: -1
+artist_terms: shape = (9,)
+artist_terms_freq: shape = (9,)
+artist_terms_weight: shape = (9,)
+audio_md5: bdadbe7f498630198fbae5504a601132
+bars_confidence: shape = (69,)
+bars_start: shape = (69,)
+beats_confidence: shape = (281,)
+beats_start: shape = (281,)
+danceability: 0.0
+duration: 190.56281
+end_of_fade_in: 0.392
+energy: 0.0
+key: 3
+key_confidence: 0.475
+loudness: -15.892
+mode: 1
+mode_confidence: 0.636
+release: Songs For A Wedding - 18 Songs For That Special Day
+release_7digitalid: 678270
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (680,)
+segments_loudness_max: shape = (680,)
+segments_loudness_max_time: shape = (680,)
+segments_loudness_start: shape = (680,)
+segments_pitches: shape = (680, 12)
+segments_start: shape = (680,)
+segments_timbre: shape = (680, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMMZQP12AB0186FFE
+start_of_fade_out: 183.687
+tatums_confidence: shape = (562,)
+tatums_start: shape = (562,)
+tempo: 90.255
+time_signature: 4
+time_signature_confidence: 1.0
+title: Can't Help Falling In Love
+track_7digitalid: 7524355
+track_id: TRARFCT12903CD3545
+year: 0

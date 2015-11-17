@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7546
+artist_familiarity: 0.595645308494
+artist_hotttnesss: 0.426009300484
+artist_id: AR6EVQA1187B9AA1DF
+artist_latitude: nan
+artist_location: Kingston, Jamaica
+artist_longitude: nan
+artist_mbid: bd67db55-a85f-4c2b-b5cd-4c8f9ceb50d4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cocoa Tea
+artist_playmeid: 34176
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 55dd06109a58d042264531399099d08b
+bars_confidence: shape = (149,)
+bars_start: shape = (149,)
+beats_confidence: shape = (601,)
+beats_start: shape = (601,)
+danceability: 0.0
+duration: 225.54077
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.78
+loudness: -5.75
+mode: 1
+mode_confidence: 0.457
+release: Israel's King
+release_7digitalid: 700068
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (929,)
+segments_loudness_max: shape = (929,)
+segments_loudness_max_time: shape = (929,)
+segments_loudness_start: shape = (929,)
+segments_pitches: shape = (929, 12)
+segments_start: shape = (929,)
+segments_timbre: shape = (929, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOLZXTN12AC468E040
+start_of_fade_out: 218.622
+tatums_confidence: shape = (1201,)
+tatums_start: shape = (1201,)
+tempo: 160.022
+time_signature: 4
+time_signature_confidence: 0.291
+title: Hurry Up And Come
+track_7digitalid: 7767082
+track_id: TRBFZMK12903D0E7BE
+year: 2008

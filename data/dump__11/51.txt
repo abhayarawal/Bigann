@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 539
+artist_familiarity: 0.605880471066
+artist_hotttnesss: 0.393660867924
+artist_id: ARK8EHO1187B9B71D1
+artist_latitude: 57.15382
+artist_location: Aberdeen, Scotland
+artist_longitude: -2.10679
+artist_mbid: f22e793d-9a7e-4ec9-9d86-7a8528688abd
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Shamen
+artist_playmeid: 17892
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: a0aca727206a5b0f65fc4309b45fc097
+bars_confidence: shape = (408,)
+bars_start: shape = (408,)
+beats_confidence: shape = (1228,)
+beats_start: shape = (1228,)
+danceability: 0.0
+duration: 337.71057
+end_of_fade_in: 5.23
+energy: 0.0
+key: 2
+key_confidence: 0.75
+loudness: -14.443
+mode: 1
+mode_confidence: 0.634
+release: Boss Drum (album)
+release_7digitalid: 313492
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1124,)
+segments_loudness_max: shape = (1124,)
+segments_loudness_max_time: shape = (1124,)
+segments_loudness_start: shape = (1124,)
+segments_pitches: shape = (1124, 12)
+segments_start: shape = (1124,)
+segments_timbre: shape = (1124, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.599660357626
+song_id: SOWCQMB12A8C141825
+start_of_fade_out: 327.738
+tatums_confidence: shape = (2455,)
+tatums_start: shape = (2455,)
+tempo: 219.826
+time_signature: 3
+time_signature_confidence: 0.265
+title: Scientas
+track_7digitalid: 3546120
+track_id: TRADUSB128F92C50C6
+year: 1992

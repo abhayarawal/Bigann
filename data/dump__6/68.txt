@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1304
+artist_familiarity: 0.822316235979
+artist_hotttnesss: 0.50881319501
+artist_id: ARTE9CG1187B99B1AF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f3bf61f8-97d4-4e52-a73d-2ddbbe8196c8
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: DMX
+artist_playmeid: 491
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 1b8b2f62c59eb0eab8eb289602996472
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (397,)
+beats_start: shape = (397,)
+danceability: 0.0
+duration: 222.09261
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.39
+loudness: -7.974
+mode: 1
+mode_confidence: 0.458
+release: It's Dark And Hell Is Hot
+release_7digitalid: 8567
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1017,)
+segments_loudness_max: shape = (1017,)
+segments_loudness_max_time: shape = (1017,)
+segments_loudness_start: shape = (1017,)
+segments_pitches: shape = (1017, 12)
+segments_start: shape = (1017,)
+segments_timbre: shape = (1017, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.678235925409
+song_id: SOVQWEN12A8C141BD9
+start_of_fade_out: 216.195
+tatums_confidence: shape = (1190,)
+tatums_start: shape = (1190,)
+tempo: 106.769
+time_signature: 4
+time_signature_confidence: 0.564
+title: Damien
+track_7digitalid: 86520
+track_id: TRACFAP128E07862C1
+year: 1998

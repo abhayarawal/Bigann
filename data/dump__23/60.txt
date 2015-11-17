@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1020
+artist_familiarity: 0.629399857238
+artist_hotttnesss: 0.345269234911
+artist_id: ARE2XN81187B98BB83
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: eab89147-d970-49c4-82a3-eff4440a81e9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Alexis HK
+artist_playmeid: -1
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 0e6fbc000ef7c633d404b5278580727a
+bars_confidence: shape = (132,)
+bars_start: shape = (132,)
+beats_confidence: shape = (533,)
+beats_start: shape = (533,)
+danceability: 0.0
+duration: 202.57914
+end_of_fade_in: 0.137
+energy: 0.0
+key: 11
+key_confidence: 0.483
+loudness: -12.215
+mode: 0
+mode_confidence: 0.564
+release: Les Affranchis
+release_7digitalid: 406997
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (802,)
+segments_loudness_max: shape = (802,)
+segments_loudness_max_time: shape = (802,)
+segments_loudness_start: shape = (802,)
+segments_pitches: shape = (802, 12)
+segments_start: shape = (802,)
+segments_timbre: shape = (802, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.327736683178
+song_id: SOQGWBX12AB017E456
+start_of_fade_out: 197.538
+tatums_confidence: shape = (1066,)
+tatums_start: shape = (1066,)
+tempo: 160.066
+time_signature: 4
+time_signature_confidence: 0.356
+title: Maudits anglois
+track_7digitalid: 4522980
+track_id: TRAHZCF128F9316036
+year: 2009

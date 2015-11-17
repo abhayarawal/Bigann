@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4867
+artist_familiarity: 0.442226985274
+artist_hotttnesss: 0.298012231684
+artist_id: ARNYDR91187FB542BF
+artist_latitude: nan
+artist_location: Knoxville, TN
+artist_longitude: nan
+artist_mbid: 95fe32b4-fcdf-4d2a-a431-09fbded2834b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: MICHAEL WHITE
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 8add82550a19761a6097db5795279fc7
+bars_confidence: shape = (70,)
+bars_start: shape = (70,)
+beats_confidence: shape = (288,)
+beats_start: shape = (288,)
+danceability: 0.0
+duration: 158.56281
+end_of_fade_in: 0.16
+energy: 0.0
+key: 4
+key_confidence: 0.549
+loudness: -13.879
+mode: 0
+mode_confidence: 0.476
+release: Michael White
+release_7digitalid: 109012
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (456,)
+segments_loudness_max: shape = (456,)
+segments_loudness_max_time: shape = (456,)
+segments_loudness_start: shape = (456,)
+segments_pitches: shape = (456, 12)
+segments_start: shape = (456,)
+segments_timbre: shape = (456, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.239062871851
+song_id: SOXEXQD12A58A7E72F
+start_of_fade_out: 144.196
+tatums_confidence: shape = (288,)
+tatums_start: shape = (288,)
+tempo: 112.289
+time_signature: 4
+time_signature_confidence: 0.565
+title: Matriarch (LP Version)
+track_7digitalid: 1126136
+track_id: TRAZMUY128F4292D9F
+year: 0

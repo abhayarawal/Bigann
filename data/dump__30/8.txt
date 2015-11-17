@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5615
+artist_familiarity: 0.75829970381
+artist_hotttnesss: 0.493629437812
+artist_id: ARUHYH21187B98BA89
+artist_latitude: 44.23153
+artist_location: Kingston, Ontario, Canada
+artist_longitude: -76.47933
+artist_mbid: e86ab653-bec8-46f3-b4b6-a1a866919ef6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Tragically Hip
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 33e815ce117c9e19b284bcc0b798e602
+bars_confidence: shape = (159,)
+bars_start: shape = (159,)
+beats_confidence: shape = (641,)
+beats_start: shape = (641,)
+danceability: 0.0
+duration: 318.87628
+end_of_fade_in: 0.09
+energy: 0.0
+key: 9
+key_confidence: 0.482
+loudness: -5.48
+mode: 1
+mode_confidence: 0.531
+release: We Are The Same
+release_7digitalid: 484765
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (869,)
+segments_loudness_max: shape = (869,)
+segments_loudness_max_time: shape = (869,)
+segments_loudness_start: shape = (869,)
+segments_pitches: shape = (869, 12)
+segments_start: shape = (869,)
+segments_timbre: shape = (869, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.460541281359
+song_id: SOQYWPI12AB017DA10
+start_of_fade_out: 295.184
+tatums_confidence: shape = (1283,)
+tatums_start: shape = (1283,)
+tempo: 122.926
+time_signature: 4
+time_signature_confidence: 1.0
+title: Country Day
+track_7digitalid: 5375571
+track_id: TRAKDMK128F92F9AFC
+year: 2009

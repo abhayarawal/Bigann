@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1178
+artist_familiarity: 0.900967633961
+artist_hotttnesss: 0.769674279295
+artist_id: ARBAW9R1187B98FB6B
+artist_latitude: 51.50632
+artist_location: London
+artist_longitude: -0.12714
+artist_mbid: 8b477559-946e-4ef2-9fe1-446cff8fdd79
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Natasha Bedingfield
+artist_playmeid: 1146
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: e9c73ac5cb721822ca194e370317f67d
+bars_confidence: shape = (229,)
+bars_start: shape = (229,)
+beats_confidence: shape = (920,)
+beats_start: shape = (920,)
+danceability: 0.0
+duration: 341.41995
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.91
+loudness: -8.652
+mode: 1
+mode_confidence: 0.635
+release: Love Like This
+release_7digitalid: 382973
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (2082,)
+segments_loudness_max: shape = (2082,)
+segments_loudness_max_time: shape = (2082,)
+segments_loudness_start: shape = (2082,)
+segments_pitches: shape = (2082, 12)
+segments_start: shape = (2082,)
+segments_timbre: shape = (2082, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWZGGJ12AAF3B583F
+start_of_fade_out: 338.936
+tatums_confidence: shape = (1841,)
+tatums_start: shape = (1841,)
+tempo: 162.329
+time_signature: 4
+time_signature_confidence: 0.896
+title: Love Like This
+track_7digitalid: 4250379
+track_id: TRBEXUF128F92DF175
+year: 2008

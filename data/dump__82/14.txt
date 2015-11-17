@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1619
+artist_familiarity: 0.582238343665
+artist_hotttnesss: 0.449052575154
+artist_id: AROCBZZ11E2835D652
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Small Faces
+artist_playmeid: 3153
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 7d9047da119e9c19f7b02998db69579a
+bars_confidence: shape = (85,)
+bars_start: shape = (85,)
+beats_confidence: shape = (350,)
+beats_start: shape = (350,)
+danceability: 0.0
+duration: 172.72118
+end_of_fade_in: 0.322
+energy: 0.0
+key: 2
+key_confidence: 0.325
+loudness: -8.643
+mode: 1
+mode_confidence: 0.56
+release: Ultimate Collection
+release_7digitalid: 340376
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (610,)
+segments_loudness_max: shape = (610,)
+segments_loudness_max_time: shape = (610,)
+segments_loudness_start: shape = (610,)
+segments_pitches: shape = (610, 12)
+segments_start: shape = (610,)
+segments_timbre: shape = (610, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONFECQ12AB017EFF7
+start_of_fade_out: 163.463
+tatums_confidence: shape = (699,)
+tatums_start: shape = (699,)
+tempo: 123.381
+time_signature: 4
+time_signature_confidence: 0.809
+title: Itchycoo Park
+track_7digitalid: 3806721
+track_id: TRBCDHQ128F92F9AE8
+year: 1967

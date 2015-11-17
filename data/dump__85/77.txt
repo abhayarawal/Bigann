@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 48797
+artist_familiarity: 0.909957522742
+artist_hotttnesss: 0.587916678788
+artist_id: AR9C8IE1187B9ACC99
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: cc0b7089-c08d-4c10-b6b0-873582c17fd6
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: System of a Down
+artist_playmeid: 1547
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 6a6aeb0d2ad0e6b320307e343a4d73a7
+bars_confidence: shape = (116,)
+bars_start: shape = (116,)
+beats_confidence: shape = (467,)
+beats_start: shape = (467,)
+danceability: 0.0
+duration: 217.59955
+end_of_fade_in: 6.676
+energy: 0.0
+key: 0
+key_confidence: 0.05
+loudness: -3.955
+mode: 1
+mode_confidence: 0.345
+release: Steal This Album!
+release_7digitalid: 402958
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (676,)
+segments_loudness_max: shape = (676,)
+segments_loudness_max_time: shape = (676,)
+segments_loudness_start: shape = (676,)
+segments_pitches: shape = (676, 12)
+segments_start: shape = (676,)
+segments_timbre: shape = (676, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.734555268271
+song_id: SOYUBHZ12A8C136E79
+start_of_fade_out: 208.805
+tatums_confidence: shape = (934,)
+tatums_start: shape = (934,)
+tempo: 130.867
+time_signature: 4
+time_signature_confidence: 0.382
+title: Streamline
+track_7digitalid: 4479611
+track_id: TRBDMDS128F930B8F1
+year: 2001

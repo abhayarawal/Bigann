@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 119000
+artist_familiarity: 0.744891287171
+artist_hotttnesss: 0.449869233142
+artist_id: AR4W5GR1187FB51F7E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 387d3712-60ae-464a-8784-1fd94034704a
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Alacranes Musical
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: d518559017ba9a57f1ea8f645235ddcc
+bars_confidence: shape = (259,)
+bars_start: shape = (259,)
+beats_confidence: shape = (780,)
+beats_start: shape = (780,)
+danceability: 0.0
+duration: 284.1073
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.492
+loudness: -5.202
+mode: 1
+mode_confidence: 0.614
+release: Los Primeros Exitos Alacraneros
+release_7digitalid: 153075
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (1022,)
+segments_loudness_max: shape = (1022,)
+segments_loudness_max_time: shape = (1022,)
+segments_loudness_start: shape = (1022,)
+segments_pitches: shape = (1022, 12)
+segments_start: shape = (1022,)
+segments_timbre: shape = (1022, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOJUPRU12A58A7A5B6
+start_of_fade_out: 278.39
+tatums_confidence: shape = (1559,)
+tatums_start: shape = (1559,)
+tempo: 168.144
+time_signature: 3
+time_signature_confidence: 0.769
+title: Indita Mia (Album Version)
+track_7digitalid: 1602457
+track_id: TRAIIJF128F4266603
+year: 0

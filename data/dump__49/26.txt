@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 84678
+artist_familiarity: 0.592699548226
+artist_hotttnesss: 0.429545084633
+artist_id: AR1I9KS1187B9AEFD4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8fe90664-ee90-4b18-b4e9-9b7cf02807bd
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: SKYCLAD
+artist_playmeid: 54465
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: bfab04e5ed5fa32b6724f2dd9ddb8786
+bars_confidence: shape = (333,)
+bars_start: shape = (333,)
+beats_confidence: shape = (1004,)
+beats_start: shape = (1004,)
+danceability: 0.0
+duration: 361.24689
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.954
+loudness: -8.294
+mode: 0
+mode_confidence: 0.748
+release: Another Fine Mess
+release_7digitalid: 167445
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1172,)
+segments_loudness_max: shape = (1172,)
+segments_loudness_max_time: shape = (1172,)
+segments_loudness_start: shape = (1172,)
+segments_pitches: shape = (1172, 12)
+segments_start: shape = (1172,)
+segments_timbre: shape = (1172, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.474147940978
+song_id: SOMTHTV12A8C13F714
+start_of_fade_out: 361.247
+tatums_confidence: shape = (2009,)
+tatums_start: shape = (2009,)
+tempo: 167.504
+time_signature: 3
+time_signature_confidence: 0.859
+title: The One Piece Puzzle
+track_7digitalid: 1770116
+track_id: TRAQTOS128F428E94B
+year: 1994

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 314186
+artist_familiarity: 0.455087591331
+artist_hotttnesss: 0.360163491409
+artist_id: AR3UYDN1187B99DCA3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f2054773-70d6-47fe-923b-62585ba97fee
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Palito Ortega
+artist_playmeid: 38636
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 75463c6388ff062acfcd9d444d0b8db3
+bars_confidence: shape = (98,)
+bars_start: shape = (98,)
+beats_confidence: shape = (396,)
+beats_start: shape = (396,)
+danceability: 0.0
+duration: 156.96934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.693
+loudness: -7.264
+mode: 0
+mode_confidence: 0.669
+release: Inolvidables RCA - 20 Grandes Exitos
+release_7digitalid: 509391
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (688,)
+segments_loudness_max: shape = (688,)
+segments_loudness_max_time: shape = (688,)
+segments_loudness_start: shape = (688,)
+segments_pitches: shape = (688, 12)
+segments_start: shape = (688,)
+segments_timbre: shape = (688, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.606491352845
+song_id: SOGCPXG12AB0184F73
+start_of_fade_out: 151.922
+tatums_confidence: shape = (793,)
+tatums_start: shape = (793,)
+tempo: 152.249
+time_signature: 4
+time_signature_confidence: 0.0
+title: Corazón Contento
+track_7digitalid: 5636640
+track_id: TRASGRP128F9338663
+year: 2004

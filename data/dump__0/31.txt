@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9947
+artist_familiarity: 0.706827671304
+artist_hotttnesss: 0.416173064627
+artist_id: ARB29H41187B98F0EF
+artist_latitude: 41.88415
+artist_location: Chicago
+artist_longitude: -87.63241
+artist_mbid: 44fd61e1-119c-479e-8301-8ac5c77148bf
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Terry Callier
+artist_playmeid: 43725
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 1bcc5424889fa52e636b6ff801100c24
+bars_confidence: shape = (203,)
+bars_start: shape = (203,)
+beats_confidence: shape = (625,)
+beats_start: shape = (625,)
+danceability: 0.0
+duration: 342.56934
+end_of_fade_in: 0.063
+energy: 0.0
+key: 6
+key_confidence: 0.381
+loudness: -11.939
+mode: 1
+mode_confidence: 0.538
+release: Occasional Rain
+release_7digitalid: 228326
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (897,)
+segments_loudness_max: shape = (897,)
+segments_loudness_max_time: shape = (897,)
+segments_loudness_start: shape = (897,)
+segments_pitches: shape = (897, 12)
+segments_start: shape = (897,)
+segments_timbre: shape = (897, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.41373983586
+song_id: SOGNCJP12A58A80271
+start_of_fade_out: 333.154
+tatums_confidence: shape = (1250,)
+tatums_start: shape = (1250,)
+tempo: 110.189
+time_signature: 3
+time_signature_confidence: 0.353
+title: Do You Finally Need A Friend
+track_7digitalid: 2503960
+track_id: TRAACPE128F421C1B9
+year: 1972

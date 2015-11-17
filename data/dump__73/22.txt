@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16269
+artist_familiarity: 0.700679841774
+artist_hotttnesss: 0.503362447997
+artist_id: ARML8X41187B990644
+artist_latitude: nan
+artist_location: Glasgow, Scotland
+artist_longitude: nan
+artist_mbid: f41490ce-fe39-435d-86c0-ab5ce098b423
+artist_mbtags: shape = (14,)
+artist_mbtags_count: shape = (14,)
+artist_name: Simple Minds
+artist_playmeid: 1445
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 9dfa28f4a343ae3c740ac8e13ccda48c
+bars_confidence: shape = (135,)
+bars_start: shape = (135,)
+beats_confidence: shape = (544,)
+beats_start: shape = (544,)
+danceability: 0.0
+duration: 261.8771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.376
+loudness: -7.968
+mode: 1
+mode_confidence: 0.568
+release: Real Life
+release_7digitalid: 208156
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (862,)
+segments_loudness_max: shape = (862,)
+segments_loudness_max_time: shape = (862,)
+segments_loudness_start: shape = (862,)
+segments_pitches: shape = (862, 12)
+segments_start: shape = (862,)
+segments_timbre: shape = (862, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOFAMF12A6D4F5D2F
+start_of_fade_out: 261.877
+tatums_confidence: shape = (1089,)
+tatums_start: shape = (1089,)
+tempo: 125.344
+time_signature: 4
+time_signature_confidence: 0.328
+title: See The Lights (2002 Digital Remaster)
+track_7digitalid: 2257237
+track_id: TRAZACV128F426983D
+year: 1991

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 259105
+artist_familiarity: 0.0459956929411
+artist_hotttnesss: 0.0
+artist_id: ARWDGQW1269FCCF0F6
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Daddy Dog
+artist_playmeid: -1
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: 48361be510c7a64cd334b9fcef24e50e
+bars_confidence: shape = (72,)
+bars_start: shape = (72,)
+beats_confidence: shape = (290,)
+beats_start: shape = (290,)
+danceability: 0.0
+duration: 196.96281
+end_of_fade_in: 0.38
+energy: 0.0
+key: 4
+key_confidence: 0.0
+loudness: -8.227
+mode: 1
+mode_confidence: 0.0
+release: Turntable Essence
+release_7digitalid: 332345
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (901,)
+segments_loudness_max: shape = (901,)
+segments_loudness_max_time: shape = (901,)
+segments_loudness_start: shape = (901,)
+segments_pitches: shape = (901, 12)
+segments_start: shape = (901,)
+segments_timbre: shape = (901, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVIKTX12AB017E98C
+start_of_fade_out: 193.91
+tatums_confidence: shape = (1163,)
+tatums_start: shape = (1163,)
+tempo: 88.861
+time_signature: 4
+time_signature_confidence: 0.412
+title: Bluesanova
+track_7digitalid: 3724800
+track_id: TRBHJLA128F92EC039
+year: 0

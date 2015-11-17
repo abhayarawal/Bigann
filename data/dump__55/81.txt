@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 109333
+artist_familiarity: 0.379734511746
+artist_hotttnesss: 0.31386609958
+artist_id: ARY1P2B1187B9B78F5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d4a76953-f4fa-4a49-a0ea-b05eac61f8e8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mariano Yanani
+artist_playmeid: 53027
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: 600aeab9a453afc35aafc741f5a5c2f8
+bars_confidence: shape = (71,)
+bars_start: shape = (71,)
+beats_confidence: shape = (290,)
+beats_start: shape = (290,)
+danceability: 0.0
+duration: 180.00934
+end_of_fade_in: 0.554
+energy: 0.0
+key: 1
+key_confidence: 1.0
+loudness: -13.943
+mode: 1
+mode_confidence: 0.921
+release: Babies Go U2
+release_7digitalid: 154511
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (558,)
+segments_loudness_max: shape = (558,)
+segments_loudness_max_time: shape = (558,)
+segments_loudness_start: shape = (558,)
+segments_pitches: shape = (558, 12)
+segments_start: shape = (558,)
+segments_timbre: shape = (558, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.27074649435
+song_id: SOAFNMG12A8C136D00
+start_of_fade_out: 169.599
+tatums_confidence: shape = (580,)
+tatums_start: shape = (580,)
+tempo: 96.962
+time_signature: 4
+time_signature_confidence: 1.0
+title: I Still Haven't Found What I'm Looking For
+track_7digitalid: 1614576
+track_id: TRATAQC128F4269549
+year: 2003

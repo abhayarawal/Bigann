@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20026
+artist_familiarity: 0.577612661012
+artist_hotttnesss: 0.446363867468
+artist_id: ARNSAEA1187B9B908E
+artist_latitude: 18.01361
+artist_location: Ponce, Puerto Rico
+artist_longitude: -66.6149
+artist_mbid: 44401c2f-3e53-43a7-ab51-bfd32c676b9a
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Cheo Feliciano
+artist_playmeid: 55071
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: ece1e3d154332850f9173f40cee52465
+bars_confidence: shape = (180,)
+bars_start: shape = (180,)
+beats_confidence: shape = (725,)
+beats_start: shape = (725,)
+danceability: 0.0
+duration: 269.26975
+end_of_fade_in: 3.495
+energy: 0.0
+key: 3
+key_confidence: 0.589
+loudness: -6.071
+mode: 1
+mode_confidence: 0.486
+release: Latin Nights
+release_7digitalid: 366780
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (977,)
+segments_loudness_max: shape = (977,)
+segments_loudness_max_time: shape = (977,)
+segments_loudness_start: shape = (977,)
+segments_pitches: shape = (977, 12)
+segments_start: shape = (977,)
+segments_timbre: shape = (977, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLAJJX12AB01824B9
+start_of_fade_out: 262.397
+tatums_confidence: shape = (1449,)
+tatums_start: shape = (1449,)
+tempo: 165.346
+time_signature: 4
+time_signature_confidence: 0.117
+title: Juguete
+track_7digitalid: 4083884
+track_id: TRAHSWZ128F9332296
+year: 1972

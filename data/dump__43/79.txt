@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1270
+artist_familiarity: 0.864867842092
+artist_hotttnesss: 0.76607616442
+artist_id: ARKR75V1187FB3D4D5
+artist_latitude: nan
+artist_location: New Jersey
+artist_longitude: nan
+artist_mbid: c07f0676-9143-4217-8a9f-4c26bd636f13
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: My Chemical Romance
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 911c9c12fba44941e05fe679b4bd5a9e
+bars_confidence: shape = (39,)
+bars_start: shape = (39,)
+beats_confidence: shape = (120,)
+beats_start: shape = (120,)
+danceability: 0.0
+duration: 57.18159
+end_of_fade_in: 0.189
+energy: 0.0
+key: 6
+key_confidence: 0.0
+loudness: -22.42
+mode: 0
+mode_confidence: 0.235
+release: Three Cheers For Sweet Revenge
+release_7digitalid: 2005
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (123,)
+segments_loudness_max: shape = (123,)
+segments_loudness_max_time: shape = (123,)
+segments_loudness_start: shape = (123,)
+segments_pitches: shape = (123, 12)
+segments_start: shape = (123,)
+segments_timbre: shape = (123, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.833658152427
+song_id: SOMTYLD12AF72A6883
+start_of_fade_out: 54.608
+tatums_confidence: shape = (240,)
+tatums_start: shape = (240,)
+tempo: 132.474
+time_signature: 3
+time_signature_confidence: 1.0
+title: Interlude (Album Version)
+track_7digitalid: 1420741
+track_id: TRAOYFS128F423E593
+year: 2004

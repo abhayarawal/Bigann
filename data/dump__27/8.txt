@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1646
+artist_familiarity: 0.641172817621
+artist_hotttnesss: 0.436769069709
+artist_id: ARC0MTS1187FB44C21
+artist_latitude: 50.84838
+artist_location: Brussels, Belgium
+artist_longitude: 4.34968
+artist_mbid: 20404789-b0f3-43de-bbe1-f4fe39e83e87
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Toots Thielemans
+artist_playmeid: 16621
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: f9764d54c31a3d9e9d2c9ce9ee7c970a
+bars_confidence: shape = (341,)
+bars_start: shape = (341,)
+beats_confidence: shape = (341,)
+beats_start: shape = (341,)
+danceability: 0.0
+duration: 302.62812
+end_of_fade_in: 0.322
+energy: 0.0
+key: 5
+key_confidence: 0.061
+loudness: -16.252
+mode: 0
+mode_confidence: 0.307
+release: Only Trust Your Heart
+release_7digitalid: 398646
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (813,)
+segments_loudness_max: shape = (813,)
+segments_loudness_max_time: shape = (813,)
+segments_loudness_start: shape = (813,)
+segments_pitches: shape = (813, 12)
+segments_start: shape = (813,)
+segments_timbre: shape = (813, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONRBMW12AB017E52D
+start_of_fade_out: 290.783
+tatums_confidence: shape = (1024,)
+tatums_start: shape = (1024,)
+tempo: 68.326
+time_signature: 1
+time_signature_confidence: 0.729
+title: Sophisticated Lady
+track_7digitalid: 4428442
+track_id: TRAJBRT128F9303318
+year: 1955

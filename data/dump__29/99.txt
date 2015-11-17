@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 101172
+artist_familiarity: 0.41828251398
+artist_hotttnesss: 0.320345628833
+artist_id: ARF3PG41187FB4B0B4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 387ed135-0389-4dbb-88cf-52ba1d780a4d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dorothy Norwood
+artist_playmeid: 85258
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 33ce5e0e7fa6741d57b51bcbfa55d51c
+bars_confidence: shape = (139,)
+bars_start: shape = (139,)
+beats_confidence: shape = (562,)
+beats_start: shape = (562,)
+danceability: 0.0
+duration: 339.1473
+end_of_fade_in: 0.293
+energy: 0.0
+key: 0
+key_confidence: 0.015
+loudness: -6.821
+mode: 1
+mode_confidence: 0.195
+release: The Lord Is A Wonder
+release_7digitalid: 262387
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1289,)
+segments_loudness_max: shape = (1289,)
+segments_loudness_max_time: shape = (1289,)
+segments_loudness_start: shape = (1289,)
+segments_pitches: shape = (1289, 12)
+segments_start: shape = (1289,)
+segments_timbre: shape = (1289, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYFZYP12A8C1367D5
+start_of_fade_out: 329.857
+tatums_confidence: shape = (1124,)
+tatums_start: shape = (1124,)
+tempo: 99.113
+time_signature: 4
+time_signature_confidence: 1.0
+title: Packing Up
+track_7digitalid: 2754175
+track_id: TRAKCRM128F42542F3
+year: 0

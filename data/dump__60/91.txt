@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 262
+artist_familiarity: 0.871010615313
+artist_hotttnesss: 0.804830427831
+artist_id: ARTH9041187FB43E1F
+artist_latitude: nan
+artist_location: St. Joseph, MO
+artist_longitude: nan
+artist_mbid: b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Eminem
+artist_playmeid: 549
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: f994d4c812c1059cd0436f98bc3cd454
+bars_confidence: shape = (232,)
+bars_start: shape = (232,)
+beats_confidence: shape = (932,)
+beats_start: shape = (932,)
+danceability: 0.0
+duration: 312.2673
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.313
+loudness: -3.989
+mode: 0
+mode_confidence: 0.315
+release: The Marshall Mathers LP
+release_7digitalid: 14302
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1288,)
+segments_loudness_max: shape = (1288,)
+segments_loudness_max_time: shape = (1288,)
+segments_loudness_start: shape = (1288,)
+segments_pitches: shape = (1288, 12)
+segments_start: shape = (1288,)
+segments_timbre: shape = (1288, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.811707531414
+song_id: SOLXDDC12A6701FBFD
+start_of_fade_out: 288.502
+tatums_confidence: shape = (1864,)
+tatums_start: shape = (1864,)
+tempo: 180.168
+time_signature: 4
+time_signature_confidence: 1.0
+title: I'm Back
+track_7digitalid: 147976
+track_id: TRAUURC128E078EC6E
+year: 2000

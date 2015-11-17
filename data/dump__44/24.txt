@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12566
+artist_familiarity: 0.823548253022
+artist_hotttnesss: 0.507115548752
+artist_id: ARB6OGR1187FB4D43D
+artist_latitude: 43.58015
+artist_location: Antibes, France
+artist_longitude: 7.12123
+artist_mbid: 6d7b7cd4-254b-4c25-83f6-dd20f98ceacd
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: M83
+artist_playmeid: 13427
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 4779fb9772bc19b2a3828ab30ebb5cc4
+bars_confidence: shape = (45,)
+bars_start: shape = (45,)
+beats_confidence: shape = (355,)
+beats_start: shape = (355,)
+danceability: 0.0
+duration: 219.24526
+end_of_fade_in: 0.984
+energy: 0.0
+key: 7
+key_confidence: 0.446
+loudness: -11.451
+mode: 1
+mode_confidence: 0.569
+release: Saturdays = Youth
+release_7digitalid: 216244
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (335,)
+segments_loudness_max: shape = (335,)
+segments_loudness_max_time: shape = (335,)
+segments_loudness_start: shape = (335,)
+segments_pitches: shape = (335, 12)
+segments_start: shape = (335,)
+segments_timbre: shape = (335, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.852088917766
+song_id: SODEIVI12A8C13266D
+start_of_fade_out: 208.672
+tatums_confidence: shape = (709,)
+tatums_start: shape = (709,)
+tempo: 96.047
+time_signature: 7
+time_signature_confidence: 0.841
+title: You Appearing
+track_7digitalid: 2353590
+track_id: TRAPCNK128F427D7B5
+year: 2008

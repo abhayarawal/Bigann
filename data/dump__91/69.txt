@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 171519
+artist_familiarity: 0.310852410949
+artist_hotttnesss: 0.264132780156
+artist_id: ARZFAGI12420783C02
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Harvard Lampoon Comedians
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 688a056551b6aff1379edff7bb8393be
+bars_confidence: shape = (25,)
+bars_start: shape = (25,)
+beats_confidence: shape = (186,)
+beats_start: shape = (186,)
+danceability: 0.0
+duration: 77.21751
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.785
+loudness: -10.447
+mode: 1
+mode_confidence: 0.558
+release: The Harvard Lampoon Comedy CD - No Escape From Danger
+release_7digitalid: 224531
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (297,)
+segments_loudness_max: shape = (297,)
+segments_loudness_max_time: shape = (297,)
+segments_loudness_start: shape = (297,)
+segments_pitches: shape = (297, 12)
+segments_start: shape = (297,)
+segments_timbre: shape = (297, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.332070982279
+song_id: SODGYDA12A8C140E96
+start_of_fade_out: 71.639
+tatums_confidence: shape = (372,)
+tatums_start: shape = (372,)
+tempo: 151.215
+time_signature: 7
+time_signature_confidence: 0.685
+title: Hired Security
+track_7digitalid: 2454388
+track_id: TRBFQGP128F42948DA
+year: 0

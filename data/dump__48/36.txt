@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 97574
+artist_familiarity: 0.544161995406
+artist_hotttnesss: 0.370620401613
+artist_id: AR56CNM1187B99442A
+artist_latitude: 41.9293
+artist_location: DeKalb, Illinois, USA
+artist_longitude: -88.7493
+artist_mbid: 49875fef-5345-400b-8a00-f137ce28bcbe
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Judas Iscariot
+artist_playmeid: 85125
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: c17a713a854f1420f9b2d09782e48d53
+bars_confidence: shape = (218,)
+bars_start: shape = (218,)
+beats_confidence: shape = (879,)
+beats_start: shape = (879,)
+danceability: 0.0
+duration: 393.89995
+end_of_fade_in: 0.357
+energy: 0.0
+key: 2
+key_confidence: 0.049
+loudness: -7.736
+mode: 1
+mode_confidence: 0.367
+release: The Cold Earth Slept Below
+release_7digitalid: 122729
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (1124,)
+segments_loudness_max: shape = (1124,)
+segments_loudness_max_time: shape = (1124,)
+segments_loudness_start: shape = (1124,)
+segments_pitches: shape = (1124, 12)
+segments_start: shape = (1124,)
+segments_timbre: shape = (1124, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.566312580926
+song_id: SOIMXWW12A8C140FDD
+start_of_fade_out: 389.671
+tatums_confidence: shape = (1758,)
+tatums_start: shape = (1758,)
+tempo: 135.39
+time_signature: 4
+time_signature_confidence: 0.5
+title: Babylon
+track_7digitalid: 1267972
+track_id: TRAQLNE128F42AC1AF
+year: 1995

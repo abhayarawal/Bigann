@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5845
+artist_familiarity: 0.798645178742
+artist_hotttnesss: 0.552413345517
+artist_id: AR6G4V01187B9AD086
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7dc8f5bd-9d0b-4087-9f73-dc164950bbd8
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Queens Of The Stone Age
+artist_playmeid: -1
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 2a54fa862e397aa5c3b3ed986f462509
+bars_confidence: shape = (69,)
+bars_start: shape = (69,)
+beats_confidence: shape = (212,)
+beats_start: shape = (212,)
+danceability: 0.0
+duration: 82.85995
+end_of_fade_in: 0.172
+energy: 0.0
+key: 4
+key_confidence: 0.302
+loudness: -19.368
+mode: 0
+mode_confidence: 0.639
+release: Lullabies To Paralyze
+release_7digitalid: 9856
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (241,)
+segments_loudness_max: shape = (241,)
+segments_loudness_max_time: shape = (241,)
+segments_loudness_start: shape = (241,)
+segments_pitches: shape = (241, 12)
+segments_start: shape = (241,)
+segments_timbre: shape = (241, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.718179790084
+song_id: SOGMESY12A67020F25
+start_of_fade_out: 80.167
+tatums_confidence: shape = (212,)
+tatums_start: shape = (212,)
+tempo: 159.212
+time_signature: 3
+time_signature_confidence: 0.378
+title: This Lullaby
+track_7digitalid: 101211
+track_id: TRAFAJC128E078888B
+year: 2005

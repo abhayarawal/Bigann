@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 49555
+artist_familiarity: 0.594832623751
+artist_hotttnesss: 0.378649978962
+artist_id: AR9YV621187B99373E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bced6266-4c23-4806-8e3d-165eac0ad494
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Marco Beltrami
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 7d7a24e6fb8a36dd0002613d8e53c4eb
+bars_confidence: shape = (175,)
+bars_start: shape = (175,)
+beats_confidence: shape = (528,)
+beats_start: shape = (528,)
+danceability: 0.0
+duration: 170.52689
+end_of_fade_in: 4.394
+energy: 0.0
+key: 5
+key_confidence: 0.685
+loudness: -17.169
+mode: 1
+mode_confidence: 0.712
+release: In The Electric Mist
+release_7digitalid: 504206
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (311,)
+segments_loudness_max: shape = (311,)
+segments_loudness_max_time: shape = (311,)
+segments_loudness_start: shape = (311,)
+segments_pitches: shape = (311, 12)
+segments_start: shape = (311,)
+segments_timbre: shape = (311, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOCWCPZ12AB018476F
+start_of_fade_out: 154.79
+tatums_confidence: shape = (528,)
+tatums_start: shape = (528,)
+tempo: 188.068
+time_signature: 3
+time_signature_confidence: 1.0
+title: Past Meets Present
+track_7digitalid: 5579846
+track_id: TRADTWP128F932A987
+year: 0

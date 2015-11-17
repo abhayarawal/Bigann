@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 68928
+artist_familiarity: 0.218422959228
+artist_hotttnesss: 0.0
+artist_id: ARWAMNR11E2835E228
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 276cd998-8def-4456-a847-748e62591748
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Massimiliano Damerini
+artist_playmeid: 59875
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: cfe91759853b11777dabc7e4f19ec867
+bars_confidence: shape = (125,)
+bars_start: shape = (125,)
+beats_confidence: shape = (648,)
+beats_start: shape = (648,)
+danceability: 0.0
+duration: 397.81832
+end_of_fade_in: 0.411
+energy: 0.0
+key: 3
+key_confidence: 0.447
+loudness: -23.042
+mode: 0
+mode_confidence: 0.525
+release: Piano XX - Vol. 1
+release_7digitalid: 87106
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (942,)
+segments_loudness_max: shape = (942,)
+segments_loudness_max_time: shape = (942,)
+segments_loudness_start: shape = (942,)
+segments_pitches: shape = (942, 12)
+segments_start: shape = (942,)
+segments_timbre: shape = (942, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUBHVV12A8C1337EE
+start_of_fade_out: 372.344
+tatums_confidence: shape = (1296,)
+tatums_start: shape = (1296,)
+tempo: 99.809
+time_signature: 5
+time_signature_confidence: 0.533
+title: Sonata I.X.1905: I. Preduycha (Janácek)
+track_7digitalid: 914541
+track_id: TRAOWUI128F4261C5F
+year: 0

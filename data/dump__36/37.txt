@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 69836
+artist_familiarity: 0.58403786492
+artist_hotttnesss: 0.356406617735
+artist_id: AREP0H61187FB443CF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f2ab6fbd-e2d6-4f14-bc02-5dca733b2ed8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Grayson Capps
+artist_playmeid: 60448
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: d451850fa918d34554ffb7677801957e
+bars_confidence: shape = (187,)
+bars_start: shape = (187,)
+beats_confidence: shape = (752,)
+beats_start: shape = (752,)
+danceability: 0.0
+duration: 242.18077
+end_of_fade_in: 0.409
+energy: 0.0
+key: 0
+key_confidence: 0.0
+loudness: -13.012
+mode: 1
+mode_confidence: 0.294
+release: If You Knew My Mind
+release_7digitalid: 88733
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (644,)
+segments_loudness_max: shape = (644,)
+segments_loudness_max_time: shape = (644,)
+segments_loudness_start: shape = (644,)
+segments_pitches: shape = (644, 12)
+segments_start: shape = (644,)
+segments_timbre: shape = (644, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOINCFI12A58A7C357
+start_of_fade_out: 233.837
+tatums_confidence: shape = (752,)
+tatums_start: shape = (752,)
+tempo: 186.886
+time_signature: 4
+time_signature_confidence: 0.998
+title: I See You
+track_7digitalid: 936225
+track_id: TRAMIOZ128F4267176
+year: 2005

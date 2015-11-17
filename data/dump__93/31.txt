@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15755
+artist_familiarity: 0.467318921926
+artist_hotttnesss: 0.346683794514
+artist_id: ARJWK3M1187B98D679
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 22043e27-15a1-41b8-b8ba-b69cb2d43c51
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Eden's Bridge
+artist_playmeid: 61768
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: a89f4f892207ea8909c1369c0bbcc95f
+bars_confidence: shape = (60,)
+bars_start: shape = (60,)
+beats_confidence: shape = (244,)
+beats_start: shape = (244,)
+danceability: 0.0
+duration: 170.73587
+end_of_fade_in: 0.264
+energy: 0.0
+key: 2
+key_confidence: 0.029
+loudness: -13.316
+mode: 1
+mode_confidence: 0.483
+release: Celtic Psalms
+release_7digitalid: 27489
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (579,)
+segments_loudness_max: shape = (579,)
+segments_loudness_max_time: shape = (579,)
+segments_loudness_start: shape = (579,)
+segments_pitches: shape = (579, 12)
+segments_start: shape = (579,)
+segments_timbre: shape = (579, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOGBYCG12A6D4F6EC3
+start_of_fade_out: 159.858
+tatums_confidence: shape = (489,)
+tatums_start: shape = (489,)
+tempo: 90.121
+time_signature: 4
+time_signature_confidence: 0.458
+title: Shout For Joy  (Celtic Psalms Album Version)
+track_7digitalid: 299868
+track_id: TRBGFLG128F1465AFD
+year: 0

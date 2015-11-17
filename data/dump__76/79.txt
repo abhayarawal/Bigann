@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 63932
+artist_familiarity: 0.432839367307
+artist_hotttnesss: 0.366905852789
+artist_id: ARFZSPU1187B9B5BA9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 95ac1574-7e50-49cd-95be-5f33e118d00e
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: John Frizzell
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 9d885a3b3b1cf2e7b2710f5c5496b6c5
+bars_confidence: shape = (173,)
+bars_start: shape = (173,)
+beats_confidence: shape = (173,)
+beats_start: shape = (173,)
+danceability: 0.0
+duration: 75.93751
+end_of_fade_in: 0.37
+energy: 0.0
+key: 1
+key_confidence: 0.436
+loudness: -17.346
+mode: 1
+mode_confidence: 0.482
+release: The Prize Winner of Defiance_ Ohio: Original Score from the Motion Picture
+release_7digitalid: 78775
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (264,)
+segments_loudness_max: shape = (264,)
+segments_loudness_max_time: shape = (264,)
+segments_loudness_start: shape = (264,)
+segments_pitches: shape = (264, 12)
+segments_start: shape = (264,)
+segments_timbre: shape = (264, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.192977601765
+song_id: SOZFAKK12A6D4F6927
+start_of_fade_out: 69.991
+tatums_confidence: shape = (346,)
+tatums_start: shape = (346,)
+tempo: 147.692
+time_signature: 1
+time_signature_confidence: 0.0
+title: Anatomy of a Contest
+track_7digitalid: 829141
+track_id: TRBAFFS128EF357C1D
+year: 0

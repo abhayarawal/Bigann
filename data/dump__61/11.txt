@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 263676
+artist_familiarity: 0.433517115556
+artist_hotttnesss: 0.0
+artist_id: ARJJPQP1241B9CA062
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gabriel Grossi
+artist_playmeid: -1
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: 171d8acdaeb48cf4fae68146c48faa1f
+bars_confidence: shape = (150,)
+bars_start: shape = (150,)
+beats_confidence: shape = (604,)
+beats_start: shape = (604,)
+danceability: 0.0
+duration: 253.43955
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.365
+loudness: -7.773
+mode: 1
+mode_confidence: 0.52
+release: Diz que fui por aí
+release_7digitalid: 338629
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1259,)
+segments_loudness_max: shape = (1259,)
+segments_loudness_max_time: shape = (1259,)
+segments_loudness_start: shape = (1259,)
+segments_pitches: shape = (1259, 12)
+segments_start: shape = (1259,)
+segments_timbre: shape = (1259, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOSWNTH12AB017EA7C
+start_of_fade_out: 246.712
+tatums_confidence: shape = (1207,)
+tatums_start: shape = (1207,)
+tempo: 143.86
+time_signature: 4
+time_signature_confidence: 0.266
+title: Cai dentro
+track_7digitalid: 3787557
+track_id: TRAUWIE128F92F6064
+year: 0

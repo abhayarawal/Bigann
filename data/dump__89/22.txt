@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 451
+artist_familiarity: 0.681581305435
+artist_hotttnesss: 0.479407675575
+artist_id: ARODBRG1187FB3FD99
+artist_latitude: -36.35484
+artist_location: Wangaratta, Victoria, Australia
+artist_longitude: 146.32611
+artist_mbid: 172e1f1a-504d-4488-b053-6344ba63e6d0
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Nick Cave & The Bad Seeds
+artist_playmeid: 10506
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: c4444a78e08bdecc9b29ef2b3c20e8bf
+bars_confidence: shape = (75,)
+bars_start: shape = (75,)
+beats_confidence: shape = (229,)
+beats_start: shape = (229,)
+danceability: 0.0
+duration: 202.05669
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.828
+loudness: -10.319
+mode: 1
+mode_confidence: 0.812
+release: Live Seeds
+release_7digitalid: 10148
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (397,)
+segments_loudness_max: shape = (397,)
+segments_loudness_max_time: shape = (397,)
+segments_loudness_start: shape = (397,)
+segments_pitches: shape = (397, 12)
+segments_start: shape = (397,)
+segments_timbre: shape = (397, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.407233014901
+song_id: SOXAPVV12A67020F8C
+start_of_fade_out: 194.473
+tatums_confidence: shape = (458,)
+tatums_start: shape = (458,)
+tempo: 70.759
+time_signature: 3
+time_signature_confidence: 0.88
+title: New Morning (Live)
+track_7digitalid: 103843
+track_id: TRBESGH128E0788912
+year: 1993

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 202912
+artist_familiarity: 0.8650215115
+artist_hotttnesss: 0.916053228284
+artist_id: ARJ7KF01187B98D717
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cc197bad-dc9c-440d-a5b5-d52ba2e14234
+artist_mbtags: shape = (12,)
+artist_mbtags_count: shape = (12,)
+artist_name: Coldplay
+artist_playmeid: 353
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 309f442f684aa48093cb49a90f94cdf6
+bars_confidence: shape = (144,)
+bars_start: shape = (144,)
+beats_confidence: shape = (578,)
+beats_start: shape = (578,)
+danceability: 0.0
+duration: 285.04771
+end_of_fade_in: 0.345
+energy: 0.0
+key: 11
+key_confidence: 0.687
+loudness: -5.367
+mode: 0
+mode_confidence: 0.647
+release: Speed Of Sound
+release_7digitalid: 11486
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (845,)
+segments_loudness_max: shape = (845,)
+segments_loudness_max_time: shape = (845,)
+segments_loudness_start: shape = (845,)
+segments_pitches: shape = (845, 12)
+segments_start: shape = (845,)
+segments_timbre: shape = (845, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.454042766091
+song_id: SOSHUVD12A6701F8F9
+start_of_fade_out: 275.156
+tatums_confidence: shape = (1156,)
+tatums_start: shape = (1156,)
+tempo: 122.94
+time_signature: 4
+time_signature_confidence: 1.0
+title: Speed Of Sound (Live)
+track_7digitalid: 117664
+track_id: TRASUJK128E0789C12
+year: 2005

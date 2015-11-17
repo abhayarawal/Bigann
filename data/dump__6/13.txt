@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 179046
+artist_familiarity: 0.450361260877
+artist_hotttnesss: 0.267757495381
+artist_id: ARMSW7X1187FB5B504
+artist_latitude: 34.05349
+artist_location: California - LA
+artist_longitude: -118.24532
+artist_mbid: fe44e194-1933-4ee8-a54a-5b92b21dc7a2
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Dave Eggar
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 246c4fb6a4ab1f1254438c170a9060e7
+bars_confidence: shape = (86,)
+bars_start: shape = (86,)
+beats_confidence: shape = (353,)
+beats_start: shape = (353,)
+danceability: 0.0
+duration: 225.04444
+end_of_fade_in: 3.152
+energy: 0.0
+key: 1
+key_confidence: 0.848
+loudness: -23.15
+mode: 1
+mode_confidence: 0.753
+release: Angelic Embrace
+release_7digitalid: 236463
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (432,)
+segments_loudness_max: shape = (432,)
+segments_loudness_max_time: shape = (432,)
+segments_loudness_start: shape = (432,)
+segments_pitches: shape = (432, 12)
+segments_start: shape = (432,)
+segments_timbre: shape = (432, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SONNDRB12A8AE46705
+start_of_fade_out: 203.122
+tatums_confidence: shape = (706,)
+tatums_start: shape = (706,)
+tempo: 100.893
+time_signature: 4
+time_signature_confidence: 0.544
+title: Wave
+track_7digitalid: 2593967
+track_id: TRACAOS128F42300B8
+year: 2002

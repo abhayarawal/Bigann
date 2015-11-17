@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2199
+artist_familiarity: 0.765254692052
+artist_hotttnesss: 0.603876486918
+artist_id: ARYJSY01187B9B7C65
+artist_latitude: nan
+artist_location: Locust Ridge, TN
+artist_longitude: nan
+artist_mbid: 1d543e07-d0d2-4834-a8db-d65c50c2a856
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Dolly Parton
+artist_playmeid: 493
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 0dd2639f2b7d7edbacc4ce999ab73235
+bars_confidence: shape = (666,)
+bars_start: shape = (666,)
+beats_confidence: shape = (666,)
+beats_start: shape = (666,)
+danceability: 0.0
+duration: 294.24281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.686
+loudness: -8.782
+mode: 1
+mode_confidence: 0.675
+release: Legends
+release_7digitalid: 303750
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (891,)
+segments_loudness_max: shape = (891,)
+segments_loudness_max_time: shape = (891,)
+segments_loudness_start: shape = (891,)
+segments_pitches: shape = (891, 12)
+segments_start: shape = (891,)
+segments_timbre: shape = (891, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUXPPN12CF530E5EB
+start_of_fade_out: 282.61
+tatums_confidence: shape = (1333,)
+tatums_start: shape = (1333,)
+tempo: 137.865
+time_signature: 1
+time_signature_confidence: 0.0
+title: Light Of A Clear Blue Morning
+track_7digitalid: 3423457
+track_id: TRANZIL128F42A2670
+year: 1977

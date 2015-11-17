@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3363
+artist_familiarity: 0.540750151436
+artist_hotttnesss: 0.379651219002
+artist_id: AR7CCCC1187FB578FF
+artist_latitude: nan
+artist_location: Shelby, North Carolina
+artist_longitude: nan
+artist_mbid: 870ab832-904b-4b49-ab72-7e6b0e0da65f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Don Gibson
+artist_playmeid: 15188
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 4f59d838532c78b93d36f9418e20ab52
+bars_confidence: shape = (74,)
+bars_start: shape = (74,)
+beats_confidence: shape = (231,)
+beats_start: shape = (231,)
+danceability: 0.0
+duration: 148.06159
+end_of_fade_in: 0.264
+energy: 0.0
+key: 7
+key_confidence: 0.013
+loudness: -19.002
+mode: 1
+mode_confidence: 0.425
+release: I Can't Stop Loving You
+release_7digitalid: 348099
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (500,)
+segments_loudness_max: shape = (500,)
+segments_loudness_max_time: shape = (500,)
+segments_loudness_start: shape = (500,)
+segments_pitches: shape = (500, 12)
+segments_start: shape = (500,)
+segments_timbre: shape = (500, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOJAFPW12AB0182E68
+start_of_fade_out: 141.485
+tatums_confidence: shape = (462,)
+tatums_start: shape = (462,)
+tempo: 95.389
+time_signature: 3
+time_signature_confidence: 0.287
+title: Evening Prayer
+track_7digitalid: 3954303
+track_id: TRBDHUE128F9317991
+year: 1959

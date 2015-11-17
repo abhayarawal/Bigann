@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16212
+artist_familiarity: 0.547325146972
+artist_hotttnesss: 0.35970936327
+artist_id: ARBJI5N1187FB400D0
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 4d3279bc-b3de-45da-aa2c-2274ef08c6dd
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jay & The Americans
+artist_playmeid: 61956
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 67a68074eff8ad16d5bbada4086dc39d
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (325,)
+beats_start: shape = (325,)
+danceability: 0.0
+duration: 149.89016
+end_of_fade_in: 0.496
+energy: 0.0
+key: 2
+key_confidence: 0.409
+loudness: -10.623
+mode: 1
+mode_confidence: 0.552
+release: Come A Little Bit Closer
+release_7digitalid: 23951
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (475,)
+segments_loudness_max: shape = (475,)
+segments_loudness_max_time: shape = (475,)
+segments_loudness_start: shape = (475,)
+segments_pitches: shape = (475, 12)
+segments_start: shape = (475,)
+segments_timbre: shape = (475, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.557187767519
+song_id: SONCWSL12A6D4F419D
+start_of_fade_out: 140.661
+tatums_confidence: shape = (651,)
+tatums_start: shape = (651,)
+tempo: 131.01
+time_signature: 4
+time_signature_confidence: 0.542
+title: Let's Lock The Door (And Throw Away The Key)
+track_7digitalid: 250507
+track_id: TRAPNQZ128F145B04E
+year: 1990

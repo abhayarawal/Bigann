@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21239
+artist_familiarity: 0.857319900906
+artist_hotttnesss: 0.717209854567
+artist_id: AR6PJ8R1187FB5AD70
+artist_latitude: nan
+artist_location: Barranquilla, Colombia
+artist_longitude: nan
+artist_mbid: bf24ca37-25f4-4e34-9aec-460b94364cfc
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Shakira
+artist_playmeid: 1424
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 613c1caf60236e84da0babbba86ee361
+bars_confidence: shape = (118,)
+bars_start: shape = (118,)
+beats_confidence: shape = (605,)
+beats_start: shape = (605,)
+danceability: 0.0
+duration: 409.99138
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.117
+loudness: -7.936
+mode: 0
+mode_confidence: 0.312
+release: Shakira MTV Unplugged
+release_7digitalid: 399217
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1588,)
+segments_loudness_max: shape = (1588,)
+segments_loudness_max_time: shape = (1588,)
+segments_loudness_start: shape = (1588,)
+segments_pitches: shape = (1588, 12)
+segments_start: shape = (1588,)
+segments_timbre: shape = (1588, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONMMXM12CF530E58E
+start_of_fade_out: 401.125
+tatums_confidence: shape = (1817,)
+tatums_start: shape = (1817,)
+tempo: 87.054
+time_signature: 5
+time_signature_confidence: 1.0
+title: Ojos Así
+track_7digitalid: 4436350
+track_id: TRANCSE128F93044F1
+year: 1998

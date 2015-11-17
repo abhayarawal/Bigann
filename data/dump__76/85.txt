@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16280
+artist_familiarity: 0.423065328443
+artist_hotttnesss: 0.27343951066
+artist_id: ARXTUHV1187B99268F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f644d496-87f8-42d4-aeff-71c5708e8a01
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Remmy Ongala
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 1a26863a61620354cb29d3bba78daac8
+bars_confidence: shape = (70,)
+bars_start: shape = (70,)
+beats_confidence: shape = (547,)
+beats_start: shape = (547,)
+danceability: 0.0
+duration: 348.52526
+end_of_fade_in: 0.171
+energy: 0.0
+key: 0
+key_confidence: 0.364
+loudness: -12.061
+mode: 0
+mode_confidence: 0.434
+release: Songs For The Poor Man
+release_7digitalid: 22906
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1499,)
+segments_loudness_max: shape = (1499,)
+segments_loudness_max_time: shape = (1499,)
+segments_loudness_start: shape = (1499,)
+segments_pitches: shape = (1499, 12)
+segments_start: shape = (1499,)
+segments_timbre: shape = (1499, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBCFLR12A58A7985F
+start_of_fade_out: 337.078
+tatums_confidence: shape = (1641,)
+tatums_start: shape = (1641,)
+tempo: 94.72
+time_signature: 7
+time_signature_confidence: 1.0
+title: Karola
+track_7digitalid: 238527
+track_id: TRBAFTU128F1458496
+year: 2007

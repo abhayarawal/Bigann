@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 379
+artist_familiarity: 0.700446614386
+artist_hotttnesss: 0.528795206131
+artist_id: AR0XSOO1187B9B9E88
+artist_latitude: 51.50632
+artist_location: London / Ex-Manchester
+artist_longitude: -0.12714
+artist_mbid: 31e9c35b-2675-4632-8596-f9bd9286f6c8
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Buzzcocks
+artist_playmeid: 38956
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 7162fa8e47b3b8d9802122f9b81e66f5
+bars_confidence: shape = (107,)
+bars_start: shape = (107,)
+beats_confidence: shape = (433,)
+beats_start: shape = (433,)
+danceability: 0.0
+duration: 144.77016
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.9
+loudness: -11.058
+mode: 1
+mode_confidence: 0.481
+release: French
+release_7digitalid: 235138
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (510,)
+segments_loudness_max: shape = (510,)
+segments_loudness_max_time: shape = (510,)
+segments_loudness_start: shape = (510,)
+segments_pitches: shape = (510, 12)
+segments_start: shape = (510,)
+segments_timbre: shape = (510, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLREKJ12AF729FF59
+start_of_fade_out: 137.526
+tatums_confidence: shape = (866,)
+tatums_start: shape = (866,)
+tempo: 181.421
+time_signature: 4
+time_signature_confidence: 0.235
+title: Get On Our Own
+track_7digitalid: 2580801
+track_id: TRAIVNL128F422CFE2
+year: 1978

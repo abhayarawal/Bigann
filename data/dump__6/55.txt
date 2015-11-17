@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 38533
+artist_familiarity: 0.593262654756
+artist_hotttnesss: 0.372069058228
+artist_id: AR0DSOO1187B9B855E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f28a0e2e-d469-4f9d-8080-f5548fc1a239
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Wailing Souls
+artist_playmeid: 17994
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 52a00d299d3ad814297338664439a15d
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (484,)
+beats_start: shape = (484,)
+danceability: 0.0
+duration: 204.85179
+end_of_fade_in: 0.629
+energy: 0.0
+key: 7
+key_confidence: 0.588
+loudness: -9.99
+mode: 1
+mode_confidence: 0.496
+release: Sly & Robbie present Taxi
+release_7digitalid: 237547
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (728,)
+segments_loudness_max: shape = (728,)
+segments_loudness_max_time: shape = (728,)
+segments_loudness_start: shape = (728,)
+segments_pitches: shape = (728, 12)
+segments_start: shape = (728,)
+segments_timbre: shape = (728, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCZQSZ12A8AE4604D
+start_of_fade_out: 193.62
+tatums_confidence: shape = (969,)
+tatums_start: shape = (969,)
+tempo: 146.445
+time_signature: 4
+time_signature_confidence: 0.433
+title: Old Broom
+track_7digitalid: 2607005
+track_id: TRACDJT128F42324C7
+year: 1981

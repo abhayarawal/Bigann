@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 52074
+artist_familiarity: 0.485855595673
+artist_hotttnesss: 0.362960597112
+artist_id: AR9LT7R1187FB4543A
+artist_latitude: 30.16602
+artist_location: Brenham, TX
+artist_longitude: -96.39998
+artist_mbid: ae2a2620-fac8-456b-b9ea-14b609879dca
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Darden Smith
+artist_playmeid: 16265
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 37e84b0c69addfcb5e870b425a7ef90d
+bars_confidence: shape = (113,)
+bars_start: shape = (113,)
+beats_confidence: shape = (455,)
+beats_start: shape = (455,)
+danceability: 0.0
+duration: 234.73587
+end_of_fade_in: 3.466
+energy: 0.0
+key: 0
+key_confidence: 0.166
+loudness: -14.18
+mode: 1
+mode_confidence: 0.463
+release: Circo
+release_7digitalid: 228440
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (738,)
+segments_loudness_max: shape = (738,)
+segments_loudness_max_time: shape = (738,)
+segments_loudness_start: shape = (738,)
+segments_pitches: shape = (738, 12)
+segments_start: shape = (738,)
+segments_timbre: shape = (738, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.249065794854
+song_id: SOAXEJI12A6D4FCE3E
+start_of_fade_out: 219.893
+tatums_confidence: shape = (909,)
+tatums_start: shape = (909,)
+tempo: 120.049
+time_signature: 4
+time_signature_confidence: 0.455
+title: Mill Creek
+track_7digitalid: 2498364
+track_id: TRAVROF128F421AC2D
+year: 2004

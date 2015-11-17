@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 34818
+artist_familiarity: 0.394138539846
+artist_hotttnesss: 0.291539727089
+artist_id: ARQGYP71187FB44566
+artist_latitude: 34.31109
+artist_location: Mineola, AR
+artist_longitude: -94.02978
+artist_mbid: 0b8f67b3-b1d8-4d7a-8317-9d2e7e1cb277
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jimmy Wakely
+artist_playmeid: 156926
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 15eed565424277040565e7981302cf33
+bars_confidence: shape = (53,)
+bars_start: shape = (53,)
+beats_confidence: shape = (269,)
+beats_start: shape = (269,)
+danceability: 0.0
+duration: 178.1024
+end_of_fade_in: 0.299
+energy: 0.0
+key: 9
+key_confidence: 0.271
+loudness: -16.626
+mode: 1
+mode_confidence: 0.318
+release: Vintage Collections
+release_7digitalid: 816250
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (629,)
+segments_loudness_max: shape = (629,)
+segments_loudness_max_time: shape = (629,)
+segments_loudness_start: shape = (629,)
+segments_pitches: shape = (629, 12)
+segments_start: shape = (629,)
+segments_timbre: shape = (629, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQNFQI12AB018882C
+start_of_fade_out: 173.047
+tatums_confidence: shape = (538,)
+tatums_start: shape = (538,)
+tempo: 92.596
+time_signature: 5
+time_signature_confidence: 0.695
+title: Mine All Mine
+track_7digitalid: 9019348
+track_id: TRAZCMY12903CDE03A
+year: 2005

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 91492
+artist_familiarity: 0.486766782001
+artist_hotttnesss: 0.336106341545
+artist_id: AR1AIC51187B98C03F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a18094be-830b-4f09-9326-802deabdd778
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Theodor Zox
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 4e9b0ec5e941f1a2a8640e0a3a7c7630
+bars_confidence: shape = (176,)
+bars_start: shape = (176,)
+beats_confidence: shape = (533,)
+beats_start: shape = (533,)
+danceability: 0.0
+duration: 381.23057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.015
+loudness: -11.941
+mode: 1
+mode_confidence: 0.353
+release: Run Away
+release_7digitalid: 576697
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (2274,)
+segments_loudness_max: shape = (2274,)
+segments_loudness_max_time: shape = (2274,)
+segments_loudness_start: shape = (2274,)
+segments_pitches: shape = (2274, 12)
+segments_start: shape = (2274,)
+segments_timbre: shape = (2274, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOUXAJS12AB0184E3B
+start_of_fade_out: 375.548
+tatums_confidence: shape = (1599,)
+tatums_start: shape = (1599,)
+tempo: 83.991
+time_signature: 3
+time_signature_confidence: 1.0
+title: System of Play
+track_7digitalid: 6391942
+track_id: TRARAJS12903CAD54F
+year: 0

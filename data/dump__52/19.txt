@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 52647
+artist_familiarity: 0.733433226583
+artist_hotttnesss: 0.455558796993
+artist_id: ARK8OHG1187B99016A
+artist_latitude: nan
+artist_location: Boston, MA
+artist_longitude: nan
+artist_mbid: 2e3b75d8-00a8-486a-b4e7-a1f8f65e64c9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Shadows Fall
+artist_playmeid: 12510
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 00cb38c2ea353906d29d450533700cd2
+bars_confidence: shape = (99,)
+bars_start: shape = (99,)
+beats_confidence: shape = (398,)
+beats_start: shape = (398,)
+danceability: 0.0
+duration: 283.48036
+end_of_fade_in: 0.113
+energy: 0.0
+key: 0
+key_confidence: 0.489
+loudness: -4.076
+mode: 0
+mode_confidence: 0.596
+release: The War Within
+release_7digitalid: 734726
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1034,)
+segments_loudness_max: shape = (1034,)
+segments_loudness_max_time: shape = (1034,)
+segments_loudness_start: shape = (1034,)
+segments_pitches: shape = (1034, 12)
+segments_start: shape = (1034,)
+segments_timbre: shape = (1034, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.687873714973
+song_id: SOKMPKV12A67AE241B
+start_of_fade_out: 280.88
+tatums_confidence: shape = (1592,)
+tatums_start: shape = (1592,)
+tempo: 84.992
+time_signature: 4
+time_signature_confidence: 0.42
+title: What Drives The Weak
+track_7digitalid: 8138989
+track_id: TRARUOP12903CF2384
+year: 2004

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 36609
+artist_familiarity: 0.772230439038
+artist_hotttnesss: 0.511576782928
+artist_id: ARJGQJD1187B997A00
+artist_latitude: nan
+artist_location: Buffalo, NY
+artist_longitude: nan
+artist_mbid: 2d2948f6-570b-4709-896b-f90011fc89c6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: It Dies Today
+artist_playmeid: 57099
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 1849bdc25176c36886e43e5d751cf0aa
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (482,)
+beats_start: shape = (482,)
+danceability: 0.0
+duration: 184.24118
+end_of_fade_in: 3.448
+energy: 0.0
+key: 6
+key_confidence: 0.615
+loudness: -3.337
+mode: 0
+mode_confidence: 0.657
+release: Sirens
+release_7digitalid: 479604
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (455,)
+segments_loudness_max: shape = (455,)
+segments_loudness_max_time: shape = (455,)
+segments_loudness_start: shape = (455,)
+segments_pitches: shape = (455, 12)
+segments_start: shape = (455,)
+segments_timbre: shape = (455, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.708486718841
+song_id: SOIARWN12AF72A5A63
+start_of_fade_out: 180.297
+tatums_confidence: shape = (964,)
+tatums_start: shape = (964,)
+tempo: 160.126
+time_signature: 4
+time_signature_confidence: 0.122
+title: Sixth of June
+track_7digitalid: 5322708
+track_id: TRAMSAY128F92ED0DD
+year: 2007

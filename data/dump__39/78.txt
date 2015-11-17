@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6808
+artist_familiarity: 0.613867472327
+artist_hotttnesss: 0.36103455643
+artist_id: ARJNQM51187FB54C55
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: dbf013aa-9359-4403-978a-7b9cb9c7924e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Smut Peddlers
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: ef35e13d5e6535b09b1bea0224c6f7c5
+bars_confidence: shape = (253,)
+bars_start: shape = (253,)
+beats_confidence: shape = (253,)
+beats_start: shape = (253,)
+danceability: 0.0
+duration: 104.93342
+end_of_fade_in: 0.403
+energy: 0.0
+key: 2
+key_confidence: 0.386
+loudness: -6.052
+mode: 1
+mode_confidence: 0.085
+release: The Two Old Ones
+release_7digitalid: 461300
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (457,)
+segments_loudness_max: shape = (457,)
+segments_loudness_max_time: shape = (457,)
+segments_loudness_start: shape = (457,)
+segments_pitches: shape = (457, 12)
+segments_start: shape = (457,)
+segments_timbre: shape = (457, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHHMXP12AB018264D
+start_of_fade_out: 94.964
+tatums_confidence: shape = (505,)
+tatums_start: shape = (505,)
+tempo: 160.147
+time_signature: 1
+time_signature_confidence: 0.065
+title: Nova (originally from "failure")
+track_7digitalid: 5136534
+track_id: TRANPFP128F932C002
+year: 0

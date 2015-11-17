@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4301
+artist_familiarity: 0.711380095973
+artist_hotttnesss: 0.466224300345
+artist_id: ARLIIVS1187FB5583B
+artist_latitude: 39.29055
+artist_location: Baltimore, MD
+artist_longitude: -76.6096
+artist_mbid: 5ae54dee-4dba-49c0-802a-a3b3b3adfe9b
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Philip Glass
+artist_playmeid: 6913
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 5a476a6618fe5210a3d151f68a4ef365
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (309,)
+beats_start: shape = (309,)
+danceability: 0.0
+duration: 161.51465
+end_of_fade_in: 2.316
+energy: 0.0
+key: 8
+key_confidence: 0.001
+loudness: -26.597
+mode: 1
+mode_confidence: 0.262
+release: Philip Glass: Undertow
+release_7digitalid: 609374
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (317,)
+segments_loudness_max: shape = (317,)
+segments_loudness_max_time: shape = (317,)
+segments_loudness_start: shape = (317,)
+segments_pitches: shape = (317, 12)
+segments_start: shape = (317,)
+segments_timbre: shape = (317, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSIXKT12A8C13FC8C
+start_of_fade_out: 149.56
+tatums_confidence: shape = (619,)
+tatums_start: shape = (619,)
+tempo: 120.003
+time_signature: 3
+time_signature_confidence: 0.812
+title: The Kiss: Golden Coins
+track_7digitalid: 6771969
+track_id: TRALHOT128F92EE66D
+year: 0

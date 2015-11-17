@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 418941
+artist_familiarity: 0.529379509181
+artist_hotttnesss: 0.343010914049
+artist_id: ARXFAOQ1187B9A3616
+artist_latitude: 18.11526
+artist_location: Jamaica
+artist_longitude: -77.27348
+artist_mbid: 339248fd-883b-4b2d-8803-62a7ded53e23
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Dave And Ansel Collins
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 1deca541cc33f56214c3cd742f98ef59
+bars_confidence: shape = (72,)
+bars_start: shape = (72,)
+beats_confidence: shape = (290,)
+beats_start: shape = (290,)
+danceability: 0.0
+duration: 151.84934
+end_of_fade_in: 0.299
+energy: 0.0
+key: 2
+key_confidence: 0.395
+loudness: -14.3
+mode: 1
+mode_confidence: 0.772
+release: Double Barrel
+release_7digitalid: 804421
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (590,)
+segments_loudness_max: shape = (590,)
+segments_loudness_max_time: shape = (590,)
+segments_loudness_start: shape = (590,)
+segments_pitches: shape = (590, 12)
+segments_start: shape = (590,)
+segments_timbre: shape = (590, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.262308997212
+song_id: SOLRPYX12AB0184061
+start_of_fade_out: 139.244
+tatums_confidence: shape = (580,)
+tatums_start: shape = (580,)
+tempo: 117.157
+time_signature: 4
+time_signature_confidence: 0.0
+title: Two Four One
+track_7digitalid: 8891953
+track_id: TRAIKVZ12903CBF0F3
+year: 1971

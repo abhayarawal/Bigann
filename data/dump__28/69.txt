@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 163429
+artist_familiarity: 0.452042247287
+artist_hotttnesss: 0.324157492841
+artist_id: ARDL03L1187B997FBE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0131ab18-a638-49c7-8412-4f726e387e3f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Fläskkvartetten / Thåström
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 8d449ee8eac22f28104e0f869e45a455
+bars_confidence: shape = (97,)
+bars_start: shape = (97,)
+beats_confidence: shape = (392,)
+beats_start: shape = (392,)
+danceability: 0.0
+duration: 185.80853
+end_of_fade_in: 0.432
+energy: 0.0
+key: 5
+key_confidence: 0.508
+loudness: -17.379
+mode: 1
+mode_confidence: 0.458
+release: Voices of Eden
+release_7digitalid: 520471
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (682,)
+segments_loudness_max: shape = (682,)
+segments_loudness_max_time: shape = (682,)
+segments_loudness_start: shape = (682,)
+segments_pitches: shape = (682, 12)
+segments_start: shape = (682,)
+segments_timbre: shape = (682, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYYBVG12AB018B563
+start_of_fade_out: 175.984
+tatums_confidence: shape = (783,)
+tatums_start: shape = (783,)
+tempo: 130.255
+time_signature: 4
+time_signature_confidence: 0.85
+title: t.k.k.
+track_7digitalid: 5756883
+track_id: TRAJPZH128F93554AA
+year: 0

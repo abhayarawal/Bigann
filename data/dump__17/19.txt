@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 292509
+artist_familiarity: 0.506902499757
+artist_hotttnesss: 0.348736698148
+artist_id: ARQZY2A1187B9B7604
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b58cf0ab-c421-4628-8989-b4aa12e8ed76
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Erja Lyytinen
+artist_playmeid: 147079
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 9a507c60f0e8a462cf57d020685bef70
+bars_confidence: shape = (35,)
+bars_start: shape = (35,)
+beats_confidence: shape = (154,)
+beats_start: shape = (154,)
+danceability: 0.0
+duration: 111.80363
+end_of_fade_in: 0.461
+energy: 0.0
+key: 7
+key_confidence: 1.0
+loudness: -13.411
+mode: 1
+mode_confidence: 1.0
+release: Voracious Love
+release_7digitalid: 798891
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (339,)
+segments_loudness_max: shape = (339,)
+segments_loudness_max_time: shape = (339,)
+segments_loudness_start: shape = (339,)
+segments_pitches: shape = (339, 12)
+segments_start: shape = (339,)
+segments_timbre: shape = (339, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.405115721691
+song_id: SOIZDTU12AB01840C5
+start_of_fade_out: 111.804
+tatums_confidence: shape = (308,)
+tatums_start: shape = (308,)
+tempo: 91.76
+time_signature: 4
+time_signature_confidence: 0.774
+title: Soul Of A Man
+track_7digitalid: 8835416
+track_id: TRAFWCO12903CB146E
+year: 2010

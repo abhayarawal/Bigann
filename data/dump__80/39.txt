@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1739
+artist_familiarity: 0.456605059966
+artist_hotttnesss: 0.36074498441
+artist_id: ARDXWVZ1187B9B52F1
+artist_latitude: 40.71455
+artist_location: New York
+artist_longitude: -74.00712
+artist_mbid: fdd978e6-6ced-4985-81c7-84db3ac7ce0b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Michael Whalen
+artist_playmeid: 58832
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 8e07ca0137b8a9182dc6c023f6a1807f
+bars_confidence: shape = (267,)
+bars_start: shape = (267,)
+beats_confidence: shape = (810,)
+beats_start: shape = (810,)
+danceability: 0.0
+duration: 436.53179
+end_of_fade_in: 2.397
+energy: 0.0
+key: 2
+key_confidence: 0.814
+loudness: -20.523
+mode: 1
+mode_confidence: 0.789
+release: Jazzworks Volume I
+release_7digitalid: 323886
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (1562,)
+segments_loudness_max: shape = (1562,)
+segments_loudness_max_time: shape = (1562,)
+segments_loudness_start: shape = (1562,)
+segments_pitches: shape = (1562, 12)
+segments_start: shape = (1562,)
+segments_timbre: shape = (1562, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOSHTY12AAF3B3082
+start_of_fade_out: 421.825
+tatums_confidence: shape = (1620,)
+tatums_start: shape = (1620,)
+tempo: 112.706
+time_signature: 3
+time_signature_confidence: 1.0
+title: A World In Fast Forward
+track_7digitalid: 3647101
+track_id: TRBBMVE128F92DA833
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 55752
+artist_familiarity: 0.840409662154
+artist_hotttnesss: 0.840462688027
+artist_id: AR6XZ861187FB4CECD
+artist_latitude: 53.40977
+artist_location: Liverpool, England
+artist_longitude: -2.97848
+artist_mbid: b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d
+artist_mbtags: shape = (20,)
+artist_mbtags_count: shape = (20,)
+artist_name: The Beatles
+artist_playmeid: 89208
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 83c33bb7305904f62456136ea7847359
+bars_confidence: shape = (23,)
+bars_start: shape = (23,)
+beats_confidence: shape = (87,)
+beats_start: shape = (87,)
+danceability: 0.0
+duration: 53.78567
+end_of_fade_in: 0.483
+energy: 0.0
+key: 6
+key_confidence: 0.076
+loudness: -47.664
+mode: 1
+mode_confidence: 0.364
+release: Here There And Everywhere
+release_7digitalid: 70646
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (119,)
+segments_loudness_max: shape = (119,)
+segments_loudness_max_time: shape = (119,)
+segments_loudness_start: shape = (119,)
+segments_pitches: shape = (119, 12)
+segments_start: shape = (119,)
+segments_timbre: shape = (119, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORTPSA12A67ADBFE2
+start_of_fade_out: 53.786
+tatums_confidence: shape = (174,)
+tatums_start: shape = (174,)
+tempo: 112.361
+time_signature: 3
+time_signature_confidence: 0.509
+title: Derek Taylor - Introduction
+track_7digitalid: 739963
+track_id: TRAHSSO128EF347345
+year: 0

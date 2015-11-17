@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 250063
+artist_familiarity: 0.658016591873
+artist_hotttnesss: 0.472495476665
+artist_id: ARBZHTB1187FB3A725
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 36bb2418-3fa0-40c6-8805-a15498aec764
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Aaron Watson
+artist_playmeid: 9030
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 4eece0195b0015b0f4838a0f21f0c448
+bars_confidence: shape = (138,)
+bars_start: shape = (138,)
+beats_confidence: shape = (556,)
+beats_start: shape = (556,)
+danceability: 0.0
+duration: 217.39057
+end_of_fade_in: 0.205
+energy: 0.0
+key: 4
+key_confidence: 0.563
+loudness: -8.942
+mode: 1
+mode_confidence: 0.532
+release: Angels & Outlaws
+release_7digitalid: 321603
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (725,)
+segments_loudness_max: shape = (725,)
+segments_loudness_max_time: shape = (725,)
+segments_loudness_start: shape = (725,)
+segments_pitches: shape = (725, 12)
+segments_start: shape = (725,)
+segments_timbre: shape = (725, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYRLBG12A8C145AD9
+start_of_fade_out: 208.834
+tatums_confidence: shape = (1111,)
+tatums_start: shape = (1111,)
+tempo: 155.896
+time_signature: 4
+time_signature_confidence: 0.0
+title: Rollercoaster Ride
+track_7digitalid: 3623988
+track_id: TRABONH128F92D58DA
+year: 2008

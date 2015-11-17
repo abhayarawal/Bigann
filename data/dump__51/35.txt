@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4945
+artist_familiarity: 0.707925027025
+artist_hotttnesss: 0.499018398415
+artist_id: ARTZ90C1187FB55D81
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5cf7e696-3c52-4021-866c-7ce71ab8671a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jimmy Wayne
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: e40d1571547a2e6f0a40221708c35c3b
+bars_confidence: shape = (132,)
+bars_start: shape = (132,)
+beats_confidence: shape = (531,)
+beats_start: shape = (531,)
+danceability: 0.0
+duration: 232.64608
+end_of_fade_in: 0.258
+energy: 0.0
+key: 7
+key_confidence: 0.477
+loudness: -6.349
+mode: 0
+mode_confidence: 0.579
+release: Jimmy Wayne
+release_7digitalid: 57880
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (561,)
+segments_loudness_max: shape = (561,)
+segments_loudness_max_time: shape = (561,)
+segments_loudness_start: shape = (561,)
+segments_pitches: shape = (561, 12)
+segments_start: shape = (561,)
+segments_timbre: shape = (561, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZDDPQ12AF72A8BA8
+start_of_fade_out: 213.821
+tatums_confidence: shape = (1061,)
+tatums_start: shape = (1061,)
+tempo: 142.409
+time_signature: 4
+time_signature_confidence: 0.038
+title: Are You Ever Gonna Love Me?
+track_7digitalid: 602796
+track_id: TRARMYQ128F149F18A
+year: 0

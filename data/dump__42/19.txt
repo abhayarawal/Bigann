@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 309423
+artist_familiarity: 0.596184926664
+artist_hotttnesss: 0.427479241459
+artist_id: AREBWEH1187B99EA9A
+artist_latitude: nan
+artist_location: Helsinki
+artist_longitude: nan
+artist_mbid: 65a8ee1c-20ef-4e2d-bf55-33a35bd7e644
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Beherit
+artist_playmeid: -1
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 52bd84b3742904670a97b4eee65fae13
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (437,)
+beats_start: shape = (437,)
+danceability: 0.0
+duration: 202.91873
+end_of_fade_in: 3.454
+energy: 0.0
+key: 11
+key_confidence: 0.512
+loudness: -18.65
+mode: 1
+mode_confidence: 0.472
+release: Drawing Down the Moon
+release_7digitalid: 480803
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (370,)
+segments_loudness_max: shape = (370,)
+segments_loudness_max_time: shape = (370,)
+segments_loudness_start: shape = (370,)
+segments_pitches: shape = (370, 12)
+segments_start: shape = (370,)
+segments_timbre: shape = (370, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.541551997893
+song_id: SOAHAZZ12AAF3B464A
+start_of_fade_out: 183.13
+tatums_confidence: shape = (874,)
+tatums_start: shape = (874,)
+tempo: 130.955
+time_signature: 4
+time_signature_confidence: 0.708
+title: Lord of Shadows and Golden Wood
+track_7digitalid: 5335312
+track_id: TRAOINP128F92F0217
+year: 1993

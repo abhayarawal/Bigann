@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 374845
+artist_familiarity: 0.52059980066
+artist_hotttnesss: 0.338074486151
+artist_id: ARA8X3M1187B9A13CA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ed3a4c09-ccd0-45cf-830d-7553689f0824
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Aphasia
+artist_playmeid: -1
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: bc6ba2906e0a6994a78f8afdbbc1d4fa
+bars_confidence: shape = (33,)
+bars_start: shape = (33,)
+beats_confidence: shape = (246,)
+beats_start: shape = (246,)
+danceability: 0.0
+duration: 207.5424
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.255
+loudness: -1.651
+mode: 1
+mode_confidence: 0.544
+release: Brain Patch Error
+release_7digitalid: 517480
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (523,)
+segments_loudness_max: shape = (523,)
+segments_loudness_max_time: shape = (523,)
+segments_loudness_start: shape = (523,)
+segments_pitches: shape = (523, 12)
+segments_start: shape = (523,)
+segments_timbre: shape = (523, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTOVKU12AB018AC33
+start_of_fade_out: 207.542
+tatums_confidence: shape = (738,)
+tatums_start: shape = (738,)
+tempo: 68.544
+time_signature: 4
+time_signature_confidence: 0.986
+title: sample processing failed (part one: "why don't you fuckin' remember anything ?")
+track_7digitalid: 5728431
+track_id: TRAWLVX128F934E63C
+year: 2001

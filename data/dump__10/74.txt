@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2752
+artist_familiarity: 0.685502832087
+artist_hotttnesss: 0.44673296759
+artist_id: ARDW5AW1187FB55708
+artist_latitude: 42.78668
+artist_location: Vermillion, SD
+artist_longitude: -96.92803
+artist_mbid: 42222090-c5e5-4243-8582-c29bc8b63ec6
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Shawn Colvin
+artist_playmeid: 1431
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 3da96b1653f3d78d0b942a702fd5766a
+bars_confidence: shape = (457,)
+bars_start: shape = (457,)
+beats_confidence: shape = (457,)
+beats_start: shape = (457,)
+danceability: 0.0
+duration: 250.69669
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.162
+loudness: -12.806
+mode: 1
+mode_confidence: 0.356
+release: Live
+release_7digitalid: 487958
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (830,)
+segments_loudness_max: shape = (830,)
+segments_loudness_max_time: shape = (830,)
+segments_loudness_start: shape = (830,)
+segments_pitches: shape = (830, 12)
+segments_start: shape = (830,)
+segments_timbre: shape = (830, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZPXLH12A58A7A054
+start_of_fade_out: 250.697
+tatums_confidence: shape = (912,)
+tatums_start: shape = (912,)
+tempo: 109.154
+time_signature: 1
+time_signature_confidence: 0.0
+title: Sunny Came Home
+track_7digitalid: 5405049
+track_id: TRADNZM128F9300DF3
+year: 1996

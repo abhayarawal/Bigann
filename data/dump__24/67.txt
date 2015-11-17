@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3380
+artist_familiarity: 0.565452291658
+artist_hotttnesss: 0.35241012681
+artist_id: ARVAE6W1187FB3CAF3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f115c91a-2f30-4c0a-a6ce-e67411f2247f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Refreshments
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: ce5dfa6f29a7fa2a1f806843e9be031f
+bars_confidence: shape = (605,)
+bars_start: shape = (605,)
+beats_confidence: shape = (605,)
+beats_start: shape = (605,)
+danceability: 0.0
+duration: 195.39546
+end_of_fade_in: 0.069
+energy: 0.0
+key: 7
+key_confidence: 0.678
+loudness: -5.95
+mode: 1
+mode_confidence: 0.613
+release: 24-7
+release_7digitalid: 686954
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (949,)
+segments_loudness_max: shape = (949,)
+segments_loudness_max_time: shape = (949,)
+segments_loudness_start: shape = (949,)
+segments_pitches: shape = (949, 12)
+segments_start: shape = (949,)
+segments_timbre: shape = (949, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.370025074483
+song_id: SOLXOUI12AC468DBE2
+start_of_fade_out: 189.591
+tatums_confidence: shape = (1210,)
+tatums_start: shape = (1210,)
+tempo: 191.436
+time_signature: 1
+time_signature_confidence: 0.0
+title: My Girlfriend's Friend
+track_7digitalid: 7624103
+track_id: TRAIHCX12903CEBAE1
+year: 0

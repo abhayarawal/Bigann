@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4024
+artist_familiarity: 0.643544997241
+artist_hotttnesss: 0.670106172837
+artist_id: ARVNGA71187FB3C107
+artist_latitude: nan
+artist_location: Jackson, MS
+artist_longitude: nan
+artist_mbid: 406552d4-5ba1-4226-b7c0-367bc50fc767
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Faith Hill & Tim McGraw
+artist_playmeid: 593
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: d7179be9e0f7964a95f34482ece9aea5
+bars_confidence: shape = (149,)
+bars_start: shape = (149,)
+beats_confidence: shape = (602,)
+beats_start: shape = (602,)
+danceability: 0.0
+duration: 252.89098
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.348
+loudness: -8.355
+mode: 1
+mode_confidence: 0.497
+release: Breathe
+release_7digitalid: 569911
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (617,)
+segments_loudness_max: shape = (617,)
+segments_loudness_max_time: shape = (617,)
+segments_loudness_start: shape = (617,)
+segments_pitches: shape = (617, 12)
+segments_start: shape = (617,)
+segments_timbre: shape = (617, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEDFSM12AB0187587
+start_of_fade_out: 240.924
+tatums_confidence: shape = (1204,)
+tatums_start: shape = (1204,)
+tempo: 146.85
+time_signature: 4
+time_signature_confidence: 0.171
+title: Let's Make Love (Album Version)
+track_7digitalid: 6314737
+track_id: TRAZUVK12903C9ACBA
+year: 1999

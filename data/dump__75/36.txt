@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8899
+artist_familiarity: 0.577158123814
+artist_hotttnesss: 0.512197243011
+artist_id: AR0JPOG1187FB37383
+artist_latitude: nan
+artist_location: Japan
+artist_longitude: nan
+artist_mbid: 3fafb3eb-bd69-4463-b6aa-bf88472b6089
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lyrics Born
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 03639a9ac93b3bb823f5852feb8b221a
+bars_confidence: shape = (204,)
+bars_start: shape = (204,)
+beats_confidence: shape = (826,)
+beats_start: shape = (826,)
+danceability: 0.0
+duration: 445.49179
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.376
+loudness: -5.407
+mode: 1
+mode_confidence: 0.538
+release: Overnite Encore: Lyrics Born Live!
+release_7digitalid: 226663
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (1760,)
+segments_loudness_max: shape = (1760,)
+segments_loudness_max_time: shape = (1760,)
+segments_loudness_start: shape = (1760,)
+segments_pitches: shape = (1760, 12)
+segments_start: shape = (1760,)
+segments_timbre: shape = (1760, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOAZUSH12A58A7A561
+start_of_fade_out: 445.492
+tatums_confidence: shape = (1653,)
+tatums_start: shape = (1653,)
+tempo: 110.925
+time_signature: 4
+time_signature_confidence: 0.658
+title: Stop Complaining/Remix/Jam
+track_7digitalid: 2482324
+track_id: TRAZSRJ128F4216E54
+year: 2006

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 24238
+artist_familiarity: 0.616436885257
+artist_hotttnesss: 0.409464909228
+artist_id: ARAHQDS1187FB55275
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e12fbbb6-46fe-4099-9bfa-1aeb56aef7e6
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Maysa
+artist_playmeid: 49627
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 7ee29a132eec75adc1af26180229693d
+bars_confidence: shape = (47,)
+bars_start: shape = (47,)
+beats_confidence: shape = (237,)
+beats_start: shape = (237,)
+danceability: 0.0
+duration: 176.37832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.427
+loudness: -10.484
+mode: 0
+mode_confidence: 0.416
+release: Maysa
+release_7digitalid: 729053
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (523,)
+segments_loudness_max: shape = (523,)
+segments_loudness_max_time: shape = (523,)
+segments_loudness_start: shape = (523,)
+segments_pitches: shape = (523, 12)
+segments_start: shape = (523,)
+segments_timbre: shape = (523, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SONZDGL12AB018CD7C
+start_of_fade_out: 173.453
+tatums_confidence: shape = (713,)
+tatums_start: shape = (713,)
+tempo: 82.72
+time_signature: 5
+time_signature_confidence: 0.116
+title: Escuta_ Noel
+track_7digitalid: 8076256
+track_id: TRANZBO12903CE2E9F
+year: 2003

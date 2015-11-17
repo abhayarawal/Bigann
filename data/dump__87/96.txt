@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10934
+artist_familiarity: 0.687294463335
+artist_hotttnesss: 0.517170480632
+artist_id: ARK0BT61187B9ACEC2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a0955511-1324-4e9b-834f-e1e140502850
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Monster Magnet
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: b0d126f91865b45006f0375734c462e0
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (264,)
+beats_start: shape = (264,)
+danceability: 0.0
+duration: 260.17914
+end_of_fade_in: 0.345
+energy: 0.0
+key: 0
+key_confidence: 0.532
+loudness: -6.076
+mode: 1
+mode_confidence: 0.515
+release: For The Masses
+release_7digitalid: 16044
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (1168,)
+segments_loudness_max: shape = (1168,)
+segments_loudness_max_time: shape = (1168,)
+segments_loudness_start: shape = (1168,)
+segments_pitches: shape = (1168, 12)
+segments_start: shape = (1168,)
+segments_timbre: shape = (1168, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.51596363072
+song_id: SOVSJCE12A6701E0D9
+start_of_fade_out: 236.449
+tatums_confidence: shape = (1318,)
+tatums_start: shape = (1318,)
+tempo: 61.593
+time_signature: 3
+time_signature_confidence: 0.96
+title: Black Celebration
+track_7digitalid: 169940
+track_id: TRBEFFG128E0793C24
+year: 1998

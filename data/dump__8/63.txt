@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 48295
+artist_familiarity: 0.55757105921
+artist_hotttnesss: 0.306947608643
+artist_id: AR1KMPF1187B99AA98
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cc57dbcb-1263-4039-9045-1ca7dbac4429
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lara
+artist_playmeid: 9598
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 16e8d991aef6241b1ca808ee0c4e7522
+bars_confidence: shape = (63,)
+bars_start: shape = (63,)
+beats_confidence: shape = (257,)
+beats_start: shape = (257,)
+danceability: 0.0
+duration: 192.46975
+end_of_fade_in: 0.264
+energy: 0.0
+key: 2
+key_confidence: 0.497
+loudness: -6.533
+mode: 1
+mode_confidence: 0.591
+release: Wahnsinn
+release_7digitalid: 396837
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (578,)
+segments_loudness_max: shape = (578,)
+segments_loudness_max_time: shape = (578,)
+segments_loudness_start: shape = (578,)
+segments_pitches: shape = (578, 12)
+segments_start: shape = (578,)
+segments_timbre: shape = (578, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZFCZN12AB017E894
+start_of_fade_out: 187.582
+tatums_confidence: shape = (513,)
+tatums_start: shape = (513,)
+tempo: 81.986
+time_signature: 4
+time_signature_confidence: 0.824
+title: Damit Du Dich in mich verliebst
+track_7digitalid: 4405799
+track_id: TRACVTG128F92FE985
+year: 2009

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17457
+artist_familiarity: 0.546346469458
+artist_hotttnesss: 0.413772173138
+artist_id: ARN3X4T1187B99EA39
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a2cab261-63cc-4ccf-8023-6b6e8588bb62
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Jacky Cheung
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: dea2f0cd9098268e8b9147cd6b1b85b0
+bars_confidence: shape = (157,)
+bars_start: shape = (157,)
+beats_confidence: shape = (634,)
+beats_start: shape = (634,)
+danceability: 0.0
+duration: 226.37669
+end_of_fade_in: 9.886
+energy: 0.0
+key: 4
+key_confidence: 0.617
+loudness: -12.175
+mode: 0
+mode_confidence: 0.578
+release: E Lang Chuan Shou
+release_7digitalid: 46625
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (868,)
+segments_loudness_max: shape = (868,)
+segments_loudness_max_time: shape = (868,)
+segments_loudness_start: shape = (868,)
+segments_pitches: shape = (868, 12)
+segments_start: shape = (868,)
+segments_timbre: shape = (868, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOTLIP12A6D4F95BC
+start_of_fade_out: 222.726
+tatums_confidence: shape = (1268,)
+tatums_start: shape = (1268,)
+tempo: 169.898
+time_signature: 4
+time_signature_confidence: 0.0
+title: Zhui Zhong
+track_7digitalid: 498253
+track_id: TRBBXWG128F148B444
+year: 0

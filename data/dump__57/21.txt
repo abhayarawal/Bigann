@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12255
+artist_familiarity: 0.612858654108
+artist_hotttnesss: 0.360344685914
+artist_id: ARK7ZPW1187B99C170
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 9dee40b2-25ad-404c-9c9a-139feffd4b57
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Maria Callas/Giuseppe di Stefano/Ettore Bastianini/Silvana Zanolli/Luisa Mandelli/Giuseppe Zampieri/Arturo La Porta/Antonio Zerbini/Silvio Maionica/Coro e Orchestra del Teatro alla Scala_ Milano/Carlo Maria Giulini
+artist_playmeid: 10820
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: dc7476ece02d5621c8e8a785aa35e71e
+bars_confidence: shape = (35,)
+bars_start: shape = (35,)
+beats_confidence: shape = (180,)
+beats_start: shape = (180,)
+danceability: 0.0
+duration: 112.14322
+end_of_fade_in: 2.229
+energy: 0.0
+key: 11
+key_confidence: 0.094
+loudness: -20.02
+mode: 1
+mode_confidence: 0.438
+release: Verdi - La Traviata (Highlights)
+release_7digitalid: 22723
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (368,)
+segments_loudness_max: shape = (368,)
+segments_loudness_max_time: shape = (368,)
+segments_loudness_start: shape = (368,)
+segments_pitches: shape = (368, 12)
+segments_start: shape = (368,)
+segments_timbre: shape = (368, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAWJZF12A6D4F7DE1
+start_of_fade_out: 112.143
+tatums_confidence: shape = (359,)
+tatums_start: shape = (359,)
+tempo: 96.775
+time_signature: 5
+time_signature_confidence: 0.736
+title: La Traviata - highlights (1990 Digital Remaster): Ah_ non più (Alfredo/Violetta)
+track_7digitalid: 235798
+track_id: TRATMXM128F1457ACB
+year: 0

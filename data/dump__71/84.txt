@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 230085
+artist_familiarity: 0.477387609795
+artist_hotttnesss: 0.423234534811
+artist_id: ARLKAOO12406A89CB1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ec18d586-74b6-4b50-a404-df7bc6570cb3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Vorstadtkinder
+artist_playmeid: -1
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: bf8766bad72d268697cd17f28c4f0412
+bars_confidence: shape = (215,)
+bars_start: shape = (215,)
+beats_confidence: shape = (864,)
+beats_start: shape = (864,)
+danceability: 0.0
+duration: 291.21261
+end_of_fade_in: 0.729
+energy: 0.0
+key: 7
+key_confidence: 0.593
+loudness: -4.07
+mode: 1
+mode_confidence: 0.634
+release: Ultra Dark Radio - Compilation III. Mensch und Maschine
+release_7digitalid: 289619
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (603,)
+segments_loudness_max: shape = (603,)
+segments_loudness_max_time: shape = (603,)
+segments_loudness_start: shape = (603,)
+segments_pitches: shape = (603, 12)
+segments_start: shape = (603,)
+segments_timbre: shape = (603, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOXOPDV12A8C133674
+start_of_fade_out: 286.319
+tatums_confidence: shape = (1727,)
+tatums_start: shape = (1727,)
+tempo: 179.82
+time_signature: 4
+time_signature_confidence: 0.0
+title: Los!
+track_7digitalid: 3244766
+track_id: TRAYPHG128F42777D1
+year: 0

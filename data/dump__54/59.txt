@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 34552
+artist_familiarity: 0.0491434420491
+artist_hotttnesss: 0.0
+artist_id: AR84SHT1187FB4687A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 987d4af8-6544-4705-964f-291645e48d6f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Wade Ray
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: eadb790609f1a3b3665721a849db46bb
+bars_confidence: shape = (96,)
+bars_start: shape = (96,)
+beats_confidence: shape = (385,)
+beats_start: shape = (385,)
+danceability: 0.0
+duration: 135.78404
+end_of_fade_in: 0.252
+energy: 0.0
+key: 3
+key_confidence: 0.553
+loudness: -9.713
+mode: 1
+mode_confidence: 0.569
+release: Trains & Cars - A Trip To Rock 'n' Roll Vol. 1
+release_7digitalid: 574494
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (553,)
+segments_loudness_max: shape = (553,)
+segments_loudness_max_time: shape = (553,)
+segments_loudness_start: shape = (553,)
+segments_pitches: shape = (553, 12)
+segments_start: shape = (553,)
+segments_timbre: shape = (553, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONCHNB12AB01849A2
+start_of_fade_out: 131.582
+tatums_confidence: shape = (770,)
+tatums_start: shape = (770,)
+tempo: 171.527
+time_signature: 4
+time_signature_confidence: 0.0
+title: Idaho Red
+track_7digitalid: 6367419
+track_id: TRASRBP12903CA768B
+year: 2005

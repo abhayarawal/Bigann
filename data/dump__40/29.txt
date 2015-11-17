@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3380
+artist_familiarity: 0.565452291658
+artist_hotttnesss: 0.35241012681
+artist_id: ARVAE6W1187FB3CAF3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f115c91a-2f30-4c0a-a6ce-e67411f2247f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Refreshments
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: eea19d6980d7207f1a87b34d416869fc
+bars_confidence: shape = (137,)
+bars_start: shape = (137,)
+beats_confidence: shape = (551,)
+beats_start: shape = (551,)
+danceability: 0.0
+duration: 175.96036
+end_of_fade_in: 0.125
+energy: 0.0
+key: 7
+key_confidence: 0.739
+loudness: -5.204
+mode: 1
+mode_confidence: 0.431
+release: 24-7
+release_7digitalid: 686954
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (924,)
+segments_loudness_max: shape = (924,)
+segments_loudness_max_time: shape = (924,)
+segments_loudness_start: shape = (924,)
+segments_pitches: shape = (924, 12)
+segments_start: shape = (924,)
+segments_timbre: shape = (924, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SODQPDV12AC468903A
+start_of_fade_out: 170.731
+tatums_confidence: shape = (1103,)
+tatums_start: shape = (1103,)
+tempo: 193.584
+time_signature: 4
+time_signature_confidence: 0.402
+title: Lana Lee
+track_7digitalid: 7624115
+track_id: TRANSAG12903CEBAED
+year: 0

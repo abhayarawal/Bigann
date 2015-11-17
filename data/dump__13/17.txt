@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16971
+artist_familiarity: 0.557460219739
+artist_hotttnesss: 0.386151631413
+artist_id: AREJXK41187B9A4ACC
+artist_latitude: 46.71067
+artist_location: France
+artist_longitude: 1.71819
+artist_mbid: c43bb0d6-94d7-410f-80fb-e5a243b18d23
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Raphaël
+artist_playmeid: 2676
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 3ea7986cb423d2003c3fc3182afd5d2b
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (514,)
+beats_start: shape = (514,)
+danceability: 0.0
+duration: 211.01669
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.468
+loudness: -6.301
+mode: 0
+mode_confidence: 0.588
+release: Le Petit Train (Mixe Mark Plati)
+release_7digitalid: 318216
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (812,)
+segments_loudness_max: shape = (812,)
+segments_loudness_max_time: shape = (812,)
+segments_loudness_start: shape = (812,)
+segments_pitches: shape = (812, 12)
+segments_start: shape = (812,)
+segments_timbre: shape = (812, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOVKDPG12A8C144EE8
+start_of_fade_out: 195.837
+tatums_confidence: shape = (1027,)
+tatums_start: shape = (1027,)
+tempo: 150.096
+time_signature: 5
+time_signature_confidence: 0.0
+title: Le Petit Train (Mixé Par Mark Plati)
+track_7digitalid: 3592296
+track_id: TRAELHH128F92CF21E
+year: 0

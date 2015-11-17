@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20274
+artist_familiarity: 0.504447582619
+artist_hotttnesss: 0.366483301758
+artist_id: ARO32TC1187FB39461
+artist_latitude: 35.83073
+artist_location: Tennessee
+artist_longitude: -85.97874
+artist_mbid: a2b0affd-963f-46a3-9a8d-5b9d1332ccb3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Chico
+artist_playmeid: 3784
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: b41a018bb62d43ab9856497eef383c94
+bars_confidence: shape = (171,)
+bars_start: shape = (171,)
+beats_confidence: shape = (687,)
+beats_start: shape = (687,)
+danceability: 0.0
+duration: 332.01587
+end_of_fade_in: 0.299
+energy: 0.0
+key: 4
+key_confidence: 0.425
+loudness: -3.017
+mode: 0
+mode_confidence: 0.329
+release: Curvy Cola Bottle Body
+release_7digitalid: 143653
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1649,)
+segments_loudness_max: shape = (1649,)
+segments_loudness_max_time: shape = (1649,)
+segments_loudness_start: shape = (1649,)
+segments_pitches: shape = (1649, 12)
+segments_start: shape = (1649,)
+segments_timbre: shape = (1649, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONHURK12A8C131104
+start_of_fade_out: 326.449
+tatums_confidence: shape = (1375,)
+tatums_start: shape = (1375,)
+tempo: 126.938
+time_signature: 4
+time_signature_confidence: 0.037
+title: Curvy Cola Bottle Body
+track_7digitalid: 1499620
+track_id: TRABUGO128F424E920
+year: 0

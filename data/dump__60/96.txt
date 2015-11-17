@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10557
+artist_familiarity: 0.516021359426
+artist_hotttnesss: 0.348526889598
+artist_id: ARID75M1187B9B8341
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: dcaa525e-9af3-4ff9-85c3-be48cfb98c17
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Steve Green
+artist_playmeid: 48502
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: f2f65b4354de7cb0bf201e2f44b06662
+bars_confidence: shape = (79,)
+bars_start: shape = (79,)
+beats_confidence: shape = (332,)
+beats_start: shape = (332,)
+danceability: 0.0
+duration: 211.722
+end_of_fade_in: 0.286
+energy: 0.0
+key: 5
+key_confidence: 0.838
+loudness: -16.941
+mode: 1
+mode_confidence: 0.769
+release: Forgive Me (Premiere Performance Plus Track)
+release_7digitalid: 630453
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (442,)
+segments_loudness_max: shape = (442,)
+segments_loudness_max_time: shape = (442,)
+segments_loudness_start: shape = (442,)
+segments_pitches: shape = (442, 12)
+segments_start: shape = (442,)
+segments_timbre: shape = (442, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBQJCE12AB0183BB3
+start_of_fade_out: 192.731
+tatums_confidence: shape = (665,)
+tatums_start: shape = (665,)
+tempo: 99.619
+time_signature: 4
+time_signature_confidence: 0.957
+title: Forgive Me (High Key-Premiere Performance Plus)
+track_7digitalid: 6996574
+track_id: TRAUVGG128F9324DAC
+year: 0

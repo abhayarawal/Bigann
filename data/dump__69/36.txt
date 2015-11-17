@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 32215
+artist_familiarity: 0.612953154239
+artist_hotttnesss: 0.454541929151
+artist_id: AR3QRJ91187B98E4C2
+artist_latitude: 48.85692
+artist_location: Paris, France
+artist_longitude: 2.34121
+artist_mbid: a65f4f19-9f4c-4a44-906f-87aa4ceee900
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Jacques Dutronc
+artist_playmeid: -1
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 10003c7b0cd8f9dc316220d699dbe9e4
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (357,)
+beats_start: shape = (357,)
+danceability: 0.0
+duration: 189.36118
+end_of_fade_in: 3.529
+energy: 0.0
+key: 4
+key_confidence: 0.568
+loudness: -9.774
+mode: 1
+mode_confidence: 0.532
+release: En Vogue
+release_7digitalid: 279598
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (654,)
+segments_loudness_max: shape = (654,)
+segments_loudness_max_time: shape = (654,)
+segments_loudness_start: shape = (654,)
+segments_pitches: shape = (654, 12)
+segments_start: shape = (654,)
+segments_timbre: shape = (654, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOBAUUL12A8AE4817B
+start_of_fade_out: 185.452
+tatums_confidence: shape = (714,)
+tatums_start: shape = (714,)
+tempo: 112.78
+time_signature: 4
+time_signature_confidence: 0.322
+title: Les Playboys (Version Espagnole)
+track_7digitalid: 3113946
+track_id: TRAXRLN128F425C047
+year: 2004

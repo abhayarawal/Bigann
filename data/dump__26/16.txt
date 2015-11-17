@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 290021
+artist_familiarity: 0.487356790928
+artist_hotttnesss: 0.343428378297
+artist_id: ARKRRTF1187B9984DA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7a273984-edd9-4451-9c4d-39b38f05ebcd
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sonora Santanera
+artist_playmeid: 13951
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: be9cc637e5a06a98f3aed2458439fb4b
+bars_confidence: shape = (56,)
+bars_start: shape = (56,)
+beats_confidence: shape = (288,)
+beats_start: shape = (288,)
+danceability: 0.0
+duration: 167.70567
+end_of_fade_in: 0.183
+energy: 0.0
+key: 2
+key_confidence: 0.102
+loudness: -16.275
+mode: 0
+mode_confidence: 0.224
+release: La Inspiracion De Agustin Lara
+release_7digitalid: 511932
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (691,)
+segments_loudness_max: shape = (691,)
+segments_loudness_max_time: shape = (691,)
+segments_loudness_start: shape = (691,)
+segments_pitches: shape = (691, 12)
+segments_start: shape = (691,)
+segments_timbre: shape = (691, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTRHHN12AB0188233
+start_of_fade_out: 165.146
+tatums_confidence: shape = (863,)
+tatums_start: shape = (863,)
+tempo: 104.284
+time_signature: 5
+time_signature_confidence: 0.575
+title: Cuando Quieres Tu
+track_7digitalid: 5677300
+track_id: TRAIUDT128F9342510
+year: 0

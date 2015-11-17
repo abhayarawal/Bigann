@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 415617
+artist_familiarity: 0.532263566641
+artist_hotttnesss: 0.355202032826
+artist_id: ARPOTDD124207839D1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Samba Trio
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 96fbeaecef66ff1fc6e4bc43626ebd15
+bars_confidence: shape = (168,)
+bars_start: shape = (168,)
+beats_confidence: shape = (168,)
+beats_start: shape = (168,)
+danceability: 0.0
+duration: 121.10322
+end_of_fade_in: 0.517
+energy: 0.0
+key: 9
+key_confidence: 0.28
+loudness: -19.271
+mode: 0
+mode_confidence: 0.301
+release: Tristeza
+release_7digitalid: 561763
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (474,)
+segments_loudness_max: shape = (474,)
+segments_loudness_max_time: shape = (474,)
+segments_loudness_start: shape = (474,)
+segments_pitches: shape = (474, 12)
+segments_start: shape = (474,)
+segments_timbre: shape = (474, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOXAHRF12AB0186610
+start_of_fade_out: 115.914
+tatums_confidence: shape = (505,)
+tatums_start: shape = (505,)
+tempo: 87.321
+time_signature: 1
+time_signature_confidence: 0.0
+title: Essa Marie
+track_7digitalid: 6218458
+track_id: TRATPXY128F934FE34
+year: 0

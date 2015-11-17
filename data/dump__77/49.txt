@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 304
+artist_familiarity: 0.899934952232
+artist_hotttnesss: 0.604666876351
+artist_id: ARH6W4X1187B99274F
+artist_latitude: nan
+artist_location: Oxford, UK
+artist_longitude: nan
+artist_mbid: a74b1b7f-71a5-4011-9441-d0b5e4122711
+artist_mbtags: shape = (14,)
+artist_mbtags_count: shape = (14,)
+artist_name: Radiohead
+artist_playmeid: 1307
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 54134b905422a017459a81995d39c088
+bars_confidence: shape = (35,)
+bars_start: shape = (35,)
+beats_confidence: shape = (141,)
+beats_start: shape = (141,)
+danceability: 0.0
+duration: 102.45179
+end_of_fade_in: 0.154
+energy: 0.0
+key: 0
+key_confidence: 0.711
+loudness: -21.343
+mode: 1
+mode_confidence: 0.697
+release: The Bends (Collectors Edition)
+release_7digitalid: 405019
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (273,)
+segments_loudness_max: shape = (273,)
+segments_loudness_max_time: shape = (273,)
+segments_loudness_start: shape = (273,)
+segments_pitches: shape = (273, 12)
+segments_start: shape = (273,)
+segments_timbre: shape = (273, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.528782480943
+song_id: SODQZAW12AB0184A51
+start_of_fade_out: 94.465
+tatums_confidence: shape = (282,)
+tatums_start: shape = (282,)
+tempo: 87.279
+time_signature: 4
+time_signature_confidence: 0.37
+title: You Never Wash Up After Yourself (Live)
+track_7digitalid: 4501420
+track_id: TRBALJE128F9310DCE
+year: 0

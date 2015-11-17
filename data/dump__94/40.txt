@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1280
+artist_familiarity: 0.842673051097
+artist_hotttnesss: 0.872838920624
+artist_id: ARBS1OC1187FB44CAF
+artist_latitude: nan
+artist_location: Atlanta, GA
+artist_longitude: nan
+artist_mbid: f7ba7fbe-c6bd-4ac0-bee9-c25c558d7d62
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: T.I.
+artist_playmeid: 53107
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 6edfc1b893f7988a1c307a7050397adc
+bars_confidence: shape = (96,)
+bars_start: shape = (96,)
+beats_confidence: shape = (388,)
+beats_start: shape = (388,)
+danceability: 0.0
+duration: 266.84036
+end_of_fade_in: 0.165
+energy: 0.0
+key: 1
+key_confidence: 0.555
+loudness: -4.919
+mode: 0
+mode_confidence: 0.492
+release: T.I. VS T.I.P.
+release_7digitalid: 112167
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1154,)
+segments_loudness_max: shape = (1154,)
+segments_loudness_max_time: shape = (1154,)
+segments_loudness_start: shape = (1154,)
+segments_pitches: shape = (1154, 12)
+segments_start: shape = (1154,)
+segments_timbre: shape = (1154, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.614747883708
+song_id: SOHADGT12A8C13C740
+start_of_fade_out: 262.815
+tatums_confidence: shape = (1552,)
+tatums_start: shape = (1552,)
+tempo: 87.525
+time_signature: 4
+time_signature_confidence: 1.0
+title: Respect This Hustle (Explicit Album Version)
+track_7digitalid: 2272181
+track_id: TRBGNUV128F426D20F
+year: 0

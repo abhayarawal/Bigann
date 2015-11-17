@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3363
+artist_familiarity: 0.540750151436
+artist_hotttnesss: 0.379651219002
+artist_id: AR7CCCC1187FB578FF
+artist_latitude: nan
+artist_location: Shelby, North Carolina
+artist_longitude: nan
+artist_mbid: 870ab832-904b-4b49-ab72-7e6b0e0da65f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Don Gibson
+artist_playmeid: 15188
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 9398299531228865594366a02518f9cf
+bars_confidence: shape = (59,)
+bars_start: shape = (59,)
+beats_confidence: shape = (239,)
+beats_start: shape = (239,)
+danceability: 0.0
+duration: 142.94159
+end_of_fade_in: 0.136
+energy: 0.0
+key: 11
+key_confidence: 1.0
+loudness: -13.524
+mode: 1
+mode_confidence: 0.882
+release: Lonesome Number One
+release_7digitalid: 609846
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (642,)
+segments_loudness_max: shape = (642,)
+segments_loudness_max_time: shape = (642,)
+segments_loudness_start: shape = (642,)
+segments_pitches: shape = (642, 12)
+segments_start: shape = (642,)
+segments_timbre: shape = (642, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVTEMS12A8C141E20
+start_of_fade_out: 134.455
+tatums_confidence: shape = (479,)
+tatums_start: shape = (479,)
+tempo: 104.943
+time_signature: 4
+time_signature_confidence: 1.0
+title: Who Cares
+track_7digitalid: 6777798
+track_id: TRAOPAR128F92EFD17
+year: 1987

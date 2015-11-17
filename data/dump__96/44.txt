@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 166277
+artist_familiarity: 0.427398790328
+artist_hotttnesss: 0.32271785576
+artist_id: ARM2D2V1187B9AEB4F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 36f0e233-0d56-47d7-bd59-1f3203d40304
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Reverend Peyton's Big Damn Band
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 82ee91176405ebba14eca4d3904f2415
+bars_confidence: shape = (85,)
+bars_start: shape = (85,)
+beats_confidence: shape = (344,)
+beats_start: shape = (344,)
+danceability: 0.0
+duration: 179.46077
+end_of_fade_in: 0.531
+energy: 0.0
+key: 0
+key_confidence: 0.039
+loudness: -6.988
+mode: 1
+mode_confidence: 0.376
+release: Big Damn Nation
+release_7digitalid: 602681
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (820,)
+segments_loudness_max: shape = (820,)
+segments_loudness_max_time: shape = (820,)
+segments_loudness_start: shape = (820,)
+segments_pitches: shape = (820, 12)
+segments_start: shape = (820,)
+segments_timbre: shape = (820, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.459724988331
+song_id: SOZMKSN12AC96186C4
+start_of_fade_out: 174.602
+tatums_confidence: shape = (689,)
+tatums_start: shape = (689,)
+tempo: 118.167
+time_signature: 4
+time_signature_confidence: 0.709
+title: My Old Man Boogie
+track_7digitalid: 6694139
+track_id: TRBHFIF12903CF66F4
+year: 2006

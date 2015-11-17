@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17528
+artist_familiarity: 0.492253132435
+artist_hotttnesss: 0.256803368795
+artist_id: ARGGEGH11F4C83C076
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Miriam Yeung
+artist_playmeid: 59132
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: a677fccfcc511982366f4506da268b7c
+bars_confidence: shape = (73,)
+bars_start: shape = (73,)
+beats_confidence: shape = (519,)
+beats_start: shape = (519,)
+danceability: 0.0
+duration: 276.74077
+end_of_fade_in: 0.345
+energy: 0.0
+key: 4
+key_confidence: 0.351
+loudness: -13.659
+mode: 1
+mode_confidence: 0.391
+release: Miriam Xin Chang Jin Pai Jin Qu
+release_7digitalid: 285335
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (780,)
+segments_loudness_max: shape = (780,)
+segments_loudness_max_time: shape = (780,)
+segments_loudness_start: shape = (780,)
+segments_pitches: shape = (780, 12)
+segments_start: shape = (780,)
+segments_timbre: shape = (780, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOCSJL12A8C134C38
+start_of_fade_out: 262.885
+tatums_confidence: shape = (1037,)
+tatums_start: shape = (1037,)
+tempo: 114.915
+time_signature: 7
+time_signature_confidence: 0.81
+title: Shang Zhui Ren
+track_7digitalid: 3192157
+track_id: TRADBSN128F426B297
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6822
+artist_familiarity: 0.639614201178
+artist_hotttnesss: 0.464550280679
+artist_id: ARTL6FB1187FB4EAA7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4939695e-1f38-496f-978f-4ebf9ef13e9d
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Kool Keith
+artist_playmeid: 147085
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: fb2ae2a2d6d5e5a483e539b7e690c5b1
+bars_confidence: shape = (86,)
+bars_start: shape = (86,)
+beats_confidence: shape = (402,)
+beats_start: shape = (402,)
+danceability: 0.0
+duration: 258.19383
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.585
+loudness: -6.062
+mode: 0
+mode_confidence: 0.549
+release: Sex Style
+release_7digitalid: 517234
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1169,)
+segments_loudness_max: shape = (1169,)
+segments_loudness_max_time: shape = (1169,)
+segments_loudness_start: shape = (1169,)
+segments_pitches: shape = (1169, 12)
+segments_start: shape = (1169,)
+segments_timbre: shape = (1169, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.513219141628
+song_id: SOOUUUE12AB01878E1
+start_of_fade_out: 245.476
+tatums_confidence: shape = (1206,)
+tatums_start: shape = (1206,)
+tempo: 90.902
+time_signature: 4
+time_signature_confidence: 0.774
+title: Don't Crush It
+track_7digitalid: 5725692
+track_id: TRAOREE128F934DB89
+year: 1997

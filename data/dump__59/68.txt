@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 28782
+artist_familiarity: 0.698619546973
+artist_hotttnesss: 0.546745176247
+artist_id: ARK3PWH1187B9A441D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6c8d5d17-aab0-424a-90f1-d579012b33bd
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Showbread
+artist_playmeid: 61397
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 650754fe4aaba91df8f6ac3de9844f20
+bars_confidence: shape = (91,)
+bars_start: shape = (91,)
+beats_confidence: shape = (366,)
+beats_start: shape = (366,)
+danceability: 0.0
+duration: 197.79873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.61
+loudness: -5.586
+mode: 1
+mode_confidence: 0.548
+release: Nervosa
+release_7digitalid: 234928
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (527,)
+segments_loudness_max: shape = (527,)
+segments_loudness_max_time: shape = (527,)
+segments_loudness_start: shape = (527,)
+segments_pitches: shape = (527, 12)
+segments_start: shape = (527,)
+segments_timbre: shape = (527, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXXZFP12A8AE47061
+start_of_fade_out: 193.202
+tatums_confidence: shape = (733,)
+tatums_start: shape = (733,)
+tempo: 110.235
+time_signature: 4
+time_signature_confidence: 1.0
+title: The Pig
+track_7digitalid: 2578177
+track_id: TRAUJVM128F422C5A2
+year: 2008

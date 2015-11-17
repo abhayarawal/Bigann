@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 451731
+artist_familiarity: 0.501362700084
+artist_hotttnesss: 0.375977654484
+artist_id: AR109IQ1187B98E487
+artist_latitude: nan
+artist_location: Texas
+artist_longitude: nan
+artist_mbid: e6f024eb-cc33-4aad-8257-04dad9a2f31e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: JK
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: fa77a2689f0263642e270e88373db06e
+bars_confidence: shape = (184,)
+bars_start: shape = (184,)
+beats_confidence: shape = (740,)
+beats_start: shape = (740,)
+danceability: 0.0
+duration: 343.562
+end_of_fade_in: 0.282
+energy: 0.0
+key: 0
+key_confidence: 0.213
+loudness: -10.751
+mode: 1
+mode_confidence: 0.492
+release: Go On
+release_7digitalid: 211473
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1535,)
+segments_loudness_max: shape = (1535,)
+segments_loudness_max_time: shape = (1535,)
+segments_loudness_start: shape = (1535,)
+segments_pitches: shape = (1535, 12)
+segments_start: shape = (1535,)
+segments_timbre: shape = (1535, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODZWZP12A8C13AEB6
+start_of_fade_out: 317.446
+tatums_confidence: shape = (1480,)
+tatums_start: shape = (1480,)
+tempo: 131.991
+time_signature: 4
+time_signature_confidence: 0.0
+title: Go On
+track_7digitalid: 2299455
+track_id: TRBAAJQ128F4273A42
+year: 0

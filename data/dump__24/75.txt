@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7536
+artist_familiarity: 0.732571744691
+artist_hotttnesss: 0.45798167407
+artist_id: ARNNQ9E1187FB3C82F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c8327cc0-54f3-424f-a68d-000ee7289a41
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Sizzla
+artist_playmeid: 34228
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 25af8554344e8db1442ee455e2821d7b
+bars_confidence: shape = (86,)
+bars_start: shape = (86,)
+beats_confidence: shape = (434,)
+beats_start: shape = (434,)
+danceability: 0.0
+duration: 197.48526
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.022
+loudness: -6.382
+mode: 0
+mode_confidence: 0.326
+release: Riddim Driven: Wanted
+release_7digitalid: 463655
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (858,)
+segments_loudness_max: shape = (858,)
+segments_loudness_max_time: shape = (858,)
+segments_loudness_start: shape = (858,)
+segments_pitches: shape = (858, 12)
+segments_start: shape = (858,)
+segments_timbre: shape = (858, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOEHUEK12AB018471E
+start_of_fade_out: 193.37
+tatums_confidence: shape = (1300,)
+tatums_start: shape = (1300,)
+tempo: 131.868
+time_signature: 5
+time_signature_confidence: 0.921
+title: Love & Devotion
+track_7digitalid: 5160320
+track_id: TRAIHWC128F9331CF0
+year: 2003

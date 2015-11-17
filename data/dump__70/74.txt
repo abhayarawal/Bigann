@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6884
+artist_familiarity: 0.755041349999
+artist_hotttnesss: 0.458592024908
+artist_id: ARE0OLY1187B9AD19F
+artist_latitude: 40.79263
+artist_location: Whitestone, Queens, NY
+artist_longitude: -73.80817
+artist_mbid: db0fc330-1fa1-43f8-a33f-33eaf6a97d78
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Jesse Malin
+artist_playmeid: -1
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 20b804abb3e07a220372cd2e6d92a852
+bars_confidence: shape = (99,)
+bars_start: shape = (99,)
+beats_confidence: shape = (498,)
+beats_start: shape = (498,)
+danceability: 0.0
+duration: 211.85261
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.972
+loudness: -9.417
+mode: 1
+mode_confidence: 0.808
+release: Messed Up Here Tonight
+release_7digitalid: 313546
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (697,)
+segments_loudness_max: shape = (697,)
+segments_loudness_max_time: shape = (697,)
+segments_loudness_start: shape = (697,)
+segments_pitches: shape = (697, 12)
+segments_start: shape = (697,)
+segments_timbre: shape = (697, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOILNHA12A8C143445
+start_of_fade_out: 211.853
+tatums_confidence: shape = (997,)
+tatums_start: shape = (997,)
+tempo: 141.271
+time_signature: 5
+time_signature_confidence: 0.452
+title: Almost Grown
+track_7digitalid: 3546605
+track_id: TRAYFBF128F92C52AB
+year: 2002

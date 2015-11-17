@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9604
+artist_familiarity: 0.750621598164
+artist_hotttnesss: 0.498497972686
+artist_id: ARBFQ7L1187B9ACD48
+artist_latitude: nan
+artist_location: New York, NY
+artist_longitude: nan
+artist_mbid: 94b0fb9d-a066-4823-b2ec-af1d324bcfcf
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: The Velvet Underground
+artist_playmeid: -1
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: fa88097e897f621149a975e726825173
+bars_confidence: shape = (77,)
+bars_start: shape = (77,)
+beats_confidence: shape = (310,)
+beats_start: shape = (310,)
+danceability: 0.0
+duration: 170.89261
+end_of_fade_in: 0.256
+energy: 0.0
+key: 0
+key_confidence: 0.491
+loudness: -15.591
+mode: 1
+mode_confidence: 0.609
+release: The Velvet Underground Story 2CD Set
+release_7digitalid: 241409
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (546,)
+segments_loudness_max: shape = (546,)
+segments_loudness_max_time: shape = (546,)
+segments_loudness_start: shape = (546,)
+segments_pitches: shape = (546, 12)
+segments_start: shape = (546,)
+segments_timbre: shape = (546, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.782868998681
+song_id: SOUZIIN12AB017FB85
+start_of_fade_out: 162.482
+tatums_confidence: shape = (619,)
+tatums_start: shape = (619,)
+tempo: 112.48
+time_signature: 4
+time_signature_confidence: 0.0
+title: Stephanie Says
+track_7digitalid: 3501860
+track_id: TRBFUMI128F42B5731
+year: 1985

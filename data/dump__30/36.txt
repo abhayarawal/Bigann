@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 34964
+artist_familiarity: 0.663955260227
+artist_hotttnesss: 0.429272534163
+artist_id: ARNTQF31187B9A02FF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 51ae4b16-0e46-4ee1-aac7-e4736035f550
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Tony Matterhorn
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 8912b5b935188d7e82d4242026a90792
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (402,)
+beats_start: shape = (402,)
+danceability: 0.0
+duration: 183.53587
+end_of_fade_in: 0.171
+energy: 0.0
+key: 10
+key_confidence: 0.427
+loudness: -5.953
+mode: 0
+mode_confidence: 0.237
+release: Reggae Gold 2006
+release_7digitalid: 188177
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (885,)
+segments_loudness_max: shape = (885,)
+segments_loudness_max_time: shape = (885,)
+segments_loudness_start: shape = (885,)
+segments_pitches: shape = (885, 12)
+segments_start: shape = (885,)
+segments_timbre: shape = (885, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.685398260124
+song_id: SOJEJNX12A8AE49441
+start_of_fade_out: 178.759
+tatums_confidence: shape = (804,)
+tatums_start: shape = (804,)
+tempo: 127.493
+time_signature: 4
+time_signature_confidence: 1.0
+title: Dutty Wine
+track_7digitalid: 2042456
+track_id: TRAKGDA128F423CBC8
+year: 2006

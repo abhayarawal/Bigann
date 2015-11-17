@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 354302
+artist_familiarity: 0.440172173894
+artist_hotttnesss: 0.306319125441
+artist_id: ARVG1MI119B86678D4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1ac5b96a-9956-4736-932d-9395ca795f73
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: X-tv
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 17aca31e21b50bb9733c37f01fa4e7db
+bars_confidence: shape = (189,)
+bars_start: shape = (189,)
+beats_confidence: shape = (762,)
+beats_start: shape = (762,)
+danceability: 0.0
+duration: 332.79955
+end_of_fade_in: 0.392
+energy: 0.0
+key: 4
+key_confidence: 0.753
+loudness: -10.372
+mode: 1
+mode_confidence: 0.707
+release: Three is a crowd
+release_7digitalid: 478335
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1069,)
+segments_loudness_max: shape = (1069,)
+segments_loudness_max_time: shape = (1069,)
+segments_loudness_start: shape = (1069,)
+segments_pitches: shape = (1069, 12)
+segments_start: shape = (1069,)
+segments_timbre: shape = (1069, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZQDOQ12A8C14538E
+start_of_fade_out: 321.451
+tatums_confidence: shape = (1523,)
+tatums_start: shape = (1523,)
+tempo: 141.946
+time_signature: 4
+time_signature_confidence: 0.311
+title: Aftertaste
+track_7digitalid: 5309421
+track_id: TRBCISZ128F92E9CEF
+year: 0

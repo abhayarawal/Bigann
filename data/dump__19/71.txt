@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7487
+artist_familiarity: 0.792255589732
+artist_hotttnesss: 0.566971566219
+artist_id: ARDF8K01187FB37200
+artist_latitude: nan
+artist_location: Sydney, Australia
+artist_longitude: nan
+artist_mbid: f0c8f75f-8736-4b1d-b312-9349fcff321d
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Wolfmother
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: a65985c7c64176d08991d462c372411d
+bars_confidence: shape = (141,)
+bars_start: shape = (141,)
+beats_confidence: shape = (568,)
+beats_start: shape = (568,)
+danceability: 0.0
+duration: 316.21179
+end_of_fade_in: 0.705
+energy: 0.0
+key: 4
+key_confidence: 0.006
+loudness: -6.183
+mode: 1
+mode_confidence: 0.267
+release: White Feather
+release_7digitalid: 722546
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1224,)
+segments_loudness_max: shape = (1224,)
+segments_loudness_max_time: shape = (1224,)
+segments_loudness_start: shape = (1224,)
+segments_pitches: shape = (1224, 12)
+segments_start: shape = (1224,)
+segments_timbre: shape = (1224, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYZHTW12A58A7DAD9
+start_of_fade_out: 304.036
+tatums_confidence: shape = (1137,)
+tatums_start: shape = (1137,)
+tempo: 110.441
+time_signature: 4
+time_signature_confidence: 0.978
+title: White Feather
+track_7digitalid: 8009171
+track_id: TRAGRRP12903CD2911
+year: 2009

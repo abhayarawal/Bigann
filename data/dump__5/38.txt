@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 150742
+artist_familiarity: 0.544026019948
+artist_hotttnesss: 0.368908141362
+artist_id: ARIXCFZ1187B991009
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2855dc78-1c4c-4aab-9f41-7fbead28a5ff
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Two Man Advantage
+artist_playmeid: 80533
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: ce77cad64f1b4e42b2610665ebf44e5c
+bars_confidence: shape = (176,)
+bars_start: shape = (176,)
+beats_confidence: shape = (176,)
+beats_start: shape = (176,)
+danceability: 0.0
+duration: 50.83383
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.262
+loudness: -6.084
+mode: 1
+mode_confidence: 0.32
+release: Don't Label Us
+release_7digitalid: 200284
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (199,)
+segments_loudness_max: shape = (199,)
+segments_loudness_max_time: shape = (199,)
+segments_loudness_start: shape = (199,)
+segments_pitches: shape = (199, 12)
+segments_start: shape = (199,)
+segments_timbre: shape = (199, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHXBEL12A8C1355E3
+start_of_fade_out: 50.834
+tatums_confidence: shape = (352,)
+tatums_start: shape = (352,)
+tempo: 210.982
+time_signature: 1
+time_signature_confidence: 0.0
+title: The Sweep
+track_7digitalid: 2180146
+track_id: TRABUAQ128F4258028
+year: 0

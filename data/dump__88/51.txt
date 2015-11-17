@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30269
+artist_familiarity: 0.498834975258
+artist_hotttnesss: 0.379960766975
+artist_id: AR9OLFX1187B9A5762
+artist_latitude: 31.30757
+artist_location: Kosse, TX
+artist_longitude: -96.63166
+artist_mbid: c727f585-54e0-4e0d-b8ad-05f216f99244
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bob Wills
+artist_playmeid: 4912
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: dd8e2345937e3c9e840ee9c6ed884928
+bars_confidence: shape = (62,)
+bars_start: shape = (62,)
+beats_confidence: shape = (191,)
+beats_start: shape = (191,)
+danceability: 0.0
+duration: 90.69669
+end_of_fade_in: 1.059
+energy: 0.0
+key: 7
+key_confidence: 0.77
+loudness: -9.282
+mode: 1
+mode_confidence: 0.685
+release: For The Last Time
+release_7digitalid: 106282
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (351,)
+segments_loudness_max: shape = (351,)
+segments_loudness_max_time: shape = (351,)
+segments_loudness_start: shape = (351,)
+segments_pitches: shape = (351, 12)
+segments_start: shape = (351,)
+segments_timbre: shape = (351, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVNGGG12A8C1391CF
+start_of_fade_out: 85.566
+tatums_confidence: shape = (381,)
+tatums_start: shape = (381,)
+tempo: 130.752
+time_signature: 3
+time_signature_confidence: 0.0
+title: Playboy Theme
+track_7digitalid: 1101768
+track_id: TRBELIO128F428F322
+year: 0

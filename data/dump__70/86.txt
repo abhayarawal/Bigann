@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13132
+artist_familiarity: 0.638614022451
+artist_hotttnesss: 0.601436482837
+artist_id: AR4L4WQ1187FB51996
+artist_latitude: nan
+artist_location: Braintree, Essex, England
+artist_longitude: nan
+artist_mbid: 4a4ee089-93b1-4470-af9a-6ff575d32704
+artist_mbtags: shape = (20,)
+artist_mbtags_count: shape = (20,)
+artist_name: The Prodigy
+artist_playmeid: 40163
+artist_terms: shape = (57,)
+artist_terms_freq: shape = (57,)
+artist_terms_weight: shape = (57,)
+audio_md5: b80ab4c5cd82d23f68f524d369c9769d
+bars_confidence: shape = (0,)
+bars_start: shape = (0,)
+beats_confidence: shape = (0,)
+beats_start: shape = (0,)
+danceability: 0.0
+duration: 265.76934
+end_of_fade_in: 1.535
+energy: 0.0
+key: 10
+key_confidence: 0.419
+loudness: -9.259
+mode: 0
+mode_confidence: 0.55
+release: What Evil Lurks
+release_7digitalid: 590021
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1520,)
+segments_loudness_max: shape = (1520,)
+segments_loudness_max_time: shape = (1520,)
+segments_loudness_start: shape = (1520,)
+segments_pitches: shape = (1520, 12)
+segments_start: shape = (1520,)
+segments_timbre: shape = (1520, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.563246899281
+song_id: SOPTPCO12AB018E1B8
+start_of_fade_out: 260.47
+tatums_confidence: shape = (0,)
+tatums_start: shape = (0,)
+tempo: 0.0
+time_signature: 3
+time_signature_confidence: 1.0
+title: What Evil Lurks
+track_7digitalid: 6544908
+track_id: TRAYGHE12903CD213E
+year: 1991

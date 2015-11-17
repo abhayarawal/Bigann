@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1283
+artist_familiarity: 0.833967972053
+artist_hotttnesss: 0.576903815588
+artist_id: ARE8GLF1187FB52532
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8bfac288-ccc5-448d-9573-c33ea2aa5c30
+artist_mbtags: shape = (15,)
+artist_mbtags_count: shape = (15,)
+artist_name: Red Hot Chili Peppers
+artist_playmeid: 1320
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 4a3406e9c843e671b4364d93ae27fd62
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (255,)
+beats_start: shape = (255,)
+danceability: 0.0
+duration: 198.05995
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.455
+loudness: -1.479
+mode: 0
+mode_confidence: 0.372
+release: Californication
+release_7digitalid: 30956
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (850,)
+segments_loudness_max: shape = (850,)
+segments_loudness_max_time: shape = (850,)
+segments_loudness_start: shape = (850,)
+segments_pitches: shape = (850, 12)
+segments_start: shape = (850,)
+segments_timbre: shape = (850, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPNFTX12A67020455
+start_of_fade_out: 198.06
+tatums_confidence: shape = (763,)
+tatums_start: shape = (763,)
+tempo: 76.986
+time_signature: 3
+time_signature_confidence: 0.92
+title: Get On Top (Album Version)
+track_7digitalid: 336021
+track_id: TRACMMG128F146D705
+year: 1999

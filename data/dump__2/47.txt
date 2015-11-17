@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 345476
+artist_familiarity: 0.400433513458
+artist_hotttnesss: 0.266275285547
+artist_id: ARNIFX51187FB418EA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 91a75913-4dbf-4496-bed1-7d4206c3ed22
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Xcultures
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: e3ea4ef2c644195e6739b756ac08894e
+bars_confidence: shape = (9,)
+bars_start: shape = (9,)
+beats_confidence: shape = (65,)
+beats_start: shape = (65,)
+danceability: 0.0
+duration: 38.3473
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.054
+loudness: -16.006
+mode: 0
+mode_confidence: 0.334
+release: One World One People
+release_7digitalid: 466577
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (115,)
+segments_loudness_max: shape = (115,)
+segments_loudness_max_time: shape = (115,)
+segments_loudness_start: shape = (115,)
+segments_pitches: shape = (115, 12)
+segments_start: shape = (115,)
+segments_timbre: shape = (115, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.214253448962
+song_id: SOJRCDU12AB0189D27
+start_of_fade_out: 38.347
+tatums_confidence: shape = (131,)
+tatums_start: shape = (131,)
+tempo: 107.177
+time_signature: 7
+time_signature_confidence: 0.545
+title: Smile
+track_7digitalid: 5190178
+track_id: TRAATJK128F9339179
+year: 2000

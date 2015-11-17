@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 464306
+artist_familiarity: 0.342558954068
+artist_hotttnesss: 0.292656453509
+artist_id: ARP8TSJ1187FB54852
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4ab4cf73-8bed-4364-a4e8-31b4f893bd34
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Carl Doy
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 06bebccd5488629b7771deb6e21f1fb9
+bars_confidence: shape = (567,)
+bars_start: shape = (567,)
+beats_confidence: shape = (567,)
+beats_start: shape = (567,)
+danceability: 0.0
+duration: 233.58649
+end_of_fade_in: 0.398
+energy: 0.0
+key: 9
+key_confidence: 0.692
+loudness: -17.08
+mode: 0
+mode_confidence: 0.522
+release: The Very Best Of
+release_7digitalid: 624029
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (971,)
+segments_loudness_max: shape = (971,)
+segments_loudness_max_time: shape = (971,)
+segments_loudness_start: shape = (971,)
+segments_pitches: shape = (971, 12)
+segments_start: shape = (971,)
+segments_timbre: shape = (971, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOZKXKY12AB018039F
+start_of_fade_out: 217.391
+tatums_confidence: shape = (1134,)
+tatums_start: shape = (1134,)
+tempo: 147.51
+time_signature: 1
+time_signature_confidence: 0.0
+title: Wave
+track_7digitalid: 6927326
+track_id: TRAKZRX128F931418B
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 289224
+artist_familiarity: 0.572051286962
+artist_hotttnesss: 0.450432129914
+artist_id: ARTKTYG1187FB40CBA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e8533fd3-4e66-4ad5-8fe5-12a916f9c4a1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dendemann
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 8a1a8fed70ac65e64a483d02140cf789
+bars_confidence: shape = (97,)
+bars_start: shape = (97,)
+beats_confidence: shape = (395,)
+beats_start: shape = (395,)
+danceability: 0.0
+duration: 221.98812
+end_of_fade_in: 0.311
+energy: 0.0
+key: 11
+key_confidence: 0.276
+loudness: -6.131
+mode: 0
+mode_confidence: 0.351
+release: Die Pfütze des Eisbergs
+release_7digitalid: 624339
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (997,)
+segments_loudness_max: shape = (997,)
+segments_loudness_max_time: shape = (997,)
+segments_loudness_start: shape = (997,)
+segments_pitches: shape = (997, 12)
+segments_start: shape = (997,)
+segments_timbre: shape = (997, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONEQCM12AB017BDE2
+start_of_fade_out: 219.487
+tatums_confidence: shape = (790,)
+tatums_start: shape = (790,)
+tempo: 106.023
+time_signature: 4
+time_signature_confidence: 1.0
+title: Sachmagehtsnoch
+track_7digitalid: 6933937
+track_id: TRBGKTM128F9315B5E
+year: 2006

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 370267
+artist_familiarity: 0.499939220989
+artist_hotttnesss: 0.374449430497
+artist_id: ARDOOH01187B991055
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 344c5e8c-d4f1-4bec-8ff5-08ef100a9e5d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ultraviolence
+artist_playmeid: 160798
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: b9194cc6ce730dfd1126944ac78b679a
+bars_confidence: shape = (263,)
+bars_start: shape = (263,)
+beats_confidence: shape = (1055,)
+beats_start: shape = (1055,)
+danceability: 0.0
+duration: 303.04608
+end_of_fade_in: 0.102
+energy: 0.0
+key: 1
+key_confidence: 0.745
+loudness: -10.57
+mode: 1
+mode_confidence: 0.556
+release: Psycho Drama
+release_7digitalid: 681616
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1353,)
+segments_loudness_max: shape = (1353,)
+segments_loudness_max_time: shape = (1353,)
+segments_loudness_start: shape = (1353,)
+segments_pitches: shape = (1353, 12)
+segments_start: shape = (1353,)
+segments_timbre: shape = (1353, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOSLFMU12AB018FFEA
+start_of_fade_out: 292.664
+tatums_confidence: shape = (2111,)
+tatums_start: shape = (2111,)
+tempo: 210.47
+time_signature: 4
+time_signature_confidence: 0.418
+title: Murder Academy
+track_7digitalid: 7564768
+track_id: TRAASSO12903CDD2FF
+year: 1995

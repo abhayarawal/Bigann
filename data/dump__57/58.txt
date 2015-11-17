@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20724
+artist_familiarity: 0.551502069088
+artist_hotttnesss: 0.351717751121
+artist_id: ARB1KC91187FB38B13
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bc933822-d278-4388-ac7a-af8244e9f2b9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Carl Smith
+artist_playmeid: 3070
+artist_terms: shape = (59,)
+artist_terms_freq: shape = (59,)
+artist_terms_weight: shape = (59,)
+audio_md5: 84ec026ac00735ae4716f70043146ef4
+bars_confidence: shape = (69,)
+bars_start: shape = (69,)
+beats_confidence: shape = (278,)
+beats_start: shape = (278,)
+danceability: 0.0
+duration: 136.04526
+end_of_fade_in: 0.218
+energy: 0.0
+key: 2
+key_confidence: 0.216
+loudness: -11.651
+mode: 1
+mode_confidence: 0.498
+release: Honky Tonk Rockabillies_ Volume 1
+release_7digitalid: 409338
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (560,)
+segments_loudness_max: shape = (560,)
+segments_loudness_max_time: shape = (560,)
+segments_loudness_start: shape = (560,)
+segments_pitches: shape = (560, 12)
+segments_start: shape = (560,)
+segments_timbre: shape = (560, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOIZML12AB0186743
+start_of_fade_out: 136.045
+tatums_confidence: shape = (556,)
+tatums_start: shape = (556,)
+tempo: 124.648
+time_signature: 4
+time_signature_confidence: 0.993
+title: Hey Joe
+track_7digitalid: 4554071
+track_id: TRATPRE128F931B12E
+year: 1993

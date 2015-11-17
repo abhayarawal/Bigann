@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17864
+artist_familiarity: 0.62096398106
+artist_hotttnesss: 0.413254693459
+artist_id: ARLAWDD1187FB48367
+artist_latitude: nan
+artist_location:  
+artist_longitude: nan
+artist_mbid: ac367c2e-7783-41e5-a184-131da6b0c166
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Carlos Vives
+artist_playmeid: 1773
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 5ee97b5c9cf048fe10f2cc24a40b57dd
+bars_confidence: shape = (247,)
+bars_start: shape = (247,)
+beats_confidence: shape = (247,)
+beats_start: shape = (247,)
+danceability: 0.0
+duration: 112.90077
+end_of_fade_in: 0.16
+energy: 0.0
+key: 9
+key_confidence: 0.19
+loudness: -17.548
+mode: 0
+mode_confidence: 0.313
+release: Coleccion de Oro
+release_7digitalid: 507337
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (388,)
+segments_loudness_max: shape = (388,)
+segments_loudness_max_time: shape = (388,)
+segments_loudness_start: shape = (388,)
+segments_pitches: shape = (388, 12)
+segments_start: shape = (388,)
+segments_timbre: shape = (388, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.327736683178
+song_id: SOURXDF12AB0180C6C
+start_of_fade_out: 104.867
+tatums_confidence: shape = (495,)
+tatums_start: shape = (495,)
+tempo: 132.358
+time_signature: 1
+time_signature_confidence: 0.0
+title: Cancion De Amor Eterno
+track_7digitalid: 5615240
+track_id: TRBBPSX128F93332EE
+year: 2000

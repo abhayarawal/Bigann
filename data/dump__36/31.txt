@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 35233
+artist_familiarity: 0.615504102642
+artist_hotttnesss: 0.439836358888
+artist_id: AR02YGA1187B9B8AC4
+artist_latitude: -34.60852
+artist_location: Buenos Aires
+artist_longitude: -58.37354
+artist_mbid: e90428f4-29ef-47b4-a081-75e415f51037
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bersuit Vergarabat
+artist_playmeid: -1
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: da1e6e4dcf3a9a51c46fd1cf34ea3141
+bars_confidence: shape = (93,)
+bars_start: shape = (93,)
+beats_confidence: shape = (376,)
+beats_start: shape = (376,)
+danceability: 0.0
+duration: 180.11383
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 1.0
+loudness: -6.179
+mode: 1
+mode_confidence: 0.817
+release: Don Leopardo
+release_7digitalid: 359570
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (559,)
+segments_loudness_max: shape = (559,)
+segments_loudness_max_time: shape = (559,)
+segments_loudness_start: shape = (559,)
+segments_pitches: shape = (559, 12)
+segments_start: shape = (559,)
+segments_timbre: shape = (559, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.270775998946
+song_id: SOHDNUO12AB0183EC1
+start_of_fade_out: 180.114
+tatums_confidence: shape = (752,)
+tatums_start: shape = (752,)
+tempo: 126.531
+time_signature: 4
+time_signature_confidence: 0.223
+title: Bolivian Surf
+track_7digitalid: 4096561
+track_id: TRAMIGP128F9335408
+year: 1996

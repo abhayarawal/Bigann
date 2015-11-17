@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 188694
+artist_familiarity: 0.564710159052
+artist_hotttnesss: 0.415937640828
+artist_id: ARYZV2X1187B997BE7
+artist_latitude: nan
+artist_location: California - LA
+artist_longitude: nan
+artist_mbid: b6f93b66-30e7-4b9b-a70b-4fb82f8cb24c
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Chris Standring
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: dabb6576cb18f95c3afc87a92bf9ae46
+bars_confidence: shape = (68,)
+bars_start: shape = (68,)
+beats_confidence: shape = (477,)
+beats_start: shape = (477,)
+danceability: 0.0
+duration: 261.0673
+end_of_fade_in: 0.073
+energy: 0.0
+key: 8
+key_confidence: 0.798
+loudness: -9.435
+mode: 1
+mode_confidence: 0.774
+release: Soul Express
+release_7digitalid: 531919
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1164,)
+segments_loudness_max: shape = (1164,)
+segments_loudness_max_time: shape = (1164,)
+segments_loudness_start: shape = (1164,)
+segments_pitches: shape = (1164, 12)
+segments_start: shape = (1164,)
+segments_timbre: shape = (1164, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGKSAD12AF72A35AA
+start_of_fade_out: 248.012
+tatums_confidence: shape = (954,)
+tatums_start: shape = (954,)
+tempo: 109.997
+time_signature: 7
+time_signature_confidence: 0.889
+title: Through the Looking Glass (jazz)
+track_7digitalid: 5878390
+track_id: TRAULAE128F92FD865
+year: 2006

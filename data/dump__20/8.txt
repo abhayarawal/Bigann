@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11085
+artist_familiarity: 0.409827635028
+artist_hotttnesss: 0.291883421788
+artist_id: AR23EC41187FB4805D
+artist_latitude: 40.14323
+artist_location: New Jersey
+artist_longitude: -74.72671
+artist_mbid: 02ea73c9-a5f0-4b63-91f1-c97fa27567ff
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The American Boychoir
+artist_playmeid: 182287
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 6bbee21d5957f38128fe6220381dea26
+bars_confidence: shape = (69,)
+bars_start: shape = (69,)
+beats_confidence: shape = (306,)
+beats_start: shape = (306,)
+danceability: 0.0
+duration: 224.54812
+end_of_fade_in: 0.317
+energy: 0.0
+key: 4
+key_confidence: 0.458
+loudness: -33.595
+mode: 1
+mode_confidence: 0.521
+release: Lullaby - Music for the Quiet Times
+release_7digitalid: 79225
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (323,)
+segments_loudness_max: shape = (323,)
+segments_loudness_max_time: shape = (323,)
+segments_loudness_start: shape = (323,)
+segments_pitches: shape = (323, 12)
+segments_start: shape = (323,)
+segments_timbre: shape = (323, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSFVMZ12A6D4F5951
+start_of_fade_out: 224.548
+tatums_confidence: shape = (611,)
+tatums_start: shape = (611,)
+tempo: 87.76
+time_signature: 4
+time_signature_confidence: 0.49
+title: Intermezzo
+track_7digitalid: 834765
+track_id: TRAGVBL128EF35920C
+year: 0

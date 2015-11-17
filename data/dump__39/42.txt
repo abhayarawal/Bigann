@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15824
+artist_familiarity: 0.627185249161
+artist_hotttnesss: 0.393015730045
+artist_id: ARSQW3I1187B9ACD14
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: f66b685d-9abe-4be6-8e59-9a7486be1964
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Leona Naess
+artist_playmeid: -1
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: a03922e93c6bdd66d8d37903e4fdffed
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (413,)
+beats_start: shape = (413,)
+danceability: 0.0
+duration: 179.74812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.23
+loudness: -9.042
+mode: 1
+mode_confidence: 0.44
+release: Heavy Like Sunday
+release_7digitalid: 265378
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (613,)
+segments_loudness_max: shape = (613,)
+segments_loudness_max_time: shape = (613,)
+segments_loudness_start: shape = (613,)
+segments_pitches: shape = (613, 12)
+segments_start: shape = (613,)
+segments_timbre: shape = (613, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.683613541443
+song_id: SOMMTIX12A8C139A75
+start_of_fade_out: 163.579
+tatums_confidence: shape = (825,)
+tatums_start: shape = (825,)
+tempo: 147.256
+time_signature: 4
+time_signature_confidence: 0.328
+title: Heavy Like Sunday
+track_7digitalid: 2855328
+track_id: TRANMKA128F426C3B0
+year: 2008

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5449
+artist_familiarity: 0.520726487885
+artist_hotttnesss: 0.359260264118
+artist_id: ARBQ5TQ1187B992B8A
+artist_latitude: nan
+artist_location: CANADA - Ontario
+artist_longitude: nan
+artist_mbid: b741b38e-9019-4aaf-b28a-f9d6680105df
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Vivian
+artist_playmeid: 52364
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 7fbba100cacfd2cce489c9f62a110787
+bars_confidence: shape = (84,)
+bars_start: shape = (84,)
+beats_confidence: shape = (339,)
+beats_start: shape = (339,)
+danceability: 0.0
+duration: 227.76118
+end_of_fade_in: 4.319
+energy: 0.0
+key: 6
+key_confidence: 0.785
+loudness: -6.53
+mode: 1
+mode_confidence: 0.745
+release: Vivianism
+release_7digitalid: 78341
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (588,)
+segments_loudness_max: shape = (588,)
+segments_loudness_max_time: shape = (588,)
+segments_loudness_start: shape = (588,)
+segments_pitches: shape = (588, 12)
+segments_start: shape = (588,)
+segments_timbre: shape = (588, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SORLFPE12A6D4F2B84
+start_of_fade_out: 214.494
+tatums_confidence: shape = (678,)
+tatums_start: shape = (678,)
+tempo: 90.993
+time_signature: 4
+time_signature_confidence: 0.42
+title: Bad Creation
+track_7digitalid: 823852
+track_id: TRAQGLM128EF356DEA
+year: 2007

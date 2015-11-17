@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 818
+artist_familiarity: 0.77659896783
+artist_hotttnesss: 0.490079584183
+artist_id: AR0IVSA1187FB4F069
+artist_latitude: 40.71455
+artist_location: New York
+artist_longitude: -74.00712
+artist_mbid: 582fee78-d934-4603-9f5c-1729e0ca36b7
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Helmet
+artist_playmeid: 82914
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 262008c222d67b12b477030bebf782e1
+bars_confidence: shape = (152,)
+bars_start: shape = (152,)
+beats_confidence: shape = (614,)
+beats_start: shape = (614,)
+danceability: 0.0
+duration: 257.54077
+end_of_fade_in: 0.162
+energy: 0.0
+key: 6
+key_confidence: 0.445
+loudness: -5.775
+mode: 0
+mode_confidence: 0.513
+release: Unsung: The Best Of Helmet 1991-1997
+release_7digitalid: 345062
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (677,)
+segments_loudness_max: shape = (677,)
+segments_loudness_max_time: shape = (677,)
+segments_loudness_start: shape = (677,)
+segments_pitches: shape = (677, 12)
+segments_start: shape = (677,)
+segments_timbre: shape = (677, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJMQQX12AB0185046
+start_of_fade_out: 249.382
+tatums_confidence: shape = (1228,)
+tatums_start: shape = (1228,)
+tempo: 144.974
+time_signature: 4
+time_signature_confidence: 0.258
+title: Give It
+track_7digitalid: 3866342
+track_id: TRAVBAH128F9305DFC
+year: 1992

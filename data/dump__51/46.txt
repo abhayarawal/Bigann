@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19
+artist_familiarity: 0.778835827402
+artist_hotttnesss: 0.570106511951
+artist_id: ARAZCWP129462A97F1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ed2ac1e9-d51d-4eff-a2c2-85e81abd6360
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Bob Marley & The Wailers
+artist_playmeid: 237
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: bbbc7b4f36a274d57c6df7967147baa2
+bars_confidence: shape = (160,)
+bars_start: shape = (160,)
+beats_confidence: shape = (643,)
+beats_start: shape = (643,)
+danceability: 0.0
+duration: 258.29832
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.269
+loudness: -5.308
+mode: 0
+mode_confidence: 0.521
+release: Mystic Mixes - An Exclusive Remix Collection
+release_7digitalid: 196996
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1226,)
+segments_loudness_max: shape = (1226,)
+segments_loudness_max_time: shape = (1226,)
+segments_loudness_start: shape = (1226,)
+segments_pitches: shape = (1226, 12)
+segments_start: shape = (1226,)
+segments_timbre: shape = (1226, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMGMSS12A8C13492A
+start_of_fade_out: 250.491
+tatums_confidence: shape = (1285,)
+tatums_start: shape = (1285,)
+tempo: 152.99
+time_signature: 4
+time_signature_confidence: 0.42
+title: Rainbow Country (Red Gold And Green Version)
+track_7digitalid: 2140785
+track_id: TRARNZA128F424EC6A
+year: 2001

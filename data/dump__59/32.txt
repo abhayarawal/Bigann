@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 227835
+artist_familiarity: 0.64909505047
+artist_hotttnesss: 0.417601488248
+artist_id: ARODFDS1187FB57348
+artist_latitude: nan
+artist_location: Niteroi, Brazil
+artist_longitude: nan
+artist_mbid: 6bf591c4-b050-478e-9d9f-167394d66c90
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Sergio Mendes
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: b831ce9e02856fb214cf482074e71a48
+bars_confidence: shape = (118,)
+bars_start: shape = (118,)
+beats_confidence: shape = (475,)
+beats_start: shape = (475,)
+danceability: 0.0
+duration: 161.59302
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.51
+loudness: -19.397
+mode: 1
+mode_confidence: 0.498
+release: In Person At El Matador
+release_7digitalid: 53753
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (586,)
+segments_loudness_max: shape = (586,)
+segments_loudness_max_time: shape = (586,)
+segments_loudness_start: shape = (586,)
+segments_pitches: shape = (586, 12)
+segments_start: shape = (586,)
+segments_timbre: shape = (586, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOILNCG12A6D4F9D6C
+start_of_fade_out: 156.154
+tatums_confidence: shape = (950,)
+tatums_start: shape = (950,)
+tempo: 179.609
+time_signature: 4
+time_signature_confidence: 0.0
+title: Tem Do de Mim (Live At El Matador_ San Francisco)
+track_7digitalid: 560610
+track_id: TRAUGLQ128F1495E6D
+year: 0

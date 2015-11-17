@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1297
+artist_familiarity: 0.883487079775
+artist_hotttnesss: 0.588649958891
+artist_id: AR23C041187FB4D534
+artist_latitude: nan
+artist_location: Queens, NY
+artist_longitude: nan
+artist_mbid: 8e68819d-71be-4e7d-b41d-f1df81b01d3f
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: 50 Cent
+artist_playmeid: 16
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 3c720bfe7aa89deaf80073e1bf155b29
+bars_confidence: shape = (67,)
+bars_start: shape = (67,)
+beats_confidence: shape = (67,)
+beats_start: shape = (67,)
+danceability: 0.0
+duration: 27.68934
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.743
+loudness: -13.102
+mode: 0
+mode_confidence: 0.687
+release: Dealin' w/50
+release_7digitalid: 120255
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (95,)
+segments_loudness_max: shape = (95,)
+segments_loudness_max_time: shape = (95,)
+segments_loudness_start: shape = (95,)
+segments_pitches: shape = (95, 12)
+segments_start: shape = (95,)
+segments_timbre: shape = (95, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFJSYG12A8C141D50
+start_of_fade_out: 27.689
+tatums_confidence: shape = (67,)
+tatums_start: shape = (67,)
+tempo: 152.227
+time_signature: 1
+time_signature_confidence: 0.091
+title: In Da House Skit
+track_7digitalid: 1258974
+track_id: TRAXATF128F42AAA52
+year: 2007

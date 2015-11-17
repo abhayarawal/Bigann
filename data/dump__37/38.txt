@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21195
+artist_familiarity: 0.413959941743
+artist_hotttnesss: 0.316549460326
+artist_id: AR3U3G01187FB58BA7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 48aed1b2-d62a-4037-be72-f16e4262519a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Christie Hennessy
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 369fbd22aeac0e6a34528fafee188b19
+bars_confidence: shape = (378,)
+bars_start: shape = (378,)
+beats_confidence: shape = (378,)
+beats_start: shape = (378,)
+danceability: 0.0
+duration: 180.76689
+end_of_fade_in: 0.16
+energy: 0.0
+key: 7
+key_confidence: 0.866
+loudness: -16.183
+mode: 1
+mode_confidence: 0.851
+release: The Green Album
+release_7digitalid: 776208
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (663,)
+segments_loudness_max: shape = (663,)
+segments_loudness_max_time: shape = (663,)
+segments_loudness_start: shape = (663,)
+segments_pitches: shape = (663, 12)
+segments_start: shape = (663,)
+segments_timbre: shape = (663, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEWQBT12AC3DF93A7
+start_of_fade_out: 173.082
+tatums_confidence: shape = (756,)
+tatums_start: shape = (756,)
+tempo: 130.588
+time_signature: 1
+time_signature_confidence: 0.0
+title: The All-Ireland
+track_7digitalid: 8587800
+track_id: TRAMRXD12903CE8BB1
+year: 0

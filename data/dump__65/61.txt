@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 370725
+artist_familiarity: 0.470124075148
+artist_hotttnesss: 0.325022932845
+artist_id: ARQAXT91187B99103A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 07f79846-fb0b-439a-b492-12ea55615984
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: UKW
+artist_playmeid: -1
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: ecb5c3d7bb552c9b8648516bc5505d4f
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (316,)
+beats_start: shape = (316,)
+danceability: 0.0
+duration: 215.562
+end_of_fade_in: 5.956
+energy: 0.0
+key: 7
+key_confidence: 0.051
+loudness: -6.08
+mode: 1
+mode_confidence: 0.39
+release: Alles Klar
+release_7digitalid: 500309
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (672,)
+segments_loudness_max: shape = (672,)
+segments_loudness_max_time: shape = (672,)
+segments_loudness_start: shape = (672,)
+segments_pitches: shape = (672, 12)
+segments_start: shape = (672,)
+segments_timbre: shape = (672, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHSAOT12AB018558E
+start_of_fade_out: 210.977
+tatums_confidence: shape = (1264,)
+tatums_start: shape = (1264,)
+tempo: 89.593
+time_signature: 4
+time_signature_confidence: 0.568
+title: I Will (Patitu)
+track_7digitalid: 5541030
+track_id: TRAWKDN128F9321552
+year: 0

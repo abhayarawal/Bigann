@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7184
+artist_familiarity: 0.495559651514
+artist_hotttnesss: 0.349192217616
+artist_id: AR3WMW01187B9921F7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6ee0eaaf-3f61-4a8e-abc5-ba7e371e01c1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Schizoid
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 00f88dad246e3385cb972a77487bd0f2
+bars_confidence: shape = (135,)
+bars_start: shape = (135,)
+beats_confidence: shape = (409,)
+beats_start: shape = (409,)
+danceability: 0.0
+duration: 260.23138
+end_of_fade_in: 4.992
+energy: 0.0
+key: 1
+key_confidence: 0.164
+loudness: -17.838
+mode: 1
+mode_confidence: 0.159
+release: Static Dynamics
+release_7digitalid: 475877
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (289,)
+segments_loudness_max: shape = (289,)
+segments_loudness_max_time: shape = (289,)
+segments_loudness_start: shape = (289,)
+segments_pitches: shape = (289, 12)
+segments_start: shape = (289,)
+segments_timbre: shape = (289, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVVYPN12A8C1435D7
+start_of_fade_out: 242.753
+tatums_confidence: shape = (818,)
+tatums_start: shape = (818,)
+tempo: 96.366
+time_signature: 3
+time_signature_confidence: 1.0
+title: Ruby Marlowe
+track_7digitalid: 5283598
+track_id: TRASVHW128F92E3A4B
+year: 0

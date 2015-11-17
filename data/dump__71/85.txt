@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23529
+artist_familiarity: 0.398366354333
+artist_hotttnesss: 0.390434973269
+artist_id: ARN9GBH1187FB3FEF9
+artist_latitude: -22.97673
+artist_location: Rio de Janeiro, BR
+artist_longitude: -43.19508
+artist_mbid: 327fd7d2-bb78-4802-bc72-12a2faa87968
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Leo Gandelman
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: ac4877edc4a6439fcc9dff180bf97281
+bars_confidence: shape = (121,)
+bars_start: shape = (121,)
+beats_confidence: shape = (121,)
+beats_start: shape = (121,)
+danceability: 0.0
+duration: 119.09179
+end_of_fade_in: 2.589
+energy: 0.0
+key: 5
+key_confidence: 0.0
+loudness: -12.998
+mode: 0
+mode_confidence: 0.243
+release: Western World (Ocidente)
+release_7digitalid: 480214
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (606,)
+segments_loudness_max: shape = (606,)
+segments_loudness_max_time: shape = (606,)
+segments_loudness_start: shape = (606,)
+segments_pitches: shape = (606, 12)
+segments_start: shape = (606,)
+segments_timbre: shape = (606, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOOEERU12AAA15E794
+start_of_fade_out: 105.726
+tatums_confidence: shape = (728,)
+tatums_start: shape = (728,)
+tempo: 63.316
+time_signature: 1
+time_signature_confidence: 0.0
+title: Saxambando
+track_7digitalid: 5329780
+track_id: TRAYPIT128F92EEC7C
+year: 0

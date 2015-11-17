@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3363
+artist_familiarity: 0.540750151436
+artist_hotttnesss: 0.379651219002
+artist_id: AR7CCCC1187FB578FF
+artist_latitude: nan
+artist_location: Shelby, North Carolina
+artist_longitude: nan
+artist_mbid: 870ab832-904b-4b49-ab72-7e6b0e0da65f
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Don Gibson
+artist_playmeid: 15188
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 3b944ad64d0b72b7f6f62e0fab435de7
+bars_confidence: shape = (63,)
+bars_start: shape = (63,)
+beats_confidence: shape = (257,)
+beats_start: shape = (257,)
+danceability: 0.0
+duration: 184.68526
+end_of_fade_in: 0.297
+energy: 0.0
+key: 7
+key_confidence: 0.095
+loudness: -20.691
+mode: 1
+mode_confidence: 0.535
+release: Sweet Dreams
+release_7digitalid: 724643
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (529,)
+segments_loudness_max: shape = (529,)
+segments_loudness_max_time: shape = (529,)
+segments_loudness_start: shape = (529,)
+segments_pitches: shape = (529, 12)
+segments_start: shape = (529,)
+segments_timbre: shape = (529, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.436696165103
+song_id: SOWHYDW12AB0186487
+start_of_fade_out: 174.631
+tatums_confidence: shape = (772,)
+tatums_start: shape = (772,)
+tempo: 87.806
+time_signature: 4
+time_signature_confidence: 0.0
+title: Release Me
+track_7digitalid: 8031241
+track_id: TRAQVCT12903CD7F32
+year: 1960

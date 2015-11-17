@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5483
+artist_familiarity: 0.477946575143
+artist_hotttnesss: 0.348215007834
+artist_id: ARTWWNA1187B9B3BD7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 78e5c8ea-e9c1-4eb3-a410-7001712290c6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Frederik
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 5c0f58cb5c06836350c96a7930cc138a
+bars_confidence: shape = (127,)
+bars_start: shape = (127,)
+beats_confidence: shape = (513,)
+beats_start: shape = (513,)
+danceability: 0.0
+duration: 179.87873
+end_of_fade_in: 2.02
+energy: 0.0
+key: 1
+key_confidence: 0.428
+loudness: -9.609
+mode: 1
+mode_confidence: 0.475
+release: Kolmekymppinen
+release_7digitalid: 734412
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (679,)
+segments_loudness_max: shape = (679,)
+segments_loudness_max_time: shape = (679,)
+segments_loudness_start: shape = (679,)
+segments_pitches: shape = (679, 12)
+segments_start: shape = (679,)
+segments_timbre: shape = (679, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGTINJ12AC468DCF7
+start_of_fade_out: 160.723
+tatums_confidence: shape = (1026,)
+tatums_start: shape = (1026,)
+tempo: 174.682
+time_signature: 4
+time_signature_confidence: 0.067
+title: Kun rakastaa
+track_7digitalid: 8135019
+track_id: TRBAJJU12903CF1403
+year: 0

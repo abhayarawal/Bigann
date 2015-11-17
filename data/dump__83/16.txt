@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7546
+artist_familiarity: 0.595645308494
+artist_hotttnesss: 0.426009300484
+artist_id: AR6EVQA1187B9AA1DF
+artist_latitude: nan
+artist_location: Kingston, Jamaica
+artist_longitude: nan
+artist_mbid: bd67db55-a85f-4c2b-b5cd-4c8f9ceb50d4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cocoa Tea
+artist_playmeid: 34176
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 7e946cd8db47c7b74d33f8a1ea2c4d35
+bars_confidence: shape = (98,)
+bars_start: shape = (98,)
+beats_confidence: shape = (393,)
+beats_start: shape = (393,)
+danceability: 0.0
+duration: 162.35057
+end_of_fade_in: 0.164
+energy: 0.0
+key: 1
+key_confidence: 0.625
+loudness: -17.422
+mode: 1
+mode_confidence: 0.425
+release: Weh Dem A Go Do...Can't Stop Cocoa Tea
+release_7digitalid: 639381
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (697,)
+segments_loudness_max: shape = (697,)
+segments_loudness_max_time: shape = (697,)
+segments_loudness_start: shape = (697,)
+segments_pitches: shape = (697, 12)
+segments_start: shape = (697,)
+segments_timbre: shape = (697, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SODIPHG12A58A7BEA6
+start_of_fade_out: 147.946
+tatums_confidence: shape = (786,)
+tatums_start: shape = (786,)
+tempo: 146.474
+time_signature: 4
+time_signature_confidence: 1.0
+title: Can't Stop Cocoa Tea
+track_7digitalid: 7098046
+track_id: TRBCNSM128F933D958
+year: 1991

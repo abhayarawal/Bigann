@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 342880
+artist_familiarity: 0.593778641303
+artist_hotttnesss: 0.409280883773
+artist_id: ARLGLI61187FB4693E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b2a5769e-69a3-4763-bc50-20716e1026d6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ghost Machine
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 67dc5e9c4854cc90822dc00832de67db
+bars_confidence: shape = (133,)
+bars_start: shape = (133,)
+beats_confidence: shape = (535,)
+beats_start: shape = (535,)
+danceability: 0.0
+duration: 201.29914
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.051
+loudness: -4.428
+mode: 1
+mode_confidence: 0.511
+release: Ghost Machine
+release_7digitalid: 463170
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (626,)
+segments_loudness_max: shape = (626,)
+segments_loudness_max_time: shape = (626,)
+segments_loudness_start: shape = (626,)
+segments_pitches: shape = (626, 12)
+segments_start: shape = (626,)
+segments_timbre: shape = (626, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.736265035009
+song_id: SOYMUVZ12AB018044B
+start_of_fade_out: 192.581
+tatums_confidence: shape = (1069,)
+tatums_start: shape = (1069,)
+tempo: 160.057
+time_signature: 4
+time_signature_confidence: 1.0
+title: What You Made Me (Ugli)
+track_7digitalid: 5155581
+track_id: TRAYAKN128F9330A65
+year: 2005

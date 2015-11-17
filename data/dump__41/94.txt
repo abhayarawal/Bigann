@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 616
+artist_familiarity: 0.918451788889
+artist_hotttnesss: 0.819588282229
+artist_id: ARVG4OK1187B9B6BD3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 95e1ead9-4d31-4808-a7ac-32c3614c116b
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: The Killers
+artist_playmeid: 1573
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: f637dc0aee5ffe2f47663315c4d2b4f5
+bars_confidence: shape = (144,)
+bars_start: shape = (144,)
+beats_confidence: shape = (579,)
+beats_start: shape = (579,)
+danceability: 0.0
+duration: 269.76608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.106
+loudness: -7.477
+mode: 1
+mode_confidence: 0.333
+release: When You Were Young
+release_7digitalid: 311155
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1005,)
+segments_loudness_max: shape = (1005,)
+segments_loudness_max_time: shape = (1005,)
+segments_loudness_start: shape = (1005,)
+segments_pitches: shape = (1005, 12)
+segments_start: shape = (1005,)
+segments_timbre: shape = (1005, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQNLMA12A8C1414FC
+start_of_fade_out: 250.746
+tatums_confidence: shape = (1159,)
+tatums_start: shape = (1159,)
+tempo: 130.065
+time_signature: 4
+time_signature_confidence: 0.0
+title: When You Were Young
+track_7digitalid: 3512315
+track_id: TRAOGAZ128F42B7FFC
+year: 2006

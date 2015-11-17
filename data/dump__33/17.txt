@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 350682
+artist_familiarity: 0.375195664322
+artist_hotttnesss: 0.355707867004
+artist_id: ARN1J741187B99EFB9
+artist_latitude: 38.8962
+artist_location: Auburn, CA
+artist_longitude: -121.07887
+artist_mbid: 55dad938-165b-45a9-b518-445ad89b5c96
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cross Country
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: aaf44309c0bcb9c78b58ebcfd120f8aa
+bars_confidence: shape = (141,)
+bars_start: shape = (141,)
+beats_confidence: shape = (567,)
+beats_start: shape = (567,)
+danceability: 0.0
+duration: 189.962
+end_of_fade_in: 0.485
+energy: 0.0
+key: 3
+key_confidence: 0.58
+loudness: -8.165
+mode: 1
+mode_confidence: 0.439
+release: Cross Country
+release_7digitalid: 473726
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (702,)
+segments_loudness_max: shape = (702,)
+segments_loudness_max_time: shape = (702,)
+segments_loudness_start: shape = (702,)
+segments_pitches: shape = (702, 12)
+segments_start: shape = (702,)
+segments_timbre: shape = (702, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOKNKAU12A58A7A70B
+start_of_fade_out: 183.722
+tatums_confidence: shape = (1134,)
+tatums_start: shape = (1134,)
+tempo: 185.623
+time_signature: 4
+time_signature_confidence: 0.0
+title: Tastes So Good To Me
+track_7digitalid: 5262433
+track_id: TRALHAL128F92DE850
+year: 2009

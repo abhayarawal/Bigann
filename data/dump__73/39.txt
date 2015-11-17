@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 38573
+artist_familiarity: 0.512740226328
+artist_hotttnesss: 0.301246881416
+artist_id: ARHCERP1187B9912A5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2fa7f0b7-2686-4e80-a75a-762f65ba9fe2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Glen Washington
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 20289cbaa588038a0dc3cd8205fdeae7
+bars_confidence: shape = (127,)
+bars_start: shape = (127,)
+beats_confidence: shape = (514,)
+beats_start: shape = (514,)
+danceability: 0.0
+duration: 201.56036
+end_of_fade_in: 0.177
+energy: 0.0
+key: 11
+key_confidence: 0.009
+loudness: -4.859
+mode: 0
+mode_confidence: 0.099
+release: Romantic Reggae Vol. 3
+release_7digitalid: 345432
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (872,)
+segments_loudness_max: shape = (872,)
+segments_loudness_max_time: shape = (872,)
+segments_loudness_start: shape = (872,)
+segments_pitches: shape = (872, 12)
+segments_start: shape = (872,)
+segments_timbre: shape = (872, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUGKFV12AB0184F4B
+start_of_fade_out: 194.781
+tatums_confidence: shape = (1029,)
+tatums_start: shape = (1029,)
+tempo: 153.602
+time_signature: 4
+time_signature_confidence: 0.66
+title: Strangers In The Night
+track_7digitalid: 3871726
+track_id: TRAZBQW128F9306FD2
+year: 2000

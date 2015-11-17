@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 133897
+artist_familiarity: 0.510010870826
+artist_hotttnesss: 0.378442736545
+artist_id: AR8IEZO1187B99055E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4210c92d-09ad-45c0-8fad-3dc9590fa296
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Marc Shaiman
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 36cedaca45699d6c2fbd90be0853317c
+bars_confidence: shape = (56,)
+bars_start: shape = (56,)
+beats_confidence: shape = (230,)
+beats_start: shape = (230,)
+danceability: 0.0
+duration: 106.81424
+end_of_fade_in: 0.357
+energy: 0.0
+key: 0
+key_confidence: 0.582
+loudness: -16.079
+mode: 1
+mode_confidence: 0.617
+release: The Bucket List
+release_7digitalid: 190811
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (386,)
+segments_loudness_max: shape = (386,)
+segments_loudness_max_time: shape = (386,)
+segments_loudness_start: shape = (386,)
+segments_pitches: shape = (386, 12)
+segments_start: shape = (386,)
+segments_timbre: shape = (386, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIVRUS12A8C133164
+start_of_fade_out: 99.66
+tatums_confidence: shape = (460,)
+tatums_start: shape = (460,)
+tempo: 136.975
+time_signature: 4
+time_signature_confidence: 0.0
+title: Blame Canada ( From: South Park )
+track_7digitalid: 2074358
+track_id: TRAJZJQ128F423F44F
+year: 2008

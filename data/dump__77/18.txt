@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 419
+artist_familiarity: 0.717762702253
+artist_hotttnesss: 0.532266186253
+artist_id: ARDBSFT1187B9AC9C1
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 0f82d6b5-12fb-4569-b047-a00194f572a7
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Fountains Of Wayne
+artist_playmeid: 6375
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 5ef42b938de1d4838ca43c1036b8c2f1
+bars_confidence: shape = (66,)
+bars_start: shape = (66,)
+beats_confidence: shape = (266,)
+beats_start: shape = (266,)
+danceability: 0.0
+duration: 144.71791
+end_of_fade_in: 0.189
+energy: 0.0
+key: 9
+key_confidence: 0.085
+loudness: -5.759
+mode: 0
+mode_confidence: 0.263
+release: Utopia Parkway
+release_7digitalid: 266908
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (396,)
+segments_loudness_max: shape = (396,)
+segments_loudness_max_time: shape = (396,)
+segments_loudness_start: shape = (396,)
+segments_pitches: shape = (396, 12)
+segments_start: shape = (396,)
+segments_timbre: shape = (396, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.519448581494
+song_id: SOJIPPT12A8C13F9FC
+start_of_fade_out: 138.286
+tatums_confidence: shape = (533,)
+tatums_start: shape = (533,)
+tempo: 115.686
+time_signature: 4
+time_signature_confidence: 0.619
+title: Laser Show (LP Version)
+track_7digitalid: 2930309
+track_id: TRBAIHN128F427D480
+year: 1999

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 83845
+artist_familiarity: 0.483278657332
+artist_hotttnesss: 0.360628716136
+artist_id: AR8QHU51187B9A3341
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 066d5379-eb60-4f46-be4d-ebd40495baea
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Leo Ku
+artist_playmeid: 61240
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 79be92cdba648a27a31bbe2d83b9a05e
+bars_confidence: shape = (84,)
+bars_start: shape = (84,)
+beats_confidence: shape = (338,)
+beats_start: shape = (338,)
+danceability: 0.0
+duration: 185.0771
+end_of_fade_in: 0.258
+energy: 0.0
+key: 6
+key_confidence: 0.235
+loudness: -8.006
+mode: 1
+mode_confidence: 0.326
+release: Shi Shang Zui Qiang Man Hua Wang Da Luan Dou
+release_7digitalid: 153684
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (644,)
+segments_loudness_max: shape = (644,)
+segments_loudness_max_time: shape = (644,)
+segments_loudness_start: shape = (644,)
+segments_pitches: shape = (644, 12)
+segments_start: shape = (644,)
+segments_timbre: shape = (644, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJZZJS12A8C1388F4
+start_of_fade_out: 177.929
+tatums_confidence: shape = (676,)
+tatums_start: shape = (676,)
+tempo: 115.449
+time_signature: 4
+time_signature_confidence: 0.265
+title: Shi Shang Zui Qiang Man Hua Wang Da Luan Dou
+track_7digitalid: 1607266
+track_id: TRAENEO128F426789F
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 102654
+artist_familiarity: 0.467531441901
+artist_hotttnesss: 0.29874306476
+artist_id: AR8AZTM1187FB3FB9C
+artist_latitude: 40.4203
+artist_location: Madrid, Spain
+artist_longitude: -3.70577
+artist_mbid: bbb184be-eef6-4977-9c02-2df0bf7eade6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Julio Iglesias Jr
+artist_playmeid: 14623
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 837233642239decf8e3ceeb98cf4bfd0
+bars_confidence: shape = (154,)
+bars_start: shape = (154,)
+beats_confidence: shape = (619,)
+beats_start: shape = (619,)
+danceability: 0.0
+duration: 252.13342
+end_of_fade_in: 2.479
+energy: 0.0
+key: 3
+key_confidence: 0.073
+loudness: -7.233
+mode: 1
+mode_confidence: 0.377
+release: Por La Mitad
+release_7digitalid: 216222
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (681,)
+segments_loudness_max: shape = (681,)
+segments_loudness_max_time: shape = (681,)
+segments_loudness_start: shape = (681,)
+segments_pitches: shape = (681, 12)
+segments_start: shape = (681,)
+segments_timbre: shape = (681, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOYVFXD12A8C13A9A3
+start_of_fade_out: 247.676
+tatums_confidence: shape = (1238,)
+tatums_start: shape = (1238,)
+tempo: 150.071
+time_signature: 4
+time_signature_confidence: 0.942
+title: Angel
+track_7digitalid: 2353395
+track_id: TRBATSC128F427D709
+year: 2008

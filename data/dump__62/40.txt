@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2184
+artist_familiarity: 0.730264991071
+artist_hotttnesss: 0.463673869444
+artist_id: ARQCFI11187FB5AE43
+artist_latitude: nan
+artist_location: Beaumont, Texas
+artist_longitude: nan
+artist_mbid: e9b54b79-fff7-44f7-bab1-93b35df75ac3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: George Jones
+artist_playmeid: 2985
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: f19da686bd38ad51c06266aa916c6e9f
+bars_confidence: shape = (125,)
+bars_start: shape = (125,)
+beats_confidence: shape = (505,)
+beats_start: shape = (505,)
+danceability: 0.0
+duration: 181.60281
+end_of_fade_in: 2.833
+energy: 0.0
+key: 2
+key_confidence: 1.0
+loudness: -17.198
+mode: 1
+mode_confidence: 0.951
+release: Still The Same Ole Me
+release_7digitalid: 279673
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (640,)
+segments_loudness_max: shape = (640,)
+segments_loudness_max_time: shape = (640,)
+segments_loudness_start: shape = (640,)
+segments_pitches: shape = (640, 12)
+segments_start: shape = (640,)
+segments_timbre: shape = (640, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODNBYJ12A58A78504
+start_of_fade_out: 170.736
+tatums_confidence: shape = (1010,)
+tatums_start: shape = (1010,)
+tempo: 168.248
+time_signature: 4
+time_signature_confidence: 0.0
+title: Together Alone
+track_7digitalid: 3119141
+track_id: TRAVJRC128F425D474
+year: 0

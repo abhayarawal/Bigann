@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 24165
+artist_familiarity: 0.89717803847
+artist_hotttnesss: 0.438234413869
+artist_id: ARBXIDR1187B9AB77E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b7a4eab2-75c8-44ef-aa2d-06a6b3a36165
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Avril
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: a87a246e15cdf35ae052672770a8dd67
+bars_confidence: shape = (201,)
+bars_start: shape = (201,)
+beats_confidence: shape = (939,)
+beats_start: shape = (939,)
+danceability: 0.0
+duration: 651.59791
+end_of_fade_in: 0.131
+energy: 0.0
+key: 4
+key_confidence: 0.354
+loudness: -10.718
+mode: 0
+mode_confidence: 0.427
+release: Now It's Spring
+release_7digitalid: 279570
+sections_confidence: shape = (22,)
+sections_start: shape = (22,)
+segments_confidence: shape = (2287,)
+segments_loudness_max: shape = (2287,)
+segments_loudness_max_time: shape = (2287,)
+segments_loudness_start: shape = (2287,)
+segments_pitches: shape = (2287, 12)
+segments_start: shape = (2287,)
+segments_timbre: shape = (2287, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMSKPE12A6D4FA09D
+start_of_fade_out: 606.064
+tatums_confidence: shape = (2816,)
+tatums_start: shape = (2816,)
+tempo: 86.589
+time_signature: 4
+time_signature_confidence: 0.961
+title: The Matter With You (Part I_ Ii_ Iii)
+track_7digitalid: 3113250
+track_id: TRAEELO128F425BD8F
+year: 2000

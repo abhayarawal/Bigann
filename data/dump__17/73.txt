@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 49211
+artist_familiarity: 0.585514006971
+artist_hotttnesss: 0.364914034535
+artist_id: AR32ETX1187B9A792F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0244ceb5-57dc-4831-aa9c-6a5e5a1c4938
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Vaughan Brothers;Stevie Ray Vaughan;Jimmy Vaughan
+artist_playmeid: 11639
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 1510322799f29378dfa2c0ee25780ab0
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (404,)
+beats_start: shape = (404,)
+danceability: 0.0
+duration: 208.48281
+end_of_fade_in: 0.09
+energy: 0.0
+key: 8
+key_confidence: 0.588
+loudness: -8.066
+mode: 1
+mode_confidence: 0.499
+release: The Essential Stevie Ray Vaughan And Double Trouble
+release_7digitalid: 287254
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (891,)
+segments_loudness_max: shape = (891,)
+segments_loudness_max_time: shape = (891,)
+segments_loudness_start: shape = (891,)
+segments_pitches: shape = (891, 12)
+segments_start: shape = (891,)
+segments_timbre: shape = (891, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.780157224019
+song_id: SOTNNLV12A8C1344BF
+start_of_fade_out: 197.23
+tatums_confidence: shape = (808,)
+tatums_start: shape = (808,)
+tempo: 117.947
+time_signature: 4
+time_signature_confidence: 1.0
+title: Telephone Song
+track_7digitalid: 3222004
+track_id: TRAGARS128F427216A
+year: 1990

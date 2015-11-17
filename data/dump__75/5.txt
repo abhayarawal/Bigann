@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1297
+artist_familiarity: 0.88348708528
+artist_hotttnesss: 0.588649958891
+artist_id: AR23C041187FB4D534
+artist_latitude: nan
+artist_location: Queens, NY
+artist_longitude: nan
+artist_mbid: 8e68819d-71be-4e7d-b41d-f1df81b01d3f
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: 50 Cent / Mobb Deep
+artist_playmeid: 16
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: d81c70c5876558cb8d809acbb36b615f
+bars_confidence: shape = (94,)
+bars_start: shape = (94,)
+beats_confidence: shape = (383,)
+beats_start: shape = (383,)
+danceability: 0.0
+duration: 247.77098
+end_of_fade_in: 0.084
+energy: 0.0
+key: 11
+key_confidence: 0.443
+loudness: -5.804
+mode: 1
+mode_confidence: 0.512
+release: The Massacre (Ecopac Reissue Explicit)
+release_7digitalid: 519829
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (972,)
+segments_loudness_max: shape = (972,)
+segments_loudness_max_time: shape = (972,)
+segments_loudness_start: shape = (972,)
+segments_pitches: shape = (972, 12)
+segments_start: shape = (972,)
+segments_timbre: shape = (972, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOANMAB12AF72A2AAD
+start_of_fade_out: 230.028
+tatums_confidence: shape = (765,)
+tatums_start: shape = (765,)
+tempo: 91.981
+time_signature: 4
+time_signature_confidence: 1.0
+title: Outta Control
+track_7digitalid: 5750985
+track_id: TRAZQJC128F9353DA3
+year: 2005

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 52577
+artist_familiarity: 0.546646503485
+artist_hotttnesss: 0.214734638165
+artist_id: ARA2ZTN1187B98E3ED
+artist_latitude: 41.50471
+artist_location: Cleveland, OH
+artist_longitude: -81.69074
+artist_mbid: e405ae2e-46cd-4298-af9e-9e2fbd8e6283
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: This Moment
+artist_playmeid: 140033
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: fc02ce65e8aca2f7cb72f2c9799111ce
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (416,)
+beats_start: shape = (416,)
+danceability: 0.0
+duration: 213.21098
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.758
+loudness: -7.322
+mode: 1
+mode_confidence: 0.551
+release: This Moment
+release_7digitalid: 256018
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (531,)
+segments_loudness_max: shape = (531,)
+segments_loudness_max_time: shape = (531,)
+segments_loudness_start: shape = (531,)
+segments_pitches: shape = (531, 12)
+segments_start: shape = (531,)
+segments_timbre: shape = (531, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.253834736132
+song_id: SOHEGVA12A8C13D81C
+start_of_fade_out: 213.211
+tatums_confidence: shape = (1248,)
+tatums_start: shape = (1248,)
+tempo: 116.081
+time_signature: 4
+time_signature_confidence: 0.825
+title: Bon Demain
+track_7digitalid: 2900555
+track_id: TRAJRXL128F42760EC
+year: 0

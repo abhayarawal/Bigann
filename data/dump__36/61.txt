@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19987
+artist_familiarity: 0.788485245772
+artist_hotttnesss: 0.470107801535
+artist_id: ARLNY561187B9B0355
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5221de81-b3cb-48d6-8e60-7c04b5daf02a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Noisettes
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: bc5de18f1936acf2d7bec5078057500d
+bars_confidence: shape = (130,)
+bars_start: shape = (130,)
+beats_confidence: shape = (521,)
+beats_start: shape = (521,)
+danceability: 0.0
+duration: 218.46159
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.573
+loudness: -3.936
+mode: 0
+mode_confidence: 0.502
+release: Clubland 15
+release_7digitalid: 483892
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1017,)
+segments_loudness_max: shape = (1017,)
+segments_loudness_max_time: shape = (1017,)
+segments_loudness_start: shape = (1017,)
+segments_pitches: shape = (1017, 12)
+segments_start: shape = (1017,)
+segments_timbre: shape = (1017, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMHGDS12AB017F0E2
+start_of_fade_out: 214.639
+tatums_confidence: shape = (1042,)
+tatums_start: shape = (1042,)
+tempo: 145.1
+time_signature: 4
+time_signature_confidence: 0.705
+title: Don't Upset The Rhythm (Go Baby Go)
+track_7digitalid: 5369126
+track_id: TRAMLGE128F92F81DD
+year: 2009

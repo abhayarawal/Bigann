@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 49555
+artist_familiarity: 0.594832623751
+artist_hotttnesss: 0.378649978962
+artist_id: AR9YV621187B99373E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bced6266-4c23-4806-8e3d-165eac0ad494
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Marco Beltrami
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 31b4d4a333779874291c2006ba579544
+bars_confidence: shape = (40,)
+bars_start: shape = (40,)
+beats_confidence: shape = (162,)
+beats_start: shape = (162,)
+danceability: 0.0
+duration: 91.37587
+end_of_fade_in: 4.383
+energy: 0.0
+key: 11
+key_confidence: 0.632
+loudness: -20.823
+mode: 1
+mode_confidence: 0.473
+release: Live Free Or Die Hard
+release_7digitalid: 114949
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (144,)
+segments_loudness_max: shape = (144,)
+segments_loudness_max_time: shape = (144,)
+segments_loudness_start: shape = (144,)
+segments_pitches: shape = (144, 12)
+segments_start: shape = (144,)
+segments_timbre: shape = (144, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.405115721691
+song_id: SOVDSBD12A8C13DF47
+start_of_fade_out: 91.376
+tatums_confidence: shape = (324,)
+tatums_start: shape = (324,)
+tempo: 119.729
+time_signature: 4
+time_signature_confidence: 0.0
+title: Dead Hackers
+track_7digitalid: 1185001
+track_id: TRAWHZS128F429CF97
+year: 2007

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 14703
+artist_familiarity: 0.619366855459
+artist_hotttnesss: 0.43482343141
+artist_id: ART70HI1187B9A37BC
+artist_latitude: 32.20703
+artist_location: Richland, MS
+artist_longitude: -90.14988
+artist_mbid: 6fbd2cfb-5f9c-497c-8e06-3c6668367681
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Elmore James
+artist_playmeid: 18899
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: c19c4356730b9730ac6603f9bc6a5d69
+bars_confidence: shape = (31,)
+bars_start: shape = (31,)
+beats_confidence: shape = (158,)
+beats_start: shape = (158,)
+danceability: 0.0
+duration: 57.39057
+end_of_fade_in: 0.184
+energy: 0.0
+key: 5
+key_confidence: 0.009
+loudness: -10.985
+mode: 1
+mode_confidence: 0.307
+release: Dark And Dreary
+release_7digitalid: 588884
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (202,)
+segments_loudness_max: shape = (202,)
+segments_loudness_max_time: shape = (202,)
+segments_loudness_start: shape = (202,)
+segments_pitches: shape = (202, 12)
+segments_start: shape = (202,)
+segments_timbre: shape = (202, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEOJJA12AB018FCCF
+start_of_fade_out: 52.28
+tatums_confidence: shape = (317,)
+tatums_start: shape = (317,)
+tempo: 172.9
+time_signature: 5
+time_signature_confidence: 1.0
+title: Strange Kinda Feeling (Take 4)
+track_7digitalid: 6531553
+track_id: TRAHXFG12903CCED81
+year: 1993

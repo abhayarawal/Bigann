@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4705
+artist_familiarity: 0.707839968442
+artist_hotttnesss: 0.532445870959
+artist_id: ARYML1P1187B9AF39B
+artist_latitude: nan
+artist_location: Georgia
+artist_longitude: nan
+artist_mbid: d2db1078-c170-4e22-b261-14f3ad60a690
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Devo
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: dceabd8a2bc64377a71ea91585c9d670
+bars_confidence: shape = (110,)
+bars_start: shape = (110,)
+beats_confidence: shape = (447,)
+beats_start: shape = (447,)
+danceability: 0.0
+duration: 175.25506
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.582
+loudness: -11.951
+mode: 1
+mode_confidence: 0.345
+release: Q: Are We Not Men?  A: We Are Devo / Devo Live
+release_7digitalid: 28253
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (604,)
+segments_loudness_max: shape = (604,)
+segments_loudness_max_time: shape = (604,)
+segments_loudness_start: shape = (604,)
+segments_pitches: shape = (604, 12)
+segments_start: shape = (604,)
+segments_timbre: shape = (604, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.443291311905
+song_id: SOBVTQI12A6D4F80ED
+start_of_fade_out: 175.255
+tatums_confidence: shape = (892,)
+tatums_start: shape = (892,)
+tempo: 152.942
+time_signature: 4
+time_signature_confidence: 0.492
+title: Be Stiff (Live)
+track_7digitalid: 309584
+track_id: TRBENDH128F1467D62
+year: 1993

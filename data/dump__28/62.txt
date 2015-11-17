@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 39770
+artist_familiarity: 0.399811278785
+artist_hotttnesss: 0.293359843279
+artist_id: ARN4MQP1187FB40F7D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cf093402-ed70-46f4-87a2-cdb1cb0e629d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Richard Lloyd
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: d12bb0075feb885c77720d40393df8fc
+bars_confidence: shape = (109,)
+bars_start: shape = (109,)
+beats_confidence: shape = (440,)
+beats_start: shape = (440,)
+danceability: 0.0
+duration: 172.77342
+end_of_fade_in: 0.362
+energy: 0.0
+key: 9
+key_confidence: 0.863
+loudness: -10.853
+mode: 1
+mode_confidence: 0.594
+release: Alchemy
+release_7digitalid: 54401
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (722,)
+segments_loudness_max: shape = (722,)
+segments_loudness_max_time: shape = (722,)
+segments_loudness_start: shape = (722,)
+segments_pitches: shape = (722, 12)
+segments_start: shape = (722,)
+segments_timbre: shape = (722, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.293680021831
+song_id: SOMRDBW12A6D4F9F07
+start_of_fade_out: 165.994
+tatums_confidence: shape = (881,)
+tatums_start: shape = (881,)
+tempo: 159.081
+time_signature: 4
+time_signature_confidence: 0.0
+title: Number Nine (LP Version)
+track_7digitalid: 566746
+track_id: TRAJPPJ128F1497140
+year: 1979

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 31395
+artist_familiarity: 0.732393706523
+artist_hotttnesss: 0.496224348644
+artist_id: ARBQPXY1187B98D67B
+artist_latitude: 25.89958
+artist_location: Brownsville, TX
+artist_longitude: -97.49553
+artist_mbid: cb1ca13a-4821-4e66-aff0-0fd6b3dc9a81
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Kris Kristofferson
+artist_playmeid: 3139
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 2fc77a96f90bd5de238e7b4608dceb9c
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (411,)
+beats_start: shape = (411,)
+danceability: 0.0
+duration: 183.06567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.027
+loudness: -17.312
+mode: 0
+mode_confidence: 0.389
+release: Original Album Classics
+release_7digitalid: 668413
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (525,)
+segments_loudness_max: shape = (525,)
+segments_loudness_max_time: shape = (525,)
+segments_loudness_start: shape = (525,)
+segments_pitches: shape = (525, 12)
+segments_start: shape = (525,)
+segments_timbre: shape = (525, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOHIEPQ12A58A770F6
+start_of_fade_out: 169.378
+tatums_confidence: shape = (822,)
+tatums_start: shape = (822,)
+tempo: 138.094
+time_signature: 4
+time_signature_confidence: 0.827
+title: Killer Barracuda
+track_7digitalid: 7410922
+track_id: TRALTZZ12903CB7DD0
+year: 1995

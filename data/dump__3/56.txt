@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21950
+artist_familiarity: 0.493593023641
+artist_hotttnesss: 0.341254769299
+artist_id: AR2JD2Z1187B998A90
+artist_latitude: 40.77735
+artist_location: New York, NY [Astoria, Queens]
+artist_longitude: -73.88137
+artist_mbid: a17eed36-fd8f-4d71-898b-2da805ac7492
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ethel Merman
+artist_playmeid: 9916
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 79d1b176f7c1e2eed8656b59eb4d373a
+bars_confidence: shape = (270,)
+bars_start: shape = (270,)
+beats_confidence: shape = (270,)
+beats_start: shape = (270,)
+danceability: 0.0
+duration: 135.31383
+end_of_fade_in: 2.821
+energy: 0.0
+key: 0
+key_confidence: 0.703
+loudness: -16.994
+mode: 1
+mode_confidence: 0.621
+release: Gypsy (Original Broadway Cast)
+release_7digitalid: 715197
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (280,)
+segments_loudness_max: shape = (280,)
+segments_loudness_max_time: shape = (280,)
+segments_loudness_start: shape = (280,)
+segments_pitches: shape = (280, 12)
+segments_start: shape = (280,)
+segments_timbre: shape = (280, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHUTDD12AB018A94F
+start_of_fade_out: 123.002
+tatums_confidence: shape = (270,)
+tatums_start: shape = (270,)
+tempo: 124.184
+time_signature: 1
+time_signature_confidence: 1.0
+title: Small World
+track_7digitalid: 7932922
+track_id: TRABDDA12903CC007C
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 346172
+artist_familiarity: 0.510794577033
+artist_hotttnesss: 0.394127576608
+artist_id: ARETCTY1187FB4C033
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b275c531-fa38-4ecb-a0a7-fb4a30ea3613
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: LORE
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: d118f1a4d648a0dfe9680a1fb04db3c7
+bars_confidence: shape = (113,)
+bars_start: shape = (113,)
+beats_confidence: shape = (456,)
+beats_start: shape = (456,)
+danceability: 0.0
+duration: 216.55465
+end_of_fade_in: 3.17
+energy: 0.0
+key: 8
+key_confidence: 0.9
+loudness: -8.147
+mode: 1
+mode_confidence: 0.702
+release: My Soul Speaks
+release_7digitalid: 467695
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (732,)
+segments_loudness_max: shape = (732,)
+segments_loudness_max_time: shape = (732,)
+segments_loudness_start: shape = (732,)
+segments_pitches: shape = (732, 12)
+segments_start: shape = (732,)
+segments_timbre: shape = (732, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.494357324252
+song_id: SOMOHEI12AB018785F
+start_of_fade_out: 209.537
+tatums_confidence: shape = (912,)
+tatums_start: shape = (912,)
+tempo: 130.062
+time_signature: 4
+time_signature_confidence: 0.281
+title: Haunting
+track_7digitalid: 5201508
+track_id: TRAAUMJ128F933BDB6
+year: 0

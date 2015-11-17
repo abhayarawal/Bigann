@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 46
+artist_familiarity: 0.862795413749
+artist_hotttnesss: 0.600282490747
+artist_id: AR8RXRI1187FB4104B
+artist_latitude: 39.95227
+artist_location: Philadelphia, Pennsylvania, U.S.
+artist_longitude: -75.16237
+artist_mbid: a9667e1a-cc53-412e-ae6d-72e24b79cfa8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Roots
+artist_playmeid: 1577
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 9b7e6cdfa312b34140a8dcc06ae8b7c8
+bars_confidence: shape = (165,)
+bars_start: shape = (165,)
+beats_confidence: shape = (829,)
+beats_start: shape = (829,)
+danceability: 0.0
+duration: 270.31465
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.424
+loudness: -1.031
+mode: 1
+mode_confidence: 0.534
+release: The Roots
+release_7digitalid: 350438
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1250,)
+segments_loudness_max: shape = (1250,)
+segments_loudness_max_time: shape = (1250,)
+segments_loudness_start: shape = (1250,)
+segments_pitches: shape = (1250, 12)
+segments_start: shape = (1250,)
+segments_timbre: shape = (1250, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOESTLC12A58A767BC
+start_of_fade_out: 270.315
+tatums_confidence: shape = (1657,)
+tatums_start: shape = (1657,)
+tempo: 183.486
+time_signature: 5
+time_signature_confidence: 0.596
+title: 100% Dundee
+track_7digitalid: 3906720
+track_id: TRAQMAK128F930D5F6
+year: 0

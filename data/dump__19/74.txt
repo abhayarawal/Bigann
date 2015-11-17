@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 202912
+artist_familiarity: 0.8650215115
+artist_hotttnesss: 0.916053228284
+artist_id: ARJ7KF01187B98D717
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cc197bad-dc9c-440d-a5b5-d52ba2e14234
+artist_mbtags: shape = (12,)
+artist_mbtags_count: shape = (12,)
+artist_name: Coldplay
+artist_playmeid: 353
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 95600ce067337190f3e059cec55d9ac9
+bars_confidence: shape = (150,)
+bars_start: shape = (150,)
+beats_confidence: shape = (605,)
+beats_start: shape = (605,)
+danceability: 0.0
+duration: 274.41587
+end_of_fade_in: 0.322
+energy: 0.0
+key: 2
+key_confidence: 0.194
+loudness: -7.446
+mode: 1
+mode_confidence: 0.482
+release: In My Place
+release_7digitalid: 307
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (739,)
+segments_loudness_max: shape = (739,)
+segments_loudness_max_time: shape = (739,)
+segments_loudness_start: shape = (739,)
+segments_pitches: shape = (739, 12)
+segments_start: shape = (739,)
+segments_timbre: shape = (739, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.810263613156
+song_id: SOEHTZE12A6310F0F2
+start_of_fade_out: 258.305
+tatums_confidence: shape = (1211,)
+tatums_start: shape = (1211,)
+tempo: 134.027
+time_signature: 4
+time_signature_confidence: 0.135
+title: One I Love
+track_7digitalid: 3002
+track_id: TRAGSGF128E0780CA7
+year: 2002

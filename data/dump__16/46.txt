@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 139585
+artist_familiarity: 0.40998949155
+artist_hotttnesss: 0.240551990468
+artist_id: ARPV8QO1187B98B77F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 97a0f0bc-8113-41f2-bd2a-2a42338d7a21
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ Taz
+artist_playmeid: 86009
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 9a220aeed4b8998fdea2e6832dbb987b
+bars_confidence: shape = (129,)
+bars_start: shape = (129,)
+beats_confidence: shape = (528,)
+beats_start: shape = (528,)
+danceability: 0.0
+duration: 348.02893
+end_of_fade_in: 12.394
+energy: 0.0
+key: 4
+key_confidence: 0.0
+loudness: -8.963
+mode: 0
+mode_confidence: 0.118
+release: Worldwide
+release_7digitalid: 184098
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1352,)
+segments_loudness_max: shape = (1352,)
+segments_loudness_max_time: shape = (1352,)
+segments_loudness_start: shape = (1352,)
+segments_pitches: shape = (1352, 12)
+segments_start: shape = (1352,)
+segments_timbre: shape = (1352, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKSVLC12A8AE47DAD
+start_of_fade_out: 337.287
+tatums_confidence: shape = (2113,)
+tatums_start: shape = (2113,)
+tempo: 92.012
+time_signature: 4
+time_signature_confidence: 0.754
+title: C.O.G. To The ATL
+track_7digitalid: 1991735
+track_id: TRAFPIX128F42369C3
+year: 0

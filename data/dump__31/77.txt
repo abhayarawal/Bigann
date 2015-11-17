@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3151
+artist_familiarity: 0.496152636378
+artist_hotttnesss: 0.363506515793
+artist_id: ARUK0W21187B995456
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 730e5c7d-4d24-4a43-bc30-85c9ce41e35b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Isabel Pantoja
+artist_playmeid: 1840
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 97438bc652de3444f3182d783661b9b7
+bars_confidence: shape = (212,)
+bars_start: shape = (212,)
+beats_confidence: shape = (851,)
+beats_start: shape = (851,)
+danceability: 0.0
+duration: 317.36118
+end_of_fade_in: 0.618
+energy: 0.0
+key: 2
+key_confidence: 1.0
+loudness: -11.88
+mode: 1
+mode_confidence: 0.631
+release: De Nadie
+release_7digitalid: 300000
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (1135,)
+segments_loudness_max: shape = (1135,)
+segments_loudness_max_time: shape = (1135,)
+segments_loudness_start: shape = (1135,)
+segments_pitches: shape = (1135, 12)
+segments_start: shape = (1135,)
+segments_timbre: shape = (1135, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.239629097774
+song_id: SOHRBUD12A8C13A769
+start_of_fade_out: 299.514
+tatums_confidence: shape = (1703,)
+tatums_start: shape = (1703,)
+tempo: 163.922
+time_signature: 4
+time_signature_confidence: 0.7
+title: Porque Me Gusta A Morir
+track_7digitalid: 3367508
+track_id: TRAKUKL128F4295046
+year: 1993

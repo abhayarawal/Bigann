@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 177526
+artist_familiarity: 0.569988889234
+artist_hotttnesss: 0.287481174185
+artist_id: ARQY95Q1187FB3E53A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0a87ad5f-728a-4a0f-b461-5ab84f63cd94
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Auf Der Maur
+artist_playmeid: 217242
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: a0b910a6c6f8dab29827df193a55bdcb
+bars_confidence: shape = (181,)
+bars_start: shape = (181,)
+beats_confidence: shape = (548,)
+beats_start: shape = (548,)
+danceability: 0.0
+duration: 277.89016
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.42
+loudness: -7.319
+mode: 0
+mode_confidence: 0.515
+release: Auf Der Maur
+release_7digitalid: 275602
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (651,)
+segments_loudness_max: shape = (651,)
+segments_loudness_max_time: shape = (651,)
+segments_loudness_start: shape = (651,)
+segments_pitches: shape = (651, 12)
+segments_start: shape = (651,)
+segments_timbre: shape = (651, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.799547839006
+song_id: SODBPRG12A81C21AE1
+start_of_fade_out: 261.637
+tatums_confidence: shape = (1095,)
+tatums_start: shape = (1095,)
+tempo: 125.05
+time_signature: 3
+time_signature_confidence: 0.761
+title: Taste You
+track_7digitalid: 3068590
+track_id: TRAQEKD128F425293D
+year: 2004

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15849
+artist_familiarity: 0.608018105915
+artist_hotttnesss: 0.28552323045
+artist_id: ARNQESK11F4C83FD6F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Beatnuts
+artist_playmeid: -1
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: b6323bc28dfea49de04697c99be714c8
+bars_confidence: shape = (62,)
+bars_start: shape = (62,)
+beats_confidence: shape = (251,)
+beats_start: shape = (251,)
+danceability: 0.0
+duration: 170.52689
+end_of_fade_in: 1.425
+energy: 0.0
+key: 6
+key_confidence: 0.436
+loudness: -10.231
+mode: 1
+mode_confidence: 0.416
+release: A Musical Massacre (Explicit)
+release_7digitalid: 284078
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (791,)
+segments_loudness_max: shape = (791,)
+segments_loudness_max_time: shape = (791,)
+segments_loudness_start: shape = (791,)
+segments_pitches: shape = (791, 12)
+segments_start: shape = (791,)
+segments_timbre: shape = (791, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTNQRU12A8C131FEF
+start_of_fade_out: 165.849
+tatums_confidence: shape = (501,)
+tatums_start: shape = (501,)
+tempo: 87.634
+time_signature: 4
+time_signature_confidence: 0.775
+title: Monster For Music
+track_7digitalid: 3187848
+track_id: TRABIJJ128F426A1C1
+year: 0

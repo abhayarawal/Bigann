@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 65
+artist_familiarity: 0.701260700538
+artist_hotttnesss: 0.418894704702
+artist_id: AR8B1WY1187FB38366
+artist_latitude: nan
+artist_location: Long Island, NY
+artist_longitude: nan
+artist_mbid: 2792b097-0b1d-4c50-97f6-f7f097f86438
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Rakim
+artist_playmeid: 83198
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 91db2dd48f596d154c9aa71b87f381b8
+bars_confidence: shape = (8,)
+bars_start: shape = (8,)
+beats_confidence: shape = (66,)
+beats_start: shape = (66,)
+danceability: 0.0
+duration: 79.93424
+end_of_fade_in: 0.258
+energy: 0.0
+key: 0
+key_confidence: 0.279
+loudness: -22.214
+mode: 1
+mode_confidence: 0.286
+release: The 18th Letter
+release_7digitalid: 309106
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (278,)
+segments_loudness_max: shape = (278,)
+segments_loudness_max_time: shape = (278,)
+segments_loudness_start: shape = (278,)
+segments_pitches: shape = (278, 12)
+segments_start: shape = (278,)
+segments_timbre: shape = (278, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.621126117018
+song_id: SONDBYI12A6310D81C
+start_of_fade_out: 76.788
+tatums_confidence: shape = (264,)
+tatums_start: shape = (264,)
+tempo: 50.059
+time_signature: 4
+time_signature_confidence: 0.0
+title: Outro
+track_7digitalid: 3495599
+track_id: TRAHFOU128F42B3F2A
+year: 1997

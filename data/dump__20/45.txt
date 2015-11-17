@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15749
+artist_familiarity: 0.493926144686
+artist_hotttnesss: 0.319626775917
+artist_id: ARKC83D1187B9AB367
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c55b50e3-5f4e-461d-bf29-79d2c2c364c5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mark Lowry
+artist_playmeid: 62535
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 6d0e92b88f99de4d99ce396cd6652209
+bars_confidence: shape = (118,)
+bars_start: shape = (118,)
+beats_confidence: shape = (477,)
+beats_start: shape = (477,)
+danceability: 0.0
+duration: 205.26975
+end_of_fade_in: 0.468
+energy: 0.0
+key: 7
+key_confidence: 0.811
+loudness: -7.874
+mode: 1
+mode_confidence: 0.724
+release: Some Things Never Change
+release_7digitalid: 155729
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (659,)
+segments_loudness_max: shape = (659,)
+segments_loudness_max_time: shape = (659,)
+segments_loudness_start: shape = (659,)
+segments_pitches: shape = (659, 12)
+segments_start: shape = (659,)
+segments_timbre: shape = (659, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORAVAX12A8C137A3B
+start_of_fade_out: 194.949
+tatums_confidence: shape = (954,)
+tatums_start: shape = (954,)
+tempo: 143.898
+time_signature: 4
+time_signature_confidence: 0.154
+title: Jesus Laughing (Some Things Never Change Version)
+track_7digitalid: 1633420
+track_id: TRAGYEF128F426DF61
+year: 0

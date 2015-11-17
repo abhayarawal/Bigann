@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 541258
+artist_familiarity: 0.430214596544
+artist_hotttnesss: 0.348650309552
+artist_id: ARXKPYC11E2835E356
+artist_latitude: 43.19899
+artist_location: Varna
+artist_longitude: 27.92076
+artist_mbid: 9e7cf65a-587e-423b-a648-5c2fc6e8ae90
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lot Lorien
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: b7bffe6a5dee1af8d1095d074667bbfc
+bars_confidence: shape = (240,)
+bars_start: shape = (240,)
+beats_confidence: shape = (962,)
+beats_start: shape = (962,)
+danceability: 0.0
+duration: 368.16934
+end_of_fade_in: 0.409
+energy: 0.0
+key: 5
+key_confidence: 0.645
+loudness: -8.684
+mode: 0
+mode_confidence: 0.65
+release: Lot Lorien
+release_7digitalid: 726351
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (1292,)
+segments_loudness_max: shape = (1292,)
+segments_loudness_max_time: shape = (1292,)
+segments_loudness_start: shape = (1292,)
+segments_pitches: shape = (1292, 12)
+segments_start: shape = (1292,)
+segments_timbre: shape = (1292, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQBGZG12AB0187E33
+start_of_fade_out: 351.417
+tatums_confidence: shape = (1924,)
+tatums_start: shape = (1924,)
+tempo: 160.212
+time_signature: 4
+time_signature_confidence: 0.466
+title: Byal ravnec
+track_7digitalid: 8049027
+track_id: TRBAODV12903CDC484
+year: 2007

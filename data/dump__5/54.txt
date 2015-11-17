@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 31797
+artist_familiarity: 0.403984635369
+artist_hotttnesss: 0.454159694128
+artist_id: ARORSBT11F50C4A96B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7fb4a3df-377c-41c0-91ee-f286ecca1e0f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: De La Ghetto
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 89b08892a7a09ff0614934c3ca74578f
+bars_confidence: shape = (111,)
+bars_start: shape = (111,)
+beats_confidence: shape = (449,)
+beats_start: shape = (449,)
+danceability: 0.0
+duration: 280.45016
+end_of_fade_in: 6.844
+energy: 0.0
+key: 7
+key_confidence: 0.472
+loudness: -6.876
+mode: 1
+mode_confidence: 0.546
+release: Massacre Musical
+release_7digitalid: 344546
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1347,)
+segments_loudness_max: shape = (1347,)
+segments_loudness_max_time: shape = (1347,)
+segments_loudness_start: shape = (1347,)
+segments_pitches: shape = (1347, 12)
+segments_start: shape = (1347,)
+segments_timbre: shape = (1347, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.646995746924
+song_id: SOTSFFZ12AB0182949
+start_of_fade_out: 266.223
+tatums_confidence: shape = (1793,)
+tatums_start: shape = (1793,)
+tempo: 97.02
+time_signature: 4
+time_signature_confidence: 0.575
+title: Es dificil
+track_7digitalid: 3868502
+track_id: TRABUVN128F930633C
+year: 0

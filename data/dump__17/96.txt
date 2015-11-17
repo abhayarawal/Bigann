@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 521666
+artist_familiarity: 0.422386808625
+artist_hotttnesss: 0.319980032555
+artist_id: ARSBZSV1187B989B86
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6bb0bfbd-7f80-40d4-9bb8-4a1d6d0f4907
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Stress Assassin
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 9916562588692eff26ddbedaca0558fa
+bars_confidence: shape = (90,)
+bars_start: shape = (90,)
+beats_confidence: shape = (638,)
+beats_start: shape = (638,)
+danceability: 0.0
+duration: 229.53751
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.0
+loudness: -11.957
+mode: 1
+mode_confidence: 0.0
+release: Carrier Track
+release_7digitalid: 701622
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (382,)
+segments_loudness_max: shape = (382,)
+segments_loudness_max_time: shape = (382,)
+segments_loudness_start: shape = (382,)
+segments_pitches: shape = (382, 12)
+segments_start: shape = (382,)
+segments_timbre: shape = (382, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SODIRMS12A8C140C52
+start_of_fade_out: 219.777
+tatums_confidence: shape = (1276,)
+tatums_start: shape = (1276,)
+tempo: 163.725
+time_signature: 7
+time_signature_confidence: 0.365
+title: EU A4
+track_7digitalid: 7784426
+track_id: TRAGDAF128F92F928C
+year: 2003

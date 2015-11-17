@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 35758
+artist_familiarity: 0.423401377256
+artist_hotttnesss: 0.375652824002
+artist_id: ARCII0J1187FB3A1B4
+artist_latitude: 40.71455
+artist_location: New York City, New York
+artist_longitude: -74.00712
+artist_mbid: 36f93472-e1c2-45bc-b141-801e79b7de14
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Marx Brothers
+artist_playmeid: 86080
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 7f840249f08094052df24dbf0e170fba
+bars_confidence: shape = (40,)
+bars_start: shape = (40,)
+beats_confidence: shape = (40,)
+beats_start: shape = (40,)
+danceability: 0.0
+duration: 25.57342
+end_of_fade_in: 0.373
+energy: 0.0
+key: 3
+key_confidence: 0.4
+loudness: -13.174
+mode: 1
+mode_confidence: 0.544
+release: Horse Feathers / Animal Crackers
+release_7digitalid: 237206
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (56,)
+segments_loudness_max: shape = (56,)
+segments_loudness_max_time: shape = (56,)
+segments_loudness_start: shape = (56,)
+segments_pitches: shape = (56, 12)
+segments_start: shape = (56,)
+segments_timbre: shape = (56, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMCBPS12A8BED74BF
+start_of_fade_out: 25.573
+tatums_confidence: shape = (80,)
+tatums_start: shape = (80,)
+tempo: 128.398
+time_signature: 1
+time_signature_confidence: 0.0
+title: End Title/Animal Crackers
+track_7digitalid: 2602600
+track_id: TRAPUFV128F4231392
+year: 0

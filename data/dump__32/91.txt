@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41212
+artist_familiarity: 0.611381594879
+artist_hotttnesss: 0.445321878275
+artist_id: ARSZIBW1187B994053
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f6580b26-77f7-4a7b-8513-6db0476e8f21
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: James Newton Howard
+artist_playmeid: 7886
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 0d6a9baf6d68c9cf9476f5ceab6b6d4e
+bars_confidence: shape = (52,)
+bars_start: shape = (52,)
+beats_confidence: shape = (160,)
+beats_start: shape = (160,)
+danceability: 0.0
+duration: 54.96118
+end_of_fade_in: 0.304
+energy: 0.0
+key: 2
+key_confidence: 0.653
+loudness: -37.456
+mode: 0
+mode_confidence: 0.661
+release: The Sixth Sense
+release_7digitalid: 314532
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (93,)
+segments_loudness_max: shape = (93,)
+segments_loudness_max_time: shape = (93,)
+segments_loudness_start: shape = (93,)
+segments_pitches: shape = (93, 12)
+segments_start: shape = (93,)
+segments_timbre: shape = (93, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.433005077275
+song_id: SOGPNMB12A8C141375
+start_of_fade_out: 54.961
+tatums_confidence: shape = (160,)
+tatums_start: shape = (160,)
+tempo: 189.037
+time_signature: 3
+time_signature_confidence: 0.366
+title: Photographs
+track_7digitalid: 3558835
+track_id: TRALESW128F92C7B94
+year: 1999

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 76721
+artist_familiarity: 0.214837191716
+artist_hotttnesss: 0.24913722954
+artist_id: ARCVMYS12454A51E6E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Sun Harbor's Chorus-Documentary Recordings
+artist_playmeid: 50151
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 8147b2770a1b7b2b17e90a44eaa42f70
+bars_confidence: shape = (46,)
+bars_start: shape = (46,)
+beats_confidence: shape = (140,)
+beats_start: shape = (140,)
+danceability: 0.0
+duration: 52.45342
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.235
+loudness: -16.945
+mode: 1
+mode_confidence: 0.209
+release: Run to Cadence with the U.S. Navy
+release_7digitalid: 95130
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (155,)
+segments_loudness_max: shape = (155,)
+segments_loudness_max_time: shape = (155,)
+segments_loudness_start: shape = (155,)
+segments_pitches: shape = (155, 12)
+segments_start: shape = (155,)
+segments_timbre: shape = (155, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.229144103717
+song_id: SOOFIJM12A8C1359D1
+start_of_fade_out: 52.453
+tatums_confidence: shape = (140,)
+tatums_start: shape = (140,)
+tempo: 155.954
+time_signature: 3
+time_signature_confidence: 1.0
+title: We Started Together
+track_7digitalid: 994855
+track_id: TRAVJCF128F42755D5
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23677
+artist_familiarity: 0.475755732778
+artist_hotttnesss: 0.27842551605
+artist_id: ARV69FI1187B9AA14F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cd379eaf-ac4e-4db3-88b1-ecdf19b58495
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Kari Tapio
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: e8fad20a2cbd39a1747bfecb3da57a54
+bars_confidence: shape = (92,)
+bars_start: shape = (92,)
+beats_confidence: shape = (371,)
+beats_start: shape = (371,)
+danceability: 0.0
+duration: 224.7571
+end_of_fade_in: 0.335
+energy: 0.0
+key: 5
+key_confidence: 0.387
+loudness: -8.419
+mode: 1
+mode_confidence: 0.52
+release: Viimeiseen pisaraan
+release_7digitalid: 526303
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (682,)
+segments_loudness_max: shape = (682,)
+segments_loudness_max_time: shape = (682,)
+segments_loudness_start: shape = (682,)
+segments_pitches: shape = (682, 12)
+segments_start: shape = (682,)
+segments_timbre: shape = (682, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAAHZS12A8C143A21
+start_of_fade_out: 210.321
+tatums_confidence: shape = (743,)
+tatums_start: shape = (743,)
+tempo: 103.244
+time_signature: 4
+time_signature_confidence: 1.0
+title: Rakkauden veteraani
+track_7digitalid: 5814310
+track_id: TRAFUGB128F92EDEDC
+year: 2009

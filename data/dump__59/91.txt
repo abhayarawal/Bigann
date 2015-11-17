@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11846
+artist_familiarity: 0.801989215969
+artist_hotttnesss: 0.580345271378
+artist_id: AR74Q3R1187B9B24C3
+artist_latitude: nan
+artist_location: Kitee, Finland
+artist_longitude: nan
+artist_mbid: 00a9f935-ba93-4fc8-a33a-993abe9c936b
+artist_mbtags: shape = (14,)
+artist_mbtags_count: shape = (14,)
+artist_name: Nightwish
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: c51dcfd64490394f16f744cb9820a685
+bars_confidence: shape = (161,)
+bars_start: shape = (161,)
+beats_confidence: shape = (498,)
+beats_start: shape = (498,)
+danceability: 0.0
+duration: 382.58893
+end_of_fade_in: 0.136
+energy: 0.0
+key: 5
+key_confidence: 0.924
+loudness: -4.657
+mode: 1
+mode_confidence: 0.656
+release: Angels Fall First
+release_7digitalid: 351426
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1076,)
+segments_loudness_max: shape = (1076,)
+segments_loudness_max_time: shape = (1076,)
+segments_loudness_start: shape = (1076,)
+segments_pitches: shape = (1076, 12)
+segments_start: shape = (1076,)
+segments_timbre: shape = (1076, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLDLXG12AB0185707
+start_of_fade_out: 373.267
+tatums_confidence: shape = (1496,)
+tatums_start: shape = (1496,)
+tempo: 78.959
+time_signature: 3
+time_signature_confidence: 0.865
+title: Beauty And The Beast
+track_7digitalid: 3928513
+track_id: TRAULTS128F931290B
+year: 1997

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8585
+artist_familiarity: 0.607326982275
+artist_hotttnesss: 0.401144741478
+artist_id: ARDK0551187FB5AC48
+artist_latitude: 31.30627
+artist_location: Marlin, TX
+artist_longitude: -96.89774
+artist_mbid: 8a14c00b-4779-44e4-9b2e-4cc9dcd92e9b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Blind Willie Johnson
+artist_playmeid: 12775
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 5da090d8ca0778cf3371c13fca1e39b9
+bars_confidence: shape = (405,)
+bars_start: shape = (405,)
+beats_confidence: shape = (405,)
+beats_start: shape = (405,)
+danceability: 0.0
+duration: 198.00771
+end_of_fade_in: 0.258
+energy: 0.0
+key: 5
+key_confidence: 0.645
+loudness: -15.855
+mode: 1
+mode_confidence: 0.556
+release: The Soul of a Man
+release_7digitalid: 703865
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (664,)
+segments_loudness_max: shape = (664,)
+segments_loudness_max_time: shape = (664,)
+segments_loudness_start: shape = (664,)
+segments_pitches: shape = (664, 12)
+segments_start: shape = (664,)
+segments_timbre: shape = (664, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTNGXP12AB018664A
+start_of_fade_out: 191.733
+tatums_confidence: shape = (811,)
+tatums_start: shape = (811,)
+tempo: 125.692
+time_signature: 1
+time_signature_confidence: 0.0
+title: John the Revelator
+track_7digitalid: 7807723
+track_id: TRBEVII12903CA1A06
+year: 1991

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13626
+artist_familiarity: 0.793094370082
+artist_hotttnesss: 0.568491815445
+artist_id: ARD2NDU1187B99B615
+artist_latitude: nan
+artist_location: Boston, MA
+artist_longitude: nan
+artist_mbid: e8374874-4178-4869-b92e-fef6bf30dc04
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Dropkick Murphys
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 54e8c652a1711027ae361961aa24748c
+bars_confidence: shape = (146,)
+bars_start: shape = (146,)
+beats_confidence: shape = (590,)
+beats_start: shape = (590,)
+danceability: 0.0
+duration: 196.72771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.008
+loudness: -5.386
+mode: 0
+mode_confidence: 0.254
+release: Live On St. Patrick's Day
+release_7digitalid: 204315
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (598,)
+segments_loudness_max: shape = (598,)
+segments_loudness_max_time: shape = (598,)
+segments_loudness_start: shape = (598,)
+segments_pitches: shape = (598, 12)
+segments_start: shape = (598,)
+segments_timbre: shape = (598, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.528782480943
+song_id: SOQGZBE12A8C139160
+start_of_fade_out: 183.687
+tatums_confidence: shape = (1181,)
+tatums_start: shape = (1181,)
+tempo: 183.808
+time_signature: 4
+time_signature_confidence: 0.0
+title: Bloody Pig Pile (Live)
+track_7digitalid: 1081787
+track_id: TRABGZL128F428A25B
+year: 2002

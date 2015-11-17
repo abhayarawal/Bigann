@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 329460
+artist_familiarity: 0.255585292061
+artist_hotttnesss: 0.235989600294
+artist_id: ARYXBCS1250940B844
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Giorgos Sabanis
+artist_playmeid: 165127
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: bb23e8355b251baacafa068e5756ed44
+bars_confidence: shape = (118,)
+bars_start: shape = (118,)
+beats_confidence: shape = (477,)
+beats_start: shape = (477,)
+danceability: 0.0
+duration: 247.66649
+end_of_fade_in: 0.427
+energy: 0.0
+key: 2
+key_confidence: 0.491
+loudness: -9.305
+mode: 1
+mode_confidence: 0.667
+release: To Fili Tis Zois
+release_7digitalid: 637952
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1163,)
+segments_loudness_max: shape = (1163,)
+segments_loudness_max_time: shape = (1163,)
+segments_loudness_start: shape = (1163,)
+segments_pitches: shape = (1163, 12)
+segments_start: shape = (1163,)
+segments_timbre: shape = (1163, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFBOOL12AB0183E42
+start_of_fade_out: 238.974
+tatums_confidence: shape = (953,)
+tatums_start: shape = (953,)
+tempo: 116.024
+time_signature: 4
+time_signature_confidence: 0.735
+title: Dio Nisia
+track_7digitalid: 7084695
+track_id: TRBGMKO128F933A55B
+year: 0

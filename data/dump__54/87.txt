@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 123275
+artist_familiarity: 0.547801656047
+artist_hotttnesss: 0.36947051062
+artist_id: ARKO7AO1187FB5664B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7a4311d2-5f0e-40df-b03d-ac4a5465b236
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Tin Hat Trio
+artist_playmeid: 61977
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 498df87e2c968d8ad69154f1584ba5cf
+bars_confidence: shape = (197,)
+bars_start: shape = (197,)
+beats_confidence: shape = (791,)
+beats_start: shape = (791,)
+danceability: 0.0
+duration: 292.04853
+end_of_fade_in: 0.699
+energy: 0.0
+key: 4
+key_confidence: 0.758
+loudness: -14.188
+mode: 0
+mode_confidence: 0.784
+release: The Rodeo Eroded
+release_7digitalid: 603826
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (933,)
+segments_loudness_max: shape = (933,)
+segments_loudness_max_time: shape = (933,)
+segments_loudness_start: shape = (933,)
+segments_pitches: shape = (933, 12)
+segments_start: shape = (933,)
+segments_timbre: shape = (933, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.444401714523
+song_id: SOXLQOI12AC3DF996D
+start_of_fade_out: 276.555
+tatums_confidence: shape = (1582,)
+tatums_start: shape = (1582,)
+tempo: 167.915
+time_signature: 4
+time_signature_confidence: 0.055
+title: Rubies_ Pearls_ And Emeralds
+track_7digitalid: 6706931
+track_id: TRASTMN12903CF98DB
+year: 2002

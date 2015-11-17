@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 309201
+artist_familiarity: 0.475430773936
+artist_hotttnesss: 0.305579278352
+artist_id: ARABS971187B9A8509
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 550b5eea-4202-4037-9fae-66fc7ae77340
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: France D' Amour
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 7a17141a7fac31ed32be8486d1a77b56
+bars_confidence: shape = (81,)
+bars_start: shape = (81,)
+beats_confidence: shape = (379,)
+beats_start: shape = (379,)
+danceability: 0.0
+duration: 229.79873
+end_of_fade_in: 0.345
+energy: 0.0
+key: 3
+key_confidence: 0.534
+loudness: -4.858
+mode: 0
+mode_confidence: 0.6
+release: Le Présent
+release_7digitalid: 692284
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (621,)
+segments_loudness_max: shape = (621,)
+segments_loudness_max_time: shape = (621,)
+segments_loudness_start: shape = (621,)
+segments_pitches: shape = (621, 12)
+segments_start: shape = (621,)
+segments_timbre: shape = (621, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQOSFA12AC960D97D
+start_of_fade_out: 224.595
+tatums_confidence: shape = (1138,)
+tatums_start: shape = (1138,)
+tempo: 95.068
+time_signature: 4
+time_signature_confidence: 1.0
+title: Je n'irai pas ailleurs
+track_7digitalid: 7683958
+track_id: TRANIBF12903CFA420
+year: 0

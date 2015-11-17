@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 244167
+artist_familiarity: 0.456136674435
+artist_hotttnesss: 0.285591271518
+artist_id: ARHTV1S1187FB547F8
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1c751614-47f2-40a0-939a-a296f68dc69e
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Marc Perrone
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: d8715610fc412cf926c63894f0811a06
+bars_confidence: shape = (33,)
+bars_start: shape = (33,)
+beats_confidence: shape = (102,)
+beats_start: shape = (102,)
+danceability: 0.0
+duration: 62.51057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.15
+loudness: -16.972
+mode: 1
+mode_confidence: 0.411
+release: Voyages
+release_7digitalid: 726646
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (211,)
+segments_loudness_max: shape = (211,)
+segments_loudness_max_time: shape = (211,)
+segments_loudness_start: shape = (211,)
+segments_pitches: shape = (211, 12)
+segments_start: shape = (211,)
+segments_timbre: shape = (211, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVEQUY12AB0186A16
+start_of_fade_out: 56.14
+tatums_confidence: shape = (206,)
+tatums_start: shape = (206,)
+tempo: 98.467
+time_signature: 3
+time_signature_confidence: 0.639
+title: Serenade valse
+track_7digitalid: 8052114
+track_id: TRAVDDS12903CDD092
+year: 0

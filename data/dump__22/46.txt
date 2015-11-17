@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 156345
+artist_familiarity: 0.747061426955
+artist_hotttnesss: 0.327526078019
+artist_id: AR8J63I119B8668504
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1cb731d7-fee7-4c07-845d-ab60c8ae122f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Red I Flight
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 5ea0e7a17c40ae8ea910aa41a773c86b
+bars_confidence: shape = (98,)
+bars_start: shape = (98,)
+beats_confidence: shape = (396,)
+beats_start: shape = (396,)
+danceability: 0.0
+duration: 259.29098
+end_of_fade_in: 0.45
+energy: 0.0
+key: 6
+key_confidence: 0.087
+loudness: -5.033
+mode: 1
+mode_confidence: 0.244
+release: The Years
+release_7digitalid: 212771
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (940,)
+segments_loudness_max: shape = (940,)
+segments_loudness_max_time: shape = (940,)
+segments_loudness_start: shape = (940,)
+segments_pitches: shape = (940, 12)
+segments_start: shape = (940,)
+segments_timbre: shape = (940, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.35897652644
+song_id: SOYEJKC12A8C136E3D
+start_of_fade_out: 256.296
+tatums_confidence: shape = (1581,)
+tatums_start: shape = (1581,)
+tempo: 92.439
+time_signature: 4
+time_signature_confidence: 0.734
+title: Of Myth And Men (Album Version)
+track_7digitalid: 2316641
+track_id: TRAHQWU128F4277B78
+year: 2008

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22965
+artist_familiarity: 0.632718260552
+artist_hotttnesss: 0.436599339455
+artist_id: ARIMJFK1187FB4ED3E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0b59a279-54ef-4723-854e-a12b61e9581a
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Luke Vibert
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 5b3a8f8edd6ee3fd64cad011a9158ec2
+bars_confidence: shape = (175,)
+bars_start: shape = (175,)
+beats_confidence: shape = (704,)
+beats_start: shape = (704,)
+danceability: 0.0
+duration: 418.79465
+end_of_fade_in: 0.287
+energy: 0.0
+key: 7
+key_confidence: 0.645
+loudness: -15.199
+mode: 0
+mode_confidence: 0.503
+release: Lover's Acid
+release_7digitalid: 246707
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1666,)
+segments_loudness_max: shape = (1666,)
+segments_loudness_max_time: shape = (1666,)
+segments_loudness_start: shape = (1666,)
+segments_pitches: shape = (1666, 12)
+segments_start: shape = (1666,)
+segments_timbre: shape = (1666, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.531580240678
+song_id: SOKJRSY12A58A7AA78
+start_of_fade_out: 408.358
+tatums_confidence: shape = (2816,)
+tatums_start: shape = (2816,)
+tempo: 101.905
+time_signature: 4
+time_signature_confidence: 1.0
+title: Gwithian
+track_7digitalid: 2679008
+track_id: TRAOQRI128F424399C
+year: 2005

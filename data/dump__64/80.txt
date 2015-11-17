@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 45589
+artist_familiarity: 0.597794859355
+artist_hotttnesss: 0.418895803914
+artist_id: ARGQANQ11F50C4769E
+artist_latitude: 37.87869
+artist_location: San Francisco Bay Area
+artist_longitude: -121.94345
+artist_mbid: e773e9a3-cadd-41d2-a7e9-4ca097ae5a3f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Y&T
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 44571678f192ec53031bd6b18504f091
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (407,)
+beats_start: shape = (407,)
+danceability: 0.0
+duration: 201.74322
+end_of_fade_in: 0.478
+energy: 0.0
+key: 3
+key_confidence: 0.483
+loudness: -12.083
+mode: 0
+mode_confidence: 0.455
+release: Contagious
+release_7digitalid: 59773
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (584,)
+segments_loudness_max: shape = (584,)
+segments_loudness_max_time: shape = (584,)
+segments_loudness_start: shape = (584,)
+segments_pitches: shape = (584, 12)
+segments_start: shape = (584,)
+segments_timbre: shape = (584, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.666532379094
+song_id: SOIRCWN12A6D4FC58D
+start_of_fade_out: 197.004
+tatums_confidence: shape = (814,)
+tatums_start: shape = (814,)
+tempo: 123.788
+time_signature: 4
+time_signature_confidence: 0.521
+title: Contagious
+track_7digitalid: 618923
+track_id: TRAWEDC128F14A2EBA
+year: 1987

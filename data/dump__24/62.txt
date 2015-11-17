@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 125936
+artist_familiarity: 0.385430251168
+artist_hotttnesss: 0.264368000414
+artist_id: ARXFY0N11C8A423D05
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 571e633f-20a8-4683-a768-4b9e059660d3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Juan Farcik
+artist_playmeid: 96958
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 2bc595b36f1630ac88b6fc8982fc14f5
+bars_confidence: shape = (174,)
+bars_start: shape = (174,)
+beats_confidence: shape = (699,)
+beats_start: shape = (699,)
+danceability: 0.0
+duration: 325.85098
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.649
+loudness: -13.015
+mode: 1
+mode_confidence: 0.565
+release: Wet Memory
+release_7digitalid: 330154
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (2058,)
+segments_loudness_max: shape = (2058,)
+segments_loudness_max_time: shape = (2058,)
+segments_loudness_start: shape = (2058,)
+segments_pitches: shape = (2058, 12)
+segments_start: shape = (2058,)
+segments_timbre: shape = (2058, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJFQQD12AB018353A
+start_of_fade_out: 322.241
+tatums_confidence: shape = (1398,)
+tatums_start: shape = (1398,)
+tempo: 130.007
+time_signature: 4
+time_signature_confidence: 1.0
+title: Laziness
+track_7digitalid: 3709569
+track_id: TRAIGTW128F92E8520
+year: 0

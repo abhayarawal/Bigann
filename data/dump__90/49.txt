@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22081
+artist_familiarity: 0.520757634637
+artist_hotttnesss: 0.404566537526
+artist_id: ARG4KW31187FB51B7C
+artist_latitude: nan
+artist_location: United Kingdom
+artist_longitude: nan
+artist_mbid: 5cf54b1a-831f-4cfc-b946-41131c463fc1
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Atomic Rooster
+artist_playmeid: 109185
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 076d48372cc5398fdd1941582948c4b7
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (351,)
+beats_start: shape = (351,)
+danceability: 0.0
+duration: 203.31057
+end_of_fade_in: 0.131
+energy: 0.0
+key: 9
+key_confidence: 0.161
+loudness: -6.958
+mode: 0
+mode_confidence: 0.198
+release: Made In England
+release_7digitalid: 787727
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (838,)
+segments_loudness_max: shape = (838,)
+segments_loudness_max_time: shape = (838,)
+segments_loudness_start: shape = (838,)
+segments_pitches: shape = (838, 12)
+segments_start: shape = (838,)
+segments_timbre: shape = (838, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGHIGJ12AC468AA66
+start_of_fade_out: 192.621
+tatums_confidence: shape = (1406,)
+tatums_start: shape = (1406,)
+tempo: 104.796
+time_signature: 4
+time_signature_confidence: 0.476
+title: Stand By Me
+track_7digitalid: 8716864
+track_id: TRBFFZN12903D08332
+year: 1972

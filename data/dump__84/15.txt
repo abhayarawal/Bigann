@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 546932
+artist_familiarity: 0.386115944252
+artist_hotttnesss: 0.270408647226
+artist_id: ARBGVEC1272BA8350B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Josh Mullins
+artist_playmeid: -1
+artist_terms: shape = (8,)
+artist_terms_freq: shape = (8,)
+artist_terms_weight: shape = (8,)
+audio_md5: 0224b29136b1e8dac9f4de88645a8d08
+bars_confidence: shape = (70,)
+bars_start: shape = (70,)
+beats_confidence: shape = (291,)
+beats_start: shape = (291,)
+danceability: 0.0
+duration: 193.72363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.183
+loudness: -16.886
+mode: 0
+mode_confidence: 0.175
+release: I Wouldn't Buy This Either
+release_7digitalid: 733120
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (784,)
+segments_loudness_max: shape = (784,)
+segments_loudness_max_time: shape = (784,)
+segments_loudness_start: shape = (784,)
+segments_pitches: shape = (784, 12)
+segments_start: shape = (784,)
+segments_timbre: shape = (784, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCHZDP12AC468D99F
+start_of_fade_out: 181.888
+tatums_confidence: shape = (581,)
+tatums_start: shape = (581,)
+tempo: 89.093
+time_signature: 4
+time_signature_confidence: 0.918
+title: Butts n Stuff
+track_7digitalid: 8120478
+track_id: TRBCWID12903CEDB3E
+year: 0

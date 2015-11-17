@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17938
+artist_familiarity: 0.640695920704
+artist_hotttnesss: 0.449602655974
+artist_id: ARKQ9JM1187FB57521
+artist_latitude: nan
+artist_location: Oakland, CA
+artist_longitude: nan
+artist_mbid: 0506bf37-90d7-4654-9585-b4800dc945d5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: AZ
+artist_playmeid: 85507
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 9d653327abdbc81c0e6ad9ec18d31541
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (83,)
+beats_start: shape = (83,)
+danceability: 0.0
+duration: 134.81751
+end_of_fade_in: 0.073
+energy: 0.0
+key: 0
+key_confidence: 0.478
+loudness: -24.904
+mode: 0
+mode_confidence: 0.331
+release: Music for Scattered Brains
+release_7digitalid: 200287
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (334,)
+segments_loudness_max: shape = (334,)
+segments_loudness_max_time: shape = (334,)
+segments_loudness_start: shape = (334,)
+segments_pitches: shape = (334, 12)
+segments_start: shape = (334,)
+segments_timbre: shape = (334, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOCVHTO12A8C1354C6
+start_of_fade_out: 122.828
+tatums_confidence: shape = (418,)
+tatums_start: shape = (418,)
+tempo: 36.802
+time_signature: 1
+time_signature_confidence: 0.0
+title: Pleas Made Against Stasis
+track_7digitalid: 2180193
+track_id: TRAYTUZ128F4258057
+year: 0

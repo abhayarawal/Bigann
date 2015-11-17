@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2251
+artist_familiarity: 0.720842183166
+artist_hotttnesss: 0.444025681011
+artist_id: ARUE3AK1187B9AC923
+artist_latitude: nan
+artist_location: Brooklyn, NY
+artist_longitude: nan
+artist_mbid: 577d92bd-32ac-48b6-86df-4db6b0b52fbf
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Neil Sedaka
+artist_playmeid: 7119
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: f81f18f787aacadc68ccd5b17cc66c15
+bars_confidence: shape = (681,)
+bars_start: shape = (681,)
+beats_confidence: shape = (681,)
+beats_start: shape = (681,)
+danceability: 0.0
+duration: 256.9922
+end_of_fade_in: 0.229
+energy: 0.0
+key: 4
+key_confidence: 0.138
+loudness: -17.289
+mode: 0
+mode_confidence: 0.173
+release: Neil Sedaka Selected Hits
+release_7digitalid: 468483
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (867,)
+segments_loudness_max: shape = (867,)
+segments_loudness_max_time: shape = (867,)
+segments_loudness_start: shape = (867,)
+segments_pitches: shape = (867, 12)
+segments_start: shape = (867,)
+segments_timbre: shape = (867, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3759843015
+song_id: SONQTZF12AB0181781
+start_of_fade_out: 249.388
+tatums_confidence: shape = (1362,)
+tatums_start: shape = (1362,)
+tempo: 159.184
+time_signature: 1
+time_signature_confidence: 0.0
+title: Superbird
+track_7digitalid: 5209849
+track_id: TRALJAZ128F933DE4A
+year: 0

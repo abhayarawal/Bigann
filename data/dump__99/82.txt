@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15184
+artist_familiarity: 0.529020069006
+artist_hotttnesss: 0.300734603902
+artist_id: ARKZNO81187FB37FBA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 98058d07-363a-421b-a102-21ee2303f3d3
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Daara J
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: bfef631590c3fcba6abfc4f228379ede
+bars_confidence: shape = (97,)
+bars_start: shape = (97,)
+beats_confidence: shape = (394,)
+beats_start: shape = (394,)
+danceability: 0.0
+duration: 261.61587
+end_of_fade_in: 3.03
+energy: 0.0
+key: 0
+key_confidence: 0.741
+loudness: -7.727
+mode: 1
+mode_confidence: 0.612
+release: Boomerang
+release_7digitalid: 21585
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1137,)
+segments_loudness_max: shape = (1137,)
+segments_loudness_max_time: shape = (1137,)
+segments_loudness_start: shape = (1137,)
+segments_pitches: shape = (1137, 12)
+segments_start: shape = (1137,)
+segments_timbre: shape = (1137, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.319565986883
+song_id: SOEEPYY12A58A7B1C8
+start_of_fade_out: 255.303
+tatums_confidence: shape = (1575,)
+tatums_start: shape = (1575,)
+tempo: 91.005
+time_signature: 4
+time_signature_confidence: 1.0
+title: Le Precipice
+track_7digitalid: 223904
+track_id: TRBIICD128F14553D8
+year: 0

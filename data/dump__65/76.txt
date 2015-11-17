@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 503630
+artist_familiarity: 0.42650314828
+artist_hotttnesss: 0.33338457112
+artist_id: ARWQ2Y71187FB504C0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0aa63be0-5e31-40e3-8735-1da060590b30
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Perpetual Loop
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 17660720378e7f3ebf657ef6061e91a8
+bars_confidence: shape = (305,)
+bars_start: shape = (305,)
+beats_confidence: shape = (1224,)
+beats_start: shape = (1224,)
+danceability: 0.0
+duration: 386.97751
+end_of_fade_in: 3.03
+energy: 0.0
+key: 10
+key_confidence: 0.603
+loudness: -12.006
+mode: 0
+mode_confidence: 0.749
+release: Catching Zinc
+release_7digitalid: 677363
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1955,)
+segments_loudness_max: shape = (1955,)
+segments_loudness_max_time: shape = (1955,)
+segments_loudness_start: shape = (1955,)
+segments_pitches: shape = (1955, 12)
+segments_start: shape = (1955,)
+segments_timbre: shape = (1955, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOMFIFG12AB018D4AD
+start_of_fade_out: 382.508
+tatums_confidence: shape = (2449,)
+tatums_start: shape = (2449,)
+tempo: 189.972
+time_signature: 4
+time_signature_confidence: 0.036
+title: Release
+track_7digitalid: 7515815
+track_id: TRAWLOP12903CD13EE
+year: 0

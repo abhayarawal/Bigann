@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18460
+artist_familiarity: 0.826075466699
+artist_hotttnesss: 0.59960264265
+artist_id: ARLSF8H1187B9A76B0
+artist_latitude: nan
+artist_location: Oslo, Norway
+artist_longitude: nan
+artist_mbid: 17167af8-c1da-45cc-bba2-9d23f068b7a3
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Dimmu Borgir
+artist_playmeid: 7454
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: bda0414f857542fe4ff8baf7e2dc961c
+bars_confidence: shape = (49,)
+bars_start: shape = (49,)
+beats_confidence: shape = (261,)
+beats_start: shape = (261,)
+danceability: 0.0
+duration: 186.56608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.257
+loudness: -3.086
+mode: 1
+mode_confidence: 0.304
+release: Alive in Torment
+release_7digitalid: 127775
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (422,)
+segments_loudness_max: shape = (422,)
+segments_loudness_max_time: shape = (422,)
+segments_loudness_start: shape = (422,)
+segments_pitches: shape = (422, 12)
+segments_start: shape = (422,)
+segments_timbre: shape = (422, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKYOBT12A6D4FBBB0
+start_of_fade_out: 184.123
+tatums_confidence: shape = (522,)
+tatums_start: shape = (522,)
+tempo: 83.108
+time_signature: 5
+time_signature_confidence: 0.422
+title: Puritania
+track_7digitalid: 1323915
+track_id: TRATOAJ128F422F6A7
+year: 2001

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 740906
+artist_familiarity: 0.54003774898
+artist_hotttnesss: 0.360053306539
+artist_id: AR1N6N61187FB4E25E
+artist_latitude: 23.0833
+artist_location: Havana, Cuba [Jesus Maria]
+artist_longitude: -82.4167
+artist_mbid: 915f84de-eac2-4e78-99ad-9ab6e2c50af6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mongo Santamaria
+artist_playmeid: 6530
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: ac9c2321c5cb2672c9e76c06789bf1c5
+bars_confidence: shape = (235,)
+bars_start: shape = (235,)
+beats_confidence: shape = (947,)
+beats_start: shape = (947,)
+danceability: 0.0
+duration: 428.06812
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.704
+loudness: -5.827
+mode: 1
+mode_confidence: 0.588
+release: Montreux Heat!
+release_7digitalid: 391906
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (1754,)
+segments_loudness_max: shape = (1754,)
+segments_loudness_max_time: shape = (1754,)
+segments_loudness_start: shape = (1754,)
+segments_pitches: shape = (1754, 12)
+segments_start: shape = (1754,)
+segments_timbre: shape = (1754, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPQKMQ12AB017AF79
+start_of_fade_out: 428.068
+tatums_confidence: shape = (1894,)
+tatums_start: shape = (1894,)
+tempo: 131.971
+time_signature: 4
+time_signature_confidence: 0.31
+title: Watermelon Man
+track_7digitalid: 4346480
+track_id: TRAVFOA128F92F2B38
+year: 1963

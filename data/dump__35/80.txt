@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6116
+artist_familiarity: 0.561744804021
+artist_hotttnesss: 0.400107709799
+artist_id: AR6TZJQ1187B9AD572
+artist_latitude: 45.60718
+artist_location: Montbrison, France
+artist_longitude: 4.06212
+artist_mbid: 3bce590b-479f-42ca-b9e0-82883e0db9a2
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Pierre Boulez
+artist_playmeid: 14620
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: f96e71988edec89fadf8ebf15f1d69d8
+bars_confidence: shape = (759,)
+bars_start: shape = (759,)
+beats_confidence: shape = (759,)
+beats_start: shape = (759,)
+danceability: 0.0
+duration: 956.60363
+end_of_fade_in: 5.573
+energy: 0.0
+key: 0
+key_confidence: 0.151
+loudness: -18.628
+mode: 0
+mode_confidence: 0.248
+release: Boulez: Pli Selon Pli; and Livre pour Cordes
+release_7digitalid: 286445
+sections_confidence: shape = (34,)
+sections_start: shape = (34,)
+segments_confidence: shape = (2245,)
+segments_loudness_max: shape = (2245,)
+segments_loudness_max_time: shape = (2245,)
+segments_loudness_start: shape = (2245,)
+segments_pitches: shape = (2245, 12)
+segments_start: shape = (2245,)
+segments_timbre: shape = (2245, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTNIIP12A8C1359DA
+start_of_fade_out: 879.694
+tatums_confidence: shape = (1508,)
+tatums_start: shape = (1508,)
+tempo: 47.794
+time_signature: 1
+time_signature_confidence: 0.0
+title: Pli Selon Pli ("fold according to fold")/IV.  Improvisation sur Mallarmé III
+track_7digitalid: 3217733
+track_id: TRAMEQB128F42710BB
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17520
+artist_familiarity: 0.487693971591
+artist_hotttnesss: 0.341976803831
+artist_id: ARFERPC1187FB557F6
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: be28eefe-4995-400b-94d0-4f4edbf8d092
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Hacken Lee
+artist_playmeid: 63902
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: abb4e227b5a670a1e3a369dbbad5ece7
+bars_confidence: shape = (297,)
+bars_start: shape = (297,)
+beats_confidence: shape = (903,)
+beats_start: shape = (903,)
+danceability: 0.0
+duration: 424.82893
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.699
+loudness: -15.198
+mode: 1
+mode_confidence: 0.75
+release: De Xin Ying Shou Yan Chang Hui 2006
+release_7digitalid: 337157
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1443,)
+segments_loudness_max: shape = (1443,)
+segments_loudness_max_time: shape = (1443,)
+segments_loudness_start: shape = (1443,)
+segments_pitches: shape = (1443, 12)
+segments_start: shape = (1443,)
+segments_timbre: shape = (1443, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONTYQS12AB017F461
+start_of_fade_out: 424.829
+tatums_confidence: shape = (1806,)
+tatums_start: shape = (1806,)
+tempo: 124.984
+time_signature: 3
+time_signature_confidence: 0.989
+title: Zhi Xiang Ni hui Yi
+track_7digitalid: 3774385
+track_id: TRARGCC128F92F34B7
+year: 0

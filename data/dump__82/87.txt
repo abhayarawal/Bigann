@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 432034
+artist_familiarity: 0.514064276419
+artist_hotttnesss: 0.395627514317
+artist_id: AR00A6H1187FB5402A
+artist_latitude: 42.73383
+artist_location: Lansing, MI
+artist_longitude: -84.59334
+artist_mbid: 312c14d9-7897-4608-944a-c5b1c76ae682
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: The Meatmen
+artist_playmeid: -1
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: af0caabb0931428b6b25db5b2d632e3e
+bars_confidence: shape = (173,)
+bars_start: shape = (173,)
+beats_confidence: shape = (696,)
+beats_start: shape = (696,)
+danceability: 0.0
+duration: 216.81587
+end_of_fade_in: 0.142
+energy: 0.0
+key: 2
+key_confidence: 0.756
+loudness: -6.439
+mode: 1
+mode_confidence: 0.607
+release: Cover the Earth
+release_7digitalid: 581079
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (933,)
+segments_loudness_max: shape = (933,)
+segments_loudness_max_time: shape = (933,)
+segments_loudness_start: shape = (933,)
+segments_pitches: shape = (933, 12)
+segments_start: shape = (933,)
+segments_timbre: shape = (933, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOORXAG12AB01886FD
+start_of_fade_out: 216.816
+tatums_confidence: shape = (1391,)
+tatums_start: shape = (1391,)
+tempo: 193.361
+time_signature: 4
+time_signature_confidence: 1.0
+title: We Didn't Kill Each Other (But Didn't We Try) [Originally Performed by Dallas Wayne]
+track_7digitalid: 6437722
+track_id: TRBCKEE12903CB853A
+year: 0

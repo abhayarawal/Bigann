@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 822
+artist_familiarity: 0.877213745925
+artist_hotttnesss: 1.08250255673
+artist_id: ARRH63Y1187FB47783
+artist_latitude: nan
+artist_location: Atlanta, GA
+artist_longitude: nan
+artist_mbid: 164f0d73-1234-4e2c-8743-d77bf2191051
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Kanye West
+artist_playmeid: 843
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 6754f9843516448546891fea632f763c
+bars_confidence: shape = (79,)
+bars_start: shape = (79,)
+beats_confidence: shape = (333,)
+beats_start: shape = (333,)
+danceability: 0.0
+duration: 247.64036
+end_of_fade_in: 2.014
+energy: 0.0
+key: 7
+key_confidence: 0.569
+loudness: -5.597
+mode: 1
+mode_confidence: 0.578
+release: Late Orchestration
+release_7digitalid: 47750
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1033,)
+segments_loudness_max: shape = (1033,)
+segments_loudness_max_time: shape = (1033,)
+segments_loudness_start: shape = (1033,)
+segments_pitches: shape = (1033, 12)
+segments_start: shape = (1033,)
+segments_timbre: shape = (1033, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQMFYZ12A6D4F9C4A
+start_of_fade_out: 242.707
+tatums_confidence: shape = (999,)
+tatums_start: shape = (999,)
+tempo: 81.53
+time_signature: 4
+time_signature_confidence: 0.859
+title: Diamonds From Sierra Leone
+track_7digitalid: 511692
+track_id: TRBIEIZ128F148D778
+year: 2005

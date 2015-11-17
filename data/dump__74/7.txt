@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1448
+artist_familiarity: 0.817256939293
+artist_hotttnesss: 0.735208877747
+artist_id: ARH861H1187B9B799E
+artist_latitude: nan
+artist_location: Kingsland, AR
+artist_longitude: nan
+artist_mbid: d43d12a1-2dc9-4257-a2fd-0a3bb1081b86
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Johnny Cash
+artist_playmeid: 4281
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 1f873cb55519e284dfe437c555ad9261
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (325,)
+beats_start: shape = (325,)
+danceability: 0.0
+duration: 127.99955
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.613
+loudness: -21.916
+mode: 1
+mode_confidence: 0.554
+release: Austin Prison
+release_7digitalid: 623023
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (480,)
+segments_loudness_max: shape = (480,)
+segments_loudness_max_time: shape = (480,)
+segments_loudness_start: shape = (480,)
+segments_pitches: shape = (480, 12)
+segments_start: shape = (480,)
+segments_timbre: shape = (480, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOINVOE12AB0183171
+start_of_fade_out: 122.636
+tatums_confidence: shape = (650,)
+tatums_start: shape = (650,)
+tempo: 154.619
+time_signature: 4
+time_signature_confidence: 0.458
+title: Hank & Joe and Me
+track_7digitalid: 6916270
+track_id: TRAZHYX128F9311662
+year: 0

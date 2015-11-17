@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 108616
+artist_familiarity: 0.597537639542
+artist_hotttnesss: 0.241317031868
+artist_id: ARIN9J01187B98BCC0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e6fabd48-e890-4121-8c42-1ad09d3f239c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ramses
+artist_playmeid: 101590
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: cce84e0e815fecf850f39888bcdc3179
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (265,)
+beats_start: shape = (265,)
+danceability: 0.0
+duration: 214.41261
+end_of_fade_in: 3.117
+energy: 0.0
+key: 5
+key_confidence: 0.685
+loudness: -7.711
+mode: 0
+mode_confidence: 0.628
+release: Dans Ma Radio
+release_7digitalid: 138469
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (877,)
+segments_loudness_max: shape = (877,)
+segments_loudness_max_time: shape = (877,)
+segments_loudness_start: shape = (877,)
+segments_pitches: shape = (877, 12)
+segments_start: shape = (877,)
+segments_timbre: shape = (877, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWAJLC12A8AE46C42
+start_of_fade_out: 203.355
+tatums_confidence: shape = (1327,)
+tatums_start: shape = (1327,)
+tempo: 76.549
+time_signature: 3
+time_signature_confidence: 0.603
+title: Les Rats
+track_7digitalid: 1437570
+track_id: TRAVYTB128F4242404
+year: 0

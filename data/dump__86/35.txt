@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 109340
+artist_familiarity: 0.369373033158
+artist_hotttnesss: 0.35018273201
+artist_id: ARAA1VM1187B994013
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 90b5e47b-e432-47ab-99c1-97f85c88dc9a
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Daler Mehndi;Chitra
+artist_playmeid: 54057
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: b90f2b175cbddcd26af49478dcbca139
+bars_confidence: shape = (157,)
+bars_start: shape = (157,)
+beats_confidence: shape = (631,)
+beats_start: shape = (631,)
+danceability: 0.0
+duration: 363.80689
+end_of_fade_in: 0.595
+energy: 0.0
+key: 7
+key_confidence: 0.417
+loudness: -7.403
+mode: 0
+mode_confidence: 0.402
+release: Rang De Basanti
+release_7digitalid: 307980
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1820,)
+segments_loudness_max: shape = (1820,)
+segments_loudness_max_time: shape = (1820,)
+segments_loudness_start: shape = (1820,)
+segments_pitches: shape = (1820, 12)
+segments_start: shape = (1820,)
+segments_timbre: shape = (1820, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.363686043392
+song_id: SOBBFWL12A8C140087
+start_of_fade_out: 358.516
+tatums_confidence: shape = (2524,)
+tatums_start: shape = (2524,)
+tempo: 105.026
+time_signature: 4
+time_signature_confidence: 0.692
+title: Rang De Basanti
+track_7digitalid: 3472569
+track_id: TRBDQUF128F42AE54C
+year: 0

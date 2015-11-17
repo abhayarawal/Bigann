@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4060
+artist_familiarity: 0.52910279997
+artist_hotttnesss: 0.411364132146
+artist_id: ARNSTES1187FB4FC9B
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: f9f9432b-a93a-4650-8e2d-46e43ba92287
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Shinehead
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 8625e22c645c3679bcb9e53ab952f04e
+bars_confidence: shape = (609,)
+bars_start: shape = (609,)
+beats_confidence: shape = (609,)
+beats_start: shape = (609,)
+danceability: 0.0
+duration: 242.6771
+end_of_fade_in: 0.183
+energy: 0.0
+key: 10
+key_confidence: 0.577
+loudness: -23.202
+mode: 0
+mode_confidence: 0.475
+release: Unity
+release_7digitalid: 614873
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (938,)
+segments_loudness_max: shape = (938,)
+segments_loudness_max_time: shape = (938,)
+segments_loudness_start: shape = (938,)
+segments_pitches: shape = (938, 12)
+segments_start: shape = (938,)
+segments_timbre: shape = (938, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOBYAAS12A8C1442B1
+start_of_fade_out: 235.276
+tatums_confidence: shape = (1217,)
+tatums_start: shape = (1217,)
+tempo: 151.255
+time_signature: 1
+time_signature_confidence: 0.0
+title: Golden Touch (LP Version)
+track_7digitalid: 6835533
+track_id: TRBCUWM128F92FDD7E
+year: 1988

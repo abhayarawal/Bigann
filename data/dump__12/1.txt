@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 173858
+artist_familiarity: 0.441049960184
+artist_hotttnesss: 0.353000688284
+artist_id: ARSF4161187B9B449F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 52781c26-6a8c-4326-a825-64f7b2898bb0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Gone Jackals
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 97e809cdc9e628257ab15b84a0c9e4af
+bars_confidence: shape = (127,)
+bars_start: shape = (127,)
+beats_confidence: shape = (512,)
+beats_start: shape = (512,)
+danceability: 0.0
+duration: 248.18893
+end_of_fade_in: 0.293
+energy: 0.0
+key: 7
+key_confidence: 0.178
+loudness: -6.427
+mode: 1
+mode_confidence: 0.36
+release: Faith Healer
+release_7digitalid: 226614
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (696,)
+segments_loudness_max: shape = (696,)
+segments_loudness_max_time: shape = (696,)
+segments_loudness_start: shape = (696,)
+segments_pitches: shape = (696, 12)
+segments_start: shape = (696,)
+segments_timbre: shape = (696, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.436904602126
+song_id: SODGEOZ12A6D4FD9F3
+start_of_fade_out: 242.55
+tatums_confidence: shape = (1024,)
+tatums_start: shape = (1024,)
+tempo: 123.633
+time_signature: 4
+time_signature_confidence: 1.0
+title: Faith Healer (Digital Single)
+track_7digitalid: 2480349
+track_id: TRADYXV128F42166AD
+year: 0

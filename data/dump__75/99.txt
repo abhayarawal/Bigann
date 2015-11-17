@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 236233
+artist_familiarity: 0.512687131327
+artist_hotttnesss: 0.370628891638
+artist_id: ARLAEJO1187B98DB85
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 22d8f80a-6e2d-41cf-be36-104f5192ffcf
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: FU-Schnickens
+artist_playmeid: 8331
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: c39887820034685fff5a8167e29b23de
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (471,)
+beats_start: shape = (471,)
+danceability: 0.0
+duration: 313.80853
+end_of_fade_in: 7.163
+energy: 0.0
+key: 6
+key_confidence: 0.109
+loudness: -11.041
+mode: 1
+mode_confidence: 0.285
+release: Greatest Hits
+release_7digitalid: 302144
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1450,)
+segments_loudness_max: shape = (1450,)
+segments_loudness_max_time: shape = (1450,)
+segments_loudness_start: shape = (1450,)
+segments_pitches: shape = (1450, 12)
+segments_start: shape = (1450,)
+segments_timbre: shape = (1450, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.503381236206
+song_id: SOFAKTP12A8C13D296
+start_of_fade_out: 291.59
+tatums_confidence: shape = (941,)
+tatums_start: shape = (941,)
+tempo: 90.846
+time_signature: 4
+time_signature_confidence: 0.939
+title: Visions (20/20)
+track_7digitalid: 3415382
+track_id: TRAZYFD128F42A0A51
+year: 1994

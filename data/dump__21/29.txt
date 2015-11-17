@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9947
+artist_familiarity: 0.706827671304
+artist_hotttnesss: 0.416173064627
+artist_id: ARB29H41187B98F0EF
+artist_latitude: 41.88415
+artist_location: Chicago
+artist_longitude: -87.63241
+artist_mbid: 44fd61e1-119c-479e-8301-8ac5c77148bf
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Terry Callier
+artist_playmeid: 43725
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 5f0c54c92c793afec0b863ed57752960
+bars_confidence: shape = (125,)
+bars_start: shape = (125,)
+beats_confidence: shape = (397,)
+beats_start: shape = (397,)
+danceability: 0.0
+duration: 258.19383
+end_of_fade_in: 2.792
+energy: 0.0
+key: 7
+key_confidence: 0.675
+loudness: -19.933
+mode: 1
+mode_confidence: 0.642
+release: I Just Can't Help Myself
+release_7digitalid: 55301
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (640,)
+segments_loudness_max: shape = (640,)
+segments_loudness_max_time: shape = (640,)
+segments_loudness_start: shape = (640,)
+segments_pitches: shape = (640, 12)
+segments_start: shape = (640,)
+segments_timbre: shape = (640, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.360370582712
+song_id: SONFVHA12A6D4F932F
+start_of_fade_out: 252.36
+tatums_confidence: shape = (795,)
+tatums_start: shape = (795,)
+tempo: 92.927
+time_signature: 3
+time_signature_confidence: 1.0
+title: Satin Doll
+track_7digitalid: 574697
+track_id: TRAHFQG128F149892A
+year: 2007

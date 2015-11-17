@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17173
+artist_familiarity: 0.598332500362
+artist_hotttnesss: 0.320507918418
+artist_id: ARYSHWJ1187B9AD2D0
+artist_latitude: 49.26044
+artist_location: Vancouver, British Columbia, Cana
+artist_longitude: -123.11403
+artist_mbid: 7cd5a003-151b-4b26-9816-288c1fdb799e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Moist
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 3a5534b009b74a5d6a49a23e67cc3f4a
+bars_confidence: shape = (198,)
+bars_start: shape = (198,)
+beats_confidence: shape = (793,)
+beats_start: shape = (793,)
+danceability: 0.0
+duration: 360.98567
+end_of_fade_in: 8.684
+energy: 0.0
+key: 2
+key_confidence: 0.593
+loudness: -9.795
+mode: 1
+mode_confidence: 0.591
+release: Far Beyond The Endless
+release_7digitalid: 702132
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1850,)
+segments_loudness_max: shape = (1850,)
+segments_loudness_max_time: shape = (1850,)
+segments_loudness_start: shape = (1850,)
+segments_pitches: shape = (1850, 12)
+segments_start: shape = (1850,)
+segments_timbre: shape = (1850, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTJTQO12AB0183126
+start_of_fade_out: 360.986
+tatums_confidence: shape = (1587,)
+tatums_start: shape = (1587,)
+tempo: 131.98
+time_signature: 4
+time_signature_confidence: 0.0
+title: Far Beyond The Endless
+track_7digitalid: 7789147
+track_id: TRAZHMT12903C9D27E
+year: 2010

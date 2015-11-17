@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 488665
+artist_familiarity: 0.414449779633
+artist_hotttnesss: 0.277976997776
+artist_id: ARPKYQU1187B9A062F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c8c84f27-b5f7-4629-8eaa-a7f939b1efbf
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Danny Davis & The Boys
+artist_playmeid: 185900
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: a13834e426cd8f8e538125a1ec6e93d7
+bars_confidence: shape = (90,)
+bars_start: shape = (90,)
+beats_confidence: shape = (362,)
+beats_start: shape = (362,)
+danceability: 0.0
+duration: 169.19465
+end_of_fade_in: 0.485
+energy: 0.0
+key: 2
+key_confidence: 0.627
+loudness: -10.977
+mode: 1
+mode_confidence: 0.621
+release: Danny Davis & The Boys
+release_7digitalid: 819764
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (646,)
+segments_loudness_max: shape = (646,)
+segments_loudness_max_time: shape = (646,)
+segments_loudness_start: shape = (646,)
+segments_pitches: shape = (646, 12)
+segments_start: shape = (646,)
+segments_timbre: shape = (646, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVSGNS12AB0189315
+start_of_fade_out: 162.244
+tatums_confidence: shape = (723,)
+tatums_start: shape = (723,)
+tempo: 132.674
+time_signature: 4
+time_signature_confidence: 0.0
+title: The Golden Sea
+track_7digitalid: 9054165
+track_id: TRALZTM12903CE681C
+year: 0

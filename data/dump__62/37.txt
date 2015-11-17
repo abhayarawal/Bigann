@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 372
+artist_familiarity: 0.749217793049
+artist_hotttnesss: 0.544321914839
+artist_id: ARNHMFD1187FB3B3F6
+artist_latitude: 40.72023
+artist_location: Bayshore, Long Island, NY
+artist_longitude: -73.24922
+artist_mbid: a4dd0e77-83b8-4e92-89b7-effb0e47fd8c
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: LL Cool J
+artist_playmeid: 941
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 8af6345392e41db261d18fba715d9369
+bars_confidence: shape = (109,)
+bars_start: shape = (109,)
+beats_confidence: shape = (442,)
+beats_start: shape = (442,)
+danceability: 0.0
+duration: 270.10567
+end_of_fade_in: 0.124
+energy: 0.0
+key: 10
+key_confidence: 0.006
+loudness: -7.553
+mode: 1
+mode_confidence: 0.33
+release: Headsprung
+release_7digitalid: 1543
+sections_confidence: shape = (25,)
+sections_start: shape = (25,)
+segments_confidence: shape = (980,)
+segments_loudness_max: shape = (980,)
+segments_loudness_max_time: shape = (980,)
+segments_loudness_start: shape = (980,)
+segments_pitches: shape = (980, 12)
+segments_start: shape = (980,)
+segments_timbre: shape = (980, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBQRZJ12A6310E1F8
+start_of_fade_out: 257.701
+tatums_confidence: shape = (885,)
+tatums_start: shape = (885,)
+tempo: 99.914
+time_signature: 4
+time_signature_confidence: 1.0
+title: Headsprung
+track_7digitalid: 15690
+track_id: TRAVJHK128E078370B
+year: 2004

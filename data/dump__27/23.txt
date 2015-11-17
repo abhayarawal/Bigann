@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 204033
+artist_familiarity: 0.208373973144
+artist_hotttnesss: 0.0
+artist_id: ARFJXTS11F4C83E24E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c1cc23f6-4c10-4508-bf16-5c7e0e8c9ce3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Defect & Quixotic
+artist_playmeid: -1
+artist_terms: shape = (2,)
+artist_terms_freq: shape = (2,)
+artist_terms_weight: shape = (2,)
+audio_md5: b846fb768080850fbe84326d515ad4fd
+bars_confidence: shape = (111,)
+bars_start: shape = (111,)
+beats_confidence: shape = (451,)
+beats_start: shape = (451,)
+danceability: 0.0
+duration: 267.75465
+end_of_fade_in: 0.682
+energy: 0.0
+key: 9
+key_confidence: 0.0
+loudness: -5.136
+mode: 0
+mode_confidence: 0.095
+release: Return Of The DJ 5.5 Optimized
+release_7digitalid: 252213
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1282,)
+segments_loudness_max: shape = (1282,)
+segments_loudness_max_time: shape = (1282,)
+segments_loudness_start: shape = (1282,)
+segments_pitches: shape = (1282, 12)
+segments_start: shape = (1282,)
+segments_timbre: shape = (1282, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.435954144994
+song_id: SOADZHL12A8C13CE75
+start_of_fade_out: 250.346
+tatums_confidence: shape = (1804,)
+tatums_start: shape = (1804,)
+tempo: 102.008
+time_signature: 4
+time_signature_confidence: 0.506
+title: WristStraining Order
+track_7digitalid: 2855689
+track_id: TRAJCVA128F426C51D
+year: 2008

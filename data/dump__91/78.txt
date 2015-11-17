@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 517
+artist_familiarity: 0.843322339035
+artist_hotttnesss: 0.554564301721
+artist_id: ARG8DXO1187B9AF743
+artist_latitude: nan
+artist_location: Gainesville, FL
+artist_longitude: nan
+artist_mbid: e54e065f-0ce6-4779-9a9a-afd7b997471f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Less Than Jake
+artist_playmeid: 4116
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: b8d7145f62b1211c023210b6099e1da0
+bars_confidence: shape = (276,)
+bars_start: shape = (276,)
+beats_confidence: shape = (276,)
+beats_start: shape = (276,)
+danceability: 0.0
+duration: 125.28281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.635
+loudness: -4.285
+mode: 1
+mode_confidence: 0.534
+release: Losing Streak
+release_7digitalid: 864
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (484,)
+segments_loudness_max: shape = (484,)
+segments_loudness_max_time: shape = (484,)
+segments_loudness_start: shape = (484,)
+segments_pitches: shape = (484, 12)
+segments_start: shape = (484,)
+segments_timbre: shape = (484, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.640799204915
+song_id: SOPVOHK12A6310D84C
+start_of_fade_out: 125.283
+tatums_confidence: shape = (552,)
+tatums_start: shape = (552,)
+tempo: 133.05
+time_signature: 1
+time_signature_confidence: 0.0
+title: Automatic
+track_7digitalid: 7613
+track_id: TRBFRFR128E0781C86
+year: 1996

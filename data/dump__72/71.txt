@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 70998
+artist_familiarity: 0.50677396849
+artist_hotttnesss: 0.37976178373
+artist_id: AR4JY8V1187B98A62F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6e5477fa-8946-4a33-89fe-9f16c0568d12
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ann Hampton Callaway;Laura Benanti;Michael Gruber;Everett Bradley
+artist_playmeid: 15801
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 268f8d6619e5d82e81a43ab78da9d7de
+bars_confidence: shape = (227,)
+bars_start: shape = (227,)
+beats_confidence: shape = (684,)
+beats_start: shape = (684,)
+danceability: 0.0
+duration: 217.73016
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.177
+loudness: -12.183
+mode: 0
+mode_confidence: 0.385
+release: Swing - Original Broadway Cast Recording
+release_7digitalid: 283031
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (715,)
+segments_loudness_max: shape = (715,)
+segments_loudness_max_time: shape = (715,)
+segments_loudness_start: shape = (715,)
+segments_pitches: shape = (715, 12)
+segments_start: shape = (715,)
+segments_timbre: shape = (715, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAPYOS12A8C133890
+start_of_fade_out: 208.475
+tatums_confidence: shape = (684,)
+tatums_start: shape = (684,)
+tempo: 194.039
+time_signature: 3
+time_signature_confidence: 0.539
+title: Stompin' at the Savoy
+track_7digitalid: 3159119
+track_id: TRAYWVM128F426520A
+year: 0

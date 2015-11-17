@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 29233
+artist_familiarity: 0.608824805464
+artist_hotttnesss: 0.42865098879
+artist_id: ARONPP01187B995FB5
+artist_latitude: 52.88356
+artist_location: England
+artist_longitude: -1.97406
+artist_mbid: 9a4c746f-8ae7-47a1-8292-937ec6792e7a
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Cockney Rejects
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 2b987fdddd074b932b1d2779e40e79df
+bars_confidence: shape = (62,)
+bars_start: shape = (62,)
+beats_confidence: shape = (251,)
+beats_start: shape = (251,)
+danceability: 0.0
+duration: 182.25587
+end_of_fade_in: 0.485
+energy: 0.0
+key: 2
+key_confidence: 0.582
+loudness: -3.132
+mode: 1
+mode_confidence: 0.589
+release: Unforgiven
+release_7digitalid: 612184
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (579,)
+segments_loudness_max: shape = (579,)
+segments_loudness_max_time: shape = (579,)
+segments_loudness_start: shape = (579,)
+segments_pitches: shape = (579, 12)
+segments_start: shape = (579,)
+segments_timbre: shape = (579, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZFOCS12A8C142CA3
+start_of_fade_out: 174.678
+tatums_confidence: shape = (502,)
+tatums_start: shape = (502,)
+tempo: 84.59
+time_signature: 4
+time_signature_confidence: 0.0
+title: Big Time Charlie
+track_7digitalid: 6805698
+track_id: TRAGUMU128F92F6963
+year: 2007

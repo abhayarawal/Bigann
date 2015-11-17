@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 108900
+artist_familiarity: 0.492377179649
+artist_hotttnesss: 0.303136477945
+artist_id: ARY7ERS1187B9903AE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d2efd2a4-4251-4260-8aaf-2ba6910713f7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mark Ashley
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: aeb4c46aacdfd44492443986417b3430
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (315,)
+beats_start: shape = (315,)
+danceability: 0.0
+duration: 190.77179
+end_of_fade_in: 0.496
+energy: 0.0
+key: 11
+key_confidence: 0.203
+loudness: -4.336
+mode: 0
+mode_confidence: 0.534
+release: Heartbreak Boulevard
+release_7digitalid: 337100
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1029,)
+segments_loudness_max: shape = (1029,)
+segments_loudness_max_time: shape = (1029,)
+segments_loudness_start: shape = (1029,)
+segments_pitches: shape = (1029, 12)
+segments_start: shape = (1029,)
+segments_timbre: shape = (1029, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOONKCD12AB018353D
+start_of_fade_out: 182.764
+tatums_confidence: shape = (1261,)
+tatums_start: shape = (1261,)
+tempo: 99.996
+time_signature: 4
+time_signature_confidence: 0.0
+title: Operation Love
+track_7digitalid: 3773806
+track_id: TRAQFHK128F92F3274
+year: 0

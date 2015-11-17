@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5633
+artist_familiarity: 0.764287182498
+artist_hotttnesss: 0.57629465114
+artist_id: ARKZXSQ1187B9AC9F3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9a58fda3-f4ed-4080-a3a5-f457aac9fcdd
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Joy Division
+artist_playmeid: 831
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 1a95de95d1afb623e9a3ddcc2675cdb0
+bars_confidence: shape = (119,)
+bars_start: shape = (119,)
+beats_confidence: shape = (480,)
+beats_start: shape = (480,)
+danceability: 0.0
+duration: 245.34159
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -6.521
+mode: 0
+mode_confidence: 0.091
+release: Still [Collector's Edition]
+release_7digitalid: 343322
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (747,)
+segments_loudness_max: shape = (747,)
+segments_loudness_max_time: shape = (747,)
+segments_loudness_start: shape = (747,)
+segments_pitches: shape = (747, 12)
+segments_start: shape = (747,)
+segments_timbre: shape = (747, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.400039656955
+song_id: SOEEANS12AB0184A71
+start_of_fade_out: 245.342
+tatums_confidence: shape = (959,)
+tatums_start: shape = (959,)
+tempo: 117.339
+time_signature: 4
+time_signature_confidence: 0.57
+title: The Sound Of Music - [High Wycombe Town Hall Live 13 July 1979] (Sound Check)
+track_7digitalid: 3845243
+track_id: TRAUDYH128F9301EF1
+year: 0

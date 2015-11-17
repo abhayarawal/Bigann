@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 49585
+artist_familiarity: 0.500388858998
+artist_hotttnesss: 0.355625946218
+artist_id: ARGS39X1187B991939
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0ab89ff8-f54e-4459-9aaf-ac48ca42d424
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Harald Kloser
+artist_playmeid: -1
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: f4ae7492154c9bcdd4c513c6f85229e1
+bars_confidence: shape = (71,)
+bars_start: shape = (71,)
+beats_confidence: shape = (234,)
+beats_start: shape = (234,)
+danceability: 0.0
+duration: 178.1024
+end_of_fade_in: 5.01
+energy: 0.0
+key: 6
+key_confidence: 0.674
+loudness: -18.765
+mode: 0
+mode_confidence: 0.762
+release: The Thirteenth Floor
+release_7digitalid: 204442
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (303,)
+segments_loudness_max: shape = (303,)
+segments_loudness_max_time: shape = (303,)
+segments_loudness_start: shape = (303,)
+segments_pitches: shape = (303, 12)
+segments_start: shape = (303,)
+segments_timbre: shape = (303, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.372530039366
+song_id: SOMPRSK12A8C13993E
+start_of_fade_out: 159.875
+tatums_confidence: shape = (468,)
+tatums_start: shape = (468,)
+tempo: 84.269
+time_signature: 3
+time_signature_confidence: 0.681
+title: Jane's Theme
+track_7digitalid: 2218902
+track_id: TRAZIAS128F4260D74
+year: 0

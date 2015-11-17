@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 70716
+artist_familiarity: 0.389179333327
+artist_hotttnesss: 0.0
+artist_id: AROP6331187FB398F7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d3bd50e3-177c-4719-a407-20b780d104db
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Festival
+artist_playmeid: 59932
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: efd3aaaa40582f1fcc53973d43748cf3
+bars_confidence: shape = (194,)
+bars_start: shape = (194,)
+beats_confidence: shape = (583,)
+beats_start: shape = (583,)
+danceability: 0.0
+duration: 281.57342
+end_of_fade_in: 0.223
+energy: 0.0
+key: 6
+key_confidence: 0.375
+loudness: -14.296
+mode: 0
+mode_confidence: 0.235
+release: Resurrection
+release_7digitalid: 206449
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1415,)
+segments_loudness_max: shape = (1415,)
+segments_loudness_max_time: shape = (1415,)
+segments_loudness_start: shape = (1415,)
+segments_pitches: shape = (1415, 12)
+segments_start: shape = (1415,)
+segments_timbre: shape = (1415, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.319565986883
+song_id: SOJOBPR12A8C13A022
+start_of_fade_out: 269.508
+tatums_confidence: shape = (1165,)
+tatums_start: shape = (1165,)
+tempo: 125.778
+time_signature: 3
+time_signature_confidence: 1.0
+title: Festival Resurrection (Outro)
+track_7digitalid: 2239400
+track_id: TRAXJWH128F42654DC
+year: 0

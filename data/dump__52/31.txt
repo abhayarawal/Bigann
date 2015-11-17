@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 549126
+artist_familiarity: 0.121187298345
+artist_hotttnesss: 0.0
+artist_id: ARLJK1O1187B9B0FC4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8e64d20f-468e-4b26-834e-ade4ab9667e4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Knightsbridge Strings
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: db8617b9680f692fb9b4d79915fc3c55
+bars_confidence: shape = (39,)
+bars_start: shape = (39,)
+beats_confidence: shape = (160,)
+beats_start: shape = (160,)
+danceability: 0.0
+duration: 132.44036
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.773
+loudness: -9.923
+mode: 1
+mode_confidence: 0.728
+release: The Strings Sing & The Strings Swing
+release_7digitalid: 795012
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (334,)
+segments_loudness_max: shape = (334,)
+segments_loudness_max_time: shape = (334,)
+segments_loudness_start: shape = (334,)
+segments_pitches: shape = (334, 12)
+segments_start: shape = (334,)
+segments_timbre: shape = (334, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTTPDC12AB018B6D1
+start_of_fade_out: 121.713
+tatums_confidence: shape = (481,)
+tatums_start: shape = (481,)
+tempo: 75.064
+time_signature: 4
+time_signature_confidence: 0.014
+title: The Little White Cloud That Cried
+track_7digitalid: 8791839
+track_id: TRARVSQ12903CA6A4B
+year: 0

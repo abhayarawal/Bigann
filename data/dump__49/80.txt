@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 86884
+artist_familiarity: 0.399889942837
+artist_hotttnesss: 0.27639457641
+artist_id: ARGCTOE122988F0925
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sly Dunbar
+artist_playmeid: -1
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: 67f164a730a8d1a713f6df2522bee614
+bars_confidence: shape = (332,)
+bars_start: shape = (332,)
+beats_confidence: shape = (332,)
+beats_start: shape = (332,)
+danceability: 0.0
+duration: 225.07057
+end_of_fade_in: 0.585
+energy: 0.0
+key: 6
+key_confidence: 0.547
+loudness: -14.941
+mode: 0
+mode_confidence: 0.458
+release: Cassava Piece Riddim
+release_7digitalid: 249631
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (981,)
+segments_loudness_max: shape = (981,)
+segments_loudness_max_time: shape = (981,)
+segments_loudness_start: shape = (981,)
+segments_pitches: shape = (981, 12)
+segments_start: shape = (981,)
+segments_timbre: shape = (981, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SOSPUHC12A58A7C54E
+start_of_fade_out: 217.554
+tatums_confidence: shape = (996,)
+tatums_start: shape = (996,)
+tempo: 88.489
+time_signature: 1
+time_signature_confidence: 1.0
+title: Casava Piece Riddim
+track_7digitalid: 2949320
+track_id: TRAQZAA128F4281E5F
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 158801
+artist_familiarity: 0.609817354147
+artist_hotttnesss: 0.315511340858
+artist_id: ARF9Z4Q1187FB5B40B
+artist_latitude: nan
+artist_location: NY - New York City
+artist_longitude: nan
+artist_mbid: de77a8ac-c575-4a5d-93c0-eb67bcfc93b1
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Wiyos
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 8171d418504e3261de5d03a489e5a95b
+bars_confidence: shape = (592,)
+bars_start: shape = (592,)
+beats_confidence: shape = (592,)
+beats_start: shape = (592,)
+danceability: 0.0
+duration: 186.30485
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.472
+loudness: -9.866
+mode: 1
+mode_confidence: 0.487
+release: Broken Land Bell
+release_7digitalid: 730449
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (899,)
+segments_loudness_max: shape = (899,)
+segments_loudness_max_time: shape = (899,)
+segments_loudness_start: shape = (899,)
+segments_pitches: shape = (899, 12)
+segments_start: shape = (899,)
+segments_timbre: shape = (899, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOSAXES12AC3DF68E7
+start_of_fade_out: 182.753
+tatums_confidence: shape = (1183,)
+tatums_start: shape = (1183,)
+tempo: 192.831
+time_signature: 1
+time_signature_confidence: 0.215
+title: Dontchaletmecatchya
+track_7digitalid: 8091994
+track_id: TRAUYRJ12903CE6C00
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1448
+artist_familiarity: 0.817256292502
+artist_hotttnesss: 0.735208877747
+artist_id: ARH861H1187B9B799E
+artist_latitude: nan
+artist_location: Kingsland, AR
+artist_longitude: nan
+artist_mbid: d43d12a1-2dc9-4257-a2fd-0a3bb1081b86
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Johnny Cash
+artist_playmeid: 4281
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 1db4d0f87ddbf33be31267e2262956fe
+bars_confidence: shape = (53,)
+bars_start: shape = (53,)
+beats_confidence: shape = (216,)
+beats_start: shape = (216,)
+danceability: 0.0
+duration: 112.95302
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.086
+loudness: -7.087
+mode: 1
+mode_confidence: 0.302
+release: The Legend
+release_7digitalid: 785786
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (390,)
+segments_loudness_max: shape = (390,)
+segments_loudness_max_time: shape = (390,)
+segments_loudness_start: shape = (390,)
+segments_pitches: shape = (390, 12)
+segments_start: shape = (390,)
+segments_timbre: shape = (390, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.326478237503
+song_id: SOHHGUG12A6D4F4E77
+start_of_fade_out: 105.03
+tatums_confidence: shape = (431,)
+tatums_start: shape = (431,)
+tempo: 118.041
+time_signature: 4
+time_signature_confidence: 0.945
+title: I Got Stripes (Live)
+track_7digitalid: 8694623
+track_id: TRACJKR12903D02C75
+year: 2006

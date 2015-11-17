@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19047
+artist_familiarity: 0.399253389957
+artist_hotttnesss: 0.281995108835
+artist_id: AR72THZ1187B9974EF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1ac1deee-861c-49f2-8cec-32d8da31ef18
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Andy Russell
+artist_playmeid: 119556
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 31bc6b0e78bd4e830e9a73122d8d3763
+bars_confidence: shape = (14,)
+bars_start: shape = (14,)
+beats_confidence: shape = (115,)
+beats_start: shape = (115,)
+danceability: 0.0
+duration: 188.682
+end_of_fade_in: 0.392
+energy: 0.0
+key: 7
+key_confidence: 0.69
+loudness: -15.413
+mode: 1
+mode_confidence: 0.597
+release: Great Gentlemen Of Song / Spotlight On Andy Russell
+release_7digitalid: 27703
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (520,)
+segments_loudness_max: shape = (520,)
+segments_loudness_max_time: shape = (520,)
+segments_loudness_start: shape = (520,)
+segments_pitches: shape = (520, 12)
+segments_start: shape = (520,)
+segments_timbre: shape = (520, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUKQFT12A58A7B3CA
+start_of_fade_out: 183.71
+tatums_confidence: shape = (460,)
+tatums_start: shape = (460,)
+tempo: 36.773
+time_signature: 4
+time_signature_confidence: 0.0
+title: Easter Parade (1992 Digital Remaster)
+track_7digitalid: 306576
+track_id: TRAIBHW128F146721B
+year: 0

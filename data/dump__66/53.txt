@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 54504
+artist_familiarity: 0.5557649996
+artist_hotttnesss: 0.376514231215
+artist_id: ARXZIHJ1187B9A4ED9
+artist_latitude: 41.94508
+artist_location: Attleboro, MA
+artist_longitude: -71.28109
+artist_mbid: b84dfb67-c437-4ccc-b512-1073fd4612eb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ray Conniff
+artist_playmeid: 8531
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 453ab04f4a8c76e97b22b9b0e3c14c62
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (407,)
+beats_start: shape = (407,)
+danceability: 0.0
+duration: 172.30322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.407
+loudness: -13.173
+mode: 1
+mode_confidence: 0.459
+release: Conniff Meets Butterfield
+release_7digitalid: 735639
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (528,)
+segments_loudness_max: shape = (528,)
+segments_loudness_max_time: shape = (528,)
+segments_loudness_start: shape = (528,)
+segments_pitches: shape = (528, 12)
+segments_start: shape = (528,)
+segments_timbre: shape = (528, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLBBCS12AC468D6D0
+start_of_fade_out: 163.799
+tatums_confidence: shape = (815,)
+tatums_start: shape = (815,)
+tempo: 148.929
+time_signature: 4
+time_signature_confidence: 0.367
+title: Something To Remember You By
+track_7digitalid: 8150112
+track_id: TRAWRTM12903CF4EF4
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4706
+artist_familiarity: 0.670615396166
+artist_hotttnesss: 0.503151605985
+artist_id: ARXPE571187FB4AFD0
+artist_latitude: nan
+artist_location: Chicago, IL
+artist_longitude: nan
+artist_mbid: 9cd9232e-7a3e-4eb9-8043-ee05c1e396ec
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Rickie Lee Jones
+artist_playmeid: 39140
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: c20dbb4027fdb51edea0dbe9bd73d01d
+bars_confidence: shape = (266,)
+bars_start: shape = (266,)
+beats_confidence: shape = (266,)
+beats_start: shape = (266,)
+danceability: 0.0
+duration: 221.12608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 1.0
+loudness: -21.978
+mode: 1
+mode_confidence: 0.851
+release: Naked Songs Live And Acoustic
+release_7digitalid: 762361
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (484,)
+segments_loudness_max: shape = (484,)
+segments_loudness_max_time: shape = (484,)
+segments_loudness_start: shape = (484,)
+segments_pitches: shape = (484, 12)
+segments_start: shape = (484,)
+segments_timbre: shape = (484, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SOUOZQB12AB0186284
+start_of_fade_out: 211.302
+tatums_confidence: shape = (531,)
+tatums_start: shape = (531,)
+tempo: 70.331
+time_signature: 1
+time_signature_confidence: 0.863
+title: Skeletons (Live Acoustic Version)
+track_7digitalid: 8439703
+track_id: TRABYOS12903CC4A81
+year: 0

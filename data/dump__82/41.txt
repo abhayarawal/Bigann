@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21192
+artist_familiarity: 0.613464932135
+artist_hotttnesss: 0.412115553459
+artist_id: ARQ3VBJ1187FB3FE55
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9af7a998-33f9-4900-9396-9b5e1862298d
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Dario Marianelli
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 3a6e8e342693e0ac8d0b2c6b6867c20b
+bars_confidence: shape = (167,)
+bars_start: shape = (167,)
+beats_confidence: shape = (670,)
+beats_start: shape = (670,)
+danceability: 0.0
+duration: 262.94812
+end_of_fade_in: 0.555
+energy: 0.0
+key: 7
+key_confidence: 0.876
+loudness: -25.369
+mode: 0
+mode_confidence: 0.792
+release: Everybody's Fine
+release_7digitalid: 694058
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (390,)
+segments_loudness_max: shape = (390,)
+segments_loudness_max_time: shape = (390,)
+segments_loudness_start: shape = (390,)
+segments_pitches: shape = (390, 12)
+segments_start: shape = (390,)
+segments_timbre: shape = (390, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SOWLGVU12AC3DFA925
+start_of_fade_out: 243.026
+tatums_confidence: shape = (670,)
+tatums_start: shape = (670,)
+tempo: 162.487
+time_signature: 4
+time_signature_confidence: 0.589
+title: Why Did You All Lie to Me?
+track_7digitalid: 7705085
+track_id: TRBCGKB12903CFF680
+year: 2009

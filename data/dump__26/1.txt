@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 205160
+artist_familiarity: 0.267576321133
+artist_hotttnesss: 0.0
+artist_id: ARRZFUG1187B98AD42
+artist_latitude: 37.41402
+artist_location: Lynchburg, VA
+artist_longitude: -79.14284
+artist_mbid: 46f3193e-5ce4-4faa-b12c-09608d38d928
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ray Pillow
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 3958b6fe48161ff03672de2b5b270771
+bars_confidence: shape = (50,)
+bars_start: shape = (50,)
+beats_confidence: shape = (210,)
+beats_start: shape = (210,)
+danceability: 0.0
+duration: 129.12281
+end_of_fade_in: 0.363
+energy: 0.0
+key: 9
+key_confidence: 0.716
+loudness: -13.404
+mode: 1
+mode_confidence: 0.646
+release: Country And Western - Volume 1
+release_7digitalid: 260566
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (369,)
+segments_loudness_max: shape = (369,)
+segments_loudness_max_time: shape = (369,)
+segments_loudness_start: shape = (369,)
+segments_pitches: shape = (369, 12)
+segments_start: shape = (369,)
+segments_timbre: shape = (369, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SOBGACN12A8C13E14D
+start_of_fade_out: 119.74
+tatums_confidence: shape = (420,)
+tatums_start: shape = (420,)
+tempo: 98.015
+time_signature: 4
+time_signature_confidence: 0.083
+title: We're Together Again
+track_7digitalid: 2872464
+track_id: TRAISVG128F42706A4
+year: 1998

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15749
+artist_familiarity: 0.493926144686
+artist_hotttnesss: 0.319626775917
+artist_id: ARKC83D1187B9AB367
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c55b50e3-5f4e-461d-bf29-79d2c2c364c5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mark Lowry
+artist_playmeid: 62535
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 08fd41dac4cbb3d1e4f9c444fe7339ea
+bars_confidence: shape = (373,)
+bars_start: shape = (373,)
+beats_confidence: shape = (1136,)
+beats_start: shape = (1136,)
+danceability: 0.0
+duration: 553.27302
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.0
+loudness: -15.37
+mode: 0
+mode_confidence: 0.325
+release: The Last Word
+release_7digitalid: 665930
+sections_confidence: shape = (22,)
+sections_start: shape = (22,)
+segments_confidence: shape = (1889,)
+segments_loudness_max: shape = (1889,)
+segments_loudness_max_time: shape = (1889,)
+segments_loudness_start: shape = (1889,)
+segments_pitches: shape = (1889, 12)
+segments_start: shape = (1889,)
+segments_timbre: shape = (1889, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOKKIXX12AB01864E7
+start_of_fade_out: 551.143
+tatums_confidence: shape = (2271,)
+tatums_start: shape = (2271,)
+tempo: 122.166
+time_signature: 3
+time_signature_confidence: 0.864
+title: All Mama Ever Wanted  (Album)
+track_7digitalid: 7379265
+track_id: TRALLGN12903CB0369
+year: 0

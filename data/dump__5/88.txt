@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11288
+artist_familiarity: 0.620041694718
+artist_hotttnesss: 0.364975595396
+artist_id: ARS6HDE1187B99CA29
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 47cd459b-06c1-462f-8fdd-27721a03ef68
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Joe Lynn Turner
+artist_playmeid: 74331
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 1fad02fcaefca6979363894414676b7b
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (354,)
+beats_start: shape = (354,)
+danceability: 0.0
+duration: 247.7971
+end_of_fade_in: 3.117
+energy: 0.0
+key: 5
+key_confidence: 0.27
+loudness: -12.649
+mode: 1
+mode_confidence: 0.384
+release: Rescue You
+release_7digitalid: 288774
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (794,)
+segments_loudness_max: shape = (794,)
+segments_loudness_max_time: shape = (794,)
+segments_loudness_start: shape = (794,)
+segments_pitches: shape = (794, 12)
+segments_start: shape = (794,)
+segments_timbre: shape = (794, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.427446571488
+song_id: SOHWDHV12A8C134426
+start_of_fade_out: 232.409
+tatums_confidence: shape = (1416,)
+tatums_start: shape = (1416,)
+tempo: 86.665
+time_signature: 4
+time_signature_confidence: 0.141
+title: Soul Searcher
+track_7digitalid: 3240097
+track_id: TRABYND128F42765BB
+year: 0

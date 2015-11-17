@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1566
+artist_familiarity: 0.790922847956
+artist_hotttnesss: 0.601184941794
+artist_id: ARR9XGB1187B9912E6
+artist_latitude: nan
+artist_location: Philadelphia, PA
+artist_longitude: nan
+artist_mbid: b42eca0f-9381-43db-badb-1cba080a7dc2
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Boyz II Men
+artist_playmeid: 2800
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 220a6571b03c92b68f9e429c2d59fa1b
+bars_confidence: shape = (31,)
+bars_start: shape = (31,)
+beats_confidence: shape = (229,)
+beats_start: shape = (229,)
+danceability: 0.0
+duration: 151.58812
+end_of_fade_in: 0.27
+energy: 0.0
+key: 2
+key_confidence: 0.221
+loudness: -10.338
+mode: 1
+mode_confidence: 0.58
+release: Love
+release_7digitalid: 639437
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (446,)
+segments_loudness_max: shape = (446,)
+segments_loudness_max_time: shape = (446,)
+segments_loudness_start: shape = (446,)
+segments_pitches: shape = (446, 12)
+segments_start: shape = (446,)
+segments_timbre: shape = (446, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.583566125656
+song_id: SOCYRJH12AB0181091
+start_of_fade_out: 142.362
+tatums_confidence: shape = (458,)
+tatums_start: shape = (458,)
+tempo: 94.921
+time_signature: 7
+time_signature_confidence: 0.579
+title: In My Life
+track_7digitalid: 7098552
+track_id: TRASIVA128F933DB52
+year: 2009

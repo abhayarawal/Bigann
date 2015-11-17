@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 297174
+artist_familiarity: 0.694983409073
+artist_hotttnesss: 0.429780285791
+artist_id: AR189B91187B9B8D9C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 979d01bc-a4da-4c80-8cc1-be40bd35cd5e
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Gustavo Cerati
+artist_playmeid: 14290
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 55f143102fed79660b1239f7bb26a09c
+bars_confidence: shape = (265,)
+bars_start: shape = (265,)
+beats_confidence: shape = (1064,)
+beats_start: shape = (1064,)
+danceability: 0.0
+duration: 333.19138
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.775
+loudness: -6.996
+mode: 1
+mode_confidence: 0.594
+release: Ahí Vamos
+release_7digitalid: 518086
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (952,)
+segments_loudness_max: shape = (952,)
+segments_loudness_max_time: shape = (952,)
+segments_loudness_start: shape = (952,)
+segments_pitches: shape = (952, 12)
+segments_start: shape = (952,)
+segments_timbre: shape = (952, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.561019409564
+song_id: SOQPTOJ12AB017DE93
+start_of_fade_out: 316.534
+tatums_confidence: shape = (2129,)
+tatums_start: shape = (2129,)
+tempo: 196.429
+time_signature: 4
+time_signature_confidence: 0.66
+title: Médium
+track_7digitalid: 5736168
+track_id: TRBDDMU128F9350474
+year: 2006

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 78829
+artist_familiarity: 0.480062114456
+artist_hotttnesss: 0.330212698901
+artist_id: ARYKXSD1187B9A4DAD
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f57585d3-5356-4e8d-85cc-5f2a14a0cba2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: David Hudson
+artist_playmeid: 75286
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: f5aa32ac9477ed57ecf6eaf0d3c471c8
+bars_confidence: shape = (205,)
+bars_start: shape = (205,)
+beats_confidence: shape = (825,)
+beats_start: shape = (825,)
+danceability: 0.0
+duration: 320.91383
+end_of_fade_in: 0.182
+energy: 0.0
+key: 4
+key_confidence: 0.397
+loudness: -13.462
+mode: 1
+mode_confidence: 0.568
+release: Primal Elegance One
+release_7digitalid: 448675
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1042,)
+segments_loudness_max: shape = (1042,)
+segments_loudness_max_time: shape = (1042,)
+segments_loudness_start: shape = (1042,)
+segments_pitches: shape = (1042, 12)
+segments_start: shape = (1042,)
+segments_timbre: shape = (1042, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJZZHD12AB01821A2
+start_of_fade_out: 313.075
+tatums_confidence: shape = (1649,)
+tatums_start: shape = (1649,)
+tempo: 158.321
+time_signature: 4
+time_signature_confidence: 0.591
+title: Arrival
+track_7digitalid: 4980652
+track_id: TRABQDK128F9308F8E
+year: 0

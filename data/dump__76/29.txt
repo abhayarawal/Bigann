@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 121911
+artist_familiarity: 0.511743664914
+artist_hotttnesss: 0.414631368509
+artist_id: ARM4WGN1187FB3C746
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 75c78621-0f75-4765-bc69-5f02d8a8a850
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kyle Eastwood
+artist_playmeid: 19824
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: d081fc670f9e03326206423837173cb9
+bars_confidence: shape = (83,)
+bars_start: shape = (83,)
+beats_confidence: shape = (336,)
+beats_start: shape = (336,)
+danceability: 0.0
+duration: 207.20281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.666
+loudness: -14.233
+mode: 0
+mode_confidence: 0.479
+release: Now
+release_7digitalid: 224754
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (925,)
+segments_loudness_max: shape = (925,)
+segments_loudness_max_time: shape = (925,)
+segments_loudness_start: shape = (925,)
+segments_pitches: shape = (925, 12)
+segments_start: shape = (925,)
+segments_timbre: shape = (925, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3759843015
+song_id: SOJAQGB12A58A7AA08
+start_of_fade_out: 191.977
+tatums_confidence: shape = (1341,)
+tatums_start: shape = (1341,)
+tempo: 100.175
+time_signature: 4
+time_signature_confidence: 0.0
+title: How Y' All Doin'
+track_7digitalid: 2457544
+track_id: TRBAAUV128F429553C
+year: 2006

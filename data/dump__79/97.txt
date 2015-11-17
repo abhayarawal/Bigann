@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 187427
+artist_familiarity: 0.410082039862
+artist_hotttnesss: 0.278865040501
+artist_id: ARBE5BJ1187B98BCFD
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9b1236b0-f3d7-4b64-88d3-43dff9bfff5a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Chico Hamilton Quintet
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: ded3f420926a7b12576d152005bc35f5
+bars_confidence: shape = (213,)
+bars_start: shape = (213,)
+beats_confidence: shape = (854,)
+beats_start: shape = (854,)
+danceability: 0.0
+duration: 316.73424
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.383
+loudness: -27.336
+mode: 1
+mode_confidence: 0.072
+release: An Introduction To Chico Hamilton Vol 3
+release_7digitalid: 656735
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1317,)
+segments_loudness_max: shape = (1317,)
+segments_loudness_max_time: shape = (1317,)
+segments_loudness_start: shape = (1317,)
+segments_pitches: shape = (1317, 12)
+segments_start: shape = (1317,)
+segments_timbre: shape = (1317, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOLFCRY12A8C13F38F
+start_of_fade_out: 290.395
+tatums_confidence: shape = (1708,)
+tatums_start: shape = (1708,)
+tempo: 165.476
+time_signature: 4
+time_signature_confidence: 0.108
+title: Skinned Strings
+track_7digitalid: 7275200
+track_id: TRBBJPY128F92F31E0
+year: 0

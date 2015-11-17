@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 173970
+artist_familiarity: 0.555985052699
+artist_hotttnesss: 0.326848818026
+artist_id: ARBZAIL1187FB5B1C8
+artist_latitude: 42.31256
+artist_location: Boston, MA
+artist_longitude: -71.08868
+artist_mbid: 90e17526-597c-4d91-b47f-40a85be1860a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bob Margolin
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 355b3e206a8f1f91cce310b1328a42f1
+bars_confidence: shape = (358,)
+bars_start: shape = (358,)
+beats_confidence: shape = (358,)
+beats_start: shape = (358,)
+danceability: 0.0
+duration: 204.09424
+end_of_fade_in: 0.264
+energy: 0.0
+key: 10
+key_confidence: 0.223
+loudness: -8.091
+mode: 1
+mode_confidence: 0.288
+release: Hold Me To It
+release_7digitalid: 226851
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (740,)
+segments_loudness_max: shape = (740,)
+segments_loudness_max_time: shape = (740,)
+segments_loudness_start: shape = (740,)
+segments_pitches: shape = (740, 12)
+segments_start: shape = (740,)
+segments_timbre: shape = (740, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.484562529968
+song_id: SOMMFDF12A58A7DB85
+start_of_fade_out: 197.097
+tatums_confidence: shape = (1075,)
+tatums_start: shape = (1075,)
+tempo: 108.496
+time_signature: 1
+time_signature_confidence: 0.0
+title: Lost Again
+track_7digitalid: 2497451
+track_id: TRAPGNA128F421A89E
+year: 0

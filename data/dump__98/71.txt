@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 28742
+artist_familiarity: 0.57092154033
+artist_hotttnesss: 0.346704391851
+artist_id: ARHY3JM1187B9B9DFB
+artist_latitude: nan
+artist_location: California - LA
+artist_longitude: nan
+artist_mbid: c74567f2-cf85-4aba-b795-1786665b843e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Monty
+artist_playmeid: 172946
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: fa26d1333fab48e4f82b249a5b1aee8f
+bars_confidence: shape = (107,)
+bars_start: shape = (107,)
+beats_confidence: shape = (433,)
+beats_start: shape = (433,)
+danceability: 0.0
+duration: 195.60444
+end_of_fade_in: 0.398
+energy: 0.0
+key: 2
+key_confidence: 0.792
+loudness: -9.675
+mode: 0
+mode_confidence: 0.712
+release: Pour La Vie
+release_7digitalid: 271048
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (649,)
+segments_loudness_max: shape = (649,)
+segments_loudness_max_time: shape = (649,)
+segments_loudness_start: shape = (649,)
+segments_pitches: shape = (649, 12)
+segments_start: shape = (649,)
+segments_timbre: shape = (649, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGPECU12A6D4FAF78
+start_of_fade_out: 186.131
+tatums_confidence: shape = (866,)
+tatums_start: shape = (866,)
+tempo: 133.787
+time_signature: 4
+time_signature_confidence: 0.724
+title: Les Reves D´enfants
+track_7digitalid: 3013739
+track_id: TRBHYNZ128F424619D
+year: 0

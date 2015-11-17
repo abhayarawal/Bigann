@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10627
+artist_familiarity: 0.359129965901
+artist_hotttnesss: 0.274197771089
+artist_id: ARODP5P1187FB40142
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0ef41d78-6a69-44fa-b355-23581a88990a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Eddie Cano
+artist_playmeid: 47311
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 061afca22de1ce29606d45d4d673b4b7
+bars_confidence: shape = (85,)
+bars_start: shape = (85,)
+beats_confidence: shape = (346,)
+beats_start: shape = (346,)
+danceability: 0.0
+duration: 176.16934
+end_of_fade_in: 0.38
+energy: 0.0
+key: 10
+key_confidence: 0.211
+loudness: -14.714
+mode: 0
+mode_confidence: 0.322
+release: Broadway - Right Now!
+release_7digitalid: 513034
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (688,)
+segments_loudness_max: shape = (688,)
+segments_loudness_max_time: shape = (688,)
+segments_loudness_start: shape = (688,)
+segments_pitches: shape = (688, 12)
+segments_start: shape = (688,)
+segments_timbre: shape = (688, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWQYXA12AB01816D6
+start_of_fade_out: 163.399
+tatums_confidence: shape = (692,)
+tatums_start: shape = (692,)
+tempo: 125.303
+time_signature: 4
+time_signature_confidence: 0.484
+title: It Only Takes A Moment (Album Version)
+track_7digitalid: 5679422
+track_id: TRBGKJP128F9342D57
+year: 0

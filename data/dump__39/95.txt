@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3443
+artist_familiarity: 0.72210529812
+artist_hotttnesss: 0.480724780921
+artist_id: AR02IU11187FB513F2
+artist_latitude: nan
+artist_location: New York, NY
+artist_longitude: nan
+artist_mbid: f19ad155-d809-4770-ab8d-7579467d9f55
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Tito Puente
+artist_playmeid: 3198
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: fdda1366737643d3846c34f3d4227422
+bars_confidence: shape = (114,)
+bars_start: shape = (114,)
+beats_confidence: shape = (460,)
+beats_start: shape = (460,)
+danceability: 0.0
+duration: 273.81506
+end_of_fade_in: 0.432
+energy: 0.0
+key: 0
+key_confidence: 0.415
+loudness: -13.906
+mode: 1
+mode_confidence: 0.536
+release: Puente Now! The Exciting Tito Puente Band
+release_7digitalid: 86177
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (847,)
+segments_loudness_max: shape = (847,)
+segments_loudness_max_time: shape = (847,)
+segments_loudness_start: shape = (847,)
+segments_pitches: shape = (847, 12)
+segments_start: shape = (847,)
+segments_timbre: shape = (847, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.229144103717
+song_id: SOZAVXS12A8C134305
+start_of_fade_out: 262.362
+tatums_confidence: shape = (920,)
+tatums_start: shape = (920,)
+tempo: 102.308
+time_signature: 4
+time_signature_confidence: 0.005
+title: Carnival (from "Black Orpheus")
+track_7digitalid: 902831
+track_id: TRANQDN128F425EEEA
+year: 0

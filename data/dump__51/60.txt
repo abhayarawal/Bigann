@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 171651
+artist_familiarity: 0.760636111943
+artist_hotttnesss: 0.547243659612
+artist_id: ARRDRI71187FB46EAA
+artist_latitude: 40.65507
+artist_location: Brooklyn, NY
+artist_longitude: -73.94888
+artist_mbid: 59a7fbcb-ff74-494d-abd0-9c82359040c9
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Grizzly Bear
+artist_playmeid: 33443
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: ab36f335017590f8332cd1039e00b534
+bars_confidence: shape = (269,)
+bars_start: shape = (269,)
+beats_confidence: shape = (1080,)
+beats_start: shape = (1080,)
+danceability: 0.0
+duration: 384.67873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.394
+loudness: -14.199
+mode: 0
+mode_confidence: 0.409
+release: Yellow House
+release_7digitalid: 532378
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1014,)
+segments_loudness_max: shape = (1014,)
+segments_loudness_max_time: shape = (1014,)
+segments_loudness_start: shape = (1014,)
+segments_pitches: shape = (1014, 12)
+segments_start: shape = (1014,)
+segments_timbre: shape = (1014, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.882530151633
+song_id: SOXDMAC12AB017E7FF
+start_of_fade_out: 373.847
+tatums_confidence: shape = (2160,)
+tatums_start: shape = (2160,)
+tempo: 169.038
+time_signature: 4
+time_signature_confidence: 0.468
+title: Little Brother
+track_7digitalid: 5883027
+track_id: TRARPCK128F92FEA7F
+year: 2006

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 55918
+artist_familiarity: 0.379983082577
+artist_hotttnesss: 0.30951427174
+artist_id: ARZ7OD71187B9940A7
+artist_latitude: 40.71455
+artist_location: New York
+artist_longitude: -74.00712
+artist_mbid: 1e9ddd4a-cb1b-4ed4-be1f-f73f6af9c3c9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Los Muñequitos De Matanzas
+artist_playmeid: 56177
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 0afbdb45dd1145df6aeb76b961eb5515
+bars_confidence: shape = (78,)
+bars_start: shape = (78,)
+beats_confidence: shape = (443,)
+beats_start: shape = (443,)
+danceability: 0.0
+duration: 301.19138
+end_of_fade_in: 0.096
+energy: 0.0
+key: 10
+key_confidence: 0.396
+loudness: -11.133
+mode: 0
+mode_confidence: 0.392
+release: Rumberos de Corazon- 50 Aniversario
+release_7digitalid: 245750
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1319,)
+segments_loudness_max: shape = (1319,)
+segments_loudness_max_time: shape = (1319,)
+segments_loudness_start: shape = (1319,)
+segments_pitches: shape = (1319, 12)
+segments_start: shape = (1319,)
+segments_timbre: shape = (1319, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.260338242567
+song_id: SOTNZAE12A8C1331F1
+start_of_fade_out: 291.457
+tatums_confidence: shape = (1772,)
+tatums_start: shape = (1772,)
+tempo: 91.943
+time_signature: 5
+time_signature_confidence: 0.416
+title: Te Ando Buscando
+track_7digitalid: 2666961
+track_id: TRAYRFK128F4240A7F
+year: 2007

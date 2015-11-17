@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20912
+artist_familiarity: 0.844039532227
+artist_hotttnesss: 0.524378987515
+artist_id: ARUSOMY1187FB4D3B4
+artist_latitude: nan
+artist_location: Pittsburgh, PA
+artist_longitude: nan
+artist_mbid: b88f21a7-a1b9-48fd-bbc4-ae758026f17f
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Anti-Flag
+artist_playmeid: 8398
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 87fc651ef1779012e4664e040f9504db
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (383,)
+beats_start: shape = (383,)
+danceability: 0.0
+duration: 184.05832
+end_of_fade_in: 0.189
+energy: 0.0
+key: 1
+key_confidence: 0.44
+loudness: -6.547
+mode: 1
+mode_confidence: 0.468
+release: Underground Network
+release_7digitalid: 226814
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (747,)
+segments_loudness_max: shape = (747,)
+segments_loudness_max_time: shape = (747,)
+segments_loudness_start: shape = (747,)
+segments_pitches: shape = (747, 12)
+segments_start: shape = (747,)
+segments_timbre: shape = (747, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.59436248884
+song_id: SOPRNQZ12A58A7B8E5
+start_of_fade_out: 175.676
+tatums_confidence: shape = (766,)
+tatums_start: shape = (766,)
+tempo: 131.121
+time_signature: 4
+time_signature_confidence: 0.0
+title: Spaz's House Destruction Party
+track_7digitalid: 2496105
+track_id: TRAFFPR128F421A35F
+year: 2001

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 91261
+artist_familiarity: 0.502850331364
+artist_hotttnesss: 0.372621501678
+artist_id: ARJ1AMB1187FB40661
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d5812475-f8e6-4b5c-951f-7e82720ef041
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sukhwinder Singh;Jaspinder Narula
+artist_playmeid: 56038
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 03e7c922689cde9674b64041f78fb6b6
+bars_confidence: shape = (142,)
+bars_start: shape = (142,)
+beats_confidence: shape = (570,)
+beats_start: shape = (570,)
+danceability: 0.0
+duration: 352.62649
+end_of_fade_in: 0.375
+energy: 0.0
+key: 11
+key_confidence: 0.622
+loudness: -9.74
+mode: 0
+mode_confidence: 0.54
+release: Dil Kya Kare
+release_7digitalid: 291928
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (1577,)
+segments_loudness_max: shape = (1577,)
+segments_loudness_max_time: shape = (1577,)
+segments_loudness_start: shape = (1577,)
+segments_pitches: shape = (1577, 12)
+segments_start: shape = (1577,)
+segments_timbre: shape = (1577, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKDKKP12A8C136A48
+start_of_fade_out: 344.456
+tatums_confidence: shape = (2282,)
+tatums_start: shape = (2282,)
+tempo: 99.015
+time_signature: 4
+time_signature_confidence: 0.407
+title: Menu Lagan Lagi
+track_7digitalid: 3277615
+track_id: TRBACVB128F427F67D
+year: 0

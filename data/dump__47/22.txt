@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 46
+artist_familiarity: 0.862795413749
+artist_hotttnesss: 0.600282490747
+artist_id: AR8RXRI1187FB4104B
+artist_latitude: 39.95227
+artist_location: Philadelphia, Pennsylvania, U.S.
+artist_longitude: -75.16237
+artist_mbid: a9667e1a-cc53-412e-ae6d-72e24b79cfa8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Roots / Jaguar
+artist_playmeid: 1577
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 34ab5cb6e59d6acdf6d2f75543cef4db
+bars_confidence: shape = (32,)
+bars_start: shape = (32,)
+beats_confidence: shape = (132,)
+beats_start: shape = (132,)
+danceability: 0.0
+duration: 39.18322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.059
+loudness: -17.317
+mode: 1
+mode_confidence: 0.288
+release: The Roots Come Alive
+release_7digitalid: 22383
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (110,)
+segments_loudness_max: shape = (110,)
+segments_loudness_max_time: shape = (110,)
+segments_loudness_start: shape = (110,)
+segments_pitches: shape = (110, 12)
+segments_start: shape = (110,)
+segments_timbre: shape = (110, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.460541281359
+song_id: SOILGAJ12A6D4F79D8
+start_of_fade_out: 39.183
+tatums_confidence: shape = (132,)
+tatums_start: shape = (132,)
+tempo: 218.587
+time_signature: 4
+time_signature_confidence: 0.799
+title: We Got You (Featuring Jaguar)
+track_7digitalid: 231125
+track_id: TRAQCBN128F1456991
+year: 0

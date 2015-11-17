@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10180
+artist_familiarity: 0.74987636719
+artist_hotttnesss: 0.528302262284
+artist_id: AREHK7O1187B9ADDD7
+artist_latitude: nan
+artist_location: J�ping, Sweden
+artist_longitude: nan
+artist_mbid: 3e55d51d-687f-4a9d-af96-2fabccf802e5
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: The Cardigans
+artist_playmeid: 83087
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 2d4bc9cdeaa0147a2443e9922196943d
+bars_confidence: shape = (148,)
+bars_start: shape = (148,)
+beats_confidence: shape = (447,)
+beats_start: shape = (447,)
+danceability: 0.0
+duration: 255.39873
+end_of_fade_in: 0.183
+energy: 0.0
+key: 10
+key_confidence: 0.558
+loudness: -8.022
+mode: 1
+mode_confidence: 0.184
+release: Gran Turismo
+release_7digitalid: 14421
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (744,)
+segments_loudness_max: shape = (744,)
+segments_loudness_max_time: shape = (744,)
+segments_loudness_start: shape = (744,)
+segments_pitches: shape = (744, 12)
+segments_start: shape = (744,)
+segments_timbre: shape = (744, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.641786186172
+song_id: SONRIJJ12A6701FD0A
+start_of_fade_out: 245.522
+tatums_confidence: shape = (894,)
+tatums_start: shape = (894,)
+tempo: 105.919
+time_signature: 3
+time_signature_confidence: 0.882
+title: Marvel Hill
+track_7digitalid: 149641
+track_id: TRBFMAS128E078F352
+year: 1998

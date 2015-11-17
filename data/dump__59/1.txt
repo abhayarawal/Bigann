@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21994
+artist_familiarity: 0.507327025937
+artist_hotttnesss: 0.388359616509
+artist_id: ARKWXDA11F4C83B665
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mills Brothers
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: f431e036ff0ad534867063902dd82d27
+bars_confidence: shape = (38,)
+bars_start: shape = (38,)
+beats_confidence: shape = (160,)
+beats_start: shape = (160,)
+danceability: 0.0
+duration: 79.64689
+end_of_fade_in: 2.711
+energy: 0.0
+key: 2
+key_confidence: 0.349
+loudness: -7.704
+mode: 1
+mode_confidence: 0.477
+release: Paper Doll
+release_7digitalid: 341152
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (266,)
+segments_loudness_max: shape = (266,)
+segments_loudness_max_time: shape = (266,)
+segments_loudness_start: shape = (266,)
+segments_pitches: shape = (266, 12)
+segments_start: shape = (266,)
+segments_timbre: shape = (266, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLUWQF12AB017DBDC
+start_of_fade_out: 79.647
+tatums_confidence: shape = (320,)
+tatums_start: shape = (320,)
+tempo: 124.906
+time_signature: 4
+time_signature_confidence: 0.0
+title: Youre nobody till somebody loves you
+track_7digitalid: 3819011
+track_id: TRAUDGS128F92FC6AE
+year: 0

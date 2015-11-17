@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 95
+artist_familiarity: 0.672199944412
+artist_hotttnesss: 0.466784211628
+artist_id: ARNE16X1187B9B2DEE
+artist_latitude: 18.04552
+artist_location: St. Catherine, Jamaica
+artist_longitude: -77.02659
+artist_mbid: 2caa54a7-b08c-41da-b892-3a41abe778be
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Jimmy Cliff
+artist_playmeid: 3331
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 2a69b4a9421ac55544fe8ac023df8b5a
+bars_confidence: shape = (608,)
+bars_start: shape = (608,)
+beats_confidence: shape = (608,)
+beats_start: shape = (608,)
+danceability: 0.0
+duration: 301.71383
+end_of_fade_in: 0.334
+energy: 0.0
+key: 0
+key_confidence: 0.829
+loudness: -7.449
+mode: 1
+mode_confidence: 0.771
+release: The Universal Masters Collection
+release_7digitalid: 84
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (865,)
+segments_loudness_max: shape = (865,)
+segments_loudness_max_time: shape = (865,)
+segments_loudness_start: shape = (865,)
+segments_pitches: shape = (865, 12)
+segments_start: shape = (865,)
+segments_timbre: shape = (865, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOWQAJL12A8C1418C9
+start_of_fade_out: 274.17
+tatums_confidence: shape = (1216,)
+tatums_start: shape = (1216,)
+tempo: 122.773
+time_signature: 1
+time_signature_confidence: 0.0
+title: Let's Seize The Time
+track_7digitalid: 1182
+track_id: TRALUZM128C7196779
+year: 1973

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41877
+artist_familiarity: 0.601069052215
+artist_hotttnesss: 0.359185992752
+artist_id: ARSPQ0H1187B999944
+artist_latitude: 54.97938
+artist_location: Walker-on-Tyne, England
+artist_longitude: -1.54508
+artist_mbid: 70ac2314-d7d8-4435-b56c-9bad9a516642
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Eric Burdon
+artist_playmeid: 54722
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 3d47027b10c817fee1964e1d27c06109
+bars_confidence: shape = (137,)
+bars_start: shape = (137,)
+beats_confidence: shape = (553,)
+beats_start: shape = (553,)
+danceability: 0.0
+duration: 232.64608
+end_of_fade_in: 0.206
+energy: 0.0
+key: 2
+key_confidence: 0.92
+loudness: -7.111
+mode: 0
+mode_confidence: 0.847
+release: My secret life
+release_7digitalid: 468698
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (864,)
+segments_loudness_max: shape = (864,)
+segments_loudness_max_time: shape = (864,)
+segments_loudness_start: shape = (864,)
+segments_pitches: shape = (864, 12)
+segments_start: shape = (864,)
+segments_timbre: shape = (864, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.360370582712
+song_id: SODICKC12AB0186806
+start_of_fade_out: 227.817
+tatums_confidence: shape = (1107,)
+tatums_start: shape = (1107,)
+tempo: 145.858
+time_signature: 4
+time_signature_confidence: 0.745
+title: Motorcycle girl
+track_7digitalid: 5212565
+track_id: TRAMTIH128F933E8E4
+year: 2004

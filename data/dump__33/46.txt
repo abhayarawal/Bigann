@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 255050
+artist_familiarity: 0.555277224341
+artist_hotttnesss: 0.395217687049
+artist_id: ARA8DDQ1187B9AE3A0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 86119d30-d930-4e65-a97a-e31e22388166
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Eason Chan
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: ecf04bf3216c6ca3267dfdc03c462551
+bars_confidence: shape = (111,)
+bars_start: shape = (111,)
+beats_confidence: shape = (448,)
+beats_start: shape = (448,)
+danceability: 0.0
+duration: 226.55955
+end_of_fade_in: 0.607
+energy: 0.0
+key: 0
+key_confidence: 0.785
+loudness: -6.005
+mode: 1
+mode_confidence: 0.442
+release: Listen to Eason Chan
+release_7digitalid: 336779
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1039,)
+segments_loudness_max: shape = (1039,)
+segments_loudness_max_time: shape = (1039,)
+segments_loudness_start: shape = (1039,)
+segments_pitches: shape = (1039, 12)
+segments_start: shape = (1039,)
+segments_timbre: shape = (1039, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCGBAY12AB017C78E
+start_of_fade_out: 223.568
+tatums_confidence: shape = (897,)
+tatums_start: shape = (897,)
+tempo: 119.977
+time_signature: 4
+time_signature_confidence: 1.0
+title: Been Sick Lung
+track_7digitalid: 3771480
+track_id: TRALJKI128F92F2962
+year: 0

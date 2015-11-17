@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 92689
+artist_familiarity: 0.690492032024
+artist_hotttnesss: 0.458987257866
+artist_id: ARRNO111187B9B3FC9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cabbdf87-5cb2-4f3c-be65-254655c87508
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Galactic
+artist_playmeid: 7074
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 3f50bf54761593340e2457b300a7627b
+bars_confidence: shape = (76,)
+bars_start: shape = (76,)
+beats_confidence: shape = (306,)
+beats_start: shape = (306,)
+danceability: 0.0
+duration: 205.08689
+end_of_fade_in: 0.171
+energy: 0.0
+key: 11
+key_confidence: 0.164
+loudness: -4.181
+mode: 0
+mode_confidence: 0.45
+release: From the Corner To the Block
+release_7digitalid: 204453
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (835,)
+segments_loudness_max: shape = (835,)
+segments_loudness_max_time: shape = (835,)
+segments_loudness_start: shape = (835,)
+segments_pitches: shape = (835, 12)
+segments_start: shape = (835,)
+segments_timbre: shape = (835, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.476248227291
+song_id: SOEJRAP12A8C13D8FA
+start_of_fade_out: 196.882
+tatums_confidence: shape = (612,)
+tatums_start: shape = (612,)
+tempo: 91.89
+time_signature: 4
+time_signature_confidence: 0.061
+title: Squarebiz
+track_7digitalid: 1237773
+track_id: TRADUDB128F42A61F9
+year: 2007

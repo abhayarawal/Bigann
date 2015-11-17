@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 162212
+artist_familiarity: 0.609294155146
+artist_hotttnesss: 0.373060492812
+artist_id: AROGAPH1187B98CF9C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 93942b87-215a-4626-b5ec-bf129d9fa2f6
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Benabar
+artist_playmeid: 6211
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: aebc3279f38d956fc60ff5162586c8f4
+bars_confidence: shape = (66,)
+bars_start: shape = (66,)
+beats_confidence: shape = (345,)
+beats_start: shape = (345,)
+danceability: 0.0
+duration: 238.44526
+end_of_fade_in: 4.905
+energy: 0.0
+key: 4
+key_confidence: 0.455
+loudness: -11.258
+mode: 0
+mode_confidence: 0.441
+release: Les Risques du Métier
+release_7digitalid: 280472
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (859,)
+segments_loudness_max: shape = (859,)
+segments_loudness_max_time: shape = (859,)
+segments_loudness_start: shape = (859,)
+segments_pitches: shape = (859, 12)
+segments_start: shape = (859,)
+segments_timbre: shape = (859, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.464923994181
+song_id: SOADDVU12A8AE47512
+start_of_fade_out: 226.186
+tatums_confidence: shape = (1037,)
+tatums_start: shape = (1037,)
+tempo: 88.018
+time_signature: 5
+time_signature_confidence: 0.412
+title: Le Zoo De Vincennes
+track_7digitalid: 3125967
+track_id: TRACXYU128F425EEE8
+year: 2003

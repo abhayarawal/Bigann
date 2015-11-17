@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40779
+artist_familiarity: 0.749029874998
+artist_hotttnesss: 0.575501205145
+artist_id: ARZ96PB1187B98F5C9
+artist_latitude: 36.16778
+artist_location: Nashville, TN
+artist_longitude: -86.77836
+artist_mbid: ca1ca0e3-8506-40b4-ac29-dbfb60c5a0bd
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Jars Of Clay
+artist_playmeid: 5728
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 80eed5dca97c2bb6861561cd1c5ae6a6
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (473,)
+beats_start: shape = (473,)
+danceability: 0.0
+duration: 223.89506
+end_of_fade_in: 0.078
+energy: 0.0
+key: 11
+key_confidence: 1.0
+loudness: -6.103
+mode: 1
+mode_confidence: 0.815
+release: The Long Fall Back To Earth
+release_7digitalid: 430749
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (739,)
+segments_loudness_max: shape = (739,)
+segments_loudness_max_time: shape = (739,)
+segments_loudness_start: shape = (739,)
+segments_pitches: shape = (739, 12)
+segments_start: shape = (739,)
+segments_timbre: shape = (739, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.530663030144
+song_id: SONTXFB12A8C145C15
+start_of_fade_out: 220.595
+tatums_confidence: shape = (945,)
+tatums_start: shape = (945,)
+tempo: 127.969
+time_signature: 4
+time_signature_confidence: 0.23
+title: Don't Stop
+track_7digitalid: 4807473
+track_id: TRBDTZX128F92DFA66
+year: 2009

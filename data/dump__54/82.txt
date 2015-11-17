@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 162810
+artist_familiarity: 0.53028791388
+artist_hotttnesss: 0.377579080219
+artist_id: AR6U6C51187B9B6F68
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 519e9293-89ad-4413-af85-f00d4816bd46
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Eri Esittäjiä
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 6b8e5dabaa79f4657a5575d31b979fab
+bars_confidence: shape = (71,)
+bars_start: shape = (71,)
+beats_confidence: shape = (221,)
+beats_start: shape = (221,)
+danceability: 0.0
+duration: 158.58893
+end_of_fade_in: 9.503
+energy: 0.0
+key: 0
+key_confidence: 0.988
+loudness: -26.312
+mode: 1
+mode_confidence: 0.849
+release: Pride and Prejudice
+release_7digitalid: 340738
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (328,)
+segments_loudness_max: shape = (328,)
+segments_loudness_max_time: shape = (328,)
+segments_loudness_start: shape = (328,)
+segments_pitches: shape = (328, 12)
+segments_start: shape = (328,)
+segments_timbre: shape = (328, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.67307443495
+song_id: SOQRDOM12AB01809A9
+start_of_fade_out: 142.1
+tatums_confidence: shape = (442,)
+tatums_start: shape = (442,)
+tempo: 91.928
+time_signature: 3
+time_signature_confidence: 0.607
+title: Dawn
+track_7digitalid: 3811536
+track_id: TRASTIS128F92FA998
+year: 0

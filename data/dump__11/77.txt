@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 138889
+artist_familiarity: 0.294566263127
+artist_hotttnesss: 0.0
+artist_id: ARWKVPA12509411EFF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Stelios Dionisiou
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: c3da52e0fb7ba61a7ea6914d58596627
+bars_confidence: shape = (387,)
+bars_start: shape = (387,)
+beats_confidence: shape = (387,)
+beats_start: shape = (387,)
+danceability: 0.0
+duration: 233.92608
+end_of_fade_in: 0.223
+energy: 0.0
+key: 0
+key_confidence: 0.174
+loudness: -7.306
+mode: 1
+mode_confidence: 0.255
+release: To Sinnefo
+release_7digitalid: 147639
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (808,)
+segments_loudness_max: shape = (808,)
+segments_loudness_max_time: shape = (808,)
+segments_loudness_start: shape = (808,)
+segments_pitches: shape = (808, 12)
+segments_start: shape = (808,)
+segments_timbre: shape = (808, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPKDKM12A8C135765
+start_of_fade_out: 227.927
+tatums_confidence: shape = (1161,)
+tatums_start: shape = (1161,)
+tempo: 99.955
+time_signature: 1
+time_signature_confidence: 0.0
+title: To Sinnefo
+track_7digitalid: 1537772
+track_id: TRADWXP128F4257A20
+year: 0

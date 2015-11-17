@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 101614
+artist_familiarity: 0.619260604878
+artist_hotttnesss: 0.416935871661
+artist_id: ARXW2MN1187B9B8817
+artist_latitude: nan
+artist_location: New York, NY
+artist_longitude: nan
+artist_mbid: 9bb0ae46-c22c-499f-915f-9b4fc8d4f767
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: X-ecutioners featuring Tom Tom Club & Biz Markie
+artist_playmeid: 8550
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 86b20a137302f9ae4264f329d3ce5372
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (403,)
+beats_start: shape = (403,)
+danceability: 0.0
+duration: 236.43383
+end_of_fade_in: 0.072
+energy: 0.0
+key: 0
+key_confidence: 0.0
+loudness: -5.438
+mode: 0
+mode_confidence: 0.0
+release: Built From Scratch
+release_7digitalid: 400773
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1141,)
+segments_loudness_max: shape = (1141,)
+segments_loudness_max_time: shape = (1141,)
+segments_loudness_start: shape = (1141,)
+segments_pitches: shape = (1141, 12)
+segments_start: shape = (1141,)
+segments_timbre: shape = (1141, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.518759897997
+song_id: SONVGOV12AB018114E
+start_of_fade_out: 231.242
+tatums_confidence: shape = (1614,)
+tatums_start: shape = (1614,)
+tempo: 102.643
+time_signature: 4
+time_signature_confidence: 1.0
+title: Genius Of Love 2002 (featuring Tom Tom Club & Biz Markie)
+track_7digitalid: 4453492
+track_id: TRBFAMR128F9306CC5
+year: 2001

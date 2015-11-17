@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 79189
+artist_familiarity: 0.521672995281
+artist_hotttnesss: 0.351345077093
+artist_id: AR97EHA1187B98AD5F
+artist_latitude: 30.33138
+artist_location: Jacksonville, FL
+artist_longitude: -81.6558
+artist_mbid: 2cd81b51-9120-4058-b4c9-e4c728d763be
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Blind Blake
+artist_playmeid: 96197
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: a8664c8ae0045dddc6796debd6c91afd
+bars_confidence: shape = (265,)
+bars_start: shape = (265,)
+beats_confidence: shape = (265,)
+beats_start: shape = (265,)
+danceability: 0.0
+duration: 186.90567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.559
+loudness: -22.825
+mode: 1
+mode_confidence: 0.599
+release: Blind Blake Vol. 1 (1926 - 1927)
+release_7digitalid: 174635
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (574,)
+segments_loudness_max: shape = (574,)
+segments_loudness_max_time: shape = (574,)
+segments_loudness_start: shape = (574,)
+segments_pitches: shape = (574, 12)
+segments_start: shape = (574,)
+segments_timbre: shape = (574, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHGDHJ12A8C13F54D
+start_of_fade_out: 181.795
+tatums_confidence: shape = (529,)
+tatums_start: shape = (529,)
+tempo: 86.997
+time_signature: 1
+time_signature_confidence: 0.0
+title: Blake's Worried Blues
+track_7digitalid: 1871815
+track_id: TRABPEY128F429F541
+year: 0

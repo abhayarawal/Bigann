@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 53100
+artist_familiarity: 0.513829587299
+artist_hotttnesss: 0.343185045273
+artist_id: AR8YV1I1187FB45D2B
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 1e9aa4bd-9689-4535-9665-7f661d63d1c8
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Rory Block
+artist_playmeid: 40123
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 578da4a185be8c2ccd3bb5a3f7bccdb7
+bars_confidence: shape = (392,)
+bars_start: shape = (392,)
+beats_confidence: shape = (392,)
+beats_start: shape = (392,)
+danceability: 0.0
+duration: 266.05669
+end_of_fade_in: 0.23
+energy: 0.0
+key: 1
+key_confidence: 0.936
+loudness: -13.836
+mode: 1
+mode_confidence: 0.763
+release: The Early Tapes 1975-1976
+release_7digitalid: 572855
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (799,)
+segments_loudness_max: shape = (799,)
+segments_loudness_max_time: shape = (799,)
+segments_loudness_start: shape = (799,)
+segments_pitches: shape = (799, 12)
+segments_start: shape = (799,)
+segments_timbre: shape = (799, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOBHQUF12AB018B03E
+start_of_fade_out: 256.064
+tatums_confidence: shape = (784,)
+tatums_start: shape = (784,)
+tempo: 90.101
+time_signature: 1
+time_signature_confidence: 0.0
+title: Three Is a Crowd
+track_7digitalid: 6349010
+track_id: TRAAIGD12903CA2F3C
+year: 0

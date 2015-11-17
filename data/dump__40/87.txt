@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 170417
+artist_familiarity: 0.574400788692
+artist_hotttnesss: 0.446071584412
+artist_id: ARRH2S81187B98C8AA
+artist_latitude: 43.07295
+artist_location: Madison, Wisconsin
+artist_longitude: -89.38669
+artist_mbid: fb7659b2-5ceb-45ac-be95-b0c1f832caec
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Bongzilla
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 6c0791b7ca6aa33449de6192bd3da99e
+bars_confidence: shape = (239,)
+bars_start: shape = (239,)
+beats_confidence: shape = (723,)
+beats_start: shape = (723,)
+danceability: 0.0
+duration: 475.11465
+end_of_fade_in: 0.171
+energy: 0.0
+key: 4
+key_confidence: 0.9
+loudness: -6.499
+mode: 1
+mode_confidence: 0.486
+release: Gateway
+release_7digitalid: 238284
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1055,)
+segments_loudness_max: shape = (1055,)
+segments_loudness_max_time: shape = (1055,)
+segments_loudness_start: shape = (1055,)
+segments_pitches: shape = (1055, 12)
+segments_start: shape = (1055,)
+segments_timbre: shape = (1055, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGXKPF12A582916B9
+start_of_fade_out: 470.912
+tatums_confidence: shape = (1446,)
+tatums_start: shape = (1446,)
+tempo: 89.997
+time_signature: 3
+time_signature_confidence: 0.895
+title: 666lb. Bongsession
+track_7digitalid: 2998968
+track_id: TRANXBO128F428CB28
+year: 2002

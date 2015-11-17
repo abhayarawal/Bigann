@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 68182
+artist_familiarity: 0.552704814467
+artist_hotttnesss: 0.387008321794
+artist_id: AR9A5TK1187B9AD07F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 33e09dd8-a998-4e1a-9e69-1a6567a3803d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: fIREHOSE
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 4b66dbbc6688dddf6a60b2f1dc3a62d4
+bars_confidence: shape = (60,)
+bars_start: shape = (60,)
+beats_confidence: shape = (243,)
+beats_start: shape = (243,)
+danceability: 0.0
+duration: 167.3922
+end_of_fade_in: 0.798
+energy: 0.0
+key: 9
+key_confidence: 0.752
+loudness: -10.958
+mode: 1
+mode_confidence: 0.54
+release: Flyin' The Flannel
+release_7digitalid: 282395
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (593,)
+segments_loudness_max: shape = (593,)
+segments_loudness_max_time: shape = (593,)
+segments_loudness_start: shape = (593,)
+segments_pitches: shape = (593, 12)
+segments_start: shape = (593,)
+segments_timbre: shape = (593, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.528957617409
+song_id: SOFKDPV12A8C131B03
+start_of_fade_out: 159.515
+tatums_confidence: shape = (970,)
+tatums_start: shape = (970,)
+tempo: 90.653
+time_signature: 4
+time_signature_confidence: 0.985
+title: Towin' The Line
+track_7digitalid: 3141062
+track_id: TRAXIVK128F42628CA
+year: 1991

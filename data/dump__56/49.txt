@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3380
+artist_familiarity: 0.565452291658
+artist_hotttnesss: 0.35241012681
+artist_id: ARVAE6W1187FB3CAF3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f115c91a-2f30-4c0a-a6ce-e67411f2247f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Refreshments
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: c67110c697637e3b94c709f9368a6900
+bars_confidence: shape = (122,)
+bars_start: shape = (122,)
+beats_confidence: shape = (370,)
+beats_start: shape = (370,)
+danceability: 0.0
+duration: 222.69342
+end_of_fade_in: 0.351
+energy: 0.0
+key: 7
+key_confidence: 0.627
+loudness: -9.953
+mode: 1
+mode_confidence: 0.588
+release: Both Rock 'N' Roll
+release_7digitalid: 305371
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (653,)
+segments_loudness_max: shape = (653,)
+segments_loudness_max_time: shape = (653,)
+segments_loudness_start: shape = (653,)
+segments_pitches: shape = (653, 12)
+segments_start: shape = (653,)
+segments_timbre: shape = (653, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.249065794854
+song_id: SOCFXKC12A8C13E150
+start_of_fade_out: 215.371
+tatums_confidence: shape = (740,)
+tatums_start: shape = (740,)
+tempo: 101.976
+time_signature: 3
+time_signature_confidence: 1.0
+title: Three Little Words
+track_7digitalid: 3447403
+track_id: TRATGVD128F42A8331
+year: 0

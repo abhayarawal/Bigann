@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7591
+artist_familiarity: 0.606975737219
+artist_hotttnesss: 0.386289651246
+artist_id: ARIRD6J1187FB5A98C
+artist_latitude: 18.01571
+artist_location: Kingston, Jamaica
+artist_longitude: -76.79731
+artist_mbid: 01d336ae-7f79-496d-94f9-211b57517b17
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sugar Minott
+artist_playmeid: 85496
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 251e75643082d6bf3d68130b728f550e
+bars_confidence: shape = (130,)
+bars_start: shape = (130,)
+beats_confidence: shape = (526,)
+beats_start: shape = (526,)
+danceability: 0.0
+duration: 193.93261
+end_of_fade_in: 0.742
+energy: 0.0
+key: 3
+key_confidence: 0.021
+loudness: -13.688
+mode: 0
+mode_confidence: 0.218
+release: The Serious Reggae Album Vol 2 Prt 2
+release_7digitalid: 758028
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (705,)
+segments_loudness_max: shape = (705,)
+segments_loudness_max_time: shape = (705,)
+segments_loudness_start: shape = (705,)
+segments_pitches: shape = (705, 12)
+segments_start: shape = (705,)
+segments_timbre: shape = (705, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCXRMP12AB018578E
+start_of_fade_out: 186.096
+tatums_confidence: shape = (1053,)
+tatums_start: shape = (1053,)
+tempo: 163.848
+time_signature: 4
+time_signature_confidence: 0.0
+title: Now We Know
+track_7digitalid: 8390968
+track_id: TRADPFS12903CB8C71
+year: 2007

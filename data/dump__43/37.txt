@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9004
+artist_familiarity: 0.473038875825
+artist_hotttnesss: 0.351173012688
+artist_id: ARERYUD1187B9ACE8B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: feaf53d6-8b7b-4e13-8be1-fd5bdf6a9d15
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dr Bombay
+artist_playmeid: -1
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 79aae2e00e37b23e4dc3654b8081f9c4
+bars_confidence: shape = (106,)
+bars_start: shape = (106,)
+beats_confidence: shape = (429,)
+beats_start: shape = (429,)
+danceability: 0.0
+duration: 192.02567
+end_of_fade_in: 3.024
+energy: 0.0
+key: 9
+key_confidence: 0.543
+loudness: -5.884
+mode: 1
+mode_confidence: 0.317
+release: Rice & Curry
+release_7digitalid: 12395
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (892,)
+segments_loudness_max: shape = (892,)
+segments_loudness_max_time: shape = (892,)
+segments_loudness_start: shape = (892,)
+segments_pitches: shape = (892, 12)
+segments_start: shape = (892,)
+segments_timbre: shape = (892, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.489133430161
+song_id: SOOUISU12A6701FBD7
+start_of_fade_out: 186.543
+tatums_confidence: shape = (857,)
+tatums_start: shape = (857,)
+tempo: 137.96
+time_signature: 4
+time_signature_confidence: 0.017
+title: Girle Girle
+track_7digitalid: 126753
+track_id: TRAOUGE128E078AB7A
+year: 0

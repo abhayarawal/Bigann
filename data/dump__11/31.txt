@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 50597
+artist_familiarity: 0.421274539767
+artist_hotttnesss: 0.428863109527
+artist_id: ARQI3OI1187B99DB1A
+artist_latitude: nan
+artist_location: Vancouver BC
+artist_longitude: nan
+artist_mbid: 85c88473-ef12-4873-9e3a-70dc06eebb9b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Götterdämmerung
+artist_playmeid: -1
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: c51eb3eb0a1022c6fbdce6c9e332710a
+bars_confidence: shape = (140,)
+bars_start: shape = (140,)
+beats_confidence: shape = (565,)
+beats_start: shape = (565,)
+danceability: 0.0
+duration: 250.14812
+end_of_fade_in: 2.908
+energy: 0.0
+key: 11
+key_confidence: 0.431
+loudness: -6.942
+mode: 1
+mode_confidence: 0.364
+release: Kin-Burst 9104
+release_7digitalid: 65576
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1054,)
+segments_loudness_max: shape = (1054,)
+segments_loudness_max_time: shape = (1054,)
+segments_loudness_start: shape = (1054,)
+segments_pitches: shape = (1054, 12)
+segments_start: shape = (1054,)
+segments_timbre: shape = (1054, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.582224280214
+song_id: SOWDTGB12A6D4FB2AD
+start_of_fade_out: 240.234
+tatums_confidence: shape = (1130,)
+tatums_start: shape = (1130,)
+tempo: 137.846
+time_signature: 4
+time_signature_confidence: 0.642
+title: Skincree
+track_7digitalid: 684007
+track_id: TRADTGV128F14B0D76
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17589
+artist_familiarity: 0.54197510821
+artist_hotttnesss: 0.384184258497
+artist_id: ARBQBZV1187B99D29E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8f614665-3418-4ca8-aa6a-737b4636b995
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Carl Cox Vs Yousef
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: a366912bac4833c6c1ed5de4c6a39bf8
+bars_confidence: shape = (154,)
+bars_start: shape = (154,)
+beats_confidence: shape = (772,)
+beats_start: shape = (772,)
+danceability: 0.0
+duration: 357.82485
+end_of_fade_in: 0.131
+energy: 0.0
+key: 1
+key_confidence: 0.485
+loudness: -5.701
+mode: 1
+mode_confidence: 0.427
+release: Dave Pearce Best of the Dance Years 1988 - 1992
+release_7digitalid: 548374
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (2165,)
+segments_loudness_max: shape = (2165,)
+segments_loudness_max_time: shape = (2165,)
+segments_loudness_start: shape = (2165,)
+segments_pitches: shape = (2165, 12)
+segments_start: shape = (2165,)
+segments_timbre: shape = (2165, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.5112548351
+song_id: SORAVUP12AB018556E
+start_of_fade_out: 353.785
+tatums_confidence: shape = (1544,)
+tatums_start: shape = (1544,)
+tempo: 130.016
+time_signature: 5
+time_signature_confidence: 1.0
+title: I Want You (Forever)
+track_7digitalid: 6063570
+track_id: TRAAHYV128F932A425
+year: 1991

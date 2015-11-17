@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 165772
+artist_familiarity: 0.481627065418
+artist_hotttnesss: 0.357329041985
+artist_id: ARLK1A71187B9AECD2
+artist_latitude: nan
+artist_location: Austin
+artist_longitude: nan
+artist_mbid: 1a292d15-a41b-4ced-a126-4e00fbdbf18c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Yuppie Pricks
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 56a5ae370555d792ed06dbacf86b3ff6
+bars_confidence: shape = (98,)
+bars_start: shape = (98,)
+beats_confidence: shape = (397,)
+beats_start: shape = (397,)
+danceability: 0.0
+duration: 161.38404
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.323
+loudness: -6.72
+mode: 1
+mode_confidence: 0.442
+release: Initial Public Offering
+release_7digitalid: 466821
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (629,)
+segments_loudness_max: shape = (629,)
+segments_loudness_max_time: shape = (629,)
+segments_loudness_start: shape = (629,)
+segments_pitches: shape = (629, 12)
+segments_start: shape = (629,)
+segments_timbre: shape = (629, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVRODR12AB0189A94
+start_of_fade_out: 151.104
+tatums_confidence: shape = (793,)
+tatums_start: shape = (793,)
+tempo: 155.127
+time_signature: 4
+time_signature_confidence: 0.61
+title: Suburban Living
+track_7digitalid: 5192783
+track_id: TRBFHBZ128F9339BA6
+year: 0

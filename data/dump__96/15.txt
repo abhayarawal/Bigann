@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 597614
+artist_familiarity: 0.412099707502
+artist_hotttnesss: 0.0
+artist_id: ARP4FAI1187FB3E49E
+artist_latitude: nan
+artist_location: Illinois
+artist_longitude: nan
+artist_mbid: 4765b25d-3aa7-466d-a945-7ffb09db801e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Aram Shelton
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 53c1268b0b2702021ce04d5df308d510
+bars_confidence: shape = (333,)
+bars_start: shape = (333,)
+beats_confidence: shape = (1008,)
+beats_start: shape = (1008,)
+danceability: 0.0
+duration: 540.52526
+end_of_fade_in: 0.247
+energy: 0.0
+key: 4
+key_confidence: 0.587
+loudness: -9.479
+mode: 1
+mode_confidence: 0.435
+release: Arrive
+release_7digitalid: 800710
+sections_confidence: shape = (22,)
+sections_start: shape = (22,)
+segments_confidence: shape = (1622,)
+segments_loudness_max: shape = (1622,)
+segments_loudness_max_time: shape = (1622,)
+segments_loudness_start: shape = (1622,)
+segments_pitches: shape = (1622, 12)
+segments_start: shape = (1622,)
+segments_timbre: shape = (1622, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOSLWIY12AB018B6A8
+start_of_fade_out: 531.122
+tatums_confidence: shape = (2016,)
+tatums_start: shape = (2016,)
+tempo: 113.031
+time_signature: 3
+time_signature_confidence: 1.0
+title: All Dressed Up
+track_7digitalid: 8857923
+track_id: TRBHDNO12903CB6C4C
+year: 0

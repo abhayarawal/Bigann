@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40744
+artist_familiarity: 0.53570252813
+artist_hotttnesss: 0.384986116578
+artist_id: ARCID1N1187FB51DA0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3d9ba6f0-c4ed-450b-a150-37e2ebf13e77
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Carlos Nuñez
+artist_playmeid: 28223
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 321434954bfe5555c5e18113a846e02e
+bars_confidence: shape = (164,)
+bars_start: shape = (164,)
+beats_confidence: shape = (662,)
+beats_start: shape = (662,)
+danceability: 0.0
+duration: 275.43465
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.584
+loudness: -11.019
+mode: 1
+mode_confidence: 0.73
+release: Carlos Nunez En Concert
+release_7digitalid: 307974
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (870,)
+segments_loudness_max: shape = (870,)
+segments_loudness_max_time: shape = (870,)
+segments_loudness_start: shape = (870,)
+segments_pitches: shape = (870, 12)
+segments_start: shape = (870,)
+segments_timbre: shape = (870, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SOVENLZ12A8C13F7DE
+start_of_fade_out: 275.435
+tatums_confidence: shape = (1324,)
+tatums_start: shape = (1324,)
+tempo: 143.969
+time_signature: 4
+time_signature_confidence: 0.0
+title: Camiño De Santiago
+track_7digitalid: 3472510
+track_id: TRAVZZV128F42AE511
+year: 2004

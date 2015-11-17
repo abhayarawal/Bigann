@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5417
+artist_familiarity: 0.644519691787
+artist_hotttnesss: 0.405618981981
+artist_id: ARQDWBG1187B9891D7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0b5aab47-3b3b-45f4-8488-2fc98e035166
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Zeromancer
+artist_playmeid: 43168
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: aa21a80822b62ac5f77adc02fe3bfe2b
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (548,)
+beats_start: shape = (548,)
+danceability: 0.0
+duration: 280.08444
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.211
+loudness: -6.707
+mode: 1
+mode_confidence: 0.495
+release: The Death Of Romance
+release_7digitalid: 757194
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (848,)
+segments_loudness_max: shape = (848,)
+segments_loudness_max_time: shape = (848,)
+segments_loudness_start: shape = (848,)
+segments_pitches: shape = (848, 12)
+segments_start: shape = (848,)
+segments_timbre: shape = (848, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.731282000129
+song_id: SORGUQZ12AB0184B31
+start_of_fade_out: 271.621
+tatums_confidence: shape = (1643,)
+tatums_start: shape = (1643,)
+tempo: 120.072
+time_signature: 5
+time_signature_confidence: 0.436
+title: V
+track_7digitalid: 8381775
+track_id: TRBBMDA12903CB688E
+year: 2010

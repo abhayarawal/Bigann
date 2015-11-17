@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 988
+artist_familiarity: 0.379371199559
+artist_hotttnesss: 0.272926796892
+artist_id: ARCZN5K1187FB42CF8
+artist_latitude: 31.1689
+artist_location: Texas
+artist_longitude: -100.07715
+artist_mbid: e61fbf9f-7627-4e4d-a479-2215cea42f20
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Joe Lopez
+artist_playmeid: 102523
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: db60c724dc22aa38da31a8c4c5b4b57c
+bars_confidence: shape = (176,)
+bars_start: shape = (176,)
+beats_confidence: shape = (530,)
+beats_start: shape = (530,)
+danceability: 0.0
+duration: 199.36608
+end_of_fade_in: 0.229
+energy: 0.0
+key: 0
+key_confidence: 0.65
+loudness: -7.434
+mode: 1
+mode_confidence: 0.525
+release: A.B. Quintanilla III Presents Joe Lopez
+release_7digitalid: 1749
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (831,)
+segments_loudness_max: shape = (831,)
+segments_loudness_max_time: shape = (831,)
+segments_loudness_start: shape = (831,)
+segments_pitches: shape = (831, 12)
+segments_start: shape = (831,)
+segments_timbre: shape = (831, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.35897652644
+song_id: SOCCFVI12A6D4F9646
+start_of_fade_out: 195.21
+tatums_confidence: shape = (1059,)
+tatums_start: shape = (1059,)
+tempo: 161.979
+time_signature: 3
+time_signature_confidence: 0.246
+title: Me Duele
+track_7digitalid: 17428
+track_id: TRBGTPL128E0783C11
+year: 2004

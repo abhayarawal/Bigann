@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 623
+artist_familiarity: 0.567313224122
+artist_hotttnesss: 0.58001318294
+artist_id: ARAIABB1187B9AC6E2
+artist_latitude: nan
+artist_location: Paddington, London, England
+artist_longitude: nan
+artist_mbid: f053ae01-dae6-4aae-9883-e8c279fdbef4
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Seal
+artist_playmeid: 1408
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: f42806bcefc2848cd585ae317c3cd2fa
+bars_confidence: shape = (186,)
+bars_start: shape = (186,)
+beats_confidence: shape = (749,)
+beats_start: shape = (749,)
+danceability: 0.0
+duration: 368.06485
+end_of_fade_in: 0.154
+energy: 0.0
+key: 6
+key_confidence: 0.605
+loudness: -12.1
+mode: 1
+mode_confidence: 0.476
+release: The Beginning
+release_7digitalid: 7321
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1961,)
+segments_loudness_max: shape = (1961,)
+segments_loudness_max_time: shape = (1961,)
+segments_loudness_start: shape = (1961,)
+segments_pitches: shape = (1961, 12)
+segments_start: shape = (1961,)
+segments_timbre: shape = (1961, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCSOYD12A8C13AF1B
+start_of_fade_out: 354.133
+tatums_confidence: shape = (1497,)
+tatums_start: shape = (1497,)
+tempo: 123.795
+time_signature: 4
+time_signature_confidence: 1.0
+title: The Beginning (Giro E Giro Mix)
+track_7digitalid: 2288093
+track_id: TRALWXA128F4270DF3
+year: 1991

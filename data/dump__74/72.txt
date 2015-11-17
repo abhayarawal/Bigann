@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19603
+artist_familiarity: 0.730246318613
+artist_hotttnesss: 0.52048957098
+artist_id: AR2SGQW1187B9B9E7C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fc4568b6-cbe3-4a3d-8409-28510c19e3e2
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: KRS-One
+artist_playmeid: 6964
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: cc15fdf97d754d45c30d71b3e079b0aa
+bars_confidence: shape = (53,)
+bars_start: shape = (53,)
+beats_confidence: shape = (222,)
+beats_start: shape = (222,)
+danceability: 0.0
+duration: 136.95955
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.066
+loudness: -4.178
+mode: 0
+mode_confidence: 0.335
+release: Keep Right
+release_7digitalid: 457471
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (613,)
+segments_loudness_max: shape = (613,)
+segments_loudness_max_time: shape = (613,)
+segments_loudness_start: shape = (613,)
+segments_pitches: shape = (613, 12)
+segments_start: shape = (613,)
+segments_timbre: shape = (613, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.542898743291
+song_id: SOQXUCZ12AB0187B3C
+start_of_fade_out: 136.96
+tatums_confidence: shape = (445,)
+tatums_start: shape = (445,)
+tempo: 95.285
+time_signature: 4
+time_signature_confidence: 0.472
+title: Freestyle Ministry (server Verbals)
+track_7digitalid: 5091888
+track_id: TRAZNDI128F9321777
+year: 2004

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 257867
+artist_familiarity: 0.375962133368
+artist_hotttnesss: 0.349873381333
+artist_id: ARJAVK71187B989FEF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d4d137ed-4214-47b3-8c57-28fdd8b5a37d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sonia Dersion
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 831e9bdc547d2a8d3b1c4ab6ca2e4533
+bars_confidence: shape = (191,)
+bars_start: shape = (191,)
+beats_confidence: shape = (766,)
+beats_start: shape = (766,)
+danceability: 0.0
+duration: 269.87057
+end_of_fade_in: 0.113
+energy: 0.0
+key: 5
+key_confidence: 0.1
+loudness: -8.089
+mode: 0
+mode_confidence: 0.12
+release: Belles De Zouk
+release_7digitalid: 400543
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1128,)
+segments_loudness_max: shape = (1128,)
+segments_loudness_max_time: shape = (1128,)
+segments_loudness_start: shape = (1128,)
+segments_pitches: shape = (1128, 12)
+segments_start: shape = (1128,)
+segments_timbre: shape = (1128, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.247625763843
+song_id: SONKANV12AB017E5F0
+start_of_fade_out: 258.728
+tatums_confidence: shape = (1533,)
+tatums_start: shape = (1533,)
+tempo: 173.936
+time_signature: 4
+time_signature_confidence: 0.461
+title: Urgence
+track_7digitalid: 4444341
+track_id: TRABKRG128F930641C
+year: 2004

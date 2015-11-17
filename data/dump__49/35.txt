@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11465
+artist_familiarity: 0.556531086261
+artist_hotttnesss: 0.370138414326
+artist_id: ARBXVFV1187B99AA63
+artist_latitude: nan
+artist_location: Haifa, Israel
+artist_longitude: nan
+artist_mbid: 96a1182f-e8e6-4df6-a811-82cb67d4565c
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Gene Simmons
+artist_playmeid: 82832
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 4ef39c7edc04eb5dccb944051b5d1d09
+bars_confidence: shape = (242,)
+bars_start: shape = (242,)
+beats_confidence: shape = (242,)
+beats_start: shape = (242,)
+danceability: 0.0
+duration: 155.11465
+end_of_fade_in: 1.025
+energy: 0.0
+key: 9
+key_confidence: 0.895
+loudness: -10.313
+mode: 1
+mode_confidence: 0.737
+release: Haunted House:The Complete Gene Simmons on Hi Records
+release_7digitalid: 375621
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (558,)
+segments_loudness_max: shape = (558,)
+segments_loudness_max_time: shape = (558,)
+segments_loudness_start: shape = (558,)
+segments_pitches: shape = (558, 12)
+segments_start: shape = (558,)
+segments_timbre: shape = (558, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3759843015
+song_id: SOSDWNM12A8C140DCC
+start_of_fade_out: 148.805
+tatums_confidence: shape = (485,)
+tatums_start: shape = (485,)
+tempo: 96.737
+time_signature: 1
+time_signature_confidence: 0.0
+title: Haunted House
+track_7digitalid: 4178423
+track_id: TRAQUQK128F92D13C1
+year: 1987

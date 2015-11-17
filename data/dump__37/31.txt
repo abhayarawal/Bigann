@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 493710
+artist_familiarity: 0.4157846077
+artist_hotttnesss: 0.307902093869
+artist_id: ARDQO721187FB3C6D9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2ba29f11-6321-451f-934d-3f63b3930ce3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Rodney O & Joe Cooley
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: f914741e182b2dfceedeface73583ea4
+bars_confidence: shape = (171,)
+bars_start: shape = (171,)
+beats_confidence: shape = (687,)
+beats_start: shape = (687,)
+danceability: 0.0
+duration: 346.22649
+end_of_fade_in: 2.264
+energy: 0.0
+key: 6
+key_confidence: 0.634
+loudness: -13.262
+mode: 0
+mode_confidence: 0.586
+release: Greatest Hits
+release_7digitalid: 662089
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1545,)
+segments_loudness_max: shape = (1545,)
+segments_loudness_max_time: shape = (1545,)
+segments_loudness_start: shape = (1545,)
+segments_pitches: shape = (1545, 12)
+segments_start: shape = (1545,)
+segments_timbre: shape = (1545, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.386790177139
+song_id: SOZMMFV12AB0183F74
+start_of_fade_out: 322.74
+tatums_confidence: shape = (1375,)
+tatums_start: shape = (1375,)
+tempo: 118.933
+time_signature: 4
+time_signature_confidence: 1.0
+title: Supercuts
+track_7digitalid: 7338170
+track_id: TRAMRBW12903CA654C
+year: 1995

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 183846
+artist_familiarity: 0.328129808264
+artist_hotttnesss: 0.304246374376
+artist_id: AR7QL2911C8A416805
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: aa292748-4edc-4732-8028-edb77e044a62
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Göteborgs Symfoniker / Neeme Järvi
+artist_playmeid: 207215
+artist_terms: shape = (60,)
+artist_terms_freq: shape = (60,)
+artist_terms_weight: shape = (60,)
+audio_md5: 19a8f1c52f90009ad38c19477687be36
+bars_confidence: shape = (540,)
+bars_start: shape = (540,)
+beats_confidence: shape = (2169,)
+beats_start: shape = (2169,)
+danceability: 0.0
+duration: 904.80281
+end_of_fade_in: 19.081
+energy: 0.0
+key: 0
+key_confidence: 0.236
+loudness: -21.394
+mode: 1
+mode_confidence: 0.428
+release: Tchaikovsky: Overture "1812"; Marche slave / Borodin: In the Steppes; Polovtsian Dances / Rimsky-Korsakov: Russian Easter; Capriccio
+release_7digitalid: 94496
+sections_confidence: shape = (42,)
+sections_start: shape = (42,)
+segments_confidence: shape = (2041,)
+segments_loudness_max: shape = (2041,)
+segments_loudness_max_time: shape = (2041,)
+segments_loudness_start: shape = (2041,)
+segments_pitches: shape = (2041, 12)
+segments_start: shape = (2041,)
+segments_timbre: shape = (2041, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBTJCY12A8C137956
+start_of_fade_out: 898.891
+tatums_confidence: shape = (4338,)
+tatums_start: shape = (4338,)
+tempo: 146.354
+time_signature: 4
+time_signature_confidence: 0.408
+title: Russian Easter Festival_ Overture_ Op.36
+track_7digitalid: 2239217
+track_id: TRAVTPJ128F4265425
+year: 0

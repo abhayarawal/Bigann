@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 28593
+artist_familiarity: 0.439628577427
+artist_hotttnesss: 0.386638122894
+artist_id: ARAMB6Q1187B99DE68
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 72f0b9db-f319-4817-a778-d1c3c9fc03d5
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Fiona Sit
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 7c3469c247d2cdcaa8f8a76ee4969c56
+bars_confidence: shape = (55,)
+bars_start: shape = (55,)
+beats_confidence: shape = (286,)
+beats_start: shape = (286,)
+danceability: 0.0
+duration: 205.24363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.607
+loudness: -11.389
+mode: 1
+mode_confidence: 0.558
+release: Electric Angel
+release_7digitalid: 57687
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (858,)
+segments_loudness_max: shape = (858,)
+segments_loudness_max_time: shape = (858,)
+segments_loudness_start: shape = (858,)
+segments_pitches: shape = (858, 12)
+segments_start: shape = (858,)
+segments_timbre: shape = (858, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCPGGC12A6D4FC2B9
+start_of_fade_out: 193.01
+tatums_confidence: shape = (857,)
+tatums_start: shape = (857,)
+tempo: 84.017
+time_signature: 5
+time_signature_confidence: 0.55
+title: She Hui Ge (Movie 2nd Song - Love Undercover 3)
+track_7digitalid: 600658
+track_id: TRBHWFN128F149E95B
+year: 0

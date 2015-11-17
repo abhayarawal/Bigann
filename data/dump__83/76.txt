@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30101
+artist_familiarity: 0.477364752484
+artist_hotttnesss: 0.337507289166
+artist_id: ARCCRTI11F4C845308
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: White Heart
+artist_playmeid: 86428
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: fa98a539b6b2195e2e917383e8a20edd
+bars_confidence: shape = (79,)
+bars_start: shape = (79,)
+beats_confidence: shape = (320,)
+beats_start: shape = (320,)
+danceability: 0.0
+duration: 184.68526
+end_of_fade_in: 0.247
+energy: 0.0
+key: 5
+key_confidence: 0.601
+loudness: -9.579
+mode: 1
+mode_confidence: 0.606
+release: Emergency Broadcast
+release_7digitalid: 484159
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (668,)
+segments_loudness_max: shape = (668,)
+segments_loudness_max_time: shape = (668,)
+segments_loudness_start: shape = (668,)
+segments_pitches: shape = (668, 12)
+segments_start: shape = (668,)
+segments_timbre: shape = (668, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.261733308375
+song_id: SOYBGAM12AB017A82A
+start_of_fade_out: 181.354
+tatums_confidence: shape = (639,)
+tatums_start: shape = (639,)
+tempo: 104.52
+time_signature: 4
+time_signature_confidence: 0.52
+title: Speed Of Sound (Emergency Broadcast Album Version)
+track_7digitalid: 5372813
+track_id: TRBCSZQ128F92F9043
+year: 0

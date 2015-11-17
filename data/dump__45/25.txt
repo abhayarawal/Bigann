@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 27920
+artist_familiarity: 0.864143218884
+artist_hotttnesss: 0.726174386911
+artist_id: ART5MUE1187B98C961
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: 65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab
+artist_mbtags: shape = (17,)
+artist_mbtags_count: shape = (17,)
+artist_name: Metallica
+artist_playmeid: 1073
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 8e2e24577de7cb481d2ed05c5d1d651a
+bars_confidence: shape = (110,)
+bars_start: shape = (110,)
+beats_confidence: shape = (463,)
+beats_start: shape = (463,)
+danceability: 0.0
+duration: 311.19628
+end_of_fade_in: 0.191
+energy: 0.0
+key: 11
+key_confidence: 0.066
+loudness: -9.507
+mode: 0
+mode_confidence: 0.312
+release: Kill 'Em All
+release_7digitalid: 506495
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (909,)
+segments_loudness_max: shape = (909,)
+segments_loudness_max_time: shape = (909,)
+segments_loudness_start: shape = (909,)
+segments_pitches: shape = (909, 12)
+segments_start: shape = (909,)
+segments_timbre: shape = (909, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWEVZH12CF54662C8
+start_of_fade_out: 300.391
+tatums_confidence: shape = (925,)
+tatums_start: shape = (925,)
+tempo: 88.73
+time_signature: 4
+time_signature_confidence: 0.251
+title: Metal Militia
+track_7digitalid: 5601869
+track_id: TRAPLMD128F932FF43
+year: 1982

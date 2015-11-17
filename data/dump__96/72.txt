@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 263676
+artist_familiarity: 0.433517115556
+artist_hotttnesss: 0.0
+artist_id: ARJJPQP1241B9CA062
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Gabriel Grossi
+artist_playmeid: -1
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: f7c897f8e1bd8b14ee8d8173b49f9e78
+bars_confidence: shape = (594,)
+bars_start: shape = (594,)
+beats_confidence: shape = (594,)
+beats_start: shape = (594,)
+danceability: 0.0
+duration: 179.01669
+end_of_fade_in: 0.136
+energy: 0.0
+key: 7
+key_confidence: 0.332
+loudness: -6.595
+mode: 0
+mode_confidence: 0.005
+release: Diz que fui por aí
+release_7digitalid: 338629
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1046,)
+segments_loudness_max: shape = (1046,)
+segments_loudness_max_time: shape = (1046,)
+segments_loudness_start: shape = (1046,)
+segments_pitches: shape = (1046, 12)
+segments_start: shape = (1046,)
+segments_timbre: shape = (1046, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOCJPJT12AB017EAA7
+start_of_fade_out: 179.017
+tatums_confidence: shape = (1188,)
+tatums_start: shape = (1188,)
+tempo: 200.249
+time_signature: 1
+time_signature_confidence: 0.0
+title: Rebuliço
+track_7digitalid: 3787569
+track_id: TRBHHNH128F92F6070
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11350
+artist_familiarity: 0.675384811998
+artist_hotttnesss: 0.633339908702
+artist_id: AR5FP401187FB523C9
+artist_latitude: nan
+artist_location: Duluth, MN
+artist_longitude: nan
+artist_mbid: 72c536dc-7137-4477-a521-567eeb840fa8
+artist_mbtags: shape = (16,)
+artist_mbtags_count: shape = (16,)
+artist_name: Bob Dylan
+artist_playmeid: 236
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 9fbcf44a5b4e77c7127599dff218853e
+bars_confidence: shape = (123,)
+bars_start: shape = (123,)
+beats_confidence: shape = (500,)
+beats_start: shape = (500,)
+danceability: 0.0
+duration: 320.70485
+end_of_fade_in: 0.136
+energy: 0.0
+key: 3
+key_confidence: 0.121
+loudness: -14.089
+mode: 1
+mode_confidence: 0.346
+release: Time Out Of Mind
+release_7digitalid: 283002
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1038,)
+segments_loudness_max: shape = (1038,)
+segments_loudness_max_time: shape = (1038,)
+segments_loudness_start: shape = (1038,)
+segments_pitches: shape = (1038, 12)
+segments_start: shape = (1038,)
+segments_timbre: shape = (1038, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQXNQP12A8C134AD7
+start_of_fade_out: 309.899
+tatums_confidence: shape = (999,)
+tatums_start: shape = (999,)
+tempo: 94.161
+time_signature: 4
+time_signature_confidence: 0.604
+title: Trying To Get To Heaven
+track_7digitalid: 3156471
+track_id: TRARAEG128F42647B2
+year: 1997

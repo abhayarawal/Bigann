@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8592
+artist_familiarity: 0.637521050415
+artist_hotttnesss: 0.404798068262
+artist_id: ARYYCVC1187B9A8510
+artist_latitude: 35.04644
+artist_location: Chattanooga, TN
+artist_longitude: -85.30946
+artist_mbid: ffa28768-ecda-42c6-ac49-6ce5c7d33043
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bessie Smith
+artist_playmeid: 12625
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 45247395c702e9b647cb946e00efe3e9
+bars_confidence: shape = (215,)
+bars_start: shape = (215,)
+beats_confidence: shape = (215,)
+beats_start: shape = (215,)
+danceability: 0.0
+duration: 187.03628
+end_of_fade_in: 0.206
+energy: 0.0
+key: 10
+key_confidence: 0.052
+loudness: -19.27
+mode: 1
+mode_confidence: 0.342
+release: Queen Of The Blues: Volume 1 B
+release_7digitalid: 142937
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (524,)
+segments_loudness_max: shape = (524,)
+segments_loudness_max_time: shape = (524,)
+segments_loudness_start: shape = (524,)
+segments_pitches: shape = (524, 12)
+segments_start: shape = (524,)
+segments_timbre: shape = (524, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCLRHR12A8C134808
+start_of_fade_out: 181.133
+tatums_confidence: shape = (429,)
+tatums_start: shape = (429,)
+tempo: 70.746
+time_signature: 1
+time_signature_confidence: 0.0
+title: Chicago Bound Blues
+track_7digitalid: 1490284
+track_id: TRBFHRA128F424D28A
+year: 1991

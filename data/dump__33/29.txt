@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1376
+artist_familiarity: 0.700635527796
+artist_hotttnesss: 0.511546183775
+artist_id: ARZTSYB1187FB54987
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e3cb4543-210f-499a-b0d1-3882c312dfb9
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Rainbow
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 601d6df86dd30f3a20f1030489849560
+bars_confidence: shape = (245,)
+bars_start: shape = (245,)
+beats_confidence: shape = (993,)
+beats_start: shape = (993,)
+danceability: 0.0
+duration: 454.1122
+end_of_fade_in: 0.438
+energy: 0.0
+key: 5
+key_confidence: 0.381
+loudness: -23.44
+mode: 0
+mode_confidence: 0.518
+release: Catch The Rainbow: The Anthology
+release_7digitalid: 15415
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (1145,)
+segments_loudness_max: shape = (1145,)
+segments_loudness_max_time: shape = (1145,)
+segments_loudness_start: shape = (1145,)
+segments_pitches: shape = (1145, 12)
+segments_start: shape = (1145,)
+segments_timbre: shape = (1145, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSKQWN12A58A7D155
+start_of_fade_out: 403.737
+tatums_confidence: shape = (1986,)
+tatums_start: shape = (1986,)
+tempo: 135.206
+time_signature: 4
+time_signature_confidence: 0.728
+title: Rainbow Eyes
+track_7digitalid: 161345
+track_id: TRALIHL128E0791C9A
+year: 1978

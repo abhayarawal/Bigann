@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 108
+artist_familiarity: 0.840432421742
+artist_hotttnesss: 0.608849018571
+artist_id: ARW1MUW1187FB4D5A1
+artist_latitude: nan
+artist_location: Escatawpa, MS
+artist_longitude: nan
+artist_mbid: 2386cd66-e923-4e8e-bf14-2eebe2e9b973
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: 3 Doors Down
+artist_playmeid: 10
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: d858b821e455b52ba9f837fe6c4d1564
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (322,)
+beats_start: shape = (322,)
+danceability: 0.0
+duration: 230.42567
+end_of_fade_in: 0.212
+energy: 0.0
+key: 4
+key_confidence: 0.189
+loudness: -5.981
+mode: 0
+mode_confidence: 0.366
+release: Here Without You
+release_7digitalid: 130
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (657,)
+segments_loudness_max: shape = (657,)
+segments_loudness_max_time: shape = (657,)
+segments_loudness_start: shape = (657,)
+segments_pitches: shape = (657, 12)
+segments_start: shape = (657,)
+segments_timbre: shape = (657, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.704963316972
+song_id: SOYSRRY12A6310E1C1
+start_of_fade_out: 224.177
+tatums_confidence: shape = (1287,)
+tatums_start: shape = (1287,)
+tempo: 86.82
+time_signature: 4
+time_signature_confidence: 0.854
+title: It's Not Me
+track_7digitalid: 1647
+track_id: TRACBWP128C7196948
+year: 2003

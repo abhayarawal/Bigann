@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 38839
+artist_familiarity: 0.533286880345
+artist_hotttnesss: 0.425454580064
+artist_id: ARLD4VD1187FB39009
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4a80dd86-e57e-4600-af53-1166bdc6d9b9
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Fast Eddie featuring Kool Rock
+artist_playmeid: 50655
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 192282a72e74b92952565848a568d157
+bars_confidence: shape = (141,)
+bars_start: shape = (141,)
+beats_confidence: shape = (567,)
+beats_start: shape = (567,)
+danceability: 0.0
+duration: 271.3073
+end_of_fade_in: 0.16
+energy: 0.0
+key: 10
+key_confidence: 0.108
+loudness: -8.902
+mode: 0
+mode_confidence: 0.468
+release: Turn Up the Bass
+release_7digitalid: 740700
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1346,)
+segments_loudness_max: shape = (1346,)
+segments_loudness_max_time: shape = (1346,)
+segments_loudness_start: shape = (1346,)
+segments_pitches: shape = (1346, 12)
+segments_start: shape = (1346,)
+segments_timbre: shape = (1346, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJOLZE12AC3DFA463
+start_of_fade_out: 266.484
+tatums_confidence: shape = (1133,)
+tatums_start: shape = (1133,)
+tempo: 125.86
+time_signature: 4
+time_signature_confidence: 1.0
+title: Turn Up The Bass
+track_7digitalid: 8206286
+track_id: TRARMHD12903D02A2A
+year: 0

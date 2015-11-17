@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 124455
+artist_familiarity: 0.599944669856
+artist_hotttnesss: 0.396800218979
+artist_id: ARTE6AQ1187B9B2826
+artist_latitude: 42.33168
+artist_location: Detroit, MI
+artist_longitude: -83.04792
+artist_mbid: 2b418029-92e6-4aa6-8099-f796fffb3023
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: High Strung_ The
+artist_playmeid: 141898
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: c1d7a6c80049783258c45865b9459c8a
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (325,)
+beats_start: shape = (325,)
+danceability: 0.0
+duration: 165.3024
+end_of_fade_in: 0.131
+energy: 0.0
+key: 9
+key_confidence: 0.795
+loudness: -2.694
+mode: 1
+mode_confidence: 0.582
+release: These Are Good Times
+release_7digitalid: 457401
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (471,)
+segments_loudness_max: shape = (471,)
+segments_loudness_max_time: shape = (471,)
+segments_loudness_start: shape = (471,)
+segments_pitches: shape = (471, 12)
+segments_start: shape = (471,)
+segments_timbre: shape = (471, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUKRZV12AB0182E90
+start_of_fade_out: 156.793
+tatums_confidence: shape = (650,)
+tatums_start: shape = (650,)
+tempo: 120.944
+time_signature: 4
+time_signature_confidence: 0.688
+title: Ain't That Something
+track_7digitalid: 5091008
+track_id: TRBBZRF128F9321407
+year: 2003

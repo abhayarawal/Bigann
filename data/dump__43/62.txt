@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 432935
+artist_familiarity: 0.535292735512
+artist_hotttnesss: 0.385470550556
+artist_id: ARKFYS91187B98E58F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 79c403f9-5467-4f23-8426-9ca3fc60a115
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jeff And Sheri Easter
+artist_playmeid: 63801
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 5c53f0dbcff7b6df2d740038a826cd12
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (311,)
+beats_start: shape = (311,)
+danceability: 0.0
+duration: 191.99955
+end_of_fade_in: 2.81
+energy: 0.0
+key: 0
+key_confidence: 0.935
+loudness: -10.301
+mode: 1
+mode_confidence: 0.83
+release: Silent Witness
+release_7digitalid: 41819
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (662,)
+segments_loudness_max: shape = (662,)
+segments_loudness_max_time: shape = (662,)
+segments_loudness_start: shape = (662,)
+segments_pitches: shape = (662, 12)
+segments_start: shape = (662,)
+segments_timbre: shape = (662, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKCIGV12A6D4F810B
+start_of_fade_out: 184.75
+tatums_confidence: shape = (623,)
+tatums_start: shape = (623,)
+tempo: 101.943
+time_signature: 3
+time_signature_confidence: 0.976
+title: A Love That Keeps On Giving (Silent Witness Album Version)
+track_7digitalid: 444652
+track_id: TRAOWWM128F1481D48
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10423
+artist_familiarity: 0.590473194252
+artist_hotttnesss: 0.418989674563
+artist_id: ARKBTPV1187FB38A79
+artist_latitude: 32.51461
+artist_location: Shreveport, LA
+artist_longitude: -93.74727
+artist_mbid: 5799b78e-a103-427b-8a1d-0bfeaddbb0c0
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Faron Young
+artist_playmeid: 3015
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 10bf992385151b39e92b4daf5a294df0
+bars_confidence: shape = (379,)
+bars_start: shape = (379,)
+beats_confidence: shape = (379,)
+beats_start: shape = (379,)
+danceability: 0.0
+duration: 159.79057
+end_of_fade_in: 0.363
+energy: 0.0
+key: 9
+key_confidence: 0.542
+loudness: -23.907
+mode: 1
+mode_confidence: 0.369
+release: 30 Of His Best
+release_7digitalid: 628277
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (471,)
+segments_loudness_max: shape = (471,)
+segments_loudness_max_time: shape = (471,)
+segments_loudness_start: shape = (471,)
+segments_pitches: shape = (471, 12)
+segments_start: shape = (471,)
+segments_timbre: shape = (471, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBMAHU12AB017FA30
+start_of_fade_out: 156.044
+tatums_confidence: shape = (379,)
+tatums_start: shape = (379,)
+tempo: 141.772
+time_signature: 1
+time_signature_confidence: 0.814
+title: It's Four In The Morning
+track_7digitalid: 6973499
+track_id: TRAUREN128F931F5AB
+year: 1986

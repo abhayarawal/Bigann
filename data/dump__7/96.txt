@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8593
+artist_familiarity: 0.517126315036
+artist_hotttnesss: 0.360145056506
+artist_id: ARKJVHY11E2835E76B
+artist_latitude: nan
+artist_location: Massachusetts
+artist_longitude: nan
+artist_mbid: b95e98f2-5511-4dc9-a089-444af424d74d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sonny Terry & Brownie McGhee
+artist_playmeid: 69238
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 506177bc8ab0630076c1305dffd498d3
+bars_confidence: shape = (71,)
+bars_start: shape = (71,)
+beats_confidence: shape = (290,)
+beats_start: shape = (290,)
+danceability: 0.0
+duration: 168.64608
+end_of_fade_in: 0.224
+energy: 0.0
+key: 7
+key_confidence: 0.042
+loudness: -17.019
+mode: 1
+mode_confidence: 0.409
+release: Sonny Terry & Brownie McGhee_ Vol. A (1938-1941)
+release_7digitalid: 91291
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (595,)
+segments_loudness_max: shape = (595,)
+segments_loudness_max_time: shape = (595,)
+segments_loudness_start: shape = (595,)
+segments_pitches: shape = (595, 12)
+segments_start: shape = (595,)
+segments_timbre: shape = (595, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOPOZOQ12A58A76660
+start_of_fade_out: 164.066
+tatums_confidence: shape = (580,)
+tatums_start: shape = (580,)
+tempo: 106.237
+time_signature: 4
+time_signature_confidence: 0.0
+title: Be Good To Me
+track_7digitalid: 967356
+track_id: TRACPEU128F426EB1F
+year: 0

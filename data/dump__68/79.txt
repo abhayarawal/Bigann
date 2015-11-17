@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 147989
+artist_familiarity: 0.587827035652
+artist_hotttnesss: 0.379980017386
+artist_id: AR6G29T1187B9A99F9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 543edda0-d61e-4698-97fa-1f34a1322d20
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: KMD
+artist_playmeid: 76907
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 139978379af39206a16dc82486f27169
+bars_confidence: shape = (63,)
+bars_start: shape = (63,)
+beats_confidence: shape = (255,)
+beats_start: shape = (255,)
+danceability: 0.0
+duration: 147.22567
+end_of_fade_in: 2.026
+energy: 0.0
+key: 4
+key_confidence: 0.455
+loudness: -9.647
+mode: 0
+mode_confidence: 0.382
+release: Bl_ck B_st_rds
+release_7digitalid: 559011
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (706,)
+segments_loudness_max: shape = (706,)
+segments_loudness_max_time: shape = (706,)
+segments_loudness_start: shape = (706,)
+segments_pitches: shape = (706, 12)
+segments_start: shape = (706,)
+segments_timbre: shape = (706, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.721142987249
+song_id: SOFYQSO12AB018A0DA
+start_of_fade_out: 140.428
+tatums_confidence: shape = (1019,)
+tatums_start: shape = (1019,)
+tempo: 103.967
+time_signature: 4
+time_signature_confidence: 0.982
+title: Get-U-Now
+track_7digitalid: 6186443
+track_id: TRAXLYT128F9348137
+year: 2001

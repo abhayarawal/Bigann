@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8133
+artist_familiarity: 0.631151242449
+artist_hotttnesss: 0.432754336766
+artist_id: ARGDSO91187B9AAB35
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bbd476fe-2987-4e5a-a278-ce5d5f3a6b9c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Patrick Bruel
+artist_playmeid: 5587
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: e6d3c727534dfd841842ef28f51611ed
+bars_confidence: shape = (32,)
+bars_start: shape = (32,)
+beats_confidence: shape = (209,)
+beats_start: shape = (209,)
+danceability: 0.0
+duration: 258.5073
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.472
+loudness: -16.176
+mode: 0
+mode_confidence: 0.696
+release: Entre Deux (À L'Olympia)
+release_7digitalid: 312280
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (662,)
+segments_loudness_max: shape = (662,)
+segments_loudness_max_time: shape = (662,)
+segments_loudness_start: shape = (662,)
+segments_pitches: shape = (662, 12)
+segments_start: shape = (662,)
+segments_timbre: shape = (662, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLCUUR12A8C140084
+start_of_fade_out: 258.507
+tatums_confidence: shape = (836,)
+tatums_start: shape = (836,)
+tempo: 48.385
+time_signature: 4
+time_signature_confidence: 0.0
+title: J'Suis Dans La Dêche
+track_7digitalid: 3536308
+track_id: TRBDPHP128F92C2AE1
+year: 0

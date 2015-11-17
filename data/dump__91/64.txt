@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15824
+artist_familiarity: 0.627185249161
+artist_hotttnesss: 0.393015730045
+artist_id: ARSQW3I1187B9ACD14
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: f66b685d-9abe-4be6-8e59-9a7486be1964
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Leona Naess
+artist_playmeid: -1
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: fcab1ab9b442804396c483c9d797f826
+bars_confidence: shape = (321,)
+bars_start: shape = (321,)
+beats_confidence: shape = (1287,)
+beats_start: shape = (1287,)
+danceability: 0.0
+duration: 645.38077
+end_of_fade_in: 11.389
+energy: 0.0
+key: 9
+key_confidence: 0.494
+loudness: -12.793
+mode: 0
+mode_confidence: 0.446
+release: Comatised
+release_7digitalid: 22385
+sections_confidence: shape = (19,)
+sections_start: shape = (19,)
+segments_confidence: shape = (1639,)
+segments_loudness_max: shape = (1639,)
+segments_loudness_max_time: shape = (1639,)
+segments_loudness_start: shape = (1639,)
+segments_pitches: shape = (1639, 12)
+segments_start: shape = (1639,)
+segments_timbre: shape = (1639, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.548718667039
+song_id: SOJCGJE12A6D4F79F3
+start_of_fade_out: 630.886
+tatums_confidence: shape = (2573,)
+tatums_start: shape = (2573,)
+tempo: 120.36
+time_signature: 4
+time_signature_confidence: 0.803
+title: Paper Thin
+track_7digitalid: 231154
+track_id: TRBFPRL128F14569B9
+year: 2000

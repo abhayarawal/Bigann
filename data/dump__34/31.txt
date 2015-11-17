@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 240388
+artist_familiarity: 0.642452950601
+artist_hotttnesss: 0.466153998323
+artist_id: ARUZS6L1187FB50A56
+artist_latitude: 38.62774
+artist_location: St. Louis, MO
+artist_longitude: -90.19951
+artist_mbid: d7e66136-2f20-4c33-bcf1-d0c205d5483f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dave Weckl
+artist_playmeid: -1
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: aedbcfc1164aba786612fa7b99c3180a
+bars_confidence: shape = (119,)
+bars_start: shape = (119,)
+beats_confidence: shape = (479,)
+beats_start: shape = (479,)
+danceability: 0.0
+duration: 311.01342
+end_of_fade_in: 0.445
+energy: 0.0
+key: 0
+key_confidence: 0.437
+loudness: -11.638
+mode: 1
+mode_confidence: 0.477
+release: Hard-Wired
+release_7digitalid: 310764
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1431,)
+segments_loudness_max: shape = (1431,)
+segments_loudness_max_time: shape = (1431,)
+segments_loudness_start: shape = (1431,)
+segments_pitches: shape = (1431, 12)
+segments_start: shape = (1431,)
+segments_timbre: shape = (1431, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.400039656955
+song_id: SOIYRUA12A8C13F1CE
+start_of_fade_out: 297.883
+tatums_confidence: shape = (1915,)
+tatums_start: shape = (1915,)
+tempo: 93.502
+time_signature: 4
+time_signature_confidence: 0.124
+title: Just An Illusion
+track_7digitalid: 3509456
+track_id: TRALRKB128F42B74D2
+year: 1994

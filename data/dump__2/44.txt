@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 37511
+artist_familiarity: 0.679519207793
+artist_hotttnesss: 0.491828704353
+artist_id: ARBM57Q1187B9AF97C
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 679ec43c-bc04-4bb0-b619-2da702a214ba
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: James Horner
+artist_playmeid: 11212
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: cf81e9352bd6a7d0840c634ffd99af9f
+bars_confidence: shape = (276,)
+bars_start: shape = (276,)
+beats_confidence: shape = (276,)
+beats_start: shape = (276,)
+danceability: 0.0
+duration: 191.81669
+end_of_fade_in: 3.146
+energy: 0.0
+key: 9
+key_confidence: 0.137
+loudness: -38.525
+mode: 1
+mode_confidence: 0.399
+release: Aliens - The Deluxe Edition
+release_7digitalid: 64098
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (169,)
+segments_loudness_max: shape = (169,)
+segments_loudness_max_time: shape = (169,)
+segments_loudness_start: shape = (169,)
+segments_pitches: shape = (169, 12)
+segments_start: shape = (169,)
+segments_timbre: shape = (169, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.545230293898
+song_id: SOVTGXQ12A6D4FB9CA
+start_of_fade_out: 179.868
+tatums_confidence: shape = (551,)
+tatums_start: shape = (551,)
+tempo: 90.084
+time_signature: 1
+time_signature_confidence: 0.342
+title: Atmosphere Station
+track_7digitalid: 663910
+track_id: TRAATBN128F14ACE82
+year: 1986

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16241
+artist_familiarity: 0.595996628489
+artist_hotttnesss: 0.359075217564
+artist_id: ARGR7431187FB3F3FB
+artist_latitude: 48.88314
+artist_location: Brou-sur-Chantereine, France
+artist_longitude: 2.62879
+artist_mbid: f75e42a2-e1f8-4873-ae07-f925dbc095ba
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Jacques Higelin
+artist_playmeid: -1
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 8b440f0cb001189c3b41e9e4b9c826c0
+bars_confidence: shape = (311,)
+bars_start: shape = (311,)
+beats_confidence: shape = (311,)
+beats_start: shape = (311,)
+danceability: 0.0
+duration: 163.05587
+end_of_fade_in: 0.351
+energy: 0.0
+key: 9
+key_confidence: 0.39
+loudness: -10.829
+mode: 0
+mode_confidence: 0.494
+release: Chante Higelin et Vian
+release_7digitalid: 624360
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (533,)
+segments_loudness_max: shape = (533,)
+segments_loudness_max_time: shape = (533,)
+segments_loudness_start: shape = (533,)
+segments_pitches: shape = (533, 12)
+segments_start: shape = (533,)
+segments_timbre: shape = (533, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBMUYO12AB0183BAC
+start_of_fade_out: 146.907
+tatums_confidence: shape = (621,)
+tatums_start: shape = (621,)
+tempo: 120.203
+time_signature: 1
+time_signature_confidence: 0.0
+title: Quand j'improvise sur mon piano
+track_7digitalid: 6931323
+track_id: TRAMNDO128F9315128
+year: 1973

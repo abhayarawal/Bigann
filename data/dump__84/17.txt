@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 146332
+artist_familiarity: 0.542551688167
+artist_hotttnesss: 0.324545089445
+artist_id: ARTAIYM11F50C4E159
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c141b566-b00a-4627-8e7b-dfe8328636a8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Capitol Years
+artist_playmeid: 141893
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 5aa9977cc7003ca12c5289dc3e0d8ad9
+bars_confidence: shape = (114,)
+bars_start: shape = (114,)
+beats_confidence: shape = (462,)
+beats_start: shape = (462,)
+danceability: 0.0
+duration: 242.02404
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.902
+loudness: -5.75
+mode: 1
+mode_confidence: 0.68
+release: Dance Away The Terror
+release_7digitalid: 192665
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (563,)
+segments_loudness_max: shape = (563,)
+segments_loudness_max_time: shape = (563,)
+segments_loudness_start: shape = (563,)
+segments_pitches: shape = (563, 12)
+segments_start: shape = (563,)
+segments_timbre: shape = (563, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCPPNW12A8C131AF4
+start_of_fade_out: 228.351
+tatums_confidence: shape = (923,)
+tatums_start: shape = (923,)
+tempo: 114.95
+time_signature: 4
+time_signature_confidence: 0.281
+title: As The Terror Dances Your Way
+track_7digitalid: 2094752
+track_id: TRBCWKZ128F42439D3
+year: 0

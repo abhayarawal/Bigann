@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10549
+artist_familiarity: 0.704411470237
+artist_hotttnesss: 0.469425907976
+artist_id: ARD0FN11187B9B25CD
+artist_latitude: 40.85715
+artist_location: New York, NY [The Bronx]
+artist_longitude: -73.85678
+artist_mbid: 1f223eed-aa38-49da-9e76-62ab3adc2e04
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Bobby Darin
+artist_playmeid: 7529
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: 46689ff07c9c82c3adc1f193e095bea9
+bars_confidence: shape = (356,)
+bars_start: shape = (356,)
+beats_confidence: shape = (1072,)
+beats_start: shape = (1072,)
+danceability: 0.0
+duration: 352.20853
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.506
+loudness: -7.157
+mode: 1
+mode_confidence: 0.468
+release: Live! At The Desert Inn
+release_7digitalid: 318926
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1142,)
+segments_loudness_max: shape = (1142,)
+segments_loudness_max_time: shape = (1142,)
+segments_loudness_start: shape = (1142,)
+segments_pitches: shape = (1142, 12)
+segments_start: shape = (1142,)
+segments_timbre: shape = (1142, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCAOQG12A8C14464E
+start_of_fade_out: 352.209
+tatums_confidence: shape = (2143,)
+tatums_start: shape = (2143,)
+tempo: 183.566
+time_signature: 3
+time_signature_confidence: 0.72
+title: Hi De Ho
+track_7digitalid: 3598494
+track_id: TRBGYFJ128F92D0254
+year: 0

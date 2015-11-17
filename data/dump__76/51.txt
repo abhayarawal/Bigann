@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4207
+artist_familiarity: 0.721990698991
+artist_hotttnesss: 0.408707110444
+artist_id: ARE9Y761187B98AEB6
+artist_latitude: nan
+artist_location: Minneapolis, MN
+artist_longitude: nan
+artist_mbid: a81f7041-7cd7-4080-ba88-9ce5fe50dc19
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mint Condition
+artist_playmeid: -1
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 02a769005676b22010d3df761c13a742
+bars_confidence: shape = (116,)
+bars_start: shape = (116,)
+beats_confidence: shape = (476,)
+beats_start: shape = (476,)
+danceability: 0.0
+duration: 293.66812
+end_of_fade_in: 5.207
+energy: 0.0
+key: 5
+key_confidence: 0.744
+loudness: -11.083
+mode: 0
+mode_confidence: 0.74
+release: Live From The 9:30 Club
+release_7digitalid: 253339
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (1103,)
+segments_loudness_max: shape = (1103,)
+segments_loudness_max_time: shape = (1103,)
+segments_loudness_start: shape = (1103,)
+segments_pitches: shape = (1103, 12)
+segments_start: shape = (1103,)
+segments_timbre: shape = (1103, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.586452119231
+song_id: SOCBWVV12A8C13605F
+start_of_fade_out: 291.573
+tatums_confidence: shape = (952,)
+tatums_start: shape = (952,)
+tempo: 97.748
+time_signature: 4
+time_signature_confidence: 0.482
+title: Call Me
+track_7digitalid: 2699663
+track_id: TRBACUF128F4247F8C
+year: 1999

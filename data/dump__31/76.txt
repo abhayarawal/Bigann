@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16860
+artist_familiarity: 0.809323793002
+artist_hotttnesss: 0.488019841686
+artist_id: ARPQ4Z01187FB3A736
+artist_latitude: 29.42449
+artist_location: San Antonio, TX
+artist_longitude: -98.49462
+artist_mbid: 2339bc21-aa92-4850-86f0-4bb9433910c8
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Butthole Surfers
+artist_playmeid: 110955
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: a33e332750fccccb0499993814b7c85c
+bars_confidence: shape = (76,)
+bars_start: shape = (76,)
+beats_confidence: shape = (309,)
+beats_start: shape = (309,)
+danceability: 0.0
+duration: 154.85342
+end_of_fade_in: 0.38
+energy: 0.0
+key: 2
+key_confidence: 0.023
+loudness: -3.865
+mode: 1
+mode_confidence: 0.476
+release: Electriclarryland
+release_7digitalid: 27767
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (493,)
+segments_loudness_max: shape = (493,)
+segments_loudness_max_time: shape = (493,)
+segments_loudness_start: shape = (493,)
+segments_pitches: shape = (493, 12)
+segments_start: shape = (493,)
+segments_timbre: shape = (493, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.71528010558
+song_id: SOAGXBV12A6D4F70BD
+start_of_fade_out: 141.375
+tatums_confidence: shape = (618,)
+tatums_start: shape = (618,)
+tempo: 122.125
+time_signature: 4
+time_signature_confidence: 0.0
+title: Ulcer Breakout
+track_7digitalid: 303995
+track_id: TRAKUJS128F14668E5
+year: 1996

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 409984
+artist_familiarity: 0.638880206128
+artist_hotttnesss: 0.246340713562
+artist_id: ARULHJM1187B997004
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 38f0411c-a411-4d20-aa28-c06b4e1cd397
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Word
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 228ceca4b5bef743eb03d0195291e1e2
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (322,)
+beats_start: shape = (322,)
+danceability: 0.0
+duration: 187.97669
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.254
+loudness: -3.96
+mode: 1
+mode_confidence: 0.348
+release: Matumago X Press
+release_7digitalid: 554760
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (908,)
+segments_loudness_max: shape = (908,)
+segments_loudness_max_time: shape = (908,)
+segments_loudness_start: shape = (908,)
+segments_pitches: shape = (908, 12)
+segments_start: shape = (908,)
+segments_timbre: shape = (908, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYIFLO12AB01877B3
+start_of_fade_out: 184.546
+tatums_confidence: shape = (644,)
+tatums_start: shape = (644,)
+tempo: 103.995
+time_signature: 4
+time_signature_confidence: 0.831
+title: Il rosso
+track_7digitalid: 6134316
+track_id: TRATWTI128F933B617
+year: 0

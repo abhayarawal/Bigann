@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 137158
+artist_familiarity: 0.331226240641
+artist_hotttnesss: 0.226516083072
+artist_id: ARGMCPU1241B9C4C34
+artist_latitude: 43.87165
+artist_location: Vermont
+artist_longitude: -72.45165
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Scott Ainslie
+artist_playmeid: 75275
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: b52de0c5dcd1b4a5b8849988e901dfcc
+bars_confidence: shape = (124,)
+bars_start: shape = (124,)
+beats_confidence: shape = (501,)
+beats_start: shape = (501,)
+danceability: 0.0
+duration: 175.04608
+end_of_fade_in: 0.206
+energy: 0.0
+key: 2
+key_confidence: 0.856
+loudness: -11.411
+mode: 1
+mode_confidence: 0.674
+release: Terraplane
+release_7digitalid: 181942
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (693,)
+segments_loudness_max: shape = (693,)
+segments_loudness_max_time: shape = (693,)
+segments_loudness_start: shape = (693,)
+segments_pitches: shape = (693, 12)
+segments_start: shape = (693,)
+segments_timbre: shape = (693, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SORXPDE12A81C215EC
+start_of_fade_out: 165.692
+tatums_confidence: shape = (1001,)
+tatums_start: shape = (1001,)
+tempo: 180.381
+time_signature: 4
+time_signature_confidence: 0.0
+title: Chumpman Blues
+track_7digitalid: 1964769
+track_id: TRAUPBI128F4231325
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 225639
+artist_familiarity: 0.490989293765
+artist_hotttnesss: 0.340530990262
+artist_id: ARD7DTC1187FB404DF
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a49961e2-70c5-454b-835b-7819bfa7c091
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: POLINA
+artist_playmeid: 30880
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 26144a0b7736f3700e08224af3317ca0
+bars_confidence: shape = (107,)
+bars_start: shape = (107,)
+beats_confidence: shape = (432,)
+beats_start: shape = (432,)
+danceability: 0.0
+duration: 203.49342
+end_of_fade_in: 0.252
+energy: 0.0
+key: 2
+key_confidence: 0.651
+loudness: -9.05
+mode: 0
+mode_confidence: 0.643
+release: Kenourgios Erotas
+release_7digitalid: 281529
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (626,)
+segments_loudness_max: shape = (626,)
+segments_loudness_max_time: shape = (626,)
+segments_loudness_start: shape = (626,)
+segments_pitches: shape = (626, 12)
+segments_start: shape = (626,)
+segments_timbre: shape = (626, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBXLHX12A8C130B60
+start_of_fade_out: 196.104
+tatums_confidence: shape = (865,)
+tatums_start: shape = (865,)
+tempo: 129.915
+time_signature: 4
+time_signature_confidence: 0.841
+title: Tora
+track_7digitalid: 3139523
+track_id: TRAMCRC128F42622C7
+year: 0

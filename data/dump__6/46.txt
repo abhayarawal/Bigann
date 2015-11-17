@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7725
+artist_familiarity: 0.687687485872
+artist_hotttnesss: 0.406686099467
+artist_id: ARDI88R1187B98DAB2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fd87374e-ffde-4d36-89a8-8a073f795666
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Foxy Brown
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 0cadd310865701bb93ced1cd78e8910a
+bars_confidence: shape = (86,)
+bars_start: shape = (86,)
+beats_confidence: shape = (346,)
+beats_start: shape = (346,)
+danceability: 0.0
+duration: 222.92853
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.329
+loudness: -9.035
+mode: 1
+mode_confidence: 0.407
+release: Ill Na Na
+release_7digitalid: 47304
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (934,)
+segments_loudness_max: shape = (934,)
+segments_loudness_max_time: shape = (934,)
+segments_loudness_start: shape = (934,)
+segments_pitches: shape = (934, 12)
+segments_start: shape = (934,)
+segments_timbre: shape = (934, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.588922167556
+song_id: SODMVJR12A6D4F985D
+start_of_fade_out: 216.3
+tatums_confidence: shape = (692,)
+tatums_start: shape = (692,)
+tempo: 93.056
+time_signature: 4
+time_signature_confidence: 1.0
+title: If I...
+track_7digitalid: 507029
+track_id: TRACCSW128F148C7C3
+year: 0

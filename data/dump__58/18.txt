@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 352369
+artist_familiarity: 0.454122840462
+artist_hotttnesss: 0.330300583827
+artist_id: ARYPRAG11F50C48C62
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 19f5f292-b684-4bb4-8301-0b8fc7c2cecc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Checkers
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: ef1ca7c7655f3a4a3eb1957a93d673aa
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (413,)
+beats_start: shape = (413,)
+danceability: 0.0
+duration: 159.18975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.138
+loudness: -13.08
+mode: 0
+mode_confidence: 0.554
+release: Flame In My Heart
+release_7digitalid: 475792
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (571,)
+segments_loudness_max: shape = (571,)
+segments_loudness_max_time: shape = (571,)
+segments_loudness_start: shape = (571,)
+segments_pitches: shape = (571, 12)
+segments_start: shape = (571,)
+segments_timbre: shape = (571, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUBTXD12A8C141B4E
+start_of_fade_out: 152.805
+tatums_confidence: shape = (413,)
+tatums_start: shape = (413,)
+tempo: 156.868
+time_signature: 4
+time_signature_confidence: 0.789
+title: Can't Find My Sadie
+track_7digitalid: 5282640
+track_id: TRATVSQ128F92E368F
+year: 0

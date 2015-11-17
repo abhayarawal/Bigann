@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15044
+artist_familiarity: 0.563421563097
+artist_hotttnesss: 0.402033856023
+artist_id: ARFQ7RR1187FB3CC0A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6faf0844-7fe3-4021-9ffe-e0ecccd517ec
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Badmarsh & Shri
+artist_playmeid: -1
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 2e1e05e104ed5830780c48ead7c55196
+bars_confidence: shape = (153,)
+bars_start: shape = (153,)
+beats_confidence: shape = (789,)
+beats_start: shape = (789,)
+danceability: 0.0
+duration: 497.13587
+end_of_fade_in: 0.717
+energy: 0.0
+key: 5
+key_confidence: 0.799
+loudness: -9.507
+mode: 1
+mode_confidence: 0.81
+release: Dancing Drums
+release_7digitalid: 21374
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (2705,)
+segments_loudness_max: shape = (2705,)
+segments_loudness_max_time: shape = (2705,)
+segments_loudness_start: shape = (2705,)
+segments_pitches: shape = (2705, 12)
+segments_start: shape = (2705,)
+segments_timbre: shape = (2705, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.604500738589
+song_id: SOTKJLB12A6D4F785A
+start_of_fade_out: 478.894
+tatums_confidence: shape = (2369,)
+tatums_start: shape = (2369,)
+tempo: 96.028
+time_signature: 5
+time_signature_confidence: 1.0
+title: Dancing Drums
+track_7digitalid: 221601
+track_id: TRAQJSB128F1454BB2
+year: 1997

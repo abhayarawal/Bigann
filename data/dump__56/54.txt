@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 34616
+artist_familiarity: 0.583290824135
+artist_hotttnesss: 0.385998326334
+artist_id: AR5OQSV1187B9953AF
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: c14e2a70-0877-464d-be6d-72c103f3bfd4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Eastmountainsouth
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: d460725ec209ba9fc607dcfed43ef8e0
+bars_confidence: shape = (115,)
+bars_start: shape = (115,)
+beats_confidence: shape = (464,)
+beats_start: shape = (464,)
+danceability: 0.0
+duration: 225.61914
+end_of_fade_in: 3.785
+energy: 0.0
+key: 6
+key_confidence: 0.08
+loudness: -8.843
+mode: 1
+mode_confidence: 0.422
+release: Eastmountainsouth
+release_7digitalid: 46457
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (651,)
+segments_loudness_max: shape = (651,)
+segments_loudness_max_time: shape = (651,)
+segments_loudness_start: shape = (651,)
+segments_pitches: shape = (651, 12)
+segments_start: shape = (651,)
+segments_timbre: shape = (651, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.733990878524
+song_id: SOTDFAQ12A6D4FB3E1
+start_of_fade_out: 215.348
+tatums_confidence: shape = (929,)
+tatums_start: shape = (929,)
+tempo: 125.986
+time_signature: 4
+time_signature_confidence: 0.281
+title: Hard Times
+track_7digitalid: 496590
+track_id: TRATHFM128F148ADD4
+year: 2003

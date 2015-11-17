@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 196046
+artist_familiarity: 0.548674174782
+artist_hotttnesss: 0.305093197499
+artist_id: ARCLBZ01187B98D025
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c3c91d78-6b95-4b1b-976c-3d1d12970628
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Crematorium
+artist_playmeid: 177647
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: a0a80e8617e7ed130f299cc20d527a41
+bars_confidence: shape = (234,)
+bars_start: shape = (234,)
+beats_confidence: shape = (234,)
+beats_start: shape = (234,)
+danceability: 0.0
+duration: 164.44036
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.377
+loudness: -17.124
+mode: 0
+mode_confidence: 0.485
+release: For All Our Sins
+release_7digitalid: 632778
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (620,)
+segments_loudness_max: shape = (620,)
+segments_loudness_max_time: shape = (620,)
+segments_loudness_start: shape = (620,)
+segments_pitches: shape = (620, 12)
+segments_start: shape = (620,)
+segments_timbre: shape = (620, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOYGWIK12AB017F613
+start_of_fade_out: 158.79
+tatums_confidence: shape = (701,)
+tatums_start: shape = (701,)
+tempo: 86.633
+time_signature: 1
+time_signature_confidence: 0.985
+title: A Disconsolate Winter Landscape
+track_7digitalid: 7024621
+track_id: TRAQURF128F932BAFA
+year: 0

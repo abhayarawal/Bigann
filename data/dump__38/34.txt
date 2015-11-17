@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11565
+artist_familiarity: 0.909324833658
+artist_hotttnesss: 0.677087546712
+artist_id: ARRBF3M1187FB4D59F
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: d8354b38-e942-4c89-ba93-29323432abc3
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: 30 Seconds To Mars
+artist_playmeid: 5561
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: f8686f0223955435157242c83fa4a61b
+bars_confidence: shape = (135,)
+bars_start: shape = (135,)
+beats_confidence: shape = (410,)
+beats_start: shape = (410,)
+danceability: 0.0
+duration: 234.73587
+end_of_fade_in: 0.073
+energy: 0.0
+key: 10
+key_confidence: 0.226
+loudness: -10.807
+mode: 1
+mode_confidence: 0.159
+release: A Beautiful Lie
+release_7digitalid: 16369
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1061,)
+segments_loudness_max: shape = (1061,)
+segments_loudness_max_time: shape = (1061,)
+segments_loudness_start: shape = (1061,)
+segments_pitches: shape = (1061, 12)
+segments_start: shape = (1061,)
+segments_timbre: shape = (1061, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.792042602646
+song_id: SONIIAC12A67AD84E5
+start_of_fade_out: 215.708
+tatums_confidence: shape = (1230,)
+tatums_start: shape = (1230,)
+tempo: 106.525
+time_signature: 3
+time_signature_confidence: 1.0
+title: Hunter
+track_7digitalid: 174319
+track_id: TRANCCN128E0794B18
+year: 2005

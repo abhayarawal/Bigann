@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4269
+artist_familiarity: 0.657406765298
+artist_hotttnesss: 0.422472423243
+artist_id: ARTB5PP1187FB523B7
+artist_latitude: 41.88415
+artist_location: Chicago, IL
+artist_longitude: -87.63241
+artist_mbid: 3f6ae36d-ffdb-40cf-98e6-8023cb1c41c9
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Donny Hathaway
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 7f814c5e8324c50177f5be47d90c0073
+bars_confidence: shape = (351,)
+bars_start: shape = (351,)
+beats_confidence: shape = (351,)
+beats_start: shape = (351,)
+danceability: 0.0
+duration: 231.18322
+end_of_fade_in: 0.104
+energy: 0.0
+key: 5
+key_confidence: 0.304
+loudness: -9.647
+mode: 1
+mode_confidence: 0.395
+release: A Classic Soul Christmas
+release_7digitalid: 53068
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (762,)
+segments_loudness_max: shape = (762,)
+segments_loudness_max_time: shape = (762,)
+segments_loudness_start: shape = (762,)
+segments_pitches: shape = (762, 12)
+segments_start: shape = (762,)
+segments_timbre: shape = (762, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.99775839634
+song_id: SOTRSHW12A58A79E7C
+start_of_fade_out: 217.298
+tatums_confidence: shape = (702,)
+tatums_start: shape = (702,)
+tempo: 92.98
+time_signature: 1
+time_signature_confidence: 0.0
+title: This Christmas (LP Version)
+track_7digitalid: 553545
+track_id: TRABUDK128F14943F3
+year: 0

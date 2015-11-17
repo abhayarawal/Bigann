@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13626
+artist_familiarity: 0.793094370082
+artist_hotttnesss: 0.568491815445
+artist_id: ARD2NDU1187B99B615
+artist_latitude: nan
+artist_location: Boston, MA
+artist_longitude: nan
+artist_mbid: e8374874-4178-4869-b92e-fef6bf30dc04
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Dropkick Murphys
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: a8d64fb5a2e7de76a578e724aa14a304
+bars_confidence: shape = (72,)
+bars_start: shape = (72,)
+beats_confidence: shape = (292,)
+beats_start: shape = (292,)
+danceability: 0.0
+duration: 131.81342
+end_of_fade_in: 0.229
+energy: 0.0
+key: 6
+key_confidence: 0.193
+loudness: -5.044
+mode: 0
+mode_confidence: 0.321
+release: The Gangs All Here
+release_7digitalid: 104645
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (268,)
+segments_loudness_max: shape = (268,)
+segments_loudness_max_time: shape = (268,)
+segments_loudness_start: shape = (268,)
+segments_pitches: shape = (268, 12)
+segments_start: shape = (268,)
+segments_timbre: shape = (268, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.589946218654
+song_id: SOOHUOU12A8C1399A5
+start_of_fade_out: 129.736
+tatums_confidence: shape = (585,)
+tatums_start: shape = (585,)
+tempo: 137.33
+time_signature: 4
+time_signature_confidence: 0.0
+title: The Only Road (Album Version)
+track_7digitalid: 1081298
+track_id: TRAXDRW128F428A030
+year: 0

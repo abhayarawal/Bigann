@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 107070
+artist_familiarity: 0.573243194661
+artist_hotttnesss: 0.382961658234
+artist_id: ARZIXB81187B98FCEC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 43670151-f762-4c71-b560-d279d389eb44
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Plimsouls
+artist_playmeid: -1
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 91040f377144b2acb725a1e61c9dda20
+bars_confidence: shape = (74,)
+bars_start: shape = (74,)
+beats_confidence: shape = (301,)
+beats_start: shape = (301,)
+danceability: 0.0
+duration: 147.9571
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.342
+loudness: -7.842
+mode: 1
+mode_confidence: 0.438
+release: Live! Beg_ Borrow & Steal: October 31_ 1981 Whisky A Go Go
+release_7digitalid: 756813
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (517,)
+segments_loudness_max: shape = (517,)
+segments_loudness_max_time: shape = (517,)
+segments_loudness_start: shape = (517,)
+segments_pitches: shape = (517, 12)
+segments_start: shape = (517,)
+segments_timbre: shape = (517, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.508067505992
+song_id: SOQUHYB12AB0186630
+start_of_fade_out: 147.957
+tatums_confidence: shape = (603,)
+tatums_start: shape = (603,)
+tempo: 123.452
+time_signature: 4
+time_signature_confidence: 1.0
+title: I Want You Back
+track_7digitalid: 8378477
+track_id: TRAOXXQ12903CB5BB0
+year: 1981

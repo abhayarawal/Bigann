@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 432935
+artist_familiarity: 0.535292735512
+artist_hotttnesss: 0.385470550556
+artist_id: ARKFYS91187B98E58F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 79c403f9-5467-4f23-8426-9ca3fc60a115
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Jeff And Sheri Easter
+artist_playmeid: 63801
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 7945e6a1927b16dad01e925ea8d6161c
+bars_confidence: shape = (123,)
+bars_start: shape = (123,)
+beats_confidence: shape = (494,)
+beats_start: shape = (494,)
+danceability: 0.0
+duration: 170.4224
+end_of_fade_in: 0.421
+energy: 0.0
+key: 5
+key_confidence: 0.999
+loudness: -6.15
+mode: 1
+mode_confidence: 0.691
+release: My_ Oh My!
+release_7digitalid: 148804
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (600,)
+segments_loudness_max: shape = (600,)
+segments_loudness_max_time: shape = (600,)
+segments_loudness_start: shape = (600,)
+segments_pitches: shape = (600, 12)
+segments_start: shape = (600,)
+segments_timbre: shape = (600, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKLINL12A8C13447C
+start_of_fade_out: 162.128
+tatums_confidence: shape = (988,)
+tatums_start: shape = (988,)
+tempo: 180.073
+time_signature: 4
+time_signature_confidence: 0.34
+title: Wolf In Sheep's Clothing
+track_7digitalid: 1550553
+track_id: TRAREWD128F425AC6A
+year: 0

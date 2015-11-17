@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22678
+artist_familiarity: 0.472247769437
+artist_hotttnesss: 0.316724550698
+artist_id: ARJ3VRY1187B9A3058
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 426bbccf-c6c7-45f2-bf03-5ce0b1e064b1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Memphis La Blusera
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 8703afa5c1c96655976d9d9bbda54e32
+bars_confidence: shape = (119,)
+bars_start: shape = (119,)
+beats_confidence: shape = (479,)
+beats_start: shape = (479,)
+danceability: 0.0
+duration: 221.64853
+end_of_fade_in: 0.189
+energy: 0.0
+key: 7
+key_confidence: 0.572
+loudness: -6.246
+mode: 1
+mode_confidence: 0.6
+release: Angelitos Culones
+release_7digitalid: 33071
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (794,)
+segments_loudness_max: shape = (794,)
+segments_loudness_max_time: shape = (794,)
+segments_loudness_start: shape = (794,)
+segments_pitches: shape = (794, 12)
+segments_start: shape = (794,)
+segments_timbre: shape = (794, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SODIYIX12A6D4F514F
+start_of_fade_out: 213.171
+tatums_confidence: shape = (479,)
+tatums_start: shape = (479,)
+tempo: 132.023
+time_signature: 4
+time_signature_confidence: 1.0
+title: Amigo mío
+track_7digitalid: 355742
+track_id: TRALXYQ128F1470E15
+year: 2001

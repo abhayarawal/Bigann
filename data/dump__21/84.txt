@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 110086
+artist_familiarity: 0.683771102049
+artist_hotttnesss: 0.513300123275
+artist_id: AR3USQW1187FB4A90D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0f7159a9-9029-4011-863e-6e2b81015ae8
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Bebo Norman
+artist_playmeid: 7106
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: e62b803bfa2b416fd77f3a303d9e89da
+bars_confidence: shape = (164,)
+bars_start: shape = (164,)
+beats_confidence: shape = (659,)
+beats_start: shape = (659,)
+danceability: 0.0
+duration: 280.39791
+end_of_fade_in: 2.955
+energy: 0.0
+key: 1
+key_confidence: 0.444
+loudness: -5.174
+mode: 1
+mode_confidence: 0.537
+release: Try
+release_7digitalid: 524252
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (821,)
+segments_loudness_max: shape = (821,)
+segments_loudness_max_time: shape = (821,)
+segments_loudness_start: shape = (821,)
+segments_pitches: shape = (821, 12)
+segments_start: shape = (821,)
+segments_timbre: shape = (821, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.473346541109
+song_id: SOEJCNS12A8C142BBE
+start_of_fade_out: 269.636
+tatums_confidence: shape = (1318,)
+tatums_start: shape = (1318,)
+tempo: 144.022
+time_signature: 4
+time_signature_confidence: 0.754
+title: Borrow Mine
+track_7digitalid: 5796819
+track_id: TRAHLIF128F92E9CCF
+year: 2004

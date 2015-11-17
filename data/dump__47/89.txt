@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 304
+artist_familiarity: 0.899934952232
+artist_hotttnesss: 0.683658060202
+artist_id: ARH6W4X1187B99274F
+artist_latitude: nan
+artist_location: Oxford, UK
+artist_longitude: nan
+artist_mbid: a74b1b7f-71a5-4011-9441-d0b5e4122711
+artist_mbtags: shape = (14,)
+artist_mbtags_count: shape = (14,)
+artist_name: Radiohead
+artist_playmeid: 1307
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 39a456afda7e43e416b9d5ae5b0e0f4e
+bars_confidence: shape = (82,)
+bars_start: shape = (82,)
+beats_confidence: shape = (332,)
+beats_start: shape = (332,)
+danceability: 0.0
+duration: 197.45914
+end_of_fade_in: 4.447
+energy: 0.0
+key: 2
+key_confidence: 0.31
+loudness: -7.037
+mode: 0
+mode_confidence: 0.447
+release: Pyramid Song
+release_7digitalid: 1022
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (890,)
+segments_loudness_max: shape = (890,)
+segments_loudness_max_time: shape = (890,)
+segments_loudness_start: shape = (890,)
+segments_pitches: shape = (890, 12)
+segments_start: shape = (890,)
+segments_timbre: shape = (890, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUPVWK12A6310EF7A
+start_of_fade_out: 188.14
+tatums_confidence: shape = (1327,)
+tatums_start: shape = (1327,)
+tempo: 103.476
+time_signature: 4
+time_signature_confidence: 0.946
+title: Fast-Track
+track_7digitalid: 9448
+track_id: TRAQHNX128E07822A7
+year: 2001

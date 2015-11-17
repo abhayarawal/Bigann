@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4060
+artist_familiarity: 0.52910279997
+artist_hotttnesss: 0.411364132146
+artist_id: ARNSTES1187FB4FC9B
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: f9f9432b-a93a-4650-8e2d-46e43ba92287
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Shinehead
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 496d65ea67f830d00a1187751b9cf88e
+bars_confidence: shape = (172,)
+bars_start: shape = (172,)
+beats_confidence: shape = (694,)
+beats_start: shape = (694,)
+danceability: 0.0
+duration: 250.85342
+end_of_fade_in: 0.223
+energy: 0.0
+key: 2
+key_confidence: 0.481
+loudness: -12.439
+mode: 1
+mode_confidence: 0.533
+release: The Real Rock
+release_7digitalid: 341095
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1157,)
+segments_loudness_max: shape = (1157,)
+segments_loudness_max_time: shape = (1157,)
+segments_loudness_start: shape = (1157,)
+segments_pitches: shape = (1157, 12)
+segments_start: shape = (1157,)
+segments_timbre: shape = (1157, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOWDDNA12AB0186074
+start_of_fade_out: 239.496
+tatums_confidence: shape = (1389,)
+tatums_start: shape = (1389,)
+tempo: 168.935
+time_signature: 4
+time_signature_confidence: 0.748
+title: The Real Rock
+track_7digitalid: 3818119
+track_id: TRAFQEG128F92FC332
+year: 0

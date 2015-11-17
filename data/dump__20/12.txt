@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18354
+artist_familiarity: 0.477271766305
+artist_hotttnesss: 0.347194884097
+artist_id: ARK9K3O1187B98F504
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: 2a0b3bf9-0d04-4e49-91f5-9530cbebab55
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cherrelle
+artist_playmeid: 12835
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: fac750f7a9a01e44a26d00a6a52be776
+bars_confidence: shape = (172,)
+bars_start: shape = (172,)
+beats_confidence: shape = (694,)
+beats_start: shape = (694,)
+danceability: 0.0
+duration: 290.82077
+end_of_fade_in: 0.305
+energy: 0.0
+key: 8
+key_confidence: 0.239
+loudness: -6.222
+mode: 0
+mode_confidence: 0.513
+release: The Right Time
+release_7digitalid: 466293
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (899,)
+segments_loudness_max: shape = (899,)
+segments_loudness_max_time: shape = (899,)
+segments_loudness_start: shape = (899,)
+segments_pitches: shape = (899, 12)
+segments_start: shape = (899,)
+segments_timbre: shape = (899, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOGJYMK12AB018272A
+start_of_fade_out: 278.448
+tatums_confidence: shape = (1389,)
+tatums_start: shape = (1389,)
+tempo: 145.607
+time_signature: 4
+time_signature_confidence: 1.0
+title: Into My Eyes
+track_7digitalid: 5187439
+track_id: TRAGVJG128F93386C6
+year: 1999

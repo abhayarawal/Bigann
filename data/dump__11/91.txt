@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 122539
+artist_familiarity: 0.577633149704
+artist_hotttnesss: 0.439843854133
+artist_id: ARU3YYC1187FB43FEE
+artist_latitude: -34.60852
+artist_location: Buenos Aires, Argentina
+artist_longitude: -58.37354
+artist_mbid: 1fc56cff-f0a0-4ce2-ab1f-ac49cf3b073f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Luis Alberto Spinetta
+artist_playmeid: -1
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: cb00b084eb0b0efccfdda2f802b97f5d
+bars_confidence: shape = (152,)
+bars_start: shape = (152,)
+beats_confidence: shape = (613,)
+beats_start: shape = (613,)
+danceability: 0.0
+duration: 355.29098
+end_of_fade_in: 0.422
+energy: 0.0
+key: 9
+key_confidence: 0.69
+loudness: -16.136
+mode: 0
+mode_confidence: 0.611
+release: Fuego Gris
+release_7digitalid: 216426
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1688,)
+segments_loudness_max: shape = (1688,)
+segments_loudness_max_time: shape = (1688,)
+segments_loudness_start: shape = (1688,)
+segments_pitches: shape = (1688, 12)
+segments_start: shape = (1688,)
+segments_timbre: shape = (1688, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWYXJC12A8C13B81E
+start_of_fade_out: 346.993
+tatums_confidence: shape = (2452,)
+tatums_start: shape = (2452,)
+tempo: 105.025
+time_signature: 4
+time_signature_confidence: 0.783
+title: Verde Bosque
+track_7digitalid: 2355947
+track_id: TRADYJM128F427E05B
+year: 1994

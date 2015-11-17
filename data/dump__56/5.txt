@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15749
+artist_familiarity: 0.493926144686
+artist_hotttnesss: 0.319626775917
+artist_id: ARKC83D1187B9AB367
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c55b50e3-5f4e-461d-bf29-79d2c2c364c5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mark Lowry
+artist_playmeid: 62535
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 7346a44dc7586842c8ba5d5cb932ac0f
+bars_confidence: shape = (10,)
+bars_start: shape = (10,)
+beats_confidence: shape = (77,)
+beats_start: shape = (77,)
+danceability: 0.0
+duration: 60.31628
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.047
+loudness: -14.848
+mode: 0
+mode_confidence: 0.348
+release: Remotely Controlled
+release_7digitalid: 665953
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (256,)
+segments_loudness_max: shape = (256,)
+segments_loudness_max_time: shape = (256,)
+segments_loudness_start: shape = (256,)
+segments_pitches: shape = (256, 12)
+segments_start: shape = (256,)
+segments_timbre: shape = (256, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHLAGO12AB0188518
+start_of_fade_out: 60.316
+tatums_confidence: shape = (231,)
+tatums_start: shape = (231,)
+tempo: 77.069
+time_signature: 5
+time_signature_confidence: 0.5
+title: A Word From Deacon Jones [A Local Cable Access Ministry] (LP Version)
+track_7digitalid: 7379466
+track_id: TRATCDP12903CB0432
+year: 0

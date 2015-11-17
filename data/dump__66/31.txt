@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11214
+artist_familiarity: 0.655359115426
+artist_hotttnesss: 0.405031297936
+artist_id: ARY80281187FB3E380
+artist_latitude: 56.65286
+artist_location: Scotland
+artist_longitude: -3.99667
+artist_mbid: fcdeb957-b420-4249-a092-946b537a00ca
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Sandi Thom
+artist_playmeid: 4235
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 93fcd0d778949eef74dd858ae5422db7
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (411,)
+beats_start: shape = (411,)
+danceability: 0.0
+duration: 261.72036
+end_of_fade_in: 2.479
+energy: 0.0
+key: 7
+key_confidence: 0.614
+loudness: -9.621
+mode: 1
+mode_confidence: 0.64
+release: Bleeding Love
+release_7digitalid: 279635
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (813,)
+segments_loudness_max: shape = (813,)
+segments_loudness_max_time: shape = (813,)
+segments_loudness_start: shape = (813,)
+segments_pitches: shape = (813, 12)
+segments_start: shape = (813,)
+segments_timbre: shape = (813, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOWHCEB12A8AE476C4
+start_of_fade_out: 253.115
+tatums_confidence: shape = (823,)
+tatums_start: shape = (823,)
+tempo: 96.171
+time_signature: 4
+time_signature_confidence: 1.0
+title: Bleeding Love
+track_7digitalid: 3114610
+track_id: TRAWPNL128F425C2DF
+year: 0

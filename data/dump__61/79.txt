@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 111995
+artist_familiarity: 0.469018735218
+artist_hotttnesss: 0.333432326798
+artist_id: ARKX0IK1187FB44DE9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5a07f7da-5e0c-4601-952d-48a08e4eba9c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DCX
+artist_playmeid: -1
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 72a0dc42d56f1d0c812d7fa12854aeae
+bars_confidence: shape = (418,)
+bars_start: shape = (418,)
+beats_confidence: shape = (418,)
+beats_start: shape = (418,)
+danceability: 0.0
+duration: 193.72363
+end_of_fade_in: 0.34
+energy: 0.0
+key: 8
+key_confidence: 0.4
+loudness: -5.548
+mode: 1
+mode_confidence: 0.359
+release: Hold Me
+release_7digitalid: 143776
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (717,)
+segments_loudness_max: shape = (717,)
+segments_loudness_max_time: shape = (717,)
+segments_loudness_start: shape = (717,)
+segments_pitches: shape = (717, 12)
+segments_start: shape = (717,)
+segments_timbre: shape = (717, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOFKJVX12A8C134B03
+start_of_fade_out: 182.892
+tatums_confidence: shape = (836,)
+tatums_start: shape = (836,)
+tempo: 135.045
+time_signature: 1
+time_signature_confidence: 0.0
+title: Hold Me
+track_7digitalid: 1500159
+track_id: TRAVDBV128F424EAD8
+year: 2008

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 23041
+artist_familiarity: 0.83453858559
+artist_hotttnesss: 0.477310881067
+artist_id: AR6F6I21187FB5A3AA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: aba64937-3334-4c65-90a1-4e6b9d4d7ada
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Aesop Rock
+artist_playmeid: 7929
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 8d4469f19b5cd3e2236e1bed4b511dc7
+bars_confidence: shape = (91,)
+bars_start: shape = (91,)
+beats_confidence: shape = (411,)
+beats_start: shape = (411,)
+danceability: 0.0
+duration: 243.56526
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.376
+loudness: -5.683
+mode: 1
+mode_confidence: 0.403
+release: Urban Renewal Program - Supplement 1.5
+release_7digitalid: 808040
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1143,)
+segments_loudness_max: shape = (1143,)
+segments_loudness_max_time: shape = (1143,)
+segments_loudness_start: shape = (1143,)
+segments_pitches: shape = (1143, 12)
+segments_start: shape = (1143,)
+segments_timbre: shape = (1143, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWPPKS12AB018E2F5
+start_of_fade_out: 243.565
+tatums_confidence: shape = (1231,)
+tatums_start: shape = (1231,)
+tempo: 102.429
+time_signature: 4
+time_signature_confidence: 0.591
+title: Train Buffer
+track_7digitalid: 8935244
+track_id: TRATZPD12903CC99FB
+year: 2002

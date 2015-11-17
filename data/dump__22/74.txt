@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11301
+artist_familiarity: 0.645192338747
+artist_hotttnesss: 0.471224329919
+artist_id: AR3THYK1187B999F1F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 286ec4c2-b5ca-4f85-b331-280a6d73dd14
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: João Gilberto / Gilberto Gil / Caetano Veloso
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: a9b475dc61781f11dfc9f74b0214dec2
+bars_confidence: shape = (34,)
+bars_start: shape = (34,)
+beats_confidence: shape = (139,)
+beats_start: shape = (139,)
+danceability: 0.0
+duration: 77.00853
+end_of_fade_in: 2.949
+energy: 0.0
+key: 0
+key_confidence: 0.624
+loudness: -22.659
+mode: 1
+mode_confidence: 0.501
+release: Brasil
+release_7digitalid: 55238
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (225,)
+segments_loudness_max: shape = (225,)
+segments_loudness_max_time: shape = (225,)
+segments_loudness_start: shape = (225,)
+segments_pitches: shape = (225, 12)
+segments_start: shape = (225,)
+segments_timbre: shape = (225, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.572920147947
+song_id: SOHUKWF12A6D4FA598
+start_of_fade_out: 68.865
+tatums_confidence: shape = (278,)
+tatums_start: shape = (278,)
+tempo: 113.515
+time_signature: 4
+time_signature_confidence: 0.202
+title: Cordeiro De Nana
+track_7digitalid: 574060
+track_id: TRAHSPW128F149867A
+year: 0

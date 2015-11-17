@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21164
+artist_familiarity: 0.54722814783
+artist_hotttnesss: 0.364787348408
+artist_id: ARPLE851187B9B2B7C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 65f80dd0-19de-4ce7-ba11-5456139efa52
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Superchumbo
+artist_playmeid: 92757
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: e7001910120ce436a2280852fd32f176
+bars_confidence: shape = (208,)
+bars_start: shape = (208,)
+beats_confidence: shape = (630,)
+beats_start: shape = (630,)
+danceability: 0.0
+duration: 443.37587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.0
+loudness: -4.28
+mode: 0
+mode_confidence: 0.0
+release: Wowie Zowie
+release_7digitalid: 245245
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (2119,)
+segments_loudness_max: shape = (2119,)
+segments_loudness_max_time: shape = (2119,)
+segments_loudness_start: shape = (2119,)
+segments_pitches: shape = (2119, 12)
+segments_start: shape = (2119,)
+segments_timbre: shape = (2119, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.244486792648
+song_id: SOQRSPD12A8C133A86
+start_of_fade_out: 433.389
+tatums_confidence: shape = (1891,)
+tatums_start: shape = (1891,)
+tempo: 85.321
+time_signature: 3
+time_signature_confidence: 1.0
+title: Revolution
+track_7digitalid: 2660367
+track_id: TRBEGWL128F423F4F1
+year: 2001

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 250371
+artist_familiarity: 0.473076881277
+artist_hotttnesss: 0.0
+artist_id: AR2B8ON1187FB58456
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ad5b5418-6b3f-476c-8f94-26a20cab59e2
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Marcelo Radulovich
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: fb3c93538d1f64ee206566acc7bca344
+bars_confidence: shape = (40,)
+bars_start: shape = (40,)
+beats_confidence: shape = (125,)
+beats_start: shape = (125,)
+danceability: 0.0
+duration: 85.15873
+end_of_fade_in: 4.18
+energy: 0.0
+key: 0
+key_confidence: 0.0
+loudness: -12.373
+mode: 0
+mode_confidence: 0.0
+release: Marcelo Radulovich
+release_7digitalid: 536600
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (240,)
+segments_loudness_max: shape = (240,)
+segments_loudness_max_time: shape = (240,)
+segments_loudness_start: shape = (240,)
+segments_pitches: shape = (240, 12)
+segments_start: shape = (240,)
+segments_timbre: shape = (240, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHWZOW12AB017EE95
+start_of_fade_out: 80.515
+tatums_confidence: shape = (250,)
+tatums_start: shape = (250,)
+tempo: 88.648
+time_signature: 3
+time_signature_confidence: 0.79
+title: Spirit and Machine
+track_7digitalid: 5935613
+track_id: TRAHHBV128F930B736
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 179770
+artist_familiarity: 0.377034085128
+artist_hotttnesss: 0.336191155685
+artist_id: AR0JEOI1187B98B918
+artist_latitude: 31.1689
+artist_location: Texas
+artist_longitude: -100.07715
+artist_mbid: 0aa9f7e2-58be-4a8b-813b-4c02fc2288f8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Erik Berglund
+artist_playmeid: -1
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: f23edd7357260dbcf1cc7b645b4e806b
+bars_confidence: shape = (272,)
+bars_start: shape = (272,)
+beats_confidence: shape = (272,)
+beats_start: shape = (272,)
+danceability: 0.0
+duration: 253.04771
+end_of_fade_in: 0.351
+energy: 0.0
+key: 1
+key_confidence: 0.708
+loudness: -8.274
+mode: 1
+mode_confidence: 0.695
+release: Somewhere
+release_7digitalid: 255383
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (609,)
+segments_loudness_max: shape = (609,)
+segments_loudness_max_time: shape = (609,)
+segments_loudness_start: shape = (609,)
+segments_pitches: shape = (609, 12)
+segments_start: shape = (609,)
+segments_timbre: shape = (609, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZYFSB12A8C1393CF
+start_of_fade_out: 242.091
+tatums_confidence: shape = (543,)
+tatums_start: shape = (543,)
+tempo: 66.595
+time_signature: 1
+time_signature_confidence: 0.0
+title: All I Ask Of You
+track_7digitalid: 2787505
+track_id: TRAEZMX128F425C3CE
+year: 0

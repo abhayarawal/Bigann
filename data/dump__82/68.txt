@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5732
+artist_familiarity: 0.934935267398
+artist_hotttnesss: 0.787005468689
+artist_id: ARKSZW81187B9B695D
+artist_latitude: 40.71455
+artist_location: New York, New York
+artist_longitude: -74.00712
+artist_mbid: 494e8d09-f85b-4543-892f-a5096aed1cd4
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Mariah Carey Featuring Da Brat & JD
+artist_playmeid: 1010
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 2e4e1f8f70510c4e64ff3ca9240c67a8
+bars_confidence: shape = (121,)
+bars_start: shape = (121,)
+beats_confidence: shape = (488,)
+beats_start: shape = (488,)
+danceability: 0.0
+duration: 314.122
+end_of_fade_in: 2.241
+energy: 0.0
+key: 4
+key_confidence: 0.189
+loudness: -10.728
+mode: 1
+mode_confidence: 0.292
+release: The Remixes
+release_7digitalid: 290264
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1369,)
+segments_loudness_max: shape = (1369,)
+segments_loudness_max_time: shape = (1369,)
+segments_loudness_start: shape = (1369,)
+segments_pitches: shape = (1369, 12)
+segments_start: shape = (1369,)
+segments_timbre: shape = (1369, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLHEQX12A8C135403
+start_of_fade_out: 308.413
+tatums_confidence: shape = (975,)
+tatums_start: shape = (975,)
+tempo: 95.138
+time_signature: 4
+time_signature_confidence: 0.214
+title: Honey
+track_7digitalid: 3263813
+track_id: TRBCIQL128F427C0AD
+year: 1997

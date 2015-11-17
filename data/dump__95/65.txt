@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 111666
+artist_familiarity: 0.543161423105
+artist_hotttnesss: 0.388416224237
+artist_id: ARZE0AG1187FB5BF61
+artist_latitude: nan
+artist_location: Chicago, IL
+artist_longitude: nan
+artist_mbid: 42700164-abe3-4b45-b627-f4c8deca5e82
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Five Stairsteps
+artist_playmeid: 13981
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 6c396314548d80fc9c87e92958e619eb
+bars_confidence: shape = (281,)
+bars_start: shape = (281,)
+beats_confidence: shape = (281,)
+beats_start: shape = (281,)
+danceability: 0.0
+duration: 132.70159
+end_of_fade_in: 3.094
+energy: 0.0
+key: 2
+key_confidence: 0.565
+loudness: -7.692
+mode: 1
+mode_confidence: 0.549
+release: The First Family of Soul: The Best of The Five Stairsteps
+release_7digitalid: 293796
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (465,)
+segments_loudness_max: shape = (465,)
+segments_loudness_max_time: shape = (465,)
+segments_loudness_start: shape = (465,)
+segments_pitches: shape = (465, 12)
+segments_start: shape = (465,)
+segments_timbre: shape = (465, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.386790177139
+song_id: SOSQPYX12A8C1388EA
+start_of_fade_out: 125.167
+tatums_confidence: shape = (563,)
+tatums_start: shape = (563,)
+tempo: 129.293
+time_signature: 1
+time_signature_confidence: 0.0
+title: Playgirl's Love
+track_7digitalid: 3302723
+track_id: TRBGYLV128F4285763
+year: 0

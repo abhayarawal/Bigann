@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17213
+artist_familiarity: 0.556807654765
+artist_hotttnesss: 0.382229489562
+artist_id: AR6FS351187B9892B7
+artist_latitude: 55.8578
+artist_location: Glasgow, Scotland
+artist_longitude: -4.24251
+artist_mbid: 24cac374-29bd-499f-a0f8-72165d2f2f43
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Midge Ure
+artist_playmeid: 26912
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 09c4b13663dea791e4be0d909dfb9210
+bars_confidence: shape = (115,)
+bars_start: shape = (115,)
+beats_confidence: shape = (464,)
+beats_start: shape = (464,)
+danceability: 0.0
+duration: 287.52934
+end_of_fade_in: 0.316
+energy: 0.0
+key: 2
+key_confidence: 0.56
+loudness: -4.727
+mode: 1
+mode_confidence: 0.544
+release: Move Me+
+release_7digitalid: 63694
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1223,)
+segments_loudness_max: shape = (1223,)
+segments_loudness_max_time: shape = (1223,)
+segments_loudness_start: shape = (1223,)
+segments_pitches: shape = (1223, 12)
+segments_start: shape = (1223,)
+segments_timbre: shape = (1223, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOUHRVJ12A6D4FADD7
+start_of_fade_out: 282.453
+tatums_confidence: shape = (1854,)
+tatums_start: shape = (1854,)
+tempo: 97.982
+time_signature: 4
+time_signature_confidence: 0.373
+title: Four
+track_7digitalid: 660542
+track_id: TRASVRH128F14AC24A
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 447422
+artist_familiarity: 0.466768144632
+artist_hotttnesss: 0.372415888186
+artist_id: ARMRQFC1269FCD2C40
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Roj
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 272880f945730a5cc2e6983492af46ab
+bars_confidence: shape = (25,)
+bars_start: shape = (25,)
+beats_confidence: shape = (102,)
+beats_start: shape = (102,)
+danceability: 0.0
+duration: 41.63873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.583
+loudness: -22.474
+mode: 1
+mode_confidence: 0.418
+release: The Transactional Dharma of Roj
+release_7digitalid: 601112
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (224,)
+segments_loudness_max: shape = (224,)
+segments_loudness_max_time: shape = (224,)
+segments_loudness_start: shape = (224,)
+segments_pitches: shape = (224, 12)
+segments_start: shape = (224,)
+segments_timbre: shape = (224, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.367273415809
+song_id: SOLURBR12AC9075364
+start_of_fade_out: 41.639
+tatums_confidence: shape = (306,)
+tatums_start: shape = (306,)
+tempo: 156.062
+time_signature: 4
+time_signature_confidence: 0.0
+title: Clear Channels
+track_7digitalid: 6673197
+track_id: TRBAGYL12903CF1539
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 35321
+artist_familiarity: 0.541033426688
+artist_hotttnesss: 0.387973347513
+artist_id: ARQQP3Z1187FB5707B
+artist_latitude: 53.55334
+artist_location: Hamburg, Germany
+artist_longitude: 9.99245
+artist_mbid: 9d0828bc-702d-4c89-b66f-4954958b8e11
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Bert Kaempfert
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 22a7d78c5b6de10a68dfb8d71267fbe6
+bars_confidence: shape = (75,)
+bars_start: shape = (75,)
+beats_confidence: shape = (303,)
+beats_start: shape = (303,)
+danceability: 0.0
+duration: 154.06975
+end_of_fade_in: 0.531
+energy: 0.0
+key: 0
+key_confidence: 0.431
+loudness: -8.817
+mode: 1
+mode_confidence: 0.527
+release: Two In One - That Latin Feeling/Tropical Sunrise
+release_7digitalid: 345919
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (576,)
+segments_loudness_max: shape = (576,)
+segments_loudness_max_time: shape = (576,)
+segments_loudness_start: shape = (576,)
+segments_pitches: shape = (576, 12)
+segments_start: shape = (576,)
+segments_timbre: shape = (576, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SONBIEL12AB018234B
+start_of_fade_out: 147.708
+tatums_confidence: shape = (606,)
+tatums_start: shape = (606,)
+tempo: 122.155
+time_signature: 4
+time_signature_confidence: 0.527
+title: Cha Cha Brasilia
+track_7digitalid: 3877704
+track_id: TRAJOYN128F9308712
+year: 0

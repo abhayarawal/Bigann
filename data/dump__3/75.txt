@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 35531
+artist_familiarity: 0.571422801587
+artist_hotttnesss: 0.423356106094
+artist_id: ARWI6LR1187FB46E9F
+artist_latitude: 43.57607
+artist_location: Le Cannet, France
+artist_longitude: 7.01815
+artist_mbid: 8581affe-38e6-4659-b81b-6058ff40cf45
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Richard Galliano
+artist_playmeid: -1
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 04edf3e5fa55e9595288cc3ce12e47a4
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (328,)
+beats_start: shape = (328,)
+danceability: 0.0
+duration: 261.74649
+end_of_fade_in: 0.2
+energy: 0.0
+key: 9
+key_confidence: 0.503
+loudness: -15.008
+mode: 1
+mode_confidence: 0.206
+release: French Touch
+release_7digitalid: 463706
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (853,)
+segments_loudness_max: shape = (853,)
+segments_loudness_max_time: shape = (853,)
+segments_loudness_start: shape = (853,)
+segments_pitches: shape = (853, 12)
+segments_start: shape = (853,)
+segments_timbre: shape = (853, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.340922755864
+song_id: SOAXGUT12AB0184D53
+start_of_fade_out: 250.16
+tatums_confidence: shape = (985,)
+tatums_start: shape = (985,)
+tempo: 76.296
+time_signature: 3
+time_signature_confidence: 0.51
+title: L' Envers Du Décor
+track_7digitalid: 5160881
+track_id: TRABFPX128F9331F21
+year: 1999

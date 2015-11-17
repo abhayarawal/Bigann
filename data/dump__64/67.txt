@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1382
+artist_familiarity: 0.463790390198
+artist_hotttnesss: 0.412298371377
+artist_id: ARVQV7Q1187FB59C5D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f83a1db4-4f26-4d18-a203-7a2f2d0bb102
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Little Angels
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 49df73c456a82560ab8e6c033abe7d04
+bars_confidence: shape = (79,)
+bars_start: shape = (79,)
+beats_confidence: shape = (321,)
+beats_start: shape = (321,)
+danceability: 0.0
+duration: 229.01506
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.54
+loudness: -6.489
+mode: 1
+mode_confidence: 0.495
+release: Little Of The Past
+release_7digitalid: 382324
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (616,)
+segments_loudness_max: shape = (616,)
+segments_loudness_max_time: shape = (616,)
+segments_loudness_start: shape = (616,)
+segments_pitches: shape = (616, 12)
+segments_start: shape = (616,)
+segments_timbre: shape = (616, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SODSFMM12AAF3B4962
+start_of_fade_out: 209.81
+tatums_confidence: shape = (643,)
+tatums_start: shape = (643,)
+tempo: 85.163
+time_signature: 4
+time_signature_confidence: 0.0
+title: The First Cut Is The Deepest
+track_7digitalid: 4242849
+track_id: TRAWCUK128F92DE15C
+year: 1999

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 328794
+artist_familiarity: 0.291433259678
+artist_hotttnesss: 0.319801989487
+artist_id: AR502DZ1187B98F8E1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bc73bbad-ebd9-45c0-8581-260304b9c008
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Brian Dullaghan
+artist_playmeid: -1
+artist_terms: shape = (9,)
+artist_terms_freq: shape = (9,)
+artist_terms_weight: shape = (9,)
+audio_md5: b35d54a318b57343437fc8e4a335af14
+bars_confidence: shape = (55,)
+bars_start: shape = (55,)
+beats_confidence: shape = (167,)
+beats_start: shape = (167,)
+danceability: 0.0
+duration: 110.44526
+end_of_fade_in: 0.531
+energy: 0.0
+key: 2
+key_confidence: 1.0
+loudness: -21.412
+mode: 1
+mode_confidence: 0.897
+release: Have Fun Learning - 14 Sing Along & Learn Along Songs
+release_7digitalid: 443438
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (416,)
+segments_loudness_max: shape = (416,)
+segments_loudness_max_time: shape = (416,)
+segments_loudness_start: shape = (416,)
+segments_pitches: shape = (416, 12)
+segments_start: shape = (416,)
+segments_timbre: shape = (416, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJTSAW12A58A7B6C2
+start_of_fade_out: 110.445
+tatums_confidence: shape = (334,)
+tatums_start: shape = (334,)
+tempo: 92.29
+time_signature: 3
+time_signature_confidence: 1.0
+title: My First Day At School
+track_7digitalid: 4923910
+track_id: TRACMTN128F92FB689
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 352110
+artist_familiarity: 0.524747608553
+artist_hotttnesss: 0.330240285922
+artist_id: ARD94MR11C8A42B029
+artist_latitude: 35.83073
+artist_location: Tennessee
+artist_longitude: -85.97874
+artist_mbid: 3574dd82-abf7-470c-a4b0-89d3cae9e43a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Richie McDonald
+artist_playmeid: 100343
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 09e0479eb9371976c47e99592de8041d
+bars_confidence: shape = (151,)
+bars_start: shape = (151,)
+beats_confidence: shape = (476,)
+beats_start: shape = (476,)
+danceability: 0.0
+duration: 290.69016
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.154
+loudness: -4.385
+mode: 1
+mode_confidence: 0.367
+release: If Every Day Could Be Christmas
+release_7digitalid: 771263
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (654,)
+segments_loudness_max: shape = (654,)
+segments_loudness_max_time: shape = (654,)
+segments_loudness_start: shape = (654,)
+segments_pitches: shape = (654, 12)
+segments_start: shape = (654,)
+segments_timbre: shape = (654, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVKHLV12AB0187078
+start_of_fade_out: 281.989
+tatums_confidence: shape = (954,)
+tatums_start: shape = (954,)
+tempo: 99.784
+time_signature: 3
+time_signature_confidence: 0.633
+title: If Every Day Could Be Christmas
+track_7digitalid: 8538884
+track_id: TRAMDVH12903CDCD55
+year: 2009

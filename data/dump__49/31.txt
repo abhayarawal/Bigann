@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 191898
+artist_familiarity: 0.503002305754
+artist_hotttnesss: 0.0
+artist_id: ARZIKR01187B98DF08
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ce48dd78-903e-4737-aee7-5e70bba7e15d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Joe Grushecky
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 2218146f5b312cbd875791027c56ad10
+bars_confidence: shape = (110,)
+bars_start: shape = (110,)
+beats_confidence: shape = (446,)
+beats_start: shape = (446,)
+danceability: 0.0
+duration: 313.3122
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.064
+loudness: -6.742
+mode: 1
+mode_confidence: 0.383
+release: Down the Road Apiece - Live
+release_7digitalid: 603940
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1012,)
+segments_loudness_max: shape = (1012,)
+segments_loudness_max_time: shape = (1012,)
+segments_loudness_start: shape = (1012,)
+segments_pitches: shape = (1012, 12)
+segments_start: shape = (1012,)
+segments_timbre: shape = (1012, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOYYHWG12AC3DF9F08
+start_of_fade_out: 307.751
+tatums_confidence: shape = (1336,)
+tatums_start: shape = (1336,)
+tempo: 85.312
+time_signature: 4
+time_signature_confidence: 0.934
+title: How Long
+track_7digitalid: 6708565
+track_id: TRAQUFS12903CF9F32
+year: 0

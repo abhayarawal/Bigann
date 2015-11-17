@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1688
+artist_familiarity: 0.477180008752
+artist_hotttnesss: 0.327954754153
+artist_id: ARB06Z71187B99049A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c736201c-546d-469f-8475-4415db60aad0
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Seamus Egan
+artist_playmeid: 22407
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: b7c0c5c9a277592eac203f79e1144d09
+bars_confidence: shape = (291,)
+bars_start: shape = (291,)
+beats_confidence: shape = (291,)
+beats_start: shape = (291,)
+danceability: 0.0
+duration: 184.2673
+end_of_fade_in: 0.119
+energy: 0.0
+key: 7
+key_confidence: 0.611
+loudness: -15.717
+mode: 1
+mode_confidence: 0.642
+release: Traditional Music Of Ireland
+release_7digitalid: 620764
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (488,)
+segments_loudness_max: shape = (488,)
+segments_loudness_max_time: shape = (488,)
+segments_loudness_start: shape = (488,)
+segments_pitches: shape = (488, 12)
+segments_start: shape = (488,)
+segments_timbre: shape = (488, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOROXGS12AB0180D21
+start_of_fade_out: 178.143
+tatums_confidence: shape = (581,)
+tatums_start: shape = (581,)
+tempo: 98.355
+time_signature: 1
+time_signature_confidence: 0.0
+title: The Munster Cloak
+track_7digitalid: 6895784
+track_id: TRANMSR128F930C751
+year: 0

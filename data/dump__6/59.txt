@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2022
+artist_familiarity: 0.679748141444
+artist_hotttnesss: 0.458595402877
+artist_id: AR1ZYLH1187B98C159
+artist_latitude: nan
+artist_location: East Orange, NJ
+artist_longitude: nan
+artist_mbid: 3bdcd49d-212e-4f4f-877a-eac1e4a2bddc
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Naughty By Nature;Naughty By Nature featuring Zhane
+artist_playmeid: 7556
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: fb2e40068380bc301d3ead20ce3f2742
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (325,)
+beats_start: shape = (325,)
+danceability: 0.0
+duration: 213.91628
+end_of_fade_in: 0.166
+energy: 0.0
+key: 0
+key_confidence: 0.7
+loudness: -8.983
+mode: 1
+mode_confidence: 0.603
+release: Nineteen Naughty Nine Nature's Fury
+release_7digitalid: 295644
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1008,)
+segments_loudness_max: shape = (1008,)
+segments_loudness_max_time: shape = (1008,)
+segments_loudness_start: shape = (1008,)
+segments_pitches: shape = (1008, 12)
+segments_start: shape = (1008,)
+segments_timbre: shape = (1008, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.553778846063
+song_id: SONZEZK12A8C13A421
+start_of_fade_out: 203.099
+tatums_confidence: shape = (1301,)
+tatums_start: shape = (1301,)
+tempo: 91.981
+time_signature: 4
+time_signature_confidence: 1.0
+title: Jamboree
+track_7digitalid: 3326444
+track_id: TRACDWG128F428B068
+year: 0

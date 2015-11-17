@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30249
+artist_familiarity: 0.446256666541
+artist_hotttnesss: 0.346357522243
+artist_id: AR0G47L1187B98CC6D
+artist_latitude: 50.91552
+artist_location: Battle, Sussex, England
+artist_longitude: 0.48883
+artist_mbid: 1ab5ec20-743e-4f11-9c37-237f190ae447
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Frank Chacksfield
+artist_playmeid: 158461
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: b88260930df78319b526e1bd34ae9410
+bars_confidence: shape = (217,)
+bars_start: shape = (217,)
+beats_confidence: shape = (217,)
+beats_start: shape = (217,)
+danceability: 0.0
+duration: 142.65424
+end_of_fade_in: 0.467
+energy: 0.0
+key: 3
+key_confidence: 0.452
+loudness: -20.139
+mode: 1
+mode_confidence: 0.631
+release: Windsor Strings
+release_7digitalid: 582102
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (340,)
+segments_loudness_max: shape = (340,)
+segments_loudness_max_time: shape = (340,)
+segments_loudness_start: shape = (340,)
+segments_pitches: shape = (340, 12)
+segments_start: shape = (340,)
+segments_timbre: shape = (340, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGEWLT12AB018A185
+start_of_fade_out: 135.784
+tatums_confidence: shape = (434,)
+tatums_start: shape = (434,)
+tempo: 95.611
+time_signature: 1
+time_signature_confidence: 0.76
+title: Theme From the Victors
+track_7digitalid: 6451851
+track_id: TRAUSAA12903CBBB7A
+year: 0

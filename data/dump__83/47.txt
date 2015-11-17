@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 92340
+artist_familiarity: 0.637995287104
+artist_hotttnesss: 0.471441876275
+artist_id: AR7U5BZ1187B997FFC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 75fd76eb-09d8-4567-b24a-5fe43334ed15
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Keep Of Kalessin
+artist_playmeid: 54439
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 14063ea8ad4a70294b705e3fd40bc082
+bars_confidence: shape = (177,)
+bars_start: shape = (177,)
+beats_confidence: shape = (724,)
+beats_start: shape = (724,)
+danceability: 0.0
+duration: 340.4273
+end_of_fade_in: 0.113
+energy: 0.0
+key: 5
+key_confidence: 0.092
+loudness: -5.298
+mode: 1
+mode_confidence: 0.366
+release: Agnen: A Journey Through The Dark
+release_7digitalid: 127411
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (623,)
+segments_loudness_max: shape = (623,)
+segments_loudness_max_time: shape = (623,)
+segments_loudness_start: shape = (623,)
+segments_pitches: shape = (623, 12)
+segments_start: shape = (623,)
+segments_timbre: shape = (623, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.480238747979
+song_id: SOSTWHL12A6D4FD2A9
+start_of_fade_out: 336.904
+tatums_confidence: shape = (1449,)
+tatums_start: shape = (1449,)
+tempo: 127.585
+time_signature: 4
+time_signature_confidence: 0.552
+title: As Mist Lay Silent Beneath
+track_7digitalid: 1316034
+track_id: TRBCRDW128F422D8BA
+year: 1999

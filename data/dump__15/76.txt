@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 243633
+artist_familiarity: 0.593119272103
+artist_hotttnesss: 0.373000739576
+artist_id: ARZHUJU1187FB51176
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: dc9fe516-b40e-4c39-84a8-584edc0b9742
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Leigh Jones
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 6be938e06ac8ee94433f466885f23b93
+bars_confidence: shape = (268,)
+bars_start: shape = (268,)
+beats_confidence: shape = (808,)
+beats_start: shape = (808,)
+danceability: 0.0
+duration: 279.74485
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.461
+loudness: -9.027
+mode: 0
+mode_confidence: 0.448
+release: Music in My Soul
+release_7digitalid: 314435
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (868,)
+segments_loudness_max: shape = (868,)
+segments_loudness_max_time: shape = (868,)
+segments_loudness_start: shape = (868,)
+segments_pitches: shape = (868, 12)
+segments_start: shape = (868,)
+segments_timbre: shape = (868, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.510018724636
+song_id: SOKRHFH12A8C142167
+start_of_fade_out: 272.747
+tatums_confidence: shape = (808,)
+tatums_start: shape = (808,)
+tempo: 172.35
+time_signature: 3
+time_signature_confidence: 0.892
+title: Have It Your Way
+track_7digitalid: 3557841
+track_id: TRAFJUG128F92C77B1
+year: 2008

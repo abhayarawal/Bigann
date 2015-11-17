@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 71484
+artist_familiarity: 0.405923906651
+artist_hotttnesss: 0.281396284445
+artist_id: AR15YLD1187FB3D4DD
+artist_latitude: 55.67631
+artist_location: Copenhagen, Denmark
+artist_longitude: 12.56935
+artist_mbid: 27fc27ae-3d8d-40cd-b3cf-ed2541a2321d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: John Tchicai
+artist_playmeid: 56888
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 8b6092b112a73b0c428b57e55f8d17b2
+bars_confidence: shape = (218,)
+bars_start: shape = (218,)
+beats_confidence: shape = (218,)
+beats_start: shape = (218,)
+danceability: 0.0
+duration: 89.88689
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.278
+loudness: -26.7
+mode: 1
+mode_confidence: 0.272
+release: Anybody Home?
+release_7digitalid: 93215
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (396,)
+segments_loudness_max: shape = (396,)
+segments_loudness_max_time: shape = (396,)
+segments_loudness_start: shape = (396,)
+segments_pitches: shape = (396, 12)
+segments_start: shape = (396,)
+segments_timbre: shape = (396, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOIAZPH12A8C135BA6
+start_of_fade_out: 89.887
+tatums_confidence: shape = (435,)
+tatums_start: shape = (435,)
+tempo: 149.005
+time_signature: 1
+time_signature_confidence: 0.0
+title: Faroe Cave Song
+track_7digitalid: 999176
+track_id: TRAJOUG128F4276434
+year: 0

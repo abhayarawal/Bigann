@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10769
+artist_familiarity: 0.598739119236
+artist_hotttnesss: 0.351675722092
+artist_id: ARAVS1S1187FB4C519
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: 699067a0-ae8c-45fc-82c1-6227d91f9bb4
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Chico Hamilton
+artist_playmeid: 39306
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 55784682baf14462ca37fb627a0efa0b
+bars_confidence: shape = (96,)
+bars_start: shape = (96,)
+beats_confidence: shape = (392,)
+beats_start: shape = (392,)
+danceability: 0.0
+duration: 270.602
+end_of_fade_in: 0.166
+energy: 0.0
+key: 6
+key_confidence: 0.47
+loudness: -8.264
+mode: 0
+mode_confidence: 0.572
+release: Heritage
+release_7digitalid: 500552
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (958,)
+segments_loudness_max: shape = (958,)
+segments_loudness_max_time: shape = (958,)
+segments_loudness_start: shape = (958,)
+segments_pitches: shape = (958, 12)
+segments_start: shape = (958,)
+segments_timbre: shape = (958, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKWJCX12AB018542C
+start_of_fade_out: 257.515
+tatums_confidence: shape = (784,)
+tatums_start: shape = (784,)
+tempo: 88.98
+time_signature: 4
+time_signature_confidence: 1.0
+title: Denise (Jeremy Carlstedt Funk Variation)
+track_7digitalid: 5543325
+track_id: TRAYNXO128F9321E48
+year: 0

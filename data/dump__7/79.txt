@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15670
+artist_familiarity: 0.683388516689
+artist_hotttnesss: 0.46311833993
+artist_id: AR8SRQ31187FB4D477
+artist_latitude: 52.94922
+artist_location: Nottingham, England
+artist_longitude: -1.14392
+artist_mbid: 73faa89a-ee00-4e40-b68e-80e4891dbc45
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ten Years After
+artist_playmeid: 19295
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 295660b615865af63da7fd654cebbc70
+bars_confidence: shape = (531,)
+bars_start: shape = (531,)
+beats_confidence: shape = (531,)
+beats_start: shape = (531,)
+danceability: 0.0
+duration: 248.78975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.744
+loudness: -11.814
+mode: 1
+mode_confidence: 0.59
+release: Live 1990
+release_7digitalid: 554077
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (889,)
+segments_loudness_max: shape = (889,)
+segments_loudness_max_time: shape = (889,)
+segments_loudness_start: shape = (889,)
+segments_pitches: shape = (889, 12)
+segments_start: shape = (889,)
+segments_timbre: shape = (889, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SORYSJU12A8C144CFA
+start_of_fade_out: 248.79
+tatums_confidence: shape = (1063,)
+tatums_start: shape = (1063,)
+tempo: 128.598
+time_signature: 1
+time_signature_confidence: 0.0
+title: Victim Of Circumstance
+track_7digitalid: 6126017
+track_id: TRACNXS128F93395BA
+year: 1989

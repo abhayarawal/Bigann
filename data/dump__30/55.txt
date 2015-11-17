@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 227466
+artist_familiarity: 0.391730379324
+artist_hotttnesss: 0.300518710572
+artist_id: ARGCEOR1187B9A4E7D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a705982d-bda6-42aa-9a11-fb192447f66a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Eric Demarsan
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 4c56702698e103006dd4b3dfbabe16bf
+bars_confidence: shape = (166,)
+bars_start: shape = (166,)
+beats_confidence: shape = (166,)
+beats_start: shape = (166,)
+danceability: 0.0
+duration: 91.45424
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.521
+loudness: -24.436
+mode: 0
+mode_confidence: 0.573
+release: Le Samouraï / Les Aventuriers
+release_7digitalid: 494850
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (240,)
+segments_loudness_max: shape = (240,)
+segments_loudness_max_time: shape = (240,)
+segments_loudness_start: shape = (240,)
+segments_pitches: shape = (240, 12)
+segments_start: shape = (240,)
+segments_timbre: shape = (240, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHUJGR12AB01806C8
+start_of_fade_out: 91.454
+tatums_confidence: shape = (331,)
+tatums_start: shape = (331,)
+tempo: 108.11
+time_signature: 1
+time_signature_confidence: 0.0
+title: Valérie
+track_7digitalid: 5479272
+track_id: TRAKIIY128F9312465
+year: 0

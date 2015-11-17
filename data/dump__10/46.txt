@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10559
+artist_familiarity: 0.431030787168
+artist_hotttnesss: 0.333858124563
+artist_id: AROPC1B1187FB567E3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6dc557f0-3d47-446d-bb6d-df2ba2405ef7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Out Of The Grey
+artist_playmeid: 54572
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: ae3b213fc5990c84efbaed3986adac04
+bars_confidence: shape = (156,)
+bars_start: shape = (156,)
+beats_confidence: shape = (629,)
+beats_start: shape = (629,)
+danceability: 0.0
+duration: 252.62975
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.404
+loudness: -10.239
+mode: 1
+mode_confidence: 0.455
+release: The Early Years
+release_7digitalid: 41971
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (872,)
+segments_loudness_max: shape = (872,)
+segments_loudness_max_time: shape = (872,)
+segments_loudness_start: shape = (872,)
+segments_pitches: shape = (872, 12)
+segments_start: shape = (872,)
+segments_timbre: shape = (872, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOQXUNA12A6D4F9AFB
+start_of_fade_out: 227.091
+tatums_confidence: shape = (1258,)
+tatums_start: shape = (1258,)
+tempo: 153.642
+time_signature: 4
+time_signature_confidence: 0.513
+title: The One I've Been Waiting For (Diamond Days Album Version)
+track_7digitalid: 446258
+track_id: TRADLYR128F14821C5
+year: 0

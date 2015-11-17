@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2835
+artist_familiarity: 0.380341153612
+artist_hotttnesss: 0.0
+artist_id: AR1XZ0N1187B9941D5
+artist_latitude: 35.6731
+artist_location: Henning, TN
+artist_longitude: -89.57334
+artist_mbid: e93966d0-eede-4210-9887-b071e6bf593b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Noah Lewis
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 636640451d89e51bdbf43702b446ba6e
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (326,)
+beats_start: shape = (326,)
+danceability: 0.0
+duration: 169.74322
+end_of_fade_in: 0.43
+energy: 0.0
+key: 7
+key_confidence: 0.056
+loudness: -26.469
+mode: 1
+mode_confidence: 0.049
+release: Harmonica Blues
+release_7digitalid: 568713
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (719,)
+segments_loudness_max: shape = (719,)
+segments_loudness_max_time: shape = (719,)
+segments_loudness_start: shape = (719,)
+segments_pitches: shape = (719, 12)
+segments_start: shape = (719,)
+segments_timbre: shape = (719, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYBNOK12AB018B3C3
+start_of_fade_out: 163.027
+tatums_confidence: shape = (652,)
+tatums_start: shape = (652,)
+tempo: 119.187
+time_signature: 4
+time_signature_confidence: 0.039
+title: Devil In The Wood Pile
+track_7digitalid: 6299785
+track_id: TRAVIVX12903C9726D
+year: 2002

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 669
+artist_familiarity: 0.847451713218
+artist_hotttnesss: 0.779968004597
+artist_id: ARPAAHK1187B9ABB00
+artist_latitude: 49.26044
+artist_location: Hanna, Alberta, Canada
+artist_longitude: -123.11403
+artist_mbid: bc710bcf-8815-42cf-bad2-3f1d12246aeb
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Nickelback
+artist_playmeid: 1168
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: 1f11729dcff2fc16f2404a36b4c345ed
+bars_confidence: shape = (91,)
+bars_start: shape = (91,)
+beats_confidence: shape = (367,)
+beats_start: shape = (367,)
+danceability: 0.0
+duration: 248.05832
+end_of_fade_in: 0.096
+energy: 0.0
+key: 10
+key_confidence: 0.892
+loudness: -4.157
+mode: 0
+mode_confidence: 0.747
+release: Dark Horse
+release_7digitalid: 335617
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (794,)
+segments_loudness_max: shape = (794,)
+segments_loudness_max_time: shape = (794,)
+segments_loudness_start: shape = (794,)
+segments_pitches: shape = (794, 12)
+segments_start: shape = (794,)
+segments_timbre: shape = (794, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.984346738534
+song_id: SOWFUUS12AB01800E7
+start_of_fade_out: 233.941
+tatums_confidence: shape = (1465,)
+tatums_start: shape = (1465,)
+tempo: 89.958
+time_signature: 4
+time_signature_confidence: 0.733
+title: If Today Was Your Last Day (Album Version)
+track_7digitalid: 3755160
+track_id: TRBAUHT128F92F0657
+year: 2008

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19334
+artist_familiarity: 0.470212295689
+artist_hotttnesss: 0.320086926752
+artist_id: ARJIE2Y1187B994AB7
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8910064e-1810-42dc-90ba-bdab48cd9326
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Line Renaud
+artist_playmeid: 26581
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 7cbe7311d08629c6cc8e0c6976938fab
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (268,)
+beats_start: shape = (268,)
+danceability: 0.0
+duration: 140.30322
+end_of_fade_in: 0.322
+energy: 0.0
+key: 1
+key_confidence: 0.171
+loudness: -12.755
+mode: 1
+mode_confidence: 0.296
+release: Les Années Chansons
+release_7digitalid: 34757
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (463,)
+segments_loudness_max: shape = (463,)
+segments_loudness_max_time: shape = (463,)
+segments_loudness_start: shape = (463,)
+segments_pitches: shape = (463, 12)
+segments_start: shape = (463,)
+segments_timbre: shape = (463, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOPPEEZ12A6D4F87B2
+start_of_fade_out: 136.62
+tatums_confidence: shape = (536,)
+tatums_start: shape = (536,)
+tempo: 117.537
+time_signature: 3
+time_signature_confidence: 0.836
+title: Il Y A Des Anges
+track_7digitalid: 372751
+track_id: TRAMLMB128F14743B1
+year: 1994

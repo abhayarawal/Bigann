@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8395
+artist_familiarity: 0.685691649
+artist_hotttnesss: 0.542502096105
+artist_id: ARA3VJJ1187FB3F5A6
+artist_latitude: nan
+artist_location: Quantico, VA
+artist_longitude: nan
+artist_mbid: f4992dae-69f2-4c0d-95fa-0b65f47906f2
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Shelby Lynne
+artist_playmeid: 10963
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: a796e31e16aa4895d7544a07a15a23e6
+bars_confidence: shape = (67,)
+bars_start: shape = (67,)
+beats_confidence: shape = (274,)
+beats_start: shape = (274,)
+danceability: 0.0
+duration: 167.07873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.59
+loudness: -17.514
+mode: 1
+mode_confidence: 0.574
+release: Just A Little Lovin'
+release_7digitalid: 191769
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (482,)
+segments_loudness_max: shape = (482,)
+segments_loudness_max_time: shape = (482,)
+segments_loudness_start: shape = (482,)
+segments_pitches: shape = (482, 12)
+segments_start: shape = (482,)
+segments_timbre: shape = (482, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMRFYQ12A8C1325B2
+start_of_fade_out: 159.144
+tatums_confidence: shape = (823,)
+tatums_start: shape = (823,)
+tempo: 100.848
+time_signature: 4
+time_signature_confidence: 0.0
+title: Pretend
+track_7digitalid: 2084880
+track_id: TRAZWDT128F4241B14
+year: 2008

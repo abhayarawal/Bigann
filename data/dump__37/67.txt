@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2699
+artist_familiarity: 0.708439813809
+artist_hotttnesss: 0.623970265514
+artist_id: ARIFGKC1187B9B04D5
+artist_latitude: nan
+artist_location: Steubenville, OH
+artist_longitude: nan
+artist_mbid: 5e6c760b-42e0-4df4-a221-0269355da00a
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Dean Martin
+artist_playmeid: 431
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: f52b93b1b640981598a7dac48ca88889
+bars_confidence: shape = (35,)
+bars_start: shape = (35,)
+beats_confidence: shape = (137,)
+beats_start: shape = (137,)
+danceability: 0.0
+duration: 134.94812
+end_of_fade_in: 0.311
+energy: 0.0
+key: 5
+key_confidence: 0.422
+loudness: -13.296
+mode: 0
+mode_confidence: 0.44
+release: Classic Tracks
+release_7digitalid: 666515
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (260,)
+segments_loudness_max: shape = (260,)
+segments_loudness_max_time: shape = (260,)
+segments_loudness_start: shape = (260,)
+segments_pitches: shape = (260, 12)
+segments_start: shape = (260,)
+segments_timbre: shape = (260, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLTLEZ12AB01886B3
+start_of_fade_out: 130.392
+tatums_confidence: shape = (272,)
+tatums_start: shape = (272,)
+tempo: 63.16
+time_signature: 3
+time_signature_confidence: 0.772
+title: Pennies From Heaven
+track_7digitalid: 7388472
+track_id: TRAMVBZ12903CB2635
+year: 1997

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12699
+artist_familiarity: 0.703664889917
+artist_hotttnesss: 0.448223589227
+artist_id: AR7DFJP1187B992F13
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: eca5dd0e-edc7-4658-85f0-762e263b4acd
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Juana Molina
+artist_playmeid: -1
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 1f66e88009acadeb412b6c26f2c6d1cb
+bars_confidence: shape = (115,)
+bars_start: shape = (115,)
+beats_confidence: shape = (473,)
+beats_start: shape = (473,)
+danceability: 0.0
+duration: 262.89587
+end_of_fade_in: 0.128
+energy: 0.0
+key: 3
+key_confidence: 0.235
+loudness: -16.764
+mode: 1
+mode_confidence: 0.497
+release: Tres Cosas
+release_7digitalid: 496370
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (651,)
+segments_loudness_max: shape = (651,)
+segments_loudness_max_time: shape = (651,)
+segments_loudness_start: shape = (651,)
+segments_pitches: shape = (651, 12)
+segments_start: shape = (651,)
+segments_timbre: shape = (651, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.619305881115
+song_id: SONQKDG12A8C130D96
+start_of_fade_out: 233.929
+tatums_confidence: shape = (946,)
+tatums_start: shape = (946,)
+tempo: 108.504
+time_signature: 4
+time_signature_confidence: 0.812
+title: Isabel
+track_7digitalid: 5496564
+track_id: TRAMHMO128F93167EA
+year: 2004

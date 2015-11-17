@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 24165
+artist_familiarity: 0.89717803847
+artist_hotttnesss: 0.438234413869
+artist_id: ARBXIDR1187B9AB77E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b7a4eab2-75c8-44ef-aa2d-06a6b3a36165
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Avril - Remix By Ana Rago
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 058811c2324455b8ff1a9201f2e3f4bd
+bars_confidence: shape = (85,)
+bars_start: shape = (85,)
+beats_confidence: shape = (260,)
+beats_start: shape = (260,)
+danceability: 0.0
+duration: 188.39465
+end_of_fade_in: 0.392
+energy: 0.0
+key: 6
+key_confidence: 0.405
+loudness: -18.397
+mode: 1
+mode_confidence: 0.395
+release: The Date - Dated Girls Remixes
+release_7digitalid: 123825
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (377,)
+segments_loudness_max: shape = (377,)
+segments_loudness_max_time: shape = (377,)
+segments_loudness_start: shape = (377,)
+segments_pitches: shape = (377, 12)
+segments_start: shape = (377,)
+segments_timbre: shape = (377, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVCZHI12A6D4FAB0D
+start_of_fade_out: 184.448
+tatums_confidence: shape = (521,)
+tatums_start: shape = (521,)
+tempo: 85.282
+time_signature: 3
+time_signature_confidence: 0.941
+title: The Date (Remix By Ana Rago)
+track_7digitalid: 1278208
+track_id: TRABGIA128F4226F8A
+year: 2002

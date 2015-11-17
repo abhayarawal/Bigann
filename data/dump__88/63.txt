@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 54532
+artist_familiarity: 0.472770274243
+artist_hotttnesss: 0.349457929026
+artist_id: AR0SY101187B9B44BE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e720401a-f8a4-4420-8b6e-392e2be622bc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: For Squirrels
+artist_playmeid: 23518
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: e1247c29bbe47a2bcd776862f7b0924e
+bars_confidence: shape = (135,)
+bars_start: shape = (135,)
+beats_confidence: shape = (544,)
+beats_start: shape = (544,)
+danceability: 0.0
+duration: 200.07138
+end_of_fade_in: 0.095
+energy: 0.0
+key: 9
+key_confidence: 0.67
+loudness: -4.737
+mode: 1
+mode_confidence: 0.626
+release: Example
+release_7digitalid: 282970
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (616,)
+segments_loudness_max: shape = (616,)
+segments_loudness_max_time: shape = (616,)
+segments_loudness_start: shape = (616,)
+segments_pitches: shape = (616, 12)
+segments_start: shape = (616,)
+segments_timbre: shape = (616, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.484562529968
+song_id: SOMWENG12A8C132D82
+start_of_fade_out: 187.826
+tatums_confidence: shape = (1089,)
+tatums_start: shape = (1089,)
+tempo: 162.909
+time_signature: 4
+time_signature_confidence: 0.724
+title: Superstar
+track_7digitalid: 3162893
+track_id: TRBEMTF128F42660CA
+year: 1995

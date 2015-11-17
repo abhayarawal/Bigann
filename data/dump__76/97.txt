@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30067
+artist_familiarity: 0.442818538003
+artist_hotttnesss: 0.320520135114
+artist_id: ARTP2PK1187B98FECA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 23c07df4-b3bb-42e8-8bea-098c0b09fb90
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Quinteto Violado
+artist_playmeid: 56151
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: e8a52af019beaeb2ddd92c489589dc7d
+bars_confidence: shape = (84,)
+bars_start: shape = (84,)
+beats_confidence: shape = (339,)
+beats_start: shape = (339,)
+danceability: 0.0
+duration: 132.85832
+end_of_fade_in: 0.316
+energy: 0.0
+key: 1
+key_confidence: 0.647
+loudness: -7.029
+mode: 1
+mode_confidence: 0.563
+release: Pure Brazil II - For All - The Brazilian Northeast Music
+release_7digitalid: 351423
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (585,)
+segments_loudness_max: shape = (585,)
+segments_loudness_max_time: shape = (585,)
+segments_loudness_start: shape = (585,)
+segments_pitches: shape = (585, 12)
+segments_start: shape = (585,)
+segments_timbre: shape = (585, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXHYEH12AB0187FF4
+start_of_fade_out: 129.689
+tatums_confidence: shape = (679,)
+tatums_start: shape = (679,)
+tempo: 155.062
+time_signature: 4
+time_signature_confidence: 1.0
+title: Cadê O Meu Amor
+track_7digitalid: 3928473
+track_id: TRBAGVS128F93128E2
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 142205
+artist_familiarity: 0.601245988381
+artist_hotttnesss: 0.461026520548
+artist_id: AR2S4CA1187B99632E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 652ce480-5f04-4601-9e2d-9b41b42a5ce6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: FFH
+artist_playmeid: 8354
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 97dac73ec83991bb6c6691daaf21b98c
+bars_confidence: shape = (176,)
+bars_start: shape = (176,)
+beats_confidence: shape = (707,)
+beats_start: shape = (707,)
+danceability: 0.0
+duration: 264.07138
+end_of_fade_in: 0.334
+energy: 0.0
+key: 2
+key_confidence: 0.134
+loudness: -5.202
+mode: 1
+mode_confidence: 0.298
+release: Voice From Home
+release_7digitalid: 505846
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (675,)
+segments_loudness_max: shape = (675,)
+segments_loudness_max_time: shape = (675,)
+segments_loudness_start: shape = (675,)
+segments_pitches: shape = (675, 12)
+segments_start: shape = (675,)
+segments_timbre: shape = (675, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOCMKXW12AB0187C9C
+start_of_fade_out: 245.354
+tatums_confidence: shape = (1414,)
+tatums_start: shape = (1414,)
+tempo: 162.002
+time_signature: 4
+time_signature_confidence: 0.794
+title: Great Big Problem
+track_7digitalid: 5602767
+track_id: TRAEOGO128F93302B9
+year: 2005

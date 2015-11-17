@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 341310
+artist_familiarity: 0.528563793159
+artist_hotttnesss: 0.340030739388
+artist_id: ARLZYDV11C8A4226B0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a5b56e83-6056-4ec0-ad21-c30df1611b4f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Albin Myers
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: a770104694909f9e451d2c6f71dc41c5
+bars_confidence: shape = (220,)
+bars_start: shape = (220,)
+beats_confidence: shape = (885,)
+beats_start: shape = (885,)
+danceability: 0.0
+duration: 425.61261
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.583
+loudness: -8.571
+mode: 1
+mode_confidence: 0.269
+release: Defected In The House Ibiza 09
+release_7digitalid: 469879
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1609,)
+segments_loudness_max: shape = (1609,)
+segments_loudness_max_time: shape = (1609,)
+segments_loudness_start: shape = (1609,)
+segments_pitches: shape = (1609, 12)
+segments_start: shape = (1609,)
+segments_timbre: shape = (1609, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.319565986883
+song_id: SOBAUYA12AB0183790
+start_of_fade_out: 419.677
+tatums_confidence: shape = (1769,)
+tatums_start: shape = (1769,)
+tempo: 127.84
+time_signature: 4
+time_signature_confidence: 0.0
+title: BOOM!!!
+track_7digitalid: 5223861
+track_id: TRBFOIY128F93414D1
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 82
+artist_familiarity: 0.637181283968
+artist_hotttnesss: 0.44913995104
+artist_id: AR0N0DX1187FB41327
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: 4fafdd2b-4cd0-4cc7-a338-cd94cfceeea4
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: The Master Musicians of Jajouka featuring Bachir Attar
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: f1c240526ac05733905dad8a167d7e99
+bars_confidence: shape = (335,)
+bars_start: shape = (335,)
+beats_confidence: shape = (1348,)
+beats_start: shape = (1348,)
+danceability: 0.0
+duration: 623.72526
+end_of_fade_in: 0.0
+energy: 0.0
+key: 8
+key_confidence: 0.443
+loudness: -15.926
+mode: 1
+mode_confidence: 0.403
+release: The Master Musicians of Jajouka
+release_7digitalid: 22067
+sections_confidence: shape = (26,)
+sections_start: shape = (26,)
+segments_confidence: shape = (2914,)
+segments_loudness_max: shape = (2914,)
+segments_loudness_max_time: shape = (2914,)
+segments_loudness_start: shape = (2914,)
+segments_pitches: shape = (2914, 12)
+segments_start: shape = (2914,)
+segments_timbre: shape = (2914, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SOSFVEI12A6D4F7C84
+start_of_fade_out: 623.725
+tatums_confidence: shape = (4043,)
+tatums_start: shape = (4043,)
+tempo: 131.578
+time_signature: 4
+time_signature_confidence: 0.519
+title: The Truth Forever
+track_7digitalid: 228120
+track_id: TRACOTC128F1455F32
+year: 0

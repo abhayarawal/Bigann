@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21239
+artist_familiarity: 0.857319900906
+artist_hotttnesss: 0.717209854567
+artist_id: AR6PJ8R1187FB5AD70
+artist_latitude: nan
+artist_location: Barranquilla, Colombia
+artist_longitude: nan
+artist_mbid: bf24ca37-25f4-4e34-9aec-460b94364cfc
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Shakira
+artist_playmeid: 1424
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 15bf313ad84af20fffaa996c9dbfb8e6
+bars_confidence: shape = (165,)
+bars_start: shape = (165,)
+beats_confidence: shape = (665,)
+beats_start: shape = (665,)
+danceability: 0.0
+duration: 224.522
+end_of_fade_in: 2.363
+energy: 0.0
+key: 7
+key_confidence: 0.085
+loudness: -5.823
+mode: 1
+mode_confidence: 0.218
+release: Laundry Service
+release_7digitalid: 289398
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1032,)
+segments_loudness_max: shape = (1032,)
+segments_loudness_max_time: shape = (1032,)
+segments_loudness_start: shape = (1032,)
+segments_pitches: shape = (1032, 12)
+segments_start: shape = (1032,)
+segments_timbre: shape = (1032, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODFKNA12CF5828911
+start_of_fade_out: 221.977
+tatums_confidence: shape = (1330,)
+tatums_start: shape = (1330,)
+tempo: 179.486
+time_signature: 4
+time_signature_confidence: 0.269
+title: Objection (Tango)
+track_7digitalid: 3250680
+track_id: TRBAHID128F4278EAF
+year: 2001

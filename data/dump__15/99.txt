@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19802
+artist_familiarity: 0.516273890848
+artist_hotttnesss: 0.325845945175
+artist_id: ARCHVKD1187B9934E9
+artist_latitude: 37.77916
+artist_location: San Francisco, CA
+artist_longitude: -122.42005
+artist_mbid: df71a2e3-e706-41a2-9a60-b447ec9a36aa
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bill Perkins
+artist_playmeid: 70611
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 1ab47e1b6916969aa589b6dcaa6a6177
+bars_confidence: shape = (166,)
+bars_start: shape = (166,)
+beats_confidence: shape = (682,)
+beats_start: shape = (682,)
+danceability: 0.0
+duration: 341.75955
+end_of_fade_in: 0.224
+energy: 0.0
+key: 1
+key_confidence: 0.237
+loudness: -10.537
+mode: 1
+mode_confidence: 0.37
+release: Swing Spring
+release_7digitalid: 239031
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1428,)
+segments_loudness_max: shape = (1428,)
+segments_loudness_max_time: shape = (1428,)
+segments_loudness_start: shape = (1428,)
+segments_pitches: shape = (1428, 12)
+segments_start: shape = (1428,)
+segments_timbre: shape = (1428, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOBOBPP12A8C12FFCE
+start_of_fade_out: 332.359
+tatums_confidence: shape = (1364,)
+tatums_start: shape = (1364,)
+tempo: 120.731
+time_signature: 4
+time_signature_confidence: 0.529
+title: Swing Spring
+track_7digitalid: 2615804
+track_id: TRAFKTU128F4234726
+year: 0

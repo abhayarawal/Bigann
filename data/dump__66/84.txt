@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4135
+artist_familiarity: 0.682101281711
+artist_hotttnesss: 0.424108277416
+artist_id: ARPATQ21187B9ACAFC
+artist_latitude: 53.4796
+artist_location: Manchester, England
+artist_longitude: -2.24881
+artist_mbid: 01f4fb92-6bf0-4de5-83dc-3fe194e763bf
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Happy Mondays
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 7ec05795800145bd74cbdb0c6138ba77
+bars_confidence: shape = (92,)
+bars_start: shape = (92,)
+beats_confidence: shape = (373,)
+beats_start: shape = (373,)
+danceability: 0.0
+duration: 200.80281
+end_of_fade_in: 0.152
+energy: 0.0
+key: 11
+key_confidence: 0.504
+loudness: -11.927
+mode: 0
+mode_confidence: 0.492
+release: Pills 'n' Thrills And Bellyaches
+release_7digitalid: 42204
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (686,)
+segments_loudness_max: shape = (686,)
+segments_loudness_max_time: shape = (686,)
+segments_loudness_start: shape = (686,)
+segments_pitches: shape = (686, 12)
+segments_start: shape = (686,)
+segments_timbre: shape = (686, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.592054387541
+song_id: SOKQGOQ12A8C13931A
+start_of_fade_out: 197.027
+tatums_confidence: shape = (746,)
+tatums_start: shape = (746,)
+tempo: 113.781
+time_signature: 4
+time_signature_confidence: 1.0
+title: Grandbag's Funeral
+track_7digitalid: 2275058
+track_id: TRAWTUV128F426DD46
+year: 1990

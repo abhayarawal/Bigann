@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 102330
+artist_familiarity: 0.498676830397
+artist_hotttnesss: 0.354168954829
+artist_id: AR0QS8F1187B9ADC96
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 280697d2-164d-4477-971d-06b91e57c6a5
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Sandy Lam
+artist_playmeid: 39158
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: bd50b9f6bae23c7a5d94df656e04d70c
+bars_confidence: shape = (135,)
+bars_start: shape = (135,)
+beats_confidence: shape = (543,)
+beats_start: shape = (543,)
+danceability: 0.0
+duration: 299.44118
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.78
+loudness: -6.179
+mode: 0
+mode_confidence: 0.588
+release: Faces And Places
+release_7digitalid: 138052
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1457,)
+segments_loudness_max: shape = (1457,)
+segments_loudness_max_time: shape = (1457,)
+segments_loudness_start: shape = (1457,)
+segments_pitches: shape = (1457, 12)
+segments_start: shape = (1457,)
+segments_timbre: shape = (1457, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOEPVDO12A8AE48BF4
+start_of_fade_out: 295.265
+tatums_confidence: shape = (1087,)
+tatums_start: shape = (1087,)
+tempo: 109.748
+time_signature: 4
+time_signature_confidence: 1.0
+title: Ai Ji Mei Gui 1000 Da
+track_7digitalid: 1433030
+track_id: TRATNIZ128F42414D2
+year: 0

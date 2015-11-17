@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 192322
+artist_familiarity: 0.639249551657
+artist_hotttnesss: 0.413885097666
+artist_id: ARNUPIM11F4C83BD4D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Melt Banana
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: b5ccc7dfd39d9ac6e55e0b1a34a4eb74
+bars_confidence: shape = (70,)
+bars_start: shape = (70,)
+beats_confidence: shape = (70,)
+beats_start: shape = (70,)
+danceability: 0.0
+duration: 51.61751
+end_of_fade_in: 0.549
+energy: 0.0
+key: 10
+key_confidence: 0.58
+loudness: -5.728
+mode: 1
+mode_confidence: 0.455
+release: Cactuses Come In Flocks
+release_7digitalid: 257800
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (143,)
+segments_loudness_max: shape = (143,)
+segments_loudness_max_time: shape = (143,)
+segments_loudness_start: shape = (143,)
+segments_pitches: shape = (143, 12)
+segments_start: shape = (143,)
+segments_timbre: shape = (143, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.454042766091
+song_id: SOLLKHF12A58A77EE9
+start_of_fade_out: 51.618
+tatums_confidence: shape = (140,)
+tatums_start: shape = (140,)
+tempo: 86.571
+time_signature: 1
+time_signature_confidence: 0.0
+title: Talk Like POP
+track_7digitalid: 2910935
+track_id: TRABUZC128F4278978
+year: 0

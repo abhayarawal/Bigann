@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20723
+artist_familiarity: 0.408071910562
+artist_hotttnesss: 0.313667191807
+artist_id: ARXCUQE1187B9ADD91
+artist_latitude: 43.04181
+artist_location: Milwaukee, WI
+artist_longitude: -87.90684
+artist_mbid: a6744983-be90-41b1-8541-2d8719b03ee7
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pee Wee King
+artist_playmeid: 91121
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 13ae3c156fe16d981f7b4ebb32059d3b
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (408,)
+beats_start: shape = (408,)
+danceability: 0.0
+duration: 167.00036
+end_of_fade_in: 2.154
+energy: 0.0
+key: 7
+key_confidence: 0.592
+loudness: -20.826
+mode: 1
+mode_confidence: 0.609
+release: Pee Wee King's Country Hoedown
+release_7digitalid: 199869
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (489,)
+segments_loudness_max: shape = (489,)
+segments_loudness_max_time: shape = (489,)
+segments_loudness_start: shape = (489,)
+segments_pitches: shape = (489, 12)
+segments_start: shape = (489,)
+segments_timbre: shape = (489, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLQXNP12A58A7C0F3
+start_of_fade_out: 159.277
+tatums_confidence: shape = (408,)
+tatums_start: shape = (408,)
+tempo: 151.049
+time_signature: 4
+time_signature_confidence: 0.961
+title: Where Were You Last Night
+track_7digitalid: 2174763
+track_id: TRADFEB128F4256B21
+year: 0

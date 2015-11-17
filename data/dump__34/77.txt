@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 102310
+artist_familiarity: 0.787580059827
+artist_hotttnesss: 0.430885309304
+artist_id: ARSG0RY1187B98E989
+artist_latitude: nan
+artist_location: CANADA - Ontario
+artist_longitude: nan
+artist_mbid: ecf84a8e-0e6a-471d-95fb-002d67b15052
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Kings
+artist_playmeid: -1
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 563d4ced750a2fbbd03716a8a7e296c8
+bars_confidence: shape = (104,)
+bars_start: shape = (104,)
+beats_confidence: shape = (315,)
+beats_start: shape = (315,)
+danceability: 0.0
+duration: 191.21587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.0
+loudness: -15.59
+mode: 0
+mode_confidence: 0.29
+release: Greatest Groups of the 50's
+release_7digitalid: 377293
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (446,)
+segments_loudness_max: shape = (446,)
+segments_loudness_max_time: shape = (446,)
+segments_loudness_start: shape = (446,)
+segments_pitches: shape = (446, 12)
+segments_start: shape = (446,)
+segments_timbre: shape = (446, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSWZAS12A8C143F3E
+start_of_fade_out: 177.836
+tatums_confidence: shape = (629,)
+tatums_start: shape = (629,)
+tempo: 100.65
+time_signature: 3
+time_signature_confidence: 1.0
+title: Who Do You Love
+track_7digitalid: 4199342
+track_id: TRALVSJ128F92D5010
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 392770
+artist_familiarity: 0.192663853253
+artist_hotttnesss: 0.2436678563
+artist_id: AREFUMW11F4C844D2B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Greek Gypsy Musicians
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 625f4f3953e583f15844d6cf4389ca2b
+bars_confidence: shape = (79,)
+bars_start: shape = (79,)
+beats_confidence: shape = (561,)
+beats_start: shape = (561,)
+danceability: 0.0
+duration: 214.72608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.277
+loudness: -11.277
+mode: 0
+mode_confidence: 0.55
+release: Music of the Greek Gypsies
+release_7digitalid: 532981
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (864,)
+segments_loudness_max: shape = (864,)
+segments_loudness_max_time: shape = (864,)
+segments_loudness_start: shape = (864,)
+segments_pitches: shape = (864, 12)
+segments_start: shape = (864,)
+segments_timbre: shape = (864, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHEUFA12AB017F9A0
+start_of_fade_out: 209.403
+tatums_confidence: shape = (1122,)
+tatums_start: shape = (1122,)
+tempo: 158.419
+time_signature: 7
+time_signature_confidence: 0.695
+title: Teska (Teska)
+track_7digitalid: 5889583
+track_id: TRBFSEX128F9300418
+year: 0

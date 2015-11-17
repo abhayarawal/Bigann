@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 106079
+artist_familiarity: 0.553637086196
+artist_hotttnesss: 0.360200447869
+artist_id: AR2CM6U1187B999EB7
+artist_latitude: 52.51607
+artist_location: Berlin, Germany
+artist_longitude: 13.37698
+artist_mbid: d145a57e-7afb-4793-8cc4-2fad292374ef
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Basic Channel
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: eb5827f0d2cb2e962605b22d28908bb1
+bars_confidence: shape = (422,)
+bars_start: shape = (422,)
+beats_confidence: shape = (1691,)
+beats_start: shape = (1691,)
+danceability: 0.0
+duration: 793.62567
+end_of_fade_in: 0.125
+energy: 0.0
+key: 11
+key_confidence: 0.005
+loudness: -12.593
+mode: 1
+mode_confidence: 0.095
+release: Phylyps Trak II
+release_7digitalid: 219550
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (3391,)
+segments_loudness_max: shape = (3391,)
+segments_loudness_max_time: shape = (3391,)
+segments_loudness_start: shape = (3391,)
+segments_pitches: shape = (3391, 12)
+segments_start: shape = (3391,)
+segments_timbre: shape = (3391, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.50915722819
+song_id: SOCMHBT12A8C13D634
+start_of_fade_out: 773.648
+tatums_confidence: shape = (3383,)
+tatums_start: shape = (3383,)
+tempo: 127.923
+time_signature: 4
+time_signature_confidence: 0.0
+title: Phylyps Trak II/II
+track_7digitalid: 2394975
+track_id: TRACLPE128F4287687
+year: 1994

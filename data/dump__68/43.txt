@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20303
+artist_familiarity: 0.668204960627
+artist_hotttnesss: 0.494381209086
+artist_id: ARXRK5A1187FB3EAC6
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ea1d54f4-45ea-413d-aef9-c2174ddf8654
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Jaguares
+artist_playmeid: 8340
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: b91eef37be2e01cdbcc91495d47c3150
+bars_confidence: shape = (157,)
+bars_start: shape = (157,)
+beats_confidence: shape = (631,)
+beats_start: shape = (631,)
+danceability: 0.0
+duration: 308.4273
+end_of_fade_in: 0.455
+energy: 0.0
+key: 7
+key_confidence: 0.564
+loudness: -8.644
+mode: 1
+mode_confidence: 0.613
+release: Cronicas De Un Laberinto
+release_7digitalid: 514650
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1162,)
+segments_loudness_max: shape = (1162,)
+segments_loudness_max_time: shape = (1162,)
+segments_loudness_start: shape = (1162,)
+segments_pitches: shape = (1162, 12)
+segments_start: shape = (1162,)
+segments_timbre: shape = (1162, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.382935090075
+song_id: SOGBKCK12AF72A0051
+start_of_fade_out: 286.883
+tatums_confidence: shape = (1262,)
+tatums_start: shape = (1262,)
+tempo: 124.057
+time_signature: 4
+time_signature_confidence: 0.704
+title: Esta Muy Claro
+track_7digitalid: 5698349
+track_id: TRAXJGB128F93476D7
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 182859
+artist_familiarity: 0.508220711063
+artist_hotttnesss: 0.376014493031
+artist_id: ARYWZLP1187FB4F7D3
+artist_latitude: 37.51146
+artist_location: Catania, Italy
+artist_longitude: 15.06744
+artist_mbid: 6f5bfd20-84cc-4879-8a40-05631ad576c7
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Vincenzo Bellini
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 8f230d4c5ea8515e4405c41776c390d4
+bars_confidence: shape = (94,)
+bars_start: shape = (94,)
+beats_confidence: shape = (482,)
+beats_start: shape = (482,)
+danceability: 0.0
+duration: 244.61016
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.248
+loudness: -20.819
+mode: 1
+mode_confidence: 0.249
+release: Norma
+release_7digitalid: 253291
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (776,)
+segments_loudness_max: shape = (776,)
+segments_loudness_max_time: shape = (776,)
+segments_loudness_start: shape = (776,)
+segments_pitches: shape = (776, 12)
+segments_start: shape = (776,)
+segments_timbre: shape = (776, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOBVMXR12A58A7AE67
+start_of_fade_out: 244.61
+tatums_confidence: shape = (482,)
+tatums_start: shape = (482,)
+tempo: 117.772
+time_signature: 5
+time_signature_confidence: 0.811
+title: Bellini: Norma: Vanne_ e li cela entrambi
+track_7digitalid: 2800953
+track_id: TRAFVDP128F425F856
+year: 0

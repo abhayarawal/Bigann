@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2090
+artist_familiarity: 0.6357570221
+artist_hotttnesss: 0.37943697224
+artist_id: AR0X3JJ1187FB3A9A7
+artist_latitude: nan
+artist_location: McLellan, FL
+artist_longitude: nan
+artist_mbid: c8d0d74b-80eb-4746-8cea-f5df78b4b90c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Hank Locklin
+artist_playmeid: 16411
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: f06984cbe4bf2347d32f34af8b8bbddc
+bars_confidence: shape = (66,)
+bars_start: shape = (66,)
+beats_confidence: shape = (269,)
+beats_start: shape = (269,)
+danceability: 0.0
+duration: 168.6722
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.88
+loudness: -15.242
+mode: 1
+mode_confidence: 0.637
+release: I Always Lose
+release_7digitalid: 526980
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (382,)
+segments_loudness_max: shape = (382,)
+segments_loudness_max_time: shape = (382,)
+segments_loudness_start: shape = (382,)
+segments_pitches: shape = (382, 12)
+segments_start: shape = (382,)
+segments_timbre: shape = (382, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCHXHX12A8C143E1A
+start_of_fade_out: 162.011
+tatums_confidence: shape = (538,)
+tatums_start: shape = (538,)
+tempo: 100.705
+time_signature: 4
+time_signature_confidence: 0.314
+title: (Sittin') Alone At A Table For Two
+track_7digitalid: 5819188
+track_id: TRAGNCM128F92EF1E8
+year: 0

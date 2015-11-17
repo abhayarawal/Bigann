@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12822
+artist_familiarity: 0.704244766038
+artist_hotttnesss: 0.497568734282
+artist_id: ARRWAD71187FB3FE44
+artist_latitude: 40.71455
+artist_location: NY - New York City
+artist_longitude: -74.00712
+artist_mbid: 231475d8-fddb-4d7d-aad9-287e59e4b4ba
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Martha Wainwright
+artist_playmeid: 21266
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 72b197f1f6789d802a00df4198e31b46
+bars_confidence: shape = (50,)
+bars_start: shape = (50,)
+beats_confidence: shape = (394,)
+beats_start: shape = (394,)
+danceability: 0.0
+duration: 287.08526
+end_of_fade_in: 0.072
+energy: 0.0
+key: 10
+key_confidence: 0.513
+loudness: -11.574
+mode: 0
+mode_confidence: 0.516
+release: Sans Fusils_ Ni Souliers_ A Paris: Martha Wainwright's Piaf Record
+release_7digitalid: 629292
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (794,)
+segments_loudness_max: shape = (794,)
+segments_loudness_max_time: shape = (794,)
+segments_loudness_start: shape = (794,)
+segments_pitches: shape = (794, 12)
+segments_start: shape = (794,)
+segments_timbre: shape = (794, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.597116702923
+song_id: SOPDRUR12AB0182EC1
+start_of_fade_out: 287.085
+tatums_confidence: shape = (788,)
+tatums_start: shape = (788,)
+tempo: 82.124
+time_signature: 7
+time_signature_confidence: 0.74
+title: C'est Toujours la Même Histoire
+track_7digitalid: 7006699
+track_id: TRBDUMD128F9327534
+year: 2009

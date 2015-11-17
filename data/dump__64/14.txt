@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 321614
+artist_familiarity: 0.399817335108
+artist_hotttnesss: 0.2686939676
+artist_id: ARXOFXG122989009DB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Symbiosis Orchestra
+artist_playmeid: -1
+artist_terms: shape = (6,)
+artist_terms_freq: shape = (6,)
+artist_terms_weight: shape = (6,)
+audio_md5: 1e03912d6db518426eabbe09218972e4
+bars_confidence: shape = (127,)
+bars_start: shape = (127,)
+beats_confidence: shape = (639,)
+beats_start: shape = (639,)
+danceability: 0.0
+duration: 297.35138
+end_of_fade_in: 0.078
+energy: 0.0
+key: 6
+key_confidence: 0.674
+loudness: -10.174
+mode: 0
+mode_confidence: 0.525
+release: Live Journeys
+release_7digitalid: 431431
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1262,)
+segments_loudness_max: shape = (1262,)
+segments_loudness_max_time: shape = (1262,)
+segments_loudness_start: shape = (1262,)
+segments_pitches: shape = (1262, 12)
+segments_start: shape = (1262,)
+segments_timbre: shape = (1262, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIRWHR12AAA15FCC6
+start_of_fade_out: 276.915
+tatums_confidence: shape = (1917,)
+tatums_start: shape = (1917,)
+tempo: 133.329
+time_signature: 5
+time_signature_confidence: 0.565
+title: Live At Fabbricaeuropa_ Florence 1
+track_7digitalid: 4813899
+track_id: TRAVYXU128F92E0FE8
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 174717
+artist_familiarity: 0.450743177522
+artist_hotttnesss: 0.331214989792
+artist_id: AR1DGSO1187FB59B15
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: fe4e71a9-ddb9-47b5-9e2e-ec53862a91c6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Eddie Turner
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: ebc62207538e8e2260bbb3714d1dca89
+bars_confidence: shape = (121,)
+bars_start: shape = (121,)
+beats_confidence: shape = (489,)
+beats_start: shape = (489,)
+danceability: 0.0
+duration: 278.30812
+end_of_fade_in: 0.353
+energy: 0.0
+key: 9
+key_confidence: 0.277
+loudness: -3.879
+mode: 1
+mode_confidence: 0.351
+release: The Turner Diaries
+release_7digitalid: 232971
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1006,)
+segments_loudness_max: shape = (1006,)
+segments_loudness_max_time: shape = (1006,)
+segments_loudness_start: shape = (1006,)
+segments_pitches: shape = (1006, 12)
+segments_start: shape = (1006,)
+segments_timbre: shape = (1006, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3759843015
+song_id: SOUWPSC12A81C2193E
+start_of_fade_out: 266.879
+tatums_confidence: shape = (978,)
+tatums_start: shape = (978,)
+tempo: 107.053
+time_signature: 4
+time_signature_confidence: 0.657
+title: Jody
+track_7digitalid: 2555900
+track_id: TRAHHUN128F4227029
+year: 0

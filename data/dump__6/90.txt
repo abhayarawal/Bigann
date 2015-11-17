@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 403487
+artist_familiarity: 0.401708874288
+artist_hotttnesss: 0.0
+artist_id: ARMLW331187B9923F9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 60efff97-12e6-4cb4-a894-c738d3441ff3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: DJ Ostkurve
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 8d749d94ddbaf53316985219181596a1
+bars_confidence: shape = (114,)
+bars_start: shape = (114,)
+beats_confidence: shape = (459,)
+beats_start: shape = (459,)
+danceability: 0.0
+duration: 207.43791
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.006
+loudness: -3.854
+mode: 1
+mode_confidence: 0.158
+release: Top of the Mountains Vol. 5
+release_7digitalid: 655158
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (593,)
+segments_loudness_max: shape = (593,)
+segments_loudness_max_time: shape = (593,)
+segments_loudness_start: shape = (593,)
+segments_pitches: shape = (593, 12)
+segments_start: shape = (593,)
+segments_timbre: shape = (593, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMMUOG12AB01821FF
+start_of_fade_out: 197.95
+tatums_confidence: shape = (919,)
+tatums_start: shape = (919,)
+tempo: 137.951
+time_signature: 4
+time_signature_confidence: 0.034
+title: Sailing
+track_7digitalid: 7259329
+track_id: TRACGFA128F9364E0C
+year: 0

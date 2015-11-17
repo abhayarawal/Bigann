@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10621
+artist_familiarity: 0.479755040732
+artist_hotttnesss: 0.340544079537
+artist_id: ARNARI81187FB3C9A7
+artist_latitude: nan
+artist_location: Rio de Janeiro, Brazil
+artist_longitude: nan
+artist_mbid: b1091eee-4198-4e66-8b15-05ae12b03353
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Flora Purim
+artist_playmeid: 27564
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 04dbcf76084e74f677d6d8ba0e778ba4
+bars_confidence: shape = (110,)
+bars_start: shape = (110,)
+beats_confidence: shape = (553,)
+beats_start: shape = (553,)
+danceability: 0.0
+duration: 246.67383
+end_of_fade_in: 0.169
+energy: 0.0
+key: 8
+key_confidence: 0.544
+loudness: -14.181
+mode: 1
+mode_confidence: 0.565
+release: Perpetual Emotion
+release_7digitalid: 153286
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1061,)
+segments_loudness_max: shape = (1061,)
+segments_loudness_max_time: shape = (1061,)
+segments_loudness_start: shape = (1061,)
+segments_pitches: shape = (1061, 12)
+segments_start: shape = (1061,)
+segments_timbre: shape = (1061, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.334706549069
+song_id: SOEYPZV12A8C138CCC
+start_of_fade_out: 239.16
+tatums_confidence: shape = (1106,)
+tatums_start: shape = (1106,)
+tempo: 137.823
+time_signature: 5
+time_signature_confidence: 0.69
+title: Airto's Jazz Dance
+track_7digitalid: 1604247
+track_id: TRAITKZ128F4266CD1
+year: 2001

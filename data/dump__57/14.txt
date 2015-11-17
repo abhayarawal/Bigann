@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1500
+artist_familiarity: 0.656728903248
+artist_hotttnesss: 0.468511466476
+artist_id: ARA7YDA1187B9A5776
+artist_latitude: nan
+artist_location: Gore, VA
+artist_longitude: nan
+artist_mbid: ad82dd72-0df3-4a09-8d7a-1af9c9e80522
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Patsy Cline
+artist_playmeid: 2588
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: a889db11e8228d6d1f4858e01b2ac40c
+bars_confidence: shape = (55,)
+bars_start: shape = (55,)
+beats_confidence: shape = (222,)
+beats_start: shape = (222,)
+danceability: 0.0
+duration: 146.88608
+end_of_fade_in: 0.241
+energy: 0.0
+key: 9
+key_confidence: 0.719
+loudness: -12.495
+mode: 1
+mode_confidence: 0.513
+release: Walking After Midnight
+release_7digitalid: 747102
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (427,)
+segments_loudness_max: shape = (427,)
+segments_loudness_max_time: shape = (427,)
+segments_loudness_start: shape = (427,)
+segments_pitches: shape = (427, 12)
+segments_start: shape = (427,)
+segments_timbre: shape = (427, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFODDW12AB0182616
+start_of_fade_out: 142.211
+tatums_confidence: shape = (667,)
+tatums_start: shape = (667,)
+tempo: 93.618
+time_signature: 4
+time_signature_confidence: 0.0
+title: Stop The World And Let Me Off
+track_7digitalid: 8268386
+track_id: TRATMDD12903D11C7A
+year: 0

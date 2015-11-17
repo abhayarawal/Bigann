@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 41212
+artist_familiarity: 0.611381594879
+artist_hotttnesss: 0.445321878275
+artist_id: ARSZIBW1187B994053
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f6580b26-77f7-4a7b-8513-6db0476e8f21
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: James Newton Howard
+artist_playmeid: 7886
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 02ec2727529e0334c2cdc8261377dbb9
+bars_confidence: shape = (56,)
+bars_start: shape = (56,)
+beats_confidence: shape = (226,)
+beats_start: shape = (226,)
+danceability: 0.0
+duration: 108.35546
+end_of_fade_in: 4.249
+energy: 0.0
+key: 2
+key_confidence: 0.0
+loudness: -30.893
+mode: 1
+mode_confidence: 0.0
+release: Michael Clayton
+release_7digitalid: 741482
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (322,)
+segments_loudness_max: shape = (322,)
+segments_loudness_max_time: shape = (322,)
+segments_loudness_start: shape = (322,)
+segments_pitches: shape = (322, 12)
+segments_start: shape = (322,)
+segments_timbre: shape = (322, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.377531644977
+song_id: SOBZGTU12AC3DFB6E8
+start_of_fade_out: 96.015
+tatums_confidence: shape = (451,)
+tatums_start: shape = (451,)
+tempo: 129.113
+time_signature: 4
+time_signature_confidence: 0.393
+title: U North
+track_7digitalid: 8212903
+track_id: TRAKOWI12903D04402
+year: 2007

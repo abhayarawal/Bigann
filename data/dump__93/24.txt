@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11214
+artist_familiarity: 0.655359115426
+artist_hotttnesss: 0.405031297936
+artist_id: ARY80281187FB3E380
+artist_latitude: 56.65286
+artist_location: Scotland
+artist_longitude: -3.99667
+artist_mbid: fcdeb957-b420-4249-a092-946b537a00ca
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Sandi Thom
+artist_playmeid: 4235
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 468dfb6d68134860c718c64233f1d0ce
+bars_confidence: shape = (215,)
+bars_start: shape = (215,)
+beats_confidence: shape = (863,)
+beats_start: shape = (863,)
+danceability: 0.0
+duration: 425.19465
+end_of_fade_in: 0.583
+energy: 0.0
+key: 11
+key_confidence: 0.647
+loudness: -4.163
+mode: 0
+mode_confidence: 0.605
+release: I Wish I Was A Punk Rocker (With Flowers In My Hair)
+release_7digitalid: 308610
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (2103,)
+segments_loudness_max: shape = (2103,)
+segments_loudness_max_time: shape = (2103,)
+segments_loudness_start: shape = (2103,)
+segments_pitches: shape = (2103, 12)
+segments_start: shape = (2103,)
+segments_timbre: shape = (2103, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWKKCU12A8C13EDEA
+start_of_fade_out: 420.328
+tatums_confidence: shape = (1727,)
+tatums_start: shape = (1727,)
+tempo: 121.982
+time_signature: 4
+time_signature_confidence: 0.971
+title: I Wish I Was A Punk Rocker (With Flowers In My Hair)
+track_7digitalid: 3481149
+track_id: TRBGEUJ128F42B06B8
+year: 2006

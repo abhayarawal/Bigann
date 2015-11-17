@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2799
+artist_familiarity: 0.391741394148
+artist_hotttnesss: 0.291264811753
+artist_id: ARUKJUP12086C14589
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8a5f2736-bcde-4a2e-8d50-72631d66a7ef
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ramón Vargas;Vesselina Kasarova;Vladimir Jurowski
+artist_playmeid: 20111
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 45c102098c4f3cb99ed630401a2a2d09
+bars_confidence: shape = (296,)
+bars_start: shape = (296,)
+beats_confidence: shape = (889,)
+beats_start: shape = (889,)
+danceability: 0.0
+duration: 333.92281
+end_of_fade_in: 0.775
+energy: 0.0
+key: 6
+key_confidence: 0.594
+loudness: -17.677
+mode: 0
+mode_confidence: 0.556
+release: Massenet: Werther
+release_7digitalid: 295123
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1035,)
+segments_loudness_max: shape = (1035,)
+segments_loudness_max_time: shape = (1035,)
+segments_loudness_start: shape = (1035,)
+segments_pitches: shape = (1035, 12)
+segments_start: shape = (1035,)
+segments_timbre: shape = (1035, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLRVTS12A8C139D5B
+start_of_fade_out: 327.726
+tatums_confidence: shape = (1778,)
+tatums_start: shape = (1778,)
+tempo: 158.715
+time_signature: 3
+time_signature_confidence: 0.406
+title: Werther - Lyric Drama in four Acts/Act III/Toute mon âme est là
+track_7digitalid: 3351958
+track_id: TRAUTJP128F4291366
+year: 0

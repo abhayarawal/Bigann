@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13624
+artist_familiarity: 0.911599657381
+artist_hotttnesss: 0.5723739799
+artist_id: ARG9CID1187B9AB010
+artist_latitude: 40.85251
+artist_location: Long Island, New York
+artist_longitude: -73.13585
+artist_mbid: 350bce49-c21b-4137-b50a-0766ded07e4d
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Taking Back Sunday
+artist_playmeid: -1
+artist_terms: shape = (9,)
+artist_terms_freq: shape = (9,)
+artist_terms_weight: shape = (9,)
+audio_md5: 6cdaca046e4ea771ec99877828575860
+bars_confidence: shape = (86,)
+bars_start: shape = (86,)
+beats_confidence: shape = (348,)
+beats_start: shape = (348,)
+danceability: 0.0
+duration: 219.79383
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.456
+loudness: -4.164
+mode: 1
+mode_confidence: 0.458
+release: Louder Now
+release_7digitalid: 31744
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (672,)
+segments_loudness_max: shape = (672,)
+segments_loudness_max_time: shape = (672,)
+segments_loudness_start: shape = (672,)
+segments_pitches: shape = (672, 12)
+segments_start: shape = (672,)
+segments_timbre: shape = (672, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.849306119805
+song_id: SOBJCMO12A6D4F756F
+start_of_fade_out: 208.701
+tatums_confidence: shape = (1394,)
+tatums_start: shape = (1394,)
+tempo: 95.254
+time_signature: 4
+time_signature_confidence: 0.268
+title: Spin (Album Version)
+track_7digitalid: 342494
+track_id: TRANDBY128F146E8CC
+year: 2006

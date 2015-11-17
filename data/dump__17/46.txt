@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 82
+artist_familiarity: 0.637181283968
+artist_hotttnesss: 0.44913995104
+artist_id: AR0N0DX1187FB41327
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: 4fafdd2b-4cd0-4cc7-a338-cd94cfceeea4
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Talvin Singh
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 4a23236a80287e41a4d0a567adec44f8
+bars_confidence: shape = (617,)
+bars_start: shape = (617,)
+beats_confidence: shape = (617,)
+beats_start: shape = (617,)
+danceability: 0.0
+duration: 350.4322
+end_of_fade_in: 0.311
+energy: 0.0
+key: 10
+key_confidence: 0.642
+loudness: -10.587
+mode: 0
+mode_confidence: 0.552
+release: True Chillout (3CD set)
+release_7digitalid: 123076
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1647,)
+segments_loudness_max: shape = (1647,)
+segments_loudness_max_time: shape = (1647,)
+segments_loudness_start: shape = (1647,)
+segments_pitches: shape = (1647, 12)
+segments_start: shape = (1647,)
+segments_timbre: shape = (1647, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOBKWVC12A8C13F95C
+start_of_fade_out: 323.733
+tatums_confidence: shape = (1851,)
+tatums_start: shape = (1851,)
+tempo: 106.58
+time_signature: 1
+time_signature_confidence: 0.599
+title: Traveller
+track_7digitalid: 1271568
+track_id: TRAFYRO128F42ACFC7
+year: 1998

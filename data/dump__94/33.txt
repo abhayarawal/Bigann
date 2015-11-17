@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 177675
+artist_familiarity: 0.560351641028
+artist_hotttnesss: 0.365026437742
+artist_id: AROSW2I1187FB44866
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d726a2b3-5c6b-4cae-8e79-81d52db9462b
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sonora Carruseles
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: e2b68a022f22e9d1bd3dba39d9031ae0
+bars_confidence: shape = (49,)
+bars_start: shape = (49,)
+beats_confidence: shape = (352,)
+beats_start: shape = (352,)
+danceability: 0.0
+duration: 264.07138
+end_of_fade_in: 0.229
+energy: 0.0
+key: 1
+key_confidence: 0.361
+loudness: -5.878
+mode: 1
+mode_confidence: 0.583
+release: Discos Fuentes Salsa All Stars- La Biblia De La Salsa Vol. 1 & 2
+release_7digitalid: 230683
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1287,)
+segments_loudness_max: shape = (1287,)
+segments_loudness_max_time: shape = (1287,)
+segments_loudness_start: shape = (1287,)
+segments_pitches: shape = (1287, 12)
+segments_start: shape = (1287,)
+segments_timbre: shape = (1287, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLDPJU12A81C2281E
+start_of_fade_out: 259.065
+tatums_confidence: shape = (1758,)
+tatums_start: shape = (1758,)
+tempo: 80.672
+time_signature: 7
+time_signature_confidence: 0.638
+title: Que Suene Mi Campana
+track_7digitalid: 2528184
+track_id: TRBGNLU128F4221FF2
+year: 2000

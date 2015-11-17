@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 919
+artist_familiarity: 0.752318642971
+artist_hotttnesss: 0.540157744296
+artist_id: ARROQSO1187B9AEB80
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a94a7155-c79d-4409-9fcf-220cb0e4dc3a
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Talking Heads
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 47f91ffcd60c2a5a93ac2276acfbce47
+bars_confidence: shape = (167,)
+bars_start: shape = (167,)
+beats_confidence: shape = (671,)
+beats_start: shape = (671,)
+danceability: 0.0
+duration: 348.78649
+end_of_fade_in: 0.09
+energy: 0.0
+key: 10
+key_confidence: 0.032
+loudness: -12.041
+mode: 1
+mode_confidence: 0.396
+release: Speaking In Tongues [w/Bonus Tracks & Interactive Booklet]
+release_7digitalid: 56715
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1416,)
+segments_loudness_max: shape = (1416,)
+segments_loudness_max_time: shape = (1416,)
+segments_loudness_start: shape = (1416,)
+segments_pitches: shape = (1416, 12)
+segments_start: shape = (1416,)
+segments_timbre: shape = (1416, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.629476732675
+song_id: SOHCMZK12A6D4F8933
+start_of_fade_out: 335.25
+tatums_confidence: shape = (1342,)
+tatums_start: shape = (1342,)
+tempo: 116.125
+time_signature: 4
+time_signature_confidence: 0.772
+title: Two Note Swivel (Unfinished Outtake)
+track_7digitalid: 589094
+track_id: TRAWBXQ128F149BF78
+year: 2005

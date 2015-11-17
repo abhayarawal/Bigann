@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 69126
+artist_familiarity: 0.470012402566
+artist_hotttnesss: 0.362782940754
+artist_id: ARDBFT21187B98E524
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 283d1035-e14b-45ee-a977-b533ea47cafc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Janitor Joe
+artist_playmeid: 154553
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 121b6de872246a681d5156a32ed4f2d1
+bars_confidence: shape = (135,)
+bars_start: shape = (135,)
+beats_confidence: shape = (135,)
+beats_start: shape = (135,)
+danceability: 0.0
+duration: 122.72281
+end_of_fade_in: 0.351
+energy: 0.0
+key: 9
+key_confidence: 0.597
+loudness: -12.663
+mode: 0
+mode_confidence: 0.381
+release: Big Metal Birds
+release_7digitalid: 87591
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (353,)
+segments_loudness_max: shape = (353,)
+segments_loudness_max_time: shape = (353,)
+segments_loudness_start: shape = (353,)
+segments_pitches: shape = (353, 12)
+segments_start: shape = (353,)
+segments_timbre: shape = (353, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.345802233965
+song_id: SOZQVRR12A8C1353A2
+start_of_fade_out: 119.757
+tatums_confidence: shape = (269,)
+tatums_start: shape = (269,)
+tempo: 66.932
+time_signature: 1
+time_signature_confidence: 0.0
+title: Voucher
+track_7digitalid: 921508
+track_id: TRBDVBK128F4263798
+year: 1993

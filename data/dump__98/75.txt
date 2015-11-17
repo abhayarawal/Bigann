@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 469264
+artist_familiarity: 0.441061284099
+artist_hotttnesss: 0.343771945118
+artist_id: ARK8F3K1187FB4F002
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4de99623-071b-4352-8e49-8b5f966ab05f
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Oui Oui
+artist_playmeid: -1
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 22ad8044553f63e74b29bd5d73723c2f
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (355,)
+beats_start: shape = (355,)
+danceability: 0.0
+duration: 174.15791
+end_of_fade_in: 0.142
+energy: 0.0
+key: 2
+key_confidence: 0.239
+loudness: -5.546
+mode: 1
+mode_confidence: 0.74
+release: Oui-oui et le cadeau surprise
+release_7digitalid: 630254
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (607,)
+segments_loudness_max: shape = (607,)
+segments_loudness_max_time: shape = (607,)
+segments_loudness_start: shape = (607,)
+segments_pitches: shape = (607, 12)
+segments_start: shape = (607,)
+segments_timbre: shape = (607, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOTRVGJ12AB0183B60
+start_of_fade_out: 167.967
+tatums_confidence: shape = (710,)
+tatums_start: shape = (710,)
+tempo: 125.093
+time_signature: 4
+time_signature_confidence: 1.0
+title: La danse des petits amis
+track_7digitalid: 6994544
+track_id: TRBHYTM128F93247D6
+year: 0

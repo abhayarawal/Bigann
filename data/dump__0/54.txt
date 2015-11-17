@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 104787
+artist_familiarity: 0.640048357157
+artist_hotttnesss: 0.404392640155
+artist_id: AR8W8DN1187FB35ED0
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 42c4b58d-2e28-41d4-bfe5-4edee68386cf
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: The Germs
+artist_playmeid: -1
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 94bd349c13024d5ac83064e4fed31fd7
+bars_confidence: shape = (464,)
+bars_start: shape = (464,)
+beats_confidence: shape = (464,)
+beats_start: shape = (464,)
+danceability: 0.0
+duration: 206.05342
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.641
+loudness: -11.506
+mode: 0
+mode_confidence: 0.597
+release: Germicide
+release_7digitalid: 515081
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (825,)
+segments_loudness_max: shape = (825,)
+segments_loudness_max_time: shape = (825,)
+segments_loudness_start: shape = (825,)
+segments_pitches: shape = (825, 12)
+segments_start: shape = (825,)
+segments_timbre: shape = (825, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCPRKM12AB018A2FD
+start_of_fade_out: 206.053
+tatums_confidence: shape = (927,)
+tatums_start: shape = (927,)
+tempo: 133.144
+time_signature: 1
+time_signature_confidence: 0.0
+title: Forming
+track_7digitalid: 5714272
+track_id: TRAAEAM128F934B199
+year: 1977

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 20865
+artist_familiarity: 0.565604752471
+artist_hotttnesss: 0.414011294632
+artist_id: ARC2HVM1187B98CE05
+artist_latitude: nan
+artist_location: Tennessee
+artist_longitude: nan
+artist_mbid: 7faf90ae-4427-4be4-8f67-1278ef8c552f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Clay Crosse
+artist_playmeid: 19606
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: c8cf8b0431318cd6a88bf55e4fb7ce7d
+bars_confidence: shape = (157,)
+bars_start: shape = (157,)
+beats_confidence: shape = (630,)
+beats_start: shape = (630,)
+danceability: 0.0
+duration: 286.74567
+end_of_fade_in: 2.444
+energy: 0.0
+key: 2
+key_confidence: 0.446
+loudness: -7.997
+mode: 1
+mode_confidence: 0.524
+release: I Surrender All
+release_7digitalid: 539301
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (808,)
+segments_loudness_max: shape = (808,)
+segments_loudness_max_time: shape = (808,)
+segments_loudness_start: shape = (808,)
+segments_pitches: shape = (808, 12)
+segments_start: shape = (808,)
+segments_timbre: shape = (808, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.591754160596
+song_id: SORUVQF12AB017D220
+start_of_fade_out: 274.309
+tatums_confidence: shape = (1260,)
+tatums_start: shape = (1260,)
+tempo: 134.864
+time_signature: 4
+time_signature_confidence: 0.53
+title: I Surrender All
+track_7digitalid: 5973419
+track_id: TRAQQUC128F9314732
+year: 1998

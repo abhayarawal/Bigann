@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 14590
+artist_familiarity: 0.732603394424
+artist_hotttnesss: 0.497050958692
+artist_id: ARLR9U31187B9A71AD
+artist_latitude: 42.32807
+artist_location: Ann Arbor, MI
+artist_longitude: -83.7336
+artist_mbid: 794c6bf2-3241-416f-9b8f-24e2d84a1c4b
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Stooges
+artist_playmeid: 5515
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 1ed0c0cd57a4afd655955ac87c84bd9f
+bars_confidence: shape = (22,)
+bars_start: shape = (22,)
+beats_confidence: shape = (69,)
+beats_start: shape = (69,)
+danceability: 0.0
+duration: 43.91138
+end_of_fade_in: 0.241
+energy: 0.0
+key: 11
+key_confidence: 0.0
+loudness: -22.115
+mode: 0
+mode_confidence: 0.0
+release: 1970: The Complete Fun House Sessions
+release_7digitalid: 65428
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (143,)
+segments_loudness_max: shape = (143,)
+segments_loudness_max_time: shape = (143,)
+segments_loudness_start: shape = (143,)
+segments_pitches: shape = (143, 12)
+segments_start: shape = (143,)
+segments_timbre: shape = (143, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOWNJJD12A6D4F9E34
+start_of_fade_out: 43.911
+tatums_confidence: shape = (139,)
+tatums_start: shape = (139,)
+tempo: 100.353
+time_signature: 3
+time_signature_confidence: 0.792
+title: Studio Dialogue (#19)
+track_7digitalid: 682249
+track_id: TRAIETL128F14B0696
+year: 0

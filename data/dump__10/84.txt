@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10934
+artist_familiarity: 0.687294463335
+artist_hotttnesss: 0.517170480632
+artist_id: ARK0BT61187B9ACEC2
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a0955511-1324-4e9b-834f-e1e140502850
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Monster Magnet
+artist_playmeid: -1
+artist_terms: shape = (23,)
+artist_terms_freq: shape = (23,)
+artist_terms_weight: shape = (23,)
+audio_md5: 32fe40d91bf12d56225c6c275b072ba9
+bars_confidence: shape = (126,)
+bars_start: shape = (126,)
+beats_confidence: shape = (508,)
+beats_start: shape = (508,)
+danceability: 0.0
+duration: 217.10322
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.56
+loudness: -5.75
+mode: 1
+mode_confidence: 0.428
+release: Monolithic baby!
+release_7digitalid: 479032
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (737,)
+segments_loudness_max: shape = (737,)
+segments_loudness_max_time: shape = (737,)
+segments_loudness_start: shape = (737,)
+segments_pitches: shape = (737, 12)
+segments_start: shape = (737,)
+segments_timbre: shape = (737, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.553166753501
+song_id: SOKSRWI12A8C146997
+start_of_fade_out: 202.96
+tatums_confidence: shape = (1524,)
+tatums_start: shape = (1524,)
+tempo: 146.683
+time_signature: 4
+time_signature_confidence: 0.0
+title: CNN War Theme
+track_7digitalid: 5317673
+track_id: TRADPDI128F92EBD32
+year: 2004

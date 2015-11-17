@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 94574
+artist_familiarity: 0.439634435001
+artist_hotttnesss: 0.329543322488
+artist_id: ARV4I6F1187FB4D595
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8d8cfa13-814e-4d72-be51-8c48a5959e9c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: 5th Ward Boyz
+artist_playmeid: 40993
+artist_terms: shape = (14,)
+artist_terms_freq: shape = (14,)
+artist_terms_weight: shape = (14,)
+audio_md5: 296e244d88544fe407292b860741672c
+bars_confidence: shape = (169,)
+bars_start: shape = (169,)
+beats_confidence: shape = (679,)
+beats_start: shape = (679,)
+danceability: 0.0
+duration: 245.99465
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.353
+loudness: -6.565
+mode: 0
+mode_confidence: 0.319
+release: Ghetto Dope
+release_7digitalid: 347112
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1124,)
+segments_loudness_max: shape = (1124,)
+segments_loudness_max_time: shape = (1124,)
+segments_loudness_start: shape = (1124,)
+segments_pitches: shape = (1124, 12)
+segments_start: shape = (1124,)
+segments_timbre: shape = (1124, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAKAIG12A8AE46D63
+start_of_fade_out: 227.561
+tatums_confidence: shape = (1357,)
+tatums_start: shape = (1357,)
+tempo: 165.779
+time_signature: 4
+time_signature_confidence: 0.261
+title: Studio Gangster
+track_7digitalid: 3914832
+track_id: TRAYHQD128F930F4F2
+year: 1993

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 337418
+artist_familiarity: 0.433953995167
+artist_hotttnesss: 0.314700469777
+artist_id: ARJTAZU1187B990051
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 1ea97aa7-fd6b-4694-b100-5d9a85a8f4f6
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Maracaibo 15
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: baa785d649f902a368bb31a6554d520f
+bars_confidence: shape = (503,)
+bars_start: shape = (503,)
+beats_confidence: shape = (503,)
+beats_start: shape = (503,)
+danceability: 0.0
+duration: 171.98975
+end_of_fade_in: 0.27
+energy: 0.0
+key: 2
+key_confidence: 0.331
+loudness: -8.002
+mode: 1
+mode_confidence: 0.406
+release: Gaitas Platinum
+release_7digitalid: 462098
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (867,)
+segments_loudness_max: shape = (867,)
+segments_loudness_max_time: shape = (867,)
+segments_loudness_start: shape = (867,)
+segments_pitches: shape = (867, 12)
+segments_start: shape = (867,)
+segments_timbre: shape = (867, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.299877488274
+song_id: SOLBVSR12AB0183E1A
+start_of_fade_out: 163.741
+tatums_confidence: shape = (1005,)
+tatums_start: shape = (1005,)
+tempo: 181.002
+time_signature: 1
+time_signature_confidence: 0.0
+title: 18 De Noviembre
+track_7digitalid: 5143804
+track_id: TRBGGOT128F932DC65
+year: 0

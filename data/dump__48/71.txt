@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 298524
+artist_familiarity: 0.499308966696
+artist_hotttnesss: 0.442968188735
+artist_id: ARNDFTA125FEF32B22
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bee5be2b-0c22-45ee-817d-b744ea6aa6d3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Noemi
+artist_playmeid: 211373
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: 579330e8ce5a5cb4744ce39c1fc4603d
+bars_confidence: shape = (133,)
+bars_start: shape = (133,)
+beats_confidence: shape = (533,)
+beats_start: shape = (533,)
+danceability: 0.0
+duration: 226.37669
+end_of_fade_in: 0.218
+energy: 0.0
+key: 0
+key_confidence: 0.511
+loudness: -2.957
+mode: 1
+mode_confidence: 0.534
+release: Sulla Mia Pelle Special Edition
+release_7digitalid: 634092
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (767,)
+segments_loudness_max: shape = (767,)
+segments_loudness_max_time: shape = (767,)
+segments_loudness_start: shape = (767,)
+segments_pitches: shape = (767, 12)
+segments_start: shape = (767,)
+segments_timbre: shape = (767, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.611214622611
+song_id: SOOQGOK12AB0185F23
+start_of_fade_out: 221.333
+tatums_confidence: shape = (1065,)
+tatums_start: shape = (1065,)
+tempo: 144.052
+time_signature: 4
+time_signature_confidence: 0.485
+title: Per Colpa Tua
+track_7digitalid: 7040852
+track_id: TRAQOOW128F932FA3C
+year: 2010

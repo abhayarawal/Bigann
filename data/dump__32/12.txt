@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 187288
+artist_familiarity: 0.507550906183
+artist_hotttnesss: 0.412130326542
+artist_id: ARJNRA61187FB57724
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: bea10050-d80f-4280-98fe-23c9d945beb0
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Weirdos_ The
+artist_playmeid: -1
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 238c88a912421dffa6536db982d29e5f
+bars_confidence: shape = (373,)
+bars_start: shape = (373,)
+beats_confidence: shape = (373,)
+beats_start: shape = (373,)
+danceability: 0.0
+duration: 161.27955
+end_of_fade_in: 0.363
+energy: 0.0
+key: 11
+key_confidence: 0.543
+loudness: -9.4
+mode: 0
+mode_confidence: 0.361
+release: We Got The Neutron Bomb
+release_7digitalid: 817147
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (558,)
+segments_loudness_max: shape = (558,)
+segments_loudness_max_time: shape = (558,)
+segments_loudness_start: shape = (558,)
+segments_pitches: shape = (558, 12)
+segments_start: shape = (558,)
+segments_timbre: shape = (558, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOQAJMX12A8C131F1D
+start_of_fade_out: 161.28
+tatums_confidence: shape = (745,)
+tatums_start: shape = (745,)
+tempo: 139.913
+time_signature: 1
+time_signature_confidence: 0.0
+title: I Want What I Want
+track_7digitalid: 9028559
+track_id: TRAKXJS12903CE0434
+year: 1978

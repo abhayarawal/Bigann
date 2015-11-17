@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16932
+artist_familiarity: 0.611180947447
+artist_hotttnesss: 0.399033769592
+artist_id: AR1PRQ21187FB3B481
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4e1d7f85-5f2e-432b-8bac-1c0a44289cee
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Generation X
+artist_playmeid: 10542
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 73cc40d7f3750fc12bc1de023df77290
+bars_confidence: shape = (846,)
+bars_start: shape = (846,)
+beats_confidence: shape = (846,)
+beats_start: shape = (846,)
+danceability: 0.0
+duration: 291.63057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.575
+loudness: -7.46
+mode: 0
+mode_confidence: 0.568
+release: BBC In Concert (1st January 1981)
+release_7digitalid: 717271
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1265,)
+segments_loudness_max: shape = (1265,)
+segments_loudness_max_time: shape = (1265,)
+segments_loudness_start: shape = (1265,)
+segments_pitches: shape = (1265, 12)
+segments_start: shape = (1265,)
+segments_timbre: shape = (1265, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFVXQF12A6D4F82F2
+start_of_fade_out: 289.477
+tatums_confidence: shape = (1691,)
+tatums_start: shape = (1691,)
+tempo: 174.524
+time_signature: 1
+time_signature_confidence: 0.0
+title: Dancing With Myself (BBC In Concert 01/01/81)
+track_7digitalid: 7954469
+track_id: TRAJXED12903CC548C
+year: 0

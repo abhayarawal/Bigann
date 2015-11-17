@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 150079
+artist_familiarity: 0.545110950821
+artist_hotttnesss: 0.34575124702
+artist_id: ARJGNV61187B98F3B5
+artist_latitude: nan
+artist_location: Tallahassee, FL
+artist_longitude: nan
+artist_mbid: 49d81b18-cb1e-49d1-90ef-3cf329e6a1fb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Mira
+artist_playmeid: 184060
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 06963d146fa1ee625710ce60ffd0a10e
+bars_confidence: shape = (60,)
+bars_start: shape = (60,)
+beats_confidence: shape = (245,)
+beats_start: shape = (245,)
+danceability: 0.0
+duration: 177.81506
+end_of_fade_in: 0.554
+energy: 0.0
+key: 4
+key_confidence: 0.695
+loudness: -12.004
+mode: 1
+mode_confidence: 0.673
+release: Openbare Weg
+release_7digitalid: 473710
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (514,)
+segments_loudness_max: shape = (514,)
+segments_loudness_max_time: shape = (514,)
+segments_loudness_start: shape = (514,)
+segments_pitches: shape = (514, 12)
+segments_start: shape = (514,)
+segments_timbre: shape = (514, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUQVUD12A8C142DCE
+start_of_fade_out: 167.48
+tatums_confidence: shape = (490,)
+tatums_start: shape = (490,)
+tempo: 85.621
+time_signature: 4
+time_signature_confidence: 0.612
+title: Openbare Weg
+track_7digitalid: 5262298
+track_id: TRAAHMO128F92DE7C9
+year: 2006

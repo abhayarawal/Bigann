@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4880
+artist_familiarity: 0.565089892204
+artist_hotttnesss: 0.448593802612
+artist_id: AR1DLF21187FB3CBF0
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 3f49566c-2c59-440e-8ea5-4d7afa1ee3f2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: 4Him
+artist_playmeid: 15431
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: 562e4870749dc775e0d8db5c02037595
+bars_confidence: shape = (132,)
+bars_start: shape = (132,)
+beats_confidence: shape = (530,)
+beats_start: shape = (530,)
+danceability: 0.0
+duration: 270.28853
+end_of_fade_in: 0.194
+energy: 0.0
+key: 2
+key_confidence: 0.479
+loudness: -12.922
+mode: 1
+mode_confidence: 0.559
+release: Chapter One .. A Decade
+release_7digitalid: 575275
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (702,)
+segments_loudness_max: shape = (702,)
+segments_loudness_max_time: shape = (702,)
+segments_loudness_start: shape = (702,)
+segments_pitches: shape = (702, 12)
+segments_start: shape = (702,)
+segments_timbre: shape = (702, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOODKXT12AB01838B6
+start_of_fade_out: 256.151
+tatums_confidence: shape = (1060,)
+tatums_start: shape = (1060,)
+tempo: 120.077
+time_signature: 4
+time_signature_confidence: 0.818
+title: Strange Way To Save The World
+track_7digitalid: 6385457
+track_id: TRBIGGV12903CABC77
+year: 2000

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 136020
+artist_familiarity: 0.569409992162
+artist_hotttnesss: 0.410796813321
+artist_id: ARD1C9K1187FB3F742
+artist_latitude: nan
+artist_location: Ewing, NJ
+artist_longitude: nan
+artist_mbid: bfe5d0d6-edb7-442a-b933-5521a92a7d86
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pariah
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: 5f4005b5ff0adfcc6a666a9586b39d1e
+bars_confidence: shape = (354,)
+bars_start: shape = (354,)
+beats_confidence: shape = (1421,)
+beats_start: shape = (1421,)
+danceability: 0.0
+duration: 501.83791
+end_of_fade_in: 0.386
+energy: 0.0
+key: 2
+key_confidence: 0.019
+loudness: -6.217
+mode: 1
+mode_confidence: 0.244
+release: Resilience / Shadow World
+release_7digitalid: 721901
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (2001,)
+segments_loudness_max: shape = (2001,)
+segments_loudness_max_time: shape = (2001,)
+segments_loudness_start: shape = (2001,)
+segments_pitches: shape = (2001, 12)
+segments_start: shape = (2001,)
+segments_timbre: shape = (2001, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.249065794854
+song_id: SOIFOJR12AB018C940
+start_of_fade_out: 496.594
+tatums_confidence: shape = (2842,)
+tatums_start: shape = (2842,)
+tempo: 170.063
+time_signature: 4
+time_signature_confidence: 0.69
+title: Resilience
+track_7digitalid: 8002662
+track_id: TRAYNUG12903CD0FA4
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 434953
+artist_familiarity: 0.522423829106
+artist_hotttnesss: 0.417591879765
+artist_id: ARJJRZ41187FB4C856
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 6dd5961a-16e7-4f03-8385-b251e12f9698
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Floor
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 3954fd0a351eafe0fdbb44dcc31b3923
+bars_confidence: shape = (84,)
+bars_start: shape = (84,)
+beats_confidence: shape = (339,)
+beats_start: shape = (339,)
+danceability: 0.0
+duration: 144.92689
+end_of_fade_in: 2.873
+energy: 0.0
+key: 4
+key_confidence: 0.597
+loudness: -9.105
+mode: 1
+mode_confidence: 0.363
+release: Its Not The Same
+release_7digitalid: 769742
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (478,)
+segments_loudness_max: shape = (478,)
+segments_loudness_max_time: shape = (478,)
+segments_loudness_start: shape = (478,)
+segments_pitches: shape = (478, 12)
+segments_start: shape = (478,)
+segments_timbre: shape = (478, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.266955186276
+song_id: SONROBV12AB0188BC7
+start_of_fade_out: 141.52
+tatums_confidence: shape = (677,)
+tatums_start: shape = (677,)
+tempo: 144.803
+time_signature: 4
+time_signature_confidence: 0.0
+title: Ignis
+track_7digitalid: 8524649
+track_id: TRACHZE12903CD95D2
+year: 2009

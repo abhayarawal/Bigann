@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 36505
+artist_familiarity: 0.370215709399
+artist_hotttnesss: 0.289970666912
+artist_id: ARNJ2VR1187B989DA8
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ede452b4-5166-46a2-816e-12e421adda70
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Paula Santoro
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 6480ce90da708187c6870ce6657c17e6
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (409,)
+beats_start: shape = (409,)
+danceability: 0.0
+duration: 192.41751
+end_of_fade_in: 0.26
+energy: 0.0
+key: 7
+key_confidence: 0.571
+loudness: -17.307
+mode: 1
+mode_confidence: 0.559
+release: Jazz Express - Bossa Nova Nights
+release_7digitalid: 48950
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (690,)
+segments_loudness_max: shape = (690,)
+segments_loudness_max_time: shape = (690,)
+segments_loudness_start: shape = (690,)
+segments_pitches: shape = (690, 12)
+segments_start: shape = (690,)
+segments_timbre: shape = (690, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.377531644977
+song_id: SOKVDQW12A6D4F8C62
+start_of_fade_out: 174.126
+tatums_confidence: shape = (818,)
+tatums_start: shape = (818,)
+tempo: 129.591
+time_signature: 4
+time_signature_confidence: 0.864
+title: The Girl From Ipanema (Garota De Ipanema)
+track_7digitalid: 523520
+track_id: TRADYNL128F148FE5F
+year: 2006

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 216078
+artist_familiarity: 0.411939007536
+artist_hotttnesss: 0.0
+artist_id: ARSKATF1187B98A622
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 975593af-1c8a-4a1e-aba6-90a93866bd6a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Alain Turban
+artist_playmeid: -1
+artist_terms: shape = (7,)
+artist_terms_freq: shape = (7,)
+artist_terms_weight: shape = (7,)
+audio_md5: bfec157becbb245bcc2eefe1ac37eb8c
+bars_confidence: shape = (116,)
+bars_start: shape = (116,)
+beats_confidence: shape = (469,)
+beats_start: shape = (469,)
+danceability: 0.0
+duration: 211.53914
+end_of_fade_in: 0.262
+energy: 0.0
+key: 2
+key_confidence: 0.562
+loudness: -9.86
+mode: 1
+mode_confidence: 0.587
+release: Chanter L'Ardèche
+release_7digitalid: 271353
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (614,)
+segments_loudness_max: shape = (614,)
+segments_loudness_max_time: shape = (614,)
+segments_loudness_start: shape = (614,)
+segments_pitches: shape = (614, 12)
+segments_start: shape = (614,)
+segments_timbre: shape = (614, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQKXGT12A6D4FB337
+start_of_fade_out: 199.889
+tatums_confidence: shape = (937,)
+tatums_start: shape = (937,)
+tempo: 137.495
+time_signature: 4
+time_signature_confidence: 0.756
+title: L'Ardechoise Aux Cheveux Blanc
+track_7digitalid: 3019801
+track_id: TRBFXLM128F424794B
+year: 0

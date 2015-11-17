@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 37779
+artist_familiarity: 0.40029603492
+artist_hotttnesss: 0.391342451875
+artist_id: ARUVPZF1187FB4880D
+artist_latitude: nan
+artist_location: Tennessee
+artist_longitude: nan
+artist_mbid: a174a588-cda4-49cc-8d53-e05e3a42ab4f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Charlie Louvin
+artist_playmeid: 90552
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: e04cccedc95ccbf6223c9a122057a865
+bars_confidence: shape = (63,)
+bars_start: shape = (63,)
+beats_confidence: shape = (254,)
+beats_start: shape = (254,)
+danceability: 0.0
+duration: 142.99383
+end_of_fade_in: 0.397
+energy: 0.0
+key: 7
+key_confidence: 0.057
+loudness: -16.584
+mode: 0
+mode_confidence: 0.222
+release: Hoping That You're Hoping
+release_7digitalid: 250759
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (495,)
+segments_loudness_max: shape = (495,)
+segments_loudness_max_time: shape = (495,)
+segments_loudness_start: shape = (495,)
+segments_pitches: shape = (495, 12)
+segments_start: shape = (495,)
+segments_timbre: shape = (495, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOAFGEU12A8C13FAD7
+start_of_fade_out: 137.642
+tatums_confidence: shape = (507,)
+tatums_start: shape = (507,)
+tempo: 108.873
+time_signature: 4
+time_signature_confidence: 1.0
+title: Don't Laugh
+track_7digitalid: 2928534
+track_id: TRASHYS128F427CD96
+year: 0

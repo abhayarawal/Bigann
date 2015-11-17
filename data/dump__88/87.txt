@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 466819
+artist_familiarity: 0.58543400972
+artist_hotttnesss: 0.375367266727
+artist_id: ARXAHU31187B9B1520
+artist_latitude: 51.50632
+artist_location: London
+artist_longitude: -0.12714
+artist_mbid: 70cfe8a4-1efb-4576-82a7-77533d4b9929
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Vex'd
+artist_playmeid: -1
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 6978ac51ca40951bbccba937e0b4d35a
+bars_confidence: shape = (142,)
+bars_start: shape = (142,)
+beats_confidence: shape = (574,)
+beats_start: shape = (574,)
+danceability: 0.0
+duration: 295.49669
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.291
+loudness: -11.596
+mode: 1
+mode_confidence: 0.372
+release: Cloud Seed
+release_7digitalid: 812979
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (982,)
+segments_loudness_max: shape = (982,)
+segments_loudness_max_time: shape = (982,)
+segments_loudness_start: shape = (982,)
+segments_pitches: shape = (982, 12)
+segments_start: shape = (982,)
+segments_timbre: shape = (982, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.605331887153
+song_id: SOCQVFV12AB01859A2
+start_of_fade_out: 284.886
+tatums_confidence: shape = (1148,)
+tatums_start: shape = (1148,)
+tempo: 117.007
+time_signature: 4
+time_signature_confidence: 0.337
+title: Oceans
+track_7digitalid: 8984739
+track_id: TRBEOUT12903CD5981
+year: 2010

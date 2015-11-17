@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 48295
+artist_familiarity: 0.55757105921
+artist_hotttnesss: 0.306947608643
+artist_id: AR1KMPF1187B99AA98
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cc57dbcb-1263-4039-9045-1ca7dbac4429
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lara & The Gumbo Lickers
+artist_playmeid: 9598
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: bb78c931d88f2fdfb085ea6cff48ac4a
+bars_confidence: shape = (50,)
+bars_start: shape = (50,)
+beats_confidence: shape = (357,)
+beats_start: shape = (357,)
+danceability: 0.0
+duration: 232.85506
+end_of_fade_in: 0.16
+energy: 0.0
+key: 8
+key_confidence: 0.376
+loudness: -8.72
+mode: 1
+mode_confidence: 0.335
+release: Keep cool
+release_7digitalid: 421999
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (839,)
+segments_loudness_max: shape = (839,)
+segments_loudness_max_time: shape = (839,)
+segments_loudness_start: shape = (839,)
+segments_pitches: shape = (839, 12)
+segments_start: shape = (839,)
+segments_timbre: shape = (839, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONVUII12AB0183269
+start_of_fade_out: 223.515
+tatums_confidence: shape = (1070,)
+tatums_start: shape = (1070,)
+tempo: 93.425
+time_signature: 7
+time_signature_confidence: 0.987
+title: The tears I cried
+track_7digitalid: 4703473
+track_id: TRABSJS128F933BD67
+year: 0

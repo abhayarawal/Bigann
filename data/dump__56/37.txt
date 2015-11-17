@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 116523
+artist_familiarity: 0.634845821175
+artist_hotttnesss: 0.243909829684
+artist_id: ARGCNAB1242077FED1
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: MC Sadri
+artist_playmeid: -1
+artist_terms: shape = (5,)
+artist_terms_freq: shape = (5,)
+artist_terms_weight: shape = (5,)
+audio_md5: 2f2dfb7457a4a631efe60e18f80a5c4c
+bars_confidence: shape = (126,)
+bars_start: shape = (126,)
+beats_confidence: shape = (508,)
+beats_start: shape = (508,)
+danceability: 0.0
+duration: 178.96444
+end_of_fade_in: 0.061
+energy: 0.0
+key: 9
+key_confidence: 0.04
+loudness: -6.633
+mode: 0
+mode_confidence: 0.343
+release: Von der Strasse für die Strasse
+release_7digitalid: 149328
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (830,)
+segments_loudness_max: shape = (830,)
+segments_loudness_max_time: shape = (830,)
+segments_loudness_start: shape = (830,)
+segments_pitches: shape = (830, 12)
+segments_start: shape = (830,)
+segments_timbre: shape = (830, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOJPDXW12A8C135D6A
+start_of_fade_out: 168.548
+tatums_confidence: shape = (1015,)
+tatums_start: shape = (1015,)
+tempo: 180.126
+time_signature: 4
+time_signature_confidence: 0.659
+title: Strassenkrieg
+track_7digitalid: 1553634
+track_id: TRATGAS128F425B7F0
+year: 0

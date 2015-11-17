@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 94411
+artist_familiarity: 0.360729205802
+artist_hotttnesss: 0.26712486735
+artist_id: ARD7U0O1187FB5531A
+artist_latitude: 49.34463
+artist_location: Neuilly-sous-Clermont (Oise)
+artist_longitude: 2.40955
+artist_mbid: 8153997d-0a0a-4f4a-8aa1-278bb2d7d006
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: André Verchuren
+artist_playmeid: -1
+artist_terms: shape = (15,)
+artist_terms_freq: shape = (15,)
+artist_terms_weight: shape = (15,)
+audio_md5: 31fce6e531ea8b92828d18a1f3122aed
+bars_confidence: shape = (278,)
+bars_start: shape = (278,)
+beats_confidence: shape = (278,)
+beats_start: shape = (278,)
+danceability: 0.0
+duration: 139.62404
+end_of_fade_in: 0.264
+energy: 0.0
+key: 0
+key_confidence: 0.771
+loudness: -10.062
+mode: 1
+mode_confidence: 0.477
+release: Les Increvables N1
+release_7digitalid: 386704
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (600,)
+segments_loudness_max: shape = (600,)
+segments_loudness_max_time: shape = (600,)
+segments_loudness_start: shape = (600,)
+segments_pitches: shape = (600, 12)
+segments_start: shape = (600,)
+segments_timbre: shape = (600, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONJZMT12AB018299D
+start_of_fade_out: 135.912
+tatums_confidence: shape = (557,)
+tatums_start: shape = (557,)
+tempo: 120.643
+time_signature: 1
+time_signature_confidence: 0.0
+title: Maria Morena
+track_7digitalid: 4289320
+track_id: TRAMWHA128F92E7FDB
+year: 1989

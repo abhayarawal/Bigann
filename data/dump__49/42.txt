@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1633
+artist_familiarity: 0.626803106327
+artist_hotttnesss: 0.405234690787
+artist_id: ARJ9DSA1187B990E00
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4756395c-57ed-4a63-afb2-01117f14dff6
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: John Mayall & The Bluesbreakers
+artist_playmeid: 19569
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 1c58e35abf9f5dc169972edcaf5d3bfa
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (436,)
+beats_start: shape = (436,)
+danceability: 0.0
+duration: 292.91057
+end_of_fade_in: 0.413
+energy: 0.0
+key: 6
+key_confidence: 0.539
+loudness: -9.11
+mode: 0
+mode_confidence: 0.639
+release: Wake Up Call
+release_7digitalid: 300489
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1066,)
+segments_loudness_max: shape = (1066,)
+segments_loudness_max_time: shape = (1066,)
+segments_loudness_start: shape = (1066,)
+segments_pitches: shape = (1066, 12)
+segments_start: shape = (1066,)
+segments_timbre: shape = (1066, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.523759151701
+song_id: SOZQVBA12A8C13CAAD
+start_of_fade_out: 289.808
+tatums_confidence: shape = (1743,)
+tatums_start: shape = (1743,)
+tempo: 89.949
+time_signature: 4
+time_signature_confidence: 0.588
+title: Nature's Disappearing
+track_7digitalid: 3374038
+track_id: TRAQVDI128F42969C8
+year: 2010

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 312159
+artist_familiarity: 0.436660213131
+artist_hotttnesss: 0.299120014474
+artist_id: ARSKDV01187B98A619
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e769ea4a-c129-45df-abb1-3ccf4bbcc629
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Confetti's
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: f2d7309f3d09969ae92e57de8b157a4b
+bars_confidence: shape = (151,)
+bars_start: shape = (151,)
+beats_confidence: shape = (609,)
+beats_start: shape = (609,)
+danceability: 0.0
+duration: 312.45016
+end_of_fade_in: 0.235
+energy: 0.0
+key: 1
+key_confidence: 0.238
+loudness: -5.671
+mode: 1
+mode_confidence: 0.546
+release: Greatest Hits
+release_7digitalid: 663237
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1179,)
+segments_loudness_max: shape = (1179,)
+segments_loudness_max_time: shape = (1179,)
+segments_loudness_start: shape = (1179,)
+segments_pitches: shape = (1179, 12)
+segments_start: shape = (1179,)
+segments_timbre: shape = (1179, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOPDSG12AB018B57E
+start_of_fade_out: 301.929
+tatums_confidence: shape = (1218,)
+tatums_start: shape = (1218,)
+tempo: 119.955
+time_signature: 4
+time_signature_confidence: 0.826
+title: C Day (Maxi Club Version)
+track_7digitalid: 7349521
+track_id: TRBCDEW12903CA9142
+year: 2001

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 231755
+artist_familiarity: 0.589942099118
+artist_hotttnesss: 0.360375718835
+artist_id: ARSO8M21187B99C7EE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 166c2b7c-4da2-4e08-a6da-26d7dd9fb328
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Atomship
+artist_playmeid: 27428
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: a492472185d7a55d5ac90c2f12cccedb
+bars_confidence: shape = (164,)
+bars_start: shape = (164,)
+beats_confidence: shape = (657,)
+beats_start: shape = (657,)
+danceability: 0.0
+duration: 296.04526
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.417
+loudness: -5.233
+mode: 1
+mode_confidence: 0.453
+release: The Crash Of '47
+release_7digitalid: 661422
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1019,)
+segments_loudness_max: shape = (1019,)
+segments_loudness_max_time: shape = (1019,)
+segments_loudness_start: shape = (1019,)
+segments_pitches: shape = (1019, 12)
+segments_start: shape = (1019,)
+segments_timbre: shape = (1019, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.666303015336
+song_id: SOMUZUT12A58A7A330
+start_of_fade_out: 287.626
+tatums_confidence: shape = (1315,)
+tatums_start: shape = (1315,)
+tempo: 136.129
+time_signature: 4
+time_signature_confidence: 0.208
+title: Whitfield
+track_7digitalid: 7330498
+track_id: TRAWFYX12903CA4766
+year: 2004

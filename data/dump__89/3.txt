@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 28789
+artist_familiarity: 0.659251520674
+artist_hotttnesss: 0.399431544311
+artist_id: ARW70HR1187B9A358C
+artist_latitude: nan
+artist_location: Merida, Mexico
+artist_longitude: nan
+artist_mbid: 2fae3969-96cb-4dea-91c8-9108848de808
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Aleks Syntek
+artist_playmeid: 1736
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: da9b75ad96b28948bce031f8682ee519
+bars_confidence: shape = (119,)
+bars_start: shape = (119,)
+beats_confidence: shape = (478,)
+beats_start: shape = (478,)
+danceability: 0.0
+duration: 223.97342
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.305
+loudness: -5.064
+mode: 0
+mode_confidence: 0.285
+release: 20 Años En Vivo
+release_7digitalid: 422480
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (701,)
+segments_loudness_max: shape = (701,)
+segments_loudness_max_time: shape = (701,)
+segments_loudness_start: shape = (701,)
+segments_pitches: shape = (701, 12)
+segments_start: shape = (701,)
+segments_timbre: shape = (701, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOONLCB12AB0186303
+start_of_fade_out: 220.079
+tatums_confidence: shape = (956,)
+tatums_start: shape = (956,)
+tempo: 127.969
+time_signature: 4
+time_signature_confidence: 0.487
+title: In My Arms (Live Auditorio Nacional 08)
+track_7digitalid: 4709815
+track_id: TRBEQPB128F933D621
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 60200
+artist_familiarity: 0.563583586258
+artist_hotttnesss: 0.388527293306
+artist_id: ARTCO131187B9B9ADB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 134ab384-5fa8-45d6-8052-876d0e4790a2
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bob Carlisle
+artist_playmeid: 7107
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: 68be70aa10d056d30db89c3d75d201a4
+bars_confidence: shape = (187,)
+bars_start: shape = (187,)
+beats_confidence: shape = (751,)
+beats_start: shape = (751,)
+danceability: 0.0
+duration: 326.16444
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.325
+loudness: -8.278
+mode: 1
+mode_confidence: 0.466
+release: Stories From The Heart
+release_7digitalid: 536785
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (973,)
+segments_loudness_max: shape = (973,)
+segments_loudness_max_time: shape = (973,)
+segments_loudness_start: shape = (973,)
+segments_pitches: shape = (973, 12)
+segments_start: shape = (973,)
+segments_timbre: shape = (973, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOKTTAS12AB0182418
+start_of_fade_out: 310.979
+tatums_confidence: shape = (1502,)
+tatums_start: shape = (1502,)
+tempo: 141.379
+time_signature: 4
+time_signature_confidence: 0.668
+title: Somewhere
+track_7digitalid: 5951657
+track_id: TRAFUTE128F930F510
+year: 0

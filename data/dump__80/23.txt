@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18028
+artist_familiarity: 0.596275993746
+artist_hotttnesss: 0.3419599966
+artist_id: ARC95UW1187B9B9A62
+artist_latitude: 43.04181
+artist_location: Milwaukee, WI
+artist_longitude: -87.90684
+artist_mbid: dee9c728-837e-4f31-a526-e999f61b6eae
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Speech
+artist_playmeid: 73874
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: ecff71e613da5f166374d48a8e38ea75
+bars_confidence: shape = (31,)
+bars_start: shape = (31,)
+beats_confidence: shape = (197,)
+beats_start: shape = (197,)
+danceability: 0.0
+duration: 160.93995
+end_of_fade_in: 0.16
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -22.033
+mode: 0
+mode_confidence: 0.0
+release: PEECHY
+release_7digitalid: 599979
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (680,)
+segments_loudness_max: shape = (680,)
+segments_loudness_max_time: shape = (680,)
+segments_loudness_start: shape = (680,)
+segments_pitches: shape = (680, 12)
+segments_start: shape = (680,)
+segments_timbre: shape = (680, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOCHJTF12AC4686775
+start_of_fade_out: 160.94
+tatums_confidence: shape = (591,)
+tatums_start: shape = (591,)
+tempo: 73.11
+time_signature: 5
+time_signature_confidence: 0.814
+title: A Talk With Dad
+track_7digitalid: 6658493
+track_id: TRBBLUO12903CEDBD2
+year: 2003

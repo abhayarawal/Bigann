@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30026
+artist_familiarity: 0.547078569134
+artist_hotttnesss: 0.333649140792
+artist_id: ARVKAWO11F50C47C9A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pentangle
+artist_playmeid: 74894
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: 14a172c52c9e2e861949dfbc62e33881
+bars_confidence: shape = (545,)
+bars_start: shape = (545,)
+beats_confidence: shape = (545,)
+beats_start: shape = (545,)
+danceability: 0.0
+duration: 172.38159
+end_of_fade_in: 0.164
+energy: 0.0
+key: 7
+key_confidence: 0.552
+loudness: -11.514
+mode: 1
+mode_confidence: 0.457
+release: The Time Has Come 1967-1973
+release_7digitalid: 414912
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (675,)
+segments_loudness_max: shape = (675,)
+segments_loudness_max_time: shape = (675,)
+segments_loudness_start: shape = (675,)
+segments_pitches: shape = (675, 12)
+segments_start: shape = (675,)
+segments_timbre: shape = (675, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOSNMKX12AB018827B
+start_of_fade_out: 165.256
+tatums_confidence: shape = (1090,)
+tatums_start: shape = (1090,)
+tempo: 193.578
+time_signature: 1
+time_signature_confidence: 0.0
+title: I Saw An Angel
+track_7digitalid: 4622358
+track_id: TRAGLRX128F932A5A3
+year: 0

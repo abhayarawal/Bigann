@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 61091
+artist_familiarity: 0.430538907417
+artist_hotttnesss: 0.316354000822
+artist_id: AR3C3C01187B98E800
+artist_latitude: 56.153
+artist_location: Aarhus, Denmark
+artist_longitude: 10.20452
+artist_mbid: d9566c72-7ad1-410f-9f26-f42ad7cebf1e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Kai Winding
+artist_playmeid: 82556
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 352acc5a415aea488f81e0496fba5fa8
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (413,)
+beats_start: shape = (413,)
+danceability: 0.0
+duration: 223.4771
+end_of_fade_in: 0.291
+energy: 0.0
+key: 0
+key_confidence: 0.0
+loudness: -14.438
+mode: 1
+mode_confidence: 0.138
+release: The Incredible Kai Winding Trombones
+release_7digitalid: 495041
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (809,)
+segments_loudness_max: shape = (809,)
+segments_loudness_max_time: shape = (809,)
+segments_loudness_start: shape = (809,)
+segments_pitches: shape = (809, 12)
+segments_start: shape = (809,)
+segments_timbre: shape = (809, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOUVRGZ12A58A77F90
+start_of_fade_out: 220.026
+tatums_confidence: shape = (825,)
+tatums_start: shape = (825,)
+tempo: 112.006
+time_signature: 4
+time_signature_confidence: 0.844
+title: Mangos
+track_7digitalid: 5481094
+track_id: TRAAHJX128F9312B83
+year: 1961

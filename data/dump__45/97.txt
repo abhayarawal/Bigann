@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 356599
+artist_familiarity: 0.52482139287
+artist_hotttnesss: 0.362162159002
+artist_id: AR19JS91187B98CB66
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 524ccca7-a2bf-4ac5-abfa-f0fe5572ecf5
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Captain Hollywood Project
+artist_playmeid: -1
+artist_terms: shape = (30,)
+artist_terms_freq: shape = (30,)
+artist_terms_weight: shape = (30,)
+audio_md5: 753425f557acd41a2bd120461b840e2d
+bars_confidence: shape = (168,)
+bars_start: shape = (168,)
+beats_confidence: shape = (674,)
+beats_start: shape = (674,)
+danceability: 0.0
+duration: 372.27057
+end_of_fade_in: 0.258
+energy: 0.0
+key: 9
+key_confidence: 0.61
+loudness: -8.255
+mode: 0
+mode_confidence: 0.493
+release: All I Want
+release_7digitalid: 621409
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (1796,)
+segments_loudness_max: shape = (1796,)
+segments_loudness_max_time: shape = (1796,)
+segments_loudness_start: shape = (1796,)
+segments_pitches: shape = (1796, 12)
+segments_start: shape = (1796,)
+segments_timbre: shape = (1796, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTXDHW12AB017DDDB
+start_of_fade_out: 365.958
+tatums_confidence: shape = (2694,)
+tatums_start: shape = (2694,)
+tempo: 109.85
+time_signature: 4
+time_signature_confidence: 0.792
+title: All I Want
+track_7digitalid: 6901033
+track_id: TRAPRDY128F930DBA5
+year: 1993

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 126701
+artist_familiarity: 0.41091288073
+artist_hotttnesss: 0.312678559631
+artist_id: ARLCGW21187B9929EE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f8b180f7-eca1-43b8-93c1-c2560edcca21
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Juan Carmona; Ricardo Larroze
+artist_playmeid: 127077
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: ec8c374cbdb3aaa2cb9413a51765a8d6
+bars_confidence: shape = (149,)
+bars_start: shape = (149,)
+beats_confidence: shape = (458,)
+beats_start: shape = (458,)
+danceability: 0.0
+duration: 234.05669
+end_of_fade_in: 0.156
+energy: 0.0
+key: 2
+key_confidence: 0.463
+loudness: -9.464
+mode: 0
+mode_confidence: 0.378
+release: Orillas
+release_7digitalid: 684335
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (977,)
+segments_loudness_max: shape = (977,)
+segments_loudness_max_time: shape = (977,)
+segments_loudness_start: shape = (977,)
+segments_pitches: shape = (977, 12)
+segments_start: shape = (977,)
+segments_timbre: shape = (977, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORVXDK12AC3DFA201
+start_of_fade_out: 234.057
+tatums_confidence: shape = (916,)
+tatums_start: shape = (916,)
+tempo: 115.231
+time_signature: 3
+time_signature_confidence: 1.0
+title: Marrakech
+track_7digitalid: 7594932
+track_id: TRBFZRR12903CE48D1
+year: 0

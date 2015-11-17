@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12427
+artist_familiarity: 0.682355124453
+artist_hotttnesss: 0.393642309932
+artist_id: ARFT5CP1187FB50263
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e96ab876-83bc-4f5d-98da-91dc8589acbc
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Junior Jack
+artist_playmeid: 834
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 4908bcb56bec91d3c1f08240641a2a9a
+bars_confidence: shape = (0,)
+bars_start: shape = (0,)
+beats_confidence: shape = (0,)
+beats_start: shape = (0,)
+danceability: 0.0
+duration: 482.55955
+end_of_fade_in: 0.2
+energy: 0.0
+key: 7
+key_confidence: 0.722
+loudness: -11.985
+mode: 1
+mode_confidence: 0.63
+release: Thrill Me
+release_7digitalid: 123659
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (2755,)
+segments_loudness_max: shape = (2755,)
+segments_loudness_max_time: shape = (2755,)
+segments_loudness_start: shape = (2755,)
+segments_pitches: shape = (2755, 12)
+segments_start: shape = (2755,)
+segments_timbre: shape = (2755, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPEKHR12A6D4FB338
+start_of_fade_out: 444.685
+tatums_confidence: shape = (0,)
+tatums_start: shape = (0,)
+tempo: 0.0
+time_signature: 3
+time_signature_confidence: 1.0
+title: Thrill Me (Atfc's Jackhammer Re-Rub)
+track_7digitalid: 1276883
+track_id: TRAOKUH128F4226A6C
+year: 2002

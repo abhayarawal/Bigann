@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4116
+artist_familiarity: 0.523962423072
+artist_hotttnesss: 0.44086755723
+artist_id: ARSEC9Q1187B98912D
+artist_latitude: nan
+artist_location: Regina, Saskatchewan, Canada
+artist_longitude: nan
+artist_mbid: d943c745-baf9-4aa4-b1ee-df76db44bec8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Colin James
+artist_playmeid: 98468
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 3be60aca7278e8d348035de0c79f1075
+bars_confidence: shape = (177,)
+bars_start: shape = (177,)
+beats_confidence: shape = (711,)
+beats_start: shape = (711,)
+danceability: 0.0
+duration: 280.11057
+end_of_fade_in: 0.165
+energy: 0.0
+key: 5
+key_confidence: 0.397
+loudness: -8.882
+mode: 1
+mode_confidence: 0.376
+release: Bad Habits
+release_7digitalid: 759424
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (969,)
+segments_loudness_max: shape = (969,)
+segments_loudness_max_time: shape = (969,)
+segments_loudness_start: shape = (969,)
+segments_pitches: shape = (969, 12)
+segments_start: shape = (969,)
+segments_timbre: shape = (969, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.212045405484
+song_id: SOTUGEK12AB018BE28
+start_of_fade_out: 268.08
+tatums_confidence: shape = (1421,)
+tatums_start: shape = (1421,)
+tempo: 154.548
+time_signature: 4
+time_signature_confidence: 0.734
+title: Better Days
+track_7digitalid: 8408082
+track_id: TRBAIKM12903CBCF21
+year: 1995

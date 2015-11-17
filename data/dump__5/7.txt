@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 281172
+artist_familiarity: 0.511711973437
+artist_hotttnesss: 0.332567729946
+artist_id: AROBERX1187B9B437A
+artist_latitude: nan
+artist_location: Brooklyn, NY
+artist_longitude: nan
+artist_mbid: cbf21162-907a-44d7-83a3-4474b9a3a078
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Stars Like Fleas
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 9f31e37c144f880edf89d1e9bb7a6bbb
+bars_confidence: shape = (458,)
+bars_start: shape = (458,)
+beats_confidence: shape = (458,)
+beats_start: shape = (458,)
+danceability: 0.0
+duration: 264.51546
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.588
+loudness: -7.401
+mode: 1
+mode_confidence: 0.394
+release: The Ken Burns Effect
+release_7digitalid: 529798
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (790,)
+segments_loudness_max: shape = (790,)
+segments_loudness_max_time: shape = (790,)
+segments_loudness_start: shape = (790,)
+segments_pitches: shape = (790, 12)
+segments_start: shape = (790,)
+segments_timbre: shape = (790, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOUYCPO12AAF3B3E0B
+start_of_fade_out: 249.736
+tatums_confidence: shape = (915,)
+tatums_start: shape = (915,)
+tempo: 103.936
+time_signature: 1
+time_signature_confidence: 0.0
+title: You Are My Memoir
+track_7digitalid: 5853000
+track_id: TRABQVM128F92F7544
+year: 2007

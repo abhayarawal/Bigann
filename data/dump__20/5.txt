@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40777
+artist_familiarity: 0.51326447604
+artist_hotttnesss: 0.334072668817
+artist_id: AR32PK91187FB4D6E2
+artist_latitude: nan
+artist_location: Denver, CO
+artist_longitude: nan
+artist_mbid: f4b25300-be93-49bc-9d44-15f9de480f50
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Philip Bailey
+artist_playmeid: 8836
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 5650a4011dc13b123f808d747bba65da
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (412,)
+beats_start: shape = (412,)
+danceability: 0.0
+duration: 227.47383
+end_of_fade_in: 0.183
+energy: 0.0
+key: 8
+key_confidence: 0.343
+loudness: -7.884
+mode: 1
+mode_confidence: 0.461
+release: Soul On Jazz
+release_7digitalid: 602229
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1242,)
+segments_loudness_max: shape = (1242,)
+segments_loudness_max_time: shape = (1242,)
+segments_loudness_start: shape = (1242,)
+segments_pitches: shape = (1242, 12)
+segments_start: shape = (1242,)
+segments_timbre: shape = (1242, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORGQGD12AB0185998
+start_of_fade_out: 209.74
+tatums_confidence: shape = (1650,)
+tatums_start: shape = (1650,)
+tempo: 109.963
+time_signature: 4
+time_signature_confidence: 1.0
+title: Sometime Ago
+track_7digitalid: 6686587
+track_id: TRAGURD12903CF497F
+year: 0

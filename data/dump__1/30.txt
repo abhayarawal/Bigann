@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 609868
+artist_familiarity: 0.491921880771
+artist_hotttnesss: 0.345809443184
+artist_id: ARIU0MA1187B98D36F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 52eb3638-630e-4860-a275-ad205728d7ed
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dharma Bums
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 3c860e6fb9b8fd1df84f18cb0d91c854
+bars_confidence: shape = (322,)
+bars_start: shape = (322,)
+beats_confidence: shape = (322,)
+beats_start: shape = (322,)
+danceability: 0.0
+duration: 127.4771
+end_of_fade_in: 2.148
+energy: 0.0
+key: 6
+key_confidence: 0.81
+loudness: -5.541
+mode: 1
+mode_confidence: 0.864
+release: DUMB: 4-track cassette recordings (1987)
+release_7digitalid: 818344
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (485,)
+segments_loudness_max: shape = (485,)
+segments_loudness_max_time: shape = (485,)
+segments_loudness_start: shape = (485,)
+segments_pitches: shape = (485, 12)
+segments_start: shape = (485,)
+segments_timbre: shape = (485, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOPUTF12AB018DFAA
+start_of_fade_out: 118.195
+tatums_confidence: shape = (644,)
+tatums_start: shape = (644,)
+tempo: 156.968
+time_signature: 1
+time_signature_confidence: 0.0
+title: Simon's Folly
+track_7digitalid: 9041091
+track_id: TRAAJEK12903CE351A
+year: 0

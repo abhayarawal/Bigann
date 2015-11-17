@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1237
+artist_familiarity: 0.93391610637
+artist_hotttnesss: 0.821648466961
+artist_id: AR52EZT1187B9900BF
+artist_latitude: 40.8079
+artist_location: Harlem, New York
+artist_longitude: -73.9454
+artist_mbid: 8ef1df30-ae4f-4dbd-9351-1a32b208a01e
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Alicia Keys
+artist_playmeid: 66
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 5f73683c58abca4c5c60e3e251869ddf
+bars_confidence: shape = (27,)
+bars_start: shape = (27,)
+beats_confidence: shape = (304,)
+beats_start: shape = (304,)
+danceability: 0.0
+duration: 244.45342
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.649
+loudness: -12.518
+mode: 1
+mode_confidence: 0.35
+release: Unplugged
+release_7digitalid: 307580
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (681,)
+segments_loudness_max: shape = (681,)
+segments_loudness_max_time: shape = (681,)
+segments_loudness_start: shape = (681,)
+segments_pitches: shape = (681, 12)
+segments_start: shape = (681,)
+segments_timbre: shape = (681, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.623448448822
+song_id: SOXQVZC12A8C13C5D9
+start_of_fade_out: 244.453
+tatums_confidence: shape = (912,)
+tatums_start: shape = (912,)
+tempo: 74.078
+time_signature: 7
+time_signature_confidence: 1.0
+title: If I Was Your Woman
+track_7digitalid: 3463819
+track_id: TRAPFIP128F42AC31E
+year: 2005

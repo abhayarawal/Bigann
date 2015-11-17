@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 399720
+artist_familiarity: 0.449743601051
+artist_hotttnesss: 0.0
+artist_id: AROENEQ11F4C8451B1
+artist_latitude: nan
+artist_location: Texas
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Lord Henry
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 5f3d30cfef40ea65b65e17942151ef99
+bars_confidence: shape = (93,)
+bars_start: shape = (93,)
+beats_confidence: shape = (375,)
+beats_start: shape = (375,)
+danceability: 0.0
+duration: 240.84853
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.722
+loudness: -7.689
+mode: 1
+mode_confidence: 0.619
+release: Zoo Palace
+release_7digitalid: 540898
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (581,)
+segments_loudness_max: shape = (581,)
+segments_loudness_max_time: shape = (581,)
+segments_loudness_start: shape = (581,)
+segments_pitches: shape = (581, 12)
+segments_start: shape = (581,)
+segments_timbre: shape = (581, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.193263903188
+song_id: SOSUZKN12AB0182AED
+start_of_fade_out: 230.33
+tatums_confidence: shape = (750,)
+tatums_start: shape = (750,)
+tempo: 96.967
+time_signature: 4
+time_signature_confidence: 0.923
+title: So So So
+track_7digitalid: 5990139
+track_id: TRAYZDO128F9318816
+year: 0

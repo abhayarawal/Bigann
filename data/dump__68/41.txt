@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4248
+artist_familiarity: 0.69062625612
+artist_hotttnesss: 0.420801849507
+artist_id: ARHL8SP1187B98F8A3
+artist_latitude: 40.71455
+artist_location: Virginia
+artist_longitude: -74.00712
+artist_mbid: e204ed91-3684-4561-b29b-d0b53f8459a7
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Sick Of It All
+artist_playmeid: 45662
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 1ba21df34858dae483506b6bc58af633
+bars_confidence: shape = (53,)
+bars_start: shape = (53,)
+beats_confidence: shape = (381,)
+beats_start: shape = (381,)
+danceability: 0.0
+duration: 223.7122
+end_of_fade_in: 1.611
+energy: 0.0
+key: 4
+key_confidence: 0.307
+loudness: -8.814
+mode: 0
+mode_confidence: 0.375
+release: Scratch The Surface
+release_7digitalid: 9683
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (799,)
+segments_loudness_max: shape = (799,)
+segments_loudness_max_time: shape = (799,)
+segments_loudness_start: shape = (799,)
+segments_pitches: shape = (799, 12)
+segments_start: shape = (799,)
+segments_timbre: shape = (799, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.270775998946
+song_id: SOQDCJO12A6701C086
+start_of_fade_out: 206.466
+tatums_confidence: shape = (762,)
+tatums_start: shape = (762,)
+tempo: 101.143
+time_signature: 7
+time_signature_confidence: 1.0
+title: Consume (LP Version)
+track_7digitalid: 99696
+track_id: TRAXJBW128E0788652
+year: 1994

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15849
+artist_familiarity: 0.608018105915
+artist_hotttnesss: 0.28552323045
+artist_id: ARNQESK11F4C83FD6F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Beatnuts featuring Tony Touch
+artist_playmeid: -1
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: ee3dddd8439c56cda67392af4c9be059
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (361,)
+beats_start: shape = (361,)
+danceability: 0.0
+duration: 135.13098
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.095
+loudness: -10.383
+mode: 1
+mode_confidence: 0.406
+release: A Musical Massacre (Explicit)
+release_7digitalid: 284078
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (648,)
+segments_loudness_max: shape = (648,)
+segments_loudness_max_time: shape = (648,)
+segments_loudness_start: shape = (648,)
+segments_pitches: shape = (648, 12)
+segments_start: shape = (648,)
+segments_timbre: shape = (648, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKYKFF12A8C131FEB
+start_of_fade_out: 123.646
+tatums_confidence: shape = (361,)
+tatums_start: shape = (361,)
+tempo: 161.739
+time_signature: 4
+time_signature_confidence: 1.0
+title: Cocotaso featuring Tony Touch
+track_7digitalid: 3187847
+track_id: TRASPXS128F426A1C0
+year: 0

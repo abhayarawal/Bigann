@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2031
+artist_familiarity: 0.751629597261
+artist_hotttnesss: 0.550212561917
+artist_id: AR9AWNF1187B9AB0B4
+artist_latitude: nan
+artist_location: Seattle, Washington USA
+artist_longitude: nan
+artist_mbid: 4cd556a5-db82-43f6-8d55-99598b42da8f
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Kenny G
+artist_playmeid: 862
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 2a003e96c596139b3573f17c8008b1c8
+bars_confidence: shape = (98,)
+bars_start: shape = (98,)
+beats_confidence: shape = (396,)
+beats_start: shape = (396,)
+danceability: 0.0
+duration: 285.98812
+end_of_fade_in: 3.199
+energy: 0.0
+key: 4
+key_confidence: 0.222
+loudness: -12.853
+mode: 0
+mode_confidence: 0.264
+release: Duotones
+release_7digitalid: 299678
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (942,)
+segments_loudness_max: shape = (942,)
+segments_loudness_max_time: shape = (942,)
+segments_loudness_start: shape = (942,)
+segments_pitches: shape = (942, 12)
+segments_start: shape = (942,)
+segments_timbre: shape = (942, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTFQLY12A8C13AD51
+start_of_fade_out: 272.893
+tatums_confidence: shape = (1581,)
+tatums_start: shape = (1581,)
+tempo: 84.825
+time_signature: 4
+time_signature_confidence: 0.874
+title: Don't Make Me Wait For Love
+track_7digitalid: 3364639
+track_id: TRAKYHF128F42944ED
+year: 1986

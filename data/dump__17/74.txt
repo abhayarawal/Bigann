@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 121400
+artist_familiarity: 0.545165441138
+artist_hotttnesss: 0.348630142159
+artist_id: ARX14WH1187FB50649
+artist_latitude: 51.76102
+artist_location: Hatfield, Hertfordshire, England
+artist_longitude: -0.23396
+artist_mbid: 4735caf5-711e-4042-bb63-a2991420239a
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Babe Ruth
+artist_playmeid: 98989
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: 2a06917db3487a8c41531dc59e9a950f
+bars_confidence: shape = (169,)
+bars_start: shape = (169,)
+beats_confidence: shape = (687,)
+beats_start: shape = (687,)
+danceability: 0.0
+duration: 365.16526
+end_of_fade_in: 21.966
+energy: 0.0
+key: 4
+key_confidence: 0.471
+loudness: -8.351
+mode: 1
+mode_confidence: 0.176
+release: Babe Ruth
+release_7digitalid: 360812
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (985,)
+segments_loudness_max: shape = (985,)
+segments_loudness_max_time: shape = (985,)
+segments_loudness_start: shape = (985,)
+segments_pitches: shape = (985, 12)
+segments_start: shape = (985,)
+segments_timbre: shape = (985, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOZIGEW12AB0183C28
+start_of_fade_out: 356.531
+tatums_confidence: shape = (1373,)
+tatums_start: shape = (1373,)
+tempo: 111.315
+time_signature: 4
+time_signature_confidence: 0.0
+title: Dancer (2007 Digital Remaster)
+track_7digitalid: 4019494
+track_id: TRAGAVB128F932585E
+year: 1975

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6678
+artist_familiarity: 0.696816891791
+artist_hotttnesss: 0.48210001892
+artist_id: ARD8JVH1187FB4DA04
+artist_latitude: nan
+artist_location: England
+artist_longitude: nan
+artist_mbid: 0053dbd9-bfbc-4e38-9f08-66a27d914c38
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Bad Company
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 7f7349a97782ade94305a5e10b11b225
+bars_confidence: shape = (158,)
+bars_start: shape = (158,)
+beats_confidence: shape = (635,)
+beats_start: shape = (635,)
+danceability: 0.0
+duration: 296.12363
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.015
+loudness: -9.045
+mode: 1
+mode_confidence: 0.308
+release: Hard Rock Live
+release_7digitalid: 821487
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (834,)
+segments_loudness_max: shape = (834,)
+segments_loudness_max_time: shape = (834,)
+segments_loudness_start: shape = (834,)
+segments_pitches: shape = (834, 12)
+segments_start: shape = (834,)
+segments_timbre: shape = (834, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONSRKM12AB018E7DA
+start_of_fade_out: 296.124
+tatums_confidence: shape = (1270,)
+tatums_start: shape = (1270,)
+tempo: 130.049
+time_signature: 4
+time_signature_confidence: 0.25
+title: Simple Man
+track_7digitalid: 9069751
+track_id: TRAPNII12903CEA4F8
+year: 1976

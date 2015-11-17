@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7789
+artist_familiarity: 0.432074796015
+artist_hotttnesss: 0.299392787198
+artist_id: ARUBX2Y1187B99CD25
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: f02e98c4-a0fa-4c02-ac0a-587f4319ac87
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tyrone Taylor
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 28a3b42112d08fd6bb91fbc63ac86992
+bars_confidence: shape = (118,)
+bars_start: shape = (118,)
+beats_confidence: shape = (473,)
+beats_start: shape = (473,)
+danceability: 0.0
+duration: 178.15465
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.677
+loudness: -6.536
+mode: 1
+mode_confidence: 0.677
+release: Reggae Max
+release_7digitalid: 345122
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (702,)
+segments_loudness_max: shape = (702,)
+segments_loudness_max_time: shape = (702,)
+segments_loudness_start: shape = (702,)
+segments_pitches: shape = (702, 12)
+segments_start: shape = (702,)
+segments_timbre: shape = (702, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGVLDM12AB017F0A2
+start_of_fade_out: 171.683
+tatums_confidence: shape = (946,)
+tatums_start: shape = (946,)
+tempo: 159.728
+time_signature: 4
+time_signature_confidence: 0.0
+title: Happiness Is Loving You
+track_7digitalid: 3867920
+track_id: TRAKGOF128F93060F6
+year: 0

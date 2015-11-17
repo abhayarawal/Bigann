@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 50205
+artist_familiarity: 0.567278871183
+artist_hotttnesss: 0.405178358908
+artist_id: AREOGMA1187B9908EF
+artist_latitude: 37.77916
+artist_location: San Francisco, CA
+artist_longitude: -122.42005
+artist_mbid: d13d9feb-b7c7-49f4-9b72-65e29a16aa24
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Hot Tuna
+artist_playmeid: 14246
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: 6c59a5bc7cf4e0b8b74efb00cc13a3a6
+bars_confidence: shape = (266,)
+bars_start: shape = (266,)
+beats_confidence: shape = (1065,)
+beats_start: shape = (1065,)
+danceability: 0.0
+duration: 461.71383
+end_of_fade_in: 0.0
+energy: 0.0
+key: 1
+key_confidence: 0.979
+loudness: -9.989
+mode: 0
+mode_confidence: 0.711
+release: LIVE AT SWEETWATER II
+release_7digitalid: 521693
+sections_confidence: shape = (20,)
+sections_start: shape = (20,)
+segments_confidence: shape = (1527,)
+segments_loudness_max: shape = (1527,)
+segments_loudness_max_time: shape = (1527,)
+segments_loudness_start: shape = (1527,)
+segments_pitches: shape = (1527, 12)
+segments_start: shape = (1527,)
+segments_timbre: shape = (1527, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOHJXBB12A8C1437B7
+start_of_fade_out: 461.714
+tatums_confidence: shape = (2131,)
+tatums_start: shape = (2131,)
+tempo: 138.512
+time_signature: 4
+time_signature_confidence: 0.661
+title: Parchman Farm
+track_7digitalid: 5767054
+track_id: TRARGZR128F92E28D6
+year: 2004

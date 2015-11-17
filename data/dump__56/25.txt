@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 34637
+artist_familiarity: 0.574746865031
+artist_hotttnesss: 0.367368690641
+artist_id: ARXB4J91187B9A9C7D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c91823bc-3074-48f7-b6fe-ccda9310d2f5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ray Price
+artist_playmeid: 2674
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: cbc3e47ec00890ae097912c9e3c7502c
+bars_confidence: shape = (86,)
+bars_start: shape = (86,)
+beats_confidence: shape = (259,)
+beats_start: shape = (259,)
+danceability: 0.0
+duration: 125.1522
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.759
+loudness: -12.818
+mode: 1
+mode_confidence: 0.616
+release: Karaoke: Country Super Stars - Singing to the Hits
+release_7digitalid: 610247
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (349,)
+segments_loudness_max: shape = (349,)
+segments_loudness_max_time: shape = (349,)
+segments_loudness_start: shape = (349,)
+segments_pitches: shape = (349, 12)
+segments_start: shape = (349,)
+segments_timbre: shape = (349, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SORTYWG12A8C1444E7
+start_of_fade_out: 118.457
+tatums_confidence: shape = (518,)
+tatums_start: shape = (518,)
+tempo: 126.714
+time_signature: 3
+time_signature_confidence: 0.321
+title: Make The World Go Away
+track_7digitalid: 6783378
+track_id: TRATESL128F92F12DF
+year: 1989

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8293
+artist_familiarity: 0.839275392927
+artist_hotttnesss: 0.550762084656
+artist_id: AR6XPWV1187B9ADAEB
+artist_latitude: nan
+artist_location: Seattle, WA
+artist_longitude: nan
+artist_mbid: 67f66c07-6e61-4026-ade5-7e782fad3a5d
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Foo Fighters
+artist_playmeid: 631
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 2a9db5624695b13fd8d7d0967f134276
+bars_confidence: shape = (102,)
+bars_start: shape = (102,)
+beats_confidence: shape = (412,)
+beats_start: shape = (412,)
+danceability: 0.0
+duration: 253.49179
+end_of_fade_in: 1.03
+energy: 0.0
+key: 10
+key_confidence: 0.726
+loudness: -7.986
+mode: 0
+mode_confidence: 0.383
+release: Foo Fighters
+release_7digitalid: 295350
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (552,)
+segments_loudness_max: shape = (552,)
+segments_loudness_max_time: shape = (552,)
+segments_loudness_start: shape = (552,)
+segments_pitches: shape = (552, 12)
+segments_start: shape = (552,)
+segments_timbre: shape = (552, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.672554372107
+song_id: SOBKIMB12A8C136DE9
+start_of_fade_out: 243.188
+tatums_confidence: shape = (825,)
+tatums_start: shape = (825,)
+tempo: 101.544
+time_signature: 4
+time_signature_confidence: 0.0
+title: X-Static
+track_7digitalid: 3325373
+track_id: TRAEWVG128F428AC7F
+year: 1995

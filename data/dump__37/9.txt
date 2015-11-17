@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19920
+artist_familiarity: 0.540881349196
+artist_hotttnesss: 0.38663083651
+artist_id: ARJRQL51187FB541AB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 84f01d1b-ff47-4b26-bedb-2701ec5b2c9f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Juan Carlos Baglietto
+artist_playmeid: 67826
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 1ad7fbffffe76f23c3dfedbaf36e83d9
+bars_confidence: shape = (73,)
+bars_start: shape = (73,)
+beats_confidence: shape = (317,)
+beats_start: shape = (317,)
+danceability: 0.0
+duration: 225.33179
+end_of_fade_in: 0.247
+energy: 0.0
+key: 0
+key_confidence: 0.612
+loudness: -11.06
+mode: 1
+mode_confidence: 0.592
+release: Corazon De Barco
+release_7digitalid: 29467
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (695,)
+segments_loudness_max: shape = (695,)
+segments_loudness_max_time: shape = (695,)
+segments_loudness_start: shape = (695,)
+segments_pitches: shape = (695, 12)
+segments_start: shape = (695,)
+segments_timbre: shape = (695, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.249065794854
+song_id: SOKYNPU12A6D4F8462
+start_of_fade_out: 213.415
+tatums_confidence: shape = (635,)
+tatums_start: shape = (635,)
+tempo: 86.794
+time_signature: 4
+time_signature_confidence: 0.07
+title: Amor Siciliano
+track_7digitalid: 325118
+track_id: TRAMOYG128F146B4DD
+year: 0

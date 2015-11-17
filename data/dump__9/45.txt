@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 590
+artist_familiarity: 0.730669501935
+artist_hotttnesss: 0.623835200923
+artist_id: ARR6LWJ1187FB44C8B
+artist_latitude: nan
+artist_location: Athens, GA
+artist_longitude: nan
+artist_mbid: ea4dfa26-f633-4da6-a52a-f49ea4897b58
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: R.E.M.
+artist_playmeid: 1324
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: a1f5526c64f7ce9c46b28eee26867dcd
+bars_confidence: shape = (451,)
+bars_start: shape = (451,)
+beats_confidence: shape = (451,)
+beats_start: shape = (451,)
+danceability: 0.0
+duration: 195.52608
+end_of_fade_in: 0.205
+energy: 0.0
+key: 2
+key_confidence: 0.467
+loudness: -8.775
+mode: 0
+mode_confidence: 0.59
+release: And I Feel Fine.....The Best Of The IRS Years 82-87
+release_7digitalid: 43154
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (691,)
+segments_loudness_max: shape = (691,)
+segments_loudness_max_time: shape = (691,)
+segments_loudness_start: shape = (691,)
+segments_pitches: shape = (691, 12)
+segments_start: shape = (691,)
+segments_timbre: shape = (691, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLUGTX12A6D4FAC08
+start_of_fade_out: 184.918
+tatums_confidence: shape = (902,)
+tatums_start: shape = (902,)
+tempo: 146.484
+time_signature: 1
+time_signature_confidence: 0.0
+title: So. Central Rain (2006 Digital Remaster)
+track_7digitalid: 460648
+track_id: TRADDBK128F1483FF8
+year: 0

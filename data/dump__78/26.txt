@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 215
+artist_familiarity: 0.775600345827
+artist_hotttnesss: 0.434922645312
+artist_id: AR19QNR1187B9A13C5
+artist_latitude: nan
+artist_location: Philadelphia, PA
+artist_longitude: nan
+artist_mbid: f7ebe5e2-c9fb-4959-a9b3-b09921168d50
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Cassidy featuring Swizz Beatz
+artist_playmeid: 303
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 1d54cdd665c3c57ab578be9be4b261b9
+bars_confidence: shape = (95,)
+bars_start: shape = (95,)
+beats_confidence: shape = (487,)
+beats_start: shape = (487,)
+danceability: 0.0
+duration: 280.71138
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.544
+loudness: -4.954
+mode: 0
+mode_confidence: 0.498
+release: B.A.R.S. The Barry Adrian Reese Story
+release_7digitalid: 313180
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1255,)
+segments_loudness_max: shape = (1255,)
+segments_loudness_max_time: shape = (1255,)
+segments_loudness_start: shape = (1255,)
+segments_pitches: shape = (1255, 12)
+segments_start: shape = (1255,)
+segments_timbre: shape = (1255, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFEISR12A8C1421FB
+start_of_fade_out: 276.956
+tatums_confidence: shape = (1461,)
+tatums_start: shape = (1461,)
+tempo: 104.091
+time_signature: 5
+time_signature_confidence: 0.976
+title: I Get My Paper
+track_7digitalid: 3543393
+track_id: TRBASKE128F92C4661
+year: 0

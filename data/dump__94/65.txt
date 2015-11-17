@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16838
+artist_familiarity: 0.52371463697
+artist_hotttnesss: 0.384611083962
+artist_id: AR0RCMP1187FB3F427
+artist_latitude: 30.08615
+artist_location: Beaumont, TX
+artist_longitude: -94.10158
+artist_mbid: 615d51ca-3d06-43dc-b956-4d76099f4b5e
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Billie Jo Spears
+artist_playmeid: 56462
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: 421565d7497d634c9583816d95818054
+bars_confidence: shape = (32,)
+bars_start: shape = (32,)
+beats_confidence: shape = (135,)
+beats_start: shape = (135,)
+danceability: 0.0
+duration: 124.9171
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.49
+loudness: -10.963
+mode: 1
+mode_confidence: 0.529
+release: 20 Of Her Best
+release_7digitalid: 663761
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (410,)
+segments_loudness_max: shape = (410,)
+segments_loudness_max_time: shape = (410,)
+segments_loudness_start: shape = (410,)
+segments_pitches: shape = (410, 12)
+segments_start: shape = (410,)
+segments_timbre: shape = (410, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFWWBL12A58A79F8C
+start_of_fade_out: 122.253
+tatums_confidence: shape = (404,)
+tatums_start: shape = (404,)
+tempo: 64.996
+time_signature: 4
+time_signature_confidence: 0.0
+title: Danny
+track_7digitalid: 7357265
+track_id: TRBGQER12903CAAF1A
+year: 0

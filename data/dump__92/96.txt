@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1015
+artist_familiarity: 0.814506223599
+artist_hotttnesss: 0.584836888719
+artist_id: AR9W3X91187FB3994C
+artist_latitude: nan
+artist_location: Chiswick, London, England
+artist_longitude: nan
+artist_mbid: 401c3991-b76b-499d-8082-9f2df958ef78
+artist_mbtags: shape = (11,)
+artist_mbtags_count: shape = (11,)
+artist_name: Phil Collins
+artist_playmeid: -1
+artist_terms: shape = (34,)
+artist_terms_freq: shape = (34,)
+artist_terms_weight: shape = (34,)
+audio_md5: dca85d523030e2e46bbd83b36b80fdc6
+bars_confidence: shape = (137,)
+bars_start: shape = (137,)
+beats_confidence: shape = (551,)
+beats_start: shape = (551,)
+danceability: 0.0
+duration: 392.82893
+end_of_fade_in: 1.031
+energy: 0.0
+key: 1
+key_confidence: 0.0
+loudness: -5.295
+mode: 1
+mode_confidence: 0.0
+release: Love Songs
+release_7digitalid: 1792
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1254,)
+segments_loudness_max: shape = (1254,)
+segments_loudness_max_time: shape = (1254,)
+segments_loudness_start: shape = (1254,)
+segments_pitches: shape = (1254, 12)
+segments_start: shape = (1254,)
+segments_timbre: shape = (1254, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFSRCP12CF5CFD696
+start_of_fade_out: 381.991
+tatums_confidence: shape = (2202,)
+tatums_start: shape = (2202,)
+tempo: 85.083
+time_signature: 4
+time_signature_confidence: 0.824
+title: Testify
+track_7digitalid: 1378769
+track_id: TRBGCLK128F4237A50
+year: 2002

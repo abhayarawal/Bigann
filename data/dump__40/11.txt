@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1363
+artist_familiarity: 0.755566397734
+artist_hotttnesss: 0.464186401696
+artist_id: AR4BDNG1187FB44870
+artist_latitude: nan
+artist_location: Batley, England
+artist_longitude: nan
+artist_mbid: 96b1d906-0fda-406d-beb6-19c6758998df
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Robert Palmer
+artist_playmeid: 1355
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 3417de4a9db453dd10f1b0a3ff017bc4
+bars_confidence: shape = (175,)
+bars_start: shape = (175,)
+beats_confidence: shape = (702,)
+beats_start: shape = (702,)
+danceability: 0.0
+duration: 299.78077
+end_of_fade_in: 0.316
+energy: 0.0
+key: 2
+key_confidence: 0.538
+loudness: -11.514
+mode: 0
+mode_confidence: 0.56
+release: Gold
+release_7digitalid: 41905
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1393,)
+segments_loudness_max: shape = (1393,)
+segments_loudness_max_time: shape = (1393,)
+segments_loudness_start: shape = (1393,)
+segments_pitches: shape = (1393, 12)
+segments_start: shape = (1393,)
+segments_timbre: shape = (1393, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.751436617305
+song_id: SOFLKHX12A6701C32A
+start_of_fade_out: 283.655
+tatums_confidence: shape = (1404,)
+tatums_start: shape = (1404,)
+tempo: 141.674
+time_signature: 4
+time_signature_confidence: 0.417
+title: Looking For Clues
+track_7digitalid: 445529
+track_id: TRANRFB128F1481F1E
+year: 1980

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 48634
+artist_familiarity: 0.548672435741
+artist_hotttnesss: 0.35850092274
+artist_id: ARGDY4Y1187B9A334F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: acefd28a-0735-4b1a-827d-bfa355611f55
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pyranja
+artist_playmeid: -1
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: d9efb05586bfa1d57c29aaf5e4f4e12f
+bars_confidence: shape = (88,)
+bars_start: shape = (88,)
+beats_confidence: shape = (356,)
+beats_start: shape = (356,)
+danceability: 0.0
+duration: 181.49832
+end_of_fade_in: 2.276
+energy: 0.0
+key: 11
+key_confidence: 0.383
+loudness: -7.522
+mode: 1
+mode_confidence: 0.434
+release: Vs Laudert & Fröhlich
+release_7digitalid: 714540
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (901,)
+segments_loudness_max: shape = (901,)
+segments_loudness_max_time: shape = (901,)
+segments_loudness_start: shape = (901,)
+segments_pitches: shape = (901, 12)
+segments_start: shape = (901,)
+segments_timbre: shape = (901, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOODBPN12AB018C796
+start_of_fade_out: 181.498
+tatums_confidence: shape = (1421,)
+tatums_start: shape = (1421,)
+tempo: 117.991
+time_signature: 4
+time_signature_confidence: 0.801
+title: 30 Grad
+track_7digitalid: 7924878
+track_id: TRBARKS12903CBE12C
+year: 0

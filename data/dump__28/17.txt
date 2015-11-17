@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 104082
+artist_familiarity: 0.262896412169
+artist_hotttnesss: 0.307570294377
+artist_id: AREEUJE1241B9C773F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Art Blakey's Jazz Messengers
+artist_playmeid: 19281
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: a9e9c044d0b595e4a813ef0d699b472b
+bars_confidence: shape = (391,)
+bars_start: shape = (391,)
+beats_confidence: shape = (1589,)
+beats_start: shape = (1589,)
+danceability: 0.0
+duration: 670.04036
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.426
+loudness: -15.469
+mode: 1
+mode_confidence: 0.479
+release: Art Blakey's Jazz Messengers_ Lausanne 1960 Part 2 / Swiss Radio Days_ Jazz Series Vol.6
+release_7digitalid: 164547
+sections_confidence: shape = (26,)
+sections_start: shape = (26,)
+segments_confidence: shape = (2626,)
+segments_loudness_max: shape = (2626,)
+segments_loudness_max_time: shape = (2626,)
+segments_loudness_start: shape = (2626,)
+segments_pitches: shape = (2626, 12)
+segments_start: shape = (2626,)
+segments_timbre: shape = (2626, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTZSWX12A8C13BF03
+start_of_fade_out: 670.04
+tatums_confidence: shape = (3178,)
+tatums_start: shape = (3178,)
+tempo: 144.737
+time_signature: 4
+time_signature_confidence: 0.278
+title: A Night in Tunisia
+track_7digitalid: 1743656
+track_id: TRAJLIV128F42882D8
+year: 0

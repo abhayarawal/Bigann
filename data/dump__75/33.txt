@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 14530
+artist_familiarity: 0.829135422075
+artist_hotttnesss: 0.558298348128
+artist_id: ARMBTFC1187FB56343
+artist_latitude: nan
+artist_location: Bakersfield, CA
+artist_longitude: nan
+artist_mbid: ac865b2e-bba8-4f5a-8756-dd40d5e39f46
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Korn
+artist_playmeid: 878
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 19573bdbfda53bbf9d95c009af49e330
+bars_confidence: shape = (121,)
+bars_start: shape = (121,)
+beats_confidence: shape = (488,)
+beats_start: shape = (488,)
+danceability: 0.0
+duration: 200.80281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.464
+loudness: -3.533
+mode: 1
+mode_confidence: 0.501
+release: Live & Unglued
+release_7digitalid: 44921
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (804,)
+segments_loudness_max: shape = (804,)
+segments_loudness_max_time: shape = (804,)
+segments_loudness_start: shape = (804,)
+segments_pitches: shape = (804, 12)
+segments_start: shape = (804,)
+segments_timbre: shape = (804, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMWBPP12A6D4F7B23
+start_of_fade_out: 194.601
+tatums_confidence: shape = (977,)
+tatums_start: shape = (977,)
+tempo: 150.017
+time_signature: 4
+time_signature_confidence: 0.583
+title: Coming Undone (Sleazy Days Rock Electro Remix) (Acid Planet Remix -- France)
+track_7digitalid: 478778
+track_id: TRAZSOV128F1487CA4
+year: 0

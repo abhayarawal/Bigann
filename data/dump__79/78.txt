@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 13125
+artist_familiarity: 0.803087354948
+artist_hotttnesss: 0.501825943654
+artist_id: AR5ZVJ91187B99083A
+artist_latitude: 51.05563
+artist_location: Ghent, Belgium
+artist_longitude: 3.72856
+artist_mbid: 68ec1b08-3c2e-40b3-b0af-8f323743fdff
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Soulwax
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 4e22a857955a8fa690eda5b55c0558e6
+bars_confidence: shape = (71,)
+bars_start: shape = (71,)
+beats_confidence: shape = (364,)
+beats_start: shape = (364,)
+danceability: 0.0
+duration: 201.24689
+end_of_fade_in: 0.821
+energy: 0.0
+key: 0
+key_confidence: 0.536
+loudness: -8.146
+mode: 0
+mode_confidence: 0.441
+release: Kill Your Darlings
+release_7digitalid: 123782
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (630,)
+segments_loudness_max: shape = (630,)
+segments_loudness_max_time: shape = (630,)
+segments_loudness_start: shape = (630,)
+segments_pitches: shape = (630, 12)
+segments_start: shape = (630,)
+segments_timbre: shape = (630, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.504034340805
+song_id: SOHKLFL12A6D4FA150
+start_of_fade_out: 191.048
+tatums_confidence: shape = (729,)
+tatums_start: shape = (729,)
+tempo: 111.223
+time_signature: 5
+time_signature_confidence: 0.951
+title: Kill Your Darlings
+track_7digitalid: 1277837
+track_id: TRBBIBE128F4226E29
+year: 1996

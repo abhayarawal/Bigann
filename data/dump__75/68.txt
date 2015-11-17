@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 304
+artist_familiarity: 0.899934952232
+artist_hotttnesss: 0.683658060202
+artist_id: ARH6W4X1187B99274F
+artist_latitude: nan
+artist_location: Oxford, UK
+artist_longitude: nan
+artist_mbid: a74b1b7f-71a5-4011-9441-d0b5e4122711
+artist_mbtags: shape = (14,)
+artist_mbtags_count: shape = (14,)
+artist_name: Radiohead
+artist_playmeid: 1307
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 64cf9d96fb38ce037e455a3dd99701d6
+bars_confidence: shape = (90,)
+bars_start: shape = (90,)
+beats_confidence: shape = (361,)
+beats_start: shape = (361,)
+danceability: 0.0
+duration: 188.31628
+end_of_fade_in: 2.247
+energy: 0.0
+key: 7
+key_confidence: 0.531
+loudness: -9.958
+mode: 1
+mode_confidence: 0.646
+release: Pablo Honey (Collector's Edition)
+release_7digitalid: 404997
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (455,)
+segments_loudness_max: shape = (455,)
+segments_loudness_max_time: shape = (455,)
+segments_loudness_start: shape = (455,)
+segments_pitches: shape = (455, 12)
+segments_start: shape = (455,)
+segments_timbre: shape = (455, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.587426506702
+song_id: SOMLGKF12AB017DF3C
+start_of_fade_out: 182.526
+tatums_confidence: shape = (722,)
+tatums_start: shape = (722,)
+tempo: 115.906
+time_signature: 4
+time_signature_confidence: 0.65
+title: Vegetable (Live)
+track_7digitalid: 4501179
+track_id: TRAZVFJ128F9310CE2
+year: 1993

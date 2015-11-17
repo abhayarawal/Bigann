@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2259
+artist_familiarity: 0.662670206488
+artist_hotttnesss: 0.378969800502
+artist_id: AR0V36F1187FB366B1
+artist_latitude: 53.41961
+artist_location: Ireland
+artist_longitude: -8.24055
+artist_mbid: fce5eb9a-95a7-4a54-b9e4-fe1b036fbe57
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: The Chieftains
+artist_playmeid: 11515
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 14094bca2453a693090013037145ac84
+bars_confidence: shape = (414,)
+bars_start: shape = (414,)
+beats_confidence: shape = (414,)
+beats_start: shape = (414,)
+danceability: 0.0
+duration: 217.25995
+end_of_fade_in: 0.109
+energy: 0.0
+key: 8
+key_confidence: 0.535
+loudness: -19.769
+mode: 1
+mode_confidence: 0.484
+release: St. Patrick'S Day Celebration
+release_7digitalid: 285462
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (525,)
+segments_loudness_max: shape = (525,)
+segments_loudness_max_time: shape = (525,)
+segments_loudness_start: shape = (525,)
+segments_pitches: shape = (525, 12)
+segments_start: shape = (525,)
+segments_timbre: shape = (525, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKJZNJ12A8C13294B
+start_of_fade_out: 213.008
+tatums_confidence: shape = (829,)
+tatums_start: shape = (829,)
+tempo: 116.044
+time_signature: 1
+time_signature_confidence: 0.0
+title: When A Man's In Love
+track_7digitalid: 3201897
+track_id: TRBEJKS128F426D823
+year: 1980

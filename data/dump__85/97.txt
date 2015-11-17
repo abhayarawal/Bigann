@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 300902
+artist_familiarity: 0.528615453439
+artist_hotttnesss: 0.36076001661
+artist_id: ARMX5R91187B991E20
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4e1edd59-6648-45ae-9f85-a240b3689496
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Johnny Vicious
+artist_playmeid: 44946
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: b28a88609326741a0cd66b48812db416
+bars_confidence: shape = (58,)
+bars_start: shape = (58,)
+beats_confidence: shape = (58,)
+beats_start: shape = (58,)
+danceability: 0.0
+duration: 27.16689
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.049
+loudness: -25.822
+mode: 1
+mode_confidence: 0.356
+release: SOUNDZYSTEM Vol.1 - Mixed By Hakan Lidbo
+release_7digitalid: 577452
+sections_confidence: shape = (2,)
+sections_start: shape = (2,)
+segments_confidence: shape = (110,)
+segments_loudness_max: shape = (110,)
+segments_loudness_max_time: shape = (110,)
+segments_loudness_start: shape = (110,)
+segments_pitches: shape = (110, 12)
+segments_start: shape = (110,)
+segments_timbre: shape = (110, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFBVDN12AB018BE6D
+start_of_fade_out: 27.167
+tatums_confidence: shape = (116,)
+tatums_start: shape = (116,)
+tempo: 131.525
+time_signature: 1
+time_signature_confidence: 0.0
+title: Speaker Problems
+track_7digitalid: 6402142
+track_id: TRBDNNW12903CAFCE1
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7037
+artist_familiarity: 0.804838888827
+artist_hotttnesss: 0.457841156094
+artist_id: AR0CANF1187B9AF35F
+artist_latitude: 34.05349
+artist_location: Los Angeles, California
+artist_longitude: -118.24532
+artist_mbid: c71abd83-9d66-4c7b-9f0d-c9c36e85a955
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Dilated Peoples Featuring Devin The Dude
+artist_playmeid: 457
+artist_terms: shape = (38,)
+artist_terms_freq: shape = (38,)
+artist_terms_weight: shape = (38,)
+audio_md5: 3e8b9c038ddfa9b29b4c078ad72ba8bf
+bars_confidence: shape = (93,)
+bars_start: shape = (93,)
+beats_confidence: shape = (654,)
+beats_start: shape = (654,)
+danceability: 0.0
+duration: 221.28281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.444
+loudness: -5.703
+mode: 0
+mode_confidence: 0.487
+release: This Way
+release_7digitalid: 147457
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (914,)
+segments_loudness_max: shape = (914,)
+segments_loudness_max_time: shape = (914,)
+segments_loudness_start: shape = (914,)
+segments_pitches: shape = (914, 12)
+segments_start: shape = (914,)
+segments_timbre: shape = (914, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.664936792994
+song_id: SORJGVR12A58A7C3C8
+start_of_fade_out: 210.431
+tatums_confidence: shape = (654,)
+tatums_start: shape = (654,)
+tempo: 178.13
+time_signature: 7
+time_signature_confidence: 1.0
+title: Poisonous (Edited) (Feat. Devin The Dude)
+track_7digitalid: 1537341
+track_id: TRAZJFT128F4257871
+year: 2004

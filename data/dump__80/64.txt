@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3204
+artist_familiarity: 0.754917645451
+artist_hotttnesss: 0.507464243115
+artist_id: ARWPYQI1187FB4D55A
+artist_latitude: 53.45644
+artist_location: Newton-le-Willows, Merseyside, England
+artist_longitude: -2.63265
+artist_mbid: db92a151-1ac2-438b-bc43-b82e149ddd50
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Rick Astley
+artist_playmeid: 1338
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: b4569770a7fbb5874b0bbed1a445be66
+bars_confidence: shape = (130,)
+bars_start: shape = (130,)
+beats_confidence: shape = (521,)
+beats_start: shape = (521,)
+danceability: 0.0
+duration: 215.09179
+end_of_fade_in: 0.155
+energy: 0.0
+key: 8
+key_confidence: 0.626
+loudness: -10.612
+mode: 1
+mode_confidence: 0.453
+release: Body And Soul
+release_7digitalid: 279019
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (643,)
+segments_loudness_max: shape = (643,)
+segments_loudness_max_time: shape = (643,)
+segments_loudness_start: shape = (643,)
+segments_pitches: shape = (643, 12)
+segments_start: shape = (643,)
+segments_timbre: shape = (643, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.574882891689
+song_id: SOFFOFH12A8AE45129
+start_of_fade_out: 208.927
+tatums_confidence: shape = (1042,)
+tatums_start: shape = (1042,)
+tempo: 150.112
+time_signature: 4
+time_signature_confidence: 0.269
+title: Hopelessly
+track_7digitalid: 3106908
+track_id: TRBBOUN128F425A4E6
+year: 1993

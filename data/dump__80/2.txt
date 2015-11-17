@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 616
+artist_familiarity: 0.918451788889
+artist_hotttnesss: 0.82890630154
+artist_id: ARVG4OK1187B9B6BD3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 95e1ead9-4d31-4808-a7ac-32c3614c116b
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: The Killers
+artist_playmeid: 1573
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: bb7a1b329dc338b3c24dd66ccae1a878
+bars_confidence: shape = (74,)
+bars_start: shape = (74,)
+beats_confidence: shape = (305,)
+beats_start: shape = (305,)
+danceability: 0.0
+duration: 213.96853
+end_of_fade_in: 0.438
+energy: 0.0
+key: 11
+key_confidence: 0.614
+loudness: -9.041
+mode: 1
+mode_confidence: 0.624
+release: The Twilight Saga: New Moon Original Motion Picture Soundtrack
+release_7digitalid: 617497
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (582,)
+segments_loudness_max: shape = (582,)
+segments_loudness_max_time: shape = (582,)
+segments_loudness_start: shape = (582,)
+segments_pitches: shape = (582, 12)
+segments_start: shape = (582,)
+segments_timbre: shape = (582, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.523796347429
+song_id: SORGIYZ12AAF3B3528
+start_of_fade_out: 194.101
+tatums_confidence: shape = (610,)
+tatums_start: shape = (610,)
+tempo: 86.958
+time_signature: 4
+time_signature_confidence: 0.343
+title: A White Demon Love Song (Soundtrack Album Version)
+track_7digitalid: 6860641
+track_id: TRBBJVE128F9303F10
+year: 0

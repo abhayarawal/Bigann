@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2799
+artist_familiarity: 0.391741394148
+artist_hotttnesss: 0.291264811753
+artist_id: ARUKJUP12086C14589
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 8a5f2736-bcde-4a2e-8d50-72631d66a7ef
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ramón Vargas;Vesselina Kasarova;Vladimir Jurowski
+artist_playmeid: 20111
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 4eab754e624f25b4607e5f797909dfc7
+bars_confidence: shape = (89,)
+bars_start: shape = (89,)
+beats_confidence: shape = (291,)
+beats_start: shape = (291,)
+danceability: 0.0
+duration: 234.26567
+end_of_fade_in: 0.218
+energy: 0.0
+key: 10
+key_confidence: 0.356
+loudness: -18.149
+mode: 1
+mode_confidence: 0.365
+release: Massenet: Werther
+release_7digitalid: 295123
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (566,)
+segments_loudness_max: shape = (566,)
+segments_loudness_max_time: shape = (566,)
+segments_loudness_start: shape = (566,)
+segments_pitches: shape = (566, 12)
+segments_start: shape = (566,)
+segments_timbre: shape = (566, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOCXMKN12A8C13B075
+start_of_fade_out: 220.23
+tatums_confidence: shape = (581,)
+tatums_start: shape = (581,)
+tempo: 77.235
+time_signature: 3
+time_signature_confidence: 0.713
+title: Werther - Lyric Drama in four Acts/Act I/Rêve! Extase! Bonheur!
+track_7digitalid: 3351920
+track_id: TRAIHTK128F4291340
+year: 0

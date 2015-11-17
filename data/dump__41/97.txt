@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 111615
+artist_familiarity: 0.433403103445
+artist_hotttnesss: 0.315776702846
+artist_id: ARM891J1187B991327
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 739d421f-1f7a-4dd8-b56e-fb4fb7634aee
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Wes Montgomery Trio
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 6f21b7581264e768ae7af1f0436576c9
+bars_confidence: shape = (140,)
+bars_start: shape = (140,)
+beats_confidence: shape = (562,)
+beats_start: shape = (562,)
+danceability: 0.0
+duration: 246.80444
+end_of_fade_in: 0.163
+energy: 0.0
+key: 0
+key_confidence: 0.652
+loudness: -19.802
+mode: 1
+mode_confidence: 0.561
+release: The Wes Montgomery Trio
+release_7digitalid: 453925
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (815,)
+segments_loudness_max: shape = (815,)
+segments_loudness_max_time: shape = (815,)
+segments_loudness_start: shape = (815,)
+segments_pitches: shape = (815, 12)
+segments_start: shape = (815,)
+segments_timbre: shape = (815, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOGWNDQ12A58A7A20D
+start_of_fade_out: 240.663
+tatums_confidence: shape = (1124,)
+tatums_start: shape = (1124,)
+tempo: 137.11
+time_signature: 4
+time_signature_confidence: 0.117
+title: Satin Doll
+track_7digitalid: 5039387
+track_id: TRAOGMD128F9314BCD
+year: 1987

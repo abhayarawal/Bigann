@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15260
+artist_familiarity: 0.84560188664
+artist_hotttnesss: 1.00594196595
+artist_id: ARTDQRC1187FB4EFD4
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: d5be5333-4171-427e-8e12-732087c6b78e
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Black Eyed Peas / Terry Dexter
+artist_playmeid: 21628
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 49c3233a3f33dafbc530bccd9b32ce4a
+bars_confidence: shape = (117,)
+bars_start: shape = (117,)
+beats_confidence: shape = (473,)
+beats_start: shape = (473,)
+danceability: 0.0
+duration: 275.04281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.094
+loudness: -3.574
+mode: 0
+mode_confidence: 0.182
+release: Legally Blonde
+release_7digitalid: 15589
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1362,)
+segments_loudness_max: shape = (1362,)
+segments_loudness_max_time: shape = (1362,)
+segments_loudness_start: shape = (1362,)
+segments_pitches: shape = (1362, 12)
+segments_start: shape = (1362,)
+segments_timbre: shape = (1362, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.50860217179
+song_id: SOYGIBP12A67020AF7
+start_of_fade_out: 264.545
+tatums_confidence: shape = (946,)
+tatums_start: shape = (946,)
+tempo: 103.652
+time_signature: 4
+time_signature_confidence: 0.996
+title: Magic
+track_7digitalid: 163905
+track_id: TRAJTDG128E0792698
+year: 2000

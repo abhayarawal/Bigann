@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 14016
+artist_familiarity: 0.563922088486
+artist_hotttnesss: 0.292319515413
+artist_id: AR3OYPP1187B9952E3
+artist_latitude: 53.34376
+artist_location: Dublin, Ireland
+artist_longitude: -6.24953
+artist_mbid: 838b705b-2389-4de4-83a9-f5e970b2a7ef
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Humanzi
+artist_playmeid: -1
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 48fb8dab0b8550f0ca781a0631b60cfa
+bars_confidence: shape = (122,)
+bars_start: shape = (122,)
+beats_confidence: shape = (492,)
+beats_start: shape = (492,)
+danceability: 0.0
+duration: 242.99057
+end_of_fade_in: 7.93
+energy: 0.0
+key: 8
+key_confidence: 0.496
+loudness: -9.253
+mode: 1
+mode_confidence: 0.575
+release: Kingdom Of Ghosts
+release_7digitalid: 816192
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (741,)
+segments_loudness_max: shape = (741,)
+segments_loudness_max_time: shape = (741,)
+segments_loudness_start: shape = (741,)
+segments_pitches: shape = (741, 12)
+segments_start: shape = (741,)
+segments_timbre: shape = (741, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOIAPL12AB018C4FE
+start_of_fade_out: 220.27
+tatums_confidence: shape = (984,)
+tatums_start: shape = (984,)
+tempo: 120.948
+time_signature: 4
+time_signature_confidence: 0.854
+title: Amsterdamaged
+track_7digitalid: 9018448
+track_id: TRAZZOQ12903CDDCB6
+year: 0

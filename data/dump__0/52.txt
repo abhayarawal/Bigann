@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2800
+artist_familiarity: 0.669726187566
+artist_hotttnesss: 0.427914246983
+artist_id: ARGMXQW1187FB54C34
+artist_latitude: -23.56287
+artist_location: Sao Paulo, Brazil
+artist_longitude: -46.65466
+artist_mbid: 9974cbc1-6a00-4a97-8a36-e4a25bfe0293
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Eliane Elias
+artist_playmeid: 14229
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 61c1d3f9dc9caf347132097986f1618d
+bars_confidence: shape = (70,)
+bars_start: shape = (70,)
+beats_confidence: shape = (359,)
+beats_start: shape = (359,)
+danceability: 0.0
+duration: 251.42812
+end_of_fade_in: 0.071
+energy: 0.0
+key: 7
+key_confidence: 0.391
+loudness: -12.009
+mode: 1
+mode_confidence: 0.319
+release: Bossa Nova Stories
+release_7digitalid: 322532
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (887,)
+segments_loudness_max: shape = (887,)
+segments_loudness_max_time: shape = (887,)
+segments_loudness_start: shape = (887,)
+segments_pitches: shape = (887, 12)
+segments_start: shape = (887,)
+segments_timbre: shape = (887, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.434838090261
+song_id: SOPHYIS12AAF3B35A3
+start_of_fade_out: 237.598
+tatums_confidence: shape = (1075,)
+tatums_start: shape = (1075,)
+tempo: 86.091
+time_signature: 5
+time_signature_confidence: 0.551
+title: The More I See You
+track_7digitalid: 3635000
+track_id: TRAADYB128F92D7E73
+year: 2009

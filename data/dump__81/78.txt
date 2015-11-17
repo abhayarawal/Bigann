@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7033
+artist_familiarity: 0.920959645383
+artist_hotttnesss: 0.705757553231
+artist_id: ARVXU2X1187B9AE6D8
+artist_latitude: nan
+artist_location: New York, NY
+artist_longitude: nan
+artist_mbid: f4a31f0a-51dd-4fa7-986d-3095c40c5ed9
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Evanescence
+artist_playmeid: 578
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 6886d5610dd64da33eb03685fd1f4484
+bars_confidence: shape = (110,)
+bars_start: shape = (110,)
+beats_confidence: shape = (504,)
+beats_start: shape = (504,)
+danceability: 0.0
+duration: 331.36281
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.806
+loudness: -12.527
+mode: 1
+mode_confidence: 0.505
+release: The Open Door
+release_7digitalid: 441073
+sections_confidence: shape = (15,)
+sections_start: shape = (15,)
+segments_confidence: shape = (779,)
+segments_loudness_max: shape = (779,)
+segments_loudness_max_time: shape = (779,)
+segments_loudness_start: shape = (779,)
+segments_pitches: shape = (779, 12)
+segments_start: shape = (779,)
+segments_timbre: shape = (779, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.738970680476
+song_id: SODQFQC12A8C13FD7A
+start_of_fade_out: 318.851
+tatums_confidence: shape = (1006,)
+tatums_start: shape = (1006,)
+tempo: 91.371
+time_signature: 4
+time_signature_confidence: 0.934
+title: Good Enough
+track_7digitalid: 4919859
+track_id: TRBCANP128F92FA6B9
+year: 2006

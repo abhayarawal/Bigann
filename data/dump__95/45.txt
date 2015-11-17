@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 142205
+artist_familiarity: 0.601245988381
+artist_hotttnesss: 0.461026520548
+artist_id: AR2S4CA1187B99632E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 652ce480-5f04-4601-9e2d-9b41b42a5ce6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: FFH
+artist_playmeid: 8354
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: c1dc29dd59fa1570ebac2e7fe21ac11b
+bars_confidence: shape = (42,)
+bars_start: shape = (42,)
+beats_confidence: shape = (219,)
+beats_start: shape = (219,)
+danceability: 0.0
+duration: 218.22649
+end_of_fade_in: 2.606
+energy: 0.0
+key: 11
+key_confidence: 0.539
+loudness: -15.135
+mode: 1
+mode_confidence: 0.459
+release: Voice From Home
+release_7digitalid: 505846
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (975,)
+segments_loudness_max: shape = (975,)
+segments_loudness_max_time: shape = (975,)
+segments_loudness_start: shape = (975,)
+segments_pitches: shape = (975, 12)
+segments_start: shape = (975,)
+segments_timbre: shape = (975, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOWSGUG12AB0187CC7
+start_of_fade_out: 211.185
+tatums_confidence: shape = (877,)
+tatums_start: shape = (877,)
+tempo: 61.117
+time_signature: 4
+time_signature_confidence: 0.516
+title: Listen
+track_7digitalid: 5602781
+track_id: TRBGXHJ128F93302C7
+year: 2005

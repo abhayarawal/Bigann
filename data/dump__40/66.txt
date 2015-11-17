@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 24313
+artist_familiarity: 0.717670524729
+artist_hotttnesss: 0.479308459338
+artist_id: ARS1OWB1187B99EEAD
+artist_latitude: nan
+artist_location: New York, NY
+artist_longitude: nan
+artist_mbid: 1b96b9c9-0832-40cb-9f8d-7274de3733fc
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: The New York Dolls
+artist_playmeid: 5379
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: f41a7bd30ac074c2a5783d22811a3b5f
+bars_confidence: shape = (71,)
+bars_start: shape = (71,)
+beats_confidence: shape = (360,)
+beats_start: shape = (360,)
+danceability: 0.0
+duration: 245.68118
+end_of_fade_in: 0.334
+energy: 0.0
+key: 9
+key_confidence: 0.691
+loudness: -9.325
+mode: 1
+mode_confidence: 0.289
+release: 20th Century Masters: The Millennium Collection: Best Of The New York Dolls
+release_7digitalid: 281142
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (908,)
+segments_loudness_max: shape = (908,)
+segments_loudness_max_time: shape = (908,)
+segments_loudness_start: shape = (908,)
+segments_pitches: shape = (908, 12)
+segments_start: shape = (908,)
+segments_timbre: shape = (908, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.270775998946
+song_id: SOYGWDD12A8AE47F23
+start_of_fade_out: 238.063
+tatums_confidence: shape = (1079,)
+tatums_start: shape = (1079,)
+tempo: 88.508
+time_signature: 5
+time_signature_confidence: 0.809
+title: Stranded In The Jungle
+track_7digitalid: 3129403
+track_id: TRANVCJ128F425FC37
+year: 1974

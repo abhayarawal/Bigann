@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 7562
+artist_familiarity: 0.433507626379
+artist_hotttnesss: 0.289902931609
+artist_id: ARS1DCR1187B9A4A56
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 0159799c-ef7f-4c37-a011-25b6572c0f62
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Winston Reedy
+artist_playmeid: -1
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: c99a6a0d2b1877f105a9104d14e26e68
+bars_confidence: shape = (146,)
+bars_start: shape = (146,)
+beats_confidence: shape = (588,)
+beats_start: shape = (588,)
+danceability: 0.0
+duration: 235.78077
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.109
+loudness: -8.754
+mode: 0
+mode_confidence: 0.268
+release: Love Thing
+release_7digitalid: 244426
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (884,)
+segments_loudness_max: shape = (884,)
+segments_loudness_max_time: shape = (884,)
+segments_loudness_start: shape = (884,)
+segments_pitches: shape = (884, 12)
+segments_start: shape = (884,)
+segments_timbre: shape = (884, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFLDUO12A8C137BC0
+start_of_fade_out: 224.165
+tatums_confidence: shape = (1177,)
+tatums_start: shape = (1177,)
+tempo: 153.738
+time_signature: 4
+time_signature_confidence: 0.287
+title: Daughter Of Zion
+track_7digitalid: 2783617
+track_id: TRACNBG128F425B49E
+year: 1997

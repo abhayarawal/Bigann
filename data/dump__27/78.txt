@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10221
+artist_familiarity: 0.609636697931
+artist_hotttnesss: 0.382593000876
+artist_id: ARRT66G1187FB3DDF9
+artist_latitude: nan
+artist_location: Gilmer, TX
+artist_longitude: nan
+artist_mbid: d6ae4b23-965f-485a-b2c2-66c43ffaef20
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Freddie King
+artist_playmeid: 15428
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: ac1710f10951e4318cafb8b063f7b4e7
+bars_confidence: shape = (159,)
+bars_start: shape = (159,)
+beats_confidence: shape = (641,)
+beats_start: shape = (641,)
+danceability: 0.0
+duration: 286.82404
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.548
+loudness: -6.615
+mode: 1
+mode_confidence: 0.458
+release: King Of The Blues
+release_7digitalid: 28325
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1210,)
+segments_loudness_max: shape = (1210,)
+segments_loudness_max_time: shape = (1210,)
+segments_loudness_start: shape = (1210,)
+segments_pitches: shape = (1210, 12)
+segments_start: shape = (1210,)
+segments_timbre: shape = (1210, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJBCMD12A6D4F68B5
+start_of_fade_out: 283.074
+tatums_confidence: shape = (1924,)
+tatums_start: shape = (1924,)
+tempo: 134.741
+time_signature: 4
+time_signature_confidence: 0.0
+title: Hide Away
+track_7digitalid: 310714
+track_id: TRAJHHE128F146815C
+year: 1960

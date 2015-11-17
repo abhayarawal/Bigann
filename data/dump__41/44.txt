@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 174850
+artist_familiarity: 0.497203774242
+artist_hotttnesss: 0.0
+artist_id: ARYSIIT11F50C511A5
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: The Plasmatics
+artist_playmeid: -1
+artist_terms: shape = (31,)
+artist_terms_freq: shape = (31,)
+artist_terms_weight: shape = (31,)
+audio_md5: af51bce4cc5b1f60244dbb748cd701b9
+bars_confidence: shape = (48,)
+bars_start: shape = (48,)
+beats_confidence: shape = (195,)
+beats_start: shape = (195,)
+danceability: 0.0
+duration: 94.51057
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.139
+loudness: -5.116
+mode: 1
+mode_confidence: 0.505
+release: New Hope for the Wretched / Metal Priestess
+release_7digitalid: 259608
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (215,)
+segments_loudness_max: shape = (215,)
+segments_loudness_max_time: shape = (215,)
+segments_loudness_start: shape = (215,)
+segments_pitches: shape = (215, 12)
+segments_start: shape = (215,)
+segments_timbre: shape = (215, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOLUUHX12A8C136926
+start_of_fade_out: 92.143
+tatums_confidence: shape = (389,)
+tatums_start: shape = (389,)
+tempo: 124.439
+time_signature: 4
+time_signature_confidence: 0.215
+title: Living Dead
+track_7digitalid: 2758141
+track_id: TRAOBBM128F4255271
+year: 0

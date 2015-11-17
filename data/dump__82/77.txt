@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3618
+artist_familiarity: 0.664559978604
+artist_hotttnesss: 0.397569595443
+artist_id: ARNJVSL1187B99AFD4
+artist_latitude: 52.51607
+artist_location: Berlin, Germany
+artist_longitude: 13.37698
+artist_mbid: 5579a23d-c411-4930-987d-ff89d77c1c12
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: 2raumwohnung
+artist_playmeid: 91846
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 332b028e0c91ff4a2eb76acb9d7a39bc
+bars_confidence: shape = (185,)
+bars_start: shape = (185,)
+beats_confidence: shape = (557,)
+beats_start: shape = (557,)
+danceability: 0.0
+duration: 272.95302
+end_of_fade_in: 0.154
+energy: 0.0
+key: 7
+key_confidence: 1.0
+loudness: -9.846
+mode: 1
+mode_confidence: 0.803
+release: In wirklich
+release_7digitalid: 144076
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1011,)
+segments_loudness_max: shape = (1011,)
+segments_loudness_max_time: shape = (1011,)
+segments_loudness_start: shape = (1011,)
+segments_pitches: shape = (1011, 12)
+segments_start: shape = (1011,)
+segments_timbre: shape = (1011, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.63924848915
+song_id: SOOSTAD12A8C133F0B
+start_of_fade_out: 266.449
+tatums_confidence: shape = (1113,)
+tatums_start: shape = (1113,)
+tempo: 124.023
+time_signature: 3
+time_signature_confidence: 0.853
+title: Mädchen mit Plan
+track_7digitalid: 1504097
+track_id: TRBCJIX128F424F99E
+year: 2002

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19514
+artist_familiarity: 0.881694729547
+artist_hotttnesss: 0.568201421807
+artist_id: ART4QZC1187FB51612
+artist_latitude: nan
+artist_location: Los Angeles &amp; New York
+artist_longitude: nan
+artist_mbid: 6be2828f-6c0d-4059-99d4-fa18acf1a296
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Janet Jackson
+artist_playmeid: 775
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: 3d437b75befb0310f2e41ff08cbf4cf0
+bars_confidence: shape = (23,)
+bars_start: shape = (23,)
+beats_confidence: shape = (126,)
+beats_start: shape = (126,)
+danceability: 0.0
+duration: 67.10812
+end_of_fade_in: 3.779
+energy: 0.0
+key: 2
+key_confidence: 0.603
+loudness: -19.99
+mode: 0
+mode_confidence: 0.673
+release: Rhythm Nation
+release_7digitalid: 225900
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (128,)
+segments_loudness_max: shape = (128,)
+segments_loudness_max_time: shape = (128,)
+segments_loudness_start: shape = (128,)
+segments_pitches: shape = (128, 12)
+segments_start: shape = (128,)
+segments_timbre: shape = (128, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.489038209173
+song_id: SOBKMDD12A58A7F476
+start_of_fade_out: 60.511
+tatums_confidence: shape = (253,)
+tatums_start: shape = (253,)
+tempo: 120.45
+time_signature: 5
+time_signature_confidence: 0.648
+title: Interlude: Livin'...In Complete Darkness
+track_7digitalid: 2471394
+track_id: TRAIUUS128F4214452
+year: 0

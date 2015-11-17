@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1500
+artist_familiarity: 0.656728903248
+artist_hotttnesss: 0.468511466476
+artist_id: ARA7YDA1187B9A5776
+artist_latitude: nan
+artist_location: Gore, VA
+artist_longitude: nan
+artist_mbid: ad82dd72-0df3-4a09-8d7a-1af9c9e80522
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Patsy Cline
+artist_playmeid: 2588
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 30362ebbfd898ef8e8a281d6ca4383d1
+bars_confidence: shape = (241,)
+bars_start: shape = (241,)
+beats_confidence: shape = (241,)
+beats_start: shape = (241,)
+danceability: 0.0
+duration: 168.95955
+end_of_fade_in: 0.177
+energy: 0.0
+key: 11
+key_confidence: 0.656
+loudness: -5.176
+mode: 1
+mode_confidence: 0.542
+release: Music Trends - Country Busters
+release_7digitalid: 793501
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (551,)
+segments_loudness_max: shape = (551,)
+segments_loudness_max_time: shape = (551,)
+segments_loudness_start: shape = (551,)
+segments_pitches: shape = (551, 12)
+segments_start: shape = (551,)
+segments_timbre: shape = (551, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYRDKV12A8C14211E
+start_of_fade_out: 155.905
+tatums_confidence: shape = (722,)
+tatums_start: shape = (722,)
+tempo: 91.01
+time_signature: 1
+time_signature_confidence: 0.0
+title: A Poor Man's Roses
+track_7digitalid: 8776598
+track_id: TRAPQNA128F93000EB
+year: 1961

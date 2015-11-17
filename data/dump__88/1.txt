@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 422812
+artist_familiarity: 0.297376918594
+artist_hotttnesss: 0.0
+artist_id: AR3UFKE1187B9B186E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 244e5b9b-5854-4a98-9286-6dda1127cfc1
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Dame Edna Everage with Carl Davis conducting the London Symphony Orchestra and The New Antipodean Singers
+artist_playmeid: -1
+artist_terms: shape = (10,)
+artist_terms_freq: shape = (10,)
+artist_terms_weight: shape = (10,)
+audio_md5: 555ef122b50654324ce12dfcee6578d3
+bars_confidence: shape = (369,)
+bars_start: shape = (369,)
+beats_confidence: shape = (1117,)
+beats_start: shape = (1117,)
+danceability: 0.0
+duration: 494.15791
+end_of_fade_in: 0.108
+energy: 0.0
+key: 8
+key_confidence: 0.535
+loudness: -16.708
+mode: 1
+mode_confidence: 0.659
+release: The Last Night Of The Poms
+release_7digitalid: 569275
+sections_confidence: shape = (21,)
+sections_start: shape = (21,)
+segments_confidence: shape = (1226,)
+segments_loudness_max: shape = (1226,)
+segments_loudness_max_time: shape = (1226,)
+segments_loudness_start: shape = (1226,)
+segments_pitches: shape = (1226, 12)
+segments_start: shape = (1226,)
+segments_timbre: shape = (1226, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGUDRH12AB0189A45
+start_of_fade_out: 480.56
+tatums_confidence: shape = (1117,)
+tatums_start: shape = (1117,)
+tempo: 134.828
+time_signature: 3
+time_signature_confidence: 0.789
+title: Song Of Australia - Canto 6 (2009 Digital Remaster)
+track_7digitalid: 6304419
+track_id: TRBEFUY12903C98485
+year: 0

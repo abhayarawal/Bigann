@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1448
+artist_familiarity: 0.817256939293
+artist_hotttnesss: 0.735208877747
+artist_id: ARH861H1187B9B799E
+artist_latitude: nan
+artist_location: Kingsland, AR
+artist_longitude: nan
+artist_mbid: d43d12a1-2dc9-4257-a2fd-0a3bb1081b86
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Johnny Cash
+artist_playmeid: 4281
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 280ff714f7d3fa9243fca299cb966c47
+bars_confidence: shape = (111,)
+bars_start: shape = (111,)
+beats_confidence: shape = (450,)
+beats_start: shape = (450,)
+danceability: 0.0
+duration: 162.29832
+end_of_fade_in: 2.206
+energy: 0.0
+key: 9
+key_confidence: 0.542
+loudness: -10.06
+mode: 1
+mode_confidence: 0.52
+release: Wanted Man: The Johnny Cash Collection
+release_7digitalid: 281825
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (603,)
+segments_loudness_max: shape = (603,)
+segments_loudness_max_time: shape = (603,)
+segments_loudness_start: shape = (603,)
+segments_pitches: shape = (603, 12)
+segments_start: shape = (603,)
+segments_timbre: shape = (603, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.578755678083
+song_id: SOIQENV12A8C133A29
+start_of_fade_out: 156.415
+tatums_confidence: shape = (900,)
+tatums_start: shape = (900,)
+tempo: 170.995
+time_signature: 4
+time_signature_confidence: 1.0
+title: Lonesome To The Bone
+track_7digitalid: 3162193
+track_id: TRAQITZ128F4265E0E
+year: 1974

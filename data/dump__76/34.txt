@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19967
+artist_familiarity: 0.495819328959
+artist_hotttnesss: 0.34276521913
+artist_id: ARFELOH1187B991F95
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 65b785d9-499f-48e6-9063-3a1fd1bd488d
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Niraj Chag
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: d487d167e09b5738fee4bba560b16cfd
+bars_confidence: shape = (51,)
+bars_start: shape = (51,)
+beats_confidence: shape = (207,)
+beats_start: shape = (207,)
+danceability: 0.0
+duration: 109.92281
+end_of_fade_in: 0.543
+energy: 0.0
+key: 9
+key_confidence: 0.493
+loudness: -12.968
+mode: 0
+mode_confidence: 0.463
+release: Rafta Rafta
+release_7digitalid: 805475
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (425,)
+segments_loudness_max: shape = (425,)
+segments_loudness_max_time: shape = (425,)
+segments_loudness_start: shape = (425,)
+segments_pitches: shape = (425, 12)
+segments_start: shape = (425,)
+segments_timbre: shape = (425, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3759843015
+song_id: SOQTQWP12AB0185390
+start_of_fade_out: 106.22
+tatums_confidence: shape = (415,)
+tatums_start: shape = (415,)
+tempo: 114.993
+time_signature: 4
+time_signature_confidence: 0.619
+title: Eeshwar
+track_7digitalid: 8901697
+track_id: TRBABDM12903CC1702
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 31125
+artist_familiarity: 0.619530991124
+artist_hotttnesss: 0.354369615807
+artist_id: ARVUQIC1187B9A7C66
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: b264fc6e-bebc-47c2-a519-1ce8cb53279c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Hevia
+artist_playmeid: 10366
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 5fcfceba3d1e0948f19847e27df1d2f9
+bars_confidence: shape = (131,)
+bars_start: shape = (131,)
+beats_confidence: shape = (532,)
+beats_start: shape = (532,)
+danceability: 0.0
+duration: 261.32853
+end_of_fade_in: 3.344
+energy: 0.0
+key: 0
+key_confidence: 0.649
+loudness: -5.764
+mode: 1
+mode_confidence: 0.572
+release: Étnico Ma Non Troppo
+release_7digitalid: 150268
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1128,)
+segments_loudness_max: shape = (1128,)
+segments_loudness_max_time: shape = (1128,)
+segments_loudness_start: shape = (1128,)
+segments_pitches: shape = (1128, 12)
+segments_start: shape = (1128,)
+segments_timbre: shape = (1128, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.424090810967
+song_id: SORZPFY12A8C137448
+start_of_fade_out: 256.11
+tatums_confidence: shape = (1064,)
+tatums_start: shape = (1064,)
+tempo: 125.02
+time_signature: 4
+time_signature_confidence: 0.962
+title: San Xuan
+track_7digitalid: 1566908
+track_id: TRACXIF128F425E206
+year: 2003

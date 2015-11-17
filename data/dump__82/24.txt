@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 133083
+artist_familiarity: 0.338370154526
+artist_hotttnesss: 0.0
+artist_id: ARJSGPI1241B9C8855
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Birmingham Jubilee Singers
+artist_playmeid: 75022
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: ba4f966ed6fb3303c514cb73bef755e6
+bars_confidence: shape = (331,)
+bars_start: shape = (331,)
+beats_confidence: shape = (331,)
+beats_start: shape = (331,)
+danceability: 0.0
+duration: 188.3424
+end_of_fade_in: 0.52
+energy: 0.0
+key: 11
+key_confidence: 0.387
+loudness: -14.043
+mode: 1
+mode_confidence: 0.328
+release: Birmingham Jubilee Singers Vol. 2 (1927-1930)
+release_7digitalid: 174801
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (598,)
+segments_loudness_max: shape = (598,)
+segments_loudness_max_time: shape = (598,)
+segments_loudness_start: shape = (598,)
+segments_pitches: shape = (598, 12)
+segments_start: shape = (598,)
+segments_timbre: shape = (598, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHCSLO12A8C14171E
+start_of_fade_out: 180.674
+tatums_confidence: shape = (661,)
+tatums_start: shape = (661,)
+tempo: 108.049
+time_signature: 1
+time_signature_confidence: 0.0
+title: Queen Street Rag (144826)
+track_7digitalid: 1875706
+track_id: TRBCEOS128F42A0474
+year: 0

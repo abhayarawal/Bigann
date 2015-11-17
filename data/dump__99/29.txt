@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 249846
+artist_familiarity: 0.278066091612
+artist_hotttnesss: 0.198800845159
+artist_id: ARJFDKM1269FB35F40
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Monique Morelli
+artist_playmeid: -1
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: e1937df9f320773e458aa8986b3c7fd3
+bars_confidence: shape = (65,)
+bars_start: shape = (65,)
+beats_confidence: shape = (266,)
+beats_start: shape = (266,)
+danceability: 0.0
+duration: 136.07138
+end_of_fade_in: 0.299
+energy: 0.0
+key: 0
+key_confidence: 0.281
+loudness: -16.558
+mode: 0
+mode_confidence: 0.493
+release: François Villon
+release_7digitalid: 371980
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (319,)
+segments_loudness_max: shape = (319,)
+segments_loudness_max_time: shape = (319,)
+segments_loudness_start: shape = (319,)
+segments_pitches: shape = (319, 12)
+segments_start: shape = (319,)
+segments_timbre: shape = (319, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOXXVKU12A8C1426B6
+start_of_fade_out: 122.41
+tatums_confidence: shape = (532,)
+tatums_start: shape = (532,)
+tempo: 122.976
+time_signature: 4
+time_signature_confidence: 0.217
+title: Mort
+track_7digitalid: 4142768
+track_id: TRBIDKS128F92CA8AD
+year: 0

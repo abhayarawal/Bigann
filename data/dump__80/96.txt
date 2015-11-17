@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8860
+artist_familiarity: 0.937964750397
+artist_hotttnesss: 0.566622887558
+artist_id: ARSG7NQ1187FB57482
+artist_latitude: nan
+artist_location: Wilmette, IL
+artist_longitude: nan
+artist_mbid: 516cef4d-0718-4007-9939-f9b38af3f784
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Fall Out Boy
+artist_playmeid: 2598
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 5f0bd1a63dcfce141c3bdacc00c8982f
+bars_confidence: shape = (141,)
+bars_start: shape = (141,)
+beats_confidence: shape = (565,)
+beats_start: shape = (565,)
+danceability: 0.0
+duration: 214.33424
+end_of_fade_in: 0.119
+energy: 0.0
+key: 2
+key_confidence: 0.439
+loudness: -4.469
+mode: 1
+mode_confidence: 0.524
+release: Alternative Summer 2009
+release_7digitalid: 491293
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (617,)
+segments_loudness_max: shape = (617,)
+segments_loudness_max_time: shape = (617,)
+segments_loudness_start: shape = (617,)
+segments_pitches: shape = (617, 12)
+segments_start: shape = (617,)
+segments_timbre: shape = (617, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.787620404072
+song_id: SODWYJZ12AB018240F
+start_of_fade_out: 208.538
+tatums_confidence: shape = (1131,)
+tatums_start: shape = (1131,)
+tempo: 160.109
+time_signature: 4
+time_signature_confidence: 0.47
+title: America's Suitehearts
+track_7digitalid: 5443239
+track_id: TRBBSGI128F9309855
+year: 2008

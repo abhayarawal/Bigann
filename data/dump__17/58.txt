@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 11443
+artist_familiarity: 0.878811343493
+artist_hotttnesss: 0.653897217428
+artist_id: AR8V1WA1187B9AD9E9
+artist_latitude: 42.33168
+artist_location: Nashville / Los Angeles
+artist_longitude: -83.04792
+artist_mbid: 11ae9fbb-f3d7-4a47-936f-4c0a04d3b3b5
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: The White Stripes
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: aaedb500bf1985cc8f254759c122299e
+bars_confidence: shape = (147,)
+bars_start: shape = (147,)
+beats_confidence: shape = (596,)
+beats_start: shape = (596,)
+danceability: 0.0
+duration: 274.59873
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.791
+loudness: -6.209
+mode: 1
+mode_confidence: 0.593
+release: Icky Thump
+release_7digitalid: 105985
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (769,)
+segments_loudness_max: shape = (769,)
+segments_loudness_max_time: shape = (769,)
+segments_loudness_start: shape = (769,)
+segments_pitches: shape = (769, 12)
+segments_start: shape = (769,)
+segments_timbre: shape = (769, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.70766830463
+song_id: SOFAQLG12A8C13AC04
+start_of_fade_out: 255.779
+tatums_confidence: shape = (1191,)
+tatums_start: shape = (1191,)
+tempo: 131.279
+time_signature: 4
+time_signature_confidence: 0.943
+title: Im Slowly Turning Into You
+track_7digitalid: 1098002
+track_id: TRAFZRL128F428E465
+year: 2007

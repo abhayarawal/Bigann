@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 19729
+artist_familiarity: 0.46258543954
+artist_hotttnesss: 0.309656148697
+artist_id: ARFLBJQ1187B9B928D
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 2caeff7f-8b83-4a01-9d2c-dc1ac27c6934
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Nando Lauria
+artist_playmeid: 66669
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: f0bb873903da81d420716826422b5cf1
+bars_confidence: shape = (864,)
+bars_start: shape = (864,)
+beats_confidence: shape = (864,)
+beats_start: shape = (864,)
+danceability: 0.0
+duration: 350.56281
+end_of_fade_in: 0.162
+energy: 0.0
+key: 2
+key_confidence: 0.659
+loudness: -23.172
+mode: 1
+mode_confidence: 0.724
+release: Narada Decade (The Anniversary Collection)
+release_7digitalid: 388185
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1435,)
+segments_loudness_max: shape = (1435,)
+segments_loudness_max_time: shape = (1435,)
+segments_loudness_start: shape = (1435,)
+segments_pitches: shape = (1435, 12)
+segments_start: shape = (1435,)
+segments_timbre: shape = (1435, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQKDST12AB017E321
+start_of_fade_out: 345.054
+tatums_confidence: shape = (1729,)
+tatums_start: shape = (1729,)
+tempo: 143.212
+time_signature: 1
+time_signature_confidence: 0.0
+title: Sonho (Dream)
+track_7digitalid: 4307025
+track_id: TRAZUUL128F92EBBBF
+year: 0

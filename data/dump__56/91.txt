@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 454151
+artist_familiarity: 0.243899416649
+artist_hotttnesss: 0.0
+artist_id: ARHNYVE122988EE3A6
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Charanga de la 4
+artist_playmeid: -1
+artist_terms: shape = (3,)
+artist_terms_freq: shape = (3,)
+artist_terms_weight: shape = (3,)
+audio_md5: f3c7c95b632085ac790cdefe25640921
+bars_confidence: shape = (173,)
+bars_start: shape = (173,)
+beats_confidence: shape = (695,)
+beats_start: shape = (695,)
+danceability: 0.0
+duration: 329.97832
+end_of_fade_in: 0.339
+energy: 0.0
+key: 2
+key_confidence: 0.354
+loudness: -9.535
+mode: 1
+mode_confidence: 0.486
+release: Se Pegó...!
+release_7digitalid: 745845
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1257,)
+segments_loudness_max: shape = (1257,)
+segments_loudness_max_time: shape = (1257,)
+segments_loudness_start: shape = (1257,)
+segments_pitches: shape = (1257, 12)
+segments_start: shape = (1257,)
+segments_timbre: shape = (1257, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFAOVT12AC468AC11
+start_of_fade_out: 329.978
+tatums_confidence: shape = (1391,)
+tatums_start: shape = (1391,)
+tempo: 126.922
+time_signature: 4
+time_signature_confidence: 0.621
+title: Clavelitos
+track_7digitalid: 8255290
+track_id: TRATKAG12903D0E953
+year: 0

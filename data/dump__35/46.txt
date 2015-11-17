@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8956
+artist_familiarity: 0.867258942438
+artist_hotttnesss: 0.54776411101
+artist_id: ARHUC691187B9AD27F
+artist_latitude: nan
+artist_location: Long Beach, California
+artist_longitude: nan
+artist_mbid: 20883363-1ea4-4d72-ad72-c0e767038f3e
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The Mars Volta
+artist_playmeid: -1
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: 22df588fc9d14ab34d8aa61240e1eeb0
+bars_confidence: shape = (336,)
+bars_start: shape = (336,)
+beats_confidence: shape = (1012,)
+beats_start: shape = (1012,)
+danceability: 0.0
+duration: 380.42077
+end_of_fade_in: 0.0
+energy: 0.0
+key: 6
+key_confidence: 0.262
+loudness: -3.183
+mode: 0
+mode_confidence: 0.424
+release: Deloused in the Comatorium
+release_7digitalid: 337526
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (971,)
+segments_loudness_max: shape = (971,)
+segments_loudness_max_time: shape = (971,)
+segments_loudness_start: shape = (971,)
+segments_pitches: shape = (971, 12)
+segments_start: shape = (971,)
+segments_timbre: shape = (971, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.906077741483
+song_id: SOEIQUY12AF72A086A
+start_of_fade_out: 380.421
+tatums_confidence: shape = (2025,)
+tatums_start: shape = (2025,)
+tempo: 158.34
+time_signature: 3
+time_signature_confidence: 0.686
+title: Eriatarka
+track_7digitalid: 3776646
+track_id: TRAMCGL128F92F3D87
+year: 2003

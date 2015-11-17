@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4730
+artist_familiarity: 0.787877691086
+artist_hotttnesss: 0.543225521045
+artist_id: ARAPH9U1187B9B34F0
+artist_latitude: nan
+artist_location: Marshville, NC
+artist_longitude: nan
+artist_mbid: 09b697e3-a849-4670-ae49-e0b821a6271a
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Randy Travis
+artist_playmeid: 10849
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 63852a5cf2d35d413909796e599aac19
+bars_confidence: shape = (70,)
+bars_start: shape = (70,)
+beats_confidence: shape = (285,)
+beats_start: shape = (285,)
+danceability: 0.0
+duration: 187.53261
+end_of_fade_in: 0.255
+energy: 0.0
+key: 5
+key_confidence: 0.731
+loudness: -12.324
+mode: 1
+mode_confidence: 0.639
+release: Trail Of Memories:  The Randy Travis Anthology
+release_7digitalid: 62238
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (556,)
+segments_loudness_max: shape = (556,)
+segments_loudness_max_time: shape = (556,)
+segments_loudness_start: shape = (556,)
+segments_pitches: shape = (556, 12)
+segments_start: shape = (556,)
+segments_timbre: shape = (556, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.215080318509
+song_id: SOJENAR12A67021592
+start_of_fade_out: 177.673
+tatums_confidence: shape = (857,)
+tatums_start: shape = (857,)
+tempo: 95.781
+time_signature: 4
+time_signature_confidence: 0.0
+title: On The Other Hand (Remastered Album Version)
+track_7digitalid: 644918
+track_id: TRAELXD128F14A8B21
+year: 0

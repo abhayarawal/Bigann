@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 68151
+artist_familiarity: 0.727230315463
+artist_hotttnesss: 0.476559378978
+artist_id: ARANOZN1187B9B373E
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: f035837e-4117-438d-a524-cacf43500e68
+artist_mbtags: shape = (6,)
+artist_mbtags_count: shape = (6,)
+artist_name: Descendents
+artist_playmeid: 38191
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 3ee329b199e18e060f1f986c375702d1
+bars_confidence: shape = (69,)
+bars_start: shape = (69,)
+beats_confidence: shape = (278,)
+beats_start: shape = (278,)
+danceability: 0.0
+duration: 89.23383
+end_of_fade_in: 0.188
+energy: 0.0
+key: 11
+key_confidence: 0.727
+loudness: -8.867
+mode: 1
+mode_confidence: 0.3
+release: Somery
+release_7digitalid: 329970
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (300,)
+segments_loudness_max: shape = (300,)
+segments_loudness_max_time: shape = (300,)
+segments_loudness_start: shape = (300,)
+segments_pitches: shape = (300, 12)
+segments_start: shape = (300,)
+segments_timbre: shape = (300, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTPQFM12AB017AC9E
+start_of_fade_out: 81.995
+tatums_confidence: shape = (555,)
+tatums_start: shape = (555,)
+tempo: 203.29
+time_signature: 4
+time_signature_confidence: 0.0
+title: I'm Not A Loser
+track_7digitalid: 3707539
+track_id: TRARMHA128F92E7D32
+year: 1982

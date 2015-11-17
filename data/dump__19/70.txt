@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15229
+artist_familiarity: 0.731065755711
+artist_hotttnesss: 0.509878707853
+artist_id: AREPD8D1187FB3F5BC
+artist_latitude: nan
+artist_location: Gainesville, FL
+artist_longitude: nan
+artist_mbid: 3b141e34-8c02-4074-b68a-7d64e3212acd
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Sister Hazel
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: e9f6494fdc05603b5ce6453c03fd901c
+bars_confidence: shape = (123,)
+bars_start: shape = (123,)
+beats_confidence: shape = (495,)
+beats_start: shape = (495,)
+danceability: 0.0
+duration: 230.37342
+end_of_fade_in: 1.216
+energy: 0.0
+key: 2
+key_confidence: 1.0
+loudness: -12.283
+mode: 1
+mode_confidence: 0.92
+release: This Kind Of Love
+release_7digitalid: 320428
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (588,)
+segments_loudness_max: shape = (588,)
+segments_loudness_max_time: shape = (588,)
+segments_loudness_start: shape = (588,)
+segments_pitches: shape = (588, 12)
+segments_start: shape = (588,)
+segments_timbre: shape = (588, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.616922367594
+song_id: SOKUXFH12A8C145EF7
+start_of_fade_out: 212.143
+tatums_confidence: shape = (990,)
+tatums_start: shape = (990,)
+tempo: 139.841
+time_signature: 4
+time_signature_confidence: 0.515
+title: This Kind Of Love (Full Band)
+track_7digitalid: 3611295
+track_id: TRAGROY128F92D2C53
+year: 0

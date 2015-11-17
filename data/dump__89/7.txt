@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2857
+artist_familiarity: 0.428252654267
+artist_hotttnesss: 0.351023682295
+artist_id: ARSX3I61187B98FAC7
+artist_latitude: 35.03731
+artist_location: Whitehaven, TN
+artist_longitude: -90.06146
+artist_mbid: 35992a97-e1c5-4987-96dd-9a03f358a69d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Frank Stokes
+artist_playmeid: 31741
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 0a928ec9281cdf08eeec89ab0cde6cfc
+bars_confidence: shape = (429,)
+bars_start: shape = (429,)
+beats_confidence: shape = (429,)
+beats_start: shape = (429,)
+danceability: 0.0
+duration: 176.32608
+end_of_fade_in: 0.264
+energy: 0.0
+key: 5
+key_confidence: 0.555
+loudness: -16.748
+mode: 0
+mode_confidence: 0.409
+release: Creator Of The Memphis Blues
+release_7digitalid: 174759
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (653,)
+segments_loudness_max: shape = (653,)
+segments_loudness_max_time: shape = (653,)
+segments_loudness_start: shape = (653,)
+segments_pitches: shape = (653, 12)
+segments_start: shape = (653,)
+segments_timbre: shape = (653, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJJAGC12A8C13F710
+start_of_fade_out: 172.292
+tatums_confidence: shape = (858,)
+tatums_start: shape = (858,)
+tempo: 149.056
+time_signature: 1
+time_signature_confidence: 0.0
+title: Sweet To Mama
+track_7digitalid: 1874725
+track_id: TRBERGT128F42A009F
+year: 2005

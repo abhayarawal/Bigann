@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 279568
+artist_familiarity: 0.477963013508
+artist_hotttnesss: 0.427015342984
+artist_id: ARLPXQE1187B99066C
+artist_latitude: -6.17144
+artist_location: jakarta
+artist_longitude: 106.82782
+artist_mbid: f2433a8e-78a5-4760-9fc2-d27b0a3038d6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bonita
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: 75fa882616102f442aba9db3930ca657
+bars_confidence: shape = (98,)
+bars_start: shape = (98,)
+beats_confidence: shape = (411,)
+beats_start: shape = (411,)
+danceability: 0.0
+duration: 288.57424
+end_of_fade_in: 0.346
+energy: 0.0
+key: 5
+key_confidence: 0.577
+loudness: -10.656
+mode: 1
+mode_confidence: 0.589
+release: Album
+release_7digitalid: 715037
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (773,)
+segments_loudness_max: shape = (773,)
+segments_loudness_max_time: shape = (773,)
+segments_loudness_start: shape = (773,)
+segments_pitches: shape = (773, 12)
+segments_start: shape = (773,)
+segments_timbre: shape = (773, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOPLSRU12AB018860D
+start_of_fade_out: 279.65
+tatums_confidence: shape = (821,)
+tatums_start: shape = (821,)
+tempo: 87.784
+time_signature: 4
+time_signature_confidence: 1.0
+title: It Could Never Be You
+track_7digitalid: 7931054
+track_id: TRBGUII12903CBF930
+year: 0

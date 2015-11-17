@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 105561
+artist_familiarity: 0.684994896581
+artist_hotttnesss: 0.41551708286
+artist_id: ARDG9Z71187B997023
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: 68950696-ee9a-49b2-a8c2-d1d6c19355cc
+artist_mbtags: shape = (9,)
+artist_mbtags_count: shape = (9,)
+artist_name: Public Image Ltd
+artist_playmeid: 61470
+artist_terms: shape = (43,)
+artist_terms_freq: shape = (43,)
+artist_terms_weight: shape = (43,)
+audio_md5: 4a4b271eeaaabb7175139da432e59139
+bars_confidence: shape = (131,)
+bars_start: shape = (131,)
+beats_confidence: shape = (530,)
+beats_start: shape = (530,)
+danceability: 0.0
+duration: 251.50649
+end_of_fade_in: 0.223
+energy: 0.0
+key: 9
+key_confidence: 0.007
+loudness: -10.347
+mode: 0
+mode_confidence: 0.243
+release: Valse Avec Bachir
+release_7digitalid: 304975
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (741,)
+segments_loudness_max: shape = (741,)
+segments_loudness_max_time: shape = (741,)
+segments_loudness_start: shape = (741,)
+segments_pitches: shape = (741, 12)
+segments_start: shape = (741,)
+segments_timbre: shape = (741, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.87361875979
+song_id: SOEAXUV12A6D4F8FA2
+start_of_fade_out: 240.605
+tatums_confidence: shape = (1060,)
+tatums_start: shape = (1060,)
+tempo: 127.369
+time_signature: 4
+time_signature_confidence: 0.0
+title: This Is Not A Love Song
+track_7digitalid: 3433304
+track_id: TRBIAHA128F42A4C9B
+year: 1983

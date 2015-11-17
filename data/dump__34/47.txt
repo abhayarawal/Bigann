@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2185
+artist_familiarity: 0.692975623904
+artist_hotttnesss: 0.422507450826
+artist_id: AR3AY3R1187FB52CF0
+artist_latitude: nan
+artist_location: Vidor, TX
+artist_longitude: nan
+artist_mbid: 1edead6d-6c01-4ad4-9cce-c334bf7edf23
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Tracy Byrd
+artist_playmeid: 3119
+artist_terms: shape = (35,)
+artist_terms_freq: shape = (35,)
+artist_terms_weight: shape = (35,)
+audio_md5: 69b929a3617823d210604dae71d2fcd1
+bars_confidence: shape = (106,)
+bars_start: shape = (106,)
+beats_confidence: shape = (428,)
+beats_start: shape = (428,)
+danceability: 0.0
+duration: 190.27546
+end_of_fade_in: 0.282
+energy: 0.0
+key: 9
+key_confidence: 0.567
+loudness: -11.036
+mode: 1
+mode_confidence: 0.633
+release: Noble Things ST
+release_7digitalid: 649320
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (594,)
+segments_loudness_max: shape = (594,)
+segments_loudness_max_time: shape = (594,)
+segments_loudness_start: shape = (594,)
+segments_pitches: shape = (594, 12)
+segments_start: shape = (594,)
+segments_timbre: shape = (594, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOTQGSB12AB01894AE
+start_of_fade_out: 180.013
+tatums_confidence: shape = (856,)
+tatums_start: shape = (856,)
+tempo: 137.528
+time_signature: 4
+time_signature_confidence: 0.0
+title: Take Me Fishin'
+track_7digitalid: 7192672
+track_id: TRALSKT128F93549F9
+year: 0

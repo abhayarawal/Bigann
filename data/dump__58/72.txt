@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 38432
+artist_familiarity: 0.588370653419
+artist_hotttnesss: 0.413237883925
+artist_id: ARN5W1B1187B98BE10
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 03586e0c-6a3f-4cb1-b039-2d4406f1a053
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Warrior King
+artist_playmeid: -1
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 1ba0b7123e86edc815ae7873216f4a80
+bars_confidence: shape = (313,)
+bars_start: shape = (313,)
+beats_confidence: shape = (313,)
+beats_start: shape = (313,)
+danceability: 0.0
+duration: 225.77587
+end_of_fade_in: 0.16
+energy: 0.0
+key: 0
+key_confidence: 0.873
+loudness: -6.937
+mode: 0
+mode_confidence: 0.603
+release: Virtuous Woman
+release_7digitalid: 146292
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1011,)
+segments_loudness_max: shape = (1011,)
+segments_loudness_max_time: shape = (1011,)
+segments_loudness_start: shape = (1011,)
+segments_pitches: shape = (1011, 12)
+segments_start: shape = (1011,)
+segments_timbre: shape = (1011, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.565451012174
+song_id: SOLCJXU12A8C134178
+start_of_fade_out: 220.578
+tatums_confidence: shape = (1250,)
+tatums_start: shape = (1250,)
+tempo: 83.831
+time_signature: 1
+time_signature_confidence: 0.938
+title: Breath Of Fresh Air
+track_7digitalid: 1525919
+track_id: TRAUBKK128F4254C97
+year: 2002

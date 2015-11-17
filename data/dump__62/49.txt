@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 45105
+artist_familiarity: 0.554981512699
+artist_hotttnesss: 0.384722598546
+artist_id: ARP1M531187B9B19AC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 5adf9c2e-9220-4a1a-8959-eb2d636cac02
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Perez Prado_ His Orchestra
+artist_playmeid: 144929
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: cb927f3900bb7b2fed96666159d4379c
+bars_confidence: shape = (315,)
+bars_start: shape = (315,)
+beats_confidence: shape = (315,)
+beats_start: shape = (315,)
+danceability: 0.0
+duration: 143.41179
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.339
+loudness: -8.807
+mode: 1
+mode_confidence: 0.444
+release: Doble Contenldo : Perez Prado
+release_7digitalid: 812732
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (505,)
+segments_loudness_max: shape = (505,)
+segments_loudness_max_time: shape = (505,)
+segments_loudness_start: shape = (505,)
+segments_pitches: shape = (505, 12)
+segments_start: shape = (505,)
+segments_timbre: shape = (505, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJQYBG12AB018B656
+start_of_fade_out: 139.842
+tatums_confidence: shape = (630,)
+tatums_start: shape = (630,)
+tempo: 134.937
+time_signature: 1
+time_signature_confidence: 0.0
+title: Abril en Portugal
+track_7digitalid: 8981851
+track_id: TRAVKOP12903CD4E39
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 50202
+artist_familiarity: 0.688146051452
+artist_hotttnesss: 0.518371605962
+artist_id: ARWZSFC1187FB567BF
+artist_latitude: 40.65507
+artist_location: Brooklyn, NY
+artist_longitude: -73.94888
+artist_mbid: 0e990816-cb3e-4930-a2eb-77909e42cd66
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Eddie Money
+artist_playmeid: 8502
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 5e1ef33cfdc509d4e6c5b417bc5e9d49
+bars_confidence: shape = (53,)
+bars_start: shape = (53,)
+beats_confidence: shape = (267,)
+beats_start: shape = (267,)
+danceability: 0.0
+duration: 189.30893
+end_of_fade_in: 0.062
+energy: 0.0
+key: 2
+key_confidence: 0.221
+loudness: -7.54
+mode: 1
+mode_confidence: 0.516
+release: Playlist: The Very Best Of Eddie Money
+release_7digitalid: 315004
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (645,)
+segments_loudness_max: shape = (645,)
+segments_loudness_max_time: shape = (645,)
+segments_loudness_start: shape = (645,)
+segments_pitches: shape = (645, 12)
+segments_start: shape = (645,)
+segments_timbre: shape = (645, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.426223508159
+song_id: SODWZGN12A8C142A38
+start_of_fade_out: 180.024
+tatums_confidence: shape = (800,)
+tatums_start: shape = (800,)
+tempo: 86.902
+time_signature: 5
+time_signature_confidence: 0.772
+title: Two Tickets To Paradise
+track_7digitalid: 3565022
+track_id: TRACTUH128F92C93A3
+year: 1977

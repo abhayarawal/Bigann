@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18676
+artist_familiarity: 0.840590438336
+artist_hotttnesss: 0.546545161955
+artist_id: AR7GUNF1187B990CCF
+artist_latitude: 35.2225
+artist_location: Charlotte, NC
+artist_longitude: -80.83754
+artist_mbid: 1870fb43-50f1-4660-a879-bb596d1519b6
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Between The Buried And Me
+artist_playmeid: -1
+artist_terms: shape = (55,)
+artist_terms_freq: shape = (55,)
+artist_terms_weight: shape = (55,)
+audio_md5: cb117aaf5011fd183abea13011cbbb71
+bars_confidence: shape = (67,)
+bars_start: shape = (67,)
+beats_confidence: shape = (272,)
+beats_start: shape = (272,)
+danceability: 0.0
+duration: 133.82485
+end_of_fade_in: 0.456
+energy: 0.0
+key: 10
+key_confidence: 0.576
+loudness: -8.06
+mode: 0
+mode_confidence: 0.37
+release: Colors
+release_7digitalid: 131598
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (208,)
+segments_loudness_max: shape = (208,)
+segments_loudness_max_time: shape = (208,)
+segments_loudness_start: shape = (208,)
+segments_pitches: shape = (208, 12)
+segments_start: shape = (208,)
+segments_timbre: shape = (208, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.372530039366
+song_id: SOIKALD12A81C231CB
+start_of_fade_out: 133.825
+tatums_confidence: shape = (543,)
+tatums_start: shape = (543,)
+tempo: 120.663
+time_signature: 4
+time_signature_confidence: 1.0
+title: Foam Born (A) The Backtrack (Album Version)
+track_7digitalid: 1362419
+track_id: TRAFJUT128F42358BC
+year: 2007

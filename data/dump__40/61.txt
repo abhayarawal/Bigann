@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 6606
+artist_familiarity: 0.475027800815
+artist_hotttnesss: 0.378413813554
+artist_id: ARMPIH61187FB44227
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ff0ecbbe-34b0-49c7-a36d-81a47700ac13
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Sun Yan-Zi
+artist_playmeid: 62275
+artist_terms: shape = (25,)
+artist_terms_freq: shape = (25,)
+artist_terms_weight: shape = (25,)
+audio_md5: 59416b59ea8ea1041c3fedc0e946163e
+bars_confidence: shape = (107,)
+bars_start: shape = (107,)
+beats_confidence: shape = (430,)
+beats_start: shape = (430,)
+danceability: 0.0
+duration: 263.49669
+end_of_fade_in: 2.148
+energy: 0.0
+key: 8
+key_confidence: 0.453
+loudness: -4.085
+mode: 0
+mode_confidence: 0.463
+release: My Story_ Your Song 2006 Greatest Hits Collection [for Digital]
+release_7digitalid: 217540
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (926,)
+segments_loudness_max: shape = (926,)
+segments_loudness_max_time: shape = (926,)
+segments_loudness_start: shape = (926,)
+segments_pitches: shape = (926, 12)
+segments_start: shape = (926,)
+segments_timbre: shape = (926, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQRMSV12A8C13DD92
+start_of_fade_out: 256.83
+tatums_confidence: shape = (1718,)
+tatums_start: shape = (1718,)
+tempo: 99.981
+time_signature: 4
+time_signature_confidence: 1.0
+title: Sensible
+track_7digitalid: 2369992
+track_id: TRANUSN128F4281594
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 194799
+artist_familiarity: 0.498259309879
+artist_hotttnesss: 0.334065789838
+artist_id: ARQESNI1187FB511EE
+artist_latitude: 38.8991
+artist_location: Washington DC
+artist_longitude: -77.029
+artist_mbid: ebed155f-bc93-4bf4-afa5-3f847800afd8
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Morel
+artist_playmeid: -1
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 9c0a4e709b325c74ff53c68f7ebb8ff1
+bars_confidence: shape = (139,)
+bars_start: shape = (139,)
+beats_confidence: shape = (561,)
+beats_start: shape = (561,)
+danceability: 0.0
+duration: 311.40526
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.685
+loudness: -4.313
+mode: 1
+mode_confidence: 0.611
+release: Peterbilt Angel
+release_7digitalid: 254792
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (1271,)
+segments_loudness_max: shape = (1271,)
+segments_loudness_max_time: shape = (1271,)
+segments_loudness_start: shape = (1271,)
+segments_pitches: shape = (1271, 12)
+segments_start: shape = (1271,)
+segments_timbre: shape = (1271, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOYAGJM12A8C13DCCE
+start_of_fade_out: 300.118
+tatums_confidence: shape = (1121,)
+tatums_start: shape = (1121,)
+tempo: 108.367
+time_signature: 4
+time_signature_confidence: 0.36
+title: Blue Taxi
+track_7digitalid: 2942130
+track_id: TRAAIXN128F428027A
+year: 0

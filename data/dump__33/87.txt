@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 173746
+artist_familiarity: 0.540123026187
+artist_hotttnesss: 0.376200928781
+artist_id: ARD4KNM1187FB3626A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: c1281222-c989-4987-a87e-9a42a65727f0
+artist_mbtags: shape = (13,)
+artist_mbtags_count: shape = (13,)
+artist_name: Liquid Stranger
+artist_playmeid: -1
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 3d09a250d08f977b06dc5be34d5e8d18
+bars_confidence: shape = (211,)
+bars_start: shape = (211,)
+beats_confidence: shape = (848,)
+beats_start: shape = (848,)
+danceability: 0.0
+duration: 551.54893
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.503
+loudness: -11.582
+mode: 1
+mode_confidence: 0.42
+release: Bliminal
+release_7digitalid: 228539
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (2606,)
+segments_loudness_max: shape = (2606,)
+segments_loudness_max_time: shape = (2606,)
+segments_loudness_start: shape = (2606,)
+segments_pitches: shape = (2606, 12)
+segments_start: shape = (2606,)
+segments_timbre: shape = (2606, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.382935090075
+song_id: SOOYRFK12A6D4FB5CA
+start_of_fade_out: 542.314
+tatums_confidence: shape = (2545,)
+tatums_start: shape = (2545,)
+tempo: 93.328
+time_signature: 4
+time_signature_confidence: 0.311
+title: We Meet at Last
+track_7digitalid: 2500146
+track_id: TRALNAB128F421B318
+year: 2007

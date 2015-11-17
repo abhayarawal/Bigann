@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 15867
+artist_familiarity: 0.552053803339
+artist_hotttnesss: 0.34137626763
+artist_id: AREB22L1187B9A4BCE
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 428bdc7a-373c-4cd0-b3a7-1cec7ce868bf
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Bad Azz
+artist_playmeid: 61516
+artist_terms: shape = (41,)
+artist_terms_freq: shape = (41,)
+artist_terms_weight: shape = (41,)
+audio_md5: ebeeac70e9b1a67edc6e172901663a12
+bars_confidence: shape = (73,)
+bars_start: shape = (73,)
+beats_confidence: shape = (306,)
+beats_start: shape = (306,)
+danceability: 0.0
+duration: 211.30404
+end_of_fade_in: 0.156
+energy: 0.0
+key: 10
+key_confidence: 0.004
+loudness: -5.108
+mode: 1
+mode_confidence: 0.231
+release: Word On Tha Streets
+release_7digitalid: 22465
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (826,)
+segments_loudness_max: shape = (826,)
+segments_loudness_max_time: shape = (826,)
+segments_loudness_start: shape = (826,)
+segments_pitches: shape = (826, 12)
+segments_start: shape = (826,)
+segments_timbre: shape = (826, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOWLRCG12A6D4F7D25
+start_of_fade_out: 201.015
+tatums_confidence: shape = (611,)
+tatums_start: shape = (611,)
+tempo: 86.979
+time_signature: 4
+time_signature_confidence: 0.82
+title: Tha Stand
+track_7digitalid: 232365
+track_id: TRAMNQJ128F1456E04
+year: 1998

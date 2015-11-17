@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 30067
+artist_familiarity: 0.442818538003
+artist_hotttnesss: 0.320520135114
+artist_id: ARTP2PK1187B98FECA
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 23c07df4-b3bb-42e8-8bea-098c0b09fb90
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Quinteto Violado
+artist_playmeid: 56151
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: 5d9ac28428b4d33e1fd093a3594e65e1
+bars_confidence: shape = (180,)
+bars_start: shape = (180,)
+beats_confidence: shape = (910,)
+beats_start: shape = (910,)
+danceability: 0.0
+duration: 391.00036
+end_of_fade_in: 0.372
+energy: 0.0
+key: 7
+key_confidence: 0.79
+loudness: -22.152
+mode: 1
+mode_confidence: 0.795
+release: 25 Anos Não São 25 Dias
+release_7digitalid: 146185
+sections_confidence: shape = (18,)
+sections_start: shape = (18,)
+segments_confidence: shape = (900,)
+segments_loudness_max: shape = (900,)
+segments_loudness_max_time: shape = (900,)
+segments_loudness_start: shape = (900,)
+segments_pitches: shape = (900, 12)
+segments_start: shape = (900,)
+segments_timbre: shape = (900, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQINBV12A8C136A80
+start_of_fade_out: 383.332
+tatums_confidence: shape = (910,)
+tatums_start: shape = (910,)
+tempo: 139.806
+time_signature: 5
+time_signature_confidence: 0.587
+title: Maria Betania
+track_7digitalid: 1524732
+track_id: TRBEPQG128F42547F6
+year: 0

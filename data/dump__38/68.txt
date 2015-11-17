@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 18036
+artist_familiarity: 0.529788041081
+artist_hotttnesss: 0.420114180265
+artist_id: ARI0AB01187B9B7D94
+artist_latitude: nan
+artist_location: Reinerton, PA
+artist_longitude: nan
+artist_mbid: 3ffc8b31-cfe8-44c9-aa2e-e82d3355e9b3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Les Brown
+artist_playmeid: 17700
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 6c80ba73a25f49605d71aac2c76e0661
+bars_confidence: shape = (243,)
+bars_start: shape = (243,)
+beats_confidence: shape = (243,)
+beats_start: shape = (243,)
+danceability: 0.0
+duration: 172.87791
+end_of_fade_in: 0.131
+energy: 0.0
+key: 1
+key_confidence: 0.214
+loudness: -14.319
+mode: 0
+mode_confidence: 0.434
+release: Live 12 May 1957
+release_7digitalid: 435561
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (400,)
+segments_loudness_max: shape = (400,)
+segments_loudness_max_time: shape = (400,)
+segments_loudness_start: shape = (400,)
+segments_pitches: shape = (400, 12)
+segments_start: shape = (400,)
+segments_timbre: shape = (400, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SONLFOB12AB017C555
+start_of_fade_out: 165.094
+tatums_confidence: shape = (485,)
+tatums_start: shape = (485,)
+tempo: 86.441
+time_signature: 1
+time_signature_confidence: 0.0
+title: Harlem Nocturne
+track_7digitalid: 4852840
+track_id: TRANFTA128F92EA606
+year: 2007

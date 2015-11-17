@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 16861
+artist_familiarity: 0.491071814192
+artist_hotttnesss: 0.302255689191
+artist_id: AR1BZED1187FB4CDEE
+artist_latitude: 35.14968
+artist_location: Memphis, TN
+artist_longitude: -90.04892
+artist_mbid: f58a85e3-d79a-49c0-8543-fef332632bad
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Wendy Moten
+artist_playmeid: 64319
+artist_terms: shape = (33,)
+artist_terms_freq: shape = (33,)
+artist_terms_weight: shape = (33,)
+audio_md5: 651ce7ebfd1310fa31d02e56b4e81a0d
+bars_confidence: shape = (103,)
+bars_start: shape = (103,)
+beats_confidence: shape = (415,)
+beats_start: shape = (415,)
+danceability: 0.0
+duration: 230.37342
+end_of_fade_in: 0.445
+energy: 0.0
+key: 5
+key_confidence: 0.615
+loudness: -8.634
+mode: 1
+mode_confidence: 0.305
+release: Wendy Moten
+release_7digitalid: 24127
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (948,)
+segments_loudness_max: shape = (948,)
+segments_loudness_max_time: shape = (948,)
+segments_loudness_start: shape = (948,)
+segments_pitches: shape = (948, 12)
+segments_start: shape = (948,)
+segments_timbre: shape = (948, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOYSHUA12A58A7CEBF
+start_of_fade_out: 221.344
+tatums_confidence: shape = (829,)
+tatums_start: shape = (829,)
+tempo: 109.001
+time_signature: 4
+time_signature_confidence: 0.558
+title: Make This Love Last
+track_7digitalid: 253419
+track_id: TRAQKVM128F145BB26
+year: 1992

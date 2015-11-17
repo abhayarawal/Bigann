@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 24981
+artist_familiarity: 0.916058238483
+artist_hotttnesss: 0.53540837923
+artist_id: ARKZJ301187FB521B2
+artist_latitude: nan
+artist_location: LDN
+artist_longitude: nan
+artist_mbid: 6e0c7c0e-cba5-4c2c-a652-38f71ef5785d
+artist_mbtags: shape = (8,)
+artist_mbtags_count: shape = (8,)
+artist_name: Lily Allen
+artist_playmeid: 4702
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 1020ad7a0acf4d2c02309e98bbc25734
+bars_confidence: shape = (176,)
+bars_start: shape = (176,)
+beats_confidence: shape = (530,)
+beats_start: shape = (530,)
+danceability: 0.0
+duration: 277.83791
+end_of_fade_in: 6.327
+energy: 0.0
+key: 5
+key_confidence: 0.178
+loudness: -6.399
+mode: 1
+mode_confidence: 0.312
+release: It's Not Me_ It's You
+release_7digitalid: 354320
+sections_confidence: shape = (13,)
+sections_start: shape = (13,)
+segments_confidence: shape = (1044,)
+segments_loudness_max: shape = (1044,)
+segments_loudness_max_time: shape = (1044,)
+segments_loudness_start: shape = (1044,)
+segments_pitches: shape = (1044, 12)
+segments_start: shape = (1044,)
+segments_timbre: shape = (1044, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.740467827363
+song_id: SOHIHSR12AB0184E8F
+start_of_fade_out: 268.98
+tatums_confidence: shape = (1060,)
+tatums_start: shape = (1060,)
+tempo: 116.957
+time_signature: 3
+time_signature_confidence: 0.618
+title: Everyone's At It
+track_7digitalid: 3962052
+track_id: TRBCJUF128F93190C2
+year: 2009

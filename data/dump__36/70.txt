@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 17767
+artist_familiarity: 0.698532476696
+artist_hotttnesss: 0.509456000853
+artist_id: ARW2U4O1187FB4408B
+artist_latitude: nan
+artist_location: New York NY
+artist_longitude: nan
+artist_mbid: ef2d4a1c-195e-41f4-839e-bdfd3f85adc3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Andrew W.K.
+artist_playmeid: -1
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: e83d91abfd52a82c42f75d952279de84
+bars_confidence: shape = (190,)
+bars_start: shape = (190,)
+beats_confidence: shape = (764,)
+beats_start: shape = (764,)
+danceability: 0.0
+duration: 240.40444
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.209
+loudness: -4.008
+mode: 1
+mode_confidence: 0.296
+release: The Wolf
+release_7digitalid: 337565
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (699,)
+segments_loudness_max: shape = (699,)
+segments_loudness_max_time: shape = (699,)
+segments_loudness_start: shape = (699,)
+segments_pitches: shape = (699, 12)
+segments_start: shape = (699,)
+segments_timbre: shape = (699, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.63541785633
+song_id: SOIGEWM12AB0184077
+start_of_fade_out: 237.946
+tatums_confidence: shape = (1527,)
+tatums_start: shape = (1527,)
+tempo: 191.144
+time_signature: 4
+time_signature_confidence: 0.474
+title: Long Live The Party
+track_7digitalid: 3776952
+track_id: TRAMLZC128F92F3EB9
+year: 2003

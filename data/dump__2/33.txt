@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1269
+artist_familiarity: 0.693009203581
+artist_hotttnesss: 0.498668874796
+artist_id: ARD5K161187B9AC784
+artist_latitude: 51.27562
+artist_location: Sevenoaks, United Kingdom
+artist_longitude: 0.17898
+artist_mbid: f3e2a7d9-c6bb-4848-95e5-04c0a1e2f511
+artist_mbtags: shape = (10,)
+artist_mbtags_count: shape = (10,)
+artist_name: Orbital
+artist_playmeid: 6689
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 6b06b7d597b41d6d37cfa63f882f8b4d
+bars_confidence: shape = (166,)
+bars_start: shape = (166,)
+beats_confidence: shape = (669,)
+beats_start: shape = (669,)
+danceability: 0.0
+duration: 327.8624
+end_of_fade_in: 0.38
+energy: 0.0
+key: 0
+key_confidence: 0.509
+loudness: -6.531
+mode: 1
+mode_confidence: 0.519
+release: The Altogether
+release_7digitalid: 2016
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1235,)
+segments_loudness_max: shape = (1235,)
+segments_loudness_max_time: shape = (1235,)
+segments_loudness_start: shape = (1235,)
+segments_pitches: shape = (1235, 12)
+segments_start: shape = (1235,)
+segments_timbre: shape = (1235, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.688521844119
+song_id: SOFSKON12A8C13B3B5
+start_of_fade_out: 316.447
+tatums_confidence: shape = (1339,)
+tatums_start: shape = (1339,)
+tempo: 125.975
+time_signature: 4
+time_signature_confidence: 0.794
+title: Illuminate
+track_7digitalid: 1156345
+track_id: TRAASFP128F42980BD
+year: 2001

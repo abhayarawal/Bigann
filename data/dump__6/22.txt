@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 103711
+artist_familiarity: 0.50087616005
+artist_hotttnesss: 0.37922806909
+artist_id: AR22KLC1187B98E812
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 446455f2-7d62-45ca-a7ef-53c1c676ac5c
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Kaija Koo
+artist_playmeid: -1
+artist_terms: shape = (27,)
+artist_terms_freq: shape = (27,)
+artist_terms_weight: shape = (27,)
+audio_md5: cff3e4ba1d1ed1a3b619cb8600e98258
+bars_confidence: shape = (113,)
+bars_start: shape = (113,)
+beats_confidence: shape = (455,)
+beats_start: shape = (455,)
+danceability: 0.0
+duration: 227.36934
+end_of_fade_in: 0.972
+energy: 0.0
+key: 2
+key_confidence: 0.675
+loudness: -8.521
+mode: 1
+mode_confidence: 0.438
+release: Lauluja rakkaudesta
+release_7digitalid: 131443
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (780,)
+segments_loudness_max: shape = (780,)
+segments_loudness_max_time: shape = (780,)
+segments_loudness_start: shape = (780,)
+segments_pitches: shape = (780, 12)
+segments_start: shape = (780,)
+segments_timbre: shape = (780, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.542965637572
+song_id: SODTDRC12A81C22C7C
+start_of_fade_out: 213.804
+tatums_confidence: shape = (909,)
+tatums_start: shape = (909,)
+tempo: 121.981
+time_signature: 4
+time_signature_confidence: 1.0
+title: Seuraavassa elämässä
+track_7digitalid: 1360221
+track_id: TRACAYI128F4235122
+year: 1995

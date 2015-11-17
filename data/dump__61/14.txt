@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40751
+artist_familiarity: 0.548882424281
+artist_hotttnesss: 0.386243700521
+artist_id: ARNUIBF1187FB4A28F
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 352749d3-93dd-422c-90b0-90f46dd725eb
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Ray Lynch
+artist_playmeid: -1
+artist_terms: shape = (28,)
+artist_terms_freq: shape = (28,)
+artist_terms_weight: shape = (28,)
+audio_md5: 3b29bd5cb9b37766d1c3e54cca3d2f58
+bars_confidence: shape = (560,)
+bars_start: shape = (560,)
+beats_confidence: shape = (560,)
+beats_start: shape = (560,)
+danceability: 0.0
+duration: 250.22649
+end_of_fade_in: 0.265
+energy: 0.0
+key: 2
+key_confidence: 0.52
+loudness: -21.45
+mode: 1
+mode_confidence: 0.664
+release: Deep Breakfast
+release_7digitalid: 462166
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (680,)
+segments_loudness_max: shape = (680,)
+segments_loudness_max_time: shape = (680,)
+segments_loudness_start: shape = (680,)
+segments_pitches: shape = (680, 12)
+segments_start: shape = (680,)
+segments_timbre: shape = (680, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.660381132712
+song_id: SOOBFRV12AB0184739
+start_of_fade_out: 232.112
+tatums_confidence: shape = (1121,)
+tatums_start: shape = (1121,)
+tempo: 139.944
+time_signature: 1
+time_signature_confidence: 0.0
+title: Kathleen's Song / Ray Lynch
+track_7digitalid: 5144877
+track_id: TRAUWKJ128F932E096
+year: 1984

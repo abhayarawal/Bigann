@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 45281
+artist_familiarity: 0.43002498683
+artist_hotttnesss: 0.353034055775
+artist_id: ARBH0MS1187FB36311
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: afb8d624-52d7-4a72-8d0b-62fff3e29f79
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Sir Neville Marriner
+artist_playmeid: 61257
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 31eb8176b3bbd72a05dbe2ae6a76b83e
+bars_confidence: shape = (0,)
+bars_start: shape = (0,)
+beats_confidence: shape = (0,)
+beats_start: shape = (0,)
+danceability: 0.0
+duration: 220.05506
+end_of_fade_in: 2.856
+energy: 0.0
+key: 0
+key_confidence: 0.435
+loudness: -25.585
+mode: 0
+mode_confidence: 0.678
+release: Respighi: Ancient Airs and Dances
+release_7digitalid: 148194
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (501,)
+segments_loudness_max: shape = (501,)
+segments_loudness_max_time: shape = (501,)
+segments_loudness_start: shape = (501,)
+segments_pitches: shape = (501, 12)
+segments_start: shape = (501,)
+segments_timbre: shape = (501, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOZPUG12A8C132EDD
+start_of_fade_out: 193.643
+tatums_confidence: shape = (251,)
+tatums_start: shape = (251,)
+tempo: 0.0
+time_signature: 1
+time_signature_confidence: 0.927
+title: Ancient Airs and Dances (1996 Digital Remaster)_ Suite No. 2: III.  Campanae parisienses (anon.) - Aria (Marin Mersenne)
+track_7digitalid: 1542943
+track_id: TRAFEUS128F4258E64
+year: 0

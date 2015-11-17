@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21128
+artist_familiarity: 0.77977441092
+artist_hotttnesss: 0.605507135691
+artist_id: AR10USD1187B99F3F1
+artist_latitude: nan
+artist_location: Burlington, Ontario, Canada
+artist_longitude: nan
+artist_mbid: d89de379-665d-425c-b2e9-41b95d1edb36
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Silverstein
+artist_playmeid: -1
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 7b271ac628aad4a3b5b796dbe03a6d91
+bars_confidence: shape = (113,)
+bars_start: shape = (113,)
+beats_confidence: shape = (571,)
+beats_start: shape = (571,)
+danceability: 0.0
+duration: 181.81179
+end_of_fade_in: 0.135
+energy: 0.0
+key: 9
+key_confidence: 0.315
+loudness: -5.993
+mode: 1
+mode_confidence: 0.334
+release: 18 CANDLES: THE EARLY YEARS
+release_7digitalid: 128135
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (590,)
+segments_loudness_max: shape = (590,)
+segments_loudness_max_time: shape = (590,)
+segments_loudness_start: shape = (590,)
+segments_pitches: shape = (590, 12)
+segments_start: shape = (590,)
+segments_timbre: shape = (590, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUKEVR12CF4FFF27D
+start_of_fade_out: 173.053
+tatums_confidence: shape = (1142,)
+tatums_start: shape = (1142,)
+tempo: 200.375
+time_signature: 5
+time_signature_confidence: 0.279
+title: FRIENDS IN FALL RIVER  (LP Version)
+track_7digitalid: 1322885
+track_id: TRACTBH128F422F31B
+year: 2006

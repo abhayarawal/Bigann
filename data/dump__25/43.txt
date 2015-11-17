@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2219
+artist_familiarity: 0.851417628847
+artist_hotttnesss: 0.592614927352
+artist_id: AR3JMC51187B9AE49D
+artist_latitude: 28.53823
+artist_location: Orlando, FL
+artist_longitude: -81.37739
+artist_mbid: 2f569e60-0a1b-4fb9-95a4-3dc1525d1aad
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Backstreet Boys
+artist_playmeid: 156
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: b2c977111e3611af7221efec2d4fd524
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (406,)
+beats_start: shape = (406,)
+danceability: 0.0
+duration: 236.2771
+end_of_fade_in: 2.014
+energy: 0.0
+key: 10
+key_confidence: 0.495
+loudness: -2.801
+mode: 0
+mode_confidence: 0.5
+release: Black & Blue
+release_7digitalid: 281698
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (994,)
+segments_loudness_max: shape = (994,)
+segments_loudness_max_time: shape = (994,)
+segments_loudness_start: shape = (994,)
+segments_pitches: shape = (994, 12)
+segments_start: shape = (994,)
+segments_timbre: shape = (994, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOUKPYI12A8C1349EB
+start_of_fade_out: 229.883
+tatums_confidence: shape = (813,)
+tatums_start: shape = (813,)
+tempo: 103.997
+time_signature: 4
+time_signature_confidence: 0.611
+title: The Call
+track_7digitalid: 3154865
+track_id: TRAINIF128F426416B
+year: 2000

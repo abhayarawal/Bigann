@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 552901
+artist_familiarity: 0.027457373237
+artist_hotttnesss: 0.0
+artist_id: ARKEBNJ126E2B3BF7E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Théophil
+artist_playmeid: -1
+artist_terms: shape = (1,)
+artist_terms_freq: shape = (1,)
+artist_terms_weight: shape = (1,)
+audio_md5: 91c118a19a01fd3d6cb0eee321fa9aae
+bars_confidence: shape = (106,)
+bars_start: shape = (106,)
+beats_confidence: shape = (547,)
+beats_start: shape = (547,)
+danceability: 0.0
+duration: 305.3971
+end_of_fade_in: 0.194
+energy: 0.0
+key: 4
+key_confidence: 0.178
+loudness: -10.516
+mode: 0
+mode_confidence: 0.242
+release: Des vies
+release_7digitalid: 739931
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (1184,)
+segments_loudness_max: shape = (1184,)
+segments_loudness_max_time: shape = (1184,)
+segments_loudness_start: shape = (1184,)
+segments_pitches: shape = (1184, 12)
+segments_start: shape = (1184,)
+segments_timbre: shape = (1184, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOHKBRH12AC9075908
+start_of_fade_out: 296.954
+tatums_confidence: shape = (1640,)
+tatums_start: shape = (1640,)
+tempo: 109.373
+time_signature: 5
+time_signature_confidence: 0.346
+title: Madame Irma
+track_7digitalid: 8197087
+track_id: TRAWFKP12903D0066A
+year: 0

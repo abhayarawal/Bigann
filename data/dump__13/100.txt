@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10561
+artist_familiarity: 0.559901438381
+artist_hotttnesss: 0.401239121707
+artist_id: ARUTS6Y1187FB5BDAB
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: e22d16ad-cb54-42f1-b67d-e5a15135c106
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Twila Paris
+artist_playmeid: 8791
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: a26d3d3f08398ff91ad489ca35169f16
+bars_confidence: shape = (82,)
+bars_start: shape = (82,)
+beats_confidence: shape = (416,)
+beats_start: shape = (416,)
+danceability: 0.0
+duration: 201.32526
+end_of_fade_in: 0.252
+energy: 0.0
+key: 11
+key_confidence: 0.638
+loudness: -10.012
+mode: 1
+mode_confidence: 0.611
+release: We Will Glorify (Premiere Performance Plus Track)
+release_7digitalid: 501877
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (518,)
+segments_loudness_max: shape = (518,)
+segments_loudness_max_time: shape = (518,)
+segments_loudness_start: shape = (518,)
+segments_pitches: shape = (518, 12)
+segments_start: shape = (518,)
+segments_timbre: shape = (518, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.303578662863
+song_id: SOCTMWO12AB018563C
+start_of_fade_out: 182.288
+tatums_confidence: shape = (832,)
+tatums_start: shape = (832,)
+tempo: 135.989
+time_signature: 5
+time_signature_confidence: 0.237
+title: We Will Glorify (Key-B-Db-Premiere Performance Plus)
+track_7digitalid: 5557692
+track_id: TRAERQB128F932563F
+year: 0

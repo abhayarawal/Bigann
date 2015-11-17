@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 111291
+artist_familiarity: 0.609819761152
+artist_hotttnesss: 0.419967935771
+artist_id: AR8FMEN1187FB4A657
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 8b6a46d9-d1a4-43af-8322-6d04457e0bd5
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Lizzy Borden
+artist_playmeid: 58103
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: fa445daf8f1fffff825b12c8d72ee0b4
+bars_confidence: shape = (180,)
+bars_start: shape = (180,)
+beats_confidence: shape = (723,)
+beats_start: shape = (723,)
+danceability: 0.0
+duration: 379.11465
+end_of_fade_in: 0.0
+energy: 0.0
+key: 5
+key_confidence: 0.102
+loudness: -4.431
+mode: 1
+mode_confidence: 0.522
+release: Appointment With Death
+release_7digitalid: 560292
+sections_confidence: shape = (17,)
+sections_start: shape = (17,)
+segments_confidence: shape = (767,)
+segments_loudness_max: shape = (767,)
+segments_loudness_max_time: shape = (767,)
+segments_loudness_start: shape = (767,)
+segments_pitches: shape = (767, 12)
+segments_start: shape = (767,)
+segments_timbre: shape = (767, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.3759843015
+song_id: SOBWOOT12AB0183896
+start_of_fade_out: 367.74
+tatums_confidence: shape = (1447,)
+tatums_start: shape = (1447,)
+tempo: 115.115
+time_signature: 4
+time_signature_confidence: 0.432
+title: The Darker Side
+track_7digitalid: 6201506
+track_id: TRAXEML128F934BC04
+year: 2007

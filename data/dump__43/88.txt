@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 407965
+artist_familiarity: 0.49244072825
+artist_hotttnesss: 0.338946969158
+artist_id: ARY1K701187B9A43A9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: a9f0fc9f-13a0-47aa-a7c3-f2d78013f7b6
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Joe McBride
+artist_playmeid: -1
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: f0a87cce72f5e552623223ece1481111
+bars_confidence: shape = (100,)
+bars_start: shape = (100,)
+beats_confidence: shape = (402,)
+beats_start: shape = (402,)
+danceability: 0.0
+duration: 258.35057
+end_of_fade_in: 0.247
+energy: 0.0
+key: 7
+key_confidence: 0.446
+loudness: -7.028
+mode: 0
+mode_confidence: 0.515
+release: Texas Rhythm Club
+release_7digitalid: 602390
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1123,)
+segments_loudness_max: shape = (1123,)
+segments_loudness_max_time: shape = (1123,)
+segments_loudness_start: shape = (1123,)
+segments_pitches: shape = (1123, 12)
+segments_start: shape = (1123,)
+segments_timbre: shape = (1123, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOZRCYC12AB0188FA8
+start_of_fade_out: 250.683
+tatums_confidence: shape = (804,)
+tatums_start: shape = (804,)
+tempo: 93.986
+time_signature: 4
+time_signature_confidence: 0.648
+title: On The Money
+track_7digitalid: 6690137
+track_id: TRAOZPF12903CF575D
+year: 0

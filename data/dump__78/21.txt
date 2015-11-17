@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 176260
+artist_familiarity: 0.34443819649
+artist_hotttnesss: 0.307323983524
+artist_id: ARH4H1W1187FB53A2E
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 38e788cb-7dfd-471a-a801-eb0c349cec20
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Premiums
+artist_playmeid: 180538
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: cfa759c98262058aacf2531af7c6415f
+bars_confidence: shape = (82,)
+bars_start: shape = (82,)
+beats_confidence: shape = (332,)
+beats_start: shape = (332,)
+danceability: 0.0
+duration: 173.58322
+end_of_fade_in: 0.264
+energy: 0.0
+key: 11
+key_confidence: 0.499
+loudness: -3.593
+mode: 0
+mode_confidence: 0.567
+release: Dragon Boys
+release_7digitalid: 496070
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (482,)
+segments_loudness_max: shape = (482,)
+segments_loudness_max_time: shape = (482,)
+segments_loudness_start: shape = (482,)
+segments_pitches: shape = (482, 12)
+segments_start: shape = (482,)
+segments_timbre: shape = (482, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSTMYP12AB017F0BB
+start_of_fade_out: 165.193
+tatums_confidence: shape = (663,)
+tatums_start: shape = (663,)
+tempo: 120.177
+time_signature: 4
+time_signature_confidence: 0.148
+title: All I Really Want
+track_7digitalid: 5491932
+track_id: TRBASEQ128F93155D2
+year: 0

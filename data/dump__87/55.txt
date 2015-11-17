@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5732
+artist_familiarity: 0.934935267398
+artist_hotttnesss: 0.787005468689
+artist_id: ARKSZW81187B9B695D
+artist_latitude: 40.71455
+artist_location: New York, New York
+artist_longitude: -74.00712
+artist_mbid: 494e8d09-f85b-4543-892f-a5096aed1cd4
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Mariah Carey
+artist_playmeid: 1010
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: f94c5777c262910cc67d7372b048bb8a
+bars_confidence: shape = (512,)
+bars_start: shape = (512,)
+beats_confidence: shape = (512,)
+beats_start: shape = (512,)
+danceability: 0.0
+duration: 286.30159
+end_of_fade_in: 0.183
+energy: 0.0
+key: 7
+key_confidence: 0.34
+loudness: -8.204
+mode: 1
+mode_confidence: 0.437
+release: BUTTERFLY
+release_7digitalid: 411594
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (765,)
+segments_loudness_max: shape = (765,)
+segments_loudness_max_time: shape = (765,)
+segments_loudness_start: shape = (765,)
+segments_pitches: shape = (765, 12)
+segments_start: shape = (765,)
+segments_timbre: shape = (765, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.573019827988
+song_id: SOZBKLM12A58A78692
+start_of_fade_out: 276.683
+tatums_confidence: shape = (1024,)
+tatums_start: shape = (1024,)
+tempo: 109.253
+time_signature: 1
+time_signature_confidence: 0.0
+title: Outside
+track_7digitalid: 4585160
+track_id: TRBEBWG128F93214A4
+year: 1997

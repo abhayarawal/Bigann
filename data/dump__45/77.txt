@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 192619
+artist_familiarity: 0.442769650057
+artist_hotttnesss: 0.294986616555
+artist_id: ARI648V1187B9B5379
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 4e744ffc-767a-4b18-b485-47d4b123ff4a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Michael Stanley Band
+artist_playmeid: 15835
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 73085f9971544b0e5354332aabe9d528
+bars_confidence: shape = (441,)
+bars_start: shape = (441,)
+beats_confidence: shape = (441,)
+beats_start: shape = (441,)
+danceability: 0.0
+duration: 173.42649
+end_of_fade_in: 0.361
+energy: 0.0
+key: 11
+key_confidence: 0.794
+loudness: -8.729
+mode: 0
+mode_confidence: 0.76
+release: North Coast
+release_7digitalid: 536763
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (619,)
+segments_loudness_max: shape = (619,)
+segments_loudness_max_time: shape = (619,)
+segments_loudness_start: shape = (619,)
+segments_pitches: shape = (619, 12)
+segments_start: shape = (619,)
+segments_timbre: shape = (619, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.260774533732
+song_id: SOOXGZG12AB0181F07
+start_of_fade_out: 166.446
+tatums_confidence: shape = (882,)
+tatums_start: shape = (882,)
+tempo: 158.057
+time_signature: 1
+time_signature_confidence: 0.0
+title: Chemistry
+track_7digitalid: 5937142
+track_id: TRAPQDB128F930BD28
+year: 1981

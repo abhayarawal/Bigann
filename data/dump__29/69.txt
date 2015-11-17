@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22329
+artist_familiarity: 0.537587145123
+artist_hotttnesss: 0.306438629228
+artist_id: ARLCEUJ11F4C842D6A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Screaming Jay Hawkins
+artist_playmeid: 13713
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: ae39284114e91e46b1eb52e9ae66016f
+bars_confidence: shape = (87,)
+bars_start: shape = (87,)
+beats_confidence: shape = (350,)
+beats_start: shape = (350,)
+danceability: 0.0
+duration: 128.96608
+end_of_fade_in: 0.208
+energy: 0.0
+key: 8
+key_confidence: 0.451
+loudness: -13.142
+mode: 1
+mode_confidence: 0.477
+release: I Put A Spell On You & Other Favorites (Digitally Remastered)
+release_7digitalid: 572339
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (498,)
+segments_loudness_max: shape = (498,)
+segments_loudness_max_time: shape = (498,)
+segments_loudness_start: shape = (498,)
+segments_pitches: shape = (498, 12)
+segments_start: shape = (498,)
+segments_timbre: shape = (498, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOOPAKJ12AB018AE9F
+start_of_fade_out: 116.332
+tatums_confidence: shape = (700,)
+tatums_start: shape = (700,)
+tempo: 172.112
+time_signature: 4
+time_signature_confidence: 0.067
+title: I Need You
+track_7digitalid: 6342242
+track_id: TRAKABJ12903CA14CE
+year: 0

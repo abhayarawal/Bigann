@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 82238
+artist_familiarity: 0.810506205225
+artist_hotttnesss: 0.531157063062
+artist_id: ARYOPH81187B98AEED
+artist_latitude: 40.65507
+artist_location: Boston, Brooklyn USA
+artist_longitude: -73.94888
+artist_mbid: fa31e7d4-a03a-4110-98fc-f8826e95ec25
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Converge
+artist_playmeid: -1
+artist_terms: shape = (65,)
+artist_terms_freq: shape = (65,)
+artist_terms_weight: shape = (65,)
+audio_md5: 87014e8cd923a36465b12de88878c9cd
+bars_confidence: shape = (108,)
+bars_start: shape = (108,)
+beats_confidence: shape = (442,)
+beats_start: shape = (442,)
+danceability: 0.0
+duration: 174.75873
+end_of_fade_in: 0.15
+energy: 0.0
+key: 1
+key_confidence: 0.403
+loudness: -3.373
+mode: 1
+mode_confidence: 0.472
+release: Axe To Fall
+release_7digitalid: 620633
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (419,)
+segments_loudness_max: shape = (419,)
+segments_loudness_max_time: shape = (419,)
+segments_loudness_start: shape = (419,)
+segments_pitches: shape = (419, 12)
+segments_start: shape = (419,)
+segments_timbre: shape = (419, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.748960569733
+song_id: SOKQFBG12AB0181409
+start_of_fade_out: 167.538
+tatums_confidence: shape = (885,)
+tatums_start: shape = (885,)
+tempo: 156.924
+time_signature: 4
+time_signature_confidence: 0.722
+title: Dark Horse
+track_7digitalid: 6894051
+track_id: TRALHMS128F930C08C
+year: 2009

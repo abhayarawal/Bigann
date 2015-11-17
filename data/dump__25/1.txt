@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5197
+artist_familiarity: 0.644443609616
+artist_hotttnesss: 0.443547552556
+artist_id: AR3KGPQ1187FB53C84
+artist_latitude: 34.05349
+artist_location: Los Angeles, CA
+artist_longitude: -118.24532
+artist_mbid: 57111f1f-9829-45ea-bb4e-a5aba37cd1d1
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: L7
+artist_playmeid: -1
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: ab0e8fc120eb65fc8806cb24078a8f3f
+bars_confidence: shape = (72,)
+bars_start: shape = (72,)
+beats_confidence: shape = (220,)
+beats_start: shape = (220,)
+danceability: 0.0
+duration: 163.13424
+end_of_fade_in: 0.212
+energy: 0.0
+key: 2
+key_confidence: 0.177
+loudness: -9.429
+mode: 0
+mode_confidence: 0.331
+release: Bricks Are Heavy
+release_7digitalid: 608959
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (492,)
+segments_loudness_max: shape = (492,)
+segments_loudness_max_time: shape = (492,)
+segments_loudness_start: shape = (492,)
+segments_pitches: shape = (492, 12)
+segments_start: shape = (492,)
+segments_timbre: shape = (492, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.601463139507
+song_id: SOJTAUQ12AC4689DD9
+start_of_fade_out: 151.011
+tatums_confidence: shape = (878,)
+tatums_start: shape = (878,)
+tempo: 85.82
+time_signature: 3
+time_signature_confidence: 0.238
+title: This Ain't Pleasure
+track_7digitalid: 6766645
+track_id: TRAIJMG12903D08168
+year: 1992

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 447
+artist_familiarity: 0.818042044373
+artist_hotttnesss: 0.638906376718
+artist_id: ARD4C1I1187FB4B0C3
+artist_latitude: nan
+artist_location: London, England
+artist_longitude: nan
+artist_mbid: 83d91898-7763-47d7-b03b-b92132375c47
+artist_mbtags: shape = (12,)
+artist_mbtags_count: shape = (12,)
+artist_name: Big One
+artist_playmeid: 1271
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: cdef2e2a04feaca2a6c289ca386bf4bd
+bars_confidence: shape = (268,)
+bars_start: shape = (268,)
+beats_confidence: shape = (1082,)
+beats_start: shape = (1082,)
+danceability: 0.0
+duration: 499.69587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.491
+loudness: -6.264
+mode: 0
+mode_confidence: 0.711
+release: Live At Valle Dei Templi
+release_7digitalid: 329270
+sections_confidence: shape = (21,)
+sections_start: shape = (21,)
+segments_confidence: shape = (1271,)
+segments_loudness_max: shape = (1271,)
+segments_loudness_max_time: shape = (1271,)
+segments_loudness_start: shape = (1271,)
+segments_pitches: shape = (1271, 12)
+segments_start: shape = (1271,)
+segments_timbre: shape = (1271, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOIENMA12A6D4F9E0F
+start_of_fade_out: 483.062
+tatums_confidence: shape = (2165,)
+tatums_start: shape = (2165,)
+tempo: 128.505
+time_signature: 4
+time_signature_confidence: 0.24
+title: Comfortubly Numb
+track_7digitalid: 3701751
+track_id: TRBATUH128F92E6BBC
+year: 0

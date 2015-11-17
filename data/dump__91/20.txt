@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 432034
+artist_familiarity: 0.514064276419
+artist_hotttnesss: 0.395627514317
+artist_id: AR00A6H1187FB5402A
+artist_latitude: 42.73383
+artist_location: Lansing, MI
+artist_longitude: -84.59334
+artist_mbid: 312c14d9-7897-4608-944a-c5b1c76ae682
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: The Meatmen
+artist_playmeid: -1
+artist_terms: shape = (32,)
+artist_terms_freq: shape = (32,)
+artist_terms_weight: shape = (32,)
+audio_md5: d55514b8351f9ef5df51905a301c452e
+bars_confidence: shape = (130,)
+bars_start: shape = (130,)
+beats_confidence: shape = (524,)
+beats_start: shape = (524,)
+danceability: 0.0
+duration: 211.3824
+end_of_fade_in: 0.096
+energy: 0.0
+key: 7
+key_confidence: 1.0
+loudness: -5.712
+mode: 1
+mode_confidence: 0.758
+release: Cover the Earth
+release_7digitalid: 581079
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (732,)
+segments_loudness_max: shape = (732,)
+segments_loudness_max_time: shape = (732,)
+segments_loudness_start: shape = (732,)
+segments_pitches: shape = (732, 12)
+segments_start: shape = (732,)
+segments_timbre: shape = (732, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOSVXWK12AB01886ED
+start_of_fade_out: 204.632
+tatums_confidence: shape = (1048,)
+tatums_start: shape = (1048,)
+tempo: 149.79
+time_signature: 4
+time_signature_confidence: 0.71
+title: So Long (Originally Performed by Abba)
+track_7digitalid: 6437718
+track_id: TRBFMIU12903CB8536
+year: 0

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 372517
+artist_familiarity: 0.560914044695
+artist_hotttnesss: 0.375054445897
+artist_id: ARLYOE51187FB36902
+artist_latitude: nan
+artist_location: Sheffield, England
+artist_longitude: nan
+artist_mbid: 6cd3b12e-c899-4f59-a770-c217954f247a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Derek Bailey
+artist_playmeid: -1
+artist_terms: shape = (39,)
+artist_terms_freq: shape = (39,)
+artist_terms_weight: shape = (39,)
+audio_md5: e1709affa476f1b346214a017c8c0e2e
+bars_confidence: shape = (33,)
+bars_start: shape = (33,)
+beats_confidence: shape = (242,)
+beats_start: shape = (242,)
+danceability: 0.0
+duration: 237.53098
+end_of_fade_in: 0.388
+energy: 0.0
+key: 1
+key_confidence: 0.141
+loudness: -13.278
+mode: 1
+mode_confidence: 0.499
+release: Improvisation
+release_7digitalid: 536027
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (779,)
+segments_loudness_max: shape = (779,)
+segments_loudness_max_time: shape = (779,)
+segments_loudness_start: shape = (779,)
+segments_pitches: shape = (779, 12)
+segments_start: shape = (779,)
+segments_timbre: shape = (779, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFZLZC12AB017BEDE
+start_of_fade_out: 216.288
+tatums_confidence: shape = (727,)
+tatums_start: shape = (727,)
+tempo: 61.305
+time_signature: 5
+time_signature_confidence: 0.777
+title: M 14
+track_7digitalid: 5930028
+track_id: TRBDSNM128F930A19E
+year: 1975

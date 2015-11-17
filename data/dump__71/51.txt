@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 54554
+artist_familiarity: 0.718381342383
+artist_hotttnesss: 0.455825978803
+artist_id: ARBD4QW1187FB42153
+artist_latitude: 62.19845
+artist_location: Sweden
+artist_longitude: 17.55142
+artist_mbid: b9a20306-a4f5-4d3c-8680-e9cdc7e3af5b
+artist_mbtags: shape = (3,)
+artist_mbtags_count: shape = (3,)
+artist_name: Scar Symmetry
+artist_playmeid: 56729
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: 94a7d3c1b3a8997d54b467c781d91b96
+bars_confidence: shape = (80,)
+bars_start: shape = (80,)
+beats_confidence: shape = (324,)
+beats_start: shape = (324,)
+danceability: 0.0
+duration: 204.95628
+end_of_fade_in: 2.792
+energy: 0.0
+key: 3
+key_confidence: 0.255
+loudness: -3.869
+mode: 0
+mode_confidence: 0.227
+release: Pitch Black Progress
+release_7digitalid: 217092
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (676,)
+segments_loudness_max: shape = (676,)
+segments_loudness_max_time: shape = (676,)
+segments_loudness_start: shape = (676,)
+segments_pitches: shape = (676, 12)
+segments_start: shape = (676,)
+segments_timbre: shape = (676, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.707937539906
+song_id: SOAZXJW12A58A7C4DE
+start_of_fade_out: 198.368
+tatums_confidence: shape = (1295,)
+tatums_start: shape = (1295,)
+tempo: 97.687
+time_signature: 4
+time_signature_confidence: 0.0
+title: Abstracted
+track_7digitalid: 2364064
+track_id: TRAYLRS128F427FE81
+year: 2006

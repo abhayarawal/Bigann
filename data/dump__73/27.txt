@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 92689
+artist_familiarity: 0.690492032024
+artist_hotttnesss: 0.458987257866
+artist_id: ARRNO111187B9B3FC9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: cabbdf87-5cb2-4f3c-be65-254655c87508
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Galactic
+artist_playmeid: 7074
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: b3fecd67b39de51df207858a7deb84ef
+bars_confidence: shape = (168,)
+bars_start: shape = (168,)
+beats_confidence: shape = (168,)
+beats_start: shape = (168,)
+danceability: 0.0
+duration: 89.67791
+end_of_fade_in: 1.225
+energy: 0.0
+key: 1
+key_confidence: 0.367
+loudness: -7.724
+mode: 1
+mode_confidence: 0.492
+release: Late for the Future
+release_7digitalid: 545971
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (231,)
+segments_loudness_max: shape = (231,)
+segments_loudness_max_time: shape = (231,)
+segments_loudness_start: shape = (231,)
+segments_pitches: shape = (231, 12)
+segments_start: shape = (231,)
+segments_timbre: shape = (231, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.323112120895
+song_id: SOAOYFX12AB018686C
+start_of_fade_out: 81.514
+tatums_confidence: shape = (336,)
+tatums_start: shape = (336,)
+tempo: 121.26
+time_signature: 1
+time_signature_confidence: 0.0
+title: [Hidden Track]
+track_7digitalid: 6041104
+track_id: TRAZAOK128F9324C9B
+year: 2000

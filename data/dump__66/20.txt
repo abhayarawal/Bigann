@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 148257
+artist_familiarity: 0.600704000765
+artist_hotttnesss: 0.385851304394
+artist_id: AREF29Y1187B9AAFA3
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7c6ed074-2a65-49e4-946e-554f82b4f90a
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Adam Richman
+artist_playmeid: 96574
+artist_terms: shape = (19,)
+artist_terms_freq: shape = (19,)
+artist_terms_weight: shape = (19,)
+audio_md5: 996aaa6af52506a5fbf98740531bd882
+bars_confidence: shape = (736,)
+bars_start: shape = (736,)
+beats_confidence: shape = (736,)
+beats_start: shape = (736,)
+danceability: 0.0
+duration: 344.94649
+end_of_fade_in: 0.0
+energy: 0.0
+key: 3
+key_confidence: 0.68
+loudness: -22.646
+mode: 1
+mode_confidence: 0.588
+release: Adam Richman Live at Maxwell's 02/28/2006
+release_7digitalid: 196569
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1183,)
+segments_loudness_max: shape = (1183,)
+segments_loudness_max_time: shape = (1183,)
+segments_loudness_start: shape = (1183,)
+segments_pitches: shape = (1183, 12)
+segments_start: shape = (1183,)
+segments_timbre: shape = (1183, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.394071529607
+song_id: SONFHNY12A8C134D9A
+start_of_fade_out: 344.946
+tatums_confidence: shape = (1471,)
+tatums_start: shape = (1471,)
+tempo: 127.677
+time_signature: 1
+time_signature_confidence: 0.17
+title: From The Pain
+track_7digitalid: 2136656
+track_id: TRAWOVS128F424DC49
+year: 2005

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 47977
+artist_familiarity: 0.449798792382
+artist_hotttnesss: 0.324885095181
+artist_id: ARG1FA61187B994921
+artist_latitude: 41.0981
+artist_location: Youngstown, OH
+artist_longitude: -80.65079
+artist_mbid: ca7129b1-b2b8-40da-89ea-a2b6aeabb87b
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Bobby Marchan
+artist_playmeid: -1
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: be463a1b2785dc3e7aee2d69d80a9882
+bars_confidence: shape = (205,)
+bars_start: shape = (205,)
+beats_confidence: shape = (205,)
+beats_start: shape = (205,)
+danceability: 0.0
+duration: 156.23791
+end_of_fade_in: 0.136
+energy: 0.0
+key: 5
+key_confidence: 0.704
+loudness: -10.26
+mode: 1
+mode_confidence: 0.573
+release: The First Take Is The Deepest - Previously Unissued Alternate Versions From The Vaults Of Ace MS.
+release_7digitalid: 377013
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (452,)
+segments_loudness_max: shape = (452,)
+segments_loudness_max_time: shape = (452,)
+segments_loudness_start: shape = (452,)
+segments_pitches: shape = (452, 12)
+segments_start: shape = (452,)
+segments_timbre: shape = (452, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SODIUET12A8C144375
+start_of_fade_out: 151.766
+tatums_confidence: shape = (410,)
+tatums_start: shape = (410,)
+tempo: 79.531
+time_signature: 1
+time_signature_confidence: 0.0
+title: It Hurts Me To My Heart
+track_7digitalid: 4194858
+track_id: TRAWGSI128F92D3E8D
+year: 0

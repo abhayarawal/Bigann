@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 308161
+artist_familiarity: 0.456620687222
+artist_hotttnesss: 0.347766980164
+artist_id: ARJJYQS1187B996882
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7478546e-016b-4ec6-b6ba-2097c0e8dfb3
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Pyrolator
+artist_playmeid: -1
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: 56fad6e3b9a1afcb2fa0485e1559411c
+bars_confidence: shape = (52,)
+bars_start: shape = (52,)
+beats_confidence: shape = (263,)
+beats_start: shape = (263,)
+danceability: 0.0
+duration: 180.24444
+end_of_fade_in: 3.344
+energy: 0.0
+key: 4
+key_confidence: 0.281
+loudness: -8.045
+mode: 0
+mode_confidence: 0.415
+release: Wunderland (plus Bonustracks)
+release_7digitalid: 711692
+sections_confidence: shape = (5,)
+sections_start: shape = (5,)
+segments_confidence: shape = (649,)
+segments_loudness_max: shape = (649,)
+segments_loudness_max_time: shape = (649,)
+segments_loudness_start: shape = (649,)
+segments_pitches: shape = (649, 12)
+segments_start: shape = (649,)
+segments_timbre: shape = (649, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.0
+song_id: SOZZEXN12AB0184E54
+start_of_fade_out: 166.435
+tatums_confidence: shape = (789,)
+tatums_start: shape = (789,)
+tempo: 90.248
+time_signature: 5
+time_signature_confidence: 0.437
+title: Passage To Melilla
+track_7digitalid: 7893564
+track_id: TRAPMHX12903CB682B
+year: 2005

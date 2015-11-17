@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4730
+artist_familiarity: 0.787877770106
+artist_hotttnesss: 0.543225521045
+artist_id: ARAPH9U1187B9B34F0
+artist_latitude: nan
+artist_location: Marshville, NC
+artist_longitude: nan
+artist_mbid: 09b697e3-a849-4670-ae49-e0b821a6271a
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Randy Travis
+artist_playmeid: 10849
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: f2cfc790517f65a657d0b1ad21f41b94
+bars_confidence: shape = (91,)
+bars_start: shape = (91,)
+beats_confidence: shape = (370,)
+beats_start: shape = (370,)
+danceability: 0.0
+duration: 228.75383
+end_of_fade_in: 0.528
+energy: 0.0
+key: 11
+key_confidence: 0.979
+loudness: -11.366
+mode: 1
+mode_confidence: 0.812
+release: Inspirational Journey
+release_7digitalid: 597520
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (513,)
+segments_loudness_max: shape = (513,)
+segments_loudness_max_time: shape = (513,)
+segments_loudness_start: shape = (513,)
+segments_pitches: shape = (513, 12)
+segments_start: shape = (513,)
+segments_timbre: shape = (513, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOFVEWB12AC4689917
+start_of_fade_out: 218.639
+tatums_confidence: shape = (739,)
+tatums_start: shape = (739,)
+tempo: 99.141
+time_signature: 4
+time_signature_confidence: 0.313
+title: I Am Going (Album Version)
+track_7digitalid: 6631977
+track_id: TRALGCL12903CE74A7
+year: 0

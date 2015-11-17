@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 246144
+artist_familiarity: 0.583178831042
+artist_hotttnesss: 0.434253341236
+artist_id: AR7PPJV1187FB397CC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 95495d6a-c1f2-4a62-b0e3-b9c5f2e9dea6
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: The James Taylor Quartet
+artist_playmeid: 126094
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: b11cafa9ed9b1f07441227f04af5a0e6
+bars_confidence: shape = (137,)
+bars_start: shape = (137,)
+beats_confidence: shape = (965,)
+beats_start: shape = (965,)
+danceability: 0.0
+duration: 283.37587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.601
+loudness: -5.415
+mode: 0
+mode_confidence: 0.454
+release: The Oscillator
+release_7digitalid: 320271
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1260,)
+segments_loudness_max: shape = (1260,)
+segments_loudness_max_time: shape = (1260,)
+segments_loudness_start: shape = (1260,)
+segments_pitches: shape = (1260, 12)
+segments_start: shape = (1260,)
+segments_timbre: shape = (1260, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.413133229022
+song_id: SOKBJDL12A8C145D66
+start_of_fade_out: 271.714
+tatums_confidence: shape = (1931,)
+tatums_start: shape = (1931,)
+tempo: 204.791
+time_signature: 7
+time_signature_confidence: 0.552
+title: The Obsession
+track_7digitalid: 3609534
+track_id: TRAMBRA128F92D257A
+year: 2003

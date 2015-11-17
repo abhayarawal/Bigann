@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 440124
+artist_familiarity: 0.477528763
+artist_hotttnesss: 0.304880575737
+artist_id: AREHCPX1187FB3C859
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 655ae431-f447-4663-85ac-872142278bb7
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: Walter Ego
+artist_playmeid: -1
+artist_terms: shape = (17,)
+artist_terms_freq: shape = (17,)
+artist_terms_weight: shape = (17,)
+audio_md5: f18590c2c871c0f5427c3877020ae412
+bars_confidence: shape = (1106,)
+bars_start: shape = (1106,)
+beats_confidence: shape = (1106,)
+beats_start: shape = (1106,)
+danceability: 0.0
+duration: 535.45751
+end_of_fade_in: 0.0
+energy: 0.0
+key: 10
+key_confidence: 0.792
+loudness: -10.44
+mode: 0
+mode_confidence: 0.704
+release: Eclipse
+release_7digitalid: 590900
+sections_confidence: shape = (16,)
+sections_start: shape = (16,)
+segments_confidence: shape = (1921,)
+segments_loudness_max: shape = (1921,)
+segments_loudness_max_time: shape = (1921,)
+segments_loudness_start: shape = (1921,)
+segments_pitches: shape = (1921, 12)
+segments_start: shape = (1921,)
+segments_timbre: shape = (1921, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.528534452024
+song_id: SOMNYPH12AB017F456
+start_of_fade_out: 535.458
+tatums_confidence: shape = (3316,)
+tatums_start: shape = (3316,)
+tempo: 124.136
+time_signature: 1
+time_signature_confidence: 0.928
+title: Purple Pygmies
+track_7digitalid: 6553559
+track_id: TRATMYK12903CD4305
+year: 1998

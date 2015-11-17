@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4931
+artist_familiarity: 0.470414613683
+artist_hotttnesss: 0.310298996385
+artist_id: ARU2JAB1187FB50C72
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ea7e2bb8-bfb5-4307-a4c5-68df453de287
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: David Meece
+artist_playmeid: 37004
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 3feb1c3989ab3fc72161ee73e9c1874d
+bars_confidence: shape = (132,)
+bars_start: shape = (132,)
+beats_confidence: shape = (530,)
+beats_start: shape = (530,)
+danceability: 0.0
+duration: 268.01587
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.428
+loudness: -13.474
+mode: 0
+mode_confidence: 0.452
+release: David Meece/Chronology
+release_7digitalid: 6988
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (885,)
+segments_loudness_max: shape = (885,)
+segments_loudness_max_time: shape = (885,)
+segments_loudness_start: shape = (885,)
+segments_pitches: shape = (885, 12)
+segments_start: shape = (885,)
+segments_timbre: shape = (885, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.265861049211
+song_id: SOGYZOF12A67020D72
+start_of_fade_out: 252.453
+tatums_confidence: shape = (1060,)
+tatums_start: shape = (1060,)
+tempo: 119.437
+time_signature: 4
+time_signature_confidence: 0.978
+title: Seventy Times Seven (LP Version)
+track_7digitalid: 70829
+track_id: TRAIQMW128E07854BD
+year: 0

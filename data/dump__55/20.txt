@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 31619
+artist_familiarity: 0.609816403443
+artist_hotttnesss: 0.560380805158
+artist_id: AR4B3RX1187B9A868A
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 391846f7-f09f-470c-b188-c16b3a2022e4
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Alexandre Desplat
+artist_playmeid: -1
+artist_terms: shape = (40,)
+artist_terms_freq: shape = (40,)
+artist_terms_weight: shape = (40,)
+audio_md5: cafd2c33aef553130fef58172aae4e9d
+bars_confidence: shape = (47,)
+bars_start: shape = (47,)
+beats_confidence: shape = (192,)
+beats_start: shape = (192,)
+danceability: 0.0
+duration: 128.62649
+end_of_fade_in: 0.113
+energy: 0.0
+key: 5
+key_confidence: 0.02
+loudness: -30.18
+mode: 1
+mode_confidence: 0.467
+release: The Ghost Writer
+release_7digitalid: 757828
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (299,)
+segments_loudness_max: shape = (299,)
+segments_loudness_max_time: shape = (299,)
+segments_loudness_start: shape = (299,)
+segments_pitches: shape = (299, 12)
+segments_start: shape = (299,)
+segments_timbre: shape = (299, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.483977246171
+song_id: SOKPXQU12AB0187ED6
+start_of_fade_out: 128.626
+tatums_confidence: shape = (383,)
+tatums_start: shape = (383,)
+tempo: 91.954
+time_signature: 4
+time_signature_confidence: 0.466
+title: Hidden Documents
+track_7digitalid: 8388830
+track_id: TRASWEK12903CB8417
+year: 2010

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3950
+artist_familiarity: 0.63642364495
+artist_hotttnesss: 0.44793548048
+artist_id: ARD842G1187B997376
+artist_latitude: 43.64856
+artist_location: Toronto, Ontario, Canada
+artist_longitude: -79.38533
+artist_mbid: 6b52e1be-f27a-433c-b51a-3f2d63abc2ba
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Blue Rodeo
+artist_playmeid: -1
+artist_terms: shape = (48,)
+artist_terms_freq: shape = (48,)
+artist_terms_weight: shape = (48,)
+audio_md5: 0a3faf57464eff115a2af90ad9cfe810
+bars_confidence: shape = (159,)
+bars_start: shape = (159,)
+beats_confidence: shape = (639,)
+beats_start: shape = (639,)
+danceability: 0.0
+duration: 213.34159
+end_of_fade_in: 0.0
+energy: 0.0
+key: 2
+key_confidence: 0.601
+loudness: -5.972
+mode: 1
+mode_confidence: 0.713
+release: Are You Ready
+release_7digitalid: 129671
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (810,)
+segments_loudness_max: shape = (810,)
+segments_loudness_max_time: shape = (810,)
+segments_loudness_start: shape = (810,)
+segments_pitches: shape = (810, 12)
+segments_start: shape = (810,)
+segments_timbre: shape = (810, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.473346541109
+song_id: SOCFJZY12A8151CDB5
+start_of_fade_out: 202.739
+tatums_confidence: shape = (1278,)
+tatums_start: shape = (1278,)
+tempo: 189.068
+time_signature: 4
+time_signature_confidence: 0.618
+title: Up On That Cloud
+track_7digitalid: 1345333
+track_id: TRAOKXG128F4232497
+year: 2005

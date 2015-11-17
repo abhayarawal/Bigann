@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 69126
+artist_familiarity: 0.470012402566
+artist_hotttnesss: 0.362782940754
+artist_id: ARDBFT21187B98E524
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 283d1035-e14b-45ee-a977-b533ea47cafc
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Janitor Joe
+artist_playmeid: 154553
+artist_terms: shape = (16,)
+artist_terms_freq: shape = (16,)
+artist_terms_weight: shape = (16,)
+audio_md5: d74789a7d714628b4a6163b98816f487
+bars_confidence: shape = (111,)
+bars_start: shape = (111,)
+beats_confidence: shape = (449,)
+beats_start: shape = (449,)
+danceability: 0.0
+duration: 169.22077
+end_of_fade_in: 0.398
+energy: 0.0
+key: 7
+key_confidence: 0.066
+loudness: -12.114
+mode: 1
+mode_confidence: 0.403
+release: Big Metal Birds
+release_7digitalid: 87591
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (405,)
+segments_loudness_max: shape = (405,)
+segments_loudness_max_time: shape = (405,)
+segments_loudness_start: shape = (405,)
+segments_pitches: shape = (405, 12)
+segments_start: shape = (405,)
+segments_timbre: shape = (405, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.392008771471
+song_id: SOMMAVY12A8C1327AF
+start_of_fade_out: 166.801
+tatums_confidence: shape = (897,)
+tatums_start: shape = (897,)
+tempo: 160.979
+time_signature: 4
+time_signature_confidence: 0.733
+title: Boyfriend
+track_7digitalid: 921511
+track_id: TRAJARM128F426379B
+year: 1993

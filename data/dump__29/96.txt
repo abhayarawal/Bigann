@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 3815
+artist_familiarity: 0.818494213987
+artist_hotttnesss: 0.627765134777
+artist_id: ARB054P1187B9AD32E
+artist_latitude: nan
+artist_location: San Francisco, CA
+artist_longitude: nan
+artist_mbid: 1bc6816a-d056-4113-9b0a-6c52e5c31a3c
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Santana
+artist_playmeid: 1389
+artist_terms: shape = (18,)
+artist_terms_freq: shape = (18,)
+artist_terms_weight: shape = (18,)
+audio_md5: 1f81554d86118887eac21e3a8c84b433
+bars_confidence: shape = (46,)
+bars_start: shape = (46,)
+beats_confidence: shape = (233,)
+beats_start: shape = (233,)
+danceability: 0.0
+duration: 153.7824
+end_of_fade_in: 0.403
+energy: 0.0
+key: 5
+key_confidence: 0.622
+loudness: -10.3
+mode: 1
+mode_confidence: 0.232
+release: The San Mateo Sessions 1969
+release_7digitalid: 140423
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (570,)
+segments_loudness_max: shape = (570,)
+segments_loudness_max_time: shape = (570,)
+segments_loudness_start: shape = (570,)
+segments_pitches: shape = (570, 12)
+segments_start: shape = (570,)
+segments_timbre: shape = (570, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOKTRGB12CF533CFBD
+start_of_fade_out: 136.992
+tatums_confidence: shape = (699,)
+tatums_start: shape = (699,)
+tempo: 93.366
+time_signature: 5
+time_signature_confidence: 0.533
+title: Acapulco Sunrise
+track_7digitalid: 1458202
+track_id: TRAKCML128F4246E27
+year: 0

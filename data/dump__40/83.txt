@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 5763
+artist_familiarity: 0.740796632166
+artist_hotttnesss: 0.555741673066
+artist_id: ARNRPI31187B9AC699
+artist_latitude: nan
+artist_location: Los Angeles, CA
+artist_longitude: nan
+artist_mbid: aaf09f31-bb5c-43e5-9f54-bb6554c33a71
+artist_mbtags: shape = (2,)
+artist_mbtags_count: shape = (2,)
+artist_name: The Crystal Method
+artist_playmeid: 9443
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: e4a3123a95586924a5dc37ba21223c59
+bars_confidence: shape = (123,)
+bars_start: shape = (123,)
+beats_confidence: shape = (496,)
+beats_start: shape = (496,)
+danceability: 0.0
+duration: 228.85832
+end_of_fade_in: 5.492
+energy: 0.0
+key: 10
+key_confidence: 0.058
+loudness: -6.642
+mode: 0
+mode_confidence: 0.454
+release: Legion Of Boom
+release_7digitalid: 710761
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (1261,)
+segments_loudness_max: shape = (1261,)
+segments_loudness_max_time: shape = (1261,)
+segments_loudness_start: shape = (1261,)
+segments_pitches: shape = (1261, 12)
+segments_start: shape = (1261,)
+segments_timbre: shape = (1261, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.634538103814
+song_id: SOJWGBZ12AB018B730
+start_of_fade_out: 216.99
+tatums_confidence: shape = (991,)
+tatums_start: shape = (991,)
+tempo: 130.006
+time_signature: 4
+time_signature_confidence: 0.0
+title: Realizer
+track_7digitalid: 7882652
+track_id: TRANWOF12903CB3E19
+year: 2004

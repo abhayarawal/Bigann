@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 522
+artist_familiarity: 0.814829656133
+artist_hotttnesss: 0.776037656053
+artist_id: ARFCUN31187B9AD578
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: b071f9fa-14b0-4217-8e97-eb41da73f598
+artist_mbtags: shape = (13,)
+artist_mbtags_count: shape = (13,)
+artist_name: The Rolling Stones
+artist_playmeid: 10490
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 5001e1ca60bedfc8b6c22747053e79c2
+bars_confidence: shape = (640,)
+bars_start: shape = (640,)
+beats_confidence: shape = (640,)
+beats_start: shape = (640,)
+danceability: 0.0
+duration: 272.43057
+end_of_fade_in: 2.055
+energy: 0.0
+key: 9
+key_confidence: 0.612
+loudness: -8.242
+mode: 1
+mode_confidence: 0.407
+release: Exile On Main St
+release_7digitalid: 312153
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1048,)
+segments_loudness_max: shape = (1048,)
+segments_loudness_max_time: shape = (1048,)
+segments_loudness_start: shape = (1048,)
+segments_pitches: shape = (1048, 12)
+segments_start: shape = (1048,)
+segments_timbre: shape = (1048, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.735168669263
+song_id: SOJDHGS12A6310D85E
+start_of_fade_out: 263.21
+tatums_confidence: shape = (1280,)
+tatums_start: shape = (1280,)
+tempo: 141.808
+time_signature: 1
+time_signature_confidence: 0.0
+title: Rocks Off
+track_7digitalid: 3521959
+track_id: TRAKLHO128F42BA554
+year: 1972

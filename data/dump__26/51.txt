@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 125621
+artist_familiarity: 0.610349426438
+artist_hotttnesss: 0.349483388896
+artist_id: AR18VAV1187B9AEC0C
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: d3506fff-19ac-4a8b-b64d-b344c07951fc
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Neon Blonde
+artist_playmeid: 149270
+artist_terms: shape = (45,)
+artist_terms_freq: shape = (45,)
+artist_terms_weight: shape = (45,)
+audio_md5: ee701d2b9b5784ad8ab0591829abe866
+bars_confidence: shape = (389,)
+bars_start: shape = (389,)
+beats_confidence: shape = (389,)
+beats_start: shape = (389,)
+danceability: 0.0
+duration: 170.70975
+end_of_fade_in: 0.554
+energy: 0.0
+key: 7
+key_confidence: 0.891
+loudness: -5.059
+mode: 1
+mode_confidence: 0.73
+release: Chandeliers In The Savannah
+release_7digitalid: 164326
+sections_confidence: shape = (9,)
+sections_start: shape = (9,)
+segments_confidence: shape = (536,)
+segments_loudness_max: shape = (536,)
+segments_loudness_max_time: shape = (536,)
+segments_loudness_start: shape = (536,)
+segments_pitches: shape = (536, 12)
+segments_start: shape = (536,)
+segments_timbre: shape = (536, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.523175054705
+song_id: SOILAFT12A8C13AE3D
+start_of_fade_out: 162.186
+tatums_confidence: shape = (777,)
+tatums_start: shape = (777,)
+tempo: 139.562
+time_signature: 1
+time_signature_confidence: 0.085
+title: New Detroit
+track_7digitalid: 1741495
+track_id: TRAIWQJ128F4287A6F
+year: 2005

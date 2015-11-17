@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 256653
+artist_familiarity: 0.544979447587
+artist_hotttnesss: 0.366713431626
+artist_id: AR4EVIX1187B993DE9
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 7a08d4fb-e5c1-4c39-a99b-1908ca2e83b4
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Alceu Valença
+artist_playmeid: 71417
+artist_terms: shape = (44,)
+artist_terms_freq: shape = (44,)
+artist_terms_weight: shape = (44,)
+audio_md5: 16377460181ca500a78c82214c0c4769
+bars_confidence: shape = (81,)
+bars_start: shape = (81,)
+beats_confidence: shape = (328,)
+beats_start: shape = (328,)
+danceability: 0.0
+duration: 162.84689
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.537
+loudness: -9.785
+mode: 1
+mode_confidence: 0.533
+release: Ao Vivo Em Todos Os Sentidos
+release_7digitalid: 513706
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (515,)
+segments_loudness_max: shape = (515,)
+segments_loudness_max_time: shape = (515,)
+segments_loudness_start: shape = (515,)
+segments_pitches: shape = (515, 12)
+segments_start: shape = (515,)
+segments_timbre: shape = (515, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOMQKIK12AB01824F5
+start_of_fade_out: 162.847
+tatums_confidence: shape = (656,)
+tatums_start: shape = (656,)
+tempo: 121.988
+time_signature: 4
+time_signature_confidence: 0.954
+title: Na Primeira Manhã
+track_7digitalid: 5687588
+track_id: TRAUSBV128F9344D08
+year: 1997

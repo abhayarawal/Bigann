@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 1604
+artist_familiarity: 0.710269166698
+artist_hotttnesss: 0.394908896933
+artist_id: AR1Y37Q1187B9B66D2
+artist_latitude: 40.71455
+artist_location: New York, NY
+artist_longitude: -74.00712
+artist_mbid: 7a0f02e0-0ab8-4a62-9e14-c6925cfaed07
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Suicide
+artist_playmeid: 63441
+artist_terms: shape = (46,)
+artist_terms_freq: shape = (46,)
+artist_terms_weight: shape = (46,)
+audio_md5: 9eddc739369417486a9edc62975f9e49
+bars_confidence: shape = (141,)
+bars_start: shape = (141,)
+beats_confidence: shape = (708,)
+beats_start: shape = (708,)
+danceability: 0.0
+duration: 323.94404
+end_of_fade_in: 0.578
+energy: 0.0
+key: 9
+key_confidence: 0.882
+loudness: -13.753
+mode: 1
+mode_confidence: 0.675
+release: The Second Album + The First Rehearsal Tapes
+release_7digitalid: 57035
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (1154,)
+segments_loudness_max: shape = (1154,)
+segments_loudness_max_time: shape = (1154,)
+segments_loudness_start: shape = (1154,)
+segments_pitches: shape = (1154, 12)
+segments_start: shape = (1154,)
+segments_timbre: shape = (1154, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.52549711888
+song_id: SOKLETG12A58A7D0BF
+start_of_fade_out: 318.624
+tatums_confidence: shape = (1417,)
+tatums_start: shape = (1417,)
+tempo: 130.826
+time_signature: 5
+time_signature_confidence: 1.0
+title: Do It Nice
+track_7digitalid: 592833
+track_id: TRAEUDO128F149CD13
+year: 1999

@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4902
+artist_familiarity: 0.40774235745
+artist_hotttnesss: 0.377800189166
+artist_id: ARRR7RO1187B98A6EC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 78e061f8-df67-465f-8956-5d4f11f3327d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Erin O'Donnell
+artist_playmeid: 13516
+artist_terms: shape = (22,)
+artist_terms_freq: shape = (22,)
+artist_terms_weight: shape = (22,)
+audio_md5: ef0b8e0a775e7678ac559837f86aa625
+bars_confidence: shape = (97,)
+bars_start: shape = (97,)
+beats_confidence: shape = (391,)
+beats_start: shape = (391,)
+danceability: 0.0
+duration: 247.69261
+end_of_fade_in: 0.0
+energy: 0.0
+key: 9
+key_confidence: 0.427
+loudness: -6.741
+mode: 0
+mode_confidence: 0.439
+release: Wide Wide World
+release_7digitalid: 64512
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (917,)
+segments_loudness_max: shape = (917,)
+segments_loudness_max_time: shape = (917,)
+segments_loudness_start: shape = (917,)
+segments_pitches: shape = (917, 12)
+segments_start: shape = (917,)
+segments_timbre: shape = (917, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOETCLM12A6D4F9B3B
+start_of_fade_out: 227.979
+tatums_confidence: shape = (1567,)
+tatums_start: shape = (1567,)
+tempo: 96.127
+time_signature: 4
+time_signature_confidence: 1.0
+title: You Were The One (Wide Wide World Album Version)
+track_7digitalid: 670376
+track_id: TRBADTB128F14AE3A4
+year: 0

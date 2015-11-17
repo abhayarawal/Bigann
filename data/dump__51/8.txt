@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 4737
+artist_familiarity: 0.720711057592
+artist_hotttnesss: 0.522047955192
+artist_id: ARNHHIV1187FB4EA23
+artist_latitude: nan
+artist_location: NL
+artist_longitude: nan
+artist_mbid: f1106b17-dcbb-45f6-b938-199ccfab50cc
+artist_mbtags: shape = (16,)
+artist_mbtags_count: shape = (16,)
+artist_name: New Order
+artist_playmeid: 1162
+artist_terms: shape = (26,)
+artist_terms_freq: shape = (26,)
+artist_terms_weight: shape = (26,)
+audio_md5: b0b71c0026b0d8cbee95bd439cffc314
+bars_confidence: shape = (168,)
+bars_start: shape = (168,)
+beats_confidence: shape = (675,)
+beats_start: shape = (675,)
+danceability: 0.0
+duration: 288.02567
+end_of_fade_in: 0.0
+energy: 0.0
+key: 11
+key_confidence: 0.159
+loudness: -5.729
+mode: 0
+mode_confidence: 0.473
+release: Technique [Collector's Edition]
+release_7digitalid: 332020
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (1048,)
+segments_loudness_max: shape = (1048,)
+segments_loudness_max_time: shape = (1048,)
+segments_loudness_start: shape = (1048,)
+segments_pitches: shape = (1048, 12)
+segments_start: shape = (1048,)
+segments_timbre: shape = (1048, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.696217140369
+song_id: SOYCTRU12A6701DA91
+start_of_fade_out: 276.376
+tatums_confidence: shape = (1349,)
+tatums_start: shape = (1349,)
+tempo: 146.29
+time_signature: 4
+time_signature_confidence: 0.557
+title: Guilty Partner
+track_7digitalid: 3722937
+track_id: TRARKGW128F92EB8F9
+year: 1989

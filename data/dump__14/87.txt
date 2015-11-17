@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 222660
+artist_familiarity: 0.636436672421
+artist_hotttnesss: 0.429097811994
+artist_id: ARB5TJM1187B9A71FD
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 14962b84-c46a-490b-b6a0-ee69c78b2291
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Finntroll
+artist_playmeid: 210655
+artist_terms: shape = (49,)
+artist_terms_freq: shape = (49,)
+artist_terms_weight: shape = (49,)
+audio_md5: 32a07edd19f51c1e2253de3fff21f7cb
+bars_confidence: shape = (170,)
+bars_start: shape = (170,)
+beats_confidence: shape = (683,)
+beats_start: shape = (683,)
+danceability: 0.0
+duration: 276.45342
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.063
+loudness: -6.51
+mode: 1
+mode_confidence: 0.453
+release: Nattfödd
+release_7digitalid: 639527
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (849,)
+segments_loudness_max: shape = (849,)
+segments_loudness_max_time: shape = (849,)
+segments_loudness_start: shape = (849,)
+segments_pitches: shape = (849, 12)
+segments_start: shape = (849,)
+segments_timbre: shape = (849, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.64995040848
+song_id: SOMIPLK12AB017C7B2
+start_of_fade_out: 267.476
+tatums_confidence: shape = (1365,)
+tatums_start: shape = (1365,)
+tempo: 150.012
+time_signature: 4
+time_signature_confidence: 0.828
+title: Grottans Barn
+track_7digitalid: 7099321
+track_id: TRAFABO128F933DE53
+year: 2004

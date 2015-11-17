@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 142412
+artist_familiarity: 0.744844377269
+artist_hotttnesss: 0.447386029272
+artist_id: ARDCQM61187B9951CE
+artist_latitude: -33.86963
+artist_location: Sydney, Australia
+artist_longitude: 151.20695
+artist_mbid: 495fe320-091e-43eb-9321-54a20e7c3f98
+artist_mbtags: shape = (5,)
+artist_mbtags_count: shape = (5,)
+artist_name: Sneaky Sound System
+artist_playmeid: -1
+artist_terms: shape = (37,)
+artist_terms_freq: shape = (37,)
+artist_terms_weight: shape = (37,)
+audio_md5: a10d711f30e615867ff7e0d5fef93d71
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (485,)
+beats_start: shape = (485,)
+danceability: 0.0
+duration: 225.82812
+end_of_fade_in: 1.303
+energy: 0.0
+key: 7
+key_confidence: 0.228
+loudness: -3.951
+mode: 1
+mode_confidence: 0.554
+release: Sneaky Sound System
+release_7digitalid: 422770
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (903,)
+segments_loudness_max: shape = (903,)
+segments_loudness_max_time: shape = (903,)
+segments_loudness_start: shape = (903,)
+segments_pitches: shape = (903, 12)
+segments_start: shape = (903,)
+segments_timbre: shape = (903, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.559365230042
+song_id: SOZZPYH12AB0187578
+start_of_fade_out: 222.203
+tatums_confidence: shape = (970,)
+tatums_start: shape = (970,)
+tempo: 130.053
+time_signature: 4
+time_signature_confidence: 0.864
+title: Lost In The Future
+track_7digitalid: 4712325
+track_id: TRAQVQM128F933DFEB
+year: 2008

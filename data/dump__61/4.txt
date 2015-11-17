@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 40214
+artist_familiarity: 0.79069593908
+artist_hotttnesss: 0.508177085178
+artist_id: AR219DK1187FB4CEFC
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 22a096ef-c70d-4d70-ae19-4fc2412d4986
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: ATB
+artist_playmeid: -1
+artist_terms: shape = (11,)
+artist_terms_freq: shape = (11,)
+artist_terms_weight: shape = (11,)
+audio_md5: ba18b79d3236c027e95f336422814f9c
+bars_confidence: shape = (199,)
+bars_start: shape = (199,)
+beats_confidence: shape = (797,)
+beats_start: shape = (797,)
+danceability: 0.0
+duration: 349.04771
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.28
+loudness: -6.615
+mode: 1
+mode_confidence: 0.328
+release: No Silence
+release_7digitalid: 58666
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (1594,)
+segments_loudness_max: shape = (1594,)
+segments_loudness_max_time: shape = (1594,)
+segments_loudness_start: shape = (1594,)
+segments_pitches: shape = (1594, 12)
+segments_start: shape = (1594,)
+segments_timbre: shape = (1594, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.739737282644
+song_id: SOWPSXC12A6D4FB04D
+start_of_fade_out: 344.393
+tatums_confidence: shape = (1593,)
+tatums_start: shape = (1593,)
+tempo: 136.967
+time_signature: 4
+time_signature_confidence: 0.0
+title: Collides With Beauty
+track_7digitalid: 609671
+track_id: TRAUVSF128F14A0B6F
+year: 2004

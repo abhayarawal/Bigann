@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 9731
+artist_familiarity: 0.811890081171
+artist_hotttnesss: 0.657583813676
+artist_id: ARQXC7V1187FB4DA9E
+artist_latitude: nan
+artist_location: Charlottesville, VA
+artist_longitude: nan
+artist_mbid: 07e748f1-075e-428d-85dc-ce3be434e906
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: DAVE MATTHEWS BAND
+artist_playmeid: 417
+artist_terms: shape = (21,)
+artist_terms_freq: shape = (21,)
+artist_terms_weight: shape = (21,)
+audio_md5: f872164745edf167ba03a05fb3c445c9
+bars_confidence: shape = (101,)
+bars_start: shape = (101,)
+beats_confidence: shape = (411,)
+beats_start: shape = (411,)
+danceability: 0.0
+duration: 293.66812
+end_of_fade_in: 2.351
+energy: 0.0
+key: 6
+key_confidence: 0.392
+loudness: -5.21
+mode: 0
+mode_confidence: 0.783
+release: The Gorge
+release_7digitalid: 578452
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (781,)
+segments_loudness_max: shape = (781,)
+segments_loudness_max_time: shape = (781,)
+segments_loudness_start: shape = (781,)
+segments_pitches: shape = (781, 12)
+segments_start: shape = (781,)
+segments_timbre: shape = (781, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.825232994605
+song_id: SOQLLHX12AF72A3586
+start_of_fade_out: 284.648
+tatums_confidence: shape = (1645,)
+tatums_start: shape = (1645,)
+tempo: 85.141
+time_signature: 4
+time_signature_confidence: 0.327
+title: The Space Between
+track_7digitalid: 6417318
+track_id: TRAKXMS12903CB36F2
+year: 2001

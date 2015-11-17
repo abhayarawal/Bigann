@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 250371
+artist_familiarity: 0.473076881277
+artist_hotttnesss: 0.0
+artist_id: AR2B8ON1187FB58456
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: ad5b5418-6b3f-476c-8f94-26a20cab59e2
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Marcelo Radulovich
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: e136d07d1183b1cf705982120d1b1ff2
+bars_confidence: shape = (127,)
+bars_start: shape = (127,)
+beats_confidence: shape = (649,)
+beats_start: shape = (649,)
+danceability: 0.0
+duration: 267.59791
+end_of_fade_in: 2.229
+energy: 0.0
+key: 0
+key_confidence: 0.436
+loudness: -11.054
+mode: 1
+mode_confidence: 0.46
+release: To Lilliput & Back Vol. 1-
+release_7digitalid: 321974
+sections_confidence: shape = (14,)
+sections_start: shape = (14,)
+segments_confidence: shape = (335,)
+segments_loudness_max: shape = (335,)
+segments_loudness_max_time: shape = (335,)
+segments_loudness_start: shape = (335,)
+segments_pitches: shape = (335, 12)
+segments_start: shape = (335,)
+segments_timbre: shape = (335, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOQYKND12AAF3B305E
+start_of_fade_out: 267.598
+tatums_confidence: shape = (1298,)
+tatums_start: shape = (1298,)
+tempo: 144.902
+time_signature: 5
+time_signature_confidence: 0.817
+title: Non-Stop Floater
+track_7digitalid: 3628160
+track_id: TRAQWVS128F92D6481
+year: 0

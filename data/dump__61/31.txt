@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 10549
+artist_familiarity: 0.704411470237
+artist_hotttnesss: 0.469425907976
+artist_id: ARD0FN11187B9B25CD
+artist_latitude: 40.85715
+artist_location: New York, NY [The Bronx]
+artist_longitude: -73.85678
+artist_mbid: 1f223eed-aa38-49da-9e76-62ab3adc2e04
+artist_mbtags: shape = (7,)
+artist_mbtags_count: shape = (7,)
+artist_name: Bobby Darin
+artist_playmeid: 7529
+artist_terms: shape = (42,)
+artist_terms_freq: shape = (42,)
+artist_terms_weight: shape = (42,)
+audio_md5: e13958198ac85f7e81bd84c2dee7846b
+bars_confidence: shape = (34,)
+bars_start: shape = (34,)
+beats_confidence: shape = (147,)
+beats_start: shape = (147,)
+danceability: 0.0
+duration: 124.9171
+end_of_fade_in: 2.252
+energy: 0.0
+key: 7
+key_confidence: 0.38
+loudness: -10.387
+mode: 1
+mode_confidence: 0.333
+release: Live From Las Vegas
+release_7digitalid: 149611
+sections_confidence: shape = (4,)
+sections_start: shape = (4,)
+segments_confidence: shape = (440,)
+segments_loudness_max: shape = (440,)
+segments_loudness_max_time: shape = (440,)
+segments_loudness_start: shape = (440,)
+segments_pitches: shape = (440, 12)
+segments_start: shape = (440,)
+segments_timbre: shape = (440, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOGRPFI12A8C1349A6
+start_of_fade_out: 124.917
+tatums_confidence: shape = (442,)
+tatums_start: shape = (442,)
+tempo: 71.356
+time_signature: 4
+time_signature_confidence: 0.281
+title: Intro. & Hello Young Lovers (Live) (2000 Digital Remaster)
+track_7digitalid: 1555414
+track_id: TRAUYNK128F425BDB9
+year: 0

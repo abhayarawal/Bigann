@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 21896
+artist_familiarity: 0.709010525103
+artist_hotttnesss: 0.553566172071
+artist_id: ARV8T9T1187B99F3F4
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: efaefde1-e09b-4d49-9d8e-b1304d2ece8d
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Amorphis
+artist_playmeid: 51681
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 00e6316aa4fd01163ec39ce3f0696a03
+bars_confidence: shape = (181,)
+bars_start: shape = (181,)
+beats_confidence: shape = (728,)
+beats_start: shape = (728,)
+danceability: 0.0
+duration: 255.03302
+end_of_fade_in: 0.449
+energy: 0.0
+key: 9
+key_confidence: 0.447
+loudness: -4.393
+mode: 1
+mode_confidence: 0.247
+release: Karelian Isthmus
+release_7digitalid: 239673
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (497,)
+segments_loudness_max: shape = (497,)
+segments_loudness_max_time: shape = (497,)
+segments_loudness_start: shape = (497,)
+segments_pitches: shape = (497, 12)
+segments_start: shape = (497,)
+segments_timbre: shape = (497, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.327736683178
+song_id: SOKSZVC12A8C142004
+start_of_fade_out: 251.275
+tatums_confidence: shape = (728,)
+tatums_start: shape = (728,)
+tempo: 175.673
+time_signature: 4
+time_signature_confidence: 0.0
+title: Misery Path (From the Privilege of Evil)
+track_7digitalid: 2999402
+track_id: TRARRYC128F428CCDA
+year: 0

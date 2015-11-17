@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 8805
+artist_familiarity: 0.433317390445
+artist_hotttnesss: 0.349886289133
+artist_id: ARGP7WY1187FB45464
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 056c5d14-7d26-4b96-a512-380ad5eee02f
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Edmond Leung
+artist_playmeid: 70735
+artist_terms: shape = (12,)
+artist_terms_freq: shape = (12,)
+artist_terms_weight: shape = (12,)
+audio_md5: 8c3bc73e94478dd7dbb5a79676dbfc8d
+bars_confidence: shape = (120,)
+bars_start: shape = (120,)
+beats_confidence: shape = (495,)
+beats_start: shape = (495,)
+danceability: 0.0
+duration: 268.48608
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.782
+loudness: -17.611
+mode: 1
+mode_confidence: 0.76
+release: Motclub 903 Fa Yuan Di Du Le Le Edmond Leung Yin Yue Hui
+release_7digitalid: 158543
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (632,)
+segments_loudness_max: shape = (632,)
+segments_loudness_max_time: shape = (632,)
+segments_loudness_start: shape = (632,)
+segments_pitches: shape = (632, 12)
+segments_start: shape = (632,)
+segments_timbre: shape = (632, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOECFGK12A8C13A8AE
+start_of_fade_out: 256.244
+tatums_confidence: shape = (990,)
+tatums_start: shape = (990,)
+tempo: 108.24
+time_signature: 4
+time_signature_confidence: 0.328
+title: Ai Hen Jian Dan
+track_7digitalid: 1670245
+track_id: TRAVBGH128F4276CDB
+year: 0

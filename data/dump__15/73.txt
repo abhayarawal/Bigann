@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 284883
+artist_familiarity: 0.240387119041
+artist_hotttnesss: 0.0
+artist_id: ARPGOAF1187B98F677
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 9ce2a18a-3e70-45bd-9de4-2a4f204348ff
+artist_mbtags: shape = (1,)
+artist_mbtags_count: shape = (1,)
+artist_name: Giorgos Tsalikis
+artist_playmeid: -1
+artist_terms: shape = (4,)
+artist_terms_freq: shape = (4,)
+artist_terms_weight: shape = (4,)
+audio_md5: 34d2c35ed5224f42ee6c6950dd363bbe
+bars_confidence: shape = (15,)
+bars_start: shape = (15,)
+beats_confidence: shape = (64,)
+beats_start: shape = (64,)
+danceability: 0.0
+duration: 31.42485
+end_of_fade_in: 0.0
+energy: 0.0
+key: 4
+key_confidence: 0.0
+loudness: -12.483
+mode: 1
+mode_confidence: 0.0
+release: Live!
+release_7digitalid: 796038
+sections_confidence: shape = (3,)
+sections_start: shape = (3,)
+segments_confidence: shape = (116,)
+segments_loudness_max: shape = (116,)
+segments_loudness_max_time: shape = (116,)
+segments_loudness_start: shape = (116,)
+segments_pitches: shape = (116, 12)
+segments_start: shape = (116,)
+segments_timbre: shape = (116, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOVHFTL12AB018797C
+start_of_fade_out: 31.425
+tatums_confidence: shape = (128,)
+tatums_start: shape = (128,)
+tempo: 123.709
+time_signature: 4
+time_signature_confidence: 0.0
+title: Apotoma
+track_7digitalid: 8806014
+track_id: TRAFJQT12903CAA19E
+year: 0

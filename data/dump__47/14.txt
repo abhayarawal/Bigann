@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 2857
+artist_familiarity: 0.428252654267
+artist_hotttnesss: 0.351023682295
+artist_id: ARSX3I61187B98FAC7
+artist_latitude: 35.03731
+artist_location: Whitehaven, TN
+artist_longitude: -90.06146
+artist_mbid: 35992a97-e1c5-4987-96dd-9a03f358a69d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Frank Stokes
+artist_playmeid: 31741
+artist_terms: shape = (24,)
+artist_terms_freq: shape = (24,)
+artist_terms_weight: shape = (24,)
+audio_md5: 068aceacd1459ec8439ab7216be55586
+bars_confidence: shape = (69,)
+bars_start: shape = (69,)
+beats_confidence: shape = (291,)
+beats_start: shape = (291,)
+danceability: 0.0
+duration: 188.89098
+end_of_fade_in: 0.403
+energy: 0.0
+key: 1
+key_confidence: 0.051
+loudness: -19.27
+mode: 1
+mode_confidence: 0.506
+release: The Best Of Frank Stokes
+release_7digitalid: 174867
+sections_confidence: shape = (11,)
+sections_start: shape = (11,)
+segments_confidence: shape = (677,)
+segments_loudness_max: shape = (677,)
+segments_loudness_max_time: shape = (677,)
+segments_loudness_start: shape = (677,)
+segments_pitches: shape = (677, 12)
+segments_start: shape = (677,)
+segments_timbre: shape = (677, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOZKCNZ12A6D4FCAA3
+start_of_fade_out: 183.827
+tatums_confidence: shape = (583,)
+tatums_start: shape = (583,)
+tempo: 94.73
+time_signature: 4
+time_signature_confidence: 0.798
+title: It Won't Be Long Now
+track_7digitalid: 1877661
+track_id: TRAQBNL128F421DC67
+year: 2005

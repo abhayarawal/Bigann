@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 522
+artist_familiarity: 0.814829656133
+artist_hotttnesss: 0.735765692951
+artist_id: ARFCUN31187B9AD578
+artist_latitude: 51.50632
+artist_location: London, England
+artist_longitude: -0.12714
+artist_mbid: b071f9fa-14b0-4217-8e97-eb41da73f598
+artist_mbtags: shape = (13,)
+artist_mbtags_count: shape = (13,)
+artist_name: The Rolling Stones
+artist_playmeid: 10490
+artist_terms: shape = (29,)
+artist_terms_freq: shape = (29,)
+artist_terms_weight: shape = (29,)
+audio_md5: 032381975112f6d79287efe6088c9756
+bars_confidence: shape = (416,)
+bars_start: shape = (416,)
+beats_confidence: shape = (416,)
+beats_start: shape = (416,)
+danceability: 0.0
+duration: 189.67465
+end_of_fade_in: 0.189
+energy: 0.0
+key: 4
+key_confidence: 0.523
+loudness: -12.67
+mode: 1
+mode_confidence: 0.445
+release: Aftermath (UK Version)
+release_7digitalid: 350409
+sections_confidence: shape = (12,)
+sections_start: shape = (12,)
+segments_confidence: shape = (704,)
+segments_loudness_max: shape = (704,)
+segments_loudness_max_time: shape = (704,)
+segments_loudness_start: shape = (704,)
+segments_pitches: shape = (704, 12)
+segments_start: shape = (704,)
+segments_timbre: shape = (704, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.664228032922
+song_id: SONLOKJ12AB0187617
+start_of_fade_out: 180.971
+tatums_confidence: shape = (833,)
+tatums_start: shape = (833,)
+tempo: 132.903
+time_signature: 1
+time_signature_confidence: 0.0
+title: Think
+track_7digitalid: 3921913
+track_id: TRAWWHM128F9310FD7
+year: 1966

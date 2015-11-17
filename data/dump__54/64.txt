@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 160071
+artist_familiarity: 0.47929085413
+artist_hotttnesss: 0.359775661536
+artist_id: ARUP5LV1187FB50BD8
+artist_latitude: 34.16788
+artist_location: Arizona
+artist_longitude: -111.9307
+artist_mbid: b1ee2b8a-2288-4887-8be7-4b059a57970f
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Fuzz
+artist_playmeid: -1
+artist_terms: shape = (20,)
+artist_terms_freq: shape = (20,)
+artist_terms_weight: shape = (20,)
+audio_md5: 0b567cfa9d283a04dd70267bab012492
+bars_confidence: shape = (60,)
+bars_start: shape = (60,)
+beats_confidence: shape = (308,)
+beats_start: shape = (308,)
+danceability: 0.0
+duration: 168.85506
+end_of_fade_in: 0.0
+energy: 0.0
+key: 7
+key_confidence: 0.209
+loudness: -4.127
+mode: 1
+mode_confidence: 0.331
+release: Dirty District
+release_7digitalid: 463548
+sections_confidence: shape = (6,)
+sections_start: shape = (6,)
+segments_confidence: shape = (746,)
+segments_loudness_max: shape = (746,)
+segments_loudness_max_time: shape = (746,)
+segments_loudness_start: shape = (746,)
+segments_pitches: shape = (746, 12)
+segments_start: shape = (746,)
+segments_timbre: shape = (746, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: nan
+song_id: SOJNBYN12AB0184232
+start_of_fade_out: 168.855
+tatums_confidence: shape = (616,)
+tatums_start: shape = (616,)
+tempo: 110.106
+time_signature: 5
+time_signature_confidence: 1.0
+title: Big Fella
+track_7digitalid: 5159233
+track_id: TRASRRC128F93318B2
+year: 0

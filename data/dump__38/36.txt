@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 50202
+artist_familiarity: 0.688146051452
+artist_hotttnesss: 0.518371605962
+artist_id: ARWZSFC1187FB567BF
+artist_latitude: 40.65507
+artist_location: Brooklyn, NY
+artist_longitude: -73.94888
+artist_mbid: 0e990816-cb3e-4930-a2eb-77909e42cd66
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Eddie Money
+artist_playmeid: 8502
+artist_terms: shape = (36,)
+artist_terms_freq: shape = (36,)
+artist_terms_weight: shape = (36,)
+audio_md5: 6a90b3b97d279351068d45422e5b5c11
+bars_confidence: shape = (105,)
+bars_start: shape = (105,)
+beats_confidence: shape = (425,)
+beats_start: shape = (425,)
+danceability: 0.0
+duration: 213.68118
+end_of_fade_in: 0.0
+energy: 0.0
+key: 0
+key_confidence: 0.822
+loudness: -10.633
+mode: 1
+mode_confidence: 0.588
+release: No Control
+release_7digitalid: 283993
+sections_confidence: shape = (10,)
+sections_start: shape = (10,)
+segments_confidence: shape = (738,)
+segments_loudness_max: shape = (738,)
+segments_loudness_max_time: shape = (738,)
+segments_loudness_start: shape = (738,)
+segments_pitches: shape = (738, 12)
+segments_start: shape = (738,)
+segments_timbre: shape = (738, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.278426360931
+song_id: SOTFKBC12A8C13189D
+start_of_fade_out: 202.089
+tatums_confidence: shape = (850,)
+tatums_start: shape = (850,)
+tempo: 120.581
+time_signature: 4
+time_signature_confidence: 0.708
+title: Runnin' Away
+track_7digitalid: 3177321
+track_id: TRANCEE128F4267C92
+year: 1983

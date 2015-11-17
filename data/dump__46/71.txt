@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 22827
+artist_familiarity: 0.404499596409
+artist_hotttnesss: 0.331642439233
+artist_id: ARIUQZL1187FB4303B
+artist_latitude: nan
+artist_location: 
+artist_longitude: nan
+artist_mbid: 70032540-26c5-4d8c-9753-c9925527a28d
+artist_mbtags: shape = (0,)
+artist_mbtags_count: shape = (0,)
+artist_name: Erkki Junkkarinen
+artist_playmeid: -1
+artist_terms: shape = (13,)
+artist_terms_freq: shape = (13,)
+artist_terms_weight: shape = (13,)
+audio_md5: 1060e364d2ce14fec2723f3f30508ff4
+bars_confidence: shape = (200,)
+bars_start: shape = (200,)
+beats_confidence: shape = (604,)
+beats_start: shape = (604,)
+danceability: 0.0
+duration: 218.93179
+end_of_fade_in: 3.878
+energy: 0.0
+key: 4
+key_confidence: 0.694
+loudness: -14.225
+mode: 0
+mode_confidence: 0.696
+release: Vuosikirja 1976 - 50 hittiä
+release_7digitalid: 542091
+sections_confidence: shape = (8,)
+sections_start: shape = (8,)
+segments_confidence: shape = (655,)
+segments_loudness_max: shape = (655,)
+segments_loudness_max_time: shape = (655,)
+segments_loudness_start: shape = (655,)
+segments_pitches: shape = (655, 12)
+segments_start: shape = (655,)
+segments_timbre: shape = (655, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.345802233965
+song_id: SOUZXYV12A8C13CADA
+start_of_fade_out: 211.447
+tatums_confidence: shape = (604,)
+tatums_start: shape = (604,)
+tempo: 164.769
+time_signature: 3
+time_signature_confidence: 1.0
+title: Nuoruusmuistoja
+track_7digitalid: 6001079
+track_id: TRAPXLO128F931B20B
+year: 2002

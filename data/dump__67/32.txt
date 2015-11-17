@@ -1,0 +1,54 @@
+analysis_sample_rate: 22050
+artist_7digitalid: 12229
+artist_familiarity: 0.674854147219
+artist_hotttnesss: 0.46375778392
+artist_id: ARUHT3M1187FB44FB4
+artist_latitude: 41.51776
+artist_location: Connecticut
+artist_longitude: -72.75753
+artist_mbid: 2393e891-c63c-4654-b7a9-c5fb9dc0c8a0
+artist_mbtags: shape = (4,)
+artist_mbtags_count: shape = (4,)
+artist_name: Delirious
+artist_playmeid: 68798
+artist_terms: shape = (47,)
+artist_terms_freq: shape = (47,)
+artist_terms_weight: shape = (47,)
+audio_md5: 8b00c80b7bb698df9fa3ca8f4fbeceb0
+bars_confidence: shape = (84,)
+bars_start: shape = (84,)
+beats_confidence: shape = (340,)
+beats_start: shape = (340,)
+danceability: 0.0
+duration: 225.14893
+end_of_fade_in: 1.065
+energy: 0.0
+key: 2
+key_confidence: 0.554
+loudness: -9.833
+mode: 1
+mode_confidence: 0.491
+release: Fuse Box Glo / Mezzamorphis
+release_7digitalid: 174180
+sections_confidence: shape = (7,)
+sections_start: shape = (7,)
+segments_confidence: shape = (683,)
+segments_loudness_max: shape = (683,)
+segments_loudness_max_time: shape = (683,)
+segments_loudness_start: shape = (683,)
+segments_pitches: shape = (683, 12)
+segments_start: shape = (683,)
+segments_timbre: shape = (683, 12)
+similar_artists: shape = (100,)
+song_hotttnesss: 0.304169503435
+song_id: SOJDMEC12A67AE0C83
+start_of_fade_out: 213.664
+tatums_confidence: shape = (1362,)
+tatums_start: shape = (1362,)
+tempo: 91.162
+time_signature: 4
+time_signature_confidence: 0.289
+title: God You Are My God
+track_7digitalid: 1863927
+track_id: TRAWYTV128F429DEE8
+year: 2000
