@@ -40,7 +40,7 @@
 (defn gen-matrix
 	"Generates a random matrix based on inputs x, y"
 	[^ints r ^ints c]
-	(for [_ (take r (range))] (for [_ (take c (range))] (/ (rand 10) 10))))
+	(for [_ (take r (range))] (for [_ (take c (range))] (* (if (< 0.5 (rand)) -1 1) (rand)))))
 
 (defn fetch-segment
 	[]
@@ -123,7 +123,7 @@
 (def h-layer-sz "Input layer size" 80)
 (def o-layer-sz "Output layer size" 1)
 (def iteration "Total iteration for training" 250)
-(def rate "Rate of change of weights" 0.01)
+(def rate "Rate of change of weights" 0.9)
 
 (def w1 (future (gen-matrix i-layer-sz h-layer-sz)))
 (def w2 (future (gen-matrix h-layer-sz o-layer-sz)))
@@ -170,9 +170,6 @@
 				a2 (sigmoid z2)
 				z3 (dot a2 w2)
 				yHat (sigmoid z3)]
-
-		(println (shape z2) y)
-		(println)
 		yHat))
 
 (defn feed-forward
@@ -188,11 +185,20 @@
 					djdw2 (dot (transpose a2) delta3)
 					delta2 (Mat/* (dot delta3 (transpose w2)) (sigmoid-prime z2))
 					djdw1 (dot (transpose x) delta2)
-
 					deltaW2 (Mat/- w2 (Mat/* rate djdw2))
-					deltaW1 (Mat/- w1 (Mat/* rate djdw1))]
-			
-			{:w1 deltaW1 :w2 deltaW2})))
+					deltaW1 (Mat/- w1 (Mat/* rate djdw1))
+					[[ error ]] (Mat/- y yHat)]
+
+			(let [[[ error-2 ]] (Mat/- y (feed row deltaW1 deltaW2))]
+				(cond
+					(< error 0)
+						(if (< error-2 error)
+							{:w1 w1 :w2 w2} 
+							{:w1 deltaW1 :w2 deltaW2})
+					:else
+						(if (< error-2 error) 
+							{:w1 deltaW1 :w2 deltaW2} 
+							{:w1 w1 :w2 w2}))))))
 
 (defn propagate
 	[wh1 wh2]
@@ -203,16 +209,17 @@
 					(recur (:w1 ret) (:w2 ret)))
 				{:w1 acc :w2 acc2}))))
 
-; (def weight
-; 	(loop [n 0 acc @w1 acc2 @w2]
-; 		(if (< n iteration)
-; 			(let [ret (propagate acc acc2)]
-; 				(recur (inc n) (:w1 ret) (:w2 ret)))
-; 			{:w1 acc :w2 acc2})))
+(def weight
+	(loop [n 0 acc @w1 acc2 @w2]
+		(if (< n iteration)
+			(let [ret (propagate acc acc2)]
+				(recur (inc n) (:w1 ret) (:w2 ret)))
+			{:w1 acc :w2 acc2})))
 
 (forward line
-	(let [yHat (feed (vec (@td-normals line)) @w1 @w2)]))
-		; (println yHat (last line))))
+	(let [normalized (vec (@td-normals line))
+				yHat (feed normalized (:w1 weight) (:w2 weight))]
+		(println yHat (last normalized))))
 
 (defn -main
   [& args]
