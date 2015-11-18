@@ -43,6 +43,11 @@
 	[^ints r ^ints c]
 	(for [_ (take r (range))] (for [_ (take c (range))] (* (if (< 0.5 (rand)) -1 1) (rand)))))
 
+(defn gen-matrix-zero
+	"Generates a random matrix based on inputs x, y"
+	[^ints r ^ints c]
+	(for [_ (take r (range))] (for [_ (take c (range))] 0)))
+
 (defn fetch-segment
 	[]
 	(let [ch (chan)]
@@ -82,10 +87,9 @@
 										(->>
 											lines
 											(map parser)
-											(filter #(not= (last %) 0.0001))
 											(shuffle))]
-							(doseq [line rows]
-								(>! ch line)))
+							(doseq [segs (partition 25 rows)]
+								(>! ch segs)))
 						(recur))))
 			(close! ch))
 		ch))
@@ -101,13 +105,38 @@
 	[line & exprs]
 	`(read-data ch#
 		(loop []
-			(when-let [~line (<!! ch#)]
-				~@exprs
+			(when-let [lines# (<!! ch#)]
+				(doseq [~line lines#]
+					~@exprs)
 				(recur)))))
+
+(defn async-fetch-2
+	[]
+	(let [ch (chan)]
+		(go
+			(let [ch2 (fetch-segment)]
+				(loop []
+					(when-let [lines (<!! ch2)]
+						(let [rows
+										(->>
+											lines
+											(map parser)
+											(shuffle))]
+							(doseq [line rows]
+								(>! ch line)))
+						(recur))))
+			(close! ch))
+		ch))
+
+(defmacro read-data-2
+	"Macro for accessing data"
+	[ch & exprs]
+	`(let [~ch (async-fetch-2)]
+			~@exprs))
 
 (defn fetch-normalizer []
 	"Returns a normalizer function"
-	(read-data ch
+	(read-data-2 ch
 		(loop [max-acc (<!! ch) min-acc max-acc]
 			(if-let [line (<!! ch)]
 				(recur 
@@ -121,10 +150,10 @@
 (def td-normals (future (fetch-normalizer)))
 
 (def i-layer-sz "Input layer size" 5)
-(def h-layer-sz "Hidden 1 layer size" 120)
+(def h-layer-sz "Hidden 1 layer size" 80)
 (def o-layer-sz "Output layer size" 1)
-(def iteration "Total iteration for training" 250)
-(def rate "Rate of change of weights" 0.9)
+(def iteration "Total iteration for training" 300)
+(def rate "Rate of change of weights" 0.01)
 
 (def w1 (future (gen-matrix i-layer-sz h-layer-sz)))
 (def w2 (future (gen-matrix h-layer-sz o-layer-sz)))
@@ -173,6 +202,9 @@
 				yHat (sigmoid z3)]
 		yHat))
 
+(def w1-ch (chan))
+(def w2-ch (chan))
+
 (defn feed-forward
 	[row w1 w2]
 	(let [x [(pop row)]
@@ -201,17 +233,27 @@
 							{:w1 deltaW1 :w2 deltaW2} 
 							{:w1 w1 :w2 w2}))))))
 
-; (defn propagate
-; 	[wh1 wh2]
-; 	)
-
 (defn propagate
 	[wh1 wh2]
 	(read-data ch
 		(loop [acc wh1 acc2 wh2]
-			(if-let [line (<!! ch)]
-				(let [ret (feed-forward (vec (@td-normals line)) acc acc2)]
-					(recur (:w1 ret) (:w2 ret)))
+			(if-let [rows (<!! ch)]
+				(let [weights 
+								(r/fold
+									(fn
+										([]
+											{:w1 (gen-matrix-zero i-layer-sz h-layer-sz)
+											 :w2 (gen-matrix-zero h-layer-sz o-layer-sz)})
+										([prev line]
+											(let [ret (feed-forward (vec (@td-normals line)) acc acc2)
+														w1 (:w1 ret)
+														w2 (:w2 ret)]
+											{:w1 (Mat/+ (:w1 prev) w1)
+											 :w2 (Mat/+ (:w2 prev) w2)}))) 
+									rows)
+							wnx1 (Mat// (:w1 weights) (count rows))
+							wnx2 (Mat// (:w2 weights) (count rows))]
+					(recur wnx1 wnx2))
 				{:w1 acc :w2 acc2}))))
 
 (def weight
